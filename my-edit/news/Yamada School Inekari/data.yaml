@@ -3,150 +3,812 @@
   deck_name: Yamada School Inekari
   deck_name_japanese: 山田小学校で最後の稲刈り
   channel: 阿蘇インターネット放送局 WebTVアソ
-  sentence: 平成30年10月17日
-  word_list: [平成, '30', 年, '10', 月, '17', 日]
   sound: 山田小学校で最後の稲刈り-m_yHdKSfz5U_0.00.07.320-0.00.11.200.mp3
+  sentence: 平成30年10月17日
+  words:
+    - word: 平成
+      postiion: 0
+    - word: '30'
+      postiion: 2
+    - word: 年
+      postiion: 4
+    - word: '10'
+      postiion: 5
+    - word: 月
+      postiion: 7
+    - word: '17'
+      postiion: 8
+    - word: 日
+      postiion: 10
 - id: 山田小学校で最後の稲刈り-m_yHdKSfz5U_0.00.11.200-0.00.20.220
   timestamp: https://youtu.be/m_yHdKSfz5U?t=11
   deck_name: Yamada School Inekari
   deck_name_japanese: 山田小学校で最後の稲刈り
   channel: 阿蘇インターネット放送局 WebTVアソ
-  sentence: 来年3月に閉校する阿蘇市立山田小学校で 最後の稲刈りが行われました
-  word_list: [来年, '3', 月, に, 閉校, する, 阿蘇, 市, 立, 山田, 小, 学校, で, 最後, の, 稲刈り, が, 行わ, れ, まし, た]
   sound: 山田小学校で最後の稲刈り-m_yHdKSfz5U_0.00.11.200-0.00.20.220.mp3
+  sentence: 来年3月に閉校する阿蘇市立山田小学校で 最後の稲刈りが行われました
+  words:
+    - word: 来年
+      postiion: 0
+    - word: '3'
+      postiion: 2
+    - word: 月
+      postiion: 3
+    - word: に
+      postiion: 4
+    - word: 閉校
+      postiion: 5
+    - word: する
+      base: 為る
+      postiion: 7
+    - word: 阿蘇
+      postiion: 9
+    - word: 市
+      postiion: 11
+    - word: 立
+      postiion: 12
+    - word: 山田
+      postiion: 13
+    - word: 小
+      postiion: 15
+    - word: 学校
+      postiion: 16
+    - word: で
+      postiion: 18
+    - word: 最後
+      postiion: 20
+    - word: の
+      postiion: 22
+    - word: 稲刈り
+      postiion: 23
+    - word: が
+      postiion: 26
+    - word: 行わ
+      base: 行う
+      dictionary: 行う
+      postiion: 27
+    - word: れ
+      base: れる
+      dictionary: れる
+      postiion: 29
+    - word: まし
+      base: ます
+      dictionary: ます
+      postiion: 30
+    - word: た
+      postiion: 32
 - id: 山田小学校で最後の稲刈り-m_yHdKSfz5U_0.00.20.220-0.00.24.240
   timestamp: https://youtu.be/m_yHdKSfz5U?t=20
   deck_name: Yamada School Inekari
   deck_name_japanese: 山田小学校で最後の稲刈り
   channel: 阿蘇インターネット放送局 WebTVアソ
-  sentence: 山田小学校では学校のすぐ近くにある
-  word_list: [山田, 小, 学校, で, は, 学校, の, すぐ, 近く, に, ある]
   sound: 山田小学校で最後の稲刈り-m_yHdKSfz5U_0.00.20.220-0.00.24.240.mp3
+  sentence: 山田小学校では学校のすぐ近くにある
+  words:
+    - word: 山田
+      postiion: 0
+    - word: 小
+      postiion: 2
+    - word: 学校
+      postiion: 3
+    - word: で
+      postiion: 5
+    - word: は
+      postiion: 6
+    - word: 学校
+      postiion: 7
+    - word: の
+      postiion: 9
+    - word: すぐ
+      base: 直ぐ
+      postiion: 10
+    - word: 近く
+      postiion: 12
+    - word: に
+      postiion: 14
+    - word: ある
+      base: 有る
+      postiion: 15
 - id: 山田小学校で最後の稲刈り-m_yHdKSfz5U_0.00.24.240-0.00.29.000
   timestamp: https://youtu.be/m_yHdKSfz5U?t=24
   deck_name: Yamada School Inekari
   deck_name_japanese: 山田小学校で最後の稲刈り
   channel: 阿蘇インターネット放送局 WebTVアソ
-  sentence: およそ30アールの田んぼに毎年もち米を作っていて
-  word_list: [およそ, '30', アール, の, 田んぼ, に, 毎年, もち米, を, 作っ, て, い, て]
   sound: 山田小学校で最後の稲刈り-m_yHdKSfz5U_0.00.24.240-0.00.29.000.mp3
+  sentence: およそ30アールの田んぼに毎年もち米を作っていて
+  words:
+    - word: およそ
+      base: 凡そ
+      postiion: 0
+    - word: '30'
+      postiion: 3
+    - word: アール
+      postiion: 5
+    - word: の
+      postiion: 8
+    - word: 田んぼ
+      base: 田圃
+      postiion: 9
+    - word: に
+      postiion: 12
+    - word: 毎年
+      postiion: 13
+    - word: もち米
+      base: 糯米
+      postiion: 15
+    - word: を
+      postiion: 18
+    - word: 作っ
+      base: 作る
+      dictionary: 作る
+      postiion: 19
+    - word: て
+      postiion: 21
+    - word: い
+      base: 居る
+      dictionary: いる
+      postiion: 22
+    - word: て
+      postiion: 23
 - id: 山田小学校で最後の稲刈り-m_yHdKSfz5U_0.00.29.000-0.00.35.230
   timestamp: https://youtu.be/m_yHdKSfz5U?t=29
   deck_name: Yamada School Inekari
   deck_name_japanese: 山田小学校で最後の稲刈り
   channel: 阿蘇インターネット放送局 WebTVアソ
-  sentence: 今年6月に田植えをしたもち米が実り収穫を迎えました
-  word_list: [今年, '6', 月, に, 田植え, を, し, た, もち米, が, 実り, 収穫, を, 迎え, まし, た]
   sound: 山田小学校で最後の稲刈り-m_yHdKSfz5U_0.00.29.000-0.00.35.230.mp3
+  sentence: 今年6月に田植えをしたもち米が実り収穫を迎えました
+  words:
+    - word: 今年
+      postiion: 0
+    - word: '6'
+      postiion: 2
+    - word: 月
+      postiion: 3
+    - word: に
+      postiion: 4
+    - word: 田植え
+      postiion: 5
+    - word: を
+      postiion: 8
+    - word: し
+      base: 為る
+      dictionary: する
+      postiion: 9
+    - word: た
+      postiion: 10
+    - word: もち米
+      base: 糯米
+      postiion: 11
+    - word: が
+      postiion: 14
+    - word: 実り
+      postiion: 15
+    - word: 収穫
+      postiion: 17
+    - word: を
+      postiion: 19
+    - word: 迎え
+      base: 迎える
+      dictionary: 迎える
+      postiion: 20
+    - word: まし
+      base: ます
+      dictionary: ます
+      postiion: 22
+    - word: た
+      postiion: 24
 - id: 山田小学校で最後の稲刈り-m_yHdKSfz5U_0.00.35.230-0.00.39.240
   timestamp: https://youtu.be/m_yHdKSfz5U?t=35
   deck_name: Yamada School Inekari
   deck_name_japanese: 山田小学校で最後の稲刈り
   channel: 阿蘇インターネット放送局 WebTVアソ
-  sentence: 児童たちは横一列に並び作業を行い
-  word_list: [児童, たち, は, 横, 一列, に, 並び, 作業, を, 行い]
   sound: 山田小学校で最後の稲刈り-m_yHdKSfz5U_0.00.35.230-0.00.39.240.mp3
+  sentence: 児童たちは横一列に並び作業を行い
+  words:
+    - word: 児童
+      postiion: 0
+    - word: たち
+      base: 達
+      postiion: 2
+    - word: は
+      postiion: 4
+    - word: 横
+      postiion: 5
+    - word: 一列
+      postiion: 6
+    - word: に
+      postiion: 8
+    - word: 並び
+      base: 並ぶ
+      dictionary: 並ぶ
+      postiion: 9
+    - word: 作業
+      postiion: 11
+    - word: を
+      postiion: 13
+    - word: 行い
+      base: 行う
+      dictionary: 行う
+      postiion: 14
 - id: 山田小学校で最後の稲刈り-m_yHdKSfz5U_0.00.39.240-0.00.44.420
   timestamp: https://youtu.be/m_yHdKSfz5U?t=39
   deck_name: Yamada School Inekari
   deck_name_japanese: 山田小学校で最後の稲刈り
   channel: 阿蘇インターネット放送局 WebTVアソ
-  sentence: 低学年の児童は上級生や保護者に教えてもらいながら
-  word_list: [低, 学年, の, 児童, は, 上級, 生, や, 保護, 者, に, 教え, て, もらい, ながら]
   sound: 山田小学校で最後の稲刈り-m_yHdKSfz5U_0.00.39.240-0.00.44.420.mp3
+  sentence: 低学年の児童は上級生や保護者に教えてもらいながら
+  words:
+    - word: 低
+      postiion: 0
+    - word: 学年
+      postiion: 1
+    - word: の
+      postiion: 3
+    - word: 児童
+      postiion: 4
+    - word: は
+      postiion: 6
+    - word: 上級
+      postiion: 7
+    - word: 生
+      postiion: 9
+    - word: や
+      postiion: 10
+    - word: 保護
+      postiion: 11
+    - word: 者
+      postiion: 13
+    - word: に
+      postiion: 14
+    - word: 教え
+      base: 教える
+      dictionary: 教える
+      postiion: 15
+    - word: て
+      postiion: 17
+    - word: もらい
+      base: 貰う
+      dictionary: もらう
+      postiion: 18
+    - word: ながら
+      postiion: 21
 - id: 山田小学校で最後の稲刈り-m_yHdKSfz5U_0.00.44.420-0.00.49.600
   timestamp: https://youtu.be/m_yHdKSfz5U?t=44
   deck_name: Yamada School Inekari
   deck_name_japanese: 山田小学校で最後の稲刈り
   channel: 阿蘇インターネット放送局 WebTVアソ
-  sentence: 小さな手で一生懸命に稲をつかみ刈り取っていました
-  word_list: [小さな, 手, で, 一生, 懸命, に, 稲, を, つかみ, 刈り, 取っ, て, い, まし, た]
   sound: 山田小学校で最後の稲刈り-m_yHdKSfz5U_0.00.44.420-0.00.49.600.mp3
+  sentence: 小さな手で一生懸命に稲をつかみ刈り取っていました
+  words:
+    - word: 小さな
+      postiion: 0
+    - word: 手
+      postiion: 3
+    - word: で
+      postiion: 4
+    - word: 一生
+      postiion: 5
+    - word: 懸命
+      postiion: 7
+    - word: に
+      base: だ
+      dictionary: だ
+      postiion: 9
+    - word: 稲
+      postiion: 10
+    - word: を
+      postiion: 11
+    - word: つかみ
+      base: 掴む
+      dictionary: つかむ
+      postiion: 12
+    - word: 刈り
+      base: 刈る
+      dictionary: 刈る
+      postiion: 15
+    - word: 取っ
+      base: 取る
+      dictionary: 取る
+      postiion: 17
+    - word: て
+      postiion: 19
+    - word: い
+      base: 居る
+      dictionary: いる
+      postiion: 20
+    - word: まし
+      base: ます
+      dictionary: ます
+      postiion: 21
+    - word: た
+      postiion: 23
 - id: 山田小学校で最後の稲刈り-m_yHdKSfz5U_0.00.50.080-0.00.55.460
   timestamp: https://youtu.be/m_yHdKSfz5U?t=50
   deck_name: Yamada School Inekari
   deck_name_japanese: 山田小学校で最後の稲刈り
   channel: 阿蘇インターネット放送局 WebTVアソ
-  sentence: 山田小校区は昔から米どころとして農業が盛んな地域で
-  word_list: [山田, 小, 校区, は, 昔, から, 米どころ, と, し, て, 農業, が, 盛ん, な, 地域, で]
   sound: 山田小学校で最後の稲刈り-m_yHdKSfz5U_0.00.50.080-0.00.55.460.mp3
+  sentence: 山田小校区は昔から米どころとして農業が盛んな地域で
+  words:
+    - word: 山田
+      postiion: 0
+    - word: 小
+      postiion: 2
+    - word: 校区
+      postiion: 3
+    - word: は
+      postiion: 5
+    - word: 昔
+      postiion: 6
+    - word: から
+      postiion: 7
+    - word: 米どころ
+      base: 米所
+      postiion: 9
+    - word: と
+      postiion: 13
+    - word: し
+      base: 為る
+      dictionary: する
+      postiion: 14
+    - word: て
+      postiion: 15
+    - word: 農業
+      postiion: 16
+    - word: が
+      postiion: 18
+    - word: 盛ん
+      postiion: 19
+    - word: な
+      base: だ
+      dictionary: だ
+      postiion: 21
+    - word: 地域
+      postiion: 22
+    - word: で
+      base: だ
+      dictionary: だ
+      postiion: 24
 - id: 山田小学校で最後の稲刈り-m_yHdKSfz5U_0.00.55.700-0.00.59.680
   timestamp: https://youtu.be/m_yHdKSfz5U?t=55
   deck_name: Yamada School Inekari
   deck_name_japanese: 山田小学校で最後の稲刈り
   channel: 阿蘇インターネット放送局 WebTVアソ
-  sentence: 20年以上前から農業を営む保護者らが
-  word_list: ['20', 年, 以上, 前, から, 農業, を, 営む, 保護, 者, ら, が]
   sound: 山田小学校で最後の稲刈り-m_yHdKSfz5U_0.00.55.700-0.00.59.680.mp3
+  sentence: 20年以上前から農業を営む保護者らが
+  words:
+    - word: '20'
+      postiion: 0
+    - word: 年
+      postiion: 2
+    - word: 以上
+      postiion: 3
+    - word: 前
+      postiion: 5
+    - word: から
+      postiion: 6
+    - word: 農業
+      postiion: 8
+    - word: を
+      postiion: 10
+    - word: 営む
+      postiion: 11
+    - word: 保護
+      postiion: 13
+    - word: 者
+      postiion: 15
+    - word: ら
+      base: 等
+      postiion: 16
+    - word: が
+      postiion: 17
 - id: 山田小学校で最後の稲刈り-m_yHdKSfz5U_0.00.59.680-0.01.07.560
   timestamp: https://youtu.be/m_yHdKSfz5U?t=59
   deck_name: Yamada School Inekari
   deck_name_japanese: 山田小学校で最後の稲刈り
   channel: 阿蘇インターネット放送局 WebTVアソ
-  sentence: 種まきから田植え草刈り消毒稲刈りまで 協力して米作りが行われ
-  word_list: [種まき, から, 田植え, 草刈り, 消毒, 稲刈り, まで, 協力, し, て, 米, 作り, が, 行わ, れ]
   sound: 山田小学校で最後の稲刈り-m_yHdKSfz5U_0.00.59.680-0.01.07.560.mp3
+  sentence: 種まきから田植え草刈り消毒稲刈りまで 協力して米作りが行われ
+  words:
+    - word: 種まき
+      base: 種蒔き
+      postiion: 0
+    - word: から
+      postiion: 3
+    - word: 田植え
+      postiion: 5
+    - word: 草刈り
+      postiion: 8
+    - word: 消毒
+      postiion: 11
+    - word: 稲刈り
+      postiion: 13
+    - word: まで
+      postiion: 16
+    - word: 協力
+      postiion: 19
+    - word: し
+      base: 為る
+      dictionary: する
+      postiion: 21
+    - word: て
+      postiion: 22
+    - word: 米
+      postiion: 23
+    - word: 作り
+      postiion: 24
+    - word: が
+      postiion: 26
+    - word: 行わ
+      base: 行う
+      dictionary: 行う
+      postiion: 27
+    - word: れ
+      base: れる
+      dictionary: れる
+      postiion: 29
 - id: 山田小学校で最後の稲刈り-m_yHdKSfz5U_0.01.07.860-0.01.13.080
   timestamp: https://youtu.be/m_yHdKSfz5U?t=67
   deck_name: Yamada School Inekari
   deck_name_japanese: 山田小学校で最後の稲刈り
   channel: 阿蘇インターネット放送局 WebTVアソ
-  sentence: 昨年はおよそ850キロのもち米を収穫しました
-  word_list: [昨年, は, およそ, '850', キロ, の, もち米, を, 収穫, し, まし, た]
   sound: 山田小学校で最後の稲刈り-m_yHdKSfz5U_0.01.07.860-0.01.13.080.mp3
+  sentence: 昨年はおよそ850キロのもち米を収穫しました
+  words:
+    - word: 昨年
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: およそ
+      base: 凡そ
+      postiion: 3
+    - word: '850'
+      postiion: 6
+    - word: キロ
+      postiion: 9
+    - word: の
+      postiion: 11
+    - word: もち米
+      base: 糯米
+      postiion: 12
+    - word: を
+      postiion: 15
+    - word: 収穫
+      postiion: 16
+    - word: し
+      base: 為る
+      dictionary: する
+      postiion: 18
+    - word: まし
+      base: ます
+      dictionary: ます
+      postiion: 19
+    - word: た
+      postiion: 21
 - id: 山田小学校で最後の稲刈り-m_yHdKSfz5U_0.01.13.080-0.01.20.580
   timestamp: https://youtu.be/m_yHdKSfz5U?t=73
   deck_name: Yamada School Inekari
   deck_name_japanese: 山田小学校で最後の稲刈り
   channel: 阿蘇インターネット放送局 WebTVアソ
-  sentence: 全校児童27名の山田小学校は少子化に伴い 今年度をもって閉校し
-  word_list: [全校, 児童, '27', 名, の, 山田, 小, 学校, は, 少子, 化, に, 伴い, 今, 年度, を, もっ, て, 閉校, し]
   sound: 山田小学校で最後の稲刈り-m_yHdKSfz5U_0.01.13.080-0.01.20.580.mp3
+  sentence: 全校児童27名の山田小学校は少子化に伴い 今年度をもって閉校し
+  words:
+    - word: 全校
+      postiion: 0
+    - word: 児童
+      postiion: 2
+    - word: '27'
+      postiion: 4
+    - word: 名
+      postiion: 6
+    - word: の
+      postiion: 7
+    - word: 山田
+      postiion: 8
+    - word: 小
+      postiion: 10
+    - word: 学校
+      postiion: 11
+    - word: は
+      postiion: 13
+    - word: 少子
+      postiion: 14
+    - word: 化
+      postiion: 16
+    - word: に
+      postiion: 17
+    - word: 伴い
+      base: 伴う
+      dictionary: 伴う
+      postiion: 18
+    - word: 今
+      postiion: 21
+    - word: 年度
+      postiion: 22
+    - word: を
+      postiion: 24
+    - word: もっ
+      base: 持つ
+      dictionary: もつ
+      postiion: 25
+    - word: て
+      postiion: 27
+    - word: 閉校
+      postiion: 28
+    - word: し
+      base: 為る
+      dictionary: する
+      postiion: 30
 - id: 山田小学校で最後の稲刈り-m_yHdKSfz5U_0.01.20.840-0.01.25.980
   timestamp: https://youtu.be/m_yHdKSfz5U?t=80
   deck_name: Yamada School Inekari
   deck_name_japanese: 山田小学校で最後の稲刈り
   channel: 阿蘇インターネット放送局 WebTVアソ
-  sentence: 来年4月からは内牧小学校と先行統合します
-  word_list: [来年, '4', 月, から, は, 内牧, 小, 学校, と, 先行, 統合, し, ます]
   sound: 山田小学校で最後の稲刈り-m_yHdKSfz5U_0.01.20.840-0.01.25.980.mp3
+  sentence: 来年4月からは内牧小学校と先行統合します
+  words:
+    - word: 来年
+      postiion: 0
+    - word: '4'
+      postiion: 2
+    - word: 月
+      postiion: 3
+    - word: から
+      postiion: 4
+    - word: は
+      postiion: 6
+    - word: 内牧
+      postiion: 7
+    - word: 小
+      postiion: 9
+    - word: 学校
+      postiion: 10
+    - word: と
+      postiion: 12
+    - word: 先行
+      postiion: 13
+    - word: 統合
+      postiion: 15
+    - word: し
+      base: 為る
+      dictionary: する
+      postiion: 17
+    - word: ます
+      postiion: 18
 - id: 山田小学校で最後の稲刈り-m_yHdKSfz5U_0.01.25.980-0.01.29.020
   timestamp: https://youtu.be/m_yHdKSfz5U?t=85
   deck_name: Yamada School Inekari
   deck_name_japanese: 山田小学校で最後の稲刈り
   channel: 阿蘇インターネット放送局 WebTVアソ
-  sentence: 今回で最後となった稲刈りでしたが
-  word_list: [今回, で, 最後, と, なっ, た, 稲刈り, でし, た, が]
   sound: 山田小学校で最後の稲刈り-m_yHdKSfz5U_0.01.25.980-0.01.29.020.mp3
+  sentence: 今回で最後となった稲刈りでしたが
+  words:
+    - word: 今回
+      postiion: 0
+    - word: で
+      postiion: 2
+    - word: 最後
+      postiion: 3
+    - word: と
+      postiion: 5
+    - word: なっ
+      base: 成る
+      dictionary: なる
+      postiion: 6
+    - word: た
+      postiion: 8
+    - word: 稲刈り
+      postiion: 9
+    - word: でし
+      base: です
+      dictionary: です
+      postiion: 12
+    - word: た
+      postiion: 14
+    - word: が
+      postiion: 15
 - id: 山田小学校で最後の稲刈り-m_yHdKSfz5U_0.01.29.020-0.01.32.960
   timestamp: https://youtu.be/m_yHdKSfz5U?t=89
   deck_name: Yamada School Inekari
   deck_name_japanese: 山田小学校で最後の稲刈り
   channel: 阿蘇インターネット放送局 WebTVアソ
-  sentence: 刈り取りが終わったあともみんなで落ち穂を拾い
-  word_list: [刈り取り, が, 終わっ, た, あと, も, みんな, で, 落ち穂, を, 拾い]
   sound: 山田小学校で最後の稲刈り-m_yHdKSfz5U_0.01.29.020-0.01.32.960.mp3
+  sentence: 刈り取りが終わったあともみんなで落ち穂を拾い
+  words:
+    - word: 刈り取り
+      postiion: 0
+    - word: が
+      postiion: 4
+    - word: 終わっ
+      base: 終わる
+      dictionary: 終わる
+      postiion: 5
+    - word: た
+      postiion: 8
+    - word: あと
+      base: 後
+      postiion: 9
+    - word: も
+      postiion: 11
+    - word: みんな
+      base: 皆
+      postiion: 12
+    - word: で
+      postiion: 15
+    - word: 落ち穂
+      postiion: 16
+    - word: を
+      postiion: 19
+    - word: 拾い
+      base: 拾う
+      dictionary: 拾う
+      postiion: 20
 - id: 山田小学校で最後の稲刈り-m_yHdKSfz5U_0.01.32.960-0.01.40.540
   timestamp: https://youtu.be/m_yHdKSfz5U?t=92
   deck_name: Yamada School Inekari
   deck_name_japanese: 山田小学校で最後の稲刈り
   channel: 阿蘇インターネット放送局 WebTVアソ
-  sentence: 一本一本丁寧に収穫したくさんの笑顔あふれる 思い出の一日となりました
-  word_list: [一, 本, 一, 本, 丁寧, に, 収穫, し, たくさん, の, 笑顔, あふれる, 思い出, の, 一日, と, なり, まし, た]
   sound: 山田小学校で最後の稲刈り-m_yHdKSfz5U_0.01.32.960-0.01.40.540.mp3
+  sentence: 一本一本丁寧に収穫したくさんの笑顔あふれる 思い出の一日となりました
+  words:
+    - word: 一
+      base: '1'
+      postiion: 0
+    - word: 本
+      postiion: 1
+    - word: 一
+      base: '1'
+      postiion: 2
+    - word: 本
+      postiion: 3
+    - word: 丁寧
+      postiion: 4
+    - word: に
+      base: だ
+      dictionary: だ
+      postiion: 6
+    - word: 収穫
+      postiion: 7
+    - word: し
+      base: 為る
+      dictionary: する
+      postiion: 9
+    - word: たくさん
+      base: 沢山
+      postiion: 10
+    - word: の
+      postiion: 14
+    - word: 笑顔
+      postiion: 15
+    - word: あふれる
+      base: 溢れる
+      postiion: 17
+    - word: 思い出
+      postiion: 22
+    - word: の
+      postiion: 25
+    - word: 一日
+      postiion: 26
+    - word: と
+      postiion: 28
+    - word: なり
+      base: 成る
+      dictionary: なる
+      postiion: 29
+    - word: まし
+      base: ます
+      dictionary: ます
+      postiion: 31
+    - word: た
+      postiion: 33
 - id: 山田小学校で最後の稲刈り-m_yHdKSfz5U_0.01.40.550-0.01.48.780
   timestamp: https://youtu.be/m_yHdKSfz5U?t=100
   deck_name: Yamada School Inekari
   deck_name_japanese: 山田小学校で最後の稲刈り
   channel: 阿蘇インターネット放送局 WebTVアソ
-  sentence: この日収穫したもち米は10月27日に行われる 学習発表会の後餅つきをして食べるほか
-  word_list: [この, 日, 収穫, し, た, もち米, は, '10', 月, '27', 日, に, 行わ, れる, 学習, 発表, 会, の, 後, 餅つき, を, し, て, 食べる, ほか]
   sound: 山田小学校で最後の稲刈り-m_yHdKSfz5U_0.01.40.550-0.01.48.780.mp3
+  sentence: この日収穫したもち米は10月27日に行われる 学習発表会の後餅つきをして食べるほか
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: 日
+      postiion: 2
+    - word: 収穫
+      postiion: 3
+    - word: し
+      base: 為る
+      dictionary: する
+      postiion: 5
+    - word: た
+      postiion: 6
+    - word: もち米
+      base: 糯米
+      postiion: 7
+    - word: は
+      postiion: 10
+    - word: '10'
+      postiion: 11
+    - word: 月
+      postiion: 13
+    - word: '27'
+      postiion: 14
+    - word: 日
+      postiion: 16
+    - word: に
+      postiion: 17
+    - word: 行わ
+      base: 行う
+      dictionary: 行う
+      postiion: 18
+    - word: れる
+      postiion: 20
+    - word: 学習
+      postiion: 23
+    - word: 発表
+      postiion: 25
+    - word: 会
+      postiion: 27
+    - word: の
+      postiion: 28
+    - word: 後
+      postiion: 29
+    - word: 餅つき
+      base: 餅搗き
+      postiion: 30
+    - word: を
+      postiion: 33
+    - word: し
+      base: 為る
+      dictionary: する
+      postiion: 34
+    - word: て
+      postiion: 35
+    - word: 食べる
+      postiion: 36
+    - word: ほか
+      base: 他
+      postiion: 39
 - id: 山田小学校で最後の稲刈り-m_yHdKSfz5U_0.01.48.780-0.01.54.910
   timestamp: https://youtu.be/m_yHdKSfz5U?t=108
   deck_name: Yamada School Inekari
   deck_name_japanese: 山田小学校で最後の稲刈り
   channel: 阿蘇インターネット放送局 WebTVアソ
-  sentence: 児童の保護者を中心に校内で 販売されるということです
-  word_list: [児童, の, 保護, 者, を, 中心, に, 校内, で, 販売, さ, れる, と, いう, こと, です]
   sound: 山田小学校で最後の稲刈り-m_yHdKSfz5U_0.01.48.780-0.01.54.910.mp3
+  sentence: 児童の保護者を中心に校内で 販売されるということです
+  words:
+    - word: 児童
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 保護
+      postiion: 3
+    - word: 者
+      postiion: 5
+    - word: を
+      postiion: 6
+    - word: 中心
+      postiion: 7
+    - word: に
+      postiion: 9
+    - word: 校内
+      postiion: 10
+    - word: で
+      postiion: 12
+    - word: 販売
+      postiion: 14
+    - word: さ
+      base: 為る
+      dictionary: する
+      postiion: 16
+    - word: れる
+      postiion: 17
+    - word: と
+      postiion: 19
+    - word: いう
+      base: 言う
+      postiion: 20
+    - word: こと
+      postiion: 22
+    - word: です
+      postiion: 24

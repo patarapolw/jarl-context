@@ -2,179 +2,507 @@
   author_japanese: 宮本 百合子
   deck_name: Sorano Bi
   deck_name_japanese: 空の美
-  sentence: 空の美
-  word_list: [空, の, 美]
   sound: f000002.mp3
   sound_begin: 5269
   sound_end: 9880
+  sentence: 空の美
+  words:
+    - word: 空
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 美
+      postiion: 2
 - id: Sorano Bi-f000003
   author_japanese: 宮本 百合子
   deck_name: Sorano Bi
   deck_name_japanese: 空の美
-  sentence: 空の美しさという場合、
-  word_list: [空, の, 美し, さ, と, いう, 場合]
   sound: f000003.mp3
   sound_begin: 9880
   sound_end: 12221
+  sentence: 空の美しさという場合、
+  words:
+    - word: 空
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 美し
+      base: 美しい
+      postiion: 2
+    - word: さ
+      postiion: 4
+    - word: と
+      postiion: 5
+    - word: いう
+      base: 言う
+      postiion: 6
+    - word: 場合
+      postiion: 8
 - id: Sorano Bi-f000004
   author_japanese: 宮本 百合子
   deck_name: Sorano Bi
   deck_name_japanese: 空の美
-  sentence: 大抵広々とした空、
-  word_list: [大抵, 広々, と, し, た, 空]
   sound: f000004.mp3
   sound_begin: 12221
   sound_end: 15240
+  sentence: 大抵広々とした空、
+  words:
+    - word: 大抵
+      postiion: 0
+    - word: 広々
+      postiion: 2
+    - word: と
+      postiion: 4
+    - word: し
+      base: 為る
+      postiion: 5
+    - word: た
+      postiion: 6
+    - word: 空
+      postiion: 7
 - id: Sorano Bi-f000005
   author_japanese: 宮本 百合子
   deck_name: Sorano Bi
   deck_name_japanese: 空の美
-  sentence: 晴やかな空などという。
-  word_list: [晴やか, な, 空, など, と, いう]
   sound: f000005.mp3
   sound_begin: 15240
   sound_end: 19413
+  sentence: 晴やかな空などという。
+  words:
+    - word: 晴やか
+      base: 晴れやか
+      postiion: 0
+    - word: な
+      base: だ
+      postiion: 3
+    - word: 空
+      postiion: 4
+    - word: など
+      postiion: 5
+    - word: と
+      postiion: 7
+    - word: いう
+      base: 言う
+      postiion: 8
 - id: Sorano Bi-f000006
   author_japanese: 宮本 百合子
   deck_name: Sorano Bi
   deck_name_japanese: 空の美
-  sentence: 郊外に住むようになってから、
-  word_list: [郊外, に, 住む, よう, に, なっ, て, から]
   sound: f000006.mp3
   sound_begin: 19413
   sound_end: 22320
+  sentence: 郊外に住むようになってから、
+  words:
+    - word: 郊外
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: 住む
+      postiion: 3
+    - word: よう
+      base: 様
+      postiion: 5
+    - word: に
+      base: だ
+      postiion: 7
+    - word: なっ
+      base: 成る
+      postiion: 8
+    - word: て
+      postiion: 10
+    - word: から
+      postiion: 11
 - id: Sorano Bi-f000007
   author_japanese: 宮本 百合子
   deck_name: Sorano Bi
   deck_name_japanese: 空の美
-  sentence: 私は更に種類の異う空の美があることを知った。
-  word_list: [私, は, 更に, 種類, の, 異う, 空, の, 美, が, ある, こと, を, 知っ, た]
   sound: f000007.mp3
   sound_begin: 22320
   sound_end: 28560
+  sentence: 私は更に種類の異う空の美があることを知った。
+  words:
+    - word: 私
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: 更に
+      postiion: 2
+    - word: 種類
+      postiion: 4
+    - word: の
+      postiion: 6
+    - word: 異う
+      base: 違う
+      postiion: 7
+    - word: 空
+      postiion: 9
+    - word: の
+      postiion: 10
+    - word: 美
+      postiion: 11
+    - word: が
+      postiion: 12
+    - word: ある
+      base: 有る
+      postiion: 13
+    - word: こと
+      postiion: 15
+    - word: を
+      postiion: 17
+    - word: 知っ
+      base: 知る
+      postiion: 18
+    - word: た
+      postiion: 20
 - id: Sorano Bi-f000008
   author_japanese: 宮本 百合子
   deck_name: Sorano Bi
   deck_name_japanese: 空の美
-  sentence: それは、
-  word_list: [それ, は]
   sound: f000008.mp3
   sound_begin: 28560
   sound_end: 29440
+  sentence: それは、
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: は
+      postiion: 2
 - id: Sorano Bi-f000009
   author_japanese: 宮本 百合子
   deck_name: Sorano Bi
   deck_name_japanese: 空の美
-  sentence: 大都会の上の空——
-  word_list: [大, 都会, の, 上の空]
   sound: f000009.mp3
   sound_begin: 29440
   sound_end: 32759
+  sentence: 大都会の上の空——
+  words:
+    - word: 大
+      postiion: 0
+    - word: 都会
+      postiion: 1
+    - word: の
+      postiion: 3
+    - word: 上の空
+      postiion: 4
 - id: Sorano Bi-f000010
   author_japanese: 宮本 百合子
   deck_name: Sorano Bi
   deck_name_japanese: 空の美
-  sentence: 大都会のペーヴメントに立って仰ぐ空の美しさだ。
-  word_list: [大, 都会, の, ペーヴメント, に, 立っ, て, 仰ぐ, 空, の, 美し, さ, だ]
   sound: f000010.mp3
   sound_begin: 32759
   sound_end: 39720
+  sentence: 大都会のペーヴメントに立って仰ぐ空の美しさだ。
+  words:
+    - word: 大
+      postiion: 0
+    - word: 都会
+      postiion: 1
+    - word: の
+      postiion: 3
+    - word: ペーヴメント
+      postiion: 4
+    - word: に
+      postiion: 10
+    - word: 立っ
+      base: 立つ
+      postiion: 11
+    - word: て
+      postiion: 13
+    - word: 仰ぐ
+      postiion: 14
+    - word: 空
+      postiion: 16
+    - word: の
+      postiion: 17
+    - word: 美し
+      base: 美しい
+      postiion: 18
+    - word: さ
+      postiion: 20
+    - word: だ
+      postiion: 21
 - id: Sorano Bi-f000011
   author_japanese: 宮本 百合子
   deck_name: Sorano Bi
   deck_name_japanese: 空の美
-  sentence: 空はそこでは、
-  word_list: [空, は, そこ, で, は]
   sound: f000011.mp3
   sound_begin: 39720
   sound_end: 40760
+  sentence: 空はそこでは、
+  words:
+    - word: 空
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: そこ
+      base: 其処
+      postiion: 2
+    - word: で
+      postiion: 4
+    - word: は
+      postiion: 5
 - id: Sorano Bi-f000012
   author_japanese: 宮本 百合子
   deck_name: Sorano Bi
   deck_name_japanese: 空の美
-  sentence: ただのん気に広々としてはいない。
-  word_list: [ただ, のん気, に, 広々, と, し, て, は, い, ない]
   sound: f000012.mp3
   sound_begin: 40760
   sound_end: 45572
+  sentence: ただのん気に広々としてはいない。
+  words:
+    - word: ただ
+      base: 唯
+      postiion: 0
+    - word: のん気
+      base: 暢気
+      postiion: 2
+    - word: に
+      base: だ
+      postiion: 5
+    - word: 広々
+      postiion: 6
+    - word: と
+      postiion: 8
+    - word: し
+      base: 為る
+      postiion: 9
+    - word: て
+      postiion: 10
+    - word: は
+      postiion: 11
+    - word: い
+      base: 居る
+      postiion: 12
+    - word: ない
+      postiion: 13
 - id: Sorano Bi-f000013
   author_japanese: 宮本 百合子
   deck_name: Sorano Bi
   deck_name_japanese: 空の美
-  sentence: 高い建物、
-  word_list: [高い, 建物]
   sound: f000013.mp3
   sound_begin: 45572
   sound_end: 47254
+  sentence: 高い建物、
+  words:
+    - word: 高い
+      postiion: 0
+    - word: 建物
+      postiion: 2
 - id: Sorano Bi-f000014
   author_japanese: 宮本 百合子
   deck_name: Sorano Bi
   deck_name_japanese: 空の美
-  sentence: 広告塔、
-  word_list: [広告, 塔]
   sound: f000014.mp3
   sound_begin: 47254
   sound_end: 48880
+  sentence: 広告塔、
+  words:
+    - word: 広告
+      postiion: 0
+    - word: 塔
+      postiion: 2
 - id: Sorano Bi-f000015
   author_japanese: 宮本 百合子
   deck_name: Sorano Bi
   deck_name_japanese: 空の美
-  sentence: アンテナ、
-  word_list: [アンテナ]
   sound: f000015.mp3
   sound_begin: 48879
   sound_end: 51339
+  sentence: アンテナ、
+  words:
+    - word: アンテナ
+      postiion: 0
 - id: Sorano Bi-f000016
   author_japanese: 宮本 百合子
   deck_name: Sorano Bi
   deck_name_japanese: 空の美
-  sentence: 其等の錯綜した線に切断され、
-  word_list: [其, 等, の, 錯綜, し, た, 線, に, 切断, さ, れ]
   sound: f000016.mp3
   sound_begin: 51339
   sound_end: 54920
+  sentence: 其等の錯綜した線に切断され、
+  words:
+    - word: 其
+      base: 其の
+      postiion: 0
+    - word: 等
+      postiion: 1
+    - word: の
+      postiion: 2
+    - word: 錯綜
+      postiion: 3
+    - word: し
+      base: 為る
+      postiion: 5
+    - word: た
+      postiion: 6
+    - word: 線
+      postiion: 7
+    - word: に
+      postiion: 8
+    - word: 切断
+      postiion: 9
+    - word: さ
+      base: 為る
+      postiion: 11
+    - word: れ
+      base: れる
+      postiion: 12
 - id: Sorano Bi-f000017
   author_japanese: 宮本 百合子
   deck_name: Sorano Bi
   deck_name_japanese: 空の美
-  sentence: 三角の空、
-  word_list: [三角, の, 空]
   sound: f000017.mp3
   sound_begin: 54920
   sound_end: 56960
+  sentence: 三角の空、
+  words:
+    - word: 三角
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 空
+      postiion: 3
 - id: Sorano Bi-f000018
   author_japanese: 宮本 百合子
   deck_name: Sorano Bi
   deck_name_japanese: 空の美
-  sentence: ゆがんだ六角の空、
-  word_list: [ゆがん, だ, 六角, の, 空]
   sound: f000018.mp3
   sound_begin: 56960
   sound_end: 60000
+  sentence: ゆがんだ六角の空、
+  words:
+    - word: ゆがん
+      base: 歪む
+      postiion: 0
+    - word: だ
+      base: た
+      postiion: 3
+    - word: 六角
+      postiion: 4
+    - word: の
+      postiion: 6
+    - word: 空
+      postiion: 7
 - id: Sorano Bi-f000019
   author_japanese: 宮本 百合子
   deck_name: Sorano Bi
   deck_name_japanese: 空の美
-  sentence: 悲しい布の切端のような空がある。
-  word_list: [悲しい, 布, の, 切端, の, よう, な, 空, が, ある]
   sound: f000019.mp3
   sound_begin: 60000
   sound_end: 66800
+  sentence: 悲しい布の切端のような空がある。
+  words:
+    - word: 悲しい
+      postiion: 0
+    - word: 布
+      postiion: 3
+    - word: の
+      postiion: 4
+    - word: 切端
+      base: 切羽
+      postiion: 5
+    - word: の
+      postiion: 7
+    - word: よう
+      base: 様
+      postiion: 8
+    - word: な
+      base: だ
+      postiion: 10
+    - word: 空
+      postiion: 11
+    - word: が
+      postiion: 12
+    - word: ある
+      base: 有る
+      postiion: 13
 - id: Sorano Bi-f000020
   author_japanese: 宮本 百合子
   deck_name: Sorano Bi
   deck_name_japanese: 空の美
-  sentence: 屋根と屋根との狭いすき間からマリが落ちたような月の見える細長い夜の空、
-  word_list: [屋根, と, 屋根, と, の, 狭い, すき間, から, マリ, が, 落ち, た, よう, な, 月, の, 見える, 細長い, 夜, の, 空]
   sound: f000020.mp3
   sound_begin: 66800
   sound_end: 74631
+  sentence: 屋根と屋根との狭いすき間からマリが落ちたような月の見える細長い夜の空、
+  words:
+    - word: 屋根
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: 屋根
+      postiion: 3
+    - word: と
+      postiion: 5
+    - word: の
+      postiion: 6
+    - word: 狭い
+      postiion: 7
+    - word: すき間
+      base: 隙間
+      postiion: 9
+    - word: から
+      postiion: 12
+    - word: マリ
+      postiion: 14
+    - word: が
+      postiion: 16
+    - word: 落ち
+      base: 落ちる
+      postiion: 17
+    - word: た
+      postiion: 19
+    - word: よう
+      base: 様
+      postiion: 20
+    - word: な
+      base: だ
+      postiion: 22
+    - word: 月
+      postiion: 23
+    - word: の
+      postiion: 24
+    - word: 見える
+      postiion: 25
+    - word: 細長い
+      postiion: 28
+    - word: 夜
+      postiion: 31
+    - word: の
+      postiion: 32
+    - word: 空
+      postiion: 33
 - id: Sorano Bi-f000021
   author_japanese: 宮本 百合子
   deck_name: Sorano Bi
   deck_name_japanese: 空の美
-  sentence: 郊外の空にない美があるのを感じる。
-  word_list: [郊外, の, 空, に, ない, 美, が, ある, の, を, 感じる]
   sound: f000021.mp3
   sound_begin: 74631
   sound_end: 78630
+  sentence: 郊外の空にない美があるのを感じる。
+  words:
+    - word: 郊外
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 空
+      postiion: 3
+    - word: に
+      postiion: 4
+    - word: ない
+      base: 無い
+      postiion: 5
+    - word: 美
+      postiion: 7
+    - word: が
+      postiion: 8
+    - word: ある
+      base: 有る
+      postiion: 9
+    - word: の
+      postiion: 11
+    - word: を
+      postiion: 12
+    - word: 感じる
+      base: 感ずる
+      postiion: 13

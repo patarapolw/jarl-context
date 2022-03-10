@@ -2,593 +2,1686 @@
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: 落とした一銭銅貨
-  word_list: [落とし, た, 一, 銭, 銅貨]
   sound: f000002.mp3
   sound_begin: 5159
   sound_end: 7220
+  sentence: 落とした一銭銅貨
+  words:
+    - word: 落とし
+      base: 落とす
+      postiion: 0
+    - word: た
+      postiion: 3
+    - word: 一
+      base: '1'
+      postiion: 4
+    - word: 銭
+      postiion: 5
+    - word: 銅貨
+      postiion: 6
 - id: Otoshita Issendoka-f000003
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: 雀が一銭銅貨をひろいました。
-  word_list: [雀, が, 一, 銭, 銅貨, を, ひろい, まし, た]
   sound: f000003.mp3
   sound_begin: 9320
   sound_end: 13480
+  sentence: 雀が一銭銅貨をひろいました。
+  words:
+    - word: 雀
+      postiion: 0
+    - word: が
+      postiion: 1
+    - word: 一
+      base: '1'
+      postiion: 2
+    - word: 銭
+      postiion: 3
+    - word: 銅貨
+      postiion: 4
+    - word: を
+      postiion: 6
+    - word: ひろい
+      base: 拾う
+      postiion: 7
+    - word: まし
+      base: ます
+      postiion: 10
+    - word: た
+      postiion: 12
 - id: Otoshita Issendoka-f000004
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: 雀はうれしくてうれしくてたまりません。
-  word_list: [雀, は, うれしく, て, うれしく, て, たまり, ませ, ん]
   sound: f000004.mp3
   sound_begin: 13480
   sound_end: 18160
+  sentence: 雀はうれしくてうれしくてたまりません。
+  words:
+    - word: 雀
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: うれしく
+      base: 嬉しい
+      postiion: 2
+    - word: て
+      postiion: 6
+    - word: うれしく
+      base: 嬉しい
+      postiion: 7
+    - word: て
+      postiion: 11
+    - word: たまり
+      base: たまる
+      postiion: 12
+    - word: ませ
+      base: ます
+      postiion: 15
+    - word: ん
+      base: ず
+      postiion: 17
 - id: Otoshita Issendoka-f000005
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: ほかの雀をみると、
-  word_list: [ほか, の, 雀, を, みる, と]
   sound: f000005.mp3
   sound_begin: 18160
   sound_end: 20280
+  sentence: ほかの雀をみると、
+  words:
+    - word: ほか
+      base: 他
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 雀
+      postiion: 3
+    - word: を
+      postiion: 4
+    - word: みる
+      base: 見る
+      postiion: 5
+    - word: と
+      postiion: 7
 - id: Otoshita Issendoka-f000006
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: 「ぼくおかねをもってるよ。」
-  word_list: [ぼく, お, かね, を, もっ, てる, よ]
   sound: f000006.mp3
   sound_begin: 20280
   sound_end: 22720
+  sentence: 「ぼくおかねをもってるよ。」
+  words:
+    - word: ぼく
+      base: 僕
+      postiion: 1
+    - word: お
+      base: 御
+      postiion: 3
+    - word: かね
+      postiion: 4
+    - word: を
+      postiion: 6
+    - word: もっ
+      base: 持つ
+      postiion: 7
+    - word: てる
+      postiion: 9
+    - word: よ
+      postiion: 11
 - id: Otoshita Issendoka-f000007
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: といって、
-  word_list: [と, いっ, て]
   sound: f000007.mp3
   sound_begin: 22720
   sound_end: 23959
+  sentence: といって、
+  words:
+    - word: と
+      postiion: 0
+    - word: いっ
+      base: 言う
+      postiion: 1
+    - word: て
+      postiion: 3
 - id: Otoshita Issendoka-f000008
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: くわえていた一銭銅貨を砂の上においてみせてやりました。
-  word_list: [くわえ, て, い, た, 一, 銭, 銅貨, を, 砂, の, 上, に, おい, て, みせ, て, やり, まし, た]
   sound: f000008.mp3
   sound_begin: 23959
   sound_end: 30320
+  sentence: くわえていた一銭銅貨を砂の上においてみせてやりました。
+  words:
+    - word: くわえ
+      base: くわえる
+      postiion: 0
+    - word: て
+      postiion: 3
+    - word: い
+      base: 居る
+      postiion: 4
+    - word: た
+      postiion: 5
+    - word: 一
+      base: '1'
+      postiion: 6
+    - word: 銭
+      postiion: 7
+    - word: 銅貨
+      postiion: 8
+    - word: を
+      postiion: 10
+    - word: 砂
+      postiion: 11
+    - word: の
+      postiion: 12
+    - word: 上
+      postiion: 13
+    - word: に
+      postiion: 14
+    - word: おい
+      base: おく
+      postiion: 15
+    - word: て
+      postiion: 17
+    - word: みせ
+      base: 見せる
+      postiion: 18
+    - word: て
+      postiion: 20
+    - word: やり
+      base: 遣る
+      postiion: 21
+    - word: まし
+      base: ます
+      postiion: 23
+    - word: た
+      postiion: 25
 - id: Otoshita Issendoka-f000009
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: さて、
-  word_list: [さて]
   sound: f000009.mp3
   sound_begin: 30320
   sound_end: 31480
+  sentence: さて、
+  words:
+    - word: さて
+      base: 扠
+      postiion: 0
 - id: Otoshita Issendoka-f000010
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: 日ぐれになりました。
-  word_list: [日ぐれ, に, なり, まし, た]
   sound: f000010.mp3
   sound_begin: 31480
   sound_end: 33360
+  sentence: 日ぐれになりました。
+  words:
+    - word: 日ぐれ
+      base: 日暮れ
+      postiion: 0
+    - word: に
+      postiion: 3
+    - word: なり
+      base: 成る
+      postiion: 4
+    - word: まし
+      base: ます
+      postiion: 6
+    - word: た
+      postiion: 8
 - id: Otoshita Issendoka-f000011
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: すこしくらくなってきました。
-  word_list: [すこし, くらく, なっ, て, き, まし, た]
   sound: f000011.mp3
   sound_begin: 33360
   sound_end: 36513
+  sentence: すこしくらくなってきました。
+  words:
+    - word: すこし
+      base: 少し
+      postiion: 0
+    - word: くらく
+      base: 暗い
+      postiion: 3
+    - word: なっ
+      base: 成る
+      postiion: 6
+    - word: て
+      postiion: 8
+    - word: き
+      base: 来る
+      postiion: 9
+    - word: まし
+      base: ます
+      postiion: 10
+    - word: た
+      postiion: 12
 - id: Otoshita Issendoka-f000012
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: 「や、
-  word_list: [や]
   sound: f000012.mp3
   sound_begin: 36513
   sound_end: 37317
+  sentence: 「や、
+  words:
+    - word: や
+      postiion: 1
 - id: Otoshita Issendoka-f000013
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: 遊びすぎちゃった。
-  word_list: [遊び, すぎ, ちゃっ, た]
   sound: f000013.mp3
   sound_begin: 37317
   sound_end: 38849
+  sentence: 遊びすぎちゃった。
+  words:
+    - word: 遊び
+      base: 遊ぶ
+      postiion: 0
+    - word: すぎ
+      base: 過ぎる
+      postiion: 2
+    - word: ちゃっ
+      base: ちゃう
+      postiion: 4
+    - word: た
+      postiion: 7
 - id: Otoshita Issendoka-f000014
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: これはたいへんだ。」
-  word_list: [これ, は, たいへん, だ]
   sound: f000014.mp3
   sound_begin: 38849
   sound_end: 40692
+  sentence: これはたいへんだ。」
+  words:
+    - word: これ
+      base: 此れ
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: たいへん
+      base: 大変
+      postiion: 3
+    - word: だ
+      postiion: 7
 - id: Otoshita Issendoka-f000015
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: と雀は、
-  word_list: [と, 雀, は]
   sound: f000015.mp3
   sound_begin: 40692
   sound_end: 42360
+  sentence: と雀は、
+  words:
+    - word: と
+      postiion: 0
+    - word: 雀
+      postiion: 1
+    - word: は
+      postiion: 2
 - id: Otoshita Issendoka-f000016
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: 一銭銅貨をくわえて、
-  word_list: [一, 銭, 銅貨, を, くわえ, て]
   sound: f000016.mp3
   sound_begin: 42360
   sound_end: 44280
+  sentence: 一銭銅貨をくわえて、
+  words:
+    - word: 一
+      base: '1'
+      postiion: 0
+    - word: 銭
+      postiion: 1
+    - word: 銅貨
+      postiion: 2
+    - word: を
+      postiion: 4
+    - word: くわえ
+      base: くわえる
+      postiion: 5
+    - word: て
+      postiion: 8
 - id: Otoshita Issendoka-f000017
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: おおいそぎで水車小屋の方へとんでいきました。
-  word_list: [おおいそぎ, で, 水車, 小屋, の, 方, へ, とん, で, いき, まし, た]
   sound: f000017.mp3
   sound_begin: 44280
   sound_end: 47560
+  sentence: おおいそぎで水車小屋の方へとんでいきました。
+  words:
+    - word: おおいそぎ
+      base: 大急ぎ
+      postiion: 0
+    - word: で
+      postiion: 5
+    - word: 水車
+      postiion: 6
+    - word: 小屋
+      postiion: 8
+    - word: の
+      postiion: 10
+    - word: 方
+      postiion: 11
+    - word: へ
+      postiion: 12
+    - word: とん
+      base: 飛ぶ
+      postiion: 13
+    - word: で
+      postiion: 15
+    - word: いき
+      base: 行く
+      postiion: 16
+    - word: まし
+      base: ます
+      postiion: 18
+    - word: た
+      postiion: 20
 - id: Otoshita Issendoka-f000018
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: この雀は水車小屋ののきばにすんでいたのでありました。
-  word_list: [この, 雀, は, 水車, 小屋, の, のきば, に, すん, で, い, た, の, で, あり, まし, た]
   sound: f000018.mp3
   sound_begin: 49360
   sound_end: 55330
+  sentence: この雀は水車小屋ののきばにすんでいたのでありました。
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: 雀
+      postiion: 2
+    - word: は
+      postiion: 3
+    - word: 水車
+      postiion: 4
+    - word: 小屋
+      postiion: 6
+    - word: の
+      postiion: 8
+    - word: のきば
+      base: 軒端
+      postiion: 9
+    - word: に
+      postiion: 12
+    - word: すん
+      base: すむ
+      postiion: 13
+    - word: で
+      postiion: 15
+    - word: い
+      base: 居る
+      postiion: 16
+    - word: た
+      postiion: 17
+    - word: の
+      postiion: 18
+    - word: で
+      base: だ
+      postiion: 19
+    - word: あり
+      base: 有る
+      postiion: 20
+    - word: まし
+      base: ます
+      postiion: 22
+    - word: た
+      postiion: 24
 - id: Otoshita Issendoka-f000019
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: まだ水車小屋につかないまえ、
-  word_list: [まだ, 水車, 小屋, に, つか, ない, まえ]
   sound: f000019.mp3
   sound_begin: 55330
   sound_end: 58600
+  sentence: まだ水車小屋につかないまえ、
+  words:
+    - word: まだ
+      base: 未だ
+      postiion: 0
+    - word: 水車
+      postiion: 2
+    - word: 小屋
+      postiion: 4
+    - word: に
+      postiion: 6
+    - word: つか
+      base: 付く
+      postiion: 7
+    - word: ない
+      postiion: 9
+    - word: まえ
+      base: 前
+      postiion: 11
 - id: Otoshita Issendoka-f000020
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: はたけの上をとんでいたとき、
-  word_list: [はたけ, の, 上, を, とん, で, い, た, とき]
   sound: f000020.mp3
   sound_begin: 58600
   sound_end: 60960
+  sentence: はたけの上をとんでいたとき、
+  words:
+    - word: はたけ
+      postiion: 0
+    - word: の
+      postiion: 3
+    - word: 上
+      postiion: 4
+    - word: を
+      postiion: 5
+    - word: とん
+      base: 飛ぶ
+      postiion: 6
+    - word: で
+      postiion: 8
+    - word: い
+      base: 居る
+      postiion: 9
+    - word: た
+      postiion: 10
+    - word: とき
+      base: 時
+      postiion: 11
 - id: Otoshita Issendoka-f000021
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: あまりあわてたので、
-  word_list: [あまり, あわて, た, の, で]
   sound: f000021.mp3
   sound_begin: 60960
   sound_end: 62708
+  sentence: あまりあわてたので、
+  words:
+    - word: あまり
+      base: 余り
+      postiion: 0
+    - word: あわて
+      base: 慌てる
+      postiion: 3
+    - word: た
+      postiion: 6
+    - word: の
+      postiion: 7
+    - word: で
+      base: だ
+      postiion: 8
 - id: Otoshita Issendoka-f000022
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: 雀は銅貨を落としてしまいました。
-  word_list: [雀, は, 銅貨, を, 落とし, て, しまい, まし, た]
   sound: f000022.mp3
   sound_begin: 62708
   sound_end: 66360
+  sentence: 雀は銅貨を落としてしまいました。
+  words:
+    - word: 雀
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: 銅貨
+      postiion: 2
+    - word: を
+      postiion: 4
+    - word: 落とし
+      base: 落とす
+      postiion: 5
+    - word: て
+      postiion: 8
+    - word: しまい
+      base: 仕舞う
+      postiion: 9
+    - word: まし
+      base: ます
+      postiion: 12
+    - word: た
+      postiion: 14
 - id: Otoshita Issendoka-f000023
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: 「や、
-  word_list: [や]
   sound: f000023.mp3
   sound_begin: 66360
   sound_end: 67118
+  sentence: 「や、
+  words:
+    - word: や
+      postiion: 1
 - id: Otoshita Issendoka-f000024
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: これはしまった。」
-  word_list: [これ, は, しまっ, た]
   sound: f000024.mp3
   sound_begin: 67118
   sound_end: 69802
+  sentence: これはしまった。」
+  words:
+    - word: これ
+      base: 此れ
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: しまっ
+      base: 仕舞う
+      postiion: 3
+    - word: た
+      postiion: 6
 - id: Otoshita Issendoka-f000025
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: けれどあたりはもう暗くて、
-  word_list: [けれど, あたり, は, もう, 暗く, て]
   sound: f000025.mp3
   sound_begin: 69802
   sound_end: 72960
+  sentence: けれどあたりはもう暗くて、
+  words:
+    - word: けれど
+      postiion: 0
+    - word: あたり
+      base: 辺り
+      postiion: 3
+    - word: は
+      postiion: 6
+    - word: もう
+      postiion: 7
+    - word: 暗く
+      base: 暗い
+      postiion: 9
+    - word: て
+      postiion: 11
 - id: Otoshita Issendoka-f000026
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: 雀の目はよくみることができなくなっていたので、
-  word_list: [雀, の, 目, は, よく, みる, こと, が, でき, なく, なっ, て, い, た, の, で]
   sound: f000026.mp3
   sound_begin: 72960
   sound_end: 76920
+  sentence: 雀の目はよくみることができなくなっていたので、
+  words:
+    - word: 雀
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 目
+      postiion: 2
+    - word: は
+      postiion: 3
+    - word: よく
+      base: 良く
+      postiion: 4
+    - word: みる
+      base: 見る
+      postiion: 6
+    - word: こと
+      postiion: 8
+    - word: が
+      postiion: 10
+    - word: でき
+      base: 出来る
+      postiion: 11
+    - word: なく
+      base: ない
+      postiion: 13
+    - word: なっ
+      base: 成る
+      postiion: 15
+    - word: て
+      postiion: 17
+    - word: い
+      base: 居る
+      postiion: 18
+    - word: た
+      postiion: 19
+    - word: の
+      postiion: 20
+    - word: で
+      base: だ
+      postiion: 21
 - id: Otoshita Issendoka-f000027
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: 「あしたの朝さがしにこよう。」
-  word_list: [あした, の, 朝, さがし, に, こよう]
   sound: f000027.mp3
   sound_begin: 76920
   sound_end: 79240
+  sentence: 「あしたの朝さがしにこよう。」
+  words:
+    - word: あした
+      base: 明日
+      postiion: 1
+    - word: の
+      postiion: 4
+    - word: 朝
+      postiion: 5
+    - word: さがし
+      base: 探し
+      postiion: 6
+    - word: に
+      postiion: 9
+    - word: こよう
+      base: 来る
+      postiion: 10
 - id: Otoshita Issendoka-f000028
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: といって、
-  word_list: [と, いっ, て]
   sound: f000028.mp3
   sound_begin: 79240
   sound_end: 80613
+  sentence: といって、
+  words:
+    - word: と
+      postiion: 0
+    - word: いっ
+      base: 言う
+      postiion: 1
+    - word: て
+      postiion: 3
 - id: Otoshita Issendoka-f000029
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: そのまま水車小屋の巣にかえりました。
-  word_list: [その, まま, 水車, 小屋, の, 巣, に, かえり, まし, た]
   sound: f000029.mp3
   sound_begin: 80613
   sound_end: 85480
+  sentence: そのまま水車小屋の巣にかえりました。
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: まま
+      base: 侭
+      postiion: 2
+    - word: 水車
+      postiion: 4
+    - word: 小屋
+      postiion: 6
+    - word: の
+      postiion: 8
+    - word: 巣
+      postiion: 9
+    - word: に
+      postiion: 10
+    - word: かえり
+      base: かえる
+      postiion: 11
+    - word: まし
+      base: ます
+      postiion: 14
+    - word: た
+      postiion: 16
 - id: Otoshita Issendoka-f000030
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: その夜はたいへん寒かったので、
-  word_list: [その, 夜, は, たいへん, 寒かっ, た, の, で]
   sound: f000030.mp3
   sound_begin: 85480
   sound_end: 88520
+  sentence: その夜はたいへん寒かったので、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 夜
+      postiion: 2
+    - word: は
+      postiion: 3
+    - word: たいへん
+      base: 大変
+      postiion: 4
+    - word: 寒かっ
+      base: 寒い
+      postiion: 8
+    - word: た
+      postiion: 11
+    - word: の
+      postiion: 12
+    - word: で
+      base: だ
+      postiion: 13
 - id: Otoshita Issendoka-f000031
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: 雀はかぜをひいてしまいました。
-  word_list: [雀, は, かぜ, を, ひい, て, しまい, まし, た]
   sound: f000031.mp3
   sound_begin: 88520
   sound_end: 92680
+  sentence: 雀はかぜをひいてしまいました。
+  words:
+    - word: 雀
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: かぜ
+      postiion: 2
+    - word: を
+      postiion: 4
+    - word: ひい
+      base: ひく
+      postiion: 5
+    - word: て
+      postiion: 7
+    - word: しまい
+      base: 仕舞う
+      postiion: 8
+    - word: まし
+      base: ます
+      postiion: 11
+    - word: た
+      postiion: 13
 - id: Otoshita Issendoka-f000032
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: それもそのはず、
-  word_list: [それ, も, その, はず]
   sound: f000032.mp3
   sound_begin: 92680
   sound_end: 94760
+  sentence: それもそのはず、
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: も
+      postiion: 2
+    - word: その
+      base: 其の
+      postiion: 3
+    - word: はず
+      base: 筈
+      postiion: 5
 - id: Otoshita Issendoka-f000033
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: 雪がどっさりふったのでありました。
-  word_list: [雪, が, どっさり, ふっ, た, の, で, あり, まし, た]
   sound: f000033.mp3
   sound_begin: 94760
   sound_end: 98744
+  sentence: 雪がどっさりふったのでありました。
+  words:
+    - word: 雪
+      postiion: 0
+    - word: が
+      postiion: 1
+    - word: どっさり
+      postiion: 2
+    - word: ふっ
+      base: ふる
+      postiion: 6
+    - word: た
+      postiion: 8
+    - word: の
+      postiion: 9
+    - word: で
+      base: だ
+      postiion: 10
+    - word: あり
+      base: 有る
+      postiion: 11
+    - word: まし
+      base: ます
+      postiion: 13
+    - word: た
+      postiion: 15
 - id: Otoshita Issendoka-f000034
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: 雀はかぜがなかなかなおらないので、
-  word_list: [雀, は, かぜ, が, なかなか, なおら, ない, の, で]
   sound: f000034.mp3
   sound_begin: 98744
   sound_end: 102960
+  sentence: 雀はかぜがなかなかなおらないので、
+  words:
+    - word: 雀
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: かぜ
+      postiion: 2
+    - word: が
+      postiion: 4
+    - word: なかなか
+      base: 中々
+      postiion: 5
+    - word: なおら
+      base: 直る
+      postiion: 9
+    - word: ない
+      postiion: 12
+    - word: の
+      postiion: 14
+    - word: で
+      base: だ
+      postiion: 15
 - id: Otoshita Issendoka-f000035
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: まいにち藁の中にくるまって、
-  word_list: [まいにち, 藁, の, 中, に, くるまっ, て]
   sound: f000035.mp3
   sound_begin: 102960
   sound_end: 105603
+  sentence: まいにち藁の中にくるまって、
+  words:
+    - word: まいにち
+      base: 毎日
+      postiion: 0
+    - word: 藁
+      postiion: 4
+    - word: の
+      postiion: 5
+    - word: 中
+      postiion: 6
+    - word: に
+      postiion: 7
+    - word: くるまっ
+      base: 包まる
+      postiion: 8
+    - word: て
+      postiion: 12
 - id: Otoshita Issendoka-f000036
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: 落とした一銭銅貨のことを思っていました。
-  word_list: [落とし, た, 一, 銭, 銅貨, の, こと, を, 思っ, て, い, まし, た]
   sound: f000036.mp3
   sound_begin: 105603
   sound_end: 108919
+  sentence: 落とした一銭銅貨のことを思っていました。
+  words:
+    - word: 落とし
+      base: 落とす
+      postiion: 0
+    - word: た
+      postiion: 3
+    - word: 一
+      base: '1'
+      postiion: 4
+    - word: 銭
+      postiion: 5
+    - word: 銅貨
+      postiion: 6
+    - word: の
+      postiion: 8
+    - word: こと
+      postiion: 9
+    - word: を
+      postiion: 11
+    - word: 思っ
+      base: 思う
+      postiion: 12
+    - word: て
+      postiion: 14
+    - word: い
+      base: 居る
+      postiion: 15
+    - word: まし
+      base: ます
+      postiion: 16
+    - word: た
+      postiion: 18
 - id: Otoshita Issendoka-f000037
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: やがて雀はよくなりました。
-  word_list: [やがて, 雀, は, よく, なり, まし, た]
   sound: f000037.mp3
   sound_begin: 110960
   sound_end: 114547
+  sentence: やがて雀はよくなりました。
+  words:
+    - word: やがて
+      base: 軈て
+      postiion: 0
+    - word: 雀
+      postiion: 3
+    - word: は
+      postiion: 4
+    - word: よく
+      base: 良い
+      postiion: 5
+    - word: なり
+      base: 成る
+      postiion: 7
+    - word: まし
+      base: ます
+      postiion: 9
+    - word: た
+      postiion: 11
 - id: Otoshita Issendoka-f000038
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: そこで一銭銅貨をさがしにいきました。
-  word_list: [そこ, で, 一, 銭, 銅貨, を, さがし, に, いき, まし, た]
   sound: f000038.mp3
   sound_begin: 114547
   sound_end: 119622
+  sentence: そこで一銭銅貨をさがしにいきました。
+  words:
+    - word: そこ
+      base: 其処
+      postiion: 0
+    - word: で
+      postiion: 2
+    - word: 一
+      base: '1'
+      postiion: 3
+    - word: 銭
+      postiion: 4
+    - word: 銅貨
+      postiion: 5
+    - word: を
+      postiion: 7
+    - word: さがし
+      base: 探す
+      postiion: 8
+    - word: に
+      postiion: 11
+    - word: いき
+      base: 行く
+      postiion: 12
+    - word: まし
+      base: ます
+      postiion: 14
+    - word: た
+      postiion: 16
 - id: Otoshita Issendoka-f000039
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: まだ雪ははたけの上につもっていました。
-  word_list: [まだ, 雪, は, はたけ, の, 上, に, つもっ, て, い, まし, た]
   sound: f000039.mp3
   sound_begin: 119622
   sound_end: 124240
+  sentence: まだ雪ははたけの上につもっていました。
+  words:
+    - word: まだ
+      base: 未だ
+      postiion: 0
+    - word: 雪
+      postiion: 2
+    - word: は
+      postiion: 3
+    - word: はたけ
+      postiion: 4
+    - word: の
+      postiion: 7
+    - word: 上
+      postiion: 8
+    - word: に
+      postiion: 9
+    - word: つもっ
+      base: 積もる
+      postiion: 10
+    - word: て
+      postiion: 13
+    - word: い
+      base: 居る
+      postiion: 14
+    - word: まし
+      base: ます
+      postiion: 15
+    - word: た
+      postiion: 17
 - id: Otoshita Issendoka-f000040
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: 「わたしの、
-  word_list: [わたし, の]
   sound: f000040.mp3
   sound_begin: 124240
   sound_end: 125480
+  sentence: 「わたしの、
+  words:
+    - word: わたし
+      base: 私
+      postiion: 1
+    - word: の
+      postiion: 4
 - id: Otoshita Issendoka-f000041
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: わたしの一銭銅貨、
-  word_list: [わたし, の, 一, 銭, 銅貨]
   sound: f000041.mp3
   sound_begin: 125480
   sound_end: 127736
+  sentence: わたしの一銭銅貨、
+  words:
+    - word: わたし
+      base: 私
+      postiion: 0
+    - word: の
+      postiion: 3
+    - word: 一
+      base: '1'
+      postiion: 4
+    - word: 銭
+      postiion: 5
+    - word: 銅貨
+      postiion: 6
 - id: Otoshita Issendoka-f000042
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: この下にいるのかい。」
-  word_list: [この, 下, に, いる, の, か, い]
   sound: f000042.mp3
   sound_begin: 127736
   sound_end: 130148
+  sentence: この下にいるのかい。」
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: 下
+      postiion: 2
+    - word: に
+      postiion: 3
+    - word: いる
+      base: 居る
+      postiion: 4
+    - word: の
+      postiion: 6
+    - word: か
+      postiion: 7
+    - word: い
+      postiion: 8
 - id: Otoshita Issendoka-f000043
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: と、
-  word_list: [と]
   sound: f000043.mp3
   sound_begin: 130148
   sound_end: 130818
+  sentence: と、
+  words:
+    - word: と
+      postiion: 0
 - id: Otoshita Issendoka-f000044
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: 雀は雪の上からききました。
-  word_list: [雀, は, 雪, の, 上, から, きき, まし, た]
   sound: f000044.mp3
   sound_begin: 130818
   sound_end: 133120
+  sentence: 雀は雪の上からききました。
+  words:
+    - word: 雀
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: 雪
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: 上
+      postiion: 4
+    - word: から
+      postiion: 5
+    - word: きき
+      base: きく
+      postiion: 7
+    - word: まし
+      base: ます
+      postiion: 9
+    - word: た
+      postiion: 11
 - id: Otoshita Issendoka-f000045
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: すると雪の下から、
-  word_list: [する, と, 雪の下, から]
   sound: f000045.mp3
   sound_begin: 134720
   sound_end: 137124
+  sentence: すると雪の下から、
+  words:
+    - word: する
+      base: 為る
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: 雪の下
+      postiion: 3
+    - word: から
+      postiion: 6
 - id: Otoshita Issendoka-f000046
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: 「いえいえ、
-  word_list: [いえ, いえ]
   sound: f000046.mp3
   sound_begin: 137124
   sound_end: 138355
+  sentence: 「いえいえ、
+  words:
+    - word: いえ
+      postiion: 1
+    - word: いえ
+      postiion: 1
 - id: Otoshita Issendoka-f000047
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: ここにはありません。」
-  word_list: [ここ, に, は, あり, ませ, ん]
   sound: f000047.mp3
   sound_begin: 138355
   sound_end: 140147
+  sentence: ここにはありません。」
+  words:
+    - word: ここ
+      base: 此処
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: は
+      postiion: 3
+    - word: あり
+      base: 有る
+      postiion: 4
+    - word: ませ
+      base: ます
+      postiion: 6
+    - word: ん
+      base: ず
+      postiion: 8
 - id: Otoshita Issendoka-f000048
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: とだれかがこたえました。
-  word_list: [と, だれ, か, が, こたえ, まし, た]
   sound: f000048.mp3
   sound_begin: 140147
   sound_end: 144120
+  sentence: とだれかがこたえました。
+  words:
+    - word: と
+      postiion: 0
+    - word: だれ
+      base: 誰
+      postiion: 1
+    - word: か
+      postiion: 3
+    - word: が
+      postiion: 4
+    - word: こたえ
+      base: こたえる
+      postiion: 5
+    - word: まし
+      base: ます
+      postiion: 8
+    - word: た
+      postiion: 10
 - id: Otoshita Issendoka-f000049
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: 雀はまたべつのところへいって、
-  word_list: [雀, は, また, べつ, の, ところ, へ, いっ, て]
   sound: f000049.mp3
   sound_begin: 144120
   sound_end: 147400
+  sentence: 雀はまたべつのところへいって、
+  words:
+    - word: 雀
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: また
+      base: 又
+      postiion: 2
+    - word: べつ
+      base: 別
+      postiion: 4
+    - word: の
+      postiion: 6
+    - word: ところ
+      base: 所
+      postiion: 7
+    - word: へ
+      postiion: 10
+    - word: いっ
+      base: 行く
+      postiion: 11
+    - word: て
+      postiion: 13
 - id: Otoshita Issendoka-f000050
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: 「わたしの、
-  word_list: [わたし, の]
   sound: f000050.mp3
   sound_begin: 147400
   sound_end: 148560
+  sentence: 「わたしの、
+  words:
+    - word: わたし
+      base: 私
+      postiion: 1
+    - word: の
+      postiion: 4
 - id: Otoshita Issendoka-f000051
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: わたしの一銭銅貨、
-  word_list: [わたし, の, 一, 銭, 銅貨]
   sound: f000051.mp3
   sound_begin: 148560
   sound_end: 150120
+  sentence: わたしの一銭銅貨、
+  words:
+    - word: わたし
+      base: 私
+      postiion: 0
+    - word: の
+      postiion: 3
+    - word: 一
+      base: '1'
+      postiion: 4
+    - word: 銭
+      postiion: 5
+    - word: 銅貨
+      postiion: 6
 - id: Otoshita Issendoka-f000052
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: この下にいるのかい。」
-  word_list: [この, 下, に, いる, の, か, い]
   sound: f000052.mp3
   sound_begin: 150120
   sound_end: 153019
+  sentence: この下にいるのかい。」
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: 下
+      postiion: 2
+    - word: に
+      postiion: 3
+    - word: いる
+      base: 居る
+      postiion: 4
+    - word: の
+      postiion: 6
+    - word: か
+      postiion: 7
+    - word: い
+      postiion: 8
 - id: Otoshita Issendoka-f000053
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: とききました。
-  word_list: [と, きき, まし, た]
   sound: f000053.mp3
   sound_begin: 153019
   sound_end: 155320
+  sentence: とききました。
+  words:
+    - word: と
+      postiion: 0
+    - word: きき
+      base: きく
+      postiion: 1
+    - word: まし
+      base: ます
+      postiion: 3
+    - word: た
+      postiion: 5
 - id: Otoshita Issendoka-f000054
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: するとまた雪の下から、
-  word_list: [する, と, また, 雪の下, から]
   sound: f000054.mp3
   sound_begin: 155320
   sound_end: 158931
+  sentence: するとまた雪の下から、
+  words:
+    - word: する
+      base: 為る
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: また
+      base: 又
+      postiion: 3
+    - word: 雪の下
+      postiion: 5
+    - word: から
+      postiion: 8
 - id: Otoshita Issendoka-f000055
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: 「いえいえ、
-  word_list: [いえ, いえ]
   sound: f000055.mp3
   sound_begin: 158931
   sound_end: 159920
+  sentence: 「いえいえ、
+  words:
+    - word: いえ
+      postiion: 1
+    - word: いえ
+      postiion: 1
 - id: Otoshita Issendoka-f000056
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: ここにはありません。」
-  word_list: [ここ, に, は, あり, ませ, ん]
   sound: f000056.mp3
   sound_begin: 159920
   sound_end: 161896
+  sentence: ここにはありません。」
+  words:
+    - word: ここ
+      base: 此処
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: は
+      postiion: 3
+    - word: あり
+      base: 有る
+      postiion: 4
+    - word: ませ
+      base: ます
+      postiion: 6
+    - word: ん
+      base: ず
+      postiion: 8
 - id: Otoshita Issendoka-f000057
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: とこたえました。
-  word_list: [と, こたえ, まし, た]
   sound: f000057.mp3
   sound_begin: 161896
   sound_end: 163040
+  sentence: とこたえました。
+  words:
+    - word: と
+      postiion: 0
+    - word: こたえ
+      base: こたえる
+      postiion: 1
+    - word: まし
+      base: ます
+      postiion: 4
+    - word: た
+      postiion: 6
 - id: Otoshita Issendoka-f000058
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: 雀はあちらこちらとたずねてあるきました。
-  word_list: [雀, は, あちらこちら, と, たずね, て, あるき, まし, た]
   sound: f000058.mp3
   sound_begin: 164894
   sound_end: 169600
+  sentence: 雀はあちらこちらとたずねてあるきました。
+  words:
+    - word: 雀
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: あちらこちら
+      base: 彼方此方
+      postiion: 2
+    - word: と
+      postiion: 8
+    - word: たずね
+      base: たずねる
+      postiion: 9
+    - word: て
+      postiion: 12
+    - word: あるき
+      base: 歩く
+      postiion: 13
+    - word: まし
+      base: ます
+      postiion: 16
+    - word: た
+      postiion: 18
 - id: Otoshita Issendoka-f000059
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: するととうとう、
-  word_list: [する, と, とうとう]
   sound: f000059.mp3
   sound_begin: 169600
   sound_end: 172280
+  sentence: するととうとう、
+  words:
+    - word: する
+      base: 為る
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: とうとう
+      base: 到頭
+      postiion: 3
 - id: Otoshita Issendoka-f000060
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: 「はいはい、
-  word_list: [はい, はい]
   sound: f000060.mp3
   sound_begin: 172280
   sound_end: 173445
+  sentence: 「はいはい、
+  words:
+    - word: はい
+      postiion: 1
+    - word: はい
+      postiion: 1
 - id: Otoshita Issendoka-f000061
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: ここにありますよ。
-  word_list: [ここ, に, あり, ます, よ]
   sound: f000061.mp3
   sound_begin: 173445
   sound_end: 175831
+  sentence: ここにありますよ。
+  words:
+    - word: ここ
+      base: 此処
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: あり
+      base: 有る
+      postiion: 3
+    - word: ます
+      postiion: 5
+    - word: よ
+      postiion: 7
 - id: Otoshita Issendoka-f000062
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: 雪がとけたらおいでなさい。」
-  word_list: [雪, が, とけ, たら, お, いで, なさい]
   sound: f000062.mp3
   sound_begin: 175831
   sound_end: 178101
+  sentence: 雪がとけたらおいでなさい。」
+  words:
+    - word: 雪
+      postiion: 0
+    - word: が
+      postiion: 1
+    - word: とけ
+      base: とく
+      postiion: 2
+    - word: たら
+      base: た
+      postiion: 4
+    - word: お
+      base: 御
+      postiion: 6
+    - word: いで
+      base: 出る
+      postiion: 7
+    - word: なさい
+      base: 為す
+      postiion: 9
 - id: Otoshita Issendoka-f000063
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: とこたえました。
-  word_list: [と, こたえ, まし, た]
   sound: f000063.mp3
   sound_begin: 178101
   sound_end: 181600
+  sentence: とこたえました。
+  words:
+    - word: と
+      postiion: 0
+    - word: こたえ
+      base: こたえる
+      postiion: 1
+    - word: まし
+      base: ます
+      postiion: 4
+    - word: た
+      postiion: 6
 - id: Otoshita Issendoka-f000064
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: 雀は雪のとけた日にまたはたけにやっていきました。
-  word_list: [雀, は, 雪, の, とけ, た, 日, に, また, はたけ, に, やっ, て, いき, まし, た]
   sound: f000064.mp3
   sound_begin: 181600
   sound_end: 188192
+  sentence: 雀は雪のとけた日にまたはたけにやっていきました。
+  words:
+    - word: 雀
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: 雪
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: とけ
+      base: とく
+      postiion: 4
+    - word: た
+      postiion: 6
+    - word: 日
+      postiion: 7
+    - word: に
+      postiion: 8
+    - word: また
+      base: 又
+      postiion: 9
+    - word: はたけ
+      postiion: 11
+    - word: に
+      postiion: 14
+    - word: やっ
+      base: 遣る
+      postiion: 15
+    - word: て
+      postiion: 17
+    - word: いき
+      base: 行く
+      postiion: 18
+    - word: まし
+      base: ます
+      postiion: 20
+    - word: た
+      postiion: 22
 - id: Otoshita Issendoka-f000065
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: 銅貨はちゃんとありました。
-  word_list: [銅貨, は, ちゃんと, あり, まし, た]
   sound: f000065.mp3
   sound_begin: 188192
   sound_end: 192160
+  sentence: 銅貨はちゃんとありました。
+  words:
+    - word: 銅貨
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: ちゃんと
+      postiion: 3
+    - word: あり
+      base: 有る
+      postiion: 7
+    - word: まし
+      base: ます
+      postiion: 9
+    - word: た
+      postiion: 11
 - id: Otoshita Issendoka-f000066
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: みるとはたけにはいっぱいふきのとうがでていました。
-  word_list: [みる, と, はたけ, に, は, いっぱい, ふきのとう, が, で, て, い, まし, た]
   sound: f000066.mp3
   sound_begin: 192160
   sound_end: 197747
+  sentence: みるとはたけにはいっぱいふきのとうがでていました。
+  words:
+    - word: みる
+      base: 見る
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: はたけ
+      postiion: 3
+    - word: に
+      postiion: 6
+    - word: は
+      postiion: 7
+    - word: いっぱい
+      base: 一杯
+      postiion: 8
+    - word: ふきのとう
+      base: 蕗の薹
+      postiion: 12
+    - word: が
+      postiion: 17
+    - word: で
+      base: 出る
+      postiion: 18
+    - word: て
+      postiion: 19
+    - word: い
+      base: 居る
+      postiion: 20
+    - word: まし
+      base: ます
+      postiion: 21
+    - word: た
+      postiion: 23
 - id: Otoshita Issendoka-f000067
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
   deck_name_japanese: 落とした一銭銅貨
-  sentence: 銅貨のあるところを雀におしえたのはこのふきのとうだったのでしょう。
-  word_list: [銅貨, の, ある, ところ, を, 雀, に, おしえ, た, の, は, この, ふきのとう, だっ, た, の, でしょう]
   sound: f000067.mp3
   sound_begin: 197747
   sound_end: 203280
+  sentence: 銅貨のあるところを雀におしえたのはこのふきのとうだったのでしょう。
+  words:
+    - word: 銅貨
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: ある
+      base: 有る
+      postiion: 3
+    - word: ところ
+      base: 所
+      postiion: 5
+    - word: を
+      postiion: 8
+    - word: 雀
+      postiion: 9
+    - word: に
+      postiion: 10
+    - word: おしえ
+      base: 教える
+      postiion: 11
+    - word: た
+      postiion: 14
+    - word: の
+      postiion: 15
+    - word: は
+      postiion: 16
+    - word: この
+      base: 此の
+      postiion: 17
+    - word: ふきのとう
+      base: 蕗の薹
+      postiion: 19
+    - word: だっ
+      base: だ
+      postiion: 24
+    - word: た
+      postiion: 26
+    - word: の
+      postiion: 27
+    - word: でしょう
+      base: です
+      postiion: 28

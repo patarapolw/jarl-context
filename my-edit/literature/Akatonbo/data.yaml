@@ -2,2510 +2,6123 @@
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 赤とんぼ
-  word_list: [赤とんぼ]
   sound: f000002.mp3
   sound_begin: 6480
   sound_end: 7760
+  sentence: 赤とんぼ
+  words:
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 0
 - id: Akatonbo-f000003
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 赤とんぼは、
-  word_list: [赤とんぼ, は]
   sound: f000003.mp3
   sound_begin: 11360
   sound_end: 12520
+  sentence: 赤とんぼは、
+  words:
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 0
+    - word: は
+      postiion: 4
 - id: Akatonbo-f000004
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 三回ほど空をまわって、
-  word_list: [三, 回, ほど, 空, を, まわっ, て]
   sound: f000004.mp3
   sound_begin: 12520
   sound_end: 15440
+  sentence: 三回ほど空をまわって、
+  words:
+    - word: 三
+      base: '3'
+      postiion: 0
+    - word: 回
+      postiion: 1
+    - word: ほど
+      postiion: 2
+    - word: 空
+      postiion: 4
+    - word: を
+      postiion: 5
+    - word: まわっ
+      base: 回る
+      postiion: 6
+    - word: て
+      postiion: 9
 - id: Akatonbo-f000005
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: いつも休む一本の垣根の竹の上に、
-  word_list: [いつも, 休む, 一, 本, の, 垣根, の, 竹, の, 上, に]
   sound: f000005.mp3
   sound_begin: 15440
   sound_end: 19040
+  sentence: いつも休む一本の垣根の竹の上に、
+  words:
+    - word: いつも
+      postiion: 0
+    - word: 休む
+      postiion: 3
+    - word: 一
+      base: '1'
+      postiion: 5
+    - word: 本
+      postiion: 6
+    - word: の
+      postiion: 7
+    - word: 垣根
+      postiion: 8
+    - word: の
+      postiion: 10
+    - word: 竹
+      postiion: 11
+    - word: の
+      postiion: 12
+    - word: 上
+      postiion: 13
+    - word: に
+      postiion: 14
 - id: Akatonbo-f000006
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: チョイととまりました。
-  word_list: [チョイ, と, とまり, まし, た]
   sound: f000006.mp3
   sound_begin: 19040
   sound_end: 23080
+  sentence: チョイととまりました。
+  words:
+    - word: チョイ
+      base: ちょい
+      postiion: 0
+    - word: と
+      postiion: 3
+    - word: とまり
+      base: とまる
+      postiion: 4
+    - word: まし
+      base: ます
+      postiion: 7
+    - word: た
+      postiion: 9
 - id: Akatonbo-f000007
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 山里の昼は静かです。
-  word_list: [山里, の, 昼, は, 静か, です]
   sound: f000007.mp3
   sound_begin: 23080
   sound_end: 26440
+  sentence: 山里の昼は静かです。
+  words:
+    - word: 山里
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 昼
+      postiion: 3
+    - word: は
+      postiion: 4
+    - word: 静か
+      postiion: 5
+    - word: です
+      postiion: 7
 - id: Akatonbo-f000008
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: そして、
-  word_list: [そして]
   sound: f000008.mp3
   sound_begin: 26440
   sound_end: 27280
+  sentence: そして、
+  words:
+    - word: そして
+      postiion: 0
 - id: Akatonbo-f000009
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 初夏の山里は、
-  word_list: [初夏, の, 山里, は]
   sound: f000009.mp3
   sound_begin: 27280
   sound_end: 29080
+  sentence: 初夏の山里は、
+  words:
+    - word: 初夏
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 山里
+      postiion: 3
+    - word: は
+      postiion: 5
 - id: Akatonbo-f000010
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 真実に緑につつまれています。
-  word_list: [真実, に, 緑, に, つつま, れ, て, い, ます]
   sound: f000010.mp3
   sound_begin: 29080
   sound_end: 31860
+  sentence: 真実に緑につつまれています。
+  words:
+    - word: 真実
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: 緑
+      postiion: 3
+    - word: に
+      postiion: 4
+    - word: つつま
+      base: 包む
+      postiion: 5
+    - word: れ
+      base: れる
+      postiion: 8
+    - word: て
+      postiion: 9
+    - word: い
+      base: 居る
+      postiion: 10
+    - word: ます
+      postiion: 11
 - id: Akatonbo-f000011
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 赤とんぼは、
-  word_list: [赤とんぼ, は]
   sound: f000011.mp3
   sound_begin: 33960
   sound_end: 35160
+  sentence: 赤とんぼは、
+  words:
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 0
+    - word: は
+      postiion: 4
 - id: Akatonbo-f000012
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: クルリと眼玉を転じました。
-  word_list: [クルリ, と, 眼玉, を, 転じ, まし, た]
   sound: f000012.mp3
   sound_begin: 35160
   sound_end: 39680
+  sentence: クルリと眼玉を転じました。
+  words:
+    - word: クルリ
+      postiion: 0
+    - word: と
+      postiion: 3
+    - word: 眼玉
+      base: 目玉
+      postiion: 4
+    - word: を
+      postiion: 6
+    - word: 転じ
+      base: 転ずる
+      postiion: 7
+    - word: まし
+      base: ます
+      postiion: 9
+    - word: た
+      postiion: 11
 - id: Akatonbo-f000013
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 赤とんぼの休んでいる竹には、
-  word_list: [赤とんぼ, の, 休ん, で, いる, 竹, に, は]
   sound: f000013.mp3
   sound_begin: 39680
   sound_end: 41960
+  sentence: 赤とんぼの休んでいる竹には、
+  words:
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 0
+    - word: の
+      postiion: 4
+    - word: 休ん
+      base: 休む
+      postiion: 5
+    - word: で
+      postiion: 7
+    - word: いる
+      base: 居る
+      postiion: 8
+    - word: 竹
+      postiion: 10
+    - word: に
+      postiion: 11
+    - word: は
+      postiion: 12
 - id: Akatonbo-f000014
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 朝顔のつるがまきついています。
-  word_list: [朝顔, の, つる, が, まき, つい, て, い, ます]
   sound: f000014.mp3
   sound_begin: 41960
   sound_end: 43960
+  sentence: 朝顔のつるがまきついています。
+  words:
+    - word: 朝顔
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: つる
+      postiion: 3
+    - word: が
+      postiion: 5
+    - word: まき
+      base: まく
+      postiion: 6
+    - word: つい
+      base: 付く
+      postiion: 8
+    - word: て
+      postiion: 10
+    - word: い
+      base: 居る
+      postiion: 11
+    - word: ます
+      postiion: 12
 - id: Akatonbo-f000015
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 昨年の夏、
-  word_list: [昨年, の, 夏]
   sound: f000015.mp3
   sound_begin: 46060
   sound_end: 47360
+  sentence: 昨年の夏、
+  words:
+    - word: 昨年
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 夏
+      postiion: 3
 - id: Akatonbo-f000016
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: この別荘の主人が植えていった朝顔の結んだ実が、
-  word_list: [この, 別荘, の, 主人, が, 植え, て, いっ, た, 朝顔, の, 結ん, だ, 実, が]
   sound: f000016.mp3
   sound_begin: 47360
   sound_end: 51440
+  sentence: この別荘の主人が植えていった朝顔の結んだ実が、
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: 別荘
+      postiion: 2
+    - word: の
+      postiion: 4
+    - word: 主人
+      postiion: 5
+    - word: が
+      postiion: 7
+    - word: 植え
+      base: 植える
+      postiion: 8
+    - word: て
+      postiion: 10
+    - word: いっ
+      base: 行く
+      postiion: 11
+    - word: た
+      postiion: 13
+    - word: 朝顔
+      postiion: 14
+    - word: の
+      postiion: 16
+    - word: 結ん
+      base: 結ぶ
+      postiion: 17
+    - word: だ
+      base: た
+      postiion: 19
+    - word: 実
+      postiion: 20
+    - word: が
+      postiion: 21
 - id: Akatonbo-f000017
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: また生えたんだろう──
-  word_list: [また, 生え, た, ん, だろう, ─, ─]
   sound: f000017.mp3
   sound_begin: 51440
   sound_end: 53241
+  sentence: また生えたんだろう──
+  words:
+    - word: また
+      base: 又
+      postiion: 0
+    - word: 生え
+      base: 生える
+      postiion: 2
+    - word: た
+      postiion: 4
+    - word: ん
+      base: の
+      postiion: 5
+    - word: だろう
+      base: だ
+      postiion: 6
+    - word: ─
+      postiion: 9
+    - word: ─
+      postiion: 9
 - id: Akatonbo-f000018
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: と赤とんぼは思いました。
-  word_list: [と, 赤とんぼ, は, 思い, まし, た]
   sound: f000018.mp3
   sound_begin: 53241
   sound_end: 55600
+  sentence: と赤とんぼは思いました。
+  words:
+    - word: と
+      postiion: 0
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 1
+    - word: は
+      postiion: 5
+    - word: 思い
+      base: 思う
+      postiion: 6
+    - word: まし
+      base: ます
+      postiion: 8
+    - word: た
+      postiion: 10
 - id: Akatonbo-f000019
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 今はこの家には誰もいないので、
-  word_list: [今, は, この, 家, に, は, 誰, も, い, ない, の, で]
   sound: f000019.mp3
   sound_begin: 58400
   sound_end: 61066
+  sentence: 今はこの家には誰もいないので、
+  words:
+    - word: 今
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: この
+      base: 此の
+      postiion: 2
+    - word: 家
+      postiion: 4
+    - word: に
+      postiion: 5
+    - word: は
+      postiion: 6
+    - word: 誰
+      postiion: 7
+    - word: も
+      postiion: 8
+    - word: い
+      base: 居る
+      postiion: 9
+    - word: ない
+      postiion: 10
+    - word: の
+      postiion: 12
+    - word: で
+      base: だ
+      postiion: 13
 - id: Akatonbo-f000020
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 雨戸が淋しくしまっています。
-  word_list: [雨戸, が, 淋しく, しまっ, て, い, ます]
   sound: f000020.mp3
   sound_begin: 61066
   sound_end: 65736
+  sentence: 雨戸が淋しくしまっています。
+  words:
+    - word: 雨戸
+      postiion: 0
+    - word: が
+      postiion: 2
+    - word: 淋しく
+      base: 寂しい
+      postiion: 3
+    - word: しまっ
+      base: 仕舞う
+      postiion: 6
+    - word: て
+      postiion: 9
+    - word: い
+      base: 居る
+      postiion: 10
+    - word: ます
+      postiion: 11
 - id: Akatonbo-f000021
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 赤とんぼは、
-  word_list: [赤とんぼ, は]
   sound: f000021.mp3
   sound_begin: 65736
   sound_end: 66800
+  sentence: 赤とんぼは、
+  words:
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 0
+    - word: は
+      postiion: 4
 - id: Akatonbo-f000022
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: ツイと竹の先からからだを離して、
-  word_list: [ツイ, と, 竹, の, 先, から, からだ, を, 離し, て]
   sound: f000022.mp3
   sound_begin: 66800
   sound_end: 69764
+  sentence: ツイと竹の先からからだを離して、
+  words:
+    - word: ツイ
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: 竹
+      postiion: 3
+    - word: の
+      postiion: 4
+    - word: 先
+      postiion: 5
+    - word: から
+      postiion: 6
+    - word: からだ
+      base: 体
+      postiion: 8
+    - word: を
+      postiion: 11
+    - word: 離し
+      base: 離す
+      postiion: 12
+    - word: て
+      postiion: 14
 - id: Akatonbo-f000023
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 高い空に舞い上がりました。
-  word_list: [高い, 空, に, 舞い, 上がり, まし, た]
   sound: f000023.mp3
   sound_begin: 69764
   sound_end: 72400
+  sentence: 高い空に舞い上がりました。
+  words:
+    - word: 高い
+      postiion: 0
+    - word: 空
+      postiion: 2
+    - word: に
+      postiion: 3
+    - word: 舞い
+      base: 舞う
+      postiion: 4
+    - word: 上がり
+      base: 上がる
+      postiion: 6
+    - word: まし
+      base: ます
+      postiion: 9
+    - word: た
+      postiion: 11
 - id: Akatonbo-f000024
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 三四人の人が、
-  word_list: [三四, 人, の, 人, が]
   sound: f000024.mp3
   sound_begin: 75200
   sound_end: 76520
+  sentence: 三四人の人が、
+  words:
+    - word: 三四
+      base: '34'
+      postiion: 0
+    - word: 人
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: 人
+      postiion: 4
+    - word: が
+      postiion: 5
 - id: Akatonbo-f000025
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: こっちへやって来ます。
-  word_list: [こっち, へ, やっ, て, 来, ます]
   sound: f000025.mp3
   sound_begin: 76520
   sound_end: 79720
+  sentence: こっちへやって来ます。
+  words:
+    - word: こっち
+      base: 此方
+      postiion: 0
+    - word: へ
+      postiion: 3
+    - word: やっ
+      base: 遣る
+      postiion: 4
+    - word: て
+      postiion: 6
+    - word: 来
+      base: 来る
+      postiion: 7
+    - word: ます
+      postiion: 8
 - id: Akatonbo-f000026
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 赤とんぼは、
-  word_list: [赤とんぼ, は]
   sound: f000026.mp3
   sound_begin: 79720
   sound_end: 80688
+  sentence: 赤とんぼは、
+  words:
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 0
+    - word: は
+      postiion: 4
 - id: Akatonbo-f000027
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: さっきの竹にまたとまって、
-  word_list: [さっき, の, 竹, に, また, とまっ, て]
   sound: f000027.mp3
   sound_begin: 80688
   sound_end: 83324
+  sentence: さっきの竹にまたとまって、
+  words:
+    - word: さっき
+      postiion: 0
+    - word: の
+      postiion: 3
+    - word: 竹
+      postiion: 4
+    - word: に
+      postiion: 5
+    - word: また
+      base: 又
+      postiion: 6
+    - word: とまっ
+      base: とまる
+      postiion: 8
+    - word: て
+      postiion: 11
 - id: Akatonbo-f000028
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: じっと近づいて来る人々を見ていました。
-  word_list: [じっと, 近づい, て, 来る, 人々, を, 見, て, い, まし, た]
   sound: f000028.mp3
   sound_begin: 83324
   sound_end: 87180
+  sentence: じっと近づいて来る人々を見ていました。
+  words:
+    - word: じっと
+      postiion: 0
+    - word: 近づい
+      base: 近付く
+      postiion: 3
+    - word: て
+      postiion: 6
+    - word: 来る
+      postiion: 7
+    - word: 人々
+      postiion: 9
+    - word: を
+      postiion: 11
+    - word: 見
+      base: 見る
+      postiion: 12
+    - word: て
+      postiion: 13
+    - word: い
+      base: 居る
+      postiion: 14
+    - word: まし
+      base: ます
+      postiion: 15
+    - word: た
+      postiion: 17
 - id: Akatonbo-f000029
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 一番最初にかけて来たのは、
-  word_list: [一番, 最初, に, かけ, て, 来, た, の, は]
   sound: f000029.mp3
   sound_begin: 89280
   sound_end: 91600
+  sentence: 一番最初にかけて来たのは、
+  words:
+    - word: 一番
+      postiion: 0
+    - word: 最初
+      postiion: 2
+    - word: に
+      postiion: 4
+    - word: かけ
+      base: 掛ける
+      postiion: 5
+    - word: て
+      postiion: 7
+    - word: 来
+      base: 来る
+      postiion: 8
+    - word: た
+      postiion: 9
+    - word: の
+      postiion: 10
+    - word: は
+      postiion: 11
 - id: Akatonbo-f000030
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 赤いリボンの帽子をかぶったかあいいおじょうちゃんでした。
-  word_list: [赤い, リボン, の, 帽子, を, かぶっ, た, か, あ, いい, お, じょう, ちゃん, でし, た]
   sound: f000030.mp3
   sound_begin: 91600
   sound_end: 96680
+  sentence: 赤いリボンの帽子をかぶったかあいいおじょうちゃんでした。
+  words:
+    - word: 赤い
+      postiion: 0
+    - word: リボン
+      postiion: 2
+    - word: の
+      postiion: 5
+    - word: 帽子
+      postiion: 6
+    - word: を
+      postiion: 8
+    - word: かぶっ
+      base: 被る
+      postiion: 9
+    - word: た
+      postiion: 12
+    - word: か
+      postiion: 13
+    - word: あ
+      base: あー
+      postiion: 14
+    - word: いい
+      base: 良い
+      postiion: 15
+    - word: お
+      base: 御
+      postiion: 17
+    - word: じょう
+      postiion: 18
+    - word: ちゃん
+      postiion: 21
+    - word: でし
+      base: です
+      postiion: 24
+    - word: た
+      postiion: 26
 - id: Akatonbo-f000031
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: それから、
-  word_list: [それ, から]
   sound: f000031.mp3
   sound_begin: 96680
   sound_end: 97520
+  sentence: それから、
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: から
+      postiion: 2
 - id: Akatonbo-f000032
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: おじょうちゃんのお母さん、
-  word_list: [お, じょう, ちゃん, の, お, 母さん]
   sound: f000032.mp3
   sound_begin: 97520
   sound_end: 99410
+  sentence: おじょうちゃんのお母さん、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: じょう
+      postiion: 1
+    - word: ちゃん
+      postiion: 4
+    - word: の
+      postiion: 7
+    - word: お
+      base: 御
+      postiion: 8
+    - word: 母さん
+      postiion: 9
 - id: Akatonbo-f000033
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 荷物をドッサリ持った書生さん──
-  word_list: [荷物, を, ドッサリ, 持っ, た, 書生, さん, ─, ─]
   sound: f000033.mp3
   sound_begin: 99410
   sound_end: 101949
+  sentence: 荷物をドッサリ持った書生さん──
+  words:
+    - word: 荷物
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: ドッサリ
+      base: どっさり
+      postiion: 3
+    - word: 持っ
+      base: 持つ
+      postiion: 7
+    - word: た
+      postiion: 9
+    - word: 書生
+      postiion: 10
+    - word: さん
+      postiion: 12
+    - word: ─
+      postiion: 14
+    - word: ─
+      postiion: 14
 - id: Akatonbo-f000034
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: と、
-  word_list: [と]
   sound: f000034.mp3
   sound_begin: 101949
   sound_end: 102560
+  sentence: と、
+  words:
+    - word: と
+      postiion: 0
 - id: Akatonbo-f000035
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: こう三人です。
-  word_list: [こう, 三, 人, です]
   sound: f000035.mp3
   sound_begin: 102560
   sound_end: 105950
+  sentence: こう三人です。
+  words:
+    - word: こう
+      postiion: 0
+    - word: 三
+      base: '3'
+      postiion: 2
+    - word: 人
+      postiion: 3
+    - word: です
+      postiion: 4
 - id: Akatonbo-f000036
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 赤とんぼは、
-  word_list: [赤とんぼ, は]
   sound: f000036.mp3
   sound_begin: 105950
   sound_end: 106960
+  sentence: 赤とんぼは、
+  words:
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 0
+    - word: は
+      postiion: 4
 - id: Akatonbo-f000037
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: かあいいおじょうちゃんの赤いリボンにとまってみたくなりました。
-  word_list: [かあ, いい, お, じょう, ちゃん, の, 赤い, リボン, に, とまっ, て, み, たく, なり, まし, た]
   sound: f000037.mp3
   sound_begin: 106960
   sound_end: 111767
+  sentence: かあいいおじょうちゃんの赤いリボンにとまってみたくなりました。
+  words:
+    - word: かあ
+      base: 母
+      postiion: 0
+    - word: いい
+      base: 良い
+      postiion: 2
+    - word: お
+      base: 御
+      postiion: 4
+    - word: じょう
+      postiion: 5
+    - word: ちゃん
+      postiion: 8
+    - word: の
+      postiion: 11
+    - word: 赤い
+      postiion: 12
+    - word: リボン
+      postiion: 14
+    - word: に
+      postiion: 17
+    - word: とまっ
+      base: とまる
+      postiion: 18
+    - word: て
+      postiion: 21
+    - word: み
+      base: 見る
+      postiion: 22
+    - word: たく
+      base: たい
+      postiion: 23
+    - word: なり
+      base: 成る
+      postiion: 25
+    - word: まし
+      base: ます
+      postiion: 27
+    - word: た
+      postiion: 29
 - id: Akatonbo-f000038
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: でも、
-  word_list: [で, も]
   sound: f000038.mp3
   sound_begin: 111767
   sound_end: 112520
+  sentence: でも、
+  words:
+    - word: で
+      postiion: 0
+    - word: も
+      postiion: 1
 - id: Akatonbo-f000039
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: おじょうちゃんが怒るとこわいな──
-  word_list: [お, じょう, ちゃん, が, 怒る, と, こわい, な, ─, ─]
   sound: f000039.mp3
   sound_begin: 112520
   sound_end: 114703
+  sentence: おじょうちゃんが怒るとこわいな──
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: じょう
+      postiion: 1
+    - word: ちゃん
+      postiion: 4
+    - word: が
+      postiion: 7
+    - word: 怒る
+      postiion: 8
+    - word: と
+      postiion: 10
+    - word: こわい
+      base: 怖い
+      postiion: 11
+    - word: な
+      postiion: 14
+    - word: ─
+      postiion: 15
+    - word: ─
+      postiion: 15
 - id: Akatonbo-f000040
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: と、
-  word_list: [と]
   sound: f000040.mp3
   sound_begin: 114703
   sound_end: 115520
+  sentence: と、
+  words:
+    - word: と
+      postiion: 0
 - id: Akatonbo-f000041
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 赤とんぼは頭をかたげました。
-  word_list: [赤とんぼ, は, 頭, を, かたげ, まし, た]
   sound: f000041.mp3
   sound_begin: 115520
   sound_end: 117400
+  sentence: 赤とんぼは頭をかたげました。
+  words:
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 0
+    - word: は
+      postiion: 4
+    - word: 頭
+      postiion: 5
+    - word: を
+      postiion: 6
+    - word: かたげ
+      base: かたげる
+      postiion: 7
+    - word: まし
+      base: ます
+      postiion: 10
+    - word: た
+      postiion: 12
 - id: Akatonbo-f000042
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: けど、
-  word_list: [けど]
   sound: f000042.mp3
   sound_begin: 119000
   sound_end: 119889
+  sentence: けど、
+  words:
+    - word: けど
+      base: けれど
+      postiion: 0
 - id: Akatonbo-f000043
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: とうとう、
-  word_list: [とうとう]
   sound: f000043.mp3
   sound_begin: 119889
   sound_end: 120374
+  sentence: とうとう、
+  words:
+    - word: とうとう
+      base: 到頭
+      postiion: 0
 - id: Akatonbo-f000044
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: おじょうちゃんが前へ来たとき、
-  word_list: [お, じょう, ちゃん, が, 前, へ, 来, た, とき]
   sound: f000044.mp3
   sound_begin: 120374
   sound_end: 122440
+  sentence: おじょうちゃんが前へ来たとき、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: じょう
+      postiion: 1
+    - word: ちゃん
+      postiion: 4
+    - word: が
+      postiion: 7
+    - word: 前
+      postiion: 8
+    - word: へ
+      postiion: 9
+    - word: 来
+      base: 来る
+      postiion: 10
+    - word: た
+      postiion: 11
+    - word: とき
+      base: 時
+      postiion: 12
 - id: Akatonbo-f000045
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 赤とんぼは、
-  word_list: [赤とんぼ, は]
   sound: f000045.mp3
   sound_begin: 122440
   sound_end: 123484
+  sentence: 赤とんぼは、
+  words:
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 0
+    - word: は
+      postiion: 4
 - id: Akatonbo-f000046
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: おじょうちゃんの赤いリボンに飛びうつりました。
-  word_list: [お, じょう, ちゃん, の, 赤い, リボン, に, 飛び, うつり, まし, た]
   sound: f000046.mp3
   sound_begin: 123484
   sound_end: 127662
+  sentence: おじょうちゃんの赤いリボンに飛びうつりました。
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: じょう
+      postiion: 1
+    - word: ちゃん
+      postiion: 4
+    - word: の
+      postiion: 7
+    - word: 赤い
+      postiion: 8
+    - word: リボン
+      postiion: 10
+    - word: に
+      postiion: 13
+    - word: 飛び
+      base: 飛ぶ
+      postiion: 14
+    - word: うつり
+      base: うつる
+      postiion: 16
+    - word: まし
+      base: ます
+      postiion: 19
+    - word: た
+      postiion: 21
 - id: Akatonbo-f000047
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 「あッ、
-  word_list: [あッ]
   sound: f000047.mp3
   sound_begin: 127662
   sound_end: 128488
+  sentence: 「あッ、
+  words:
+    - word: あッ
+      base: あっ
+      postiion: 1
 - id: Akatonbo-f000048
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: おじょうさん、
-  word_list: [お, じょう, さん]
   sound: f000048.mp3
   sound_begin: 128488
   sound_end: 129751
+  sentence: おじょうさん、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: じょう
+      postiion: 1
+    - word: さん
+      postiion: 4
 - id: Akatonbo-f000049
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 帽子に赤とんぼがとまりましたよ。
-  word_list: [帽子, に, 赤とんぼ, が, とまり, まし, た, よ]
   sound: f000049.mp3
   sound_begin: 129751
   sound_end: 133035
+  sentence: 帽子に赤とんぼがとまりましたよ。
+  words:
+    - word: 帽子
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 3
+    - word: が
+      postiion: 7
+    - word: とまり
+      base: とまる
+      postiion: 8
+    - word: まし
+      base: ます
+      postiion: 11
+    - word: た
+      postiion: 13
+    - word: よ
+      postiion: 14
 - id: Akatonbo-f000050
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 」と、
-  word_list: [と]
   sound: f000050.mp3
   sound_begin: 133035
   sound_end: 133640
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Akatonbo-f000051
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 書生さんがさけびました。
-  word_list: [書生, さん, が, さけび, まし, た]
   sound: f000051.mp3
   sound_begin: 133640
   sound_end: 136572
+  sentence: 書生さんがさけびました。
+  words:
+    - word: 書生
+      postiion: 0
+    - word: さん
+      postiion: 2
+    - word: が
+      postiion: 4
+    - word: さけび
+      base: 叫ぶ
+      postiion: 5
+    - word: まし
+      base: ます
+      postiion: 8
+    - word: た
+      postiion: 10
 - id: Akatonbo-f000052
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 赤とんぼは、
-  word_list: [赤とんぼ, は]
   sound: f000052.mp3
   sound_begin: 136572
   sound_end: 137801
+  sentence: 赤とんぼは、
+  words:
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 0
+    - word: は
+      postiion: 4
 - id: Akatonbo-f000053
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 今におじょうちゃんの手が、
-  word_list: [今, に, お, じょう, ちゃん, の, 手, が]
   sound: f000053.mp3
   sound_begin: 137801
   sound_end: 139400
+  sentence: 今におじょうちゃんの手が、
+  words:
+    - word: 今
+      postiion: 0
+    - word: に
+      postiion: 1
+    - word: お
+      base: 御
+      postiion: 2
+    - word: じょう
+      postiion: 3
+    - word: ちゃん
+      postiion: 6
+    - word: の
+      postiion: 9
+    - word: 手
+      postiion: 10
+    - word: が
+      postiion: 11
 - id: Akatonbo-f000054
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 自分をつかまえに来やしないかと思って、
-  word_list: [自分, を, つかまえ, に, 来, や, し, ない, か, と, 思っ, て]
   sound: f000054.mp3
   sound_begin: 139400
   sound_end: 142200
+  sentence: 自分をつかまえに来やしないかと思って、
+  words:
+    - word: 自分
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: つかまえ
+      base: 捕まえる
+      postiion: 3
+    - word: に
+      postiion: 7
+    - word: 来
+      base: 来る
+      postiion: 8
+    - word: や
+      base: は
+      postiion: 9
+    - word: し
+      base: 為る
+      postiion: 10
+    - word: ない
+      postiion: 11
+    - word: か
+      postiion: 13
+    - word: と
+      postiion: 14
+    - word: 思っ
+      base: 思う
+      postiion: 15
+    - word: て
+      postiion: 17
 - id: Akatonbo-f000055
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: すぐ飛ぶ用意をしました。
-  word_list: [すぐ, 飛ぶ, 用意, を, し, まし, た]
   sound: f000055.mp3
   sound_begin: 142200
   sound_end: 145600
+  sentence: すぐ飛ぶ用意をしました。
+  words:
+    - word: すぐ
+      base: 直ぐ
+      postiion: 0
+    - word: 飛ぶ
+      postiion: 2
+    - word: 用意
+      postiion: 4
+    - word: を
+      postiion: 6
+    - word: し
+      base: 為る
+      postiion: 7
+    - word: まし
+      base: ます
+      postiion: 8
+    - word: た
+      postiion: 10
 - id: Akatonbo-f000056
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: しかし、
-  word_list: [しかし]
   sound: f000056.mp3
   sound_begin: 145600
   sound_end: 146560
+  sentence: しかし、
+  words:
+    - word: しかし
+      base: 然し
+      postiion: 0
 - id: Akatonbo-f000057
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: おじょうちゃんは、
-  word_list: [お, じょう, ちゃん, は]
   sound: f000057.mp3
   sound_begin: 146560
   sound_end: 147720
+  sentence: おじょうちゃんは、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: じょう
+      postiion: 1
+    - word: ちゃん
+      postiion: 4
+    - word: は
+      postiion: 7
 - id: Akatonbo-f000058
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 赤とんぼをつかまえようともせず、
-  word_list: [赤とんぼ, を, つかまえよう, と, も, せ, ず]
   sound: f000058.mp3
   sound_begin: 147720
   sound_end: 150960
+  sentence: 赤とんぼをつかまえようともせず、
+  words:
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 0
+    - word: を
+      postiion: 4
+    - word: つかまえよう
+      base: 捕まえる
+      postiion: 5
+    - word: と
+      postiion: 11
+    - word: も
+      postiion: 12
+    - word: せ
+      base: 為る
+      postiion: 13
+    - word: ず
+      postiion: 14
 - id: Akatonbo-f000059
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 「まア、
-  word_list: [まア]
   sound: f000059.mp3
   sound_begin: 150960
   sound_end: 152120
+  sentence: 「まア、
+  words:
+    - word: まア
+      base: まあ
+      postiion: 1
 - id: Akatonbo-f000060
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: あたしの帽子に！
-  word_list: [あたし, の, 帽子, に]
   sound: f000060.mp3
   sound_begin: 152120
   sound_end: 154200
+  sentence: あたしの帽子に！
+  words:
+    - word: あたし
+      base: 私
+      postiion: 0
+    - word: の
+      postiion: 3
+    - word: 帽子
+      postiion: 4
+    - word: に
+      postiion: 6
 - id: Akatonbo-f000061
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: うれしいわ！
-  word_list: [うれしい, わ]
   sound: f000061.mp3
   sound_begin: 154200
   sound_end: 155874
+  sentence: うれしいわ！
+  words:
+    - word: うれしい
+      base: 嬉しい
+      postiion: 0
+    - word: わ
+      postiion: 4
 - id: Akatonbo-f000062
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 」といって、
-  word_list: [と, いっ, て]
   sound: f000062.mp3
   sound_begin: 155874
   sound_end: 156840
+  sentence: 」といって、
+  words:
+    - word: と
+      postiion: 1
+    - word: いっ
+      base: 言う
+      postiion: 2
+    - word: て
+      postiion: 4
 - id: Akatonbo-f000063
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: うれしさに跳び上がりました。
-  word_list: [うれし, さ, に, 跳び, 上がり, まし, た]
   sound: f000063.mp3
   sound_begin: 156840
   sound_end: 158284
+  sentence: うれしさに跳び上がりました。
+  words:
+    - word: うれし
+      base: 嬉しい
+      postiion: 0
+    - word: さ
+      postiion: 3
+    - word: に
+      postiion: 4
+    - word: 跳び
+      base: 飛ぶ
+      postiion: 5
+    - word: 上がり
+      base: 上がる
+      postiion: 7
+    - word: まし
+      base: ます
+      postiion: 10
+    - word: た
+      postiion: 12
 - id: Akatonbo-f000064
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: つばくらが、
-  word_list: [つばくら, が]
   sound: f000064.mp3
   sound_begin: 160482
   sound_end: 161800
+  sentence: つばくらが、
+  words:
+    - word: つばくら
+      base: 燕
+      postiion: 0
+    - word: が
+      postiion: 4
 - id: Akatonbo-f000065
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 風のようにかけて行きます。
-  word_list: [風, の, よう, に, かけ, て, 行き, ます]
   sound: f000065.mp3
   sound_begin: 161800
   sound_end: 163561
+  sentence: 風のようにかけて行きます。
+  words:
+    - word: 風
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: よう
+      base: 様
+      postiion: 2
+    - word: に
+      base: だ
+      postiion: 4
+    - word: かけ
+      base: 掛ける
+      postiion: 5
+    - word: て
+      postiion: 7
+    - word: 行き
+      base: 行く
+      postiion: 8
+    - word: ます
+      postiion: 10
 - id: Akatonbo-f000066
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: かあいいおじょうちゃんは、
-  word_list: [かあ, いい, お, じょう, ちゃん, は]
   sound: f000066.mp3
   sound_begin: 167340
   sound_end: 168920
+  sentence: かあいいおじょうちゃんは、
+  words:
+    - word: かあ
+      base: 母
+      postiion: 0
+    - word: いい
+      base: 良い
+      postiion: 2
+    - word: お
+      base: 御
+      postiion: 4
+    - word: じょう
+      postiion: 5
+    - word: ちゃん
+      postiion: 8
+    - word: は
+      postiion: 11
 - id: Akatonbo-f000067
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 今まで空家だったその家に住みこみました。
-  word_list: [今, まで, 空家, だっ, た, その, 家, に, 住み, こみ, まし, た]
   sound: f000067.mp3
   sound_begin: 168920
   sound_end: 172600
+  sentence: 今まで空家だったその家に住みこみました。
+  words:
+    - word: 今
+      postiion: 0
+    - word: まで
+      postiion: 1
+    - word: 空家
+      base: 空き家
+      postiion: 3
+    - word: だっ
+      base: だ
+      postiion: 5
+    - word: た
+      postiion: 7
+    - word: その
+      base: 其の
+      postiion: 8
+    - word: 家
+      postiion: 10
+    - word: に
+      postiion: 11
+    - word: 住み
+      base: 住む
+      postiion: 12
+    - word: こみ
+      base: 込む
+      postiion: 14
+    - word: まし
+      base: ます
+      postiion: 16
+    - word: た
+      postiion: 18
 - id: Akatonbo-f000068
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: もちろん、
-  word_list: [もちろん]
   sound: f000068.mp3
   sound_begin: 172600
   sound_end: 173480
+  sentence: もちろん、
+  words:
+    - word: もちろん
+      base: 勿論
+      postiion: 0
 - id: Akatonbo-f000069
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: お母さんや書生さんもいっしょです。
-  word_list: [お, 母さん, や, 書生, さん, も, いっしょ, です]
   sound: f000069.mp3
   sound_begin: 173480
   sound_end: 177320
+  sentence: お母さんや書生さんもいっしょです。
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: 母さん
+      postiion: 1
+    - word: や
+      postiion: 4
+    - word: 書生
+      postiion: 5
+    - word: さん
+      postiion: 7
+    - word: も
+      postiion: 9
+    - word: いっしょ
+      base: 一緒
+      postiion: 10
+    - word: です
+      postiion: 14
 - id: Akatonbo-f000070
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 赤とんぼは、
-  word_list: [赤とんぼ, は]
   sound: f000070.mp3
   sound_begin: 177320
   sound_end: 178425
+  sentence: 赤とんぼは、
+  words:
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 0
+    - word: は
+      postiion: 4
 - id: Akatonbo-f000071
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 今日も空をまわっています。
-  word_list: [今日, も, 空, を, まわっ, て, い, ます]
   sound: f000071.mp3
   sound_begin: 178425
   sound_end: 181880
+  sentence: 今日も空をまわっています。
+  words:
+    - word: 今日
+      postiion: 0
+    - word: も
+      postiion: 2
+    - word: 空
+      postiion: 3
+    - word: を
+      postiion: 4
+    - word: まわっ
+      base: 回る
+      postiion: 5
+    - word: て
+      postiion: 8
+    - word: い
+      base: 居る
+      postiion: 9
+    - word: ます
+      postiion: 10
 - id: Akatonbo-f000072
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 夕陽が、
-  word_list: [夕陽, が]
   sound: f000072.mp3
   sound_begin: 181880
   sound_end: 183000
+  sentence: 夕陽が、
+  words:
+    - word: 夕陽
+      base: 夕日
+      postiion: 0
+    - word: が
+      postiion: 2
 - id: Akatonbo-f000073
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: その羽をいっそう赤くしています。
-  word_list: [その, 羽, を, いっそう, 赤く, し, て, い, ます]
   sound: f000073.mp3
   sound_begin: 183000
   sound_end: 185480
+  sentence: その羽をいっそう赤くしています。
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 羽
+      base: 羽根
+      postiion: 2
+    - word: を
+      postiion: 3
+    - word: いっそう
+      base: 一層
+      postiion: 4
+    - word: 赤く
+      base: 赤い
+      postiion: 8
+    - word: し
+      base: 為る
+      postiion: 10
+    - word: て
+      postiion: 11
+    - word: い
+      base: 居る
+      postiion: 12
+    - word: ます
+      postiion: 13
 - id: Akatonbo-f000074
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 「とんぼとんぼ
-  word_list: [とんぼ, とんぼ]
   sound: f000074.mp3
   sound_begin: 188780
   sound_end: 191040
+  sentence: 「とんぼとんぼ
+  words:
+    - word: とんぼ
+      base: 蜻蛉
+      postiion: 1
+    - word: とんぼ
+      base: 蜻蛉
+      postiion: 1
 - id: Akatonbo-f000075
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 赤とんぼ
-  word_list: [赤とんぼ]
   sound: f000075.mp3
   sound_begin: 191040
   sound_end: 193200
+  sentence: 赤とんぼ
+  words:
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 0
 - id: Akatonbo-f000076
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: すすきの中は
-  word_list: [すすき, の, 中, は]
   sound: f000076.mp3
   sound_begin: 193200
   sound_end: 194702
+  sentence: すすきの中は
+  words:
+    - word: すすき
+      base: 薄
+      postiion: 0
+    - word: の
+      postiion: 3
+    - word: 中
+      postiion: 4
+    - word: は
+      postiion: 5
 - id: Akatonbo-f000077
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: あぶないよ」
-  word_list: [あぶない, よ]
   sound: f000077.mp3
   sound_begin: 194702
   sound_end: 197600
+  sentence: あぶないよ」
+  words:
+    - word: あぶない
+      base: 危ない
+      postiion: 0
+    - word: よ
+      postiion: 4
 - id: Akatonbo-f000078
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: あどけない声で、
-  word_list: [あどけない, 声, で]
   sound: f000078.mp3
   sound_begin: 197600
   sound_end: 198800
+  sentence: あどけない声で、
+  words:
+    - word: あどけない
+      postiion: 0
+    - word: 声
+      postiion: 5
+    - word: で
+      base: だ
+      postiion: 6
 - id: Akatonbo-f000079
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: こんな歌をうたっているのが、
-  word_list: [こんな, 歌, を, うたっ, て, いる, の, が]
   sound: f000079.mp3
   sound_begin: 198800
   sound_end: 200400
+  sentence: こんな歌をうたっているのが、
+  words:
+    - word: こんな
+      postiion: 0
+    - word: 歌
+      postiion: 3
+    - word: を
+      postiion: 4
+    - word: うたっ
+      base: 歌う
+      postiion: 5
+    - word: て
+      postiion: 8
+    - word: いる
+      base: 居る
+      postiion: 9
+    - word: の
+      postiion: 11
+    - word: が
+      postiion: 12
 - id: Akatonbo-f000080
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 聞こえて来ました。
-  word_list: [聞こえ, て, 来, まし, た]
   sound: f000080.mp3
   sound_begin: 200400
   sound_end: 202960
+  sentence: 聞こえて来ました。
+  words:
+    - word: 聞こえ
+      base: 聞こえる
+      postiion: 0
+    - word: て
+      postiion: 3
+    - word: 来
+      base: 来る
+      postiion: 4
+    - word: まし
+      base: ます
+      postiion: 5
+    - word: た
+      postiion: 7
 - id: Akatonbo-f000081
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 赤とんぼは、
-  word_list: [赤とんぼ, は]
   sound: f000081.mp3
   sound_begin: 202960
   sound_end: 204120
+  sentence: 赤とんぼは、
+  words:
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 0
+    - word: は
+      postiion: 4
 - id: Akatonbo-f000082
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: あのおじょうちゃんだろうと思って、
-  word_list: [あの, お, じょう, ちゃん, だろう, と, 思っ, て]
   sound: f000082.mp3
   sound_begin: 204120
   sound_end: 206320
+  sentence: あのおじょうちゃんだろうと思って、
+  words:
+    - word: あの
+      base: 彼の
+      postiion: 0
+    - word: お
+      base: 御
+      postiion: 2
+    - word: じょう
+      postiion: 3
+    - word: ちゃん
+      postiion: 6
+    - word: だろう
+      base: だ
+      postiion: 9
+    - word: と
+      postiion: 12
+    - word: 思っ
+      base: 思う
+      postiion: 13
+    - word: て
+      postiion: 15
 - id: Akatonbo-f000083
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: そのまま、
-  word_list: [その, まま]
   sound: f000083.mp3
   sound_begin: 206320
   sound_end: 206880
+  sentence: そのまま、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: まま
+      base: 侭
+      postiion: 2
 - id: Akatonbo-f000084
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 声のする方へ飛んで行きました。
-  word_list: [声, の, する, 方, へ, 飛ん, で, 行き, まし, た]
   sound: f000084.mp3
   sound_begin: 206880
   sound_end: 210320
+  sentence: 声のする方へ飛んで行きました。
+  words:
+    - word: 声
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: する
+      base: 為る
+      postiion: 2
+    - word: 方
+      postiion: 4
+    - word: へ
+      postiion: 5
+    - word: 飛ん
+      base: 飛ぶ
+      postiion: 6
+    - word: で
+      postiion: 8
+    - word: 行き
+      base: 行く
+      postiion: 9
+    - word: まし
+      base: ます
+      postiion: 11
+    - word: た
+      postiion: 13
 - id: Akatonbo-f000085
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 思った通り、
-  word_list: [思っ, た, 通り]
   sound: f000085.mp3
   sound_begin: 210320
   sound_end: 211640
+  sentence: 思った通り、
+  words:
+    - word: 思っ
+      base: 思う
+      postiion: 0
+    - word: た
+      postiion: 2
+    - word: 通り
+      postiion: 3
 - id: Akatonbo-f000086
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: うたってるのは、
-  word_list: [うたっ, てる, の, は]
   sound: f000086.mp3
   sound_begin: 211640
   sound_end: 212680
+  sentence: うたってるのは、
+  words:
+    - word: うたっ
+      base: 歌う
+      postiion: 0
+    - word: てる
+      postiion: 3
+    - word: の
+      postiion: 5
+    - word: は
+      postiion: 6
 - id: Akatonbo-f000087
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: あのおじょうちゃんでした。
-  word_list: [あの, お, じょう, ちゃん, でし, た]
   sound: f000087.mp3
   sound_begin: 212680
   sound_end: 215760
+  sentence: あのおじょうちゃんでした。
+  words:
+    - word: あの
+      base: 彼の
+      postiion: 0
+    - word: お
+      base: 御
+      postiion: 2
+    - word: じょう
+      postiion: 3
+    - word: ちゃん
+      postiion: 6
+    - word: でし
+      base: です
+      postiion: 9
+    - word: た
+      postiion: 11
 - id: Akatonbo-f000088
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: おじょうちゃんは、
-  word_list: [お, じょう, ちゃん, は]
   sound: f000088.mp3
   sound_begin: 215760
   sound_end: 216817
+  sentence: おじょうちゃんは、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: じょう
+      postiion: 1
+    - word: ちゃん
+      postiion: 4
+    - word: は
+      postiion: 7
 - id: Akatonbo-f000089
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 庭で行水をしながら、
-  word_list: [庭, で, 行水, を, し, ながら]
   sound: f000089.mp3
   sound_begin: 216817
   sound_end: 218880
+  sentence: 庭で行水をしながら、
+  words:
+    - word: 庭
+      postiion: 0
+    - word: で
+      postiion: 1
+    - word: 行水
+      postiion: 2
+    - word: を
+      postiion: 4
+    - word: し
+      base: 為る
+      postiion: 5
+    - word: ながら
+      postiion: 6
 - id: Akatonbo-f000090
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 一人うたってたのです。
-  word_list: [一人, うたっ, て, た, の, です]
   sound: f000090.mp3
   sound_begin: 218880
   sound_end: 222572
+  sentence: 一人うたってたのです。
+  words:
+    - word: 一人
+      postiion: 0
+    - word: うたっ
+      base: 歌う
+      postiion: 2
+    - word: て
+      base: てる
+      postiion: 5
+    - word: た
+      postiion: 6
+    - word: の
+      postiion: 7
+    - word: です
+      postiion: 8
 - id: Akatonbo-f000091
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 赤とんぼが、
-  word_list: [赤とんぼ, が]
   sound: f000091.mp3
   sound_begin: 222572
   sound_end: 223400
+  sentence: 赤とんぼが、
+  words:
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 0
+    - word: が
+      postiion: 4
 - id: Akatonbo-f000092
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 頭の上へ来ると、
-  word_list: [頭, の, 上, へ, 来る, と]
   sound: f000092.mp3
   sound_begin: 223400
   sound_end: 225228
+  sentence: 頭の上へ来ると、
+  words:
+    - word: 頭
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 上
+      postiion: 2
+    - word: へ
+      postiion: 3
+    - word: 来る
+      postiion: 4
+    - word: と
+      postiion: 6
 - id: Akatonbo-f000093
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: おじょうちゃんは、
-  word_list: [お, じょう, ちゃん, は]
   sound: f000093.mp3
   sound_begin: 225228
   sound_end: 225840
+  sentence: おじょうちゃんは、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: じょう
+      postiion: 1
+    - word: ちゃん
+      postiion: 4
+    - word: は
+      postiion: 7
 - id: Akatonbo-f000094
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 持ってたおもちゃの金魚をにぎったまま、
-  word_list: [持っ, て, た, おもちゃ, の, 金魚, を, にぎっ, た, まま]
   sound: f000094.mp3
   sound_begin: 225840
   sound_end: 229325
+  sentence: 持ってたおもちゃの金魚をにぎったまま、
+  words:
+    - word: 持っ
+      base: 持つ
+      postiion: 0
+    - word: て
+      base: てる
+      postiion: 2
+    - word: た
+      postiion: 3
+    - word: おもちゃ
+      base: 玩具
+      postiion: 4
+    - word: の
+      postiion: 8
+    - word: 金魚
+      postiion: 9
+    - word: を
+      postiion: 11
+    - word: にぎっ
+      base: 握る
+      postiion: 12
+    - word: た
+      postiion: 15
+    - word: まま
+      base: 侭
+      postiion: 16
 - id: Akatonbo-f000095
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 「あたしの赤とんぼ！
-  word_list: [あたし, の, 赤とんぼ]
   sound: f000095.mp3
   sound_begin: 229325
   sound_end: 231428
+  sentence: 「あたしの赤とんぼ！
+  words:
+    - word: あたし
+      base: 私
+      postiion: 1
+    - word: の
+      postiion: 4
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 5
 - id: Akatonbo-f000096
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 」とさけんで、
-  word_list: [と, さけん, で]
   sound: f000096.mp3
   sound_begin: 231428
   sound_end: 232179
+  sentence: 」とさけんで、
+  words:
+    - word: と
+      postiion: 1
+    - word: さけん
+      base: 叫ぶ
+      postiion: 2
+    - word: で
+      postiion: 5
 - id: Akatonbo-f000097
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 両手を高くさし上げました。
-  word_list: [両手, を, 高く, さし, 上げ, まし, た]
   sound: f000097.mp3
   sound_begin: 232179
   sound_end: 236000
+  sentence: 両手を高くさし上げました。
+  words:
+    - word: 両手
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: 高く
+      base: 高い
+      postiion: 3
+    - word: さし
+      base: さす
+      postiion: 5
+    - word: 上げ
+      base: 上げる
+      postiion: 7
+    - word: まし
+      base: ます
+      postiion: 9
+    - word: た
+      postiion: 11
 - id: Akatonbo-f000098
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 赤とんぼは、
-  word_list: [赤とんぼ, は]
   sound: f000098.mp3
   sound_begin: 236000
   sound_end: 236760
+  sentence: 赤とんぼは、
+  words:
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 0
+    - word: は
+      postiion: 4
 - id: Akatonbo-f000099
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: とても愉快です。
-  word_list: [とても, 愉快, です]
   sound: f000099.mp3
   sound_begin: 236760
   sound_end: 238180
+  sentence: とても愉快です。
+  words:
+    - word: とても
+      base: 迚も
+      postiion: 0
+    - word: 愉快
+      postiion: 3
+    - word: です
+      postiion: 5
 - id: Akatonbo-f000100
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 書生さんが、
-  word_list: [書生, さん, が]
   sound: f000100.mp3
   sound_begin: 240235
   sound_end: 240960
+  sentence: 書生さんが、
+  words:
+    - word: 書生
+      postiion: 0
+    - word: さん
+      postiion: 2
+    - word: が
+      postiion: 4
 - id: Akatonbo-f000101
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: シャボンを持ってやって来ました。
-  word_list: [シャボン, を, 持っ, て, やっ, て, 来, まし, た]
   sound: f000101.mp3
   sound_begin: 240960
   sound_end: 244243
+  sentence: シャボンを持ってやって来ました。
+  words:
+    - word: シャボン
+      postiion: 0
+    - word: を
+      postiion: 4
+    - word: 持っ
+      base: 持つ
+      postiion: 5
+    - word: て
+      postiion: 7
+    - word: やっ
+      base: 遣る
+      postiion: 8
+    - word: て
+      postiion: 10
+    - word: 来
+      base: 来る
+      postiion: 11
+    - word: まし
+      base: ます
+      postiion: 12
+    - word: た
+      postiion: 14
 - id: Akatonbo-f000102
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 「おじょうさん、
-  word_list: [お, じょう, さん]
   sound: f000102.mp3
   sound_begin: 244243
   sound_end: 245533
+  sentence: 「おじょうさん、
+  words:
+    - word: お
+      base: 御
+      postiion: 1
+    - word: じょう
+      postiion: 2
+    - word: さん
+      postiion: 5
 - id: Akatonbo-f000103
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 背中を洗いましょうか？」
-  word_list: [背中, を, 洗い, ましょう, か]
   sound: f000103.mp3
   sound_begin: 245533
   sound_end: 248599
+  sentence: 背中を洗いましょうか？」
+  words:
+    - word: 背中
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: 洗い
+      base: 洗う
+      postiion: 3
+    - word: ましょう
+      base: ます
+      postiion: 5
+    - word: か
+      postiion: 9
 - id: Akatonbo-f000104
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 「いや──」
-  word_list: [いや, ─, ─]
   sound: f000104.mp3
   sound_begin: 248599
   sound_end: 250292
+  sentence: 「いや──」
+  words:
+    - word: いや
+      base: 否
+      postiion: 1
+    - word: ─
+      postiion: 3
+    - word: ─
+      postiion: 3
 - id: Akatonbo-f000105
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 「だって──」
-  word_list: [だ, って, ─, ─]
   sound: f000105.mp3
   sound_begin: 250292
   sound_end: 252327
+  sentence: 「だって──」
+  words:
+    - word: だ
+      postiion: 1
+    - word: って
+      postiion: 2
+    - word: ─
+      postiion: 4
+    - word: ─
+      postiion: 4
 - id: Akatonbo-f000106
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 「いや！
-  word_list: [いや]
   sound: f000106.mp3
   sound_begin: 252327
   sound_end: 253419
+  sentence: 「いや！
+  words:
+    - word: いや
+      base: 否
+      postiion: 1
 - id: Akatonbo-f000107
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: いや！
-  word_list: [いや]
   sound: f000107.mp3
   sound_begin: 253419
   sound_end: 254880
+  sentence: いや！
+  words:
+    - word: いや
+      base: 否
+      postiion: 0
 - id: Akatonbo-f000108
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: お母さんでなくっちゃ──」
-  word_list: [お, 母さん, で, なく, っちゃ, ─, ─]
   sound: f000108.mp3
   sound_begin: 254880
   sound_end: 258704
+  sentence: お母さんでなくっちゃ──」
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: 母さん
+      postiion: 1
+    - word: で
+      base: だ
+      postiion: 4
+    - word: なく
+      base: 無い
+      postiion: 5
+    - word: っちゃ
+      base: て
+      postiion: 7
+    - word: ─
+      postiion: 10
+    - word: ─
+      postiion: 10
 - id: Akatonbo-f000109
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 「困ったおじょうさん。」
-  word_list: [困っ, た, お, じょう, さん]
   sound: f000109.mp3
   sound_begin: 258704
   sound_end: 261947
+  sentence: 「困ったおじょうさん。」
+  words:
+    - word: 困っ
+      base: 困る
+      postiion: 1
+    - word: た
+      postiion: 3
+    - word: お
+      base: 御
+      postiion: 4
+    - word: じょう
+      postiion: 5
+    - word: さん
+      postiion: 8
 - id: Akatonbo-f000110
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 書生さんは、
-  word_list: [書生, さん, は]
   sound: f000110.mp3
   sound_begin: 261947
   sound_end: 262880
+  sentence: 書生さんは、
+  words:
+    - word: 書生
+      postiion: 0
+    - word: さん
+      postiion: 2
+    - word: は
+      postiion: 4
 - id: Akatonbo-f000111
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 頭をかきながら歩き出しましたが、
-  word_list: [頭, を, かき, ながら, 歩き, 出し, まし, た, が]
   sound: f000111.mp3
   sound_begin: 262880
   sound_end: 265360
+  sentence: 頭をかきながら歩き出しましたが、
+  words:
+    - word: 頭
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: かき
+      base: かく
+      postiion: 2
+    - word: ながら
+      postiion: 4
+    - word: 歩き
+      base: 歩く
+      postiion: 7
+    - word: 出し
+      base: 出す
+      postiion: 9
+    - word: まし
+      base: ます
+      postiion: 11
+    - word: た
+      postiion: 13
+    - word: が
+      postiion: 14
 - id: Akatonbo-f000112
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 朝顔の葉にとまって、
-  word_list: [朝顔, の, 葉, に, とまっ, て]
   sound: f000112.mp3
   sound_begin: 265360
   sound_end: 267354
+  sentence: 朝顔の葉にとまって、
+  words:
+    - word: 朝顔
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 葉
+      postiion: 3
+    - word: に
+      postiion: 4
+    - word: とまっ
+      base: とまる
+      postiion: 5
+    - word: て
+      postiion: 8
 - id: Akatonbo-f000113
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: ふたりの話をきいてる赤とんぼを見つけると、
-  word_list: [ふたり, の, 話, を, きい, てる, 赤とんぼ, を, 見つける, と]
   sound: f000113.mp3
   sound_begin: 267354
   sound_end: 271040
+  sentence: ふたりの話をきいてる赤とんぼを見つけると、
+  words:
+    - word: ふたり
+      base: 二人
+      postiion: 0
+    - word: の
+      postiion: 3
+    - word: 話
+      postiion: 4
+    - word: を
+      postiion: 5
+    - word: きい
+      base: きく
+      postiion: 6
+    - word: てる
+      postiion: 8
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 10
+    - word: を
+      postiion: 14
+    - word: 見つける
+      base: 見付ける
+      postiion: 15
+    - word: と
+      postiion: 19
 - id: Akatonbo-f000114
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 右手を大きくグルーッと一回まわしました。
-  word_list: [右手, を, 大きく, グルーッ, と, 一, 回, まわし, まし, た]
   sound: f000114.mp3
   sound_begin: 271040
   sound_end: 276440
+  sentence: 右手を大きくグルーッと一回まわしました。
+  words:
+    - word: 右手
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: 大きく
+      base: 大きい
+      postiion: 3
+    - word: グルーッ
+      base: ぐるー
+      postiion: 6
+    - word: と
+      postiion: 10
+    - word: 一
+      postiion: 11
+    - word: 回
+      postiion: 12
+    - word: まわし
+      base: 回す
+      postiion: 13
+    - word: まし
+      base: ます
+      postiion: 16
+    - word: た
+      postiion: 18
 - id: Akatonbo-f000115
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 妙な事をするな──
-  word_list: [妙, な, 事, を, する, な, ─, ─]
   sound: f000115.mp3
   sound_begin: 276440
   sound_end: 278292
+  sentence: 妙な事をするな──
+  words:
+    - word: 妙
+      postiion: 0
+    - word: な
+      base: だ
+      postiion: 1
+    - word: 事
+      postiion: 2
+    - word: を
+      postiion: 3
+    - word: する
+      base: 為る
+      postiion: 4
+    - word: な
+      postiion: 6
+    - word: ─
+      postiion: 7
+    - word: ─
+      postiion: 7
 - id: Akatonbo-f000116
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: と思って、
-  word_list: [と, 思っ, て]
   sound: f000116.mp3
   sound_begin: 278292
   sound_end: 279400
+  sentence: と思って、
+  words:
+    - word: と
+      postiion: 0
+    - word: 思っ
+      base: 思う
+      postiion: 1
+    - word: て
+      postiion: 3
 - id: Akatonbo-f000117
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 赤とんぼはその指先を見ていました。
-  word_list: [赤とんぼ, は, その, 指先, を, 見, て, い, まし, た]
   sound: f000117.mp3
   sound_begin: 279400
   sound_end: 281665
+  sentence: 赤とんぼはその指先を見ていました。
+  words:
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 0
+    - word: は
+      postiion: 4
+    - word: その
+      base: 其の
+      postiion: 5
+    - word: 指先
+      postiion: 7
+    - word: を
+      postiion: 9
+    - word: 見
+      base: 見る
+      postiion: 10
+    - word: て
+      postiion: 11
+    - word: い
+      base: 居る
+      postiion: 12
+    - word: まし
+      base: ます
+      postiion: 13
+    - word: た
+      postiion: 15
 - id: Akatonbo-f000118
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: つづけて、
-  word_list: [つづけ, て]
   sound: f000118.mp3
   sound_begin: 283030
   sound_end: 283918
+  sentence: つづけて、
+  words:
+    - word: つづけ
+      base: 続ける
+      postiion: 0
+    - word: て
+      postiion: 3
 - id: Akatonbo-f000119
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: グルグルと書生さんは右手をまわします。
-  word_list: [グルグル, と, 書生, さん, は, 右手, を, まわし, ます]
   sound: f000119.mp3
   sound_begin: 283918
   sound_end: 287782
+  sentence: グルグルと書生さんは右手をまわします。
+  words:
+    - word: グルグル
+      base: ぐるぐる
+      postiion: 0
+    - word: と
+      postiion: 4
+    - word: 書生
+      postiion: 5
+    - word: さん
+      postiion: 7
+    - word: は
+      postiion: 9
+    - word: 右手
+      postiion: 10
+    - word: を
+      postiion: 12
+    - word: まわし
+      base: 回す
+      postiion: 13
+    - word: ます
+      postiion: 16
 - id: Akatonbo-f000120
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: そして、
-  word_list: [そして]
   sound: f000120.mp3
   sound_begin: 287782
   sound_end: 288840
+  sentence: そして、
+  words:
+    - word: そして
+      postiion: 0
 - id: Akatonbo-f000121
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: だんだん、
-  word_list: [だんだん]
   sound: f000121.mp3
   sound_begin: 288840
   sound_end: 289760
+  sentence: だんだん、
+  words:
+    - word: だんだん
+      base: 段々
+      postiion: 0
 - id: Akatonbo-f000122
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: その円を小さくして赤とんぼに近づいて来ます。
-  word_list: [その, 円, を, 小さく, し, て, 赤とんぼ, に, 近づい, て, 来, ます]
   sound: f000122.mp3
   sound_begin: 289760
   sound_end: 293340
+  sentence: その円を小さくして赤とんぼに近づいて来ます。
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 円
+      postiion: 2
+    - word: を
+      postiion: 3
+    - word: 小さく
+      base: 小さい
+      postiion: 4
+    - word: し
+      base: 為る
+      postiion: 7
+    - word: て
+      postiion: 8
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 9
+    - word: に
+      postiion: 13
+    - word: 近づい
+      base: 近付く
+      postiion: 14
+    - word: て
+      postiion: 17
+    - word: 来
+      base: 来る
+      postiion: 18
+    - word: ます
+      postiion: 19
 - id: Akatonbo-f000123
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 赤とんぼは、
-  word_list: [赤とんぼ, は]
   sound: f000123.mp3
   sound_begin: 295306
   sound_end: 296440
+  sentence: 赤とんぼは、
+  words:
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 0
+    - word: は
+      postiion: 4
 - id: Akatonbo-f000124
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 大きな眼をギョロギョロ動かして、
-  word_list: [大きな, 眼, を, ギョロギョロ, 動かし, て]
   sound: f000124.mp3
   sound_begin: 296440
   sound_end: 298800
+  sentence: 大きな眼をギョロギョロ動かして、
+  words:
+    - word: 大きな
+      postiion: 0
+    - word: 眼
+      base: 目
+      postiion: 3
+    - word: を
+      postiion: 4
+    - word: ギョロギョロ
+      base: ぎょろぎょろ
+      postiion: 5
+    - word: 動かし
+      base: 動かす
+      postiion: 11
+    - word: て
+      postiion: 14
 - id: Akatonbo-f000125
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 書生さんの指先をみつめています。
-  word_list: [書生, さん, の, 指先, を, み, つめ, て, い, ます]
   sound: f000125.mp3
   sound_begin: 298800
   sound_end: 301060
+  sentence: 書生さんの指先をみつめています。
+  words:
+    - word: 書生
+      postiion: 0
+    - word: さん
+      postiion: 2
+    - word: の
+      postiion: 4
+    - word: 指先
+      postiion: 5
+    - word: を
+      postiion: 7
+    - word: み
+      base: 見る
+      postiion: 8
+    - word: つめ
+      base: つめる
+      postiion: 9
+    - word: て
+      postiion: 11
+    - word: い
+      base: 居る
+      postiion: 12
+    - word: ます
+      postiion: 13
 - id: Akatonbo-f000126
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: だんだん、
-  word_list: [だんだん]
   sound: f000126.mp3
   sound_begin: 303104
   sound_end: 304280
+  sentence: だんだん、
+  words:
+    - word: だんだん
+      base: 段々
+      postiion: 0
 - id: Akatonbo-f000127
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 円は小さく近く、
-  word_list: [円, は, 小さく, 近く]
   sound: f000127.mp3
   sound_begin: 304280
   sound_end: 306840
+  sentence: 円は小さく近く、
+  words:
+    - word: 円
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: 小さく
+      base: 小さい
+      postiion: 2
+    - word: 近く
+      base: 近い
+      postiion: 5
 - id: Akatonbo-f000128
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: そして早くまわって来ます。
-  word_list: [そして, 早く, まわっ, て, 来, ます]
   sound: f000128.mp3
   sound_begin: 306840
   sound_end: 309726
+  sentence: そして早くまわって来ます。
+  words:
+    - word: そして
+      postiion: 0
+    - word: 早く
+      base: 早い
+      postiion: 3
+    - word: まわっ
+      base: 回る
+      postiion: 5
+    - word: て
+      postiion: 8
+    - word: 来
+      base: 来る
+      postiion: 9
+    - word: ます
+      postiion: 10
 - id: Akatonbo-f000129
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 赤とんぼは、
-  word_list: [赤とんぼ, は]
   sound: f000129.mp3
   sound_begin: 309726
   sound_end: 310560
+  sentence: 赤とんぼは、
+  words:
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 0
+    - word: は
+      postiion: 4
 - id: Akatonbo-f000130
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 眼まいをしてしまいました。
-  word_list: [眼まい, を, し, て, しまい, まし, た]
   sound: f000130.mp3
   sound_begin: 310560
   sound_end: 313004
+  sentence: 眼まいをしてしまいました。
+  words:
+    - word: 眼まい
+      base: 目眩
+      postiion: 0
+    - word: を
+      postiion: 3
+    - word: し
+      base: 為る
+      postiion: 4
+    - word: て
+      postiion: 5
+    - word: しまい
+      base: 仕舞う
+      postiion: 6
+    - word: まし
+      base: ます
+      postiion: 9
+    - word: た
+      postiion: 11
 - id: Akatonbo-f000131
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: つぎの瞬間、
-  word_list: [つぎ, の, 瞬間]
   sound: f000131.mp3
   sound_begin: 313004
   sound_end: 314642
+  sentence: つぎの瞬間、
+  words:
+    - word: つぎ
+      base: 次
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 瞬間
+      postiion: 3
 - id: Akatonbo-f000132
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 赤とんぼは、
-  word_list: [赤とんぼ, は]
   sound: f000132.mp3
   sound_begin: 314642
   sound_end: 316049
+  sentence: 赤とんぼは、
+  words:
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 0
+    - word: は
+      postiion: 4
 - id: Akatonbo-f000133
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 書生さんの大きな指にはさまれていました。
-  word_list: [書生, さん, の, 大きな, 指, に, はさま, れ, て, い, まし, た]
   sound: f000133.mp3
   sound_begin: 316049
   sound_end: 320760
+  sentence: 書生さんの大きな指にはさまれていました。
+  words:
+    - word: 書生
+      postiion: 0
+    - word: さん
+      postiion: 2
+    - word: の
+      postiion: 4
+    - word: 大きな
+      postiion: 5
+    - word: 指
+      postiion: 8
+    - word: に
+      postiion: 9
+    - word: はさま
+      base: 挟む
+      postiion: 10
+    - word: れ
+      base: れる
+      postiion: 13
+    - word: て
+      postiion: 14
+    - word: い
+      base: 居る
+      postiion: 15
+    - word: まし
+      base: ます
+      postiion: 16
+    - word: た
+      postiion: 18
 - id: Akatonbo-f000134
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 「おじょうさん、
-  word_list: [お, じょう, さん]
   sound: f000134.mp3
   sound_begin: 320760
   sound_end: 322248
+  sentence: 「おじょうさん、
+  words:
+    - word: お
+      base: 御
+      postiion: 1
+    - word: じょう
+      postiion: 2
+    - word: さん
+      postiion: 5
 - id: Akatonbo-f000135
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 赤とんぼをつかまえましたよ。
-  word_list: [赤とんぼ, を, つかまえ, まし, た, よ]
   sound: f000135.mp3
   sound_begin: 322248
   sound_end: 325160
+  sentence: 赤とんぼをつかまえましたよ。
+  words:
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 0
+    - word: を
+      postiion: 4
+    - word: つかまえ
+      base: 捕まえる
+      postiion: 5
+    - word: まし
+      base: ます
+      postiion: 9
+    - word: た
+      postiion: 11
+    - word: よ
+      postiion: 12
 - id: Akatonbo-f000136
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: あげましょうか？」
-  word_list: [あげ, ましょう, か]
   sound: f000136.mp3
   sound_begin: 325160
   sound_end: 327760
+  sentence: あげましょうか？」
+  words:
+    - word: あげ
+      base: 上げる
+      postiion: 0
+    - word: ましょう
+      base: ます
+      postiion: 2
+    - word: か
+      postiion: 6
 - id: Akatonbo-f000137
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 「ばか！
-  word_list: [ばか]
   sound: f000137.mp3
   sound_begin: 327760
   sound_end: 329360
+  sentence: 「ばか！
+  words:
+    - word: ばか
+      postiion: 1
 - id: Akatonbo-f000138
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: あたしの赤とんぼをつかまえたりなんかして──
-  word_list: [あたし, の, 赤とんぼ, を, つかまえ, たり, なんか, し, て, ─, ─]
   sound: f000138.mp3
   sound_begin: 329360
   sound_end: 332872
+  sentence: あたしの赤とんぼをつかまえたりなんかして──
+  words:
+    - word: あたし
+      base: 私
+      postiion: 0
+    - word: の
+      postiion: 3
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 4
+    - word: を
+      postiion: 8
+    - word: つかまえ
+      base: 捕まえる
+      postiion: 9
+    - word: たり
+      postiion: 13
+    - word: なんか
+      postiion: 15
+    - word: し
+      base: 為る
+      postiion: 18
+    - word: て
+      postiion: 19
+    - word: ─
+      postiion: 20
+    - word: ─
+      postiion: 20
 - id: Akatonbo-f000139
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 山田のばか！」
-  word_list: [山田, の, ばか]
   sound: f000139.mp3
   sound_begin: 332872
   sound_end: 335917
+  sentence: 山田のばか！」
+  words:
+    - word: 山田
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: ばか
+      postiion: 3
 - id: Akatonbo-f000140
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: おじょうちゃんは、
-  word_list: [お, じょう, ちゃん, は]
   sound: f000140.mp3
   sound_begin: 335917
   sound_end: 336668
+  sentence: おじょうちゃんは、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: じょう
+      postiion: 1
+    - word: ちゃん
+      postiion: 4
+    - word: は
+      postiion: 7
 - id: Akatonbo-f000141
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 口をとがらして、
-  word_list: [口, を, とがらし, て]
   sound: f000141.mp3
   sound_begin: 336668
   sound_end: 338334
+  sentence: 口をとがらして、
+  words:
+    - word: 口
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: とがらし
+      base: 尖らす
+      postiion: 2
+    - word: て
+      postiion: 6
 - id: Akatonbo-f000142
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 湯を書生さんにぶっかけました。
-  word_list: [湯, を, 書生, さん, に, ぶっ, かけ, まし, た]
   sound: f000142.mp3
   sound_begin: 338334
   sound_end: 342546
+  sentence: 湯を書生さんにぶっかけました。
+  words:
+    - word: 湯
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: 書生
+      postiion: 2
+    - word: さん
+      postiion: 4
+    - word: に
+      postiion: 6
+    - word: ぶっ
+      base: 打つ
+      postiion: 7
+    - word: かけ
+      base: 掛ける
+      postiion: 9
+    - word: まし
+      base: ます
+      postiion: 11
+    - word: た
+      postiion: 13
 - id: Akatonbo-f000143
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 書生さんは、
-  word_list: [書生, さん, は]
   sound: f000143.mp3
   sound_begin: 342546
   sound_end: 343366
+  sentence: 書生さんは、
+  words:
+    - word: 書生
+      postiion: 0
+    - word: さん
+      postiion: 2
+    - word: は
+      postiion: 4
 - id: Akatonbo-f000144
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 赤とんぼをはなして逃げて行きました。
-  word_list: [赤とんぼ, を, はなし, て, 逃げ, て, 行き, まし, た]
   sound: f000144.mp3
   sound_begin: 343366
   sound_end: 345900
+  sentence: 赤とんぼをはなして逃げて行きました。
+  words:
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 0
+    - word: を
+      postiion: 4
+    - word: はなし
+      base: はなす
+      postiion: 5
+    - word: て
+      postiion: 8
+    - word: 逃げ
+      base: 逃げる
+      postiion: 9
+    - word: て
+      postiion: 11
+    - word: 行き
+      base: 行く
+      postiion: 12
+    - word: まし
+      base: ます
+      postiion: 14
+    - word: た
+      postiion: 16
 - id: Akatonbo-f000145
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 赤とんぼは、
-  word_list: [赤とんぼ, は]
   sound: f000145.mp3
   sound_begin: 347981
   sound_end: 349039
+  sentence: 赤とんぼは、
+  words:
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 0
+    - word: は
+      postiion: 4
 - id: Akatonbo-f000146
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: ホッとして空へ飛び上がりました。
-  word_list: [ホッと, し, て, 空, へ, 飛び, 上がり, まし, た]
   sound: f000146.mp3
   sound_begin: 349039
   sound_end: 350849
+  sentence: ホッとして空へ飛び上がりました。
+  words:
+    - word: ホッと
+      base: ほっと
+      postiion: 0
+    - word: し
+      base: 為る
+      postiion: 3
+    - word: て
+      postiion: 4
+    - word: 空
+      postiion: 5
+    - word: へ
+      postiion: 6
+    - word: 飛び
+      base: 飛ぶ
+      postiion: 7
+    - word: 上がり
+      base: 上がる
+      postiion: 9
+    - word: まし
+      base: ます
+      postiion: 12
+    - word: た
+      postiion: 14
 - id: Akatonbo-f000147
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 良いおじょうちゃんだな、
-  word_list: [良い, お, じょう, ちゃん, だ, な]
   sound: f000147.mp3
   sound_begin: 352520
   sound_end: 354454
+  sentence: 良いおじょうちゃんだな、
+  words:
+    - word: 良い
+      postiion: 0
+    - word: お
+      base: 御
+      postiion: 2
+    - word: じょう
+      postiion: 3
+    - word: ちゃん
+      postiion: 6
+    - word: だ
+      postiion: 9
+    - word: な
+      postiion: 10
 - id: Akatonbo-f000148
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: と思いながら──
-  word_list: [と, 思い, ながら, ─, ─]
   sound: f000148.mp3
   sound_begin: 354454
   sound_end: 356000
+  sentence: と思いながら──
+  words:
+    - word: と
+      postiion: 0
+    - word: 思い
+      base: 思う
+      postiion: 1
+    - word: ながら
+      postiion: 3
+    - word: ─
+      postiion: 6
+    - word: ─
+      postiion: 6
 - id: Akatonbo-f000149
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 空は真青に晴れています。
-  word_list: [空, は, 真青, に, 晴れ, て, い, ます]
   sound: f000149.mp3
   sound_begin: 359600
   sound_end: 362230
+  sentence: 空は真青に晴れています。
+  words:
+    - word: 空
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: 真青
+      base: 真っ青
+      postiion: 2
+    - word: に
+      base: だ
+      postiion: 4
+    - word: 晴れ
+      base: 晴れる
+      postiion: 5
+    - word: て
+      postiion: 7
+    - word: い
+      base: 居る
+      postiion: 8
+    - word: ます
+      postiion: 9
 - id: Akatonbo-f000150
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: どこまでも澄んでいます。
-  word_list: [どこ, まで, も, 澄ん, で, い, ます]
   sound: f000150.mp3
   sound_begin: 362230
   sound_end: 364920
+  sentence: どこまでも澄んでいます。
+  words:
+    - word: どこ
+      postiion: 0
+    - word: まで
+      postiion: 2
+    - word: も
+      postiion: 4
+    - word: 澄ん
+      base: 澄む
+      postiion: 5
+    - word: で
+      postiion: 7
+    - word: い
+      base: 居る
+      postiion: 8
+    - word: ます
+      postiion: 9
 - id: Akatonbo-f000151
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 赤とんぼは、
-  word_list: [赤とんぼ, は]
   sound: f000151.mp3
   sound_begin: 364920
   sound_end: 365600
+  sentence: 赤とんぼは、
+  words:
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 0
+    - word: は
+      postiion: 4
 - id: Akatonbo-f000152
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 窓に羽を休めて、
-  word_list: [窓, に, 羽, を, 休め, て]
   sound: f000152.mp3
   sound_begin: 365600
   sound_end: 367310
+  sentence: 窓に羽を休めて、
+  words:
+    - word: 窓
+      postiion: 0
+    - word: に
+      postiion: 1
+    - word: 羽
+      base: 羽根
+      postiion: 2
+    - word: を
+      postiion: 3
+    - word: 休め
+      base: 休む
+      postiion: 4
+    - word: て
+      postiion: 6
 - id: Akatonbo-f000153
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 書生さんのお話に耳をかたむけています、
-  word_list: [書生, さん, の, お, 話, に, 耳, を, かたむけ, て, い, ます]
   sound: f000153.mp3
   sound_begin: 367310
   sound_end: 370765
+  sentence: 書生さんのお話に耳をかたむけています、
+  words:
+    - word: 書生
+      postiion: 0
+    - word: さん
+      postiion: 2
+    - word: の
+      postiion: 4
+    - word: お
+      base: 御
+      postiion: 5
+    - word: 話
+      postiion: 6
+    - word: に
+      postiion: 7
+    - word: 耳
+      postiion: 8
+    - word: を
+      postiion: 9
+    - word: かたむけ
+      base: 傾く
+      postiion: 10
+    - word: て
+      postiion: 14
+    - word: い
+      base: 居る
+      postiion: 15
+    - word: ます
+      postiion: 16
 - id: Akatonbo-f000154
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: かあいいおじょうちゃんと同じように。
-  word_list: [かあ, いい, お, じょう, ちゃん, と, 同じ, よう, に]
   sound: f000154.mp3
   sound_begin: 370765
   sound_end: 373060
+  sentence: かあいいおじょうちゃんと同じように。
+  words:
+    - word: かあ
+      base: 母
+      postiion: 0
+    - word: いい
+      base: 良い
+      postiion: 2
+    - word: お
+      base: 御
+      postiion: 4
+    - word: じょう
+      postiion: 5
+    - word: ちゃん
+      postiion: 8
+    - word: と
+      postiion: 11
+    - word: 同じ
+      postiion: 12
+    - word: よう
+      base: 様
+      postiion: 14
+    - word: に
+      base: だ
+      postiion: 16
 - id: Akatonbo-f000155
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 「それからね、
-  word_list: [それ, から, ね]
   sound: f000155.mp3
   sound_begin: 375114
   sound_end: 376680
+  sentence: 「それからね、
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 1
+    - word: から
+      postiion: 3
+    - word: ね
+      postiion: 5
 - id: Akatonbo-f000156
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: そのとんぼは、
-  word_list: [その, とんぼ, は]
   sound: f000156.mp3
   sound_begin: 376680
   sound_end: 378043
+  sentence: そのとんぼは、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: とんぼ
+      base: 蜻蛉
+      postiion: 2
+    - word: は
+      postiion: 5
 - id: Akatonbo-f000157
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 怒って大蜘蛛のやつにくいかかりました。
-  word_list: [怒っ, て, 大蜘蛛, の, やつ, にくい, かかり, まし, た]
   sound: f000157.mp3
   sound_begin: 378043
   sound_end: 381826
+  sentence: 怒って大蜘蛛のやつにくいかかりました。
+  words:
+    - word: 怒っ
+      base: 怒る
+      postiion: 0
+    - word: て
+      postiion: 2
+    - word: 大蜘蛛
+      postiion: 3
+    - word: の
+      postiion: 6
+    - word: やつ
+      base: 奴
+      postiion: 7
+    - word: にくい
+      base: 難い
+      postiion: 9
+    - word: かかり
+      base: 掛かる
+      postiion: 12
+    - word: まし
+      base: ます
+      postiion: 15
+    - word: た
+      postiion: 17
 - id: Akatonbo-f000158
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: くいつかれた大蜘蛛は、
-  word_list: [くい, つか, れ, た, 大蜘蛛, は]
   sound: f000158.mp3
   sound_begin: 381826
   sound_end: 383640
+  sentence: くいつかれた大蜘蛛は、
+  words:
+    - word: くい
+      base: 食う
+      postiion: 0
+    - word: つか
+      base: 付く
+      postiion: 2
+    - word: れ
+      base: れる
+      postiion: 4
+    - word: た
+      postiion: 5
+    - word: 大蜘蛛
+      postiion: 6
+    - word: は
+      postiion: 9
 - id: Akatonbo-f000159
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 痛い！
-  word_list: [痛い]
   sound: f000159.mp3
   sound_begin: 383640
   sound_end: 384480
+  sentence: 痛い！
+  words:
+    - word: 痛い
+      postiion: 0
 - id: Akatonbo-f000160
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 痛い！
-  word_list: [痛い]
   sound: f000160.mp3
   sound_begin: 384480
   sound_end: 385529
+  sentence: 痛い！
+  words:
+    - word: 痛い
+      postiion: 0
 - id: Akatonbo-f000161
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 助けてくれってね、
-  word_list: [助け, て, くれ, って, ね]
   sound: f000161.mp3
   sound_begin: 385529
   sound_end: 387280
+  sentence: 助けてくれってね、
+  words:
+    - word: 助け
+      base: 助ける
+      postiion: 0
+    - word: て
+      postiion: 2
+    - word: くれ
+      base: 呉れる
+      postiion: 3
+    - word: って
+      postiion: 5
+    - word: ね
+      postiion: 7
 - id: Akatonbo-f000162
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 大声にさけんだのですよ。
-  word_list: [大声, に, さけん, だ, の, です, よ]
   sound: f000162.mp3
   sound_begin: 387280
   sound_end: 389950
+  sentence: 大声にさけんだのですよ。
+  words:
+    - word: 大声
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: さけん
+      base: 叫ぶ
+      postiion: 3
+    - word: だ
+      base: た
+      postiion: 6
+    - word: の
+      postiion: 7
+    - word: です
+      postiion: 8
+    - word: よ
+      postiion: 10
 - id: Akatonbo-f000163
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: すると、
-  word_list: [する, と]
   sound: f000163.mp3
   sound_begin: 389950
   sound_end: 390640
+  sentence: すると、
+  words:
+    - word: する
+      base: 為る
+      postiion: 0
+    - word: と
+      postiion: 2
 - id: Akatonbo-f000164
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 出て来たわ、
-  word_list: [出, て, 来, た, わ]
   sound: f000164.mp3
   sound_begin: 390640
   sound_end: 391360
+  sentence: 出て来たわ、
+  words:
+    - word: 出
+      base: 出る
+      postiion: 0
+    - word: て
+      postiion: 1
+    - word: 来
+      base: 来る
+      postiion: 2
+    - word: た
+      postiion: 3
+    - word: わ
+      postiion: 4
 - id: Akatonbo-f000165
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 出て来たわ、
-  word_list: [出, て, 来, た, わ]
   sound: f000165.mp3
   sound_begin: 391360
   sound_end: 392000
+  sentence: 出て来たわ、
+  words:
+    - word: 出
+      base: 出る
+      postiion: 0
+    - word: て
+      postiion: 1
+    - word: 来
+      base: 来る
+      postiion: 2
+    - word: た
+      postiion: 3
+    - word: わ
+      postiion: 4
 - id: Akatonbo-f000166
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 小さな蜘蛛が、
-  word_list: [小さな, 蜘蛛, が]
   sound: f000166.mp3
   sound_begin: 392000
   sound_end: 393160
+  sentence: 小さな蜘蛛が、
+  words:
+    - word: 小さな
+      postiion: 0
+    - word: 蜘蛛
+      postiion: 3
+    - word: が
+      postiion: 5
 - id: Akatonbo-f000167
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 雲のように出て来ました。
-  word_list: [雲, の, よう, に, 出, て, 来, まし, た]
   sound: f000167.mp3
   sound_begin: 393160
   sound_end: 394614
+  sentence: 雲のように出て来ました。
+  words:
+    - word: 雲
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: よう
+      base: 様
+      postiion: 2
+    - word: に
+      base: だ
+      postiion: 4
+    - word: 出
+      base: 出る
+      postiion: 5
+    - word: て
+      postiion: 6
+    - word: 来
+      base: 来る
+      postiion: 7
+    - word: まし
+      base: ます
+      postiion: 8
+    - word: た
+      postiion: 10
 - id: Akatonbo-f000168
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: けれども、
-  word_list: [けれど, も]
   sound: f000168.mp3
   sound_begin: 396075
   sound_end: 396640
+  sentence: けれども、
+  words:
+    - word: けれど
+      postiion: 0
+    - word: も
+      postiion: 3
 - id: Akatonbo-f000169
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: とんぼは、
-  word_list: [とんぼ, は]
   sound: f000169.mp3
   sound_begin: 396640
   sound_end: 397320
+  sentence: とんぼは、
+  words:
+    - word: とんぼ
+      base: 蜻蛉
+      postiion: 0
+    - word: は
+      postiion: 3
 - id: Akatonbo-f000170
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: もともと強いんですから、
-  word_list: [もともと, 強い, ん, です, から]
   sound: f000170.mp3
   sound_begin: 397320
   sound_end: 399086
+  sentence: もともと強いんですから、
+  words:
+    - word: もともと
+      base: 元々
+      postiion: 0
+    - word: 強い
+      postiion: 4
+    - word: ん
+      base: の
+      postiion: 6
+    - word: です
+      postiion: 7
+    - word: から
+      postiion: 9
 - id: Akatonbo-f000171
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 片端から蜘蛛にくいついて、
-  word_list: [片端, から, 蜘蛛, に, くい, つい, て]
   sound: f000171.mp3
   sound_begin: 399086
   sound_end: 401578
+  sentence: 片端から蜘蛛にくいついて、
+  words:
+    - word: 片端
+      postiion: 0
+    - word: から
+      postiion: 2
+    - word: 蜘蛛
+      postiion: 4
+    - word: に
+      postiion: 6
+    - word: くい
+      base: 食う
+      postiion: 7
+    - word: つい
+      base: 付く
+      postiion: 9
+    - word: て
+      postiion: 11
 - id: Akatonbo-f000172
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: とうとう一匹残らず殺してしまいました。
-  word_list: [とうとう, 一, 匹, 残ら, ず, 殺し, て, しまい, まし, た]
   sound: f000172.mp3
   sound_begin: 401578
   sound_end: 405906
+  sentence: とうとう一匹残らず殺してしまいました。
+  words:
+    - word: とうとう
+      base: 到頭
+      postiion: 0
+    - word: 一
+      base: '1'
+      postiion: 4
+    - word: 匹
+      postiion: 5
+    - word: 残ら
+      base: 残る
+      postiion: 6
+    - word: ず
+      postiion: 8
+    - word: 殺し
+      base: 殺す
+      postiion: 9
+    - word: て
+      postiion: 11
+    - word: しまい
+      base: 仕舞う
+      postiion: 12
+    - word: まし
+      base: ます
+      postiion: 15
+    - word: た
+      postiion: 17
 - id: Akatonbo-f000173
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: ホッとしてそのとんぼが、
-  word_list: [ホッと, し, て, その, とんぼ, が]
   sound: f000173.mp3
   sound_begin: 405906
   sound_end: 407640
+  sentence: ホッとしてそのとんぼが、
+  words:
+    - word: ホッと
+      base: ほっと
+      postiion: 0
+    - word: し
+      base: 為る
+      postiion: 3
+    - word: て
+      postiion: 4
+    - word: その
+      base: 其の
+      postiion: 5
+    - word: とんぼ
+      base: 蜻蛉
+      postiion: 7
+    - word: が
+      postiion: 10
 - id: Akatonbo-f000174
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 自分の姿を見ると、
-  word_list: [自分, の, 姿, を, 見る, と]
   sound: f000174.mp3
   sound_begin: 407640
   sound_end: 409648
+  sentence: 自分の姿を見ると、
+  words:
+    - word: 自分
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 姿
+      postiion: 3
+    - word: を
+      postiion: 4
+    - word: 見る
+      postiion: 5
+    - word: と
+      postiion: 7
 - id: Akatonbo-f000175
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: これはまあどうでしょう、
-  word_list: [これ, は, まあ, どう, でしょう]
   sound: f000175.mp3
   sound_begin: 409648
   sound_end: 412085
+  sentence: これはまあどうでしょう、
+  words:
+    - word: これ
+      base: 此れ
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: まあ
+      postiion: 3
+    - word: どう
+      postiion: 5
+    - word: でしょう
+      base: です
+      postiion: 7
 - id: Akatonbo-f000176
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 蜘蛛の血が、
-  word_list: [蜘蛛, の, 血, が]
   sound: f000176.mp3
   sound_begin: 412085
   sound_end: 413520
+  sentence: 蜘蛛の血が、
+  words:
+    - word: 蜘蛛
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 血
+      postiion: 3
+    - word: が
+      postiion: 4
 - id: Akatonbo-f000177
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: まっかについてるじゃありませんか。
-  word_list: [まっか, に, つい, てる, じゃ, あり, ませ, ん, か]
   sound: f000177.mp3
   sound_begin: 413520
   sound_end: 416714
+  sentence: まっかについてるじゃありませんか。
+  words:
+    - word: まっか
+      base: 真っ赤
+      postiion: 0
+    - word: に
+      base: だ
+      postiion: 3
+    - word: つい
+      base: つく
+      postiion: 4
+    - word: てる
+      postiion: 6
+    - word: じゃ
+      base: だ
+      postiion: 8
+    - word: あり
+      base: 有る
+      postiion: 10
+    - word: ませ
+      base: ます
+      postiion: 12
+    - word: ん
+      base: ず
+      postiion: 14
+    - word: か
+      postiion: 15
 - id: Akatonbo-f000178
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: さあ大変だって、
-  word_list: [さあ, 大変, だ, って]
   sound: f000178.mp3
   sound_begin: 416714
   sound_end: 418428
+  sentence: さあ大変だって、
+  words:
+    - word: さあ
+      postiion: 0
+    - word: 大変
+      postiion: 2
+    - word: だ
+      postiion: 4
+    - word: って
+      postiion: 5
 - id: Akatonbo-f000179
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: とんぼは、
-  word_list: [とんぼ, は]
   sound: f000179.mp3
   sound_begin: 418428
   sound_end: 418940
+  sentence: とんぼは、
+  words:
+    - word: とんぼ
+      base: 蜻蛉
+      postiion: 0
+    - word: は
+      postiion: 3
 - id: Akatonbo-f000180
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 泉へ飛んで行って、
-  word_list: [泉, へ, 飛ん, で, 行っ, て]
   sound: f000180.mp3
   sound_begin: 418940
   sound_end: 420120
+  sentence: 泉へ飛んで行って、
+  words:
+    - word: 泉
+      postiion: 0
+    - word: へ
+      postiion: 1
+    - word: 飛ん
+      base: 飛ぶ
+      postiion: 2
+    - word: で
+      postiion: 4
+    - word: 行っ
+      base: 行く
+      postiion: 5
+    - word: て
+      postiion: 7
 - id: Akatonbo-f000181
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: からだを洗いました。
-  word_list: [からだ, を, 洗い, まし, た]
   sound: f000181.mp3
   sound_begin: 420120
   sound_end: 422054
+  sentence: からだを洗いました。
+  words:
+    - word: からだ
+      base: 体
+      postiion: 0
+    - word: を
+      postiion: 3
+    - word: 洗い
+      base: 洗う
+      postiion: 4
+    - word: まし
+      base: ます
+      postiion: 6
+    - word: た
+      postiion: 8
 - id: Akatonbo-f000182
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: が、
-  word_list: [が]
   sound: f000182.mp3
   sound_begin: 422054
   sound_end: 422798
+  sentence: が、
+  words:
+    - word: が
+      postiion: 0
 - id: Akatonbo-f000183
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 赤い血はちっともとれません。
-  word_list: [赤い, 血, は, ちっとも, とれ, ませ, ん]
   sound: f000183.mp3
   sound_begin: 422798
   sound_end: 426760
+  sentence: 赤い血はちっともとれません。
+  words:
+    - word: 赤い
+      postiion: 0
+    - word: 血
+      postiion: 2
+    - word: は
+      postiion: 3
+    - word: ちっとも
+      base: 些とも
+      postiion: 4
+    - word: とれ
+      base: 取る
+      postiion: 8
+    - word: ませ
+      base: ます
+      postiion: 10
+    - word: ん
+      base: ず
+      postiion: 12
 - id: Akatonbo-f000184
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: で、
-  word_list: [で]
   sound: f000184.mp3
   sound_begin: 426760
   sound_end: 426920
+  sentence: で、
+  words:
+    - word: で
+      postiion: 0
 - id: Akatonbo-f000185
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 神様にお願いしてみると、
-  word_list: [神, 様, に, お, 願い, し, て, みる, と]
   sound: f000185.mp3
   sound_begin: 426920
   sound_end: 429277
+  sentence: 神様にお願いしてみると、
+  words:
+    - word: 神
+      postiion: 0
+    - word: 様
+      postiion: 1
+    - word: に
+      postiion: 2
+    - word: お
+      base: 御
+      postiion: 3
+    - word: 願い
+      base: 願う
+      postiion: 4
+    - word: し
+      base: 為る
+      postiion: 6
+    - word: て
+      postiion: 7
+    - word: みる
+      base: 見る
+      postiion: 8
+    - word: と
+      postiion: 10
 - id: Akatonbo-f000186
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: お前は、
-  word_list: [お前, は]
   sound: f000186.mp3
   sound_begin: 429277
   sound_end: 429960
+  sentence: お前は、
+  words:
+    - word: お前
+      base: 御前
+      postiion: 0
+    - word: は
+      postiion: 2
 - id: Akatonbo-f000187
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 罪の無い蜘蛛をたくさん殺したから、
-  word_list: [罪, の, 無い, 蜘蛛, を, たくさん, 殺し, た, から]
   sound: f000187.mp3
   sound_begin: 429960
   sound_end: 432691
+  sentence: 罪の無い蜘蛛をたくさん殺したから、
+  words:
+    - word: 罪
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 無い
+      postiion: 2
+    - word: 蜘蛛
+      postiion: 4
+    - word: を
+      postiion: 6
+    - word: たくさん
+      base: 沢山
+      postiion: 7
+    - word: 殺し
+      base: 殺す
+      postiion: 11
+    - word: た
+      postiion: 13
+    - word: から
+      postiion: 14
 - id: Akatonbo-f000188
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: そのたたりでそんなになったんだと、
-  word_list: [その, たたり, で, そんな, に, なっ, た, ん, だ, と]
   sound: f000188.mp3
   sound_begin: 432691
   sound_end: 435470
+  sentence: そのたたりでそんなになったんだと、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: たたり
+      base: 祟り
+      postiion: 2
+    - word: で
+      postiion: 5
+    - word: そんな
+      postiion: 6
+    - word: に
+      base: だ
+      postiion: 9
+    - word: なっ
+      base: 成る
+      postiion: 10
+    - word: た
+      postiion: 12
+    - word: ん
+      base: の
+      postiion: 13
+    - word: だ
+      postiion: 14
+    - word: と
+      postiion: 15
 - id: Akatonbo-f000189
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 叱られてしまいました。
-  word_list: [叱ら, れ, て, しまい, まし, た]
   sound: f000189.mp3
   sound_begin: 435470
   sound_end: 438515
+  sentence: 叱られてしまいました。
+  words:
+    - word: 叱ら
+      base: 叱る
+      postiion: 0
+    - word: れ
+      base: れる
+      postiion: 2
+    - word: て
+      postiion: 3
+    - word: しまい
+      base: 仕舞う
+      postiion: 4
+    - word: まし
+      base: ます
+      postiion: 7
+    - word: た
+      postiion: 9
 - id: Akatonbo-f000190
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: そのとんぼが今の赤とんぼなんですよ。
-  word_list: [その, とんぼ, が, 今, の, 赤とんぼ, な, ん, です, よ]
   sound: f000190.mp3
   sound_begin: 438515
   sound_end: 442557
+  sentence: そのとんぼが今の赤とんぼなんですよ。
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: とんぼ
+      base: 蜻蛉
+      postiion: 2
+    - word: が
+      postiion: 5
+    - word: 今
+      postiion: 6
+    - word: の
+      postiion: 7
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 8
+    - word: な
+      base: だ
+      postiion: 12
+    - word: ん
+      base: の
+      postiion: 13
+    - word: です
+      postiion: 14
+    - word: よ
+      postiion: 16
 - id: Akatonbo-f000191
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: だから、
-  word_list: [だ, から]
   sound: f000191.mp3
   sound_begin: 442557
   sound_end: 443600
+  sentence: だから、
+  words:
+    - word: だ
+      postiion: 0
+    - word: から
+      postiion: 1
 - id: Akatonbo-f000192
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 赤とんぼは良くないとんぼです。」
-  word_list: [赤とんぼ, は, 良く, ない, とんぼ, です]
   sound: f000192.mp3
   sound_begin: 443600
   sound_end: 448128
+  sentence: 赤とんぼは良くないとんぼです。」
+  words:
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 0
+    - word: は
+      postiion: 4
+    - word: 良く
+      base: 良い
+      postiion: 5
+    - word: ない
+      base: 無い
+      postiion: 7
+    - word: とんぼ
+      base: 蜻蛉
+      postiion: 9
+    - word: です
+      postiion: 12
 - id: Akatonbo-f000193
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 書生さんのお話は終わりました。
-  word_list: [書生, さん, の, お, 話, は, 終わり, まし, た]
   sound: f000193.mp3
   sound_begin: 448128
   sound_end: 451720
+  sentence: 書生さんのお話は終わりました。
+  words:
+    - word: 書生
+      postiion: 0
+    - word: さん
+      postiion: 2
+    - word: の
+      postiion: 4
+    - word: お
+      base: 御
+      postiion: 5
+    - word: 話
+      postiion: 6
+    - word: は
+      postiion: 7
+    - word: 終わり
+      base: 終わる
+      postiion: 8
+    - word: まし
+      base: ます
+      postiion: 11
+    - word: た
+      postiion: 13
 - id: Akatonbo-f000194
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 私は、
-  word_list: [私, は]
   sound: f000194.mp3
   sound_begin: 451720
   sound_end: 452744
+  sentence: 私は、
+  words:
+    - word: 私
+      postiion: 0
+    - word: は
+      postiion: 1
 - id: Akatonbo-f000195
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: そんな酷い事をしたおぼえはないがと、
-  word_list: [そんな, 酷い, 事, を, し, た, おぼえ, は, ない, が, と]
   sound: f000195.mp3
   sound_begin: 452744
   sound_end: 456440
+  sentence: そんな酷い事をしたおぼえはないがと、
+  words:
+    - word: そんな
+      postiion: 0
+    - word: 酷い
+      postiion: 3
+    - word: 事
+      postiion: 5
+    - word: を
+      postiion: 6
+    - word: し
+      base: 為る
+      postiion: 7
+    - word: た
+      postiion: 8
+    - word: おぼえ
+      base: 覚え
+      postiion: 9
+    - word: は
+      postiion: 12
+    - word: ない
+      base: 無い
+      postiion: 13
+    - word: が
+      postiion: 15
+    - word: と
+      postiion: 16
 - id: Akatonbo-f000196
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 赤とんぼが、
-  word_list: [赤とんぼ, が]
   sound: f000196.mp3
   sound_begin: 456440
   sound_end: 457160
+  sentence: 赤とんぼが、
+  words:
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 0
+    - word: が
+      postiion: 4
 - id: Akatonbo-f000197
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 首をひねって考えましたとき、
-  word_list: [首, を, ひねっ, て, 考え, まし, た, とき]
   sound: f000197.mp3
   sound_begin: 457160
   sound_end: 460022
+  sentence: 首をひねって考えましたとき、
+  words:
+    - word: 首
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: ひねっ
+      base: 捻る
+      postiion: 2
+    - word: て
+      postiion: 5
+    - word: 考え
+      base: 考える
+      postiion: 6
+    - word: まし
+      base: ます
+      postiion: 8
+    - word: た
+      postiion: 10
+    - word: とき
+      base: 時
+      postiion: 11
 - id: Akatonbo-f000198
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: おじょうちゃんが大声でさけびました。
-  word_list: [お, じょう, ちゃん, が, 大声, で, さけび, まし, た]
   sound: f000198.mp3
   sound_begin: 460022
   sound_end: 463313
+  sentence: おじょうちゃんが大声でさけびました。
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: じょう
+      postiion: 1
+    - word: ちゃん
+      postiion: 4
+    - word: が
+      postiion: 7
+    - word: 大声
+      postiion: 8
+    - word: で
+      postiion: 10
+    - word: さけび
+      base: 叫ぶ
+      postiion: 11
+    - word: まし
+      base: ます
+      postiion: 14
+    - word: た
+      postiion: 16
 - id: Akatonbo-f000199
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 「嘘だ嘘だ！
-  word_list: [嘘, だ, 嘘, だ]
   sound: f000199.mp3
   sound_begin: 463313
   sound_end: 466132
+  sentence: 「嘘だ嘘だ！
+  words:
+    - word: 嘘
+      postiion: 1
+    - word: だ
+      postiion: 2
+    - word: 嘘
+      postiion: 3
+    - word: だ
+      postiion: 4
 - id: Akatonbo-f000200
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 山田のお話は、
-  word_list: [山田, の, お, 話, は]
   sound: f000200.mp3
   sound_begin: 466132
   sound_end: 467240
+  sentence: 山田のお話は、
+  words:
+    - word: 山田
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: お
+      base: 御
+      postiion: 3
+    - word: 話
+      postiion: 4
+    - word: は
+      postiion: 5
 - id: Akatonbo-f000201
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: みんな嘘だよ。
-  word_list: [みんな, 嘘, だ, よ]
   sound: f000201.mp3
   sound_begin: 467240
   sound_end: 469417
+  sentence: みんな嘘だよ。
+  words:
+    - word: みんな
+      base: 皆
+      postiion: 0
+    - word: 嘘
+      postiion: 3
+    - word: だ
+      postiion: 4
+    - word: よ
+      postiion: 5
 - id: Akatonbo-f000202
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: あんなかあいらしい赤とんぼが、
-  word_list: [あんな, か, あいらしい, 赤とんぼ, が]
   sound: f000202.mp3
   sound_begin: 469417
   sound_end: 471588
+  sentence: あんなかあいらしい赤とんぼが、
+  words:
+    - word: あんな
+      postiion: 0
+    - word: か
+      postiion: 3
+    - word: あいらしい
+      base: 愛らしい
+      postiion: 4
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 9
+    - word: が
+      postiion: 13
 - id: Akatonbo-f000203
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: そんな酷い事をするなんて、
-  word_list: [そんな, 酷い, 事, を, する, なんて]
   sound: f000203.mp3
   sound_begin: 471588
   sound_end: 474223
+  sentence: そんな酷い事をするなんて、
+  words:
+    - word: そんな
+      postiion: 0
+    - word: 酷い
+      postiion: 3
+    - word: 事
+      postiion: 5
+    - word: を
+      postiion: 6
+    - word: する
+      base: 為る
+      postiion: 7
+    - word: なんて
+      postiion: 9
 - id: Akatonbo-f000204
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 蜘蛛の赤血だなんて──
-  word_list: [蜘蛛, の, 赤血, だ, なんて, ─, ─]
   sound: f000204.mp3
   sound_begin: 474223
   sound_end: 476480
+  sentence: 蜘蛛の赤血だなんて──
+  words:
+    - word: 蜘蛛
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 赤血
+      postiion: 3
+    - word: だ
+      postiion: 5
+    - word: なんて
+      postiion: 6
+    - word: ─
+      postiion: 9
+    - word: ─
+      postiion: 9
 - id: Akatonbo-f000205
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: みんな嘘だよ。」
-  word_list: [みんな, 嘘, だ, よ]
   sound: f000205.mp3
   sound_begin: 476480
   sound_end: 479808
+  sentence: みんな嘘だよ。」
+  words:
+    - word: みんな
+      base: 皆
+      postiion: 0
+    - word: 嘘
+      postiion: 3
+    - word: だ
+      postiion: 4
+    - word: よ
+      postiion: 5
 - id: Akatonbo-f000206
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 赤とんぼは、
-  word_list: [赤とんぼ, は]
   sound: f000206.mp3
   sound_begin: 479808
   sound_end: 480696
+  sentence: 赤とんぼは、
+  words:
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 0
+    - word: は
+      postiion: 4
 - id: Akatonbo-f000207
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 真実にうれしく思いました。
-  word_list: [真実, に, うれしく, 思い, まし, た]
   sound: f000207.mp3
   sound_begin: 480696
   sound_end: 483840
+  sentence: 真実にうれしく思いました。
+  words:
+    - word: 真実
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: うれしく
+      base: 嬉しい
+      postiion: 3
+    - word: 思い
+      base: 思う
+      postiion: 7
+    - word: まし
+      base: ます
+      postiion: 9
+    - word: た
+      postiion: 11
 - id: Akatonbo-f000208
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 例の書生さんは、
-  word_list: [例, の, 書生, さん, は]
   sound: f000208.mp3
   sound_begin: 483840
   sound_end: 485359
+  sentence: 例の書生さんは、
+  words:
+    - word: 例
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 書生
+      postiion: 2
+    - word: さん
+      postiion: 4
+    - word: は
+      postiion: 6
 - id: Akatonbo-f000209
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 顔をあかくして行ってしまいました。
-  word_list: [顔, を, あかく, し, て, 行っ, て, しまい, まし, た]
   sound: f000209.mp3
   sound_begin: 485359
   sound_end: 487673
+  sentence: 顔をあかくして行ってしまいました。
+  words:
+    - word: 顔
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: あかく
+      base: 赤い
+      postiion: 2
+    - word: し
+      base: 為る
+      postiion: 5
+    - word: て
+      postiion: 6
+    - word: 行っ
+      base: 行く
+      postiion: 7
+    - word: て
+      postiion: 9
+    - word: しまい
+      base: 仕舞う
+      postiion: 10
+    - word: まし
+      base: ます
+      postiion: 13
+    - word: た
+      postiion: 15
 - id: Akatonbo-f000210
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 窓から離れて、
-  word_list: [窓, から, 離れ, て]
   sound: f000210.mp3
   sound_begin: 490400
   sound_end: 491831
+  sentence: 窓から離れて、
+  words:
+    - word: 窓
+      postiion: 0
+    - word: から
+      postiion: 1
+    - word: 離れ
+      base: 離れる
+      postiion: 3
+    - word: て
+      postiion: 5
 - id: Akatonbo-f000211
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 赤とんぼは、
-  word_list: [赤とんぼ, は]
   sound: f000211.mp3
   sound_begin: 491831
   sound_end: 492487
+  sentence: 赤とんぼは、
+  words:
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 0
+    - word: は
+      postiion: 4
 - id: Akatonbo-f000212
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: おじょうちゃんの肩につかまりました。
-  word_list: [お, じょう, ちゃん, の, 肩, に, つかまり, まし, た]
   sound: f000212.mp3
   sound_begin: 492487
   sound_end: 496280
+  sentence: おじょうちゃんの肩につかまりました。
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: じょう
+      postiion: 1
+    - word: ちゃん
+      postiion: 4
+    - word: の
+      postiion: 7
+    - word: 肩
+      postiion: 8
+    - word: に
+      postiion: 9
+    - word: つかまり
+      base: 捕まる
+      postiion: 10
+    - word: まし
+      base: ます
+      postiion: 14
+    - word: た
+      postiion: 16
 - id: Akatonbo-f000213
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 「まア！
-  word_list: [まア]
   sound: f000213.mp3
   sound_begin: 496280
   sound_end: 497546
+  sentence: 「まア！
+  words:
+    - word: まア
+      base: まあ
+      postiion: 1
 - id: Akatonbo-f000214
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: あたしの赤とんぼ！
-  word_list: [あたし, の, 赤とんぼ]
   sound: f000214.mp3
   sound_begin: 497546
   sound_end: 499704
+  sentence: あたしの赤とんぼ！
+  words:
+    - word: あたし
+      base: 私
+      postiion: 0
+    - word: の
+      postiion: 3
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 4
 - id: Akatonbo-f000215
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: かあいい赤とんぼ！」
-  word_list: [かあ, いい, 赤とんぼ]
   sound: f000215.mp3
   sound_begin: 499704
   sound_end: 503760
+  sentence: かあいい赤とんぼ！」
+  words:
+    - word: かあ
+      base: 母
+      postiion: 0
+    - word: いい
+      base: 良い
+      postiion: 2
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 4
 - id: Akatonbo-f000216
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: おじょうちゃんの瞳は、
-  word_list: [お, じょう, ちゃん, の, 瞳, は]
   sound: f000216.mp3
   sound_begin: 503760
   sound_end: 505323
+  sentence: おじょうちゃんの瞳は、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: じょう
+      postiion: 1
+    - word: ちゃん
+      postiion: 4
+    - word: の
+      postiion: 7
+    - word: 瞳
+      postiion: 8
+    - word: は
+      postiion: 9
 - id: Akatonbo-f000217
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 黒く澄んでいました。
-  word_list: [黒く, 澄ん, で, い, まし, た]
   sound: f000217.mp3
   sound_begin: 505323
   sound_end: 506800
+  sentence: 黒く澄んでいました。
+  words:
+    - word: 黒く
+      base: 黒い
+      postiion: 0
+    - word: 澄ん
+      base: 澄む
+      postiion: 2
+    - word: で
+      postiion: 4
+    - word: い
+      base: 居る
+      postiion: 5
+    - word: まし
+      base: ます
+      postiion: 6
+    - word: た
+      postiion: 8
 - id: Akatonbo-f000218
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 暑かった夏は、
-  word_list: [暑かっ, た, 夏, は]
   sound: f000218.mp3
   sound_begin: 509570
   sound_end: 511311
+  sentence: 暑かった夏は、
+  words:
+    - word: 暑かっ
+      base: 暑い
+      postiion: 0
+    - word: た
+      postiion: 3
+    - word: 夏
+      postiion: 4
+    - word: は
+      postiion: 5
 - id: Akatonbo-f000219
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: いつの間にかすぎさってしまいました。
-  word_list: [いつ, の, 間, に, か, すぎ, さっ, て, しまい, まし, た]
   sound: f000219.mp3
   sound_begin: 511311
   sound_end: 515256
+  sentence: いつの間にかすぎさってしまいました。
+  words:
+    - word: いつ
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 間
+      postiion: 3
+    - word: に
+      postiion: 4
+    - word: か
+      postiion: 5
+    - word: すぎ
+      base: 過ぎる
+      postiion: 6
+    - word: さっ
+      base: 去る
+      postiion: 8
+    - word: て
+      postiion: 10
+    - word: しまい
+      base: 仕舞う
+      postiion: 11
+    - word: まし
+      base: ます
+      postiion: 14
+    - word: た
+      postiion: 16
 - id: Akatonbo-f000220
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 朝顔は、
-  word_list: [朝顔, は]
   sound: f000220.mp3
   sound_begin: 515256
   sound_end: 516288
+  sentence: 朝顔は、
+  words:
+    - word: 朝顔
+      postiion: 0
+    - word: は
+      postiion: 2
 - id: Akatonbo-f000221
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 垣根にまきついたまま、
-  word_list: [垣根, に, まき, つい, た, まま]
   sound: f000221.mp3
   sound_begin: 516288
   sound_end: 518022
+  sentence: 垣根にまきついたまま、
+  words:
+    - word: 垣根
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: まき
+      base: まく
+      postiion: 3
+    - word: つい
+      base: 付く
+      postiion: 5
+    - word: た
+      postiion: 7
+    - word: まま
+      base: 侭
+      postiion: 8
 - id: Akatonbo-f000222
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: しおれました。
-  word_list: [しおれ, まし, た]
   sound: f000222.mp3
   sound_begin: 518022
   sound_end: 518960
+  sentence: しおれました。
+  words:
+    - word: しおれ
+      base: 萎れる
+      postiion: 0
+    - word: まし
+      base: ます
+      postiion: 3
+    - word: た
+      postiion: 5
 - id: Akatonbo-f000223
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 鈴虫が、
-  word_list: [鈴虫, が]
   sound: f000223.mp3
   sound_begin: 521159
   sound_end: 522344
+  sentence: 鈴虫が、
+  words:
+    - word: 鈴虫
+      postiion: 0
+    - word: が
+      postiion: 2
 - id: Akatonbo-f000224
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 涼しい声でなくようになりました。
-  word_list: [涼しい, 声, で, なく, よう, に, なり, まし, た]
   sound: f000224.mp3
   sound_begin: 522344
   sound_end: 524802
+  sentence: 涼しい声でなくようになりました。
+  words:
+    - word: 涼しい
+      postiion: 0
+    - word: 声
+      postiion: 3
+    - word: で
+      base: だ
+      postiion: 4
+    - word: なく
+      base: 無い
+      postiion: 5
+    - word: よう
+      base: 様
+      postiion: 7
+    - word: に
+      base: だ
+      postiion: 9
+    - word: なり
+      base: 成る
+      postiion: 10
+    - word: まし
+      base: ます
+      postiion: 12
+    - word: た
+      postiion: 14
 - id: Akatonbo-f000225
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 今日も、
-  word_list: [今日, も]
   sound: f000225.mp3
   sound_begin: 528000
   sound_end: 528482
+  sentence: 今日も、
+  words:
+    - word: 今日
+      postiion: 0
+    - word: も
+      postiion: 2
 - id: Akatonbo-f000226
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 赤とんぼは、
-  word_list: [赤とんぼ, は]
   sound: f000226.mp3
   sound_begin: 528482
   sound_end: 529480
+  sentence: 赤とんぼは、
+  words:
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 0
+    - word: は
+      postiion: 4
 - id: Akatonbo-f000227
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: おじょうちゃんに会いにやって来ました。
-  word_list: [お, じょう, ちゃん, に, 会い, に, やっ, て, 来, まし, た]
   sound: f000227.mp3
   sound_begin: 529480
   sound_end: 533364
+  sentence: おじょうちゃんに会いにやって来ました。
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: じょう
+      postiion: 1
+    - word: ちゃん
+      postiion: 4
+    - word: に
+      postiion: 7
+    - word: 会い
+      base: 会う
+      postiion: 8
+    - word: に
+      postiion: 10
+    - word: やっ
+      base: 遣る
+      postiion: 11
+    - word: て
+      postiion: 13
+    - word: 来
+      base: 来る
+      postiion: 14
+    - word: まし
+      base: ます
+      postiion: 15
+    - word: た
+      postiion: 17
 - id: Akatonbo-f000228
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 赤とんぼは、
-  word_list: [赤とんぼ, は]
   sound: f000228.mp3
   sound_begin: 533364
   sound_end: 534040
+  sentence: 赤とんぼは、
+  words:
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 0
+    - word: は
+      postiion: 4
 - id: Akatonbo-f000229
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: ちょっとびっくりしました。
-  word_list: [ちょっと, びっくり, し, まし, た]
   sound: f000229.mp3
   sound_begin: 534040
   sound_end: 536520
+  sentence: ちょっとびっくりしました。
+  words:
+    - word: ちょっと
+      base: 一寸
+      postiion: 0
+    - word: びっくり
+      postiion: 4
+    - word: し
+      base: 為る
+      postiion: 8
+    - word: まし
+      base: ます
+      postiion: 9
+    - word: た
+      postiion: 11
 - id: Akatonbo-f000230
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: それは、
-  word_list: [それ, は]
   sound: f000230.mp3
   sound_begin: 536520
   sound_end: 537406
+  sentence: それは、
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: は
+      postiion: 2
 - id: Akatonbo-f000231
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: いつも開いている窓が、
-  word_list: [いつも, 開い, て, いる, 窓, が]
   sound: f000231.mp3
   sound_begin: 537406
   sound_end: 539320
+  sentence: いつも開いている窓が、
+  words:
+    - word: いつも
+      postiion: 0
+    - word: 開い
+      base: 開く
+      postiion: 3
+    - word: て
+      postiion: 5
+    - word: いる
+      base: 居る
+      postiion: 6
+    - word: 窓
+      postiion: 8
+    - word: が
+      postiion: 9
 - id: Akatonbo-f000232
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 皆しまっているからです。
-  word_list: [皆, しまっ, て, いる, から, です]
   sound: f000232.mp3
   sound_begin: 539320
   sound_end: 542601
+  sentence: 皆しまっているからです。
+  words:
+    - word: 皆
+      postiion: 0
+    - word: しまっ
+      base: 仕舞う
+      postiion: 1
+    - word: て
+      postiion: 4
+    - word: いる
+      base: 居る
+      postiion: 5
+    - word: から
+      postiion: 7
+    - word: です
+      postiion: 9
 - id: Akatonbo-f000233
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: どうしたのかしら？
-  word_list: [どう, し, た, の, かしら]
   sound: f000233.mp3
   sound_begin: 542601
   sound_end: 544363
+  sentence: どうしたのかしら？
+  words:
+    - word: どう
+      postiion: 0
+    - word: し
+      base: 為る
+      postiion: 2
+    - word: た
+      postiion: 3
+    - word: の
+      postiion: 4
+    - word: かしら
+      postiion: 5
 - id: Akatonbo-f000234
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: と、
-  word_list: [と]
   sound: f000234.mp3
   sound_begin: 544363
   sound_end: 544549
+  sentence: と、
+  words:
+    - word: と
+      postiion: 0
 - id: Akatonbo-f000235
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 赤とんぼが考えたとき、
-  word_list: [赤とんぼ, が, 考え, た, とき]
   sound: f000235.mp3
   sound_begin: 544549
   sound_end: 546760
+  sentence: 赤とんぼが考えたとき、
+  words:
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 0
+    - word: が
+      postiion: 4
+    - word: 考え
+      base: 考える
+      postiion: 5
+    - word: た
+      postiion: 7
+    - word: とき
+      base: 時
+      postiion: 8
 - id: Akatonbo-f000236
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 玄関から誰か跳び出して来ました。
-  word_list: [玄関, から, 誰, か, 跳び, 出し, て, 来, まし, た]
   sound: f000236.mp3
   sound_begin: 546760
   sound_end: 550132
+  sentence: 玄関から誰か跳び出して来ました。
+  words:
+    - word: 玄関
+      postiion: 0
+    - word: から
+      postiion: 2
+    - word: 誰
+      postiion: 4
+    - word: か
+      postiion: 5
+    - word: 跳び
+      base: 飛ぶ
+      postiion: 6
+    - word: 出し
+      base: 出す
+      postiion: 8
+    - word: て
+      postiion: 10
+    - word: 来
+      base: 来る
+      postiion: 11
+    - word: まし
+      base: ます
+      postiion: 12
+    - word: た
+      postiion: 14
 - id: Akatonbo-f000237
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: おじょうちゃんです。
-  word_list: [お, じょう, ちゃん, です]
   sound: f000237.mp3
   sound_begin: 550132
   sound_end: 551511
+  sentence: おじょうちゃんです。
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: じょう
+      postiion: 1
+    - word: ちゃん
+      postiion: 4
+    - word: です
+      postiion: 7
 - id: Akatonbo-f000238
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: あのかあいいおじょうちゃんです。
-  word_list: [あの, かあ, いい, お, じょう, ちゃん, です]
   sound: f000238.mp3
   sound_begin: 551511
   sound_end: 554536
+  sentence: あのかあいいおじょうちゃんです。
+  words:
+    - word: あの
+      base: 彼の
+      postiion: 0
+    - word: かあ
+      base: 母
+      postiion: 2
+    - word: いい
+      base: 良い
+      postiion: 4
+    - word: お
+      base: 御
+      postiion: 6
+    - word: じょう
+      postiion: 7
+    - word: ちゃん
+      postiion: 10
+    - word: です
+      postiion: 13
 - id: Akatonbo-f000239
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: けれども、
-  word_list: [けれど, も]
   sound: f000239.mp3
   sound_begin: 554536
   sound_end: 555519
+  sentence: けれども、
+  words:
+    - word: けれど
+      postiion: 0
+    - word: も
+      postiion: 3
 - id: Akatonbo-f000240
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 今日のおじょうちゃんは、
-  word_list: [今日, の, お, じょう, ちゃん, は]
   sound: f000240.mp3
   sound_begin: 555519
   sound_end: 557120
+  sentence: 今日のおじょうちゃんは、
+  words:
+    - word: 今日
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: お
+      base: 御
+      postiion: 3
+    - word: じょう
+      postiion: 4
+    - word: ちゃん
+      postiion: 7
+    - word: は
+      postiion: 10
 - id: Akatonbo-f000241
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 悲しい顔つきでした。
-  word_list: [悲しい, 顔つき, でし, た]
   sound: f000241.mp3
   sound_begin: 557120
   sound_end: 560160
+  sentence: 悲しい顔つきでした。
+  words:
+    - word: 悲しい
+      postiion: 0
+    - word: 顔つき
+      base: 顔付き
+      postiion: 3
+    - word: でし
+      base: です
+      postiion: 6
+    - word: た
+      postiion: 8
 - id: Akatonbo-f000242
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: そして、
-  word_list: [そして]
   sound: f000242.mp3
   sound_begin: 560160
   sound_end: 561090
+  sentence: そして、
+  words:
+    - word: そして
+      postiion: 0
 - id: Akatonbo-f000243
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: この別荘へはじめて来たときかぶってた、
-  word_list: [この, 別荘, へ, はじめて, 来, た, とき, かぶっ, て, た]
   sound: f000243.mp3
   sound_begin: 561090
   sound_end: 563951
+  sentence: この別荘へはじめて来たときかぶってた、
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: 別荘
+      postiion: 2
+    - word: へ
+      postiion: 4
+    - word: はじめて
+      base: 初めて
+      postiion: 5
+    - word: 来
+      base: 来る
+      postiion: 9
+    - word: た
+      postiion: 10
+    - word: とき
+      base: 時
+      postiion: 11
+    - word: かぶっ
+      base: 被る
+      postiion: 13
+    - word: て
+      base: てる
+      postiion: 16
+    - word: た
+      postiion: 17
 - id: Akatonbo-f000244
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 赤いリボンの帽子を着け、
-  word_list: [赤い, リボン, の, 帽子, を, 着け]
   sound: f000244.mp3
   sound_begin: 563951
   sound_end: 566395
+  sentence: 赤いリボンの帽子を着け、
+  words:
+    - word: 赤い
+      postiion: 0
+    - word: リボン
+      postiion: 2
+    - word: の
+      postiion: 5
+    - word: 帽子
+      postiion: 6
+    - word: を
+      postiion: 8
+    - word: 着け
+      base: 着ける
+      postiion: 9
 - id: Akatonbo-f000245
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: きれいな服を着ていました。
-  word_list: [きれい, な, 服, を, 着, て, い, まし, た]
   sound: f000245.mp3
   sound_begin: 566395
   sound_end: 570560
+  sentence: きれいな服を着ていました。
+  words:
+    - word: きれい
+      base: 奇麗
+      postiion: 0
+    - word: な
+      base: だ
+      postiion: 3
+    - word: 服
+      postiion: 4
+    - word: を
+      postiion: 5
+    - word: 着
+      base: 着る
+      postiion: 6
+    - word: て
+      postiion: 7
+    - word: い
+      base: 居る
+      postiion: 8
+    - word: まし
+      base: ます
+      postiion: 9
+    - word: た
+      postiion: 11
 - id: Akatonbo-f000246
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 赤とんぼはいつものように飛んで行って、
-  word_list: [赤とんぼ, は, いつも, の, よう, に, 飛ん, で, 行っ, て]
   sound: f000246.mp3
   sound_begin: 570560
   sound_end: 572964
+  sentence: 赤とんぼはいつものように飛んで行って、
+  words:
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 0
+    - word: は
+      postiion: 4
+    - word: いつも
+      postiion: 5
+    - word: の
+      postiion: 8
+    - word: よう
+      base: 様
+      postiion: 9
+    - word: に
+      base: だ
+      postiion: 11
+    - word: 飛ん
+      base: 飛ぶ
+      postiion: 12
+    - word: で
+      postiion: 14
+    - word: 行っ
+      base: 行く
+      postiion: 15
+    - word: て
+      postiion: 17
 - id: Akatonbo-f000247
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: おじょうちゃんの肩にとまりました。
-  word_list: [お, じょう, ちゃん, の, 肩, に, とまり, まし, た]
   sound: f000247.mp3
   sound_begin: 572964
   sound_end: 577204
+  sentence: おじょうちゃんの肩にとまりました。
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: じょう
+      postiion: 1
+    - word: ちゃん
+      postiion: 4
+    - word: の
+      postiion: 7
+    - word: 肩
+      postiion: 8
+    - word: に
+      postiion: 9
+    - word: とまり
+      base: とまる
+      postiion: 10
+    - word: まし
+      base: ます
+      postiion: 13
+    - word: た
+      postiion: 15
 - id: Akatonbo-f000248
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 「あたしの赤とんぼ……かあいい赤とんぼ……あたし、
-  word_list: [あたし, の, 赤とんぼ, かあ, いい, 赤とんぼ, あたし]
   sound: f000248.mp3
   sound_begin: 577204
   sound_end: 584263
+  sentence: 「あたしの赤とんぼ……かあいい赤とんぼ……あたし、
+  words:
+    - word: あたし
+      base: 私
+      postiion: 1
+    - word: の
+      postiion: 4
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 5
+    - word: かあ
+      base: 母
+      postiion: 11
+    - word: いい
+      base: 良い
+      postiion: 13
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 15
+    - word: あたし
+      base: 私
+      postiion: 21
 - id: Akatonbo-f000249
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 東京へ帰るのよ、
-  word_list: [東京, へ, 帰る, の, よ]
   sound: f000249.mp3
   sound_begin: 584263
   sound_end: 586796
+  sentence: 東京へ帰るのよ、
+  words:
+    - word: 東京
+      postiion: 0
+    - word: へ
+      postiion: 2
+    - word: 帰る
+      postiion: 3
+    - word: の
+      postiion: 5
+    - word: よ
+      postiion: 6
 - id: Akatonbo-f000250
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: もうお別れよ。」
-  word_list: [もう, お, 別れ, よ]
   sound: f000250.mp3
   sound_begin: 586796
   sound_end: 590360
+  sentence: もうお別れよ。」
+  words:
+    - word: もう
+      postiion: 0
+    - word: お
+      base: 御
+      postiion: 2
+    - word: 別れ
+      postiion: 3
+    - word: よ
+      postiion: 5
 - id: Akatonbo-f000251
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: おじょうちゃんは、
-  word_list: [お, じょう, ちゃん, は]
   sound: f000251.mp3
   sound_begin: 590360
   sound_end: 591320
+  sentence: おじょうちゃんは、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: じょう
+      postiion: 1
+    - word: ちゃん
+      postiion: 4
+    - word: は
+      postiion: 7
 - id: Akatonbo-f000252
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 小さい細い声で泣くように言いました。
-  word_list: [小さい, 細い, 声, で, 泣く, よう, に, 言い, まし, た]
   sound: f000252.mp3
   sound_begin: 591320
   sound_end: 596034
+  sentence: 小さい細い声で泣くように言いました。
+  words:
+    - word: 小さい
+      postiion: 0
+    - word: 細い
+      postiion: 3
+    - word: 声
+      postiion: 5
+    - word: で
+      postiion: 6
+    - word: 泣く
+      postiion: 7
+    - word: よう
+      base: 様
+      postiion: 9
+    - word: に
+      base: だ
+      postiion: 11
+    - word: 言い
+      base: 言う
+      postiion: 12
+    - word: まし
+      base: ます
+      postiion: 14
+    - word: た
+      postiion: 16
 - id: Akatonbo-f000253
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 赤とんぼは悲しくなりました。
-  word_list: [赤とんぼ, は, 悲しく, なり, まし, た]
   sound: f000253.mp3
   sound_begin: 596034
   sound_end: 599400
+  sentence: 赤とんぼは悲しくなりました。
+  words:
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 0
+    - word: は
+      postiion: 4
+    - word: 悲しく
+      base: 悲しい
+      postiion: 5
+    - word: なり
+      base: 成る
+      postiion: 8
+    - word: まし
+      base: ます
+      postiion: 10
+    - word: た
+      postiion: 12
 - id: Akatonbo-f000254
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 自分もおじょうちゃんといっしょに東京へ行きたいなと思いました。
-  word_list: [自分, も, お, じょう, ちゃん, と, いっしょ, に, 東京, へ, 行き, たい, な, と, 思い, まし, た]
   sound: f000254.mp3
   sound_begin: 599400
   sound_end: 606562
+  sentence: 自分もおじょうちゃんといっしょに東京へ行きたいなと思いました。
+  words:
+    - word: 自分
+      postiion: 0
+    - word: も
+      postiion: 2
+    - word: お
+      base: 御
+      postiion: 3
+    - word: じょう
+      postiion: 4
+    - word: ちゃん
+      postiion: 7
+    - word: と
+      postiion: 10
+    - word: いっしょ
+      base: 一緒
+      postiion: 11
+    - word: に
+      postiion: 15
+    - word: 東京
+      postiion: 16
+    - word: へ
+      postiion: 18
+    - word: 行き
+      base: 行く
+      postiion: 19
+    - word: たい
+      postiion: 21
+    - word: な
+      postiion: 23
+    - word: と
+      postiion: 24
+    - word: 思い
+      base: 思う
+      postiion: 25
+    - word: まし
+      base: ます
+      postiion: 27
+    - word: た
+      postiion: 29
 - id: Akatonbo-f000255
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: そのとき、
-  word_list: [その, とき]
   sound: f000255.mp3
   sound_begin: 606562
   sound_end: 607720
+  sentence: そのとき、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: とき
+      base: 時
+      postiion: 2
 - id: Akatonbo-f000256
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: おじょうちゃんのお母さんと、
-  word_list: [お, じょう, ちゃん, の, お, 母さん, と]
   sound: f000256.mp3
   sound_begin: 607720
   sound_end: 609920
+  sentence: おじょうちゃんのお母さんと、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: じょう
+      postiion: 1
+    - word: ちゃん
+      postiion: 4
+    - word: の
+      postiion: 7
+    - word: お
+      base: 御
+      postiion: 8
+    - word: 母さん
+      postiion: 9
+    - word: と
+      postiion: 12
 - id: Akatonbo-f000257
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 赤とんぼにいたずらをした書生さんが、
-  word_list: [赤とんぼ, に, いたずら, を, し, た, 書生, さん, が]
   sound: f000257.mp3
   sound_begin: 609920
   sound_end: 611929
+  sentence: 赤とんぼにいたずらをした書生さんが、
+  words:
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 0
+    - word: に
+      postiion: 4
+    - word: いたずら
+      base: 悪戯
+      postiion: 5
+    - word: を
+      postiion: 9
+    - word: し
+      base: 為る
+      postiion: 10
+    - word: た
+      postiion: 11
+    - word: 書生
+      postiion: 12
+    - word: さん
+      postiion: 14
+    - word: が
+      postiion: 16
 - id: Akatonbo-f000258
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 出てまいりました。
-  word_list: [出, て, まいり, まし, た]
   sound: f000258.mp3
   sound_begin: 611929
   sound_end: 615179
+  sentence: 出てまいりました。
+  words:
+    - word: 出
+      base: 出る
+      postiion: 0
+    - word: て
+      postiion: 1
+    - word: まいり
+      base: 参る
+      postiion: 2
+    - word: まし
+      base: ます
+      postiion: 5
+    - word: た
+      postiion: 7
 - id: Akatonbo-f000259
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 「ではまいりましょう。」
-  word_list: [で, は, まいり, ましょう]
   sound: f000259.mp3
   sound_begin: 615179
   sound_end: 618517
+  sentence: 「ではまいりましょう。」
+  words:
+    - word: で
+      postiion: 1
+    - word: は
+      postiion: 2
+    - word: まいり
+      base: 参る
+      postiion: 3
+    - word: ましょう
+      base: ます
+      postiion: 6
 - id: Akatonbo-f000260
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 皆、
-  word_list: [皆]
   sound: f000260.mp3
   sound_begin: 618517
   sound_end: 619160
+  sentence: 皆、
+  words:
+    - word: 皆
+      postiion: 0
 - id: Akatonbo-f000261
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 歩き出しました。
-  word_list: [歩き, 出し, まし, た]
   sound: f000261.mp3
   sound_begin: 619160
   sound_end: 622511
+  sentence: 歩き出しました。
+  words:
+    - word: 歩き
+      base: 歩く
+      postiion: 0
+    - word: 出し
+      base: 出す
+      postiion: 2
+    - word: まし
+      base: ます
+      postiion: 4
+    - word: た
+      postiion: 6
 - id: Akatonbo-f000262
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 赤とんぼは、
-  word_list: [赤とんぼ, は]
   sound: f000262.mp3
   sound_begin: 622511
   sound_end: 623570
+  sentence: 赤とんぼは、
+  words:
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 0
+    - word: は
+      postiion: 4
 - id: Akatonbo-f000263
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: やがておじょうちゃんの肩を離れて、
-  word_list: [やがて, お, じょう, ちゃん, の, 肩, を, 離れ, て]
   sound: f000263.mp3
   sound_begin: 623570
   sound_end: 626191
+  sentence: やがておじょうちゃんの肩を離れて、
+  words:
+    - word: やがて
+      base: 軈て
+      postiion: 0
+    - word: お
+      base: 御
+      postiion: 3
+    - word: じょう
+      postiion: 4
+    - word: ちゃん
+      postiion: 7
+    - word: の
+      postiion: 10
+    - word: 肩
+      postiion: 11
+    - word: を
+      postiion: 12
+    - word: 離れ
+      base: 離れる
+      postiion: 13
+    - word: て
+      postiion: 15
 - id: Akatonbo-f000264
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 垣根の竹の先にうつりました。
-  word_list: [垣根, の, 竹, の, 先, に, うつり, まし, た]
   sound: f000264.mp3
   sound_begin: 626191
   sound_end: 628940
+  sentence: 垣根の竹の先にうつりました。
+  words:
+    - word: 垣根
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 竹
+      postiion: 3
+    - word: の
+      postiion: 4
+    - word: 先
+      postiion: 5
+    - word: に
+      postiion: 6
+    - word: うつり
+      base: うつる
+      postiion: 7
+    - word: まし
+      base: ます
+      postiion: 10
+    - word: た
+      postiion: 12
 - id: Akatonbo-f000265
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 「あたしの赤とんぼよ、
-  word_list: [あたし, の, 赤とんぼ, よ]
   sound: f000265.mp3
   sound_begin: 630882
   sound_end: 633156
+  sentence: 「あたしの赤とんぼよ、
+  words:
+    - word: あたし
+      base: 私
+      postiion: 1
+    - word: の
+      postiion: 4
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 5
+    - word: よ
+      postiion: 9
 - id: Akatonbo-f000266
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: さようなら──」
-  word_list: [さようなら, ─, ─]
   sound: f000266.mp3
   sound_begin: 633156
   sound_end: 634309
+  sentence: さようなら──」
+  words:
+    - word: さようなら
+      postiion: 0
+    - word: ─
+      postiion: 5
+    - word: ─
+      postiion: 5
 - id: Akatonbo-f000267
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: かあいいおじょうちゃんは、
-  word_list: [かあ, いい, お, じょう, ちゃん, は]
   sound: f000267.mp3
   sound_begin: 636520
   sound_end: 638120
+  sentence: かあいいおじょうちゃんは、
+  words:
+    - word: かあ
+      base: 母
+      postiion: 0
+    - word: いい
+      base: 良い
+      postiion: 2
+    - word: お
+      base: 御
+      postiion: 4
+    - word: じょう
+      postiion: 5
+    - word: ちゃん
+      postiion: 8
+    - word: は
+      postiion: 11
 - id: Akatonbo-f000268
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: なんべんもふりかえっていいました。
-  word_list: [なん, べん, も, ふり, かえっ, て, いい, まし, た]
   sound: f000268.mp3
   sound_begin: 638120
   sound_end: 641028
+  sentence: なんべんもふりかえっていいました。
+  words:
+    - word: なん
+      base: 何
+      postiion: 0
+    - word: べん
+      base: 遍
+      postiion: 2
+    - word: も
+      postiion: 4
+    - word: ふり
+      base: ふる
+      postiion: 5
+    - word: かえっ
+      base: かえる
+      postiion: 7
+    - word: て
+      postiion: 10
+    - word: いい
+      base: 言う
+      postiion: 11
+    - word: まし
+      base: ます
+      postiion: 13
+    - word: た
+      postiion: 15
 - id: Akatonbo-f000269
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: けど、
-  word_list: [けど]
   sound: f000269.mp3
   sound_begin: 641028
   sound_end: 641758
+  sentence: けど、
+  words:
+    - word: けど
+      base: けれど
+      postiion: 0
 - id: Akatonbo-f000270
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: とうとう、
-  word_list: [とうとう]
   sound: f000270.mp3
   sound_begin: 641758
   sound_end: 642920
+  sentence: とうとう、
+  words:
+    - word: とうとう
+      base: 到頭
+      postiion: 0
 - id: Akatonbo-f000271
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 皆の姿は見えなくなってしまったのです。
-  word_list: [皆, の, 姿, は, 見え, なく, なっ, て, しまっ, た, の, です]
   sound: f000271.mp3
   sound_begin: 642920
   sound_end: 647280
+  sentence: 皆の姿は見えなくなってしまったのです。
+  words:
+    - word: 皆
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 姿
+      postiion: 2
+    - word: は
+      postiion: 3
+    - word: 見え
+      base: 見える
+      postiion: 4
+    - word: なく
+      base: ない
+      postiion: 6
+    - word: なっ
+      base: 成る
+      postiion: 8
+    - word: て
+      postiion: 10
+    - word: しまっ
+      base: 仕舞う
+      postiion: 11
+    - word: た
+      postiion: 14
+    - word: の
+      postiion: 15
+    - word: です
+      postiion: 16
 - id: Akatonbo-f000272
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: もう、
-  word_list: [もう]
   sound: f000272.mp3
   sound_begin: 647280
   sound_end: 647531
+  sentence: もう、
+  words:
+    - word: もう
+      postiion: 0
 - id: Akatonbo-f000273
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: これからは、
-  word_list: [これ, から, は]
   sound: f000273.mp3
   sound_begin: 647531
   sound_end: 648623
+  sentence: これからは、
+  words:
+    - word: これ
+      base: 此れ
+      postiion: 0
+    - word: から
+      postiion: 2
+    - word: は
+      postiion: 4
 - id: Akatonbo-f000274
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: この家は空家になるのかな──
-  word_list: [この, 家, は, 空家, に, なる, の, か, な, ─, ─]
   sound: f000274.mp3
   sound_begin: 648623
   sound_end: 651706
+  sentence: この家は空家になるのかな──
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: 家
+      postiion: 2
+    - word: は
+      postiion: 3
+    - word: 空家
+      base: 空き家
+      postiion: 4
+    - word: に
+      postiion: 6
+    - word: なる
+      base: 成る
+      postiion: 7
+    - word: の
+      postiion: 9
+    - word: か
+      postiion: 10
+    - word: な
+      postiion: 11
+    - word: ─
+      postiion: 12
+    - word: ─
+      postiion: 12
 - id: Akatonbo-f000275
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 赤とんぼは、
-  word_list: [赤とんぼ, は]
   sound: f000275.mp3
   sound_begin: 651706
   sound_end: 653120
+  sentence: 赤とんぼは、
+  words:
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 0
+    - word: は
+      postiion: 4
 - id: Akatonbo-f000276
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: しずかに首をかたむけました。
-  word_list: [しずか, に, 首, を, かたむけ, まし, た]
   sound: f000276.mp3
   sound_begin: 653120
   sound_end: 658840
+  sentence: しずかに首をかたむけました。
+  words:
+    - word: しずか
+      base: 静か
+      postiion: 0
+    - word: に
+      base: だ
+      postiion: 3
+    - word: 首
+      postiion: 4
+    - word: を
+      postiion: 5
+    - word: かたむけ
+      base: 傾く
+      postiion: 6
+    - word: まし
+      base: ます
+      postiion: 10
+    - word: た
+      postiion: 12
 - id: Akatonbo-f000277
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 淋しい秋の夕方など、
-  word_list: [淋しい, 秋, の, 夕方, など]
   sound: f000277.mp3
   sound_begin: 658840
   sound_end: 661440
+  sentence: 淋しい秋の夕方など、
+  words:
+    - word: 淋しい
+      base: 寂しい
+      postiion: 0
+    - word: 秋
+      postiion: 3
+    - word: の
+      postiion: 4
+    - word: 夕方
+      postiion: 5
+    - word: など
+      postiion: 7
 - id: Akatonbo-f000278
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 赤とんぼは、
-  word_list: [赤とんぼ, は]
   sound: f000278.mp3
   sound_begin: 661440
   sound_end: 662720
+  sentence: 赤とんぼは、
+  words:
+    - word: 赤とんぼ
+      base: 赤蜻蛉
+      postiion: 0
+    - word: は
+      postiion: 4
 - id: Akatonbo-f000279
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: 尾花の穂先にとまって、
-  word_list: [尾花, の, 穂先, に, とまっ, て]
   sound: f000279.mp3
   sound_begin: 662720
   sound_end: 665400
+  sentence: 尾花の穂先にとまって、
+  words:
+    - word: 尾花
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 穂先
+      postiion: 3
+    - word: に
+      postiion: 5
+    - word: とまっ
+      base: とまる
+      postiion: 6
+    - word: て
+      postiion: 9
 - id: Akatonbo-f000280
   author_japanese: 新美 南吉
   deck_name: Akatonbo
   deck_name_japanese: 赤とんぼ
-  sentence: あのかあいいおじょうちゃんを思い出しています。
-  word_list: [あの, かあ, いい, お, じょう, ちゃん, を, 思い, 出し, て, い, ます]
   sound: f000280.mp3
   sound_begin: 665400
   sound_end: 669940
+  sentence: あのかあいいおじょうちゃんを思い出しています。
+  words:
+    - word: あの
+      base: 彼の
+      postiion: 0
+    - word: かあ
+      base: 母
+      postiion: 2
+    - word: いい
+      base: 良い
+      postiion: 4
+    - word: お
+      base: 御
+      postiion: 6
+    - word: じょう
+      postiion: 7
+    - word: ちゃん
+      postiion: 10
+    - word: を
+      postiion: 13
+    - word: 思い
+      base: 思う
+      postiion: 14
+    - word: 出し
+      base: 出す
+      postiion: 16
+    - word: て
+      postiion: 18
+    - word: い
+      base: 居る
+      postiion: 19
+    - word: ます
+      postiion: 20

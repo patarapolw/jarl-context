@@ -2,1250 +2,2942 @@
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 片田舎にあった話
-  word_list: [片田舎, に, あっ, た, 話]
   sound: f000002.mp3
   sound_begin: 5469
   sound_end: 10700
+  sentence: 片田舎にあった話
+  words:
+    - word: 片田舎
+      postiion: 0
+    - word: に
+      postiion: 3
+    - word: あっ
+      base: 有る
+      postiion: 4
+    - word: た
+      postiion: 6
+    - word: 話
+      postiion: 7
 - id: Katainakani Atta Hanashi-f000003
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: さびしい片田舎に、
-  word_list: [さびしい, 片田舎, に]
   sound: f000003.mp3
   sound_begin: 10700
   sound_end: 13320
+  sentence: さびしい片田舎に、
+  words:
+    - word: さびしい
+      base: 寂しい
+      postiion: 0
+    - word: 片田舎
+      postiion: 4
+    - word: に
+      postiion: 7
 - id: Katainakani Atta Hanashi-f000004
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: おじいさんとおばあさんが住んでいました。
-  word_list: [お, じい, さん, と, お, ばあ, さん, が, 住ん, で, い, まし, た]
   sound: f000004.mp3
   sound_begin: 13320
   sound_end: 18520
+  sentence: おじいさんとおばあさんが住んでいました。
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: じい
+      base: 爺
+      postiion: 1
+    - word: さん
+      postiion: 3
+    - word: と
+      postiion: 5
+    - word: お
+      base: 御
+      postiion: 6
+    - word: ばあ
+      base: 婆
+      postiion: 7
+    - word: さん
+      postiion: 9
+    - word: が
+      postiion: 11
+    - word: 住ん
+      base: 住む
+      postiion: 12
+    - word: で
+      postiion: 14
+    - word: い
+      base: 居る
+      postiion: 15
+    - word: まし
+      base: ます
+      postiion: 16
+    - word: た
+      postiion: 18
 - id: Katainakani Atta Hanashi-f000005
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: ある日、
-  word_list: [ある, 日]
   sound: f000005.mp3
   sound_begin: 18520
   sound_end: 20200
+  sentence: ある日、
+  words:
+    - word: ある
+      base: 或る
+      postiion: 0
+    - word: 日
+      postiion: 2
 - id: Katainakani Atta Hanashi-f000006
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 都にいるせがれのところから、
-  word_list: [都, に, いる, せがれ, の, ところ, から]
   sound: f000006.mp3
   sound_begin: 20200
   sound_end: 22845
+  sentence: 都にいるせがれのところから、
+  words:
+    - word: 都
+      postiion: 0
+    - word: に
+      postiion: 1
+    - word: いる
+      base: 居る
+      postiion: 2
+    - word: せがれ
+      base: 倅
+      postiion: 4
+    - word: の
+      postiion: 7
+    - word: ところ
+      base: 所
+      postiion: 8
+    - word: から
+      postiion: 11
 - id: Katainakani Atta Hanashi-f000007
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 小包がとどいたのです。
-  word_list: [小包, が, とどい, た, の, です]
   sound: f000007.mp3
   sound_begin: 22845
   sound_end: 26760
+  sentence: 小包がとどいたのです。
+  words:
+    - word: 小包
+      base: 小包み
+      postiion: 0
+    - word: が
+      postiion: 2
+    - word: とどい
+      base: 届く
+      postiion: 3
+    - word: た
+      postiion: 6
+    - word: の
+      postiion: 7
+    - word: です
+      postiion: 8
 - id: Katainakani Atta Hanashi-f000008
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 「まあ、
-  word_list: [まあ]
   sound: f000008.mp3
   sound_begin: 26760
   sound_end: 27160
+  sentence: 「まあ、
+  words:
+    - word: まあ
+      postiion: 1
 - id: Katainakani Atta Hanashi-f000009
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: まあ、
-  word_list: [まあ]
   sound: f000009.mp3
   sound_begin: 27160
   sound_end: 28280
+  sentence: まあ、
+  words:
+    - word: まあ
+      postiion: 0
 - id: Katainakani Atta Hanashi-f000010
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: なにを送ってくれたか。
-  word_list: [なに, を, 送っ, て, くれ, た, か]
   sound: f000010.mp3
   sound_begin: 28280
   sound_end: 31203
+  sentence: なにを送ってくれたか。
+  words:
+    - word: なに
+      base: 何
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: 送っ
+      base: 送る
+      postiion: 3
+    - word: て
+      postiion: 5
+    - word: くれ
+      base: 呉れる
+      postiion: 6
+    - word: た
+      postiion: 8
+    - word: か
+      postiion: 9
 - id: Katainakani Atta Hanashi-f000011
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 」といって、
-  word_list: [と, いっ, て]
   sound: f000011.mp3
   sound_begin: 31203
   sound_end: 32154
+  sentence: 」といって、
+  words:
+    - word: と
+      postiion: 1
+    - word: いっ
+      base: 言う
+      postiion: 2
+    - word: て
+      postiion: 4
 - id: Katainakani Atta Hanashi-f000012
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 二人は、
-  word_list: [二人, は]
   sound: f000012.mp3
   sound_begin: 32154
   sound_end: 33640
+  sentence: 二人は、
+  words:
+    - word: 二人
+      postiion: 0
+    - word: は
+      postiion: 2
 - id: Katainakani Atta Hanashi-f000013
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 開けてみました。
-  word_list: [開け, て, み, まし, た]
   sound: f000013.mp3
   sound_begin: 33640
   sound_end: 36818
+  sentence: 開けてみました。
+  words:
+    - word: 開け
+      base: 開く
+      postiion: 0
+    - word: て
+      postiion: 2
+    - word: み
+      base: 見る
+      postiion: 3
+    - word: まし
+      base: ます
+      postiion: 4
+    - word: た
+      postiion: 6
 - id: Katainakani Atta Hanashi-f000014
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 中から、
-  word_list: [中, から]
   sound: f000014.mp3
   sound_begin: 36818
   sound_end: 38240
+  sentence: 中から、
+  words:
+    - word: 中
+      postiion: 0
+    - word: から
+      postiion: 1
 - id: Katainakani Atta Hanashi-f000015
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 肉のかん詰めと果物と、
-  word_list: [肉, の, かん詰め, と, 果物, と]
   sound: f000015.mp3
   sound_begin: 38240
   sound_end: 41560
+  sentence: 肉のかん詰めと果物と、
+  words:
+    - word: 肉
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: かん詰め
+      base: 缶詰め
+      postiion: 2
+    - word: と
+      postiion: 6
+    - word: 果物
+      postiion: 7
+    - word: と
+      postiion: 9
 - id: Katainakani Atta Hanashi-f000016
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: もう一つなにかのかん詰めがはいっていました。
-  word_list: [もう, 一, つ, なに, か, の, かん詰め, が, はいっ, て, い, まし, た]
   sound: f000016.mp3
   sound_begin: 41560
   sound_end: 47921
+  sentence: もう一つなにかのかん詰めがはいっていました。
+  words:
+    - word: もう
+      postiion: 0
+    - word: 一
+      base: '1'
+      postiion: 2
+    - word: つ
+      postiion: 3
+    - word: なに
+      base: 何
+      postiion: 4
+    - word: か
+      postiion: 6
+    - word: の
+      postiion: 7
+    - word: かん詰め
+      base: 缶詰め
+      postiion: 8
+    - word: が
+      postiion: 12
+    - word: はいっ
+      base: 入る
+      postiion: 13
+    - word: て
+      postiion: 16
+    - word: い
+      base: 居る
+      postiion: 17
+    - word: まし
+      base: ます
+      postiion: 18
+    - word: た
+      postiion: 20
 - id: Katainakani Atta Hanashi-f000017
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 「これは、
-  word_list: [これ, は]
   sound: f000017.mp3
   sound_begin: 47921
   sound_end: 48720
+  sentence: 「これは、
+  words:
+    - word: これ
+      base: 此れ
+      postiion: 1
+    - word: は
+      postiion: 3
 - id: Katainakani Atta Hanashi-f000018
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: おいしそうなものばかりだ。
-  word_list: [おいし, そう, な, もの, ばかり, だ]
   sound: f000018.mp3
   sound_begin: 48720
   sound_end: 51579
+  sentence: おいしそうなものばかりだ。
+  words:
+    - word: おいし
+      base: 美味しい
+      postiion: 0
+    - word: そう
+      postiion: 3
+    - word: な
+      base: だ
+      postiion: 5
+    - word: もの
+      base: 物
+      postiion: 6
+    - word: ばかり
+      postiion: 8
+    - word: だ
+      postiion: 11
 - id: Katainakani Atta Hanashi-f000019
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 」といって、
-  word_list: [と, いっ, て]
   sound: f000019.mp3
   sound_begin: 51579
   sound_end: 52960
+  sentence: 」といって、
+  words:
+    - word: と
+      postiion: 1
+    - word: いっ
+      base: 言う
+      postiion: 2
+    - word: て
+      postiion: 4
 - id: Katainakani Atta Hanashi-f000020
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 二人は喜びました。
-  word_list: [二人, は, 喜び, まし, た]
   sound: f000020.mp3
   sound_begin: 52960
   sound_end: 57880
+  sentence: 二人は喜びました。
+  words:
+    - word: 二人
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: 喜び
+      base: 喜ぶ
+      postiion: 3
+    - word: まし
+      base: ます
+      postiion: 5
+    - word: た
+      postiion: 7
 - id: Katainakani Atta Hanashi-f000021
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 夕飯のときに、
-  word_list: [夕飯, の, とき, に]
   sound: f000021.mp3
   sound_begin: 57880
   sound_end: 59480
+  sentence: 夕飯のときに、
+  words:
+    - word: 夕飯
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: とき
+      base: 時
+      postiion: 3
+    - word: に
+      postiion: 5
 - id: Katainakani Atta Hanashi-f000022
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: おじいさんは、
-  word_list: [お, じい, さん, は]
   sound: f000022.mp3
   sound_begin: 59480
   sound_end: 61760
+  sentence: おじいさんは、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: じい
+      base: 爺
+      postiion: 1
+    - word: さん
+      postiion: 3
+    - word: は
+      postiion: 5
 - id: Katainakani Atta Hanashi-f000023
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 「どれ、
-  word_list: [どれ]
   sound: f000023.mp3
   sound_begin: 61760
   sound_end: 63088
+  sentence: 「どれ、
+  words:
+    - word: どれ
+      postiion: 1
 - id: Katainakani Atta Hanashi-f000024
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: せがれが送ってよこした、
-  word_list: [せがれ, が, 送っ, て, よこし, た]
   sound: f000024.mp3
   sound_begin: 63088
   sound_end: 64959
+  sentence: せがれが送ってよこした、
+  words:
+    - word: せがれ
+      base: 倅
+      postiion: 0
+    - word: が
+      postiion: 1
+    - word: 送っ
+      base: 送る
+      postiion: 4
+    - word: て
+      postiion: 6
+    - word: よこし
+      base: 寄越す
+      postiion: 7
+    - word: た
+      postiion: 10
 - id: Katainakani Atta Hanashi-f000025
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: かん詰めを開けようじゃないか。
-  word_list: [かん詰め, を, 開けよう, じゃ, ない, か]
   sound: f000025.mp3
   sound_begin: 64959
   sound_end: 68335
+  sentence: かん詰めを開けようじゃないか。
+  words:
+    - word: かん詰め
+      base: 缶詰め
+      postiion: 0
+    - word: を
+      postiion: 4
+    - word: 開けよう
+      base: 開く
+      postiion: 5
+    - word: じゃ
+      base: だ
+      postiion: 9
+    - word: ない
+      base: 無い
+      postiion: 11
+    - word: か
+      postiion: 13
 - id: Katainakani Atta Hanashi-f000026
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 」と、
-  word_list: [と]
   sound: f000026.mp3
   sound_begin: 68335
   sound_end: 68760
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Katainakani Atta Hanashi-f000027
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: おばあさんにいいました。
-  word_list: [お, ばあ, さん, に, いい, まし, た]
   sound: f000027.mp3
   sound_begin: 68760
   sound_end: 72640
+  sentence: おばあさんにいいました。
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: ばあ
+      base: 婆
+      postiion: 1
+    - word: さん
+      postiion: 3
+    - word: に
+      postiion: 5
+    - word: いい
+      base: 言う
+      postiion: 6
+    - word: まし
+      base: ます
+      postiion: 8
+    - word: た
+      postiion: 10
 - id: Katainakani Atta Hanashi-f000028
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: おばあさんは、
-  word_list: [お, ばあ, さん, は]
   sound: f000028.mp3
   sound_begin: 72640
   sound_end: 74200
+  sentence: おばあさんは、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: ばあ
+      base: 婆
+      postiion: 1
+    - word: さん
+      postiion: 3
+    - word: は
+      postiion: 5
 - id: Katainakani Atta Hanashi-f000029
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 三つのかん詰めを膳のところへ持ってきて、
-  word_list: [三, つ, の, かん詰め, を, 膳, の, ところ, へ, 持っ, て, き, て]
   sound: f000029.mp3
   sound_begin: 74200
   sound_end: 78274
+  sentence: 三つのかん詰めを膳のところへ持ってきて、
+  words:
+    - word: 三
+      base: '3'
+      postiion: 0
+    - word: つ
+      postiion: 1
+    - word: の
+      postiion: 2
+    - word: かん詰め
+      base: 缶詰め
+      postiion: 3
+    - word: を
+      postiion: 7
+    - word: 膳
+      postiion: 8
+    - word: の
+      postiion: 9
+    - word: ところ
+      base: 所
+      postiion: 10
+    - word: へ
+      postiion: 13
+    - word: 持っ
+      base: 持つ
+      postiion: 14
+    - word: て
+      postiion: 16
+    - word: き
+      base: 来る
+      postiion: 17
+    - word: て
+      postiion: 18
 - id: Katainakani Atta Hanashi-f000030
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 「どれにしましょうか。
-  word_list: [どれ, に, し, ましょう, か]
   sound: f000030.mp3
   sound_begin: 78274
   sound_end: 80887
+  sentence: 「どれにしましょうか。
+  words:
+    - word: どれ
+      postiion: 1
+    - word: に
+      postiion: 3
+    - word: し
+      base: 為る
+      postiion: 4
+    - word: ましょう
+      base: ます
+      postiion: 5
+    - word: か
+      postiion: 9
 - id: Katainakani Atta Hanashi-f000031
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 」と、
-  word_list: [と]
   sound: f000031.mp3
   sound_begin: 80887
   sound_end: 81320
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Katainakani Atta Hanashi-f000032
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: おじいさんにたずねました。
-  word_list: [お, じい, さん, に, たずね, まし, た]
   sound: f000032.mp3
   sound_begin: 81320
   sound_end: 86120
+  sentence: おじいさんにたずねました。
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: じい
+      base: 爺
+      postiion: 1
+    - word: さん
+      postiion: 3
+    - word: に
+      postiion: 5
+    - word: たずね
+      base: たずねる
+      postiion: 6
+    - word: まし
+      base: ます
+      postiion: 9
+    - word: た
+      postiion: 11
 - id: Katainakani Atta Hanashi-f000033
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 「そちらの小形の赤いかんは、
-  word_list: [そちら, の, 小形, の, 赤い, かん, は]
   sound: f000033.mp3
   sound_begin: 86120
   sound_end: 88640
+  sentence: 「そちらの小形の赤いかんは、
+  words:
+    - word: そちら
+      base: 其方
+      postiion: 1
+    - word: の
+      postiion: 4
+    - word: 小形
+      base: 小型
+      postiion: 5
+    - word: の
+      postiion: 7
+    - word: 赤い
+      postiion: 8
+    - word: かん
+      base: 彼
+      postiion: 10
+    - word: は
+      postiion: 12
 - id: Katainakani Atta Hanashi-f000034
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: なんだろうな。
-  word_list: [なん, だろう, な]
   sound: f000034.mp3
   sound_begin: 88640
   sound_end: 91162
+  sentence: なんだろうな。
+  words:
+    - word: なん
+      base: 何
+      postiion: 0
+    - word: だろう
+      base: だ
+      postiion: 2
+    - word: な
+      postiion: 5
 - id: Katainakani Atta Hanashi-f000035
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 」と、
-  word_list: [と]
   sound: f000035.mp3
   sound_begin: 91162
   sound_end: 91640
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Katainakani Atta Hanashi-f000036
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: おじいさんは、
-  word_list: [お, じい, さん, は]
   sound: f000036.mp3
   sound_begin: 91640
   sound_end: 92480
+  sentence: おじいさんは、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: じい
+      base: 爺
+      postiion: 1
+    - word: さん
+      postiion: 3
+    - word: は
+      postiion: 5
 - id: Katainakani Atta Hanashi-f000037
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: いいました。
-  word_list: [いい, まし, た]
   sound: f000037.mp3
   sound_begin: 92480
   sound_end: 95585
+  sentence: いいました。
+  words:
+    - word: いい
+      base: 言う
+      postiion: 0
+    - word: まし
+      base: ます
+      postiion: 2
+    - word: た
+      postiion: 4
 - id: Katainakani Atta Hanashi-f000038
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: おばあさんにも、
-  word_list: [お, ばあ, さん, に, も]
   sound: f000038.mp3
   sound_begin: 95585
   sound_end: 97338
+  sentence: おばあさんにも、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: ばあ
+      base: 婆
+      postiion: 1
+    - word: さん
+      postiion: 3
+    - word: に
+      postiion: 5
+    - word: も
+      postiion: 6
 - id: Katainakani Atta Hanashi-f000039
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: よく、
-  word_list: [よく]
   sound: f000039.mp3
   sound_begin: 97338
   sound_end: 97920
+  sentence: よく、
+  words:
+    - word: よく
+      base: 良く
+      postiion: 0
 - id: Katainakani Atta Hanashi-f000040
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: それがわかりませんでした。
-  word_list: [それ, が, わかり, ませ, ん, でし, た]
   sound: f000040.mp3
   sound_begin: 97920
   sound_end: 102280
+  sentence: それがわかりませんでした。
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: が
+      postiion: 2
+    - word: わかり
+      base: 分かる
+      postiion: 3
+    - word: ませ
+      base: ます
+      postiion: 6
+    - word: ん
+      base: ず
+      postiion: 8
+    - word: でし
+      base: です
+      postiion: 9
+    - word: た
+      postiion: 11
 - id: Katainakani Atta Hanashi-f000041
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 「なにか、
-  word_list: [なに, か]
   sound: f000041.mp3
   sound_begin: 102280
   sound_end: 103120
+  sentence: 「なにか、
+  words:
+    - word: なに
+      base: 何
+      postiion: 1
+    - word: か
+      postiion: 3
 - id: Katainakani Atta Hanashi-f000042
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 外国の文字が書いてありますが……。
-  word_list: [外国, の, 文字, が, 書い, て, あり, ます, が]
   sound: f000042.mp3
   sound_begin: 103120
   sound_end: 106568
+  sentence: 外国の文字が書いてありますが……。
+  words:
+    - word: 外国
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 文字
+      postiion: 3
+    - word: が
+      postiion: 5
+    - word: 書い
+      base: 書く
+      postiion: 6
+    - word: て
+      postiion: 8
+    - word: あり
+      base: 有る
+      postiion: 9
+    - word: ます
+      postiion: 11
+    - word: が
+      postiion: 13
 - id: Katainakani Atta Hanashi-f000043
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 」といって、
-  word_list: [と, いっ, て]
   sound: f000043.mp3
   sound_begin: 106568
   sound_end: 107880
+  sentence: 」といって、
+  words:
+    - word: と
+      postiion: 1
+    - word: いっ
+      base: 言う
+      postiion: 2
+    - word: て
+      postiion: 4
 - id: Katainakani Atta Hanashi-f000044
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: おじいさんに手渡しました。
-  word_list: [お, じい, さん, に, 手渡し, まし, た]
   sound: f000044.mp3
   sound_begin: 107880
   sound_end: 112280
+  sentence: おじいさんに手渡しました。
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: じい
+      base: 爺
+      postiion: 1
+    - word: さん
+      postiion: 3
+    - word: に
+      postiion: 5
+    - word: 手渡し
+      base: 手渡す
+      postiion: 6
+    - word: まし
+      base: ます
+      postiion: 9
+    - word: た
+      postiion: 11
 - id: Katainakani Atta Hanashi-f000045
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: おじいさんも、
-  word_list: [お, じい, さん, も]
   sound: f000045.mp3
   sound_begin: 112280
   sound_end: 113000
+  sentence: おじいさんも、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: じい
+      base: 爺
+      postiion: 1
+    - word: さん
+      postiion: 3
+    - word: も
+      postiion: 5
 - id: Katainakani Atta Hanashi-f000046
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 手に取ってみたが、
-  word_list: [手, に, 取っ, て, み, た, が]
   sound: f000046.mp3
   sound_begin: 113000
   sound_end: 115078
+  sentence: 手に取ってみたが、
+  words:
+    - word: 手
+      postiion: 0
+    - word: に
+      postiion: 1
+    - word: 取っ
+      base: 取る
+      postiion: 2
+    - word: て
+      postiion: 4
+    - word: み
+      base: 見る
+      postiion: 5
+    - word: た
+      postiion: 6
+    - word: が
+      postiion: 7
 - id: Katainakani Atta Hanashi-f000047
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: やはりわかりませんでした。
-  word_list: [やはり, わかり, ませ, ん, でし, た]
   sound: f000047.mp3
   sound_begin: 115078
   sound_end: 119040
+  sentence: やはりわかりませんでした。
+  words:
+    - word: やはり
+      base: 矢張り
+      postiion: 0
+    - word: わかり
+      base: 分かる
+      postiion: 3
+    - word: ませ
+      base: ます
+      postiion: 6
+    - word: ん
+      base: ず
+      postiion: 8
+    - word: でし
+      base: です
+      postiion: 9
+    - word: た
+      postiion: 11
 - id: Katainakani Atta Hanashi-f000048
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 「どんなものか、
-  word_list: [どんな, もの, か]
   sound: f000048.mp3
   sound_begin: 119040
   sound_end: 121382
+  sentence: 「どんなものか、
+  words:
+    - word: どんな
+      postiion: 1
+    - word: もの
+      base: 物
+      postiion: 4
+    - word: か
+      postiion: 6
 - id: Katainakani Atta Hanashi-f000049
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: これをひとつ開けてみよう……」といいました。
-  word_list: [これ, を, ひと, つ, 開け, て, みよう, と, いい, まし, た]
   sound: f000049.mp3
   sound_begin: 121382
   sound_end: 126769
+  sentence: これをひとつ開けてみよう……」といいました。
+  words:
+    - word: これ
+      base: 此れ
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: ひと
+      base: 一
+      postiion: 3
+    - word: つ
+      postiion: 5
+    - word: 開け
+      base: 開く
+      postiion: 6
+    - word: て
+      postiion: 8
+    - word: みよう
+      base: 見る
+      postiion: 9
+    - word: と
+      postiion: 15
+    - word: いい
+      base: 言う
+      postiion: 16
+    - word: まし
+      base: ます
+      postiion: 18
+    - word: た
+      postiion: 20
 - id: Katainakani Atta Hanashi-f000050
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: たとえ、
-  word_list: [たとえ]
   sound: f000050.mp3
   sound_begin: 126769
   sound_end: 127200
+  sentence: たとえ、
+  words:
+    - word: たとえ
+      postiion: 0
 - id: Katainakani Atta Hanashi-f000051
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 年を取っても、
-  word_list: [年, を, 取っ, て, も]
   sound: f000051.mp3
   sound_begin: 127200
   sound_end: 128960
+  sentence: 年を取っても、
+  words:
+    - word: 年
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: 取っ
+      base: 取る
+      postiion: 2
+    - word: て
+      postiion: 4
+    - word: も
+      postiion: 5
 - id: Katainakani Atta Hanashi-f000052
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: やはり、
-  word_list: [やはり]
   sound: f000052.mp3
   sound_begin: 128960
   sound_end: 129440
+  sentence: やはり、
+  words:
+    - word: やはり
+      base: 矢張り
+      postiion: 0
 - id: Katainakani Atta Hanashi-f000053
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 珍しいものにはいちばん興味を覚えるものです。
-  word_list: [珍しい, もの, に, は, いちばん, 興味, を, 覚える, もの, です]
   sound: f000053.mp3
   sound_begin: 129440
   sound_end: 135560
+  sentence: 珍しいものにはいちばん興味を覚えるものです。
+  words:
+    - word: 珍しい
+      postiion: 0
+    - word: もの
+      base: 物
+      postiion: 3
+    - word: に
+      postiion: 5
+    - word: は
+      postiion: 6
+    - word: いちばん
+      base: 一番
+      postiion: 7
+    - word: 興味
+      postiion: 11
+    - word: を
+      postiion: 13
+    - word: 覚える
+      postiion: 14
+    - word: もの
+      base: 物
+      postiion: 17
+    - word: です
+      postiion: 19
 - id: Katainakani Atta Hanashi-f000054
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: おじいさんは、
-  word_list: [お, じい, さん, は]
   sound: f000054.mp3
   sound_begin: 135560
   sound_end: 137320
+  sentence: おじいさんは、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: じい
+      base: 爺
+      postiion: 1
+    - word: さん
+      postiion: 3
+    - word: は
+      postiion: 5
 - id: Katainakani Atta Hanashi-f000055
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: そのかんのふたを開けました。
-  word_list: [その, かん, の, ふた, を, 開け, まし, た]
   sound: f000055.mp3
   sound_begin: 137320
   sound_end: 140920
+  sentence: そのかんのふたを開けました。
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: かん
+      base: 彼
+      postiion: 2
+    - word: の
+      postiion: 4
+    - word: ふた
+      base: 蓋
+      postiion: 5
+    - word: を
+      postiion: 7
+    - word: 開け
+      base: 開く
+      postiion: 8
+    - word: まし
+      base: ます
+      postiion: 10
+    - word: た
+      postiion: 12
 - id: Katainakani Atta Hanashi-f000056
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: すると香ばしいかおりがしたのです。
-  word_list: [する, と, 香ばしい, かおり, が, し, た, の, です]
   sound: f000056.mp3
   sound_begin: 140920
   sound_end: 146332
+  sentence: すると香ばしいかおりがしたのです。
+  words:
+    - word: する
+      base: 為る
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: 香ばしい
+      postiion: 3
+    - word: かおり
+      base: 香り
+      postiion: 7
+    - word: が
+      postiion: 10
+    - word: し
+      base: 為る
+      postiion: 11
+    - word: た
+      postiion: 12
+    - word: の
+      postiion: 13
+    - word: です
+      postiion: 14
 - id: Katainakani Atta Hanashi-f000057
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 「粉じゃ、
-  word_list: [粉, じゃ]
   sound: f000057.mp3
   sound_begin: 146332
   sound_end: 148200
+  sentence: 「粉じゃ、
+  words:
+    - word: 粉
+      postiion: 1
+    - word: じゃ
+      base: で
+      postiion: 2
 - id: Katainakani Atta Hanashi-f000058
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: なんの粉だろう……。
-  word_list: [なん, の, 粉, だろう]
   sound: f000058.mp3
   sound_begin: 148200
   sound_end: 150349
+  sentence: なんの粉だろう……。
+  words:
+    - word: なん
+      base: 何
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 粉
+      postiion: 3
+    - word: だろう
+      base: だ
+      postiion: 4
 - id: Katainakani Atta Hanashi-f000059
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 」と、
-  word_list: [と]
   sound: f000059.mp3
   sound_begin: 150349
   sound_end: 150760
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Katainakani Atta Hanashi-f000060
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 頭をかしげました。
-  word_list: [頭, を, かしげ, まし, た]
   sound: f000060.mp3
   sound_begin: 150760
   sound_end: 154250
+  sentence: 頭をかしげました。
+  words:
+    - word: 頭
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: かしげ
+      base: 傾げる
+      postiion: 2
+    - word: まし
+      base: ます
+      postiion: 5
+    - word: た
+      postiion: 7
 - id: Katainakani Atta Hanashi-f000061
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: こんどは、
-  word_list: [こんど, は]
   sound: f000061.mp3
   sound_begin: 154250
   sound_end: 155120
+  sentence: こんどは、
+  words:
+    - word: こんど
+      base: 今度
+      postiion: 0
+    - word: は
+      postiion: 3
 - id: Katainakani Atta Hanashi-f000062
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: おばあさんが、
-  word_list: [お, ばあ, さん, が]
   sound: f000062.mp3
   sound_begin: 155120
   sound_end: 156520
+  sentence: おばあさんが、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: ばあ
+      base: 婆
+      postiion: 1
+    - word: さん
+      postiion: 3
+    - word: が
+      postiion: 5
 - id: Katainakani Atta Hanashi-f000063
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: その赤いかんを取って、
-  word_list: [その, 赤い, かん, を, 取っ, て]
   sound: f000063.mp3
   sound_begin: 156520
   sound_end: 158640
+  sentence: その赤いかんを取って、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 赤い
+      postiion: 2
+    - word: かん
+      base: 彼
+      postiion: 4
+    - word: を
+      postiion: 6
+    - word: 取っ
+      base: 取る
+      postiion: 7
+    - word: て
+      postiion: 9
 - id: Katainakani Atta Hanashi-f000064
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 香いを嗅いだのであります。
-  word_list: [香, い, を, 嗅い, だ, の, で, あり, ます]
   sound: f000064.mp3
   sound_begin: 158640
   sound_end: 162880
+  sentence: 香いを嗅いだのであります。
+  words:
+    - word: 香
+      postiion: 0
+    - word: い
+      postiion: 1
+    - word: を
+      postiion: 2
+    - word: 嗅い
+      base: 嗅ぐ
+      postiion: 3
+    - word: だ
+      base: た
+      postiion: 5
+    - word: の
+      postiion: 6
+    - word: で
+      base: だ
+      postiion: 7
+    - word: あり
+      base: 有る
+      postiion: 8
+    - word: ます
+      postiion: 10
 - id: Katainakani Atta Hanashi-f000065
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 「おじいさん、
-  word_list: [お, じい, さん]
   sound: f000065.mp3
   sound_begin: 162880
   sound_end: 164740
+  sentence: 「おじいさん、
+  words:
+    - word: お
+      base: 御
+      postiion: 1
+    - word: じい
+      base: 爺
+      postiion: 2
+    - word: さん
+      postiion: 4
 - id: Katainakani Atta Hanashi-f000066
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: これは、
-  word_list: [これ, は]
   sound: f000066.mp3
   sound_begin: 164740
   sound_end: 165280
+  sentence: これは、
+  words:
+    - word: これ
+      base: 此れ
+      postiion: 0
+    - word: は
+      postiion: 2
 - id: Katainakani Atta Hanashi-f000067
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: やはり麦を挽いた粉ですよ。
-  word_list: [やはり, 麦, を, 挽い, た, 粉, です, よ]
   sound: f000067.mp3
   sound_begin: 165280
   sound_end: 168920
+  sentence: やはり麦を挽いた粉ですよ。
+  words:
+    - word: やはり
+      base: 矢張り
+      postiion: 0
+    - word: 麦
+      postiion: 3
+    - word: を
+      postiion: 4
+    - word: 挽い
+      base: 挽く
+      postiion: 5
+    - word: た
+      postiion: 7
+    - word: 粉
+      postiion: 8
+    - word: です
+      postiion: 9
+    - word: よ
+      postiion: 11
 - id: Katainakani Atta Hanashi-f000068
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: うちのせがれは、
-  word_list: [うち, の, せがれ, は]
   sound: f000068.mp3
   sound_begin: 168920
   sound_end: 170080
+  sentence: うちのせがれは、
+  words:
+    - word: うち
+      base: 内
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: せがれ
+      base: 倅
+      postiion: 3
+    - word: は
+      postiion: 6
 - id: Katainakani Atta Hanashi-f000069
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 子供の時分から、
-  word_list: [子供, の, 時分, から]
   sound: f000069.mp3
   sound_begin: 170080
   sound_end: 171320
+  sentence: 子供の時分から、
+  words:
+    - word: 子供
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 時分
+      postiion: 3
+    - word: から
+      postiion: 5
 - id: Katainakani Atta Hanashi-f000070
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 不思議な子で、
-  word_list: [不思議, な, 子, で]
   sound: f000070.mp3
   sound_begin: 171320
   sound_end: 172565
+  sentence: 不思議な子で、
+  words:
+    - word: 不思議
+      postiion: 0
+    - word: な
+      base: だ
+      postiion: 3
+    - word: 子
+      postiion: 4
+    - word: で
+      base: だ
+      postiion: 5
 - id: Katainakani Atta Hanashi-f000071
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: こうせんが大好きだったから、
-  word_list: [こう, せん, が, 大好き, だっ, た, から]
   sound: f000071.mp3
   sound_begin: 172565
   sound_end: 175119
+  sentence: こうせんが大好きだったから、
+  words:
+    - word: こう
+      postiion: 0
+    - word: せん
+      postiion: 2
+    - word: が
+      postiion: 4
+    - word: 大好き
+      postiion: 5
+    - word: だっ
+      base: だ
+      postiion: 8
+    - word: た
+      postiion: 10
+    - word: から
+      postiion: 11
 - id: Katainakani Atta Hanashi-f000072
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: こんなものを送ってよこしたのですよ。
-  word_list: [こんな, もの, を, 送っ, て, よこし, た, の, です, よ]
   sound: f000072.mp3
   sound_begin: 175119
   sound_end: 178242
+  sentence: こんなものを送ってよこしたのですよ。
+  words:
+    - word: こんな
+      postiion: 0
+    - word: もの
+      base: 物
+      postiion: 3
+    - word: を
+      postiion: 5
+    - word: 送っ
+      base: 送る
+      postiion: 6
+    - word: て
+      postiion: 8
+    - word: よこし
+      base: 寄越す
+      postiion: 9
+    - word: た
+      postiion: 12
+    - word: の
+      postiion: 13
+    - word: です
+      postiion: 14
+    - word: よ
+      postiion: 16
 - id: Katainakani Atta Hanashi-f000073
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 」と、
-  word_list: [と]
   sound: f000073.mp3
   sound_begin: 178242
   sound_end: 178600
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Katainakani Atta Hanashi-f000074
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: おばあさんはいいました。
-  word_list: [お, ばあ, さん, は, いい, まし, た]
   sound: f000074.mp3
   sound_begin: 178600
   sound_end: 182320
+  sentence: おばあさんはいいました。
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: ばあ
+      base: 婆
+      postiion: 1
+    - word: さん
+      postiion: 3
+    - word: は
+      postiion: 5
+    - word: いい
+      base: 言う
+      postiion: 6
+    - word: まし
+      base: ます
+      postiion: 8
+    - word: た
+      postiion: 10
 - id: Katainakani Atta Hanashi-f000075
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 「飯にでもかけて食べるのかな。」
-  word_list: [飯, に, で, も, かけ, て, 食べる, の, か, な]
   sound: f000075.mp3
   sound_begin: 182320
   sound_end: 186421
+  sentence: 「飯にでもかけて食べるのかな。」
+  words:
+    - word: 飯
+      postiion: 1
+    - word: に
+      postiion: 2
+    - word: で
+      base: だ
+      postiion: 3
+    - word: も
+      postiion: 4
+    - word: かけ
+      base: 掛ける
+      postiion: 5
+    - word: て
+      postiion: 7
+    - word: 食べる
+      postiion: 8
+    - word: の
+      postiion: 11
+    - word: か
+      postiion: 12
+    - word: な
+      postiion: 13
 - id: Katainakani Atta Hanashi-f000076
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 「きっと、
-  word_list: [きっと]
   sound: f000076.mp3
   sound_begin: 186421
   sound_end: 186960
+  sentence: 「きっと、
+  words:
+    - word: きっと
+      postiion: 1
 - id: Katainakani Atta Hanashi-f000077
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: そうするのでございますよ。」
-  word_list: [そう, する, の, で, ござい, ます, よ]
   sound: f000077.mp3
   sound_begin: 186960
   sound_end: 190720
+  sentence: そうするのでございますよ。」
+  words:
+    - word: そう
+      postiion: 0
+    - word: する
+      base: 為る
+      postiion: 2
+    - word: の
+      postiion: 4
+    - word: で
+      base: だ
+      postiion: 5
+    - word: ござい
+      base: 御座る
+      postiion: 6
+    - word: ます
+      postiion: 9
+    - word: よ
+      postiion: 11
 - id: Katainakani Atta Hanashi-f000078
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: おじいさんと、
-  word_list: [お, じい, さん, と]
   sound: f000078.mp3
   sound_begin: 190720
   sound_end: 191640
+  sentence: おじいさんと、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: じい
+      base: 爺
+      postiion: 1
+    - word: さん
+      postiion: 3
+    - word: と
+      postiion: 5
 - id: Katainakani Atta Hanashi-f000079
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: おばあさんは、
-  word_list: [お, ばあ, さん, は]
   sound: f000079.mp3
   sound_begin: 191640
   sound_end: 193360
+  sentence: おばあさんは、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: ばあ
+      base: 婆
+      postiion: 1
+    - word: さん
+      postiion: 3
+    - word: は
+      postiion: 5
 - id: Katainakani Atta Hanashi-f000080
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: その赤黒い粉を飯にかけて食べました。
-  word_list: [その, 赤黒い, 粉, を, 飯, に, かけ, て, 食べ, まし, た]
   sound: f000080.mp3
   sound_begin: 193360
   sound_end: 199000
+  sentence: その赤黒い粉を飯にかけて食べました。
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 赤黒い
+      postiion: 2
+    - word: 粉
+      postiion: 5
+    - word: を
+      postiion: 6
+    - word: 飯
+      postiion: 7
+    - word: に
+      postiion: 8
+    - word: かけ
+      base: 掛ける
+      postiion: 9
+    - word: て
+      postiion: 11
+    - word: 食べ
+      base: 食べる
+      postiion: 12
+    - word: まし
+      base: ます
+      postiion: 14
+    - word: た
+      postiion: 16
 - id: Katainakani Atta Hanashi-f000081
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: しかし、
-  word_list: [しかし]
   sound: f000081.mp3
   sound_begin: 199000
   sound_end: 200586
+  sentence: しかし、
+  words:
+    - word: しかし
+      base: 然し
+      postiion: 0
 - id: Katainakani Atta Hanashi-f000082
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: その香いほど、
-  word_list: [その, 香, い, ほど]
   sound: f000082.mp3
   sound_begin: 200586
   sound_end: 202553
+  sentence: その香いほど、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 香
+      postiion: 2
+    - word: い
+      base: 居る
+      postiion: 3
+    - word: ほど
+      postiion: 4
 - id: Katainakani Atta Hanashi-f000083
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: あまり、
-  word_list: [あまり]
   sound: f000083.mp3
   sound_begin: 202553
   sound_end: 203120
+  sentence: あまり、
+  words:
+    - word: あまり
+      base: 余り
+      postiion: 0
 - id: Katainakani Atta Hanashi-f000084
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: うまくはありません。
-  word_list: [うまく, は, あり, ませ, ん]
   sound: f000084.mp3
   sound_begin: 203120
   sound_end: 207418
+  sentence: うまくはありません。
+  words:
+    - word: うまく
+      base: 旨い
+      postiion: 0
+    - word: は
+      postiion: 3
+    - word: あり
+      base: 有る
+      postiion: 4
+    - word: ませ
+      base: ます
+      postiion: 6
+    - word: ん
+      base: ず
+      postiion: 8
 - id: Katainakani Atta Hanashi-f000085
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 「砂糖をまぜなければならぬだろう。
-  word_list: [砂糖, を, まぜ, なけれ, ば, なら, ぬ, だろう]
   sound: f000085.mp3
   sound_begin: 207418
   sound_end: 210680
+  sentence: 「砂糖をまぜなければならぬだろう。
+  words:
+    - word: 砂糖
+      postiion: 1
+    - word: を
+      postiion: 3
+    - word: まぜ
+      base: 混ぜる
+      postiion: 4
+    - word: なけれ
+      base: ない
+      postiion: 6
+    - word: ば
+      postiion: 9
+    - word: なら
+      base: 成る
+      postiion: 10
+    - word: ぬ
+      base: ず
+      postiion: 12
+    - word: だろう
+      base: だ
+      postiion: 13
 - id: Katainakani Atta Hanashi-f000086
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 」と、
-  word_list: [と]
   sound: f000086.mp3
   sound_begin: 210680
   sound_end: 211080
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Katainakani Atta Hanashi-f000087
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: おじいさんがいいました。
-  word_list: [お, じい, さん, が, いい, まし, た]
   sound: f000087.mp3
   sound_begin: 211080
   sound_end: 214413
+  sentence: おじいさんがいいました。
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: じい
+      base: 爺
+      postiion: 1
+    - word: さん
+      postiion: 3
+    - word: が
+      postiion: 5
+    - word: いい
+      base: 言う
+      postiion: 6
+    - word: まし
+      base: ます
+      postiion: 8
+    - word: た
+      postiion: 10
 - id: Katainakani Atta Hanashi-f000088
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 「これは、
-  word_list: [これ, は]
   sound: f000088.mp3
   sound_begin: 214413
   sound_end: 216108
+  sentence: 「これは、
+  words:
+    - word: これ
+      base: 此れ
+      postiion: 1
+    - word: は
+      postiion: 3
 - id: Katainakani Atta Hanashi-f000089
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 子供の食べるものですね。
-  word_list: [子供, の, 食べる, もの, です, ね]
   sound: f000089.mp3
   sound_begin: 216108
   sound_end: 219289
+  sentence: 子供の食べるものですね。
+  words:
+    - word: 子供
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 食べる
+      postiion: 3
+    - word: もの
+      base: 物
+      postiion: 6
+    - word: です
+      postiion: 8
+    - word: ね
+      postiion: 10
 - id: Katainakani Atta Hanashi-f000090
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 」と、
-  word_list: [と]
   sound: f000090.mp3
   sound_begin: 219289
   sound_end: 219720
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Katainakani Atta Hanashi-f000091
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: おばあさんはいいながら、
-  word_list: [お, ばあ, さん, は, いい, ながら]
   sound: f000091.mp3
   sound_begin: 219720
   sound_end: 221960
+  sentence: おばあさんはいいながら、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: ばあ
+      base: 婆
+      postiion: 1
+    - word: さん
+      postiion: 3
+    - word: は
+      postiion: 5
+    - word: いい
+      base: 言う
+      postiion: 6
+    - word: ながら
+      postiion: 8
 - id: Katainakani Atta Hanashi-f000092
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 立って、
-  word_list: [立っ, て]
   sound: f000092.mp3
   sound_begin: 221960
   sound_end: 222720
+  sentence: 立って、
+  words:
+    - word: 立っ
+      base: 立つ
+      postiion: 0
+    - word: て
+      postiion: 2
 - id: Katainakani Atta Hanashi-f000093
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 砂糖を持ってきました。
-  word_list: [砂糖, を, 持っ, て, き, まし, た]
   sound: f000093.mp3
   sound_begin: 222720
   sound_end: 225960
+  sentence: 砂糖を持ってきました。
+  words:
+    - word: 砂糖
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: 持っ
+      base: 持つ
+      postiion: 3
+    - word: て
+      postiion: 5
+    - word: き
+      base: 来る
+      postiion: 6
+    - word: まし
+      base: ます
+      postiion: 7
+    - word: た
+      postiion: 9
 - id: Katainakani Atta Hanashi-f000094
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: そして、
-  word_list: [そして]
   sound: f000094.mp3
   sound_begin: 225960
   sound_end: 227410
+  sentence: そして、
+  words:
+    - word: そして
+      postiion: 0
 - id: Katainakani Atta Hanashi-f000095
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 二人は、
-  word_list: [二人, は]
   sound: f000095.mp3
   sound_begin: 227410
   sound_end: 228229
+  sentence: 二人は、
+  words:
+    - word: 二人
+      postiion: 0
+    - word: は
+      postiion: 2
 - id: Katainakani Atta Hanashi-f000096
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 飯にかけて食べました。
-  word_list: [飯, に, かけ, て, 食べ, まし, た]
   sound: f000096.mp3
   sound_begin: 228229
   sound_end: 233720
+  sentence: 飯にかけて食べました。
+  words:
+    - word: 飯
+      postiion: 0
+    - word: に
+      postiion: 1
+    - word: かけ
+      base: 掛ける
+      postiion: 2
+    - word: て
+      postiion: 4
+    - word: 食べ
+      base: 食べる
+      postiion: 5
+    - word: まし
+      base: ます
+      postiion: 7
+    - word: た
+      postiion: 9
 - id: Katainakani Atta Hanashi-f000097
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 夜になって、
-  word_list: [夜, に, なっ, て]
   sound: f000097.mp3
   sound_begin: 233720
   sound_end: 235720
+  sentence: 夜になって、
+  words:
+    - word: 夜
+      postiion: 0
+    - word: に
+      postiion: 1
+    - word: なっ
+      base: 成る
+      postiion: 2
+    - word: て
+      postiion: 4
 - id: Katainakani Atta Hanashi-f000098
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 二人は、
-  word_list: [二人, は]
   sound: f000098.mp3
   sound_begin: 235720
   sound_end: 236400
+  sentence: 二人は、
+  words:
+    - word: 二人
+      postiion: 0
+    - word: は
+      postiion: 2
 - id: Katainakani Atta Hanashi-f000099
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: いつものごとく床につきました。
-  word_list: [いつも, の, ごとく, 床, に, つき, まし, た]
   sound: f000099.mp3
   sound_begin: 236400
   sound_end: 241012
+  sentence: いつものごとく床につきました。
+  words:
+    - word: いつも
+      postiion: 0
+    - word: の
+      postiion: 3
+    - word: ごとく
+      base: ごとし
+      postiion: 4
+    - word: 床
+      postiion: 7
+    - word: に
+      postiion: 8
+    - word: つき
+      base: つく
+      postiion: 9
+    - word: まし
+      base: ます
+      postiion: 11
+    - word: た
+      postiion: 13
 - id: Katainakani Atta Hanashi-f000100
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: けれど、
-  word_list: [けれど]
   sound: f000100.mp3
   sound_begin: 241012
   sound_end: 241923
+  sentence: けれど、
+  words:
+    - word: けれど
+      postiion: 0
 - id: Katainakani Atta Hanashi-f000101
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: どうしたことか、
-  word_list: [どう, し, た, こと, か]
   sound: f000101.mp3
   sound_begin: 241923
   sound_end: 243821
+  sentence: どうしたことか、
+  words:
+    - word: どう
+      postiion: 0
+    - word: し
+      base: 為る
+      postiion: 2
+    - word: た
+      postiion: 3
+    - word: こと
+      postiion: 4
+    - word: か
+      postiion: 6
 - id: Katainakani Atta Hanashi-f000102
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 目がさえて眠れませんでした。
-  word_list: [目, が, さえ, て, 眠れ, ませ, ん, でし, た]
   sound: f000102.mp3
   sound_begin: 243821
   sound_end: 249487
+  sentence: 目がさえて眠れませんでした。
+  words:
+    - word: 目
+      postiion: 0
+    - word: が
+      postiion: 1
+    - word: さえ
+      base: 冴える
+      postiion: 2
+    - word: て
+      postiion: 4
+    - word: 眠れ
+      base: 眠る
+      postiion: 5
+    - word: ませ
+      base: ます
+      postiion: 7
+    - word: ん
+      base: ず
+      postiion: 9
+    - word: でし
+      base: です
+      postiion: 10
+    - word: た
+      postiion: 12
 - id: Katainakani Atta Hanashi-f000103
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 「ああ、
-  word_list: [ああ]
   sound: f000103.mp3
   sound_begin: 249487
   sound_end: 251037
+  sentence: 「ああ、
+  words:
+    - word: ああ
+      postiion: 1
 - id: Katainakani Atta Hanashi-f000104
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: こうせんを食べたので、
-  word_list: [こう, せん, を, 食べ, た, の, で]
   sound: f000104.mp3
   sound_begin: 251037
   sound_end: 253138
+  sentence: こうせんを食べたので、
+  words:
+    - word: こう
+      postiion: 0
+    - word: せん
+      postiion: 2
+    - word: を
+      postiion: 4
+    - word: 食べ
+      base: 食べる
+      postiion: 5
+    - word: た
+      postiion: 7
+    - word: の
+      postiion: 8
+    - word: で
+      base: だ
+      postiion: 9
 - id: Katainakani Atta Hanashi-f000105
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 胸がやけたとみえて眠れない。
-  word_list: [胸, が, やけ, た, と, みえ, て, 眠れ, ない]
   sound: f000105.mp3
   sound_begin: 253138
   sound_end: 256644
+  sentence: 胸がやけたとみえて眠れない。
+  words:
+    - word: 胸
+      postiion: 0
+    - word: が
+      postiion: 1
+    - word: やけ
+      base: 焼く
+      postiion: 2
+    - word: た
+      postiion: 4
+    - word: と
+      postiion: 5
+    - word: みえ
+      base: 見える
+      postiion: 6
+    - word: て
+      postiion: 8
+    - word: 眠れ
+      base: 眠る
+      postiion: 9
+    - word: ない
+      postiion: 11
 - id: Katainakani Atta Hanashi-f000106
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 」と、
-  word_list: [と]
   sound: f000106.mp3
   sound_begin: 256644
   sound_end: 257000
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Katainakani Atta Hanashi-f000107
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: おじいさんがいいますと、
-  word_list: [お, じい, さん, が, いい, ます, と]
   sound: f000107.mp3
   sound_begin: 257000
   sound_end: 260240
+  sentence: おじいさんがいいますと、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: じい
+      base: 爺
+      postiion: 1
+    - word: さん
+      postiion: 3
+    - word: が
+      postiion: 5
+    - word: いい
+      base: 言う
+      postiion: 6
+    - word: ます
+      postiion: 8
+    - word: と
+      postiion: 10
 - id: Katainakani Atta Hanashi-f000108
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 「外国のものは、
-  word_list: [外国, の, もの, は]
   sound: f000108.mp3
   sound_begin: 260240
   sound_end: 262200
+  sentence: 「外国のものは、
+  words:
+    - word: 外国
+      postiion: 1
+    - word: の
+      postiion: 3
+    - word: もの
+      base: 物
+      postiion: 4
+    - word: は
+      postiion: 6
 - id: Katainakani Atta Hanashi-f000109
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 体に合わないから、
-  word_list: [体, に, 合わ, ない, から]
   sound: f000109.mp3
   sound_begin: 262200
   sound_end: 263941
+  sentence: 体に合わないから、
+  words:
+    - word: 体
+      postiion: 0
+    - word: に
+      postiion: 1
+    - word: 合わ
+      base: 合う
+      postiion: 2
+    - word: ない
+      postiion: 4
+    - word: から
+      postiion: 6
 - id: Katainakani Atta Hanashi-f000110
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 食べるものでありませんね」と、
-  word_list: [食べる, もの, で, あり, ませ, ん, ね, と]
   sound: f000110.mp3
   sound_begin: 263941
   sound_end: 268000
+  sentence: 食べるものでありませんね」と、
+  words:
+    - word: 食べる
+      postiion: 0
+    - word: もの
+      base: 物
+      postiion: 3
+    - word: で
+      base: だ
+      postiion: 5
+    - word: あり
+      base: 有る
+      postiion: 6
+    - word: ませ
+      base: ます
+      postiion: 8
+    - word: ん
+      base: ず
+      postiion: 10
+    - word: ね
+      postiion: 11
+    - word: と
+      postiion: 13
 - id: Katainakani Atta Hanashi-f000111
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: おばあさんは、
-  word_list: [お, ばあ, さん, は]
   sound: f000111.mp3
   sound_begin: 268000
   sound_end: 268680
+  sentence: おばあさんは、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: ばあ
+      base: 婆
+      postiion: 1
+    - word: さん
+      postiion: 3
+    - word: は
+      postiion: 5
 - id: Katainakani Atta Hanashi-f000112
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 答えました。
-  word_list: [答え, まし, た]
   sound: f000112.mp3
   sound_begin: 268680
   sound_end: 272240
+  sentence: 答えました。
+  words:
+    - word: 答え
+      base: 答える
+      postiion: 0
+    - word: まし
+      base: ます
+      postiion: 2
+    - word: た
+      postiion: 4
 - id: Katainakani Atta Hanashi-f000113
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 二人は、
-  word_list: [二人, は]
   sound: f000113.mp3
   sound_begin: 272240
   sound_end: 273520
+  sentence: 二人は、
+  words:
+    - word: 二人
+      postiion: 0
+    - word: は
+      postiion: 2
 - id: Katainakani Atta Hanashi-f000114
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: やっと眠りつきましたが、
-  word_list: [やっと, 眠り, つき, まし, た, が]
   sound: f000114.mp3
   sound_begin: 273520
   sound_end: 276720
+  sentence: やっと眠りつきましたが、
+  words:
+    - word: やっと
+      base: 漸と
+      postiion: 0
+    - word: 眠り
+      base: 眠る
+      postiion: 3
+    - word: つき
+      base: 付く
+      postiion: 5
+    - word: まし
+      base: ます
+      postiion: 7
+    - word: た
+      postiion: 9
+    - word: が
+      postiion: 10
 - id: Katainakani Atta Hanashi-f000115
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: いろいろの夢を見ました。
-  word_list: [いろいろ, の, 夢, を, 見, まし, た]
   sound: f000115.mp3
   sound_begin: 276720
   sound_end: 281920
+  sentence: いろいろの夢を見ました。
+  words:
+    - word: いろいろ
+      base: 色々
+      postiion: 0
+    - word: の
+      postiion: 4
+    - word: 夢
+      postiion: 5
+    - word: を
+      postiion: 6
+    - word: 見
+      base: 見る
+      postiion: 7
+    - word: まし
+      base: ます
+      postiion: 8
+    - word: た
+      postiion: 10
 - id: Katainakani Atta Hanashi-f000116
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: おじいさんは、
-  word_list: [お, じい, さん, は]
   sound: f000116.mp3
   sound_begin: 281920
   sound_end: 283760
+  sentence: おじいさんは、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: じい
+      base: 爺
+      postiion: 1
+    - word: さん
+      postiion: 3
+    - word: は
+      postiion: 5
 - id: Katainakani Atta Hanashi-f000117
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: まだ元気で、
-  word_list: [まだ, 元気, で]
   sound: f000117.mp3
   sound_begin: 283760
   sound_end: 285443
+  sentence: まだ元気で、
+  words:
+    - word: まだ
+      base: 未だ
+      postiion: 0
+    - word: 元気
+      postiion: 2
+    - word: で
+      base: だ
+      postiion: 4
 - id: Katainakani Atta Hanashi-f000118
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 河へ釣りにいった夢を見たり、
-  word_list: [河, へ, 釣り, に, いっ, た, 夢, を, 見, たり]
   sound: f000118.mp3
   sound_begin: 285443
   sound_end: 289080
+  sentence: 河へ釣りにいった夢を見たり、
+  words:
+    - word: 河
+      postiion: 0
+    - word: へ
+      postiion: 1
+    - word: 釣り
+      postiion: 2
+    - word: に
+      postiion: 4
+    - word: いっ
+      base: 行く
+      postiion: 5
+    - word: た
+      postiion: 7
+    - word: 夢
+      postiion: 8
+    - word: を
+      postiion: 9
+    - word: 見
+      base: 見る
+      postiion: 10
+    - word: たり
+      postiion: 11
 - id: Katainakani Atta Hanashi-f000119
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: おばあさんは、
-  word_list: [お, ばあ, さん, は]
   sound: f000119.mp3
   sound_begin: 289080
   sound_end: 290840
+  sentence: おばあさんは、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: ばあ
+      base: 婆
+      postiion: 1
+    - word: さん
+      postiion: 3
+    - word: は
+      postiion: 5
 - id: Katainakani Atta Hanashi-f000120
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: まだ若くて、
-  word_list: [まだ, 若く, て]
   sound: f000120.mp3
   sound_begin: 290840
   sound_end: 292440
+  sentence: まだ若くて、
+  words:
+    - word: まだ
+      base: 未だ
+      postiion: 0
+    - word: 若く
+      base: 若い
+      postiion: 2
+    - word: て
+      postiion: 4
 - id: Katainakani Atta Hanashi-f000121
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: みんなと花見にいったことなどを夢に見ました。
-  word_list: [みんな, と, 花見, に, いっ, た, こと, など, を, 夢, に, 見, まし, た]
   sound: f000121.mp3
   sound_begin: 292440
   sound_end: 299040
+  sentence: みんなと花見にいったことなどを夢に見ました。
+  words:
+    - word: みんな
+      base: 皆
+      postiion: 0
+    - word: と
+      postiion: 3
+    - word: 花見
+      postiion: 4
+    - word: に
+      postiion: 6
+    - word: いっ
+      base: 行く
+      postiion: 7
+    - word: た
+      postiion: 9
+    - word: こと
+      postiion: 10
+    - word: など
+      postiion: 12
+    - word: を
+      postiion: 14
+    - word: 夢
+      postiion: 15
+    - word: に
+      postiion: 16
+    - word: 見
+      base: 見る
+      postiion: 17
+    - word: まし
+      base: ます
+      postiion: 18
+    - word: た
+      postiion: 20
 - id: Katainakani Atta Hanashi-f000122
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 翌日、
-  word_list: [翌日]
   sound: f000122.mp3
   sound_begin: 299040
   sound_end: 300896
+  sentence: 翌日、
+  words:
+    - word: 翌日
+      postiion: 0
 - id: Katainakani Atta Hanashi-f000123
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 二人は、
-  word_list: [二人, は]
   sound: f000123.mp3
   sound_begin: 300896
   sound_end: 301640
+  sentence: 二人は、
+  words:
+    - word: 二人
+      postiion: 0
+    - word: は
+      postiion: 2
 - id: Katainakani Atta Hanashi-f000124
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: あの赤いかんの中の粉を捨ててしまおうかと話をしていました。
-  word_list: [あの, 赤い, かん, の, 中, の, 粉, を, 捨て, て, しまおう, か, と, 話, を, し, て, い, まし, た]
   sound: f000124.mp3
   sound_begin: 301640
   sound_end: 307760
+  sentence: あの赤いかんの中の粉を捨ててしまおうかと話をしていました。
+  words:
+    - word: あの
+      base: 彼の
+      postiion: 0
+    - word: 赤い
+      postiion: 2
+    - word: かん
+      base: 彼
+      postiion: 4
+    - word: の
+      postiion: 6
+    - word: 中
+      postiion: 7
+    - word: の
+      postiion: 8
+    - word: 粉
+      postiion: 9
+    - word: を
+      postiion: 10
+    - word: 捨て
+      base: 捨てる
+      postiion: 11
+    - word: て
+      postiion: 12
+    - word: しまおう
+      base: 仕舞う
+      postiion: 14
+    - word: か
+      postiion: 18
+    - word: と
+      postiion: 19
+    - word: 話
+      postiion: 20
+    - word: を
+      postiion: 21
+    - word: し
+      base: 為る
+      postiion: 22
+    - word: て
+      postiion: 23
+    - word: い
+      base: 居る
+      postiion: 24
+    - word: まし
+      base: ます
+      postiion: 25
+    - word: た
+      postiion: 27
 - id: Katainakani Atta Hanashi-f000125
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: そこへ、
-  word_list: [そこ, へ]
   sound: f000125.mp3
   sound_begin: 307760
   sound_end: 309418
+  sentence: そこへ、
+  words:
+    - word: そこ
+      base: 其処
+      postiion: 0
+    - word: へ
+      postiion: 2
 - id: Katainakani Atta Hanashi-f000126
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 小包よりおくれて、
-  word_list: [小包, より, おくれ, て]
   sound: f000126.mp3
   sound_begin: 309418
   sound_end: 311360
+  sentence: 小包よりおくれて、
+  words:
+    - word: 小包
+      base: 小包み
+      postiion: 0
+    - word: より
+      postiion: 2
+    - word: おくれ
+      base: 遅れる
+      postiion: 4
+    - word: て
+      postiion: 7
 - id: Katainakani Atta Hanashi-f000127
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: せがれから、
-  word_list: [せがれ, から]
   sound: f000127.mp3
   sound_begin: 311360
   sound_end: 312280
+  sentence: せがれから、
+  words:
+    - word: せがれ
+      base: 倅
+      postiion: 0
+    - word: から
+      postiion: 3
 - id: Katainakani Atta Hanashi-f000128
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 手紙がとどきました。
-  word_list: [手紙, が, とどき, まし, た]
   sound: f000128.mp3
   sound_begin: 312280
   sound_end: 316920
+  sentence: 手紙がとどきました。
+  words:
+    - word: 手紙
+      postiion: 0
+    - word: が
+      postiion: 2
+    - word: とどき
+      base: 届く
+      postiion: 3
+    - word: まし
+      base: ます
+      postiion: 6
+    - word: た
+      postiion: 8
 - id: Katainakani Atta Hanashi-f000129
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: その手紙によると、
-  word_list: [その, 手紙, に, よる, と]
   sound: f000129.mp3
   sound_begin: 316920
   sound_end: 319840
+  sentence: その手紙によると、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 手紙
+      postiion: 2
+    - word: に
+      postiion: 4
+    - word: よる
+      postiion: 5
+    - word: と
+      postiion: 7
 - id: Katainakani Atta Hanashi-f000130
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 赤いかんにはいっているのは、
-  word_list: [赤い, かん, に, はいっ, て, いる, の, は]
   sound: f000130.mp3
   sound_begin: 319840
   sound_end: 322426
+  sentence: 赤いかんにはいっているのは、
+  words:
+    - word: 赤い
+      postiion: 0
+    - word: かん
+      base: 彼
+      postiion: 2
+    - word: に
+      postiion: 4
+    - word: はいっ
+      base: 入る
+      postiion: 5
+    - word: て
+      postiion: 8
+    - word: いる
+      base: 居る
+      postiion: 9
+    - word: の
+      postiion: 11
+    - word: は
+      postiion: 12
 - id: Katainakani Atta Hanashi-f000131
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: ココアというものであることがわかりました。
-  word_list: [ココア, と, いう, もの, で, ある, こと, が, わかり, まし, た]
   sound: f000131.mp3
   sound_begin: 322426
   sound_end: 328280
+  sentence: ココアというものであることがわかりました。
+  words:
+    - word: ココア
+      postiion: 0
+    - word: と
+      postiion: 3
+    - word: いう
+      base: 言う
+      postiion: 4
+    - word: もの
+      base: 物
+      postiion: 6
+    - word: で
+      base: だ
+      postiion: 8
+    - word: ある
+      base: 有る
+      postiion: 9
+    - word: こと
+      postiion: 11
+    - word: が
+      postiion: 13
+    - word: わかり
+      base: 分かる
+      postiion: 14
+    - word: まし
+      base: ます
+      postiion: 17
+    - word: た
+      postiion: 19
 - id: Katainakani Atta Hanashi-f000132
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 田舎に住んでいるおじいさんや、
-  word_list: [田舎, に, 住ん, で, いる, お, じい, さん, や]
   sound: f000132.mp3
   sound_begin: 328280
   sound_end: 330440
+  sentence: 田舎に住んでいるおじいさんや、
+  words:
+    - word: 田舎
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: 住ん
+      base: 住む
+      postiion: 3
+    - word: で
+      postiion: 5
+    - word: いる
+      base: 居る
+      postiion: 6
+    - word: お
+      base: 御
+      postiion: 8
+    - word: じい
+      base: 爺
+      postiion: 9
+    - word: さん
+      postiion: 11
+    - word: や
+      postiion: 13
 - id: Katainakani Atta Hanashi-f000133
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: おばあさんには、
-  word_list: [お, ばあ, さん, に, は]
   sound: f000133.mp3
   sound_begin: 330440
   sound_end: 332280
+  sentence: おばあさんには、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: ばあ
+      base: 婆
+      postiion: 1
+    - word: さん
+      postiion: 3
+    - word: に
+      postiion: 5
+    - word: は
+      postiion: 6
 - id: Katainakani Atta Hanashi-f000134
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: まだそうした飲み物のあることすら知らなかったのです。
-  word_list: [まだ, そう, し, た, 飲み物, の, ある, こと, すら, 知ら, なかっ, た, の, です]
   sound: f000134.mp3
   sound_begin: 332280
   sound_end: 338106
+  sentence: まだそうした飲み物のあることすら知らなかったのです。
+  words:
+    - word: まだ
+      base: 未だ
+      postiion: 0
+    - word: そう
+      postiion: 2
+    - word: し
+      base: 為る
+      postiion: 4
+    - word: た
+      postiion: 5
+    - word: 飲み物
+      postiion: 6
+    - word: の
+      postiion: 9
+    - word: ある
+      base: 有る
+      postiion: 10
+    - word: こと
+      postiion: 12
+    - word: すら
+      postiion: 14
+    - word: 知ら
+      base: 知る
+      postiion: 16
+    - word: なかっ
+      base: ない
+      postiion: 18
+    - word: た
+      postiion: 21
+    - word: の
+      postiion: 22
+    - word: です
+      postiion: 23
 - id: Katainakani Atta Hanashi-f000135
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 「こんなものを、
-  word_list: [こんな, もの, を]
   sound: f000135.mp3
   sound_begin: 338106
   sound_end: 339685
+  sentence: 「こんなものを、
+  words:
+    - word: こんな
+      postiion: 1
+    - word: もの
+      base: 物
+      postiion: 4
+    - word: を
+      postiion: 6
 - id: Katainakani Atta Hanashi-f000136
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: なんで私たちが知ろうか。
-  word_list: [なん, で, 私, たち, が, 知ろう, か]
   sound: f000136.mp3
   sound_begin: 339685
   sound_end: 342564
+  sentence: なんで私たちが知ろうか。
+  words:
+    - word: なん
+      base: 何
+      postiion: 0
+    - word: で
+      postiion: 2
+    - word: 私
+      postiion: 3
+    - word: たち
+      base: 達
+      postiion: 4
+    - word: が
+      postiion: 6
+    - word: 知ろう
+      base: 知る
+      postiion: 7
+    - word: か
+      postiion: 10
 - id: Katainakani Atta Hanashi-f000137
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 」といって、
-  word_list: [と, いっ, て]
   sound: f000137.mp3
   sound_begin: 342564
   sound_end: 344280
+  sentence: 」といって、
+  words:
+    - word: と
+      postiion: 1
+    - word: いっ
+      base: 言う
+      postiion: 2
+    - word: て
+      postiion: 4
 - id: Katainakani Atta Hanashi-f000138
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: おじいさんと、
-  word_list: [お, じい, さん, と]
   sound: f000138.mp3
   sound_begin: 344280
   sound_end: 345240
+  sentence: おじいさんと、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: じい
+      base: 爺
+      postiion: 1
+    - word: さん
+      postiion: 3
+    - word: と
+      postiion: 5
 - id: Katainakani Atta Hanashi-f000139
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: おばあさんは、
-  word_list: [お, ばあ, さん, は]
   sound: f000139.mp3
   sound_begin: 345240
   sound_end: 346645
+  sentence: おばあさんは、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: ばあ
+      base: 婆
+      postiion: 1
+    - word: さん
+      postiion: 3
+    - word: は
+      postiion: 5
 - id: Katainakani Atta Hanashi-f000140
   author_japanese: 小川 未明
   deck_name: Katainakani Atta Hanashi
   deck_name_japanese: 片田舎にあった話
-  sentence: 顔を見合わせて笑いました。
-  word_list: [顔, を, 見, 合わせ, て, 笑い, まし, た]
   sound: f000140.mp3
   sound_begin: 346645
   sound_end: 349257
+  sentence: 顔を見合わせて笑いました。
+  words:
+    - word: 顔
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: 見
+      base: 見る
+      postiion: 2
+    - word: 合わせ
+      base: 合う
+      postiion: 3
+    - word: て
+      postiion: 6
+    - word: 笑い
+      base: 笑う
+      postiion: 7
+    - word: まし
+      base: ます
+      postiion: 9
+    - word: た
+      postiion: 11

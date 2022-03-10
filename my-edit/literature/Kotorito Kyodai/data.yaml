@@ -2,1646 +2,4043 @@
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 小鳥と兄妹
-  word_list: [小鳥, と, 兄妹]
   sound: f000002.mp3
   sound_begin: 5144
   sound_end: 10120
+  sentence: 小鳥と兄妹
+  words:
+    - word: 小鳥
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: 兄妹
+      base: 兄弟
+      postiion: 3
 - id: Kotorito Kyodai-f000003
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 町からはなれて、
-  word_list: [町, から, はなれ, て]
   sound: f000003.mp3
   sound_begin: 10120
   sound_end: 11240
+  sentence: 町からはなれて、
+  words:
+    - word: 町
+      postiion: 0
+    - word: から
+      postiion: 1
+    - word: はなれ
+      base: 離れる
+      postiion: 3
+    - word: て
+      postiion: 6
 - id: Kotorito Kyodai-f000004
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 静かな村に、
-  word_list: [静か, な, 村, に]
   sound: f000004.mp3
   sound_begin: 11240
   sound_end: 13120
+  sentence: 静かな村に、
+  words:
+    - word: 静か
+      postiion: 0
+    - word: な
+      base: だ
+      postiion: 2
+    - word: 村
+      postiion: 3
+    - word: に
+      postiion: 4
 - id: Kotorito Kyodai-f000005
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 仲のいい兄妹が住んでいました。
-  word_list: [仲, の, いい, 兄妹, が, 住ん, で, い, まし, た]
   sound: f000005.mp3
   sound_begin: 13120
   sound_end: 17160
+  sentence: 仲のいい兄妹が住んでいました。
+  words:
+    - word: 仲
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: いい
+      base: 良い
+      postiion: 2
+    - word: 兄妹
+      base: 兄弟
+      postiion: 4
+    - word: が
+      postiion: 6
+    - word: 住ん
+      base: 住む
+      postiion: 7
+    - word: で
+      postiion: 9
+    - word: い
+      base: 居る
+      postiion: 10
+    - word: まし
+      base: ます
+      postiion: 11
+    - word: た
+      postiion: 13
 - id: Kotorito Kyodai-f000006
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 兄を太郎といい、
-  word_list: [兄, を, 太郎, と, いい]
   sound: f000006.mp3
   sound_begin: 17160
   sound_end: 19040
+  sentence: 兄を太郎といい、
+  words:
+    - word: 兄
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: 太郎
+      postiion: 2
+    - word: と
+      postiion: 4
+    - word: いい
+      base: 言う
+      postiion: 5
 - id: Kotorito Kyodai-f000007
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 妹を雪子といいました。
-  word_list: [妹, を, 雪子, と, いい, まし, た]
   sound: f000007.mp3
   sound_begin: 19040
   sound_end: 22680
+  sentence: 妹を雪子といいました。
+  words:
+    - word: 妹
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: 雪子
+      postiion: 2
+    - word: と
+      postiion: 4
+    - word: いい
+      base: 言う
+      postiion: 5
+    - word: まし
+      base: ます
+      postiion: 7
+    - word: た
+      postiion: 9
 - id: Kotorito Kyodai-f000008
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 二人は、
-  word_list: [二人, は]
   sound: f000008.mp3
   sound_begin: 22680
   sound_end: 23960
+  sentence: 二人は、
+  words:
+    - word: 二人
+      postiion: 0
+    - word: は
+      postiion: 2
 - id: Kotorito Kyodai-f000009
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 毎月、
-  word_list: [毎月]
   sound: f000009.mp3
   sound_begin: 23960
   sound_end: 24400
+  sentence: 毎月、
+  words:
+    - word: 毎月
+      postiion: 0
 - id: Kotorito Kyodai-f000010
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 町へくる新しい雑誌を買ってきて、
-  word_list: [町, へ, くる, 新しい, 雑誌, を, 買っ, て, き, て]
   sound: f000010.mp3
   sound_begin: 24400
   sound_end: 27520
+  sentence: 町へくる新しい雑誌を買ってきて、
+  words:
+    - word: 町
+      postiion: 0
+    - word: へ
+      postiion: 1
+    - word: くる
+      base: 来る
+      postiion: 2
+    - word: 新しい
+      postiion: 4
+    - word: 雑誌
+      postiion: 7
+    - word: を
+      postiion: 9
+    - word: 買っ
+      base: 買う
+      postiion: 10
+    - word: て
+      postiion: 12
+    - word: き
+      base: 来る
+      postiion: 13
+    - word: て
+      postiion: 14
 - id: Kotorito Kyodai-f000011
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: いっしょに読むのをなによりの楽しみとしていました。
-  word_list: [いっしょ, に, 読む, の, を, なに, より, の, 楽し, み, と, し, て, い, まし, た]
   sound: f000011.mp3
   sound_begin: 27520
   sound_end: 33480
+  sentence: いっしょに読むのをなによりの楽しみとしていました。
+  words:
+    - word: いっしょ
+      base: 一緒
+      postiion: 0
+    - word: に
+      postiion: 4
+    - word: 読む
+      postiion: 5
+    - word: の
+      postiion: 7
+    - word: を
+      postiion: 8
+    - word: なに
+      base: 何
+      postiion: 9
+    - word: より
+      postiion: 11
+    - word: の
+      postiion: 13
+    - word: 楽し
+      base: 楽しい
+      postiion: 14
+    - word: み
+      base: 味
+      postiion: 16
+    - word: と
+      postiion: 17
+    - word: し
+      base: 為る
+      postiion: 18
+    - word: て
+      postiion: 19
+    - word: い
+      base: 居る
+      postiion: 20
+    - word: まし
+      base: ます
+      postiion: 21
+    - word: た
+      postiion: 23
 - id: Kotorito Kyodai-f000012
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: ある日のこと、
-  word_list: [ある, 日, の, こと]
   sound: f000012.mp3
   sound_begin: 33480
   sound_end: 35263
+  sentence: ある日のこと、
+  words:
+    - word: ある
+      base: 或る
+      postiion: 0
+    - word: 日
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: こと
+      postiion: 4
 - id: Kotorito Kyodai-f000013
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 二人は、
-  word_list: [二人, は]
   sound: f000013.mp3
   sound_begin: 35263
   sound_end: 35840
+  sentence: 二人は、
+  words:
+    - word: 二人
+      postiion: 0
+    - word: は
+      postiion: 2
 - id: Kotorito Kyodai-f000014
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 雑誌を開いて見ていますと、
-  word_list: [雑誌, を, 開い, て, 見, て, い, ます, と]
   sound: f000014.mp3
   sound_begin: 35840
   sound_end: 38240
+  sentence: 雑誌を開いて見ていますと、
+  words:
+    - word: 雑誌
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: 開い
+      base: 開く
+      postiion: 3
+    - word: て
+      postiion: 5
+    - word: 見
+      base: 見る
+      postiion: 6
+    - word: て
+      postiion: 7
+    - word: い
+      base: 居る
+      postiion: 8
+    - word: ます
+      postiion: 9
+    - word: と
+      postiion: 11
 - id: Kotorito Kyodai-f000015
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: その月のには、
-  word_list: [その, 月, の, に, は]
   sound: f000015.mp3
   sound_begin: 38240
   sound_end: 39800
+  sentence: その月のには、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 月
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: に
+      postiion: 4
+    - word: は
+      postiion: 5
 - id: Kotorito Kyodai-f000016
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 美しい花や鳥の写真がたくさんに載っていました。
-  word_list: [美しい, 花, や, 鳥, の, 写真, が, たくさん, に, 載っ, て, い, まし, た]
   sound: f000016.mp3
   sound_begin: 39800
   sound_end: 46200
+  sentence: 美しい花や鳥の写真がたくさんに載っていました。
+  words:
+    - word: 美しい
+      postiion: 0
+    - word: 花
+      postiion: 3
+    - word: や
+      postiion: 4
+    - word: 鳥
+      postiion: 5
+    - word: の
+      postiion: 6
+    - word: 写真
+      postiion: 7
+    - word: が
+      postiion: 9
+    - word: たくさん
+      base: 沢山
+      postiion: 10
+    - word: に
+      base: だ
+      postiion: 14
+    - word: 載っ
+      base: 乗る
+      postiion: 15
+    - word: て
+      postiion: 17
+    - word: い
+      base: 居る
+      postiion: 18
+    - word: まし
+      base: ます
+      postiion: 19
+    - word: た
+      postiion: 21
 - id: Kotorito Kyodai-f000017
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 「まあ、
-  word_list: [まあ]
   sound: f000017.mp3
   sound_begin: 46200
   sound_end: 46680
+  sentence: 「まあ、
+  words:
+    - word: まあ
+      postiion: 1
 - id: Kotorito Kyodai-f000018
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: きれいだこと、
-  word_list: [きれい, だ, こと]
   sound: f000018.mp3
   sound_begin: 46680
   sound_end: 48520
+  sentence: きれいだこと、
+  words:
+    - word: きれい
+      base: 奇麗
+      postiion: 0
+    - word: だ
+      postiion: 3
+    - word: こと
+      postiion: 4
 - id: Kotorito Kyodai-f000019
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 兄さん、
-  word_list: [兄さん]
   sound: f000019.mp3
   sound_begin: 48520
   sound_end: 49691
+  sentence: 兄さん、
+  words:
+    - word: 兄さん
+      postiion: 0
 - id: Kotorito Kyodai-f000020
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: この鳥は、
-  word_list: [この, 鳥, は]
   sound: f000020.mp3
   sound_begin: 49691
   sound_end: 50560
+  sentence: この鳥は、
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: 鳥
+      postiion: 2
+    - word: は
+      postiion: 3
 - id: Kotorito Kyodai-f000021
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: よく見る鳥じゃありませんか。
-  word_list: [よく, 見る, 鳥, じゃ, あり, ませ, ん, か]
   sound: f000021.mp3
   sound_begin: 50560
   sound_end: 53261
+  sentence: よく見る鳥じゃありませんか。
+  words:
+    - word: よく
+      base: 良く
+      postiion: 0
+    - word: 見る
+      postiion: 2
+    - word: 鳥
+      postiion: 4
+    - word: じゃ
+      base: だ
+      postiion: 5
+    - word: あり
+      base: 有る
+      postiion: 7
+    - word: ませ
+      base: ます
+      postiion: 9
+    - word: ん
+      base: ず
+      postiion: 11
+    - word: か
+      postiion: 12
 - id: Kotorito Kyodai-f000022
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 」と、
-  word_list: [と]
   sound: f000022.mp3
   sound_begin: 53261
   sound_end: 53394
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Kotorito Kyodai-f000023
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 雪子はいいました。
-  word_list: [雪子, は, いい, まし, た]
   sound: f000023.mp3
   sound_begin: 53394
   sound_end: 56552
+  sentence: 雪子はいいました。
+  words:
+    - word: 雪子
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: いい
+      base: 言う
+      postiion: 3
+    - word: まし
+      base: ます
+      postiion: 5
+    - word: た
+      postiion: 7
 - id: Kotorito Kyodai-f000024
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: その鳥は、
-  word_list: [その, 鳥, は]
   sound: f000024.mp3
   sound_begin: 56552
   sound_end: 57840
+  sentence: その鳥は、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 鳥
+      postiion: 2
+    - word: は
+      postiion: 3
 - id: Kotorito Kyodai-f000025
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: すずめほどの大きさで、
-  word_list: [すずめ, ほど, の, 大き, さ, で]
   sound: f000025.mp3
   sound_begin: 57840
   sound_end: 59240
+  sentence: すずめほどの大きさで、
+  words:
+    - word: すずめ
+      base: 雀
+      postiion: 0
+    - word: ほど
+      postiion: 3
+    - word: の
+      postiion: 5
+    - word: 大き
+      base: 大きい
+      postiion: 6
+    - word: さ
+      postiion: 8
+    - word: で
+      base: だ
+      postiion: 9
 - id: Kotorito Kyodai-f000026
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: くびのまわりが紅く、
-  word_list: [くび, の, まわり, が, 紅く]
   sound: f000026.mp3
   sound_begin: 59240
   sound_end: 61640
+  sentence: くびのまわりが紅く、
+  words:
+    - word: くび
+      base: 首
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: まわり
+      base: 周り
+      postiion: 3
+    - word: が
+      postiion: 6
+    - word: 紅く
+      base: 赤い
+      postiion: 7
 - id: Kotorito Kyodai-f000027
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: まことに美しかったのであります。
-  word_list: [まこと, に, 美しかっ, た, の, で, あり, ます]
   sound: f000027.mp3
   sound_begin: 61640
   sound_end: 66200
+  sentence: まことに美しかったのであります。
+  words:
+    - word: まこと
+      base: 真
+      postiion: 0
+    - word: に
+      postiion: 3
+    - word: 美しかっ
+      base: 美しい
+      postiion: 4
+    - word: た
+      postiion: 8
+    - word: の
+      postiion: 9
+    - word: で
+      base: だ
+      postiion: 10
+    - word: あり
+      base: 有る
+      postiion: 11
+    - word: ます
+      postiion: 13
 - id: Kotorito Kyodai-f000028
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 「ああ、
-  word_list: [ああ]
   sound: f000028.mp3
   sound_begin: 66200
   sound_end: 66917
+  sentence: 「ああ、
+  words:
+    - word: ああ
+      postiion: 1
 - id: Kotorito Kyodai-f000029
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: この鳥は、
-  word_list: [この, 鳥, は]
   sound: f000029.mp3
   sound_begin: 66917
   sound_end: 67800
+  sentence: この鳥は、
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: 鳥
+      postiion: 2
+    - word: は
+      postiion: 3
 - id: Kotorito Kyodai-f000030
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: よく庭の木にやってくるうそという鳥だ。
-  word_list: [よく, 庭, の, 木, に, やっ, て, くる, うそ, と, いう, 鳥, だ]
   sound: f000030.mp3
   sound_begin: 67800
   sound_end: 72240
+  sentence: よく庭の木にやってくるうそという鳥だ。
+  words:
+    - word: よく
+      base: 良く
+      postiion: 0
+    - word: 庭
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: 木
+      postiion: 4
+    - word: に
+      postiion: 5
+    - word: やっ
+      base: 遣る
+      postiion: 6
+    - word: て
+      postiion: 8
+    - word: くる
+      base: 来る
+      postiion: 9
+    - word: うそ
+      postiion: 11
+    - word: と
+      postiion: 13
+    - word: いう
+      base: 言う
+      postiion: 14
+    - word: 鳥
+      postiion: 16
+    - word: だ
+      postiion: 17
 - id: Kotorito Kyodai-f000031
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: こちらにはたくさんいて珍しい鳥でないけれど、
-  word_list: [こちら, に, は, たくさん, い, て, 珍しい, 鳥, で, ない, けれど]
   sound: f000031.mp3
   sound_begin: 72240
   sound_end: 75833
+  sentence: こちらにはたくさんいて珍しい鳥でないけれど、
+  words:
+    - word: こちら
+      base: 此方
+      postiion: 0
+    - word: に
+      postiion: 3
+    - word: は
+      postiion: 4
+    - word: たくさん
+      base: 沢山
+      postiion: 5
+    - word: い
+      base: 居る
+      postiion: 9
+    - word: て
+      postiion: 10
+    - word: 珍しい
+      postiion: 11
+    - word: 鳥
+      postiion: 14
+    - word: で
+      base: だ
+      postiion: 15
+    - word: ない
+      base: 無い
+      postiion: 16
+    - word: けれど
+      postiion: 18
 - id: Kotorito Kyodai-f000032
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 東京へゆくと、
-  word_list: [東京, へ, ゆく, と]
   sound: f000032.mp3
   sound_begin: 75833
   sound_end: 76880
+  sentence: 東京へゆくと、
+  words:
+    - word: 東京
+      postiion: 0
+    - word: へ
+      postiion: 2
+    - word: ゆく
+      base: 行く
+      postiion: 3
+    - word: と
+      postiion: 5
 - id: Kotorito Kyodai-f000033
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: この鳥は少ないとみえて、
-  word_list: [この, 鳥, は, 少ない, と, みえ, て]
   sound: f000033.mp3
   sound_begin: 76880
   sound_end: 78760
+  sentence: この鳥は少ないとみえて、
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: 鳥
+      postiion: 2
+    - word: は
+      postiion: 3
+    - word: 少ない
+      postiion: 4
+    - word: と
+      postiion: 7
+    - word: みえ
+      base: 見える
+      postiion: 8
+    - word: て
+      postiion: 10
 - id: Kotorito Kyodai-f000034
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: たいせつに飼われるのだね。
-  word_list: [たいせつ, に, 飼わ, れる, の, だ, ね]
   sound: f000034.mp3
   sound_begin: 78760
   sound_end: 80720
+  sentence: たいせつに飼われるのだね。
+  words:
+    - word: たいせつ
+      base: 大切
+      postiion: 0
+    - word: に
+      base: だ
+      postiion: 4
+    - word: 飼わ
+      base: 飼う
+      postiion: 5
+    - word: れる
+      postiion: 7
+    - word: の
+      postiion: 9
+    - word: だ
+      postiion: 10
+    - word: ね
+      postiion: 11
 - id: Kotorito Kyodai-f000035
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 」と、
-  word_list: [と]
   sound: f000035.mp3
   sound_begin: 80720
   sound_end: 81920
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Kotorito Kyodai-f000036
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 兄はいって、
-  word_list: [兄, は, いっ, て]
   sound: f000036.mp3
   sound_begin: 81920
   sound_end: 83480
+  sentence: 兄はいって、
+  words:
+    - word: 兄
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: いっ
+      base: 言う
+      postiion: 2
+    - word: て
+      postiion: 4
 - id: Kotorito Kyodai-f000037
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 雑誌に書いてあることを妹に読んで聞かせたのです。
-  word_list: [雑誌, に, 書い, て, ある, こと, を, 妹, に, 読ん, で, 聞か, せ, た, の, です]
   sound: f000037.mp3
   sound_begin: 83480
   sound_end: 90035
+  sentence: 雑誌に書いてあることを妹に読んで聞かせたのです。
+  words:
+    - word: 雑誌
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: 書い
+      base: 書く
+      postiion: 3
+    - word: て
+      postiion: 5
+    - word: ある
+      base: 有る
+      postiion: 6
+    - word: こと
+      postiion: 8
+    - word: を
+      postiion: 10
+    - word: 妹
+      postiion: 11
+    - word: に
+      postiion: 12
+    - word: 読ん
+      base: 読む
+      postiion: 13
+    - word: で
+      postiion: 15
+    - word: 聞か
+      base: 聞く
+      postiion: 16
+    - word: せ
+      base: せる
+      postiion: 18
+    - word: た
+      postiion: 19
+    - word: の
+      postiion: 20
+    - word: です
+      postiion: 21
 - id: Kotorito Kyodai-f000038
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: このとき、
-  word_list: [この, とき]
   sound: f000038.mp3
   sound_begin: 90035
   sound_end: 91440
+  sentence: このとき、
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: とき
+      base: 時
+      postiion: 2
 - id: Kotorito Kyodai-f000039
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: うそが、
-  word_list: [うそ, が]
   sound: f000039.mp3
   sound_begin: 91440
   sound_end: 91880
+  sentence: うそが、
+  words:
+    - word: うそ
+      postiion: 0
+    - word: が
+      postiion: 2
 - id: Kotorito Kyodai-f000040
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: ちょうど庭の木にきてとまっていました。
-  word_list: [ちょうど, 庭, の, 木, に, き, て, とまっ, て, い, まし, た]
   sound: f000040.mp3
   sound_begin: 91880
   sound_end: 96560
+  sentence: ちょうど庭の木にきてとまっていました。
+  words:
+    - word: ちょうど
+      base: 丁度
+      postiion: 0
+    - word: 庭
+      postiion: 4
+    - word: の
+      postiion: 5
+    - word: 木
+      postiion: 6
+    - word: に
+      postiion: 7
+    - word: き
+      base: 来る
+      postiion: 8
+    - word: て
+      postiion: 9
+    - word: とまっ
+      base: とまる
+      postiion: 10
+    - word: て
+      postiion: 13
+    - word: い
+      base: 居る
+      postiion: 14
+    - word: まし
+      base: ます
+      postiion: 15
+    - word: た
+      postiion: 17
 - id: Kotorito Kyodai-f000041
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 兄と妹が、
-  word_list: [兄, と, 妹, が]
   sound: f000041.mp3
   sound_begin: 96560
   sound_end: 97880
+  sentence: 兄と妹が、
+  words:
+    - word: 兄
+      postiion: 0
+    - word: と
+      postiion: 1
+    - word: 妹
+      postiion: 2
+    - word: が
+      postiion: 3
 - id: Kotorito Kyodai-f000042
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 雑誌を開いて、
-  word_list: [雑誌, を, 開い, て]
   sound: f000042.mp3
   sound_begin: 97880
   sound_end: 98800
+  sentence: 雑誌を開いて、
+  words:
+    - word: 雑誌
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: 開い
+      base: 開く
+      postiion: 3
+    - word: て
+      postiion: 5
 - id: Kotorito Kyodai-f000043
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 自分の写真を指さしながら、
-  word_list: [自分, の, 写真, を, 指さし, ながら]
   sound: f000043.mp3
   sound_begin: 98800
   sound_end: 100720
+  sentence: 自分の写真を指さしながら、
+  words:
+    - word: 自分
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 写真
+      postiion: 3
+    - word: を
+      postiion: 5
+    - word: 指さし
+      base: 指差す
+      postiion: 6
+    - word: ながら
+      postiion: 9
 - id: Kotorito Kyodai-f000044
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 話をしているのをじっとながめていました。
-  word_list: [話, を, し, て, いる, の, を, じっと, ながめ, て, い, まし, た]
   sound: f000044.mp3
   sound_begin: 100720
   sound_end: 106173
+  sentence: 話をしているのをじっとながめていました。
+  words:
+    - word: 話
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: し
+      base: 為る
+      postiion: 2
+    - word: て
+      postiion: 3
+    - word: いる
+      base: 居る
+      postiion: 4
+    - word: の
+      postiion: 6
+    - word: を
+      postiion: 7
+    - word: じっと
+      postiion: 8
+    - word: ながめ
+      base: 眺める
+      postiion: 11
+    - word: て
+      postiion: 14
+    - word: い
+      base: 居る
+      postiion: 15
+    - word: まし
+      base: ます
+      postiion: 16
+    - word: た
+      postiion: 18
 - id: Kotorito Kyodai-f000045
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 鳥というものは耳ざといものでありますから、
-  word_list: [鳥, と, いう, もの, は, 耳ざとい, もの, で, あり, ます, から]
   sound: f000045.mp3
   sound_begin: 106173
   sound_end: 109560
+  sentence: 鳥というものは耳ざといものでありますから、
+  words:
+    - word: 鳥
+      postiion: 0
+    - word: と
+      postiion: 1
+    - word: いう
+      base: 言う
+      postiion: 2
+    - word: もの
+      base: 物
+      postiion: 4
+    - word: は
+      postiion: 6
+    - word: 耳ざとい
+      base: 耳聡い
+      postiion: 7
+    - word: もの
+      base: 物
+      postiion: 11
+    - word: で
+      base: だ
+      postiion: 13
+    - word: あり
+      base: 有る
+      postiion: 14
+    - word: ます
+      postiion: 16
+    - word: から
+      postiion: 18
 - id: Kotorito Kyodai-f000046
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 二人の話はなんでもよくわかりました。
-  word_list: [二人, の, 話, は, なん, で, も, よく, わかり, まし, た]
   sound: f000046.mp3
   sound_begin: 109560
   sound_end: 113522
+  sentence: 二人の話はなんでもよくわかりました。
+  words:
+    - word: 二人
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 話
+      postiion: 3
+    - word: は
+      postiion: 4
+    - word: なん
+      base: 何
+      postiion: 5
+    - word: で
+      postiion: 7
+    - word: も
+      postiion: 8
+    - word: よく
+      base: 良く
+      postiion: 9
+    - word: わかり
+      base: 分かる
+      postiion: 11
+    - word: まし
+      base: ます
+      postiion: 14
+    - word: た
+      postiion: 16
 - id: Kotorito Kyodai-f000047
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: そして、
-  word_list: [そして]
   sound: f000047.mp3
   sound_begin: 113522
   sound_end: 114640
+  sentence: そして、
+  words:
+    - word: そして
+      postiion: 0
 - id: Kotorito Kyodai-f000048
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 目もよくききましたから、
-  word_list: [目, も, よく, きき, まし, た, から]
   sound: f000048.mp3
   sound_begin: 114640
   sound_end: 116880
+  sentence: 目もよくききましたから、
+  words:
+    - word: 目
+      postiion: 0
+    - word: も
+      postiion: 1
+    - word: よく
+      base: 良く
+      postiion: 2
+    - word: きき
+      base: きく
+      postiion: 4
+    - word: まし
+      base: ます
+      postiion: 6
+    - word: た
+      postiion: 8
+    - word: から
+      postiion: 9
 - id: Kotorito Kyodai-f000049
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 二人が、
-  word_list: [二人, が]
   sound: f000049.mp3
   sound_begin: 116880
   sound_end: 117360
+  sentence: 二人が、
+  words:
+    - word: 二人
+      postiion: 0
+    - word: が
+      postiion: 2
 - id: Kotorito Kyodai-f000050
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 窓の下で見ている雑誌の絵もわかりました。
-  word_list: [窓, の, 下, で, 見, て, いる, 雑誌, の, 絵, も, わかり, まし, た]
   sound: f000050.mp3
   sound_begin: 117360
   sound_end: 123560
+  sentence: 窓の下で見ている雑誌の絵もわかりました。
+  words:
+    - word: 窓
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 下
+      postiion: 2
+    - word: で
+      postiion: 3
+    - word: 見
+      base: 見る
+      postiion: 4
+    - word: て
+      postiion: 5
+    - word: いる
+      base: 居る
+      postiion: 6
+    - word: 雑誌
+      postiion: 8
+    - word: の
+      postiion: 10
+    - word: 絵
+      postiion: 11
+    - word: も
+      postiion: 12
+    - word: わかり
+      base: 分かる
+      postiion: 13
+    - word: まし
+      base: ます
+      postiion: 16
+    - word: た
+      postiion: 18
 - id: Kotorito Kyodai-f000051
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 「いま、
-  word_list: [いま]
   sound: f000051.mp3
   sound_begin: 123560
   sound_end: 123800
+  sentence: 「いま、
+  words:
+    - word: いま
+      base: 今
+      postiion: 1
 - id: Kotorito Kyodai-f000052
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: あの子供さんたちがいっているのを聞くと、
-  word_list: [あの, 子供, さん, たち, が, いっ, て, いる, の, を, 聞く, と]
   sound: f000052.mp3
   sound_begin: 123800
   sound_end: 127080
+  sentence: あの子供さんたちがいっているのを聞くと、
+  words:
+    - word: あの
+      base: 彼の
+      postiion: 0
+    - word: 子供
+      postiion: 2
+    - word: さん
+      postiion: 4
+    - word: たち
+      base: 達
+      postiion: 6
+    - word: が
+      postiion: 8
+    - word: いっ
+      base: 言う
+      postiion: 9
+    - word: て
+      postiion: 11
+    - word: いる
+      base: 居る
+      postiion: 12
+    - word: の
+      postiion: 14
+    - word: を
+      postiion: 15
+    - word: 聞く
+      postiion: 16
+    - word: と
+      postiion: 18
 - id: Kotorito Kyodai-f000053
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: ほかの国へゆけば、
-  word_list: [ほか, の, 国, へ, ゆけ, ば]
   sound: f000053.mp3
   sound_begin: 127080
   sound_end: 128880
+  sentence: ほかの国へゆけば、
+  words:
+    - word: ほか
+      base: 他
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 国
+      postiion: 3
+    - word: へ
+      postiion: 4
+    - word: ゆけ
+      base: 行く
+      postiion: 5
+    - word: ば
+      postiion: 7
 - id: Kotorito Kyodai-f000054
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 自分は大事にされるということであるが、
-  word_list: [自分, は, 大事, に, さ, れる, と, いう, こと, で, ある, が]
   sound: f000054.mp3
   sound_begin: 128880
   sound_end: 132120
+  sentence: 自分は大事にされるということであるが、
+  words:
+    - word: 自分
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: 大事
+      postiion: 3
+    - word: に
+      base: だ
+      postiion: 5
+    - word: さ
+      base: 為る
+      postiion: 6
+    - word: れる
+      postiion: 7
+    - word: と
+      postiion: 9
+    - word: いう
+      base: 言う
+      postiion: 10
+    - word: こと
+      postiion: 12
+    - word: で
+      base: だ
+      postiion: 14
+    - word: ある
+      base: 有る
+      postiion: 15
+    - word: が
+      postiion: 17
 - id: Kotorito Kyodai-f000055
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: いったいどこだろう……。
-  word_list: [いったい, どこ, だろう]
   sound: f000055.mp3
   sound_begin: 132120
   sound_end: 135480
+  sentence: いったいどこだろう……。
+  words:
+    - word: いったい
+      base: 一体
+      postiion: 0
+    - word: どこ
+      postiion: 4
+    - word: だろう
+      base: だ
+      postiion: 6
 - id: Kotorito Kyodai-f000056
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: ああして、
-  word_list: [ああ, し, て]
   sound: f000056.mp3
   sound_begin: 135480
   sound_end: 136120
+  sentence: ああして、
+  words:
+    - word: ああ
+      postiion: 0
+    - word: し
+      base: 為る
+      postiion: 2
+    - word: て
+      postiion: 3
 - id: Kotorito Kyodai-f000057
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 絵にまで自分の姿をかいて出してあるのを見れば、
-  word_list: [絵, に, まで, 自分, の, 姿, を, かい, て, 出し, て, ある, の, を, 見れ, ば]
   sound: f000057.mp3
   sound_begin: 136120
   sound_end: 139600
+  sentence: 絵にまで自分の姿をかいて出してあるのを見れば、
+  words:
+    - word: 絵
+      postiion: 0
+    - word: に
+      postiion: 1
+    - word: まで
+      postiion: 2
+    - word: 自分
+      postiion: 4
+    - word: の
+      postiion: 6
+    - word: 姿
+      postiion: 7
+    - word: を
+      postiion: 8
+    - word: かい
+      base: かく
+      postiion: 9
+    - word: て
+      postiion: 11
+    - word: 出し
+      base: 出す
+      postiion: 12
+    - word: て
+      postiion: 14
+    - word: ある
+      base: 有る
+      postiion: 15
+    - word: の
+      postiion: 17
+    - word: を
+      postiion: 18
+    - word: 見れ
+      base: 見る
+      postiion: 19
+    - word: ば
+      postiion: 21
 - id: Kotorito Kyodai-f000058
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: まんざらうそのことではない。
-  word_list: [まんざら, う, その, こと, で, は, ない]
   sound: f000058.mp3
   sound_begin: 139600
   sound_end: 142936
+  sentence: まんざらうそのことではない。
+  words:
+    - word: まんざら
+      base: 満更
+      postiion: 0
+    - word: う
+      base: うー
+      postiion: 4
+    - word: その
+      base: 其の
+      postiion: 5
+    - word: こと
+      postiion: 7
+    - word: で
+      postiion: 9
+    - word: は
+      postiion: 10
+    - word: ない
+      base: 無い
+      postiion: 11
 - id: Kotorito Kyodai-f000059
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 」と、
-  word_list: [と]
   sound: f000059.mp3
   sound_begin: 142936
   sound_end: 143116
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Kotorito Kyodai-f000060
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: うそは思いました。
-  word_list: [うそ, は, 思い, まし, た]
   sound: f000060.mp3
   sound_begin: 143116
   sound_end: 146477
+  sentence: うそは思いました。
+  words:
+    - word: うそ
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: 思い
+      base: 思う
+      postiion: 3
+    - word: まし
+      base: ます
+      postiion: 5
+    - word: た
+      postiion: 7
 - id: Kotorito Kyodai-f000061
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: この小鳥は、
-  word_list: [この, 小鳥, は]
   sound: f000061.mp3
   sound_begin: 146477
   sound_end: 147865
+  sentence: この小鳥は、
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: 小鳥
+      postiion: 2
+    - word: は
+      postiion: 4
 - id: Kotorito Kyodai-f000062
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 寒い、
-  word_list: [寒い]
   sound: f000062.mp3
   sound_begin: 147865
   sound_end: 148480
+  sentence: 寒い、
+  words:
+    - word: 寒い
+      postiion: 0
 - id: Kotorito Kyodai-f000063
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 寒い、
-  word_list: [寒い]
   sound: f000063.mp3
   sound_begin: 148480
   sound_end: 149473
+  sentence: 寒い、
+  words:
+    - word: 寒い
+      postiion: 0
 - id: Kotorito Kyodai-f000064
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 北の国に産まれたのでした。
-  word_list: [北, の, 国, に, 産まれ, た, の, でし, た]
   sound: f000064.mp3
   sound_begin: 149473
   sound_end: 153821
+  sentence: 北の国に産まれたのでした。
+  words:
+    - word: 北
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 国
+      postiion: 2
+    - word: に
+      postiion: 3
+    - word: 産まれ
+      base: 生まれる
+      postiion: 4
+    - word: た
+      postiion: 7
+    - word: の
+      postiion: 8
+    - word: でし
+      base: です
+      postiion: 9
+    - word: た
+      postiion: 11
 - id: Kotorito Kyodai-f000065
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: もう夏もやがてくるので仲間といっしょに、
-  word_list: [もう, 夏, も, やがて, くる, の, で, 仲間, と, いっしょ, に]
   sound: f000065.mp3
   sound_begin: 153821
   sound_end: 157440
+  sentence: もう夏もやがてくるので仲間といっしょに、
+  words:
+    - word: もう
+      postiion: 0
+    - word: 夏
+      postiion: 2
+    - word: も
+      postiion: 3
+    - word: やがて
+      base: 軈て
+      postiion: 4
+    - word: くる
+      base: 来る
+      postiion: 7
+    - word: の
+      postiion: 9
+    - word: で
+      base: だ
+      postiion: 10
+    - word: 仲間
+      postiion: 11
+    - word: と
+      postiion: 13
+    - word: いっしょ
+      base: 一緒
+      postiion: 14
+    - word: に
+      postiion: 18
 - id: Kotorito Kyodai-f000066
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: ふたたび故郷へ帰る約束をしたのであります。
-  word_list: [ふたたび, 故郷, へ, 帰る, 約束, を, し, た, の, で, あり, ます]
   sound: f000066.mp3
   sound_begin: 157440
   sound_end: 162389
+  sentence: ふたたび故郷へ帰る約束をしたのであります。
+  words:
+    - word: ふたたび
+      base: 再び
+      postiion: 0
+    - word: 故郷
+      postiion: 4
+    - word: へ
+      postiion: 6
+    - word: 帰る
+      postiion: 7
+    - word: 約束
+      postiion: 9
+    - word: を
+      postiion: 11
+    - word: し
+      base: 為る
+      postiion: 12
+    - word: た
+      postiion: 13
+    - word: の
+      postiion: 14
+    - word: で
+      base: だ
+      postiion: 15
+    - word: あり
+      base: 有る
+      postiion: 16
+    - word: ます
+      postiion: 18
 - id: Kotorito Kyodai-f000067
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 天気のいい日を、
-  word_list: [天気, の, いい, 日, を]
   sound: f000067.mp3
   sound_begin: 162389
   sound_end: 163240
+  sentence: 天気のいい日を、
+  words:
+    - word: 天気
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: いい
+      base: 良い
+      postiion: 3
+    - word: 日
+      postiion: 5
+    - word: を
+      postiion: 6
 - id: Kotorito Kyodai-f000068
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 見はからって、
-  word_list: [見, はからっ, て]
   sound: f000068.mp3
   sound_begin: 163240
   sound_end: 164815
+  sentence: 見はからって、
+  words:
+    - word: 見
+      base: 見る
+      postiion: 0
+    - word: はからっ
+      base: 計らう
+      postiion: 1
+    - word: て
+      postiion: 5
 - id: Kotorito Kyodai-f000069
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 彼らは旅立つことになっていました。
-  word_list: [彼, ら, は, 旅立つ, こと, に, なっ, て, い, まし, た]
   sound: f000069.mp3
   sound_begin: 164815
   sound_end: 169880
+  sentence: 彼らは旅立つことになっていました。
+  words:
+    - word: 彼
+      postiion: 0
+    - word: ら
+      base: 等
+      postiion: 1
+    - word: は
+      postiion: 2
+    - word: 旅立つ
+      postiion: 3
+    - word: こと
+      postiion: 6
+    - word: に
+      postiion: 8
+    - word: なっ
+      base: 成る
+      postiion: 9
+    - word: て
+      postiion: 11
+    - word: い
+      base: 居る
+      postiion: 12
+    - word: まし
+      base: ます
+      postiion: 13
+    - word: た
+      postiion: 15
 - id: Kotorito Kyodai-f000070
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: うそは、
-  word_list: [うそ, は]
   sound: f000070.mp3
   sound_begin: 169880
   sound_end: 170560
+  sentence: うそは、
+  words:
+    - word: うそ
+      postiion: 0
+    - word: は
+      postiion: 2
 - id: Kotorito Kyodai-f000071
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 友だちとした約束を忘れなかったけれど、
-  word_list: [友だち, と, し, た, 約束, を, 忘れ, なかっ, た, けれど]
   sound: f000071.mp3
   sound_begin: 170560
   sound_end: 174520
+  sentence: 友だちとした約束を忘れなかったけれど、
+  words:
+    - word: 友だち
+      base: 友達
+      postiion: 0
+    - word: と
+      postiion: 3
+    - word: し
+      base: 為る
+      postiion: 4
+    - word: た
+      postiion: 5
+    - word: 約束
+      postiion: 6
+    - word: を
+      postiion: 8
+    - word: 忘れ
+      base: 忘れる
+      postiion: 9
+    - word: なかっ
+      base: ない
+      postiion: 11
+    - word: た
+      postiion: 14
+    - word: けれど
+      postiion: 15
 - id: Kotorito Kyodai-f000072
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 「どうか、
-  word_list: [どう, か]
   sound: f000072.mp3
   sound_begin: 174520
   sound_end: 175320
+  sentence: 「どうか、
+  words:
+    - word: どう
+      postiion: 1
+    - word: か
+      postiion: 3
 - id: Kotorito Kyodai-f000073
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 自分をかわいがってくれる、
-  word_list: [自分, を, かわい, がっ, て, くれる]
   sound: f000073.mp3
   sound_begin: 175320
   sound_end: 176840
+  sentence: 自分をかわいがってくれる、
+  words:
+    - word: 自分
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: かわい
+      base: 可愛い
+      postiion: 3
+    - word: がっ
+      base: がる
+      postiion: 6
+    - word: て
+      postiion: 8
+    - word: くれる
+      base: 呉れる
+      postiion: 9
 - id: Kotorito Kyodai-f000074
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: その知らない土地へいってみたいものだ。
-  word_list: [その, 知ら, ない, 土地, へ, いっ, て, み, たい, もの, だ]
   sound: f000074.mp3
   sound_begin: 176840
   sound_end: 179769
+  sentence: その知らない土地へいってみたいものだ。
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 知ら
+      base: 知る
+      postiion: 2
+    - word: ない
+      postiion: 4
+    - word: 土地
+      postiion: 6
+    - word: へ
+      postiion: 8
+    - word: いっ
+      base: 行く
+      postiion: 9
+    - word: て
+      postiion: 11
+    - word: み
+      base: 見る
+      postiion: 12
+    - word: たい
+      postiion: 13
+    - word: もの
+      base: 物
+      postiion: 15
+    - word: だ
+      postiion: 17
 - id: Kotorito Kyodai-f000075
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 」と思いました。
-  word_list: [と, 思い, まし, た]
   sound: f000075.mp3
   sound_begin: 179769
   sound_end: 184088
+  sentence: 」と思いました。
+  words:
+    - word: と
+      postiion: 1
+    - word: 思い
+      base: 思う
+      postiion: 2
+    - word: まし
+      base: ます
+      postiion: 4
+    - word: た
+      postiion: 6
 - id: Kotorito Kyodai-f000076
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 彼は、
-  word_list: [彼, は]
   sound: f000076.mp3
   sound_begin: 184088
   sound_end: 184800
+  sentence: 彼は、
+  words:
+    - word: 彼
+      postiion: 0
+    - word: は
+      postiion: 1
 - id: Kotorito Kyodai-f000077
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 木から飛びたつと、
-  word_list: [木, から, 飛び, たつ, と]
   sound: f000077.mp3
   sound_begin: 184800
   sound_end: 186800
+  sentence: 木から飛びたつと、
+  words:
+    - word: 木
+      postiion: 0
+    - word: から
+      postiion: 1
+    - word: 飛び
+      base: 飛ぶ
+      postiion: 3
+    - word: たつ
+      postiion: 5
+    - word: と
+      postiion: 7
 - id: Kotorito Kyodai-f000078
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: はるかあちらへ飛んでゆきました。
-  word_list: [はるか, あちら, へ, 飛ん, で, ゆき, まし, た]
   sound: f000078.mp3
   sound_begin: 186800
   sound_end: 190880
+  sentence: はるかあちらへ飛んでゆきました。
+  words:
+    - word: はるか
+      base: 遥か
+      postiion: 0
+    - word: あちら
+      base: 彼方
+      postiion: 3
+    - word: へ
+      postiion: 6
+    - word: 飛ん
+      base: 飛ぶ
+      postiion: 7
+    - word: で
+      postiion: 9
+    - word: ゆき
+      base: 行く
+      postiion: 10
+    - word: まし
+      base: ます
+      postiion: 12
+    - word: た
+      postiion: 14
 - id: Kotorito Kyodai-f000079
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: そして、
-  word_list: [そして]
   sound: f000079.mp3
   sound_begin: 190880
   sound_end: 191440
+  sentence: そして、
+  words:
+    - word: そして
+      postiion: 0
 - id: Kotorito Kyodai-f000080
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 街道にあった、
-  word_list: [街道, に, あっ, た]
   sound: f000080.mp3
   sound_begin: 191440
   sound_end: 193000
+  sentence: 街道にあった、
+  words:
+    - word: 街道
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: あっ
+      base: 有る
+      postiion: 3
+    - word: た
+      postiion: 5
 - id: Kotorito Kyodai-f000081
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 一本の電信柱にきて止まったのです。
-  word_list: [一, 本, の, 電信, 柱, に, き, て, 止まっ, た, の, です]
   sound: f000081.mp3
   sound_begin: 193000
   sound_end: 198000
+  sentence: 一本の電信柱にきて止まったのです。
+  words:
+    - word: 一
+      base: '1'
+      postiion: 0
+    - word: 本
+      postiion: 1
+    - word: の
+      postiion: 2
+    - word: 電信
+      postiion: 3
+    - word: 柱
+      postiion: 5
+    - word: に
+      postiion: 6
+    - word: き
+      base: 来る
+      postiion: 7
+    - word: て
+      postiion: 8
+    - word: 止まっ
+      base: 止まる
+      postiion: 9
+    - word: た
+      postiion: 12
+    - word: の
+      postiion: 13
+    - word: です
+      postiion: 14
 - id: Kotorito Kyodai-f000082
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: いつであったか、
-  word_list: [いつ, で, あっ, た, か]
   sound: f000082.mp3
   sound_begin: 198000
   sound_end: 199413
+  sentence: いつであったか、
+  words:
+    - word: いつ
+      postiion: 0
+    - word: で
+      base: だ
+      postiion: 2
+    - word: あっ
+      base: 有る
+      postiion: 3
+    - word: た
+      postiion: 5
+    - word: か
+      postiion: 6
 - id: Kotorito Kyodai-f000083
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 電信柱が、
-  word_list: [電信, 柱, が]
   sound: f000083.mp3
   sound_begin: 199413
   sound_end: 201320
+  sentence: 電信柱が、
+  words:
+    - word: 電信
+      postiion: 0
+    - word: 柱
+      postiion: 2
+    - word: が
+      postiion: 3
 - id: Kotorito Kyodai-f000084
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: なんでも自分に聞けば、
-  word_list: [なん, で, も, 自分, に, 聞け, ば]
   sound: f000084.mp3
   sound_begin: 201320
   sound_end: 203163
+  sentence: なんでも自分に聞けば、
+  words:
+    - word: なん
+      base: 何
+      postiion: 0
+    - word: で
+      postiion: 2
+    - word: も
+      postiion: 3
+    - word: 自分
+      postiion: 4
+    - word: に
+      postiion: 6
+    - word: 聞け
+      base: 聞く
+      postiion: 7
+    - word: ば
+      postiion: 9
 - id: Kotorito Kyodai-f000085
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: この世の中のことで、
-  word_list: [この, 世の中, の, こと, で]
   sound: f000085.mp3
   sound_begin: 203163
   sound_end: 204320
+  sentence: この世の中のことで、
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: 世の中
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: こと
+      postiion: 6
+    - word: で
+      base: だ
+      postiion: 8
 - id: Kotorito Kyodai-f000086
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 知らないものはないといった、
-  word_list: [知ら, ない, もの, は, ない, と, いっ, た]
   sound: f000086.mp3
   sound_begin: 204320
   sound_end: 206320
+  sentence: 知らないものはないといった、
+  words:
+    - word: 知ら
+      base: 知る
+      postiion: 0
+    - word: ない
+      postiion: 2
+    - word: もの
+      base: 物
+      postiion: 4
+    - word: は
+      postiion: 6
+    - word: ない
+      base: 無い
+      postiion: 7
+    - word: と
+      postiion: 9
+    - word: いっ
+      base: 言う
+      postiion: 10
+    - word: た
+      postiion: 12
 - id: Kotorito Kyodai-f000087
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: そのことを思い出したからでした。
-  word_list: [その, こと, を, 思い, 出し, た, から, でし, た]
   sound: f000087.mp3
   sound_begin: 206320
   sound_end: 212040
+  sentence: そのことを思い出したからでした。
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: こと
+      postiion: 2
+    - word: を
+      postiion: 4
+    - word: 思い
+      base: 思う
+      postiion: 5
+    - word: 出し
+      base: 出す
+      postiion: 7
+    - word: た
+      postiion: 9
+    - word: から
+      postiion: 10
+    - word: でし
+      base: です
+      postiion: 12
+    - word: た
+      postiion: 14
 - id: Kotorito Kyodai-f000088
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 青く晴れた、
-  word_list: [青く, 晴れ, た]
   sound: f000088.mp3
   sound_begin: 212040
   sound_end: 212880
+  sentence: 青く晴れた、
+  words:
+    - word: 青く
+      base: 青い
+      postiion: 0
+    - word: 晴れ
+      base: 晴れる
+      postiion: 2
+    - word: た
+      postiion: 4
 - id: Kotorito Kyodai-f000089
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 空の下で、
-  word_list: [空, の, 下, で]
   sound: f000089.mp3
   sound_begin: 212880
   sound_end: 214480
+  sentence: 空の下で、
+  words:
+    - word: 空
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 下
+      postiion: 2
+    - word: で
+      postiion: 3
 - id: Kotorito Kyodai-f000090
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 電信柱は居眠りをしていました。
-  word_list: [電信, 柱, は, 居眠り, を, し, て, い, まし, た]
   sound: f000090.mp3
   sound_begin: 214480
   sound_end: 219040
+  sentence: 電信柱は居眠りをしていました。
+  words:
+    - word: 電信
+      postiion: 0
+    - word: 柱
+      postiion: 2
+    - word: は
+      postiion: 3
+    - word: 居眠り
+      postiion: 4
+    - word: を
+      postiion: 7
+    - word: し
+      base: 為る
+      postiion: 8
+    - word: て
+      postiion: 9
+    - word: い
+      base: 居る
+      postiion: 10
+    - word: まし
+      base: ます
+      postiion: 11
+    - word: た
+      postiion: 13
 - id: Kotorito Kyodai-f000091
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: その頭の上に止まると、
-  word_list: [その, 頭, の, 上, に, 止まる, と]
   sound: f000091.mp3
   sound_begin: 219040
   sound_end: 221263
+  sentence: その頭の上に止まると、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 頭
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: 上
+      postiion: 4
+    - word: に
+      postiion: 5
+    - word: 止まる
+      postiion: 6
+    - word: と
+      postiion: 9
 - id: Kotorito Kyodai-f000092
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 小鳥は、
-  word_list: [小鳥, は]
   sound: f000092.mp3
   sound_begin: 221263
   sound_end: 221920
+  sentence: 小鳥は、
+  words:
+    - word: 小鳥
+      postiion: 0
+    - word: は
+      postiion: 2
 - id: Kotorito Kyodai-f000093
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 黒いくちばしでコツ、
-  word_list: [黒い, くちばし, で, コツ]
   sound: f000093.mp3
   sound_begin: 221920
   sound_end: 224000
+  sentence: 黒いくちばしでコツ、
+  words:
+    - word: 黒い
+      postiion: 0
+    - word: くちばし
+      base: 嘴
+      postiion: 2
+    - word: で
+      postiion: 6
+    - word: コツ
+      base: こつ
+      postiion: 7
 - id: Kotorito Kyodai-f000094
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: コツとつついて、
-  word_list: [コツ, と, つつい, て]
   sound: f000094.mp3
   sound_begin: 224000
   sound_end: 225768
+  sentence: コツとつついて、
+  words:
+    - word: コツ
+      base: こつ
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: つつい
+      base: 突く
+      postiion: 3
+    - word: て
+      postiion: 6
 - id: Kotorito Kyodai-f000095
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 彼の眠りをさました。
-  word_list: [彼, の, 眠り, を, さまし, た]
   sound: f000095.mp3
   sound_begin: 225768
   sound_end: 231240
+  sentence: 彼の眠りをさました。
+  words:
+    - word: 彼
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 眠り
+      postiion: 2
+    - word: を
+      postiion: 4
+    - word: さまし
+      base: さます
+      postiion: 5
+    - word: た
+      postiion: 8
 - id: Kotorito Kyodai-f000096
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 「ああ、
-  word_list: [ああ]
   sound: f000096.mp3
   sound_begin: 231240
   sound_end: 232200
+  sentence: 「ああ、
+  words:
+    - word: ああ
+      postiion: 1
 - id: Kotorito Kyodai-f000097
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 眠いことだ。
-  word_list: [眠い, こと, だ]
   sound: f000097.mp3
   sound_begin: 232200
   sound_end: 234360
+  sentence: 眠いことだ。
+  words:
+    - word: 眠い
+      postiion: 0
+    - word: こと
+      postiion: 2
+    - word: だ
+      postiion: 4
 - id: Kotorito Kyodai-f000098
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: いい風が、
-  word_list: [いい, 風, が]
   sound: f000098.mp3
   sound_begin: 234360
   sound_end: 235120
+  sentence: いい風が、
+  words:
+    - word: いい
+      base: 良い
+      postiion: 0
+    - word: 風
+      postiion: 2
+    - word: が
+      postiion: 3
 - id: Kotorito Kyodai-f000099
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: そよそよと吹くので、
-  word_list: [そよそよ, と, 吹く, の, で]
   sound: f000099.mp3
   sound_begin: 235120
   sound_end: 236360
+  sentence: そよそよと吹くので、
+  words:
+    - word: そよそよ
+      postiion: 0
+    - word: と
+      postiion: 4
+    - word: 吹く
+      postiion: 5
+    - word: の
+      postiion: 7
+    - word: で
+      base: だ
+      postiion: 8
 - id: Kotorito Kyodai-f000100
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: ぐっすり眠ってしまったが、
-  word_list: [ぐっすり, 眠っ, て, しまっ, た, が]
   sound: f000100.mp3
   sound_begin: 236360
   sound_end: 238880
+  sentence: ぐっすり眠ってしまったが、
+  words:
+    - word: ぐっすり
+      postiion: 0
+    - word: 眠っ
+      base: 眠る
+      postiion: 4
+    - word: て
+      postiion: 6
+    - word: しまっ
+      base: 仕舞う
+      postiion: 7
+    - word: た
+      postiion: 10
+    - word: が
+      postiion: 11
 - id: Kotorito Kyodai-f000101
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 俺を起こしたのは、
-  word_list: [俺, を, 起こし, た, の, は]
   sound: f000101.mp3
   sound_begin: 238880
   sound_end: 240400
+  sentence: 俺を起こしたのは、
+  words:
+    - word: 俺
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: 起こし
+      base: 起こす
+      postiion: 2
+    - word: た
+      postiion: 5
+    - word: の
+      postiion: 6
+    - word: は
+      postiion: 7
 - id: Kotorito Kyodai-f000102
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 何者だ？
-  word_list: [何者, だ]
   sound: f000102.mp3
   sound_begin: 240400
   sound_end: 242347
+  sentence: 何者だ？
+  words:
+    - word: 何者
+      postiion: 0
+    - word: だ
+      postiion: 2
 - id: Kotorito Kyodai-f000103
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 」と、
-  word_list: [と]
   sound: f000103.mp3
   sound_begin: 242347
   sound_end: 242508
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Kotorito Kyodai-f000104
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 電信柱は、
-  word_list: [電信, 柱, は]
   sound: f000104.mp3
   sound_begin: 242508
   sound_end: 243878
+  sentence: 電信柱は、
+  words:
+    - word: 電信
+      postiion: 0
+    - word: 柱
+      postiion: 2
+    - word: は
+      postiion: 3
 - id: Kotorito Kyodai-f000105
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 不平をいわずには、
-  word_list: [不平, を, いわ, ず, に, は]
   sound: f000105.mp3
   sound_begin: 243878
   sound_end: 245040
+  sentence: 不平をいわずには、
+  words:
+    - word: 不平
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: いわ
+      base: 言う
+      postiion: 3
+    - word: ず
+      postiion: 5
+    - word: に
+      postiion: 6
+    - word: は
+      postiion: 7
 - id: Kotorito Kyodai-f000106
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: いられなかったのです。
-  word_list: [い, られ, なかっ, た, の, です]
   sound: f000106.mp3
   sound_begin: 245040
   sound_end: 248440
+  sentence: いられなかったのです。
+  words:
+    - word: い
+      base: 居る
+      postiion: 0
+    - word: られ
+      base: られる
+      postiion: 1
+    - word: なかっ
+      base: ない
+      postiion: 3
+    - word: た
+      postiion: 6
+    - word: の
+      postiion: 7
+    - word: です
+      postiion: 8
 - id: Kotorito Kyodai-f000107
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 「私ですよ。
-  word_list: [私, です, よ]
   sound: f000107.mp3
   sound_begin: 248440
   sound_end: 250240
+  sentence: 「私ですよ。
+  words:
+    - word: 私
+      postiion: 1
+    - word: です
+      postiion: 2
+    - word: よ
+      postiion: 4
 - id: Kotorito Kyodai-f000108
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: いつか、
-  word_list: [いつ, か]
   sound: f000108.mp3
   sound_begin: 250240
   sound_end: 250560
+  sentence: いつか、
+  words:
+    - word: いつ
+      postiion: 0
+    - word: か
+      postiion: 2
 - id: Kotorito Kyodai-f000109
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: あなたから、
-  word_list: [あなた, から]
   sound: f000109.mp3
   sound_begin: 250560
   sound_end: 251760
+  sentence: あなたから、
+  words:
+    - word: あなた
+      base: 貴方
+      postiion: 0
+    - word: から
+      postiion: 3
 - id: Kotorito Kyodai-f000110
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: おもしろい話を聞かせていただいたことのある、
-  word_list: [おもしろい, 話, を, 聞か, せ, て, いただい, た, こと, の, ある]
   sound: f000110.mp3
   sound_begin: 251760
   sound_end: 254826
+  sentence: おもしろい話を聞かせていただいたことのある、
+  words:
+    - word: おもしろい
+      base: 面白い
+      postiion: 0
+    - word: 話
+      postiion: 5
+    - word: を
+      postiion: 6
+    - word: 聞か
+      base: 聞く
+      postiion: 7
+    - word: せ
+      base: せる
+      postiion: 9
+    - word: て
+      postiion: 10
+    - word: いただい
+      base: 頂く
+      postiion: 11
+    - word: た
+      postiion: 12
+    - word: こと
+      postiion: 16
+    - word: の
+      postiion: 18
+    - word: ある
+      base: 有る
+      postiion: 19
 - id: Kotorito Kyodai-f000111
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 旅の小鳥です。」
-  word_list: [旅, の, 小鳥, です]
   sound: f000111.mp3
   sound_begin: 254826
   sound_end: 257920
+  sentence: 旅の小鳥です。」
+  words:
+    - word: 旅
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 小鳥
+      postiion: 2
+    - word: です
+      postiion: 4
 - id: Kotorito Kyodai-f000112
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 「ああ、
-  word_list: [ああ]
   sound: f000112.mp3
   sound_begin: 257920
   sound_end: 258560
+  sentence: 「ああ、
+  words:
+    - word: ああ
+      postiion: 1
 - id: Kotorito Kyodai-f000113
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: そうでしたか。
-  word_list: [そう, でし, た, か]
   sound: f000113.mp3
   sound_begin: 258560
   sound_end: 260560
+  sentence: そうでしたか。
+  words:
+    - word: そう
+      postiion: 0
+    - word: でし
+      base: です
+      postiion: 2
+    - word: た
+      postiion: 4
+    - word: か
+      postiion: 5
 - id: Kotorito Kyodai-f000114
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: まだおまえさんたちは、
-  word_list: [まだ, おまえ, さん, たち, は]
   sound: f000114.mp3
   sound_begin: 260560
   sound_end: 261839
+  sentence: まだおまえさんたちは、
+  words:
+    - word: まだ
+      base: 未だ
+      postiion: 0
+    - word: おまえ
+      base: 御前
+      postiion: 2
+    - word: さん
+      postiion: 5
+    - word: たち
+      base: 達
+      postiion: 7
+    - word: は
+      postiion: 9
 - id: Kotorito Kyodai-f000115
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 北の国へ帰らないのですか。
-  word_list: [北, の, 国, へ, 帰ら, ない, の, です, か]
   sound: f000115.mp3
   sound_begin: 261839
   sound_end: 265600
+  sentence: 北の国へ帰らないのですか。
+  words:
+    - word: 北
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 国
+      postiion: 2
+    - word: へ
+      postiion: 3
+    - word: 帰ら
+      base: 帰る
+      postiion: 4
+    - word: ない
+      postiion: 6
+    - word: の
+      postiion: 8
+    - word: です
+      postiion: 9
+    - word: か
+      postiion: 11
 - id: Kotorito Kyodai-f000116
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: あの雲をごらんなさい。
-  word_list: [あの, 雲, を, ごらん, なさい]
   sound: f000116.mp3
   sound_begin: 265600
   sound_end: 267900
+  sentence: あの雲をごらんなさい。
+  words:
+    - word: あの
+      base: 彼の
+      postiion: 0
+    - word: 雲
+      postiion: 2
+    - word: を
+      postiion: 3
+    - word: ごらん
+      base: 御覧
+      postiion: 4
+    - word: なさい
+      base: 為す
+      postiion: 7
 - id: Kotorito Kyodai-f000117
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: これからは、
-  word_list: [これ, から, は]
   sound: f000117.mp3
   sound_begin: 267900
   sound_end: 269040
+  sentence: これからは、
+  words:
+    - word: これ
+      base: 此れ
+      postiion: 0
+    - word: から
+      postiion: 2
+    - word: は
+      postiion: 4
 - id: Kotorito Kyodai-f000118
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: だんだん暑くなります。
-  word_list: [だんだん, 暑く, なり, ます]
   sound: f000118.mp3
   sound_begin: 269040
   sound_end: 271440
+  sentence: だんだん暑くなります。
+  words:
+    - word: だんだん
+      base: 段々
+      postiion: 0
+    - word: 暑く
+      base: 暑い
+      postiion: 4
+    - word: なり
+      base: 成る
+      postiion: 6
+    - word: ます
+      postiion: 8
 - id: Kotorito Kyodai-f000119
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: そして、
-  word_list: [そして]
   sound: f000119.mp3
   sound_begin: 271440
   sound_end: 272440
+  sentence: そして、
+  words:
+    - word: そして
+      postiion: 0
 - id: Kotorito Kyodai-f000120
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 日中の旅が困難になりますよ。
-  word_list: [日中, の, 旅, が, 困難, に, なり, ます, よ]
   sound: f000120.mp3
   sound_begin: 272440
   sound_end: 275644
+  sentence: 日中の旅が困難になりますよ。
+  words:
+    - word: 日中
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 旅
+      postiion: 3
+    - word: が
+      postiion: 4
+    - word: 困難
+      postiion: 5
+    - word: に
+      base: だ
+      postiion: 7
+    - word: なり
+      base: 成る
+      postiion: 8
+    - word: ます
+      postiion: 10
+    - word: よ
+      postiion: 12
 - id: Kotorito Kyodai-f000121
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 」と、
-  word_list: [と]
   sound: f000121.mp3
   sound_begin: 275644
   sound_end: 275807
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Kotorito Kyodai-f000122
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 電信柱がいいました。
-  word_list: [電信, 柱, が, いい, まし, た]
   sound: f000122.mp3
   sound_begin: 275807
   sound_end: 279640
+  sentence: 電信柱がいいました。
+  words:
+    - word: 電信
+      postiion: 0
+    - word: 柱
+      postiion: 2
+    - word: が
+      postiion: 3
+    - word: いい
+      base: 言う
+      postiion: 4
+    - word: まし
+      base: ます
+      postiion: 6
+    - word: た
+      postiion: 8
 - id: Kotorito Kyodai-f000123
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 「私だけは、
-  word_list: [私, だけ, は]
   sound: f000123.mp3
   sound_begin: 279640
   sound_end: 280720
+  sentence: 「私だけは、
+  words:
+    - word: 私
+      postiion: 1
+    - word: だけ
+      postiion: 2
+    - word: は
+      postiion: 4
 - id: Kotorito Kyodai-f000124
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 故郷へ帰らないと思うのです。
-  word_list: [故郷, へ, 帰ら, ない, と, 思う, の, です]
   sound: f000124.mp3
   sound_begin: 280720
   sound_end: 283880
+  sentence: 故郷へ帰らないと思うのです。
+  words:
+    - word: 故郷
+      postiion: 0
+    - word: へ
+      postiion: 2
+    - word: 帰ら
+      base: 帰る
+      postiion: 3
+    - word: ない
+      postiion: 5
+    - word: と
+      postiion: 7
+    - word: 思う
+      postiion: 8
+    - word: の
+      postiion: 10
+    - word: です
+      postiion: 11
 - id: Kotorito Kyodai-f000125
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: それで、
-  word_list: [それ, で]
   sound: f000125.mp3
   sound_begin: 283880
   sound_end: 284800
+  sentence: それで、
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: で
+      postiion: 2
 - id: Kotorito Kyodai-f000126
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: あなたにお聞きしたいと思うのですが、
-  word_list: [あなた, に, お, 聞き, し, たい, と, 思う, の, です, が]
   sound: f000126.mp3
   sound_begin: 284800
   sound_end: 287640
+  sentence: あなたにお聞きしたいと思うのですが、
+  words:
+    - word: あなた
+      base: 貴方
+      postiion: 0
+    - word: に
+      postiion: 3
+    - word: お
+      base: 御
+      postiion: 4
+    - word: 聞き
+      base: 聞く
+      postiion: 5
+    - word: し
+      base: 為る
+      postiion: 7
+    - word: たい
+      postiion: 8
+    - word: と
+      postiion: 10
+    - word: 思う
+      postiion: 11
+    - word: の
+      postiion: 13
+    - word: です
+      postiion: 14
+    - word: が
+      postiion: 16
 - id: Kotorito Kyodai-f000127
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: どこかの国で、
-  word_list: [どこ, か, の, 国, で]
   sound: f000127.mp3
   sound_begin: 287640
   sound_end: 289080
+  sentence: どこかの国で、
+  words:
+    - word: どこ
+      postiion: 0
+    - word: か
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: 国
+      postiion: 4
+    - word: で
+      base: だ
+      postiion: 5
 - id: Kotorito Kyodai-f000128
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 自分たちを大事にして飼って、
-  word_list: [自分, たち, を, 大事, に, し, て, 飼っ, て]
   sound: f000128.mp3
   sound_begin: 289080
   sound_end: 291600
+  sentence: 自分たちを大事にして飼って、
+  words:
+    - word: 自分
+      postiion: 0
+    - word: たち
+      base: 達
+      postiion: 2
+    - word: を
+      postiion: 4
+    - word: 大事
+      postiion: 5
+    - word: に
+      base: だ
+      postiion: 7
+    - word: し
+      base: 為る
+      postiion: 8
+    - word: て
+      postiion: 9
+    - word: 飼っ
+      base: 飼う
+      postiion: 10
+    - word: て
+      postiion: 12
 - id: Kotorito Kyodai-f000129
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: もてなしてくれるところがあるということですが、
-  word_list: [もてなし, て, くれる, ところ, が, ある, と, いう, こと, です, が]
   sound: f000129.mp3
   sound_begin: 291600
   sound_end: 294280
+  sentence: もてなしてくれるところがあるということですが、
+  words:
+    - word: もてなし
+      base: 持て成す
+      postiion: 0
+    - word: て
+      postiion: 1
+    - word: くれる
+      base: 呉れる
+      postiion: 5
+    - word: ところ
+      base: 所
+      postiion: 8
+    - word: が
+      postiion: 11
+    - word: ある
+      base: 有る
+      postiion: 12
+    - word: と
+      postiion: 14
+    - word: いう
+      base: 言う
+      postiion: 15
+    - word: こと
+      postiion: 17
+    - word: です
+      postiion: 19
+    - word: が
+      postiion: 21
 - id: Kotorito Kyodai-f000130
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: ほんとうでしょうか。
-  word_list: [ほんとう, でしょう, か]
   sound: f000130.mp3
   sound_begin: 294280
   sound_end: 296130
+  sentence: ほんとうでしょうか。
+  words:
+    - word: ほんとう
+      base: 本当
+      postiion: 0
+    - word: でしょう
+      base: です
+      postiion: 4
+    - word: か
+      postiion: 8
 - id: Kotorito Kyodai-f000131
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 」と、
-  word_list: [と]
   sound: f000131.mp3
   sound_begin: 296130
   sound_end: 296361
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Kotorito Kyodai-f000132
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: うそはたずねました。
-  word_list: [うそ, は, たずね, まし, た]
   sound: f000132.mp3
   sound_begin: 296361
   sound_end: 299160
+  sentence: うそはたずねました。
+  words:
+    - word: うそ
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: たずね
+      base: たずねる
+      postiion: 3
+    - word: まし
+      base: ます
+      postiion: 6
+    - word: た
+      postiion: 8
 - id: Kotorito Kyodai-f000133
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: すると、
-  word_list: [する, と]
   sound: f000133.mp3
   sound_begin: 299160
   sound_end: 300280
+  sentence: すると、
+  words:
+    - word: する
+      base: 為る
+      postiion: 0
+    - word: と
+      postiion: 2
 - id: Kotorito Kyodai-f000134
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 電信柱は、
-  word_list: [電信, 柱, は]
   sound: f000134.mp3
   sound_begin: 300280
   sound_end: 301160
+  sentence: 電信柱は、
+  words:
+    - word: 電信
+      postiion: 0
+    - word: 柱
+      postiion: 2
+    - word: は
+      postiion: 3
 - id: Kotorito Kyodai-f000135
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 脊伸びをしながら、
-  word_list: [脊, 伸び, を, し, ながら]
   sound: f000135.mp3
   sound_begin: 301160
   sound_end: 303280
+  sentence: 脊伸びをしながら、
+  words:
+    - word: 脊
+      postiion: 0
+    - word: 伸び
+      postiion: 1
+    - word: を
+      postiion: 3
+    - word: し
+      base: 為る
+      postiion: 4
+    - word: ながら
+      postiion: 5
 - id: Kotorito Kyodai-f000136
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 「それは、
-  word_list: [それ, は]
   sound: f000136.mp3
   sound_begin: 303280
   sound_end: 304000
+  sentence: 「それは、
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 1
+    - word: は
+      postiion: 3
 - id: Kotorito Kyodai-f000137
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: ほんとうのことらしい。
-  word_list: [ほんとう, の, こと, らしい]
   sound: f000137.mp3
   sound_begin: 304000
   sound_end: 306160
+  sentence: ほんとうのことらしい。
+  words:
+    - word: ほんとう
+      base: 本当
+      postiion: 0
+    - word: の
+      postiion: 4
+    - word: こと
+      postiion: 5
+    - word: らしい
+      postiion: 7
 - id: Kotorito Kyodai-f000138
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: いつか、
-  word_list: [いつ, か]
   sound: f000138.mp3
   sound_begin: 306160
   sound_end: 307000
+  sentence: いつか、
+  words:
+    - word: いつ
+      postiion: 0
+    - word: か
+      postiion: 2
 - id: Kotorito Kyodai-f000139
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 下の街道を通る旅人が、
-  word_list: [下, の, 街道, を, 通る, 旅人, が]
   sound: f000139.mp3
   sound_begin: 307000
   sound_end: 309520
+  sentence: 下の街道を通る旅人が、
+  words:
+    - word: 下
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 街道
+      postiion: 2
+    - word: を
+      postiion: 4
+    - word: 通る
+      postiion: 5
+    - word: 旅人
+      postiion: 7
+    - word: が
+      postiion: 9
 - id: Kotorito Kyodai-f000140
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: いろいろ小鳥の名をいって、
-  word_list: [いろいろ, 小鳥, の, 名, を, いっ, て]
   sound: f000140.mp3
   sound_begin: 309520
   sound_end: 311160
+  sentence: いろいろ小鳥の名をいって、
+  words:
+    - word: いろいろ
+      base: 色々
+      postiion: 0
+    - word: 小鳥
+      postiion: 4
+    - word: の
+      postiion: 6
+    - word: 名
+      postiion: 7
+    - word: を
+      postiion: 8
+    - word: いっ
+      base: 言う
+      postiion: 9
+    - word: て
+      postiion: 11
 - id: Kotorito Kyodai-f000141
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 金になるなどといっていたが、
-  word_list: [金, に, なる, など, と, いっ, て, い, た, が]
   sound: f000141.mp3
   sound_begin: 311160
   sound_end: 313644
+  sentence: 金になるなどといっていたが、
+  words:
+    - word: 金
+      postiion: 0
+    - word: に
+      postiion: 1
+    - word: なる
+      base: 成る
+      postiion: 2
+    - word: など
+      postiion: 4
+    - word: と
+      postiion: 6
+    - word: いっ
+      base: 言う
+      postiion: 7
+    - word: て
+      postiion: 9
+    - word: い
+      base: 居る
+      postiion: 10
+    - word: た
+      postiion: 11
+    - word: が
+      postiion: 12
 - id: Kotorito Kyodai-f000142
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: たしかその中におまえさんの名もあったと思う。
-  word_list: [たしか, その, 中, に, おまえ, さん, の, 名, も, あっ, た, と, 思う]
   sound: f000142.mp3
   sound_begin: 313644
   sound_end: 317347
+  sentence: たしかその中におまえさんの名もあったと思う。
+  words:
+    - word: たしか
+      base: 確か
+      postiion: 0
+    - word: その
+      base: 其の
+      postiion: 3
+    - word: 中
+      postiion: 5
+    - word: に
+      postiion: 6
+    - word: おまえ
+      base: 御前
+      postiion: 7
+    - word: さん
+      postiion: 10
+    - word: の
+      postiion: 12
+    - word: 名
+      postiion: 13
+    - word: も
+      postiion: 14
+    - word: あっ
+      base: 有る
+      postiion: 15
+    - word: た
+      postiion: 17
+    - word: と
+      postiion: 18
+    - word: 思う
+      postiion: 19
 - id: Kotorito Kyodai-f000143
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 」と答えました。
-  word_list: [と, 答え, まし, た]
   sound: f000143.mp3
   sound_begin: 317347
   sound_end: 319720
+  sentence: 」と答えました。
+  words:
+    - word: と
+      postiion: 1
+    - word: 答え
+      base: 答える
+      postiion: 2
+    - word: まし
+      base: ます
+      postiion: 4
+    - word: た
+      postiion: 6
 - id: Kotorito Kyodai-f000144
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: うそは、
-  word_list: [うそ, は]
   sound: f000144.mp3
   sound_begin: 319720
   sound_end: 320621
+  sentence: うそは、
+  words:
+    - word: うそ
+      postiion: 0
+    - word: は
+      postiion: 2
 - id: Kotorito Kyodai-f000145
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 体じゅうが熱く、
-  word_list: [体, じゅう, が, 熱く]
   sound: f000145.mp3
   sound_begin: 320621
   sound_end: 322160
+  sentence: 体じゅうが熱く、
+  words:
+    - word: 体
+      postiion: 0
+    - word: じゅう
+      base: 中
+      postiion: 1
+    - word: が
+      postiion: 4
+    - word: 熱く
+      base: 熱い
+      postiion: 5
 - id: Kotorito Kyodai-f000146
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 赤くなったように感じました。
-  word_list: [赤く, なっ, た, よう, に, 感じ, まし, た]
   sound: f000146.mp3
   sound_begin: 322160
   sound_end: 326280
+  sentence: 赤くなったように感じました。
+  words:
+    - word: 赤く
+      base: 赤い
+      postiion: 0
+    - word: なっ
+      base: 成る
+      postiion: 2
+    - word: た
+      postiion: 4
+    - word: よう
+      base: 様
+      postiion: 5
+    - word: に
+      base: だ
+      postiion: 7
+    - word: 感じ
+      base: 感ずる
+      postiion: 8
+    - word: まし
+      base: ます
+      postiion: 10
+    - word: た
+      postiion: 12
 - id: Kotorito Kyodai-f000147
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 「電信柱さん、
-  word_list: [電信, 柱, さん]
   sound: f000147.mp3
   sound_begin: 326280
   sound_end: 327840
+  sentence: 「電信柱さん、
+  words:
+    - word: 電信
+      postiion: 1
+    - word: 柱
+      postiion: 3
+    - word: さん
+      postiion: 4
 - id: Kotorito Kyodai-f000148
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: そこへはどうしてゆけるか、
-  word_list: [そこ, へ, は, どう, し, て, ゆける, か]
   sound: f000148.mp3
   sound_begin: 327840
   sound_end: 330160
+  sentence: そこへはどうしてゆけるか、
+  words:
+    - word: そこ
+      base: 其処
+      postiion: 0
+    - word: へ
+      postiion: 2
+    - word: は
+      postiion: 3
+    - word: どう
+      postiion: 4
+    - word: し
+      base: 為る
+      postiion: 6
+    - word: て
+      postiion: 7
+    - word: ゆける
+      base: 行く
+      postiion: 8
+    - word: か
+      postiion: 11
 - id: Kotorito Kyodai-f000149
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 教えてください。
-  word_list: [教え, て, ください]
   sound: f000149.mp3
   sound_begin: 330160
   sound_end: 332376
+  sentence: 教えてください。
+  words:
+    - word: 教え
+      base: 教える
+      postiion: 0
+    - word: て
+      postiion: 2
+    - word: ください
+      base: 下さる
+      postiion: 3
 - id: Kotorito Kyodai-f000150
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 」と、
-  word_list: [と]
   sound: f000150.mp3
   sound_begin: 332376
   sound_end: 332560
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Kotorito Kyodai-f000151
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 小鳥は頼んだ。
-  word_list: [小鳥, は, 頼ん, だ]
   sound: f000151.mp3
   sound_begin: 332560
   sound_end: 335200
+  sentence: 小鳥は頼んだ。
+  words:
+    - word: 小鳥
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: 頼ん
+      base: 頼む
+      postiion: 3
+    - word: だ
+      base: た
+      postiion: 5
 - id: Kotorito Kyodai-f000152
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 「さあ、
-  word_list: [さあ]
   sound: f000152.mp3
   sound_begin: 335200
   sound_end: 336200
+  sentence: 「さあ、
+  words:
+    - word: さあ
+      postiion: 1
 - id: Kotorito Kyodai-f000153
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: なんというところか、
-  word_list: [なん, と, いう, ところ, か]
   sound: f000153.mp3
   sound_begin: 336200
   sound_end: 338040
+  sentence: なんというところか、
+  words:
+    - word: なん
+      base: 何
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: いう
+      base: 言う
+      postiion: 3
+    - word: ところ
+      base: 所
+      postiion: 5
+    - word: か
+      postiion: 8
 - id: Kotorito Kyodai-f000154
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 場所さえわかれば、
-  word_list: [場所, さえ, わかれ, ば]
   sound: f000154.mp3
   sound_begin: 338040
   sound_end: 339656
+  sentence: 場所さえわかれば、
+  words:
+    - word: 場所
+      postiion: 0
+    - word: さえ
+      postiion: 2
+    - word: わかれ
+      base: 分かる
+      postiion: 4
+    - word: ば
+      postiion: 7
 - id: Kotorito Kyodai-f000155
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 汽車に乗ってゆくとも、
-  word_list: [汽車, に, 乗っ, て, ゆく, とも]
   sound: f000155.mp3
   sound_begin: 339656
   sound_end: 341496
+  sentence: 汽車に乗ってゆくとも、
+  words:
+    - word: 汽車
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: 乗っ
+      base: 乗る
+      postiion: 3
+    - word: て
+      postiion: 5
+    - word: ゆく
+      base: 行く
+      postiion: 6
+    - word: とも
+      postiion: 8
 - id: Kotorito Kyodai-f000156
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: また、
-  word_list: [また]
   sound: f000156.mp3
   sound_begin: 341496
   sound_end: 341880
+  sentence: また、
+  words:
+    - word: また
+      base: 又
+      postiion: 0
 - id: Kotorito Kyodai-f000157
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: あちらの港からたつ汽船に乗ってゆくとも、
-  word_list: [あちら, の, 港, から, たつ, 汽船, に, 乗っ, て, ゆく, とも]
   sound: f000157.mp3
   sound_begin: 341880
   sound_end: 345000
+  sentence: あちらの港からたつ汽船に乗ってゆくとも、
+  words:
+    - word: あちら
+      base: 彼方
+      postiion: 0
+    - word: の
+      postiion: 3
+    - word: 港
+      postiion: 4
+    - word: から
+      postiion: 5
+    - word: たつ
+      postiion: 7
+    - word: 汽船
+      postiion: 9
+    - word: に
+      postiion: 11
+    - word: 乗っ
+      base: 乗る
+      postiion: 12
+    - word: て
+      postiion: 14
+    - word: ゆく
+      base: 行く
+      postiion: 15
+    - word: とも
+      postiion: 17
 - id: Kotorito Kyodai-f000158
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: また方法はいくらもあるが、
-  word_list: [また, 方法, は, いくら, も, ある, が]
   sound: f000158.mp3
   sound_begin: 345000
   sound_end: 347560
+  sentence: また方法はいくらもあるが、
+  words:
+    - word: また
+      base: 又
+      postiion: 0
+    - word: 方法
+      postiion: 2
+    - word: は
+      postiion: 4
+    - word: いくら
+      base: 幾ら
+      postiion: 5
+    - word: も
+      postiion: 8
+    - word: ある
+      base: 有る
+      postiion: 9
+    - word: が
+      postiion: 11
 - id: Kotorito Kyodai-f000159
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: その町の名は、
-  word_list: [その, 町, の, 名, は]
   sound: f000159.mp3
   sound_begin: 347560
   sound_end: 348960
+  sentence: その町の名は、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 町
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: 名
+      postiion: 4
+    - word: は
+      postiion: 5
 - id: Kotorito Kyodai-f000160
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 私にもわかりません……。
-  word_list: [私, に, も, わかり, ませ, ん]
   sound: f000160.mp3
   sound_begin: 348960
   sound_end: 351457
+  sentence: 私にもわかりません……。
+  words:
+    - word: 私
+      postiion: 0
+    - word: に
+      postiion: 1
+    - word: も
+      postiion: 2
+    - word: わかり
+      base: 分かる
+      postiion: 3
+    - word: ませ
+      base: ます
+      postiion: 6
+    - word: ん
+      base: ず
+      postiion: 8
 - id: Kotorito Kyodai-f000161
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 」と、
-  word_list: [と]
   sound: f000161.mp3
   sound_begin: 351457
   sound_end: 351680
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Kotorito Kyodai-f000162
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 電信柱はいいました。
-  word_list: [電信, 柱, は, いい, まし, た]
   sound: f000162.mp3
   sound_begin: 351680
   sound_end: 355920
+  sentence: 電信柱はいいました。
+  words:
+    - word: 電信
+      postiion: 0
+    - word: 柱
+      postiion: 2
+    - word: は
+      postiion: 3
+    - word: いい
+      base: 言う
+      postiion: 4
+    - word: まし
+      base: ます
+      postiion: 6
+    - word: た
+      postiion: 8
 - id: Kotorito Kyodai-f000163
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: あわれな小鳥は、
-  word_list: [あわれ, な, 小鳥, は]
   sound: f000163.mp3
   sound_begin: 355920
   sound_end: 357320
+  sentence: あわれな小鳥は、
+  words:
+    - word: あわれ
+      base: 哀れ
+      postiion: 0
+    - word: な
+      base: だ
+      postiion: 3
+    - word: 小鳥
+      postiion: 4
+    - word: は
+      postiion: 6
 - id: Kotorito Kyodai-f000164
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: そこから飛び立つと、
-  word_list: [そこ, から, 飛び, 立つ, と]
   sound: f000164.mp3
   sound_begin: 357320
   sound_end: 359280
+  sentence: そこから飛び立つと、
+  words:
+    - word: そこ
+      base: 其処
+      postiion: 0
+    - word: から
+      postiion: 2
+    - word: 飛び
+      base: 飛ぶ
+      postiion: 4
+    - word: 立つ
+      postiion: 6
+    - word: と
+      postiion: 8
 - id: Kotorito Kyodai-f000165
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: もう一度、
-  word_list: [もう, 一度]
   sound: f000165.mp3
   sound_begin: 359280
   sound_end: 360240
+  sentence: もう一度、
+  words:
+    - word: もう
+      postiion: 0
+    - word: 一度
+      postiion: 2
 - id: Kotorito Kyodai-f000166
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: あの兄と妹が雑誌を開いて話をしていた窓の前にあった木にきて止まりました。
-  word_list: [あの, 兄, と, 妹, が, 雑誌, を, 開い, て, 話, を, し, て, い, た, 窓, の, 前, に, あっ, た, 木, に, き, て, 止まり, まし, た]
   sound: f000166.mp3
   sound_begin: 360240
   sound_end: 367800
+  sentence: あの兄と妹が雑誌を開いて話をしていた窓の前にあった木にきて止まりました。
+  words:
+    - word: あの
+      base: 彼の
+      postiion: 0
+    - word: 兄
+      postiion: 2
+    - word: と
+      postiion: 3
+    - word: 妹
+      postiion: 4
+    - word: が
+      postiion: 5
+    - word: 雑誌
+      postiion: 6
+    - word: を
+      postiion: 8
+    - word: 開い
+      base: 開く
+      postiion: 9
+    - word: て
+      postiion: 11
+    - word: 話
+      postiion: 12
+    - word: を
+      postiion: 13
+    - word: し
+      base: 為る
+      postiion: 14
+    - word: て
+      postiion: 15
+    - word: い
+      base: 居る
+      postiion: 16
+    - word: た
+      postiion: 17
+    - word: 窓
+      postiion: 18
+    - word: の
+      postiion: 19
+    - word: 前
+      postiion: 20
+    - word: に
+      postiion: 21
+    - word: あっ
+      base: 有る
+      postiion: 22
+    - word: た
+      postiion: 24
+    - word: 木
+      postiion: 25
+    - word: に
+      postiion: 26
+    - word: き
+      base: 来る
+      postiion: 27
+    - word: て
+      postiion: 28
+    - word: 止まり
+      base: 止まる
+      postiion: 29
+    - word: まし
+      base: ます
+      postiion: 32
+    - word: た
+      postiion: 34
 - id: Kotorito Kyodai-f000167
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: そして、
-  word_list: [そして]
   sound: f000167.mp3
   sound_begin: 367800
   sound_end: 368840
+  sentence: そして、
+  words:
+    - word: そして
+      postiion: 0
 - id: Kotorito Kyodai-f000168
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 自分たちをかわいがってくれる町の名を知りたいと思いました。
-  word_list: [自分, たち, を, かわい, がっ, て, くれる, 町, の, 名, を, 知り, たい, と, 思い, まし, た]
   sound: f000168.mp3
   sound_begin: 368840
   sound_end: 374880
+  sentence: 自分たちをかわいがってくれる町の名を知りたいと思いました。
+  words:
+    - word: 自分
+      postiion: 0
+    - word: たち
+      base: 達
+      postiion: 2
+    - word: を
+      postiion: 4
+    - word: かわい
+      base: 可愛い
+      postiion: 5
+    - word: がっ
+      base: がる
+      postiion: 8
+    - word: て
+      postiion: 10
+    - word: くれる
+      base: 呉れる
+      postiion: 11
+    - word: 町
+      postiion: 14
+    - word: の
+      postiion: 15
+    - word: 名
+      postiion: 16
+    - word: を
+      postiion: 17
+    - word: 知り
+      base: 知る
+      postiion: 18
+    - word: たい
+      postiion: 20
+    - word: と
+      postiion: 22
+    - word: 思い
+      base: 思う
+      postiion: 23
+    - word: まし
+      base: ます
+      postiion: 25
+    - word: た
+      postiion: 27
 - id: Kotorito Kyodai-f000169
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: しかしきてみると、
-  word_list: [しかし, き, て, みる, と]
   sound: f000169.mp3
   sound_begin: 374880
   sound_end: 376560
+  sentence: しかしきてみると、
+  words:
+    - word: しかし
+      base: 然し
+      postiion: 0
+    - word: き
+      base: 来る
+      postiion: 3
+    - word: て
+      postiion: 4
+    - word: みる
+      base: 見る
+      postiion: 5
+    - word: と
+      postiion: 7
 - id: Kotorito Kyodai-f000170
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: その窓は、
-  word_list: [その, 窓, は]
   sound: f000170.mp3
   sound_begin: 376560
   sound_end: 377240
+  sentence: その窓は、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 窓
+      postiion: 2
+    - word: は
+      postiion: 3
 - id: Kotorito Kyodai-f000171
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 閉まって、
-  word_list: [閉まっ, て]
   sound: f000171.mp3
   sound_begin: 377240
   sound_end: 378640
+  sentence: 閉まって、
+  words:
+    - word: 閉まっ
+      base: 締まる
+      postiion: 0
+    - word: て
+      postiion: 3
 - id: Kotorito Kyodai-f000172
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 仲のいい兄と妹の姿は見えなかったのです。
-  word_list: [仲, の, いい, 兄, と, 妹, の, 姿, は, 見え, なかっ, た, の, です]
   sound: f000172.mp3
   sound_begin: 378640
   sound_end: 384120
+  sentence: 仲のいい兄と妹の姿は見えなかったのです。
+  words:
+    - word: 仲
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: いい
+      base: 良い
+      postiion: 2
+    - word: 兄
+      postiion: 4
+    - word: と
+      postiion: 5
+    - word: 妹
+      postiion: 6
+    - word: の
+      postiion: 7
+    - word: 姿
+      postiion: 8
+    - word: は
+      postiion: 9
+    - word: 見え
+      base: 見える
+      postiion: 10
+    - word: なかっ
+      base: ない
+      postiion: 12
+    - word: た
+      postiion: 15
+    - word: の
+      postiion: 16
+    - word: です
+      postiion: 17
 - id: Kotorito Kyodai-f000173
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: うそは、
-  word_list: [うそ, は]
   sound: f000173.mp3
   sound_begin: 384120
   sound_end: 385120
+  sentence: うそは、
+  words:
+    - word: うそ
+      postiion: 0
+    - word: は
+      postiion: 2
 - id: Kotorito Kyodai-f000174
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: いい声を出して鳴きました。
-  word_list: [いい, 声, を, 出し, て, 鳴き, まし, た]
   sound: f000174.mp3
   sound_begin: 385120
   sound_end: 388226
+  sentence: いい声を出して鳴きました。
+  words:
+    - word: いい
+      base: 良い
+      postiion: 0
+    - word: 声
+      postiion: 2
+    - word: を
+      postiion: 3
+    - word: 出し
+      base: 出す
+      postiion: 4
+    - word: て
+      postiion: 6
+    - word: 鳴き
+      base: 鳴く
+      postiion: 7
+    - word: まし
+      base: ます
+      postiion: 9
+    - word: た
+      postiion: 11
 - id: Kotorito Kyodai-f000175
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: けれど、
-  word_list: [けれど]
   sound: f000175.mp3
   sound_begin: 388226
   sound_end: 389387
+  sentence: けれど、
+  words:
+    - word: けれど
+      postiion: 0
 - id: Kotorito Kyodai-f000176
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: ついに窓の障子は開きませんでした。
-  word_list: [ついに, 窓, の, 障子, は, 開き, ませ, ん, でし, た]
   sound: f000176.mp3
   sound_begin: 389387
   sound_end: 395200
+  sentence: ついに窓の障子は開きませんでした。
+  words:
+    - word: ついに
+      base: 遂に
+      postiion: 0
+    - word: 窓
+      postiion: 3
+    - word: の
+      postiion: 4
+    - word: 障子
+      postiion: 5
+    - word: は
+      postiion: 7
+    - word: 開き
+      base: 開く
+      postiion: 8
+    - word: ませ
+      base: ます
+      postiion: 10
+    - word: ん
+      base: ず
+      postiion: 12
+    - word: でし
+      base: です
+      postiion: 13
+    - word: た
+      postiion: 15
 - id: Kotorito Kyodai-f000177
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: うそは、
-  word_list: [うそ, は]
   sound: f000177.mp3
   sound_begin: 395200
   sound_end: 395640
+  sentence: うそは、
+  words:
+    - word: うそ
+      postiion: 0
+    - word: は
+      postiion: 2
 - id: Kotorito Kyodai-f000178
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: このとき、
-  word_list: [この, とき]
   sound: f000178.mp3
   sound_begin: 395640
   sound_end: 397040
+  sentence: このとき、
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: とき
+      base: 時
+      postiion: 2
 - id: Kotorito Kyodai-f000179
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: はかない希望を捨て、
-  word_list: [はかない, 希望, を, 捨て]
   sound: f000179.mp3
   sound_begin: 397040
   sound_end: 399320
+  sentence: はかない希望を捨て、
+  words:
+    - word: はかない
+      base: 儚い
+      postiion: 0
+    - word: 希望
+      postiion: 4
+    - word: を
+      postiion: 6
+    - word: 捨て
+      base: 捨てる
+      postiion: 7
 - id: Kotorito Kyodai-f000180
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: みんなといっしょに故郷へ旅立つことを決心しました。
-  word_list: [みんな, と, いっしょ, に, 故郷, へ, 旅立つ, こと, を, 決心, し, まし, た]
   sound: f000180.mp3
   sound_begin: 399320
   sound_end: 404225
+  sentence: みんなといっしょに故郷へ旅立つことを決心しました。
+  words:
+    - word: みんな
+      base: 皆
+      postiion: 0
+    - word: と
+      postiion: 3
+    - word: いっしょ
+      base: 一緒
+      postiion: 4
+    - word: に
+      postiion: 8
+    - word: 故郷
+      postiion: 9
+    - word: へ
+      postiion: 11
+    - word: 旅立つ
+      postiion: 12
+    - word: こと
+      postiion: 15
+    - word: を
+      postiion: 17
+    - word: 決心
+      postiion: 18
+    - word: し
+      base: 為る
+      postiion: 20
+    - word: まし
+      base: ます
+      postiion: 21
+    - word: た
+      postiion: 23
 - id: Kotorito Kyodai-f000181
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: そして、
-  word_list: [そして]
   sound: f000181.mp3
   sound_begin: 404225
   sound_end: 405560
+  sentence: そして、
+  words:
+    - word: そして
+      postiion: 0
 - id: Kotorito Kyodai-f000182
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 青い空を、
-  word_list: [青い, 空, を]
   sound: f000182.mp3
   sound_begin: 405560
   sound_end: 406480
+  sentence: 青い空を、
+  words:
+    - word: 青い
+      postiion: 0
+    - word: 空
+      postiion: 2
+    - word: を
+      postiion: 3
 - id: Kotorito Kyodai-f000183
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: あちらに駆けて、
-  word_list: [あちら, に, 駆け, て]
   sound: f000183.mp3
   sound_begin: 406480
   sound_end: 408440
+  sentence: あちらに駆けて、
+  words:
+    - word: あちら
+      base: 彼方
+      postiion: 0
+    - word: に
+      postiion: 3
+    - word: 駆け
+      base: 駆ける
+      postiion: 4
+    - word: て
+      postiion: 6
 - id: Kotorito Kyodai-f000184
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
   deck_name_japanese: 小鳥と兄妹
-  sentence: 自分を待っている友だちのいる方へ去ったのであります。
-  word_list: [自分, を, 待っ, て, いる, 友だち, の, いる, 方, へ, 去っ, た, の, で, あり, ます]
   sound: f000184.mp3
   sound_begin: 408440
   sound_end: 416040
+  sentence: 自分を待っている友だちのいる方へ去ったのであります。
+  words:
+    - word: 自分
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: 待っ
+      base: 待つ
+      postiion: 3
+    - word: て
+      postiion: 5
+    - word: いる
+      base: 居る
+      postiion: 6
+    - word: 友だち
+      base: 友達
+      postiion: 8
+    - word: の
+      postiion: 11
+    - word: いる
+      base: 居る
+      postiion: 12
+    - word: 方
+      postiion: 14
+    - word: へ
+      postiion: 15
+    - word: 去っ
+      base: 去る
+      postiion: 16
+    - word: た
+      postiion: 18
+    - word: の
+      postiion: 19
+    - word: で
+      base: だ
+      postiion: 20
+    - word: あり
+      base: 有る
+      postiion: 21
+    - word: ます
+      postiion: 23

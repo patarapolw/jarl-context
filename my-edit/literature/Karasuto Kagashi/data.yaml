@@ -2,1358 +2,3259 @@
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: からすとかがし
-  word_list: [からす, と, か, が, し]
   sound: f000002.mp3
   sound_begin: 4995
   sound_end: 9680
+  sentence: からすとかがし
+  words:
+    - word: からす
+      base: 烏
+      postiion: 0
+    - word: と
+      postiion: 3
+    - word: か
+      postiion: 4
+    - word: が
+      postiion: 5
+    - word: し
+      base: 為る
+      postiion: 6
 - id: Karasuto Kagashi-f000003
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 太吉じいさんは、
-  word_list: [太吉, じい, さん, は]
   sound: f000003.mp3
   sound_begin: 9680
   sound_end: 11320
+  sentence: 太吉じいさんは、
+  words:
+    - word: 太吉
+      postiion: 0
+    - word: じい
+      base: 爺
+      postiion: 2
+    - word: さん
+      postiion: 4
+    - word: は
+      postiion: 6
 - id: Karasuto Kagashi-f000004
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 百姓が、
-  word_list: [百姓, が]
   sound: f000004.mp3
   sound_begin: 11320
   sound_end: 12000
+  sentence: 百姓が、
+  words:
+    - word: 百姓
+      postiion: 0
+    - word: が
+      postiion: 2
 - id: Karasuto Kagashi-f000005
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: かさをかぶって、
-  word_list: [かさ, を, かぶっ, て]
   sound: f000005.mp3
   sound_begin: 12000
   sound_end: 13692
+  sentence: かさをかぶって、
+  words:
+    - word: かさ
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: かぶっ
+      base: 被る
+      postiion: 3
+    - word: て
+      postiion: 6
 - id: Karasuto Kagashi-f000006
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 手に弓を持って立っている、
-  word_list: [手, に, 弓, を, 持っ, て, 立っ, て, いる]
   sound: f000006.mp3
   sound_begin: 13692
   sound_end: 15840
+  sentence: 手に弓を持って立っている、
+  words:
+    - word: 手
+      postiion: 0
+    - word: に
+      postiion: 1
+    - word: 弓
+      postiion: 2
+    - word: を
+      postiion: 3
+    - word: 持っ
+      base: 持つ
+      postiion: 4
+    - word: て
+      postiion: 6
+    - word: 立っ
+      base: 立つ
+      postiion: 7
+    - word: て
+      postiion: 9
+    - word: いる
+      base: 居る
+      postiion: 10
 - id: Karasuto Kagashi-f000007
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: かがしをつくる名人でした。
-  word_list: [か, がし, を, つくる, 名人, でし, た]
   sound: f000007.mp3
   sound_begin: 15840
   sound_end: 19400
+  sentence: かがしをつくる名人でした。
+  words:
+    - word: か
+      postiion: 0
+    - word: がし
+      postiion: 1
+    - word: を
+      postiion: 3
+    - word: つくる
+      base: 作る
+      postiion: 4
+    - word: 名人
+      postiion: 7
+    - word: でし
+      base: です
+      postiion: 9
+    - word: た
+      postiion: 11
 - id: Karasuto Kagashi-f000008
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: それを見ると、
-  word_list: [それ, を, 見る, と]
   sound: f000008.mp3
   sound_begin: 19400
   sound_end: 21040
+  sentence: それを見ると、
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: 見る
+      postiion: 3
+    - word: と
+      postiion: 5
 - id: Karasuto Kagashi-f000009
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: からすやすずめなどが、
-  word_list: [からす, や, すずめ, など, が]
   sound: f000009.mp3
   sound_begin: 21040
   sound_end: 22480
+  sentence: からすやすずめなどが、
+  words:
+    - word: からす
+      base: 烏
+      postiion: 0
+    - word: や
+      postiion: 3
+    - word: すずめ
+      base: 雀
+      postiion: 4
+    - word: など
+      postiion: 7
+    - word: が
+      postiion: 9
 - id: Karasuto Kagashi-f000010
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: そばへ寄りつきませんでした。
-  word_list: [そば, へ, 寄り, つき, ませ, ん, でし, た]
   sound: f000010.mp3
   sound_begin: 22480
   sound_end: 26640
+  sentence: そばへ寄りつきませんでした。
+  words:
+    - word: そば
+      postiion: 0
+    - word: へ
+      postiion: 2
+    - word: 寄り
+      base: 寄る
+      postiion: 3
+    - word: つき
+      base: 付く
+      postiion: 5
+    - word: ませ
+      base: ます
+      postiion: 7
+    - word: ん
+      base: ず
+      postiion: 9
+    - word: でし
+      base: です
+      postiion: 10
+    - word: た
+      postiion: 12
 - id: Karasuto Kagashi-f000011
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: それも、
-  word_list: [それ, も]
   sound: f000011.mp3
   sound_begin: 26640
   sound_end: 27160
+  sentence: それも、
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: も
+      postiion: 2
 - id: Karasuto Kagashi-f000012
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: そのはずで、
-  word_list: [その, はず, で]
   sound: f000012.mp3
   sound_begin: 27160
   sound_end: 29000
+  sentence: そのはずで、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: はず
+      base: 筈
+      postiion: 2
+    - word: で
+      base: だ
+      postiion: 4
 - id: Karasuto Kagashi-f000013
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: おじいさんは若い時分から弓を射ることが上手で、
-  word_list: [お, じい, さん, は, 若い, 時分, から, 弓, を, 射る, こと, が, 上手, で]
   sound: f000013.mp3
   sound_begin: 29000
   sound_end: 34440
+  sentence: おじいさんは若い時分から弓を射ることが上手で、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: じい
+      base: 爺
+      postiion: 1
+    - word: さん
+      postiion: 3
+    - word: は
+      postiion: 5
+    - word: 若い
+      postiion: 6
+    - word: 時分
+      postiion: 8
+    - word: から
+      postiion: 10
+    - word: 弓
+      postiion: 12
+    - word: を
+      postiion: 13
+    - word: 射る
+      postiion: 14
+    - word: こと
+      postiion: 16
+    - word: が
+      postiion: 18
+    - word: 上手
+      postiion: 19
+    - word: で
+      base: だ
+      postiion: 21
 - id: Karasuto Kagashi-f000014
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: どんな小さな鳥でも、
-  word_list: [どんな, 小さな, 鳥, で, も]
   sound: f000014.mp3
   sound_begin: 34440
   sound_end: 36800
+  sentence: どんな小さな鳥でも、
+  words:
+    - word: どんな
+      postiion: 0
+    - word: 小さな
+      postiion: 3
+    - word: 鳥
+      postiion: 6
+    - word: で
+      postiion: 7
+    - word: も
+      postiion: 8
 - id: Karasuto Kagashi-f000015
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: ねらえば、
-  word_list: [ねらえ, ば]
   sound: f000015.mp3
   sound_begin: 36800
   sound_end: 37791
+  sentence: ねらえば、
+  words:
+    - word: ねらえ
+      base: 狙う
+      postiion: 0
+    - word: ば
+      postiion: 3
 - id: Karasuto Kagashi-f000016
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: かならず射落としたものです。
-  word_list: [かならず, 射, 落とし, た, もの, です]
   sound: f000016.mp3
   sound_begin: 37791
   sound_end: 41040
+  sentence: かならず射落としたものです。
+  words:
+    - word: かならず
+      base: 必ず
+      postiion: 0
+    - word: 射
+      base: 射る
+      postiion: 4
+    - word: 落とし
+      base: 落とす
+      postiion: 5
+    - word: た
+      postiion: 8
+    - word: もの
+      base: 物
+      postiion: 9
+    - word: です
+      postiion: 11
 - id: Karasuto Kagashi-f000017
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: よく、
-  word_list: [よく]
   sound: f000017.mp3
   sound_begin: 41040
   sound_end: 42200
+  sentence: よく、
+  words:
+    - word: よく
+      base: 良く
+      postiion: 0
 - id: Karasuto Kagashi-f000018
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 晩方の空を飛んでいくかりを射落としたり、
-  word_list: [晩方, の, 空, を, 飛ん, で, いく, かり, を, 射, 落とし, たり]
   sound: f000018.mp3
   sound_begin: 42200
   sound_end: 46000
+  sentence: 晩方の空を飛んでいくかりを射落としたり、
+  words:
+    - word: 晩方
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 空
+      postiion: 3
+    - word: を
+      postiion: 4
+    - word: 飛ん
+      base: 飛ぶ
+      postiion: 5
+    - word: で
+      postiion: 7
+    - word: いく
+      base: 行く
+      postiion: 8
+    - word: かり
+      postiion: 10
+    - word: を
+      postiion: 12
+    - word: 射
+      base: 射る
+      postiion: 13
+    - word: 落とし
+      base: 落とす
+      postiion: 14
+    - word: たり
+      postiion: 17
 - id: Karasuto Kagashi-f000019
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: はたけで遊んでいるすずめを射とめたりしました。
-  word_list: [はたけ, で, 遊ん, で, いる, すずめ, を, 射, とめ, たり, し, まし, た]
   sound: f000019.mp3
   sound_begin: 46000
   sound_end: 50880
+  sentence: はたけで遊んでいるすずめを射とめたりしました。
+  words:
+    - word: はたけ
+      postiion: 0
+    - word: で
+      postiion: 3
+    - word: 遊ん
+      base: 遊ぶ
+      postiion: 4
+    - word: で
+      postiion: 6
+    - word: いる
+      base: 居る
+      postiion: 7
+    - word: すずめ
+      base: 雀
+      postiion: 9
+    - word: を
+      postiion: 12
+    - word: 射
+      base: 射る
+      postiion: 13
+    - word: とめ
+      base: とめる
+      postiion: 14
+    - word: たり
+      postiion: 16
+    - word: し
+      base: 為る
+      postiion: 18
+    - word: まし
+      base: ます
+      postiion: 19
+    - word: た
+      postiion: 21
 - id: Karasuto Kagashi-f000020
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: だからおじいさんを見ると、
-  word_list: [だ, から, お, じい, さん, を, 見る, と]
   sound: f000020.mp3
   sound_begin: 50880
   sound_end: 53383
+  sentence: だからおじいさんを見ると、
+  words:
+    - word: だ
+      postiion: 0
+    - word: から
+      postiion: 1
+    - word: お
+      base: 御
+      postiion: 3
+    - word: じい
+      base: 爺
+      postiion: 4
+    - word: さん
+      postiion: 6
+    - word: を
+      postiion: 8
+    - word: 見る
+      postiion: 9
+    - word: と
+      postiion: 11
 - id: Karasuto Kagashi-f000021
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 小鳥たちは鳴くのをやめて、
-  word_list: [小鳥, たち, は, 鳴く, の, を, やめ, て]
   sound: f000021.mp3
   sound_begin: 53383
   sound_end: 56080
+  sentence: 小鳥たちは鳴くのをやめて、
+  words:
+    - word: 小鳥
+      postiion: 0
+    - word: たち
+      base: 達
+      postiion: 2
+    - word: は
+      postiion: 4
+    - word: 鳴く
+      postiion: 5
+    - word: の
+      postiion: 7
+    - word: を
+      postiion: 8
+    - word: やめ
+      base: やめる
+      postiion: 9
+    - word: て
+      postiion: 11
 - id: Karasuto Kagashi-f000022
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: どこへか姿をかくしてしまいました。
-  word_list: [どこ, へ, か, 姿, を, かくし, て, しまい, まし, た]
   sound: f000022.mp3
   sound_begin: 56080
   sound_end: 62960
+  sentence: どこへか姿をかくしてしまいました。
+  words:
+    - word: どこ
+      postiion: 0
+    - word: へ
+      postiion: 2
+    - word: か
+      postiion: 3
+    - word: 姿
+      postiion: 4
+    - word: を
+      postiion: 5
+    - word: かくし
+      base: 隠す
+      postiion: 6
+    - word: て
+      postiion: 9
+    - word: しまい
+      base: 仕舞う
+      postiion: 10
+    - word: まし
+      base: ます
+      postiion: 13
+    - word: た
+      postiion: 15
 - id: Karasuto Kagashi-f000023
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: しかし、
-  word_list: [しかし]
   sound: f000023.mp3
   sound_begin: 62960
   sound_end: 63480
+  sentence: しかし、
+  words:
+    - word: しかし
+      base: 然し
+      postiion: 0
 - id: Karasuto Kagashi-f000024
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: このごろは、
-  word_list: [このごろ, は]
   sound: f000024.mp3
   sound_begin: 63480
   sound_end: 65319
+  sentence: このごろは、
+  words:
+    - word: このごろ
+      base: 此の頃
+      postiion: 0
+    - word: は
+      postiion: 4
 - id: Karasuto Kagashi-f000025
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: おじいさんも目がわるくなって、
-  word_list: [お, じい, さん, も, 目, が, わるく, なっ, て]
   sound: f000025.mp3
   sound_begin: 65319
   sound_end: 67535
+  sentence: おじいさんも目がわるくなって、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: じい
+      base: 爺
+      postiion: 1
+    - word: さん
+      postiion: 3
+    - word: も
+      postiion: 5
+    - word: 目
+      postiion: 6
+    - word: が
+      postiion: 7
+    - word: わるく
+      base: 悪い
+      postiion: 8
+    - word: なっ
+      base: 成る
+      postiion: 11
+    - word: て
+      postiion: 13
 - id: Karasuto Kagashi-f000026
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: ねらいがきかなくなりました。
-  word_list: [ねらい, が, きか, なく, なり, まし, た]
   sound: f000026.mp3
   sound_begin: 67535
   sound_end: 71680
+  sentence: ねらいがきかなくなりました。
+  words:
+    - word: ねらい
+      base: 狙い
+      postiion: 0
+    - word: が
+      postiion: 3
+    - word: きか
+      base: きく
+      postiion: 4
+    - word: なく
+      base: ない
+      postiion: 6
+    - word: なり
+      base: 成る
+      postiion: 8
+    - word: まし
+      base: ます
+      postiion: 10
+    - word: た
+      postiion: 12
 - id: Karasuto Kagashi-f000027
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: けれども、
-  word_list: [けれど, も]
   sound: f000027.mp3
   sound_begin: 71680
   sound_end: 72200
+  sentence: けれども、
+  words:
+    - word: けれど
+      postiion: 0
+    - word: も
+      postiion: 3
 - id: Karasuto Kagashi-f000028
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 鳥たちは、
-  word_list: [鳥, たち, は]
   sound: f000028.mp3
   sound_begin: 72200
   sound_end: 74240
+  sentence: 鳥たちは、
+  words:
+    - word: 鳥
+      postiion: 0
+    - word: たち
+      base: 達
+      postiion: 1
+    - word: は
+      postiion: 3
 - id: Karasuto Kagashi-f000029
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 弓を持って立っいるかがしを見ると、
-  word_list: [弓, を, 持っ, て, 立っ, いる, か, がし, を, 見る, と]
   sound: f000029.mp3
   sound_begin: 74240
   sound_end: 77960
+  sentence: 弓を持って立っいるかがしを見ると、
+  words:
+    - word: 弓
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: 持っ
+      base: 持つ
+      postiion: 2
+    - word: て
+      postiion: 4
+    - word: 立っ
+      base: 立つ
+      postiion: 5
+    - word: いる
+      base: 居る
+      postiion: 7
+    - word: か
+      postiion: 9
+    - word: がし
+      postiion: 10
+    - word: を
+      postiion: 12
+    - word: 見る
+      postiion: 13
+    - word: と
+      postiion: 15
 - id: Karasuto Kagashi-f000030
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: やはりおじいさんのような、
-  word_list: [やはり, お, じい, さん, の, よう, な]
   sound: f000030.mp3
   sound_begin: 77960
   sound_end: 80200
+  sentence: やはりおじいさんのような、
+  words:
+    - word: やはり
+      base: 矢張り
+      postiion: 0
+    - word: お
+      base: 御
+      postiion: 3
+    - word: じい
+      base: 爺
+      postiion: 4
+    - word: さん
+      postiion: 6
+    - word: の
+      postiion: 8
+    - word: よう
+      base: 様
+      postiion: 9
+    - word: な
+      base: だ
+      postiion: 11
 - id: Karasuto Kagashi-f000031
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 怖ろしい人だと思ったのです。
-  word_list: [怖ろしい, 人, だ, と, 思っ, た, の, です]
   sound: f000031.mp3
   sound_begin: 80200
   sound_end: 86640
+  sentence: 怖ろしい人だと思ったのです。
+  words:
+    - word: 怖ろしい
+      base: 恐ろしい
+      postiion: 0
+    - word: 人
+      postiion: 4
+    - word: だ
+      postiion: 5
+    - word: と
+      postiion: 6
+    - word: 思っ
+      base: 思う
+      postiion: 7
+    - word: た
+      postiion: 9
+    - word: の
+      postiion: 10
+    - word: です
+      postiion: 11
 - id: Karasuto Kagashi-f000032
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 親鳥は、
-  word_list: [親鳥, は]
   sound: f000032.mp3
   sound_begin: 86640
   sound_end: 88027
+  sentence: 親鳥は、
+  words:
+    - word: 親鳥
+      postiion: 0
+    - word: は
+      postiion: 2
 - id: Karasuto Kagashi-f000033
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 子鳥にいいました。
-  word_list: [子鳥, に, いい, まし, た]
   sound: f000033.mp3
   sound_begin: 88027
   sound_end: 93160
+  sentence: 子鳥にいいました。
+  words:
+    - word: 子鳥
+      base: 小鳥
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: いい
+      base: 言う
+      postiion: 3
+    - word: まし
+      base: ます
+      postiion: 5
+    - word: た
+      postiion: 7
 - id: Karasuto Kagashi-f000034
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 「あの、
-  word_list: [あの]
   sound: f000034.mp3
   sound_begin: 93160
   sound_end: 94163
+  sentence: 「あの、
+  words:
+    - word: あの
+      base: 彼の
+      postiion: 1
 - id: Karasuto Kagashi-f000035
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 田の中に立っている人の手に持つのが、
-  word_list: [田, の, 中, に, 立っ, て, いる, 人, の, 手, に, 持つ, の, が]
   sound: f000035.mp3
   sound_begin: 94163
   sound_end: 97530
+  sentence: 田の中に立っている人の手に持つのが、
+  words:
+    - word: 田
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 中
+      postiion: 2
+    - word: に
+      postiion: 3
+    - word: 立っ
+      base: 立つ
+      postiion: 4
+    - word: て
+      postiion: 6
+    - word: いる
+      base: 居る
+      postiion: 7
+    - word: 人
+      postiion: 9
+    - word: の
+      postiion: 10
+    - word: 手
+      postiion: 11
+    - word: に
+      postiion: 12
+    - word: 持つ
+      postiion: 13
+    - word: の
+      postiion: 15
+    - word: が
+      postiion: 16
 - id: Karasuto Kagashi-f000036
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: おじいさんや、
-  word_list: [お, じい, さん, や]
   sound: f000036.mp3
   sound_begin: 97530
   sound_end: 98720
+  sentence: おじいさんや、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: じい
+      base: 爺
+      postiion: 1
+    - word: さん
+      postiion: 3
+    - word: や
+      postiion: 5
 - id: Karasuto Kagashi-f000037
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: おばあさんから、
-  word_list: [お, ばあ, さん, から]
   sound: f000037.mp3
   sound_begin: 98720
   sound_end: 99640
+  sentence: おばあさんから、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: ばあ
+      base: 婆
+      postiion: 1
+    - word: さん
+      postiion: 3
+    - word: から
+      postiion: 5
 - id: Karasuto Kagashi-f000038
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 話にきいた、
-  word_list: [話, に, きい, た]
   sound: f000038.mp3
   sound_begin: 99640
   sound_end: 101360
+  sentence: 話にきいた、
+  words:
+    - word: 話
+      postiion: 0
+    - word: に
+      postiion: 1
+    - word: きい
+      base: きく
+      postiion: 2
+    - word: た
+      postiion: 4
 - id: Karasuto Kagashi-f000039
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 怖ろしい弓というものだよ。
-  word_list: [怖ろしい, 弓, と, いう, もの, だ, よ]
   sound: f000039.mp3
   sound_begin: 101360
   sound_end: 105160
+  sentence: 怖ろしい弓というものだよ。
+  words:
+    - word: 怖ろしい
+      base: 恐ろしい
+      postiion: 0
+    - word: 弓
+      postiion: 4
+    - word: と
+      postiion: 5
+    - word: いう
+      base: 言う
+      postiion: 6
+    - word: もの
+      base: 物
+      postiion: 8
+    - word: だ
+      postiion: 10
+    - word: よ
+      postiion: 11
 - id: Karasuto Kagashi-f000040
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: いつ飛んできて、
-  word_list: [いつ, 飛ん, で, き, て]
   sound: f000040.mp3
   sound_begin: 105160
   sound_end: 106560
+  sentence: いつ飛んできて、
+  words:
+    - word: いつ
+      postiion: 0
+    - word: 飛ん
+      base: 飛ぶ
+      postiion: 2
+    - word: で
+      postiion: 4
+    - word: き
+      base: 来る
+      postiion: 5
+    - word: て
+      postiion: 6
 - id: Karasuto Kagashi-f000041
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: あたるかしれないから、
-  word_list: [あたる, か, しれ, ない, から]
   sound: f000041.mp3
   sound_begin: 106560
   sound_end: 108840
+  sentence: あたるかしれないから、
+  words:
+    - word: あたる
+      base: 当たる
+      postiion: 0
+    - word: か
+      postiion: 3
+    - word: しれ
+      base: 知る
+      postiion: 4
+    - word: ない
+      postiion: 6
+    - word: から
+      postiion: 8
 - id: Karasuto Kagashi-f000042
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: そばにゆかないがいい。」
-  word_list: [そば, に, ゆか, ない, が, いい]
   sound: f000042.mp3
   sound_begin: 108840
   sound_end: 113673
+  sentence: そばにゆかないがいい。」
+  words:
+    - word: そば
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: ゆか
+      base: 行く
+      postiion: 3
+    - word: ない
+      postiion: 5
+    - word: が
+      postiion: 7
+    - word: いい
+      base: 良い
+      postiion: 8
 - id: Karasuto Kagashi-f000043
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 子鳥たちは、
-  word_list: [子鳥, たち, は]
   sound: f000043.mp3
   sound_begin: 113673
   sound_end: 115612
+  sentence: 子鳥たちは、
+  words:
+    - word: 子鳥
+      base: 小鳥
+      postiion: 0
+    - word: たち
+      base: 達
+      postiion: 2
+    - word: は
+      postiion: 4
 - id: Karasuto Kagashi-f000044
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: たびたび、
-  word_list: [たびたび]
   sound: f000044.mp3
   sound_begin: 115612
   sound_end: 116320
+  sentence: たびたび、
+  words:
+    - word: たびたび
+      base: 度々
+      postiion: 0
 - id: Karasuto Kagashi-f000045
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: いいきかされたのでよく守っていました。
-  word_list: [いい, きかさ, れ, た, の, で, よく, 守っ, て, い, まし, た]
   sound: f000045.mp3
   sound_begin: 116320
   sound_end: 123480
+  sentence: いいきかされたのでよく守っていました。
+  words:
+    - word: いい
+      base: 言う
+      postiion: 0
+    - word: きかさ
+      base: きく
+      postiion: 2
+    - word: れ
+      base: れる
+      postiion: 5
+    - word: た
+      postiion: 6
+    - word: の
+      postiion: 7
+    - word: で
+      base: だ
+      postiion: 8
+    - word: よく
+      base: 良く
+      postiion: 9
+    - word: 守っ
+      base: 守る
+      postiion: 11
+    - word: て
+      postiion: 13
+    - word: い
+      base: 居る
+      postiion: 14
+    - word: まし
+      base: ます
+      postiion: 15
+    - word: た
+      postiion: 17
 - id: Karasuto Kagashi-f000046
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: また、
-  word_list: [また]
   sound: f000046.mp3
   sound_begin: 123480
   sound_end: 124840
+  sentence: また、
+  words:
+    - word: また
+      base: 又
+      postiion: 0
 - id: Karasuto Kagashi-f000047
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 来年、
-  word_list: [来年]
   sound: f000047.mp3
   sound_begin: 124840
   sound_end: 125760
+  sentence: 来年、
+  words:
+    - word: 来年
+      postiion: 0
 - id: Karasuto Kagashi-f000048
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 稲の実るころになると、
-  word_list: [稲, の, 実る, ころ, に, なる, と]
   sound: f000048.mp3
   sound_begin: 125760
   sound_end: 127896
+  sentence: 稲の実るころになると、
+  words:
+    - word: 稲
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 実る
+      postiion: 2
+    - word: ころ
+      base: 頃
+      postiion: 4
+    - word: に
+      postiion: 6
+    - word: なる
+      base: 成る
+      postiion: 7
+    - word: と
+      postiion: 9
 - id: Karasuto Kagashi-f000049
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 太吉じいさんは、
-  word_list: [太吉, じい, さん, は]
   sound: f000049.mp3
   sound_begin: 127896
   sound_end: 129600
+  sentence: 太吉じいさんは、
+  words:
+    - word: 太吉
+      postiion: 0
+    - word: じい
+      base: 爺
+      postiion: 2
+    - word: さん
+      postiion: 4
+    - word: は
+      postiion: 6
 - id: Karasuto Kagashi-f000050
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 新しいかがしを造りました。
-  word_list: [新しい, か, がし, を, 造り, まし, た]
   sound: f000050.mp3
   sound_begin: 129600
   sound_end: 134339
+  sentence: 新しいかがしを造りました。
+  words:
+    - word: 新しい
+      postiion: 0
+    - word: か
+      postiion: 3
+    - word: がし
+      postiion: 4
+    - word: を
+      postiion: 6
+    - word: 造り
+      base: 作る
+      postiion: 7
+    - word: まし
+      base: ます
+      postiion: 9
+    - word: た
+      postiion: 11
 - id: Karasuto Kagashi-f000051
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 去年の子鳥たちはもう親鳥となって、
-  word_list: [去年, の, 子鳥, たち, は, もう, 親鳥, と, なっ, て]
   sound: f000051.mp3
   sound_begin: 134339
   sound_end: 139080
+  sentence: 去年の子鳥たちはもう親鳥となって、
+  words:
+    - word: 去年
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 子鳥
+      base: 小鳥
+      postiion: 3
+    - word: たち
+      base: 達
+      postiion: 5
+    - word: は
+      postiion: 7
+    - word: もう
+      postiion: 8
+    - word: 親鳥
+      postiion: 10
+    - word: と
+      postiion: 12
+    - word: なっ
+      base: 成る
+      postiion: 13
+    - word: て
+      postiion: 15
 - id: Karasuto Kagashi-f000052
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 同じように、
-  word_list: [同じ, よう, に]
   sound: f000052.mp3
   sound_begin: 139080
   sound_end: 140640
+  sentence: 同じように、
+  words:
+    - word: 同じ
+      postiion: 0
+    - word: よう
+      base: 様
+      postiion: 2
+    - word: に
+      base: だ
+      postiion: 4
 - id: Karasuto Kagashi-f000053
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: その子供たちに向かって、
-  word_list: [その, 子供, たち, に, 向かっ, て]
   sound: f000053.mp3
   sound_begin: 140640
   sound_end: 144120
+  sentence: その子供たちに向かって、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 子供
+      postiion: 2
+    - word: たち
+      base: 達
+      postiion: 4
+    - word: に
+      postiion: 6
+    - word: 向かっ
+      base: 向かう
+      postiion: 7
+    - word: て
+      postiion: 10
 - id: Karasuto Kagashi-f000054
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 「あれは、
-  word_list: [あれ, は]
   sound: f000054.mp3
   sound_begin: 144120
   sound_end: 144680
+  sentence: 「あれは、
+  words:
+    - word: あれ
+      base: 彼れ
+      postiion: 1
+    - word: は
+      postiion: 3
 - id: Karasuto Kagashi-f000055
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 弓というものだよ。
-  word_list: [弓, と, いう, もの, だ, よ]
   sound: f000055.mp3
   sound_begin: 144680
   sound_end: 146913
+  sentence: 弓というものだよ。
+  words:
+    - word: 弓
+      postiion: 0
+    - word: と
+      postiion: 1
+    - word: いう
+      base: 言う
+      postiion: 2
+    - word: もの
+      base: 物
+      postiion: 4
+    - word: だ
+      postiion: 6
+    - word: よ
+      postiion: 7
 - id: Karasuto Kagashi-f000056
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 」と自分たちのきいた、
-  word_list: [と, 自分, たち, の, きい, た]
   sound: f000056.mp3
   sound_begin: 146913
   sound_end: 149120
+  sentence: 」と自分たちのきいた、
+  words:
+    - word: と
+      postiion: 1
+    - word: 自分
+      postiion: 2
+    - word: たち
+      base: 達
+      postiion: 4
+    - word: の
+      postiion: 6
+    - word: きい
+      base: きく
+      postiion: 7
+    - word: た
+      postiion: 9
 - id: Karasuto Kagashi-f000057
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 怖ろしい話をしてきかせました。
-  word_list: [怖ろしい, 話, を, し, て, きか, せ, まし, た]
   sound: f000057.mp3
   sound_begin: 149120
   sound_end: 153832
+  sentence: 怖ろしい話をしてきかせました。
+  words:
+    - word: 怖ろしい
+      base: 恐ろしい
+      postiion: 0
+    - word: 話
+      postiion: 4
+    - word: を
+      postiion: 5
+    - word: し
+      base: 為る
+      postiion: 6
+    - word: て
+      postiion: 7
+    - word: きか
+      base: きく
+      postiion: 8
+    - word: せ
+      base: せる
+      postiion: 10
+    - word: まし
+      base: ます
+      postiion: 11
+    - word: た
+      postiion: 13
 - id: Karasuto Kagashi-f000058
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: こうして、
-  word_list: [こう, し, て]
   sound: f000058.mp3
   sound_begin: 153832
   sound_end: 154800
+  sentence: こうして、
+  words:
+    - word: こう
+      postiion: 0
+    - word: し
+      base: 為る
+      postiion: 2
+    - word: て
+      postiion: 3
 - id: Karasuto Kagashi-f000059
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 鳥たちは、
-  word_list: [鳥, たち, は]
   sound: f000059.mp3
   sound_begin: 154800
   sound_end: 156560
+  sentence: 鳥たちは、
+  words:
+    - word: 鳥
+      postiion: 0
+    - word: たち
+      base: 達
+      postiion: 1
+    - word: は
+      postiion: 3
 - id: Karasuto Kagashi-f000060
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: なるたけおじいさんのたんぼに近寄らないようにしていました。
-  word_list: [なるたけ, お, じい, さん, の, たんぼ, に, 近寄ら, ない, よう, に, し, て, い, まし, た]
   sound: f000060.mp3
   sound_begin: 156560
   sound_end: 164304
+  sentence: なるたけおじいさんのたんぼに近寄らないようにしていました。
+  words:
+    - word: なるたけ
+      base: 成る丈
+      postiion: 0
+    - word: お
+      base: 御
+      postiion: 4
+    - word: じい
+      base: 爺
+      postiion: 5
+    - word: さん
+      postiion: 7
+    - word: の
+      postiion: 9
+    - word: たんぼ
+      base: 田圃
+      postiion: 10
+    - word: に
+      postiion: 13
+    - word: 近寄ら
+      base: 近寄る
+      postiion: 14
+    - word: ない
+      postiion: 17
+    - word: よう
+      base: 様
+      postiion: 19
+    - word: に
+      base: だ
+      postiion: 21
+    - word: し
+      base: 為る
+      postiion: 22
+    - word: て
+      postiion: 23
+    - word: い
+      base: 居る
+      postiion: 24
+    - word: まし
+      base: ます
+      postiion: 25
+    - word: た
+      postiion: 27
 - id: Karasuto Kagashi-f000061
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: ところが、
-  word_list: [ところ, が]
   sound: f000061.mp3
   sound_begin: 164304
   sound_end: 166046
+  sentence: ところが、
+  words:
+    - word: ところ
+      base: 所
+      postiion: 0
+    - word: が
+      postiion: 3
 - id: Karasuto Kagashi-f000062
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 物忘れをするからすがありました。
-  word_list: [物忘れ, を, する, からす, が, あり, まし, た]
   sound: f000062.mp3
   sound_begin: 166046
   sound_end: 170446
+  sentence: 物忘れをするからすがありました。
+  words:
+    - word: 物忘れ
+      postiion: 0
+    - word: を
+      postiion: 3
+    - word: する
+      base: 為る
+      postiion: 4
+    - word: からす
+      base: 烏
+      postiion: 6
+    - word: が
+      postiion: 9
+    - word: あり
+      base: 有る
+      postiion: 10
+    - word: まし
+      base: ます
+      postiion: 12
+    - word: た
+      postiion: 14
 - id: Karasuto Kagashi-f000063
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: きいた話を、
-  word_list: [きい, た, 話, を]
   sound: f000063.mp3
   sound_begin: 170446
   sound_end: 171560
+  sentence: きいた話を、
+  words:
+    - word: きい
+      base: きく
+      postiion: 0
+    - word: た
+      postiion: 2
+    - word: 話
+      postiion: 3
+    - word: を
+      postiion: 4
 - id: Karasuto Kagashi-f000064
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: すっかり忘れて、
-  word_list: [すっかり, 忘れ, て]
   sound: f000064.mp3
   sound_begin: 171560
   sound_end: 173244
+  sentence: すっかり忘れて、
+  words:
+    - word: すっかり
+      postiion: 0
+    - word: 忘れ
+      base: 忘れる
+      postiion: 4
+    - word: て
+      postiion: 6
 - id: Karasuto Kagashi-f000065
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: かがしの上にきて止まりました。
-  word_list: [か, が, し, の, 上, に, き, て, 止まり, まし, た]
   sound: f000065.mp3
   sound_begin: 173244
   sound_end: 176360
+  sentence: かがしの上にきて止まりました。
+  words:
+    - word: か
+      postiion: 0
+    - word: が
+      postiion: 1
+    - word: し
+      base: 為る
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: 上
+      postiion: 4
+    - word: に
+      postiion: 5
+    - word: き
+      base: 来る
+      postiion: 6
+    - word: て
+      postiion: 7
+    - word: 止まり
+      base: 止まる
+      postiion: 8
+    - word: まし
+      base: ます
+      postiion: 11
+    - word: た
+      postiion: 13
 - id: Karasuto Kagashi-f000066
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: そして、
-  word_list: [そして]
   sound: f000066.mp3
   sound_begin: 176360
   sound_end: 177830
+  sentence: そして、
+  words:
+    - word: そして
+      postiion: 0
 - id: Karasuto Kagashi-f000067
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: カア、
-  word_list: [カア]
   sound: f000067.mp3
   sound_begin: 177830
   sound_end: 179130
+  sentence: カア、
+  words:
+    - word: カア
+      base: 母
+      postiion: 0
 - id: Karasuto Kagashi-f000068
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: カアと鳴きながらかがしの頭をつつきました。
-  word_list: [カア, と, 鳴き, ながら, か, が, し, の, 頭, を, つつき, まし, た]
   sound: f000068.mp3
   sound_begin: 179130
   sound_end: 186329
+  sentence: カアと鳴きながらかがしの頭をつつきました。
+  words:
+    - word: カア
+      base: 母
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: 鳴き
+      base: 鳴く
+      postiion: 3
+    - word: ながら
+      postiion: 5
+    - word: か
+      postiion: 8
+    - word: が
+      postiion: 9
+    - word: し
+      base: 為る
+      postiion: 10
+    - word: の
+      postiion: 11
+    - word: 頭
+      postiion: 12
+    - word: を
+      postiion: 13
+    - word: つつき
+      base: 突く
+      postiion: 14
+    - word: まし
+      base: ます
+      postiion: 17
+    - word: た
+      postiion: 19
 - id: Karasuto Kagashi-f000069
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: これを見たすずめたちは、
-  word_list: [これ, を, 見, た, すずめ, たち, は]
   sound: f000069.mp3
   sound_begin: 186329
   sound_end: 188662
+  sentence: これを見たすずめたちは、
+  words:
+    - word: これ
+      base: 此れ
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: 見
+      base: 見る
+      postiion: 3
+    - word: た
+      postiion: 4
+    - word: すずめ
+      base: 雀
+      postiion: 5
+    - word: たち
+      base: 達
+      postiion: 8
+    - word: は
+      postiion: 10
 - id: Karasuto Kagashi-f000070
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: びっくりしてどうなるのかと目をまるくしていましたが、
-  word_list: [びっくり, し, て, どう, なる, の, か, と, 目, を, まるく, し, て, い, まし, た, が]
   sound: f000070.mp3
   sound_begin: 188662
   sound_end: 193840
+  sentence: びっくりしてどうなるのかと目をまるくしていましたが、
+  words:
+    - word: びっくり
+      postiion: 0
+    - word: し
+      base: 為る
+      postiion: 4
+    - word: て
+      postiion: 5
+    - word: どう
+      postiion: 6
+    - word: なる
+      base: 成る
+      postiion: 8
+    - word: の
+      postiion: 10
+    - word: か
+      postiion: 11
+    - word: と
+      postiion: 12
+    - word: 目
+      postiion: 13
+    - word: を
+      postiion: 14
+    - word: まるく
+      base: 丸い
+      postiion: 15
+    - word: し
+      base: 為る
+      postiion: 18
+    - word: て
+      postiion: 19
+    - word: い
+      base: 居る
+      postiion: 20
+    - word: まし
+      base: ます
+      postiion: 21
+    - word: た
+      postiion: 23
+    - word: が
+      postiion: 24
 - id: Karasuto Kagashi-f000071
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: しまいに、
-  word_list: [しまい, に]
   sound: f000071.mp3
   sound_begin: 193840
   sound_end: 196400
+  sentence: しまいに、
+  words:
+    - word: しまい
+      base: 仕舞い
+      postiion: 0
+    - word: に
+      postiion: 3
 - id: Karasuto Kagashi-f000072
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 「なんだ、
-  word_list: [なん, だ]
   sound: f000072.mp3
   sound_begin: 196400
   sound_end: 197851
+  sentence: 「なんだ、
+  words:
+    - word: なん
+      base: 何
+      postiion: 1
+    - word: だ
+      postiion: 3
 - id: Karasuto Kagashi-f000073
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: からすがとまってもなんでもないじゃないか。
-  word_list: [からす, が, とまっ, て, も, なん, で, も, ない, じゃ, ない, か]
   sound: f000073.mp3
   sound_begin: 197851
   sound_end: 201218
+  sentence: からすがとまってもなんでもないじゃないか。
+  words:
+    - word: からす
+      base: 烏
+      postiion: 0
+    - word: が
+      postiion: 3
+    - word: とまっ
+      base: とまる
+      postiion: 4
+    - word: て
+      postiion: 7
+    - word: も
+      postiion: 8
+    - word: なん
+      base: 何
+      postiion: 9
+    - word: で
+      postiion: 11
+    - word: も
+      postiion: 12
+    - word: ない
+      base: 無い
+      postiion: 13
+    - word: じゃ
+      base: だ
+      postiion: 15
+    - word: ない
+      base: 無い
+      postiion: 17
+    - word: か
+      postiion: 19
 - id: Karasuto Kagashi-f000074
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 」といって、
-  word_list: [と, いっ, て]
   sound: f000074.mp3
   sound_begin: 201218
   sound_end: 202800
+  sentence: 」といって、
+  words:
+    - word: と
+      postiion: 1
+    - word: いっ
+      base: 言う
+      postiion: 2
+    - word: て
+      postiion: 4
 - id: Karasuto Kagashi-f000075
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: どっと押しよせてきました。
-  word_list: [どっと, 押し, よせ, て, き, まし, た]
   sound: f000075.mp3
   sound_begin: 202800
   sound_end: 206007
+  sentence: どっと押しよせてきました。
+  words:
+    - word: どっと
+      postiion: 0
+    - word: 押し
+      base: 押す
+      postiion: 3
+    - word: よせ
+      base: 寄せる
+      postiion: 5
+    - word: て
+      postiion: 7
+    - word: き
+      base: 来る
+      postiion: 8
+    - word: まし
+      base: ます
+      postiion: 9
+    - word: た
+      postiion: 11
 - id: Karasuto Kagashi-f000076
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: そして、
-  word_list: [そして]
   sound: f000076.mp3
   sound_begin: 206007
   sound_end: 208000
+  sentence: そして、
+  words:
+    - word: そして
+      postiion: 0
 - id: Karasuto Kagashi-f000077
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 長い間自分たちをだましていた正体を見破ってしまいました。
-  word_list: [長い, 間, 自分, たち, を, だまし, て, い, た, 正体, を, 見, 破っ, て, しまい, まし, た]
   sound: f000077.mp3
   sound_begin: 208000
   sound_end: 216584
+  sentence: 長い間自分たちをだましていた正体を見破ってしまいました。
+  words:
+    - word: 長い
+      postiion: 0
+    - word: 間
+      postiion: 2
+    - word: 自分
+      postiion: 3
+    - word: たち
+      base: 達
+      postiion: 5
+    - word: を
+      postiion: 7
+    - word: だまし
+      base: 騙す
+      postiion: 8
+    - word: て
+      postiion: 11
+    - word: い
+      base: 居る
+      postiion: 12
+    - word: た
+      postiion: 13
+    - word: 正体
+      postiion: 14
+    - word: を
+      postiion: 16
+    - word: 見
+      base: 見る
+      postiion: 17
+    - word: 破っ
+      base: 破る
+      postiion: 18
+    - word: て
+      postiion: 20
+    - word: しまい
+      base: 仕舞う
+      postiion: 21
+    - word: まし
+      base: ます
+      postiion: 24
+    - word: た
+      postiion: 26
 - id: Karasuto Kagashi-f000078
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 「こんな、
-  word_list: [こんな]
   sound: f000078.mp3
   sound_begin: 216584
   sound_end: 217160
+  sentence: 「こんな、
+  words:
+    - word: こんな
+      postiion: 1
 - id: Karasuto Kagashi-f000079
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: まがった竹がなんになるんだ。
-  word_list: [まがっ, た, 竹, が, なん, に, なる, ん, だ]
   sound: f000079.mp3
   sound_begin: 217160
   sound_end: 220154
+  sentence: まがった竹がなんになるんだ。
+  words:
+    - word: まがっ
+      base: 曲がる
+      postiion: 0
+    - word: た
+      postiion: 3
+    - word: 竹
+      postiion: 4
+    - word: が
+      postiion: 5
+    - word: なん
+      base: 何
+      postiion: 6
+    - word: に
+      postiion: 8
+    - word: なる
+      base: 成る
+      postiion: 9
+    - word: ん
+      base: の
+      postiion: 11
+    - word: だ
+      postiion: 12
 - id: Karasuto Kagashi-f000080
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 」といって、
-  word_list: [と, いっ, て]
   sound: f000080.mp3
   sound_begin: 220154
   sound_end: 221501
+  sentence: 」といって、
+  words:
+    - word: と
+      postiion: 1
+    - word: いっ
+      base: 言う
+      postiion: 2
+    - word: て
+      postiion: 4
 - id: Karasuto Kagashi-f000081
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: すずめたちは弓にとまりました。
-  word_list: [すずめ, たち, は, 弓, に, とまり, まし, た]
   sound: f000081.mp3
   sound_begin: 221501
   sound_end: 223560
+  sentence: すずめたちは弓にとまりました。
+  words:
+    - word: すずめ
+      base: 雀
+      postiion: 0
+    - word: たち
+      base: 達
+      postiion: 3
+    - word: は
+      postiion: 5
+    - word: 弓
+      postiion: 6
+    - word: に
+      postiion: 7
+    - word: とまり
+      base: とまる
+      postiion: 8
+    - word: まし
+      base: ます
+      postiion: 11
+    - word: た
+      postiion: 13
 - id: Karasuto Kagashi-f000082
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 旅をして帰った、
-  word_list: [旅, を, し, て, 帰っ, た]
   sound: f000082.mp3
   sound_begin: 223560
   sound_end: 229400
+  sentence: 旅をして帰った、
+  words:
+    - word: 旅
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: し
+      base: 為る
+      postiion: 2
+    - word: て
+      postiion: 3
+    - word: 帰っ
+      base: 帰る
+      postiion: 4
+    - word: た
+      postiion: 6
 - id: Karasuto Kagashi-f000083
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: じいさんの息子が、
-  word_list: [じい, さん, の, 息子, が]
   sound: f000083.mp3
   sound_begin: 229400
   sound_end: 232840
+  sentence: じいさんの息子が、
+  words:
+    - word: じい
+      base: 爺
+      postiion: 0
+    - word: さん
+      postiion: 2
+    - word: の
+      postiion: 4
+    - word: 息子
+      postiion: 5
+    - word: が
+      postiion: 7
 - id: Karasuto Kagashi-f000084
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 「いまごろ、
-  word_list: [いまごろ]
   sound: f000084.mp3
   sound_begin: 232840
   sound_end: 233560
+  sentence: 「いまごろ、
+  words:
+    - word: いまごろ
+      base: 今頃
+      postiion: 1
 - id: Karasuto Kagashi-f000085
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 弓なんか持ったかがしなんてあるものでない。
-  word_list: [弓, なんか, 持っ, た, か, が, し, なんて, ある, もの, で, ない]
   sound: f000085.mp3
   sound_begin: 233560
   sound_end: 237280
+  sentence: 弓なんか持ったかがしなんてあるものでない。
+  words:
+    - word: 弓
+      postiion: 0
+    - word: なんか
+      postiion: 1
+    - word: 持っ
+      base: 持つ
+      postiion: 4
+    - word: た
+      postiion: 6
+    - word: か
+      postiion: 7
+    - word: が
+      postiion: 8
+    - word: し
+      base: 為る
+      postiion: 9
+    - word: なんて
+      postiion: 10
+    - word: ある
+      base: 有る
+      postiion: 13
+    - word: もの
+      base: 物
+      postiion: 15
+    - word: で
+      base: だ
+      postiion: 17
+    - word: ない
+      base: 無い
+      postiion: 18
 - id: Karasuto Kagashi-f000086
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: どこの田や、
-  word_list: [どこ, の, 田, や]
   sound: f000086.mp3
   sound_begin: 237280
   sound_end: 238160
+  sentence: どこの田や、
+  words:
+    - word: どこ
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 田
+      postiion: 3
+    - word: や
+      postiion: 4
 - id: Karasuto Kagashi-f000087
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 圃でも、
-  word_list: [圃, で, も]
   sound: f000087.mp3
   sound_begin: 238160
   sound_end: 239450
+  sentence: 圃でも、
+  words:
+    - word: 圃
+      postiion: 0
+    - word: で
+      postiion: 1
+    - word: も
+      postiion: 2
 - id: Karasuto Kagashi-f000088
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 鉄砲を持った、
-  word_list: [鉄砲, を, 持っ, た]
   sound: f000088.mp3
   sound_begin: 239450
   sound_end: 240565
+  sentence: 鉄砲を持った、
+  words:
+    - word: 鉄砲
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: 持っ
+      base: 持つ
+      postiion: 3
+    - word: た
+      postiion: 5
 - id: Karasuto Kagashi-f000089
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 勇ましいかがしを立てている。
-  word_list: [勇ましい, か, がし, を, 立て, て, いる]
   sound: f000089.mp3
   sound_begin: 240565
   sound_end: 242916
+  sentence: 勇ましいかがしを立てている。
+  words:
+    - word: 勇ましい
+      postiion: 0
+    - word: か
+      postiion: 4
+    - word: がし
+      postiion: 5
+    - word: を
+      postiion: 7
+    - word: 立て
+      base: 立つ
+      postiion: 8
+    - word: て
+      postiion: 9
+    - word: いる
+      base: 居る
+      postiion: 11
 - id: Karasuto Kagashi-f000090
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 」といいました。
-  word_list: [と, いい, まし, た]
   sound: f000090.mp3
   sound_begin: 242916
   sound_end: 246010
+  sentence: 」といいました。
+  words:
+    - word: と
+      postiion: 1
+    - word: いい
+      base: 言う
+      postiion: 2
+    - word: まし
+      base: ます
+      postiion: 4
+    - word: た
+      postiion: 6
 - id: Karasuto Kagashi-f000091
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: これをきいて、
-  word_list: [これ, を, きい, て]
   sound: f000091.mp3
   sound_begin: 246010
   sound_end: 247525
+  sentence: これをきいて、
+  words:
+    - word: これ
+      base: 此れ
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: きい
+      base: きく
+      postiion: 3
+    - word: て
+      postiion: 5
 - id: Karasuto Kagashi-f000092
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 太吉じいさんは、
-  word_list: [太吉, じい, さん, は]
   sound: f000092.mp3
   sound_begin: 247525
   sound_end: 250480
+  sentence: 太吉じいさんは、
+  words:
+    - word: 太吉
+      postiion: 0
+    - word: じい
+      base: 爺
+      postiion: 2
+    - word: さん
+      postiion: 4
+    - word: は
+      postiion: 6
 - id: Karasuto Kagashi-f000093
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 「なるほどそうかな、
-  word_list: [なるほど, そう, か, な]
   sound: f000093.mp3
   sound_begin: 250480
   sound_end: 251760
+  sentence: 「なるほどそうかな、
+  words:
+    - word: なるほど
+      base: 成る程
+      postiion: 1
+    - word: そう
+      postiion: 5
+    - word: か
+      postiion: 7
+    - word: な
+      postiion: 8
 - id: Karasuto Kagashi-f000094
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 弓なんて、
-  word_list: [弓, なんて]
   sound: f000094.mp3
   sound_begin: 251760
   sound_end: 253600
+  sentence: 弓なんて、
+  words:
+    - word: 弓
+      postiion: 0
+    - word: なんて
+      postiion: 1
 - id: Karasuto Kagashi-f000095
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: なにするものか、
-  word_list: [なに, する, もの, か]
   sound: f000095.mp3
   sound_begin: 253600
   sound_end: 256000
+  sentence: なにするものか、
+  words:
+    - word: なに
+      base: 何
+      postiion: 0
+    - word: する
+      base: 為る
+      postiion: 2
+    - word: もの
+      base: 物
+      postiion: 4
+    - word: か
+      postiion: 6
 - id: Karasuto Kagashi-f000096
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 昔の鳥は知っても、
-  word_list: [昔, の, 鳥, は, 知っ, て, も]
   sound: f000096.mp3
   sound_begin: 256000
   sound_end: 258415
+  sentence: 昔の鳥は知っても、
+  words:
+    - word: 昔
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 鳥
+      postiion: 2
+    - word: は
+      postiion: 3
+    - word: 知っ
+      base: 知る
+      postiion: 4
+    - word: て
+      postiion: 6
+    - word: も
+      postiion: 7
 - id: Karasuto Kagashi-f000097
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: このごろの鳥たちは知るまいて。
-  word_list: [このごろ, の, 鳥, たち, は, 知る, まいて]
   sound: f000097.mp3
   sound_begin: 258415
   sound_end: 261805
+  sentence: このごろの鳥たちは知るまいて。
+  words:
+    - word: このごろ
+      base: 此の頃
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 鳥
+      postiion: 5
+    - word: たち
+      base: 達
+      postiion: 6
+    - word: は
+      postiion: 8
+    - word: 知る
+      postiion: 9
+    - word: まいて
+      base: 況して
+      postiion: 11
 - id: Karasuto Kagashi-f000098
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 」と、
-  word_list: [と]
   sound: f000098.mp3
   sound_begin: 261805
   sound_end: 262280
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Karasuto Kagashi-f000099
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: いって、
-  word_list: [いっ, て]
   sound: f000099.mp3
   sound_begin: 262280
   sound_end: 263440
+  sentence: いって、
+  words:
+    - word: いっ
+      base: 行く
+      postiion: 0
+    - word: て
+      postiion: 2
 - id: Karasuto Kagashi-f000100
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: おじいさんは弓のかわりに、
-  word_list: [お, じい, さん, は, 弓, の, かわり, に]
   sound: f000100.mp3
   sound_begin: 263440
   sound_end: 265915
+  sentence: おじいさんは弓のかわりに、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: じい
+      base: 爺
+      postiion: 1
+    - word: さん
+      postiion: 3
+    - word: は
+      postiion: 5
+    - word: 弓
+      postiion: 6
+    - word: の
+      postiion: 7
+    - word: かわり
+      postiion: 8
+    - word: に
+      postiion: 11
 - id: Karasuto Kagashi-f000101
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 鉄砲を持って立っている、
-  word_list: [鉄砲, を, 持っ, て, 立っ, て, いる]
   sound: f000101.mp3
   sound_begin: 265915
   sound_end: 267560
+  sentence: 鉄砲を持って立っている、
+  words:
+    - word: 鉄砲
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: 持っ
+      base: 持つ
+      postiion: 3
+    - word: て
+      postiion: 5
+    - word: 立っ
+      base: 立つ
+      postiion: 6
+    - word: て
+      postiion: 8
+    - word: いる
+      base: 居る
+      postiion: 9
 - id: Karasuto Kagashi-f000102
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: かがしをつくりました。
-  word_list: [か, がし, を, つくり, まし, た]
   sound: f000102.mp3
   sound_begin: 267560
   sound_end: 271766
+  sentence: かがしをつくりました。
+  words:
+    - word: か
+      postiion: 0
+    - word: がし
+      postiion: 1
+    - word: を
+      postiion: 3
+    - word: つくり
+      base: 作る
+      postiion: 4
+    - word: まし
+      base: ます
+      postiion: 7
+    - word: た
+      postiion: 9
 - id: Karasuto Kagashi-f000103
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 「見てくれ、
-  word_list: [見, て, くれ]
   sound: f000103.mp3
   sound_begin: 271766
   sound_end: 273728
+  sentence: 「見てくれ、
+  words:
+    - word: 見
+      base: 見る
+      postiion: 1
+    - word: て
+      postiion: 2
+    - word: くれ
+      base: 呉れる
+      postiion: 3
 - id: Karasuto Kagashi-f000104
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: これなら、
-  word_list: [これ, なら]
   sound: f000104.mp3
   sound_begin: 273728
   sound_end: 274520
+  sentence: これなら、
+  words:
+    - word: これ
+      base: 此れ
+      postiion: 0
+    - word: なら
+      base: だ
+      postiion: 2
 - id: Karasuto Kagashi-f000105
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: いいだろう。
-  word_list: [いい, だろう]
   sound: f000105.mp3
   sound_begin: 274520
   sound_end: 276329
+  sentence: いいだろう。
+  words:
+    - word: いい
+      base: 良い
+      postiion: 0
+    - word: だろう
+      base: だ
+      postiion: 2
 - id: Karasuto Kagashi-f000106
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 」と、
-  word_list: [と]
   sound: f000106.mp3
   sound_begin: 276329
   sound_end: 276497
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Karasuto Kagashi-f000107
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: おじいさんは、
-  word_list: [お, じい, さん, は]
   sound: f000107.mp3
   sound_begin: 276497
   sound_end: 277160
+  sentence: おじいさんは、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: じい
+      base: 爺
+      postiion: 1
+    - word: さん
+      postiion: 3
+    - word: は
+      postiion: 5
 - id: Karasuto Kagashi-f000108
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: ききました。
-  word_list: [きき, まし, た]
   sound: f000108.mp3
   sound_begin: 277160
   sound_end: 280680
+  sentence: ききました。
+  words:
+    - word: きき
+      base: きく
+      postiion: 0
+    - word: まし
+      base: ます
+      postiion: 2
+    - word: た
+      postiion: 4
 - id: Karasuto Kagashi-f000109
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 「ああ、
-  word_list: [ああ]
   sound: f000109.mp3
   sound_begin: 280680
   sound_end: 281812
+  sentence: 「ああ、
+  words:
+    - word: ああ
+      postiion: 1
 - id: Karasuto Kagashi-f000110
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: よくできました。
-  word_list: [よく, でき, まし, た]
   sound: f000110.mp3
   sound_begin: 281812
   sound_end: 283725
+  sentence: よくできました。
+  words:
+    - word: よく
+      base: 良く
+      postiion: 0
+    - word: でき
+      base: 出来る
+      postiion: 2
+    - word: まし
+      base: ます
+      postiion: 4
+    - word: た
+      postiion: 6
 - id: Karasuto Kagashi-f000111
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 」と、
-  word_list: [と]
   sound: f000111.mp3
   sound_begin: 283725
   sound_end: 283960
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Karasuto Kagashi-f000112
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 息子は、
-  word_list: [息子, は]
   sound: f000112.mp3
   sound_begin: 283960
   sound_end: 284480
+  sentence: 息子は、
+  words:
+    - word: 息子
+      postiion: 0
+    - word: は
+      postiion: 2
 - id: Karasuto Kagashi-f000113
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 答えました。
-  word_list: [答え, まし, た]
   sound: f000113.mp3
   sound_begin: 284480
   sound_end: 287242
+  sentence: 答えました。
+  words:
+    - word: 答え
+      base: 答える
+      postiion: 0
+    - word: まし
+      base: ます
+      postiion: 2
+    - word: た
+      postiion: 4
 - id: Karasuto Kagashi-f000114
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: これを見たすずめたちは、
-  word_list: [これ, を, 見, た, すずめ, たち, は]
   sound: f000114.mp3
   sound_begin: 287242
   sound_end: 289360
+  sentence: これを見たすずめたちは、
+  words:
+    - word: これ
+      base: 此れ
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: 見
+      base: 見る
+      postiion: 3
+    - word: た
+      postiion: 4
+    - word: すずめ
+      base: 雀
+      postiion: 5
+    - word: たち
+      base: 達
+      postiion: 8
+    - word: は
+      postiion: 10
 - id: Karasuto Kagashi-f000115
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: ふるえあがりました。
-  word_list: [ふるえ, あがり, まし, た]
   sound: f000115.mp3
   sound_begin: 289360
   sound_end: 293760
+  sentence: ふるえあがりました。
+  words:
+    - word: ふるえ
+      base: 震える
+      postiion: 0
+    - word: あがり
+      base: 上がる
+      postiion: 3
+    - word: まし
+      base: ます
+      postiion: 6
+    - word: た
+      postiion: 8
 - id: Karasuto Kagashi-f000116
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 「あれは鉄砲だよ。
-  word_list: [あれ, は, 鉄砲, だ, よ]
   sound: f000116.mp3
   sound_begin: 293760
   sound_end: 296080
+  sentence: 「あれは鉄砲だよ。
+  words:
+    - word: あれ
+      base: 彼れ
+      postiion: 1
+    - word: は
+      postiion: 3
+    - word: 鉄砲
+      postiion: 4
+    - word: だ
+      postiion: 6
+    - word: よ
+      postiion: 7
 - id: Karasuto Kagashi-f000117
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 近寄ると、
-  word_list: [近寄る, と]
   sound: f000117.mp3
   sound_begin: 296080
   sound_end: 296960
+  sentence: 近寄ると、
+  words:
+    - word: 近寄る
+      postiion: 0
+    - word: と
+      postiion: 3
 - id: Karasuto Kagashi-f000118
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: ズドンといって、
-  word_list: [ズドン, と, いっ, て]
   sound: f000118.mp3
   sound_begin: 296960
   sound_end: 299200
+  sentence: ズドンといって、
+  words:
+    - word: ズドン
+      base: ずどん
+      postiion: 0
+    - word: と
+      postiion: 3
+    - word: いっ
+      base: 言う
+      postiion: 4
+    - word: て
+      postiion: 6
 - id: Karasuto Kagashi-f000119
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: みんな殺されてしまうのだよ。
-  word_list: [みんな, 殺さ, れ, て, しまう, の, だ, よ]
   sound: f000119.mp3
   sound_begin: 299200
   sound_end: 302811
+  sentence: みんな殺されてしまうのだよ。
+  words:
+    - word: みんな
+      base: 皆
+      postiion: 0
+    - word: 殺さ
+      base: 殺す
+      postiion: 3
+    - word: れ
+      base: れる
+      postiion: 5
+    - word: て
+      postiion: 6
+    - word: しまう
+      base: 仕舞う
+      postiion: 7
+    - word: の
+      postiion: 10
+    - word: だ
+      postiion: 11
+    - word: よ
+      postiion: 12
 - id: Karasuto Kagashi-f000120
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 」と、
-  word_list: [と]
   sound: f000120.mp3
   sound_begin: 302811
   sound_end: 303200
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Karasuto Kagashi-f000121
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 親すずめは子すずめにいいきかせました。
-  word_list: [親, すずめ, は, 子すずめ, に, いい, きかせ, まし, た]
   sound: f000121.mp3
   sound_begin: 303200
   sound_end: 308187
+  sentence: 親すずめは子すずめにいいきかせました。
+  words:
+    - word: 親
+      postiion: 0
+    - word: すずめ
+      base: 雀
+      postiion: 1
+    - word: は
+      postiion: 4
+    - word: 子すずめ
+      base: 小雀
+      postiion: 5
+    - word: に
+      postiion: 9
+    - word: いい
+      base: 言う
+      postiion: 10
+    - word: きかせ
+      base: 聞く
+      postiion: 12
+    - word: まし
+      base: ます
+      postiion: 15
+    - word: た
+      postiion: 17
 - id: Karasuto Kagashi-f000122
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: ところが、
-  word_list: [ところ, が]
   sound: f000122.mp3
   sound_begin: 308187
   sound_end: 309917
+  sentence: ところが、
+  words:
+    - word: ところ
+      base: 所
+      postiion: 0
+    - word: が
+      postiion: 3
 - id: Karasuto Kagashi-f000123
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: いつかの物忘れのからすがやってきて、
-  word_list: [いつ, か, の, 物忘れ, の, からす, が, やっ, て, き, て]
   sound: f000123.mp3
   sound_begin: 309917
   sound_end: 312924
+  sentence: いつかの物忘れのからすがやってきて、
+  words:
+    - word: いつ
+      postiion: 0
+    - word: か
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: 物忘れ
+      postiion: 4
+    - word: の
+      postiion: 7
+    - word: からす
+      base: 烏
+      postiion: 8
+    - word: が
+      postiion: 11
+    - word: やっ
+      base: 遣る
+      postiion: 12
+    - word: て
+      postiion: 14
+    - word: き
+      base: 来る
+      postiion: 15
+    - word: て
+      postiion: 16
 - id: Karasuto Kagashi-f000124
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: かがしの上に止まりました。
-  word_list: [か, が, し, の, 上, に, 止まり, まし, た]
   sound: f000124.mp3
   sound_begin: 312924
   sound_end: 317637
+  sentence: かがしの上に止まりました。
+  words:
+    - word: か
+      postiion: 0
+    - word: が
+      postiion: 1
+    - word: し
+      base: 為る
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: 上
+      postiion: 4
+    - word: に
+      postiion: 5
+    - word: 止まり
+      base: 止まる
+      postiion: 6
+    - word: まし
+      base: ます
+      postiion: 9
+    - word: た
+      postiion: 11
 - id: Karasuto Kagashi-f000125
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 「どうしたのだろうな。
-  word_list: [どう, し, た, の, だろう, な]
   sound: f000125.mp3
   sound_begin: 317637
   sound_end: 320493
+  sentence: 「どうしたのだろうな。
+  words:
+    - word: どう
+      postiion: 1
+    - word: し
+      base: 為る
+      postiion: 3
+    - word: た
+      postiion: 4
+    - word: の
+      postiion: 5
+    - word: だろう
+      base: だ
+      postiion: 6
+    - word: な
+      postiion: 9
 - id: Karasuto Kagashi-f000126
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 」と、
-  word_list: [と]
   sound: f000126.mp3
   sound_begin: 320493
   sound_end: 320680
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Karasuto Kagashi-f000127
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: おじいさんが、
-  word_list: [お, じい, さん, が]
   sound: f000127.mp3
   sound_begin: 320680
   sound_end: 321400
+  sentence: おじいさんが、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: じい
+      base: 爺
+      postiion: 1
+    - word: さん
+      postiion: 3
+    - word: が
+      postiion: 5
 - id: Karasuto Kagashi-f000128
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 頸をかしげました。
-  word_list: [頸, を, かしげ, まし, た]
   sound: f000128.mp3
   sound_begin: 321400
   sound_end: 324160
+  sentence: 頸をかしげました。
+  words:
+    - word: 頸
+      base: 首
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: かしげ
+      base: 傾げる
+      postiion: 2
+    - word: まし
+      base: ます
+      postiion: 5
+    - word: た
+      postiion: 7
 - id: Karasuto Kagashi-f000129
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: すると、
-  word_list: [する, と]
   sound: f000129.mp3
   sound_begin: 324160
   sound_end: 325200
+  sentence: すると、
+  words:
+    - word: する
+      base: 為る
+      postiion: 0
+    - word: と
+      postiion: 2
 - id: Karasuto Kagashi-f000130
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: そのからすは、
-  word_list: [その, からす, は]
   sound: f000130.mp3
   sound_begin: 325200
   sound_end: 327720
+  sentence: そのからすは、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: からす
+      base: 烏
+      postiion: 2
+    - word: は
+      postiion: 5
 - id: Karasuto Kagashi-f000131
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 「知っていますよ、
-  word_list: [知っ, て, い, ます, よ]
   sound: f000131.mp3
   sound_begin: 327720
   sound_end: 329560
+  sentence: 「知っていますよ、
+  words:
+    - word: 知っ
+      base: 知る
+      postiion: 1
+    - word: て
+      postiion: 3
+    - word: い
+      base: 居る
+      postiion: 4
+    - word: ます
+      postiion: 5
+    - word: よ
+      postiion: 7
 - id: Karasuto Kagashi-f000132
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: なにを持っても打てないことを。
-  word_list: [なに, を, 持っ, て, も, 打て, ない, こと, を]
   sound: f000132.mp3
   sound_begin: 329560
   sound_end: 332120
+  sentence: なにを持っても打てないことを。
+  words:
+    - word: なに
+      base: 何
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: 持っ
+      base: 持つ
+      postiion: 3
+    - word: て
+      postiion: 5
+    - word: も
+      postiion: 6
+    - word: 打て
+      base: 打つ
+      postiion: 7
+    - word: ない
+      postiion: 9
+    - word: こと
+      postiion: 11
+    - word: を
+      postiion: 13
 - id: Karasuto Kagashi-f000133
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: ばか、
-  word_list: [ばか]
   sound: f000133.mp3
   sound_begin: 332120
   sound_end: 333080
+  sentence: ばか、
+  words:
+    - word: ばか
+      postiion: 0
 - id: Karasuto Kagashi-f000134
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: ばか。
-  word_list: [ばか]
   sound: f000134.mp3
   sound_begin: 333080
   sound_end: 334396
+  sentence: ばか。
+  words:
+    - word: ばか
+      postiion: 0
 - id: Karasuto Kagashi-f000135
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 」といって、
-  word_list: [と, いっ, て]
   sound: f000135.mp3
   sound_begin: 334396
   sound_end: 335160
+  sentence: 」といって、
+  words:
+    - word: と
+      postiion: 1
+    - word: いっ
+      base: 言う
+      postiion: 2
+    - word: て
+      postiion: 4
 - id: Karasuto Kagashi-f000136
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 笑いました。
-  word_list: [笑い, まし, た]
   sound: f000136.mp3
   sound_begin: 335160
   sound_end: 338880
+  sentence: 笑いました。
+  words:
+    - word: 笑い
+      base: 笑う
+      postiion: 0
+    - word: まし
+      base: ます
+      postiion: 2
+    - word: た
+      postiion: 4
 - id: Karasuto Kagashi-f000137
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 他の鳥たちは、
-  word_list: [他, の, 鳥, たち, は]
   sound: f000137.mp3
   sound_begin: 338880
   sound_end: 340349
+  sentence: 他の鳥たちは、
+  words:
+    - word: 他
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 鳥
+      postiion: 2
+    - word: たち
+      base: 達
+      postiion: 3
+    - word: は
+      postiion: 5
 - id: Karasuto Kagashi-f000138
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: からすの勇気に感心しました。
-  word_list: [からす, の, 勇気, に, 感心, し, まし, た]
   sound: f000138.mp3
   sound_begin: 340349
   sound_end: 344920
+  sentence: からすの勇気に感心しました。
+  words:
+    - word: からす
+      base: 烏
+      postiion: 0
+    - word: の
+      postiion: 3
+    - word: 勇気
+      postiion: 4
+    - word: に
+      postiion: 6
+    - word: 感心
+      postiion: 7
+    - word: し
+      base: 為る
+      postiion: 9
+    - word: まし
+      base: ます
+      postiion: 10
+    - word: た
+      postiion: 12
 - id: Karasuto Kagashi-f000139
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: いままで、
-  word_list: [いま, まで]
   sound: f000139.mp3
   sound_begin: 344920
   sound_end: 345480
+  sentence: いままで、
+  words:
+    - word: いま
+      base: 今
+      postiion: 0
+    - word: まで
+      postiion: 2
 - id: Karasuto Kagashi-f000140
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: ばかにされたからすが、
-  word_list: [ばか, に, さ, れ, た, からす, が]
   sound: f000140.mp3
   sound_begin: 345480
   sound_end: 347800
+  sentence: ばかにされたからすが、
+  words:
+    - word: ばか
+      postiion: 0
+    - word: に
+      base: だ
+      postiion: 2
+    - word: さ
+      base: 為る
+      postiion: 3
+    - word: れ
+      base: れる
+      postiion: 4
+    - word: た
+      postiion: 5
+    - word: からす
+      base: 烏
+      postiion: 6
+    - word: が
+      postiion: 9
 - id: Karasuto Kagashi-f000141
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: いちばんりこうな鳥といわれるようになりました。
-  word_list: [いちばん, りこう, な, 鳥, と, いわ, れる, よう, に, なり, まし, た]
   sound: f000141.mp3
   sound_begin: 347800
   sound_end: 352600
+  sentence: いちばんりこうな鳥といわれるようになりました。
+  words:
+    - word: いちばん
+      base: 一番
+      postiion: 0
+    - word: りこう
+      base: 利口
+      postiion: 4
+    - word: な
+      base: だ
+      postiion: 7
+    - word: 鳥
+      postiion: 8
+    - word: と
+      postiion: 9
+    - word: いわ
+      base: 言う
+      postiion: 10
+    - word: れる
+      postiion: 12
+    - word: よう
+      base: 様
+      postiion: 14
+    - word: に
+      base: だ
+      postiion: 16
+    - word: なり
+      base: 成る
+      postiion: 17
+    - word: まし
+      base: ます
+      postiion: 19
+    - word: た
+      postiion: 21
 - id: Karasuto Kagashi-f000142
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: そして、
-  word_list: [そして]
   sound: f000142.mp3
   sound_begin: 352600
   sound_end: 354040
+  sentence: そして、
+  words:
+    - word: そして
+      postiion: 0
 - id: Karasuto Kagashi-f000143
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: すずめたちは、
-  word_list: [すずめ, たち, は]
   sound: f000143.mp3
   sound_begin: 354040
   sound_end: 354960
+  sentence: すずめたちは、
+  words:
+    - word: すずめ
+      base: 雀
+      postiion: 0
+    - word: たち
+      base: 達
+      postiion: 3
+    - word: は
+      postiion: 5
 - id: Karasuto Kagashi-f000144
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: かがしを侮って、
-  word_list: [か, がし, を, 侮っ, て]
   sound: f000144.mp3
   sound_begin: 354960
   sound_end: 356800
+  sentence: かがしを侮って、
+  words:
+    - word: か
+      postiion: 0
+    - word: がし
+      postiion: 1
+    - word: を
+      postiion: 3
+    - word: 侮っ
+      base: 侮る
+      postiion: 4
+    - word: て
+      postiion: 6
 - id: Karasuto Kagashi-f000145
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: 稲を荒らしましたが、
-  word_list: [稲, を, 荒らし, まし, た, が]
   sound: f000145.mp3
   sound_begin: 356800
   sound_end: 360040
+  sentence: 稲を荒らしましたが、
+  words:
+    - word: 稲
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: 荒らし
+      base: 荒らす
+      postiion: 2
+    - word: まし
+      base: ます
+      postiion: 5
+    - word: た
+      postiion: 7
+    - word: が
+      postiion: 8
 - id: Karasuto Kagashi-f000146
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: ある日、
-  word_list: [ある, 日]
   sound: f000146.mp3
   sound_begin: 360040
   sound_end: 362220
+  sentence: ある日、
+  words:
+    - word: ある
+      base: 或る
+      postiion: 0
+    - word: 日
+      postiion: 2
 - id: Karasuto Kagashi-f000147
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: おじいさんの息子の打った、
-  word_list: [お, じい, さん, の, 息子, の, 打っ, た]
   sound: f000147.mp3
   sound_begin: 362220
   sound_end: 364920
+  sentence: おじいさんの息子の打った、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: じい
+      base: 爺
+      postiion: 1
+    - word: さん
+      postiion: 3
+    - word: の
+      postiion: 5
+    - word: 息子
+      postiion: 6
+    - word: の
+      postiion: 8
+    - word: 打っ
+      base: 打つ
+      postiion: 9
+    - word: た
+      postiion: 11
 - id: Karasuto Kagashi-f000148
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: ほんとうの鉄砲で、
-  word_list: [ほんとう, の, 鉄砲, で]
   sound: f000148.mp3
   sound_begin: 364920
   sound_end: 367360
+  sentence: ほんとうの鉄砲で、
+  words:
+    - word: ほんとう
+      base: 本当
+      postiion: 0
+    - word: の
+      postiion: 4
+    - word: 鉄砲
+      postiion: 5
+    - word: で
+      postiion: 7
 - id: Karasuto Kagashi-f000149
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: みんな殺されてしまいました。
-  word_list: [みんな, 殺さ, れ, て, しまい, まし, た]
   sound: f000149.mp3
   sound_begin: 367360
   sound_end: 373000
+  sentence: みんな殺されてしまいました。
+  words:
+    - word: みんな
+      base: 皆
+      postiion: 0
+    - word: 殺さ
+      base: 殺す
+      postiion: 3
+    - word: れ
+      base: れる
+      postiion: 5
+    - word: て
+      postiion: 6
+    - word: しまい
+      base: 仕舞う
+      postiion: 7
+    - word: まし
+      base: ます
+      postiion: 10
+    - word: た
+      postiion: 12
 - id: Karasuto Kagashi-f000150
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: いつでも、
-  word_list: [いつ, で, も]
   sound: f000150.mp3
   sound_begin: 373000
   sound_end: 374497
+  sentence: いつでも、
+  words:
+    - word: いつ
+      postiion: 0
+    - word: で
+      postiion: 2
+    - word: も
+      postiion: 3
 - id: Karasuto Kagashi-f000151
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: ばかとりこうとは、
-  word_list: [ばか, と, りこう, と, は]
   sound: f000151.mp3
   sound_begin: 374497
   sound_end: 376779
+  sentence: ばかとりこうとは、
+  words:
+    - word: ばか
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: りこう
+      base: 利口
+      postiion: 3
+    - word: と
+      postiion: 6
+    - word: は
+      postiion: 7
 - id: Karasuto Kagashi-f000152
   author_japanese: 小川 未明
   deck_name: Karasuto Kagashi
   deck_name_japanese: からすとかがし
-  sentence: ちょっと見分けのつかぬものです。
-  word_list: [ちょっと, 見分け, の, つか, ぬ, もの, です]
   sound: f000152.mp3
   sound_begin: 376779
   sound_end: 382080
+  sentence: ちょっと見分けのつかぬものです。
+  words:
+    - word: ちょっと
+      base: 一寸
+      postiion: 0
+    - word: 見分け
+      postiion: 4
+    - word: の
+      postiion: 7
+    - word: つか
+      base: 付く
+      postiion: 8
+    - word: ぬ
+      base: ず
+      postiion: 10
+    - word: もの
+      base: 物
+      postiion: 11
+    - word: です
+      postiion: 13

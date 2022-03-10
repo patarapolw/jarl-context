@@ -2,602 +2,1408 @@
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: お母さんのお乳
-  word_list: [お, 母さん, の, お, 乳]
   sound: f000002.mp3
   sound_begin: 5637
   sound_end: 11080
+  sentence: お母さんのお乳
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: 母さん
+      postiion: 1
+    - word: の
+      postiion: 4
+    - word: お
+      base: 御
+      postiion: 5
+    - word: 乳
+      postiion: 6
 - id: Okasanno Ochichi-f000003
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: 赤ちゃんは、
-  word_list: [赤ちゃん, は]
   sound: f000003.mp3
   sound_begin: 11080
   sound_end: 12400
+  sentence: 赤ちゃんは、
+  words:
+    - word: 赤ちゃん
+      postiion: 0
+    - word: は
+      postiion: 4
 - id: Okasanno Ochichi-f000004
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: お母さんのお乳にすがりついて、
-  word_list: [お, 母さん, の, お, 乳, に, すがり, つい, て]
   sound: f000004.mp3
   sound_begin: 12400
   sound_end: 15520
+  sentence: お母さんのお乳にすがりついて、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: 母さん
+      postiion: 1
+    - word: の
+      postiion: 4
+    - word: お
+      base: 御
+      postiion: 5
+    - word: 乳
+      postiion: 6
+    - word: に
+      postiion: 7
+    - word: すがり
+      base: 縋る
+      postiion: 8
+    - word: つい
+      base: 付く
+      postiion: 11
+    - word: て
+      postiion: 13
 - id: Okasanno Ochichi-f000005
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: うまそうに、
-  word_list: [うま, そう, に]
   sound: f000005.mp3
   sound_begin: 15520
   sound_end: 16920
+  sentence: うまそうに、
+  words:
+    - word: うま
+      base: 旨い
+      postiion: 0
+    - word: そう
+      postiion: 2
+    - word: に
+      base: だ
+      postiion: 4
 - id: Okasanno Ochichi-f000006
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: のんでいました。
-  word_list: [のん, で, い, まし, た]
   sound: f000006.mp3
   sound_begin: 16920
   sound_end: 19518
+  sentence: のんでいました。
+  words:
+    - word: のん
+      base: 飲む
+      postiion: 0
+    - word: で
+      postiion: 2
+    - word: い
+      base: 居る
+      postiion: 3
+    - word: まし
+      base: ます
+      postiion: 4
+    - word: た
+      postiion: 6
 - id: Okasanno Ochichi-f000007
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: それをさもうらやましそうにして、
-  word_list: [それ, を, さも, うらやまし, そう, に, し, て]
   sound: f000007.mp3
   sound_begin: 19518
   sound_end: 23440
+  sentence: それをさもうらやましそうにして、
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: さも
+      base: 然も
+      postiion: 3
+    - word: うらやまし
+      base: 羨ましい
+      postiion: 5
+    - word: そう
+      postiion: 10
+    - word: に
+      base: だ
+      postiion: 12
+    - word: し
+      base: 為る
+      postiion: 13
+    - word: て
+      postiion: 14
 - id: Okasanno Ochichi-f000008
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: 五つになったお兄さんと、
-  word_list: [五, つ, に, なっ, た, お, 兄さん, と]
   sound: f000008.mp3
   sound_begin: 23440
   sound_end: 26200
+  sentence: 五つになったお兄さんと、
+  words:
+    - word: 五
+      base: '5'
+      postiion: 0
+    - word: つ
+      postiion: 1
+    - word: に
+      postiion: 2
+    - word: なっ
+      base: 成る
+      postiion: 3
+    - word: た
+      postiion: 5
+    - word: お
+      base: 御
+      postiion: 6
+    - word: 兄さん
+      postiion: 7
+    - word: と
+      postiion: 10
 - id: Okasanno Ochichi-f000009
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: 七つになったお姉さんとがながめていました。
-  word_list: [七, つ, に, なっ, た, お, 姉さん, と, が, ながめ, て, い, まし, た]
   sound: f000009.mp3
   sound_begin: 26200
   sound_end: 32200
+  sentence: 七つになったお姉さんとがながめていました。
+  words:
+    - word: 七
+      base: '7'
+      postiion: 0
+    - word: つ
+      postiion: 1
+    - word: に
+      postiion: 2
+    - word: なっ
+      base: 成る
+      postiion: 3
+    - word: た
+      postiion: 5
+    - word: お
+      base: 御
+      postiion: 6
+    - word: 姉さん
+      postiion: 7
+    - word: と
+      postiion: 10
+    - word: が
+      postiion: 11
+    - word: ながめ
+      base: 眺める
+      postiion: 12
+    - word: て
+      postiion: 15
+    - word: い
+      base: 居る
+      postiion: 16
+    - word: まし
+      base: ます
+      postiion: 17
+    - word: た
+      postiion: 19
 - id: Okasanno Ochichi-f000010
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: 兄さんは、
-  word_list: [兄さん, は]
   sound: f000010.mp3
   sound_begin: 32200
   sound_end: 33120
+  sentence: 兄さんは、
+  words:
+    - word: 兄さん
+      postiion: 0
+    - word: は
+      postiion: 3
 - id: Okasanno Ochichi-f000011
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: ついに我慢がしきれなくなったとみえて、
-  word_list: [ついに, 我慢, が, し, きれ, なく, なっ, た, と, みえ, て]
   sound: f000011.mp3
   sound_begin: 33120
   sound_end: 37920
+  sentence: ついに我慢がしきれなくなったとみえて、
+  words:
+    - word: ついに
+      base: 遂に
+      postiion: 0
+    - word: 我慢
+      postiion: 3
+    - word: が
+      postiion: 5
+    - word: し
+      base: 為る
+      postiion: 6
+    - word: きれ
+      base: 切る
+      postiion: 7
+    - word: なく
+      base: ない
+      postiion: 9
+    - word: なっ
+      base: 成る
+      postiion: 11
+    - word: た
+      postiion: 13
+    - word: と
+      postiion: 14
+    - word: みえ
+      base: 見える
+      postiion: 15
+    - word: て
+      postiion: 17
 - id: Okasanno Ochichi-f000012
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: お母さんのお乳に、
-  word_list: [お, 母さん, の, お, 乳, に]
   sound: f000012.mp3
   sound_begin: 37920
   sound_end: 40130
+  sentence: お母さんのお乳に、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: 母さん
+      postiion: 1
+    - word: の
+      postiion: 4
+    - word: お
+      base: 御
+      postiion: 5
+    - word: 乳
+      postiion: 6
+    - word: に
+      postiion: 7
 - id: Okasanno Ochichi-f000013
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: 小さな手をかけようとしました。
-  word_list: [小さな, 手, を, かけよう, と, し, まし, た]
   sound: f000013.mp3
   sound_begin: 40130
   sound_end: 44640
+  sentence: 小さな手をかけようとしました。
+  words:
+    - word: 小さな
+      postiion: 0
+    - word: 手
+      postiion: 3
+    - word: を
+      postiion: 4
+    - word: かけよう
+      base: 掛ける
+      postiion: 5
+    - word: と
+      postiion: 9
+    - word: し
+      base: 為る
+      postiion: 10
+    - word: まし
+      base: ます
+      postiion: 11
+    - word: た
+      postiion: 13
 - id: Okasanno Ochichi-f000014
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: すると、
-  word_list: [する, と]
   sound: f000014.mp3
   sound_begin: 44640
   sound_end: 45720
+  sentence: すると、
+  words:
+    - word: する
+      base: 為る
+      postiion: 0
+    - word: と
+      postiion: 2
 - id: Okasanno Ochichi-f000015
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: 赤ちゃんは、
-  word_list: [赤ちゃん, は]
   sound: f000015.mp3
   sound_begin: 45720
   sound_end: 46986
+  sentence: 赤ちゃんは、
+  words:
+    - word: 赤ちゃん
+      postiion: 0
+    - word: は
+      postiion: 4
 - id: Okasanno Ochichi-f000016
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: 顔を真っ赤にして、
-  word_list: [顔, を, 真っ赤, に, し, て]
   sound: f000016.mp3
   sound_begin: 46986
   sound_end: 49040
+  sentence: 顔を真っ赤にして、
+  words:
+    - word: 顔
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: 真っ赤
+      postiion: 2
+    - word: に
+      base: だ
+      postiion: 5
+    - word: し
+      base: 為る
+      postiion: 6
+    - word: て
+      postiion: 7
 - id: Okasanno Ochichi-f000017
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: かわいらしい頭をふって、
-  word_list: [かわいらしい, 頭, を, ふっ, て]
   sound: f000017.mp3
   sound_begin: 49040
   sound_end: 52065
+  sentence: かわいらしい頭をふって、
+  words:
+    - word: かわいらしい
+      base: 可愛らしい
+      postiion: 0
+    - word: 頭
+      postiion: 6
+    - word: を
+      postiion: 7
+    - word: ふっ
+      base: ふる
+      postiion: 8
+    - word: て
+      postiion: 10
 - id: Okasanno Ochichi-f000018
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: さわってはいけないといって怒りました。
-  word_list: [さわっ, て, は, いけ, ない, と, いっ, て, 怒り, まし, た]
   sound: f000018.mp3
   sound_begin: 52065
   sound_end: 58480
+  sentence: さわってはいけないといって怒りました。
+  words:
+    - word: さわっ
+      base: さわる
+      postiion: 0
+    - word: て
+      postiion: 3
+    - word: は
+      postiion: 4
+    - word: いけ
+      base: 行く
+      postiion: 5
+    - word: ない
+      postiion: 7
+    - word: と
+      postiion: 9
+    - word: いっ
+      base: 言う
+      postiion: 10
+    - word: て
+      postiion: 12
+    - word: 怒り
+      base: 怒る
+      postiion: 13
+    - word: まし
+      base: ます
+      postiion: 15
+    - word: た
+      postiion: 17
 - id: Okasanno Ochichi-f000019
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: 「よし、
-  word_list: [よし]
   sound: f000019.mp3
   sound_begin: 58480
   sound_end: 58840
+  sentence: 「よし、
+  words:
+    - word: よし
+      postiion: 1
 - id: Okasanno Ochichi-f000020
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: よし、
-  word_list: [よし]
   sound: f000020.mp3
   sound_begin: 58840
   sound_end: 59480
+  sentence: よし、
+  words:
+    - word: よし
+      postiion: 0
 - id: Okasanno Ochichi-f000021
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: お兄さん、
-  word_list: [お, 兄さん]
   sound: f000021.mp3
   sound_begin: 59480
   sound_end: 61120
+  sentence: お兄さん、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: 兄さん
+      postiion: 1
 - id: Okasanno Ochichi-f000022
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: おっぱいにさわってはいけませんよ。
-  word_list: [おっぱい, に, さわっ, て, は, いけ, ませ, ん, よ]
   sound: f000022.mp3
   sound_begin: 61120
   sound_end: 64474
+  sentence: おっぱいにさわってはいけませんよ。
+  words:
+    - word: おっぱい
+      postiion: 0
+    - word: に
+      postiion: 4
+    - word: さわっ
+      base: さわる
+      postiion: 5
+    - word: て
+      postiion: 8
+    - word: は
+      postiion: 9
+    - word: いけ
+      base: 行く
+      postiion: 10
+    - word: ませ
+      base: ます
+      postiion: 12
+    - word: ん
+      base: ず
+      postiion: 14
+    - word: よ
+      postiion: 15
 - id: Okasanno Ochichi-f000023
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: これは、
-  word_list: [これ, は]
   sound: f000023.mp3
   sound_begin: 64474
   sound_end: 65519
+  sentence: これは、
+  words:
+    - word: これ
+      base: 此れ
+      postiion: 0
+    - word: は
+      postiion: 2
 - id: Okasanno Ochichi-f000024
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: 赤ちゃんのお乳ですから。
-  word_list: [赤ちゃん, の, お, 乳, です, から]
   sound: f000024.mp3
   sound_begin: 65519
   sound_end: 68670
+  sentence: 赤ちゃんのお乳ですから。
+  words:
+    - word: 赤ちゃん
+      postiion: 0
+    - word: の
+      postiion: 4
+    - word: お
+      base: 御
+      postiion: 5
+    - word: 乳
+      postiion: 6
+    - word: です
+      postiion: 7
+    - word: から
+      postiion: 9
 - id: Okasanno Ochichi-f000025
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: 」と、
-  word_list: [と]
   sound: f000025.mp3
   sound_begin: 68670
   sound_end: 69343
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Okasanno Ochichi-f000026
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: お母さんは、
-  word_list: [お, 母さん, は]
   sound: f000026.mp3
   sound_begin: 69343
   sound_end: 70760
+  sentence: お母さんは、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: 母さん
+      postiion: 1
+    - word: は
+      postiion: 4
 - id: Okasanno Ochichi-f000027
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: 笑いながらいわれました。
-  word_list: [笑い, ながら, いわ, れ, まし, た]
   sound: f000027.mp3
   sound_begin: 70760
   sound_end: 74960
+  sentence: 笑いながらいわれました。
+  words:
+    - word: 笑い
+      base: 笑う
+      postiion: 0
+    - word: ながら
+      postiion: 2
+    - word: いわ
+      base: 言う
+      postiion: 5
+    - word: れ
+      base: れる
+      postiion: 7
+    - word: まし
+      base: ます
+      postiion: 8
+    - word: た
+      postiion: 10
 - id: Okasanno Ochichi-f000028
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: お姉さんも、
-  word_list: [お, 姉さん, も]
   sound: f000028.mp3
   sound_begin: 74960
   sound_end: 76400
+  sentence: お姉さんも、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: 姉さん
+      postiion: 1
+    - word: も
+      postiion: 4
 - id: Okasanno Ochichi-f000029
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: またお兄さんも、
-  word_list: [また, お, 兄さん, も]
   sound: f000029.mp3
   sound_begin: 76400
   sound_end: 77920
+  sentence: またお兄さんも、
+  words:
+    - word: また
+      base: 又
+      postiion: 0
+    - word: お
+      base: 御
+      postiion: 2
+    - word: 兄さん
+      postiion: 3
+    - word: も
+      postiion: 6
 - id: Okasanno Ochichi-f000030
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: 笑いましたが、
-  word_list: [笑い, まし, た, が]
   sound: f000030.mp3
   sound_begin: 77920
   sound_end: 79680
+  sentence: 笑いましたが、
+  words:
+    - word: 笑い
+      base: 笑う
+      postiion: 0
+    - word: まし
+      base: ます
+      postiion: 2
+    - word: た
+      postiion: 4
+    - word: が
+      postiion: 5
 - id: Okasanno Ochichi-f000031
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: お兄さんは、
-  word_list: [お, 兄さん, は]
   sound: f000031.mp3
   sound_begin: 79680
   sound_end: 81080
+  sentence: お兄さんは、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: 兄さん
+      postiion: 1
+    - word: は
+      postiion: 4
 - id: Okasanno Ochichi-f000032
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: なんとなくさびしそうでした。
-  word_list: [なん, と, なく, さびし, そう, でし, た]
   sound: f000032.mp3
   sound_begin: 81080
   sound_end: 85007
+  sentence: なんとなくさびしそうでした。
+  words:
+    - word: なん
+      base: 何
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: なく
+      base: 無い
+      postiion: 3
+    - word: さびし
+      base: 寂しい
+      postiion: 5
+    - word: そう
+      postiion: 8
+    - word: でし
+      base: です
+      postiion: 10
+    - word: た
+      postiion: 12
 - id: Okasanno Ochichi-f000033
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: そして、
-  word_list: [そして]
   sound: f000033.mp3
   sound_begin: 85007
   sound_end: 86240
+  sentence: そして、
+  words:
+    - word: そして
+      postiion: 0
 - id: Okasanno Ochichi-f000034
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: お母さんに向かって、
-  word_list: [お, 母さん, に, 向かっ, て]
   sound: f000034.mp3
   sound_begin: 86240
   sound_end: 88840
+  sentence: お母さんに向かって、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: 母さん
+      postiion: 1
+    - word: に
+      postiion: 4
+    - word: 向かっ
+      base: 向かう
+      postiion: 5
+    - word: て
+      postiion: 8
 - id: Okasanno Ochichi-f000035
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: 「お母さん、
-  word_list: [お, 母さん]
   sound: f000035.mp3
   sound_begin: 88840
   sound_end: 90280
+  sentence: 「お母さん、
+  words:
+    - word: お
+      base: 御
+      postiion: 1
+    - word: 母さん
+      postiion: 2
 - id: Okasanno Ochichi-f000036
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: 赤ちゃんは、
-  word_list: [赤ちゃん, は]
   sound: f000036.mp3
   sound_begin: 90280
   sound_end: 91680
+  sentence: 赤ちゃんは、
+  words:
+    - word: 赤ちゃん
+      postiion: 0
+    - word: は
+      postiion: 4
 - id: Okasanno Ochichi-f000037
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: いじわるですねえ。
-  word_list: [いじわる, です, ねえ]
   sound: f000037.mp3
   sound_begin: 91680
   sound_end: 93914
+  sentence: いじわるですねえ。
+  words:
+    - word: いじわる
+      base: 意地悪
+      postiion: 0
+    - word: です
+      postiion: 4
+    - word: ねえ
+      base: ね
+      postiion: 6
 - id: Okasanno Ochichi-f000038
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: 」といいました。
-  word_list: [と, いい, まし, た]
   sound: f000038.mp3
   sound_begin: 93914
   sound_end: 96874
+  sentence: 」といいました。
+  words:
+    - word: と
+      postiion: 1
+    - word: いい
+      base: 言う
+      postiion: 2
+    - word: まし
+      base: ます
+      postiion: 4
+    - word: た
+      postiion: 6
 - id: Okasanno Ochichi-f000039
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: 「坊やも、
-  word_list: [坊や, も]
   sound: f000039.mp3
   sound_begin: 96874
   sound_end: 98120
+  sentence: 「坊やも、
+  words:
+    - word: 坊や
+      postiion: 1
+    - word: も
+      postiion: 3
 - id: Okasanno Ochichi-f000040
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: 赤ちゃんの時分は、
-  word_list: [赤ちゃん, の, 時分, は]
   sound: f000040.mp3
   sound_begin: 98120
   sound_end: 100120
+  sentence: 赤ちゃんの時分は、
+  words:
+    - word: 赤ちゃん
+      postiion: 0
+    - word: の
+      postiion: 4
+    - word: 時分
+      postiion: 5
+    - word: は
+      postiion: 7
 - id: Okasanno Ochichi-f000041
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: やはりおなじだったのだよ。」
-  word_list: [やはり, おなじ, だっ, た, の, だ, よ]
   sound: f000041.mp3
   sound_begin: 100120
   sound_end: 103840
+  sentence: やはりおなじだったのだよ。」
+  words:
+    - word: やはり
+      base: 矢張り
+      postiion: 0
+    - word: おなじ
+      base: 同じ
+      postiion: 3
+    - word: だっ
+      base: だ
+      postiion: 6
+    - word: た
+      postiion: 8
+    - word: の
+      postiion: 9
+    - word: だ
+      postiion: 10
+    - word: よ
+      postiion: 11
 - id: Okasanno Ochichi-f000042
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: 「お母さん、
-  word_list: [お, 母さん]
   sound: f000042.mp3
   sound_begin: 103840
   sound_end: 105287
+  sentence: 「お母さん、
+  words:
+    - word: お
+      base: 御
+      postiion: 1
+    - word: 母さん
+      postiion: 2
 - id: Okasanno Ochichi-f000043
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: 僕もこんなに、
-  word_list: [僕, も, こんな, に]
   sound: f000043.mp3
   sound_begin: 105287
   sound_end: 107280
+  sentence: 僕もこんなに、
+  words:
+    - word: 僕
+      postiion: 0
+    - word: も
+      postiion: 1
+    - word: こんな
+      postiion: 2
+    - word: に
+      base: だ
+      postiion: 5
 - id: Okasanno Ochichi-f000044
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: いじわるだったの？」
-  word_list: [いじわる, だっ, た, の]
   sound: f000044.mp3
   sound_begin: 107280
   sound_end: 110800
+  sentence: いじわるだったの？」
+  words:
+    - word: いじわる
+      base: 意地悪
+      postiion: 0
+    - word: だっ
+      base: だ
+      postiion: 4
+    - word: た
+      postiion: 6
+    - word: の
+      postiion: 7
 - id: Okasanno Ochichi-f000045
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: 「赤ちゃんが生まれるまでは、
-  word_list: [赤ちゃん, が, 生まれる, まで, は]
   sound: f000045.mp3
   sound_begin: 110800
   sound_end: 113440
+  sentence: 「赤ちゃんが生まれるまでは、
+  words:
+    - word: 赤ちゃん
+      postiion: 1
+    - word: が
+      postiion: 5
+    - word: 生まれる
+      postiion: 6
+    - word: まで
+      postiion: 10
+    - word: は
+      postiion: 12
 - id: Okasanno Ochichi-f000046
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: 坊やが、
-  word_list: [坊や, が]
   sound: f000046.mp3
   sound_begin: 113440
   sound_end: 114680
+  sentence: 坊やが、
+  words:
+    - word: 坊や
+      postiion: 0
+    - word: が
+      postiion: 2
 - id: Okasanno Ochichi-f000047
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: 毎日こうして、
-  word_list: [毎日, こう, し, て]
   sound: f000047.mp3
   sound_begin: 114680
   sound_end: 116200
+  sentence: 毎日こうして、
+  words:
+    - word: 毎日
+      postiion: 0
+    - word: こう
+      postiion: 2
+    - word: し
+      base: 為る
+      postiion: 4
+    - word: て
+      postiion: 5
 - id: Okasanno Ochichi-f000048
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: 母さんのおっぱいにぶらさがっていたの。
-  word_list: [母さん, の, おっぱい, に, ぶらさがっ, て, い, た, の]
   sound: f000048.mp3
   sound_begin: 116200
   sound_end: 120720
+  sentence: 母さんのおっぱいにぶらさがっていたの。
+  words:
+    - word: 母さん
+      postiion: 0
+    - word: の
+      postiion: 3
+    - word: おっぱい
+      postiion: 4
+    - word: に
+      postiion: 8
+    - word: ぶらさがっ
+      base: ぶら下がる
+      postiion: 9
+    - word: て
+      postiion: 14
+    - word: い
+      base: 居る
+      postiion: 15
+    - word: た
+      postiion: 16
+    - word: の
+      postiion: 17
 - id: Okasanno Ochichi-f000049
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: そしてお姉ちゃんが手を出そうものなら、
-  word_list: [そして, お, 姉ちゃん, が, 手, を, 出そう, もの, なら]
   sound: f000049.mp3
   sound_begin: 120720
   sound_end: 125360
+  sentence: そしてお姉ちゃんが手を出そうものなら、
+  words:
+    - word: そして
+      postiion: 0
+    - word: お
+      base: 御
+      postiion: 3
+    - word: 姉ちゃん
+      postiion: 4
+    - word: が
+      postiion: 8
+    - word: 手
+      postiion: 9
+    - word: を
+      postiion: 10
+    - word: 出そう
+      base: 出す
+      postiion: 11
+    - word: もの
+      base: 物
+      postiion: 14
+    - word: なら
+      base: だ
+      postiion: 16
 - id: Okasanno Ochichi-f000050
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: やはり、
-  word_list: [やはり]
   sound: f000050.mp3
   sound_begin: 125360
   sound_end: 125840
+  sentence: やはり、
+  words:
+    - word: やはり
+      base: 矢張り
+      postiion: 0
 - id: Okasanno Ochichi-f000051
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: こうして顔を真っ赤にして怒ったの……。
-  word_list: [こう, し, て, 顔, を, 真っ赤, に, し, て, 怒っ, た, の]
   sound: f000051.mp3
   sound_begin: 125840
   sound_end: 132230
+  sentence: こうして顔を真っ赤にして怒ったの……。
+  words:
+    - word: こう
+      postiion: 0
+    - word: し
+      base: 為る
+      postiion: 2
+    - word: て
+      postiion: 3
+    - word: 顔
+      postiion: 4
+    - word: を
+      postiion: 5
+    - word: 真っ赤
+      postiion: 6
+    - word: に
+      base: だ
+      postiion: 9
+    - word: し
+      base: 為る
+      postiion: 10
+    - word: て
+      postiion: 11
+    - word: 怒っ
+      base: 怒る
+      postiion: 12
+    - word: た
+      postiion: 14
+    - word: の
+      postiion: 15
 - id: Okasanno Ochichi-f000052
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: このお乳のまわりには、
-  word_list: [この, お, 乳, の, まわり, に, は]
   sound: f000052.mp3
   sound_begin: 132230
   sound_end: 134880
+  sentence: このお乳のまわりには、
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: お
+      base: 御
+      postiion: 2
+    - word: 乳
+      postiion: 3
+    - word: の
+      postiion: 4
+    - word: まわり
+      base: 周り
+      postiion: 5
+    - word: に
+      postiion: 8
+    - word: は
+      postiion: 9
 - id: Okasanno Ochichi-f000053
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: みんなの唇の跡が、
-  word_list: [みんな, の, 唇, の, 跡, が]
   sound: f000053.mp3
   sound_begin: 134880
   sound_end: 137040
+  sentence: みんなの唇の跡が、
+  words:
+    - word: みんな
+      base: 皆
+      postiion: 0
+    - word: の
+      postiion: 3
+    - word: 唇
+      postiion: 4
+    - word: の
+      postiion: 5
+    - word: 跡
+      postiion: 6
+    - word: が
+      postiion: 7
 - id: Okasanno Ochichi-f000054
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: 数かぎりなくついているのです。
-  word_list: [数, かぎりなく, つい, て, いる, の, です]
   sound: f000054.mp3
   sound_begin: 137040
   sound_end: 141947
+  sentence: 数かぎりなくついているのです。
+  words:
+    - word: 数
+      postiion: 0
+    - word: かぎりなく
+      base: 限り無い
+      postiion: 1
+    - word: つい
+      base: 付く
+      postiion: 6
+    - word: て
+      postiion: 8
+    - word: いる
+      base: 居る
+      postiion: 9
+    - word: の
+      postiion: 11
+    - word: です
+      postiion: 12
 - id: Okasanno Ochichi-f000055
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: 」と、
-  word_list: [と]
   sound: f000055.mp3
   sound_begin: 141947
   sound_end: 142640
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Okasanno Ochichi-f000056
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: お母さんはいわれました。
-  word_list: [お, 母さん, は, いわ, れ, まし, た]
   sound: f000056.mp3
   sound_begin: 142640
   sound_end: 146447
+  sentence: お母さんはいわれました。
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: 母さん
+      postiion: 1
+    - word: は
+      postiion: 4
+    - word: いわ
+      base: 言う
+      postiion: 5
+    - word: れ
+      base: れる
+      postiion: 7
+    - word: まし
+      base: ます
+      postiion: 8
+    - word: た
+      postiion: 10
 - id: Okasanno Ochichi-f000057
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: このお話を聞くと、
-  word_list: [この, お, 話, を, 聞く, と]
   sound: f000057.mp3
   sound_begin: 146447
   sound_end: 148840
+  sentence: このお話を聞くと、
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: お
+      base: 御
+      postiion: 2
+    - word: 話
+      postiion: 3
+    - word: を
+      postiion: 4
+    - word: 聞く
+      postiion: 5
+    - word: と
+      postiion: 7
 - id: Okasanno Ochichi-f000058
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: お姉さんも、
-  word_list: [お, 姉さん, も]
   sound: f000058.mp3
   sound_begin: 148840
   sound_end: 150240
+  sentence: お姉さんも、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: 姉さん
+      postiion: 1
+    - word: も
+      postiion: 4
 - id: Okasanno Ochichi-f000059
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: そうであったかというように、
-  word_list: [そう, で, あっ, た, か, と, いう, よう, に]
   sound: f000059.mp3
   sound_begin: 150240
   sound_end: 152320
+  sentence: そうであったかというように、
+  words:
+    - word: そう
+      postiion: 0
+    - word: で
+      base: だ
+      postiion: 2
+    - word: あっ
+      base: 有る
+      postiion: 3
+    - word: た
+      postiion: 5
+    - word: か
+      postiion: 6
+    - word: と
+      postiion: 7
+    - word: いう
+      base: 言う
+      postiion: 8
+    - word: よう
+      base: 様
+      postiion: 10
+    - word: に
+      base: だ
+      postiion: 12
 - id: Okasanno Ochichi-f000060
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: かわいらしい目を輝かしました。
-  word_list: [かわいらしい, 目, を, 輝かし, まし, た]
   sound: f000060.mp3
   sound_begin: 152320
   sound_end: 157480
+  sentence: かわいらしい目を輝かしました。
+  words:
+    - word: かわいらしい
+      base: 可愛らしい
+      postiion: 0
+    - word: 目
+      postiion: 6
+    - word: を
+      postiion: 7
+    - word: 輝かし
+      base: 輝く
+      postiion: 8
+    - word: まし
+      base: ます
+      postiion: 11
+    - word: た
+      postiion: 13
 - id: Okasanno Ochichi-f000061
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: しかし、
-  word_list: [しかし]
   sound: f000061.mp3
   sound_begin: 157480
   sound_end: 158760
+  sentence: しかし、
+  words:
+    - word: しかし
+      base: 然し
+      postiion: 0
 - id: Okasanno Ochichi-f000062
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: お姉さんも、
-  word_list: [お, 姉さん, も]
   sound: f000062.mp3
   sound_begin: 158760
   sound_end: 160560
+  sentence: お姉さんも、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: 姉さん
+      postiion: 1
+    - word: も
+      postiion: 4
 - id: Okasanno Ochichi-f000063
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: お兄さんも、
-  word_list: [お, 兄さん, も]
   sound: f000063.mp3
   sound_begin: 160560
   sound_end: 162159
+  sentence: お兄さんも、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: 兄さん
+      postiion: 1
+    - word: も
+      postiion: 4
 - id: Okasanno Ochichi-f000064
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: そんなにして毎日飲んだ、
-  word_list: [そんな, に, し, て, 毎日, 飲ん, だ]
   sound: f000064.mp3
   sound_begin: 162159
   sound_end: 164800
+  sentence: そんなにして毎日飲んだ、
+  words:
+    - word: そんな
+      postiion: 0
+    - word: に
+      base: だ
+      postiion: 3
+    - word: し
+      base: 為る
+      postiion: 4
+    - word: て
+      postiion: 5
+    - word: 毎日
+      postiion: 6
+    - word: 飲ん
+      base: 飲む
+      postiion: 8
+    - word: だ
+      base: た
+      postiion: 10
 - id: Okasanno Ochichi-f000065
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: お乳の味を忘れてしまって、
-  word_list: [お, 乳, の, 味, を, 忘れ, て, しまっ, て]
   sound: f000065.mp3
   sound_begin: 164800
   sound_end: 168195
+  sentence: お乳の味を忘れてしまって、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: 乳
+      postiion: 1
+    - word: の
+      postiion: 2
+    - word: 味
+      postiion: 3
+    - word: を
+      postiion: 4
+    - word: 忘れ
+      base: 忘れる
+      postiion: 5
+    - word: て
+      postiion: 7
+    - word: しまっ
+      base: 仕舞う
+      postiion: 8
+    - word: て
+      postiion: 11
 - id: Okasanno Ochichi-f000066
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: ただお乳を見ると恋しいばかり。
-  word_list: [ただ, お, 乳, を, 見る, と, 恋しい, ばかり]
   sound: f000066.mp3
   sound_begin: 168195
   sound_end: 172920
+  sentence: ただお乳を見ると恋しいばかり。
+  words:
+    - word: ただ
+      base: 唯
+      postiion: 0
+    - word: お
+      base: 御
+      postiion: 2
+    - word: 乳
+      postiion: 3
+    - word: を
+      postiion: 4
+    - word: 見る
+      postiion: 5
+    - word: と
+      postiion: 7
+    - word: 恋しい
+      postiion: 8
+    - word: ばかり
+      postiion: 11
 - id: Okasanno Ochichi-f000067
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: 赤ちゃんだけが、
-  word_list: [赤ちゃん, だけ, が]
   sound: f000067.mp3
   sound_begin: 172920
   sound_end: 174680
+  sentence: 赤ちゃんだけが、
+  words:
+    - word: 赤ちゃん
+      postiion: 0
+    - word: だけ
+      postiion: 4
+    - word: が
+      postiion: 6
 - id: Okasanno Ochichi-f000068
   author_japanese: 小川 未明
   deck_name: Okasanno Ochichi
   deck_name_japanese: お母さんのお乳
-  sentence: お乳の味を知っていました。
-  word_list: [お, 乳, の, 味, を, 知っ, て, い, まし, た]
   sound: f000068.mp3
   sound_begin: 174680
   sound_end: 180040
+  sentence: お乳の味を知っていました。
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: 乳
+      postiion: 1
+    - word: の
+      postiion: 2
+    - word: 味
+      postiion: 3
+    - word: を
+      postiion: 4
+    - word: 知っ
+      base: 知る
+      postiion: 5
+    - word: て
+      postiion: 7
+    - word: い
+      base: 居る
+      postiion: 8
+    - word: まし
+      base: ます
+      postiion: 9
+    - word: た
+      postiion: 11

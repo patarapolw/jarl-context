@@ -2,611 +2,1685 @@
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: 去年の木
-  word_list: [去年, の, 木]
   sound: f000002.mp3
   sound_begin: 7611
   sound_end: 12080
+  sentence: 去年の木
+  words:
+    - word: 去年
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 木
+      postiion: 3
 - id: Kyonenno Ki-f000003
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: いっぽんの木と、
-  word_list: [いっぽん, の, 木, と]
   sound: f000003.mp3
   sound_begin: 12080
   sound_end: 13640
+  sentence: いっぽんの木と、
+  words:
+    - word: いっぽん
+      base: 一本
+      postiion: 0
+    - word: の
+      postiion: 4
+    - word: 木
+      postiion: 5
+    - word: と
+      postiion: 6
 - id: Kyonenno Ki-f000004
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: いちわの小鳥とはたいへんなかよしでした。
-  word_list: [いち, わ, の, 小鳥, と, は, たいへん, なかよし, でし, た]
   sound: f000004.mp3
   sound_begin: 13640
   sound_end: 18279
+  sentence: いちわの小鳥とはたいへんなかよしでした。
+  words:
+    - word: いち
+      base: 一
+      postiion: 0
+    - word: わ
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: 小鳥
+      postiion: 4
+    - word: と
+      postiion: 6
+    - word: は
+      postiion: 7
+    - word: たいへん
+      base: 大変
+      postiion: 8
+    - word: なかよし
+      base: 仲良し
+      postiion: 12
+    - word: でし
+      base: です
+      postiion: 16
+    - word: た
+      postiion: 18
 - id: Kyonenno Ki-f000005
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: 小鳥はいちんちその木の枝で歌をうたい、
-  word_list: [小鳥, は, い, ちん, ち, その, 木, の, 枝, で, 歌, を, うたい]
   sound: f000005.mp3
   sound_begin: 18279
   sound_end: 22428
+  sentence: 小鳥はいちんちその木の枝で歌をうたい、
+  words:
+    - word: 小鳥
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: い
+      base: いー
+      postiion: 3
+    - word: ちん
+      postiion: 4
+    - word: ち
+      base: ちっ
+      postiion: 4
+    - word: その
+      base: 其の
+      postiion: 7
+    - word: 木
+      postiion: 9
+    - word: の
+      postiion: 10
+    - word: 枝
+      postiion: 11
+    - word: で
+      postiion: 12
+    - word: 歌
+      postiion: 13
+    - word: を
+      postiion: 14
+    - word: うたい
+      base: 歌う
+      postiion: 15
 - id: Kyonenno Ki-f000006
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: 木はいちんちじゅう小鳥の歌をきいていました。
-  word_list: [木, は, いち, ん, ち, じゅう, 小鳥, の, 歌, を, きい, て, い, まし, た]
   sound: f000006.mp3
   sound_begin: 22428
   sound_end: 26040
+  sentence: 木はいちんちじゅう小鳥の歌をきいていました。
+  words:
+    - word: 木
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: いち
+      base: 一
+      postiion: 2
+    - word: ん
+      postiion: 4
+    - word: ち
+      postiion: 5
+    - word: じゅう
+      base: 中
+      postiion: 6
+    - word: 小鳥
+      postiion: 9
+    - word: の
+      postiion: 11
+    - word: 歌
+      postiion: 12
+    - word: を
+      postiion: 13
+    - word: きい
+      base: きく
+      postiion: 14
+    - word: て
+      postiion: 16
+    - word: い
+      base: 居る
+      postiion: 17
+    - word: まし
+      base: ます
+      postiion: 18
+    - word: た
+      postiion: 20
 - id: Kyonenno Ki-f000007
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: けれど寒い冬がちかづいてきたので、
-  word_list: [けれど, 寒い, 冬, が, ちかづい, て, き, た, の, で]
   sound: f000007.mp3
   sound_begin: 28040
   sound_end: 30960
+  sentence: けれど寒い冬がちかづいてきたので、
+  words:
+    - word: けれど
+      postiion: 0
+    - word: 寒い
+      postiion: 3
+    - word: 冬
+      postiion: 5
+    - word: が
+      postiion: 6
+    - word: ちかづい
+      base: 近付く
+      postiion: 7
+    - word: て
+      postiion: 11
+    - word: き
+      base: 来る
+      postiion: 12
+    - word: た
+      postiion: 13
+    - word: の
+      postiion: 14
+    - word: で
+      base: だ
+      postiion: 15
 - id: Kyonenno Ki-f000008
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: 小鳥は木からわかれてゆかねばなりませんでした。
-  word_list: [小鳥, は, 木, から, わかれ, て, ゆか, ね, ば, なり, ませ, ん, でし, た]
   sound: f000008.mp3
   sound_begin: 30960
   sound_end: 34980
+  sentence: 小鳥は木からわかれてゆかねばなりませんでした。
+  words:
+    - word: 小鳥
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: 木
+      postiion: 3
+    - word: から
+      postiion: 4
+    - word: わかれ
+      base: わかれる
+      postiion: 6
+    - word: て
+      postiion: 9
+    - word: ゆか
+      base: 行く
+      postiion: 10
+    - word: ね
+      base: ず
+      postiion: 12
+    - word: ば
+      postiion: 13
+    - word: なり
+      base: 成る
+      postiion: 14
+    - word: ませ
+      base: ます
+      postiion: 16
+    - word: ん
+      base: ず
+      postiion: 18
+    - word: でし
+      base: です
+      postiion: 19
+    - word: た
+      postiion: 21
 - id: Kyonenno Ki-f000009
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: 「さよなら。
-  word_list: [さよなら]
   sound: f000009.mp3
   sound_begin: 37080
   sound_end: 38880
+  sentence: 「さよなら。
+  words:
+    - word: さよなら
+      base: さようなら
+      postiion: 1
 - id: Kyonenno Ki-f000010
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: また来年きて、
-  word_list: [また, 来年, き, て]
   sound: f000010.mp3
   sound_begin: 38880
   sound_end: 40800
+  sentence: また来年きて、
+  words:
+    - word: また
+      base: 又
+      postiion: 0
+    - word: 来年
+      postiion: 2
+    - word: き
+      base: 来る
+      postiion: 4
+    - word: て
+      postiion: 5
 - id: Kyonenno Ki-f000011
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: 歌をきかせてください。」
-  word_list: [歌, を, きか, せ, て, ください]
   sound: f000011.mp3
   sound_begin: 40800
   sound_end: 44155
+  sentence: 歌をきかせてください。」
+  words:
+    - word: 歌
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: きか
+      base: きく
+      postiion: 2
+    - word: せ
+      base: せる
+      postiion: 4
+    - word: て
+      postiion: 5
+    - word: ください
+      base: 下さる
+      postiion: 6
 - id: Kyonenno Ki-f000012
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: と木はいいました。
-  word_list: [と, 木, は, いい, まし, た]
   sound: f000012.mp3
   sound_begin: 44155
   sound_end: 47855
+  sentence: と木はいいました。
+  words:
+    - word: と
+      postiion: 0
+    - word: 木
+      postiion: 1
+    - word: は
+      postiion: 2
+    - word: いい
+      base: 言う
+      postiion: 3
+    - word: まし
+      base: ます
+      postiion: 5
+    - word: た
+      postiion: 7
 - id: Kyonenno Ki-f000013
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: 「え。
-  word_list: [え]
   sound: f000013.mp3
   sound_begin: 47855
   sound_end: 48318
+  sentence: 「え。
+  words:
+    - word: え
+      base: えっ
+      postiion: 1
 - id: Kyonenno Ki-f000014
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: それまで待っててね。」
-  word_list: [それ, まで, 待っ, て, て, ね]
   sound: f000014.mp3
   sound_begin: 49360
   sound_end: 52243
+  sentence: それまで待っててね。」
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: まで
+      postiion: 2
+    - word: 待っ
+      base: 待つ
+      postiion: 4
+    - word: て
+      base: てる
+      postiion: 6
+    - word: て
+      postiion: 6
+    - word: ね
+      postiion: 8
 - id: Kyonenno Ki-f000015
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: と、
-  word_list: [と]
   sound: f000015.mp3
   sound_begin: 52243
   sound_end: 52916
+  sentence: と、
+  words:
+    - word: と
+      postiion: 0
 - id: Kyonenno Ki-f000016
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: 小鳥はいって、
-  word_list: [小鳥, は, いっ, て]
   sound: f000016.mp3
   sound_begin: 52916
   sound_end: 54520
+  sentence: 小鳥はいって、
+  words:
+    - word: 小鳥
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: いっ
+      base: 言う
+      postiion: 3
+    - word: て
+      postiion: 5
 - id: Kyonenno Ki-f000017
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: 南の方へとんでゆきました。
-  word_list: [南, の, 方, へ, とん, で, ゆき, まし, た]
   sound: f000017.mp3
   sound_begin: 54520
   sound_end: 58880
+  sentence: 南の方へとんでゆきました。
+  words:
+    - word: 南
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 方
+      postiion: 2
+    - word: へ
+      postiion: 3
+    - word: とん
+      base: 飛ぶ
+      postiion: 4
+    - word: で
+      postiion: 6
+    - word: ゆき
+      base: 行く
+      postiion: 7
+    - word: まし
+      base: ます
+      postiion: 9
+    - word: た
+      postiion: 11
 - id: Kyonenno Ki-f000018
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: 春がめぐってきました。
-  word_list: [春, が, めぐっ, て, き, まし, た]
   sound: f000018.mp3
   sound_begin: 58880
   sound_end: 61160
+  sentence: 春がめぐってきました。
+  words:
+    - word: 春
+      postiion: 0
+    - word: が
+      postiion: 1
+    - word: めぐっ
+      base: 巡る
+      postiion: 2
+    - word: て
+      postiion: 5
+    - word: き
+      base: 来る
+      postiion: 6
+    - word: まし
+      base: ます
+      postiion: 7
+    - word: た
+      postiion: 9
 - id: Kyonenno Ki-f000019
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: 野や森から、
-  word_list: [野, や, 森, から]
   sound: f000019.mp3
   sound_begin: 61160
   sound_end: 61960
+  sentence: 野や森から、
+  words:
+    - word: 野
+      postiion: 0
+    - word: や
+      postiion: 1
+    - word: 森
+      postiion: 2
+    - word: から
+      postiion: 3
 - id: Kyonenno Ki-f000020
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: 雪がきえていきました。
-  word_list: [雪, が, きえ, て, いき, まし, た]
   sound: f000020.mp3
   sound_begin: 61960
   sound_end: 64438
+  sentence: 雪がきえていきました。
+  words:
+    - word: 雪
+      postiion: 0
+    - word: が
+      postiion: 1
+    - word: きえ
+      base: 消える
+      postiion: 2
+    - word: て
+      postiion: 4
+    - word: いき
+      base: 行く
+      postiion: 5
+    - word: まし
+      base: ます
+      postiion: 7
+    - word: た
+      postiion: 9
 - id: Kyonenno Ki-f000021
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: 小鳥は、
-  word_list: [小鳥, は]
   sound: f000021.mp3
   sound_begin: 64438
   sound_end: 65519
+  sentence: 小鳥は、
+  words:
+    - word: 小鳥
+      postiion: 0
+    - word: は
+      postiion: 2
 - id: Kyonenno Ki-f000022
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: なかよしの去年の木のところへまたかえっていきました。
-  word_list: [なかよし, の, 去年, の, 木, の, ところ, へ, また, かえっ, て, いき, まし, た]
   sound: f000022.mp3
   sound_begin: 65519
   sound_end: 69440
+  sentence: なかよしの去年の木のところへまたかえっていきました。
+  words:
+    - word: なかよし
+      base: 仲良し
+      postiion: 0
+    - word: の
+      postiion: 4
+    - word: 去年
+      postiion: 5
+    - word: の
+      postiion: 7
+    - word: 木
+      postiion: 8
+    - word: の
+      postiion: 9
+    - word: ところ
+      base: 所
+      postiion: 10
+    - word: へ
+      postiion: 13
+    - word: また
+      base: 又
+      postiion: 14
+    - word: かえっ
+      base: かえる
+      postiion: 16
+    - word: て
+      postiion: 19
+    - word: いき
+      base: 行く
+      postiion: 20
+    - word: まし
+      base: ます
+      postiion: 22
+    - word: た
+      postiion: 24
 - id: Kyonenno Ki-f000023
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: ところが、
-  word_list: [ところ, が]
   sound: f000023.mp3
   sound_begin: 71240
   sound_end: 72862
+  sentence: ところが、
+  words:
+    - word: ところ
+      base: 所
+      postiion: 0
+    - word: が
+      postiion: 3
 - id: Kyonenno Ki-f000024
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: これはどうしたことでしょう。
-  word_list: [これ, は, どう, し, た, こと, でしょう]
   sound: f000024.mp3
   sound_begin: 72862
   sound_end: 75946
+  sentence: これはどうしたことでしょう。
+  words:
+    - word: これ
+      base: 此れ
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: どう
+      postiion: 3
+    - word: し
+      base: 為る
+      postiion: 5
+    - word: た
+      postiion: 6
+    - word: こと
+      postiion: 7
+    - word: でしょう
+      base: です
+      postiion: 9
 - id: Kyonenno Ki-f000025
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: 木はそこにありませんでした。
-  word_list: [木, は, そこ, に, あり, ませ, ん, でし, た]
   sound: f000025.mp3
   sound_begin: 75946
   sound_end: 79752
+  sentence: 木はそこにありませんでした。
+  words:
+    - word: 木
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: そこ
+      base: 其処
+      postiion: 2
+    - word: に
+      postiion: 4
+    - word: あり
+      base: 有る
+      postiion: 5
+    - word: ませ
+      base: ます
+      postiion: 7
+    - word: ん
+      base: ず
+      postiion: 9
+    - word: でし
+      base: です
+      postiion: 10
+    - word: た
+      postiion: 12
 - id: Kyonenno Ki-f000026
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: 根っこだけがのこっていました。
-  word_list: [根っこ, だけ, が, のこっ, て, い, まし, た]
   sound: f000026.mp3
   sound_begin: 79752
   sound_end: 83280
+  sentence: 根っこだけがのこっていました。
+  words:
+    - word: 根っこ
+      base: 根っ子
+      postiion: 0
+    - word: だけ
+      postiion: 3
+    - word: が
+      postiion: 5
+    - word: のこっ
+      base: 残る
+      postiion: 6
+    - word: て
+      postiion: 9
+    - word: い
+      base: 居る
+      postiion: 10
+    - word: まし
+      base: ます
+      postiion: 11
+    - word: た
+      postiion: 13
 - id: Kyonenno Ki-f000027
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: 「ここに立ってた木は、
-  word_list: [ここ, に, 立っ, て, た, 木, は]
   sound: f000027.mp3
   sound_begin: 85180
   sound_end: 86680
+  sentence: 「ここに立ってた木は、
+  words:
+    - word: ここ
+      base: 此処
+      postiion: 1
+    - word: に
+      postiion: 3
+    - word: 立っ
+      base: 立つ
+      postiion: 4
+    - word: て
+      base: てる
+      postiion: 6
+    - word: た
+      postiion: 7
+    - word: 木
+      postiion: 8
+    - word: は
+      postiion: 9
 - id: Kyonenno Ki-f000028
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: どこへいったの。」
-  word_list: [どこ, へ, いっ, た, の]
   sound: f000028.mp3
   sound_begin: 86680
   sound_end: 88513
+  sentence: どこへいったの。」
+  words:
+    - word: どこ
+      postiion: 0
+    - word: へ
+      postiion: 2
+    - word: いっ
+      base: 行く
+      postiion: 3
+    - word: た
+      postiion: 5
+    - word: の
+      postiion: 6
 - id: Kyonenno Ki-f000029
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: と小鳥は根っこにききました。
-  word_list: [と, 小鳥, は, 根っこ, に, きき, まし, た]
   sound: f000029.mp3
   sound_begin: 88513
   sound_end: 92560
+  sentence: と小鳥は根っこにききました。
+  words:
+    - word: と
+      postiion: 0
+    - word: 小鳥
+      postiion: 1
+    - word: は
+      postiion: 3
+    - word: 根っこ
+      base: 根っ子
+      postiion: 4
+    - word: に
+      postiion: 7
+    - word: きき
+      base: きく
+      postiion: 8
+    - word: まし
+      base: ます
+      postiion: 10
+    - word: た
+      postiion: 12
 - id: Kyonenno Ki-f000030
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: 根っこは、
-  word_list: [根っこ, は]
   sound: f000030.mp3
   sound_begin: 92560
   sound_end: 94716
+  sentence: 根っこは、
+  words:
+    - word: 根っこ
+      base: 根っ子
+      postiion: 0
+    - word: は
+      postiion: 3
 - id: Kyonenno Ki-f000031
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: 「きこりが斧でうちたおして、
-  word_list: [きこり, が, 斧, で, うち, たおし, て]
   sound: f000031.mp3
   sound_begin: 94716
   sound_end: 98900
+  sentence: 「きこりが斧でうちたおして、
+  words:
+    - word: きこり
+      base: 木こり
+      postiion: 1
+    - word: が
+      postiion: 4
+    - word: 斧
+      postiion: 5
+    - word: で
+      postiion: 6
+    - word: うち
+      base: 打つ
+      postiion: 7
+    - word: たおし
+      base: 倒す
+      postiion: 9
+    - word: て
+      postiion: 12
 - id: Kyonenno Ki-f000032
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: 谷のほうへもっていっちゃったよ。」
-  word_list: [谷, の, ほう, へ, もっ, て, いっ, ちゃっ, た, よ]
   sound: f000032.mp3
   sound_begin: 98900
   sound_end: 103617
+  sentence: 谷のほうへもっていっちゃったよ。」
+  words:
+    - word: 谷
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: ほう
+      base: 方
+      postiion: 2
+    - word: へ
+      postiion: 4
+    - word: もっ
+      base: 持つ
+      postiion: 5
+    - word: て
+      postiion: 7
+    - word: いっ
+      base: 行く
+      postiion: 8
+    - word: ちゃっ
+      base: ちゃう
+      postiion: 10
+    - word: た
+      postiion: 13
+    - word: よ
+      postiion: 14
 - id: Kyonenno Ki-f000033
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: といいました。
-  word_list: [と, いい, まし, た]
   sound: f000033.mp3
   sound_begin: 103617
   sound_end: 105579
+  sentence: といいました。
+  words:
+    - word: と
+      postiion: 0
+    - word: いい
+      base: 言う
+      postiion: 1
+    - word: まし
+      base: ます
+      postiion: 3
+    - word: た
+      postiion: 5
 - id: Kyonenno Ki-f000034
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: 小鳥は谷のほうへとんでいきました。
-  word_list: [小鳥, は, 谷, の, ほう, へ, とん, で, いき, まし, た]
   sound: f000034.mp3
   sound_begin: 105579
   sound_end: 109104
+  sentence: 小鳥は谷のほうへとんでいきました。
+  words:
+    - word: 小鳥
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: 谷
+      postiion: 3
+    - word: の
+      postiion: 4
+    - word: ほう
+      base: 方
+      postiion: 5
+    - word: へ
+      postiion: 7
+    - word: とん
+      base: 飛ぶ
+      postiion: 8
+    - word: で
+      postiion: 10
+    - word: いき
+      base: 行く
+      postiion: 11
+    - word: まし
+      base: ます
+      postiion: 13
+    - word: た
+      postiion: 15
 - id: Kyonenno Ki-f000035
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: 谷の底には大きな工場があって、
-  word_list: [谷, の, 底, に, は, 大きな, 工場, が, あっ, て]
   sound: f000035.mp3
   sound_begin: 109104
   sound_end: 112630
+  sentence: 谷の底には大きな工場があって、
+  words:
+    - word: 谷
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 底
+      postiion: 2
+    - word: に
+      postiion: 3
+    - word: は
+      postiion: 4
+    - word: 大きな
+      postiion: 5
+    - word: 工場
+      postiion: 8
+    - word: が
+      postiion: 10
+    - word: あっ
+      base: 有る
+      postiion: 11
+    - word: て
+      postiion: 13
 - id: Kyonenno Ki-f000036
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: 木をきる音が、
-  word_list: [木, を, きる, 音, が]
   sound: f000036.mp3
   sound_begin: 112630
   sound_end: 114508
+  sentence: 木をきる音が、
+  words:
+    - word: 木
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: きる
+      base: 切る
+      postiion: 2
+    - word: 音
+      postiion: 4
+    - word: が
+      postiion: 5
 - id: Kyonenno Ki-f000037
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: びィんびィん、
-  word_list: [び, ィ, ん, び, ィ, ん]
   sound: f000037.mp3
   sound_begin: 114508
   sound_end: 117431
+  sentence: びィんびィん、
+  words:
+    - word: び
+      base: びっ
+      postiion: 0
+    - word: ィ
+      base: い
+      postiion: 1
+    - word: ん
+      postiion: 2
+    - word: び
+      postiion: 3
+    - word: ィ
+      base: い
+      postiion: 4
+    - word: ん
+      base: の
+      postiion: 5
 - id: Kyonenno Ki-f000038
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: としていました。
-  word_list: [と, し, て, い, まし, た]
   sound: f000038.mp3
   sound_begin: 117431
   sound_end: 119849
+  sentence: としていました。
+  words:
+    - word: と
+      postiion: 0
+    - word: し
+      base: 為る
+      postiion: 1
+    - word: て
+      postiion: 2
+    - word: い
+      base: 居る
+      postiion: 3
+    - word: まし
+      base: ます
+      postiion: 4
+    - word: た
+      postiion: 6
 - id: Kyonenno Ki-f000039
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: 小鳥は工場の門の上にとまって、
-  word_list: [小鳥, は, 工場, の, 門, の, 上, に, とまっ, て]
   sound: f000039.mp3
   sound_begin: 119849
   sound_end: 123458
+  sentence: 小鳥は工場の門の上にとまって、
+  words:
+    - word: 小鳥
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: 工場
+      postiion: 3
+    - word: の
+      postiion: 5
+    - word: 門
+      postiion: 6
+    - word: の
+      postiion: 7
+    - word: 上
+      postiion: 8
+    - word: に
+      postiion: 9
+    - word: とまっ
+      base: とまる
+      postiion: 10
+    - word: て
+      postiion: 13
 - id: Kyonenno Ki-f000040
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: 「門さん、
-  word_list: [門, さん]
   sound: f000040.mp3
   sound_begin: 123458
   sound_end: 124840
+  sentence: 「門さん、
+  words:
+    - word: 門
+      postiion: 1
+    - word: さん
+      postiion: 2
 - id: Kyonenno Ki-f000041
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: わたしのなかよしの木は、
-  word_list: [わたし, の, なかよし, の, 木, は]
   sound: f000041.mp3
   sound_begin: 124840
   sound_end: 127400
+  sentence: わたしのなかよしの木は、
+  words:
+    - word: わたし
+      base: 私
+      postiion: 0
+    - word: の
+      postiion: 3
+    - word: なかよし
+      base: 仲良し
+      postiion: 4
+    - word: の
+      postiion: 8
+    - word: 木
+      postiion: 9
+    - word: は
+      postiion: 10
 - id: Kyonenno Ki-f000042
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: どうなったか知りませんか。」
-  word_list: [どう, なっ, た, か, 知り, ませ, ん, か]
   sound: f000042.mp3
   sound_begin: 127400
   sound_end: 129906
+  sentence: どうなったか知りませんか。」
+  words:
+    - word: どう
+      postiion: 0
+    - word: なっ
+      base: 成る
+      postiion: 2
+    - word: た
+      postiion: 4
+    - word: か
+      postiion: 5
+    - word: 知り
+      base: 知る
+      postiion: 6
+    - word: ませ
+      base: ます
+      postiion: 8
+    - word: ん
+      base: ず
+      postiion: 10
+    - word: か
+      postiion: 11
 - id: Kyonenno Ki-f000043
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: とききました。
-  word_list: [と, きき, まし, た]
   sound: f000043.mp3
   sound_begin: 129906
   sound_end: 132120
+  sentence: とききました。
+  words:
+    - word: と
+      postiion: 0
+    - word: きき
+      base: きく
+      postiion: 1
+    - word: まし
+      base: ます
+      postiion: 3
+    - word: た
+      postiion: 5
 - id: Kyonenno Ki-f000044
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: 門は、
-  word_list: [門, は]
   sound: f000044.mp3
   sound_begin: 132120
   sound_end: 132640
+  sentence: 門は、
+  words:
+    - word: 門
+      postiion: 0
+    - word: は
+      postiion: 1
 - id: Kyonenno Ki-f000045
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: 「木なら、
-  word_list: [木, なら]
   sound: f000045.mp3
   sound_begin: 134740
   sound_end: 136179
+  sentence: 「木なら、
+  words:
+    - word: 木
+      postiion: 1
+    - word: なら
+      base: だ
+      postiion: 2
 - id: Kyonenno Ki-f000046
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: 工場の中でこまかくきりきざまれて、
-  word_list: [工場, の, 中, で, こまかく, きり, きざま, れ, て]
   sound: f000046.mp3
   sound_begin: 136179
   sound_end: 139920
+  sentence: 工場の中でこまかくきりきざまれて、
+  words:
+    - word: 工場
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 中
+      postiion: 3
+    - word: で
+      postiion: 4
+    - word: こまかく
+      base: 細かい
+      postiion: 5
+    - word: きり
+      base: 切る
+      postiion: 9
+    - word: きざま
+      base: 刻む
+      postiion: 11
+    - word: れ
+      base: れる
+      postiion: 14
+    - word: て
+      postiion: 15
 - id: Kyonenno Ki-f000047
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: マッチになってあっちの村へ売られていったよ。」
-  word_list: [マッチ, に, なっ, て, あっち, の, 村, へ, 売ら, れ, て, いっ, た, よ]
   sound: f000047.mp3
   sound_begin: 139920
   sound_end: 145417
+  sentence: マッチになってあっちの村へ売られていったよ。」
+  words:
+    - word: マッチ
+      postiion: 0
+    - word: に
+      postiion: 3
+    - word: なっ
+      base: 成る
+      postiion: 4
+    - word: て
+      postiion: 6
+    - word: あっち
+      base: 彼方
+      postiion: 7
+    - word: の
+      postiion: 10
+    - word: 村
+      postiion: 11
+    - word: へ
+      postiion: 12
+    - word: 売ら
+      base: 売る
+      postiion: 13
+    - word: れ
+      base: れる
+      postiion: 15
+    - word: て
+      postiion: 16
+    - word: いっ
+      base: 行く
+      postiion: 17
+    - word: た
+      postiion: 19
+    - word: よ
+      postiion: 20
 - id: Kyonenno Ki-f000048
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: といいました。
-  word_list: [と, いい, まし, た]
   sound: f000048.mp3
   sound_begin: 145417
   sound_end: 147680
+  sentence: といいました。
+  words:
+    - word: と
+      postiion: 0
+    - word: いい
+      base: 言う
+      postiion: 1
+    - word: まし
+      base: ます
+      postiion: 3
+    - word: た
+      postiion: 5
 - id: Kyonenno Ki-f000049
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: 小鳥は村のほうへとんでいきました。
-  word_list: [小鳥, は, 村, の, ほう, へ, とん, で, いき, まし, た]
   sound: f000049.mp3
   sound_begin: 147680
   sound_end: 151880
+  sentence: 小鳥は村のほうへとんでいきました。
+  words:
+    - word: 小鳥
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: 村
+      postiion: 3
+    - word: の
+      postiion: 4
+    - word: ほう
+      base: 方
+      postiion: 5
+    - word: へ
+      postiion: 7
+    - word: とん
+      base: 飛ぶ
+      postiion: 8
+    - word: で
+      postiion: 10
+    - word: いき
+      base: 行く
+      postiion: 11
+    - word: まし
+      base: ます
+      postiion: 13
+    - word: た
+      postiion: 15
 - id: Kyonenno Ki-f000050
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: ランプのそばに女の子がいました。
-  word_list: [ランプ, の, そば, に, 女の子, が, い, まし, た]
   sound: f000050.mp3
   sound_begin: 151880
   sound_end: 154640
+  sentence: ランプのそばに女の子がいました。
+  words:
+    - word: ランプ
+      postiion: 0
+    - word: の
+      postiion: 3
+    - word: そば
+      postiion: 4
+    - word: に
+      postiion: 6
+    - word: 女の子
+      postiion: 7
+    - word: が
+      postiion: 10
+    - word: い
+      base: 居る
+      postiion: 11
+    - word: まし
+      base: ます
+      postiion: 12
+    - word: た
+      postiion: 14
 - id: Kyonenno Ki-f000051
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: そこで小鳥は、
-  word_list: [そこ, で, 小鳥, は]
   sound: f000051.mp3
   sound_begin: 156240
   sound_end: 158467
+  sentence: そこで小鳥は、
+  words:
+    - word: そこ
+      base: 其処
+      postiion: 0
+    - word: で
+      postiion: 2
+    - word: 小鳥
+      postiion: 3
+    - word: は
+      postiion: 5
 - id: Kyonenno Ki-f000052
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: 「もしもし、
-  word_list: [もしもし]
   sound: f000052.mp3
   sound_begin: 158467
   sound_end: 160600
+  sentence: 「もしもし、
+  words:
+    - word: もしもし
+      postiion: 1
 - id: Kyonenno Ki-f000053
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: マッチをごぞんじありませんか。」
-  word_list: [マッチ, を, ご, ぞんじ, あり, ませ, ん, か]
   sound: f000053.mp3
   sound_begin: 160600
   sound_end: 164978
+  sentence: マッチをごぞんじありませんか。」
+  words:
+    - word: マッチ
+      postiion: 0
+    - word: を
+      postiion: 3
+    - word: ご
+      base: 御
+      postiion: 4
+    - word: ぞんじ
+      base: 存知
+      postiion: 5
+    - word: あり
+      base: 有る
+      postiion: 8
+    - word: ませ
+      base: ます
+      postiion: 10
+    - word: ん
+      base: ず
+      postiion: 12
+    - word: か
+      postiion: 13
 - id: Kyonenno Ki-f000054
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: とききました。
-  word_list: [と, きき, まし, た]
   sound: f000054.mp3
   sound_begin: 164978
   sound_end: 167150
+  sentence: とききました。
+  words:
+    - word: と
+      postiion: 0
+    - word: きき
+      base: きく
+      postiion: 1
+    - word: まし
+      base: ます
+      postiion: 3
+    - word: た
+      postiion: 5
 - id: Kyonenno Ki-f000055
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: すると女の子は、
-  word_list: [する, と, 女の子, は]
   sound: f000055.mp3
   sound_begin: 167150
   sound_end: 170400
+  sentence: すると女の子は、
+  words:
+    - word: する
+      base: 為る
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: 女の子
+      postiion: 3
+    - word: は
+      postiion: 6
 - id: Kyonenno Ki-f000056
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: 「マッチはもえてしまいました。
-  word_list: [マッチ, は, もえ, て, しまい, まし, た]
   sound: f000056.mp3
   sound_begin: 170400
   sound_end: 173120
+  sentence: 「マッチはもえてしまいました。
+  words:
+    - word: マッチ
+      postiion: 1
+    - word: は
+      postiion: 4
+    - word: もえ
+      base: もえる
+      postiion: 5
+    - word: て
+      postiion: 7
+    - word: しまい
+      base: 仕舞う
+      postiion: 8
+    - word: まし
+      base: ます
+      postiion: 11
+    - word: た
+      postiion: 13
 - id: Kyonenno Ki-f000057
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: けれどマッチのともした火が、
-  word_list: [けれど, マッチ, の, ともし, た, 火, が]
   sound: f000057.mp3
   sound_begin: 174920
   sound_end: 178720
+  sentence: けれどマッチのともした火が、
+  words:
+    - word: けれど
+      postiion: 0
+    - word: マッチ
+      postiion: 3
+    - word: の
+      postiion: 6
+    - word: ともし
+      base: 灯す
+      postiion: 7
+    - word: た
+      postiion: 10
+    - word: 火
+      postiion: 11
+    - word: が
+      postiion: 12
 - id: Kyonenno Ki-f000058
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: まだこのランプにともっています。」
-  word_list: [まだ, この, ランプ, に, ともっ, て, い, ます]
   sound: f000058.mp3
   sound_begin: 178720
   sound_end: 183292
+  sentence: まだこのランプにともっています。」
+  words:
+    - word: まだ
+      base: 未だ
+      postiion: 0
+    - word: この
+      base: 此の
+      postiion: 2
+    - word: ランプ
+      postiion: 4
+    - word: に
+      postiion: 7
+    - word: ともっ
+      base: 灯る
+      postiion: 8
+    - word: て
+      postiion: 11
+    - word: い
+      base: 居る
+      postiion: 12
+    - word: ます
+      postiion: 13
 - id: Kyonenno Ki-f000059
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: といいました。
-  word_list: [と, いい, まし, た]
   sound: f000059.mp3
   sound_begin: 183292
   sound_end: 186440
+  sentence: といいました。
+  words:
+    - word: と
+      postiion: 0
+    - word: いい
+      base: 言う
+      postiion: 1
+    - word: まし
+      base: ます
+      postiion: 3
+    - word: た
+      postiion: 5
 - id: Kyonenno Ki-f000060
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: 小鳥は、
-  word_list: [小鳥, は]
   sound: f000060.mp3
   sound_begin: 186440
   sound_end: 187520
+  sentence: 小鳥は、
+  words:
+    - word: 小鳥
+      postiion: 0
+    - word: は
+      postiion: 2
 - id: Kyonenno Ki-f000061
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: ランプの火をじっとみつめておりました。
-  word_list: [ランプ, の, 火, を, じっと, み, つめ, て, おり, まし, た]
   sound: f000061.mp3
   sound_begin: 187520
   sound_end: 192480
+  sentence: ランプの火をじっとみつめておりました。
+  words:
+    - word: ランプ
+      postiion: 0
+    - word: の
+      postiion: 3
+    - word: 火
+      postiion: 4
+    - word: を
+      postiion: 5
+    - word: じっと
+      postiion: 6
+    - word: み
+      base: 見る
+      postiion: 9
+    - word: つめ
+      base: つめる
+      postiion: 10
+    - word: て
+      postiion: 12
+    - word: おり
+      base: おる
+      postiion: 13
+    - word: まし
+      base: ます
+      postiion: 15
+    - word: た
+      postiion: 17
 - id: Kyonenno Ki-f000062
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: それから、
-  word_list: [それ, から]
   sound: f000062.mp3
   sound_begin: 192480
   sound_end: 193615
+  sentence: それから、
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: から
+      postiion: 2
 - id: Kyonenno Ki-f000063
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: 去年の歌をうたって火にきかせてやりました。
-  word_list: [去年, の, 歌, を, うたっ, て, 火, に, きか, せ, て, やり, まし, た]
   sound: f000063.mp3
   sound_begin: 193615
   sound_end: 199000
+  sentence: 去年の歌をうたって火にきかせてやりました。
+  words:
+    - word: 去年
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 歌
+      postiion: 3
+    - word: を
+      postiion: 4
+    - word: うたっ
+      base: 歌う
+      postiion: 5
+    - word: て
+      postiion: 8
+    - word: 火
+      postiion: 9
+    - word: に
+      postiion: 10
+    - word: きか
+      base: きく
+      postiion: 11
+    - word: せ
+      base: せる
+      postiion: 13
+    - word: て
+      postiion: 14
+    - word: やり
+      base: 遣る
+      postiion: 15
+    - word: まし
+      base: ます
+      postiion: 17
+    - word: た
+      postiion: 19
 - id: Kyonenno Ki-f000064
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: 火はゆらゆらとゆらめいて、
-  word_list: [火, は, ゆらゆら, と, ゆらめい, て]
   sound: f000064.mp3
   sound_begin: 199000
   sound_end: 201640
+  sentence: 火はゆらゆらとゆらめいて、
+  words:
+    - word: 火
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: ゆらゆら
+      postiion: 2
+    - word: と
+      postiion: 6
+    - word: ゆらめい
+      base: 揺らめく
+      postiion: 7
+    - word: て
+      postiion: 11
 - id: Kyonenno Ki-f000065
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: こころからよろこんでいるようにみえました。
-  word_list: [こころ, から, よろこん, で, いる, よう, に, みえ, まし, た]
   sound: f000065.mp3
   sound_begin: 201640
   sound_end: 204540
+  sentence: こころからよろこんでいるようにみえました。
+  words:
+    - word: こころ
+      base: 心
+      postiion: 0
+    - word: から
+      postiion: 3
+    - word: よろこん
+      base: 喜ぶ
+      postiion: 5
+    - word: で
+      postiion: 9
+    - word: いる
+      base: 居る
+      postiion: 10
+    - word: よう
+      base: 様
+      postiion: 12
+    - word: に
+      base: だ
+      postiion: 14
+    - word: みえ
+      base: 見える
+      postiion: 15
+    - word: まし
+      base: ます
+      postiion: 17
+    - word: た
+      postiion: 19
 - id: Kyonenno Ki-f000066
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: 歌をうたってしまうと、
-  word_list: [歌, を, うたっ, て, しまう, と]
   sound: f000066.mp3
   sound_begin: 206640
   sound_end: 209343
+  sentence: 歌をうたってしまうと、
+  words:
+    - word: 歌
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: うたっ
+      base: 歌う
+      postiion: 2
+    - word: て
+      postiion: 5
+    - word: しまう
+      base: 仕舞う
+      postiion: 6
+    - word: と
+      postiion: 9
 - id: Kyonenno Ki-f000067
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: 小鳥はまたじっとランプの火をみていました。
-  word_list: [小鳥, は, また, じっと, ランプ, の, 火, を, み, て, い, まし, た]
   sound: f000067.mp3
   sound_begin: 209343
   sound_end: 214940
+  sentence: 小鳥はまたじっとランプの火をみていました。
+  words:
+    - word: 小鳥
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: また
+      base: 又
+      postiion: 3
+    - word: じっと
+      postiion: 5
+    - word: ランプ
+      postiion: 8
+    - word: の
+      postiion: 11
+    - word: 火
+      postiion: 12
+    - word: を
+      postiion: 13
+    - word: み
+      base: 見る
+      postiion: 14
+    - word: て
+      postiion: 15
+    - word: い
+      base: 居る
+      postiion: 16
+    - word: まし
+      base: ます
+      postiion: 17
+    - word: た
+      postiion: 19
 - id: Kyonenno Ki-f000068
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: それから、
-  word_list: [それ, から]
   sound: f000068.mp3
   sound_begin: 217040
   sound_end: 218640
+  sentence: それから、
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: から
+      postiion: 2
 - id: Kyonenno Ki-f000069
   author_japanese: 新美 南吉
   deck_name: Kyonenno Ki
   deck_name_japanese: 去年の木
-  sentence: どこかへとんでいってしまいました。
-  word_list: [どこ, か, へ, とん, で, いっ, て, しまい, まし, た]
   sound: f000069.mp3
   sound_begin: 218640
   sound_end: 223100
+  sentence: どこかへとんでいってしまいました。
+  words:
+    - word: どこ
+      postiion: 0
+    - word: か
+      postiion: 2
+    - word: へ
+      postiion: 3
+    - word: とん
+      base: 飛ぶ
+      postiion: 4
+    - word: で
+      postiion: 6
+    - word: いっ
+      base: 行く
+      postiion: 7
+    - word: て
+      postiion: 9
+    - word: しまい
+      base: 仕舞う
+      postiion: 10
+    - word: まし
+      base: ます
+      postiion: 13
+    - word: た
+      postiion: 15

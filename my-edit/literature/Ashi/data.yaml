@@ -2,719 +2,1801 @@
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: あし
-  word_list: [あし]
   sound: f000002.mp3
   sound_begin: 5680
   sound_end: 8720
+  sentence: あし
+  words:
+    - word: あし
+      postiion: 0
 - id: Ashi-f000003
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: 二ひきの馬が、
-  word_list: [二, ひき, の, 馬, が]
   sound: f000003.mp3
   sound_begin: 8720
   sound_end: 11040
+  sentence: 二ひきの馬が、
+  words:
+    - word: 二
+      base: '2'
+      postiion: 0
+    - word: ひき
+      base: 匹
+      postiion: 1
+    - word: の
+      postiion: 3
+    - word: 馬
+      postiion: 4
+    - word: が
+      postiion: 5
 - id: Ashi-f000004
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: まどのところでぐうるぐうるとひるねをしていました。
-  word_list: [ま, どの, ところ, で, ぐう, る, ぐう, る, と, ひるね, を, し, て, い, まし, た]
   sound: f000004.mp3
   sound_begin: 11040
   sound_end: 15160
+  sentence: まどのところでぐうるぐうるとひるねをしていました。
+  words:
+    - word: ま
+      base: まー
+      postiion: 0
+    - word: どの
+      postiion: 1
+    - word: ところ
+      base: 所
+      postiion: 3
+    - word: で
+      postiion: 6
+    - word: ぐう
+      postiion: 7
+    - word: る
+      base: り
+      postiion: 9
+    - word: ぐう
+      postiion: 10
+    - word: る
+      base: れる
+      postiion: 12
+    - word: と
+      postiion: 13
+    - word: ひるね
+      base: 昼寝
+      postiion: 14
+    - word: を
+      postiion: 17
+    - word: し
+      base: 為る
+      postiion: 18
+    - word: て
+      postiion: 19
+    - word: い
+      base: 居る
+      postiion: 20
+    - word: まし
+      base: ます
+      postiion: 21
+    - word: た
+      postiion: 23
 - id: Ashi-f000005
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: すると、
-  word_list: [する, と]
   sound: f000005.mp3
   sound_begin: 16860
   sound_end: 18120
+  sentence: すると、
+  words:
+    - word: する
+      base: 為る
+      postiion: 0
+    - word: と
+      postiion: 2
 - id: Ashi-f000006
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: すずしい風がでてきたので、
-  word_list: [すずしい, 風, が, で, て, き, た, の, で]
   sound: f000006.mp3
   sound_begin: 18120
   sound_end: 21000
+  sentence: すずしい風がでてきたので、
+  words:
+    - word: すずしい
+      base: 涼しい
+      postiion: 0
+    - word: 風
+      postiion: 4
+    - word: が
+      postiion: 5
+    - word: で
+      base: 出る
+      postiion: 6
+    - word: て
+      postiion: 7
+    - word: き
+      base: 来る
+      postiion: 8
+    - word: た
+      postiion: 9
+    - word: の
+      postiion: 10
+    - word: で
+      base: だ
+      postiion: 11
 - id: Ashi-f000007
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: 一ぴきがくしゃめをしてめをさましました。
-  word_list: [一, ぴき, が, くしゃ, め, を, し, て, め, を, さまし, まし, た]
   sound: f000007.mp3
   sound_begin: 21000
   sound_end: 24200
+  sentence: 一ぴきがくしゃめをしてめをさましました。
+  words:
+    - word: 一
+      base: '1'
+      postiion: 0
+    - word: ぴき
+      base: 匹
+      postiion: 1
+    - word: が
+      postiion: 3
+    - word: くしゃ
+      postiion: 4
+    - word: め
+      postiion: 7
+    - word: を
+      postiion: 8
+    - word: し
+      base: 為る
+      postiion: 9
+    - word: て
+      postiion: 10
+    - word: め
+      postiion: 11
+    - word: を
+      postiion: 12
+    - word: さまし
+      base: さます
+      postiion: 13
+    - word: まし
+      base: ます
+      postiion: 14
+    - word: た
+      postiion: 18
 - id: Ashi-f000008
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: ところが、
-  word_list: [ところ, が]
   sound: f000008.mp3
   sound_begin: 25800
   sound_end: 27120
+  sentence: ところが、
+  words:
+    - word: ところ
+      base: 所
+      postiion: 0
+    - word: が
+      postiion: 3
 - id: Ashi-f000009
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: あとあしがいっぽんしびれていたので、
-  word_list: [あと, あし, が, いっぽん, しびれ, て, い, た, の, で]
   sound: f000009.mp3
   sound_begin: 27120
   sound_end: 30320
+  sentence: あとあしがいっぽんしびれていたので、
+  words:
+    - word: あと
+      base: 後
+      postiion: 0
+    - word: あし
+      postiion: 2
+    - word: が
+      postiion: 4
+    - word: いっぽん
+      base: 一本
+      postiion: 5
+    - word: しびれ
+      base: 痺れる
+      postiion: 9
+    - word: て
+      postiion: 12
+    - word: い
+      base: 居る
+      postiion: 13
+    - word: た
+      postiion: 14
+    - word: の
+      postiion: 15
+    - word: で
+      base: だ
+      postiion: 16
 - id: Ashi-f000010
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: よろよろとよろけてしまいました。
-  word_list: [よろよろ, と, よろけ, て, しまい, まし, た]
   sound: f000010.mp3
   sound_begin: 30320
   sound_end: 33960
+  sentence: よろよろとよろけてしまいました。
+  words:
+    - word: よろよろ
+      postiion: 0
+    - word: と
+      postiion: 4
+    - word: よろけ
+      base: 蹌踉ける
+      postiion: 5
+    - word: て
+      postiion: 8
+    - word: しまい
+      base: 仕舞う
+      postiion: 9
+    - word: まし
+      base: ます
+      postiion: 12
+    - word: た
+      postiion: 14
 - id: Ashi-f000011
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: 「おやおや。」
-  word_list: [お, やおや]
   sound: f000011.mp3
   sound_begin: 33960
   sound_end: 36053
+  sentence: 「おやおや。」
+  words:
+    - word: お
+      base: 御
+      postiion: 1
+    - word: やおや
+      base: 八百屋
+      postiion: 2
 - id: Ashi-f000012
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: そのあしに力をいれようとしても、
-  word_list: [その, あし, に, 力, を, いれよう, と, し, て, も]
   sound: f000012.mp3
   sound_begin: 36053
   sound_end: 39920
+  sentence: そのあしに力をいれようとしても、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: あし
+      postiion: 2
+    - word: に
+      postiion: 4
+    - word: 力
+      postiion: 5
+    - word: を
+      postiion: 6
+    - word: いれよう
+      base: 入れる
+      postiion: 7
+    - word: と
+      postiion: 11
+    - word: し
+      base: 為る
+      postiion: 12
+    - word: て
+      postiion: 13
+    - word: も
+      postiion: 14
 - id: Ashi-f000013
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: さっぱりはいりません。
-  word_list: [さっぱり, はいり, ませ, ん]
   sound: f000013.mp3
   sound_begin: 39920
   sound_end: 42847
+  sentence: さっぱりはいりません。
+  words:
+    - word: さっぱり
+      postiion: 0
+    - word: はいり
+      base: 入る
+      postiion: 4
+    - word: ませ
+      base: ます
+      postiion: 7
+    - word: ん
+      base: ず
+      postiion: 9
 - id: Ashi-f000014
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: そこでともだちの馬をゆりおこしました。
-  word_list: [そこ, で, ともだち, の, 馬, を, ゆり, おこし, まし, た]
   sound: f000014.mp3
   sound_begin: 42847
   sound_end: 45560
+  sentence: そこでともだちの馬をゆりおこしました。
+  words:
+    - word: そこ
+      base: 其処
+      postiion: 0
+    - word: で
+      postiion: 2
+    - word: ともだち
+      base: 友達
+      postiion: 3
+    - word: の
+      postiion: 7
+    - word: 馬
+      postiion: 8
+    - word: を
+      postiion: 9
+    - word: ゆり
+      base: 揺る
+      postiion: 10
+    - word: おこし
+      base: 起こす
+      postiion: 12
+    - word: まし
+      base: ます
+      postiion: 15
+    - word: た
+      postiion: 17
 - id: Ashi-f000015
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: 「たいへんだ、
-  word_list: [たいへん, だ]
   sound: f000015.mp3
   sound_begin: 47160
   sound_end: 48520
+  sentence: 「たいへんだ、
+  words:
+    - word: たいへん
+      base: 大変
+      postiion: 1
+    - word: だ
+      postiion: 5
 - id: Ashi-f000016
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: あとあしをいっぽん、
-  word_list: [あと, あし, を, いっぽん]
   sound: f000016.mp3
   sound_begin: 48520
   sound_end: 49640
+  sentence: あとあしをいっぽん、
+  words:
+    - word: あと
+      base: 後
+      postiion: 0
+    - word: あし
+      postiion: 2
+    - word: を
+      postiion: 4
+    - word: いっぽん
+      base: 一本
+      postiion: 5
 - id: Ashi-f000017
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: だれかにぬすまれてしまった。」
-  word_list: [だれ, か, に, ぬすま, れ, て, しまっ, た]
   sound: f000017.mp3
   sound_begin: 49640
   sound_end: 53040
+  sentence: だれかにぬすまれてしまった。」
+  words:
+    - word: だれ
+      base: 誰
+      postiion: 0
+    - word: か
+      postiion: 2
+    - word: に
+      postiion: 3
+    - word: ぬすま
+      base: 盗む
+      postiion: 4
+    - word: れ
+      base: れる
+      postiion: 7
+    - word: て
+      postiion: 8
+    - word: しまっ
+      base: 仕舞う
+      postiion: 9
+    - word: た
+      postiion: 12
 - id: Ashi-f000018
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: 「だって、
-  word_list: [だ, って]
   sound: f000018.mp3
   sound_begin: 53040
   sound_end: 53728
+  sentence: 「だって、
+  words:
+    - word: だ
+      postiion: 1
+    - word: って
+      postiion: 2
 - id: Ashi-f000019
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: ちゃんとついてるじゃないか。」
-  word_list: [ちゃんと, つい, てる, じゃ, ない, か]
   sound: f000019.mp3
   sound_begin: 53728
   sound_end: 56320
+  sentence: ちゃんとついてるじゃないか。」
+  words:
+    - word: ちゃんと
+      postiion: 0
+    - word: つい
+      base: 付く
+      postiion: 4
+    - word: てる
+      postiion: 6
+    - word: じゃ
+      base: だ
+      postiion: 8
+    - word: ない
+      base: 無い
+      postiion: 10
+    - word: か
+      postiion: 12
 - id: Ashi-f000020
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: 「いやこれはちがう。
-  word_list: [いや, これ, は, ちがう]
   sound: f000020.mp3
   sound_begin: 56320
   sound_end: 58040
+  sentence: 「いやこれはちがう。
+  words:
+    - word: いや
+      base: 否
+      postiion: 1
+    - word: これ
+      base: 此れ
+      postiion: 3
+    - word: は
+      postiion: 5
+    - word: ちがう
+      base: 違う
+      postiion: 6
 - id: Ashi-f000021
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: だれかのあしだ。」
-  word_list: [だれ, か, の, あし, だ]
   sound: f000021.mp3
   sound_begin: 58040
   sound_end: 60110
+  sentence: だれかのあしだ。」
+  words:
+    - word: だれ
+      base: 誰
+      postiion: 0
+    - word: か
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: あし
+      postiion: 4
+    - word: だ
+      postiion: 6
 - id: Ashi-f000022
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: 「どうして。」
-  word_list: [どう, し, て]
   sound: f000022.mp3
   sound_begin: 60110
   sound_end: 62520
+  sentence: 「どうして。」
+  words:
+    - word: どう
+      postiion: 1
+    - word: し
+      base: 為る
+      postiion: 3
+    - word: て
+      postiion: 4
 - id: Ashi-f000023
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: 「ぼくの思うままに歩かないもの。
-  word_list: [ぼく, の, 思う, まま, に, 歩か, ない, もの]
   sound: f000023.mp3
   sound_begin: 62520
   sound_end: 66053
+  sentence: 「ぼくの思うままに歩かないもの。
+  words:
+    - word: ぼく
+      base: 僕
+      postiion: 1
+    - word: の
+      postiion: 3
+    - word: 思う
+      postiion: 4
+    - word: まま
+      base: 侭
+      postiion: 6
+    - word: に
+      postiion: 8
+    - word: 歩か
+      base: 歩く
+      postiion: 9
+    - word: ない
+      postiion: 11
+    - word: もの
+      base: 物
+      postiion: 13
 - id: Ashi-f000024
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: ちょっとこのあしをけとばしてくれ。」
-  word_list: [ちょっと, この, あし, を, け, とばし, て, くれ]
   sound: f000024.mp3
   sound_begin: 66053
   sound_end: 70480
+  sentence: ちょっとこのあしをけとばしてくれ。」
+  words:
+    - word: ちょっと
+      base: 一寸
+      postiion: 0
+    - word: この
+      base: 此の
+      postiion: 4
+    - word: あし
+      postiion: 6
+    - word: を
+      postiion: 8
+    - word: け
+      base: 蹴る
+      postiion: 9
+    - word: とばし
+      base: 飛ばす
+      postiion: 10
+    - word: て
+      postiion: 13
+    - word: くれ
+      base: 呉れる
+      postiion: 14
 - id: Ashi-f000025
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: そこで、
-  word_list: [そこ, で]
   sound: f000025.mp3
   sound_begin: 70480
   sound_end: 71408
+  sentence: そこで、
+  words:
+    - word: そこ
+      base: 其処
+      postiion: 0
+    - word: で
+      postiion: 2
 - id: Ashi-f000026
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: ともだちの馬は、
-  word_list: [ともだち, の, 馬, は]
   sound: f000026.mp3
   sound_begin: 71408
   sound_end: 72960
+  sentence: ともだちの馬は、
+  words:
+    - word: ともだち
+      base: 友達
+      postiion: 0
+    - word: の
+      postiion: 4
+    - word: 馬
+      postiion: 5
+    - word: は
+      postiion: 6
 - id: Ashi-f000027
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: ひづめでそのあしをぽォんとけとばしました。
-  word_list: [ひづめ, で, その, あし, を, ぽ, ォ, ん, と, け, とばし, まし, た]
   sound: f000027.mp3
   sound_begin: 72960
   sound_end: 77741
+  sentence: ひづめでそのあしをぽォんとけとばしました。
+  words:
+    - word: ひづめ
+      base: 蹄
+      postiion: 0
+    - word: で
+      postiion: 3
+    - word: その
+      base: 其の
+      postiion: 4
+    - word: あし
+      postiion: 6
+    - word: を
+      postiion: 8
+    - word: ぽ
+      base: ぽい
+      postiion: 9
+    - word: ォ
+      base: ぉ
+      postiion: 10
+    - word: ん
+      base: んっ
+      postiion: 11
+    - word: と
+      postiion: 12
+    - word: け
+      base: 蹴る
+      postiion: 13
+    - word: とばし
+      base: 飛ばす
+      postiion: 14
+    - word: まし
+      base: ます
+      postiion: 17
+    - word: た
+      postiion: 19
 - id: Ashi-f000028
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: 「やっぱりこれはぼくのじゃない、
-  word_list: [やっぱり, これ, は, ぼく, の, じゃ, ない]
   sound: f000028.mp3
   sound_begin: 77741
   sound_end: 80800
+  sentence: 「やっぱりこれはぼくのじゃない、
+  words:
+    - word: やっぱり
+      base: 矢張り
+      postiion: 1
+    - word: これ
+      base: 此れ
+      postiion: 5
+    - word: は
+      postiion: 7
+    - word: ぼく
+      base: 僕
+      postiion: 8
+    - word: の
+      postiion: 10
+    - word: じゃ
+      base: だ
+      postiion: 11
+    - word: ない
+      base: 無い
+      postiion: 13
 - id: Ashi-f000029
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: いたくないもの。
-  word_list: [いたく, ない, もの]
   sound: f000029.mp3
   sound_begin: 80800
   sound_end: 83000
+  sentence: いたくないもの。
+  words:
+    - word: いたく
+      base: 痛く
+      postiion: 0
+    - word: ない
+      base: 無い
+      postiion: 3
+    - word: もの
+      postiion: 5
 - id: Ashi-f000030
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: ぼくのあしならいたいはずだ。
-  word_list: [ぼく, の, あし, なら, い, たい, はず, だ]
   sound: f000030.mp3
   sound_begin: 83000
   sound_end: 86480
+  sentence: ぼくのあしならいたいはずだ。
+  words:
+    - word: ぼく
+      base: 僕
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: あし
+      postiion: 3
+    - word: なら
+      base: だ
+      postiion: 5
+    - word: い
+      base: 居る
+      postiion: 7
+    - word: たい
+      postiion: 8
+    - word: はず
+      base: 筈
+      postiion: 10
+    - word: だ
+      postiion: 12
 - id: Ashi-f000031
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: よし、
-  word_list: [よし]
   sound: f000031.mp3
   sound_begin: 86480
   sound_end: 87240
+  sentence: よし、
+  words:
+    - word: よし
+      postiion: 0
 - id: Ashi-f000032
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: はやく、
-  word_list: [はやく]
   sound: f000032.mp3
   sound_begin: 87240
   sound_end: 87760
+  sentence: はやく、
+  words:
+    - word: はやく
+      base: 早い
+      postiion: 0
 - id: Ashi-f000033
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: ぬすまれたあしをみつけてこよう。」
-  word_list: [ぬすま, れ, た, あし, を, みつけ, て, こよう]
   sound: f000033.mp3
   sound_begin: 87760
   sound_end: 92160
+  sentence: ぬすまれたあしをみつけてこよう。」
+  words:
+    - word: ぬすま
+      base: 盗む
+      postiion: 0
+    - word: れ
+      base: れる
+      postiion: 3
+    - word: た
+      postiion: 4
+    - word: あし
+      postiion: 5
+    - word: を
+      postiion: 7
+    - word: みつけ
+      base: 見付ける
+      postiion: 8
+    - word: て
+      postiion: 11
+    - word: こよう
+      base: 来る
+      postiion: 12
 - id: Ashi-f000034
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: そこで、
-  word_list: [そこ, で]
   sound: f000034.mp3
   sound_begin: 92160
   sound_end: 94000
+  sentence: そこで、
+  words:
+    - word: そこ
+      base: 其処
+      postiion: 0
+    - word: で
+      postiion: 2
 - id: Ashi-f000035
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: その馬はよろよろと歩いてゆきました。
-  word_list: [その, 馬, は, よろよろ, と, 歩い, て, ゆき, まし, た]
   sound: f000035.mp3
   sound_begin: 94000
   sound_end: 95800
+  sentence: その馬はよろよろと歩いてゆきました。
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 馬
+      postiion: 2
+    - word: は
+      postiion: 3
+    - word: よろよろ
+      postiion: 4
+    - word: と
+      postiion: 8
+    - word: 歩い
+      base: 歩く
+      postiion: 9
+    - word: て
+      postiion: 11
+    - word: ゆき
+      base: 行く
+      postiion: 12
+    - word: まし
+      base: ます
+      postiion: 14
+    - word: た
+      postiion: 16
 - id: Ashi-f000036
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: 「やァ、
-  word_list: [や, ァ]
   sound: f000036.mp3
   sound_begin: 97600
   sound_end: 98320
+  sentence: 「やァ、
+  words:
+    - word: や
+      base: やあ
+      postiion: 1
+    - word: ァ
+      base: ぁ
+      postiion: 2
 - id: Ashi-f000037
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: 椅子がある。
-  word_list: [椅子, が, ある]
   sound: f000037.mp3
   sound_begin: 98320
   sound_end: 99920
+  sentence: 椅子がある。
+  words:
+    - word: 椅子
+      postiion: 0
+    - word: が
+      postiion: 2
+    - word: ある
+      base: 有る
+      postiion: 3
 - id: Ashi-f000038
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: 椅子がぼくのあしをぬすんだのかもしれない。
-  word_list: [椅子, が, ぼく, の, あし, を, ぬすん, だ, の, か, も, しれ, ない]
   sound: f000038.mp3
   sound_begin: 99920
   sound_end: 102600
+  sentence: 椅子がぼくのあしをぬすんだのかもしれない。
+  words:
+    - word: 椅子
+      postiion: 0
+    - word: が
+      postiion: 2
+    - word: ぼく
+      base: 僕
+      postiion: 3
+    - word: の
+      postiion: 5
+    - word: あし
+      postiion: 6
+    - word: を
+      postiion: 8
+    - word: ぬすん
+      base: 盗む
+      postiion: 9
+    - word: だ
+      base: た
+      postiion: 12
+    - word: の
+      postiion: 13
+    - word: か
+      postiion: 14
+    - word: も
+      postiion: 15
+    - word: しれ
+      base: 知る
+      postiion: 16
+    - word: ない
+      postiion: 18
 - id: Ashi-f000039
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: よし、
-  word_list: [よし]
   sound: f000039.mp3
   sound_begin: 104300
   sound_end: 104720
+  sentence: よし、
+  words:
+    - word: よし
+      postiion: 0
 - id: Ashi-f000040
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: けとばしてやろう、
-  word_list: [け, とばし, て, やろう]
   sound: f000040.mp3
   sound_begin: 104720
   sound_end: 106896
+  sentence: けとばしてやろう、
+  words:
+    - word: け
+      base: 蹴る
+      postiion: 0
+    - word: とばし
+      base: 飛ばす
+      postiion: 1
+    - word: て
+      postiion: 4
+    - word: やろう
+      base: 遣る
+      postiion: 5
 - id: Ashi-f000041
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: ぼくのあしならいたいはずだ。」
-  word_list: [ぼく, の, あし, なら, い, たい, はず, だ]
   sound: f000041.mp3
   sound_begin: 106896
   sound_end: 111040
+  sentence: ぼくのあしならいたいはずだ。」
+  words:
+    - word: ぼく
+      base: 僕
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: あし
+      postiion: 3
+    - word: なら
+      base: だ
+      postiion: 5
+    - word: い
+      base: 居る
+      postiion: 7
+    - word: たい
+      postiion: 8
+    - word: はず
+      base: 筈
+      postiion: 10
+    - word: だ
+      postiion: 12
 - id: Ashi-f000042
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: 馬はかたあしで、
-  word_list: [馬, は, かたあし, で]
   sound: f000042.mp3
   sound_begin: 111040
   sound_end: 112760
+  sentence: 馬はかたあしで、
+  words:
+    - word: 馬
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: かたあし
+      base: 片足
+      postiion: 2
+    - word: で
+      base: だ
+      postiion: 6
 - id: Ashi-f000043
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: 椅子のあしをけとばしました。
-  word_list: [椅子, の, あし, を, け, とばし, まし, た]
   sound: f000043.mp3
   sound_begin: 112760
   sound_end: 116680
+  sentence: 椅子のあしをけとばしました。
+  words:
+    - word: 椅子
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: あし
+      postiion: 3
+    - word: を
+      postiion: 5
+    - word: け
+      base: 蹴る
+      postiion: 6
+    - word: とばし
+      base: 飛ばす
+      postiion: 7
+    - word: まし
+      base: ます
+      postiion: 10
+    - word: た
+      postiion: 12
 - id: Ashi-f000044
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: 椅子は、
-  word_list: [椅子, は]
   sound: f000044.mp3
   sound_begin: 116680
   sound_end: 117680
+  sentence: 椅子は、
+  words:
+    - word: 椅子
+      postiion: 0
+    - word: は
+      postiion: 2
 - id: Ashi-f000045
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: いたいとも、
-  word_list: [いたい, とも]
   sound: f000045.mp3
   sound_begin: 117680
   sound_end: 118520
+  sentence: いたいとも、
+  words:
+    - word: いたい
+      base: 痛い
+      postiion: 0
+    - word: とも
+      postiion: 3
 - id: Ashi-f000046
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: なんともいわないで、
-  word_list: [なん, と, も, いわ, ない, で]
   sound: f000046.mp3
   sound_begin: 118520
   sound_end: 120111
+  sentence: なんともいわないで、
+  words:
+    - word: なん
+      base: 何
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: も
+      postiion: 3
+    - word: いわ
+      base: 言う
+      postiion: 4
+    - word: ない
+      postiion: 6
+    - word: で
+      postiion: 8
 - id: Ashi-f000047
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: こわれてしまいました。
-  word_list: [こわれ, て, しまい, まし, た]
   sound: f000047.mp3
   sound_begin: 120111
   sound_end: 121540
+  sentence: こわれてしまいました。
+  words:
+    - word: こわれ
+      base: 壊れる
+      postiion: 0
+    - word: て
+      postiion: 3
+    - word: しまい
+      base: 仕舞う
+      postiion: 4
+    - word: まし
+      base: ます
+      postiion: 7
+    - word: た
+      postiion: 9
 - id: Ashi-f000048
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: 馬は、
-  word_list: [馬, は]
   sound: f000048.mp3
   sound_begin: 123640
   sound_end: 124774
+  sentence: 馬は、
+  words:
+    - word: 馬
+      postiion: 0
+    - word: は
+      postiion: 1
 - id: Ashi-f000049
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: テーブルのあしや、
-  word_list: [テーブル, の, あし, や]
   sound: f000049.mp3
   sound_begin: 124774
   sound_end: 126520
+  sentence: テーブルのあしや、
+  words:
+    - word: テーブル
+      postiion: 0
+    - word: の
+      postiion: 4
+    - word: あし
+      postiion: 5
+    - word: や
+      postiion: 7
 - id: Ashi-f000050
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: ベッドのあしを、
-  word_list: [ベッド, の, あし, を]
   sound: f000050.mp3
   sound_begin: 126520
   sound_end: 127910
+  sentence: ベッドのあしを、
+  words:
+    - word: ベッド
+      postiion: 0
+    - word: の
+      postiion: 3
+    - word: あし
+      postiion: 4
+    - word: を
+      postiion: 6
 - id: Ashi-f000051
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: ぽんぽんけってまわりました。
-  word_list: [ぽんぽん, けっ, て, まわり, まし, た]
   sound: f000051.mp3
   sound_begin: 127910
   sound_end: 129520
+  sentence: ぽんぽんけってまわりました。
+  words:
+    - word: ぽんぽん
+      postiion: 0
+    - word: けっ
+      base: 蹴る
+      postiion: 4
+    - word: て
+      postiion: 6
+    - word: まわり
+      base: 回る
+      postiion: 7
+    - word: まし
+      base: ます
+      postiion: 10
+    - word: た
+      postiion: 12
 - id: Ashi-f000052
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: けれど、
-  word_list: [けれど]
   sound: f000052.mp3
   sound_begin: 131320
   sound_end: 132469
+  sentence: けれど、
+  words:
+    - word: けれど
+      postiion: 0
 - id: Ashi-f000053
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: どれもいたいといわなくて、
-  word_list: [どれ, も, い, たい, と, いわ, なく, て]
   sound: f000053.mp3
   sound_begin: 132469
   sound_end: 134699
+  sentence: どれもいたいといわなくて、
+  words:
+    - word: どれ
+      postiion: 0
+    - word: も
+      postiion: 2
+    - word: い
+      base: 居る
+      postiion: 3
+    - word: たい
+      postiion: 4
+    - word: と
+      postiion: 6
+    - word: いわ
+      base: 言う
+      postiion: 7
+    - word: なく
+      base: ない
+      postiion: 9
+    - word: て
+      postiion: 11
 - id: Ashi-f000054
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: こわれてしまいました。
-  word_list: [こわれ, て, しまい, まし, た]
   sound: f000054.mp3
   sound_begin: 134699
   sound_end: 138360
+  sentence: こわれてしまいました。
+  words:
+    - word: こわれ
+      base: 壊れる
+      postiion: 0
+    - word: て
+      postiion: 3
+    - word: しまい
+      base: 仕舞う
+      postiion: 4
+    - word: まし
+      base: ます
+      postiion: 7
+    - word: た
+      postiion: 9
 - id: Ashi-f000055
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: いくらさがしてもぬすまれたあしはありません。
-  word_list: [いくら, さがし, て, も, ぬすま, れ, た, あし, は, あり, ませ, ん]
   sound: f000055.mp3
   sound_begin: 138360
   sound_end: 142100
+  sentence: いくらさがしてもぬすまれたあしはありません。
+  words:
+    - word: いくら
+      base: 幾ら
+      postiion: 0
+    - word: さがし
+      base: 探す
+      postiion: 3
+    - word: て
+      postiion: 6
+    - word: も
+      postiion: 7
+    - word: ぬすま
+      base: 盗む
+      postiion: 8
+    - word: れ
+      base: れる
+      postiion: 11
+    - word: た
+      postiion: 12
+    - word: あし
+      postiion: 13
+    - word: は
+      postiion: 15
+    - word: あり
+      base: 有る
+      postiion: 16
+    - word: ませ
+      base: ます
+      postiion: 18
+    - word: ん
+      base: ず
+      postiion: 20
 - id: Ashi-f000056
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: 「ひょっとしたら、
-  word_list: [ひょっと, し, たら]
   sound: f000056.mp3
   sound_begin: 144200
   sound_end: 145640
+  sentence: 「ひょっとしたら、
+  words:
+    - word: ひょっと
+      postiion: 1
+    - word: し
+      base: 為る
+      postiion: 5
+    - word: たら
+      base: た
+      postiion: 6
 - id: Ashi-f000057
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: あいつがとったのかもしれない。」
-  word_list: [あいつ, が, とっ, た, の, か, も, しれ, ない]
   sound: f000057.mp3
   sound_begin: 145640
   sound_end: 148276
+  sentence: あいつがとったのかもしれない。」
+  words:
+    - word: あいつ
+      base: 彼奴
+      postiion: 0
+    - word: が
+      postiion: 3
+    - word: とっ
+      base: 取る
+      postiion: 4
+    - word: た
+      postiion: 6
+    - word: の
+      postiion: 7
+    - word: か
+      postiion: 8
+    - word: も
+      postiion: 9
+    - word: しれ
+      base: 知る
+      postiion: 10
+    - word: ない
+      postiion: 12
 - id: Ashi-f000058
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: と馬は思いました。
-  word_list: [と, 馬, は, 思い, まし, た]
   sound: f000058.mp3
   sound_begin: 148276
   sound_end: 151550
+  sentence: と馬は思いました。
+  words:
+    - word: と
+      postiion: 0
+    - word: 馬
+      postiion: 1
+    - word: は
+      postiion: 2
+    - word: 思い
+      base: 思う
+      postiion: 3
+    - word: まし
+      base: ます
+      postiion: 5
+    - word: た
+      postiion: 7
 - id: Ashi-f000059
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: そこで、
-  word_list: [そこ, で]
   sound: f000059.mp3
   sound_begin: 151550
   sound_end: 152680
+  sentence: そこで、
+  words:
+    - word: そこ
+      base: 其処
+      postiion: 0
+    - word: で
+      postiion: 2
 - id: Ashi-f000060
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: 馬はともだちの馬のところへかえってきました。
-  word_list: [馬, は, ともだち, の, 馬, の, ところ, へ, かえっ, て, き, まし, た]
   sound: f000060.mp3
   sound_begin: 152680
   sound_end: 156920
+  sentence: 馬はともだちの馬のところへかえってきました。
+  words:
+    - word: 馬
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: ともだち
+      base: 友達
+      postiion: 2
+    - word: の
+      postiion: 6
+    - word: 馬
+      postiion: 7
+    - word: の
+      postiion: 8
+    - word: ところ
+      base: 所
+      postiion: 9
+    - word: へ
+      postiion: 12
+    - word: かえっ
+      base: かえる
+      postiion: 13
+    - word: て
+      postiion: 16
+    - word: き
+      base: 来る
+      postiion: 17
+    - word: まし
+      base: ます
+      postiion: 18
+    - word: た
+      postiion: 20
 - id: Ashi-f000061
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: そして、
-  word_list: [そして]
   sound: f000061.mp3
   sound_begin: 156920
   sound_end: 157811
+  sentence: そして、
+  words:
+    - word: そして
+      postiion: 0
 - id: Ashi-f000062
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: すきをみて、
-  word_list: [すき, を, み, て]
   sound: f000062.mp3
   sound_begin: 157811
   sound_end: 159728
+  sentence: すきをみて、
+  words:
+    - word: すき
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: み
+      base: 見る
+      postiion: 3
+    - word: て
+      postiion: 4
 - id: Ashi-f000063
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: ともだちのあとあしをぽォんとけとばしました。
-  word_list: [ともだち, の, あと, あし, を, ぽ, ォ, ん, と, け, とばし, まし, た]
   sound: f000063.mp3
   sound_begin: 159728
   sound_end: 163600
+  sentence: ともだちのあとあしをぽォんとけとばしました。
+  words:
+    - word: ともだち
+      base: 友達
+      postiion: 0
+    - word: の
+      postiion: 4
+    - word: あと
+      base: 後
+      postiion: 5
+    - word: あし
+      postiion: 7
+    - word: を
+      postiion: 9
+    - word: ぽ
+      base: ぽい
+      postiion: 10
+    - word: ォ
+      base: ぉ
+      postiion: 11
+    - word: ん
+      base: んっ
+      postiion: 12
+    - word: と
+      postiion: 13
+    - word: け
+      base: 蹴る
+      postiion: 14
+    - word: とばし
+      base: 飛ばす
+      postiion: 15
+    - word: まし
+      base: ます
+      postiion: 18
+    - word: た
+      postiion: 20
 - id: Ashi-f000064
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: するとともだちは、
-  word_list: [する, と, ともだち, は]
   sound: f000064.mp3
   sound_begin: 165500
   sound_end: 167440
+  sentence: するとともだちは、
+  words:
+    - word: する
+      base: 為る
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: ともだち
+      base: 友達
+      postiion: 3
+    - word: は
+      postiion: 7
 - id: Ashi-f000065
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: 「いたいッ。」
-  word_list: [いたい, ッ]
   sound: f000065.mp3
   sound_begin: 167440
   sound_end: 168720
+  sentence: 「いたいッ。」
+  words:
+    - word: いたい
+      base: 致す
+      postiion: 1
+    - word: ッ
+      base: つ
+      postiion: 4
 - id: Ashi-f000066
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: とさけんでとびあがりました。
-  word_list: [と, さけん, で, とび, あがり, まし, た]
   sound: f000066.mp3
   sound_begin: 168720
   sound_end: 172880
+  sentence: とさけんでとびあがりました。
+  words:
+    - word: と
+      postiion: 0
+    - word: さけん
+      base: 叫ぶ
+      postiion: 1
+    - word: で
+      postiion: 4
+    - word: とび
+      base: 飛ぶ
+      postiion: 5
+    - word: あがり
+      base: 上がる
+      postiion: 7
+    - word: まし
+      base: ます
+      postiion: 10
+    - word: た
+      postiion: 12
 - id: Ashi-f000067
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: 「そォらみろ、
-  word_list: [そ, ォ, ら, みろ]
   sound: f000067.mp3
   sound_begin: 172880
   sound_end: 174120
+  sentence: 「そォらみろ、
+  words:
+    - word: そ
+      base: そう
+      postiion: 1
+    - word: ォ
+      base: ぉ
+      postiion: 2
+    - word: ら
+      base: 等
+      postiion: 3
+    - word: みろ
+      base: 見る
+      postiion: 4
 - id: Ashi-f000068
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: それがぼくのあしだ。
-  word_list: [それ, が, ぼく, の, あし, だ]
   sound: f000068.mp3
   sound_begin: 174120
   sound_end: 176178
+  sentence: それがぼくのあしだ。
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: が
+      postiion: 2
+    - word: ぼく
+      base: 僕
+      postiion: 3
+    - word: の
+      postiion: 5
+    - word: あし
+      postiion: 6
+    - word: だ
+      postiion: 8
 - id: Ashi-f000069
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: きみだろう、
-  word_list: [きみ, だろう]
   sound: f000069.mp3
   sound_begin: 176178
   sound_end: 177320
+  sentence: きみだろう、
+  words:
+    - word: きみ
+      postiion: 0
+    - word: だろう
+      base: だ
+      postiion: 2
 - id: Ashi-f000070
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: ぬすんだのは。」
-  word_list: [ぬすん, だ, の, は]
   sound: f000070.mp3
   sound_begin: 177320
   sound_end: 179551
+  sentence: ぬすんだのは。」
+  words:
+    - word: ぬすん
+      base: 盗む
+      postiion: 0
+    - word: だ
+      base: た
+      postiion: 3
+    - word: の
+      postiion: 4
+    - word: は
+      postiion: 5
 - id: Ashi-f000071
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: 「このとんまめが。」
-  word_list: [この, とんま, め, が]
   sound: f000071.mp3
   sound_begin: 179551
   sound_end: 182237
+  sentence: 「このとんまめが。」
+  words:
+    - word: この
+      base: 此の
+      postiion: 1
+    - word: とんま
+      postiion: 3
+    - word: め
+      postiion: 6
+    - word: が
+      postiion: 7
 - id: Ashi-f000072
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: ともだちの馬は力いっぱいけかえしました。
-  word_list: [ともだち, の, 馬, は, 力, いっぱい, け, かえし, まし, た]
   sound: f000072.mp3
   sound_begin: 182237
   sound_end: 187400
+  sentence: ともだちの馬は力いっぱいけかえしました。
+  words:
+    - word: ともだち
+      base: 友達
+      postiion: 0
+    - word: の
+      postiion: 4
+    - word: 馬
+      postiion: 5
+    - word: は
+      postiion: 6
+    - word: 力
+      postiion: 7
+    - word: いっぱい
+      base: 一杯
+      postiion: 8
+    - word: け
+      base: 蹴る
+      postiion: 12
+    - word: かえし
+      base: かえす
+      postiion: 13
+    - word: まし
+      base: ます
+      postiion: 16
+    - word: た
+      postiion: 18
 - id: Ashi-f000073
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: しびれがもうなおっていたので、
-  word_list: [しびれ, が, もう, なおっ, て, い, た, の, で]
   sound: f000073.mp3
   sound_begin: 187400
   sound_end: 190042
+  sentence: しびれがもうなおっていたので、
+  words:
+    - word: しびれ
+      base: 痺れ
+      postiion: 0
+    - word: が
+      postiion: 3
+    - word: もう
+      postiion: 4
+    - word: なおっ
+      base: 直る
+      postiion: 6
+    - word: て
+      postiion: 9
+    - word: い
+      base: 居る
+      postiion: 10
+    - word: た
+      postiion: 11
+    - word: の
+      postiion: 12
+    - word: で
+      base: だ
+      postiion: 13
 - id: Ashi-f000074
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: その馬も、
-  word_list: [その, 馬, も]
   sound: f000074.mp3
   sound_begin: 190042
   sound_end: 191480
+  sentence: その馬も、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 馬
+      postiion: 2
+    - word: も
+      postiion: 3
 - id: Ashi-f000075
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: 「いたいッ。」
-  word_list: [いたい, ッ]
   sound: f000075.mp3
   sound_begin: 191480
   sound_end: 192414
+  sentence: 「いたいッ。」
+  words:
+    - word: いたい
+      base: 致す
+      postiion: 1
+    - word: ッ
+      base: つ
+      postiion: 4
 - id: Ashi-f000076
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: と、
-  word_list: [と]
   sound: f000076.mp3
   sound_begin: 192414
   sound_end: 192747
+  sentence: と、
+  words:
+    - word: と
+      postiion: 0
 - id: Ashi-f000077
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: とびあがりました。
-  word_list: [とび, あがり, まし, た]
   sound: f000077.mp3
   sound_begin: 192747
   sound_end: 195520
+  sentence: とびあがりました。
+  words:
+    - word: とび
+      base: 飛ぶ
+      postiion: 0
+    - word: あがり
+      base: 上がる
+      postiion: 2
+    - word: まし
+      base: ます
+      postiion: 5
+    - word: た
+      postiion: 7
 - id: Ashi-f000078
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: そして、
-  word_list: [そして]
   sound: f000078.mp3
   sound_begin: 195520
   sound_end: 196446
+  sentence: そして、
+  words:
+    - word: そして
+      postiion: 0
 - id: Ashi-f000079
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: やっとのことで、
-  word_list: [やっと, の, こと, で]
   sound: f000079.mp3
   sound_begin: 196446
   sound_end: 198240
+  sentence: やっとのことで、
+  words:
+    - word: やっと
+      base: 漸と
+      postiion: 0
+    - word: の
+      postiion: 3
+    - word: こと
+      postiion: 4
+    - word: で
+      base: だ
+      postiion: 6
 - id: Ashi-f000080
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: じぶんのあしはぬすまれたのではなく、
-  word_list: [じぶん, の, あし, は, ぬすま, れ, た, の, で, は, なく]
   sound: f000080.mp3
   sound_begin: 198240
   sound_end: 201520
+  sentence: じぶんのあしはぬすまれたのではなく、
+  words:
+    - word: じぶん
+      base: 自分
+      postiion: 0
+    - word: の
+      postiion: 3
+    - word: あし
+      postiion: 4
+    - word: は
+      postiion: 6
+    - word: ぬすま
+      base: 盗む
+      postiion: 7
+    - word: れ
+      base: れる
+      postiion: 10
+    - word: た
+      postiion: 11
+    - word: の
+      postiion: 12
+    - word: で
+      base: だ
+      postiion: 13
+    - word: は
+      postiion: 14
+    - word: なく
+      base: 無い
+      postiion: 15
 - id: Ashi-f000081
   author_japanese: 新美 南吉
   deck_name: Ashi
   deck_name_japanese: あし
-  sentence: しびれていたのだとわかりました。
-  word_list: [しびれ, て, い, た, の, だ, と, わかり, まし, た]
   sound: f000081.mp3
   sound_begin: 201520
   sound_end: 204240
+  sentence: しびれていたのだとわかりました。
+  words:
+    - word: しびれ
+      base: 痺れる
+      postiion: 0
+    - word: て
+      postiion: 3
+    - word: い
+      base: 居る
+      postiion: 4
+    - word: た
+      postiion: 5
+    - word: の
+      postiion: 6
+    - word: だ
+      postiion: 7
+    - word: と
+      postiion: 8
+    - word: わかり
+      base: 分かる
+      postiion: 9
+    - word: まし
+      base: ます
+      postiion: 12
+    - word: た
+      postiion: 14

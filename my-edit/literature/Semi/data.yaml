@@ -2,368 +2,879 @@
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: 蝉
-  word_list: [蝉]
   sound: f000002.mp3
   sound_begin: 6090
   sound_end: 11266
+  sentence: 蝉
+  words:
+    - word: 蝉
+      postiion: 0
 - id: Semi-f000003
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: 蝉が鳴いてゐる、
-  word_list: [蝉, が, 鳴い, て, ゐる]
   sound: f000003.mp3
   sound_begin: 11266
   sound_end: 14149
+  sentence: 蝉が鳴いてゐる、
+  words:
+    - word: 蝉
+      postiion: 0
+    - word: が
+      postiion: 1
+    - word: 鳴い
+      base: 鳴く
+      postiion: 2
+    - word: て
+      postiion: 4
+    - word: ゐる
+      base: 居る
+      postiion: 5
 - id: Semi-f000004
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: 蝉が鳴いてゐる
-  word_list: [蝉, が, 鳴い, て, ゐる]
   sound: f000004.mp3
   sound_begin: 14149
   sound_end: 17642
+  sentence: 蝉が鳴いてゐる
+  words:
+    - word: 蝉
+      postiion: 0
+    - word: が
+      postiion: 1
+    - word: 鳴い
+      base: 鳴く
+      postiion: 2
+    - word: て
+      postiion: 4
+    - word: ゐる
+      base: 居る
+      postiion: 5
 - id: Semi-f000005
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: 蝉が鳴いてゐるほかになんにもない！
-  word_list: [蝉, が, 鳴い, て, ゐる, ほか, に, なんに, も, ない]
   sound: f000005.mp3
   sound_begin: 17642
   sound_end: 24752
+  sentence: 蝉が鳴いてゐるほかになんにもない！
+  words:
+    - word: 蝉
+      postiion: 0
+    - word: が
+      postiion: 1
+    - word: 鳴い
+      base: 鳴く
+      postiion: 2
+    - word: て
+      postiion: 4
+    - word: ゐる
+      base: 居る
+      postiion: 5
+    - word: ほか
+      base: 他
+      postiion: 7
+    - word: に
+      postiion: 9
+    - word: なんに
+      base: 何
+      postiion: 10
+    - word: も
+      postiion: 13
+    - word: ない
+      base: 無い
+      postiion: 14
 - id: Semi-f000006
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: うつらうつらと僕はする
-  word_list: [うつらうつら, と, 僕, は, する]
   sound: f000006.mp3
   sound_begin: 24752
   sound_end: 28997
+  sentence: うつらうつらと僕はする
+  words:
+    - word: うつらうつら
+      postiion: 0
+    - word: と
+      postiion: 6
+    - word: 僕
+      postiion: 7
+    - word: は
+      postiion: 8
+    - word: する
+      base: 為る
+      postiion: 9
 - id: Semi-f000007
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: ……風もある……
-  word_list: [風, も, ある]
   sound: f000007.mp3
   sound_begin: 28997
   sound_end: 33040
+  sentence: ……風もある……
+  words:
+    - word: 風
+      postiion: 2
+    - word: も
+      postiion: 3
+    - word: ある
+      base: 有る
+      postiion: 4
 - id: Semi-f000008
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: 松林を透いて空が見える
-  word_list: [松林, を, 透い, て, 空, が, 見える]
   sound: f000008.mp3
   sound_begin: 33040
   sound_end: 37080
+  sentence: 松林を透いて空が見える
+  words:
+    - word: 松林
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: 透い
+      base: 透く
+      postiion: 3
+    - word: て
+      postiion: 5
+    - word: 空
+      postiion: 6
+    - word: が
+      postiion: 7
+    - word: 見える
+      postiion: 8
 - id: Semi-f000009
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: うつらうつらと僕はする。
-  word_list: [うつらうつら, と, 僕, は, する]
   sound: f000009.mp3
   sound_begin: 37080
   sound_end: 43520
+  sentence: うつらうつらと僕はする。
+  words:
+    - word: うつらうつら
+      postiion: 0
+    - word: と
+      postiion: 6
+    - word: 僕
+      postiion: 7
+    - word: は
+      postiion: 8
+    - word: する
+      base: 為る
+      postiion: 9
 - id: Semi-f000010
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: 『いいや、
-  word_list: [いいや]
   sound: f000010.mp3
   sound_begin: 43520
   sound_end: 44440
+  sentence: 『いいや、
+  words:
+    - word: いいや
+      base: 否
+      postiion: 1
 - id: Semi-f000011
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: さうぢやない、
-  word_list: [さう, ぢや, ない]
   sound: f000011.mp3
   sound_begin: 44440
   sound_end: 45985
+  sentence: さうぢやない、
+  words:
+    - word: さう
+      base: そう
+      postiion: 0
+    - word: ぢや
+      base: で
+      postiion: 2
+    - word: ない
+      base: 無い
+      postiion: 4
 - id: Semi-f000012
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: さうぢやない！
-  word_list: [さう, ぢや, ない]
   sound: f000012.mp3
   sound_begin: 45985
   sound_end: 47875
+  sentence: さうぢやない！
+  words:
+    - word: さう
+      base: そう
+      postiion: 0
+    - word: ぢや
+      base: で
+      postiion: 2
+    - word: ない
+      base: 無い
+      postiion: 4
 - id: Semi-f000013
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: 』と彼が云ふ
-  word_list: [と, 彼, が, 云ふ]
   sound: f000013.mp3
   sound_begin: 47875
   sound_end: 50579
+  sentence: 』と彼が云ふ
+  words:
+    - word: と
+      postiion: 1
+    - word: 彼
+      postiion: 2
+    - word: が
+      postiion: 3
+    - word: 云ふ
+      base: 言う
+      postiion: 4
 - id: Semi-f000014
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: 『ちがつてゐるよ』と僕がいふ
-  word_list: [ち, がつ, て, ゐる, よ, と, 僕, が, いふ]
   sound: f000014.mp3
   sound_begin: 50579
   sound_end: 56000
+  sentence: 『ちがつてゐるよ』と僕がいふ
+  words:
+    - word: ち
+      base: ちっ
+      postiion: 1
+    - word: がつ
+      postiion: 2
+    - word: て
+      base: って
+      postiion: 4
+    - word: ゐる
+      base: 居る
+      postiion: 5
+    - word: よ
+      postiion: 7
+    - word: と
+      postiion: 9
+    - word: 僕
+      postiion: 10
+    - word: が
+      postiion: 11
+    - word: いふ
+      base: 言う
+      postiion: 12
 - id: Semi-f000015
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: 『いいや、
-  word_list: [いいや]
   sound: f000015.mp3
   sound_begin: 56000
   sound_end: 57360
+  sentence: 『いいや、
+  words:
+    - word: いいや
+      base: 否
+      postiion: 1
 - id: Semi-f000016
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: いいや！
-  word_list: [いい, や]
   sound: f000016.mp3
   sound_begin: 57360
   sound_end: 58912
+  sentence: いいや！
+  words:
+    - word: いい
+      base: 良い
+      postiion: 0
+    - word: や
+      postiion: 2
 - id: Semi-f000017
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: 』と彼が云ふ
-  word_list: [と, 彼, が, 云ふ]
   sound: f000017.mp3
   sound_begin: 58912
   sound_end: 61702
+  sentence: 』と彼が云ふ
+  words:
+    - word: と
+      postiion: 1
+    - word: 彼
+      postiion: 2
+    - word: が
+      postiion: 3
+    - word: 云ふ
+      base: 言う
+      postiion: 4
 - id: Semi-f000018
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: 『ちがつてゐるよ』と僕が云ふ
-  word_list: [ち, がつ, て, ゐる, よ, と, 僕, が, 云ふ]
   sound: f000018.mp3
   sound_begin: 61702
   sound_end: 67737
+  sentence: 『ちがつてゐるよ』と僕が云ふ
+  words:
+    - word: ち
+      base: ちっ
+      postiion: 1
+    - word: がつ
+      postiion: 2
+    - word: て
+      base: って
+      postiion: 4
+    - word: ゐる
+      base: 居る
+      postiion: 5
+    - word: よ
+      postiion: 7
+    - word: と
+      postiion: 9
+    - word: 僕
+      postiion: 10
+    - word: が
+      postiion: 11
+    - word: 云ふ
+      base: 言う
+      postiion: 12
 - id: Semi-f000019
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: と、
-  word_list: [と]
   sound: f000019.mp3
   sound_begin: 67737
   sound_end: 69000
+  sentence: と、
+  words:
+    - word: と
+      postiion: 0
 - id: Semi-f000020
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: 目が覚める、
-  word_list: [目, が, 覚める]
   sound: f000020.mp3
   sound_begin: 69000
   sound_end: 71499
+  sentence: 目が覚める、
+  words:
+    - word: 目
+      postiion: 0
+    - word: が
+      postiion: 1
+    - word: 覚める
+      postiion: 2
 - id: Semi-f000021
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: と、
-  word_list: [と]
   sound: f000021.mp3
   sound_begin: 71499
   sound_end: 72757
+  sentence: と、
+  words:
+    - word: と
+      postiion: 0
 - id: Semi-f000022
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: 彼はもうとつくに死んだ奴なんだ
-  word_list: [彼, は, もう, と, つく, に, 死ん, だ, 奴, な, ん, だ]
   sound: f000022.mp3
   sound_begin: 72757
   sound_end: 79680
+  sentence: 彼はもうとつくに死んだ奴なんだ
+  words:
+    - word: 彼
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: もう
+      postiion: 2
+    - word: と
+      postiion: 4
+    - word: つく
+      postiion: 5
+    - word: に
+      postiion: 7
+    - word: 死ん
+      base: 死ぬ
+      postiion: 8
+    - word: だ
+      base: た
+      postiion: 10
+    - word: 奴
+      postiion: 11
+    - word: な
+      base: だ
+      postiion: 12
+    - word: ん
+      base: の
+      postiion: 13
+    - word: だ
+      postiion: 14
 - id: Semi-f000023
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: それから彼の永眠してゐる、
-  word_list: [それ, から, 彼, の, 永眠, し, て, ゐる]
   sound: f000023.mp3
   sound_begin: 79680
   sound_end: 82400
+  sentence: それから彼の永眠してゐる、
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: から
+      postiion: 2
+    - word: 彼
+      postiion: 4
+    - word: の
+      postiion: 5
+    - word: 永眠
+      postiion: 6
+    - word: し
+      base: 為る
+      postiion: 8
+    - word: て
+      postiion: 9
+    - word: ゐる
+      base: 居る
+      postiion: 10
 - id: Semi-f000024
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: 墓場のことなぞ目に浮ぶ……
-  word_list: [墓場, の, こと, なぞ, 目, に, 浮ぶ]
   sound: f000024.mp3
   sound_begin: 82400
   sound_end: 89280
+  sentence: 墓場のことなぞ目に浮ぶ……
+  words:
+    - word: 墓場
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: こと
+      postiion: 3
+    - word: なぞ
+      base: など
+      postiion: 5
+    - word: 目
+      postiion: 7
+    - word: に
+      postiion: 8
+    - word: 浮ぶ
+      base: 浮かぶ
+      postiion: 9
 - id: Semi-f000025
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: それは中国のとある田舎の、
-  word_list: [それ, は, 中国, の, とある, 田舎, の]
   sound: f000025.mp3
   sound_begin: 89280
   sound_end: 92000
+  sentence: それは中国のとある田舎の、
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: 中国
+      postiion: 3
+    - word: の
+      postiion: 5
+    - word: とある
+      postiion: 6
+    - word: 田舎
+      postiion: 9
+    - word: の
+      postiion: 11
 - id: Semi-f000026
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: 水無河原といふ
-  word_list: [水無, 河原, と, いふ]
   sound: f000026.mp3
   sound_begin: 92000
   sound_end: 95520
+  sentence: 水無河原といふ
+  words:
+    - word: 水無
+      postiion: 0
+    - word: 河原
+      base: 川原
+      postiion: 2
+    - word: と
+      postiion: 4
+    - word: いふ
+      base: 言う
+      postiion: 5
 - id: Semi-f000027
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: 雨の日のほか水のない
-  word_list: [雨, の, 日, の, ほか, 水, の, ない]
   sound: f000027.mp3
   sound_begin: 95520
   sound_end: 99439
+  sentence: 雨の日のほか水のない
+  words:
+    - word: 雨
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 日
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: ほか
+      base: 他
+      postiion: 4
+    - word: 水
+      postiion: 6
+    - word: の
+      postiion: 7
+    - word: ない
+      base: 無い
+      postiion: 8
 - id: Semi-f000028
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: 伝説付の川のほとり、
-  word_list: [伝説, 付, の, 川, の, ほとり]
   sound: f000028.mp3
   sound_begin: 99439
   sound_end: 104579
+  sentence: 伝説付の川のほとり、
+  words:
+    - word: 伝説
+      postiion: 0
+    - word: 付
+      base: 付け
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: 川
+      postiion: 4
+    - word: の
+      postiion: 5
+    - word: ほとり
+      base: 辺
+      postiion: 6
 - id: Semi-f000029
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: 藪蔭の砂土帯の小さな墓場、
-  word_list: [藪, 蔭, の, 砂土, 帯, の, 小さな, 墓場]
   sound: f000029.mp3
   sound_begin: 104579
   sound_end: 107964
+  sentence: 藪蔭の砂土帯の小さな墓場、
+  words:
+    - word: 藪
+      postiion: 0
+    - word: 蔭
+      base: 陰
+      postiion: 1
+    - word: の
+      postiion: 2
+    - word: 砂土
+      postiion: 3
+    - word: 帯
+      postiion: 5
+    - word: の
+      postiion: 6
+    - word: 小さな
+      postiion: 7
+    - word: 墓場
+      postiion: 10
 - id: Semi-f000030
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: ——
-  word_list: []
   sound: f000030.mp3
   sound_begin: 107964
   sound_end: 109791
+  sentence: ——
+  words: []
 - id: Semi-f000031
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: そこにも蝉は鳴いてゐるだろ
-  word_list: [そこ, に, も, 蝉, は, 鳴い, て, ゐる, だろ]
   sound: f000031.mp3
   sound_begin: 109791
   sound_end: 115021
+  sentence: そこにも蝉は鳴いてゐるだろ
+  words:
+    - word: そこ
+      base: 其処
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: も
+      postiion: 3
+    - word: 蝉
+      postiion: 4
+    - word: は
+      postiion: 5
+    - word: 鳴い
+      base: 鳴く
+      postiion: 6
+    - word: て
+      postiion: 8
+    - word: ゐる
+      base: 居る
+      postiion: 9
+    - word: だろ
+      base: だ
+      postiion: 11
 - id: Semi-f000032
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: チラチラ夕陽も射してゐるだろ……
-  word_list: [チラチラ, 夕陽, も, 射し, て, ゐる, だろ]
   sound: f000032.mp3
   sound_begin: 115021
   sound_end: 122200
+  sentence: チラチラ夕陽も射してゐるだろ……
+  words:
+    - word: チラチラ
+      base: ちらちら
+      postiion: 0
+    - word: 夕陽
+      base: 夕日
+      postiion: 4
+    - word: も
+      postiion: 6
+    - word: 射し
+      base: 差す
+      postiion: 7
+    - word: て
+      postiion: 9
+    - word: ゐる
+      base: 居る
+      postiion: 10
+    - word: だろ
+      base: だ
+      postiion: 12
 - id: Semi-f000033
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: 蝉が鳴いてゐる、
-  word_list: [蝉, が, 鳴い, て, ゐる]
   sound: f000033.mp3
   sound_begin: 122200
   sound_end: 125080
+  sentence: 蝉が鳴いてゐる、
+  words:
+    - word: 蝉
+      postiion: 0
+    - word: が
+      postiion: 1
+    - word: 鳴い
+      base: 鳴く
+      postiion: 2
+    - word: て
+      postiion: 4
+    - word: ゐる
+      base: 居る
+      postiion: 5
 - id: Semi-f000034
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: 蝉が鳴いてゐる
-  word_list: [蝉, が, 鳴い, て, ゐる]
   sound: f000034.mp3
   sound_begin: 125080
   sound_end: 128372
+  sentence: 蝉が鳴いてゐる
+  words:
+    - word: 蝉
+      postiion: 0
+    - word: が
+      postiion: 1
+    - word: 鳴い
+      base: 鳴く
+      postiion: 2
+    - word: て
+      postiion: 4
+    - word: ゐる
+      base: 居る
+      postiion: 5
 - id: Semi-f000035
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: 蝉が鳴いてゐるほかなんにもない！
-  word_list: [蝉, が, 鳴い, て, ゐる, ほか, なんに, も, ない]
   sound: f000035.mp3
   sound_begin: 128372
   sound_end: 134600
+  sentence: 蝉が鳴いてゐるほかなんにもない！
+  words:
+    - word: 蝉
+      postiion: 0
+    - word: が
+      postiion: 1
+    - word: 鳴い
+      base: 鳴く
+      postiion: 2
+    - word: て
+      postiion: 4
+    - word: ゐる
+      base: 居る
+      postiion: 5
+    - word: ほか
+      base: 他
+      postiion: 7
+    - word: なんに
+      base: 何
+      postiion: 9
+    - word: も
+      postiion: 12
+    - word: ない
+      base: 無い
+      postiion: 13
 - id: Semi-f000036
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: 僕の怠惰？
-  word_list: [僕, の, 怠惰]
   sound: f000036.mp3
   sound_begin: 134600
   sound_end: 137880
+  sentence: 僕の怠惰？
+  words:
+    - word: 僕
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 怠惰
+      postiion: 2
 - id: Semi-f000037
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: 僕は『怠惰』か？
-  word_list: [僕, は, 怠惰, か]
   sound: f000037.mp3
   sound_begin: 137880
   sound_end: 140880
+  sentence: 僕は『怠惰』か？
+  words:
+    - word: 僕
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: 怠惰
+      postiion: 3
+    - word: か
+      postiion: 6
 - id: Semi-f000038
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: 僕は僕を何とも思はぬ！
-  word_list: [僕, は, 僕, を, 何, と, も, 思は, ぬ]
   sound: f000038.mp3
   sound_begin: 140880
   sound_end: 147600
+  sentence: 僕は僕を何とも思はぬ！
+  words:
+    - word: 僕
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: 僕
+      postiion: 2
+    - word: を
+      postiion: 3
+    - word: 何
+      postiion: 4
+    - word: と
+      postiion: 5
+    - word: も
+      postiion: 6
+    - word: 思は
+      base: 思う
+      postiion: 7
+    - word: ぬ
+      base: ず
+      postiion: 9
 - id: Semi-f000039
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: 蝉が鳴いてゐる、
-  word_list: [蝉, が, 鳴い, て, ゐる]
   sound: f000039.mp3
   sound_begin: 147600
   sound_end: 150800
+  sentence: 蝉が鳴いてゐる、
+  words:
+    - word: 蝉
+      postiion: 0
+    - word: が
+      postiion: 1
+    - word: 鳴い
+      base: 鳴く
+      postiion: 2
+    - word: て
+      postiion: 4
+    - word: ゐる
+      base: 居る
+      postiion: 5
 - id: Semi-f000040
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: 蝉が鳴いてゐる
-  word_list: [蝉, が, 鳴い, て, ゐる]
   sound: f000040.mp3
   sound_begin: 150800
   sound_end: 154120
+  sentence: 蝉が鳴いてゐる
+  words:
+    - word: 蝉
+      postiion: 0
+    - word: が
+      postiion: 1
+    - word: 鳴い
+      base: 鳴く
+      postiion: 2
+    - word: て
+      postiion: 4
+    - word: ゐる
+      base: 居る
+      postiion: 5
 - id: Semi-f000041
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: 蝉が鳴いてゐるほかなんにもない！
-  word_list: [蝉, が, 鳴い, て, ゐる, ほか, なんに, も, ない]
   sound: f000041.mp3
   sound_begin: 154120
   sound_end: 161160
+  sentence: 蝉が鳴いてゐるほかなんにもない！
+  words:
+    - word: 蝉
+      postiion: 0
+    - word: が
+      postiion: 1
+    - word: 鳴い
+      base: 鳴く
+      postiion: 2
+    - word: て
+      postiion: 4
+    - word: ゐる
+      base: 居る
+      postiion: 5
+    - word: ほか
+      base: 他
+      postiion: 7
+    - word: なんに
+      base: 何
+      postiion: 9
+    - word: も
+      postiion: 12
+    - word: ない
+      base: 無い
+      postiion: 13
 - id: Semi-f000042
   author_japanese: 中原 中也
   deck_name: Semi
   deck_name_japanese: 蝉
-  sentence: （一九三三・八・一四）
-  word_list: [一九三三, 八, 一四]
   sound: f000042.mp3
   sound_begin: 161160
   sound_end: 168000
+  sentence: （一九三三・八・一四）
+  words:
+    - word: 一九三三
+      base: '1933'
+      postiion: 1
+    - word: 八
+      base: '8'
+      postiion: 6
+    - word: 一四
+      base: '14'
+      postiion: 8

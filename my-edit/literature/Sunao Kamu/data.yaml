@@ -2,503 +2,1877 @@
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: 砂をかむ
-  word_list: [砂, を, かむ]
   sound: f000002.mp3
   sound_begin: 4374
   sound_end: 8640
+  sentence: 砂をかむ
+  words:
+    - word: 砂
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: かむ
+      postiion: 2
 - id: Sunao Kamu-f000003
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: 五十ちかい年になってはじめて子ができるというのは戸惑うものである。
-  word_list: [五十, ちかい, 年, に, なっ, て, はじめて, 子, が, できる, と, いう, の, は, 戸惑う, もの, で, ある]
   sound: f000003.mp3
   sound_begin: 8640
   sound_end: 15161
+  sentence: 五十ちかい年になってはじめて子ができるというのは戸惑うものである。
+  words:
+    - word: 五十
+      base: '50'
+      postiion: 0
+    - word: ちかい
+      base: 近い
+      postiion: 2
+    - word: 年
+      postiion: 5
+    - word: に
+      postiion: 6
+    - word: なっ
+      base: 成る
+      postiion: 7
+    - word: て
+      postiion: 9
+    - word: はじめて
+      base: 初めて
+      postiion: 10
+    - word: 子
+      postiion: 14
+    - word: が
+      postiion: 15
+    - word: できる
+      base: 出来る
+      postiion: 16
+    - word: と
+      postiion: 19
+    - word: いう
+      base: 言う
+      postiion: 20
+    - word: の
+      postiion: 22
+    - word: は
+      postiion: 23
+    - word: 戸惑う
+      postiion: 24
+    - word: もの
+      base: 物
+      postiion: 27
+    - word: で
+      base: だ
+      postiion: 29
+    - word: ある
+      base: 有る
+      postiion: 30
 - id: Sunao Kamu-f000004
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: できるべくしてできたというのと感じがちがって、
-  word_list: [できる, べく, し, て, でき, た, と, いう, の, と, 感じ, が, ちがっ, て]
   sound: f000004.mp3
   sound_begin: 15161
   sound_end: 19400
+  sentence: できるべくしてできたというのと感じがちがって、
+  words:
+    - word: できる
+      base: 出来る
+      postiion: 0
+    - word: べく
+      base: べし
+      postiion: 3
+    - word: し
+      base: 為る
+      postiion: 5
+    - word: て
+      postiion: 6
+    - word: でき
+      base: 出来る
+      postiion: 7
+    - word: た
+      postiion: 9
+    - word: と
+      postiion: 10
+    - word: いう
+      base: 言う
+      postiion: 11
+    - word: の
+      postiion: 13
+    - word: と
+      postiion: 14
+    - word: 感じ
+      postiion: 15
+    - word: が
+      postiion: 17
+    - word: ちがっ
+      base: 違う
+      postiion: 18
+    - word: て
+      postiion: 21
 - id: Sunao Kamu-f000005
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: ありうべからざることが起ったような気持の方が強いものだ。
-  word_list: [あり, う, べから, ざる, こと, が, 起っ, た, よう, な, 気持, の, 方, が, 強い, もの, だ]
   sound: f000005.mp3
   sound_begin: 19400
   sound_end: 24480
+  sentence: ありうべからざることが起ったような気持の方が強いものだ。
+  words:
+    - word: あり
+      base: 有る
+      postiion: 0
+    - word: う
+      base: 得る
+      postiion: 2
+    - word: べから
+      base: べし
+      postiion: 3
+    - word: ざる
+      base: ず
+      postiion: 6
+    - word: こと
+      postiion: 8
+    - word: が
+      postiion: 10
+    - word: 起っ
+      base: 起こる
+      postiion: 11
+    - word: た
+      postiion: 13
+    - word: よう
+      base: 様
+      postiion: 14
+    - word: な
+      base: だ
+      postiion: 16
+    - word: 気持
+      base: 気持ち
+      postiion: 17
+    - word: の
+      postiion: 19
+    - word: 方
+      postiion: 20
+    - word: が
+      postiion: 21
+    - word: 強い
+      postiion: 22
+    - word: もの
+      base: 物
+      postiion: 24
+    - word: だ
+      postiion: 26
 - id: Sunao Kamu-f000006
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: 大そうてれくさい。
-  word_list: [大そう, てれ, くさい]
   sound: f000006.mp3
   sound_begin: 24480
   sound_end: 27400
+  sentence: 大そうてれくさい。
+  words:
+    - word: 大そう
+      base: 大層
+      postiion: 0
+    - word: てれ
+      base: てる
+      postiion: 3
+    - word: くさい
+      base: 臭い
+      postiion: 5
 - id: Sunao Kamu-f000007
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: お子さんは近ごろ、
-  word_list: [お, 子, さん, は, 近ごろ]
   sound: f000007.mp3
   sound_begin: 27400
   sound_end: 28840
+  sentence: お子さんは近ごろ、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: 子
+      postiion: 1
+    - word: さん
+      postiion: 2
+    - word: は
+      postiion: 4
+    - word: 近ごろ
+      base: 近頃
+      postiion: 5
 - id: Sunao Kamu-f000008
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: なぞと人に云われると、
-  word_list: [なぞ, と, 人, に, 云わ, れる, と]
   sound: f000008.mp3
   sound_begin: 28840
   sound_end: 30680
+  sentence: なぞと人に云われると、
+  words:
+    - word: なぞ
+      base: 謎
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: 人
+      postiion: 3
+    - word: に
+      postiion: 4
+    - word: 云わ
+      base: 言う
+      postiion: 5
+    - word: れる
+      postiion: 7
+    - word: と
+      postiion: 9
 - id: Sunao Kamu-f000009
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: それだけでてれたりしてしまう。
-  word_list: [それ, だけ, で, てれ, たり, し, て, しまう]
   sound: f000009.mp3
   sound_begin: 30680
   sound_end: 35200
+  sentence: それだけでてれたりしてしまう。
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: だけ
+      postiion: 2
+    - word: で
+      postiion: 4
+    - word: てれ
+      base: 照れる
+      postiion: 5
+    - word: たり
+      postiion: 7
+    - word: し
+      base: 為る
+      postiion: 9
+    - word: て
+      postiion: 10
+    - word: しまう
+      base: 仕舞う
+      postiion: 11
 - id: Sunao Kamu-f000010
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: そんなわけで、
-  word_list: [そんな, わけ, で]
   sound: f000010.mp3
   sound_begin: 35200
   sound_end: 36400
+  sentence: そんなわけで、
+  words:
+    - word: そんな
+      postiion: 0
+    - word: わけ
+      base: 訳
+      postiion: 3
+    - word: で
+      base: だ
+      postiion: 5
 - id: Sunao Kamu-f000011
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: 自分を子供になんと呼ばせるかということでは苦労した。
-  word_list: [自分, を, 子供, に, なん, と, 呼ば, せる, か, と, いう, こと, で, は, 苦労, し, た]
   sound: f000011.mp3
   sound_begin: 36400
   sound_end: 41720
+  sentence: 自分を子供になんと呼ばせるかということでは苦労した。
+  words:
+    - word: 自分
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: 子供
+      postiion: 3
+    - word: に
+      postiion: 5
+    - word: なん
+      base: 何
+      postiion: 6
+    - word: と
+      postiion: 8
+    - word: 呼ば
+      base: 呼ぶ
+      postiion: 9
+    - word: せる
+      postiion: 11
+    - word: か
+      postiion: 13
+    - word: と
+      postiion: 14
+    - word: いう
+      base: 言う
+      postiion: 15
+    - word: こと
+      postiion: 17
+    - word: で
+      postiion: 19
+    - word: は
+      postiion: 20
+    - word: 苦労
+      postiion: 21
+    - word: し
+      base: 為る
+      postiion: 23
+    - word: た
+      postiion: 24
 - id: Sunao Kamu-f000012
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: お父さん、
-  word_list: [お, 父さん]
   sound: f000012.mp3
   sound_begin: 41720
   sound_end: 42480
+  sentence: お父さん、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: 父さん
+      postiion: 1
 - id: Sunao Kamu-f000013
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: というのはてれくさくていけない。
-  word_list: [と, いう, の, は, てれ, くさく, て, いけ, ない]
   sound: f000013.mp3
   sound_begin: 42480
   sound_end: 46343
+  sentence: というのはてれくさくていけない。
+  words:
+    - word: と
+      postiion: 0
+    - word: いう
+      base: 言う
+      postiion: 1
+    - word: の
+      postiion: 3
+    - word: は
+      postiion: 4
+    - word: てれ
+      base: 照れる
+      postiion: 5
+    - word: くさく
+      base: 臭い
+      postiion: 7
+    - word: て
+      postiion: 10
+    - word: いけ
+      base: 行く
+      postiion: 11
+    - word: ない
+      postiion: 13
 - id: Sunao Kamu-f000014
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: 子供にお父さんなぞと呼ばれると、
-  word_list: [子供, に, お, 父さん, なぞ, と, 呼ば, れる, と]
   sound: f000014.mp3
   sound_begin: 46343
   sound_end: 49880
+  sentence: 子供にお父さんなぞと呼ばれると、
+  words:
+    - word: 子供
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: お
+      base: 御
+      postiion: 3
+    - word: 父さん
+      postiion: 4
+    - word: なぞ
+      base: など
+      postiion: 7
+    - word: と
+      postiion: 9
+    - word: 呼ば
+      base: 呼ぶ
+      postiion: 10
+    - word: れる
+      postiion: 12
+    - word: と
+      postiion: 14
 - id: Sunao Kamu-f000015
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: 生きてる限りぞッとしなければならないような気持で、
-  word_list: [生き, てる, 限り, ぞッと, し, なけれ, ば, なら, ない, よう, な, 気持, で]
   sound: f000015.mp3
   sound_begin: 49880
   sound_end: 53911
+  sentence: 生きてる限りぞッとしなければならないような気持で、
+  words:
+    - word: 生き
+      base: 生きる
+      postiion: 0
+    - word: てる
+      postiion: 2
+    - word: 限り
+      postiion: 4
+    - word: ぞッと
+      base: ぞっと
+      postiion: 6
+    - word: し
+      base: 為る
+      postiion: 9
+    - word: なけれ
+      base: ない
+      postiion: 10
+    - word: ば
+      postiion: 13
+    - word: なら
+      base: 成る
+      postiion: 14
+    - word: ない
+      postiion: 16
+    - word: よう
+      base: 様
+      postiion: 18
+    - word: な
+      base: だ
+      postiion: 20
+    - word: 気持
+      base: 気持ち
+      postiion: 21
+    - word: で
+      base: だ
+      postiion: 23
 - id: Sunao Kamu-f000016
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: 子供の生れたては気が滅入ってこまったものであった。
-  word_list: [子供, の, 生れ, た, ては, 気, が, 滅入っ, て, こまっ, た, もの, で, あっ, た]
   sound: f000016.mp3
   sound_begin: 53911
   sound_end: 59800
+  sentence: 子供の生れたては気が滅入ってこまったものであった。
+  words:
+    - word: 子供
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 生れ
+      base: 生まれる
+      postiion: 3
+    - word: た
+      postiion: 5
+    - word: ては
+      postiion: 6
+    - word: 気
+      postiion: 8
+    - word: が
+      postiion: 9
+    - word: 滅入っ
+      base: 滅入る
+      postiion: 10
+    - word: て
+      postiion: 13
+    - word: こまっ
+      base: 困る
+      postiion: 14
+    - word: た
+      postiion: 17
+    - word: もの
+      base: 物
+      postiion: 18
+    - word: で
+      base: だ
+      postiion: 20
+    - word: あっ
+      base: 有る
+      postiion: 21
+    - word: た
+      postiion: 23
 - id: Sunao Kamu-f000017
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: 日本では（たぶん外国でもそうらしいが）子ができると女房までにわかに亭主をお父さんと呼びかえるような習いがあるから、
-  word_list: [日本, で, は, たぶん, 外国, で, も, そう, らしい, が, 子, が, できる, と, 女房, まで, にわか, に, 亭主, を, お, 父さん, と, 呼び, かえる, よう, な, 習い, が, ある, から]
   sound: f000017.mp3
   sound_begin: 59800
   sound_end: 70320
+  sentence: 日本では（たぶん外国でもそうらしいが）子ができると女房までにわかに亭主をお父さんと呼びかえるような習いがあるから、
+  words:
+    - word: 日本
+      postiion: 0
+    - word: で
+      postiion: 2
+    - word: は
+      postiion: 3
+    - word: たぶん
+      base: 多分
+      postiion: 5
+    - word: 外国
+      postiion: 8
+    - word: で
+      postiion: 10
+    - word: も
+      postiion: 11
+    - word: そう
+      postiion: 12
+    - word: らしい
+      postiion: 14
+    - word: が
+      postiion: 17
+    - word: 子
+      postiion: 19
+    - word: が
+      postiion: 20
+    - word: できる
+      base: 出来る
+      postiion: 21
+    - word: と
+      postiion: 24
+    - word: 女房
+      postiion: 25
+    - word: まで
+      postiion: 27
+    - word: にわか
+      base: 俄か
+      postiion: 29
+    - word: に
+      base: だ
+      postiion: 29
+    - word: 亭主
+      postiion: 33
+    - word: を
+      postiion: 35
+    - word: お
+      base: 御
+      postiion: 36
+    - word: 父さん
+      postiion: 37
+    - word: と
+      postiion: 40
+    - word: 呼び
+      base: 呼ぶ
+      postiion: 41
+    - word: かえる
+      postiion: 43
+    - word: よう
+      base: 様
+      postiion: 46
+    - word: な
+      base: だ
+      postiion: 48
+    - word: 習い
+      postiion: 49
+    - word: が
+      postiion: 51
+    - word: ある
+      base: 有る
+      postiion: 52
+    - word: から
+      postiion: 54
 - id: Sunao Kamu-f000018
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: いろいろ思い合せて薄気味わるくなるばかりであった。
-  word_list: [いろいろ, 思い, 合せ, て, 薄, 気味, わるく, なる, ばかり, で, あっ, た]
   sound: f000018.mp3
   sound_begin: 70320
   sound_end: 77000
+  sentence: いろいろ思い合せて薄気味わるくなるばかりであった。
+  words:
+    - word: いろいろ
+      base: 色々
+      postiion: 0
+    - word: 思い
+      base: 思う
+      postiion: 4
+    - word: 合せ
+      base: 合う
+      postiion: 6
+    - word: て
+      postiion: 8
+    - word: 薄
+      base: 薄い
+      postiion: 9
+    - word: 気味
+      postiion: 10
+    - word: わるく
+      base: 悪い
+      postiion: 12
+    - word: なる
+      base: 成る
+      postiion: 15
+    - word: ばかり
+      postiion: 17
+    - word: で
+      base: だ
+      postiion: 20
+    - word: あっ
+      base: 有る
+      postiion: 21
+    - word: た
+      postiion: 23
 - id: Sunao Kamu-f000019
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: 結局パパママというのを採用することにしたが、
-  word_list: [結局, パパママ, と, いう, の, を, 採用, する, こと, に, し, た, が]
   sound: f000019.mp3
   sound_begin: 77000
   sound_end: 81210
+  sentence: 結局パパママというのを採用することにしたが、
+  words:
+    - word: 結局
+      postiion: 0
+    - word: パパママ
+      postiion: 2
+    - word: と
+      postiion: 6
+    - word: いう
+      base: 言う
+      postiion: 7
+    - word: の
+      postiion: 9
+    - word: を
+      postiion: 10
+    - word: 採用
+      postiion: 11
+    - word: する
+      base: 為る
+      postiion: 13
+    - word: こと
+      postiion: 15
+    - word: に
+      postiion: 17
+    - word: し
+      base: 為る
+      postiion: 18
+    - word: た
+      postiion: 19
+    - word: が
+      postiion: 20
 - id: Sunao Kamu-f000020
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: これはよその国の言葉だから、
-  word_list: [これ, は, よそ, の, 国, の, 言葉, だ, から]
   sound: f000020.mp3
   sound_begin: 81210
   sound_end: 84040
+  sentence: これはよその国の言葉だから、
+  words:
+    - word: これ
+      base: 此れ
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: よそ
+      base: 余所
+      postiion: 3
+    - word: の
+      postiion: 5
+    - word: 国
+      postiion: 6
+    - word: の
+      postiion: 7
+    - word: 言葉
+      postiion: 8
+    - word: だ
+      postiion: 10
+    - word: から
+      postiion: 11
 - id: Sunao Kamu-f000021
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: 全然実感がなくてよい。
-  word_list: [全然, 実感, が, なく, て, よい]
   sound: f000021.mp3
   sound_begin: 84040
   sound_end: 86321
+  sentence: 全然実感がなくてよい。
+  words:
+    - word: 全然
+      postiion: 0
+    - word: 実感
+      postiion: 2
+    - word: が
+      postiion: 4
+    - word: なく
+      base: 無い
+      postiion: 5
+    - word: て
+      postiion: 7
+    - word: よい
+      base: 良い
+      postiion: 8
 - id: Sunao Kamu-f000022
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: 陰にこもったところがない。
-  word_list: [陰, に, こもっ, た, ところ, が, ない]
   sound: f000022.mp3
   sound_begin: 86321
   sound_end: 89880
+  sentence: 陰にこもったところがない。
+  words:
+    - word: 陰
+      postiion: 0
+    - word: に
+      postiion: 1
+    - word: こもっ
+      base: 籠もる
+      postiion: 2
+    - word: た
+      postiion: 5
+    - word: ところ
+      base: 所
+      postiion: 6
+    - word: が
+      postiion: 9
+    - word: ない
+      base: 無い
+      postiion: 10
 - id: Sunao Kamu-f000023
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: 子供や女房にパパとよばれても人ごとのようにサラサラしていて直接肌にさわられるようなイヤらしさがなくてよかった。
-  word_list: [子供, や, 女房, に, パパ, と, よば, れ, て, も, 人ごと, の, よう, に, サラサラ, し, て, い, て, 直接, 肌, に, さわら, れる, よう, な, イヤ, らし, さ, が, なく, て, よかっ, た]
   sound: f000023.mp3
   sound_begin: 89880
   sound_end: 101261
+  sentence: 子供や女房にパパとよばれても人ごとのようにサラサラしていて直接肌にさわられるようなイヤらしさがなくてよかった。
+  words:
+    - word: 子供
+      postiion: 0
+    - word: や
+      postiion: 2
+    - word: 女房
+      postiion: 3
+    - word: に
+      postiion: 5
+    - word: パパ
+      postiion: 6
+    - word: と
+      postiion: 8
+    - word: よば
+      base: 呼ぶ
+      postiion: 9
+    - word: れ
+      base: れる
+      postiion: 11
+    - word: て
+      postiion: 12
+    - word: も
+      postiion: 13
+    - word: 人ごと
+      base: 他人事
+      postiion: 14
+    - word: の
+      postiion: 17
+    - word: よう
+      base: 様
+      postiion: 18
+    - word: に
+      base: だ
+      postiion: 20
+    - word: サラサラ
+      base: さらさら
+      postiion: 21
+    - word: し
+      base: 為る
+      postiion: 25
+    - word: て
+      postiion: 26
+    - word: い
+      base: 居る
+      postiion: 27
+    - word: て
+      postiion: 28
+    - word: 直接
+      postiion: 29
+    - word: 肌
+      postiion: 31
+    - word: に
+      postiion: 32
+    - word: さわら
+      base: さわる
+      postiion: 33
+    - word: れる
+      postiion: 36
+    - word: よう
+      base: 様
+      postiion: 38
+    - word: な
+      base: だ
+      postiion: 40
+    - word: イヤ
+      base: 嫌
+      postiion: 41
+    - word: らし
+      base: らしい
+      postiion: 43
+    - word: さ
+      postiion: 45
+    - word: が
+      postiion: 46
+    - word: なく
+      base: 無い
+      postiion: 47
+    - word: て
+      postiion: 49
+    - word: よかっ
+      base: 良い
+      postiion: 50
+    - word: た
+      postiion: 53
 - id: Sunao Kamu-f000024
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: けれども、
-  word_list: [けれど, も]
   sound: f000024.mp3
   sound_begin: 101261
   sound_end: 102720
+  sentence: けれども、
+  words:
+    - word: けれど
+      postiion: 0
+    - word: も
+      postiion: 3
 - id: Sunao Kamu-f000025
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: なにぶん五十にもなって生れてはじめて使いはじめた言葉であるから、
-  word_list: [なにぶん, 五十, に, も, なっ, て, 生れ, て, はじめて, 使い, はじめ, た, 言葉, で, ある, から]
   sound: f000025.mp3
   sound_begin: 102720
   sound_end: 108067
+  sentence: なにぶん五十にもなって生れてはじめて使いはじめた言葉であるから、
+  words:
+    - word: なにぶん
+      base: 何分
+      postiion: 0
+    - word: 五十
+      base: '50'
+      postiion: 4
+    - word: に
+      postiion: 6
+    - word: も
+      postiion: 7
+    - word: なっ
+      base: 成る
+      postiion: 8
+    - word: て
+      postiion: 10
+    - word: 生れ
+      base: 生まれる
+      postiion: 11
+    - word: て
+      postiion: 13
+    - word: はじめて
+      base: 初めて
+      postiion: 14
+    - word: 使い
+      base: 使う
+      postiion: 18
+    - word: はじめ
+      base: 始める
+      postiion: 20
+    - word: た
+      postiion: 23
+    - word: 言葉
+      postiion: 24
+    - word: で
+      base: だ
+      postiion: 26
+    - word: ある
+      base: 有る
+      postiion: 27
+    - word: から
+      postiion: 29
 - id: Sunao Kamu-f000026
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: 使う方でも全然実感がわかないのである。
-  word_list: [使う, 方, で, も, 全然, 実感, が, わか, ない, の, で, ある]
   sound: f000026.mp3
   sound_begin: 108067
   sound_end: 113006
+  sentence: 使う方でも全然実感がわかないのである。
+  words:
+    - word: 使う
+      postiion: 0
+    - word: 方
+      postiion: 2
+    - word: で
+      postiion: 3
+    - word: も
+      postiion: 4
+    - word: 全然
+      postiion: 5
+    - word: 実感
+      postiion: 7
+    - word: が
+      postiion: 9
+    - word: わか
+      base: わく
+      postiion: 10
+    - word: ない
+      postiion: 12
+    - word: の
+      postiion: 14
+    - word: で
+      base: だ
+      postiion: 15
+    - word: ある
+      base: 有る
+      postiion: 16
 - id: Sunao Kamu-f000027
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: 父がパパで、
-  word_list: [父, が, パパ, で]
   sound: f000027.mp3
   sound_begin: 113006
   sound_end: 114720
+  sentence: 父がパパで、
+  words:
+    - word: 父
+      postiion: 0
+    - word: が
+      postiion: 1
+    - word: パパ
+      postiion: 2
+    - word: で
+      postiion: 4
 - id: Sunao Kamu-f000028
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: 母がママだというのは英語の本を読む時には間違う心配がないものだが、
-  word_list: [母, が, ママ, だ, と, いう, の, は, 英語, の, 本, を, 読む, 時, に, は, 間違う, 心配, が, ない, もの, だ, が]
   sound: f000028.mp3
   sound_begin: 114720
   sound_end: 121160
+  sentence: 母がママだというのは英語の本を読む時には間違う心配がないものだが、
+  words:
+    - word: 母
+      postiion: 0
+    - word: が
+      postiion: 1
+    - word: ママ
+      postiion: 2
+    - word: だ
+      postiion: 4
+    - word: と
+      postiion: 5
+    - word: いう
+      base: 言う
+      postiion: 6
+    - word: の
+      postiion: 8
+    - word: は
+      postiion: 9
+    - word: 英語
+      postiion: 10
+    - word: の
+      postiion: 12
+    - word: 本
+      postiion: 13
+    - word: を
+      postiion: 14
+    - word: 読む
+      postiion: 15
+    - word: 時
+      postiion: 17
+    - word: に
+      postiion: 18
+    - word: は
+      postiion: 19
+    - word: 間違う
+      postiion: 20
+    - word: 心配
+      postiion: 23
+    - word: が
+      postiion: 25
+    - word: ない
+      base: 無い
+      postiion: 26
+    - word: もの
+      base: 物
+      postiion: 28
+    - word: だ
+      postiion: 30
+    - word: が
+      postiion: 31
 - id: Sunao Kamu-f000029
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: さて当人が日常実用するとなるとそうはいかないもので、
-  word_list: [さて, 当人, が, 日常, 実用, する, と, なる, と, そう, は, いか, ない, もの, で]
   sound: f000029.mp3
   sound_begin: 121160
   sound_end: 126693
+  sentence: さて当人が日常実用するとなるとそうはいかないもので、
+  words:
+    - word: さて
+      base: 扠
+      postiion: 0
+    - word: 当人
+      postiion: 2
+    - word: が
+      postiion: 4
+    - word: 日常
+      postiion: 5
+    - word: 実用
+      postiion: 7
+    - word: する
+      base: 為る
+      postiion: 9
+    - word: と
+      postiion: 11
+    - word: なる
+      base: 成る
+      postiion: 12
+    - word: と
+      postiion: 14
+    - word: そう
+      postiion: 15
+    - word: は
+      postiion: 17
+    - word: いか
+      base: 行く
+      postiion: 18
+    - word: ない
+      postiion: 20
+    - word: もの
+      base: 物
+      postiion: 22
+    - word: で
+      base: だ
+      postiion: 24
 - id: Sunao Kamu-f000030
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: 自分のことをママと云ってしまったり、
-  word_list: [自分, の, こと, を, ママ, と, 云っ, て, しまっ, たり]
   sound: f000030.mp3
   sound_begin: 126693
   sound_end: 130360
+  sentence: 自分のことをママと云ってしまったり、
+  words:
+    - word: 自分
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: こと
+      postiion: 3
+    - word: を
+      postiion: 5
+    - word: ママ
+      postiion: 6
+    - word: と
+      postiion: 8
+    - word: 云っ
+      base: 言う
+      postiion: 9
+    - word: て
+      postiion: 11
+    - word: しまっ
+      base: 仕舞う
+      postiion: 12
+    - word: たり
+      postiion: 15
 - id: Sunao Kamu-f000031
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: 女房をパパと云ってしまったりで、
-  word_list: [女房, を, パパ, と, 云っ, て, しまっ, たり, で]
   sound: f000031.mp3
   sound_begin: 130360
   sound_end: 132680
+  sentence: 女房をパパと云ってしまったりで、
+  words:
+    - word: 女房
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: パパ
+      postiion: 3
+    - word: と
+      postiion: 5
+    - word: 云っ
+      base: 言う
+      postiion: 6
+    - word: て
+      postiion: 8
+    - word: しまっ
+      base: 仕舞う
+      postiion: 9
+    - word: たり
+      postiion: 12
+    - word: で
+      base: だ
+      postiion: 14
 - id: Sunao Kamu-f000032
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: 混乱してしまう。
-  word_list: [混乱, し, て, しまう]
   sound: f000032.mp3
   sound_begin: 132680
   sound_end: 136000
+  sentence: 混乱してしまう。
+  words:
+    - word: 混乱
+      postiion: 0
+    - word: し
+      base: 為る
+      postiion: 2
+    - word: て
+      postiion: 3
+    - word: しまう
+      base: 仕舞う
+      postiion: 4
 - id: Sunao Kamu-f000033
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: 一度その混乱がはじまると、
-  word_list: [一度, その, 混乱, が, はじまる, と]
   sound: f000033.mp3
   sound_begin: 136000
   sound_end: 138680
+  sentence: 一度その混乱がはじまると、
+  words:
+    - word: 一度
+      postiion: 0
+    - word: その
+      base: 其の
+      postiion: 2
+    - word: 混乱
+      postiion: 4
+    - word: が
+      postiion: 6
+    - word: はじまる
+      base: 始まる
+      postiion: 7
+    - word: と
+      postiion: 11
 - id: Sunao Kamu-f000034
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: それが意識にからむから、
-  word_list: [それ, が, 意識, に, からむ, から]
   sound: f000034.mp3
   sound_begin: 138680
   sound_end: 140760
+  sentence: それが意識にからむから、
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: が
+      postiion: 2
+    - word: 意識
+      postiion: 3
+    - word: に
+      postiion: 5
+    - word: からむ
+      base: 絡む
+      postiion: 6
+    - word: から
+      postiion: 6
 - id: Sunao Kamu-f000035
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: 益々混乱がはげしくなる。
-  word_list: [益々, 混乱, が, はげしく, なる]
   sound: f000035.mp3
   sound_begin: 140760
   sound_end: 144480
+  sentence: 益々混乱がはげしくなる。
+  words:
+    - word: 益々
+      postiion: 0
+    - word: 混乱
+      postiion: 2
+    - word: が
+      postiion: 4
+    - word: はげしく
+      base: 激しい
+      postiion: 5
+    - word: なる
+      base: 成る
+      postiion: 9
 - id: Sunao Kamu-f000036
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: 五十の手習いはおそすぎるということをしみじみ味った次第である。
-  word_list: [五十, の, 手習い, は, おそ, すぎる, と, いう, こと, を, しみじみ, 味っ, た, 次第, で, ある]
   sound: f000036.mp3
   sound_begin: 144480
   sound_end: 152640
+  sentence: 五十の手習いはおそすぎるということをしみじみ味った次第である。
+  words:
+    - word: 五十
+      base: '50'
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 手習い
+      postiion: 3
+    - word: は
+      postiion: 6
+    - word: おそ
+      base: 遅い
+      postiion: 7
+    - word: すぎる
+      base: 過ぎる
+      postiion: 9
+    - word: と
+      postiion: 12
+    - word: いう
+      base: 言う
+      postiion: 13
+    - word: こと
+      postiion: 15
+    - word: を
+      postiion: 17
+    - word: しみじみ
+      base: 染み染み
+      postiion: 18
+    - word: 味っ
+      base: 味わう
+      postiion: 22
+    - word: た
+      postiion: 24
+    - word: 次第
+      postiion: 25
+    - word: で
+      base: だ
+      postiion: 27
+    - word: ある
+      base: 有る
+      postiion: 28
 - id: Sunao Kamu-f000037
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: オヤジがこの状態であるから、
-  word_list: [オヤジ, が, この, 状態, で, ある, から]
   sound: f000037.mp3
   sound_begin: 152640
   sound_end: 154760
+  sentence: オヤジがこの状態であるから、
+  words:
+    - word: オヤジ
+      base: 親父
+      postiion: 0
+    - word: が
+      postiion: 3
+    - word: この
+      base: 此の
+      postiion: 4
+    - word: 状態
+      postiion: 6
+    - word: で
+      base: だ
+      postiion: 8
+    - word: ある
+      base: 有る
+      postiion: 9
+    - word: から
+      postiion: 11
 - id: Sunao Kamu-f000038
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: ちかごろ子供の奴がパパとママに混乱を起してしまった。
-  word_list: [ちかごろ, 子供, の, 奴, が, パパ, と, ママ, に, 混乱, を, 起し, て, しまっ, た]
   sound: f000038.mp3
   sound_begin: 154760
   sound_end: 161840
+  sentence: ちかごろ子供の奴がパパとママに混乱を起してしまった。
+  words:
+    - word: ちかごろ
+      base: 近頃
+      postiion: 0
+    - word: 子供
+      postiion: 4
+    - word: の
+      postiion: 6
+    - word: 奴
+      postiion: 7
+    - word: が
+      postiion: 8
+    - word: パパ
+      postiion: 9
+    - word: と
+      postiion: 11
+    - word: ママ
+      postiion: 12
+    - word: に
+      postiion: 14
+    - word: 混乱
+      postiion: 15
+    - word: を
+      postiion: 17
+    - word: 起し
+      base: 起こす
+      postiion: 18
+    - word: て
+      postiion: 20
+    - word: しまっ
+      base: 仕舞う
+      postiion: 21
+    - word: た
+      postiion: 24
 - id: Sunao Kamu-f000039
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: 奴も自信がなくなってしまって、
-  word_list: [奴, も, 自信, が, なくなっ, て, しまっ, て]
   sound: f000039.mp3
   sound_begin: 161840
   sound_end: 164560
+  sentence: 奴も自信がなくなってしまって、
+  words:
+    - word: 奴
+      postiion: 0
+    - word: も
+      postiion: 1
+    - word: 自信
+      postiion: 2
+    - word: が
+      postiion: 4
+    - word: なくなっ
+      base: なくなる
+      postiion: 5
+    - word: て
+      postiion: 9
+    - word: しまっ
+      base: 仕舞う
+      postiion: 10
+    - word: て
+      postiion: 13
 - id: Sunao Kamu-f000040
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: 私をママとよんで様子を見たり、
-  word_list: [私, を, ママ, と, よん, で, 様子, を, 見, たり]
   sound: f000040.mp3
   sound_begin: 164560
   sound_end: 167703
+  sentence: 私をママとよんで様子を見たり、
+  words:
+    - word: 私
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: ママ
+      postiion: 2
+    - word: と
+      postiion: 4
+    - word: よん
+      base: 呼ぶ
+      postiion: 5
+    - word: で
+      postiion: 7
+    - word: 様子
+      postiion: 8
+    - word: を
+      postiion: 10
+    - word: 見
+      base: 見る
+      postiion: 11
+    - word: たり
+      postiion: 12
 - id: Sunao Kamu-f000041
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: パパとよんで、
-  word_list: [パパ, と, よん, で]
   sound: f000041.mp3
   sound_begin: 167703
   sound_end: 169400
+  sentence: パパとよんで、
+  words:
+    - word: パパ
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: よん
+      base: 呼ぶ
+      postiion: 3
+    - word: で
+      postiion: 5
 - id: Sunao Kamu-f000042
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: すぐママと云い直してみたりのあげく、
-  word_list: [すぐ, ママ, と, 云い, 直し, て, み, たり, の, あげく]
   sound: f000042.mp3
   sound_begin: 169400
   sound_end: 173011
+  sentence: すぐママと云い直してみたりのあげく、
+  words:
+    - word: すぐ
+      base: 直ぐ
+      postiion: 0
+    - word: ママ
+      postiion: 2
+    - word: と
+      postiion: 4
+    - word: 云い
+      base: 言う
+      postiion: 5
+    - word: 直し
+      base: 直す
+      postiion: 7
+    - word: て
+      postiion: 9
+    - word: み
+      base: 見る
+      postiion: 10
+    - word: たり
+      postiion: 11
+    - word: の
+      postiion: 13
+    - word: あげく
+      base: 挙げ句
+      postiion: 14
 - id: Sunao Kamu-f000043
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: ちかごろでは私と女房のどちらに話しかけるにもパパママと二ツつづけて云うようになった。
-  word_list: [ちかごろ, で, は, 私, と, 女房, の, どちら, に, 話し, かける, に, も, パパママ, と, 二, ツ, つづけ, て, 云う, よう, に, なっ, た]
   sound: f000043.mp3
   sound_begin: 173011
   sound_end: 182560
+  sentence: ちかごろでは私と女房のどちらに話しかけるにもパパママと二ツつづけて云うようになった。
+  words:
+    - word: ちかごろ
+      base: 近頃
+      postiion: 0
+    - word: で
+      postiion: 4
+    - word: は
+      postiion: 5
+    - word: 私
+      postiion: 6
+    - word: と
+      postiion: 7
+    - word: 女房
+      postiion: 8
+    - word: の
+      postiion: 10
+    - word: どちら
+      postiion: 11
+    - word: に
+      postiion: 14
+    - word: 話し
+      base: 話す
+      postiion: 15
+    - word: かける
+      base: 掛ける
+      postiion: 17
+    - word: に
+      postiion: 20
+    - word: も
+      postiion: 21
+    - word: パパママ
+      postiion: 22
+    - word: と
+      postiion: 26
+    - word: 二
+      base: '2'
+      postiion: 27
+    - word: ツ
+      base: つ
+      postiion: 28
+    - word: つづけ
+      base: 続ける
+      postiion: 29
+    - word: て
+      postiion: 32
+    - word: 云う
+      base: 言う
+      postiion: 33
+    - word: よう
+      base: 様
+      postiion: 35
+    - word: に
+      base: だ
+      postiion: 37
+    - word: なっ
+      base: 成る
+      postiion: 38
+    - word: た
+      postiion: 40
 - id: Sunao Kamu-f000044
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: 私も女房もパパママである。
-  word_list: [私, も, 女房, も, パパママ, で, ある]
   sound: f000044.mp3
   sound_begin: 182560
   sound_end: 186840
+  sentence: 私も女房もパパママである。
+  words:
+    - word: 私
+      postiion: 0
+    - word: も
+      postiion: 1
+    - word: 女房
+      postiion: 2
+    - word: も
+      postiion: 4
+    - word: パパママ
+      postiion: 5
+    - word: で
+      base: だ
+      postiion: 9
+    - word: ある
+      base: 有る
+      postiion: 10
 - id: Sunao Kamu-f000045
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: なるほどこれならどちらか当っているから心配ない。
-  word_list: [なるほど, これ, なら, どちら, か, 当っ, て, いる, から, 心配, ない]
   sound: f000045.mp3
   sound_begin: 186840
   sound_end: 192600
+  sentence: なるほどこれならどちらか当っているから心配ない。
+  words:
+    - word: なるほど
+      base: 成る程
+      postiion: 0
+    - word: これ
+      base: 此れ
+      postiion: 4
+    - word: なら
+      base: だ
+      postiion: 6
+    - word: どちら
+      postiion: 8
+    - word: か
+      postiion: 11
+    - word: 当っ
+      base: 当たる
+      postiion: 12
+    - word: て
+      postiion: 14
+    - word: いる
+      base: 居る
+      postiion: 15
+    - word: から
+      postiion: 17
+    - word: 心配
+      postiion: 19
+    - word: ない
+      base: 無い
+      postiion: 21
 - id: Sunao Kamu-f000046
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: 奴めも、
-  word_list: [奴, め, も]
   sound: f000046.mp3
   sound_begin: 192600
   sound_end: 193360
+  sentence: 奴めも、
+  words:
+    - word: 奴
+      postiion: 0
+    - word: め
+      postiion: 1
+    - word: も
+      postiion: 2
 - id: Sunao Kamu-f000047
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: これなら、
-  word_list: [これ, なら]
   sound: f000047.mp3
   sound_begin: 193360
   sound_end: 194520
+  sentence: これなら、
+  words:
+    - word: これ
+      base: 此れ
+      postiion: 0
+    - word: なら
+      base: だ
+      postiion: 2
 - id: Sunao Kamu-f000048
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: という自信ありげな顔である。
-  word_list: [と, いう, 自信, あり, げ, な, 顔, で, ある]
   sound: f000048.mp3
   sound_begin: 194520
   sound_end: 198120
+  sentence: という自信ありげな顔である。
+  words:
+    - word: と
+      postiion: 0
+    - word: いう
+      base: 言う
+      postiion: 1
+    - word: 自信
+      postiion: 3
+    - word: あり
+      base: 有る
+      postiion: 5
+    - word: げ
+      postiion: 7
+    - word: な
+      base: だ
+      postiion: 8
+    - word: 顔
+      postiion: 9
+    - word: で
+      base: だ
+      postiion: 10
+    - word: ある
+      base: 有る
+      postiion: 11
 - id: Sunao Kamu-f000049
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: そういう子供の顔を見ると、
-  word_list: [そう, いう, 子供, の, 顔, を, 見る, と]
   sound: f000049.mp3
   sound_begin: 198120
   sound_end: 200600
+  sentence: そういう子供の顔を見ると、
+  words:
+    - word: そう
+      postiion: 0
+    - word: いう
+      base: 言う
+      postiion: 2
+    - word: 子供
+      postiion: 4
+    - word: の
+      postiion: 6
+    - word: 顔
+      postiion: 7
+    - word: を
+      postiion: 8
+    - word: 見る
+      postiion: 9
+    - word: と
+      postiion: 11
 - id: Sunao Kamu-f000050
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: なさけないことになったなと思う。
-  word_list: [なさけない, こと, に, なっ, た, な, と, 思う]
   sound: f000050.mp3
   sound_begin: 200600
   sound_end: 204320
+  sentence: なさけないことになったなと思う。
+  words:
+    - word: なさけない
+      base: 情けない
+      postiion: 0
+    - word: こと
+      postiion: 5
+    - word: に
+      postiion: 7
+    - word: なっ
+      base: 成る
+      postiion: 8
+    - word: た
+      postiion: 10
+    - word: な
+      postiion: 11
+    - word: と
+      postiion: 12
+    - word: 思う
+      postiion: 13
 - id: Sunao Kamu-f000051
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: よその国の言葉をうかつに日常用に採用すべきではないらしい。
-  word_list: [よそ, の, 国, の, 言葉, を, うかつ, に, 日常, 用, に, 採用, す, べき, で, は, ない, らしい]
   sound: f000051.mp3
   sound_begin: 204320
   sound_end: 211400
+  sentence: よその国の言葉をうかつに日常用に採用すべきではないらしい。
+  words:
+    - word: よそ
+      base: 余所
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 国
+      postiion: 3
+    - word: の
+      postiion: 4
+    - word: 言葉
+      postiion: 5
+    - word: を
+      postiion: 7
+    - word: うかつ
+      base: 迂闊
+      postiion: 8
+    - word: に
+      base: だ
+      postiion: 11
+    - word: 日常
+      postiion: 12
+    - word: 用
+      postiion: 14
+    - word: に
+      postiion: 15
+    - word: 採用
+      postiion: 16
+    - word: す
+      base: 為る
+      postiion: 18
+    - word: べき
+      base: べし
+      postiion: 19
+    - word: で
+      base: だ
+      postiion: 21
+    - word: は
+      postiion: 22
+    - word: ない
+      base: 無い
+      postiion: 23
+    - word: らしい
+      postiion: 25
 - id: Sunao Kamu-f000052
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: もっともこれは私だけで、
-  word_list: [もっとも, これ, は, 私, だけ, で]
   sound: f000052.mp3
   sound_begin: 211400
   sound_end: 213960
+  sentence: もっともこれは私だけで、
+  words:
+    - word: もっとも
+      base: 尤も
+      postiion: 0
+    - word: これ
+      base: 此れ
+      postiion: 4
+    - word: は
+      postiion: 6
+    - word: 私
+      postiion: 7
+    - word: だけ
+      postiion: 8
+    - word: で
+      base: だ
+      postiion: 10
 - id: Sunao Kamu-f000053
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: 女房はマチガイを起さないから、
-  word_list: [女房, は, マチガイ, を, 起さ, ない, から]
   sound: f000053.mp3
   sound_begin: 213960
   sound_end: 216200
+  sentence: 女房はマチガイを起さないから、
+  words:
+    - word: 女房
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: マチガイ
+      base: 間違い
+      postiion: 3
+    - word: を
+      postiion: 7
+    - word: 起さ
+      base: 起こす
+      postiion: 8
+    - word: ない
+      postiion: 10
+    - word: から
+      postiion: 12
 - id: Sunao Kamu-f000054
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: 年のせいかと考えている。
-  word_list: [年, の, せい, か, と, 考え, て, いる]
   sound: f000054.mp3
   sound_begin: 216200
   sound_end: 220160
+  sentence: 年のせいかと考えている。
+  words:
+    - word: 年
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: せい
+      postiion: 2
+    - word: か
+      postiion: 4
+    - word: と
+      postiion: 5
+    - word: 考え
+      base: 考える
+      postiion: 6
+    - word: て
+      postiion: 8
+    - word: いる
+      base: 居る
+      postiion: 9
 - id: Sunao Kamu-f000055
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: できないつもりの子供ができた戸惑いであろう。
-  word_list: [でき, ない, つもり, の, 子供, が, でき, た, 戸惑い, で, あろう]
   sound: f000055.mp3
   sound_begin: 220160
   sound_end: 224200
+  sentence: できないつもりの子供ができた戸惑いであろう。
+  words:
+    - word: でき
+      base: 出来る
+      postiion: 0
+    - word: ない
+      postiion: 2
+    - word: つもり
+      base: 積もり
+      postiion: 4
+    - word: の
+      postiion: 7
+    - word: 子供
+      postiion: 8
+    - word: が
+      postiion: 10
+    - word: でき
+      base: 出来る
+      postiion: 11
+    - word: た
+      postiion: 13
+    - word: 戸惑い
+      postiion: 14
+    - word: で
+      base: だ
+      postiion: 17
+    - word: あろう
+      base: 有る
+      postiion: 18
 - id: Sunao Kamu-f000056
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: 一生つづくものと覚悟はしているが、
-  word_list: [一生, つづく, もの, と, 覚悟, は, し, て, いる, が]
   sound: f000056.mp3
   sound_begin: 224200
   sound_end: 227360
+  sentence: 一生つづくものと覚悟はしているが、
+  words:
+    - word: 一生
+      postiion: 0
+    - word: つづく
+      base: 続く
+      postiion: 2
+    - word: もの
+      base: 物
+      postiion: 5
+    - word: と
+      postiion: 7
+    - word: 覚悟
+      postiion: 8
+    - word: は
+      postiion: 10
+    - word: し
+      base: 為る
+      postiion: 11
+    - word: て
+      postiion: 12
+    - word: いる
+      base: 居る
+      postiion: 13
+    - word: が
+      postiion: 15
 - id: Sunao Kamu-f000057
   author_japanese: 坂口 安吾
   deck_name: Sunao Kamu
   deck_name_japanese: 砂をかむ
-  sentence: 砂をかむような味である。
-  word_list: [砂, を, かむ, よう, な, 味, で, ある]
   sound: f000057.mp3
   sound_begin: 227360
   sound_end: 230600
+  sentence: 砂をかむような味である。
+  words:
+    - word: 砂
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: かむ
+      postiion: 2
+    - word: よう
+      base: 様
+      postiion: 4
+    - word: な
+      base: だ
+      postiion: 6
+    - word: 味
+      postiion: 7
+    - word: で
+      base: だ
+      postiion: 8
+    - word: ある
+      base: 有る
+      postiion: 9

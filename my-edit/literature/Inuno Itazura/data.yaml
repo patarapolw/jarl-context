@@ -2,809 +2,2496 @@
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 犬のいたずら
-  word_list: [犬, の, いたずら]
   sound: f000002.mp3
   sound_begin: 7080
   sound_end: 8960
+  sentence: 犬のいたずら
+  words:
+    - word: 犬
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: いたずら
+      base: 悪戯
+      postiion: 2
 - id: Inuno Itazura-f000003
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 去年の十二月の三十一日の真夜中の事でした。
-  word_list: [去年, の, 十二, 月, の, 三十一, 日, の, 真, 夜中, の, 事, でし, た]
   sound: f000003.mp3
   sound_begin: 14112
   sound_end: 22560
+  sentence: 去年の十二月の三十一日の真夜中の事でした。
+  words:
+    - word: 去年
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 十二
+      base: '12'
+      postiion: 3
+    - word: 月
+      postiion: 5
+    - word: の
+      postiion: 6
+    - word: 三十一
+      base: '31'
+      postiion: 7
+    - word: 日
+      postiion: 10
+    - word: の
+      postiion: 11
+    - word: 真
+      postiion: 12
+    - word: 夜中
+      postiion: 13
+    - word: の
+      postiion: 15
+    - word: 事
+      postiion: 16
+    - word: でし
+      base: です
+      postiion: 17
+    - word: た
+      postiion: 19
 - id: Inuno Itazura-f000004
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 一匹の猪と一匹の犬がある都の寒い寒い風の吹く四辻でヒョッコリと出会いました。
-  word_list: [一, 匹, の, 猪, と, 一, 匹, の, 犬, が, ある, 都, の, 寒い, 寒い, 風, の, 吹く, 四辻, で, ヒョッコリ, と, 出, 会い, まし, た]
   sound: f000004.mp3
   sound_begin: 22560
   sound_end: 36480
+  sentence: 一匹の猪と一匹の犬がある都の寒い寒い風の吹く四辻でヒョッコリと出会いました。
+  words:
+    - word: 一
+      base: '1'
+      postiion: 0
+    - word: 匹
+      postiion: 1
+    - word: の
+      postiion: 2
+    - word: 猪
+      postiion: 3
+    - word: と
+      postiion: 4
+    - word: 一
+      base: '1'
+      postiion: 5
+    - word: 匹
+      postiion: 6
+    - word: の
+      postiion: 7
+    - word: 犬
+      postiion: 8
+    - word: が
+      postiion: 9
+    - word: ある
+      base: 有る
+      postiion: 10
+    - word: 都
+      postiion: 12
+    - word: の
+      postiion: 13
+    - word: 寒い
+      postiion: 14
+    - word: 寒い
+      postiion: 14
+    - word: 風
+      postiion: 18
+    - word: の
+      postiion: 19
+    - word: 吹く
+      postiion: 20
+    - word: 四辻
+      postiion: 22
+    - word: で
+      postiion: 24
+    - word: ヒョッコリ
+      base: ひょっこり
+      postiion: 25
+    - word: と
+      postiion: 30
+    - word: 出
+      base: 出る
+      postiion: 31
+    - word: 会い
+      base: 会う
+      postiion: 32
+    - word: まし
+      base: ます
+      postiion: 34
+    - word: た
+      postiion: 36
 - id: Inuno Itazura-f000005
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 「ヤア犬さん、
-  word_list: [ヤア, 犬, さん]
   sound: f000005.mp3
   sound_begin: 36480
   sound_end: 38040
+  sentence: 「ヤア犬さん、
+  words:
+    - word: ヤア
+      postiion: 1
+    - word: 犬
+      postiion: 3
+    - word: さん
+      postiion: 4
 - id: Inuno Itazura-f000006
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: もう帰るのかね」
-  word_list: [もう, 帰る, の, か, ね]
   sound: f000006.mp3
   sound_begin: 38040
   sound_end: 40520
+  sentence: もう帰るのかね」
+  words:
+    - word: もう
+      postiion: 0
+    - word: 帰る
+      postiion: 2
+    - word: の
+      postiion: 4
+    - word: か
+      postiion: 5
+    - word: ね
+      postiion: 6
 - id: Inuno Itazura-f000007
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 「ヤア猪さん、
-  word_list: [ヤア, 猪, さん]
   sound: f000007.mp3
   sound_begin: 40520
   sound_end: 42440
+  sentence: 「ヤア猪さん、
+  words:
+    - word: ヤア
+      postiion: 1
+    - word: 猪
+      postiion: 3
+    - word: さん
+      postiion: 4
 - id: Inuno Itazura-f000008
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: もう来たのかね」
-  word_list: [もう, 来, た, の, か, ね]
   sound: f000008.mp3
   sound_begin: 42440
   sound_end: 44857
+  sentence: もう来たのかね」
+  words:
+    - word: もう
+      postiion: 0
+    - word: 来
+      base: 来る
+      postiion: 2
+    - word: た
+      postiion: 3
+    - word: の
+      postiion: 4
+    - word: か
+      postiion: 5
+    - word: ね
+      postiion: 6
 - id: Inuno Itazura-f000009
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: と二人は握手しました。
-  word_list: [と, 二人, は, 握手, し, まし, た]
   sound: f000009.mp3
   sound_begin: 44857
   sound_end: 50480
+  sentence: と二人は握手しました。
+  words:
+    - word: と
+      postiion: 0
+    - word: 二人
+      postiion: 1
+    - word: は
+      postiion: 3
+    - word: 握手
+      postiion: 4
+    - word: し
+      base: 為る
+      postiion: 6
+    - word: まし
+      base: ます
+      postiion: 7
+    - word: た
+      postiion: 9
 - id: Inuno Itazura-f000010
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 「もうじき来年になるのだが、
-  word_list: [もう, じき, 来年, に, なる, の, だ, が]
   sound: f000010.mp3
   sound_begin: 50480
   sound_end: 53080
+  sentence: 「もうじき来年になるのだが、
+  words:
+    - word: もう
+      postiion: 1
+    - word: じき
+      base: 直
+      postiion: 3
+    - word: 来年
+      postiion: 5
+    - word: に
+      postiion: 7
+    - word: なる
+      base: 成る
+      postiion: 8
+    - word: の
+      postiion: 10
+    - word: だ
+      postiion: 11
+    - word: が
+      postiion: 12
 - id: Inuno Itazura-f000011
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: それまでにはまだ時間があるから、
-  word_list: [それ, まで, に, は, まだ, 時間, が, ある, から]
   sound: f000011.mp3
   sound_begin: 53080
   sound_end: 56400
+  sentence: それまでにはまだ時間があるから、
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: まで
+      postiion: 2
+    - word: に
+      postiion: 4
+    - word: は
+      postiion: 5
+    - word: まだ
+      base: 未だ
+      postiion: 6
+    - word: 時間
+      postiion: 8
+    - word: が
+      postiion: 10
+    - word: ある
+      base: 有る
+      postiion: 11
+    - word: から
+      postiion: 13
 - id: Inuno Itazura-f000012
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: そこらでお別れに御馳走を食べようじゃないか」
-  word_list: [そこ, ら, で, お, 別れ, に, 御馳走, を, 食べよう, じゃ, ない, か]
   sound: f000012.mp3
   sound_begin: 56400
   sound_end: 60560
+  sentence: そこらでお別れに御馳走を食べようじゃないか」
+  words:
+    - word: そこ
+      base: 其処
+      postiion: 0
+    - word: ら
+      base: 等
+      postiion: 2
+    - word: で
+      postiion: 3
+    - word: お
+      base: 御
+      postiion: 4
+    - word: 別れ
+      postiion: 5
+    - word: に
+      postiion: 7
+    - word: 御馳走
+      postiion: 8
+    - word: を
+      postiion: 11
+    - word: 食べよう
+      base: 食べる
+      postiion: 12
+    - word: じゃ
+      base: だ
+      postiion: 16
+    - word: ない
+      base: 無い
+      postiion: 18
+    - word: か
+      postiion: 20
 - id: Inuno Itazura-f000013
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 「それはいいね」
-  word_list: [それ, は, いい, ね]
   sound: f000013.mp3
   sound_begin: 60560
   sound_end: 63960
+  sentence: 「それはいいね」
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 1
+    - word: は
+      postiion: 3
+    - word: いい
+      base: 良い
+      postiion: 4
+    - word: ね
+      postiion: 6
 - id: Inuno Itazura-f000014
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 二人はそこらの御飯屋へ行って、
-  word_list: [二人, は, そこ, ら, の, 御, 飯屋, へ, 行っ, て]
   sound: f000014.mp3
   sound_begin: 63960
   sound_end: 67200
+  sentence: 二人はそこらの御飯屋へ行って、
+  words:
+    - word: 二人
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: そこ
+      base: 其処
+      postiion: 3
+    - word: ら
+      base: 等
+      postiion: 5
+    - word: の
+      postiion: 6
+    - word: 御
+      postiion: 7
+    - word: 飯屋
+      postiion: 8
+    - word: へ
+      postiion: 10
+    - word: 行っ
+      base: 行く
+      postiion: 11
+    - word: て
+      postiion: 13
 - id: Inuno Itazura-f000015
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 御飯を食べ始めました。
-  word_list: [御飯, を, 食べ, 始め, まし, た]
   sound: f000015.mp3
   sound_begin: 67200
   sound_end: 69320
+  sentence: 御飯を食べ始めました。
+  words:
+    - word: 御飯
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: 食べ
+      base: 食べる
+      postiion: 3
+    - word: 始め
+      base: 始める
+      postiion: 5
+    - word: まし
+      base: ます
+      postiion: 7
+    - word: た
+      postiion: 9
 - id: Inuno Itazura-f000016
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 「時に犬さん、
-  word_list: [時, に, 犬, さん]
   sound: f000016.mp3
   sound_begin: 71020
   sound_end: 73320
+  sentence: 「時に犬さん、
+  words:
+    - word: 時
+      postiion: 1
+    - word: に
+      postiion: 2
+    - word: 犬
+      postiion: 3
+    - word: さん
+      postiion: 4
 - id: Inuno Itazura-f000017
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: お前の持っているその大きな荷物は何だね」
-  word_list: [お前, の, 持っ, て, いる, その, 大きな, 荷物, は, 何, だ, ね]
   sound: f000017.mp3
   sound_begin: 73320
   sound_end: 77983
+  sentence: お前の持っているその大きな荷物は何だね」
+  words:
+    - word: お前
+      base: 御前
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 持っ
+      base: 持つ
+      postiion: 3
+    - word: て
+      postiion: 5
+    - word: いる
+      base: 居る
+      postiion: 6
+    - word: その
+      base: 其の
+      postiion: 8
+    - word: 大きな
+      postiion: 10
+    - word: 荷物
+      postiion: 13
+    - word: は
+      postiion: 15
+    - word: 何
+      postiion: 16
+    - word: だ
+      postiion: 17
+    - word: ね
+      postiion: 18
 - id: Inuno Itazura-f000018
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: と猪は小さな眼をキョロキョロさせて尋ねました。
-  word_list: [と, 猪, は, 小さな, 眼, を, キョロキョロ, さ, せ, て, 尋ね, まし, た]
   sound: f000018.mp3
   sound_begin: 77983
   sound_end: 85407
+  sentence: と猪は小さな眼をキョロキョロさせて尋ねました。
+  words:
+    - word: と
+      postiion: 0
+    - word: 猪
+      postiion: 1
+    - word: は
+      postiion: 2
+    - word: 小さな
+      postiion: 3
+    - word: 眼
+      base: 目
+      postiion: 6
+    - word: を
+      postiion: 7
+    - word: キョロキョロ
+      base: きょろきょろ
+      postiion: 8
+    - word: さ
+      base: 為る
+      postiion: 14
+    - word: せ
+      base: せる
+      postiion: 15
+    - word: て
+      postiion: 16
+    - word: 尋ね
+      base: 尋ねる
+      postiion: 17
+    - word: まし
+      base: ます
+      postiion: 19
+    - word: た
+      postiion: 21
 - id: Inuno Itazura-f000019
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 「これは犬の年の子供がした、
-  word_list: [これ, は, 犬, の, 年, の, 子供, が, し, た]
   sound: f000019.mp3
   sound_begin: 85407
   sound_end: 89520
+  sentence: 「これは犬の年の子供がした、
+  words:
+    - word: これ
+      base: 此れ
+      postiion: 1
+    - word: は
+      postiion: 3
+    - word: 犬
+      postiion: 4
+    - word: の
+      postiion: 5
+    - word: 年
+      postiion: 6
+    - word: の
+      postiion: 7
+    - word: 子供
+      postiion: 8
+    - word: が
+      postiion: 10
+    - word: し
+      base: 為る
+      postiion: 11
+    - word: た
+      postiion: 12
 - id: Inuno Itazura-f000020
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: いい事と悪い事を集めたものさ」
-  word_list: [いい, 事, と, 悪い, 事, を, 集め, た, もの, さ]
   sound: f000020.mp3
   sound_begin: 89520
   sound_end: 94480
+  sentence: いい事と悪い事を集めたものさ」
+  words:
+    - word: いい
+      base: 良い
+      postiion: 0
+    - word: 事
+      postiion: 2
+    - word: と
+      postiion: 3
+    - word: 悪い
+      postiion: 4
+    - word: 事
+      postiion: 6
+    - word: を
+      postiion: 7
+    - word: 集め
+      base: 集める
+      postiion: 8
+    - word: た
+      postiion: 10
+    - word: もの
+      base: 物
+      postiion: 11
+    - word: さ
+      postiion: 13
 - id: Inuno Itazura-f000021
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 「ヘー。
-  word_list: [ヘー]
   sound: f000021.mp3
   sound_begin: 94480
   sound_end: 95880
+  sentence: 「ヘー。
+  words:
+    - word: ヘー
+      base: へえ
+      postiion: 1
 - id: Inuno Itazura-f000022
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 善い事悪い事ってどんな事だね」
-  word_list: [善い, 事, 悪い, 事, って, どんな, 事, だ, ね]
   sound: f000022.mp3
   sound_begin: 95880
   sound_end: 100000
+  sentence: 善い事悪い事ってどんな事だね」
+  words:
+    - word: 善い
+      base: 良い
+      postiion: 0
+    - word: 事
+      postiion: 2
+    - word: 悪い
+      postiion: 3
+    - word: 事
+      postiion: 5
+    - word: って
+      postiion: 6
+    - word: どんな
+      postiion: 8
+    - word: 事
+      postiion: 11
+    - word: だ
+      postiion: 12
+    - word: ね
+      postiion: 13
 - id: Inuno Itazura-f000023
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 「それはいろいろあるよ。
-  word_list: [それ, は, いろいろ, ある, よ]
   sound: f000023.mp3
   sound_begin: 100000
   sound_end: 102693
+  sentence: 「それはいろいろあるよ。
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 1
+    - word: は
+      postiion: 3
+    - word: いろいろ
+      base: 色々
+      postiion: 4
+    - word: ある
+      base: 有る
+      postiion: 8
+    - word: よ
+      postiion: 10
 - id: Inuno Itazura-f000024
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 他人の草履を隠したり、
-  word_list: [他人, の, 草履, を, 隠し, たり]
   sound: f000024.mp3
   sound_begin: 102693
   sound_end: 105440
+  sentence: 他人の草履を隠したり、
+  words:
+    - word: 他人
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 草履
+      postiion: 3
+    - word: を
+      postiion: 5
+    - word: 隠し
+      base: 隠す
+      postiion: 6
+    - word: たり
+      postiion: 8
 - id: Inuno Itazura-f000025
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 拾い食いをしたり、
-  word_list: [拾い食い, を, し, たり]
   sound: f000025.mp3
   sound_begin: 105440
   sound_end: 107200
+  sentence: 拾い食いをしたり、
+  words:
+    - word: 拾い食い
+      postiion: 0
+    - word: を
+      postiion: 4
+    - word: し
+      base: 為る
+      postiion: 5
+    - word: たり
+      postiion: 6
 - id: Inuno Itazura-f000026
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 盗み食いをしたり、
-  word_list: [盗み食い, を, し, たり]
   sound: f000026.mp3
   sound_begin: 107200
   sound_end: 109160
+  sentence: 盗み食いをしたり、
+  words:
+    - word: 盗み食い
+      postiion: 0
+    - word: を
+      postiion: 4
+    - word: し
+      base: 為る
+      postiion: 5
+    - word: たり
+      postiion: 6
 - id: Inuno Itazura-f000027
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 垣根を破って出入りしたり、
-  word_list: [垣根, を, 破っ, て, 出入り, し, たり]
   sound: f000027.mp3
   sound_begin: 109160
   sound_end: 112000
+  sentence: 垣根を破って出入りしたり、
+  words:
+    - word: 垣根
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: 破っ
+      base: 破る
+      postiion: 3
+    - word: て
+      postiion: 5
+    - word: 出入り
+      postiion: 6
+    - word: し
+      base: 為る
+      postiion: 9
+    - word: たり
+      postiion: 10
 - id: Inuno Itazura-f000028
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 猫をいじめたり、
-  word_list: [猫, を, いじめ, たり]
   sound: f000028.mp3
   sound_begin: 112000
   sound_end: 114560
+  sentence: 猫をいじめたり、
+  words:
+    - word: 猫
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: いじめ
+      base: 苛める
+      postiion: 2
+    - word: たり
+      postiion: 5
 - id: Inuno Itazura-f000029
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: お母さんや姉さんに食いついたり」
-  word_list: [お, 母さん, や, 姉, さん, に, 食い, つい, たり]
   sound: f000029.mp3
   sound_begin: 114560
   sound_end: 117120
+  sentence: お母さんや姉さんに食いついたり」
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: 母さん
+      postiion: 1
+    - word: や
+      postiion: 4
+    - word: 姉
+      postiion: 5
+    - word: さん
+      postiion: 6
+    - word: に
+      postiion: 8
+    - word: 食い
+      base: 食う
+      postiion: 9
+    - word: つい
+      base: 付く
+      postiion: 11
+    - word: たり
+      postiion: 13
 - id: Inuno Itazura-f000030
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 「ヘエ、
-  word_list: [ヘエ]
   sound: f000030.mp3
   sound_begin: 117120
   sound_end: 118040
+  sentence: 「ヘエ、
+  words:
+    - word: ヘエ
+      base: へえ
+      postiion: 1
 - id: Inuno Itazura-f000031
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: そんな事をするかね」
-  word_list: [そんな, 事, を, する, か, ね]
   sound: f000031.mp3
   sound_begin: 118040
   sound_end: 120261
+  sentence: そんな事をするかね」
+  words:
+    - word: そんな
+      postiion: 0
+    - word: 事
+      postiion: 3
+    - word: を
+      postiion: 4
+    - word: する
+      base: 為る
+      postiion: 5
+    - word: か
+      postiion: 7
+    - word: ね
+      postiion: 8
 - id: Inuno Itazura-f000032
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 「するとも。
-  word_list: [する, とも]
   sound: f000032.mp3
   sound_begin: 120261
   sound_end: 123120
+  sentence: 「するとも。
+  words:
+    - word: する
+      base: 為る
+      postiion: 1
+    - word: とも
+      postiion: 3
 - id: Inuno Itazura-f000033
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: それから良い方では、
-  word_list: [それ, から, 良い, 方, で, は]
   sound: f000033.mp3
   sound_begin: 123120
   sound_end: 126000
+  sentence: それから良い方では、
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: から
+      postiion: 2
+    - word: 良い
+      postiion: 4
+    - word: 方
+      postiion: 6
+    - word: で
+      postiion: 7
+    - word: は
+      postiion: 8
 - id: Inuno Itazura-f000034
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 人のものを探してやったり、
-  word_list: [人, の, もの, を, 探し, て, やっ, たり]
   sound: f000034.mp3
   sound_begin: 126000
   sound_end: 129280
+  sentence: 人のものを探してやったり、
+  words:
+    - word: 人
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: もの
+      base: 物
+      postiion: 2
+    - word: を
+      postiion: 4
+    - word: 探し
+      base: 探す
+      postiion: 5
+    - word: て
+      postiion: 7
+    - word: やっ
+      base: 遣る
+      postiion: 8
+    - word: たり
+      postiion: 10
 - id: Inuno Itazura-f000035
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 落ちたものをひろってやったり、
-  word_list: [落ち, た, もの, を, ひろっ, て, やっ, たり]
   sound: f000035.mp3
   sound_begin: 129280
   sound_end: 131936
+  sentence: 落ちたものをひろってやったり、
+  words:
+    - word: 落ち
+      base: 落ちる
+      postiion: 0
+    - word: た
+      postiion: 2
+    - word: もの
+      base: 物
+      postiion: 3
+    - word: を
+      postiion: 5
+    - word: ひろっ
+      base: 拾う
+      postiion: 6
+    - word: て
+      postiion: 9
+    - word: やっ
+      base: 遣る
+      postiion: 10
+    - word: たり
+      postiion: 12
 - id: Inuno Itazura-f000036
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 小さい子をお守してやったり、
-  word_list: [小さい, 子, を, お守, し, て, やっ, たり]
   sound: f000036.mp3
   sound_begin: 131936
   sound_end: 134840
+  sentence: 小さい子をお守してやったり、
+  words:
+    - word: 小さい
+      postiion: 0
+    - word: 子
+      postiion: 3
+    - word: を
+      postiion: 4
+    - word: お守
+      base: お守り
+      postiion: 5
+    - word: し
+      base: 為る
+      postiion: 7
+    - word: て
+      postiion: 8
+    - word: やっ
+      base: 遣る
+      postiion: 9
+    - word: たり
+      postiion: 11
 - id: Inuno Itazura-f000037
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 人の命を助けたり」
-  word_list: [人, の, 命, を, 助け, たり]
   sound: f000037.mp3
   sound_begin: 134840
   sound_end: 138840
+  sentence: 人の命を助けたり」
+  words:
+    - word: 人
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 命
+      postiion: 2
+    - word: を
+      postiion: 3
+    - word: 助け
+      base: 助ける
+      postiion: 4
+    - word: たり
+      postiion: 6
 - id: Inuno Itazura-f000038
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 「ヘエー、
-  word_list: [ヘエー]
   sound: f000038.mp3
   sound_begin: 138840
   sound_end: 140240
+  sentence: 「ヘエー、
+  words:
+    - word: ヘエー
+      postiion: 1
 - id: Inuno Itazura-f000039
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: それはえらいね。
-  word_list: [それ, は, えらい, ね]
   sound: f000039.mp3
   sound_begin: 140240
   sound_end: 142577
+  sentence: それはえらいね。
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: えらい
+      base: 偉い
+      postiion: 3
+    - word: ね
+      postiion: 6
 - id: Inuno Itazura-f000040
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: しかしそんなものを集めて持って行ってどうするのかね」
-  word_list: [しかし, そんな, もの, を, 集め, て, 持っ, て, 行っ, て, どう, する, の, か, ね]
   sound: f000040.mp3
   sound_begin: 142577
   sound_end: 149400
+  sentence: しかしそんなものを集めて持って行ってどうするのかね」
+  words:
+    - word: しかし
+      base: 然し
+      postiion: 0
+    - word: そんな
+      postiion: 3
+    - word: もの
+      base: 物
+      postiion: 6
+    - word: を
+      postiion: 8
+    - word: 集め
+      base: 集める
+      postiion: 9
+    - word: て
+      postiion: 11
+    - word: 持っ
+      base: 持つ
+      postiion: 12
+    - word: て
+      postiion: 14
+    - word: 行っ
+      base: 行く
+      postiion: 15
+    - word: て
+      postiion: 17
+    - word: どう
+      postiion: 18
+    - word: する
+      base: 為る
+      postiion: 20
+    - word: の
+      postiion: 22
+    - word: か
+      postiion: 23
+    - word: ね
+      postiion: 24
 - id: Inuno Itazura-f000041
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 「今に十二年目になると僕が帰って来る。
-  word_list: [今, に, 十二, 年, 目, に, なる, と, 僕, が, 帰っ, て, 来る]
   sound: f000041.mp3
   sound_begin: 149400
   sound_end: 154560
+  sentence: 「今に十二年目になると僕が帰って来る。
+  words:
+    - word: 今
+      postiion: 1
+    - word: に
+      postiion: 2
+    - word: 十二
+      base: '12'
+      postiion: 3
+    - word: 年
+      postiion: 5
+    - word: 目
+      postiion: 6
+    - word: に
+      postiion: 7
+    - word: なる
+      base: 成る
+      postiion: 8
+    - word: と
+      postiion: 10
+    - word: 僕
+      postiion: 11
+    - word: が
+      postiion: 12
+    - word: 帰っ
+      base: 帰る
+      postiion: 13
+    - word: て
+      postiion: 15
+    - word: 来る
+      postiion: 16
 - id: Inuno Itazura-f000042
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: その時には犬の年の子供は最早二十五になっている。
-  word_list: [その, 時, に, は, 犬, の, 年, の, 子供, は, 最早, 二十五, に, なっ, て, いる]
   sound: f000042.mp3
   sound_begin: 154560
   sound_end: 161920
+  sentence: その時には犬の年の子供は最早二十五になっている。
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 時
+      postiion: 2
+    - word: に
+      postiion: 3
+    - word: は
+      postiion: 4
+    - word: 犬
+      postiion: 5
+    - word: の
+      postiion: 6
+    - word: 年
+      postiion: 7
+    - word: の
+      postiion: 8
+    - word: 子供
+      postiion: 9
+    - word: は
+      postiion: 11
+    - word: 最早
+      postiion: 12
+    - word: 二十五
+      base: '25'
+      postiion: 14
+    - word: に
+      postiion: 17
+    - word: なっ
+      base: 成る
+      postiion: 18
+    - word: て
+      postiion: 20
+    - word: いる
+      base: 居る
+      postiion: 21
 - id: Inuno Itazura-f000043
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 男の児は最早兵隊に行って帰って来ているし、
-  word_list: [男, の, 児, は, 最早, 兵隊, に, 行っ, て, 帰っ, て, 来, て, いる, し]
   sound: f000043.mp3
   sound_begin: 161920
   sound_end: 166880
+  sentence: 男の児は最早兵隊に行って帰って来ているし、
+  words:
+    - word: 男
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 児
+      postiion: 2
+    - word: は
+      postiion: 3
+    - word: 最早
+      postiion: 4
+    - word: 兵隊
+      postiion: 6
+    - word: に
+      postiion: 8
+    - word: 行っ
+      base: 行く
+      postiion: 9
+    - word: て
+      postiion: 11
+    - word: 帰っ
+      base: 帰る
+      postiion: 12
+    - word: て
+      postiion: 14
+    - word: 来
+      base: 来る
+      postiion: 15
+    - word: て
+      postiion: 16
+    - word: いる
+      base: 居る
+      postiion: 17
+    - word: し
+      postiion: 19
 - id: Inuno Itazura-f000044
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 女の児ならばお嫁さんに行く年頃だから、
-  word_list: [女, の, 児, なら, ば, お, 嫁, さん, に, 行く, 年頃, だ, から]
   sound: f000044.mp3
   sound_begin: 166880
   sound_end: 171579
+  sentence: 女の児ならばお嫁さんに行く年頃だから、
+  words:
+    - word: 女
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 児
+      postiion: 2
+    - word: なら
+      base: だ
+      postiion: 3
+    - word: ば
+      postiion: 5
+    - word: お
+      base: 御
+      postiion: 6
+    - word: 嫁
+      postiion: 7
+    - word: さん
+      postiion: 8
+    - word: に
+      postiion: 10
+    - word: 行く
+      postiion: 11
+    - word: 年頃
+      postiion: 13
+    - word: だ
+      postiion: 15
+    - word: から
+      postiion: 16
 - id: Inuno Itazura-f000045
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: その時に良い事をした児には良い事をしてやり、
-  word_list: [その, 時, に, 良い, 事, を, し, た, 児, に, は, 良い, 事, を, し, て, やり]
   sound: f000045.mp3
   sound_begin: 171579
   sound_end: 176000
+  sentence: その時に良い事をした児には良い事をしてやり、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 時
+      postiion: 2
+    - word: に
+      postiion: 3
+    - word: 良い
+      postiion: 4
+    - word: 事
+      postiion: 6
+    - word: を
+      postiion: 7
+    - word: し
+      base: 為る
+      postiion: 8
+    - word: た
+      postiion: 9
+    - word: 児
+      postiion: 10
+    - word: に
+      postiion: 11
+    - word: は
+      postiion: 12
+    - word: 良い
+      postiion: 13
+    - word: 事
+      postiion: 15
+    - word: を
+      postiion: 16
+    - word: し
+      base: 為る
+      postiion: 17
+    - word: て
+      postiion: 18
+    - word: やり
+      base: 遣る
+      postiion: 19
 - id: Inuno Itazura-f000046
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 悪い事をした子には何か非道い罰を当ててやろうと思うんだ」
-  word_list: [悪い, 事, を, し, た, 子, に, は, 何, か, 非道い, 罰, を, 当て, て, やろう, と, 思う, ん, だ]
   sound: f000046.mp3
   sound_begin: 176000
   sound_end: 182800
+  sentence: 悪い事をした子には何か非道い罰を当ててやろうと思うんだ」
+  words:
+    - word: 悪い
+      postiion: 0
+    - word: 事
+      postiion: 2
+    - word: を
+      postiion: 3
+    - word: し
+      base: 為る
+      postiion: 4
+    - word: た
+      postiion: 5
+    - word: 子
+      postiion: 6
+    - word: に
+      postiion: 7
+    - word: は
+      postiion: 8
+    - word: 何
+      postiion: 9
+    - word: か
+      postiion: 10
+    - word: 非道い
+      base: 酷い
+      postiion: 11
+    - word: 罰
+      postiion: 14
+    - word: を
+      postiion: 15
+    - word: 当て
+      base: 当てる
+      postiion: 16
+    - word: て
+      postiion: 17
+    - word: やろう
+      base: 遣る
+      postiion: 19
+    - word: と
+      postiion: 22
+    - word: 思う
+      postiion: 23
+    - word: ん
+      base: の
+      postiion: 25
+    - word: だ
+      postiion: 26
 - id: Inuno Itazura-f000047
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 「フーン」
-  word_list: [フーン]
   sound: f000047.mp3
   sound_begin: 182800
   sound_end: 184360
+  sentence: 「フーン」
+  words:
+    - word: フーン
+      base: ふん
+      postiion: 1
 - id: Inuno Itazura-f000048
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: と猪は犬の言葉を聞いて腕を組んで考えました。
-  word_list: [と, 猪, は, 犬, の, 言葉, を, 聞い, て, 腕, を, 組ん, で, 考え, まし, た]
   sound: f000048.mp3
   sound_begin: 184360
   sound_end: 193600
+  sentence: と猪は犬の言葉を聞いて腕を組んで考えました。
+  words:
+    - word: と
+      postiion: 0
+    - word: 猪
+      postiion: 1
+    - word: は
+      postiion: 2
+    - word: 犬
+      postiion: 3
+    - word: の
+      postiion: 4
+    - word: 言葉
+      postiion: 5
+    - word: を
+      postiion: 7
+    - word: 聞い
+      base: 聞く
+      postiion: 8
+    - word: て
+      postiion: 10
+    - word: 腕
+      postiion: 11
+    - word: を
+      postiion: 12
+    - word: 組ん
+      base: 組む
+      postiion: 13
+    - word: で
+      postiion: 15
+    - word: 考え
+      base: 考える
+      postiion: 16
+    - word: まし
+      base: ます
+      postiion: 18
+    - word: た
+      postiion: 20
 - id: Inuno Itazura-f000049
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 「オヤ猪君、
-  word_list: [オヤ, 猪, 君]
   sound: f000049.mp3
   sound_begin: 193600
   sound_end: 195520
+  sentence: 「オヤ猪君、
+  words:
+    - word: オヤ
+      base: おや
+      postiion: 1
+    - word: 猪
+      postiion: 3
+    - word: 君
+      postiion: 4
 - id: Inuno Itazura-f000050
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 何を考えているのだい」
-  word_list: [何, を, 考え, て, いる, の, だ, い]
   sound: f000050.mp3
   sound_begin: 195520
   sound_end: 198760
+  sentence: 何を考えているのだい」
+  words:
+    - word: 何
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: 考え
+      base: 考える
+      postiion: 2
+    - word: て
+      postiion: 4
+    - word: いる
+      base: 居る
+      postiion: 5
+    - word: の
+      postiion: 7
+    - word: だ
+      postiion: 8
+    - word: い
+      postiion: 9
 - id: Inuno Itazura-f000051
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 「ウン。
-  word_list: [ウン]
   sound: f000051.mp3
   sound_begin: 198760
   sound_end: 200240
+  sentence: 「ウン。
+  words:
+    - word: ウン
+      base: うん
+      postiion: 1
 - id: Inuno Itazura-f000052
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 犬さんがそう言うと、
-  word_list: [犬, さん, が, そう, 言う, と]
   sound: f000052.mp3
   sound_begin: 200240
   sound_end: 202360
+  sentence: 犬さんがそう言うと、
+  words:
+    - word: 犬
+      postiion: 0
+    - word: さん
+      postiion: 1
+    - word: が
+      postiion: 3
+    - word: そう
+      postiion: 4
+    - word: 言う
+      postiion: 6
+    - word: と
+      postiion: 8
 - id: Inuno Itazura-f000053
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 成る程一々尤もだが、
-  word_list: [成る程, 一々, 尤も, だ, が]
   sound: f000053.mp3
   sound_begin: 202360
   sound_end: 205371
+  sentence: 成る程一々尤もだが、
+  words:
+    - word: 成る程
+      postiion: 0
+    - word: 一々
+      postiion: 3
+    - word: 尤も
+      postiion: 5
+    - word: だ
+      postiion: 7
+    - word: が
+      postiion: 8
 - id: Inuno Itazura-f000054
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: それはあまり感心しないぜ」
-  word_list: [それ, は, あまり, 感心, し, ない, ぜ]
   sound: f000054.mp3
   sound_begin: 205371
   sound_end: 209160
+  sentence: それはあまり感心しないぜ」
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: あまり
+      base: 余り
+      postiion: 3
+    - word: 感心
+      postiion: 6
+    - word: し
+      base: 為る
+      postiion: 8
+    - word: ない
+      postiion: 9
+    - word: ぜ
+      postiion: 11
 - id: Inuno Itazura-f000055
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 「何故、
-  word_list: [何故]
   sound: f000055.mp3
   sound_begin: 209160
   sound_end: 210200
+  sentence: 「何故、
+  words:
+    - word: 何故
+      postiion: 1
 - id: Inuno Itazura-f000056
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 何故」
-  word_list: [何故]
   sound: f000056.mp3
   sound_begin: 210200
   sound_end: 211761
+  sentence: 何故」
+  words:
+    - word: 何故
+      postiion: 0
 - id: Inuno Itazura-f000057
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: と犬は眼を瞠って申しました。
-  word_list: [と, 犬, は, 眼, を, 瞠っ, て, 申し, まし, た]
   sound: f000057.mp3
   sound_begin: 211761
   sound_end: 217840
+  sentence: と犬は眼を瞠って申しました。
+  words:
+    - word: と
+      postiion: 0
+    - word: 犬
+      postiion: 1
+    - word: は
+      postiion: 2
+    - word: 眼
+      base: 目
+      postiion: 3
+    - word: を
+      postiion: 4
+    - word: 瞠っ
+      base: 見張る
+      postiion: 5
+    - word: て
+      postiion: 7
+    - word: 申し
+      base: 申す
+      postiion: 8
+    - word: まし
+      base: ます
+      postiion: 10
+    - word: た
+      postiion: 12
 - id: Inuno Itazura-f000058
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 「それは、
-  word_list: [それ, は]
   sound: f000058.mp3
   sound_begin: 217840
   sound_end: 218960
+  sentence: 「それは、
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 1
+    - word: は
+      postiion: 3
 - id: Inuno Itazura-f000059
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 今年はまだ小僧だからまだいたずらをするだろう。
-  word_list: [今年, は, まだ, 小僧, だ, から, まだ, いたずら, を, する, だろう]
   sound: f000059.mp3
   sound_begin: 218960
   sound_end: 223120
+  sentence: 今年はまだ小僧だからまだいたずらをするだろう。
+  words:
+    - word: 今年
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: まだ
+      base: 未だ
+      postiion: 3
+    - word: 小僧
+      postiion: 5
+    - word: だ
+      postiion: 7
+    - word: から
+      postiion: 8
+    - word: まだ
+      base: 未だ
+      postiion: 10
+    - word: いたずら
+      base: 悪戯
+      postiion: 12
+    - word: を
+      postiion: 16
+    - word: する
+      base: 為る
+      postiion: 17
+    - word: だろう
+      base: だ
+      postiion: 19
 - id: Inuno Itazura-f000060
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: しかし二十四にも五にもなったら、
-  word_list: [しかし, 二十四, に, も, 五, に, も, なっ, たら]
   sound: f000060.mp3
   sound_begin: 223120
   sound_end: 227360
+  sentence: しかし二十四にも五にもなったら、
+  words:
+    - word: しかし
+      base: 然し
+      postiion: 0
+    - word: 二十四
+      base: '24'
+      postiion: 3
+    - word: に
+      postiion: 6
+    - word: も
+      postiion: 7
+    - word: 五
+      base: '5'
+      postiion: 8
+    - word: に
+      postiion: 9
+    - word: も
+      postiion: 10
+    - word: なっ
+      base: 成る
+      postiion: 11
+    - word: たら
+      base: た
+      postiion: 13
 - id: Inuno Itazura-f000061
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: だんだんわけがわかって来て、
-  word_list: [だんだん, わけ, が, わかっ, て, 来, て]
   sound: f000061.mp3
   sound_begin: 227360
   sound_end: 229880
+  sentence: だんだんわけがわかって来て、
+  words:
+    - word: だんだん
+      base: 段々
+      postiion: 0
+    - word: わけ
+      base: 訳
+      postiion: 4
+    - word: が
+      postiion: 6
+    - word: わかっ
+      base: 分かる
+      postiion: 7
+    - word: て
+      postiion: 10
+    - word: 来
+      base: 来る
+      postiion: 11
+    - word: て
+      postiion: 12
 - id: Inuno Itazura-f000062
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: そんないたずらをしなくなるだろう。
-  word_list: [そんな, いたずら, を, し, なく, なる, だろう]
   sound: f000062.mp3
   sound_begin: 229880
   sound_end: 233480
+  sentence: そんないたずらをしなくなるだろう。
+  words:
+    - word: そんな
+      postiion: 0
+    - word: いたずら
+      base: 悪戯
+      postiion: 3
+    - word: を
+      postiion: 7
+    - word: し
+      base: 為る
+      postiion: 8
+    - word: なく
+      base: ない
+      postiion: 9
+    - word: なる
+      base: 成る
+      postiion: 11
+    - word: だろう
+      base: だ
+      postiion: 13
 - id: Inuno Itazura-f000063
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: そんなにいい人になった時に罰を喰わせるのは可哀そうではないか」
-  word_list: [そんな, に, いい, 人, に, なっ, た, 時, に, 罰, を, 喰わ, せる, の, は, 可哀そう, で, は, ない, か]
   sound: f000063.mp3
   sound_begin: 233480
   sound_end: 238840
+  sentence: そんなにいい人になった時に罰を喰わせるのは可哀そうではないか」
+  words:
+    - word: そんな
+      postiion: 0
+    - word: に
+      base: だ
+      postiion: 3
+    - word: いい
+      base: 良い
+      postiion: 4
+    - word: 人
+      postiion: 6
+    - word: に
+      postiion: 7
+    - word: なっ
+      base: 成る
+      postiion: 8
+    - word: た
+      postiion: 10
+    - word: 時
+      postiion: 11
+    - word: に
+      postiion: 12
+    - word: 罰
+      postiion: 13
+    - word: を
+      postiion: 14
+    - word: 喰わ
+      base: 食う
+      postiion: 15
+    - word: せる
+      postiion: 17
+    - word: の
+      postiion: 19
+    - word: は
+      postiion: 20
+    - word: 可哀そう
+      base: 可哀想
+      postiion: 21
+    - word: で
+      base: だ
+      postiion: 25
+    - word: は
+      postiion: 26
+    - word: ない
+      base: 無い
+      postiion: 27
+    - word: か
+      postiion: 29
 - id: Inuno Itazura-f000064
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: このように言われると犬も考えました。
-  word_list: [この, よう, に, 言わ, れる, と, 犬, も, 考え, まし, た]
   sound: f000064.mp3
   sound_begin: 240840
   sound_end: 246105
+  sentence: このように言われると犬も考えました。
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: よう
+      base: 様
+      postiion: 2
+    - word: に
+      base: だ
+      postiion: 4
+    - word: 言わ
+      base: 言う
+      postiion: 5
+    - word: れる
+      postiion: 7
+    - word: と
+      postiion: 9
+    - word: 犬
+      postiion: 10
+    - word: も
+      postiion: 11
+    - word: 考え
+      base: 考える
+      postiion: 12
+    - word: まし
+      base: ます
+      postiion: 14
+    - word: た
+      postiion: 16
 - id: Inuno Itazura-f000065
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 「成る程。
-  word_list: [成る程]
   sound: f000065.mp3
   sound_begin: 246105
   sound_end: 247536
+  sentence: 「成る程。
+  words:
+    - word: 成る程
+      postiion: 1
 - id: Inuno Itazura-f000066
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 君は猪と言う位で無暗にあばれるばかりと思ったら、
-  word_list: [君, は, 猪, と, 言う, 位, で, 無暗, に, あばれる, ばかり, と, 思っ, たら]
   sound: f000066.mp3
   sound_begin: 247536
   sound_end: 252800
+  sentence: 君は猪と言う位で無暗にあばれるばかりと思ったら、
+  words:
+    - word: 君
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: 猪
+      postiion: 2
+    - word: と
+      postiion: 3
+    - word: 言う
+      postiion: 4
+    - word: 位
+      postiion: 6
+    - word: で
+      postiion: 7
+    - word: 無暗
+      base: 無闇
+      postiion: 8
+    - word: に
+      base: だ
+      postiion: 10
+    - word: あばれる
+      base: 暴れる
+      postiion: 11
+    - word: ばかり
+      postiion: 15
+    - word: と
+      postiion: 18
+    - word: 思っ
+      base: 思う
+      postiion: 19
+    - word: たら
+      base: た
+      postiion: 21
 - id: Inuno Itazura-f000067
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 中々ちえが深い。
-  word_list: [中々, ちえ, が, 深い]
   sound: f000067.mp3
   sound_begin: 252800
   sound_end: 255600
+  sentence: 中々ちえが深い。
+  words:
+    - word: 中々
+      postiion: 0
+    - word: ちえ
+      base: 知恵
+      postiion: 2
+    - word: が
+      postiion: 4
+    - word: 深い
+      postiion: 5
 - id: Inuno Itazura-f000068
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: そんならこうしようではないか。
-  word_list: [そん, なら, こう, しよう, で, は, ない, か]
   sound: f000068.mp3
   sound_begin: 255600
   sound_end: 258077
+  sentence: そんならこうしようではないか。
+  words:
+    - word: そん
+      base: 其れ
+      postiion: 0
+    - word: なら
+      base: だ
+      postiion: 2
+    - word: こう
+      postiion: 4
+    - word: しよう
+      base: 為る
+      postiion: 6
+    - word: で
+      base: だ
+      postiion: 9
+    - word: は
+      postiion: 10
+    - word: ない
+      base: 無い
+      postiion: 11
+    - word: か
+      postiion: 13
 - id: Inuno Itazura-f000069
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: このいたずらをした児がもし二十五になっても悪い事をやめていなかったら、
-  word_list: [この, いたずら, を, し, た, 児, が, もし, 二十五, に, なっ, て, も, 悪い, 事, を, やめ, て, い, なかっ, たら]
   sound: f000069.mp3
   sound_begin: 258077
   sound_end: 264080
+  sentence: このいたずらをした児がもし二十五になっても悪い事をやめていなかったら、
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: いたずら
+      base: 悪戯
+      postiion: 2
+    - word: を
+      postiion: 6
+    - word: し
+      base: 為る
+      postiion: 7
+    - word: た
+      postiion: 8
+    - word: 児
+      postiion: 9
+    - word: が
+      postiion: 10
+    - word: もし
+      base: 若し
+      postiion: 11
+    - word: 二十五
+      base: '25'
+      postiion: 13
+    - word: に
+      postiion: 16
+    - word: なっ
+      base: 成る
+      postiion: 17
+    - word: て
+      postiion: 19
+    - word: も
+      postiion: 20
+    - word: 悪い
+      postiion: 21
+    - word: 事
+      postiion: 23
+    - word: を
+      postiion: 24
+    - word: やめ
+      base: やめる
+      postiion: 25
+    - word: て
+      postiion: 27
+    - word: い
+      base: 居る
+      postiion: 28
+    - word: なかっ
+      base: ない
+      postiion: 29
+    - word: たら
+      base: た
+      postiion: 32
 - id: Inuno Itazura-f000070
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 罰を喰わせる事にしよう。
-  word_list: [罰, を, 喰わ, せる, 事, に, しよう]
   sound: f000070.mp3
   sound_begin: 264080
   sound_end: 267160
+  sentence: 罰を喰わせる事にしよう。
+  words:
+    - word: 罰
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: 喰わ
+      base: 食う
+      postiion: 2
+    - word: せる
+      postiion: 4
+    - word: 事
+      postiion: 6
+    - word: に
+      postiion: 7
+    - word: しよう
+      base: 為る
+      postiion: 8
 - id: Inuno Itazura-f000071
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 又良い児が悪くなっていたら、
-  word_list: [又, 良い, 児, が, 悪く, なっ, て, い, たら]
   sound: f000071.mp3
   sound_begin: 267160
   sound_end: 270080
+  sentence: 又良い児が悪くなっていたら、
+  words:
+    - word: 又
+      postiion: 0
+    - word: 良い
+      postiion: 1
+    - word: 児
+      postiion: 3
+    - word: が
+      postiion: 4
+    - word: 悪く
+      base: 悪い
+      postiion: 5
+    - word: なっ
+      base: 成る
+      postiion: 7
+    - word: て
+      postiion: 9
+    - word: い
+      base: 居る
+      postiion: 10
+    - word: たら
+      base: た
+      postiion: 11
 - id: Inuno Itazura-f000072
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 御褒美をやらない事にしよう」
-  word_list: [御, 褒美, を, やら, ない, 事, に, しよう]
   sound: f000072.mp3
   sound_begin: 270080
   sound_end: 273560
+  sentence: 御褒美をやらない事にしよう」
+  words:
+    - word: 御
+      postiion: 0
+    - word: 褒美
+      postiion: 1
+    - word: を
+      postiion: 3
+    - word: やら
+      base: 遣る
+      postiion: 4
+    - word: ない
+      postiion: 6
+    - word: 事
+      postiion: 8
+    - word: に
+      postiion: 9
+    - word: しよう
+      base: 為る
+      postiion: 10
 - id: Inuno Itazura-f000073
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 「うん、
-  word_list: [うん]
   sound: f000073.mp3
   sound_begin: 273560
   sound_end: 274200
+  sentence: 「うん、
+  words:
+    - word: うん
+      postiion: 1
 - id: Inuno Itazura-f000074
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: それがいい。
-  word_list: [それ, が, いい]
   sound: f000074.mp3
   sound_begin: 274200
   sound_end: 275873
+  sentence: それがいい。
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: が
+      postiion: 2
+    - word: いい
+      base: 良い
+      postiion: 3
 - id: Inuno Itazura-f000075
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 僕もそれじゃ来年は勉強をして、
-  word_list: [僕, も, それ, じゃ, 来年, は, 勉強, を, し, て]
   sound: f000075.mp3
   sound_begin: 275873
   sound_end: 279720
+  sentence: 僕もそれじゃ来年は勉強をして、
+  words:
+    - word: 僕
+      postiion: 0
+    - word: も
+      postiion: 1
+    - word: それ
+      base: 其れ
+      postiion: 2
+    - word: じゃ
+      base: で
+      postiion: 4
+    - word: 来年
+      postiion: 6
+    - word: は
+      postiion: 8
+    - word: 勉強
+      postiion: 9
+    - word: を
+      postiion: 11
+    - word: し
+      base: 為る
+      postiion: 12
+    - word: て
+      postiion: 13
 - id: Inuno Itazura-f000076
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 猪のようにあばれて悪い事をする児と、
-  word_list: [猪, の, よう, に, あばれ, て, 悪い, 事, を, する, 児, と]
   sound: f000076.mp3
   sound_begin: 279720
   sound_end: 283600
+  sentence: 猪のようにあばれて悪い事をする児と、
+  words:
+    - word: 猪
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: よう
+      base: 様
+      postiion: 2
+    - word: に
+      base: だ
+      postiion: 4
+    - word: あばれ
+      base: 暴れる
+      postiion: 5
+    - word: て
+      postiion: 8
+    - word: 悪い
+      postiion: 9
+    - word: 事
+      postiion: 11
+    - word: を
+      postiion: 12
+    - word: する
+      base: 為る
+      postiion: 13
+    - word: 児
+      postiion: 15
+    - word: と
+      postiion: 16
 - id: Inuno Itazura-f000077
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 猪のように一所懸命に好い事をする児の名前を集めよう。
-  word_list: [猪, の, よう, に, 一所, 懸命, に, 好い, 事, を, する, 児, の, 名前, を, 集めよう]
   sound: f000077.mp3
   sound_begin: 283600
   sound_end: 288360
+  sentence: 猪のように一所懸命に好い事をする児の名前を集めよう。
+  words:
+    - word: 猪
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: よう
+      base: 様
+      postiion: 2
+    - word: に
+      base: だ
+      postiion: 4
+    - word: 一所
+      postiion: 5
+    - word: 懸命
+      postiion: 7
+    - word: に
+      base: だ
+      postiion: 9
+    - word: 好い
+      base: 良い
+      postiion: 10
+    - word: 事
+      postiion: 12
+    - word: を
+      postiion: 13
+    - word: する
+      base: 為る
+      postiion: 14
+    - word: 児
+      postiion: 16
+    - word: の
+      postiion: 17
+    - word: 名前
+      postiion: 18
+    - word: を
+      postiion: 20
+    - word: 集めよう
+      base: 集める
+      postiion: 21
 - id: Inuno Itazura-f000078
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: そうして猪の年の児がどんなによくなるか悪くなるか気をつけていよう」
-  word_list: [そう, し, て, 猪, の, 年, の, 児, が, どんな, に, よく, なる, か, 悪く, なる, か, 気, を, つけ, て, いよう]
   sound: f000078.mp3
   sound_begin: 288360
   sound_end: 297240
+  sentence: そうして猪の年の児がどんなによくなるか悪くなるか気をつけていよう」
+  words:
+    - word: そう
+      postiion: 0
+    - word: し
+      base: 為る
+      postiion: 2
+    - word: て
+      postiion: 3
+    - word: 猪
+      postiion: 4
+    - word: の
+      postiion: 5
+    - word: 年
+      postiion: 6
+    - word: の
+      postiion: 7
+    - word: 児
+      postiion: 8
+    - word: が
+      postiion: 9
+    - word: どんな
+      postiion: 10
+    - word: に
+      base: だ
+      postiion: 13
+    - word: よく
+      base: 良い
+      postiion: 14
+    - word: なる
+      base: 成る
+      postiion: 16
+    - word: か
+      postiion: 18
+    - word: 悪く
+      base: 悪い
+      postiion: 19
+    - word: なる
+      base: 成る
+      postiion: 21
+    - word: か
+      postiion: 23
+    - word: 気
+      postiion: 24
+    - word: を
+      postiion: 25
+    - word: つけ
+      base: つける
+      postiion: 26
+    - word: て
+      postiion: 28
+    - word: いよう
+      base: 居る
+      postiion: 29
 - id: Inuno Itazura-f000079
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 二人は手を打って、
-  word_list: [二人, は, 手, を, 打っ, て]
   sound: f000079.mp3
   sound_begin: 297240
   sound_end: 299840
+  sentence: 二人は手を打って、
+  words:
+    - word: 二人
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: 手
+      postiion: 3
+    - word: を
+      postiion: 4
+    - word: 打っ
+      base: 打つ
+      postiion: 5
+    - word: て
+      postiion: 7
 - id: Inuno Itazura-f000080
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 「それがいい、
-  word_list: [それ, が, いい]
   sound: f000080.mp3
   sound_begin: 299840
   sound_end: 301240
+  sentence: 「それがいい、
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 1
+    - word: が
+      postiion: 3
+    - word: いい
+      base: 良い
+      postiion: 4
 - id: Inuno Itazura-f000081
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: それがいい」
-  word_list: [それ, が, いい]
   sound: f000081.mp3
   sound_begin: 301240
   sound_end: 302765
+  sentence: それがいい」
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: が
+      postiion: 2
+    - word: いい
+      base: 良い
+      postiion: 3
 - id: Inuno Itazura-f000082
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: と言いました。
-  word_list: [と, 言い, まし, た]
   sound: f000082.mp3
   sound_begin: 302765
   sound_end: 306406
+  sentence: と言いました。
+  words:
+    - word: と
+      postiion: 0
+    - word: 言い
+      base: 言う
+      postiion: 1
+    - word: まし
+      base: ます
+      postiion: 3
+    - word: た
+      postiion: 5
 - id: Inuno Itazura-f000083
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: そのうちに十二時の鐘が鳴りました。
-  word_list: [その, うち, に, 十二, 時, の, 鐘, が, 鳴り, まし, た]
   sound: f000083.mp3
   sound_begin: 306406
   sound_end: 311847
+  sentence: そのうちに十二時の鐘が鳴りました。
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: うち
+      base: 内
+      postiion: 2
+    - word: に
+      postiion: 4
+    - word: 十二
+      base: '12'
+      postiion: 5
+    - word: 時
+      postiion: 7
+    - word: の
+      postiion: 8
+    - word: 鐘
+      postiion: 9
+    - word: が
+      postiion: 10
+    - word: 鳴り
+      base: 鳴る
+      postiion: 11
+    - word: まし
+      base: ます
+      postiion: 13
+    - word: た
+      postiion: 15
 - id: Inuno Itazura-f000084
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 「やあ鐘が鳴った。
-  word_list: [やあ, 鐘, が, 鳴っ, た]
   sound: f000084.mp3
   sound_begin: 311847
   sound_end: 315403
+  sentence: 「やあ鐘が鳴った。
+  words:
+    - word: やあ
+      postiion: 1
+    - word: 鐘
+      postiion: 3
+    - word: が
+      postiion: 4
+    - word: 鳴っ
+      base: 鳴る
+      postiion: 5
+    - word: た
+      postiion: 7
 - id: Inuno Itazura-f000085
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 君も僕の大好きの処まで降って来たようだ。
-  word_list: [君, も, 僕, の, 大好き, の, 処, まで, 降っ, て, 来, た, よう, だ]
   sound: f000085.mp3
   sound_begin: 315403
   sound_end: 320480
+  sentence: 君も僕の大好きの処まで降って来たようだ。
+  words:
+    - word: 君
+      postiion: 0
+    - word: も
+      postiion: 1
+    - word: 僕
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: 大好き
+      postiion: 4
+    - word: の
+      postiion: 7
+    - word: 処
+      postiion: 8
+    - word: まで
+      postiion: 9
+    - word: 降っ
+      base: 降る
+      postiion: 11
+    - word: て
+      postiion: 13
+    - word: 来
+      base: 来る
+      postiion: 14
+    - word: た
+      postiion: 15
+    - word: よう
+      base: 様
+      postiion: 16
+    - word: だ
+      postiion: 18
 - id: Inuno Itazura-f000086
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: では出かけようではないか」
-  word_list: [で, は, 出, かけよう, で, は, ない, か]
   sound: f000086.mp3
   sound_begin: 320480
   sound_end: 324825
+  sentence: では出かけようではないか」
+  words:
+    - word: で
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: 出
+      base: 出る
+      postiion: 2
+    - word: かけよう
+      base: 掛ける
+      postiion: 3
+    - word: で
+      base: だ
+      postiion: 7
+    - word: は
+      postiion: 8
+    - word: ない
+      base: 無い
+      postiion: 9
+    - word: か
+      postiion: 11
 - id: Inuno Itazura-f000087
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 二人は表に出て右と左に別れました。
-  word_list: [二人, は, 表, に, 出, て, 右, と, 左, に, 別れ, まし, た]
   sound: f000087.mp3
   sound_begin: 324825
   sound_end: 331280
+  sentence: 二人は表に出て右と左に別れました。
+  words:
+    - word: 二人
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: 表
+      postiion: 3
+    - word: に
+      postiion: 4
+    - word: 出
+      base: 出る
+      postiion: 5
+    - word: て
+      postiion: 6
+    - word: 右
+      postiion: 7
+    - word: と
+      postiion: 8
+    - word: 左
+      postiion: 9
+    - word: に
+      postiion: 10
+    - word: 別れ
+      base: 別れる
+      postiion: 11
+    - word: まし
+      base: ます
+      postiion: 13
+    - word: た
+      postiion: 15
 - id: Inuno Itazura-f000088
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: その時二人は帽子をふって、
-  word_list: [その, 時, 二人, は, 帽子, を, ふっ, て]
   sound: f000088.mp3
   sound_begin: 331280
   sound_end: 336720
+  sentence: その時二人は帽子をふって、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 時
+      postiion: 2
+    - word: 二人
+      postiion: 3
+    - word: は
+      postiion: 5
+    - word: 帽子
+      postiion: 6
+    - word: を
+      postiion: 8
+    - word: ふっ
+      base: ふる
+      postiion: 9
+    - word: て
+      postiion: 11
 - id: Inuno Itazura-f000089
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 「犬の年の児万歳」
-  word_list: [犬, の, 年, の, 児, 万歳]
   sound: f000089.mp3
   sound_begin: 336720
   sound_end: 340200
+  sentence: 「犬の年の児万歳」
+  words:
+    - word: 犬
+      postiion: 1
+    - word: の
+      postiion: 2
+    - word: 年
+      postiion: 3
+    - word: の
+      postiion: 4
+    - word: 児
+      postiion: 5
+    - word: 万歳
+      postiion: 6
 - id: Inuno Itazura-f000090
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: 「猪の年の児万歳」
-  word_list: [猪, の, 年, の, 児, 万歳]
   sound: f000090.mp3
   sound_begin: 340200
   sound_end: 343386
+  sentence: 「猪の年の児万歳」
+  words:
+    - word: 猪
+      postiion: 1
+    - word: の
+      postiion: 2
+    - word: 年
+      postiion: 3
+    - word: の
+      postiion: 4
+    - word: 児
+      postiion: 5
+    - word: 万歳
+      postiion: 6
 - id: Inuno Itazura-f000091
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
   deck_name_japanese: 犬のいたずら
-  sentence: と叫びました。
-  word_list: [と, 叫び, まし, た]
   sound: f000091.mp3
   sound_begin: 343386
   sound_end: 348640
+  sentence: と叫びました。
+  words:
+    - word: と
+      postiion: 0
+    - word: 叫び
+      base: 叫ぶ
+      postiion: 1
+    - word: まし
+      base: ます
+      postiion: 3
+    - word: た
+      postiion: 5

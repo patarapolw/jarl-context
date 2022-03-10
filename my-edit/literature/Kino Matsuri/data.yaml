@@ -2,638 +2,2356 @@
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: 木の祭り
-  word_list: [木, の, 祭り]
   sound: f000002.mp3
   sound_begin: 6120
   sound_end: 7040
+  sentence: 木の祭り
+  words:
+    - word: 木
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 祭り
+      base: 祭
+      postiion: 2
 - id: Kino Matsuri-f000003
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: 木に白い美しい花がいっぱいさきました。
-  word_list: [木, に, 白い, 美しい, 花, が, いっぱい, さき, まし, た]
   sound: f000003.mp3
   sound_begin: 11940
   sound_end: 16880
+  sentence: 木に白い美しい花がいっぱいさきました。
+  words:
+    - word: 木
+      postiion: 0
+    - word: に
+      postiion: 1
+    - word: 白い
+      postiion: 2
+    - word: 美しい
+      postiion: 4
+    - word: 花
+      postiion: 7
+    - word: が
+      postiion: 8
+    - word: いっぱい
+      base: 一杯
+      postiion: 9
+    - word: さき
+      base: さく
+      postiion: 13
+    - word: まし
+      base: ます
+      postiion: 15
+    - word: た
+      postiion: 17
 - id: Kino Matsuri-f000004
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: 木は自分のすがたがこんなに美しくなったので、
-  word_list: [木, は, 自分, の, すがた, が, こんな, に, 美しく, なっ, た, の, で]
   sound: f000004.mp3
   sound_begin: 20280
   sound_end: 24720
+  sentence: 木は自分のすがたがこんなに美しくなったので、
+  words:
+    - word: 木
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: 自分
+      postiion: 2
+    - word: の
+      postiion: 4
+    - word: すがた
+      base: 姿
+      postiion: 5
+    - word: が
+      postiion: 6
+    - word: こんな
+      postiion: 9
+    - word: に
+      base: だ
+      postiion: 12
+    - word: 美しく
+      base: 美しい
+      postiion: 13
+    - word: なっ
+      base: 成る
+      postiion: 16
+    - word: た
+      postiion: 18
+    - word: の
+      postiion: 19
+    - word: で
+      base: だ
+      postiion: 20
 - id: Kino Matsuri-f000005
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: うれしくてたまりません。
-  word_list: [うれしく, て, たまり, ませ, ん]
   sound: f000005.mp3
   sound_begin: 24720
   sound_end: 26160
+  sentence: うれしくてたまりません。
+  words:
+    - word: うれしく
+      base: 嬉しい
+      postiion: 0
+    - word: て
+      postiion: 4
+    - word: たまり
+      base: たまる
+      postiion: 5
+    - word: ませ
+      base: ます
+      postiion: 8
+    - word: ん
+      base: ず
+      postiion: 10
 - id: Kino Matsuri-f000006
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: けれどだれひとり、
-  word_list: [けれど, だれ, ひとり]
   sound: f000006.mp3
   sound_begin: 29460
   sound_end: 31400
+  sentence: けれどだれひとり、
+  words:
+    - word: けれど
+      postiion: 0
+    - word: だれ
+      base: 誰
+      postiion: 3
+    - word: ひとり
+      base: 一人
+      postiion: 5
 - id: Kino Matsuri-f000007
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: 「美しいなあ」とほめてくれるものがないのでつまらないと思いました。
-  word_list: [美しい, なあ, と, ほめ, て, くれる, もの, が, ない, の, で, つまら, ない, と, 思い, まし, た]
   sound: f000007.mp3
   sound_begin: 31400
   sound_end: 40255
+  sentence: 「美しいなあ」とほめてくれるものがないのでつまらないと思いました。
+  words:
+    - word: 美しい
+      postiion: 1
+    - word: なあ
+      base: な
+      postiion: 4
+    - word: と
+      postiion: 7
+    - word: ほめ
+      base: 褒める
+      postiion: 8
+    - word: て
+      postiion: 10
+    - word: くれる
+      base: 呉れる
+      postiion: 11
+    - word: もの
+      base: 物
+      postiion: 14
+    - word: が
+      postiion: 16
+    - word: ない
+      base: 無い
+      postiion: 17
+    - word: の
+      postiion: 19
+    - word: で
+      base: だ
+      postiion: 20
+    - word: つまら
+      base: 詰まる
+      postiion: 21
+    - word: ない
+      postiion: 24
+    - word: と
+      postiion: 26
+    - word: 思い
+      base: 思う
+      postiion: 27
+    - word: まし
+      base: ます
+      postiion: 29
+    - word: た
+      postiion: 31
 - id: Kino Matsuri-f000008
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: 木はめったに人のとおらない緑の野原のまんなかにぽつんと立っていたのであります。
-  word_list: [木, は, めった, に, 人, の, とおら, ない, 緑, の, 野原, の, まんなか, に, ぽつん, と, 立っ, て, い, た, の, で, あり, ます]
   sound: f000008.mp3
   sound_begin: 40255
   sound_end: 48320
+  sentence: 木はめったに人のとおらない緑の野原のまんなかにぽつんと立っていたのであります。
+  words:
+    - word: 木
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: めった
+      base: 滅多
+      postiion: 2
+    - word: に
+      base: だ
+      postiion: 5
+    - word: 人
+      postiion: 6
+    - word: の
+      postiion: 7
+    - word: とおら
+      base: 通る
+      postiion: 8
+    - word: ない
+      postiion: 11
+    - word: 緑
+      postiion: 13
+    - word: の
+      postiion: 14
+    - word: 野原
+      postiion: 15
+    - word: の
+      postiion: 17
+    - word: まんなか
+      base: 真ん中
+      postiion: 18
+    - word: に
+      postiion: 22
+    - word: ぽつん
+      postiion: 23
+    - word: と
+      postiion: 26
+    - word: 立っ
+      base: 立つ
+      postiion: 27
+    - word: て
+      postiion: 29
+    - word: い
+      base: 居る
+      postiion: 30
+    - word: た
+      postiion: 31
+    - word: の
+      postiion: 32
+    - word: で
+      base: だ
+      postiion: 33
+    - word: あり
+      base: 有る
+      postiion: 34
+    - word: ます
+      postiion: 36
 - id: Kino Matsuri-f000009
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: やわらかな風が木のすぐそばをとおって流れていきました。
-  word_list: [やわらか, な, 風, が, 木, の, すぐ, そば, を, とおっ, て, 流れ, て, いき, まし, た]
   sound: f000009.mp3
   sound_begin: 53220
   sound_end: 58360
+  sentence: やわらかな風が木のすぐそばをとおって流れていきました。
+  words:
+    - word: やわらか
+      base: 柔らか
+      postiion: 0
+    - word: な
+      base: だ
+      postiion: 4
+    - word: 風
+      postiion: 5
+    - word: が
+      postiion: 6
+    - word: 木
+      postiion: 7
+    - word: の
+      postiion: 8
+    - word: すぐ
+      base: 直ぐ
+      postiion: 9
+    - word: そば
+      postiion: 11
+    - word: を
+      postiion: 13
+    - word: とおっ
+      base: 通る
+      postiion: 14
+    - word: て
+      postiion: 17
+    - word: 流れ
+      base: 流れる
+      postiion: 18
+    - word: て
+      postiion: 20
+    - word: いき
+      base: 行く
+      postiion: 21
+    - word: まし
+      base: ます
+      postiion: 23
+    - word: た
+      postiion: 25
 - id: Kino Matsuri-f000010
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: その風に木の花のにおいがふんわりのっていきました。
-  word_list: [その, 風, に, 木, の, 花, の, におい, が, ふんわり, のっ, て, いき, まし, た]
   sound: f000010.mp3
   sound_begin: 61160
   sound_end: 70145
+  sentence: その風に木の花のにおいがふんわりのっていきました。
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 風
+      postiion: 2
+    - word: に
+      base: だ
+      postiion: 3
+    - word: 木
+      postiion: 4
+    - word: の
+      postiion: 5
+    - word: 花
+      postiion: 6
+    - word: の
+      postiion: 7
+    - word: におい
+      base: 匂い
+      postiion: 8
+    - word: が
+      postiion: 11
+    - word: ふんわり
+      postiion: 12
+    - word: のっ
+      base: 乗る
+      postiion: 16
+    - word: て
+      postiion: 18
+    - word: いき
+      base: 行く
+      postiion: 19
+    - word: まし
+      base: ます
+      postiion: 21
+    - word: た
+      postiion: 23
 - id: Kino Matsuri-f000011
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: においは小川をわたって麦畑をこえて、
-  word_list: [におい, は, 小川, を, わたっ, て, 麦畑, を, こえ, て]
   sound: f000011.mp3
   sound_begin: 70145
   sound_end: 75170
+  sentence: においは小川をわたって麦畑をこえて、
+  words:
+    - word: におい
+      base: 匂い
+      postiion: 0
+    - word: は
+      postiion: 3
+    - word: 小川
+      postiion: 4
+    - word: を
+      postiion: 6
+    - word: わたっ
+      base: 渡る
+      postiion: 7
+    - word: て
+      postiion: 10
+    - word: 麦畑
+      postiion: 11
+    - word: を
+      postiion: 13
+    - word: こえ
+      base: こえる
+      postiion: 14
+    - word: て
+      postiion: 16
 - id: Kino Matsuri-f000012
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: 崖っぷちをすべりおりて流れていきました。
-  word_list: [崖っぷち, を, すべり, おり, て, 流れ, て, いき, まし, た]
   sound: f000012.mp3
   sound_begin: 75170
   sound_end: 77880
+  sentence: 崖っぷちをすべりおりて流れていきました。
+  words:
+    - word: 崖っぷち
+      base: 崖っ縁
+      postiion: 0
+    - word: を
+      postiion: 4
+    - word: すべり
+      base: 滑る
+      postiion: 5
+    - word: おり
+      base: 下りる
+      postiion: 8
+    - word: て
+      postiion: 10
+    - word: 流れ
+      base: 流れる
+      postiion: 11
+    - word: て
+      postiion: 13
+    - word: いき
+      base: 行く
+      postiion: 14
+    - word: まし
+      base: ます
+      postiion: 16
+    - word: た
+      postiion: 18
 - id: Kino Matsuri-f000013
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: そしてとうとうちょうちょうがたくさんいるじゃがいも畑まで、
-  word_list: [そして, とうとう, ちょうちょう, が, たくさん, いる, じゃがいも, 畑, まで]
   sound: f000013.mp3
   sound_begin: 79980
   sound_end: 85440
+  sentence: そしてとうとうちょうちょうがたくさんいるじゃがいも畑まで、
+  words:
+    - word: そして
+      postiion: 0
+    - word: とうとう
+      base: 到頭
+      postiion: 3
+    - word: ちょうちょう
+      base: 蝶々
+      postiion: 7
+    - word: が
+      postiion: 13
+    - word: たくさん
+      base: 沢山
+      postiion: 14
+    - word: いる
+      base: 居る
+      postiion: 18
+    - word: じゃがいも
+      base: ジャガ芋
+      postiion: 20
+    - word: 畑
+      postiion: 25
+    - word: まで
+      postiion: 26
 - id: Kino Matsuri-f000014
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: 流れてきました。
-  word_list: [流れ, て, き, まし, た]
   sound: f000014.mp3
   sound_begin: 85440
   sound_end: 87020
+  sentence: 流れてきました。
+  words:
+    - word: 流れ
+      base: 流れる
+      postiion: 0
+    - word: て
+      postiion: 2
+    - word: き
+      base: 来る
+      postiion: 3
+    - word: まし
+      base: ます
+      postiion: 4
+    - word: た
+      postiion: 6
 - id: Kino Matsuri-f000015
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: 「おや」とじゃがいもの葉の上にとまっていた一ぴきのちょうが鼻をうごかしていいました。
-  word_list: [おや, と, じゃがいも, の, 葉, の, 上, に, とまっ, て, い, た, 一, ぴき, の, ちょう, が, 鼻, を, うごかし, て, いい, まし, た]
   sound: f000015.mp3
   sound_begin: 89120
   sound_end: 100360
+  sentence: 「おや」とじゃがいもの葉の上にとまっていた一ぴきのちょうが鼻をうごかしていいました。
+  words:
+    - word: おや
+      postiion: 1
+    - word: と
+      postiion: 4
+    - word: じゃがいも
+      base: ジャガ芋
+      postiion: 5
+    - word: の
+      postiion: 10
+    - word: 葉
+      postiion: 11
+    - word: の
+      postiion: 12
+    - word: 上
+      postiion: 13
+    - word: に
+      postiion: 14
+    - word: とまっ
+      base: とまる
+      postiion: 15
+    - word: て
+      postiion: 18
+    - word: い
+      base: 居る
+      postiion: 19
+    - word: た
+      postiion: 20
+    - word: 一
+      base: '1'
+      postiion: 21
+    - word: ぴき
+      base: 匹
+      postiion: 22
+    - word: の
+      postiion: 24
+    - word: ちょう
+      postiion: 25
+    - word: が
+      postiion: 28
+    - word: 鼻
+      postiion: 29
+    - word: を
+      postiion: 30
+    - word: うごかし
+      base: 動かす
+      postiion: 31
+    - word: て
+      postiion: 35
+    - word: いい
+      base: 言う
+      postiion: 36
+    - word: まし
+      base: ます
+      postiion: 38
+    - word: た
+      postiion: 40
 - id: Kino Matsuri-f000016
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: 「なんてよいにおいでしょう、
-  word_list: [なん, て, よい, におい, でしょう]
   sound: f000016.mp3
   sound_begin: 100360
   sound_end: 103254
+  sentence: 「なんてよいにおいでしょう、
+  words:
+    - word: なん
+      base: 何
+      postiion: 1
+    - word: て
+      base: って
+      postiion: 3
+    - word: よい
+      base: 良い
+      postiion: 4
+    - word: におい
+      base: 匂い
+      postiion: 6
+    - word: でしょう
+      base: です
+      postiion: 9
 - id: Kino Matsuri-f000017
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: ああうっとりしてしまう。」
-  word_list: [ああ, うっとり, し, て, しまう]
   sound: f000017.mp3
   sound_begin: 103254
   sound_end: 105960
+  sentence: ああうっとりしてしまう。」
+  words:
+    - word: ああ
+      postiion: 0
+    - word: うっとり
+      postiion: 2
+    - word: し
+      base: 為る
+      postiion: 6
+    - word: て
+      postiion: 7
+    - word: しまう
+      base: 仕舞う
+      postiion: 8
 - id: Kino Matsuri-f000018
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: 「どこかで花がさいたのですね。
-  word_list: [どこ, か, で, 花がさ, い, た, の, です, ね]
   sound: f000018.mp3
   sound_begin: 108760
   sound_end: 111943
+  sentence: 「どこかで花がさいたのですね。
+  words:
+    - word: どこ
+      postiion: 1
+    - word: か
+      postiion: 3
+    - word: で
+      postiion: 4
+    - word: 花がさ
+      base: 花笠
+      postiion: 5
+    - word: い
+      base: 居る
+      postiion: 8
+    - word: た
+      postiion: 9
+    - word: の
+      postiion: 10
+    - word: です
+      postiion: 11
+    - word: ね
+      postiion: 13
 - id: Kino Matsuri-f000019
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: 」と、
-  word_list: [と]
   sound: f000019.mp3
   sound_begin: 111943
   sound_end: 112600
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Kino Matsuri-f000020
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: 別の葉にとまっていたちょうがいいました。
-  word_list: [別, の, 葉, に, とまっ, て, い, た, ちょう, が, いい, まし, た]
   sound: f000020.mp3
   sound_begin: 112600
   sound_end: 115240
+  sentence: 別の葉にとまっていたちょうがいいました。
+  words:
+    - word: 別
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 葉
+      postiion: 2
+    - word: に
+      postiion: 3
+    - word: とまっ
+      base: とまる
+      postiion: 4
+    - word: て
+      postiion: 7
+    - word: い
+      base: 居る
+      postiion: 8
+    - word: た
+      postiion: 9
+    - word: ちょう
+      postiion: 10
+    - word: が
+      postiion: 13
+    - word: いい
+      base: 言う
+      postiion: 14
+    - word: まし
+      base: ます
+      postiion: 16
+    - word: た
+      postiion: 18
 - id: Kino Matsuri-f000021
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: 「きっと原っぱのまんなかのあの木に花がさいたのですよ。」
-  word_list: [きっと, 原っぱ, の, まんなか, の, あの, 木, に, 花がさ, い, た, の, です, よ]
   sound: f000021.mp3
   sound_begin: 117440
   sound_end: 122320
+  sentence: 「きっと原っぱのまんなかのあの木に花がさいたのですよ。」
+  words:
+    - word: きっと
+      postiion: 1
+    - word: 原っぱ
+      postiion: 4
+    - word: の
+      postiion: 7
+    - word: まんなか
+      base: 真ん中
+      postiion: 8
+    - word: の
+      postiion: 12
+    - word: あの
+      postiion: 13
+    - word: 木
+      postiion: 15
+    - word: に
+      postiion: 16
+    - word: 花がさ
+      base: 花笠
+      postiion: 17
+    - word: い
+      base: 居る
+      postiion: 20
+    - word: た
+      postiion: 21
+    - word: の
+      postiion: 22
+    - word: です
+      postiion: 23
+    - word: よ
+      postiion: 25
 - id: Kino Matsuri-f000022
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: それからつぎつぎと、
-  word_list: [それ, から, つぎつぎ, と]
   sound: f000022.mp3
   sound_begin: 125920
   sound_end: 128000
+  sentence: それからつぎつぎと、
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: から
+      postiion: 2
+    - word: つぎつぎ
+      base: 次々
+      postiion: 4
+    - word: と
+      postiion: 8
 - id: Kino Matsuri-f000023
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: じゃがいも畑にいたちょうちょうは風にのってきたこころよいにおいに気がついて、
-  word_list: [じゃがいも, 畑, に, い, た, ちょうちょう, は, 風, に, のっ, て, き, た, こころよい, におい, に, 気, が, つい, て]
   sound: f000023.mp3
   sound_begin: 128000
   sound_end: 134740
+  sentence: じゃがいも畑にいたちょうちょうは風にのってきたこころよいにおいに気がついて、
+  words:
+    - word: じゃがいも
+      base: ジャガ芋
+      postiion: 0
+    - word: 畑
+      postiion: 5
+    - word: に
+      postiion: 6
+    - word: い
+      base: 居る
+      postiion: 7
+    - word: た
+      postiion: 8
+    - word: ちょうちょう
+      base: 蝶々
+      postiion: 9
+    - word: は
+      postiion: 15
+    - word: 風
+      postiion: 16
+    - word: に
+      postiion: 17
+    - word: のっ
+      base: 乗る
+      postiion: 18
+    - word: て
+      postiion: 20
+    - word: き
+      base: 来る
+      postiion: 21
+    - word: た
+      postiion: 22
+    - word: こころよい
+      base: 快い
+      postiion: 23
+    - word: におい
+      base: 匂い
+      postiion: 28
+    - word: に
+      postiion: 28
+    - word: 気
+      postiion: 32
+    - word: が
+      postiion: 33
+    - word: つい
+      base: 付く
+      postiion: 34
+    - word: て
+      postiion: 36
 - id: Kino Matsuri-f000024
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: 「おや」「おや」といったのでありました。
-  word_list: [おや, おや, と, いっ, た, の, で, あり, まし, た]
   sound: f000024.mp3
   sound_begin: 134740
   sound_end: 139800
+  sentence: 「おや」「おや」といったのでありました。
+  words:
+    - word: おや
+      postiion: 1
+    - word: おや
+      postiion: 1
+    - word: と
+      postiion: 8
+    - word: いっ
+      base: 言う
+      postiion: 9
+    - word: た
+      postiion: 11
+    - word: の
+      postiion: 12
+    - word: で
+      base: だ
+      postiion: 13
+    - word: あり
+      base: 有る
+      postiion: 14
+    - word: まし
+      base: ます
+      postiion: 16
+    - word: た
+      postiion: 18
 - id: Kino Matsuri-f000025
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: ちょうちょうは花のにおいがとてもすきでしたので、
-  word_list: [ちょうちょう, は, 花, の, におい, が, とても, すき, でし, た, の, で]
   sound: f000025.mp3
   sound_begin: 144000
   sound_end: 148360
+  sentence: ちょうちょうは花のにおいがとてもすきでしたので、
+  words:
+    - word: ちょうちょう
+      base: 蝶々
+      postiion: 0
+    - word: は
+      postiion: 6
+    - word: 花
+      postiion: 7
+    - word: の
+      postiion: 8
+    - word: におい
+      base: 匂い
+      postiion: 9
+    - word: が
+      postiion: 12
+    - word: とても
+      base: 迚も
+      postiion: 13
+    - word: すき
+      base: 好き
+      postiion: 16
+    - word: でし
+      base: です
+      postiion: 18
+    - word: た
+      postiion: 20
+    - word: の
+      postiion: 21
+    - word: で
+      base: だ
+      postiion: 22
 - id: Kino Matsuri-f000026
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: こんなによいにおいがしてくるのに、
-  word_list: [こんな, に, よい, におい, が, し, て, くる, の, に]
   sound: f000026.mp3
   sound_begin: 148360
   sound_end: 151000
+  sentence: こんなによいにおいがしてくるのに、
+  words:
+    - word: こんな
+      postiion: 0
+    - word: に
+      base: だ
+      postiion: 3
+    - word: よい
+      base: 良い
+      postiion: 4
+    - word: におい
+      base: 匂い
+      postiion: 6
+    - word: が
+      postiion: 9
+    - word: し
+      base: 為る
+      postiion: 10
+    - word: て
+      postiion: 11
+    - word: くる
+      base: 来る
+      postiion: 12
+    - word: の
+      postiion: 14
+    - word: に
+      postiion: 15
 - id: Kino Matsuri-f000027
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: それをうっちゃっておくわけにはまいりません。
-  word_list: [それ, を, うっちゃっ, て, おく, わけ, に, は, まいり, ませ, ん]
   sound: f000027.mp3
   sound_begin: 151000
   sound_end: 155440
+  sentence: それをうっちゃっておくわけにはまいりません。
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: うっちゃっ
+      base: 打っちゃる
+      postiion: 3
+    - word: て
+      postiion: 8
+    - word: おく
+      postiion: 9
+    - word: わけ
+      base: 訳
+      postiion: 11
+    - word: に
+      postiion: 13
+    - word: は
+      postiion: 14
+    - word: まいり
+      base: 参る
+      postiion: 15
+    - word: ませ
+      base: ます
+      postiion: 18
+    - word: ん
+      base: ず
+      postiion: 20
 - id: Kino Matsuri-f000028
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: そこでちょうちょうたちはみんなでそうだんをして、
-  word_list: [そこ, で, ちょうちょう, たち, は, みんな, で, そうだん, を, し, て]
   sound: f000028.mp3
   sound_begin: 155440
   sound_end: 159553
+  sentence: そこでちょうちょうたちはみんなでそうだんをして、
+  words:
+    - word: そこ
+      base: 其処
+      postiion: 0
+    - word: で
+      postiion: 2
+    - word: ちょうちょう
+      base: 蝶々
+      postiion: 3
+    - word: たち
+      base: 達
+      postiion: 9
+    - word: は
+      postiion: 11
+    - word: みんな
+      base: 皆
+      postiion: 12
+    - word: で
+      postiion: 15
+    - word: そうだん
+      base: 相談
+      postiion: 16
+    - word: を
+      postiion: 20
+    - word: し
+      base: 為る
+      postiion: 21
+    - word: て
+      postiion: 22
 - id: Kino Matsuri-f000029
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: 木のところへやっていくことにきめました。
-  word_list: [木, の, ところ, へ, やっ, て, いく, こと, に, きめ, まし, た]
   sound: f000029.mp3
   sound_begin: 159553
   sound_end: 163960
+  sentence: 木のところへやっていくことにきめました。
+  words:
+    - word: 木
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: ところ
+      base: 所
+      postiion: 2
+    - word: へ
+      postiion: 5
+    - word: やっ
+      base: 遣る
+      postiion: 6
+    - word: て
+      postiion: 8
+    - word: いく
+      base: 行く
+      postiion: 9
+    - word: こと
+      postiion: 11
+    - word: に
+      postiion: 13
+    - word: きめ
+      base: 決める
+      postiion: 14
+    - word: まし
+      base: ます
+      postiion: 16
+    - word: た
+      postiion: 18
 - id: Kino Matsuri-f000030
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: そして木のためにみんなで祭りをしてあげようということになりました。
-  word_list: [そして, 木, の, ため, に, みんな, で, 祭り, を, し, て, あげよう, と, いう, こと, に, なり, まし, た]
   sound: f000030.mp3
   sound_begin: 163960
   sound_end: 172560
+  sentence: そして木のためにみんなで祭りをしてあげようということになりました。
+  words:
+    - word: そして
+      postiion: 0
+    - word: 木
+      postiion: 3
+    - word: の
+      postiion: 4
+    - word: ため
+      base: 為
+      postiion: 5
+    - word: に
+      postiion: 7
+    - word: みんな
+      base: 皆
+      postiion: 8
+    - word: で
+      postiion: 11
+    - word: 祭り
+      base: 祭
+      postiion: 12
+    - word: を
+      postiion: 14
+    - word: し
+      base: 為る
+      postiion: 15
+    - word: て
+      postiion: 16
+    - word: あげよう
+      base: 上げる
+      postiion: 17
+    - word: と
+      postiion: 21
+    - word: いう
+      base: 言う
+      postiion: 22
+    - word: こと
+      postiion: 24
+    - word: に
+      postiion: 26
+    - word: なり
+      base: 成る
+      postiion: 27
+    - word: まし
+      base: ます
+      postiion: 29
+    - word: た
+      postiion: 31
 - id: Kino Matsuri-f000031
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: そこではねにもようのあるいちばん大きなちょうちょうを先にして、
-  word_list: [そこ, で, は, ね, に, もよう, の, ある, いちばん, 大きな, ちょうちょう, を, 先, に, し, て]
   sound: f000031.mp3
   sound_begin: 172560
   sound_end: 178400
+  sentence: そこではねにもようのあるいちばん大きなちょうちょうを先にして、
+  words:
+    - word: そこ
+      base: 其処
+      postiion: 0
+    - word: で
+      postiion: 2
+    - word: は
+      postiion: 3
+    - word: ね
+      postiion: 4
+    - word: に
+      postiion: 5
+    - word: もよう
+      base: 模様
+      postiion: 6
+    - word: の
+      postiion: 9
+    - word: ある
+      base: 有る
+      postiion: 10
+    - word: いちばん
+      base: 一番
+      postiion: 12
+    - word: 大きな
+      postiion: 16
+    - word: ちょうちょう
+      base: 蝶々
+      postiion: 19
+    - word: を
+      postiion: 25
+    - word: 先
+      postiion: 26
+    - word: に
+      postiion: 27
+    - word: し
+      base: 為る
+      postiion: 28
+    - word: て
+      postiion: 29
 - id: Kino Matsuri-f000032
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: 白いのや黄色いのや、
-  word_list: [白い, の, や, 黄色い, の, や]
   sound: f000032.mp3
   sound_begin: 178400
   sound_end: 180845
+  sentence: 白いのや黄色いのや、
+  words:
+    - word: 白い
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: や
+      postiion: 3
+    - word: 黄色い
+      postiion: 4
+    - word: の
+      postiion: 7
+    - word: や
+      postiion: 8
 - id: Kino Matsuri-f000033
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: かれた木の葉みたいなのや、
-  word_list: [かれ, た, 木の葉, みたい, な, の, や]
   sound: f000033.mp3
   sound_begin: 180845
   sound_end: 183802
+  sentence: かれた木の葉みたいなのや、
+  words:
+    - word: かれ
+      base: 枯れる
+      postiion: 0
+    - word: た
+      postiion: 2
+    - word: 木の葉
+      postiion: 3
+    - word: みたい
+      postiion: 6
+    - word: な
+      base: だ
+      postiion: 9
+    - word: の
+      postiion: 10
+    - word: や
+      postiion: 11
 - id: Kino Matsuri-f000034
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: 小さな小さなしじみみたいなのや、
-  word_list: [小さな, 小さな, しじみ, みたい, な, の, や]
   sound: f000034.mp3
   sound_begin: 183802
   sound_end: 187760
+  sentence: 小さな小さなしじみみたいなのや、
+  words:
+    - word: 小さな
+      postiion: 0
+    - word: 小さな
+      postiion: 0
+    - word: しじみ
+      base: 蜆
+      postiion: 6
+    - word: みたい
+      postiion: 9
+    - word: な
+      base: だ
+      postiion: 12
+    - word: の
+      postiion: 13
+    - word: や
+      postiion: 14
 - id: Kino Matsuri-f000035
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: いろいろなちょうちょうがにおいの流れてくる方へひらひらと飛んでいきました。
-  word_list: [いろいろ, な, ちょうちょう, が, におい, の, 流れ, て, くる, 方, へ, ひらひら, と, 飛ん, で, いき, まし, た]
   sound: f000035.mp3
   sound_begin: 187760
   sound_end: 193320
+  sentence: いろいろなちょうちょうがにおいの流れてくる方へひらひらと飛んでいきました。
+  words:
+    - word: いろいろ
+      base: 色々
+      postiion: 0
+    - word: な
+      base: だ
+      postiion: 4
+    - word: ちょうちょう
+      base: 蝶々
+      postiion: 5
+    - word: が
+      postiion: 11
+    - word: におい
+      base: 匂い
+      postiion: 12
+    - word: の
+      postiion: 15
+    - word: 流れ
+      base: 流れる
+      postiion: 16
+    - word: て
+      postiion: 18
+    - word: くる
+      base: 来る
+      postiion: 19
+    - word: 方
+      postiion: 21
+    - word: へ
+      postiion: 22
+    - word: ひらひら
+      postiion: 23
+    - word: と
+      postiion: 27
+    - word: 飛ん
+      base: 飛ぶ
+      postiion: 28
+    - word: で
+      postiion: 30
+    - word: いき
+      base: 行く
+      postiion: 31
+    - word: まし
+      base: ます
+      postiion: 33
+    - word: た
+      postiion: 35
 - id: Kino Matsuri-f000036
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: 崖っぷちをのぼって麦畑をこえて、
-  word_list: [崖っぷち, を, のぼっ, て, 麦畑, を, こえ, て]
   sound: f000036.mp3
   sound_begin: 196120
   sound_end: 200040
+  sentence: 崖っぷちをのぼって麦畑をこえて、
+  words:
+    - word: 崖っぷち
+      base: 崖っ縁
+      postiion: 0
+    - word: を
+      postiion: 4
+    - word: のぼっ
+      base: 上る
+      postiion: 5
+    - word: て
+      postiion: 8
+    - word: 麦畑
+      postiion: 9
+    - word: を
+      postiion: 11
+    - word: こえ
+      base: こえる
+      postiion: 12
+    - word: て
+      postiion: 14
 - id: Kino Matsuri-f000037
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: 小川をわたって飛んでいきました。
-  word_list: [小川, を, わたっ, て, 飛ん, で, いき, まし, た]
   sound: f000037.mp3
   sound_begin: 200040
   sound_end: 201960
+  sentence: 小川をわたって飛んでいきました。
+  words:
+    - word: 小川
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: わたっ
+      base: 渡る
+      postiion: 3
+    - word: て
+      postiion: 6
+    - word: 飛ん
+      base: 飛ぶ
+      postiion: 7
+    - word: で
+      postiion: 9
+    - word: いき
+      base: 行く
+      postiion: 10
+    - word: まし
+      base: ます
+      postiion: 12
+    - word: た
+      postiion: 14
 - id: Kino Matsuri-f000038
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: ところが中でいちばん小さかったしじみちょうははねがあまりつよくなかったので、
-  word_list: [ところ, が, 中, で, いちばん, 小さかっ, た, し, じみ, ちょう, は, はね, が, あまり, つよく, なかっ, た, の, で]
   sound: f000038.mp3
   sound_begin: 205160
   sound_end: 212600
+  sentence: ところが中でいちばん小さかったしじみちょうははねがあまりつよくなかったので、
+  words:
+    - word: ところ
+      base: 所
+      postiion: 0
+    - word: が
+      postiion: 3
+    - word: 中
+      postiion: 4
+    - word: で
+      postiion: 5
+    - word: いちばん
+      base: 一番
+      postiion: 6
+    - word: 小さかっ
+      base: 小さい
+      postiion: 10
+    - word: た
+      postiion: 14
+    - word: し
+      postiion: 15
+    - word: じみ
+      base: 地味
+      postiion: 16
+    - word: ちょう
+      base: 鳥
+      postiion: 18
+    - word: は
+      postiion: 21
+    - word: はね
+      postiion: 22
+    - word: が
+      postiion: 24
+    - word: あまり
+      base: 余り
+      postiion: 25
+    - word: つよく
+      base: 強い
+      postiion: 28
+    - word: なかっ
+      base: 無い
+      postiion: 31
+    - word: た
+      postiion: 34
+    - word: の
+      postiion: 35
+    - word: で
+      base: だ
+      postiion: 36
 - id: Kino Matsuri-f000039
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: 小川のふちで休まなければなりませんでした。
-  word_list: [小川, の, ふち, で, 休ま, なけれ, ば, なり, ませ, ん, でし, た]
   sound: f000039.mp3
   sound_begin: 212600
   sound_end: 215840
+  sentence: 小川のふちで休まなければなりませんでした。
+  words:
+    - word: 小川
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: ふち
+      base: 縁
+      postiion: 3
+    - word: で
+      postiion: 5
+    - word: 休ま
+      base: 休む
+      postiion: 6
+    - word: なけれ
+      base: ない
+      postiion: 8
+    - word: ば
+      postiion: 11
+    - word: なり
+      base: 成る
+      postiion: 12
+    - word: ませ
+      base: ます
+      postiion: 14
+    - word: ん
+      base: ず
+      postiion: 16
+    - word: でし
+      base: です
+      postiion: 17
+    - word: た
+      postiion: 19
 - id: Kino Matsuri-f000040
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: しじみちょうが小川のふちの水草の葉にとまってやすんでいますと、
-  word_list: [しじみ, ちょう, が, 小川, の, ふち, の, 水草, の, 葉, に, とまっ, て, やすん, で, い, ます, と]
   sound: f000040.mp3
   sound_begin: 218640
   sound_end: 223560
+  sentence: しじみちょうが小川のふちの水草の葉にとまってやすんでいますと、
+  words:
+    - word: しじみ
+      base: 蜆
+      postiion: 0
+    - word: ちょう
+      base: 鳥
+      postiion: 3
+    - word: が
+      postiion: 6
+    - word: 小川
+      postiion: 7
+    - word: の
+      postiion: 9
+    - word: ふち
+      base: 縁
+      postiion: 10
+    - word: の
+      postiion: 12
+    - word: 水草
+      postiion: 13
+    - word: の
+      postiion: 15
+    - word: 葉
+      postiion: 16
+    - word: に
+      postiion: 17
+    - word: とまっ
+      base: とまる
+      postiion: 18
+    - word: て
+      postiion: 21
+    - word: やすん
+      base: 休む
+      postiion: 22
+    - word: で
+      postiion: 25
+    - word: い
+      base: 居る
+      postiion: 26
+    - word: ます
+      postiion: 27
+    - word: と
+      postiion: 29
 - id: Kino Matsuri-f000041
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: となりの葉のうらにみたことのない虫が一ぴきうつらうつらしていることに気がつきました。
-  word_list: [となり, の, 葉, の, うら, に, み, た, こと, の, ない, 虫, が, 一, ぴき, うつらうつら, し, て, いる, こと, に, 気, が, つき, まし, た]
   sound: f000041.mp3
   sound_begin: 223560
   sound_end: 234984
+  sentence: となりの葉のうらにみたことのない虫が一ぴきうつらうつらしていることに気がつきました。
+  words:
+    - word: となり
+      base: 隣り
+      postiion: 0
+    - word: の
+      postiion: 3
+    - word: 葉
+      postiion: 4
+    - word: の
+      postiion: 5
+    - word: うら
+      postiion: 6
+    - word: に
+      postiion: 8
+    - word: み
+      base: 見る
+      postiion: 9
+    - word: た
+      postiion: 10
+    - word: こと
+      postiion: 11
+    - word: の
+      postiion: 13
+    - word: ない
+      base: 無い
+      postiion: 14
+    - word: 虫
+      postiion: 16
+    - word: が
+      postiion: 17
+    - word: 一
+      base: '1'
+      postiion: 18
+    - word: ぴき
+      base: 匹
+      postiion: 19
+    - word: うつらうつら
+      postiion: 21
+    - word: し
+      base: 為る
+      postiion: 27
+    - word: て
+      postiion: 28
+    - word: いる
+      base: 居る
+      postiion: 29
+    - word: こと
+      postiion: 31
+    - word: に
+      postiion: 33
+    - word: 気
+      postiion: 34
+    - word: が
+      postiion: 35
+    - word: つき
+      base: 付く
+      postiion: 36
+    - word: まし
+      base: ます
+      postiion: 38
+    - word: た
+      postiion: 40
 - id: Kino Matsuri-f000042
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: 「あなたはだあれ。
-  word_list: [あなた, は, だあれ]
   sound: f000042.mp3
   sound_begin: 234984
   sound_end: 237981
+  sentence: 「あなたはだあれ。
+  words:
+    - word: あなた
+      base: 貴方
+      postiion: 1
+    - word: は
+      postiion: 4
+    - word: だあれ
+      base: 誰
+      postiion: 5
 - id: Kino Matsuri-f000043
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: 」としじみちょうがききました。
-  word_list: [と, しじみ, ちょう, が, きき, まし, た]
   sound: f000043.mp3
   sound_begin: 237981
   sound_end: 240140
+  sentence: 」としじみちょうがききました。
+  words:
+    - word: と
+      postiion: 1
+    - word: しじみ
+      base: 蜆
+      postiion: 2
+    - word: ちょう
+      base: 鳥
+      postiion: 5
+    - word: が
+      postiion: 8
+    - word: きき
+      base: きく
+      postiion: 9
+    - word: まし
+      base: ます
+      postiion: 11
+    - word: た
+      postiion: 13
 - id: Kino Matsuri-f000044
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: 「ほたるです。
-  word_list: [ほたる, です]
   sound: f000044.mp3
   sound_begin: 242240
   sound_end: 244080
+  sentence: 「ほたるです。
+  words:
+    - word: ほたる
+      base: 蛍
+      postiion: 1
+    - word: です
+      postiion: 4
 - id: Kino Matsuri-f000045
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: 」とその虫は眼をさまして答えました。
-  word_list: [と, その, 虫, は, 眼, を, さまし, て, 答え, まし, た]
   sound: f000045.mp3
   sound_begin: 244080
   sound_end: 249800
+  sentence: 」とその虫は眼をさまして答えました。
+  words:
+    - word: と
+      postiion: 1
+    - word: その
+      base: 其の
+      postiion: 2
+    - word: 虫
+      postiion: 4
+    - word: は
+      postiion: 5
+    - word: 眼
+      base: 目
+      postiion: 6
+    - word: を
+      postiion: 7
+    - word: さまし
+      base: さます
+      postiion: 8
+    - word: て
+      postiion: 11
+    - word: 答え
+      base: 答える
+      postiion: 12
+    - word: まし
+      base: ます
+      postiion: 14
+    - word: た
+      postiion: 16
 - id: Kino Matsuri-f000046
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: 「原っぱのまんなかの木さんのところでお祭りがありますよ。
-  word_list: [原っぱ, の, まんなか, の, 木, さん, の, ところ, で, お, 祭り, が, あり, ます, よ]
   sound: f000046.mp3
   sound_begin: 249800
   sound_end: 254720
+  sentence: 「原っぱのまんなかの木さんのところでお祭りがありますよ。
+  words:
+    - word: 原っぱ
+      postiion: 1
+    - word: の
+      postiion: 4
+    - word: まんなか
+      base: 真ん中
+      postiion: 5
+    - word: の
+      postiion: 9
+    - word: 木
+      postiion: 10
+    - word: さん
+      postiion: 11
+    - word: の
+      postiion: 13
+    - word: ところ
+      base: 所
+      postiion: 14
+    - word: で
+      postiion: 17
+    - word: お
+      base: 御
+      postiion: 18
+    - word: 祭り
+      base: 祭
+      postiion: 19
+    - word: が
+      postiion: 21
+    - word: あり
+      base: 有る
+      postiion: 22
+    - word: ます
+      postiion: 24
+    - word: よ
+      postiion: 26
 - id: Kino Matsuri-f000047
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: あなたもいらっしゃい。
-  word_list: [あなた, も, いらっしゃい]
   sound: f000047.mp3
   sound_begin: 254720
   sound_end: 257022
+  sentence: あなたもいらっしゃい。
+  words:
+    - word: あなた
+      base: 貴方
+      postiion: 0
+    - word: も
+      postiion: 3
+    - word: いらっしゃい
+      base: いらっしゃる
+      postiion: 4
 - id: Kino Matsuri-f000048
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: 」としじみちょうがさそいました。
-  word_list: [と, しじみ, ちょう, が, さそい, まし, た]
   sound: f000048.mp3
   sound_begin: 257022
   sound_end: 259300
+  sentence: 」としじみちょうがさそいました。
+  words:
+    - word: と
+      postiion: 1
+    - word: しじみ
+      base: 蜆
+      postiion: 2
+    - word: ちょう
+      base: 鳥
+      postiion: 5
+    - word: が
+      postiion: 8
+    - word: さそい
+      base: 誘う
+      postiion: 9
+    - word: まし
+      base: ます
+      postiion: 12
+    - word: た
+      postiion: 14
 - id: Kino Matsuri-f000049
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: ほたるが、
-  word_list: [ほたる, が]
   sound: f000049.mp3
   sound_begin: 261399
   sound_end: 263600
+  sentence: ほたるが、
+  words:
+    - word: ほたる
+      base: 蛍
+      postiion: 0
+    - word: が
+      postiion: 3
 - id: Kino Matsuri-f000050
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: 「でも、
-  word_list: [で, も]
   sound: f000050.mp3
   sound_begin: 263600
   sound_end: 264325
+  sentence: 「でも、
+  words:
+    - word: で
+      postiion: 1
+    - word: も
+      postiion: 2
 - id: Kino Matsuri-f000051
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: 私は夜の虫だから、
-  word_list: [私, は, 夜, の, 虫, だ, から]
   sound: f000051.mp3
   sound_begin: 264325
   sound_end: 267280
+  sentence: 私は夜の虫だから、
+  words:
+    - word: 私
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: 夜
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: 虫
+      postiion: 4
+    - word: だ
+      postiion: 5
+    - word: から
+      postiion: 6
 - id: Kino Matsuri-f000052
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: みんなが仲間にしてくれないでしょう。
-  word_list: [みんな, が, 仲間, に, し, て, くれ, ない, でしょう]
   sound: f000052.mp3
   sound_begin: 267280
   sound_end: 270894
+  sentence: みんなが仲間にしてくれないでしょう。
+  words:
+    - word: みんな
+      base: 皆
+      postiion: 0
+    - word: が
+      postiion: 3
+    - word: 仲間
+      postiion: 4
+    - word: に
+      postiion: 6
+    - word: し
+      base: 為る
+      postiion: 7
+    - word: て
+      postiion: 8
+    - word: くれ
+      base: 呉れる
+      postiion: 9
+    - word: ない
+      postiion: 11
+    - word: でしょう
+      base: です
+      postiion: 13
 - id: Kino Matsuri-f000053
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: 」といいました。
-  word_list: [と, いい, まし, た]
   sound: f000053.mp3
   sound_begin: 270894
   sound_end: 273760
+  sentence: 」といいました。
+  words:
+    - word: と
+      postiion: 1
+    - word: いい
+      base: 言う
+      postiion: 2
+    - word: まし
+      base: ます
+      postiion: 4
+    - word: た
+      postiion: 6
 - id: Kino Matsuri-f000054
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: しじみちょうは、
-  word_list: [しじみ, ちょう, は]
   sound: f000054.mp3
   sound_begin: 273760
   sound_end: 275480
+  sentence: しじみちょうは、
+  words:
+    - word: しじみ
+      base: 蜆
+      postiion: 0
+    - word: ちょう
+      base: 鳥
+      postiion: 3
+    - word: は
+      postiion: 6
 - id: Kino Matsuri-f000055
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: 「そんなことはありません。
-  word_list: [そんな, こと, は, あり, ませ, ん]
   sound: f000055.mp3
   sound_begin: 275480
   sound_end: 277424
+  sentence: 「そんなことはありません。
+  words:
+    - word: そんな
+      postiion: 1
+    - word: こと
+      postiion: 4
+    - word: は
+      postiion: 6
+    - word: あり
+      base: 有る
+      postiion: 7
+    - word: ませ
+      base: ます
+      postiion: 9
+    - word: ん
+      base: ず
+      postiion: 11
 - id: Kino Matsuri-f000056
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: 」といって、
-  word_list: [と, いっ, て]
   sound: f000056.mp3
   sound_begin: 277424
   sound_end: 278560
+  sentence: 」といって、
+  words:
+    - word: と
+      postiion: 1
+    - word: いっ
+      base: 言う
+      postiion: 2
+    - word: て
+      postiion: 4
 - id: Kino Matsuri-f000057
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: いろいろにすすめて、
-  word_list: [いろいろ, に, すすめ, て]
   sound: f000057.mp3
   sound_begin: 278560
   sound_end: 280971
+  sentence: いろいろにすすめて、
+  words:
+    - word: いろいろ
+      base: 色々
+      postiion: 0
+    - word: に
+      base: だ
+      postiion: 4
+    - word: すすめ
+      base: すすめる
+      postiion: 5
+    - word: て
+      postiion: 8
 - id: Kino Matsuri-f000058
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: とうとうほたるをつれていきました。
-  word_list: [とうとう, ほたる, を, つれ, て, いき, まし, た]
   sound: f000058.mp3
   sound_begin: 280971
   sound_end: 286280
+  sentence: とうとうほたるをつれていきました。
+  words:
+    - word: とうとう
+      base: 到頭
+      postiion: 0
+    - word: ほたる
+      base: 蛍
+      postiion: 4
+    - word: を
+      postiion: 7
+    - word: つれ
+      base: つれる
+      postiion: 8
+    - word: て
+      postiion: 10
+    - word: いき
+      base: 行く
+      postiion: 11
+    - word: まし
+      base: ます
+      postiion: 13
+    - word: た
+      postiion: 15
 - id: Kino Matsuri-f000059
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: なんて楽しいお祭りでしょう。
-  word_list: [なんて, 楽しい, お, 祭り, でしょう]
   sound: f000059.mp3
   sound_begin: 286280
   sound_end: 288240
+  sentence: なんて楽しいお祭りでしょう。
+  words:
+    - word: なんて
+      postiion: 0
+    - word: 楽しい
+      postiion: 3
+    - word: お
+      base: 御
+      postiion: 6
+    - word: 祭り
+      base: 祭
+      postiion: 7
+    - word: でしょう
+      base: です
+      postiion: 9
 - id: Kino Matsuri-f000060
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: ちょうちょうたちは木のまわりを大きなぼたん雪のようにとびまわって、
-  word_list: [ちょうちょう, たち, は, 木, の, まわり, を, 大きな, ぼたん, 雪, の, よう, に, とび, まわっ, て]
   sound: f000060.mp3
   sound_begin: 290140
   sound_end: 295890
+  sentence: ちょうちょうたちは木のまわりを大きなぼたん雪のようにとびまわって、
+  words:
+    - word: ちょうちょう
+      base: 蝶々
+      postiion: 0
+    - word: たち
+      base: 達
+      postiion: 6
+    - word: は
+      postiion: 8
+    - word: 木
+      postiion: 9
+    - word: の
+      postiion: 10
+    - word: まわり
+      base: 周り
+      postiion: 11
+    - word: を
+      postiion: 14
+    - word: 大きな
+      postiion: 15
+    - word: ぼたん
+      base: 牡丹
+      postiion: 18
+    - word: 雪
+      postiion: 21
+    - word: の
+      postiion: 22
+    - word: よう
+      base: 様
+      postiion: 23
+    - word: に
+      base: だ
+      postiion: 25
+    - word: とび
+      base: 飛ぶ
+      postiion: 26
+    - word: まわっ
+      base: 回る
+      postiion: 28
+    - word: て
+      postiion: 31
 - id: Kino Matsuri-f000061
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: つかれると白い花にとまり、
-  word_list: [つかれる, と, 白い, 花, に, とまり]
   sound: f000061.mp3
   sound_begin: 295890
   sound_end: 299000
+  sentence: つかれると白い花にとまり、
+  words:
+    - word: つかれる
+      base: 疲れる
+      postiion: 0
+    - word: と
+      postiion: 4
+    - word: 白い
+      postiion: 5
+    - word: 花
+      postiion: 7
+    - word: に
+      postiion: 8
+    - word: とまり
+      base: とまる
+      postiion: 9
 - id: Kino Matsuri-f000062
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: おいしい蜜をお腹いっぱいごちそうになるのでありました。
-  word_list: [おいしい, 蜜, を, お腹, いっぱい, ごちそう, に, なる, の, で, あり, まし, た]
   sound: f000062.mp3
   sound_begin: 299000
   sound_end: 302720
+  sentence: おいしい蜜をお腹いっぱいごちそうになるのでありました。
+  words:
+    - word: おいしい
+      base: 美味しい
+      postiion: 0
+    - word: 蜜
+      postiion: 4
+    - word: を
+      postiion: 5
+    - word: お腹
+      base: 御腹
+      postiion: 6
+    - word: いっぱい
+      base: 一杯
+      postiion: 8
+    - word: ごちそう
+      base: 御馳走
+      postiion: 12
+    - word: に
+      postiion: 16
+    - word: なる
+      base: 成る
+      postiion: 17
+    - word: の
+      postiion: 19
+    - word: で
+      base: だ
+      postiion: 20
+    - word: あり
+      base: 有る
+      postiion: 21
+    - word: まし
+      base: ます
+      postiion: 23
+    - word: た
+      postiion: 25
 - id: Kino Matsuri-f000063
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: けれど光がうすくなって夕方になってしまいました。
-  word_list: [けれど, 光, が, うすく, なっ, て, 夕方, に, なっ, て, しまい, まし, た]
   sound: f000063.mp3
   sound_begin: 306820
   sound_end: 314000
+  sentence: けれど光がうすくなって夕方になってしまいました。
+  words:
+    - word: けれど
+      postiion: 0
+    - word: 光
+      postiion: 3
+    - word: が
+      postiion: 4
+    - word: うすく
+      base: 薄い
+      postiion: 5
+    - word: なっ
+      base: 成る
+      postiion: 8
+    - word: て
+      postiion: 10
+    - word: 夕方
+      postiion: 11
+    - word: に
+      postiion: 13
+    - word: なっ
+      base: 成る
+      postiion: 14
+    - word: て
+      postiion: 16
+    - word: しまい
+      base: 仕舞う
+      postiion: 17
+    - word: まし
+      base: ます
+      postiion: 20
+    - word: た
+      postiion: 22
 - id: Kino Matsuri-f000064
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: みんなは、
-  word_list: [みんな, は]
   sound: f000064.mp3
   sound_begin: 314000
   sound_end: 316120
+  sentence: みんなは、
+  words:
+    - word: みんな
+      base: 皆
+      postiion: 0
+    - word: は
+      postiion: 3
 - id: Kino Matsuri-f000065
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: 「もっと遊んでいたい。
-  word_list: [もっと, 遊ん, で, い, たい]
   sound: f000065.mp3
   sound_begin: 316120
   sound_end: 318440
+  sentence: 「もっと遊んでいたい。
+  words:
+    - word: もっと
+      postiion: 1
+    - word: 遊ん
+      base: 遊ぶ
+      postiion: 4
+    - word: で
+      postiion: 6
+    - word: い
+      base: 居る
+      postiion: 7
+    - word: たい
+      postiion: 8
 - id: Kino Matsuri-f000066
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: だけどもうじきまっ暗になるから。
-  word_list: [だ, けど, もう, じき, まっ暗, に, なる, から]
   sound: f000066.mp3
   sound_begin: 318440
   sound_end: 322194
+  sentence: だけどもうじきまっ暗になるから。
+  words:
+    - word: だ
+      postiion: 0
+    - word: けど
+      base: けれど
+      postiion: 1
+    - word: もう
+      postiion: 3
+    - word: じき
+      base: 直
+      postiion: 5
+    - word: まっ暗
+      base: 真っ暗
+      postiion: 7
+    - word: に
+      base: だ
+      postiion: 10
+    - word: なる
+      base: 成る
+      postiion: 11
+    - word: から
+      postiion: 13
 - id: Kino Matsuri-f000067
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: 」とためいきをつきました。
-  word_list: [と, ためいき, を, つき, まし, た]
   sound: f000067.mp3
   sound_begin: 322194
   sound_end: 324600
+  sentence: 」とためいきをつきました。
+  words:
+    - word: と
+      postiion: 1
+    - word: ためいき
+      base: 溜め息
+      postiion: 2
+    - word: を
+      postiion: 6
+    - word: つき
+      base: つく
+      postiion: 7
+    - word: まし
+      base: ます
+      postiion: 9
+    - word: た
+      postiion: 11
 - id: Kino Matsuri-f000068
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: するとほたるは小川のふちへとんでいって、
-  word_list: [する, と, ほたる, は, 小川, の, ふち, へ, とん, で, いっ, て]
   sound: f000068.mp3
   sound_begin: 327400
   sound_end: 331720
+  sentence: するとほたるは小川のふちへとんでいって、
+  words:
+    - word: する
+      base: 為る
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: ほたる
+      base: 蛍
+      postiion: 3
+    - word: は
+      postiion: 6
+    - word: 小川
+      postiion: 7
+    - word: の
+      postiion: 9
+    - word: ふち
+      base: 縁
+      postiion: 10
+    - word: へ
+      postiion: 12
+    - word: とん
+      base: 飛ぶ
+      postiion: 13
+    - word: で
+      postiion: 15
+    - word: いっ
+      base: 行く
+      postiion: 16
+    - word: て
+      postiion: 18
 - id: Kino Matsuri-f000069
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: 自分の仲間をどっさりつれてきました。
-  word_list: [自分, の, 仲間, を, どっさり, つれ, て, き, まし, た]
   sound: f000069.mp3
   sound_begin: 331720
   sound_end: 334400
+  sentence: 自分の仲間をどっさりつれてきました。
+  words:
+    - word: 自分
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 仲間
+      postiion: 3
+    - word: を
+      postiion: 5
+    - word: どっさり
+      postiion: 6
+    - word: つれ
+      base: つれる
+      postiion: 10
+    - word: て
+      postiion: 12
+    - word: き
+      base: 来る
+      postiion: 13
+    - word: まし
+      base: ます
+      postiion: 14
+    - word: た
+      postiion: 16
 - id: Kino Matsuri-f000070
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: 一つ一つのほたるが一つ一つの花の中にとまりました。
-  word_list: [一, つ, 一, つ, の, ほたる, が, 一, つ, 一, つ, の, 花, の, 中, に, とまり, まし, た]
   sound: f000070.mp3
   sound_begin: 337200
   sound_end: 342180
+  sentence: 一つ一つのほたるが一つ一つの花の中にとまりました。
+  words:
+    - word: 一
+      base: '1'
+      postiion: 0
+    - word: つ
+      postiion: 1
+    - word: 一
+      base: '1'
+      postiion: 2
+    - word: つ
+      postiion: 3
+    - word: の
+      postiion: 4
+    - word: ほたる
+      base: 蛍
+      postiion: 5
+    - word: が
+      postiion: 8
+    - word: 一
+      base: '1'
+      postiion: 9
+    - word: つ
+      postiion: 10
+    - word: 一
+      base: '1'
+      postiion: 11
+    - word: つ
+      postiion: 12
+    - word: の
+      postiion: 13
+    - word: 花
+      postiion: 14
+    - word: の
+      postiion: 15
+    - word: 中
+      postiion: 16
+    - word: に
+      postiion: 17
+    - word: とまり
+      base: とまる
+      postiion: 18
+    - word: まし
+      base: ます
+      postiion: 21
+    - word: た
+      postiion: 23
 - id: Kino Matsuri-f000071
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: まるで小さいちょうちんが木にいっぱいともされたようなぐあいでした。
-  word_list: [まるで, 小さい, ちょうちん, が, 木, に, いっぱい, ともさ, れ, た, よう, な, ぐあい, でし, た]
   sound: f000071.mp3
   sound_begin: 344280
   sound_end: 350040
+  sentence: まるで小さいちょうちんが木にいっぱいともされたようなぐあいでした。
+  words:
+    - word: まるで
+      base: 丸で
+      postiion: 0
+    - word: 小さい
+      postiion: 3
+    - word: ちょうちん
+      base: 提灯
+      postiion: 6
+    - word: が
+      postiion: 11
+    - word: 木
+      postiion: 12
+    - word: に
+      postiion: 13
+    - word: いっぱい
+      base: 一杯
+      postiion: 14
+    - word: ともさ
+      base: 灯す
+      postiion: 18
+    - word: れ
+      base: れる
+      postiion: 21
+    - word: た
+      postiion: 22
+    - word: よう
+      base: 様
+      postiion: 23
+    - word: な
+      base: だ
+      postiion: 25
+    - word: ぐあい
+      base: 具合
+      postiion: 26
+    - word: でし
+      base: です
+      postiion: 29
+    - word: た
+      postiion: 31
 - id: Kino Matsuri-f000072
   author_japanese: 新美 南吉
   deck_name: Kino Matsuri
   deck_name_japanese: 木の祭り
-  sentence: そこでちょうちょうたちはたいへんよろこんで夜おそくまで遊びました。
-  word_list: [そこ, で, ちょうちょう, たち, は, たいへん, よろこん, で, 夜, おそく, まで, 遊び, まし, た]
   sound: f000072.mp3
   sound_begin: 352840
   sound_end: 360580
+  sentence: そこでちょうちょうたちはたいへんよろこんで夜おそくまで遊びました。
+  words:
+    - word: そこ
+      base: 其処
+      postiion: 0
+    - word: で
+      postiion: 2
+    - word: ちょうちょう
+      base: 蝶々
+      postiion: 3
+    - word: たち
+      base: 達
+      postiion: 9
+    - word: は
+      postiion: 11
+    - word: たいへん
+      base: 大変
+      postiion: 12
+    - word: よろこん
+      base: 喜ぶ
+      postiion: 16
+    - word: で
+      postiion: 20
+    - word: 夜
+      postiion: 21
+    - word: おそく
+      base: 遅い
+      postiion: 22
+    - word: まで
+      postiion: 25
+    - word: 遊び
+      base: 遊ぶ
+      postiion: 27
+    - word: まし
+      base: ます
+      postiion: 29
+    - word: た
+      postiion: 31

@@ -2,2618 +2,7912 @@
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 狐物語
-  word_list: [狐, 物語]
   sound: f000002.mp3
   sound_begin: 6520
   sound_end: 7680
+  sentence: 狐物語
+  words:
+    - word: 狐
+      postiion: 0
+    - word: 物語
+      postiion: 1
 - id: Kitsune Monogatari-f000003
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 四國のある山の中に、
-  word_list: [四國, の, ある, 山, の, 中, に]
   sound: f000003.mp3
   sound_begin: 11280
   sound_end: 13720
+  sentence: 四國のある山の中に、
+  words:
+    - word: 四國
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: ある
+      base: 有る
+      postiion: 3
+    - word: 山
+      postiion: 5
+    - word: の
+      postiion: 6
+    - word: 中
+      postiion: 7
+    - word: に
+      postiion: 8
 - id: Kitsune Monogatari-f000004
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: おもしろい狐がすんでいました。
-  word_list: [おもしろい, 狐, が, すん, で, い, まし, た]
   sound: f000004.mp3
   sound_begin: 13720
   sound_end: 15980
+  sentence: おもしろい狐がすんでいました。
+  words:
+    - word: おもしろい
+      base: 面白い
+      postiion: 0
+    - word: 狐
+      postiion: 5
+    - word: が
+      postiion: 6
+    - word: すん
+      base: すむ
+      postiion: 7
+    - word: で
+      postiion: 9
+    - word: い
+      base: 居る
+      postiion: 10
+    - word: まし
+      base: ます
+      postiion: 11
+    - word: た
+      postiion: 13
 - id: Kitsune Monogatari-f000005
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: いつも、
-  word_list: [いつも]
   sound: f000005.mp3
   sound_begin: 18080
   sound_end: 18640
+  sentence: いつも、
+  words:
+    - word: いつも
+      postiion: 0
 - id: Kitsune Monogatari-f000006
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: ひとりで歩くことがすきでしたが、
-  word_list: [ひとり, で, 歩く, こと, が, すき, でし, た, が]
   sound: f000006.mp3
   sound_begin: 18640
   sound_end: 21880
+  sentence: ひとりで歩くことがすきでしたが、
+  words:
+    - word: ひとり
+      base: 一人
+      postiion: 0
+    - word: で
+      postiion: 3
+    - word: 歩く
+      postiion: 4
+    - word: こと
+      postiion: 6
+    - word: が
+      postiion: 8
+    - word: すき
+      base: 好き
+      postiion: 9
+    - word: でし
+      base: です
+      postiion: 11
+    - word: た
+      postiion: 13
+    - word: が
+      postiion: 14
 - id: Kitsune Monogatari-f000007
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: ある雨の日、
-  word_list: [ある, 雨, の, 日]
   sound: f000007.mp3
   sound_begin: 21880
   sound_end: 23800
+  sentence: ある雨の日、
+  words:
+    - word: ある
+      base: 或る
+      postiion: 0
+    - word: 雨
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: 日
+      postiion: 4
 - id: Kitsune Monogatari-f000008
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: いつものように餌をあさってぼつぼつ歩いていますと、
-  word_list: [いつも, の, よう, に, 餌, を, あさっ, て, ぼつぼつ, 歩い, て, い, ます, と]
   sound: f000008.mp3
   sound_begin: 23800
   sound_end: 28000
+  sentence: いつものように餌をあさってぼつぼつ歩いていますと、
+  words:
+    - word: いつも
+      postiion: 0
+    - word: の
+      postiion: 3
+    - word: よう
+      base: 様
+      postiion: 4
+    - word: に
+      base: だ
+      postiion: 6
+    - word: 餌
+      postiion: 7
+    - word: を
+      postiion: 8
+    - word: あさっ
+      base: 漁る
+      postiion: 9
+    - word: て
+      postiion: 12
+    - word: ぼつぼつ
+      postiion: 13
+    - word: 歩い
+      base: 歩く
+      postiion: 17
+    - word: て
+      postiion: 19
+    - word: い
+      base: 居る
+      postiion: 20
+    - word: ます
+      postiion: 21
+    - word: と
+      postiion: 23
 - id: Kitsune Monogatari-f000009
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 男の子が四五人、
-  word_list: [男の子, が, 四五, 人]
   sound: f000009.mp3
   sound_begin: 28000
   sound_end: 30160
+  sentence: 男の子が四五人、
+  words:
+    - word: 男の子
+      postiion: 0
+    - word: が
+      postiion: 3
+    - word: 四五
+      base: '45'
+      postiion: 4
+    - word: 人
+      postiion: 6
 - id: Kitsune Monogatari-f000010
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: がやがや話しながら山を下っていました。
-  word_list: [がやがや, 話し, ながら, 山, を, 下っ, て, い, まし, た]
   sound: f000010.mp3
   sound_begin: 30160
   sound_end: 33040
+  sentence: がやがや話しながら山を下っていました。
+  words:
+    - word: がやがや
+      postiion: 0
+    - word: 話し
+      base: 話す
+      postiion: 4
+    - word: ながら
+      postiion: 6
+    - word: 山
+      postiion: 9
+    - word: を
+      postiion: 10
+    - word: 下っ
+      base: 下る
+      postiion: 11
+    - word: て
+      postiion: 13
+    - word: い
+      base: 居る
+      postiion: 14
+    - word: まし
+      base: ます
+      postiion: 15
+    - word: た
+      postiion: 17
 - id: Kitsune Monogatari-f000011
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 狐は、
-  word_list: [狐, は]
   sound: f000011.mp3
   sound_begin: 35640
   sound_end: 36400
+  sentence: 狐は、
+  words:
+    - word: 狐
+      postiion: 0
+    - word: は
+      postiion: 1
 - id: Kitsune Monogatari-f000012
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 時々人間をみたことがあったし、
-  word_list: [時々, 人間, を, み, た, こと, が, あっ, た, し]
   sound: f000012.mp3
   sound_begin: 36400
   sound_end: 39560
+  sentence: 時々人間をみたことがあったし、
+  words:
+    - word: 時々
+      postiion: 0
+    - word: 人間
+      postiion: 2
+    - word: を
+      postiion: 4
+    - word: み
+      base: 見る
+      postiion: 5
+    - word: た
+      postiion: 6
+    - word: こと
+      postiion: 7
+    - word: が
+      postiion: 9
+    - word: あっ
+      base: 有る
+      postiion: 10
+    - word: た
+      postiion: 12
+    - word: し
+      postiion: 13
 - id: Kitsune Monogatari-f000013
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 人間は二本の足で立って歩いているので、
-  word_list: [人間, は, 二, 本, の, 足, で, 立っ, て, 歩い, て, いる, の, で]
   sound: f000013.mp3
   sound_begin: 39560
   sound_end: 42480
+  sentence: 人間は二本の足で立って歩いているので、
+  words:
+    - word: 人間
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: 二
+      base: '2'
+      postiion: 3
+    - word: 本
+      postiion: 4
+    - word: の
+      postiion: 5
+    - word: 足
+      postiion: 6
+    - word: で
+      postiion: 7
+    - word: 立っ
+      base: 立つ
+      postiion: 8
+    - word: て
+      postiion: 10
+    - word: 歩い
+      base: 歩く
+      postiion: 11
+    - word: て
+      postiion: 13
+    - word: いる
+      base: 居る
+      postiion: 14
+    - word: の
+      postiion: 16
+    - word: で
+      base: だ
+      postiion: 17
 - id: Kitsune Monogatari-f000014
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 狐は珍らしくて仕方がないのです。
-  word_list: [狐, は, 珍らしく, て, 仕方, が, ない, の, です]
   sound: f000014.mp3
   sound_begin: 42480
   sound_end: 45400
+  sentence: 狐は珍らしくて仕方がないのです。
+  words:
+    - word: 狐
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: 珍らしく
+      base: 珍しい
+      postiion: 2
+    - word: て
+      postiion: 6
+    - word: 仕方
+      postiion: 7
+    - word: が
+      postiion: 9
+    - word: ない
+      base: 無い
+      postiion: 10
+    - word: の
+      postiion: 12
+    - word: です
+      postiion: 13
 - id: Kitsune Monogatari-f000015
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 狐のおかあさんは、
-  word_list: [狐, の, お, かあさん, は]
   sound: f000015.mp3
   sound_begin: 47800
   sound_end: 50320
+  sentence: 狐のおかあさんは、
+  words:
+    - word: 狐
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: お
+      base: 御
+      postiion: 2
+    - word: かあさん
+      postiion: 3
+    - word: は
+      postiion: 7
 - id: Kitsune Monogatari-f000016
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 「人間のところへ行くとひどいめにあうから、
-  word_list: [人間, の, ところ, へ, 行く, と, ひどい, め, に, あう, から]
   sound: f000016.mp3
   sound_begin: 50320
   sound_end: 53560
+  sentence: 「人間のところへ行くとひどいめにあうから、
+  words:
+    - word: 人間
+      postiion: 1
+    - word: の
+      postiion: 3
+    - word: ところ
+      base: 所
+      postiion: 4
+    - word: へ
+      postiion: 7
+    - word: 行く
+      postiion: 8
+    - word: と
+      postiion: 10
+    - word: ひどい
+      base: 酷い
+      postiion: 11
+    - word: め
+      postiion: 14
+    - word: に
+      postiion: 15
+    - word: あう
+      postiion: 16
+    - word: から
+      postiion: 18
 - id: Kitsune Monogatari-f000017
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 人間のところへぜったいに近づいてはいけませんよ。
-  word_list: [人間, の, ところ, へ, ぜったい, に, 近づい, て, は, いけ, ませ, ん, よ]
   sound: f000017.mp3
   sound_begin: 53560
   sound_end: 56720
+  sentence: 人間のところへぜったいに近づいてはいけませんよ。
+  words:
+    - word: 人間
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: ところ
+      base: 所
+      postiion: 3
+    - word: へ
+      postiion: 6
+    - word: ぜったい
+      base: 絶対
+      postiion: 7
+    - word: に
+      postiion: 11
+    - word: 近づい
+      base: 近付く
+      postiion: 12
+    - word: て
+      postiion: 15
+    - word: は
+      postiion: 16
+    - word: いけ
+      base: 行く
+      postiion: 17
+    - word: ませ
+      base: ます
+      postiion: 19
+    - word: ん
+      base: ず
+      postiion: 21
+    - word: よ
+      postiion: 22
 - id: Kitsune Monogatari-f000018
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 」と、
-  word_list: [と]
   sound: f000018.mp3
   sound_begin: 56720
   sound_end: 57960
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Kitsune Monogatari-f000019
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: いつもいうのですけれど、
-  word_list: [いつ, も, いう, の, です, けれど]
   sound: f000019.mp3
   sound_begin: 57960
   sound_end: 59400
+  sentence: いつもいうのですけれど、
+  words:
+    - word: いつ
+      postiion: 0
+    - word: も
+      postiion: 2
+    - word: いう
+      base: 言う
+      postiion: 3
+    - word: の
+      postiion: 5
+    - word: です
+      postiion: 6
+    - word: けれど
+      postiion: 8
 - id: Kitsune Monogatari-f000020
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 狐は、
-  word_list: [狐, は]
   sound: f000020.mp3
   sound_begin: 59400
   sound_end: 61520
+  sentence: 狐は、
+  words:
+    - word: 狐
+      postiion: 0
+    - word: は
+      postiion: 1
 - id: Kitsune Monogatari-f000021
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 人間の姿がおかしくて仕方がなかったし、
-  word_list: [人間, の, 姿, が, おかしく, て, 仕方, が, なかっ, た, し]
   sound: f000021.mp3
   sound_begin: 61520
   sound_end: 65120
+  sentence: 人間の姿がおかしくて仕方がなかったし、
+  words:
+    - word: 人間
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 姿
+      postiion: 3
+    - word: が
+      postiion: 4
+    - word: おかしく
+      base: 可笑しい
+      postiion: 5
+    - word: て
+      postiion: 9
+    - word: 仕方
+      postiion: 10
+    - word: が
+      postiion: 12
+    - word: なかっ
+      base: 無い
+      postiion: 13
+    - word: た
+      postiion: 16
+    - word: し
+      postiion: 17
 - id: Kitsune Monogatari-f000022
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 第一、
-  word_list: [第一]
   sound: f000022.mp3
   sound_begin: 65120
   sound_end: 66000
+  sentence: 第一、
+  words:
+    - word: 第一
+      postiion: 0
 - id: Kitsune Monogatari-f000023
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: ひょろひょろと、
-  word_list: [ひょろひょろ, と]
   sound: f000023.mp3
   sound_begin: 66000
   sound_end: 66960
+  sentence: ひょろひょろと、
+  words:
+    - word: ひょろひょろ
+      postiion: 0
+    - word: と
+      postiion: 6
 - id: Kitsune Monogatari-f000024
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 立って歩いているのがおかしくてしかたがないのです。
-  word_list: [立っ, て, 歩い, て, いる, の, が, おかしく, て, しかた, が, ない, の, です]
   sound: f000024.mp3
   sound_begin: 66960
   sound_end: 70520
+  sentence: 立って歩いているのがおかしくてしかたがないのです。
+  words:
+    - word: 立っ
+      base: 立つ
+      postiion: 0
+    - word: て
+      postiion: 2
+    - word: 歩い
+      base: 歩く
+      postiion: 3
+    - word: て
+      postiion: 5
+    - word: いる
+      base: 居る
+      postiion: 6
+    - word: の
+      postiion: 8
+    - word: が
+      postiion: 9
+    - word: おかしく
+      base: 可笑しい
+      postiion: 10
+    - word: て
+      postiion: 14
+    - word: しかた
+      base: 仕方
+      postiion: 15
+    - word: が
+      postiion: 18
+    - word: ない
+      base: 無い
+      postiion: 19
+    - word: の
+      postiion: 21
+    - word: です
+      postiion: 22
 - id: Kitsune Monogatari-f000025
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 狐は子供たちのうしろからそっとついて行きました。
-  word_list: [狐, は, 子供, たち, の, うしろ, から, そっと, つい, て, 行き, まし, た]
   sound: f000025.mp3
   sound_begin: 73520
   sound_end: 82239
+  sentence: 狐は子供たちのうしろからそっとついて行きました。
+  words:
+    - word: 狐
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: 子供
+      postiion: 2
+    - word: たち
+      base: 達
+      postiion: 4
+    - word: の
+      postiion: 6
+    - word: うしろ
+      base: 後ろ
+      postiion: 7
+    - word: から
+      postiion: 10
+    - word: そっと
+      postiion: 12
+    - word: つい
+      base: 付く
+      postiion: 15
+    - word: て
+      postiion: 17
+    - word: 行き
+      base: 行く
+      postiion: 18
+    - word: まし
+      base: ます
+      postiion: 20
+    - word: た
+      postiion: 22
 - id: Kitsune Monogatari-f000026
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 「このへんは六兵衞狐の出るところだぞ。」
-  word_list: [この, へん, は, 六, 兵, 衞, 狐, の, 出る, ところ, だ, ぞ]
   sound: f000026.mp3
   sound_begin: 82239
   sound_end: 87600
+  sentence: 「このへんは六兵衞狐の出るところだぞ。」
+  words:
+    - word: この
+      base: 此の
+      postiion: 1
+    - word: へん
+      postiion: 3
+    - word: は
+      postiion: 5
+    - word: 六
+      base: '6'
+      postiion: 6
+    - word: 兵
+      postiion: 7
+    - word: 衞
+      postiion: 8
+    - word: 狐
+      postiion: 9
+    - word: の
+      postiion: 10
+    - word: 出る
+      postiion: 11
+    - word: ところ
+      base: 所
+      postiion: 13
+    - word: だ
+      postiion: 16
+    - word: ぞ
+      postiion: 17
 - id: Kitsune Monogatari-f000027
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 一人の子供がいいました。
-  word_list: [一人, の, 子供, が, いい, まし, た]
   sound: f000027.mp3
   sound_begin: 87600
   sound_end: 89200
+  sentence: 一人の子供がいいました。
+  words:
+    - word: 一人
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 子供
+      postiion: 3
+    - word: が
+      postiion: 5
+    - word: いい
+      base: 言う
+      postiion: 6
+    - word: まし
+      base: ます
+      postiion: 8
+    - word: た
+      postiion: 10
 - id: Kitsune Monogatari-f000028
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 「晝間から出ることはないだろう。」
-  word_list: [晝間, から, 出る, こと, は, ない, だろう]
   sound: f000028.mp3
   sound_begin: 91000
   sound_end: 94280
+  sentence: 「晝間から出ることはないだろう。」
+  words:
+    - word: 晝間
+      postiion: 1
+    - word: から
+      postiion: 3
+    - word: 出る
+      postiion: 5
+    - word: こと
+      postiion: 7
+    - word: は
+      postiion: 9
+    - word: ない
+      base: 無い
+      postiion: 10
+    - word: だろう
+      base: だ
+      postiion: 12
 - id: Kitsune Monogatari-f000029
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: また一人の子供がいいました。
-  word_list: [また, 一人, の, 子供, が, いい, まし, た]
   sound: f000029.mp3
   sound_begin: 94280
   sound_end: 96400
+  sentence: また一人の子供がいいました。
+  words:
+    - word: また
+      base: 又
+      postiion: 0
+    - word: 一人
+      postiion: 2
+    - word: の
+      postiion: 4
+    - word: 子供
+      postiion: 5
+    - word: が
+      postiion: 7
+    - word: いい
+      base: 言う
+      postiion: 8
+    - word: まし
+      base: ます
+      postiion: 10
+    - word: た
+      postiion: 12
 - id: Kitsune Monogatari-f000030
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 「晝間でも雨が降っているから出るかもしれん。」
-  word_list: [晝間, で, も, 雨, が, 降っ, て, いる, から, 出る, か, も, しれ, ん]
   sound: f000030.mp3
   sound_begin: 98300
   sound_end: 102800
+  sentence: 「晝間でも雨が降っているから出るかもしれん。」
+  words:
+    - word: 晝間
+      postiion: 1
+    - word: で
+      base: だ
+      postiion: 3
+    - word: も
+      postiion: 4
+    - word: 雨
+      postiion: 5
+    - word: が
+      postiion: 6
+    - word: 降っ
+      base: 降る
+      postiion: 7
+    - word: て
+      postiion: 9
+    - word: いる
+      base: 居る
+      postiion: 10
+    - word: から
+      postiion: 12
+    - word: 出る
+      postiion: 14
+    - word: か
+      postiion: 16
+    - word: も
+      postiion: 17
+    - word: しれ
+      base: 知る
+      postiion: 18
+    - word: ん
+      base: ず
+      postiion: 20
 - id: Kitsune Monogatari-f000031
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: また、
-  word_list: [また]
   sound: f000031.mp3
   sound_begin: 102800
   sound_end: 103320
+  sentence: また、
+  words:
+    - word: また
+      base: 又
+      postiion: 0
 - id: Kitsune Monogatari-f000032
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: もう一人の子供がいいました。
-  word_list: [もう, 一人, の, 子供, が, いい, まし, た]
   sound: f000032.mp3
   sound_begin: 103320
   sound_end: 105160
+  sentence: もう一人の子供がいいました。
+  words:
+    - word: もう
+      postiion: 0
+    - word: 一人
+      postiion: 2
+    - word: の
+      postiion: 4
+    - word: 子供
+      postiion: 5
+    - word: が
+      postiion: 7
+    - word: いい
+      base: 言う
+      postiion: 8
+    - word: まし
+      base: ます
+      postiion: 10
+    - word: た
+      postiion: 12
 - id: Kitsune Monogatari-f000033
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 時々、
-  word_list: [時々]
   sound: f000033.mp3
   sound_begin: 108560
   sound_end: 109280
+  sentence: 時々、
+  words:
+    - word: 時々
+      postiion: 0
 - id: Kitsune Monogatari-f000034
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: とおくで雷が鳴っています。
-  word_list: [とおく, で, 雷, が, 鳴っ, て, い, ます]
   sound: f000034.mp3
   sound_begin: 109280
   sound_end: 111800
+  sentence: とおくで雷が鳴っています。
+  words:
+    - word: とおく
+      base: 遠く
+      postiion: 0
+    - word: で
+      postiion: 3
+    - word: 雷
+      postiion: 4
+    - word: が
+      postiion: 5
+    - word: 鳴っ
+      base: 鳴る
+      postiion: 6
+    - word: て
+      postiion: 8
+    - word: い
+      base: 居る
+      postiion: 9
+    - word: ます
+      postiion: 10
 - id: Kitsune Monogatari-f000035
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 子供たちは、
-  word_list: [子供, たち, は]
   sound: f000035.mp3
   sound_begin: 114400
   sound_end: 115560
+  sentence: 子供たちは、
+  words:
+    - word: 子供
+      postiion: 0
+    - word: たち
+      base: 達
+      postiion: 2
+    - word: は
+      postiion: 4
 - id: Kitsune Monogatari-f000036
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 何となく氣味がわるくなったのでしょう、
-  word_list: [何, と, なく, 氣, 味, が, わるく, なっ, た, の, でしょう]
   sound: f000036.mp3
   sound_begin: 115560
   sound_end: 119400
+  sentence: 何となく氣味がわるくなったのでしょう、
+  words:
+    - word: 何
+      postiion: 0
+    - word: と
+      postiion: 1
+    - word: なく
+      base: 無い
+      postiion: 2
+    - word: 氣
+      base: 気
+      postiion: 4
+    - word: 味
+      postiion: 5
+    - word: が
+      postiion: 6
+    - word: わるく
+      base: 悪い
+      postiion: 7
+    - word: なっ
+      base: 成る
+      postiion: 10
+    - word: た
+      postiion: 12
+    - word: の
+      postiion: 13
+    - word: でしょう
+      base: です
+      postiion: 14
 - id: Kitsune Monogatari-f000037
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 歩いていた子供たちは、
-  word_list: [歩い, て, い, た, 子供, たち, は]
   sound: f000037.mp3
   sound_begin: 119400
   sound_end: 121280
+  sentence: 歩いていた子供たちは、
+  words:
+    - word: 歩い
+      base: 歩く
+      postiion: 0
+    - word: て
+      postiion: 2
+    - word: い
+      base: 居る
+      postiion: 3
+    - word: た
+      postiion: 4
+    - word: 子供
+      postiion: 5
+    - word: たち
+      base: 達
+      postiion: 7
+    - word: は
+      postiion: 9
 - id: Kitsune Monogatari-f000038
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: ふっと足をとめて耳をそばたてました。
-  word_list: [ふっ, と, 足, を, とめ, て, 耳, を, そば, たて, まし, た]
   sound: f000038.mp3
   sound_begin: 121280
   sound_end: 124560
+  sentence: ふっと足をとめて耳をそばたてました。
+  words:
+    - word: ふっ
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: 足
+      postiion: 3
+    - word: を
+      postiion: 4
+    - word: とめ
+      base: とめる
+      postiion: 5
+    - word: て
+      postiion: 7
+    - word: 耳
+      postiion: 8
+    - word: を
+      postiion: 9
+    - word: そば
+      postiion: 10
+    - word: たて
+      base: たてる
+      postiion: 12
+    - word: まし
+      base: ます
+      postiion: 14
+    - word: た
+      postiion: 16
 - id: Kitsune Monogatari-f000039
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: すると、
-  word_list: [する, と]
   sound: f000039.mp3
   sound_begin: 127060
   sound_end: 127503
+  sentence: すると、
+  words:
+    - word: する
+      base: 為る
+      postiion: 0
+    - word: と
+      postiion: 2
 - id: Kitsune Monogatari-f000040
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 一人の子供がふいに後をふりかえって、
-  word_list: [一人, の, 子供, が, ふい, に, 後, を, ふり, かえっ, て]
   sound: f000040.mp3
   sound_begin: 127503
   sound_end: 130400
+  sentence: 一人の子供がふいに後をふりかえって、
+  words:
+    - word: 一人
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 子供
+      postiion: 3
+    - word: が
+      postiion: 5
+    - word: ふい
+      base: 不意
+      postiion: 6
+    - word: に
+      base: だ
+      postiion: 8
+    - word: 後
+      postiion: 9
+    - word: を
+      postiion: 10
+    - word: ふり
+      base: ふる
+      postiion: 11
+    - word: かえっ
+      base: かえる
+      postiion: 13
+    - word: て
+      postiion: 16
 - id: Kitsune Monogatari-f000041
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 狐をみました。
-  word_list: [狐, を, み, まし, た]
   sound: f000041.mp3
   sound_begin: 130400
   sound_end: 132756
+  sentence: 狐をみました。
+  words:
+    - word: 狐
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: み
+      base: 見る
+      postiion: 2
+    - word: まし
+      base: ます
+      postiion: 3
+    - word: た
+      postiion: 5
 - id: Kitsune Monogatari-f000042
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 「あッ、
-  word_list: [あッ]
   sound: f000042.mp3
   sound_begin: 132756
   sound_end: 133520
+  sentence: 「あッ、
+  words:
+    - word: あッ
+      base: あっ
+      postiion: 1
 - id: Kitsune Monogatari-f000043
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 狐が出おったぞッ。」
-  word_list: [狐, が, 出, おっ, た, ぞ, ッ]
   sound: f000043.mp3
   sound_begin: 133520
   sound_end: 136285
+  sentence: 狐が出おったぞッ。」
+  words:
+    - word: 狐
+      postiion: 0
+    - word: が
+      postiion: 1
+    - word: 出
+      base: 出る
+      postiion: 2
+    - word: おっ
+      base: 居る
+      postiion: 3
+    - word: た
+      postiion: 5
+    - word: ぞ
+      postiion: 6
+    - word: ッ
+      base: つ
+      postiion: 7
 - id: Kitsune Monogatari-f000044
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 子供たちはびっくりして、
-  word_list: [子供, たち, は, びっくり, し, て]
   sound: f000044.mp3
   sound_begin: 136285
   sound_end: 138480
+  sentence: 子供たちはびっくりして、
+  words:
+    - word: 子供
+      postiion: 0
+    - word: たち
+      base: 達
+      postiion: 2
+    - word: は
+      postiion: 4
+    - word: びっくり
+      postiion: 5
+    - word: し
+      base: 為る
+      postiion: 9
+    - word: て
+      postiion: 10
 - id: Kitsune Monogatari-f000045
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: まるで豆がはぜたようなすさまじい勢で、
-  word_list: [まるで, 豆, が, はぜ, た, よう, な, すさまじい, 勢, で]
   sound: f000045.mp3
   sound_begin: 138480
   sound_end: 141760
+  sentence: まるで豆がはぜたようなすさまじい勢で、
+  words:
+    - word: まるで
+      base: 丸で
+      postiion: 0
+    - word: 豆
+      postiion: 3
+    - word: が
+      postiion: 4
+    - word: はぜ
+      base: 爆ぜる
+      postiion: 5
+    - word: た
+      postiion: 7
+    - word: よう
+      base: 様
+      postiion: 8
+    - word: な
+      base: だ
+      postiion: 10
+    - word: すさまじい
+      base: 凄まじい
+      postiion: 11
+    - word: 勢
+      base: 勢い
+      postiion: 16
+    - word: で
+      base: だ
+      postiion: 17
 - id: Kitsune Monogatari-f000046
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 走って山を下りはじめました。
-  word_list: [走っ, て, 山, を, 下り, はじめ, まし, た]
   sound: f000046.mp3
   sound_begin: 141760
   sound_end: 143840
+  sentence: 走って山を下りはじめました。
+  words:
+    - word: 走っ
+      base: 走る
+      postiion: 0
+    - word: て
+      postiion: 2
+    - word: 山
+      postiion: 3
+    - word: を
+      postiion: 4
+    - word: 下り
+      base: 下りる
+      postiion: 5
+    - word: はじめ
+      base: 始める
+      postiion: 7
+    - word: まし
+      base: ます
+      postiion: 10
+    - word: た
+      postiion: 12
 - id: Kitsune Monogatari-f000047
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 狐もびっくりしました。
-  word_list: [狐, も, びっくり, し, まし, た]
   sound: f000047.mp3
   sound_begin: 145940
   sound_end: 148320
+  sentence: 狐もびっくりしました。
+  words:
+    - word: 狐
+      postiion: 0
+    - word: も
+      postiion: 1
+    - word: びっくり
+      postiion: 2
+    - word: し
+      base: 為る
+      postiion: 6
+    - word: まし
+      base: ます
+      postiion: 7
+    - word: た
+      postiion: 9
 - id: Kitsune Monogatari-f000048
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: どうしてあんなに子供達がさっと走って行ったのだろうと思いました。
-  word_list: [どう, し, て, あんな, に, 子供, 達, が, さっ, と, 走っ, て, 行っ, た, の, だろう, と, 思い, まし, た]
   sound: f000048.mp3
   sound_begin: 148320
   sound_end: 154400
+  sentence: どうしてあんなに子供達がさっと走って行ったのだろうと思いました。
+  words:
+    - word: どう
+      postiion: 0
+    - word: し
+      base: 為る
+      postiion: 2
+    - word: て
+      postiion: 3
+    - word: あんな
+      postiion: 4
+    - word: に
+      base: だ
+      postiion: 7
+    - word: 子供
+      postiion: 8
+    - word: 達
+      postiion: 10
+    - word: が
+      postiion: 11
+    - word: さっ
+      postiion: 12
+    - word: と
+      postiion: 14
+    - word: 走っ
+      base: 走る
+      postiion: 15
+    - word: て
+      postiion: 17
+    - word: 行っ
+      base: 行く
+      postiion: 18
+    - word: た
+      postiion: 20
+    - word: の
+      postiion: 21
+    - word: だろう
+      base: だ
+      postiion: 22
+    - word: と
+      postiion: 25
+    - word: 思い
+      base: 思う
+      postiion: 26
+    - word: まし
+      base: ます
+      postiion: 28
+    - word: た
+      postiion: 30
 - id: Kitsune Monogatari-f000049
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 雨の降るなかを、
-  word_list: [雨, の, 降る, なか, を]
   sound: f000049.mp3
   sound_begin: 154400
   sound_end: 155800
+  sentence: 雨の降るなかを、
+  words:
+    - word: 雨
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 降る
+      postiion: 2
+    - word: なか
+      base: 中
+      postiion: 4
+    - word: を
+      postiion: 6
 - id: Kitsune Monogatari-f000050
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 狐もぬれながら、
-  word_list: [狐, も, ぬれ, ながら]
   sound: f000050.mp3
   sound_begin: 155800
   sound_end: 157200
+  sentence: 狐もぬれながら、
+  words:
+    - word: 狐
+      postiion: 0
+    - word: も
+      postiion: 1
+    - word: ぬれ
+      base: ぬれる
+      postiion: 2
+    - word: ながら
+      postiion: 4
 - id: Kitsune Monogatari-f000051
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 子供たちの後を追いかけてゆきました。
-  word_list: [子供, たち, の, 後, を, 追い, かけ, て, ゆき, まし, た]
   sound: f000051.mp3
   sound_begin: 157200
   sound_end: 160680
+  sentence: 子供たちの後を追いかけてゆきました。
+  words:
+    - word: 子供
+      postiion: 0
+    - word: たち
+      base: 達
+      postiion: 2
+    - word: の
+      postiion: 4
+    - word: 後
+      postiion: 5
+    - word: を
+      postiion: 6
+    - word: 追い
+      base: 追う
+      postiion: 7
+    - word: かけ
+      base: 掛ける
+      postiion: 9
+    - word: て
+      postiion: 11
+    - word: ゆき
+      base: 行く
+      postiion: 12
+    - word: まし
+      base: ます
+      postiion: 14
+    - word: た
+      postiion: 16
 - id: Kitsune Monogatari-f000052
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 細い山道をいくまがりもして、
-  word_list: [細い, 山道, を, いく, まがり, も, し, て]
   sound: f000052.mp3
   sound_begin: 163480
   sound_end: 166360
+  sentence: 細い山道をいくまがりもして、
+  words:
+    - word: 細い
+      postiion: 0
+    - word: 山道
+      postiion: 2
+    - word: を
+      postiion: 4
+    - word: いく
+      base: 行く
+      postiion: 5
+    - word: まがり
+      postiion: 7
+    - word: も
+      postiion: 10
+    - word: し
+      base: 為る
+      postiion: 11
+    - word: て
+      postiion: 12
 - id: Kitsune Monogatari-f000053
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: やっと、
-  word_list: [やっと]
   sound: f000053.mp3
   sound_begin: 166360
   sound_end: 167040
+  sentence: やっと、
+  words:
+    - word: やっと
+      base: 漸と
+      postiion: 0
 - id: Kitsune Monogatari-f000054
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 人間の通るらしい道の近くへ來ますと、
-  word_list: [人間, の, 通る, らしい, 道, の, 近く, へ, 來, ます, と]
   sound: f000054.mp3
   sound_begin: 167040
   sound_end: 171120
+  sentence: 人間の通るらしい道の近くへ來ますと、
+  words:
+    - word: 人間
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 通る
+      postiion: 3
+    - word: らしい
+      postiion: 5
+    - word: 道
+      postiion: 8
+    - word: の
+      postiion: 9
+    - word: 近く
+      postiion: 10
+    - word: へ
+      postiion: 12
+    - word: 來
+      postiion: 13
+    - word: ます
+      postiion: 14
+    - word: と
+      postiion: 16
 - id: Kitsune Monogatari-f000055
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 山の田圃ぞいのところで、
-  word_list: [山, の, 田圃, ぞい, の, ところ, で]
   sound: f000055.mp3
   sound_begin: 171120
   sound_end: 173600
+  sentence: 山の田圃ぞいのところで、
+  words:
+    - word: 山
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 田圃
+      postiion: 2
+    - word: ぞい
+      base: 沿い
+      postiion: 4
+    - word: の
+      postiion: 6
+    - word: ところ
+      base: 所
+      postiion: 7
+    - word: で
+      postiion: 10
 - id: Kitsune Monogatari-f000056
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 大きい牛がもうもうとないていました。
-  word_list: [大きい, 牛, が, もう, もう, と, ない, て, い, まし, た]
   sound: f000056.mp3
   sound_begin: 173600
   sound_end: 176920
+  sentence: 大きい牛がもうもうとないていました。
+  words:
+    - word: 大きい
+      postiion: 0
+    - word: 牛
+      postiion: 3
+    - word: が
+      postiion: 4
+    - word: もう
+      postiion: 5
+    - word: もう
+      postiion: 5
+    - word: と
+      postiion: 9
+    - word: ない
+      base: 無い
+      postiion: 10
+    - word: て
+      postiion: 12
+    - word: い
+      base: 居る
+      postiion: 13
+    - word: まし
+      base: ます
+      postiion: 14
+    - word: た
+      postiion: 16
 - id: Kitsune Monogatari-f000057
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 狐は自分たちよりも大きい動物をみて、
-  word_list: [狐, は, 自分, たち, より, も, 大きい, 動物, を, み, て]
   sound: f000057.mp3
   sound_begin: 179220
   sound_end: 183087
+  sentence: 狐は自分たちよりも大きい動物をみて、
+  words:
+    - word: 狐
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: 自分
+      postiion: 2
+    - word: たち
+      base: 達
+      postiion: 4
+    - word: より
+      postiion: 6
+    - word: も
+      postiion: 8
+    - word: 大きい
+      postiion: 9
+    - word: 動物
+      postiion: 12
+    - word: を
+      postiion: 14
+    - word: み
+      base: 見る
+      postiion: 15
+    - word: て
+      postiion: 16
 - id: Kitsune Monogatari-f000058
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: しばらくあきれて眺めていました。
-  word_list: [しばらく, あきれ, て, 眺め, て, い, まし, た]
   sound: f000058.mp3
   sound_begin: 183087
   sound_end: 188360
+  sentence: しばらくあきれて眺めていました。
+  words:
+    - word: しばらく
+      base: 暫く
+      postiion: 0
+    - word: あきれ
+      base: 呆れる
+      postiion: 4
+    - word: て
+      postiion: 7
+    - word: 眺め
+      base: 眺める
+      postiion: 8
+    - word: て
+      postiion: 10
+    - word: い
+      base: 居る
+      postiion: 11
+    - word: まし
+      base: ます
+      postiion: 12
+    - word: た
+      postiion: 14
 - id: Kitsune Monogatari-f000059
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 何て大きいのだろう……。
-  word_list: [何, て, 大きい, の, だろう]
   sound: f000059.mp3
   sound_begin: 188360
   sound_end: 191060
+  sentence: 何て大きいのだろう……。
+  words:
+    - word: 何
+      postiion: 0
+    - word: て
+      base: って
+      postiion: 1
+    - word: 大きい
+      postiion: 2
+    - word: の
+      postiion: 5
+    - word: だろう
+      base: だ
+      postiion: 6
 - id: Kitsune Monogatari-f000060
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: お尻は箱のように四角くて、
-  word_list: [お, 尻, は, 箱, の, よう, に, 四角く, て]
   sound: f000060.mp3
   sound_begin: 193160
   sound_end: 195201
+  sentence: お尻は箱のように四角くて、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: 尻
+      postiion: 1
+    - word: は
+      postiion: 2
+    - word: 箱
+      postiion: 3
+    - word: の
+      postiion: 4
+    - word: よう
+      base: 様
+      postiion: 5
+    - word: に
+      base: だ
+      postiion: 7
+    - word: 四角く
+      base: 四角い
+      postiion: 8
+    - word: て
+      postiion: 11
 - id: Kitsune Monogatari-f000061
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 骨ばっていたし、
-  word_list: [骨ばっ, て, い, た, し]
   sound: f000061.mp3
   sound_begin: 195201
   sound_end: 196746
+  sentence: 骨ばっていたし、
+  words:
+    - word: 骨ばっ
+      base: 骨張る
+      postiion: 0
+    - word: て
+      postiion: 3
+    - word: い
+      base: 居る
+      postiion: 4
+    - word: た
+      postiion: 5
+    - word: し
+      postiion: 6
 - id: Kitsune Monogatari-f000062
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: たれさがった腹や脚が泥だらけです。
-  word_list: [たれ, さがっ, た, 腹, や, 脚, が, 泥, だらけ, です]
   sound: f000062.mp3
   sound_begin: 196746
   sound_end: 201000
+  sentence: たれさがった腹や脚が泥だらけです。
+  words:
+    - word: たれ
+      base: 垂れる
+      postiion: 0
+    - word: さがっ
+      base: 下がる
+      postiion: 2
+    - word: た
+      postiion: 5
+    - word: 腹
+      postiion: 6
+    - word: や
+      postiion: 7
+    - word: 脚
+      base: 足
+      postiion: 8
+    - word: が
+      postiion: 9
+    - word: 泥
+      postiion: 10
+    - word: だらけ
+      postiion: 11
+    - word: です
+      postiion: 14
 - id: Kitsune Monogatari-f000063
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: そしておもしろいことには、
-  word_list: [そして, おもしろい, こと, に, は]
   sound: f000063.mp3
   sound_begin: 201000
   sound_end: 202960
+  sentence: そしておもしろいことには、
+  words:
+    - word: そして
+      postiion: 0
+    - word: おもしろい
+      base: 面白い
+      postiion: 3
+    - word: こと
+      postiion: 8
+    - word: に
+      postiion: 10
+    - word: は
+      postiion: 11
 - id: Kitsune Monogatari-f000064
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 大きい鼻の穴にまあるいかんをつけて太い紐がついていました。
-  word_list: [大きい, 鼻, の, 穴, に, ま, ある, いかん, を, つけ, て, 太い, 紐, が, つい, て, い, まし, た]
   sound: f000064.mp3
   sound_begin: 202960
   sound_end: 208600
+  sentence: 大きい鼻の穴にまあるいかんをつけて太い紐がついていました。
+  words:
+    - word: 大きい
+      postiion: 0
+    - word: 鼻
+      postiion: 3
+    - word: の
+      postiion: 4
+    - word: 穴
+      postiion: 5
+    - word: に
+      postiion: 6
+    - word: ま
+      base: まー
+      postiion: 7
+    - word: ある
+      base: 或る
+      postiion: 8
+    - word: いかん
+      base: 如何
+      postiion: 10
+    - word: を
+      postiion: 13
+    - word: つけ
+      base: つける
+      postiion: 14
+    - word: て
+      postiion: 16
+    - word: 太い
+      postiion: 17
+    - word: 紐
+      postiion: 19
+    - word: が
+      postiion: 20
+    - word: つい
+      base: 付く
+      postiion: 21
+    - word: て
+      postiion: 23
+    - word: い
+      base: 居る
+      postiion: 24
+    - word: まし
+      base: ます
+      postiion: 25
+    - word: た
+      postiion: 27
 - id: Kitsune Monogatari-f000065
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 狐はおずおず牛の前へ行って、
-  word_list: [狐, は, おずおず, 牛, の, 前, へ, 行っ, て]
   sound: f000065.mp3
   sound_begin: 211300
   sound_end: 214683
+  sentence: 狐はおずおず牛の前へ行って、
+  words:
+    - word: 狐
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: おずおず
+      postiion: 2
+    - word: 牛
+      postiion: 6
+    - word: の
+      postiion: 7
+    - word: 前
+      postiion: 8
+    - word: へ
+      postiion: 9
+    - word: 行っ
+      base: 行く
+      postiion: 10
+    - word: て
+      postiion: 12
 - id: Kitsune Monogatari-f000066
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: ていねいに頭をさげました。
-  word_list: [ていねい, に, 頭, を, さげ, まし, た]
   sound: f000066.mp3
   sound_begin: 214683
   sound_end: 218520
+  sentence: ていねいに頭をさげました。
+  words:
+    - word: ていねい
+      base: 丁寧
+      postiion: 0
+    - word: に
+      base: だ
+      postiion: 4
+    - word: 頭
+      postiion: 5
+    - word: を
+      postiion: 6
+    - word: さげ
+      base: 下げる
+      postiion: 7
+    - word: まし
+      base: ます
+      postiion: 9
+    - word: た
+      postiion: 11
 - id: Kitsune Monogatari-f000067
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 牛はびっくりして狐をみました。
-  word_list: [牛, は, びっくり, し, て, 狐, を, み, まし, た]
   sound: f000067.mp3
   sound_begin: 218520
   sound_end: 224160
+  sentence: 牛はびっくりして狐をみました。
+  words:
+    - word: 牛
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: びっくり
+      postiion: 2
+    - word: し
+      base: 為る
+      postiion: 6
+    - word: て
+      postiion: 7
+    - word: 狐
+      postiion: 8
+    - word: を
+      postiion: 9
+    - word: み
+      base: 見る
+      postiion: 10
+    - word: まし
+      base: ます
+      postiion: 11
+    - word: た
+      postiion: 13
 - id: Kitsune Monogatari-f000068
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 「あなたはいったい、
-  word_list: [あなた, は, いったい]
   sound: f000068.mp3
   sound_begin: 224160
   sound_end: 225939
+  sentence: 「あなたはいったい、
+  words:
+    - word: あなた
+      base: 貴方
+      postiion: 1
+    - word: は
+      postiion: 4
+    - word: いったい
+      base: 一体
+      postiion: 5
 - id: Kitsune Monogatari-f000069
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: どなたさまですか。」
-  word_list: [どなた, さま, です, か]
   sound: f000069.mp3
   sound_begin: 225939
   sound_end: 228468
+  sentence: どなたさまですか。」
+  words:
+    - word: どなた
+      postiion: 0
+    - word: さま
+      base: 様
+      postiion: 3
+    - word: です
+      postiion: 5
+    - word: か
+      postiion: 7
 - id: Kitsune Monogatari-f000070
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: と、
-  word_list: [と]
   sound: f000070.mp3
   sound_begin: 228468
   sound_end: 228680
+  sentence: と、
+  words:
+    - word: と
+      postiion: 0
 - id: Kitsune Monogatari-f000071
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 狐がききました。
-  word_list: [狐, が, きき, まし, た]
   sound: f000071.mp3
   sound_begin: 228680
   sound_end: 232080
+  sentence: 狐がききました。
+  words:
+    - word: 狐
+      postiion: 0
+    - word: が
+      postiion: 1
+    - word: きき
+      base: きく
+      postiion: 2
+    - word: まし
+      base: ます
+      postiion: 4
+    - word: た
+      postiion: 6
 - id: Kitsune Monogatari-f000072
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 牛は正直者でしたから、
-  word_list: [牛, は, 正直, 者, でし, た, から]
   sound: f000072.mp3
   sound_begin: 232080
   sound_end: 234880
+  sentence: 牛は正直者でしたから、
+  words:
+    - word: 牛
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: 正直
+      postiion: 2
+    - word: 者
+      postiion: 4
+    - word: でし
+      base: です
+      postiion: 5
+    - word: た
+      postiion: 7
+    - word: から
+      postiion: 8
 - id: Kitsune Monogatari-f000073
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: わたしは、
-  word_list: [わたし, は]
   sound: f000073.mp3
   sound_begin: 234880
   sound_end: 235440
+  sentence: わたしは、
+  words:
+    - word: わたし
+      base: 私
+      postiion: 0
+    - word: は
+      postiion: 3
 - id: Kitsune Monogatari-f000074
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 桑助さんの家の牛で、
-  word_list: [桑, 助, さん, の, 家, の, 牛, で]
   sound: f000074.mp3
   sound_begin: 235440
   sound_end: 237680
+  sentence: 桑助さんの家の牛で、
+  words:
+    - word: 桑
+      postiion: 0
+    - word: 助
+      postiion: 1
+    - word: さん
+      postiion: 2
+    - word: の
+      postiion: 4
+    - word: 家
+      postiion: 5
+    - word: の
+      postiion: 6
+    - word: 牛
+      postiion: 7
+    - word: で
+      base: だ
+      postiion: 8
 - id: Kitsune Monogatari-f000075
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 赤兵衞というものだとこたえました。
-  word_list: [赤, 兵, 衞, と, いう, もの, だ, と, こたえ, まし, た]
   sound: f000075.mp3
   sound_begin: 237680
   sound_end: 240080
+  sentence: 赤兵衞というものだとこたえました。
+  words:
+    - word: 赤
+      postiion: 0
+    - word: 兵
+      postiion: 1
+    - word: 衞
+      postiion: 2
+    - word: と
+      postiion: 3
+    - word: いう
+      base: 言う
+      postiion: 4
+    - word: もの
+      base: 物
+      postiion: 6
+    - word: だ
+      postiion: 8
+    - word: と
+      postiion: 9
+    - word: こたえ
+      base: こたえる
+      postiion: 10
+    - word: まし
+      base: ます
+      postiion: 13
+    - word: た
+      postiion: 15
 - id: Kitsune Monogatari-f000076
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 狐は王樣のようだと感心しました。
-  word_list: [狐, は, 王, 樣, の, よう, だ, と, 感心, し, まし, た]
   sound: f000076.mp3
   sound_begin: 241680
   sound_end: 247520
+  sentence: 狐は王樣のようだと感心しました。
+  words:
+    - word: 狐
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: 王
+      postiion: 2
+    - word: 樣
+      postiion: 3
+    - word: の
+      postiion: 4
+    - word: よう
+      base: 様
+      postiion: 5
+    - word: だ
+      postiion: 7
+    - word: と
+      postiion: 8
+    - word: 感心
+      postiion: 9
+    - word: し
+      base: 為る
+      postiion: 11
+    - word: まし
+      base: ます
+      postiion: 12
+    - word: た
+      postiion: 14
 - id: Kitsune Monogatari-f000077
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 「そうですか、
-  word_list: [そう, です, か]
   sound: f000077.mp3
   sound_begin: 247520
   sound_end: 249800
+  sentence: 「そうですか、
+  words:
+    - word: そう
+      postiion: 1
+    - word: です
+      postiion: 3
+    - word: か
+      postiion: 5
 - id: Kitsune Monogatari-f000078
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: わたしは山の中から來た六兵衞という狐ですが、
-  word_list: [わたし, は, 山, の, 中, から, 來, た, 六, 兵, 衞, と, いう, 狐, です, が]
   sound: f000078.mp3
   sound_begin: 249800
   sound_end: 254897
+  sentence: わたしは山の中から來た六兵衞という狐ですが、
+  words:
+    - word: わたし
+      base: 私
+      postiion: 0
+    - word: は
+      postiion: 3
+    - word: 山
+      postiion: 4
+    - word: の
+      postiion: 5
+    - word: 中
+      postiion: 6
+    - word: から
+      postiion: 7
+    - word: 來
+      postiion: 9
+    - word: た
+      postiion: 10
+    - word: 六
+      base: '6'
+      postiion: 11
+    - word: 兵
+      postiion: 12
+    - word: 衞
+      postiion: 13
+    - word: と
+      postiion: 14
+    - word: いう
+      base: 言う
+      postiion: 15
+    - word: 狐
+      postiion: 17
+    - word: です
+      postiion: 18
+    - word: が
+      postiion: 20
 - id: Kitsune Monogatari-f000079
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: このさきへは行かれますか。」
-  word_list: [この, さき, へ, は, 行か, れ, ます, か]
   sound: f000079.mp3
   sound_begin: 254897
   sound_end: 257910
+  sentence: このさきへは行かれますか。」
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: さき
+      base: 先
+      postiion: 2
+    - word: へ
+      postiion: 4
+    - word: は
+      postiion: 5
+    - word: 行か
+      base: 行く
+      postiion: 6
+    - word: れ
+      base: れる
+      postiion: 8
+    - word: ます
+      postiion: 9
+    - word: か
+      postiion: 11
 - id: Kitsune Monogatari-f000080
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: と、
-  word_list: [と]
   sound: f000080.mp3
   sound_begin: 257910
   sound_end: 258120
+  sentence: と、
+  words:
+    - word: と
+      postiion: 0
 - id: Kitsune Monogatari-f000081
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: たずねてみました。
-  word_list: [たずね, て, み, まし, た]
   sound: f000081.mp3
   sound_begin: 258120
   sound_end: 261189
+  sentence: たずねてみました。
+  words:
+    - word: たずね
+      base: たずねる
+      postiion: 0
+    - word: て
+      postiion: 3
+    - word: み
+      base: 見る
+      postiion: 4
+    - word: まし
+      base: ます
+      postiion: 5
+    - word: た
+      postiion: 7
 - id: Kitsune Monogatari-f000082
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 「ええ行かれますとも、
-  word_list: [ええ, 行か, れ, ます, とも]
   sound: f000082.mp3
   sound_begin: 261189
   sound_end: 264800
+  sentence: 「ええ行かれますとも、
+  words:
+    - word: ええ
+      postiion: 1
+    - word: 行か
+      base: 行く
+      postiion: 3
+    - word: れ
+      base: れる
+      postiion: 5
+    - word: ます
+      postiion: 6
+    - word: とも
+      postiion: 8
 - id: Kitsune Monogatari-f000083
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 道はどこまでもつづいていて、
-  word_list: [道, は, どこ, まで, も, つづい, て, い, て]
   sound: f000083.mp3
   sound_begin: 264800
   sound_end: 267920
+  sentence: 道はどこまでもつづいていて、
+  words:
+    - word: 道
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: どこ
+      postiion: 2
+    - word: まで
+      postiion: 4
+    - word: も
+      postiion: 6
+    - word: つづい
+      base: 続く
+      postiion: 7
+    - word: て
+      postiion: 10
+    - word: い
+      base: 居る
+      postiion: 11
+    - word: て
+      postiion: 12
 - id: Kitsune Monogatari-f000084
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: にぎやかな河口までつづいていますよ。」
-  word_list: [にぎやか, な, 河口, まで, つづい, て, い, ます, よ]
   sound: f000084.mp3
   sound_begin: 267920
   sound_end: 271242
+  sentence: にぎやかな河口までつづいていますよ。」
+  words:
+    - word: にぎやか
+      base: 賑やか
+      postiion: 0
+    - word: な
+      base: だ
+      postiion: 4
+    - word: 河口
+      postiion: 5
+    - word: まで
+      postiion: 7
+    - word: つづい
+      base: 続く
+      postiion: 9
+    - word: て
+      postiion: 12
+    - word: い
+      base: 居る
+      postiion: 13
+    - word: ます
+      postiion: 14
+    - word: よ
+      postiion: 16
 - id: Kitsune Monogatari-f000086
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: と、教えてくれました。
-  word_list: [と, 教え, て, くれ, まし, た]
   sound: f000086.mp3
   sound_begin: 271258
   sound_end: 274770
+  sentence: と、教えてくれました。
+  words:
+    - word: と
+      postiion: 0
+    - word: 教え
+      base: 教える
+      postiion: 2
+    - word: て
+      postiion: 4
+    - word: くれ
+      base: 呉れる
+      postiion: 5
+    - word: まし
+      base: ます
+      postiion: 7
+    - word: た
+      postiion: 9
 - id: Kitsune Monogatari-f000087
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 狐はていねいにあいさつをして、
-  word_list: [狐, は, ていねい, に, あいさつ, を, し, て]
   sound: f000087.mp3
   sound_begin: 274770
   sound_end: 277480
+  sentence: 狐はていねいにあいさつをして、
+  words:
+    - word: 狐
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: ていねい
+      base: 丁寧
+      postiion: 2
+    - word: に
+      base: だ
+      postiion: 6
+    - word: あいさつ
+      base: 挨拶
+      postiion: 7
+    - word: を
+      postiion: 11
+    - word: し
+      base: 為る
+      postiion: 12
+    - word: て
+      postiion: 13
 - id: Kitsune Monogatari-f000088
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 雨の中を歩きました。
-  word_list: [雨, の, 中, を, 歩き, まし, た]
   sound: f000088.mp3
   sound_begin: 277480
   sound_end: 279380
+  sentence: 雨の中を歩きました。
+  words:
+    - word: 雨
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 中
+      postiion: 2
+    - word: を
+      postiion: 3
+    - word: 歩き
+      base: 歩く
+      postiion: 4
+    - word: まし
+      base: ます
+      postiion: 6
+    - word: た
+      postiion: 8
 - id: Kitsune Monogatari-f000089
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: しばらく行くと、
-  word_list: [しばらく, 行く, と]
   sound: f000089.mp3
   sound_begin: 281480
   sound_end: 282480
+  sentence: しばらく行くと、
+  words:
+    - word: しばらく
+      base: 暫く
+      postiion: 0
+    - word: 行く
+      postiion: 4
+    - word: と
+      postiion: 6
 - id: Kitsune Monogatari-f000090
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 小さい村がありました。
-  word_list: [小さい, 村, が, あり, まし, た]
   sound: f000090.mp3
   sound_begin: 282480
   sound_end: 285800
+  sentence: 小さい村がありました。
+  words:
+    - word: 小さい
+      postiion: 0
+    - word: 村
+      postiion: 3
+    - word: が
+      postiion: 4
+    - word: あり
+      base: 有る
+      postiion: 5
+    - word: まし
+      base: ます
+      postiion: 7
+    - word: た
+      postiion: 9
 - id: Kitsune Monogatari-f000091
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 村のとっつきの家では、
-  word_list: [村, の, とっ, つき, の, 家, で, は]
   sound: f000091.mp3
   sound_begin: 285800
   sound_end: 287280
+  sentence: 村のとっつきの家では、
+  words:
+    - word: 村
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: とっ
+      base: 取る
+      postiion: 2
+    - word: つき
+      base: 付く
+      postiion: 4
+    - word: の
+      postiion: 6
+    - word: 家
+      postiion: 7
+    - word: で
+      postiion: 8
+    - word: は
+      postiion: 9
 - id: Kitsune Monogatari-f000092
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 鷄が三びきほど遊んでいました。
-  word_list: [鷄, が, 三, びき, ほど, 遊ん, で, い, まし, た]
   sound: f000092.mp3
   sound_begin: 287280
   sound_end: 291146
+  sentence: 鷄が三びきほど遊んでいました。
+  words:
+    - word: 鷄
+      postiion: 0
+    - word: が
+      postiion: 1
+    - word: 三
+      base: '3'
+      postiion: 2
+    - word: びき
+      base: 匹
+      postiion: 3
+    - word: ほど
+      postiion: 5
+    - word: 遊ん
+      base: 遊ぶ
+      postiion: 7
+    - word: で
+      postiion: 9
+    - word: い
+      base: 居る
+      postiion: 10
+    - word: まし
+      base: ます
+      postiion: 11
+    - word: た
+      postiion: 13
 - id: Kitsune Monogatari-f000093
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 狐は何も彼も珍らしくて仕方がありません。
-  word_list: [狐, は, 何, も, 彼, も, 珍らしく, て, 仕方, が, あり, ませ, ん]
   sound: f000093.mp3
   sound_begin: 291146
   sound_end: 296360
+  sentence: 狐は何も彼も珍らしくて仕方がありません。
+  words:
+    - word: 狐
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: 何
+      postiion: 2
+    - word: も
+      postiion: 3
+    - word: 彼
+      postiion: 4
+    - word: も
+      postiion: 5
+    - word: 珍らしく
+      base: 珍しい
+      postiion: 6
+    - word: て
+      postiion: 10
+    - word: 仕方
+      postiion: 11
+    - word: が
+      postiion: 13
+    - word: あり
+      base: 有る
+      postiion: 14
+    - word: ませ
+      base: ます
+      postiion: 16
+    - word: ん
+      base: ず
+      postiion: 18
 - id: Kitsune Monogatari-f000094
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: これは何というものだろうと思いました。
-  word_list: [これ, は, 何, と, いう, もの, だろう, と, 思い, まし, た]
   sound: f000094.mp3
   sound_begin: 296360
   sound_end: 301560
+  sentence: これは何というものだろうと思いました。
+  words:
+    - word: これ
+      base: 此れ
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: 何
+      postiion: 3
+    - word: と
+      postiion: 4
+    - word: いう
+      base: 言う
+      postiion: 5
+    - word: もの
+      base: 物
+      postiion: 7
+    - word: だろう
+      base: だ
+      postiion: 9
+    - word: と
+      postiion: 12
+    - word: 思い
+      base: 思う
+      postiion: 13
+    - word: まし
+      base: ます
+      postiion: 15
+    - word: た
+      postiion: 17
 - id: Kitsune Monogatari-f000095
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: それで、
-  word_list: [それ, で]
   sound: f000095.mp3
   sound_begin: 301560
   sound_end: 301961
+  sentence: それで、
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: で
+      postiion: 2
 - id: Kitsune Monogatari-f000096
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: また、
-  word_list: [また]
   sound: f000096.mp3
   sound_begin: 301961
   sound_end: 302429
+  sentence: また、
+  words:
+    - word: また
+      base: 又
+      postiion: 0
 - id: Kitsune Monogatari-f000097
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: ていねいに頭をさげますと、
-  word_list: [ていねい, に, 頭, を, さげ, ます, と]
   sound: f000097.mp3
   sound_begin: 302429
   sound_end: 304840
+  sentence: ていねいに頭をさげますと、
+  words:
+    - word: ていねい
+      base: 丁寧
+      postiion: 0
+    - word: に
+      base: だ
+      postiion: 4
+    - word: 頭
+      postiion: 5
+    - word: を
+      postiion: 6
+    - word: さげ
+      base: 下げる
+      postiion: 7
+    - word: ます
+      postiion: 9
+    - word: と
+      postiion: 11
 - id: Kitsune Monogatari-f000098
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 三びきのあわてものの鷄はけたたましくなきたてて鷄小舍の屋根へ飛び上ってゆきました。
-  word_list: [三, びき, の, あわてもの, の, 鷄, は, けたたましく, なき, たて, て, 鷄小, 舍, の, 屋根, へ, 飛び, 上っ, て, ゆき, まし, た]
   sound: f000098.mp3
   sound_begin: 304840
   sound_end: 310720
+  sentence: 三びきのあわてものの鷄はけたたましくなきたてて鷄小舍の屋根へ飛び上ってゆきました。
+  words:
+    - word: 三
+      base: '3'
+      postiion: 0
+    - word: びき
+      base: 匹
+      postiion: 1
+    - word: の
+      postiion: 3
+    - word: あわてもの
+      base: 慌て者
+      postiion: 4
+    - word: の
+      postiion: 8
+    - word: 鷄
+      postiion: 10
+    - word: は
+      postiion: 11
+    - word: けたたましく
+      base: けたたましい
+      postiion: 12
+    - word: なき
+      base: 無い
+      postiion: 18
+    - word: たて
+      base: たてる
+      postiion: 20
+    - word: て
+      postiion: 21
+    - word: 鷄小
+      postiion: 23
+    - word: 舍
+      postiion: 25
+    - word: の
+      postiion: 26
+    - word: 屋根
+      postiion: 27
+    - word: へ
+      postiion: 29
+    - word: 飛び
+      base: 飛ぶ
+      postiion: 30
+    - word: 上っ
+      base: 上がる
+      postiion: 32
+    - word: て
+      postiion: 34
+    - word: ゆき
+      base: 行く
+      postiion: 35
+    - word: まし
+      base: ます
+      postiion: 37
+    - word: た
+      postiion: 39
 - id: Kitsune Monogatari-f000099
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: すると、
-  word_list: [する, と]
   sound: f000099.mp3
   sound_begin: 312320
   sound_end: 312756
+  sentence: すると、
+  words:
+    - word: する
+      base: 為る
+      postiion: 0
+    - word: と
+      postiion: 2
 - id: Kitsune Monogatari-f000100
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 家のなかから、
-  word_list: [家, の, なか, から]
   sound: f000100.mp3
   sound_begin: 312756
   sound_end: 313880
+  sentence: 家のなかから、
+  words:
+    - word: 家
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: なか
+      base: 中
+      postiion: 2
+    - word: から
+      postiion: 4
 - id: Kitsune Monogatari-f000101
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: おそろしく脊の高いおじいさんが棒を持って出て來ました。
-  word_list: [おそろしく, 脊, の, 高い, お, じい, さん, が, 棒, を, 持っ, て, 出, て, 來, まし, た]
   sound: f000101.mp3
   sound_begin: 313880
   sound_end: 317800
+  sentence: おそろしく脊の高いおじいさんが棒を持って出て來ました。
+  words:
+    - word: おそろしく
+      base: 恐ろしい
+      postiion: 0
+    - word: 脊
+      postiion: 5
+    - word: の
+      postiion: 6
+    - word: 高い
+      postiion: 7
+    - word: お
+      base: 御
+      postiion: 9
+    - word: じい
+      base: 爺
+      postiion: 10
+    - word: さん
+      postiion: 12
+    - word: が
+      postiion: 14
+    - word: 棒
+      postiion: 15
+    - word: を
+      postiion: 16
+    - word: 持っ
+      base: 持つ
+      postiion: 17
+    - word: て
+      postiion: 19
+    - word: 出
+      base: 出る
+      postiion: 20
+    - word: て
+      postiion: 21
+    - word: 來
+      postiion: 22
+    - word: まし
+      base: ます
+      postiion: 23
+    - word: た
+      postiion: 25
 - id: Kitsune Monogatari-f000102
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 「これッ、
-  word_list: [これ, ッ]
   sound: f000102.mp3
   sound_begin: 319500
   sound_end: 320000
+  sentence: 「これッ、
+  words:
+    - word: これ
+      base: 此れ
+      postiion: 1
+    - word: ッ
+      base: つ
+      postiion: 3
 - id: Kitsune Monogatari-f000103
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 狐の奴め、
-  word_list: [狐, の, 奴, め]
   sound: f000103.mp3
   sound_begin: 320000
   sound_end: 321960
+  sentence: 狐の奴め、
+  words:
+    - word: 狐
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 奴
+      postiion: 2
+    - word: め
+      postiion: 3
 - id: Kitsune Monogatari-f000104
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: お前、
-  word_list: [お前]
   sound: f000104.mp3
   sound_begin: 321960
   sound_end: 322440
+  sentence: お前、
+  words:
+    - word: お前
+      base: 御前
+      postiion: 0
 - id: Kitsune Monogatari-f000105
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: うちのとりを食うつもりだなッ。」
-  word_list: [うち, の, とり, を, 食う, つもり, だ, な, ッ]
   sound: f000105.mp3
   sound_begin: 322440
   sound_end: 324040
+  sentence: うちのとりを食うつもりだなッ。」
+  words:
+    - word: うち
+      base: 内
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: とり
+      postiion: 3
+    - word: を
+      postiion: 5
+    - word: 食う
+      postiion: 6
+    - word: つもり
+      base: 積もり
+      postiion: 8
+    - word: だ
+      postiion: 11
+    - word: な
+      postiion: 12
+    - word: ッ
+      base: つ
+      postiion: 13
 - id: Kitsune Monogatari-f000106
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 狐はびっくりしました。
-  word_list: [狐, は, びっくり, し, まし, た]
   sound: f000106.mp3
   sound_begin: 326677
   sound_end: 329456
+  sentence: 狐はびっくりしました。
+  words:
+    - word: 狐
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: びっくり
+      postiion: 2
+    - word: し
+      base: 為る
+      postiion: 6
+    - word: まし
+      base: ます
+      postiion: 7
+    - word: た
+      postiion: 9
 - id: Kitsune Monogatari-f000107
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 鷄なんか一度も食べた事がないのに、
-  word_list: [鷄, なんか, 一度, も, 食べ, た, 事, が, ない, の, に]
   sound: f000107.mp3
   sound_begin: 329456
   sound_end: 332480
+  sentence: 鷄なんか一度も食べた事がないのに、
+  words:
+    - word: 鷄
+      postiion: 0
+    - word: なんか
+      postiion: 1
+    - word: 一度
+      postiion: 4
+    - word: も
+      postiion: 6
+    - word: 食べ
+      base: 食べる
+      postiion: 7
+    - word: た
+      postiion: 9
+    - word: 事
+      postiion: 10
+    - word: が
+      postiion: 11
+    - word: ない
+      base: 無い
+      postiion: 12
+    - word: の
+      postiion: 14
+    - word: に
+      postiion: 15
 - id: Kitsune Monogatari-f000108
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: この人間は妙な事をいうと思ってぼんやりしていますと、
-  word_list: [この, 人間, は, 妙, な, 事, を, いう, と, 思っ, て, ぼんやり, し, て, い, ます, と]
   sound: f000108.mp3
   sound_begin: 332480
   sound_end: 338994
+  sentence: この人間は妙な事をいうと思ってぼんやりしていますと、
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: 人間
+      postiion: 2
+    - word: は
+      postiion: 4
+    - word: 妙
+      postiion: 5
+    - word: な
+      base: だ
+      postiion: 6
+    - word: 事
+      postiion: 7
+    - word: を
+      postiion: 8
+    - word: いう
+      base: 言う
+      postiion: 9
+    - word: と
+      postiion: 11
+    - word: 思っ
+      base: 思う
+      postiion: 12
+    - word: て
+      postiion: 14
+    - word: ぼんやり
+      postiion: 15
+    - word: し
+      base: 為る
+      postiion: 19
+    - word: て
+      postiion: 20
+    - word: い
+      base: 居る
+      postiion: 21
+    - word: ます
+      postiion: 22
+    - word: と
+      postiion: 24
 - id: Kitsune Monogatari-f000109
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: こおンと固い音をたてて狐は額をいやというほどなぐられてしまいました。
-  word_list: [こお, ン, と, 固い, 音, を, たて, て, 狐, は, 額, を, いや, と, いう, ほど, なぐら, れ, て, しまい, まし, た]
   sound: f000109.mp3
   sound_begin: 338994
   sound_end: 346000
+  sentence: こおンと固い音をたてて狐は額をいやというほどなぐられてしまいました。
+  words:
+    - word: こお
+      base: 請う
+      postiion: 0
+    - word: ン
+      base: ヌ
+      postiion: 2
+    - word: と
+      postiion: 3
+    - word: 固い
+      postiion: 4
+    - word: 音
+      postiion: 6
+    - word: を
+      postiion: 7
+    - word: たて
+      base: たてる
+      postiion: 8
+    - word: て
+      postiion: 9
+    - word: 狐
+      postiion: 11
+    - word: は
+      postiion: 12
+    - word: 額
+      postiion: 13
+    - word: を
+      postiion: 14
+    - word: いや
+      base: 嫌
+      postiion: 15
+    - word: と
+      postiion: 17
+    - word: いう
+      base: 言う
+      postiion: 18
+    - word: ほど
+      postiion: 20
+    - word: なぐら
+      base: 殴る
+      postiion: 22
+    - word: れ
+      base: れる
+      postiion: 25
+    - word: て
+      postiion: 26
+    - word: しまい
+      base: 仕舞う
+      postiion: 27
+    - word: まし
+      base: ます
+      postiion: 30
+    - word: た
+      postiion: 32
 - id: Kitsune Monogatari-f000110
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 思わず尻餅をついているところを、
-  word_list: [思わ, ず, 尻餅, を, つい, て, いる, ところ, を]
   sound: f000110.mp3
   sound_begin: 346000
   sound_end: 348876
+  sentence: 思わず尻餅をついているところを、
+  words:
+    - word: 思わ
+      base: 思う
+      postiion: 0
+    - word: ず
+      postiion: 2
+    - word: 尻餅
+      postiion: 3
+    - word: を
+      postiion: 5
+    - word: つい
+      base: つく
+      postiion: 6
+    - word: て
+      postiion: 8
+    - word: いる
+      base: 居る
+      postiion: 9
+    - word: ところ
+      base: 所
+      postiion: 11
+    - word: を
+      postiion: 14
 - id: Kitsune Monogatari-f000111
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 狐はとうとう人間につかまってしまって、
-  word_list: [狐, は, とうとう, 人間, に, つかまっ, て, しまっ, て]
   sound: f000111.mp3
   sound_begin: 348876
   sound_end: 352160
+  sentence: 狐はとうとう人間につかまってしまって、
+  words:
+    - word: 狐
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: とうとう
+      base: 到頭
+      postiion: 2
+    - word: 人間
+      postiion: 6
+    - word: に
+      postiion: 8
+    - word: つかまっ
+      base: 捕まる
+      postiion: 9
+    - word: て
+      postiion: 13
+    - word: しまっ
+      base: 仕舞う
+      postiion: 14
+    - word: て
+      postiion: 17
 - id: Kitsune Monogatari-f000112
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 木箱の中へいれられてしまいました。
-  word_list: [木箱, の, 中, へ, いれ, られ, て, しまい, まし, た]
   sound: f000112.mp3
   sound_begin: 352160
   sound_end: 355280
+  sentence: 木箱の中へいれられてしまいました。
+  words:
+    - word: 木箱
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 中
+      postiion: 3
+    - word: へ
+      postiion: 4
+    - word: いれ
+      base: 入れる
+      postiion: 5
+    - word: られ
+      base: られる
+      postiion: 7
+    - word: て
+      postiion: 9
+    - word: しまい
+      base: 仕舞う
+      postiion: 10
+    - word: まし
+      base: ます
+      postiion: 13
+    - word: た
+      postiion: 15
 - id: Kitsune Monogatari-f000113
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: その晩、
-  word_list: [その, 晩]
   sound: f000113.mp3
   sound_begin: 358780
   sound_end: 359840
+  sentence: その晩、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 晩
+      postiion: 2
 - id: Kitsune Monogatari-f000114
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 人間たちはこんなことを話しあっていました。
-  word_list: [人間, たち, は, こんな, こと, を, 話し, あっ, て, い, まし, た]
   sound: f000114.mp3
   sound_begin: 359840
   sound_end: 365360
+  sentence: 人間たちはこんなことを話しあっていました。
+  words:
+    - word: 人間
+      postiion: 0
+    - word: たち
+      base: 達
+      postiion: 2
+    - word: は
+      postiion: 4
+    - word: こんな
+      postiion: 5
+    - word: こと
+      postiion: 8
+    - word: を
+      postiion: 10
+    - word: 話し
+      base: 話す
+      postiion: 11
+    - word: あっ
+      base: あう
+      postiion: 13
+    - word: て
+      postiion: 15
+    - word: い
+      base: 居る
+      postiion: 16
+    - word: まし
+      base: ます
+      postiion: 17
+    - word: た
+      postiion: 19
 - id: Kitsune Monogatari-f000115
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 「六兵衞狐というのはひどい奴で、
-  word_list: [六, 兵, 衞, 狐, と, いう, の, は, ひどい, 奴, で]
   sound: f000115.mp3
   sound_begin: 365360
   sound_end: 368680
+  sentence: 「六兵衞狐というのはひどい奴で、
+  words:
+    - word: 六
+      base: '6'
+      postiion: 1
+    - word: 兵
+      postiion: 2
+    - word: 衞
+      postiion: 3
+    - word: 狐
+      postiion: 4
+    - word: と
+      postiion: 5
+    - word: いう
+      base: 言う
+      postiion: 6
+    - word: の
+      postiion: 8
+    - word: は
+      postiion: 9
+    - word: ひどい
+      base: 酷い
+      postiion: 10
+    - word: 奴
+      postiion: 13
+    - word: で
+      base: だ
+      postiion: 14
 - id: Kitsune Monogatari-f000116
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 五作さんの家からかえる時、
-  word_list: [五, 作, さん, の, 家, から, かえる, 時]
   sound: f000116.mp3
   sound_begin: 368680
   sound_end: 370680
+  sentence: 五作さんの家からかえる時、
+  words:
+    - word: 五
+      base: '5'
+      postiion: 0
+    - word: 作
+      postiion: 1
+    - word: さん
+      postiion: 2
+    - word: の
+      postiion: 4
+    - word: 家
+      postiion: 5
+    - word: から
+      postiion: 6
+    - word: かえる
+      postiion: 8
+    - word: 時
+      postiion: 11
 - id: Kitsune Monogatari-f000117
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: おれはおこわめしをみやげにもらっていたンだが、
-  word_list: [おれ, は, お, こわめし, を, みやげ, に, もらっ, て, い, た, ン, だ, が]
   sound: f000117.mp3
   sound_begin: 370680
   sound_end: 373800
+  sentence: おれはおこわめしをみやげにもらっていたンだが、
+  words:
+    - word: おれ
+      base: 俺
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: お
+      base: 御
+      postiion: 3
+    - word: こわめし
+      base: 強飯
+      postiion: 4
+    - word: を
+      postiion: 8
+    - word: みやげ
+      base: 土産
+      postiion: 9
+    - word: に
+      postiion: 12
+    - word: もらっ
+      base: 貰う
+      postiion: 13
+    - word: て
+      postiion: 16
+    - word: い
+      base: 居る
+      postiion: 17
+    - word: た
+      postiion: 18
+    - word: ン
+      base: の
+      postiion: 19
+    - word: だ
+      postiion: 20
+    - word: が
+      postiion: 21
 - id: Kitsune Monogatari-f000118
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 祖谷を下る途中、
-  word_list: [祖谷, を, 下る, 途中]
   sound: f000118.mp3
   sound_begin: 373800
   sound_end: 375200
+  sentence: 祖谷を下る途中、
+  words:
+    - word: 祖谷
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: 下る
+      postiion: 3
+    - word: 途中
+      postiion: 5
 - id: Kitsune Monogatari-f000119
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: とうとう六兵衞に化かされて、
-  word_list: [とうとう, 六, 兵, 衞, に, 化かさ, れ, て]
   sound: f000119.mp3
   sound_begin: 375200
   sound_end: 377680
+  sentence: とうとう六兵衞に化かされて、
+  words:
+    - word: とうとう
+      base: 到頭
+      postiion: 0
+    - word: 六
+      base: '6'
+      postiion: 4
+    - word: 兵
+      postiion: 5
+    - word: 衞
+      postiion: 6
+    - word: に
+      postiion: 7
+    - word: 化かさ
+      base: 化かす
+      postiion: 8
+    - word: れ
+      base: れる
+      postiion: 11
+    - word: て
+      postiion: 12
 - id: Kitsune Monogatari-f000120
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: おこわめしをぬすまれて、
-  word_list: [お, こわめし, を, ぬすま, れ, て]
   sound: f000120.mp3
   sound_begin: 377680
   sound_end: 379318
+  sentence: おこわめしをぬすまれて、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: こわめし
+      base: 強飯
+      postiion: 1
+    - word: を
+      postiion: 5
+    - word: ぬすま
+      base: 盗む
+      postiion: 6
+    - word: れ
+      base: れる
+      postiion: 9
+    - word: て
+      postiion: 10
 - id: Kitsune Monogatari-f000121
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: ひでえめにあったよ。」
-  word_list: [ひでえ, め, に, あっ, た, よ]
   sound: f000121.mp3
   sound_begin: 379318
   sound_end: 382760
+  sentence: ひでえめにあったよ。」
+  words:
+    - word: ひでえ
+      base: 酷い
+      postiion: 0
+    - word: め
+      postiion: 3
+    - word: に
+      postiion: 4
+    - word: あっ
+      base: 有る
+      postiion: 5
+    - word: た
+      postiion: 7
+    - word: よ
+      postiion: 8
 - id: Kitsune Monogatari-f000122
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 「おれも、
-  word_list: [おれ, も]
   sound: f000122.mp3
   sound_begin: 382760
   sound_end: 383240
+  sentence: 「おれも、
+  words:
+    - word: おれ
+      base: 俺
+      postiion: 1
+    - word: も
+      postiion: 3
 - id: Kitsune Monogatari-f000123
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: この六兵衞には痛いめにおうたぞ、
-  word_list: [この, 六, 兵, 衞, に, は, 痛い, め, に, おう, た, ぞ]
   sound: f000123.mp3
   sound_begin: 383240
   sound_end: 386400
+  sentence: この六兵衞には痛いめにおうたぞ、
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: 六
+      base: '6'
+      postiion: 2
+    - word: 兵
+      postiion: 3
+    - word: 衞
+      postiion: 4
+    - word: に
+      postiion: 5
+    - word: は
+      postiion: 6
+    - word: 痛い
+      postiion: 7
+    - word: め
+      postiion: 9
+    - word: に
+      postiion: 10
+    - word: おう
+      postiion: 11
+    - word: た
+      postiion: 13
+    - word: ぞ
+      postiion: 14
 - id: Kitsune Monogatari-f000124
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 妙正寺の番僧に化けて、
-  word_list: [妙正寺, の, 番僧, に, 化け, て]
   sound: f000124.mp3
   sound_begin: 386400
   sound_end: 388640
+  sentence: 妙正寺の番僧に化けて、
+  words:
+    - word: 妙正寺
+      postiion: 0
+    - word: の
+      postiion: 3
+    - word: 番僧
+      postiion: 4
+    - word: に
+      postiion: 6
+    - word: 化け
+      base: 化ける
+      postiion: 7
+    - word: て
+      postiion: 9
 - id: Kitsune Monogatari-f000125
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: おれから財布をとりあげて、
-  word_list: [おれ, から, 財布, を, とり, あげ, て]
   sound: f000125.mp3
   sound_begin: 388640
   sound_end: 390800
+  sentence: おれから財布をとりあげて、
+  words:
+    - word: おれ
+      base: 俺
+      postiion: 0
+    - word: から
+      postiion: 2
+    - word: 財布
+      postiion: 4
+    - word: を
+      postiion: 6
+    - word: とり
+      base: 取る
+      postiion: 7
+    - word: あげ
+      base: 上げる
+      postiion: 9
+    - word: て
+      postiion: 11
 - id: Kitsune Monogatari-f000126
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: あげくのはてに、
-  word_list: [あげく, の, はて, に]
   sound: f000126.mp3
   sound_begin: 390800
   sound_end: 392120
+  sentence: あげくのはてに、
+  words:
+    - word: あげく
+      base: 挙げ句
+      postiion: 0
+    - word: の
+      postiion: 3
+    - word: はて
+      base: 果て
+      postiion: 4
+    - word: に
+      postiion: 6
 - id: Kitsune Monogatari-f000127
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 河の中へつつきおとされてしまったものな……。」
-  word_list: [河, の, 中, へ, つ, つき, おとさ, れ, て, しまっ, た, もの, な]
   sound: f000127.mp3
   sound_begin: 392120
   sound_end: 398320
+  sentence: 河の中へつつきおとされてしまったものな……。」
+  words:
+    - word: 河
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 中
+      postiion: 2
+    - word: へ
+      postiion: 3
+    - word: つ
+      postiion: 4
+    - word: つき
+      base: 付く
+      postiion: 5
+    - word: おとさ
+      base: 落とす
+      postiion: 7
+    - word: れ
+      base: れる
+      postiion: 10
+    - word: て
+      postiion: 11
+    - word: しまっ
+      base: 仕舞う
+      postiion: 12
+    - word: た
+      postiion: 15
+    - word: もの
+      base: 物
+      postiion: 16
+    - word: な
+      base: だ
+      postiion: 18
 - id: Kitsune Monogatari-f000128
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 六兵衞狐は、
-  word_list: [六, 兵, 衞, 狐, は]
   sound: f000128.mp3
   sound_begin: 398320
   sound_end: 400000
+  sentence: 六兵衞狐は、
+  words:
+    - word: 六
+      base: '6'
+      postiion: 0
+    - word: 兵
+      postiion: 1
+    - word: 衞
+      postiion: 2
+    - word: 狐
+      postiion: 3
+    - word: は
+      postiion: 4
 - id: Kitsune Monogatari-f000129
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 箱の中で、
-  word_list: [箱, の, 中, で]
   sound: f000129.mp3
   sound_begin: 400000
   sound_end: 400920
+  sentence: 箱の中で、
+  words:
+    - word: 箱
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 中
+      postiion: 2
+    - word: で
+      postiion: 3
 - id: Kitsune Monogatari-f000130
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: こんな話をきいていてびっくりしました。
-  word_list: [こんな, 話, を, きい, て, い, て, びっくり, し, まし, た]
   sound: f000130.mp3
   sound_begin: 400920
   sound_end: 405720
+  sentence: こんな話をきいていてびっくりしました。
+  words:
+    - word: こんな
+      postiion: 0
+    - word: 話
+      postiion: 3
+    - word: を
+      postiion: 4
+    - word: きい
+      base: きく
+      postiion: 5
+    - word: て
+      postiion: 7
+    - word: い
+      base: 居る
+      postiion: 8
+    - word: て
+      postiion: 9
+    - word: びっくり
+      postiion: 10
+    - word: し
+      base: 為る
+      postiion: 14
+    - word: まし
+      base: ます
+      postiion: 15
+    - word: た
+      postiion: 17
 - id: Kitsune Monogatari-f000131
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 人間というものは何という嘘つきなのだろうと思いました。
-  word_list: [人間, と, いう, もの, は, 何, と, いう, 嘘つき, な, の, だろう, と, 思い, まし, た]
   sound: f000131.mp3
   sound_begin: 405720
   sound_end: 412800
+  sentence: 人間というものは何という嘘つきなのだろうと思いました。
+  words:
+    - word: 人間
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: いう
+      base: 言う
+      postiion: 3
+    - word: もの
+      base: 物
+      postiion: 5
+    - word: は
+      postiion: 7
+    - word: 何
+      postiion: 8
+    - word: と
+      postiion: 9
+    - word: いう
+      base: 言う
+      postiion: 10
+    - word: 嘘つき
+      base: 嘘吐き
+      postiion: 12
+    - word: な
+      base: だ
+      postiion: 15
+    - word: の
+      postiion: 16
+    - word: だろう
+      base: だ
+      postiion: 17
+    - word: と
+      postiion: 20
+    - word: 思い
+      base: 思う
+      postiion: 21
+    - word: まし
+      base: ます
+      postiion: 23
+    - word: た
+      postiion: 25
 - id: Kitsune Monogatari-f000132
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 六兵衞狐は、
-  word_list: [六, 兵, 衞, 狐, は]
   sound: f000132.mp3
   sound_begin: 412800
   sound_end: 414360
+  sentence: 六兵衞狐は、
+  words:
+    - word: 六
+      base: '6'
+      postiion: 0
+    - word: 兵
+      postiion: 1
+    - word: 衞
+      postiion: 2
+    - word: 狐
+      postiion: 3
+    - word: は
+      postiion: 4
 - id: Kitsune Monogatari-f000133
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: いままでにまだ一度も里へ降りたことはなかったし、
-  word_list: [いま, まで, に, まだ, 一度, も, 里, へ, 降り, た, こと, は, なかっ, た, し]
   sound: f000133.mp3
   sound_begin: 414360
   sound_end: 417720
+  sentence: いままでにまだ一度も里へ降りたことはなかったし、
+  words:
+    - word: いま
+      base: 今
+      postiion: 0
+    - word: まで
+      postiion: 2
+    - word: に
+      postiion: 4
+    - word: まだ
+      base: 未だ
+      postiion: 5
+    - word: 一度
+      postiion: 7
+    - word: も
+      postiion: 9
+    - word: 里
+      postiion: 10
+    - word: へ
+      postiion: 11
+    - word: 降り
+      base: 下りる
+      postiion: 12
+    - word: た
+      postiion: 14
+    - word: こと
+      postiion: 15
+    - word: は
+      postiion: 17
+    - word: なかっ
+      base: 無い
+      postiion: 18
+    - word: た
+      postiion: 21
+    - word: し
+      postiion: 22
 - id: Kitsune Monogatari-f000134
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 第一、
-  word_list: [第一]
   sound: f000134.mp3
   sound_begin: 417720
   sound_end: 419200
+  sentence: 第一、
+  words:
+    - word: 第一
+      postiion: 0
 - id: Kitsune Monogatari-f000135
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 人間のようなかしこい動物を、
-  word_list: [人間, の, よう, な, かしこい, 動物, を]
   sound: f000135.mp3
   sound_begin: 419200
   sound_end: 421560
+  sentence: 人間のようなかしこい動物を、
+  words:
+    - word: 人間
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: よう
+      base: 様
+      postiion: 3
+    - word: な
+      base: だ
+      postiion: 5
+    - word: かしこい
+      base: 賢い
+      postiion: 6
+    - word: 動物
+      postiion: 10
+    - word: を
+      postiion: 12
 - id: Kitsune Monogatari-f000136
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 化したりなぞしたことは一度もなかったのです。
-  word_list: [化, し, たり, なぞ, し, た, こと, は, 一度, も, なかっ, た, の, です]
   sound: f000136.mp3
   sound_begin: 421560
   sound_end: 425720
+  sentence: 化したりなぞしたことは一度もなかったのです。
+  words:
+    - word: 化
+      postiion: 0
+    - word: し
+      base: 為る
+      postiion: 1
+    - word: たり
+      postiion: 2
+    - word: なぞ
+      base: など
+      postiion: 4
+    - word: し
+      base: 為る
+      postiion: 6
+    - word: た
+      postiion: 7
+    - word: こと
+      postiion: 8
+    - word: は
+      postiion: 10
+    - word: 一度
+      postiion: 11
+    - word: も
+      postiion: 13
+    - word: なかっ
+      base: 無い
+      postiion: 14
+    - word: た
+      postiion: 17
+    - word: の
+      postiion: 18
+    - word: です
+      postiion: 19
 - id: Kitsune Monogatari-f000137
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 人間はおかしなことをいうものだと思いました。
-  word_list: [人間, は, おかしな, こと, を, いう, もの, だ, と, 思い, まし, た]
   sound: f000137.mp3
   sound_begin: 429320
   sound_end: 433440
+  sentence: 人間はおかしなことをいうものだと思いました。
+  words:
+    - word: 人間
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: おかしな
+      base: 可笑しな
+      postiion: 3
+    - word: こと
+      postiion: 7
+    - word: を
+      postiion: 9
+    - word: いう
+      base: 言う
+      postiion: 10
+    - word: もの
+      base: 物
+      postiion: 12
+    - word: だ
+      postiion: 14
+    - word: と
+      postiion: 15
+    - word: 思い
+      base: 思う
+      postiion: 16
+    - word: まし
+      base: ます
+      postiion: 18
+    - word: た
+      postiion: 20
 - id: Kitsune Monogatari-f000138
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 晝間、
-  word_list: [晝間]
   sound: f000138.mp3
   sound_begin: 435440
   sound_end: 436080
+  sentence: 晝間、
+  words:
+    - word: 晝間
+      postiion: 0
 - id: Kitsune Monogatari-f000139
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 頭をなぐられたところに、
-  word_list: [頭, を, なぐら, れ, た, ところ, に]
   sound: f000139.mp3
   sound_begin: 436080
   sound_end: 437880
+  sentence: 頭をなぐられたところに、
+  words:
+    - word: 頭
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: なぐら
+      base: 殴る
+      postiion: 2
+    - word: れ
+      base: れる
+      postiion: 5
+    - word: た
+      postiion: 6
+    - word: ところ
+      base: 所
+      postiion: 7
+    - word: に
+      postiion: 10
 - id: Kitsune Monogatari-f000140
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 大きなこぶが出來て、
-  word_list: [大きな, こぶ, が, 出來, て]
   sound: f000140.mp3
   sound_begin: 437880
   sound_end: 440480
+  sentence: 大きなこぶが出來て、
+  words:
+    - word: 大きな
+      postiion: 0
+    - word: こぶ
+      postiion: 3
+    - word: が
+      postiion: 5
+    - word: 出來
+      base: 出来る
+      postiion: 6
+    - word: て
+      postiion: 8
 - id: Kitsune Monogatari-f000141
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: それが痛くて仕方がありません。
-  word_list: [それ, が, 痛く, て, 仕方, が, あり, ませ, ん]
   sound: f000141.mp3
   sound_begin: 440480
   sound_end: 443880
+  sentence: それが痛くて仕方がありません。
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: が
+      postiion: 2
+    - word: 痛く
+      base: 痛い
+      postiion: 3
+    - word: て
+      postiion: 5
+    - word: 仕方
+      postiion: 6
+    - word: が
+      postiion: 8
+    - word: あり
+      base: 有る
+      postiion: 9
+    - word: ませ
+      base: ます
+      postiion: 11
+    - word: ん
+      base: ず
+      postiion: 13
 - id: Kitsune Monogatari-f000142
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 山の中へ早くかえりたいと思いました。
-  word_list: [山, の, 中, へ, 早く, かえり, たい, と, 思い, まし, た]
   sound: f000142.mp3
   sound_begin: 443880
   sound_end: 447960
+  sentence: 山の中へ早くかえりたいと思いました。
+  words:
+    - word: 山
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 中
+      postiion: 2
+    - word: へ
+      postiion: 3
+    - word: 早く
+      base: 早い
+      postiion: 4
+    - word: かえり
+      base: かえる
+      postiion: 6
+    - word: たい
+      postiion: 9
+    - word: と
+      postiion: 11
+    - word: 思い
+      base: 思う
+      postiion: 12
+    - word: まし
+      base: ます
+      postiion: 14
+    - word: た
+      postiion: 16
 - id: Kitsune Monogatari-f000143
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: こんな嘘つきのところにいると何をされるかしれないので、
-  word_list: [こんな, 嘘つき, の, ところ, に, いる, と, 何, を, さ, れる, か, しれ, ない, の, で]
   sound: f000143.mp3
   sound_begin: 447960
   sound_end: 452346
+  sentence: こんな嘘つきのところにいると何をされるかしれないので、
+  words:
+    - word: こんな
+      postiion: 0
+    - word: 嘘つき
+      base: 嘘吐き
+      postiion: 3
+    - word: の
+      postiion: 6
+    - word: ところ
+      base: 所
+      postiion: 7
+    - word: に
+      postiion: 10
+    - word: いる
+      base: 居る
+      postiion: 11
+    - word: と
+      postiion: 13
+    - word: 何
+      postiion: 14
+    - word: を
+      postiion: 15
+    - word: さ
+      base: 為る
+      postiion: 16
+    - word: れる
+      postiion: 17
+    - word: か
+      postiion: 19
+    - word: しれ
+      base: 知る
+      postiion: 20
+    - word: ない
+      postiion: 22
+    - word: の
+      postiion: 24
+    - word: で
+      base: だ
+      postiion: 25
 - id: Kitsune Monogatari-f000144
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 狐はだんだんこわくなってしまいました。
-  word_list: [狐, は, だんだん, こわく, なっ, て, しまい, まし, た]
   sound: f000144.mp3
   sound_begin: 452346
   sound_end: 455800
+  sentence: 狐はだんだんこわくなってしまいました。
+  words:
+    - word: 狐
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: だんだん
+      base: 段々
+      postiion: 2
+    - word: こわく
+      base: 怖い
+      postiion: 6
+    - word: なっ
+      base: 成る
+      postiion: 9
+    - word: て
+      postiion: 11
+    - word: しまい
+      base: 仕舞う
+      postiion: 12
+    - word: まし
+      base: ます
+      postiion: 15
+    - word: た
+      postiion: 17
 - id: Kitsune Monogatari-f000145
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 「おれのところでは、
-  word_list: [おれ, の, ところ, で, は]
   sound: f000145.mp3
   sound_begin: 458600
   sound_end: 459920
+  sentence: 「おれのところでは、
+  words:
+    - word: おれ
+      base: 俺
+      postiion: 1
+    - word: の
+      postiion: 3
+    - word: ところ
+      base: 所
+      postiion: 4
+    - word: で
+      postiion: 7
+    - word: は
+      postiion: 8
 - id: Kitsune Monogatari-f000146
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 鷄をもう二度も六兵衞に食われっちまったンだからな……。」
-  word_list: [鷄, を, もう, 二, 度, も, 六, 兵, 衞, に, 食わ, れ, っ, ちまっ, た, ン, だ, から, な]
   sound: f000146.mp3
   sound_begin: 459920
   sound_end: 463720
+  sentence: 鷄をもう二度も六兵衞に食われっちまったンだからな……。」
+  words:
+    - word: 鷄
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: もう
+      postiion: 2
+    - word: 二
+      base: '2'
+      postiion: 4
+    - word: 度
+      postiion: 5
+    - word: も
+      postiion: 6
+    - word: 六
+      base: '6'
+      postiion: 7
+    - word: 兵
+      postiion: 8
+    - word: 衞
+      postiion: 9
+    - word: に
+      postiion: 10
+    - word: 食わ
+      base: 食う
+      postiion: 11
+    - word: れ
+      base: れる
+      postiion: 13
+    - word: っ
+      postiion: 14
+    - word: ちまっ
+      base: ちまう
+      postiion: 15
+    - word: た
+      postiion: 18
+    - word: ン
+      base: の
+      postiion: 19
+    - word: だ
+      postiion: 20
+    - word: から
+      postiion: 21
+    - word: な
+      postiion: 23
 - id: Kitsune Monogatari-f000147
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 「狐ぐらい動物のうちで惡い奴はないのう。
-  word_list: [狐, ぐらい, 動物, の, うち, で, 惡い, 奴, は, ない, のう]
   sound: f000147.mp3
   sound_begin: 465520
   sound_end: 469269
+  sentence: 「狐ぐらい動物のうちで惡い奴はないのう。
+  words:
+    - word: 狐
+      postiion: 1
+    - word: ぐらい
+      base: くらい
+      postiion: 2
+    - word: 動物
+      postiion: 5
+    - word: の
+      postiion: 7
+    - word: うち
+      base: 内
+      postiion: 8
+    - word: で
+      postiion: 10
+    - word: 惡い
+      base: 悪い
+      postiion: 11
+    - word: 奴
+      postiion: 13
+    - word: は
+      postiion: 14
+    - word: ない
+      base: 無い
+      postiion: 15
+    - word: のう
+      postiion: 17
 - id: Kitsune Monogatari-f000148
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: あれは魔物だからなア。
-  word_list: [あれ, は, 魔物, だ, から, なア]
   sound: f000148.mp3
   sound_begin: 469269
   sound_end: 472560
+  sentence: あれは魔物だからなア。
+  words:
+    - word: あれ
+      base: 彼れ
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: 魔物
+      postiion: 3
+    - word: だ
+      postiion: 5
+    - word: から
+      postiion: 6
+    - word: なア
+      base: な
+      postiion: 8
 - id: Kitsune Monogatari-f000149
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 雨の降る晩は、
-  word_list: [雨, の, 降る, 晩, は]
   sound: f000149.mp3
   sound_begin: 472560
   sound_end: 473800
+  sentence: 雨の降る晩は、
+  words:
+    - word: 雨
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 降る
+      postiion: 2
+    - word: 晩
+      postiion: 4
+    - word: は
+      postiion: 5
 - id: Kitsune Monogatari-f000150
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: かならず山に灯をつけてからかうし、
-  word_list: [かならず, 山, に, 灯, を, つけ, て, から, かう, し]
   sound: f000150.mp3
   sound_begin: 473800
   sound_end: 476560
+  sentence: かならず山に灯をつけてからかうし、
+  words:
+    - word: かならず
+      base: 必ず
+      postiion: 0
+    - word: 山
+      postiion: 4
+    - word: に
+      postiion: 5
+    - word: 灯
+      base: 明かり
+      postiion: 6
+    - word: を
+      postiion: 7
+    - word: つけ
+      base: つける
+      postiion: 8
+    - word: て
+      postiion: 10
+    - word: から
+      postiion: 11
+    - word: かう
+      base: こう
+      postiion: 13
+    - word: し
+      base: 為る
+      postiion: 15
 - id: Kitsune Monogatari-f000151
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: ろくな事をせんぞ。
-  word_list: [ろくな, 事, を, せ, ん, ぞ]
   sound: f000151.mp3
   sound_begin: 476560
   sound_end: 479240
+  sentence: ろくな事をせんぞ。
+  words:
+    - word: ろくな
+      base: 碌な
+      postiion: 0
+    - word: 事
+      postiion: 3
+    - word: を
+      postiion: 4
+    - word: せ
+      base: 為る
+      postiion: 5
+    - word: ん
+      base: ず
+      postiion: 6
+    - word: ぞ
+      postiion: 7
 - id: Kitsune Monogatari-f000152
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 二三日、
-  word_list: [二三, 日]
   sound: f000152.mp3
   sound_begin: 479240
   sound_end: 479814
+  sentence: 二三日、
+  words:
+    - word: 二三
+      base: '23'
+      postiion: 0
+    - word: 日
+      postiion: 2
 - id: Kitsune Monogatari-f000153
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 六兵衞はひぼしにして、
-  word_list: [六, 兵, 衞, は, ひぼ, し, に, し, て]
   sound: f000153.mp3
   sound_begin: 479814
   sound_end: 481920
+  sentence: 六兵衞はひぼしにして、
+  words:
+    - word: 六
+      base: '6'
+      postiion: 0
+    - word: 兵
+      postiion: 1
+    - word: 衞
+      postiion: 2
+    - word: は
+      postiion: 3
+    - word: ひぼ
+      postiion: 4
+    - word: し
+      base: 為る
+      postiion: 6
+    - word: に
+      postiion: 7
+    - word: し
+      base: 為る
+      postiion: 8
+    - word: て
+      postiion: 9
 - id: Kitsune Monogatari-f000154
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 腹をきれいに干して、
-  word_list: [腹, を, きれい, に, 干し, て]
   sound: f000154.mp3
   sound_begin: 481920
   sound_end: 483760
+  sentence: 腹をきれいに干して、
+  words:
+    - word: 腹
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: きれい
+      base: 奇麗
+      postiion: 2
+    - word: に
+      base: だ
+      postiion: 5
+    - word: 干し
+      base: 干す
+      postiion: 6
+    - word: て
+      postiion: 8
 - id: Kitsune Monogatari-f000155
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: いっぺん狐汁でもしてみんなで食おうじゃないか。」
-  word_list: [いっぺん, 狐汁, で, も, し, て, みんな, で, 食おう, じゃ, ない, か]
   sound: f000155.mp3
   sound_begin: 483760
   sound_end: 488480
+  sentence: いっぺん狐汁でもしてみんなで食おうじゃないか。」
+  words:
+    - word: いっぺん
+      base: 一遍
+      postiion: 0
+    - word: 狐汁
+      postiion: 4
+    - word: で
+      postiion: 6
+    - word: も
+      postiion: 7
+    - word: し
+      base: 為る
+      postiion: 8
+    - word: て
+      postiion: 9
+    - word: みんな
+      base: 皆
+      postiion: 10
+    - word: で
+      postiion: 13
+    - word: 食おう
+      base: 食う
+      postiion: 14
+    - word: じゃ
+      base: だ
+      postiion: 17
+    - word: ない
+      base: 無い
+      postiion: 19
+    - word: か
+      postiion: 21
 - id: Kitsune Monogatari-f000156
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 「うん、
-  word_list: [うん]
   sound: f000156.mp3
   sound_begin: 488480
   sound_end: 488720
+  sentence: 「うん、
+  words:
+    - word: うん
+      postiion: 1
 - id: Kitsune Monogatari-f000157
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 狸汁はうめえそうだが、
-  word_list: [狸汁, は, うめえ, そう, だ, が]
   sound: f000157.mp3
   sound_begin: 488720
   sound_end: 491240
+  sentence: 狸汁はうめえそうだが、
+  words:
+    - word: 狸汁
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: うめえ
+      base: 旨い
+      postiion: 3
+    - word: そう
+      postiion: 6
+    - word: だ
+      postiion: 8
+    - word: が
+      postiion: 9
 - id: Kitsune Monogatari-f000158
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: おれは、
-  word_list: [おれ, は]
   sound: f000158.mp3
   sound_begin: 491240
   sound_end: 491600
+  sentence: おれは、
+  words:
+    - word: おれ
+      base: 俺
+      postiion: 0
+    - word: は
+      postiion: 2
 - id: Kitsune Monogatari-f000159
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 狐汁というのは始めてだ……。」
-  word_list: [狐汁, と, いう, の, は, 始め, て, だ]
   sound: f000159.mp3
   sound_begin: 491600
   sound_end: 493840
+  sentence: 狐汁というのは始めてだ……。」
+  words:
+    - word: 狐汁
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: いう
+      base: 言う
+      postiion: 3
+    - word: の
+      postiion: 5
+    - word: は
+      postiion: 6
+    - word: 始め
+      base: 始める
+      postiion: 7
+    - word: て
+      postiion: 9
+    - word: だ
+      postiion: 10
 - id: Kitsune Monogatari-f000160
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 狐はびっくりしました。
-  word_list: [狐, は, びっくり, し, まし, た]
   sound: f000160.mp3
   sound_begin: 496840
   sound_end: 499991
+  sentence: 狐はびっくりしました。
+  words:
+    - word: 狐
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: びっくり
+      postiion: 2
+    - word: し
+      base: 為る
+      postiion: 6
+    - word: まし
+      base: ます
+      postiion: 7
+    - word: た
+      postiion: 9
 - id: Kitsune Monogatari-f000161
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 急にお母さんがなつかしくなり、
-  word_list: [急, に, お, 母さん, が, なつかしく, なり]
   sound: f000161.mp3
   sound_begin: 499991
   sound_end: 503520
+  sentence: 急にお母さんがなつかしくなり、
+  words:
+    - word: 急
+      postiion: 0
+    - word: に
+      base: だ
+      postiion: 1
+    - word: お
+      base: 御
+      postiion: 2
+    - word: 母さん
+      postiion: 3
+    - word: が
+      postiion: 6
+    - word: なつかしく
+      base: 懐かしい
+      postiion: 7
+    - word: なり
+      base: 成る
+      postiion: 12
 - id: Kitsune Monogatari-f000162
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 涙をいっぱいためて息をころしていました。
-  word_list: [涙, を, いっぱい, ため, て, 息, を, ころし, て, い, まし, た]
   sound: f000162.mp3
   sound_begin: 503520
   sound_end: 506120
+  sentence: 涙をいっぱいためて息をころしていました。
+  words:
+    - word: 涙
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: いっぱい
+      base: 一杯
+      postiion: 2
+    - word: ため
+      base: ためる
+      postiion: 6
+    - word: て
+      postiion: 8
+    - word: 息
+      postiion: 9
+    - word: を
+      postiion: 10
+    - word: ころし
+      base: 殺す
+      postiion: 11
+    - word: て
+      postiion: 14
+    - word: い
+      base: 居る
+      postiion: 15
+    - word: まし
+      base: ます
+      postiion: 16
+    - word: た
+      postiion: 18
 - id: Kitsune Monogatari-f000163
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 夜が更けてから、
-  word_list: [夜, が, 更け, て, から]
   sound: f000163.mp3
   sound_begin: 510420
   sound_end: 511960
+  sentence: 夜が更けてから、
+  words:
+    - word: 夜
+      postiion: 0
+    - word: が
+      postiion: 1
+    - word: 更け
+      base: 更ける
+      postiion: 2
+    - word: て
+      postiion: 4
+    - word: から
+      postiion: 5
 - id: Kitsune Monogatari-f000164
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 狐は一生懸命に箱の蓋をもちあげてみました。
-  word_list: [狐, は, 一生, 懸命, に, 箱, の, 蓋, を, もち, あげ, て, み, まし, た]
   sound: f000164.mp3
   sound_begin: 511960
   sound_end: 517840
+  sentence: 狐は一生懸命に箱の蓋をもちあげてみました。
+  words:
+    - word: 狐
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: 一生
+      postiion: 2
+    - word: 懸命
+      postiion: 4
+    - word: に
+      base: だ
+      postiion: 6
+    - word: 箱
+      postiion: 7
+    - word: の
+      postiion: 8
+    - word: 蓋
+      postiion: 9
+    - word: を
+      postiion: 10
+    - word: もち
+      base: 持つ
+      postiion: 11
+    - word: あげ
+      base: 上げる
+      postiion: 13
+    - word: て
+      postiion: 15
+    - word: み
+      base: 見る
+      postiion: 16
+    - word: まし
+      base: ます
+      postiion: 17
+    - word: た
+      postiion: 19
 - id: Kitsune Monogatari-f000165
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 石でものっかっているとみえて、
-  word_list: [石, で, も, のっかっ, て, いる, と, みえ, て]
   sound: f000165.mp3
   sound_begin: 517840
   sound_end: 519720
+  sentence: 石でものっかっているとみえて、
+  words:
+    - word: 石
+      postiion: 0
+    - word: で
+      postiion: 1
+    - word: も
+      postiion: 2
+    - word: のっかっ
+      base: 乗っかる
+      postiion: 3
+    - word: て
+      postiion: 7
+    - word: いる
+      base: 居る
+      postiion: 8
+    - word: と
+      postiion: 10
+    - word: みえ
+      base: 見える
+      postiion: 11
+    - word: て
+      postiion: 13
 - id: Kitsune Monogatari-f000166
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 蓋を持ちあげるたび、
-  word_list: [蓋, を, 持ち, あげる, たび]
   sound: f000166.mp3
   sound_begin: 519720
   sound_end: 522128
+  sentence: 蓋を持ちあげるたび、
+  words:
+    - word: 蓋
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: 持ち
+      base: 持つ
+      postiion: 2
+    - word: あげる
+      base: 上げる
+      postiion: 4
+    - word: たび
+      base: 度
+      postiion: 7
 - id: Kitsune Monogatari-f000167
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: ごろっごろっと石が少しずつ動いている樣子です。
-  word_list: [ごろっ, ごろっ, と, 石, が, 少し, ずつ, 動い, て, いる, 樣子, です]
   sound: f000167.mp3
   sound_begin: 522128
   sound_end: 527600
+  sentence: ごろっごろっと石が少しずつ動いている樣子です。
+  words:
+    - word: ごろっ
+      base: ごろ
+      postiion: 0
+    - word: ごろっ
+      base: ごろ
+      postiion: 0
+    - word: と
+      postiion: 6
+    - word: 石
+      postiion: 7
+    - word: が
+      postiion: 8
+    - word: 少し
+      postiion: 9
+    - word: ずつ
+      postiion: 11
+    - word: 動い
+      base: 動く
+      postiion: 13
+    - word: て
+      postiion: 15
+    - word: いる
+      base: 居る
+      postiion: 16
+    - word: 樣子
+      base: 様子
+      postiion: 18
+    - word: です
+      postiion: 20
 - id: Kitsune Monogatari-f000168
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 狐は根氣よく蓋を持ちあげて、
-  word_list: [狐, は, 根, 氣, よく, 蓋, を, 持ち, あげ, て]
   sound: f000168.mp3
   sound_begin: 530500
   sound_end: 533555
+  sentence: 狐は根氣よく蓋を持ちあげて、
+  words:
+    - word: 狐
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: 根
+      postiion: 2
+    - word: 氣
+      base: 気
+      postiion: 3
+    - word: よく
+      base: 良い
+      postiion: 4
+    - word: 蓋
+      postiion: 6
+    - word: を
+      postiion: 7
+    - word: 持ち
+      base: 持つ
+      postiion: 8
+    - word: あげ
+      base: 上げる
+      postiion: 10
+    - word: て
+      postiion: 12
 - id: Kitsune Monogatari-f000169
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: とうとう長いことかかって扇子がたに、
-  word_list: [とうとう, 長い, こと, かかっ, て, 扇子, がた, に]
   sound: f000169.mp3
   sound_begin: 533555
   sound_end: 537120
+  sentence: とうとう長いことかかって扇子がたに、
+  words:
+    - word: とうとう
+      base: 到頭
+      postiion: 0
+    - word: 長い
+      postiion: 4
+    - word: こと
+      postiion: 6
+    - word: かかっ
+      base: 掛かる
+      postiion: 8
+    - word: て
+      postiion: 11
+    - word: 扇子
+      postiion: 12
+    - word: がた
+      base: 方
+      postiion: 14
+    - word: に
+      postiion: 16
 - id: Kitsune Monogatari-f000170
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 箱の蓋をずらすことが出來ました。
-  word_list: [箱, の, 蓋, を, ずらす, こと, が, 出來, まし, た]
   sound: f000170.mp3
   sound_begin: 537120
   sound_end: 542120
+  sentence: 箱の蓋をずらすことが出來ました。
+  words:
+    - word: 箱
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 蓋
+      postiion: 2
+    - word: を
+      postiion: 3
+    - word: ずらす
+      postiion: 4
+    - word: こと
+      postiion: 7
+    - word: が
+      postiion: 9
+    - word: 出來
+      base: 出来る
+      postiion: 10
+    - word: まし
+      base: ます
+      postiion: 12
+    - word: た
+      postiion: 14
 - id: Kitsune Monogatari-f000171
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: そっと首を出しますと、
-  word_list: [そっと, 首, を, 出し, ます, と]
   sound: f000171.mp3
   sound_begin: 542120
   sound_end: 544764
+  sentence: そっと首を出しますと、
+  words:
+    - word: そっと
+      postiion: 0
+    - word: 首
+      postiion: 3
+    - word: を
+      postiion: 4
+    - word: 出し
+      base: 出す
+      postiion: 5
+    - word: ます
+      postiion: 7
+    - word: と
+      postiion: 9
 - id: Kitsune Monogatari-f000172
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: あたりはうすぐらいのです。
-  word_list: [あたり, は, うすぐらい, の, です]
   sound: f000172.mp3
   sound_begin: 544764
   sound_end: 546480
+  sentence: あたりはうすぐらいのです。
+  words:
+    - word: あたり
+      base: 辺り
+      postiion: 0
+    - word: は
+      postiion: 3
+    - word: うすぐらい
+      base: 薄暗い
+      postiion: 4
+    - word: の
+      postiion: 9
+    - word: です
+      postiion: 10
 - id: Kitsune Monogatari-f000173
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: かすかに障子の破れから月の光がさしている樣子なので、
-  word_list: [かすか, に, 障子, の, 破れ, から, 月, の, 光, が, さし, て, いる, 樣子, な, の, で]
   sound: f000173.mp3
   sound_begin: 548480
   sound_end: 553724
+  sentence: かすかに障子の破れから月の光がさしている樣子なので、
+  words:
+    - word: かすか
+      base: 微か
+      postiion: 0
+    - word: に
+      base: だ
+      postiion: 3
+    - word: 障子
+      postiion: 4
+    - word: の
+      postiion: 6
+    - word: 破れ
+      postiion: 7
+    - word: から
+      postiion: 9
+    - word: 月
+      postiion: 11
+    - word: の
+      postiion: 12
+    - word: 光
+      postiion: 13
+    - word: が
+      postiion: 14
+    - word: さし
+      base: さす
+      postiion: 15
+    - word: て
+      postiion: 17
+    - word: いる
+      base: 居る
+      postiion: 18
+    - word: 樣子
+      base: 様子
+      postiion: 20
+    - word: な
+      base: だ
+      postiion: 22
+    - word: の
+      postiion: 23
+    - word: で
+      base: だ
+      postiion: 24
 - id: Kitsune Monogatari-f000174
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 狐はやっとの思いで土間へはい出す事が出來ました。
-  word_list: [狐, は, やっと, の, 思い, で, 土間, へ, はい, 出す, 事, が, 出來, まし, た]
   sound: f000174.mp3
   sound_begin: 553724
   sound_end: 561440
+  sentence: 狐はやっとの思いで土間へはい出す事が出來ました。
+  words:
+    - word: 狐
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: やっと
+      base: 漸と
+      postiion: 2
+    - word: の
+      postiion: 5
+    - word: 思い
+      postiion: 6
+    - word: で
+      postiion: 8
+    - word: 土間
+      postiion: 9
+    - word: へ
+      postiion: 11
+    - word: はい
+      base: 這う
+      postiion: 12
+    - word: 出す
+      postiion: 14
+    - word: 事
+      postiion: 16
+    - word: が
+      postiion: 17
+    - word: 出來
+      base: 出来る
+      postiion: 18
+    - word: まし
+      base: ます
+      postiion: 20
+    - word: た
+      postiion: 22
 - id: Kitsune Monogatari-f000175
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 人間はとてもおそろしい動物だとお母さんがいっていたけれど、
-  word_list: [人間, は, とても, おそろしい, 動物, だ, と, お, 母さん, が, いっ, て, い, た, けれど]
   sound: f000175.mp3
   sound_begin: 561440
   sound_end: 565776
+  sentence: 人間はとてもおそろしい動物だとお母さんがいっていたけれど、
+  words:
+    - word: 人間
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: とても
+      base: 迚も
+      postiion: 3
+    - word: おそろしい
+      base: 恐ろしい
+      postiion: 6
+    - word: 動物
+      postiion: 11
+    - word: だ
+      postiion: 13
+    - word: と
+      postiion: 14
+    - word: お
+      base: 御
+      postiion: 15
+    - word: 母さん
+      postiion: 16
+    - word: が
+      postiion: 19
+    - word: いっ
+      base: 言う
+      postiion: 20
+    - word: て
+      postiion: 22
+    - word: い
+      base: 居る
+      postiion: 23
+    - word: た
+      postiion: 24
+    - word: けれど
+      postiion: 25
 - id: Kitsune Monogatari-f000176
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 本當だと思いました。
-  word_list: [本當, だ, と, 思い, まし, た]
   sound: f000176.mp3
   sound_begin: 565776
   sound_end: 569304
+  sentence: 本當だと思いました。
+  words:
+    - word: 本當
+      base: 本当
+      postiion: 0
+    - word: だ
+      postiion: 2
+    - word: と
+      postiion: 3
+    - word: 思い
+      base: 思う
+      postiion: 4
+    - word: まし
+      base: ます
+      postiion: 6
+    - word: た
+      postiion: 8
 - id: Kitsune Monogatari-f000177
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: だから、
-  word_list: [だ, から]
   sound: f000177.mp3
   sound_begin: 569304
   sound_end: 569840
+  sentence: だから、
+  words:
+    - word: だ
+      postiion: 0
+    - word: から
+      postiion: 1
 - id: Kitsune Monogatari-f000178
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 自分達の仲間は晝間は穴の中にひっこんでいて、
-  word_list: [自分, 達, の, 仲間, は, 晝間, は, 穴, の, 中, に, ひっ, こん, で, い, て]
   sound: f000178.mp3
   sound_begin: 569840
   sound_end: 574360
+  sentence: 自分達の仲間は晝間は穴の中にひっこんでいて、
+  words:
+    - word: 自分
+      postiion: 0
+    - word: 達
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: 仲間
+      postiion: 4
+    - word: は
+      postiion: 6
+    - word: 晝間
+      postiion: 7
+    - word: は
+      postiion: 9
+    - word: 穴
+      postiion: 10
+    - word: の
+      postiion: 11
+    - word: 中
+      postiion: 12
+    - word: に
+      postiion: 13
+    - word: ひっ
+      base: 引く
+      postiion: 14
+    - word: こん
+      base: 込む
+      postiion: 16
+    - word: で
+      postiion: 18
+    - word: い
+      base: 居る
+      postiion: 19
+    - word: て
+      postiion: 20
 - id: Kitsune Monogatari-f000179
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 人間にみつからないようにしているのだなと思いました。
-  word_list: [人間, に, みつから, ない, よう, に, し, て, いる, の, だ, な, と, 思い, まし, た]
   sound: f000179.mp3
   sound_begin: 574360
   sound_end: 577720
+  sentence: 人間にみつからないようにしているのだなと思いました。
+  words:
+    - word: 人間
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: みつから
+      base: 見付かる
+      postiion: 3
+    - word: ない
+      postiion: 7
+    - word: よう
+      base: 様
+      postiion: 9
+    - word: に
+      base: だ
+      postiion: 11
+    - word: し
+      base: 為る
+      postiion: 12
+    - word: て
+      postiion: 13
+    - word: いる
+      base: 居る
+      postiion: 14
+    - word: の
+      postiion: 16
+    - word: だ
+      postiion: 17
+    - word: な
+      postiion: 18
+    - word: と
+      postiion: 19
+    - word: 思い
+      base: 思う
+      postiion: 20
+    - word: まし
+      base: ます
+      postiion: 22
+    - word: た
+      postiion: 24
 - id: Kitsune Monogatari-f000180
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 狐は土間へ出て、
-  word_list: [狐, は, 土間, へ, 出, て]
   sound: f000180.mp3
   sound_begin: 582220
   sound_end: 584000
+  sentence: 狐は土間へ出て、
+  words:
+    - word: 狐
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: 土間
+      postiion: 2
+    - word: へ
+      postiion: 4
+    - word: 出
+      base: 出る
+      postiion: 5
+    - word: て
+      postiion: 6
 - id: Kitsune Monogatari-f000181
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 縁の下からそとへ出ることが出來ました。
-  word_list: [縁の下, から, そと, へ, 出る, こと, が, 出來, まし, た]
   sound: f000181.mp3
   sound_begin: 584000
   sound_end: 586700
+  sentence: 縁の下からそとへ出ることが出來ました。
+  words:
+    - word: 縁の下
+      postiion: 0
+    - word: から
+      postiion: 3
+    - word: そと
+      base: 外
+      postiion: 5
+    - word: へ
+      postiion: 7
+    - word: 出る
+      postiion: 8
+    - word: こと
+      postiion: 10
+    - word: が
+      postiion: 12
+    - word: 出來
+      base: 出来る
+      postiion: 13
+    - word: まし
+      base: ます
+      postiion: 15
+    - word: た
+      postiion: 17
 - id: Kitsune Monogatari-f000182
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: まんまるいお月樣が高くのぼって、
-  word_list: [まんまるい, お, 月, 樣, が, 高く, のぼっ, て]
   sound: f000182.mp3
   sound_begin: 588800
   sound_end: 591960
+  sentence: まんまるいお月樣が高くのぼって、
+  words:
+    - word: まんまるい
+      base: 真ん丸い
+      postiion: 0
+    - word: お
+      base: 御
+      postiion: 5
+    - word: 月
+      postiion: 6
+    - word: 樣
+      postiion: 7
+    - word: が
+      postiion: 8
+    - word: 高く
+      base: 高い
+      postiion: 9
+    - word: のぼっ
+      base: 上る
+      postiion: 11
+    - word: て
+      postiion: 14
 - id: Kitsune Monogatari-f000183
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 山の方でなつかしい梟の啼く聲がしています。
-  word_list: [山, の, 方, で, なつかしい, 梟, の, 啼く, 聲, が, し, て, い, ます]
   sound: f000183.mp3
   sound_begin: 591960
   sound_end: 595600
+  sentence: 山の方でなつかしい梟の啼く聲がしています。
+  words:
+    - word: 山
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 方
+      postiion: 2
+    - word: で
+      postiion: 3
+    - word: なつかしい
+      base: 懐かしい
+      postiion: 4
+    - word: 梟
+      postiion: 9
+    - word: の
+      postiion: 10
+    - word: 啼く
+      base: 鳴く
+      postiion: 11
+    - word: 聲
+      postiion: 13
+    - word: が
+      postiion: 14
+    - word: し
+      base: 為る
+      postiion: 15
+    - word: て
+      postiion: 16
+    - word: い
+      base: 居る
+      postiion: 17
+    - word: ます
+      postiion: 18
 - id: Kitsune Monogatari-f000184
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 祖谷の山々が、
-  word_list: [祖谷, の, 山々, が]
   sound: f000184.mp3
   sound_begin: 598400
   sound_end: 599600
+  sentence: 祖谷の山々が、
+  words:
+    - word: 祖谷
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 山々
+      postiion: 3
+    - word: が
+      postiion: 5
 - id: Kitsune Monogatari-f000185
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: こんもりとしていて、
-  word_list: [こんもり, と, し, て, い, て]
   sound: f000185.mp3
   sound_begin: 599600
   sound_end: 602960
+  sentence: こんもりとしていて、
+  words:
+    - word: こんもり
+      postiion: 0
+    - word: と
+      postiion: 4
+    - word: し
+      base: 為る
+      postiion: 5
+    - word: て
+      postiion: 6
+    - word: い
+      base: 居る
+      postiion: 7
+    - word: て
+      postiion: 8
 - id: Kitsune Monogatari-f000186
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 六兵衞よ、
-  word_list: [六, 兵, 衞, よ]
   sound: f000186.mp3
   sound_begin: 602960
   sound_end: 604640
+  sentence: 六兵衞よ、
+  words:
+    - word: 六
+      base: '6'
+      postiion: 0
+    - word: 兵
+      postiion: 1
+    - word: 衞
+      postiion: 2
+    - word: よ
+      postiion: 3
 - id: Kitsune Monogatari-f000187
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: お母さんがとても心配しているから、
-  word_list: [お, 母さん, が, とても, 心配, し, て, いる, から]
   sound: f000187.mp3
   sound_begin: 604640
   sound_end: 607640
+  sentence: お母さんがとても心配しているから、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: 母さん
+      postiion: 1
+    - word: が
+      postiion: 4
+    - word: とても
+      base: 迚も
+      postiion: 5
+    - word: 心配
+      postiion: 8
+    - word: し
+      base: 為る
+      postiion: 10
+    - word: て
+      postiion: 11
+    - word: いる
+      base: 居る
+      postiion: 12
+    - word: から
+      postiion: 14
 - id: Kitsune Monogatari-f000188
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 早くかえっておいでといっているようにみえました。
-  word_list: [早く, かえって, お, いで, と, いっ, て, いる, よう, に, みえ, まし, た]
   sound: f000188.mp3
   sound_begin: 607640
   sound_end: 611240
+  sentence: 早くかえっておいでといっているようにみえました。
+  words:
+    - word: 早く
+      base: 早い
+      postiion: 0
+    - word: かえって
+      base: 却って
+      postiion: 2
+    - word: お
+      base: 御
+      postiion: 6
+    - word: いで
+      base: 出る
+      postiion: 7
+    - word: と
+      postiion: 9
+    - word: いっ
+      base: 言う
+      postiion: 10
+    - word: て
+      postiion: 12
+    - word: いる
+      base: 居る
+      postiion: 13
+    - word: よう
+      base: 様
+      postiion: 15
+    - word: に
+      base: だ
+      postiion: 17
+    - word: みえ
+      base: 見える
+      postiion: 18
+    - word: まし
+      base: ます
+      postiion: 20
+    - word: た
+      postiion: 22
 - id: Kitsune Monogatari-f000189
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 狐は急におなかがへってきましたし、
-  word_list: [狐, は, 急, に, おなか, が, へっ, て, き, まし, た, し]
   sound: f000189.mp3
   sound_begin: 614440
   sound_end: 617920
+  sentence: 狐は急におなかがへってきましたし、
+  words:
+    - word: 狐
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: 急
+      postiion: 2
+    - word: に
+      base: だ
+      postiion: 3
+    - word: おなか
+      base: 御腹
+      postiion: 4
+    - word: が
+      postiion: 7
+    - word: へっ
+      base: 減る
+      postiion: 8
+    - word: て
+      postiion: 10
+    - word: き
+      base: 来る
+      postiion: 11
+    - word: まし
+      base: ます
+      postiion: 12
+    - word: た
+      postiion: 14
+    - word: し
+      postiion: 15
 - id: Kitsune Monogatari-f000190
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 頭のこぶは、
-  word_list: [頭, の, こぶ, は]
   sound: f000190.mp3
   sound_begin: 617920
   sound_end: 618920
+  sentence: 頭のこぶは、
+  words:
+    - word: 頭
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: こぶ
+      postiion: 2
+    - word: は
+      postiion: 4
 - id: Kitsune Monogatari-f000191
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: しいたけみたいに大きくもりあがっていてとても熱をもっていました。
-  word_list: [しいたけ, みたい, に, 大きく, もり, あがっ, て, い, て, とても, 熱, を, もっ, て, い, まし, た]
   sound: f000191.mp3
   sound_begin: 618920
   sound_end: 624240
+  sentence: しいたけみたいに大きくもりあがっていてとても熱をもっていました。
+  words:
+    - word: しいたけ
+      base: 椎茸
+      postiion: 0
+    - word: みたい
+      postiion: 4
+    - word: に
+      base: だ
+      postiion: 7
+    - word: 大きく
+      base: 大きい
+      postiion: 8
+    - word: もり
+      base: もる
+      postiion: 11
+    - word: あがっ
+      base: 上がる
+      postiion: 13
+    - word: て
+      postiion: 16
+    - word: い
+      base: 居る
+      postiion: 17
+    - word: て
+      postiion: 18
+    - word: とても
+      base: 迚も
+      postiion: 19
+    - word: 熱
+      postiion: 22
+    - word: を
+      postiion: 23
+    - word: もっ
+      base: 持つ
+      postiion: 24
+    - word: て
+      postiion: 26
+    - word: い
+      base: 居る
+      postiion: 27
+    - word: まし
+      base: ます
+      postiion: 28
+    - word: た
+      postiion: 30
 - id: Kitsune Monogatari-f000192
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: よろよろと歩いていますと、
-  word_list: [よろよろ, と, 歩い, て, い, ます, と]
   sound: f000192.mp3
   sound_begin: 626878
   sound_end: 629720
+  sentence: よろよろと歩いていますと、
+  words:
+    - word: よろよろ
+      postiion: 0
+    - word: と
+      postiion: 4
+    - word: 歩い
+      base: 歩く
+      postiion: 5
+    - word: て
+      postiion: 7
+    - word: い
+      base: 居る
+      postiion: 8
+    - word: ます
+      postiion: 9
+    - word: と
+      postiion: 11
 - id: Kitsune Monogatari-f000193
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: ある家のところで、
-  word_list: [ある, 家, の, ところ, で]
   sound: f000193.mp3
   sound_begin: 629720
   sound_end: 632120
+  sentence: ある家のところで、
+  words:
+    - word: ある
+      base: 或る
+      postiion: 0
+    - word: 家
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: ところ
+      base: 所
+      postiion: 4
+    - word: で
+      postiion: 7
 - id: Kitsune Monogatari-f000194
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: もう、
-  word_list: [もう]
   sound: f000194.mp3
   sound_begin: 632120
   sound_end: 633600
+  sentence: もう、
+  words:
+    - word: もう
+      postiion: 0
 - id: Kitsune Monogatari-f000195
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: もう、
-  word_list: [もう]
   sound: f000195.mp3
   sound_begin: 633600
   sound_end: 635480
+  sentence: もう、
+  words:
+    - word: もう
+      postiion: 0
 - id: Kitsune Monogatari-f000196
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: もう、
-  word_list: [もう]
   sound: f000196.mp3
   sound_begin: 635480
   sound_end: 636880
+  sentence: もう、
+  words:
+    - word: もう
+      postiion: 0
 - id: Kitsune Monogatari-f000197
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: と、
-  word_list: [と]
   sound: f000197.mp3
   sound_begin: 636880
   sound_end: 637800
+  sentence: と、
+  words:
+    - word: と
+      postiion: 0
 - id: Kitsune Monogatari-f000198
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 牛が啼いていました。
-  word_list: [牛, が, 啼い, て, い, まし, た]
   sound: f000198.mp3
   sound_begin: 637800
   sound_end: 641100
+  sentence: 牛が啼いていました。
+  words:
+    - word: 牛
+      postiion: 0
+    - word: が
+      postiion: 1
+    - word: 啼い
+      base: 鳴く
+      postiion: 2
+    - word: て
+      postiion: 4
+    - word: い
+      base: 居る
+      postiion: 5
+    - word: まし
+      base: ます
+      postiion: 6
+    - word: た
+      postiion: 8
 - id: Kitsune Monogatari-f000199
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 「ああ、
-  word_list: [ああ]
   sound: f000199.mp3
   sound_begin: 641100
   sound_end: 641800
+  sentence: 「ああ、
+  words:
+    - word: ああ
+      postiion: 1
 - id: Kitsune Monogatari-f000200
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 桑助さんの家の赤兵衞さんだな。
-  word_list: [桑, 助, さん, の, 家, の, 赤, 兵, 衞, さん, だ, な]
   sound: f000200.mp3
   sound_begin: 641800
   sound_end: 644737
+  sentence: 桑助さんの家の赤兵衞さんだな。
+  words:
+    - word: 桑
+      postiion: 0
+    - word: 助
+      postiion: 1
+    - word: さん
+      postiion: 2
+    - word: の
+      postiion: 4
+    - word: 家
+      postiion: 5
+    - word: の
+      postiion: 6
+    - word: 赤
+      postiion: 7
+    - word: 兵
+      postiion: 8
+    - word: 衞
+      postiion: 9
+    - word: さん
+      postiion: 10
+    - word: だ
+      postiion: 12
+    - word: な
+      postiion: 13
 - id: Kitsune Monogatari-f000201
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 」と、
-  word_list: [と]
   sound: f000201.mp3
   sound_begin: 644737
   sound_end: 645416
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Kitsune Monogatari-f000202
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 狐が牛小舍の前へ來て「こんばんわ。
-  word_list: [狐, が, 牛, 小, 舍, の, 前, へ, 來, て, こんばんわ]
   sound: f000202.mp3
   sound_begin: 645416
   sound_end: 650326
+  sentence: 狐が牛小舍の前へ來て「こんばんわ。
+  words:
+    - word: 狐
+      postiion: 0
+    - word: が
+      postiion: 1
+    - word: 牛
+      postiion: 2
+    - word: 小
+      postiion: 3
+    - word: 舍
+      postiion: 4
+    - word: の
+      postiion: 5
+    - word: 前
+      postiion: 6
+    - word: へ
+      postiion: 7
+    - word: 來
+      postiion: 8
+    - word: て
+      base: って
+      postiion: 9
+    - word: こんばんわ
+      base: 今晩は
+      postiion: 11
 - id: Kitsune Monogatari-f000203
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 」と聲をかけました。
-  word_list: [と, 聲, を, かけ, まし, た]
   sound: f000203.mp3
   sound_begin: 650326
   sound_end: 653040
+  sentence: 」と聲をかけました。
+  words:
+    - word: と
+      postiion: 1
+    - word: 聲
+      postiion: 2
+    - word: を
+      postiion: 3
+    - word: かけ
+      base: 掛ける
+      postiion: 4
+    - word: まし
+      base: ます
+      postiion: 6
+    - word: た
+      postiion: 8
 - id: Kitsune Monogatari-f000204
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: すると、
-  word_list: [する, と]
   sound: f000204.mp3
   sound_begin: 653040
   sound_end: 653680
+  sentence: すると、
+  words:
+    - word: する
+      base: 為る
+      postiion: 0
+    - word: と
+      postiion: 2
 - id: Kitsune Monogatari-f000205
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 眠れないでいたとみえて、
-  word_list: [眠れ, ない, で, い, た, と, みえ, て]
   sound: f000205.mp3
   sound_begin: 653680
   sound_end: 655960
+  sentence: 眠れないでいたとみえて、
+  words:
+    - word: 眠れ
+      base: 眠る
+      postiion: 0
+    - word: ない
+      postiion: 2
+    - word: で
+      postiion: 4
+    - word: い
+      base: 居る
+      postiion: 5
+    - word: た
+      postiion: 6
+    - word: と
+      postiion: 7
+    - word: みえ
+      base: 見える
+      postiion: 8
+    - word: て
+      postiion: 10
 - id: Kitsune Monogatari-f000206
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 赤兵衞は口をもぐりもぐりうごかしながら、
-  word_list: [赤, 兵, 衞, は, 口, を, もぐり, も, ぐり, うごかし, ながら]
   sound: f000206.mp3
   sound_begin: 655960
   sound_end: 661040
+  sentence: 赤兵衞は口をもぐりもぐりうごかしながら、
+  words:
+    - word: 赤
+      postiion: 0
+    - word: 兵
+      postiion: 1
+    - word: 衞
+      postiion: 2
+    - word: は
+      postiion: 3
+    - word: 口
+      postiion: 4
+    - word: を
+      postiion: 5
+    - word: もぐり
+      base: 潜り
+      postiion: 6
+    - word: も
+      postiion: 6
+    - word: ぐり
+      postiion: 7
+    - word: うごかし
+      base: 動かす
+      postiion: 12
+    - word: ながら
+      postiion: 16
 - id: Kitsune Monogatari-f000207
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 「ああ、
-  word_list: [ああ]
   sound: f000207.mp3
   sound_begin: 661040
   sound_end: 661600
+  sentence: 「ああ、
+  words:
+    - word: ああ
+      postiion: 1
 - id: Kitsune Monogatari-f000208
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: こんばんわ。
-  word_list: [こんばんわ]
   sound: f000208.mp3
   sound_begin: 661600
   sound_end: 663923
+  sentence: こんばんわ。
+  words:
+    - word: こんばんわ
+      base: 今晩は
+      postiion: 0
 - id: Kitsune Monogatari-f000209
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: どうしました。
-  word_list: [どう, し, まし, た]
   sound: f000209.mp3
   sound_begin: 663923
   sound_end: 666202
+  sentence: どうしました。
+  words:
+    - word: どう
+      postiion: 0
+    - word: し
+      base: 為る
+      postiion: 2
+    - word: まし
+      base: ます
+      postiion: 3
+    - word: た
+      postiion: 5
 - id: Kitsune Monogatari-f000210
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 河口まで行ってみたのかね。」
-  word_list: [河口, まで, 行っ, て, み, た, の, か, ね]
   sound: f000210.mp3
   sound_begin: 666202
   sound_end: 669090
+  sentence: 河口まで行ってみたのかね。」
+  words:
+    - word: 河口
+      postiion: 0
+    - word: まで
+      postiion: 2
+    - word: 行っ
+      base: 行く
+      postiion: 4
+    - word: て
+      postiion: 6
+    - word: み
+      base: 見る
+      postiion: 7
+    - word: た
+      postiion: 8
+    - word: の
+      postiion: 9
+    - word: か
+      postiion: 10
+    - word: ね
+      postiion: 11
 - id: Kitsune Monogatari-f000211
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: と、
-  word_list: [と]
   sound: f000211.mp3
   sound_begin: 669090
   sound_end: 669920
+  sentence: と、
+  words:
+    - word: と
+      postiion: 0
 - id: Kitsune Monogatari-f000212
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: やさしく牛はたずねるのです。
-  word_list: [やさしく, 牛, は, たずねる, の, です]
   sound: f000212.mp3
   sound_begin: 669920
   sound_end: 674000
+  sentence: やさしく牛はたずねるのです。
+  words:
+    - word: やさしく
+      base: 優しい
+      postiion: 0
+    - word: 牛
+      postiion: 4
+    - word: は
+      postiion: 5
+    - word: たずねる
+      postiion: 6
+    - word: の
+      postiion: 10
+    - word: です
+      postiion: 11
 - id: Kitsune Monogatari-f000213
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 狐はひどいめにあって、
-  word_list: [狐, は, ひどい, め, に, あっ, て]
   sound: f000213.mp3
   sound_begin: 674000
   sound_end: 676200
+  sentence: 狐はひどいめにあって、
+  words:
+    - word: 狐
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: ひどい
+      base: 酷い
+      postiion: 2
+    - word: め
+      postiion: 5
+    - word: に
+      postiion: 6
+    - word: あっ
+      base: 有る
+      postiion: 7
+    - word: て
+      postiion: 9
 - id: Kitsune Monogatari-f000214
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: いままで箱の中にいた話をしますと、
-  word_list: [いま, まで, 箱, の, 中, に, い, た, 話, を, し, ます, と]
   sound: f000214.mp3
   sound_begin: 676200
   sound_end: 680720
+  sentence: いままで箱の中にいた話をしますと、
+  words:
+    - word: いま
+      base: 今
+      postiion: 0
+    - word: まで
+      postiion: 2
+    - word: 箱
+      postiion: 4
+    - word: の
+      postiion: 5
+    - word: 中
+      postiion: 6
+    - word: に
+      postiion: 7
+    - word: い
+      base: 居る
+      postiion: 8
+    - word: た
+      postiion: 9
+    - word: 話
+      postiion: 10
+    - word: を
+      postiion: 11
+    - word: し
+      base: 為る
+      postiion: 12
+    - word: ます
+      postiion: 13
+    - word: と
+      postiion: 15
 - id: Kitsune Monogatari-f000215
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 「それは氣の毒でしたね。
-  word_list: [それ, は, 氣, の, 毒, でし, た, ね]
   sound: f000215.mp3
   sound_begin: 680720
   sound_end: 684360
+  sentence: 「それは氣の毒でしたね。
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 1
+    - word: は
+      postiion: 3
+    - word: 氣
+      base: 気
+      postiion: 4
+    - word: の
+      postiion: 5
+    - word: 毒
+      postiion: 6
+    - word: でし
+      base: です
+      postiion: 7
+    - word: た
+      postiion: 9
+    - word: ね
+      postiion: 10
 - id: Kitsune Monogatari-f000216
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 人間というものは何とも勝手なもので、
-  word_list: [人間, と, いう, もの, は, 何, と, も, 勝手, な, もの, で]
   sound: f000216.mp3
   sound_begin: 684360
   sound_end: 688200
+  sentence: 人間というものは何とも勝手なもので、
+  words:
+    - word: 人間
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: いう
+      base: 言う
+      postiion: 3
+    - word: もの
+      base: 物
+      postiion: 5
+    - word: は
+      postiion: 7
+    - word: 何
+      postiion: 8
+    - word: と
+      postiion: 9
+    - word: も
+      postiion: 10
+    - word: 勝手
+      postiion: 11
+    - word: な
+      base: だ
+      postiion: 13
+    - word: もの
+      base: 物
+      postiion: 14
+    - word: で
+      base: だ
+      postiion: 16
 - id: Kitsune Monogatari-f000217
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: わしらのようなものまで、
-  word_list: [わし, ら, の, よう, な, もの, まで]
   sound: f000217.mp3
   sound_begin: 688200
   sound_end: 689720
+  sentence: わしらのようなものまで、
+  words:
+    - word: わし
+      postiion: 0
+    - word: ら
+      base: 等
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: よう
+      base: 様
+      postiion: 4
+    - word: な
+      base: だ
+      postiion: 6
+    - word: もの
+      base: 物
+      postiion: 7
+    - word: まで
+      postiion: 9
 - id: Kitsune Monogatari-f000218
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 尻をひっぱたくのだからいやになるのさ。
-  word_list: [尻, を, ひっ, ぱたく, の, だ, から, いや, に, なる, の, さ]
   sound: f000218.mp3
   sound_begin: 689720
   sound_end: 694480
+  sentence: 尻をひっぱたくのだからいやになるのさ。
+  words:
+    - word: 尻
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: ひっ
+      base: 引く
+      postiion: 2
+    - word: ぱたく
+      base: 叩く
+      postiion: 4
+    - word: の
+      postiion: 7
+    - word: だ
+      postiion: 8
+    - word: から
+      postiion: 9
+    - word: いや
+      base: 嫌
+      postiion: 11
+    - word: に
+      base: だ
+      postiion: 13
+    - word: なる
+      base: 成る
+      postiion: 14
+    - word: の
+      postiion: 16
+    - word: さ
+      postiion: 17
 - id: Kitsune Monogatari-f000219
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: わしだって、
-  word_list: [わし, だ, って]
   sound: f000219.mp3
   sound_begin: 694480
   sound_end: 695200
+  sentence: わしだって、
+  words:
+    - word: わし
+      postiion: 0
+    - word: だ
+      postiion: 2
+    - word: って
+      postiion: 3
 - id: Kitsune Monogatari-f000220
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: たまには、
-  word_list: [たまに, は]
   sound: f000220.mp3
   sound_begin: 695200
   sound_end: 695871
+  sentence: たまには、
+  words:
+    - word: たまに
+      base: 偶に
+      postiion: 0
+    - word: は
+      postiion: 3
 - id: Kitsune Monogatari-f000221
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: からだのだるい時もあるのだが、
-  word_list: [からだ, の, だるい, 時, も, ある, の, だ, が]
   sound: f000221.mp3
   sound_begin: 695871
   sound_end: 698800
+  sentence: からだのだるい時もあるのだが、
+  words:
+    - word: からだ
+      base: 体
+      postiion: 0
+    - word: の
+      postiion: 3
+    - word: だるい
+      base: 怠い
+      postiion: 4
+    - word: 時
+      postiion: 7
+    - word: も
+      postiion: 8
+    - word: ある
+      base: 有る
+      postiion: 9
+    - word: の
+      postiion: 11
+    - word: だ
+      postiion: 12
+    - word: が
+      postiion: 13
 - id: Kitsune Monogatari-f000222
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 何にしても、
-  word_list: [何, に, し, て, も]
   sound: f000222.mp3
   sound_begin: 698800
   sound_end: 699960
+  sentence: 何にしても、
+  words:
+    - word: 何
+      postiion: 0
+    - word: に
+      postiion: 1
+    - word: し
+      base: 為る
+      postiion: 2
+    - word: て
+      postiion: 3
+    - word: も
+      postiion: 4
 - id: Kitsune Monogatari-f000223
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 一日も無駄にはやすませてくれないでねえ……無理な仕事をする時、
-  word_list: [一, 日, も, 無駄, に, は, やすま, せ, て, くれ, ない, で, ねえ, 無理, な, 仕事, を, する, 時]
   sound: f000223.mp3
   sound_begin: 699960
   sound_end: 707160
+  sentence: 一日も無駄にはやすませてくれないでねえ……無理な仕事をする時、
+  words:
+    - word: 一
+      base: '1'
+      postiion: 0
+    - word: 日
+      postiion: 1
+    - word: も
+      postiion: 2
+    - word: 無駄
+      postiion: 3
+    - word: に
+      base: だ
+      postiion: 5
+    - word: は
+      postiion: 6
+    - word: やすま
+      base: 休む
+      postiion: 7
+    - word: せ
+      base: せる
+      postiion: 10
+    - word: て
+      postiion: 11
+    - word: くれ
+      base: 呉れる
+      postiion: 12
+    - word: ない
+      postiion: 14
+    - word: で
+      postiion: 16
+    - word: ねえ
+      base: ね
+      postiion: 17
+    - word: 無理
+      postiion: 21
+    - word: な
+      base: だ
+      postiion: 23
+    - word: 仕事
+      postiion: 24
+    - word: を
+      postiion: 26
+    - word: する
+      base: 為る
+      postiion: 27
+    - word: 時
+      postiion: 29
 - id: Kitsune Monogatari-f000224
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: わしは時々、
-  word_list: [わし, は, 時々]
   sound: f000224.mp3
   sound_begin: 707160
   sound_end: 708520
+  sentence: わしは時々、
+  words:
+    - word: わし
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: 時々
+      postiion: 3
 - id: Kitsune Monogatari-f000225
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 泣くこともあるのさ。
-  word_list: [泣く, こと, も, ある, の, さ]
   sound: f000225.mp3
   sound_begin: 708520
   sound_end: 712080
+  sentence: 泣くこともあるのさ。
+  words:
+    - word: 泣く
+      postiion: 0
+    - word: こと
+      postiion: 2
+    - word: も
+      postiion: 4
+    - word: ある
+      base: 有る
+      postiion: 5
+    - word: の
+      postiion: 7
+    - word: さ
+      postiion: 8
 - id: Kitsune Monogatari-f000226
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: いくらこんな生れあわせだといっても、
-  word_list: [いくら, こんな, 生れ, あわせ, だ, と, いっ, て, も]
   sound: f000226.mp3
   sound_begin: 712080
   sound_end: 714721
+  sentence: いくらこんな生れあわせだといっても、
+  words:
+    - word: いくら
+      base: 幾ら
+      postiion: 0
+    - word: こんな
+      postiion: 3
+    - word: 生れ
+      base: 生まれる
+      postiion: 6
+    - word: あわせ
+      base: 合う
+      postiion: 8
+    - word: だ
+      base: た
+      postiion: 11
+    - word: と
+      postiion: 12
+    - word: いっ
+      base: 言う
+      postiion: 13
+    - word: て
+      postiion: 15
+    - word: も
+      postiion: 16
 - id: Kitsune Monogatari-f000227
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: これも神さまのおぼしめしで、
-  word_list: [これ, も, 神, さま, の, おぼし, めし, で]
   sound: f000227.mp3
   sound_begin: 714721
   sound_end: 717438
+  sentence: これも神さまのおぼしめしで、
+  words:
+    - word: これ
+      base: 此れ
+      postiion: 0
+    - word: も
+      postiion: 2
+    - word: 神
+      postiion: 3
+    - word: さま
+      base: 様
+      postiion: 4
+    - word: の
+      postiion: 6
+    - word: おぼし
+      base: 思う
+      postiion: 7
+    - word: めし
+      base: 召す
+      postiion: 10
+    - word: で
+      base: だ
+      postiion: 12
 - id: Kitsune Monogatari-f000228
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: こんなものに生れてきているのだもの、
-  word_list: [こんな, もの, に, 生れ, て, き, て, いる, の, だ, もの]
   sound: f000228.mp3
   sound_begin: 717438
   sound_end: 720840
+  sentence: こんなものに生れてきているのだもの、
+  words:
+    - word: こんな
+      postiion: 0
+    - word: もの
+      base: 物
+      postiion: 3
+    - word: に
+      postiion: 5
+    - word: 生れ
+      base: 生まれる
+      postiion: 6
+    - word: て
+      postiion: 8
+    - word: き
+      base: 来る
+      postiion: 9
+    - word: て
+      postiion: 10
+    - word: いる
+      base: 居る
+      postiion: 11
+    - word: の
+      postiion: 13
+    - word: だ
+      postiion: 14
+    - word: もの
+      postiion: 15
 - id: Kitsune Monogatari-f000229
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 一つだってわしは惡いこともしたことはないのに、
-  word_list: [一, つ, だ, って, わし, は, 惡い, こと, も, し, た, こと, は, ない, の, に]
   sound: f000229.mp3
   sound_begin: 720840
   sound_end: 724480
+  sentence: 一つだってわしは惡いこともしたことはないのに、
+  words:
+    - word: 一
+      base: '1'
+      postiion: 0
+    - word: つ
+      postiion: 1
+    - word: だ
+      postiion: 2
+    - word: って
+      postiion: 3
+    - word: わし
+      postiion: 5
+    - word: は
+      postiion: 7
+    - word: 惡い
+      base: 悪い
+      postiion: 8
+    - word: こと
+      postiion: 10
+    - word: も
+      postiion: 12
+    - word: し
+      base: 為る
+      postiion: 13
+    - word: た
+      postiion: 14
+    - word: こと
+      postiion: 15
+    - word: は
+      postiion: 17
+    - word: ない
+      base: 無い
+      postiion: 18
+    - word: の
+      postiion: 20
+    - word: に
+      postiion: 21
 - id: Kitsune Monogatari-f000230
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 尻をぴしりツぴしりツとむちでなぐられる時は、
-  word_list: [尻, を, ぴしり, ツ, ぴしり, ツ, と, むち, で, なぐら, れる, 時, は]
   sound: f000230.mp3
   sound_begin: 724480
   sound_end: 729833
+  sentence: 尻をぴしりツぴしりツとむちでなぐられる時は、
+  words:
+    - word: 尻
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: ぴしり
+      postiion: 2
+    - word: ツ
+      base: つ
+      postiion: 5
+    - word: ぴしり
+      postiion: 6
+    - word: ツ
+      base: つ
+      postiion: 9
+    - word: と
+      postiion: 10
+    - word: むち
+      base: 鞭
+      postiion: 11
+    - word: で
+      postiion: 13
+    - word: なぐら
+      base: 殴る
+      postiion: 14
+    - word: れる
+      postiion: 17
+    - word: 時
+      postiion: 19
+    - word: は
+      postiion: 20
 - id: Kitsune Monogatari-f000231
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: つくづく泣きたくなってしまうよ。
-  word_list: [つくづく, 泣き, たく, なっ, て, しまう, よ]
   sound: f000231.mp3
   sound_begin: 729833
   sound_end: 734251
+  sentence: つくづく泣きたくなってしまうよ。
+  words:
+    - word: つくづく
+      base: 熟
+      postiion: 0
+    - word: 泣き
+      base: 泣く
+      postiion: 4
+    - word: たく
+      base: たい
+      postiion: 6
+    - word: なっ
+      base: 成る
+      postiion: 8
+    - word: て
+      postiion: 10
+    - word: しまう
+      base: 仕舞う
+      postiion: 11
+    - word: よ
+      postiion: 14
 - id: Kitsune Monogatari-f000232
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 生れあわせで仕方がないけど、
-  word_list: [生れ, あわせ, で, 仕方, が, ない, けど]
   sound: f000232.mp3
   sound_begin: 734251
   sound_end: 737360
+  sentence: 生れあわせで仕方がないけど、
+  words:
+    - word: 生れ
+      base: 生まれる
+      postiion: 0
+    - word: あわせ
+      base: 合う
+      postiion: 2
+    - word: で
+      base: だ
+      postiion: 5
+    - word: 仕方
+      postiion: 6
+    - word: が
+      postiion: 8
+    - word: ない
+      base: 無い
+      postiion: 9
+    - word: けど
+      base: けれど
+      postiion: 11
 - id: Kitsune Monogatari-f000233
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: お前さんのように身輕るに山の中で自由に住める身がうらやましいさ……。」
-  word_list: [お前, さん, の, よう, に, 身, 輕, る, に, 山, の, 中, で, 自由, に, 住める, 身, が, うらやましい, さ]
   sound: f000233.mp3
   sound_begin: 737360
   sound_end: 744304
+  sentence: お前さんのように身輕るに山の中で自由に住める身がうらやましいさ……。」
+  words:
+    - word: お前
+      base: 御前
+      postiion: 0
+    - word: さん
+      postiion: 2
+    - word: の
+      postiion: 4
+    - word: よう
+      base: 様
+      postiion: 5
+    - word: に
+      base: だ
+      postiion: 7
+    - word: 身
+      postiion: 8
+    - word: 輕
+      postiion: 9
+    - word: る
+      base: れる
+      postiion: 10
+    - word: に
+      postiion: 11
+    - word: 山
+      postiion: 12
+    - word: の
+      postiion: 13
+    - word: 中
+      postiion: 14
+    - word: で
+      postiion: 15
+    - word: 自由
+      postiion: 16
+    - word: に
+      base: だ
+      postiion: 18
+    - word: 住める
+      base: 住む
+      postiion: 19
+    - word: 身
+      postiion: 22
+    - word: が
+      postiion: 23
+    - word: うらやましい
+      base: 羨ましい
+      postiion: 24
+    - word: さ
+      postiion: 30
 - id: Kitsune Monogatari-f000234
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: と、いいます。
-  word_list: [と, いい, ます]
   sound: f000234.mp3
   sound_begin: 744304
   sound_end: 745803
+  sentence: と、いいます。
+  words:
+    - word: と
+      postiion: 0
+    - word: いい
+      base: 言う
+      postiion: 2
+    - word: ます
+      postiion: 4
 - id: Kitsune Monogatari-f000236
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 狐も何だか牛がかわいそうで仕方がありませんでした。
-  word_list: [狐, も, 何, だ, か, 牛, が, かわいそう, で, 仕方, が, あり, ませ, ん, でし, た]
   sound: f000236.mp3
   sound_begin: 747180
   sound_end: 751540
+  sentence: 狐も何だか牛がかわいそうで仕方がありませんでした。
+  words:
+    - word: 狐
+      postiion: 0
+    - word: も
+      postiion: 1
+    - word: 何
+      postiion: 2
+    - word: だ
+      postiion: 3
+    - word: か
+      postiion: 4
+    - word: 牛
+      postiion: 5
+    - word: が
+      postiion: 6
+    - word: かわいそう
+      base: 可哀想
+      postiion: 7
+    - word: で
+      base: だ
+      postiion: 12
+    - word: 仕方
+      postiion: 13
+    - word: が
+      postiion: 15
+    - word: あり
+      base: 有る
+      postiion: 16
+    - word: ませ
+      base: ます
+      postiion: 18
+    - word: ん
+      base: ず
+      postiion: 20
+    - word: でし
+      base: です
+      postiion: 21
+    - word: た
+      postiion: 23
 - id: Kitsune Monogatari-f000237
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 「ほんとに赤兵衞さん、
-  word_list: [ほんと, に, 赤, 兵, 衞, さん]
   sound: f000237.mp3
   sound_begin: 753640
   sound_end: 755600
+  sentence: 「ほんとに赤兵衞さん、
+  words:
+    - word: ほんと
+      base: 本当
+      postiion: 1
+    - word: に
+      postiion: 4
+    - word: 赤
+      postiion: 5
+    - word: 兵
+      postiion: 6
+    - word: 衞
+      postiion: 7
+    - word: さん
+      postiion: 8
 - id: Kitsune Monogatari-f000238
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: そうですね。
-  word_list: [そう, です, ね]
   sound: f000238.mp3
   sound_begin: 755600
   sound_end: 758000
+  sentence: そうですね。
+  words:
+    - word: そう
+      postiion: 0
+    - word: です
+      postiion: 2
+    - word: ね
+      postiion: 4
 - id: Kitsune Monogatari-f000239
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: わたしたちだって、
-  word_list: [わたし, たち, だ, って]
   sound: f000239.mp3
   sound_begin: 758000
   sound_end: 759600
+  sentence: わたしたちだって、
+  words:
+    - word: わたし
+      base: 私
+      postiion: 0
+    - word: たち
+      base: 達
+      postiion: 3
+    - word: だ
+      postiion: 5
+    - word: って
+      postiion: 6
 - id: Kitsune Monogatari-f000240
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 人間だって、
-  word_list: [人間, だ, って]
   sound: f000240.mp3
   sound_begin: 759600
   sound_end: 761200
+  sentence: 人間だって、
+  words:
+    - word: 人間
+      postiion: 0
+    - word: だ
+      postiion: 2
+    - word: って
+      postiion: 3
 - id: Kitsune Monogatari-f000241
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: そうながくは生きられないのだから、
-  word_list: [そう, ながく, は, 生き, られ, ない, の, だ, から]
   sound: f000241.mp3
   sound_begin: 761200
   sound_end: 764000
+  sentence: そうながくは生きられないのだから、
+  words:
+    - word: そう
+      postiion: 0
+    - word: ながく
+      base: 長い
+      postiion: 2
+    - word: は
+      postiion: 5
+    - word: 生き
+      base: 生きる
+      postiion: 6
+    - word: られ
+      base: られる
+      postiion: 8
+    - word: ない
+      postiion: 10
+    - word: の
+      postiion: 12
+    - word: だ
+      postiion: 13
+    - word: から
+      postiion: 14
 - id: Kitsune Monogatari-f000242
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 嘘なんかいわないで、
-  word_list: [嘘, なんか, いわ, ない, で]
   sound: f000242.mp3
   sound_begin: 764000
   sound_end: 765879
+  sentence: 嘘なんかいわないで、
+  words:
+    - word: 嘘
+      postiion: 0
+    - word: なんか
+      postiion: 1
+    - word: いわ
+      base: 言う
+      postiion: 4
+    - word: ない
+      postiion: 6
+    - word: で
+      postiion: 8
 - id: Kitsune Monogatari-f000243
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: たいらに世の中をくらしたら、
-  word_list: [たいら, に, 世の中, を, くらし, たら]
   sound: f000243.mp3
   sound_begin: 765879
   sound_end: 768240
+  sentence: たいらに世の中をくらしたら、
+  words:
+    - word: たいら
+      base: 平ら
+      postiion: 0
+    - word: に
+      base: だ
+      postiion: 3
+    - word: 世の中
+      postiion: 4
+    - word: を
+      postiion: 7
+    - word: くらし
+      base: 暮らす
+      postiion: 8
+    - word: たら
+      base: た
+      postiion: 11
 - id: Kitsune Monogatari-f000244
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: それが一番いいですね。
-  word_list: [それ, が, 一番, いい, です, ね]
   sound: f000244.mp3
   sound_begin: 768240
   sound_end: 773240
+  sentence: それが一番いいですね。
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: が
+      postiion: 2
+    - word: 一番
+      postiion: 3
+    - word: いい
+      base: 良い
+      postiion: 5
+    - word: です
+      postiion: 7
+    - word: ね
+      postiion: 9
 - id: Kitsune Monogatari-f000245
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: あなたは、
-  word_list: [あなた, は]
   sound: f000245.mp3
   sound_begin: 773240
   sound_end: 774434
+  sentence: あなたは、
+  words:
+    - word: あなた
+      base: 貴方
+      postiion: 0
+    - word: は
+      postiion: 3
 - id: Kitsune Monogatari-f000246
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: さっきから口をもぐもぐしていますが、
-  word_list: [さっき, から, 口, を, もぐもぐ, し, て, い, ます, が]
   sound: f000246.mp3
   sound_begin: 774434
   sound_end: 777600
+  sentence: さっきから口をもぐもぐしていますが、
+  words:
+    - word: さっき
+      postiion: 0
+    - word: から
+      postiion: 3
+    - word: 口
+      postiion: 5
+    - word: を
+      postiion: 6
+    - word: もぐもぐ
+      postiion: 7
+    - word: し
+      base: 為る
+      postiion: 11
+    - word: て
+      postiion: 12
+    - word: い
+      base: 居る
+      postiion: 13
+    - word: ます
+      postiion: 14
+    - word: が
+      postiion: 16
 - id: Kitsune Monogatari-f000247
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 何をたべているンですか。」
-  word_list: [何, を, たべ, て, いる, ン, です, か]
   sound: f000247.mp3
   sound_begin: 777600
   sound_end: 779437
+  sentence: 何をたべているンですか。」
+  words:
+    - word: 何
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: たべ
+      base: 食べる
+      postiion: 2
+    - word: て
+      postiion: 4
+    - word: いる
+      base: 居る
+      postiion: 5
+    - word: ン
+      base: の
+      postiion: 7
+    - word: です
+      postiion: 8
+    - word: か
+      postiion: 10
 - id: Kitsune Monogatari-f000248
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 「別に何もたべてはいないのですよ。
-  word_list: [別, に, 何, も, たべ, て, は, い, ない, の, です, よ]
   sound: f000248.mp3
   sound_begin: 782760
   sound_end: 786751
+  sentence: 「別に何もたべてはいないのですよ。
+  words:
+    - word: 別
+      postiion: 1
+    - word: に
+      base: だ
+      postiion: 2
+    - word: 何
+      postiion: 3
+    - word: も
+      postiion: 4
+    - word: たべ
+      base: 食べる
+      postiion: 5
+    - word: て
+      postiion: 7
+    - word: は
+      postiion: 8
+    - word: い
+      base: 居る
+      postiion: 9
+    - word: ない
+      postiion: 10
+    - word: の
+      postiion: 12
+    - word: です
+      postiion: 13
+    - word: よ
+      postiion: 15
 - id: Kitsune Monogatari-f000249
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 夕方たべたわらをいま食べなおして、
-  word_list: [夕方, たべ, たわら, を, いま, 食べ, なおし, て]
   sound: f000249.mp3
   sound_begin: 786751
   sound_end: 790000
+  sentence: 夕方たべたわらをいま食べなおして、
+  words:
+    - word: 夕方
+      postiion: 0
+    - word: たべ
+      base: 食べる
+      postiion: 2
+    - word: たわら
+      base: 俵
+      postiion: 4
+    - word: を
+      postiion: 7
+    - word: いま
+      base: 今
+      postiion: 8
+    - word: 食べ
+      base: 食べる
+      postiion: 10
+    - word: なおし
+      base: 直す
+      postiion: 12
+    - word: て
+      postiion: 15
 - id: Kitsune Monogatari-f000250
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 胃からもどしているンです。」
-  word_list: [胃, から, もどし, て, いる, ン, です]
   sound: f000250.mp3
   sound_begin: 790000
   sound_end: 792080
+  sentence: 胃からもどしているンです。」
+  words:
+    - word: 胃
+      postiion: 0
+    - word: から
+      postiion: 1
+    - word: もどし
+      base: 戻す
+      postiion: 3
+    - word: て
+      postiion: 6
+    - word: いる
+      base: 居る
+      postiion: 7
+    - word: ン
+      base: の
+      postiion: 9
+    - word: です
+      postiion: 10
 - id: Kitsune Monogatari-f000251
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 「今夜はいい月夜ですね。」
-  word_list: [今夜, は, いい, 月夜, です, ね]
   sound: f000251.mp3
   sound_begin: 795680
   sound_end: 800317
+  sentence: 「今夜はいい月夜ですね。」
+  words:
+    - word: 今夜
+      postiion: 1
+    - word: は
+      postiion: 3
+    - word: いい
+      base: 良い
+      postiion: 4
+    - word: 月夜
+      postiion: 6
+    - word: です
+      postiion: 8
+    - word: ね
+      postiion: 10
 - id: Kitsune Monogatari-f000252
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 「ああ、
-  word_list: [ああ]
   sound: f000252.mp3
   sound_begin: 800317
   sound_end: 801480
+  sentence: 「ああ、
+  words:
+    - word: ああ
+      postiion: 1
 - id: Kitsune Monogatari-f000253
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: わたしは夜が一番樂しみです。
-  word_list: [わたし, は, 夜, が, 一番, 樂, しみ, です]
   sound: f000253.mp3
   sound_begin: 801480
   sound_end: 805437
+  sentence: わたしは夜が一番樂しみです。
+  words:
+    - word: わたし
+      base: 私
+      postiion: 0
+    - word: は
+      postiion: 3
+    - word: 夜
+      postiion: 4
+    - word: が
+      postiion: 5
+    - word: 一番
+      postiion: 6
+    - word: 樂
+      postiion: 8
+    - word: しみ
+      postiion: 9
+    - word: です
+      postiion: 11
 - id: Kitsune Monogatari-f000254
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 人間がねてしまうと、
-  word_list: [人間, が, ね, て, しまう, と]
   sound: f000254.mp3
   sound_begin: 805437
   sound_end: 807529
+  sentence: 人間がねてしまうと、
+  words:
+    - word: 人間
+      postiion: 0
+    - word: が
+      postiion: 2
+    - word: ね
+      base: 寝る
+      postiion: 3
+    - word: て
+      postiion: 4
+    - word: しまう
+      base: 仕舞う
+      postiion: 5
+    - word: と
+      postiion: 8
 - id: Kitsune Monogatari-f000255
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: もうわたしはひとりで何を考えてもいいのですからね。
-  word_list: [もう, わたし, は, ひとり, で, 何, を, 考え, て, も, いい, の, です, から, ね]
   sound: f000255.mp3
   sound_begin: 807529
   sound_end: 813800
+  sentence: もうわたしはひとりで何を考えてもいいのですからね。
+  words:
+    - word: もう
+      postiion: 0
+    - word: わたし
+      base: 私
+      postiion: 2
+    - word: は
+      postiion: 5
+    - word: ひとり
+      base: 一人
+      postiion: 6
+    - word: で
+      postiion: 9
+    - word: 何
+      postiion: 10
+    - word: を
+      postiion: 11
+    - word: 考え
+      base: 考える
+      postiion: 12
+    - word: て
+      postiion: 14
+    - word: も
+      postiion: 15
+    - word: いい
+      base: 良い
+      postiion: 16
+    - word: の
+      postiion: 18
+    - word: です
+      postiion: 19
+    - word: から
+      postiion: 21
+    - word: ね
+      postiion: 23
 - id: Kitsune Monogatari-f000256
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 尻をひっぱたく人もないし、
-  word_list: [尻, を, ひっ, ぱたく, 人, も, ない, し]
   sound: f000256.mp3
   sound_begin: 813800
   sound_end: 816160
+  sentence: 尻をひっぱたく人もないし、
+  words:
+    - word: 尻
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: ひっ
+      base: 引く
+      postiion: 2
+    - word: ぱたく
+      base: 叩く
+      postiion: 4
+    - word: 人
+      postiion: 7
+    - word: も
+      postiion: 8
+    - word: ない
+      base: 無い
+      postiion: 9
+    - word: し
+      postiion: 11
 - id: Kitsune Monogatari-f000257
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 一番樂々とします。」
-  word_list: [一番, 樂, 々, と, し, ます]
   sound: f000257.mp3
   sound_begin: 816160
   sound_end: 818080
+  sentence: 一番樂々とします。」
+  words:
+    - word: 一番
+      postiion: 0
+    - word: 樂
+      postiion: 2
+    - word: 々
+      postiion: 3
+    - word: と
+      postiion: 4
+    - word: し
+      base: 為る
+      postiion: 5
+    - word: ます
+      postiion: 6
 - id: Kitsune Monogatari-f000258
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 狐はほろりとしました。
-  word_list: [狐, は, ほろり, と, し, まし, た]
   sound: f000258.mp3
   sound_begin: 821680
   sound_end: 823480
+  sentence: 狐はほろりとしました。
+  words:
+    - word: 狐
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: ほろり
+      postiion: 2
+    - word: と
+      postiion: 5
+    - word: し
+      base: 為る
+      postiion: 6
+    - word: まし
+      base: ます
+      postiion: 7
+    - word: た
+      postiion: 9
 - id: Kitsune Monogatari-f000259
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: こんなに王樣のようなからだをしていても、
-  word_list: [こんな, に, 王, 樣, の, よう, な, からだ, を, し, て, い, て, も]
   sound: f000259.mp3
   sound_begin: 825080
   sound_end: 828261
+  sentence: こんなに王樣のようなからだをしていても、
+  words:
+    - word: こんな
+      postiion: 0
+    - word: に
+      base: だ
+      postiion: 3
+    - word: 王
+      postiion: 4
+    - word: 樣
+      postiion: 5
+    - word: の
+      postiion: 6
+    - word: よう
+      base: 様
+      postiion: 7
+    - word: な
+      base: だ
+      postiion: 9
+    - word: からだ
+      base: 体
+      postiion: 10
+    - word: を
+      postiion: 13
+    - word: し
+      base: 為る
+      postiion: 14
+    - word: て
+      postiion: 15
+    - word: い
+      base: 居る
+      postiion: 16
+    - word: て
+      postiion: 17
+    - word: も
+      postiion: 18
 - id: Kitsune Monogatari-f000260
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 自分たちよりつらいことがたくさんあるのだなと同情しました。
-  word_list: [自分, たち, より, つらい, こと, が, たくさん, ある, の, だ, な, と, 同情, し, まし, た]
   sound: f000260.mp3
   sound_begin: 828261
   sound_end: 833360
+  sentence: 自分たちよりつらいことがたくさんあるのだなと同情しました。
+  words:
+    - word: 自分
+      postiion: 0
+    - word: たち
+      base: 達
+      postiion: 2
+    - word: より
+      postiion: 4
+    - word: つらい
+      base: 辛い
+      postiion: 6
+    - word: こと
+      postiion: 9
+    - word: が
+      postiion: 11
+    - word: たくさん
+      base: 沢山
+      postiion: 12
+    - word: ある
+      base: 有る
+      postiion: 16
+    - word: の
+      postiion: 18
+    - word: だ
+      postiion: 19
+    - word: な
+      postiion: 20
+    - word: と
+      postiion: 21
+    - word: 同情
+      postiion: 22
+    - word: し
+      base: 為る
+      postiion: 24
+    - word: まし
+      base: ます
+      postiion: 25
+    - word: た
+      postiion: 27
 - id: Kitsune Monogatari-f000261
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 「わたしは、
-  word_list: [わたし, は]
   sound: f000261.mp3
   sound_begin: 836831
   sound_end: 838010
+  sentence: 「わたしは、
+  words:
+    - word: わたし
+      base: 私
+      postiion: 1
+    - word: は
+      postiion: 4
 - id: Kitsune Monogatari-f000262
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: このまま山へかえってしまえば、
-  word_list: [この, まま, 山, へ, かえっ, て, しまえ, ば]
   sound: f000262.mp3
   sound_begin: 838010
   sound_end: 840480
+  sentence: このまま山へかえってしまえば、
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: まま
+      base: 侭
+      postiion: 2
+    - word: 山
+      postiion: 4
+    - word: へ
+      postiion: 5
+    - word: かえっ
+      base: かえる
+      postiion: 6
+    - word: て
+      postiion: 9
+    - word: しまえ
+      base: 仕舞う
+      postiion: 10
+    - word: ば
+      postiion: 13
 - id: Kitsune Monogatari-f000263
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: もう二度と里へはおりて來ませんけれど、
-  word_list: [もう, 二, 度, と, 里, へ, はおり, て, 來, ませ, ん, けれど]
   sound: f000263.mp3
   sound_begin: 840480
   sound_end: 844160
+  sentence: もう二度と里へはおりて來ませんけれど、
+  words:
+    - word: もう
+      postiion: 0
+    - word: 二
+      base: '2'
+      postiion: 2
+    - word: 度
+      postiion: 3
+    - word: と
+      postiion: 4
+    - word: 里
+      postiion: 5
+    - word: へ
+      postiion: 6
+    - word: はおり
+      base: 羽織る
+      postiion: 7
+    - word: て
+      postiion: 10
+    - word: 來
+      postiion: 11
+    - word: ませ
+      base: ます
+      postiion: 12
+    - word: ん
+      base: ず
+      postiion: 14
+    - word: けれど
+      postiion: 15
 - id: Kitsune Monogatari-f000264
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 元氣でいて下さい。
-  word_list: [元氣, で, い, て, 下さい]
   sound: f000264.mp3
   sound_begin: 844160
   sound_end: 845400
+  sentence: 元氣でいて下さい。
+  words:
+    - word: 元氣
+      base: 元気
+      postiion: 0
+    - word: で
+      base: だ
+      postiion: 2
+    - word: い
+      base: 居る
+      postiion: 3
+    - word: て
+      postiion: 4
+    - word: 下さい
+      base: 下さる
+      postiion: 5
 - id: Kitsune Monogatari-f000265
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: そのかわり、
-  word_list: [その, かわり]
   sound: f000265.mp3
   sound_begin: 847300
   sound_end: 848516
+  sentence: そのかわり、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: かわり
+      postiion: 2
 - id: Kitsune Monogatari-f000266
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 夜の夜中に、
-  word_list: [夜, の, 夜中, に]
   sound: f000266.mp3
   sound_begin: 848516
   sound_end: 849913
+  sentence: 夜の夜中に、
+  words:
+    - word: 夜
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 夜中
+      postiion: 2
+    - word: に
+      postiion: 4
 - id: Kitsune Monogatari-f000267
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 山の上で、
-  word_list: [山, の, 上, で]
   sound: f000267.mp3
   sound_begin: 849913
   sound_end: 850840
+  sentence: 山の上で、
+  words:
+    - word: 山
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 上
+      postiion: 2
+    - word: で
+      postiion: 3
 - id: Kitsune Monogatari-f000268
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: わたしは時々うたをうたってあげましょう。
-  word_list: [わたし, は, 時々, うた, を, うたっ, て, あげ, ましょう]
   sound: f000268.mp3
   sound_begin: 850840
   sound_end: 855800
+  sentence: わたしは時々うたをうたってあげましょう。
+  words:
+    - word: わたし
+      base: 私
+      postiion: 0
+    - word: は
+      postiion: 3
+    - word: 時々
+      postiion: 4
+    - word: うた
+      base: 歌
+      postiion: 6
+    - word: を
+      postiion: 8
+    - word: うたっ
+      base: 歌う
+      postiion: 9
+    - word: て
+      postiion: 12
+    - word: あげ
+      base: 上げる
+      postiion: 13
+    - word: ましょう
+      base: ます
+      postiion: 15
 - id: Kitsune Monogatari-f000269
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: あああの時の六兵衞狐は元氣だと思って下さい。
-  word_list: [あ, あ, あの, 時, の, 六, 兵, 衞, 狐, は, 元氣, だ, と, 思っ, て, 下さい]
   sound: f000269.mp3
   sound_begin: 855800
   sound_end: 860400
+  sentence: あああの時の六兵衞狐は元氣だと思って下さい。
+  words:
+    - word: あ
+      base: あー
+      postiion: 0
+    - word: あ
+      base: あー
+      postiion: 0
+    - word: あの
+      base: 彼の
+      postiion: 2
+    - word: 時
+      postiion: 4
+    - word: の
+      postiion: 5
+    - word: 六
+      base: '6'
+      postiion: 6
+    - word: 兵
+      postiion: 7
+    - word: 衞
+      postiion: 8
+    - word: 狐
+      postiion: 9
+    - word: は
+      postiion: 10
+    - word: 元氣
+      base: 元気
+      postiion: 11
+    - word: だ
+      postiion: 13
+    - word: と
+      postiion: 14
+    - word: 思っ
+      base: 思う
+      postiion: 15
+    - word: て
+      postiion: 17
+    - word: 下さい
+      base: 下さる
+      postiion: 18
 - id: Kitsune Monogatari-f000270
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: ──ほら、
-  word_list: [─, ─, ほら]
   sound: f000270.mp3
   sound_begin: 862027
   sound_end: 863073
+  sentence: ──ほら、
+  words:
+    - word: ─
+      postiion: 0
+    - word: ─
+      postiion: 0
+    - word: ほら
+      postiion: 2
 - id: Kitsune Monogatari-f000271
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: かすかに梟がないているでしょう。
-  word_list: [かすか, に, 梟, が, ない, て, いる, でしょう]
   sound: f000271.mp3
   sound_begin: 863073
   sound_end: 866880
+  sentence: かすかに梟がないているでしょう。
+  words:
+    - word: かすか
+      base: 微か
+      postiion: 0
+    - word: に
+      base: だ
+      postiion: 3
+    - word: 梟
+      postiion: 4
+    - word: が
+      postiion: 5
+    - word: ない
+      base: 無い
+      postiion: 6
+    - word: て
+      postiion: 8
+    - word: いる
+      base: 居る
+      postiion: 9
+    - word: でしょう
+      base: です
+      postiion: 11
 - id: Kitsune Monogatari-f000272
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: あの木のそばにわたしの巣があるのです。
-  word_list: [あの, 木, の, そば, に, わたし, の, 巣, が, ある, の, です]
   sound: f000272.mp3
   sound_begin: 866880
   sound_end: 869560
+  sentence: あの木のそばにわたしの巣があるのです。
+  words:
+    - word: あの
+      base: 彼の
+      postiion: 0
+    - word: 木
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: そば
+      postiion: 4
+    - word: に
+      postiion: 6
+    - word: わたし
+      base: 私
+      postiion: 7
+    - word: の
+      postiion: 10
+    - word: 巣
+      postiion: 11
+    - word: が
+      postiion: 12
+    - word: ある
+      base: 有る
+      postiion: 13
+    - word: の
+      postiion: 15
+    - word: です
+      postiion: 16
 - id: Kitsune Monogatari-f000273
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: きっときいて下さい……。」
-  word_list: [きっと, きい, て, 下さい]
   sound: f000273.mp3
   sound_begin: 871360
   sound_end: 877320
+  sentence: きっときいて下さい……。」
+  words:
+    - word: きっと
+      postiion: 0
+    - word: きい
+      base: きく
+      postiion: 3
+    - word: て
+      postiion: 5
+    - word: 下さい
+      base: 下さる
+      postiion: 6
 - id: Kitsune Monogatari-f000274
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 六兵衞狐は、
-  word_list: [六, 兵, 衞, 狐, は]
   sound: f000274.mp3
   sound_begin: 877320
   sound_end: 878794
+  sentence: 六兵衞狐は、
+  words:
+    - word: 六
+      base: '6'
+      postiion: 0
+    - word: 兵
+      postiion: 1
+    - word: 衞
+      postiion: 2
+    - word: 狐
+      postiion: 3
+    - word: は
+      postiion: 4
 - id: Kitsune Monogatari-f000275
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 氣のいい正直者の牛と別れて、
-  word_list: [氣, の, いい, 正直, 者, の, 牛, と, 別れ, て]
   sound: f000275.mp3
   sound_begin: 878794
   sound_end: 882080
+  sentence: 氣のいい正直者の牛と別れて、
+  words:
+    - word: 氣
+      base: 気
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: いい
+      base: 良い
+      postiion: 2
+    - word: 正直
+      postiion: 4
+    - word: 者
+      postiion: 6
+    - word: の
+      postiion: 7
+    - word: 牛
+      postiion: 8
+    - word: と
+      postiion: 9
+    - word: 別れ
+      base: 別れる
+      postiion: 10
+    - word: て
+      postiion: 12
 - id: Kitsune Monogatari-f000276
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 淋しい山道を祖谷の山の中へいそいそと登ってゆきました。
-  word_list: [淋しい, 山道, を, 祖谷, の, 山, の, 中, へ, いそいそ, と, 登っ, て, ゆき, まし, た]
   sound: f000276.mp3
   sound_begin: 882080
   sound_end: 890600
+  sentence: 淋しい山道を祖谷の山の中へいそいそと登ってゆきました。
+  words:
+    - word: 淋しい
+      base: 寂しい
+      postiion: 0
+    - word: 山道
+      postiion: 3
+    - word: を
+      postiion: 5
+    - word: 祖谷
+      postiion: 6
+    - word: の
+      postiion: 8
+    - word: 山
+      postiion: 9
+    - word: の
+      postiion: 10
+    - word: 中
+      postiion: 11
+    - word: へ
+      postiion: 12
+    - word: いそいそ
+      postiion: 13
+    - word: と
+      postiion: 17
+    - word: 登っ
+      base: 上る
+      postiion: 18
+    - word: て
+      postiion: 20
+    - word: ゆき
+      base: 行く
+      postiion: 21
+    - word: まし
+      base: ます
+      postiion: 23
+    - word: た
+      postiion: 25
 - id: Kitsune Monogatari-f000277
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 「ああ助かってよかった。
-  word_list: [ああ, 助かっ, て, よかっ, た]
   sound: f000277.mp3
   sound_begin: 890600
   sound_end: 893680
+  sentence: 「ああ助かってよかった。
+  words:
+    - word: ああ
+      postiion: 1
+    - word: 助かっ
+      base: 助かる
+      postiion: 3
+    - word: て
+      postiion: 6
+    - word: よかっ
+      base: 良い
+      postiion: 7
+    - word: た
+      postiion: 10
 - id: Kitsune Monogatari-f000278
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 何といっても自分の天地が一番いい。
-  word_list: [何, と, いっ, て, も, 自分, の, 天地, が, 一番, いい]
   sound: f000278.mp3
   sound_begin: 893680
   sound_end: 897840
+  sentence: 何といっても自分の天地が一番いい。
+  words:
+    - word: 何
+      postiion: 0
+    - word: と
+      postiion: 1
+    - word: いっ
+      base: 言う
+      postiion: 2
+    - word: て
+      postiion: 4
+    - word: も
+      postiion: 5
+    - word: 自分
+      postiion: 6
+    - word: の
+      postiion: 8
+    - word: 天地
+      postiion: 9
+    - word: が
+      postiion: 11
+    - word: 一番
+      postiion: 12
+    - word: いい
+      base: 良い
+      postiion: 14
 - id: Kitsune Monogatari-f000279
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: おかあさんはどんなに喜んでくれるだろう。」
-  word_list: [お, かあさん, は, どんな, に, 喜ん, で, くれる, だろう]
   sound: f000279.mp3
   sound_begin: 897840
   sound_end: 900820
+  sentence: おかあさんはどんなに喜んでくれるだろう。」
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: かあさん
+      postiion: 1
+    - word: は
+      postiion: 5
+    - word: どんな
+      postiion: 6
+    - word: に
+      base: だ
+      postiion: 9
+    - word: 喜ん
+      base: 喜ぶ
+      postiion: 10
+    - word: で
+      postiion: 12
+    - word: くれる
+      base: 呉れる
+      postiion: 13
+    - word: だろう
+      base: だ
+      postiion: 16
 - id: Kitsune Monogatari-f000280
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 六兵衞は腹のへったのも忘れて、
-  word_list: [六, 兵, 衞, は, 腹, の, へっ, た, の, も, 忘れ, て]
   sound: f000280.mp3
   sound_begin: 902920
   sound_end: 905880
+  sentence: 六兵衞は腹のへったのも忘れて、
+  words:
+    - word: 六
+      base: '6'
+      postiion: 0
+    - word: 兵
+      postiion: 1
+    - word: 衞
+      postiion: 2
+    - word: は
+      postiion: 3
+    - word: 腹
+      postiion: 4
+    - word: の
+      postiion: 5
+    - word: へっ
+      base: 減る
+      postiion: 6
+    - word: た
+      postiion: 8
+    - word: の
+      postiion: 9
+    - word: も
+      postiion: 10
+    - word: 忘れ
+      base: 忘れる
+      postiion: 11
+    - word: て
+      postiion: 13
 - id: Kitsune Monogatari-f000281
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: まるで飛ぶようにしてお山へかえりました。
-  word_list: [まるで, 飛ぶ, よう, に, し, て, お, 山, へ, かえり, まし, た]
   sound: f000281.mp3
   sound_begin: 905880
   sound_end: 908240
+  sentence: まるで飛ぶようにしてお山へかえりました。
+  words:
+    - word: まるで
+      base: 丸で
+      postiion: 0
+    - word: 飛ぶ
+      postiion: 3
+    - word: よう
+      base: 様
+      postiion: 5
+    - word: に
+      base: だ
+      postiion: 7
+    - word: し
+      base: 為る
+      postiion: 8
+    - word: て
+      postiion: 9
+    - word: お
+      base: 御
+      postiion: 10
+    - word: 山
+      postiion: 11
+    - word: へ
+      postiion: 12
+    - word: かえり
+      base: かえる
+      postiion: 13
+    - word: まし
+      base: ます
+      postiion: 16
+    - word: た
+      postiion: 18
 - id: Kitsune Monogatari-f000282
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 晝間の雨はからりと晴れて、
-  word_list: [晝間, の, 雨, は, からり, と, 晴れ, て]
   sound: f000282.mp3
   sound_begin: 910940
   sound_end: 913440
+  sentence: 晝間の雨はからりと晴れて、
+  words:
+    - word: 晝間
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 雨
+      postiion: 3
+    - word: は
+      postiion: 4
+    - word: からり
+      postiion: 5
+    - word: と
+      postiion: 8
+    - word: 晴れ
+      base: 晴れる
+      postiion: 9
+    - word: て
+      postiion: 11
 - id: Kitsune Monogatari-f000283
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: まるで晝のように明るいお月樣が山や森を照しています。
-  word_list: [まるで, 晝, の, よう, に, 明るい, お, 月, 樣, が, 山, や, 森, を, 照, し, て, い, ます]
   sound: f000283.mp3
   sound_begin: 913440
   sound_end: 918480
+  sentence: まるで晝のように明るいお月樣が山や森を照しています。
+  words:
+    - word: まるで
+      base: 丸で
+      postiion: 0
+    - word: 晝
+      base: 昼
+      postiion: 3
+    - word: の
+      postiion: 4
+    - word: よう
+      base: 様
+      postiion: 5
+    - word: に
+      base: だ
+      postiion: 7
+    - word: 明るい
+      postiion: 8
+    - word: お
+      base: 御
+      postiion: 11
+    - word: 月
+      postiion: 12
+    - word: 樣
+      postiion: 13
+    - word: が
+      postiion: 14
+    - word: 山
+      postiion: 15
+    - word: や
+      postiion: 16
+    - word: 森
+      postiion: 17
+    - word: を
+      postiion: 18
+    - word: 照
+      postiion: 19
+    - word: し
+      base: 為る
+      postiion: 20
+    - word: て
+      postiion: 21
+    - word: い
+      base: 居る
+      postiion: 22
+    - word: ます
+      postiion: 23
 - id: Kitsune Monogatari-f000284
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: それから毎晩、
-  word_list: [それ, から, 毎晩]
   sound: f000284.mp3
   sound_begin: 922080
   sound_end: 923120
+  sentence: それから毎晩、
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: から
+      postiion: 2
+    - word: 毎晩
+      postiion: 4
 - id: Kitsune Monogatari-f000285
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 狐は里に近い岩鼻の上に出て、
-  word_list: [狐, は, 里, に, 近い, 岩鼻, の, 上, に, 出, て]
   sound: f000285.mp3
   sound_begin: 923120
   sound_end: 927320
+  sentence: 狐は里に近い岩鼻の上に出て、
+  words:
+    - word: 狐
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: 里
+      postiion: 2
+    - word: に
+      postiion: 3
+    - word: 近い
+      postiion: 4
+    - word: 岩鼻
+      postiion: 6
+    - word: の
+      postiion: 8
+    - word: 上
+      postiion: 9
+    - word: に
+      postiion: 10
+    - word: 出
+      base: 出る
+      postiion: 11
+    - word: て
+      postiion: 12
 - id: Kitsune Monogatari-f000286
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 赤兵衞にきこえるように、
-  word_list: [赤, 兵, 衞, に, きこえる, よう, に]
   sound: f000286.mp3
   sound_begin: 927320
   sound_end: 930138
+  sentence: 赤兵衞にきこえるように、
+  words:
+    - word: 赤
+      postiion: 0
+    - word: 兵
+      postiion: 1
+    - word: 衞
+      postiion: 2
+    - word: に
+      postiion: 3
+    - word: きこえる
+      base: 聞こえる
+      postiion: 4
+    - word: よう
+      base: 様
+      postiion: 8
+    - word: に
+      base: だ
+      postiion: 10
 - id: Kitsune Monogatari-f000287
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 「こおーん、
-  word_list: [こ, おー, ん]
   sound: f000287.mp3
   sound_begin: 930138
   sound_end: 931348
+  sentence: 「こおーん、
+  words:
+    - word: こ
+      base: 来る
+      postiion: 1
+    - word: おー
+      postiion: 2
+    - word: ん
+      base: んっ
+      postiion: 4
 - id: Kitsune Monogatari-f000288
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: こんこん、
-  word_list: [こんこん]
   sound: f000288.mp3
   sound_begin: 931348
   sound_end: 933456
+  sentence: こんこん、
+  words:
+    - word: こんこん
+      postiion: 0
 - id: Kitsune Monogatari-f000289
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: こおーん、
-  word_list: [こ, おー, ん]
   sound: f000289.mp3
   sound_begin: 933456
   sound_end: 934759
+  sentence: こおーん、
+  words:
+    - word: こ
+      base: 来る
+      postiion: 0
+    - word: おー
+      postiion: 1
+    - word: ん
+      base: んっ
+      postiion: 3
 - id: Kitsune Monogatari-f000290
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: こんこん。
-  word_list: [こんこん]
   sound: f000290.mp3
   sound_begin: 934759
   sound_end: 936172
+  sentence: こんこん。
+  words:
+    - word: こんこん
+      postiion: 0
 - id: Kitsune Monogatari-f000291
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 」となきました。
-  word_list: [と, なき, まし, た]
   sound: f000291.mp3
   sound_begin: 936172
   sound_end: 937340
+  sentence: 」となきました。
+  words:
+    - word: と
+      postiion: 1
+    - word: なき
+      base: なく
+      postiion: 2
+    - word: まし
+      base: ます
+      postiion: 4
+    - word: た
+      postiion: 6
 - id: Kitsune Monogatari-f000292
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 晴れた夜は、
-  word_list: [晴れ, た, 夜, は]
   sound: f000292.mp3
   sound_begin: 939440
   sound_end: 940720
+  sentence: 晴れた夜は、
+  words:
+    - word: 晴れ
+      base: 晴れる
+      postiion: 0
+    - word: た
+      postiion: 2
+    - word: 夜
+      postiion: 3
+    - word: は
+      postiion: 4
 - id: Kitsune Monogatari-f000293
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 村じゅうに、
-  word_list: [村, じゅう, に]
   sound: f000293.mp3
   sound_begin: 940720
   sound_end: 942284
+  sentence: 村じゅうに、
+  words:
+    - word: 村
+      postiion: 0
+    - word: じゅう
+      base: 中
+      postiion: 1
+    - word: に
+      postiion: 4
 - id: Kitsune Monogatari-f000294
   author_japanese: 林 芙美子
   deck_name: Kitsune Monogatari
   deck_name_japanese: 狐物語
-  sentence: 六兵衞のなく聲がよくひびいてきこえたそうです。
-  word_list: [六, 兵, 衞, の, なく, 聲, が, よく, ひびい, て, きこえ, た, そう, です]
   sound: f000294.mp3
   sound_begin: 942284
   sound_end: 947360
+  sentence: 六兵衞のなく聲がよくひびいてきこえたそうです。
+  words:
+    - word: 六
+      base: '6'
+      postiion: 0
+    - word: 兵
+      postiion: 1
+    - word: 衞
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: なく
+      base: 無い
+      postiion: 4
+    - word: 聲
+      postiion: 6
+    - word: が
+      postiion: 7
+    - word: よく
+      base: 良く
+      postiion: 8
+    - word: ひびい
+      base: 響く
+      postiion: 10
+    - word: て
+      postiion: 13
+    - word: きこえ
+      base: 聞こえる
+      postiion: 14
+    - word: た
+      postiion: 17
+    - word: そう
+      postiion: 18
+    - word: です
+      postiion: 20

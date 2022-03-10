@@ -2,494 +2,1724 @@
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: 若鮎について
-  word_list: [若鮎, に, つい, て]
   sound: f000002.mp3
   sound_begin: 5029
   sound_end: 9080
+  sentence: 若鮎について
+  words:
+    - word: 若鮎
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: つい
+      base: つく
+      postiion: 3
+    - word: て
+      postiion: 5
 - id: Wakaayuni Tsuite-f000003
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: あゆの小さなものは、
-  word_list: [あゆ, の, 小さな, もの, は]
   sound: f000003.mp3
   sound_begin: 9080
   sound_end: 11000
+  sentence: あゆの小さなものは、
+  words:
+    - word: あゆ
+      base: 阿諛
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 小さな
+      postiion: 3
+    - word: もの
+      base: 物
+      postiion: 6
+    - word: は
+      postiion: 8
 - id: Wakaayuni Tsuite-f000004
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: どうかするとうまくないというひともあるが、
-  word_list: [どう, か, する, と, うまく, ない, と, いう, ひと, も, ある, が]
   sound: f000004.mp3
   sound_begin: 11000
   sound_end: 14040
+  sentence: どうかするとうまくないというひともあるが、
+  words:
+    - word: どう
+      postiion: 0
+    - word: か
+      postiion: 2
+    - word: する
+      base: 為る
+      postiion: 3
+    - word: と
+      postiion: 5
+    - word: うまく
+      base: 旨い
+      postiion: 6
+    - word: ない
+      base: 無い
+      postiion: 9
+    - word: と
+      postiion: 11
+    - word: いう
+      base: 言う
+      postiion: 12
+    - word: ひと
+      base: 人
+      postiion: 14
+    - word: も
+      postiion: 16
+    - word: ある
+      base: 有る
+      postiion: 17
+    - word: が
+      postiion: 19
 - id: Wakaayuni Tsuite-f000005
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: わたしは一概にそうは思わない。
-  word_list: [わたし, は, 一概, に, そう, は, 思わ, ない]
   sound: f000005.mp3
   sound_begin: 14040
   sound_end: 18240
+  sentence: わたしは一概にそうは思わない。
+  words:
+    - word: わたし
+      base: 私
+      postiion: 0
+    - word: は
+      postiion: 3
+    - word: 一概
+      postiion: 4
+    - word: に
+      postiion: 6
+    - word: そう
+      postiion: 7
+    - word: は
+      postiion: 9
+    - word: 思わ
+      base: 思う
+      postiion: 10
+    - word: ない
+      postiion: 12
 - id: Wakaayuni Tsuite-f000006
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: 小田原の手前に酒匂川という川がある。
-  word_list: [小田原, の, 手前, に, 酒匂川, と, いう, 川, が, ある]
   sound: f000006.mp3
   sound_begin: 18240
   sound_end: 23280
+  sentence: 小田原の手前に酒匂川という川がある。
+  words:
+    - word: 小田原
+      postiion: 0
+    - word: の
+      postiion: 3
+    - word: 手前
+      postiion: 4
+    - word: に
+      postiion: 6
+    - word: 酒匂川
+      postiion: 7
+    - word: と
+      postiion: 10
+    - word: いう
+      base: 言う
+      postiion: 11
+    - word: 川
+      postiion: 13
+    - word: が
+      postiion: 14
+    - word: ある
+      base: 有る
+      postiion: 15
 - id: Wakaayuni Tsuite-f000007
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: まだ禁漁中にあの近辺のひとが酒匂川のあゆをよく盗み取りするが、
-  word_list: [まだ, 禁漁, 中, に, あの, 近辺, の, ひと, が, 酒匂川, の, あゆ, を, よく, 盗み, 取り, する, が]
   sound: f000007.mp3
   sound_begin: 23280
   sound_end: 29600
+  sentence: まだ禁漁中にあの近辺のひとが酒匂川のあゆをよく盗み取りするが、
+  words:
+    - word: まだ
+      base: 未だ
+      postiion: 0
+    - word: 禁漁
+      postiion: 2
+    - word: 中
+      postiion: 4
+    - word: に
+      postiion: 5
+    - word: あの
+      postiion: 6
+    - word: 近辺
+      postiion: 8
+    - word: の
+      postiion: 10
+    - word: ひと
+      base: 人
+      postiion: 11
+    - word: が
+      postiion: 13
+    - word: 酒匂川
+      postiion: 14
+    - word: の
+      postiion: 17
+    - word: あゆ
+      base: 阿諛
+      postiion: 18
+    - word: を
+      postiion: 20
+    - word: よく
+      base: 良く
+      postiion: 21
+    - word: 盗み
+      base: 盗む
+      postiion: 23
+    - word: 取り
+      base: 取る
+      postiion: 25
+    - word: する
+      base: 為る
+      postiion: 27
+    - word: が
+      postiion: 29
 - id: Wakaayuni Tsuite-f000008
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: わたしはそれをもらうことがあって、
-  word_list: [わたし, は, それ, を, もらう, こと, が, あっ, て]
   sound: f000008.mp3
   sound_begin: 29600
   sound_end: 31800
+  sentence: わたしはそれをもらうことがあって、
+  words:
+    - word: わたし
+      base: 私
+      postiion: 0
+    - word: は
+      postiion: 3
+    - word: それ
+      base: 其れ
+      postiion: 4
+    - word: を
+      postiion: 6
+    - word: もらう
+      base: 貰う
+      postiion: 7
+    - word: こと
+      postiion: 10
+    - word: が
+      postiion: 12
+    - word: あっ
+      base: 有る
+      postiion: 13
+    - word: て
+      postiion: 15
 - id: Wakaayuni Tsuite-f000009
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: たびたび食ったことがある。
-  word_list: [たびたび, 食っ, た, こと, が, ある]
   sound: f000009.mp3
   sound_begin: 31800
   sound_end: 35480
+  sentence: たびたび食ったことがある。
+  words:
+    - word: たびたび
+      base: 度々
+      postiion: 0
+    - word: 食っ
+      base: 食う
+      postiion: 4
+    - word: た
+      postiion: 6
+    - word: こと
+      postiion: 7
+    - word: が
+      postiion: 9
+    - word: ある
+      base: 有る
+      postiion: 10
 - id: Wakaayuni Tsuite-f000010
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: 大きさはまだやっと一寸ぐらいのものだが、
-  word_list: [大き, さ, は, まだ, やっと, 一, 寸, ぐらい, の, もの, だ, が]
   sound: f000010.mp3
   sound_begin: 35480
   sound_end: 38320
+  sentence: 大きさはまだやっと一寸ぐらいのものだが、
+  words:
+    - word: 大き
+      base: 大きい
+      postiion: 0
+    - word: さ
+      postiion: 2
+    - word: は
+      postiion: 3
+    - word: まだ
+      base: 未だ
+      postiion: 4
+    - word: やっと
+      base: 漸と
+      postiion: 6
+    - word: 一
+      base: '1'
+      postiion: 9
+    - word: 寸
+      postiion: 10
+    - word: ぐらい
+      base: くらい
+      postiion: 11
+    - word: の
+      postiion: 14
+    - word: もの
+      base: 物
+      postiion: 15
+    - word: だ
+      postiion: 17
+    - word: が
+      postiion: 18
 - id: Wakaayuni Tsuite-f000011
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: ちょっとあぶって食うと、
-  word_list: [ちょっと, あぶっ, て, 食う, と]
   sound: f000011.mp3
   sound_begin: 38320
   sound_end: 40360
+  sentence: ちょっとあぶって食うと、
+  words:
+    - word: ちょっと
+      base: 一寸
+      postiion: 0
+    - word: あぶっ
+      base: 炙る
+      postiion: 4
+    - word: て
+      postiion: 7
+    - word: 食う
+      postiion: 8
+    - word: と
+      postiion: 10
 - id: Wakaayuni Tsuite-f000012
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: 実に調子の高いうまさが舌になじむ。
-  word_list: [実, に, 調子, の, 高い, うま, さ, が, 舌, に, なじむ]
   sound: f000012.mp3
   sound_begin: 40360
   sound_end: 45840
+  sentence: 実に調子の高いうまさが舌になじむ。
+  words:
+    - word: 実
+      postiion: 0
+    - word: に
+      postiion: 1
+    - word: 調子
+      postiion: 2
+    - word: の
+      postiion: 4
+    - word: 高い
+      postiion: 5
+    - word: うま
+      base: 旨い
+      postiion: 7
+    - word: さ
+      postiion: 9
+    - word: が
+      postiion: 10
+    - word: 舌
+      postiion: 11
+    - word: に
+      postiion: 12
+    - word: なじむ
+      base: 馴染む
+      postiion: 13
 - id: Wakaayuni Tsuite-f000013
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: もっとも、
-  word_list: [もっとも]
   sound: f000013.mp3
   sound_begin: 45840
   sound_end: 46480
+  sentence: もっとも、
+  words:
+    - word: もっとも
+      base: 尤も
+      postiion: 0
 - id: Wakaayuni Tsuite-f000014
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: 最初東京にはいってくるものは、
-  word_list: [最初, 東京, に, はいっ, て, くる, もの, は]
   sound: f000014.mp3
   sound_begin: 46480
   sound_end: 49200
+  sentence: 最初東京にはいってくるものは、
+  words:
+    - word: 最初
+      postiion: 0
+    - word: 東京
+      postiion: 2
+    - word: に
+      postiion: 4
+    - word: はいっ
+      base: 入る
+      postiion: 5
+    - word: て
+      postiion: 8
+    - word: くる
+      base: 来る
+      postiion: 9
+    - word: もの
+      base: 物
+      postiion: 11
+    - word: は
+      postiion: 13
 - id: Wakaayuni Tsuite-f000015
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: 江州地方でいわゆるあゆの飴煮にするものであって、
-  word_list: [江州, 地方, で, いわゆる, あゆ, の, 飴煮, に, する, もの, で, あっ, て]
   sound: f000015.mp3
   sound_begin: 49200
   sound_end: 53844
+  sentence: 江州地方でいわゆるあゆの飴煮にするものであって、
+  words:
+    - word: 江州
+      postiion: 0
+    - word: 地方
+      postiion: 2
+    - word: で
+      postiion: 4
+    - word: いわゆる
+      base: 所謂
+      postiion: 5
+    - word: あゆ
+      base: 阿諛
+      postiion: 9
+    - word: の
+      postiion: 11
+    - word: 飴煮
+      postiion: 12
+    - word: に
+      postiion: 14
+    - word: する
+      base: 為る
+      postiion: 15
+    - word: もの
+      base: 物
+      postiion: 17
+    - word: で
+      base: だ
+      postiion: 19
+    - word: あっ
+      base: 有る
+      postiion: 20
+    - word: て
+      postiion: 22
 - id: Wakaayuni Tsuite-f000016
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: これはあまり美味なものではない。
-  word_list: [これ, は, あまり, 美味, な, もの, で, は, ない]
   sound: f000016.mp3
   sound_begin: 53844
   sound_end: 57594
+  sentence: これはあまり美味なものではない。
+  words:
+    - word: これ
+      base: 此れ
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: あまり
+      base: 余り
+      postiion: 3
+    - word: 美味
+      postiion: 6
+    - word: な
+      base: だ
+      postiion: 8
+    - word: もの
+      base: 物
+      postiion: 9
+    - word: で
+      base: だ
+      postiion: 11
+    - word: は
+      postiion: 12
+    - word: ない
+      base: 無い
+      postiion: 13
 - id: Wakaayuni Tsuite-f000017
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: あゆは不思議な魚で、
-  word_list: [あゆ, は, 不思議, な, 魚, で]
   sound: f000017.mp3
   sound_begin: 57594
   sound_end: 59720
+  sentence: あゆは不思議な魚で、
+  words:
+    - word: あゆ
+      base: 阿諛
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: 不思議
+      postiion: 3
+    - word: な
+      base: だ
+      postiion: 6
+    - word: 魚
+      postiion: 7
+    - word: で
+      base: だ
+      postiion: 8
 - id: Wakaayuni Tsuite-f000018
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: 水勢のないところでは大きくならない。
-  word_list: [水勢, の, ない, ところ, で, は, 大きく, なら, ない]
   sound: f000018.mp3
   sound_begin: 59720
   sound_end: 63461
+  sentence: 水勢のないところでは大きくならない。
+  words:
+    - word: 水勢
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: ない
+      base: 無い
+      postiion: 3
+    - word: ところ
+      base: 所
+      postiion: 5
+    - word: で
+      postiion: 8
+    - word: は
+      postiion: 9
+    - word: 大きく
+      base: 大きい
+      postiion: 10
+    - word: なら
+      base: 成る
+      postiion: 13
+    - word: ない
+      postiion: 15
 - id: Wakaayuni Tsuite-f000019
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: また同じ水勢であっても、
-  word_list: [また, 同じ, 水勢, で, あっ, て, も]
   sound: f000019.mp3
   sound_begin: 63461
   sound_end: 66080
+  sentence: また同じ水勢であっても、
+  words:
+    - word: また
+      base: 又
+      postiion: 0
+    - word: 同じ
+      postiion: 2
+    - word: 水勢
+      postiion: 4
+    - word: で
+      base: だ
+      postiion: 6
+    - word: あっ
+      base: 有る
+      postiion: 7
+    - word: て
+      postiion: 9
+    - word: も
+      postiion: 10
 - id: Wakaayuni Tsuite-f000020
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: 水質や餌の関係であろうか、
-  word_list: [水質, や, 餌, の, 関係, で, あろう, か]
   sound: f000020.mp3
   sound_begin: 66080
   sound_end: 68680
+  sentence: 水質や餌の関係であろうか、
+  words:
+    - word: 水質
+      postiion: 0
+    - word: や
+      postiion: 2
+    - word: 餌
+      postiion: 3
+    - word: の
+      postiion: 4
+    - word: 関係
+      postiion: 5
+    - word: で
+      base: だ
+      postiion: 7
+    - word: あろう
+      base: 有る
+      postiion: 8
+    - word: か
+      postiion: 11
 - id: Wakaayuni Tsuite-f000021
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: 川によって成長率が違う。
-  word_list: [川, に, よっ, て, 成長, 率, が, 違う]
   sound: f000021.mp3
   sound_begin: 68680
   sound_end: 73080
+  sentence: 川によって成長率が違う。
+  words:
+    - word: 川
+      postiion: 0
+    - word: に
+      postiion: 1
+    - word: よっ
+      base: よる
+      postiion: 2
+    - word: て
+      postiion: 4
+    - word: 成長
+      postiion: 5
+    - word: 率
+      postiion: 7
+    - word: が
+      postiion: 8
+    - word: 違う
+      postiion: 9
 - id: Wakaayuni Tsuite-f000022
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: 一般に大きな川のあゆは大きくなり、
-  word_list: [一般, に, 大きな, 川, の, あゆ, は, 大きく, なり]
   sound: f000022.mp3
   sound_begin: 73080
   sound_end: 76400
+  sentence: 一般に大きな川のあゆは大きくなり、
+  words:
+    - word: 一般
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: 大きな
+      postiion: 3
+    - word: 川
+      postiion: 6
+    - word: の
+      postiion: 7
+    - word: あゆ
+      base: 阿諛
+      postiion: 8
+    - word: は
+      postiion: 10
+    - word: 大きく
+      base: 大きい
+      postiion: 11
+    - word: なり
+      base: 成る
+      postiion: 14
 - id: Wakaayuni Tsuite-f000023
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: 小さな川のものは小さく育つようである。
-  word_list: [小さな, 川, の, もの, は, 小さく, 育つ, よう, で, ある]
   sound: f000023.mp3
   sound_begin: 76400
   sound_end: 82880
+  sentence: 小さな川のものは小さく育つようである。
+  words:
+    - word: 小さな
+      postiion: 0
+    - word: 川
+      postiion: 3
+    - word: の
+      postiion: 4
+    - word: もの
+      base: 物
+      postiion: 5
+    - word: は
+      postiion: 7
+    - word: 小さく
+      base: 小さい
+      postiion: 8
+    - word: 育つ
+      postiion: 11
+    - word: よう
+      base: 様
+      postiion: 13
+    - word: で
+      base: だ
+      postiion: 15
+    - word: ある
+      base: 有る
+      postiion: 16
 - id: Wakaayuni Tsuite-f000024
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: 琵琶湖のあゆは非常に小さく、
-  word_list: [琵琶湖, の, あゆ, は, 非常, に, 小さく]
   sound: f000024.mp3
   sound_begin: 82880
   sound_end: 85640
+  sentence: 琵琶湖のあゆは非常に小さく、
+  words:
+    - word: 琵琶湖
+      postiion: 0
+    - word: の
+      postiion: 3
+    - word: あゆ
+      base: 阿諛
+      postiion: 4
+    - word: は
+      postiion: 6
+    - word: 非常
+      postiion: 7
+    - word: に
+      base: だ
+      postiion: 9
+    - word: 小さく
+      base: 小さい
+      postiion: 10
 - id: Wakaayuni Tsuite-f000025
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: 一年経っても若あゆ以上に大きくならない。
-  word_list: [一, 年, 経っ, て, も, 若あゆ, 以上, に, 大きく, なら, ない]
   sound: f000025.mp3
   sound_begin: 85640
   sound_end: 90360
+  sentence: 一年経っても若あゆ以上に大きくならない。
+  words:
+    - word: 一
+      base: '1'
+      postiion: 0
+    - word: 年
+      postiion: 1
+    - word: 経っ
+      base: 経つ
+      postiion: 2
+    - word: て
+      postiion: 4
+    - word: も
+      postiion: 5
+    - word: 若あゆ
+      base: 若鮎
+      postiion: 6
+    - word: 以上
+      postiion: 9
+    - word: に
+      postiion: 11
+    - word: 大きく
+      base: 大きい
+      postiion: 12
+    - word: なら
+      base: 成る
+      postiion: 15
+    - word: ない
+      postiion: 17
 - id: Wakaayuni Tsuite-f000026
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: 大きくならないで一人前に子を持っている。
-  word_list: [大きく, なら, ない, で, 一人前, に, 子, を, 持っ, て, いる]
   sound: f000026.mp3
   sound_begin: 90360
   sound_end: 95280
+  sentence: 大きくならないで一人前に子を持っている。
+  words:
+    - word: 大きく
+      base: 大きい
+      postiion: 0
+    - word: なら
+      base: 成る
+      postiion: 3
+    - word: ない
+      postiion: 5
+    - word: で
+      postiion: 7
+    - word: 一人前
+      postiion: 8
+    - word: に
+      postiion: 11
+    - word: 子
+      postiion: 12
+    - word: を
+      postiion: 13
+    - word: 持っ
+      base: 持つ
+      postiion: 14
+    - word: て
+      postiion: 16
+    - word: いる
+      base: 居る
+      postiion: 17
 - id: Wakaayuni Tsuite-f000027
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: 昔は琵琶湖のあゆは他のあゆとはまったく種類が違うかと思われたが、
-  word_list: [昔, は, 琵琶湖, の, あゆ, は, 他, の, あゆ, と, は, まったく, 種類, が, 違う, か, と, 思わ, れ, た, が]
   sound: f000027.mp3
   sound_begin: 95280
   sound_end: 101760
+  sentence: 昔は琵琶湖のあゆは他のあゆとはまったく種類が違うかと思われたが、
+  words:
+    - word: 昔
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: 琵琶湖
+      postiion: 2
+    - word: の
+      postiion: 5
+    - word: あゆ
+      base: 阿諛
+      postiion: 6
+    - word: は
+      postiion: 8
+    - word: 他
+      postiion: 9
+    - word: の
+      postiion: 10
+    - word: あゆ
+      base: 阿諛
+      postiion: 11
+    - word: と
+      postiion: 13
+    - word: は
+      postiion: 14
+    - word: まったく
+      base: 全く
+      postiion: 15
+    - word: 種類
+      postiion: 19
+    - word: が
+      postiion: 21
+    - word: 違う
+      postiion: 22
+    - word: か
+      postiion: 24
+    - word: と
+      postiion: 25
+    - word: 思わ
+      base: 思う
+      postiion: 26
+    - word: れ
+      base: れる
+      postiion: 28
+    - word: た
+      postiion: 29
+    - word: が
+      postiion: 30
 - id: Wakaayuni Tsuite-f000028
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: その実、
-  word_list: [その, 実]
   sound: f000028.mp3
   sound_begin: 101760
   sound_end: 103122
+  sentence: その実、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 実
+      postiion: 2
 - id: Wakaayuni Tsuite-f000029
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: 琵琶湖で生まれた子あゆが江州から石山などを通って宇治川へ落ちて出ると、
-  word_list: [琵琶湖, で, 生まれ, た, 子, あゆ, が, 江州, から, 石山, など, を, 通っ, て, 宇治, 川, へ, 落ち, て, 出る, と]
   sound: f000029.mp3
   sound_begin: 103122
   sound_end: 109840
+  sentence: 琵琶湖で生まれた子あゆが江州から石山などを通って宇治川へ落ちて出ると、
+  words:
+    - word: 琵琶湖
+      postiion: 0
+    - word: で
+      postiion: 3
+    - word: 生まれ
+      base: 生まれる
+      postiion: 4
+    - word: た
+      postiion: 7
+    - word: 子
+      postiion: 8
+    - word: あゆ
+      base: 阿諛
+      postiion: 9
+    - word: が
+      postiion: 11
+    - word: 江州
+      postiion: 12
+    - word: から
+      postiion: 14
+    - word: 石山
+      postiion: 16
+    - word: など
+      postiion: 18
+    - word: を
+      postiion: 20
+    - word: 通っ
+      base: 通る
+      postiion: 21
+    - word: て
+      postiion: 23
+    - word: 宇治
+      postiion: 24
+    - word: 川
+      postiion: 26
+    - word: へ
+      postiion: 27
+    - word: 落ち
+      base: 落ちる
+      postiion: 28
+    - word: て
+      postiion: 30
+    - word: 出る
+      postiion: 31
+    - word: と
+      postiion: 33
 - id: Wakaayuni Tsuite-f000030
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: 立派に成長するらしい。
-  word_list: [立派, に, 成長, する, らしい]
   sound: f000030.mp3
   sound_begin: 109840
   sound_end: 113480
+  sentence: 立派に成長するらしい。
+  words:
+    - word: 立派
+      postiion: 0
+    - word: に
+      base: だ
+      postiion: 2
+    - word: 成長
+      postiion: 3
+    - word: する
+      base: 為る
+      postiion: 5
+    - word: らしい
+      postiion: 7
 - id: Wakaayuni Tsuite-f000031
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: それかあらぬか、
-  word_list: [それ, か, あら, ぬ, か]
   sound: f000031.mp3
   sound_begin: 113480
   sound_end: 114680
+  sentence: それかあらぬか、
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: か
+      postiion: 2
+    - word: あら
+      base: 有る
+      postiion: 3
+    - word: ぬ
+      base: ず
+      postiion: 5
+    - word: か
+      postiion: 6
 - id: Wakaayuni Tsuite-f000032
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: 琵琶湖で孵化したあゆの稚魚を地方の渓流へ放流すると、
-  word_list: [琵琶湖, で, 孵化, し, た, あゆ, の, 稚魚, を, 地方, の, 渓流, へ, 放流, する, と]
   sound: f000032.mp3
   sound_begin: 114680
   sound_end: 119400
+  sentence: 琵琶湖で孵化したあゆの稚魚を地方の渓流へ放流すると、
+  words:
+    - word: 琵琶湖
+      postiion: 0
+    - word: で
+      postiion: 3
+    - word: 孵化
+      postiion: 4
+    - word: し
+      base: 為る
+      postiion: 6
+    - word: た
+      postiion: 7
+    - word: あゆ
+      base: 阿諛
+      postiion: 8
+    - word: の
+      postiion: 10
+    - word: 稚魚
+      postiion: 11
+    - word: を
+      postiion: 13
+    - word: 地方
+      postiion: 14
+    - word: の
+      postiion: 16
+    - word: 渓流
+      postiion: 17
+    - word: へ
+      postiion: 19
+    - word: 放流
+      postiion: 20
+    - word: する
+      base: 為る
+      postiion: 22
+    - word: と
+      postiion: 24
 - id: Wakaayuni Tsuite-f000033
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: 通常のあゆ通り立派に成長することが分って、
-  word_list: [通常, の, あゆ, 通り, 立派, に, 成長, する, こと, が, 分っ, て]
   sound: f000033.mp3
   sound_begin: 119400
   sound_end: 123760
+  sentence: 通常のあゆ通り立派に成長することが分って、
+  words:
+    - word: 通常
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: あゆ
+      base: 阿諛
+      postiion: 3
+    - word: 通り
+      postiion: 5
+    - word: 立派
+      postiion: 7
+    - word: に
+      base: だ
+      postiion: 9
+    - word: 成長
+      postiion: 10
+    - word: する
+      base: 為る
+      postiion: 12
+    - word: こと
+      postiion: 14
+    - word: が
+      postiion: 16
+    - word: 分っ
+      base: 分かる
+      postiion: 17
+    - word: て
+      postiion: 19
 - id: Wakaayuni Tsuite-f000034
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: 近来は諸所で盛んに放魚が行われているようだ。
-  word_list: [近来, は, 諸所, で, 盛ん, に, 放, 魚, が, 行わ, れ, て, いる, よう, だ]
   sound: f000034.mp3
   sound_begin: 123760
   sound_end: 131039
+  sentence: 近来は諸所で盛んに放魚が行われているようだ。
+  words:
+    - word: 近来
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: 諸所
+      base: 諸処
+      postiion: 3
+    - word: で
+      postiion: 5
+    - word: 盛ん
+      postiion: 6
+    - word: に
+      base: だ
+      postiion: 8
+    - word: 放
+      base: 放し
+      postiion: 9
+    - word: 魚
+      postiion: 10
+    - word: が
+      postiion: 11
+    - word: 行わ
+      base: 行う
+      postiion: 12
+    - word: れ
+      base: れる
+      postiion: 14
+    - word: て
+      postiion: 15
+    - word: いる
+      base: 居る
+      postiion: 16
+    - word: よう
+      base: 様
+      postiion: 18
+    - word: だ
+      postiion: 20
 - id: Wakaayuni Tsuite-f000035
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: 琵琶湖では、
-  word_list: [琵琶湖, で, は]
   sound: f000035.mp3
   sound_begin: 131039
   sound_end: 132280
+  sentence: 琵琶湖では、
+  words:
+    - word: 琵琶湖
+      postiion: 0
+    - word: で
+      postiion: 3
+    - word: は
+      postiion: 4
 - id: Wakaayuni Tsuite-f000036
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: あゆの稚魚を茄でてひうおと呼んでいる。
-  word_list: [あゆ, の, 稚魚, を, 茄, で, て, ひ, うお, と, 呼ん, で, いる]
   sound: f000036.mp3
   sound_begin: 132280
   sound_end: 136232
+  sentence: あゆの稚魚を茄でてひうおと呼んでいる。
+  words:
+    - word: あゆ
+      base: 阿諛
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 稚魚
+      postiion: 3
+    - word: を
+      postiion: 5
+    - word: 茄
+      postiion: 6
+    - word: で
+      postiion: 7
+    - word: て
+      postiion: 8
+    - word: ひ
+      base: 一
+      postiion: 9
+    - word: うお
+      base: 魚
+      postiion: 10
+    - word: と
+      postiion: 12
+    - word: 呼ん
+      base: 呼ぶ
+      postiion: 13
+    - word: で
+      postiion: 15
+    - word: いる
+      base: 居る
+      postiion: 16
 - id: Wakaayuni Tsuite-f000037
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: このひうおの大ぶりなのが飴煮にされて来るもので、
-  word_list: [この, ひ, うお, の, 大ぶり, な, の, が, 飴煮, に, さ, れ, て, 来る, もの, で]
   sound: f000037.mp3
   sound_begin: 136232
   sound_end: 140920
+  sentence: このひうおの大ぶりなのが飴煮にされて来るもので、
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: ひ
+      postiion: 2
+    - word: うお
+      base: 魚
+      postiion: 3
+    - word: の
+      postiion: 5
+    - word: 大ぶり
+      base: 大振り
+      postiion: 6
+    - word: な
+      base: だ
+      postiion: 9
+    - word: の
+      postiion: 10
+    - word: が
+      postiion: 11
+    - word: 飴煮
+      postiion: 12
+    - word: に
+      postiion: 14
+    - word: さ
+      base: 為る
+      postiion: 15
+    - word: れ
+      base: れる
+      postiion: 16
+    - word: て
+      postiion: 17
+    - word: 来る
+      postiion: 18
+    - word: もの
+      base: 物
+      postiion: 20
+    - word: で
+      base: だ
+      postiion: 22
 - id: Wakaayuni Tsuite-f000038
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: 琵琶湖にはほとんど無限といってよいほど発生する。
-  word_list: [琵琶湖, に, は, ほとんど, 無限, と, いっ, て, よい, ほど, 発生, する]
   sound: f000038.mp3
   sound_begin: 140920
   sound_end: 145880
+  sentence: 琵琶湖にはほとんど無限といってよいほど発生する。
+  words:
+    - word: 琵琶湖
+      postiion: 0
+    - word: に
+      postiion: 3
+    - word: は
+      postiion: 4
+    - word: ほとんど
+      base: 殆ど
+      postiion: 5
+    - word: 無限
+      postiion: 9
+    - word: と
+      postiion: 11
+    - word: いっ
+      base: 言う
+      postiion: 12
+    - word: て
+      postiion: 14
+    - word: よい
+      base: 良い
+      postiion: 15
+    - word: ほど
+      postiion: 17
+    - word: 発生
+      postiion: 19
+    - word: する
+      base: 為る
+      postiion: 21
 - id: Wakaayuni Tsuite-f000039
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: それがこの頃では諸地方の大川へどしどし放流され、
-  word_list: [それ, が, この頃, で, は, 諸, 地方, の, 大川, へ, どしどし, 放流, さ, れ]
   sound: f000039.mp3
   sound_begin: 145880
   sound_end: 150800
+  sentence: それがこの頃では諸地方の大川へどしどし放流され、
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: が
+      postiion: 2
+    - word: この頃
+      base: 此の頃
+      postiion: 3
+    - word: で
+      postiion: 6
+    - word: は
+      postiion: 7
+    - word: 諸
+      postiion: 8
+    - word: 地方
+      postiion: 9
+    - word: の
+      postiion: 11
+    - word: 大川
+      postiion: 12
+    - word: へ
+      postiion: 14
+    - word: どしどし
+      postiion: 15
+    - word: 放流
+      postiion: 19
+    - word: さ
+      base: 為る
+      postiion: 21
+    - word: れ
+      base: れる
+      postiion: 22
 - id: Wakaayuni Tsuite-f000040
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: あゆの産出を全国的に増加させている。
-  word_list: [あゆ, の, 産出, を, 全国, 的, に, 増加, さ, せ, て, いる]
   sound: f000040.mp3
   sound_begin: 150800
   sound_end: 155202
+  sentence: あゆの産出を全国的に増加させている。
+  words:
+    - word: あゆ
+      base: 阿諛
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 産出
+      postiion: 3
+    - word: を
+      postiion: 5
+    - word: 全国
+      postiion: 6
+    - word: 的
+      postiion: 8
+    - word: に
+      base: だ
+      postiion: 9
+    - word: 増加
+      postiion: 10
+    - word: さ
+      base: 為る
+      postiion: 12
+    - word: せ
+      base: せる
+      postiion: 13
+    - word: て
+      postiion: 14
+    - word: いる
+      base: 居る
+      postiion: 15
 - id: Wakaayuni Tsuite-f000041
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: この点、
-  word_list: [この, 点]
   sound: f000041.mp3
   sound_begin: 155202
   sound_end: 156080
+  sentence: この点、
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: 点
+      postiion: 2
 - id: Wakaayuni Tsuite-f000042
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: あゆ党にとってはまことにありがたいことである。
-  word_list: [あゆ, 党, に, とっ, て, は, まこと, に, ありがたい, こと, で, ある]
   sound: f000042.mp3
   sound_begin: 156080
   sound_end: 161621
+  sentence: あゆ党にとってはまことにありがたいことである。
+  words:
+    - word: あゆ
+      base: 阿諛
+      postiion: 0
+    - word: 党
+      postiion: 2
+    - word: に
+      postiion: 3
+    - word: とっ
+      base: 取る
+      postiion: 4
+    - word: て
+      postiion: 6
+    - word: は
+      postiion: 7
+    - word: まこと
+      base: 真
+      postiion: 8
+    - word: に
+      postiion: 11
+    - word: ありがたい
+      base: 有り難い
+      postiion: 12
+    - word: こと
+      postiion: 17
+    - word: で
+      base: だ
+      postiion: 19
+    - word: ある
+      base: 有る
+      postiion: 20
 - id: Wakaayuni Tsuite-f000043
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: ところで、
-  word_list: [ところ, で]
   sound: f000043.mp3
   sound_begin: 161621
   sound_end: 162560
+  sentence: ところで、
+  words:
+    - word: ところ
+      base: 所
+      postiion: 0
+    - word: で
+      postiion: 3
 - id: Wakaayuni Tsuite-f000044
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: 前述の琵琶湖産のひうおなるものは、
-  word_list: [前述, の, 琵琶湖, 産, の, ひ, うお, なる, もの, は]
   sound: f000044.mp3
   sound_begin: 162560
   sound_end: 166200
+  sentence: 前述の琵琶湖産のひうおなるものは、
+  words:
+    - word: 前述
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 琵琶湖
+      postiion: 3
+    - word: 産
+      postiion: 6
+    - word: の
+      postiion: 7
+    - word: ひ
+      base: 一
+      postiion: 8
+    - word: うお
+      base: 魚
+      postiion: 9
+    - word: なる
+      base: なり
+      postiion: 11
+    - word: もの
+      base: 物
+      postiion: 13
+    - word: は
+      postiion: 15
 - id: Wakaayuni Tsuite-f000045
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: なんといっても小さすぎるから、
-  word_list: [なん, と, いっ, て, も, 小さ, すぎる, から]
   sound: f000045.mp3
   sound_begin: 166200
   sound_end: 168760
+  sentence: なんといっても小さすぎるから、
+  words:
+    - word: なん
+      base: 何
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: いっ
+      base: 言う
+      postiion: 3
+    - word: て
+      postiion: 5
+    - word: も
+      postiion: 6
+    - word: 小さ
+      base: 小さい
+      postiion: 7
+    - word: すぎる
+      base: 過ぎる
+      postiion: 9
+    - word: から
+      postiion: 12
 - id: Wakaayuni Tsuite-f000046
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: みた目の割合にうまくない。
-  word_list: [み, た, 目, の, 割合, に, うまく, ない]
   sound: f000046.mp3
   sound_begin: 168760
   sound_end: 171745
+  sentence: みた目の割合にうまくない。
+  words:
+    - word: み
+      base: 見る
+      postiion: 0
+    - word: た
+      postiion: 1
+    - word: 目
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: 割合
+      postiion: 4
+    - word: に
+      postiion: 6
+    - word: うまく
+      base: 旨い
+      postiion: 7
+    - word: ない
+      base: 無い
+      postiion: 10
 - id: Wakaayuni Tsuite-f000047
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: しかし、
-  word_list: [しかし]
   sound: f000047.mp3
   sound_begin: 171745
   sound_end: 172672
+  sentence: しかし、
+  words:
+    - word: しかし
+      base: 然し
+      postiion: 0
 - id: Wakaayuni Tsuite-f000048
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: このひうおも川に出て成長してからは一人前のあゆの味を備え、
-  word_list: [この, ひ, うお, も, 川, に, 出, て, 成長, し, て, から, は, 一人前, の, あゆ, の, 味, を, 備え]
   sound: f000048.mp3
   sound_begin: 172672
   sound_end: 178880
+  sentence: このひうおも川に出て成長してからは一人前のあゆの味を備え、
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: ひ
+      postiion: 2
+    - word: うお
+      base: 魚
+      postiion: 3
+    - word: も
+      postiion: 5
+    - word: 川
+      postiion: 6
+    - word: に
+      postiion: 7
+    - word: 出
+      base: 出る
+      postiion: 8
+    - word: て
+      postiion: 9
+    - word: 成長
+      postiion: 10
+    - word: し
+      base: 為る
+      postiion: 12
+    - word: て
+      postiion: 13
+    - word: から
+      postiion: 14
+    - word: は
+      postiion: 16
+    - word: 一人前
+      postiion: 17
+    - word: の
+      postiion: 20
+    - word: あゆ
+      base: 阿諛
+      postiion: 21
+    - word: の
+      postiion: 23
+    - word: 味
+      postiion: 24
+    - word: を
+      postiion: 25
+    - word: 備え
+      base: 備える
+      postiion: 26
 - id: Wakaayuni Tsuite-f000049
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: やはりうまい。
-  word_list: [やはり, うまい]
   sound: f000049.mp3
   sound_begin: 178880
   sound_end: 181506
+  sentence: やはりうまい。
+  words:
+    - word: やはり
+      base: 矢張り
+      postiion: 0
+    - word: うまい
+      base: 旨い
+      postiion: 3
 - id: Wakaayuni Tsuite-f000050
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: そこで、
-  word_list: [そこ, で]
   sound: f000050.mp3
   sound_begin: 181506
   sound_end: 182600
+  sentence: そこで、
+  words:
+    - word: そこ
+      base: 其処
+      postiion: 0
+    - word: で
+      postiion: 2
 - id: Wakaayuni Tsuite-f000051
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: 先の酒匂川の若あゆのことなども合わせて考えてみると、
-  word_list: [先, の, 酒匂川, の, 若あゆ, の, こと, など, も, 合わせ, て, 考え, て, みる, と]
   sound: f000051.mp3
   sound_begin: 182600
   sound_end: 187240
+  sentence: 先の酒匂川の若あゆのことなども合わせて考えてみると、
+  words:
+    - word: 先
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 酒匂川
+      postiion: 2
+    - word: の
+      postiion: 5
+    - word: 若あゆ
+      base: 若鮎
+      postiion: 6
+    - word: の
+      postiion: 9
+    - word: こと
+      postiion: 10
+    - word: など
+      postiion: 12
+    - word: も
+      postiion: 14
+    - word: 合わせ
+      base: 合う
+      postiion: 15
+    - word: て
+      postiion: 18
+    - word: 考え
+      base: 考える
+      postiion: 19
+    - word: て
+      postiion: 21
+    - word: みる
+      base: 見る
+      postiion: 22
+    - word: と
+      postiion: 24
 - id: Wakaayuni Tsuite-f000052
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: 若あゆなるものは結局琵琶湖のひうおではあゆらしいうまさはないが、
-  word_list: [若あゆ, なる, もの, は, 結局, 琵琶湖, の, ひ, うお, で, は, あゆ, らしい, うま, さ, は, ない, が]
   sound: f000052.mp3
   sound_begin: 187240
   sound_end: 194080
+  sentence: 若あゆなるものは結局琵琶湖のひうおではあゆらしいうまさはないが、
+  words:
+    - word: 若あゆ
+      base: 若鮎
+      postiion: 0
+    - word: なる
+      base: なり
+      postiion: 3
+    - word: もの
+      base: 物
+      postiion: 5
+    - word: は
+      postiion: 7
+    - word: 結局
+      postiion: 8
+    - word: 琵琶湖
+      postiion: 10
+    - word: の
+      postiion: 13
+    - word: ひ
+      base: 一
+      postiion: 14
+    - word: うお
+      base: 魚
+      postiion: 15
+    - word: で
+      postiion: 17
+    - word: は
+      postiion: 18
+    - word: あゆ
+      base: 阿諛
+      postiion: 19
+    - word: らしい
+      postiion: 21
+    - word: うま
+      base: 旨い
+      postiion: 24
+    - word: さ
+      postiion: 26
+    - word: は
+      postiion: 27
+    - word: ない
+      base: 無い
+      postiion: 28
+    - word: が
+      postiion: 30
 - id: Wakaayuni Tsuite-f000053
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: 初めから河川で発生したものはちょっとぐらいでも、
-  word_list: [初め, から, 河川, で, 発生, し, た, もの, は, ちょっと, ぐらい, で, も]
   sound: f000053.mp3
   sound_begin: 194080
   sound_end: 197920
+  sentence: 初めから河川で発生したものはちょっとぐらいでも、
+  words:
+    - word: 初め
+      postiion: 0
+    - word: から
+      postiion: 2
+    - word: 河川
+      postiion: 4
+    - word: で
+      postiion: 6
+    - word: 発生
+      postiion: 7
+    - word: し
+      base: 為る
+      postiion: 9
+    - word: た
+      postiion: 10
+    - word: もの
+      base: 物
+      postiion: 11
+    - word: は
+      postiion: 13
+    - word: ちょっと
+      base: 一寸
+      postiion: 14
+    - word: ぐらい
+      base: くらい
+      postiion: 18
+    - word: で
+      postiion: 21
+    - word: も
+      postiion: 22
 - id: Wakaayuni Tsuite-f000054
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: すでに立派な美食価値を持っている。
-  word_list: [すでに, 立派, な, 美食, 価値, を, 持っ, て, いる]
   sound: f000054.mp3
   sound_begin: 197920
   sound_end: 201360
+  sentence: すでに立派な美食価値を持っている。
+  words:
+    - word: すでに
+      base: 既に
+      postiion: 0
+    - word: 立派
+      postiion: 3
+    - word: な
+      base: だ
+      postiion: 5
+    - word: 美食
+      postiion: 6
+    - word: 価値
+      postiion: 8
+    - word: を
+      postiion: 10
+    - word: 持っ
+      base: 持つ
+      postiion: 11
+    - word: て
+      postiion: 13
+    - word: いる
+      base: 居る
+      postiion: 14
 - id: Wakaayuni Tsuite-f000055
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: いわば、
-  word_list: [いわば]
   sound: f000055.mp3
   sound_begin: 201360
   sound_end: 202240
+  sentence: いわば、
+  words:
+    - word: いわば
+      base: 言わば
+      postiion: 0
 - id: Wakaayuni Tsuite-f000056
   author_japanese: 北大路 魯山人
   deck_name: Wakaayuni Tsuite
   deck_name_japanese: 若鮎について
-  sentence: それぞれの川の味をもっているのだ。
-  word_list: [それぞれ, の, 川, の, 味, を, もっ, て, いる, の, だ]
   sound: f000056.mp3
   sound_begin: 202240
   sound_end: 205108
+  sentence: それぞれの川の味をもっているのだ。
+  words:
+    - word: それぞれ
+      base: 其々
+      postiion: 0
+    - word: の
+      postiion: 4
+    - word: 川
+      postiion: 5
+    - word: の
+      postiion: 6
+    - word: 味
+      postiion: 7
+    - word: を
+      postiion: 8
+    - word: もっ
+      base: 持つ
+      postiion: 9
+    - word: て
+      postiion: 11
+    - word: いる
+      base: 居る
+      postiion: 12
+    - word: の
+      postiion: 14
+    - word: だ
+      postiion: 15

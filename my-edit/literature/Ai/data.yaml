@@ -2,530 +2,1713 @@
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: 愛
-  word_list: [愛]
   sound: f000002.mp3
   sound_begin: 6119
   sound_end: 10738
+  sentence: 愛
+  words:
+    - word: 愛
+      postiion: 0
 - id: Ai-f000003
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: 愛ということばは、
-  word_list: [愛, と, いう, ことば, は]
   sound: f000003.mp3
   sound_begin: 10738
   sound_end: 12920
+  sentence: 愛ということばは、
+  words:
+    - word: 愛
+      postiion: 0
+    - word: と
+      postiion: 1
+    - word: いう
+      base: 言う
+      postiion: 2
+    - word: ことば
+      base: 言葉
+      postiion: 4
+    - word: は
+      postiion: 7
 - id: Ai-f000004
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: いつから人間の社会に発生したものでしょう。
-  word_list: [いつ, から, 人間, の, 社会, に, 発生, し, た, もの, でしょう]
   sound: f000004.mp3
   sound_begin: 12920
   sound_end: 18680
+  sentence: いつから人間の社会に発生したものでしょう。
+  words:
+    - word: いつ
+      postiion: 0
+    - word: から
+      postiion: 2
+    - word: 人間
+      postiion: 4
+    - word: の
+      postiion: 6
+    - word: 社会
+      postiion: 7
+    - word: に
+      postiion: 9
+    - word: 発生
+      postiion: 10
+    - word: し
+      base: 為る
+      postiion: 12
+    - word: た
+      postiion: 13
+    - word: もの
+      base: 物
+      postiion: 14
+    - word: でしょう
+      base: です
+      postiion: 16
 - id: Ai-f000005
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: 愛という言葉をもつようになった時期に、
-  word_list: [愛, と, いう, 言葉, を, もつ, よう, に, なっ, た, 時期, に]
   sound: f000005.mp3
   sound_begin: 18680
   sound_end: 21593
+  sentence: 愛という言葉をもつようになった時期に、
+  words:
+    - word: 愛
+      postiion: 0
+    - word: と
+      postiion: 1
+    - word: いう
+      base: 言う
+      postiion: 2
+    - word: 言葉
+      postiion: 4
+    - word: を
+      postiion: 6
+    - word: もつ
+      base: 持つ
+      postiion: 7
+    - word: よう
+      base: 様
+      postiion: 9
+    - word: に
+      base: だ
+      postiion: 11
+    - word: なっ
+      base: 成る
+      postiion: 12
+    - word: た
+      postiion: 14
+    - word: 時期
+      postiion: 15
+    - word: に
+      postiion: 17
 - id: Ai-f000006
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: 人類はともかく一つの飛躍をとげたと思います。
-  word_list: [人類, は, ともかく, 一, つ, の, 飛躍, を, とげ, た, と, 思い, ます]
   sound: f000006.mp3
   sound_begin: 21593
   sound_end: 28640
+  sentence: 人類はともかく一つの飛躍をとげたと思います。
+  words:
+    - word: 人類
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: ともかく
+      base: 兎も角
+      postiion: 3
+    - word: 一
+      base: '1'
+      postiion: 7
+    - word: つ
+      postiion: 8
+    - word: の
+      postiion: 9
+    - word: 飛躍
+      postiion: 10
+    - word: を
+      postiion: 12
+    - word: とげ
+      base: 遂げる
+      postiion: 13
+    - word: た
+      postiion: 15
+    - word: と
+      postiion: 16
+    - word: 思い
+      base: 思う
+      postiion: 17
+    - word: ます
+      postiion: 19
 - id: Ai-f000007
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: なぜなら、
-  word_list: [なぜ, なら]
   sound: f000007.mp3
   sound_begin: 28640
   sound_end: 30200
+  sentence: なぜなら、
+  words:
+    - word: なぜ
+      base: 何故
+      postiion: 0
+    - word: なら
+      base: だ
+      postiion: 2
 - id: Ai-f000008
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: 人間のほかの生きものは、
-  word_list: [人間, の, ほか, の, 生きもの, は]
   sound: f000008.mp3
   sound_begin: 30200
   sound_end: 32560
+  sentence: 人間のほかの生きものは、
+  words:
+    - word: 人間
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: ほか
+      base: 他
+      postiion: 3
+    - word: の
+      postiion: 5
+    - word: 生きもの
+      base: 生き物
+      postiion: 6
+    - word: は
+      postiion: 10
 - id: Ai-f000009
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: 愛の感覚によって行動しても、
-  word_list: [愛, の, 感覚, に, よっ, て, 行動, し, て, も]
   sound: f000009.mp3
   sound_begin: 32560
   sound_end: 35520
+  sentence: 愛の感覚によって行動しても、
+  words:
+    - word: 愛
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 感覚
+      postiion: 2
+    - word: に
+      postiion: 4
+    - word: よっ
+      base: よる
+      postiion: 5
+    - word: て
+      postiion: 7
+    - word: 行動
+      postiion: 8
+    - word: し
+      base: 為る
+      postiion: 10
+    - word: て
+      postiion: 11
+    - word: も
+      postiion: 12
 - id: Ai-f000010
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: 愛という言葉の表象によってまとめられた愛の観念はもっていませんから。
-  word_list: [愛, と, いう, 言葉, の, 表象, に, よっ, て, まとめ, られ, た, 愛, の, 観念, は, もっ, て, い, ませ, ん, から]
   sound: f000010.mp3
   sound_begin: 35520
   sound_end: 44400
+  sentence: 愛という言葉の表象によってまとめられた愛の観念はもっていませんから。
+  words:
+    - word: 愛
+      postiion: 0
+    - word: と
+      postiion: 1
+    - word: いう
+      base: 言う
+      postiion: 2
+    - word: 言葉
+      postiion: 4
+    - word: の
+      postiion: 6
+    - word: 表象
+      postiion: 7
+    - word: に
+      postiion: 9
+    - word: よっ
+      base: よる
+      postiion: 10
+    - word: て
+      postiion: 12
+    - word: まとめ
+      base: 纏める
+      postiion: 13
+    - word: られ
+      base: られる
+      postiion: 16
+    - word: た
+      postiion: 18
+    - word: 愛
+      postiion: 19
+    - word: の
+      postiion: 20
+    - word: 観念
+      postiion: 21
+    - word: は
+      postiion: 23
+    - word: もっ
+      base: 持つ
+      postiion: 24
+    - word: て
+      postiion: 26
+    - word: い
+      base: 居る
+      postiion: 27
+    - word: ませ
+      base: ます
+      postiion: 28
+    - word: ん
+      base: ず
+      postiion: 30
+    - word: から
+      postiion: 31
 - id: Ai-f000011
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: 更に、
-  word_list: [更に]
   sound: f000011.mp3
   sound_begin: 44400
   sound_end: 44960
+  sentence: 更に、
+  words:
+    - word: 更に
+      postiion: 0
 - id: Ai-f000012
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: その愛という言葉が、
-  word_list: [その, 愛, と, いう, 言葉, が]
   sound: f000012.mp3
   sound_begin: 44960
   sound_end: 48000
+  sentence: その愛という言葉が、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 愛
+      postiion: 2
+    - word: と
+      postiion: 3
+    - word: いう
+      base: 言う
+      postiion: 4
+    - word: 言葉
+      postiion: 6
+    - word: が
+      postiion: 8
 - id: Ai-f000013
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: 人間同士の思いちがいや、
-  word_list: [人間, 同士, の, 思いちがい, や]
   sound: f000013.mp3
   sound_begin: 48000
   sound_end: 50400
+  sentence: 人間同士の思いちがいや、
+  words:
+    - word: 人間
+      postiion: 0
+    - word: 同士
+      postiion: 2
+    - word: の
+      postiion: 4
+    - word: 思いちがい
+      base: 思い違い
+      postiion: 5
+    - word: や
+      postiion: 10
 - id: Ai-f000014
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: だましあいの媒介物となったのは、
-  word_list: [だましあい, の, 媒介, 物, と, なっ, た, の, は]
   sound: f000014.mp3
   sound_begin: 50400
   sound_end: 53520
+  sentence: だましあいの媒介物となったのは、
+  words:
+    - word: だましあい
+      base: 騙し合い
+      postiion: 0
+    - word: の
+      postiion: 5
+    - word: 媒介
+      postiion: 6
+    - word: 物
+      postiion: 8
+    - word: と
+      postiion: 9
+    - word: なっ
+      base: 成る
+      postiion: 10
+    - word: た
+      postiion: 12
+    - word: の
+      postiion: 13
+    - word: は
+      postiion: 14
 - id: Ai-f000015
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: いつの頃からでしょう。
-  word_list: [いつ, の, 頃, から, でしょう]
   sound: f000015.mp3
   sound_begin: 53520
   sound_end: 57800
+  sentence: いつの頃からでしょう。
+  words:
+    - word: いつ
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 頃
+      postiion: 3
+    - word: から
+      postiion: 4
+    - word: でしょう
+      base: です
+      postiion: 6
 - id: Ai-f000016
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: そして、
-  word_list: [そして]
   sound: f000016.mp3
   sound_begin: 57800
   sound_end: 59600
+  sentence: そして、
+  words:
+    - word: そして
+      postiion: 0
 - id: Ai-f000017
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: 愛という字が近代の偽善と自己欺瞞のシムボルのようになったのはいつの時代からでしょうか。
-  word_list: [愛, と, いう, 字, が, 近代, の, 偽善, と, 自己, 欺瞞, の, シムボル, の, よう, に, なっ, た, の, は, いつ, の, 時代, から, でしょう, か]
   sound: f000017.mp3
   sound_begin: 59600
   sound_end: 72281
+  sentence: 愛という字が近代の偽善と自己欺瞞のシムボルのようになったのはいつの時代からでしょうか。
+  words:
+    - word: 愛
+      postiion: 0
+    - word: と
+      postiion: 1
+    - word: いう
+      base: 言う
+      postiion: 2
+    - word: 字
+      postiion: 4
+    - word: が
+      postiion: 5
+    - word: 近代
+      postiion: 6
+    - word: の
+      postiion: 8
+    - word: 偽善
+      postiion: 9
+    - word: と
+      postiion: 11
+    - word: 自己
+      postiion: 12
+    - word: 欺瞞
+      postiion: 14
+    - word: の
+      postiion: 16
+    - word: シムボル
+      postiion: 17
+    - word: の
+      postiion: 21
+    - word: よう
+      base: 様
+      postiion: 22
+    - word: に
+      base: だ
+      postiion: 24
+    - word: なっ
+      base: 成る
+      postiion: 25
+    - word: た
+      postiion: 27
+    - word: の
+      postiion: 28
+    - word: は
+      postiion: 29
+    - word: いつ
+      postiion: 30
+    - word: の
+      postiion: 32
+    - word: 時代
+      postiion: 33
+    - word: から
+      postiion: 35
+    - word: でしょう
+      base: です
+      postiion: 37
+    - word: か
+      postiion: 41
 - id: Ai-f000018
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: 三文文士がこの字で幼稚な読者をごまかし、
-  word_list: [三, 文, 文士, が, この, 字, で, 幼稚, な, 読者, を, ごまかし]
   sound: f000018.mp3
   sound_begin: 72281
   sound_end: 78080
+  sentence: 三文文士がこの字で幼稚な読者をごまかし、
+  words:
+    - word: 三
+      base: '3'
+      postiion: 0
+    - word: 文
+      postiion: 1
+    - word: 文士
+      postiion: 2
+    - word: が
+      postiion: 4
+    - word: この
+      base: 此の
+      postiion: 5
+    - word: 字
+      postiion: 7
+    - word: で
+      postiion: 8
+    - word: 幼稚
+      postiion: 9
+    - word: な
+      base: だ
+      postiion: 11
+    - word: 読者
+      postiion: 12
+    - word: を
+      postiion: 14
+    - word: ごまかし
+      base: ごまかす
+      postiion: 15
 - id: Ai-f000019
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: 説教壇からこの字を叫んで戦争を煽動し、
-  word_list: [説教, 壇, から, この, 字, を, 叫ん, で, 戦争, を, 煽動, し]
   sound: f000019.mp3
   sound_begin: 78080
   sound_end: 83200
+  sentence: 説教壇からこの字を叫んで戦争を煽動し、
+  words:
+    - word: 説教
+      postiion: 0
+    - word: 壇
+      postiion: 2
+    - word: から
+      postiion: 3
+    - word: この
+      base: 此の
+      postiion: 5
+    - word: 字
+      postiion: 7
+    - word: を
+      postiion: 8
+    - word: 叫ん
+      base: 叫ぶ
+      postiion: 9
+    - word: で
+      postiion: 11
+    - word: 戦争
+      postiion: 12
+    - word: を
+      postiion: 14
+    - word: 煽動
+      base: 扇動
+      postiion: 15
+    - word: し
+      base: 為る
+      postiion: 17
 - id: Ai-f000020
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: 最も軽薄な愛人たちが、
-  word_list: [最も, 軽薄, な, 愛人, たち, が]
   sound: f000020.mp3
   sound_begin: 83200
   sound_end: 85600
+  sentence: 最も軽薄な愛人たちが、
+  words:
+    - word: 最も
+      postiion: 0
+    - word: 軽薄
+      postiion: 2
+    - word: な
+      base: だ
+      postiion: 4
+    - word: 愛人
+      postiion: 5
+    - word: たち
+      base: 達
+      postiion: 7
+    - word: が
+      postiion: 9
 - id: Ai-f000021
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: 彼等のさまざまなモメントに、
-  word_list: [彼, 等, の, さまざま, な, モメント, に]
   sound: f000021.mp3
   sound_begin: 85600
   sound_end: 88080
+  sentence: 彼等のさまざまなモメントに、
+  words:
+    - word: 彼
+      postiion: 0
+    - word: 等
+      postiion: 1
+    - word: の
+      postiion: 2
+    - word: さまざま
+      base: 様々
+      postiion: 3
+    - word: な
+      base: だ
+      postiion: 7
+    - word: モメント
+      base: モーメント
+      postiion: 8
+    - word: に
+      postiion: 12
 - id: Ai-f000022
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: 愛を囁いて、
-  word_list: [愛, を, 囁い, て]
   sound: f000022.mp3
   sound_begin: 88080
   sound_end: 89903
+  sentence: 愛を囁いて、
+  words:
+    - word: 愛
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: 囁い
+      base: 囁く
+      postiion: 2
+    - word: て
+      postiion: 4
 - id: Ai-f000023
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: 一人一人男や女をだましています。
-  word_list: [一人一人, 男, や, 女, を, だまし, て, い, ます]
   sound: f000023.mp3
   sound_begin: 89932
   sound_end: 97110
+  sentence: 一人一人男や女をだましています。
+  words:
+    - word: 一人一人
+      postiion: 0
+    - word: 男
+      postiion: 4
+    - word: や
+      postiion: 5
+    - word: 女
+      postiion: 6
+    - word: を
+      postiion: 7
+    - word: だまし
+      base: 騙す
+      postiion: 8
+    - word: て
+      postiion: 11
+    - word: い
+      base: 居る
+      postiion: 12
+    - word: ます
+      postiion: 13
 - id: Ai-f000024
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: 愛という字は、
-  word_list: [愛, と, いう, 字, は]
   sound: f000024.mp3
   sound_begin: 97110
   sound_end: 98480
+  sentence: 愛という字は、
+  words:
+    - word: 愛
+      postiion: 0
+    - word: と
+      postiion: 1
+    - word: いう
+      base: 言う
+      postiion: 2
+    - word: 字
+      postiion: 4
+    - word: は
+      postiion: 5
 - id: Ai-f000025
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: こんなきたならしい扱いをうけていていいでしょうか。
-  word_list: [こんな, きたならしい, 扱い, を, うけ, て, い, て, いい, でしょう, か]
   sound: f000025.mp3
   sound_begin: 98480
   sound_end: 107160
+  sentence: こんなきたならしい扱いをうけていていいでしょうか。
+  words:
+    - word: こんな
+      postiion: 0
+    - word: きたならしい
+      base: 汚らしい
+      postiion: 3
+    - word: 扱い
+      postiion: 9
+    - word: を
+      postiion: 11
+    - word: うけ
+      base: 受ける
+      postiion: 12
+    - word: て
+      postiion: 14
+    - word: い
+      base: 居る
+      postiion: 15
+    - word: て
+      postiion: 16
+    - word: いい
+      base: 良い
+      postiion: 17
+    - word: でしょう
+      base: です
+      postiion: 19
+    - word: か
+      postiion: 23
 - id: Ai-f000026
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: 愛という言葉をもったとき、
-  word_list: [愛, と, いう, 言葉, を, もっ, た, とき]
   sound: f000026.mp3
   sound_begin: 107160
   sound_end: 110520
+  sentence: 愛という言葉をもったとき、
+  words:
+    - word: 愛
+      postiion: 0
+    - word: と
+      postiion: 1
+    - word: いう
+      base: 言う
+      postiion: 2
+    - word: 言葉
+      postiion: 4
+    - word: を
+      postiion: 6
+    - word: もっ
+      base: 持つ
+      postiion: 7
+    - word: た
+      postiion: 9
+    - word: とき
+      base: 時
+      postiion: 10
 - id: Ai-f000027
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: 人間の悲劇ははじまりました。
-  word_list: [人間, の, 悲劇, は, はじまり, まし, た]
   sound: f000027.mp3
   sound_begin: 110520
   sound_end: 115280
+  sentence: 人間の悲劇ははじまりました。
+  words:
+    - word: 人間
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 悲劇
+      postiion: 3
+    - word: は
+      postiion: 5
+    - word: はじまり
+      base: 始まる
+      postiion: 6
+    - word: まし
+      base: ます
+      postiion: 10
+    - word: た
+      postiion: 12
 - id: Ai-f000028
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: 人類愛という声がやかましく叫ばれるときほど、
-  word_list: [人類, 愛, と, いう, 声, が, やかましく, 叫ば, れる, とき, ほど]
   sound: f000028.mp3
   sound_begin: 115280
   sound_end: 120280
+  sentence: 人類愛という声がやかましく叫ばれるときほど、
+  words:
+    - word: 人類
+      postiion: 0
+    - word: 愛
+      postiion: 2
+    - word: と
+      postiion: 3
+    - word: いう
+      base: 言う
+      postiion: 4
+    - word: 声
+      postiion: 6
+    - word: が
+      postiion: 7
+    - word: やかましく
+      base: 喧しい
+      postiion: 8
+    - word: 叫ば
+      base: 叫ぶ
+      postiion: 13
+    - word: れる
+      postiion: 15
+    - word: とき
+      base: 時
+      postiion: 17
+    - word: ほど
+      postiion: 19
 - id: Ai-f000029
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: 飢えや寒さや人情の刻薄がひどく、
-  word_list: [飢え, や, 寒, さ, や, 人情, の, 刻, 薄, が, ひどく]
   sound: f000029.mp3
   sound_begin: 120280
   sound_end: 125469
+  sentence: 飢えや寒さや人情の刻薄がひどく、
+  words:
+    - word: 飢え
+      postiion: 0
+    - word: や
+      postiion: 2
+    - word: 寒
+      base: 寒い
+      postiion: 3
+    - word: さ
+      postiion: 4
+    - word: や
+      postiion: 5
+    - word: 人情
+      postiion: 6
+    - word: の
+      postiion: 8
+    - word: 刻
+      postiion: 9
+    - word: 薄
+      postiion: 10
+    - word: が
+      postiion: 11
+    - word: ひどく
+      base: 酷い
+      postiion: 12
 - id: Ai-f000030
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: 階級の対立は鋭く、
-  word_list: [階級, の, 対立, は, 鋭く]
   sound: f000030.mp3
   sound_begin: 125469
   sound_end: 128800
+  sentence: 階級の対立は鋭く、
+  words:
+    - word: 階級
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 対立
+      postiion: 3
+    - word: は
+      postiion: 5
+    - word: 鋭く
+      base: 鋭い
+      postiion: 6
 - id: Ai-f000031
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: 非条理は横行します。
-  word_list: [非, 条理, は, 横行, し, ます]
   sound: f000031.mp3
   sound_begin: 128800
   sound_end: 134177
+  sentence: 非条理は横行します。
+  words:
+    - word: 非
+      postiion: 0
+    - word: 条理
+      postiion: 1
+    - word: は
+      postiion: 3
+    - word: 横行
+      postiion: 4
+    - word: し
+      base: 為る
+      postiion: 6
+    - word: ます
+      postiion: 7
 - id: Ai-f000032
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: わたしは、
-  word_list: [わたし, は]
   sound: f000032.mp3
   sound_begin: 134177
   sound_end: 136760
+  sentence: わたしは、
+  words:
+    - word: わたし
+      base: 私
+      postiion: 0
+    - word: は
+      postiion: 3
 - id: Ai-f000033
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: 愛を愛します。
-  word_list: [愛, を, 愛し, ます]
   sound: f000033.mp3
   sound_begin: 136760
   sound_end: 139520
+  sentence: 愛を愛します。
+  words:
+    - word: 愛
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: 愛し
+      base: 愛する
+      postiion: 2
+    - word: ます
+      postiion: 4
 - id: Ai-f000034
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: ですから、
-  word_list: [です, から]
   sound: f000034.mp3
   sound_begin: 139520
   sound_end: 140360
+  sentence: ですから、
+  words:
+    - word: です
+      postiion: 0
+    - word: から
+      postiion: 2
 - id: Ai-f000035
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: このドロドロのなかに溺れている人間の愛をすくい出したいと思います。
-  word_list: [この, ドロドロ, の, なか, に, 溺れ, て, いる, 人間, の, 愛, を, すくい, 出し, たい, と, 思い, ます]
   sound: f000035.mp3
   sound_begin: 140360
   sound_end: 149280
+  sentence: このドロドロのなかに溺れている人間の愛をすくい出したいと思います。
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: ドロドロ
+      base: どろどろ
+      postiion: 2
+    - word: の
+      postiion: 6
+    - word: なか
+      base: 中
+      postiion: 7
+    - word: に
+      postiion: 9
+    - word: 溺れ
+      base: 溺れる
+      postiion: 10
+    - word: て
+      postiion: 12
+    - word: いる
+      base: 居る
+      postiion: 13
+    - word: 人間
+      postiion: 15
+    - word: の
+      postiion: 17
+    - word: 愛
+      postiion: 18
+    - word: を
+      postiion: 19
+    - word: すくい
+      base: すくう
+      postiion: 20
+    - word: 出し
+      base: 出す
+      postiion: 23
+    - word: たい
+      postiion: 25
+    - word: と
+      postiion: 27
+    - word: 思い
+      base: 思う
+      postiion: 28
+    - word: ます
+      postiion: 30
 - id: Ai-f000036
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: どうしたら、
-  word_list: [どう, し, たら]
   sound: f000036.mp3
   sound_begin: 149280
   sound_end: 149800
+  sentence: どうしたら、
+  words:
+    - word: どう
+      postiion: 0
+    - word: し
+      base: 為る
+      postiion: 2
+    - word: たら
+      base: た
+      postiion: 3
 - id: Ai-f000037
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: それが可能でしょうか。
-  word_list: [それ, が, 可能, でしょう, か]
   sound: f000037.mp3
   sound_begin: 149800
   sound_end: 153680
+  sentence: それが可能でしょうか。
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: が
+      postiion: 2
+    - word: 可能
+      postiion: 3
+    - word: でしょう
+      base: です
+      postiion: 5
+    - word: か
+      postiion: 9
 - id: Ai-f000038
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: わたしの方法は、
-  word_list: [わたし, の, 方法, は]
   sound: f000038.mp3
   sound_begin: 153680
   sound_end: 155880
+  sentence: わたしの方法は、
+  words:
+    - word: わたし
+      base: 私
+      postiion: 0
+    - word: の
+      postiion: 3
+    - word: 方法
+      postiion: 4
+    - word: は
+      postiion: 6
 - id: Ai-f000039
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: 愛という観念を、
-  word_list: [愛, と, いう, 観念, を]
   sound: f000039.mp3
   sound_begin: 155880
   sound_end: 157880
+  sentence: 愛という観念を、
+  words:
+    - word: 愛
+      postiion: 0
+    - word: と
+      postiion: 1
+    - word: いう
+      base: 言う
+      postiion: 2
+    - word: 観念
+      postiion: 4
+    - word: を
+      postiion: 6
 - id: Ai-f000040
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: あっち側から扱う方法です。
-  word_list: [あっち側, から, 扱う, 方法, です]
   sound: f000040.mp3
   sound_begin: 157880
   sound_end: 163600
+  sentence: あっち側から扱う方法です。
+  words:
+    - word: あっち側
+      base: 彼方側
+      postiion: 0
+    - word: から
+      postiion: 4
+    - word: 扱う
+      postiion: 6
+    - word: 方法
+      postiion: 8
+    - word: です
+      postiion: 10
 - id: Ai-f000041
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: 人間らしくないすべての事情、
-  word_list: [人間, らしく, ない, すべて, の, 事情]
   sound: f000041.mp3
   sound_begin: 163600
   sound_end: 167880
+  sentence: 人間らしくないすべての事情、
+  words:
+    - word: 人間
+      postiion: 0
+    - word: らしく
+      base: らしい
+      postiion: 2
+    - word: ない
+      base: 無い
+      postiion: 5
+    - word: すべて
+      base: 全て
+      postiion: 7
+    - word: の
+      postiion: 10
+    - word: 事情
+      postiion: 11
 - id: Ai-f000042
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: 人間らしくないすべての理窟とすべての欺瞞を憎みます。
-  word_list: [人間, らしく, ない, すべて, の, 理窟, と, すべて, の, 欺瞞, を, 憎み, ます]
   sound: f000042.mp3
   sound_begin: 167880
   sound_end: 177280
+  sentence: 人間らしくないすべての理窟とすべての欺瞞を憎みます。
+  words:
+    - word: 人間
+      postiion: 0
+    - word: らしく
+      base: らしい
+      postiion: 2
+    - word: ない
+      base: 無い
+      postiion: 5
+    - word: すべて
+      base: 全て
+      postiion: 7
+    - word: の
+      postiion: 10
+    - word: 理窟
+      base: 理屈
+      postiion: 11
+    - word: と
+      postiion: 13
+    - word: すべて
+      base: 全て
+      postiion: 14
+    - word: の
+      postiion: 17
+    - word: 欺瞞
+      postiion: 18
+    - word: を
+      postiion: 20
+    - word: 憎み
+      base: 憎む
+      postiion: 21
+    - word: ます
+      postiion: 23
 - id: Ai-f000043
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: 愛という感情が真実わたしたちの心に働いているとき、
-  word_list: [愛, と, いう, 感情, が, 真実, わたし, たち, の, 心, に, 働い, て, いる, とき]
   sound: f000043.mp3
   sound_begin: 177280
   sound_end: 184159
+  sentence: 愛という感情が真実わたしたちの心に働いているとき、
+  words:
+    - word: 愛
+      postiion: 0
+    - word: と
+      postiion: 1
+    - word: いう
+      base: 言う
+      postiion: 2
+    - word: 感情
+      postiion: 4
+    - word: が
+      postiion: 6
+    - word: 真実
+      postiion: 7
+    - word: わたし
+      base: 私
+      postiion: 9
+    - word: たち
+      base: 達
+      postiion: 12
+    - word: の
+      postiion: 14
+    - word: 心
+      postiion: 15
+    - word: に
+      postiion: 16
+    - word: 働い
+      base: 働く
+      postiion: 17
+    - word: て
+      postiion: 19
+    - word: いる
+      base: 居る
+      postiion: 20
+    - word: とき
+      base: 時
+      postiion: 22
 - id: Ai-f000044
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: どうして漫画のように肥った両手をあわせて膝をつき、
-  word_list: [どう, し, て, 漫画, の, よう, に, 肥っ, た, 両手, を, あわせ, て, 膝, を, つき]
   sound: f000044.mp3
   sound_begin: 184159
   sound_end: 189640
+  sentence: どうして漫画のように肥った両手をあわせて膝をつき、
+  words:
+    - word: どう
+      postiion: 0
+    - word: し
+      base: 為る
+      postiion: 2
+    - word: て
+      postiion: 3
+    - word: 漫画
+      postiion: 4
+    - word: の
+      postiion: 6
+    - word: よう
+      base: 様
+      postiion: 7
+    - word: に
+      base: だ
+      postiion: 9
+    - word: 肥っ
+      base: 太る
+      postiion: 10
+    - word: た
+      postiion: 12
+    - word: 両手
+      postiion: 13
+    - word: を
+      postiion: 15
+    - word: あわせ
+      base: 合う
+      postiion: 16
+    - word: て
+      postiion: 19
+    - word: 膝
+      postiion: 20
+    - word: を
+      postiion: 21
+    - word: つき
+      base: つく
+      postiion: 22
 - id: Ai-f000045
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: 存在しもしない何かに向って上眼をつかっていられましょう。
-  word_list: [存在, しも, し, ない, 何, か, に, 向っ, て, 上眼, を, つかっ, て, い, られ, ましょう]
   sound: f000045.mp3
   sound_begin: 189640
   sound_end: 198133
+  sentence: 存在しもしない何かに向って上眼をつかっていられましょう。
+  words:
+    - word: 存在
+      postiion: 0
+    - word: しも
+      postiion: 2
+    - word: し
+      base: 為る
+      postiion: 2
+    - word: ない
+      postiion: 5
+    - word: 何
+      postiion: 7
+    - word: か
+      postiion: 8
+    - word: に
+      postiion: 9
+    - word: 向っ
+      base: 向かう
+      postiion: 10
+    - word: て
+      postiion: 12
+    - word: 上眼
+      base: 上目
+      postiion: 13
+    - word: を
+      postiion: 15
+    - word: つかっ
+      base: 浸かる
+      postiion: 16
+    - word: て
+      postiion: 19
+    - word: い
+      base: 居る
+      postiion: 20
+    - word: られ
+      base: られる
+      postiion: 21
+    - word: ましょう
+      base: ます
+      postiion: 23
 - id: Ai-f000046
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: この社会にあっては条理にあわないことを、
-  word_list: [この, 社会, に, あっ, て, は, 条理, に, あわ, ない, こと, を]
   sound: f000046.mp3
   sound_begin: 198133
   sound_end: 201957
+  sentence: この社会にあっては条理にあわないことを、
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: 社会
+      postiion: 2
+    - word: に
+      postiion: 4
+    - word: あっ
+      base: 有る
+      postiion: 5
+    - word: て
+      postiion: 7
+    - word: は
+      postiion: 8
+    - word: 条理
+      postiion: 9
+    - word: に
+      postiion: 11
+    - word: あわ
+      base: あう
+      postiion: 12
+    - word: ない
+      postiion: 14
+    - word: こと
+      postiion: 16
+    - word: を
+      postiion: 18
 - id: Ai-f000047
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: ないようにしてゆくこと。
-  word_list: [ない, よう, に, し, て, ゆく, こと]
   sound: f000047.mp3
   sound_begin: 201957
   sound_end: 206120
+  sentence: ないようにしてゆくこと。
+  words:
+    - word: ない
+      base: 無い
+      postiion: 0
+    - word: よう
+      base: 様
+      postiion: 2
+    - word: に
+      base: だ
+      postiion: 4
+    - word: し
+      base: 為る
+      postiion: 5
+    - word: て
+      postiion: 6
+    - word: ゆく
+      base: 行く
+      postiion: 7
+    - word: こと
+      postiion: 9
 - id: Ai-f000048
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: 憎むべきものを凜然として憎むこと。
-  word_list: [憎む, べき, もの, を, 凜然, と, し, て, 憎む, こと]
   sound: f000048.mp3
   sound_begin: 206120
   sound_end: 211342
+  sentence: 憎むべきものを凜然として憎むこと。
+  words:
+    - word: 憎む
+      postiion: 0
+    - word: べき
+      base: べし
+      postiion: 2
+    - word: もの
+      base: 物
+      postiion: 4
+    - word: を
+      postiion: 6
+    - word: 凜然
+      base: 凛然
+      postiion: 7
+    - word: と
+      postiion: 9
+    - word: し
+      base: 為る
+      postiion: 10
+    - word: て
+      postiion: 11
+    - word: 憎む
+      postiion: 12
+    - word: こと
+      postiion: 14
 - id: Ai-f000049
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: その心の力がなくて、
-  word_list: [その, 心, の, 力, が, なく, て]
   sound: f000049.mp3
   sound_begin: 211342
   sound_end: 213920
+  sentence: その心の力がなくて、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 心
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: 力
+      postiion: 4
+    - word: が
+      postiion: 5
+    - word: なく
+      base: 無い
+      postiion: 6
+    - word: て
+      postiion: 8
 - id: Ai-f000050
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: どこに愛が支えをもつでしょうか。
-  word_list: [どこ, に, 愛, が, 支え, を, もつ, でしょう, か]
   sound: f000050.mp3
   sound_begin: 213920
   sound_end: 222360
+  sentence: どこに愛が支えをもつでしょうか。
+  words:
+    - word: どこ
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: 愛
+      postiion: 3
+    - word: が
+      postiion: 4
+    - word: 支え
+      postiion: 5
+    - word: を
+      postiion: 7
+    - word: もつ
+      base: 持つ
+      postiion: 8
+    - word: でしょう
+      base: です
+      postiion: 10
+    - word: か
+      postiion: 14
 - id: Ai-f000051
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: 愛とか幸福とか、
-  word_list: [愛, と, か, 幸福, と, か]
   sound: f000051.mp3
   sound_begin: 222360
   sound_end: 225080
+  sentence: 愛とか幸福とか、
+  words:
+    - word: 愛
+      postiion: 0
+    - word: と
+      postiion: 1
+    - word: か
+      postiion: 2
+    - word: 幸福
+      postiion: 3
+    - word: と
+      postiion: 5
+    - word: か
+      postiion: 6
 - id: Ai-f000052
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: いつも人間がこの社会矛盾の間で生きながら渇望している感覚によって、
-  word_list: [いつも, 人間, が, この, 社会, 矛盾, の, 間, で, 生き, ながら, 渇望, し, て, いる, 感覚, に, よっ, て]
   sound: f000052.mp3
   sound_begin: 225080
   sound_end: 231760
+  sentence: いつも人間がこの社会矛盾の間で生きながら渇望している感覚によって、
+  words:
+    - word: いつも
+      postiion: 0
+    - word: 人間
+      postiion: 3
+    - word: が
+      postiion: 5
+    - word: この
+      base: 此の
+      postiion: 6
+    - word: 社会
+      postiion: 8
+    - word: 矛盾
+      postiion: 10
+    - word: の
+      postiion: 12
+    - word: 間
+      postiion: 13
+    - word: で
+      postiion: 14
+    - word: 生き
+      base: 生きる
+      postiion: 15
+    - word: ながら
+      postiion: 17
+    - word: 渇望
+      postiion: 20
+    - word: し
+      base: 為る
+      postiion: 22
+    - word: て
+      postiion: 23
+    - word: いる
+      base: 居る
+      postiion: 24
+    - word: 感覚
+      postiion: 26
+    - word: に
+      postiion: 28
+    - word: よっ
+      base: よる
+      postiion: 29
+    - word: て
+      postiion: 31
 - id: Ai-f000053
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: 私たちがわれとわが身をだましてゆくことを、
-  word_list: [私, たち, が, われ, と, わが, 身, を, だまし, て, ゆく, こと, を]
   sound: f000053.mp3
   sound_begin: 231760
   sound_end: 236920
+  sentence: 私たちがわれとわが身をだましてゆくことを、
+  words:
+    - word: 私
+      postiion: 0
+    - word: たち
+      base: 達
+      postiion: 1
+    - word: が
+      postiion: 3
+    - word: われ
+      base: 我
+      postiion: 4
+    - word: と
+      postiion: 6
+    - word: わが
+      base: 我が
+      postiion: 7
+    - word: 身
+      postiion: 9
+    - word: を
+      postiion: 10
+    - word: だまし
+      base: 騙す
+      postiion: 11
+    - word: て
+      postiion: 14
+    - word: ゆく
+      base: 行く
+      postiion: 15
+    - word: こと
+      postiion: 17
+    - word: を
+      postiion: 19
 - id: Ai-f000054
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: はっきり拒絶したいと思います。
-  word_list: [はっきり, 拒絶, し, たい, と, 思い, ます]
   sound: f000054.mp3
   sound_begin: 236920
   sound_end: 244200
+  sentence: はっきり拒絶したいと思います。
+  words:
+    - word: はっきり
+      postiion: 0
+    - word: 拒絶
+      postiion: 4
+    - word: し
+      base: 為る
+      postiion: 6
+    - word: たい
+      postiion: 7
+    - word: と
+      postiion: 9
+    - word: 思い
+      base: 思う
+      postiion: 10
+    - word: ます
+      postiion: 12
 - id: Ai-f000055
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: 愛が聖らかであるなら、
-  word_list: [愛, が, 聖, ら, か, で, ある, なら]
   sound: f000055.mp3
   sound_begin: 244200
   sound_end: 247040
+  sentence: 愛が聖らかであるなら、
+  words:
+    - word: 愛
+      postiion: 0
+    - word: が
+      postiion: 1
+    - word: 聖
+      postiion: 2
+    - word: ら
+      base: 等
+      postiion: 3
+    - word: か
+      postiion: 4
+    - word: で
+      base: だ
+      postiion: 5
+    - word: ある
+      base: 有る
+      postiion: 6
+    - word: なら
+      base: だ
+      postiion: 8
 - id: Ai-f000056
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: それは純潔な怒りと憎悪と適切な行動に支えられたときだけです。
-  word_list: [それ, は, 純潔, な, 怒り, と, 憎悪, と, 適切, な, 行動, に, 支え, られ, た, とき, だけ, です]
   sound: f000056.mp3
   sound_begin: 247040
   sound_end: 259720
+  sentence: それは純潔な怒りと憎悪と適切な行動に支えられたときだけです。
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: 純潔
+      postiion: 3
+    - word: な
+      base: だ
+      postiion: 5
+    - word: 怒り
+      postiion: 6
+    - word: と
+      postiion: 8
+    - word: 憎悪
+      postiion: 9
+    - word: と
+      postiion: 11
+    - word: 適切
+      postiion: 12
+    - word: な
+      base: だ
+      postiion: 14
+    - word: 行動
+      postiion: 15
+    - word: に
+      postiion: 17
+    - word: 支え
+      base: 支える
+      postiion: 18
+    - word: られ
+      base: られる
+      postiion: 20
+    - word: た
+      postiion: 22
+    - word: とき
+      base: 時
+      postiion: 23
+    - word: だけ
+      postiion: 25
+    - word: です
+      postiion: 27
 - id: Ai-f000057
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: そして、
-  word_list: [そして]
   sound: f000057.mp3
   sound_begin: 259720
   sound_end: 261560
+  sentence: そして、
+  words:
+    - word: そして
+      postiion: 0
 - id: Ai-f000058
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: 現代の常識として忘れてならぬ一つのことは、
-  word_list: [現代, の, 常識, と, し, て, 忘れ, て, なら, ぬ, 一, つ, の, こと, は]
   sound: f000058.mp3
   sound_begin: 261560
   sound_end: 267160
+  sentence: 現代の常識として忘れてならぬ一つのことは、
+  words:
+    - word: 現代
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 常識
+      postiion: 3
+    - word: と
+      postiion: 5
+    - word: し
+      base: 為る
+      postiion: 6
+    - word: て
+      postiion: 7
+    - word: 忘れ
+      base: 忘れる
+      postiion: 8
+    - word: て
+      postiion: 10
+    - word: なら
+      base: 成る
+      postiion: 11
+    - word: ぬ
+      base: ず
+      postiion: 13
+    - word: 一
+      base: '1'
+      postiion: 14
+    - word: つ
+      postiion: 15
+    - word: の
+      postiion: 16
+    - word: こと
+      postiion: 17
+    - word: は
+      postiion: 19
 - id: Ai-f000059
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: 愛にも階級性があるという、
-  word_list: [愛, に, も, 階級, 性, が, ある, と, いう]
   sound: f000059.mp3
   sound_begin: 267160
   sound_end: 270061
+  sentence: 愛にも階級性があるという、
+  words:
+    - word: 愛
+      postiion: 0
+    - word: に
+      postiion: 1
+    - word: も
+      postiion: 2
+    - word: 階級
+      postiion: 3
+    - word: 性
+      postiion: 5
+    - word: が
+      postiion: 6
+    - word: ある
+      base: 有る
+      postiion: 7
+    - word: と
+      postiion: 9
+    - word: いう
+      base: 言う
+      postiion: 10
 - id: Ai-f000060
   author_japanese: 宮本 百合子
   deck_name: Ai
   deck_name_japanese: 愛
-  sentence: 無愛想な真実です。
-  word_list: [無, 愛想, な, 真実, です]
   sound: f000060.mp3
   sound_begin: 270061
   sound_end: 273914
+  sentence: 無愛想な真実です。
+  words:
+    - word: 無
+      postiion: 0
+    - word: 愛想
+      postiion: 1
+    - word: な
+      base: だ
+      postiion: 3
+    - word: 真実
+      postiion: 4
+    - word: です
+      postiion: 6

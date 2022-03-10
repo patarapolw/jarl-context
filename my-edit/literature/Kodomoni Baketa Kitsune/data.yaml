@@ -2,1331 +2,3755 @@
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 子供に化けた狐
-  word_list: [子供, に, 化け, た, 狐]
   sound: f000002.mp3
   sound_begin: 6188
   sound_end: 8496
+  sentence: 子供に化けた狐
+  words:
+    - word: 子供
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: 化け
+      base: 化ける
+      postiion: 3
+    - word: た
+      postiion: 5
+    - word: 狐
+      postiion: 6
 - id: Kodomoni Baketa Kitsune-f000003
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 子供に化けて、
-  word_list: [子供, に, 化け, て]
   sound: f000003.mp3
   sound_begin: 11640
   sound_end: 13360
+  sentence: 子供に化けて、
+  words:
+    - word: 子供
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: 化け
+      base: 化ける
+      postiion: 3
+    - word: て
+      postiion: 5
 - id: Kodomoni Baketa Kitsune-f000004
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 大人をだます悪い狐がをりました。
-  word_list: [大人, を, だます, 悪い, 狐, が, をり, まし, た]
   sound: f000004.mp3
   sound_begin: 13360
   sound_end: 18440
+  sentence: 大人をだます悪い狐がをりました。
+  words:
+    - word: 大人
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: だます
+      base: 騙す
+      postiion: 3
+    - word: 悪い
+      postiion: 6
+    - word: 狐
+      postiion: 8
+    - word: が
+      postiion: 9
+    - word: をり
+      base: 居る
+      postiion: 10
+    - word: まし
+      base: ます
+      postiion: 12
+    - word: た
+      postiion: 14
 - id: Kodomoni Baketa Kitsune-f000005
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 三五郎と云ふ百姓が、
-  word_list: [三五郎, と, 云ふ, 百姓, が]
   sound: f000005.mp3
   sound_begin: 21240
   sound_end: 23463
+  sentence: 三五郎と云ふ百姓が、
+  words:
+    - word: 三五郎
+      postiion: 0
+    - word: と
+      postiion: 3
+    - word: 云ふ
+      base: 言う
+      postiion: 4
+    - word: 百姓
+      postiion: 6
+    - word: が
+      postiion: 8
 - id: Kodomoni Baketa Kitsune-f000006
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 馬を曳いて帰つて来ますと、
-  word_list: [馬, を, 曳い, て, 帰つ, て, 来, ます, と]
   sound: f000006.mp3
   sound_begin: 23463
   sound_end: 26735
+  sentence: 馬を曳いて帰つて来ますと、
+  words:
+    - word: 馬
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: 曳い
+      base: 引く
+      postiion: 2
+    - word: て
+      postiion: 4
+    - word: 帰つ
+      base: 帰る
+      postiion: 5
+    - word: て
+      postiion: 7
+    - word: 来
+      base: 来る
+      postiion: 8
+    - word: ます
+      postiion: 9
+    - word: と
+      postiion: 11
 - id: Kodomoni Baketa Kitsune-f000007
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 道の端に七八つ位の一人の子供が泣いてゐました。
-  word_list: [道, の, 端, に, 七八, つ, 位, の, 一人, の, 子供, が, 泣い, て, ゐ, まし, た]
   sound: f000007.mp3
   sound_begin: 26735
   sound_end: 34600
+  sentence: 道の端に七八つ位の一人の子供が泣いてゐました。
+  words:
+    - word: 道
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 端
+      postiion: 2
+    - word: に
+      postiion: 3
+    - word: 七八
+      base: '78'
+      postiion: 4
+    - word: つ
+      postiion: 6
+    - word: 位
+      postiion: 7
+    - word: の
+      postiion: 8
+    - word: 一人
+      postiion: 9
+    - word: の
+      postiion: 11
+    - word: 子供
+      postiion: 12
+    - word: が
+      postiion: 14
+    - word: 泣い
+      base: 泣く
+      postiion: 15
+    - word: て
+      postiion: 17
+    - word: ゐ
+      base: 居る
+      postiion: 18
+    - word: まし
+      base: ます
+      postiion: 19
+    - word: た
+      postiion: 21
 - id: Kodomoni Baketa Kitsune-f000008
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 三五郎は、
-  word_list: [三五郎, は]
   sound: f000008.mp3
   sound_begin: 34600
   sound_end: 36154
+  sentence: 三五郎は、
+  words:
+    - word: 三五郎
+      postiion: 0
+    - word: は
+      postiion: 3
 - id: Kodomoni Baketa Kitsune-f000009
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 狐が化けてゐるのだと気づきましたから、
-  word_list: [狐, が, 化け, て, ゐる, の, だ, と, 気づき, まし, た, から]
   sound: f000009.mp3
   sound_begin: 36154
   sound_end: 39880
+  sentence: 狐が化けてゐるのだと気づきましたから、
+  words:
+    - word: 狐
+      postiion: 0
+    - word: が
+      postiion: 1
+    - word: 化け
+      base: 化ける
+      postiion: 2
+    - word: て
+      postiion: 4
+    - word: ゐる
+      base: 居る
+      postiion: 5
+    - word: の
+      postiion: 7
+    - word: だ
+      postiion: 8
+    - word: と
+      postiion: 9
+    - word: 気づき
+      base: 気付く
+      postiion: 10
+    - word: まし
+      base: ます
+      postiion: 13
+    - word: た
+      postiion: 15
+    - word: から
+      postiion: 16
 - id: Kodomoni Baketa Kitsune-f000010
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: わざと知らない振りをして通りすぎようとしました。
-  word_list: [わざと, 知ら, ない, 振り, を, し, て, 通り, すぎよう, と, し, まし, た]
   sound: f000010.mp3
   sound_begin: 39880
   sound_end: 44860
+  sentence: わざと知らない振りをして通りすぎようとしました。
+  words:
+    - word: わざと
+      base: 態と
+      postiion: 0
+    - word: 知ら
+      base: 知る
+      postiion: 3
+    - word: ない
+      postiion: 5
+    - word: 振り
+      postiion: 7
+    - word: を
+      postiion: 9
+    - word: し
+      base: 為る
+      postiion: 10
+    - word: て
+      postiion: 11
+    - word: 通り
+      base: 通る
+      postiion: 12
+    - word: すぎよう
+      base: 過ぎる
+      postiion: 14
+    - word: と
+      postiion: 18
+    - word: し
+      base: 為る
+      postiion: 19
+    - word: まし
+      base: ます
+      postiion: 20
+    - word: た
+      postiion: 22
 - id: Kodomoni Baketa Kitsune-f000011
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 子供は三五郎の方を見い見い余計に泣きました。
-  word_list: [子供, は, 三五郎, の, 方, を, 見い, 見い, 余計, に, 泣き, まし, た]
   sound: f000011.mp3
   sound_begin: 44860
   sound_end: 50400
+  sentence: 子供は三五郎の方を見い見い余計に泣きました。
+  words:
+    - word: 子供
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: 三五郎
+      postiion: 3
+    - word: の
+      postiion: 6
+    - word: 方
+      postiion: 7
+    - word: を
+      postiion: 8
+    - word: 見い
+      base: 見る
+      postiion: 9
+    - word: 見い
+      base: 見る
+      postiion: 9
+    - word: 余計
+      postiion: 13
+    - word: に
+      base: だ
+      postiion: 15
+    - word: 泣き
+      base: 泣く
+      postiion: 16
+    - word: まし
+      base: ます
+      postiion: 18
+    - word: た
+      postiion: 20
 - id: Kodomoni Baketa Kitsune-f000012
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: どこまでも知らない振りをして三五郎が通つて来ますと、
-  word_list: [どこ, まで, も, 知ら, ない, 振り, を, し, て, 三五郎, が, 通, つ, て, 来, ます, と]
   sound: f000012.mp3
   sound_begin: 53200
   sound_end: 57000
+  sentence: どこまでも知らない振りをして三五郎が通つて来ますと、
+  words:
+    - word: どこ
+      postiion: 0
+    - word: まで
+      postiion: 2
+    - word: も
+      postiion: 4
+    - word: 知ら
+      base: 知る
+      postiion: 5
+    - word: ない
+      postiion: 7
+    - word: 振り
+      postiion: 9
+    - word: を
+      postiion: 11
+    - word: し
+      base: 為る
+      postiion: 12
+    - word: て
+      postiion: 13
+    - word: 三五郎
+      postiion: 14
+    - word: が
+      postiion: 17
+    - word: 通
+      postiion: 18
+    - word: つ
+      base: つう
+      postiion: 19
+    - word: て
+      postiion: 20
+    - word: 来
+      base: 来る
+      postiion: 21
+    - word: ます
+      postiion: 22
+    - word: と
+      postiion: 24
 - id: Kodomoni Baketa Kitsune-f000013
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 子供は大声をあげて泣き泣き馬の後をついて来ました。
-  word_list: [子供, は, 大声, を, あげ, て, 泣き泣き, 馬, の, 後, を, つい, て, 来, まし, た]
   sound: f000013.mp3
   sound_begin: 58600
   sound_end: 64239
+  sentence: 子供は大声をあげて泣き泣き馬の後をついて来ました。
+  words:
+    - word: 子供
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: 大声
+      postiion: 3
+    - word: を
+      postiion: 5
+    - word: あげ
+      base: 上げる
+      postiion: 6
+    - word: て
+      postiion: 8
+    - word: 泣き泣き
+      postiion: 9
+    - word: 馬
+      postiion: 13
+    - word: の
+      postiion: 14
+    - word: 後
+      postiion: 15
+    - word: を
+      postiion: 16
+    - word: つい
+      base: つく
+      postiion: 17
+    - word: て
+      postiion: 19
+    - word: 来
+      base: 来る
+      postiion: 20
+    - word: まし
+      base: ます
+      postiion: 21
+    - word: た
+      postiion: 23
 - id: Kodomoni Baketa Kitsune-f000014
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: さうするうちに、
-  word_list: [さう, する, うち, に]
   sound: f000014.mp3
   sound_begin: 67040
   sound_end: 68532
+  sentence: さうするうちに、
+  words:
+    - word: さう
+      base: そう
+      postiion: 0
+    - word: する
+      base: 為る
+      postiion: 2
+    - word: うち
+      base: 内
+      postiion: 4
+    - word: に
+      postiion: 6
 - id: Kodomoni Baketa Kitsune-f000015
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 急に日が暮れて来て、
-  word_list: [急, に, 日, が, 暮れ, て, 来, て]
   sound: f000015.mp3
   sound_begin: 68532
   sound_end: 71120
+  sentence: 急に日が暮れて来て、
+  words:
+    - word: 急
+      postiion: 0
+    - word: に
+      base: だ
+      postiion: 1
+    - word: 日
+      postiion: 2
+    - word: が
+      postiion: 3
+    - word: 暮れ
+      base: 暮れる
+      postiion: 4
+    - word: て
+      postiion: 6
+    - word: 来
+      base: 来る
+      postiion: 7
+    - word: て
+      postiion: 8
 - id: Kodomoni Baketa Kitsune-f000016
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: あたりが薄暗くなつてしまひました。
-  word_list: [あたり, が, 薄暗く, なつ, て, しまひ, まし, た]
   sound: f000016.mp3
   sound_begin: 71120
   sound_end: 75360
+  sentence: あたりが薄暗くなつてしまひました。
+  words:
+    - word: あたり
+      base: 辺り
+      postiion: 0
+    - word: が
+      postiion: 3
+    - word: 薄暗く
+      base: 薄暗い
+      postiion: 4
+    - word: なつ
+      base: 成る
+      postiion: 7
+    - word: て
+      postiion: 9
+    - word: しまひ
+      base: 仕舞う
+      postiion: 10
+    - word: まし
+      base: ます
+      postiion: 13
+    - word: た
+      postiion: 15
 - id: Kodomoni Baketa Kitsune-f000017
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: まだ日の暮れる筈のないのに、
-  word_list: [まだ, 日, の, 暮れる, 筈, の, ない, の, に]
   sound: f000017.mp3
   sound_begin: 75360
   sound_end: 77840
+  sentence: まだ日の暮れる筈のないのに、
+  words:
+    - word: まだ
+      base: 未だ
+      postiion: 0
+    - word: 日
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: 暮れる
+      postiion: 4
+    - word: 筈
+      postiion: 7
+    - word: の
+      postiion: 8
+    - word: ない
+      base: 無い
+      postiion: 9
+    - word: の
+      postiion: 11
+    - word: に
+      postiion: 12
 - id: Kodomoni Baketa Kitsune-f000018
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 不思議だとは思ひましたが、
-  word_list: [不思議, だ, と, は, 思ひ, まし, た, が]
   sound: f000018.mp3
   sound_begin: 77840
   sound_end: 81080
+  sentence: 不思議だとは思ひましたが、
+  words:
+    - word: 不思議
+      postiion: 0
+    - word: だ
+      postiion: 3
+    - word: と
+      postiion: 4
+    - word: は
+      postiion: 5
+    - word: 思ひ
+      base: 思う
+      postiion: 6
+    - word: まし
+      base: ます
+      postiion: 8
+    - word: た
+      postiion: 10
+    - word: が
+      postiion: 11
 - id: Kodomoni Baketa Kitsune-f000019
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 空にはお星さまさへチラチラ出て、
-  word_list: [空, に, は, お, 星, さま, さへ, チラチラ, 出, て]
   sound: f000019.mp3
   sound_begin: 81080
   sound_end: 84790
+  sentence: 空にはお星さまさへチラチラ出て、
+  words:
+    - word: 空
+      postiion: 0
+    - word: に
+      postiion: 1
+    - word: は
+      postiion: 2
+    - word: お
+      base: 御
+      postiion: 3
+    - word: 星
+      postiion: 4
+    - word: さま
+      base: 様
+      postiion: 5
+    - word: さへ
+      base: さえ
+      postiion: 7
+    - word: チラチラ
+      base: ちらちら
+      postiion: 9
+    - word: 出
+      base: 出る
+      postiion: 13
+    - word: て
+      postiion: 14
 - id: Kodomoni Baketa Kitsune-f000020
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 遠くの森で梟の啼く声さへ聞えました。
-  word_list: [遠く, の, 森, で, 梟, の, 啼く, 声, さへ, 聞え, まし, た]
   sound: f000020.mp3
   sound_begin: 84790
   sound_end: 91272
+  sentence: 遠くの森で梟の啼く声さへ聞えました。
+  words:
+    - word: 遠く
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 森
+      postiion: 3
+    - word: で
+      postiion: 4
+    - word: 梟
+      postiion: 5
+    - word: の
+      postiion: 6
+    - word: 啼く
+      base: 鳴く
+      postiion: 7
+    - word: 声
+      postiion: 9
+    - word: さへ
+      base: さえ
+      postiion: 10
+    - word: 聞え
+      base: 聞こえる
+      postiion: 12
+    - word: まし
+      base: ます
+      postiion: 14
+    - word: た
+      postiion: 16
 - id: Kodomoni Baketa Kitsune-f000021
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 後から泣き泣きついて来た筈の子供は、
-  word_list: [後, から, 泣き泣き, つい, て, 来, た, 筈, の, 子供, は]
   sound: f000021.mp3
   sound_begin: 91272
   sound_end: 95205
+  sentence: 後から泣き泣きついて来た筈の子供は、
+  words:
+    - word: 後
+      postiion: 0
+    - word: から
+      postiion: 1
+    - word: 泣き泣き
+      postiion: 3
+    - word: つい
+      base: 付く
+      postiion: 7
+    - word: て
+      postiion: 9
+    - word: 来
+      base: 来る
+      postiion: 10
+    - word: た
+      postiion: 11
+    - word: 筈
+      postiion: 12
+    - word: の
+      postiion: 13
+    - word: 子供
+      postiion: 14
+    - word: は
+      postiion: 16
 - id: Kodomoni Baketa Kitsune-f000022
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: こんどは、
-  word_list: [こんど, は]
   sound: f000022.mp3
   sound_begin: 95205
   sound_end: 95829
+  sentence: こんどは、
+  words:
+    - word: こんど
+      base: 今度
+      postiion: 0
+    - word: は
+      postiion: 3
 - id: Kodomoni Baketa Kitsune-f000023
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: いつの間にか三五郎の前に立つて泣き泣き歩いてゐました。
-  word_list: [いつ, の, 間, に, か, 三五郎, の, 前, に, 立つ, て, 泣き泣き, 歩い, て, ゐ, まし, た]
   sound: f000023.mp3
   sound_begin: 95829
   sound_end: 103910
+  sentence: いつの間にか三五郎の前に立つて泣き泣き歩いてゐました。
+  words:
+    - word: いつ
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 間
+      postiion: 3
+    - word: に
+      postiion: 4
+    - word: か
+      postiion: 5
+    - word: 三五郎
+      postiion: 6
+    - word: の
+      postiion: 9
+    - word: 前
+      postiion: 10
+    - word: に
+      postiion: 11
+    - word: 立つ
+      postiion: 12
+    - word: て
+      postiion: 14
+    - word: 泣き泣き
+      postiion: 15
+    - word: 歩い
+      base: 歩く
+      postiion: 19
+    - word: て
+      postiion: 21
+    - word: ゐ
+      base: 居る
+      postiion: 22
+    - word: まし
+      base: ます
+      postiion: 23
+    - word: た
+      postiion: 25
 - id: Kodomoni Baketa Kitsune-f000024
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 『己はちやんと判りきつてゐるのに、
-  word_list: [己, は, ちやんと, 判り, きつ, て, ゐる, の, に]
   sound: f000024.mp3
   sound_begin: 103910
   sound_end: 107718
+  sentence: 『己はちやんと判りきつてゐるのに、
+  words:
+    - word: 己
+      postiion: 1
+    - word: は
+      postiion: 2
+    - word: ちやんと
+      base: ちゃんと
+      postiion: 3
+    - word: 判り
+      base: 分かる
+      postiion: 7
+    - word: きつ
+      base: きつい
+      postiion: 9
+    - word: て
+      postiion: 11
+    - word: ゐる
+      base: 居る
+      postiion: 12
+    - word: の
+      postiion: 14
+    - word: に
+      postiion: 15
 - id: Kodomoni Baketa Kitsune-f000025
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 知らずにだまさうとする馬鹿な狐だ』と三五郎は心の中で可笑くなりましたが、
-  word_list: [知ら, ず, に, だ, ま, さう, と, する, 馬鹿, な, 狐, だ, と, 三五郎, は, 心, の, 中, で, 可, 笑, く, なり, まし, た, が]
   sound: f000025.mp3
   sound_begin: 107718
   sound_end: 117720
+  sentence: 知らずにだまさうとする馬鹿な狐だ』と三五郎は心の中で可笑くなりましたが、
+  words:
+    - word: 知ら
+      base: 知る
+      postiion: 0
+    - word: ず
+      postiion: 2
+    - word: に
+      postiion: 3
+    - word: だ
+      postiion: 4
+    - word: ま
+      base: まー
+      postiion: 5
+    - word: さう
+      base: そう
+      postiion: 6
+    - word: と
+      postiion: 8
+    - word: する
+      base: 為る
+      postiion: 9
+    - word: 馬鹿
+      postiion: 11
+    - word: な
+      base: だ
+      postiion: 13
+    - word: 狐
+      postiion: 14
+    - word: だ
+      postiion: 15
+    - word: と
+      postiion: 17
+    - word: 三五郎
+      postiion: 18
+    - word: は
+      postiion: 21
+    - word: 心
+      postiion: 22
+    - word: の
+      postiion: 23
+    - word: 中
+      postiion: 24
+    - word: で
+      postiion: 25
+    - word: 可
+      postiion: 26
+    - word: 笑
+      base: 笑い
+      postiion: 27
+    - word: く
+      base: 九
+      postiion: 28
+    - word: なり
+      base: 成る
+      postiion: 29
+    - word: まし
+      base: ます
+      postiion: 31
+    - word: た
+      postiion: 33
+    - word: が
+      postiion: 34
 - id: Kodomoni Baketa Kitsune-f000026
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: なにしろ斯う日が暮れて来ては、
-  word_list: [なにしろ, 斯う, 日, が, 暮れ, て, 来, て, は]
   sound: f000026.mp3
   sound_begin: 117720
   sound_end: 120120
+  sentence: なにしろ斯う日が暮れて来ては、
+  words:
+    - word: なにしろ
+      base: 何しろ
+      postiion: 0
+    - word: 斯う
+      base: こう
+      postiion: 4
+    - word: 日
+      postiion: 6
+    - word: が
+      postiion: 7
+    - word: 暮れ
+      base: 暮れる
+      postiion: 8
+    - word: て
+      postiion: 10
+    - word: 来
+      base: 来る
+      postiion: 11
+    - word: て
+      postiion: 12
+    - word: は
+      postiion: 13
 - id: Kodomoni Baketa Kitsune-f000027
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 急いで家へ帰らうと馬に乗りました。
-  word_list: [急い, で, 家, へ, 帰らう, と, 馬, に, 乗り, まし, た]
   sound: f000027.mp3
   sound_begin: 120120
   sound_end: 122640
+  sentence: 急いで家へ帰らうと馬に乗りました。
+  words:
+    - word: 急い
+      base: 急ぐ
+      postiion: 0
+    - word: で
+      postiion: 2
+    - word: 家
+      postiion: 3
+    - word: へ
+      postiion: 4
+    - word: 帰らう
+      base: 帰る
+      postiion: 5
+    - word: と
+      postiion: 8
+    - word: 馬
+      postiion: 9
+    - word: に
+      postiion: 10
+    - word: 乗り
+      base: 乗る
+      postiion: 11
+    - word: まし
+      base: ます
+      postiion: 13
+    - word: た
+      postiion: 15
 - id: Kodomoni Baketa Kitsune-f000028
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: さうすると、
-  word_list: [さう, する, と]
   sound: f000028.mp3
   sound_begin: 124440
   sound_end: 125840
+  sentence: さうすると、
+  words:
+    - word: さう
+      base: そう
+      postiion: 0
+    - word: する
+      base: 為る
+      postiion: 2
+    - word: と
+      postiion: 4
 - id: Kodomoni Baketa Kitsune-f000029
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 泣き泣き歩いてゐた子供は、
-  word_list: [泣き泣き, 歩い, て, ゐ, た, 子供, は]
   sound: f000029.mp3
   sound_begin: 125840
   sound_end: 128639
+  sentence: 泣き泣き歩いてゐた子供は、
+  words:
+    - word: 泣き泣き
+      postiion: 0
+    - word: 歩い
+      base: 歩く
+      postiion: 4
+    - word: て
+      postiion: 6
+    - word: ゐ
+      base: 居る
+      postiion: 7
+    - word: た
+      postiion: 8
+    - word: 子供
+      postiion: 9
+    - word: は
+      postiion: 11
 - id: Kodomoni Baketa Kitsune-f000030
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 馬の口元をとつて別の方の細い道へ馬を曳き込まうとしました。
-  word_list: [馬, の, 口元, を, と, つて, 別, の, 方, の, 細い, 道, へ, 馬, を, 曳き, 込ま, う, と, し, まし, た]
   sound: f000030.mp3
   sound_begin: 128639
   sound_end: 137240
+  sentence: 馬の口元をとつて別の方の細い道へ馬を曳き込まうとしました。
+  words:
+    - word: 馬
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 口元
+      postiion: 2
+    - word: を
+      postiion: 4
+    - word: と
+      postiion: 5
+    - word: つて
+      base: 伝
+      postiion: 6
+    - word: 別
+      postiion: 8
+    - word: の
+      postiion: 9
+    - word: 方
+      postiion: 10
+    - word: の
+      postiion: 11
+    - word: 細い
+      postiion: 12
+    - word: 道
+      postiion: 14
+    - word: へ
+      postiion: 15
+    - word: 馬
+      postiion: 16
+    - word: を
+      postiion: 17
+    - word: 曳き
+      base: 引く
+      postiion: 18
+    - word: 込ま
+      base: 込む
+      postiion: 20
+    - word: う
+      base: うー
+      postiion: 22
+    - word: と
+      postiion: 23
+    - word: し
+      base: 為る
+      postiion: 24
+    - word: まし
+      base: ます
+      postiion: 25
+    - word: た
+      postiion: 27
 - id: Kodomoni Baketa Kitsune-f000031
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 三五郎は馬の上で、
-  word_list: [三五郎, は, 馬, の, 上, で]
   sound: f000031.mp3
   sound_begin: 137240
   sound_end: 139550
+  sentence: 三五郎は馬の上で、
+  words:
+    - word: 三五郎
+      postiion: 0
+    - word: は
+      postiion: 3
+    - word: 馬
+      postiion: 4
+    - word: の
+      postiion: 5
+    - word: 上
+      postiion: 6
+    - word: で
+      postiion: 7
 - id: Kodomoni Baketa Kitsune-f000032
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 『コラコラ道が違ふ。
-  word_list: [コラコラ, 道, が, 違, ふ]
   sound: f000032.mp3
   sound_begin: 139550
   sound_end: 142498
+  sentence: 『コラコラ道が違ふ。
+  words:
+    - word: コラコラ
+      postiion: 1
+    - word: 道
+      postiion: 5
+    - word: が
+      postiion: 6
+    - word: 違
+      postiion: 7
+    - word: ふ
+      postiion: 8
 - id: Kodomoni Baketa Kitsune-f000033
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: こつちだこつちだ』
-  word_list: [こつち, だ, こつち, だ]
   sound: f000033.mp3
   sound_begin: 142498
   sound_end: 145456
+  sentence: こつちだこつちだ』
+  words:
+    - word: こつち
+      base: 此方
+      postiion: 0
+    - word: だ
+      postiion: 3
+    - word: こつち
+      base: 此方
+      postiion: 4
+    - word: だ
+      postiion: 7
 - id: Kodomoni Baketa Kitsune-f000034
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: と怒鳴りつけましたが、
-  word_list: [と, 怒鳴り, つけ, まし, た, が]
   sound: f000034.mp3
   sound_begin: 145456
   sound_end: 147364
+  sentence: と怒鳴りつけましたが、
+  words:
+    - word: と
+      postiion: 0
+    - word: 怒鳴り
+      base: 怒鳴る
+      postiion: 1
+    - word: つけ
+      base: つける
+      postiion: 4
+    - word: まし
+      base: ます
+      postiion: 6
+    - word: た
+      postiion: 8
+    - word: が
+      postiion: 9
 - id: Kodomoni Baketa Kitsune-f000035
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 子供は聞えない振りをして、
-  word_list: [子供, は, 聞え, ない, 振り, を, し, て]
   sound: f000035.mp3
   sound_begin: 147364
   sound_end: 149840
+  sentence: 子供は聞えない振りをして、
+  words:
+    - word: 子供
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: 聞え
+      base: 聞こえる
+      postiion: 3
+    - word: ない
+      postiion: 5
+    - word: 振り
+      postiion: 7
+    - word: を
+      postiion: 9
+    - word: し
+      base: 為る
+      postiion: 10
+    - word: て
+      postiion: 11
 - id: Kodomoni Baketa Kitsune-f000036
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: ずんずん細い別な方の道へ曳いて行きました。
-  word_list: [ずんずん, 細い, 別, な, 方, の, 道, へ, 曳い, て, 行き, まし, た]
   sound: f000036.mp3
   sound_begin: 149840
   sound_end: 154540
+  sentence: ずんずん細い別な方の道へ曳いて行きました。
+  words:
+    - word: ずんずん
+      postiion: 0
+    - word: 細い
+      postiion: 4
+    - word: 別
+      postiion: 6
+    - word: な
+      base: だ
+      postiion: 7
+    - word: 方
+      postiion: 8
+    - word: の
+      postiion: 9
+    - word: 道
+      postiion: 10
+    - word: へ
+      postiion: 11
+    - word: 曳い
+      base: 引く
+      postiion: 12
+    - word: て
+      postiion: 14
+    - word: 行き
+      base: 行く
+      postiion: 15
+    - word: まし
+      base: ます
+      postiion: 17
+    - word: た
+      postiion: 19
 - id: Kodomoni Baketa Kitsune-f000037
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 三五郎は、
-  word_list: [三五郎, は]
   sound: f000037.mp3
   sound_begin: 156640
   sound_end: 157760
+  sentence: 三五郎は、
+  words:
+    - word: 三五郎
+      postiion: 0
+    - word: は
+      postiion: 3
 - id: Kodomoni Baketa Kitsune-f000038
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: もう我慢が出来なくなつて
-  word_list: [もう, 我慢, が, 出来, なく, なつ, て]
   sound: f000038.mp3
   sound_begin: 157760
   sound_end: 160339
+  sentence: もう我慢が出来なくなつて
+  words:
+    - word: もう
+      postiion: 0
+    - word: 我慢
+      postiion: 2
+    - word: が
+      postiion: 4
+    - word: 出来
+      base: 出来る
+      postiion: 5
+    - word: なく
+      base: ない
+      postiion: 7
+    - word: なつ
+      base: 成る
+      postiion: 9
+    - word: て
+      postiion: 11
 - id: Kodomoni Baketa Kitsune-f000039
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 『この狐め』
-  word_list: [この, 狐, め]
   sound: f000039.mp3
   sound_begin: 160339
   sound_end: 162625
+  sentence: 『この狐め』
+  words:
+    - word: この
+      base: 此の
+      postiion: 1
+    - word: 狐
+      postiion: 3
+    - word: め
+      postiion: 4
 - id: Kodomoni Baketa Kitsune-f000040
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: と馬からとび下りますと、
-  word_list: [と, 馬, から, とび, 下り, ます, と]
   sound: f000040.mp3
   sound_begin: 162625
   sound_end: 166055
+  sentence: と馬からとび下りますと、
+  words:
+    - word: と
+      postiion: 0
+    - word: 馬
+      postiion: 1
+    - word: から
+      postiion: 2
+    - word: とび
+      base: 飛ぶ
+      postiion: 4
+    - word: 下り
+      base: 下りる
+      postiion: 6
+    - word: ます
+      postiion: 8
+    - word: と
+      postiion: 10
 - id: Kodomoni Baketa Kitsune-f000041
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: そこはどぶどぶした泥田の中で、
-  word_list: [そこ, は, どぶ, どぶ, し, た, 泥田, の, 中, で]
   sound: f000041.mp3
   sound_begin: 166055
   sound_end: 169978
+  sentence: そこはどぶどぶした泥田の中で、
+  words:
+    - word: そこ
+      base: 其処
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: どぶ
+      base: 溝
+      postiion: 3
+    - word: どぶ
+      base: 溝
+      postiion: 3
+    - word: し
+      base: 為る
+      postiion: 7
+    - word: た
+      postiion: 8
+    - word: 泥田
+      postiion: 9
+    - word: の
+      postiion: 11
+    - word: 中
+      postiion: 12
+    - word: で
+      postiion: 13
 - id: Kodomoni Baketa Kitsune-f000042
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: どこまでもどこまでも身体が泥の中へもぐつて行きました。
-  word_list: [どこ, まで, も, どこ, まで, も, 身体, が, 泥, の, 中, へ, もぐ, つ, て, 行き, まし, た]
   sound: f000042.mp3
   sound_begin: 169978
   sound_end: 175306
+  sentence: どこまでもどこまでも身体が泥の中へもぐつて行きました。
+  words:
+    - word: どこ
+      postiion: 0
+    - word: まで
+      postiion: 2
+    - word: も
+      postiion: 4
+    - word: どこ
+      postiion: 5
+    - word: まで
+      postiion: 7
+    - word: も
+      postiion: 9
+    - word: 身体
+      postiion: 10
+    - word: が
+      postiion: 12
+    - word: 泥
+      postiion: 13
+    - word: の
+      postiion: 14
+    - word: 中
+      postiion: 15
+    - word: へ
+      postiion: 16
+    - word: もぐ
+      base: 捥ぐ
+      postiion: 17
+    - word: つ
+      base: つう
+      postiion: 19
+    - word: て
+      postiion: 20
+    - word: 行き
+      base: 行く
+      postiion: 21
+    - word: まし
+      base: ます
+      postiion: 23
+    - word: た
+      postiion: 25
 - id: Kodomoni Baketa Kitsune-f000043
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: これは大変だ、
-  word_list: [これ, は, 大変, だ]
   sound: f000043.mp3
   sound_begin: 177500
   sound_end: 179040
+  sentence: これは大変だ、
+  words:
+    - word: これ
+      base: 此れ
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: 大変
+      postiion: 3
+    - word: だ
+      postiion: 5
 - id: Kodomoni Baketa Kitsune-f000044
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: どうかしてあがらうと、
-  word_list: [どう, か, し, て, あがら, う, と]
   sound: f000044.mp3
   sound_begin: 179040
   sound_end: 180760
+  sentence: どうかしてあがらうと、
+  words:
+    - word: どう
+      postiion: 0
+    - word: か
+      postiion: 2
+    - word: し
+      base: 為る
+      postiion: 3
+    - word: て
+      postiion: 4
+    - word: あがら
+      base: 上がる
+      postiion: 5
+    - word: う
+      base: うー
+      postiion: 8
+    - word: と
+      postiion: 9
 - id: Kodomoni Baketa Kitsune-f000045
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: あせればあせるほどだんだんもぐつてしまひました。
-  word_list: [あせれ, ば, あせる, ほど, だんだん, もぐ, つ, て, しまひ, まし, た]
   sound: f000045.mp3
   sound_begin: 180760
   sound_end: 184800
+  sentence: あせればあせるほどだんだんもぐつてしまひました。
+  words:
+    - word: あせれ
+      base: 焦る
+      postiion: 0
+    - word: ば
+      postiion: 3
+    - word: あせる
+      base: 焦る
+      postiion: 4
+    - word: ほど
+      postiion: 7
+    - word: だんだん
+      base: 段々
+      postiion: 9
+    - word: もぐ
+      base: 捥ぐ
+      postiion: 13
+    - word: つ
+      base: つう
+      postiion: 15
+    - word: て
+      postiion: 16
+    - word: しまひ
+      base: 仕舞う
+      postiion: 17
+    - word: まし
+      base: ます
+      postiion: 20
+    - word: た
+      postiion: 22
 - id: Kodomoni Baketa Kitsune-f000046
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: やうやく足が届いたと思ふと、
-  word_list: [やうやく, 足, が, 届い, た, と, 思ふ, と]
   sound: f000046.mp3
   sound_begin: 188200
   sound_end: 191040
+  sentence: やうやく足が届いたと思ふと、
+  words:
+    - word: やうやく
+      base: 漸く
+      postiion: 0
+    - word: 足
+      postiion: 4
+    - word: が
+      postiion: 5
+    - word: 届い
+      base: 届く
+      postiion: 6
+    - word: た
+      postiion: 8
+    - word: と
+      postiion: 9
+    - word: 思ふ
+      base: 思う
+      postiion: 10
+    - word: と
+      postiion: 12
 - id: Kodomoni Baketa Kitsune-f000047
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: そこは、
-  word_list: [そこ, は]
   sound: f000047.mp3
   sound_begin: 191040
   sound_end: 192440
+  sentence: そこは、
+  words:
+    - word: そこ
+      base: 其処
+      postiion: 0
+    - word: は
+      postiion: 2
 - id: Kodomoni Baketa Kitsune-f000048
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 広い広い河原の中でありました。
-  word_list: [広い, 広い, 河原, の, 中, で, あり, まし, た]
   sound: f000048.mp3
   sound_begin: 192440
   sound_end: 198874
+  sentence: 広い広い河原の中でありました。
+  words:
+    - word: 広い
+      postiion: 0
+    - word: 広い
+      postiion: 0
+    - word: 河原
+      base: 川原
+      postiion: 4
+    - word: の
+      postiion: 6
+    - word: 中
+      postiion: 7
+    - word: で
+      base: だ
+      postiion: 8
+    - word: あり
+      base: 有る
+      postiion: 9
+    - word: まし
+      base: ます
+      postiion: 11
+    - word: た
+      postiion: 13
 - id: Kodomoni Baketa Kitsune-f000049
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 河原は、
-  word_list: [河原, は]
   sound: f000049.mp3
   sound_begin: 198874
   sound_end: 199560
+  sentence: 河原は、
+  words:
+    - word: 河原
+      postiion: 0
+    - word: は
+      postiion: 2
 - id: Kodomoni Baketa Kitsune-f000050
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: まだ日が暮れずに、
-  word_list: [まだ, 日, が, 暮れ, ず, に]
   sound: f000050.mp3
   sound_begin: 199560
   sound_end: 201280
+  sentence: まだ日が暮れずに、
+  words:
+    - word: まだ
+      base: 未だ
+      postiion: 0
+    - word: 日
+      postiion: 2
+    - word: が
+      postiion: 3
+    - word: 暮れ
+      base: 暮れる
+      postiion: 4
+    - word: ず
+      postiion: 6
+    - word: に
+      postiion: 7
 - id: Kodomoni Baketa Kitsune-f000051
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 西の方が夕焼で赤くなつてゐましたが、
-  word_list: [西, の, 方, が, 夕焼, で, 赤く, なつ, て, ゐ, まし, た, が]
   sound: f000051.mp3
   sound_begin: 201280
   sound_end: 205240
+  sentence: 西の方が夕焼で赤くなつてゐましたが、
+  words:
+    - word: 西
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 方
+      postiion: 2
+    - word: が
+      postiion: 3
+    - word: 夕焼
+      base: 夕焼け
+      postiion: 4
+    - word: で
+      postiion: 6
+    - word: 赤く
+      base: 赤い
+      postiion: 7
+    - word: なつ
+      base: 成る
+      postiion: 9
+    - word: て
+      postiion: 11
+    - word: ゐ
+      base: 居る
+      postiion: 12
+    - word: まし
+      base: ます
+      postiion: 13
+    - word: た
+      postiion: 15
+    - word: が
+      postiion: 16
 - id: Kodomoni Baketa Kitsune-f000052
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 空の色も、
-  word_list: [空, の, 色, も]
   sound: f000052.mp3
   sound_begin: 205240
   sound_end: 207040
+  sentence: 空の色も、
+  words:
+    - word: 空
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 色
+      postiion: 2
+    - word: も
+      postiion: 3
 - id: Kodomoni Baketa Kitsune-f000053
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 石の色も草も、
-  word_list: [石, の, 色, も, 草, も]
   sound: f000053.mp3
   sound_begin: 207040
   sound_end: 208360
+  sentence: 石の色も草も、
+  words:
+    - word: 石
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 色
+      postiion: 2
+    - word: も
+      postiion: 3
+    - word: 草
+      postiion: 4
+    - word: も
+      postiion: 5
 - id: Kodomoni Baketa Kitsune-f000054
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 木も、
-  word_list: [木, も]
   sound: f000054.mp3
   sound_begin: 208360
   sound_end: 210160
+  sentence: 木も、
+  words:
+    - word: 木
+      postiion: 0
+    - word: も
+      postiion: 1
 - id: Kodomoni Baketa Kitsune-f000055
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: みんな灰色をした、
-  word_list: [みんな, 灰, 色, を, し, た]
   sound: f000055.mp3
   sound_begin: 210160
   sound_end: 212163
+  sentence: みんな灰色をした、
+  words:
+    - word: みんな
+      base: 皆
+      postiion: 0
+    - word: 灰
+      postiion: 3
+    - word: 色
+      postiion: 4
+    - word: を
+      postiion: 5
+    - word: し
+      base: 為る
+      postiion: 6
+    - word: た
+      postiion: 7
 - id: Kodomoni Baketa Kitsune-f000056
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: この世とは、
-  word_list: [この世, と, は]
   sound: f000056.mp3
   sound_begin: 212163
   sound_end: 213180
+  sentence: この世とは、
+  words:
+    - word: この世
+      base: 此の世
+      postiion: 0
+    - word: と
+      postiion: 3
+    - word: は
+      postiion: 4
 - id: Kodomoni Baketa Kitsune-f000057
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: まるつきり違つた国でした。
-  word_list: [まる, つ, きり, 違, つた, 国, でし, た]
   sound: f000057.mp3
   sound_begin: 213180
   sound_end: 215080
+  sentence: まるつきり違つた国でした。
+  words:
+    - word: まる
+      base: 丸
+      postiion: 0
+    - word: つ
+      postiion: 2
+    - word: きり
+      postiion: 3
+    - word: 違
+      postiion: 5
+    - word: つた
+      base: 蔦
+      postiion: 6
+    - word: 国
+      postiion: 8
+    - word: でし
+      base: です
+      postiion: 9
+    - word: た
+      postiion: 11
 - id: Kodomoni Baketa Kitsune-f000058
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 『一体ここは、
-  word_list: [一体, ここ, は]
   sound: f000058.mp3
   sound_begin: 217880
   sound_end: 219840
+  sentence: 『一体ここは、
+  words:
+    - word: 一体
+      postiion: 1
+    - word: ここ
+      base: 此処
+      postiion: 3
+    - word: は
+      postiion: 5
 - id: Kodomoni Baketa Kitsune-f000059
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: なんといふ国だらう、
-  word_list: [なん, と, いふ, 国, だら, う]
   sound: f000059.mp3
   sound_begin: 219840
   sound_end: 222767
+  sentence: なんといふ国だらう、
+  words:
+    - word: なん
+      base: 何
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: いふ
+      base: 言う
+      postiion: 3
+    - word: 国
+      postiion: 5
+    - word: だら
+      base: た
+      postiion: 6
+    - word: う
+      base: うー
+      postiion: 8
 - id: Kodomoni Baketa Kitsune-f000060
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: なんといふ広い河原だらう』と三五郎は、
-  word_list: [なん, と, いふ, 広い, 河原, だら, う, と, 三五郎, は]
   sound: f000060.mp3
   sound_begin: 222767
   sound_end: 227600
+  sentence: なんといふ広い河原だらう』と三五郎は、
+  words:
+    - word: なん
+      base: 何
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: いふ
+      base: 言う
+      postiion: 3
+    - word: 広い
+      postiion: 5
+    - word: 河原
+      base: 川原
+      postiion: 7
+    - word: だら
+      base: た
+      postiion: 9
+    - word: う
+      base: うー
+      postiion: 11
+    - word: と
+      postiion: 13
+    - word: 三五郎
+      postiion: 14
+    - word: は
+      postiion: 17
 - id: Kodomoni Baketa Kitsune-f000061
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: あつけにとられてゐますと、
-  word_list: [あ, つけ, に, とら, れ, て, ゐ, ます, と]
   sound: f000061.mp3
   sound_begin: 227600
   sound_end: 230298
+  sentence: あつけにとられてゐますと、
+  words:
+    - word: あ
+      base: あー
+      postiion: 0
+    - word: つけ
+      base: 付け
+      postiion: 1
+    - word: に
+      postiion: 3
+    - word: とら
+      base: 取る
+      postiion: 4
+    - word: れ
+      base: れる
+      postiion: 6
+    - word: て
+      postiion: 7
+    - word: ゐ
+      base: 居る
+      postiion: 8
+    - word: ます
+      postiion: 9
+    - word: と
+      postiion: 11
 - id: Kodomoni Baketa Kitsune-f000062
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 向ふの方で大勢の子供が、
-  word_list: [向ふ, の, 方, で, 大勢, の, 子供, が]
   sound: f000062.mp3
   sound_begin: 230298
   sound_end: 232825
+  sentence: 向ふの方で大勢の子供が、
+  words:
+    - word: 向ふ
+      base: 向こう
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 方
+      postiion: 3
+    - word: で
+      postiion: 4
+    - word: 大勢
+      postiion: 5
+    - word: の
+      postiion: 7
+    - word: 子供
+      postiion: 8
+    - word: が
+      postiion: 10
 - id: Kodomoni Baketa Kitsune-f000063
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 父さん恋し
-  word_list: [父さん, 恋, し]
   sound: f000063.mp3
   sound_begin: 234600
   sound_end: 236840
+  sentence: 父さん恋し
+  words:
+    - word: 父さん
+      postiion: 0
+    - word: 恋
+      postiion: 3
+    - word: し
+      base: 為る
+      postiion: 4
 - id: Kodomoni Baketa Kitsune-f000064
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 母さん恋し
-  word_list: [母さん, 恋, し]
   sound: f000064.mp3
   sound_begin: 236840
   sound_end: 239840
+  sentence: 母さん恋し
+  words:
+    - word: 母さん
+      postiion: 0
+    - word: 恋
+      postiion: 3
+    - word: し
+      base: 為る
+      postiion: 4
 - id: Kodomoni Baketa Kitsune-f000065
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 河原の石は
-  word_list: [河原, の, 石, は]
   sound: f000065.mp3
   sound_begin: 239840
   sound_end: 242720
+  sentence: 河原の石は
+  words:
+    - word: 河原
+      base: 川原
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 石
+      postiion: 3
+    - word: は
+      postiion: 4
 - id: Kodomoni Baketa Kitsune-f000066
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 数限りない
-  word_list: [数, 限りない]
   sound: f000066.mp3
   sound_begin: 242720
   sound_end: 244320
+  sentence: 数限りない
+  words:
+    - word: 数
+      postiion: 0
+    - word: 限りない
+      base: 限り無い
+      postiion: 1
 - id: Kodomoni Baketa Kitsune-f000067
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: チヨン　チヨン
-  word_list: [チヨン, チヨン]
   sound: f000067.mp3
   sound_begin: 244320
   sound_end: 247040
+  sentence: チヨン　チヨン
+  words:
+    - word: チヨン
+      postiion: 0
+    - word: チヨン
+      postiion: 0
 - id: Kodomoni Baketa Kitsune-f000068
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: チヨン　チヨン
-  word_list: [チヨン, チヨン]
   sound: f000068.mp3
   sound_begin: 247040
   sound_end: 250090
+  sentence: チヨン　チヨン
+  words:
+    - word: チヨン
+      postiion: 0
+    - word: チヨン
+      postiion: 0
 - id: Kodomoni Baketa Kitsune-f000069
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: と、
-  word_list: [と]
   sound: f000069.mp3
   sound_begin: 250090
   sound_end: 250918
+  sentence: と、
+  words:
+    - word: と
+      postiion: 0
 - id: Kodomoni Baketa Kitsune-f000070
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 童謡を唄ひながら、
-  word_list: [童謡, を, 唄, ひ, ながら]
   sound: f000070.mp3
   sound_begin: 250918
   sound_end: 252840
+  sentence: 童謡を唄ひながら、
+  words:
+    - word: 童謡
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: 唄
+      base: 歌
+      postiion: 3
+    - word: ひ
+      base: 干る
+      postiion: 4
+    - word: ながら
+      postiion: 5
 - id: Kodomoni Baketa Kitsune-f000071
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 石を運んでは積み、
-  word_list: [石, を, 運ん, で, は, 積み]
   sound: f000071.mp3
   sound_begin: 252840
   sound_end: 254720
+  sentence: 石を運んでは積み、
+  words:
+    - word: 石
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: 運ん
+      base: 運ぶ
+      postiion: 2
+    - word: で
+      postiion: 4
+    - word: は
+      postiion: 5
+    - word: 積み
+      base: 積む
+      postiion: 6
 - id: Kodomoni Baketa Kitsune-f000072
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 運んでは積み、
-  word_list: [運ん, で, は, 積み]
   sound: f000072.mp3
   sound_begin: 254720
   sound_end: 256200
+  sentence: 運んでは積み、
+  words:
+    - word: 運ん
+      base: 運ぶ
+      postiion: 0
+    - word: で
+      postiion: 2
+    - word: は
+      postiion: 3
+    - word: 積み
+      base: 積む
+      postiion: 4
 - id: Kodomoni Baketa Kitsune-f000073
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 一生懸命に石を積んでゐました。
-  word_list: [一生, 懸命, に, 石, を, 積ん, で, ゐ, まし, た]
   sound: f000073.mp3
   sound_begin: 256200
   sound_end: 258459
+  sentence: 一生懸命に石を積んでゐました。
+  words:
+    - word: 一生
+      postiion: 0
+    - word: 懸命
+      postiion: 2
+    - word: に
+      base: だ
+      postiion: 4
+    - word: 石
+      postiion: 5
+    - word: を
+      postiion: 6
+    - word: 積ん
+      base: 積む
+      postiion: 7
+    - word: で
+      postiion: 9
+    - word: ゐ
+      base: 居る
+      postiion: 10
+    - word: まし
+      base: ます
+      postiion: 11
+    - word: た
+      postiion: 13
 - id: Kodomoni Baketa Kitsune-f000074
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 三五郎は子供達のそばへ行つて。
-  word_list: [三五郎, は, 子供, 達, の, そば, へ, 行つ, て]
   sound: f000074.mp3
   sound_begin: 260560
   sound_end: 263064
+  sentence: 三五郎は子供達のそばへ行つて。
+  words:
+    - word: 三五郎
+      postiion: 0
+    - word: は
+      postiion: 3
+    - word: 子供
+      postiion: 4
+    - word: 達
+      postiion: 6
+    - word: の
+      postiion: 7
+    - word: そば
+      postiion: 8
+    - word: へ
+      postiion: 10
+    - word: 行つ
+      base: 行う
+      postiion: 11
+    - word: て
+      postiion: 13
 - id: Kodomoni Baketa Kitsune-f000075
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 『モシモシここはなんといふ国だか教へておくれ』
-  word_list: [モシモシ, ここ, は, なん, と, いふ, 国, だ, か, 教へ, て, お, くれ]
   sound: f000075.mp3
   sound_begin: 264760
   sound_end: 269850
+  sentence: 『モシモシここはなんといふ国だか教へておくれ』
+  words:
+    - word: モシモシ
+      base: もしもし
+      postiion: 1
+    - word: ここ
+      base: 此処
+      postiion: 5
+    - word: は
+      postiion: 7
+    - word: なん
+      base: 何
+      postiion: 8
+    - word: と
+      postiion: 10
+    - word: いふ
+      base: 言う
+      postiion: 11
+    - word: 国
+      postiion: 13
+    - word: だ
+      postiion: 14
+    - word: か
+      postiion: 15
+    - word: 教へ
+      base: 教える
+      postiion: 16
+    - word: て
+      postiion: 18
+    - word: お
+      base: 御
+      postiion: 19
+    - word: くれ
+      base: 呉れる
+      postiion: 20
 - id: Kodomoni Baketa Kitsune-f000076
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: とたづねますと、
-  word_list: [と, たづね, ます, と]
   sound: f000076.mp3
   sound_begin: 269850
   sound_end: 271927
+  sentence: とたづねますと、
+  words:
+    - word: と
+      postiion: 0
+    - word: たづね
+      base: 訪ねる
+      postiion: 1
+    - word: ます
+      postiion: 4
+    - word: と
+      postiion: 6
 - id: Kodomoni Baketa Kitsune-f000077
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 子供達は口々に、
-  word_list: [子供, 達, は, 口々, に]
   sound: f000077.mp3
   sound_begin: 271927
   sound_end: 274920
+  sentence: 子供達は口々に、
+  words:
+    - word: 子供
+      postiion: 0
+    - word: 達
+      postiion: 2
+    - word: は
+      postiion: 3
+    - word: 口々
+      postiion: 4
+    - word: に
+      postiion: 6
 - id: Kodomoni Baketa Kitsune-f000078
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 『小父さん、
-  word_list: [小父, さん]
   sound: f000078.mp3
   sound_begin: 274920
   sound_end: 276206
+  sentence: 『小父さん、
+  words:
+    - word: 小父
+      base: 伯父
+      postiion: 1
+    - word: さん
+      postiion: 3
 - id: Kodomoni Baketa Kitsune-f000079
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: ここは三途の河原よ』
-  word_list: [ここ, は, 三途, の, 河原, よ]
   sound: f000079.mp3
   sound_begin: 276206
   sound_end: 279930
+  sentence: ここは三途の河原よ』
+  words:
+    - word: ここ
+      base: 此処
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: 三途
+      postiion: 3
+    - word: の
+      postiion: 5
+    - word: 河原
+      base: 川原
+      postiion: 6
+    - word: よ
+      postiion: 8
 - id: Kodomoni Baketa Kitsune-f000080
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: と云ひました。
-  word_list: [と, 云ひ, まし, た]
   sound: f000080.mp3
   sound_begin: 279930
   sound_end: 282720
+  sentence: と云ひました。
+  words:
+    - word: と
+      postiion: 0
+    - word: 云ひ
+      base: 言う
+      postiion: 1
+    - word: まし
+      base: ます
+      postiion: 3
+    - word: た
+      postiion: 5
 - id: Kodomoni Baketa Kitsune-f000081
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 三途の河原と聞いて三五郎はびつくりしてしまひました。
-  word_list: [三途, の, 河原, と, 聞い, て, 三五郎, は, びつくり, し, て, しまひ, まし, た]
   sound: f000081.mp3
   sound_begin: 282720
   sound_end: 287980
+  sentence: 三途の河原と聞いて三五郎はびつくりしてしまひました。
+  words:
+    - word: 三途
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 河原
+      base: 川原
+      postiion: 3
+    - word: と
+      postiion: 5
+    - word: 聞い
+      base: 聞く
+      postiion: 6
+    - word: て
+      postiion: 8
+    - word: 三五郎
+      postiion: 9
+    - word: は
+      postiion: 12
+    - word: びつくり
+      base: びっくり
+      postiion: 13
+    - word: し
+      base: 為る
+      postiion: 17
+    - word: て
+      postiion: 18
+    - word: しまひ
+      base: 仕舞う
+      postiion: 19
+    - word: まし
+      base: ます
+      postiion: 22
+    - word: た
+      postiion: 24
 - id: Kodomoni Baketa Kitsune-f000082
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 『己は、
-  word_list: [己, は]
   sound: f000082.mp3
   sound_begin: 289978
   sound_end: 291525
+  sentence: 『己は、
+  words:
+    - word: 己
+      postiion: 1
+    - word: は
+      postiion: 2
 - id: Kodomoni Baketa Kitsune-f000083
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: たうとう死んでしまつた、
-  word_list: [た, うとう, 死ん, でし, まつ, た]
   sound: f000083.mp3
   sound_begin: 291525
   sound_end: 294614
+  sentence: たうとう死んでしまつた、
+  words:
+    - word: た
+      postiion: 0
+    - word: うとう
+      base: 疎い
+      postiion: 1
+    - word: 死ん
+      base: 死ぬ
+      postiion: 4
+    - word: でし
+      postiion: 6
+    - word: まつ
+      postiion: 8
+    - word: た
+      postiion: 10
 - id: Kodomoni Baketa Kitsune-f000084
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: なんといふ情ないことになつただらう。
-  word_list: [なん, と, いふ, 情ない, こと, に, なつ, た, だら, う]
   sound: f000084.mp3
   sound_begin: 294614
   sound_end: 298641
+  sentence: なんといふ情ないことになつただらう。
+  words:
+    - word: なん
+      base: 何
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: いふ
+      base: 言う
+      postiion: 3
+    - word: 情ない
+      base: 情けない
+      postiion: 5
+    - word: こと
+      postiion: 8
+    - word: に
+      postiion: 10
+    - word: なつ
+      base: 成る
+      postiion: 11
+    - word: た
+      postiion: 13
+    - word: だら
+      base: た
+      postiion: 14
+    - word: う
+      base: うう
+      postiion: 16
 - id: Kodomoni Baketa Kitsune-f000085
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 道理で今までの世の中とはまるつきり違つてゐる、
-  word_list: [道理, で, 今, まで, の, 世の中, と, はまる, つ, きり, 違, つ, て, ゐる]
   sound: f000085.mp3
   sound_begin: 298641
   sound_end: 304480
+  sentence: 道理で今までの世の中とはまるつきり違つてゐる、
+  words:
+    - word: 道理
+      postiion: 0
+    - word: で
+      postiion: 2
+    - word: 今
+      postiion: 3
+    - word: まで
+      postiion: 4
+    - word: の
+      postiion: 6
+    - word: 世の中
+      postiion: 7
+    - word: と
+      postiion: 10
+    - word: はまる
+      base: 嵌まる
+      postiion: 11
+    - word: つ
+      postiion: 14
+    - word: きり
+      postiion: 15
+    - word: 違
+      postiion: 17
+    - word: つ
+      base: つう
+      postiion: 18
+    - word: て
+      postiion: 19
+    - word: ゐる
+      base: 居る
+      postiion: 20
 - id: Kodomoni Baketa Kitsune-f000086
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: どうしたらいいだらう』
-  word_list: [どう, し, たら, いい, だら, う]
   sound: f000086.mp3
   sound_begin: 304480
   sound_end: 307515
+  sentence: どうしたらいいだらう』
+  words:
+    - word: どう
+      postiion: 0
+    - word: し
+      base: 為る
+      postiion: 2
+    - word: たら
+      base: た
+      postiion: 3
+    - word: いい
+      base: 良い
+      postiion: 5
+    - word: だら
+      base: た
+      postiion: 7
+    - word: う
+      base: うー
+      postiion: 9
 - id: Kodomoni Baketa Kitsune-f000087
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: と悲しくなつて考へてゐますと、
-  word_list: [と, 悲しく, なつ, て, 考へ, て, ゐ, ます, と]
   sound: f000087.mp3
   sound_begin: 307515
   sound_end: 310105
+  sentence: と悲しくなつて考へてゐますと、
+  words:
+    - word: と
+      postiion: 0
+    - word: 悲しく
+      base: 悲しい
+      postiion: 1
+    - word: なつ
+      base: 成る
+      postiion: 4
+    - word: て
+      postiion: 6
+    - word: 考へ
+      base: 考える
+      postiion: 7
+    - word: て
+      postiion: 9
+    - word: ゐ
+      base: 居る
+      postiion: 10
+    - word: ます
+      postiion: 11
+    - word: と
+      postiion: 13
 - id: Kodomoni Baketa Kitsune-f000088
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 子供達は、
-  word_list: [子供, 達, は]
   sound: f000088.mp3
   sound_begin: 310105
   sound_end: 312440
+  sentence: 子供達は、
+  words:
+    - word: 子供
+      postiion: 0
+    - word: 達
+      postiion: 2
+    - word: は
+      postiion: 3
 - id: Kodomoni Baketa Kitsune-f000089
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 『小父さん赤鬼が来るよ。
-  word_list: [小父, さん, 赤鬼, が, 来る, よ]
   sound: f000089.mp3
   sound_begin: 312440
   sound_end: 316400
+  sentence: 『小父さん赤鬼が来るよ。
+  words:
+    - word: 小父
+      base: 伯父
+      postiion: 1
+    - word: さん
+      postiion: 3
+    - word: 赤鬼
+      postiion: 5
+    - word: が
+      postiion: 7
+    - word: 来る
+      postiion: 8
+    - word: よ
+      postiion: 10
 - id: Kodomoni Baketa Kitsune-f000090
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 目つかつてごらん、
-  word_list: [目, つ, かつて, ごらん]
   sound: f000090.mp3
   sound_begin: 316400
   sound_end: 318307
+  sentence: 目つかつてごらん、
+  words:
+    - word: 目
+      postiion: 0
+    - word: つ
+      postiion: 1
+    - word: かつて
+      base: 嘗て
+      postiion: 2
+    - word: ごらん
+      base: 御覧
+      postiion: 5
 - id: Kodomoni Baketa Kitsune-f000091
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: ひどい目に逢ふから。
-  word_list: [ひどい, 目, に, 逢ふ, から]
   sound: f000091.mp3
   sound_begin: 318307
   sound_end: 321040
+  sentence: ひどい目に逢ふから。
+  words:
+    - word: ひどい
+      base: 酷い
+      postiion: 0
+    - word: 目
+      postiion: 3
+    - word: に
+      postiion: 4
+    - word: 逢ふ
+      base: 会う
+      postiion: 5
+    - word: から
+      postiion: 7
 - id: Kodomoni Baketa Kitsune-f000092
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 早くどつかへ隠れておいで』
-  word_list: [早く, ど, つか, へ, 隠れ, て, お, いで]
   sound: f000092.mp3
   sound_begin: 321040
   sound_end: 324475
+  sentence: 早くどつかへ隠れておいで』
+  words:
+    - word: 早く
+      base: 早い
+      postiion: 0
+    - word: ど
+      postiion: 2
+    - word: つか
+      postiion: 3
+    - word: へ
+      postiion: 5
+    - word: 隠れ
+      base: 隠れる
+      postiion: 6
+    - word: て
+      postiion: 8
+    - word: お
+      base: 御
+      postiion: 9
+    - word: いで
+      base: 出る
+      postiion: 10
 - id: Kodomoni Baketa Kitsune-f000093
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: と親切に云つてくれました。
-  word_list: [と, 親切, に, 云つ, て, くれ, まし, た]
   sound: f000093.mp3
   sound_begin: 324475
   sound_end: 328680
+  sentence: と親切に云つてくれました。
+  words:
+    - word: と
+      postiion: 0
+    - word: 親切
+      postiion: 1
+    - word: に
+      base: だ
+      postiion: 3
+    - word: 云つ
+      base: 言う
+      postiion: 4
+    - word: て
+      postiion: 6
+    - word: くれ
+      base: 呉れる
+      postiion: 7
+    - word: まし
+      base: ます
+      postiion: 9
+    - word: た
+      postiion: 11
 - id: Kodomoni Baketa Kitsune-f000094
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 三五郎は隠れようとしても、
-  word_list: [三五郎, は, 隠れよう, と, し, て, も]
   sound: f000094.mp3
   sound_begin: 328680
   sound_end: 330840
+  sentence: 三五郎は隠れようとしても、
+  words:
+    - word: 三五郎
+      postiion: 0
+    - word: は
+      postiion: 3
+    - word: 隠れよう
+      base: 隠れる
+      postiion: 4
+    - word: と
+      postiion: 8
+    - word: し
+      base: 為る
+      postiion: 9
+    - word: て
+      postiion: 10
+    - word: も
+      postiion: 11
 - id: Kodomoni Baketa Kitsune-f000095
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 広い河原のことで、
-  word_list: [広い, 河原, の, こと, で]
   sound: f000095.mp3
   sound_begin: 330840
   sound_end: 332708
+  sentence: 広い河原のことで、
+  words:
+    - word: 広い
+      postiion: 0
+    - word: 河原
+      base: 川原
+      postiion: 2
+    - word: の
+      postiion: 4
+    - word: こと
+      postiion: 5
+    - word: で
+      base: だ
+      postiion: 7
 - id: Kodomoni Baketa Kitsune-f000096
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 隠れ場所がありませんでした。
-  word_list: [隠れ, 場所, が, あり, ませ, ん, でし, た]
   sound: f000096.mp3
   sound_begin: 332708
   sound_end: 334900
+  sentence: 隠れ場所がありませんでした。
+  words:
+    - word: 隠れ
+      base: 隠れる
+      postiion: 0
+    - word: 場所
+      postiion: 2
+    - word: が
+      postiion: 4
+    - word: あり
+      base: 有る
+      postiion: 5
+    - word: ませ
+      base: ます
+      postiion: 7
+    - word: ん
+      base: ず
+      postiion: 9
+    - word: でし
+      base: です
+      postiion: 10
+    - word: た
+      postiion: 12
 - id: Kodomoni Baketa Kitsune-f000097
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: うろうろしてゐるうちに、
-  word_list: [うろうろ, し, て, ゐる, うち, に]
   sound: f000097.mp3
   sound_begin: 337000
   sound_end: 338880
+  sentence: うろうろしてゐるうちに、
+  words:
+    - word: うろうろ
+      postiion: 0
+    - word: し
+      base: 為る
+      postiion: 4
+    - word: て
+      postiion: 5
+    - word: ゐる
+      base: 居る
+      postiion: 6
+    - word: うち
+      base: 内
+      postiion: 8
+    - word: に
+      postiion: 10
 - id: Kodomoni Baketa Kitsune-f000098
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: もう赤鬼は大な鉄の棒をついて向ふからやつて来ました。
-  word_list: [もう, 赤鬼, は, 大な, 鉄, の, 棒, を, つい, て, 向ふ, から, やつ, て, 来, まし, た]
   sound: f000098.mp3
   sound_begin: 338880
   sound_end: 345966
+  sentence: もう赤鬼は大な鉄の棒をついて向ふからやつて来ました。
+  words:
+    - word: もう
+      postiion: 0
+    - word: 赤鬼
+      postiion: 2
+    - word: は
+      postiion: 4
+    - word: 大な
+      base: 大きな
+      postiion: 5
+    - word: 鉄
+      postiion: 7
+    - word: の
+      postiion: 8
+    - word: 棒
+      postiion: 9
+    - word: を
+      postiion: 10
+    - word: つい
+      base: つく
+      postiion: 11
+    - word: て
+      postiion: 13
+    - word: 向ふ
+      base: 向こう
+      postiion: 14
+    - word: から
+      postiion: 16
+    - word: やつ
+      base: 奴
+      postiion: 18
+    - word: て
+      base: って
+      postiion: 20
+    - word: 来
+      base: 来る
+      postiion: 21
+    - word: まし
+      base: ます
+      postiion: 22
+    - word: た
+      postiion: 24
 - id: Kodomoni Baketa Kitsune-f000099
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 赤鬼は、
-  word_list: [赤鬼, は]
   sound: f000099.mp3
   sound_begin: 345966
   sound_end: 347287
+  sentence: 赤鬼は、
+  words:
+    - word: 赤鬼
+      postiion: 0
+    - word: は
+      postiion: 2
 - id: Kodomoni Baketa Kitsune-f000100
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: それはそれは大きな声で、
-  word_list: [それ, は, それ, は, 大きな, 声, で]
   sound: f000100.mp3
   sound_begin: 347287
   sound_end: 349521
+  sentence: それはそれは大きな声で、
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: それ
+      base: 其れ
+      postiion: 3
+    - word: は
+      postiion: 5
+    - word: 大きな
+      postiion: 6
+    - word: 声
+      postiion: 9
+    - word: で
+      base: だ
+      postiion: 10
 - id: Kodomoni Baketa Kitsune-f000101
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 『コラコラ逃げても駄目だぞツ』
-  word_list: [コラコラ, 逃げ, て, も, 駄目, だ, ぞ, ツ]
   sound: f000101.mp3
   sound_begin: 350920
   sound_end: 355783
+  sentence: 『コラコラ逃げても駄目だぞツ』
+  words:
+    - word: コラコラ
+      postiion: 1
+    - word: 逃げ
+      base: 逃げる
+      postiion: 5
+    - word: て
+      postiion: 7
+    - word: も
+      postiion: 8
+    - word: 駄目
+      postiion: 9
+    - word: だ
+      postiion: 11
+    - word: ぞ
+      postiion: 12
+    - word: ツ
+      base: つ
+      postiion: 13
 - id: Kodomoni Baketa Kitsune-f000102
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: と怒鳴りながら駈けて来て、
-  word_list: [と, 怒鳴り, ながら, 駈け, て, 来, て]
   sound: f000102.mp3
   sound_begin: 355783
   sound_end: 357800
+  sentence: と怒鳴りながら駈けて来て、
+  words:
+    - word: と
+      postiion: 0
+    - word: 怒鳴り
+      base: 怒鳴る
+      postiion: 1
+    - word: ながら
+      postiion: 4
+    - word: 駈け
+      base: 駆ける
+      postiion: 7
+    - word: て
+      postiion: 9
+    - word: 来
+      base: 来る
+      postiion: 10
+    - word: て
+      postiion: 11
 - id: Kodomoni Baketa Kitsune-f000103
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: ギユツと、
-  word_list: [ギユツ, と]
   sound: f000103.mp3
   sound_begin: 357800
   sound_end: 358463
+  sentence: ギユツと、
+  words:
+    - word: ギユツ
+      postiion: 0
+    - word: と
+      postiion: 3
 - id: Kodomoni Baketa Kitsune-f000104
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 襟頸を捉んで、
-  word_list: [襟頸, を, 捉, んで]
   sound: f000104.mp3
   sound_begin: 358463
   sound_end: 361158
+  sentence: 襟頸を捉んで、
+  words:
+    - word: 襟頸
+      base: 襟首
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: 捉
+      postiion: 3
+    - word: んで
+      base: で
+      postiion: 4
 - id: Kodomoni Baketa Kitsune-f000105
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 『お前は、
-  word_list: [お前, は]
   sound: f000105.mp3
   sound_begin: 361158
   sound_end: 362511
+  sentence: 『お前は、
+  words:
+    - word: お前
+      base: 御前
+      postiion: 1
+    - word: は
+      postiion: 3
 - id: Kodomoni Baketa Kitsune-f000106
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 泣いてゐた子供をいたはらずに、
-  word_list: [泣い, て, ゐ, た, 子供, を, い, た, はら, ず, に]
   sound: f000106.mp3
   sound_begin: 362511
   sound_end: 365680
+  sentence: 泣いてゐた子供をいたはらずに、
+  words:
+    - word: 泣い
+      base: 泣く
+      postiion: 0
+    - word: て
+      postiion: 2
+    - word: ゐ
+      base: 居る
+      postiion: 3
+    - word: た
+      postiion: 4
+    - word: 子供
+      postiion: 5
+    - word: を
+      postiion: 7
+    - word: い
+      base: 居る
+      postiion: 8
+    - word: た
+      postiion: 9
+    - word: はら
+      base: 張る
+      postiion: 10
+    - word: ず
+      postiion: 12
+    - word: に
+      postiion: 13
 - id: Kodomoni Baketa Kitsune-f000107
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 馬へ乗つて逃ようとしたな』
-  word_list: [馬, へ, 乗, つ, て, 逃よう, と, し, た, な]
   sound: f000107.mp3
   sound_begin: 365680
   sound_end: 369911
+  sentence: 馬へ乗つて逃ようとしたな』
+  words:
+    - word: 馬
+      postiion: 0
+    - word: へ
+      postiion: 1
+    - word: 乗
+      base: 乗り
+      postiion: 2
+    - word: つ
+      postiion: 3
+    - word: て
+      base: って
+      postiion: 4
+    - word: 逃よう
+      base: 逃げる
+      postiion: 5
+    - word: と
+      postiion: 8
+    - word: し
+      base: 為る
+      postiion: 9
+    - word: た
+      postiion: 10
+    - word: な
+      postiion: 11
 - id: Kodomoni Baketa Kitsune-f000108
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: と力一杯にグーウンと三五郎を抛り投げました。
-  word_list: [と, 力, 一杯, に, グー, ウンと, 三五郎, を, 抛り, 投げ, まし, た]
   sound: f000108.mp3
   sound_begin: 369911
   sound_end: 376320
+  sentence: と力一杯にグーウンと三五郎を抛り投げました。
+  words:
+    - word: と
+      postiion: 0
+    - word: 力
+      postiion: 1
+    - word: 一杯
+      postiion: 2
+    - word: に
+      base: だ
+      postiion: 4
+    - word: グー
+      base: ぐう
+      postiion: 5
+    - word: ウンと
+      base: うんと
+      postiion: 7
+    - word: 三五郎
+      postiion: 10
+    - word: を
+      postiion: 13
+    - word: 抛り
+      base: 放る
+      postiion: 14
+    - word: 投げ
+      base: 投げる
+      postiion: 16
+    - word: まし
+      base: ます
+      postiion: 18
+    - word: た
+      postiion: 20
 - id: Kodomoni Baketa Kitsune-f000109
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 三五郎は毬でも投げるやうに投げられてしまひました。
-  word_list: [三五郎, は, 毬, で, も, 投げる, やう, に, 投げ, られ, て, しまひ, まし, た]
   sound: f000109.mp3
   sound_begin: 376320
   sound_end: 380400
+  sentence: 三五郎は毬でも投げるやうに投げられてしまひました。
+  words:
+    - word: 三五郎
+      postiion: 0
+    - word: は
+      postiion: 3
+    - word: 毬
+      postiion: 4
+    - word: で
+      postiion: 5
+    - word: も
+      postiion: 6
+    - word: 投げる
+      postiion: 7
+    - word: やう
+      base: 様
+      postiion: 10
+    - word: に
+      base: だ
+      postiion: 12
+    - word: 投げ
+      base: 投げる
+      postiion: 13
+    - word: られ
+      base: られる
+      postiion: 15
+    - word: て
+      postiion: 17
+    - word: しまひ
+      base: 仕舞う
+      postiion: 18
+    - word: まし
+      base: ます
+      postiion: 21
+    - word: た
+      postiion: 23
 - id: Kodomoni Baketa Kitsune-f000110
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: ややしばらくすると、
-  word_list: [やや, しばらく, する, と]
   sound: f000110.mp3
   sound_begin: 383200
   sound_end: 385078
+  sentence: ややしばらくすると、
+  words:
+    - word: やや
+      postiion: 0
+    - word: しばらく
+      base: 暫く
+      postiion: 2
+    - word: する
+      base: 為る
+      postiion: 6
+    - word: と
+      postiion: 8
 - id: Kodomoni Baketa Kitsune-f000111
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: ドシーンと地べたへ落ちましたが、
-  word_list: [ドシーン, と, 地べた, へ, 落ち, まし, た, が]
   sound: f000111.mp3
   sound_begin: 385078
   sound_end: 389040
+  sentence: ドシーンと地べたへ落ちましたが、
+  words:
+    - word: ドシーン
+      postiion: 0
+    - word: と
+      postiion: 4
+    - word: 地べた
+      postiion: 5
+    - word: へ
+      postiion: 8
+    - word: 落ち
+      base: 落ちる
+      postiion: 9
+    - word: まし
+      base: ます
+      postiion: 11
+    - word: た
+      postiion: 13
+    - word: が
+      postiion: 14
 - id: Kodomoni Baketa Kitsune-f000112
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: そのまま気絶をしてしまひました。
-  word_list: [その, まま, 気絶, を, し, て, しまひ, まし, た]
   sound: f000112.mp3
   sound_begin: 389040
   sound_end: 391640
+  sentence: そのまま気絶をしてしまひました。
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: まま
+      base: 侭
+      postiion: 2
+    - word: 気絶
+      postiion: 4
+    - word: を
+      postiion: 6
+    - word: し
+      base: 為る
+      postiion: 7
+    - word: て
+      postiion: 8
+    - word: しまひ
+      base: 仕舞う
+      postiion: 9
+    - word: まし
+      base: ます
+      postiion: 12
+    - word: た
+      postiion: 14
 - id: Kodomoni Baketa Kitsune-f000113
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 三途の川は
-  word_list: [三途, の, 川, は]
   sound: f000113.mp3
   sound_begin: 395240
   sound_end: 398200
+  sentence: 三途の川は
+  words:
+    - word: 三途
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 川
+      postiion: 3
+    - word: は
+      postiion: 4
 - id: Kodomoni Baketa Kitsune-f000114
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 地獄の一丁目
-  word_list: [地獄, の, 一, 丁目]
   sound: f000114.mp3
   sound_begin: 398200
   sound_end: 401240
+  sentence: 地獄の一丁目
+  words:
+    - word: 地獄
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 一
+      base: '1'
+      postiion: 3
+    - word: 丁目
+      postiion: 4
 - id: Kodomoni Baketa Kitsune-f000115
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 赤鬼さんに
-  word_list: [赤鬼, さん, に]
   sound: f000115.mp3
   sound_begin: 401240
   sound_end: 403640
+  sentence: 赤鬼さんに
+  words:
+    - word: 赤鬼
+      postiion: 0
+    - word: さん
+      postiion: 2
+    - word: に
+      postiion: 4
 - id: Kodomoni Baketa Kitsune-f000116
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 投げられました
-  word_list: [投げ, られ, まし, た]
   sound: f000116.mp3
   sound_begin: 403640
   sound_end: 407640
+  sentence: 投げられました
+  words:
+    - word: 投げ
+      base: 投げる
+      postiion: 0
+    - word: られ
+      base: られる
+      postiion: 2
+    - word: まし
+      base: ます
+      postiion: 4
+    - word: た
+      postiion: 6
 - id: Kodomoni Baketa Kitsune-f000117
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 三五郎さんは
-  word_list: [三五郎, さん, は]
   sound: f000117.mp3
   sound_begin: 407640
   sound_end: 409800
+  sentence: 三五郎さんは
+  words:
+    - word: 三五郎
+      postiion: 0
+    - word: さん
+      postiion: 3
+    - word: は
+      postiion: 5
 - id: Kodomoni Baketa Kitsune-f000118
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 三途の川の
-  word_list: [三途, の, 川, の]
   sound: f000118.mp3
   sound_begin: 409800
   sound_end: 412400
+  sentence: 三途の川の
+  words:
+    - word: 三途
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 川
+      postiion: 3
+    - word: の
+      postiion: 4
 - id: Kodomoni Baketa Kitsune-f000119
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 赤鬼さんに
-  word_list: [赤鬼, さん, に]
   sound: f000119.mp3
   sound_begin: 412400
   sound_end: 414640
+  sentence: 赤鬼さんに
+  words:
+    - word: 赤鬼
+      postiion: 0
+    - word: さん
+      postiion: 2
+    - word: に
+      postiion: 4
 - id: Kodomoni Baketa Kitsune-f000120
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 投げられました
-  word_list: [投げ, られ, まし, た]
   sound: f000120.mp3
   sound_begin: 414640
   sound_end: 417886
+  sentence: 投げられました
+  words:
+    - word: 投げ
+      base: 投げる
+      postiion: 0
+    - word: られ
+      base: られる
+      postiion: 2
+    - word: まし
+      base: ます
+      postiion: 4
+    - word: た
+      postiion: 6
 - id: Kodomoni Baketa Kitsune-f000121
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: このこと話そ
-  word_list: [この, こと, 話そ]
   sound: f000121.mp3
   sound_begin: 417886
   sound_end: 420414
+  sentence: このこと話そ
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: こと
+      postiion: 2
+    - word: 話そ
+      base: 話す
+      postiion: 4
 - id: Kodomoni Baketa Kitsune-f000122
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: このこと聞かそ
-  word_list: [この, こと, 聞かそ]
   sound: f000122.mp3
   sound_begin: 420414
   sound_end: 423560
+  sentence: このこと聞かそ
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: こと
+      postiion: 2
+    - word: 聞かそ
+      base: 聞く
+      postiion: 4
 - id: Kodomoni Baketa Kitsune-f000123
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 三五郎さんは
-  word_list: [三五郎, さん, は]
   sound: f000123.mp3
   sound_begin: 423560
   sound_end: 425840
+  sentence: 三五郎さんは
+  words:
+    - word: 三五郎
+      postiion: 0
+    - word: さん
+      postiion: 3
+    - word: は
+      postiion: 5
 - id: Kodomoni Baketa Kitsune-f000124
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 投げられました
-  word_list: [投げ, られ, まし, た]
   sound: f000124.mp3
   sound_begin: 425840
   sound_end: 428794
+  sentence: 投げられました
+  words:
+    - word: 投げ
+      base: 投げる
+      postiion: 0
+    - word: られ
+      base: られる
+      postiion: 2
+    - word: まし
+      base: ます
+      postiion: 4
+    - word: た
+      postiion: 6
 - id: Kodomoni Baketa Kitsune-f000125
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: と、
-  word_list: [と]
   sound: f000125.mp3
   sound_begin: 428794
   sound_end: 429760
+  sentence: と、
+  words:
+    - word: と
+      postiion: 0
 - id: Kodomoni Baketa Kitsune-f000126
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: どつかで童謡を唄つてゐる声が微に耳にはいつて来ました。
-  word_list: [ど, つか, で, 童謡, を, 唄, つ, て, ゐる, 声, が, 微, に, 耳, に, は, いつ, て, 来, まし, た]
   sound: f000126.mp3
   sound_begin: 429760
   sound_end: 436680
+  sentence: どつかで童謡を唄つてゐる声が微に耳にはいつて来ました。
+  words:
+    - word: ど
+      postiion: 0
+    - word: つか
+      postiion: 1
+    - word: で
+      postiion: 3
+    - word: 童謡
+      postiion: 4
+    - word: を
+      postiion: 6
+    - word: 唄
+      base: 歌
+      postiion: 7
+    - word: つ
+      base: つう
+      postiion: 8
+    - word: て
+      postiion: 9
+    - word: ゐる
+      base: 居る
+      postiion: 10
+    - word: 声
+      postiion: 12
+    - word: が
+      postiion: 13
+    - word: 微
+      base: 微か
+      postiion: 14
+    - word: に
+      base: だ
+      postiion: 15
+    - word: 耳
+      postiion: 16
+    - word: に
+      postiion: 17
+    - word: は
+      postiion: 18
+    - word: いつ
+      postiion: 19
+    - word: て
+      base: って
+      postiion: 21
+    - word: 来
+      base: 来る
+      postiion: 22
+    - word: まし
+      base: ます
+      postiion: 23
+    - word: た
+      postiion: 25
 - id: Kodomoni Baketa Kitsune-f000127
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: はつと目をあいて見ますとあたりはもう真暗で、
-  word_list: [はつ, と, 目, を, あい, て, 見, ます, と, あたり, は, もう, 真暗, で]
   sound: f000127.mp3
   sound_begin: 436680
   sound_end: 442010
+  sentence: はつと目をあいて見ますとあたりはもう真暗で、
+  words:
+    - word: はつ
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: 目
+      postiion: 3
+    - word: を
+      postiion: 4
+    - word: あい
+      base: あく
+      postiion: 5
+    - word: て
+      postiion: 7
+    - word: 見
+      base: 見る
+      postiion: 8
+    - word: ます
+      postiion: 9
+    - word: と
+      postiion: 11
+    - word: あたり
+      base: 辺り
+      postiion: 12
+    - word: は
+      postiion: 15
+    - word: もう
+      postiion: 16
+    - word: 真暗
+      base: 真っ暗
+      postiion: 18
+    - word: で
+      base: だ
+      postiion: 20
 - id: Kodomoni Baketa Kitsune-f000128
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 遠くの方には、
-  word_list: [遠く, の, 方, に, は]
   sound: f000128.mp3
   sound_begin: 442010
   sound_end: 443440
+  sentence: 遠くの方には、
+  words:
+    - word: 遠く
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 方
+      postiion: 3
+    - word: に
+      postiion: 4
+    - word: は
+      postiion: 5
 - id: Kodomoni Baketa Kitsune-f000129
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: チラチラ灯も見えてゐました。
-  word_list: [チラチラ, 灯, も, 見え, て, ゐ, まし, た]
   sound: f000129.mp3
   sound_begin: 443440
   sound_end: 448114
+  sentence: チラチラ灯も見えてゐました。
+  words:
+    - word: チラチラ
+      base: ちらちら
+      postiion: 0
+    - word: 灯
+      base: 明かり
+      postiion: 4
+    - word: も
+      postiion: 5
+    - word: 見え
+      base: 見える
+      postiion: 6
+    - word: て
+      postiion: 8
+    - word: ゐ
+      base: 居る
+      postiion: 9
+    - word: まし
+      base: ます
+      postiion: 10
+    - word: た
+      postiion: 12
 - id: Kodomoni Baketa Kitsune-f000130
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 『ここは地獄のどこか知ら』
-  word_list: [ここ, は, 地獄, の, どこ, か知ら]
   sound: f000130.mp3
   sound_begin: 448114
   sound_end: 451640
+  sentence: 『ここは地獄のどこか知ら』
+  words:
+    - word: ここ
+      base: 此処
+      postiion: 1
+    - word: は
+      postiion: 3
+    - word: 地獄
+      postiion: 4
+    - word: の
+      postiion: 6
+    - word: どこ
+      postiion: 7
+    - word: か知ら
+      base: かしら
+      postiion: 9
 - id: Kodomoni Baketa Kitsune-f000131
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: と無性に悲しくなつて来ました。
-  word_list: [と, 無性, に, 悲しく, なつ, て, 来, まし, た]
   sound: f000131.mp3
   sound_begin: 451640
   sound_end: 455540
+  sentence: と無性に悲しくなつて来ました。
+  words:
+    - word: と
+      postiion: 0
+    - word: 無性
+      postiion: 1
+    - word: に
+      postiion: 3
+    - word: 悲しく
+      base: 悲しい
+      postiion: 4
+    - word: なつ
+      base: 成る
+      postiion: 7
+    - word: て
+      postiion: 9
+    - word: 来
+      base: 来る
+      postiion: 10
+    - word: まし
+      base: ます
+      postiion: 11
+    - word: た
+      postiion: 13
 - id: Kodomoni Baketa Kitsune-f000132
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: すると、
-  word_list: [する, と]
   sound: f000132.mp3
   sound_begin: 457640
   sound_end: 458450
+  sentence: すると、
+  words:
+    - word: する
+      base: 為る
+      postiion: 0
+    - word: と
+      postiion: 2
 - id: Kodomoni Baketa Kitsune-f000133
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: こんどは、
-  word_list: [こんど, は]
   sound: f000133.mp3
   sound_begin: 458450
   sound_end: 461634
+  sentence: こんどは、
+  words:
+    - word: こんど
+      base: 今度
+      postiion: 0
+    - word: は
+      postiion: 3
 - id: Kodomoni Baketa Kitsune-f000134
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 大馬鹿　小馬鹿
-  word_list: [大, 馬鹿, 小, 馬鹿]
   sound: f000134.mp3
   sound_begin: 461634
   sound_end: 464917
+  sentence: 大馬鹿　小馬鹿
+  words:
+    - word: 大
+      postiion: 0
+    - word: 馬鹿
+      postiion: 1
+    - word: 小
+      postiion: 4
+    - word: 馬鹿
+      postiion: 5
 - id: Kodomoni Baketa Kitsune-f000135
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 大馬鹿三五郎
-  word_list: [大, 馬鹿, 三五郎]
   sound: f000135.mp3
   sound_begin: 464917
   sound_end: 468320
+  sentence: 大馬鹿三五郎
+  words:
+    - word: 大
+      postiion: 0
+    - word: 馬鹿
+      postiion: 1
+    - word: 三五郎
+      postiion: 3
 - id: Kodomoni Baketa Kitsune-f000136
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: お馬の上で
-  word_list: [お, 馬, の, 上, で]
   sound: f000136.mp3
   sound_begin: 468320
   sound_end: 470960
+  sentence: お馬の上で
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: 馬
+      postiion: 1
+    - word: の
+      postiion: 2
+    - word: 上
+      postiion: 3
+    - word: で
+      postiion: 4
 - id: Kodomoni Baketa Kitsune-f000137
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 何の夢見てる
-  word_list: [何, の, 夢, 見, てる]
   sound: f000137.mp3
   sound_begin: 470960
   sound_end: 473454
+  sentence: 何の夢見てる
+  words:
+    - word: 何
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 夢
+      postiion: 2
+    - word: 見
+      base: 見る
+      postiion: 3
+    - word: てる
+      postiion: 4
 - id: Kodomoni Baketa Kitsune-f000138
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: トツチン　トツチン
-  word_list: [トツチン, トツチン]
   sound: f000138.mp3
   sound_begin: 473454
   sound_end: 475920
+  sentence: トツチン　トツチン
+  words:
+    - word: トツチン
+      postiion: 0
+    - word: トツチン
+      postiion: 0
 - id: Kodomoni Baketa Kitsune-f000139
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: トツチンチン
-  word_list: [トツチンチン]
   sound: f000139.mp3
   sound_begin: 475920
   sound_end: 478720
+  sentence: トツチンチン
+  words:
+    - word: トツチンチン
+      postiion: 0
 - id: Kodomoni Baketa Kitsune-f000140
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 大馬鹿　小馬鹿
-  word_list: [大, 馬鹿, 小, 馬鹿]
   sound: f000140.mp3
   sound_begin: 478720
   sound_end: 480840
+  sentence: 大馬鹿　小馬鹿
+  words:
+    - word: 大
+      postiion: 0
+    - word: 馬鹿
+      postiion: 1
+    - word: 小
+      postiion: 4
+    - word: 馬鹿
+      postiion: 5
 - id: Kodomoni Baketa Kitsune-f000141
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 大馬鹿三五郎
-  word_list: [大, 馬鹿, 三五郎]
   sound: f000141.mp3
   sound_begin: 480840
   sound_end: 483534
+  sentence: 大馬鹿三五郎
+  words:
+    - word: 大
+      postiion: 0
+    - word: 馬鹿
+      postiion: 1
+    - word: 三五郎
+      postiion: 3
 - id: Kodomoni Baketa Kitsune-f000142
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: トツチン　トツチン
-  word_list: [トツチン, トツチン]
   sound: f000142.mp3
   sound_begin: 483534
   sound_end: 485840
+  sentence: トツチン　トツチン
+  words:
+    - word: トツチン
+      postiion: 0
+    - word: トツチン
+      postiion: 0
 - id: Kodomoni Baketa Kitsune-f000143
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: トツチンチン
-  word_list: [トツチンチン]
   sound: f000143.mp3
   sound_begin: 485840
   sound_end: 488726
+  sentence: トツチンチン
+  words:
+    - word: トツチンチン
+      postiion: 0
 - id: Kodomoni Baketa Kitsune-f000144
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: と、
-  word_list: [と]
   sound: f000144.mp3
   sound_begin: 488726
   sound_end: 489570
+  sentence: と、
+  words:
+    - word: と
+      postiion: 0
 - id: Kodomoni Baketa Kitsune-f000145
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 狐の声で童謡を唄ひながら囃立てゐるのが聞えました。
-  word_list: [狐, の, 声, で, 童謡, を, 唄, ひ, ながら, 囃, 立て, ゐる, の, が, 聞え, まし, た]
   sound: f000145.mp3
   sound_begin: 489570
   sound_end: 494977
+  sentence: 狐の声で童謡を唄ひながら囃立てゐるのが聞えました。
+  words:
+    - word: 狐
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 声
+      postiion: 2
+    - word: で
+      postiion: 3
+    - word: 童謡
+      postiion: 4
+    - word: を
+      postiion: 6
+    - word: 唄
+      base: 歌
+      postiion: 7
+    - word: ひ
+      base: 干る
+      postiion: 8
+    - word: ながら
+      postiion: 9
+    - word: 囃
+      base: 囃す
+      postiion: 12
+    - word: 立て
+      base: 立つ
+      postiion: 13
+    - word: ゐる
+      base: 居る
+      postiion: 15
+    - word: の
+      postiion: 17
+    - word: が
+      postiion: 18
+    - word: 聞え
+      base: 聞こえる
+      postiion: 19
+    - word: まし
+      base: ます
+      postiion: 21
+    - word: た
+      postiion: 23
 - id: Kodomoni Baketa Kitsune-f000146
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 初めて気がついてみますと、
-  word_list: [初めて, 気, が, つい, て, み, ます, と]
   sound: f000146.mp3
   sound_begin: 497080
   sound_end: 499680
+  sentence: 初めて気がついてみますと、
+  words:
+    - word: 初めて
+      postiion: 0
+    - word: 気
+      postiion: 3
+    - word: が
+      postiion: 4
+    - word: つい
+      base: 付く
+      postiion: 5
+    - word: て
+      postiion: 7
+    - word: み
+      base: 見る
+      postiion: 8
+    - word: ます
+      postiion: 9
+    - word: と
+      postiion: 11
 - id: Kodomoni Baketa Kitsune-f000147
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 三五郎は馬に乗つたままで元の所にゐたのでした。
-  word_list: [三五郎, は, 馬, に, 乗, つた, まま, で, 元, の, 所, に, ゐ, た, の, でし, た]
   sound: f000147.mp3
   sound_begin: 499680
   sound_end: 506923
+  sentence: 三五郎は馬に乗つたままで元の所にゐたのでした。
+  words:
+    - word: 三五郎
+      postiion: 0
+    - word: は
+      postiion: 3
+    - word: 馬
+      postiion: 4
+    - word: に
+      postiion: 5
+    - word: 乗
+      base: 乗り
+      postiion: 6
+    - word: つた
+      base: 蔦
+      postiion: 7
+    - word: まま
+      base: 侭
+      postiion: 9
+    - word: で
+      postiion: 11
+    - word: 元
+      postiion: 12
+    - word: の
+      postiion: 13
+    - word: 所
+      postiion: 14
+    - word: に
+      postiion: 15
+    - word: ゐ
+      base: 居る
+      postiion: 16
+    - word: た
+      postiion: 17
+    - word: の
+      postiion: 18
+    - word: でし
+      base: です
+      postiion: 19
+    - word: た
+      postiion: 21
 - id: Kodomoni Baketa Kitsune-f000148
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: 三五郎は、
-  word_list: [三五郎, は]
   sound: f000148.mp3
   sound_begin: 506923
   sound_end: 508570
+  sentence: 三五郎は、
+  words:
+    - word: 三五郎
+      postiion: 0
+    - word: は
+      postiion: 3
 - id: Kodomoni Baketa Kitsune-f000149
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
   deck_name_japanese: 子供に化けた狐
-  sentence: やつぱり狐にだまされてしまつたのでした。
-  word_list: [やつぱり, 狐, に, だまさ, れ, て, しまつ, た, の, でし, た]
   sound: f000149.mp3
   sound_begin: 508570
   sound_end: 514100
+  sentence: やつぱり狐にだまされてしまつたのでした。
+  words:
+    - word: やつぱり
+      base: 矢張り
+      postiion: 0
+    - word: 狐
+      postiion: 4
+    - word: に
+      postiion: 5
+    - word: だまさ
+      base: 騙す
+      postiion: 6
+    - word: れ
+      base: れる
+      postiion: 9
+    - word: て
+      postiion: 10
+    - word: しまつ
+      base: 仕舞う
+      postiion: 11
+    - word: た
+      postiion: 14
+    - word: の
+      postiion: 15
+    - word: でし
+      base: です
+      postiion: 16
+    - word: た
+      postiion: 18

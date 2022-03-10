@@ -2,1259 +2,3537 @@
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 三角と四角
-  word_list: [三角, と, 四角]
   sound: f000002.mp3
   sound_begin: 6200
   sound_end: 10600
+  sentence: 三角と四角
+  words:
+    - word: 三角
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: 四角
+      postiion: 3
 - id: Sankakuto Shikaku-f000003
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 数学の中に幾何というものがある。
-  word_list: [数学, の, 中, に, 幾何, と, いう, もの, が, ある]
   sound: f000003.mp3
   sound_begin: 10600
   sound_end: 13600
+  sentence: 数学の中に幾何というものがある。
+  words:
+    - word: 数学
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 中
+      postiion: 3
+    - word: に
+      postiion: 4
+    - word: 幾何
+      postiion: 5
+    - word: と
+      postiion: 7
+    - word: いう
+      base: 言う
+      postiion: 8
+    - word: もの
+      base: 物
+      postiion: 10
+    - word: が
+      postiion: 12
+    - word: ある
+      base: 有る
+      postiion: 13
 - id: Sankakuto Shikaku-f000004
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 幾何を学ぶにわ、
-  word_list: [幾何, を, 学ぶ, に, わ]
   sound: f000004.mp3
   sound_begin: 13600
   sound_end: 16239
+  sentence: 幾何を学ぶにわ、
+  words:
+    - word: 幾何
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: 学ぶ
+      postiion: 3
+    - word: に
+      postiion: 5
+    - word: わ
+      postiion: 6
 - id: Sankakuto Shikaku-f000005
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 是非とも定木が入る。
-  word_list: [是非, と, も, 定木, が, 入る]
   sound: f000005.mp3
   sound_begin: 16239
   sound_end: 19040
+  sentence: 是非とも定木が入る。
+  words:
+    - word: 是非
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: も
+      postiion: 3
+    - word: 定木
+      postiion: 4
+    - word: が
+      postiion: 6
+    - word: 入る
+      postiion: 7
 - id: Sankakuto Shikaku-f000006
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: その定木の中に、
-  word_list: [その, 定木, の, 中, に]
   sound: f000006.mp3
   sound_begin: 19040
   sound_end: 20600
+  sentence: その定木の中に、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 定木
+      postiion: 2
+    - word: の
+      postiion: 4
+    - word: 中
+      postiion: 5
+    - word: に
+      postiion: 6
 - id: Sankakuto Shikaku-f000007
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 三角定木というのがある。
-  word_list: [三角, 定木, と, いう, の, が, ある]
   sound: f000007.mp3
   sound_begin: 20600
   sound_end: 22360
+  sentence: 三角定木というのがある。
+  words:
+    - word: 三角
+      postiion: 0
+    - word: 定木
+      postiion: 2
+    - word: と
+      postiion: 4
+    - word: いう
+      base: 言う
+      postiion: 5
+    - word: の
+      postiion: 7
+    - word: が
+      postiion: 8
+    - word: ある
+      base: 有る
+      postiion: 9
 - id: Sankakuto Shikaku-f000008
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: ──これわ大方諸君も御存じでしょう。
-  word_list: [─, ─, これ, わ, 大方, 諸君, も, 御, 存じ, でしょう]
   sound: f000008.mp3
   sound_begin: 22360
   sound_end: 27967
+  sentence: ──これわ大方諸君も御存じでしょう。
+  words:
+    - word: ─
+      postiion: 0
+    - word: ─
+      postiion: 0
+    - word: これ
+      base: 此れ
+      postiion: 2
+    - word: わ
+      postiion: 4
+    - word: 大方
+      postiion: 5
+    - word: 諸君
+      postiion: 7
+    - word: も
+      postiion: 9
+    - word: 御
+      postiion: 10
+    - word: 存じ
+      base: 存ずる
+      postiion: 11
+    - word: でしょう
+      base: です
+      postiion: 13
 - id: Sankakuto Shikaku-f000009
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: ところがこの三角定木、
-  word_list: [ところ, が, この, 三角, 定木]
   sound: f000009.mp3
   sound_begin: 27967
   sound_end: 30560
+  sentence: ところがこの三角定木、
+  words:
+    - word: ところ
+      base: 所
+      postiion: 0
+    - word: が
+      postiion: 3
+    - word: この
+      base: 此の
+      postiion: 4
+    - word: 三角
+      postiion: 6
+    - word: 定木
+      postiion: 8
 - id: Sankakuto Shikaku-f000010
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 自分の体にわ、
-  word_list: [自分, の, 体, に, わ]
   sound: f000010.mp3
   sound_begin: 30560
   sound_end: 32159
+  sentence: 自分の体にわ、
+  words:
+    - word: 自分
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 体
+      postiion: 3
+    - word: に
+      postiion: 4
+    - word: わ
+      postiion: 5
 - id: Sankakuto Shikaku-f000011
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 三方に尖った角のあるのを、
-  word_list: [三, 方, に, 尖っ, た, 角, の, ある, の, を]
   sound: f000011.mp3
   sound_begin: 32159
   sound_end: 34480
+  sentence: 三方に尖った角のあるのを、
+  words:
+    - word: 三
+      base: '3'
+      postiion: 0
+    - word: 方
+      postiion: 1
+    - word: に
+      postiion: 2
+    - word: 尖っ
+      base: 尖る
+      postiion: 3
+    - word: た
+      postiion: 5
+    - word: 角
+      postiion: 6
+    - word: の
+      postiion: 7
+    - word: ある
+      base: 有る
+      postiion: 8
+    - word: の
+      postiion: 10
+    - word: を
+      postiion: 11
 - id: Sankakuto Shikaku-f000012
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 大層自慢に致し、
-  word_list: [大層, 自慢, に, 致し]
   sound: f000012.mp3
   sound_begin: 34480
   sound_end: 37280
+  sentence: 大層自慢に致し、
+  words:
+    - word: 大層
+      postiion: 0
+    - word: 自慢
+      postiion: 2
+    - word: に
+      postiion: 4
+    - word: 致し
+      base: 致す
+      postiion: 5
 - id: Sankakuto Shikaku-f000013
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 世間に品も多いが、
-  word_list: [世間, に, 品, も, 多い, が]
   sound: f000013.mp3
   sound_begin: 37280
   sound_end: 39320
+  sentence: 世間に品も多いが、
+  words:
+    - word: 世間
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: 品
+      postiion: 3
+    - word: も
+      postiion: 4
+    - word: 多い
+      postiion: 5
+    - word: が
+      postiion: 7
 - id: Sankakuto Shikaku-f000014
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 乃公ほど角のあるものわあるまい、
-  word_list: [乃公, ほど, 角, の, ある, もの, わ, ある, まい]
   sound: f000014.mp3
   sound_begin: 39320
   sound_end: 41950
+  sentence: 乃公ほど角のあるものわあるまい、
+  words:
+    - word: 乃公
+      postiion: 0
+    - word: ほど
+      postiion: 2
+    - word: 角
+      postiion: 4
+    - word: の
+      postiion: 5
+    - word: ある
+      base: 有る
+      postiion: 6
+    - word: もの
+      base: 物
+      postiion: 8
+    - word: わ
+      postiion: 10
+    - word: ある
+      base: 有る
+      postiion: 11
+    - word: まい
+      postiion: 13
 - id: Sankakuto Shikaku-f000015
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 角にかけてわ乃公が一番だと、
-  word_list: [角, に, かけ, て, わ, 乃公, が, 一番, だ, と]
   sound: f000015.mp3
   sound_begin: 41950
   sound_end: 45008
+  sentence: 角にかけてわ乃公が一番だと、
+  words:
+    - word: 角
+      postiion: 0
+    - word: に
+      postiion: 1
+    - word: かけ
+      base: 掛ける
+      postiion: 2
+    - word: て
+      postiion: 4
+    - word: わ
+      postiion: 5
+    - word: 乃公
+      postiion: 6
+    - word: が
+      postiion: 8
+    - word: 一番
+      postiion: 9
+    - word: だ
+      postiion: 11
+    - word: と
+      postiion: 12
 - id: Sankakuto Shikaku-f000016
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: たった三つよりない角を、
-  word_list: [たった, 三, つ, より, ない, 角, を]
   sound: f000016.mp3
   sound_begin: 45008
   sound_end: 47520
+  sentence: たった三つよりない角を、
+  words:
+    - word: たった
+      base: 唯
+      postiion: 0
+    - word: 三
+      base: '3'
+      postiion: 3
+    - word: つ
+      postiion: 4
+    - word: より
+      postiion: 5
+    - word: ない
+      base: 無い
+      postiion: 7
+    - word: 角
+      postiion: 9
+    - word: を
+      postiion: 10
 - id: Sankakuto Shikaku-f000017
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 酷く鼻にかけておりました。
-  word_list: [酷く, 鼻, に, かけ, て, おり, まし, た]
   sound: f000017.mp3
   sound_begin: 47520
   sound_end: 50730
+  sentence: 酷く鼻にかけておりました。
+  words:
+    - word: 酷く
+      base: 酷い
+      postiion: 0
+    - word: 鼻
+      postiion: 2
+    - word: に
+      postiion: 3
+    - word: かけ
+      base: 掛ける
+      postiion: 4
+    - word: て
+      postiion: 6
+    - word: おり
+      base: おる
+      postiion: 7
+    - word: まし
+      base: ます
+      postiion: 9
+    - word: た
+      postiion: 11
 - id: Sankakuto Shikaku-f000018
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: すると或る日、
-  word_list: [する, と, 或る, 日]
   sound: f000018.mp3
   sound_begin: 50730
   sound_end: 52974
+  sentence: すると或る日、
+  words:
+    - word: する
+      base: 為る
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: 或る
+      postiion: 3
+    - word: 日
+      postiion: 5
 - id: Sankakuto Shikaku-f000019
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 同じ机の上にあった鉛筆が来ていうにわ、
-  word_list: [同じ, 机, の, 上, に, あっ, た, 鉛筆, が, 来, て, いう, に, わ]
   sound: f000019.mp3
   sound_begin: 52974
   sound_end: 57440
+  sentence: 同じ机の上にあった鉛筆が来ていうにわ、
+  words:
+    - word: 同じ
+      postiion: 0
+    - word: 机
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: 上
+      postiion: 4
+    - word: に
+      postiion: 5
+    - word: あっ
+      base: 有る
+      postiion: 6
+    - word: た
+      postiion: 8
+    - word: 鉛筆
+      postiion: 9
+    - word: が
+      postiion: 11
+    - word: 来
+      base: 来る
+      postiion: 12
+    - word: て
+      postiion: 13
+    - word: いう
+      base: 言う
+      postiion: 14
+    - word: に
+      postiion: 16
+    - word: わ
+      postiion: 17
 - id: Sankakuto Shikaku-f000020
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: （筆）三角さん三角さん、
-  word_list: [筆, 三角, さん, 三角, さん]
   sound: f000020.mp3
   sound_begin: 57440
   sound_end: 59640
+  sentence: （筆）三角さん三角さん、
+  words:
+    - word: 筆
+      postiion: 1
+    - word: 三角
+      postiion: 3
+    - word: さん
+      postiion: 5
+    - word: 三角
+      postiion: 7
+    - word: さん
+      postiion: 9
 - id: Sankakuto Shikaku-f000021
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: お前わ平常から大層その角を自慢しているし、
-  word_list: [お前, わ, 平常, から, 大層, その, 角, を, 自慢, し, て, いる, し]
   sound: f000021.mp3
   sound_begin: 59640
   sound_end: 63360
+  sentence: お前わ平常から大層その角を自慢しているし、
+  words:
+    - word: お前
+      base: 御前
+      postiion: 0
+    - word: わ
+      postiion: 2
+    - word: 平常
+      postiion: 3
+    - word: から
+      postiion: 5
+    - word: 大層
+      postiion: 7
+    - word: その
+      base: 其の
+      postiion: 9
+    - word: 角
+      postiion: 11
+    - word: を
+      postiion: 12
+    - word: 自慢
+      postiion: 13
+    - word: し
+      base: 為る
+      postiion: 15
+    - word: て
+      postiion: 16
+    - word: いる
+      base: 居る
+      postiion: 17
+    - word: し
+      postiion: 19
 - id: Sankakuto Shikaku-f000022
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 私らもまたお前ほど角の多いものわないと思っていたが、
-  word_list: [私, ら, も, また, お前, ほど, 角, の, 多い, もの, わ, ない, と, 思っ, て, い, た, が]
   sound: f000022.mp3
   sound_begin: 63360
   sound_end: 67525
+  sentence: 私らもまたお前ほど角の多いものわないと思っていたが、
+  words:
+    - word: 私
+      postiion: 0
+    - word: ら
+      base: 等
+      postiion: 1
+    - word: も
+      postiion: 2
+    - word: また
+      base: 又
+      postiion: 3
+    - word: お前
+      base: 御前
+      postiion: 5
+    - word: ほど
+      postiion: 7
+    - word: 角
+      postiion: 9
+    - word: の
+      postiion: 10
+    - word: 多い
+      postiion: 11
+    - word: もの
+      base: 物
+      postiion: 13
+    - word: わ
+      postiion: 15
+    - word: ない
+      base: 無い
+      postiion: 16
+    - word: と
+      postiion: 18
+    - word: 思っ
+      base: 思う
+      postiion: 19
+    - word: て
+      postiion: 21
+    - word: い
+      base: 居る
+      postiion: 22
+    - word: た
+      postiion: 23
+    - word: が
+      postiion: 24
 - id: Sankakuto Shikaku-f000023
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: この間来た画板を見たかイ。
-  word_list: [この, 間, 来, た, 画板, を, 見, た, か, イ]
   sound: f000023.mp3
   sound_begin: 67525
   sound_end: 70400
+  sentence: この間来た画板を見たかイ。
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: 間
+      postiion: 2
+    - word: 来
+      base: 来る
+      postiion: 3
+    - word: た
+      postiion: 4
+    - word: 画板
+      postiion: 5
+    - word: を
+      postiion: 7
+    - word: 見
+      base: 見る
+      postiion: 8
+    - word: た
+      postiion: 9
+    - word: か
+      postiion: 10
+    - word: イ
+      postiion: 11
 - id: Sankakuto Shikaku-f000024
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: あれわお前よりまた角が多いぜ。
-  word_list: [あれ, わ, お前, より, また, 角, が, 多い, ぜ]
   sound: f000024.mp3
   sound_begin: 70400
   sound_end: 72960
+  sentence: あれわお前よりまた角が多いぜ。
+  words:
+    - word: あれ
+      base: 彼れ
+      postiion: 0
+    - word: わ
+      postiion: 2
+    - word: お前
+      base: 御前
+      postiion: 3
+    - word: より
+      postiion: 5
+    - word: また
+      base: 又
+      postiion: 7
+    - word: 角
+      postiion: 9
+    - word: が
+      postiion: 10
+    - word: 多い
+      postiion: 11
+    - word: ぜ
+      postiion: 13
 - id: Sankakuto Shikaku-f000025
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: と、
-  word_list: [と]
   sound: f000025.mp3
   sound_begin: 72960
   sound_end: 74320
+  sentence: と、
+  words:
+    - word: と
+      postiion: 0
 - id: Sankakuto Shikaku-f000026
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: いいますから、
-  word_list: [いい, ます, から]
   sound: f000026.mp3
   sound_begin: 74320
   sound_end: 75600
+  sentence: いいますから、
+  words:
+    - word: いい
+      base: 言う
+      postiion: 0
+    - word: ます
+      postiion: 2
+    - word: から
+      postiion: 4
 - id: Sankakuto Shikaku-f000027
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 三角わ少し不平の顔色で、
-  word_list: [三角, わ, 少し, 不平, の, 顔色, で]
   sound: f000027.mp3
   sound_begin: 75600
   sound_end: 79040
+  sentence: 三角わ少し不平の顔色で、
+  words:
+    - word: 三角
+      postiion: 0
+    - word: わ
+      postiion: 2
+    - word: 少し
+      postiion: 3
+    - word: 不平
+      postiion: 5
+    - word: の
+      postiion: 7
+    - word: 顔色
+      postiion: 8
+    - word: で
+      base: だ
+      postiion: 10
 - id: Sankakuto Shikaku-f000028
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: （三）ナニ僕より角の多い奴がおる。
-  word_list: [三, ナニ, 僕, より, 角, の, 多い, 奴, が, おる]
   sound: f000028.mp3
   sound_begin: 79040
   sound_end: 83280
+  sentence: （三）ナニ僕より角の多い奴がおる。
+  words:
+    - word: 三
+      base: '3'
+      postiion: 1
+    - word: ナニ
+      base: 何
+      postiion: 3
+    - word: 僕
+      postiion: 5
+    - word: より
+      postiion: 6
+    - word: 角
+      postiion: 8
+    - word: の
+      postiion: 9
+    - word: 多い
+      postiion: 10
+    - word: 奴
+      postiion: 12
+    - word: が
+      postiion: 13
+    - word: おる
+      base: 居る
+      postiion: 14
 - id: Sankakuto Shikaku-f000029
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 馬鹿いい給うな。
-  word_list: [馬鹿, いい, 給う, な]
   sound: f000029.mp3
   sound_begin: 83280
   sound_end: 85560
+  sentence: 馬鹿いい給うな。
+  words:
+    - word: 馬鹿
+      postiion: 0
+    - word: いい
+      base: 言う
+      postiion: 2
+    - word: 給う
+      postiion: 4
+    - word: な
+      postiion: 6
 - id: Sankakuto Shikaku-f000030
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 凡そ世界わ広しといえども、
-  word_list: [凡そ, 世界, わ, 広し, と, いえ, ど, も]
   sound: f000030.mp3
   sound_begin: 85560
   sound_end: 87720
+  sentence: 凡そ世界わ広しといえども、
+  words:
+    - word: 凡そ
+      postiion: 0
+    - word: 世界
+      postiion: 2
+    - word: わ
+      postiion: 4
+    - word: 広し
+      base: 広い
+      postiion: 5
+    - word: と
+      postiion: 7
+    - word: いえ
+      base: 言う
+      postiion: 8
+    - word: ど
+      postiion: 10
+    - word: も
+      postiion: 11
 - id: Sankakuto Shikaku-f000031
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 僕より余計に角を持た奴わないはずだ。
-  word_list: [僕, より, 余計, に, 角, を, 持た, 奴, わ, ない, はず, だ]
   sound: f000031.mp3
   sound_begin: 87720
   sound_end: 91880
+  sentence: 僕より余計に角を持た奴わないはずだ。
+  words:
+    - word: 僕
+      postiion: 0
+    - word: より
+      postiion: 1
+    - word: 余計
+      postiion: 3
+    - word: に
+      base: だ
+      postiion: 5
+    - word: 角
+      postiion: 6
+    - word: を
+      postiion: 7
+    - word: 持た
+      base: 持つ
+      postiion: 8
+    - word: 奴
+      postiion: 10
+    - word: わ
+      postiion: 11
+    - word: ない
+      base: 無い
+      postiion: 12
+    - word: はず
+      base: 筈
+      postiion: 14
+    - word: だ
+      postiion: 16
 - id: Sankakuto Shikaku-f000032
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: （筆）ところがあるから仕方がない。
-  word_list: [筆, ところ, が, ある, から, 仕方, が, ない]
   sound: f000032.mp3
   sound_begin: 91880
   sound_end: 95171
+  sentence: （筆）ところがあるから仕方がない。
+  words:
+    - word: 筆
+      postiion: 1
+    - word: ところ
+      base: 所
+      postiion: 3
+    - word: が
+      postiion: 6
+    - word: ある
+      base: 有る
+      postiion: 7
+    - word: から
+      postiion: 9
+    - word: 仕方
+      postiion: 11
+    - word: が
+      postiion: 13
+    - word: ない
+      base: 無い
+      postiion: 14
 - id: Sankakuto Shikaku-f000033
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: （三）ナニそれわ君達の眼が如何かしてるのだ。
-  word_list: [三, ナニ, それ, わ, 君, 達, の, 眼, が, 如何, か, し, てる, の, だ]
   sound: f000033.mp3
   sound_begin: 95171
   sound_end: 99413
+  sentence: （三）ナニそれわ君達の眼が如何かしてるのだ。
+  words:
+    - word: 三
+      base: '3'
+      postiion: 1
+    - word: ナニ
+      base: 何
+      postiion: 3
+    - word: それ
+      base: 其れ
+      postiion: 5
+    - word: わ
+      postiion: 7
+    - word: 君
+      postiion: 8
+    - word: 達
+      postiion: 9
+    - word: の
+      postiion: 10
+    - word: 眼
+      base: 目
+      postiion: 11
+    - word: が
+      postiion: 12
+    - word: 如何
+      postiion: 13
+    - word: か
+      postiion: 15
+    - word: し
+      base: 為る
+      postiion: 16
+    - word: てる
+      postiion: 17
+    - word: の
+      postiion: 19
+    - word: だ
+      postiion: 20
 - id: Sankakuto Shikaku-f000034
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: （筆）ナニ如何も仕てるものか、
-  word_list: [筆, ナニ, 如何, も, 仕, てる, もの, か]
   sound: f000034.mp3
   sound_begin: 99413
   sound_end: 102320
+  sentence: （筆）ナニ如何も仕てるものか、
+  words:
+    - word: 筆
+      postiion: 1
+    - word: ナニ
+      base: 何
+      postiion: 3
+    - word: 如何
+      postiion: 5
+    - word: も
+      postiion: 7
+    - word: 仕
+      base: 為る
+      postiion: 8
+    - word: てる
+      postiion: 9
+    - word: もの
+      base: 物
+      postiion: 11
+    - word: か
+      postiion: 13
 - id: Sankakuto Shikaku-f000035
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 嘘だと思うなら行て見給え！
-  word_list: [嘘, だ, と, 思う, なら, 行, て, 見, 給え]
   sound: f000035.mp3
   sound_begin: 102320
   sound_end: 105320
+  sentence: 嘘だと思うなら行て見給え！
+  words:
+    - word: 嘘
+      postiion: 0
+    - word: だ
+      postiion: 1
+    - word: と
+      postiion: 2
+    - word: 思う
+      postiion: 3
+    - word: なら
+      base: だ
+      postiion: 5
+    - word: 行
+      postiion: 7
+    - word: て
+      base: って
+      postiion: 8
+    - word: 見
+      base: 見る
+      postiion: 9
+    - word: 給え
+      base: 給う
+      postiion: 10
 - id: Sankakuto Shikaku-f000036
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: （三）そんなら行て見よう。
-  word_list: [三, そんな, ら行, て, 見よう]
   sound: f000036.mp3
   sound_begin: 105320
   sound_end: 107480
+  sentence: （三）そんなら行て見よう。
+  words:
+    - word: 三
+      base: '3'
+      postiion: 1
+    - word: そんな
+      postiion: 3
+    - word: ら行
+      postiion: 6
+    - word: て
+      base: って
+      postiion: 8
+    - word: 見よう
+      base: 見る
+      postiion: 9
 - id: Sankakuto Shikaku-f000037
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 嘘だったら承知しないよ。
-  word_list: [嘘, だっ, たら, 承知, し, ない, よ]
   sound: f000037.mp3
   sound_begin: 107480
   sound_end: 109960
+  sentence: 嘘だったら承知しないよ。
+  words:
+    - word: 嘘
+      postiion: 0
+    - word: だっ
+      base: だ
+      postiion: 1
+    - word: たら
+      base: た
+      postiion: 3
+    - word: 承知
+      postiion: 5
+    - word: し
+      base: 為る
+      postiion: 7
+    - word: ない
+      postiion: 8
+    - word: よ
+      postiion: 10
 - id: Sankakuto Shikaku-f000038
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: （筆）いいとも嘘なら首でもやるワ。
-  word_list: [筆, いい, と, も, 嘘, なら, 首, で, も, やる, ワ]
   sound: f000038.mp3
   sound_begin: 109960
   sound_end: 112800
+  sentence: （筆）いいとも嘘なら首でもやるワ。
+  words:
+    - word: 筆
+      postiion: 1
+    - word: いい
+      base: 良い
+      postiion: 3
+    - word: と
+      postiion: 5
+    - word: も
+      postiion: 6
+    - word: 嘘
+      postiion: 7
+    - word: なら
+      base: だ
+      postiion: 8
+    - word: 首
+      postiion: 10
+    - word: で
+      postiion: 11
+    - word: も
+      postiion: 12
+    - word: やる
+      base: 遣る
+      postiion: 13
+    - word: ワ
+      base: わ
+      postiion: 15
 - id: Sankakuto Shikaku-f000039
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: と、
-  word_list: [と]
   sound: f000039.mp3
   sound_begin: 114600
   sound_end: 115505
+  sentence: と、
+  words:
+    - word: と
+      postiion: 0
 - id: Sankakuto Shikaku-f000040
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: これから連れ立って行て見ますと、
-  word_list: [これ, から, 連れ, 立っ, て, 行, て, 見, ます, と]
   sound: f000040.mp3
   sound_begin: 115505
   sound_end: 119680
+  sentence: これから連れ立って行て見ますと、
+  words:
+    - word: これ
+      base: 此れ
+      postiion: 0
+    - word: から
+      postiion: 2
+    - word: 連れ
+      base: 連れる
+      postiion: 4
+    - word: 立っ
+      base: 立つ
+      postiion: 6
+    - word: て
+      postiion: 8
+    - word: 行
+      postiion: 9
+    - word: て
+      base: って
+      postiion: 10
+    - word: 見
+      base: 見る
+      postiion: 11
+    - word: ます
+      postiion: 12
+    - word: と
+      postiion: 14
 - id: Sankakuto Shikaku-f000041
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: なるほど画板わ真ッ四角で、
-  word_list: [なるほど, 画板, わ, 真ッ, 四角, で]
   sound: f000041.mp3
   sound_begin: 119680
   sound_end: 121360
+  sentence: なるほど画板わ真ッ四角で、
+  words:
+    - word: なるほど
+      base: 成る程
+      postiion: 0
+    - word: 画板
+      postiion: 4
+    - word: わ
+      postiion: 6
+    - word: 真ッ
+      base: 真
+      postiion: 7
+    - word: 四角
+      postiion: 9
+    - word: で
+      base: だ
+      postiion: 11
 - id: Sankakuto Shikaku-f000042
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 自分よりわ一角多く、
-  word_list: [自分, より, わ, 一角, 多く]
   sound: f000042.mp3
   sound_begin: 121360
   sound_end: 123680
+  sentence: 自分よりわ一角多く、
+  words:
+    - word: 自分
+      postiion: 0
+    - word: より
+      postiion: 2
+    - word: わ
+      postiion: 4
+    - word: 一角
+      postiion: 5
+    - word: 多く
+      base: 多い
+      postiion: 7
 - id: Sankakuto Shikaku-f000043
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: しかも今まで自分を褒めていた連中が、
-  word_list: [しかも, 今, まで, 自分, を, 褒め, て, い, た, 連中, が]
   sound: f000043.mp3
   sound_begin: 123680
   sound_end: 127200
+  sentence: しかも今まで自分を褒めていた連中が、
+  words:
+    - word: しかも
+      base: 然も
+      postiion: 0
+    - word: 今
+      postiion: 3
+    - word: まで
+      postiion: 4
+    - word: 自分
+      postiion: 6
+    - word: を
+      postiion: 8
+    - word: 褒め
+      base: 褒める
+      postiion: 9
+    - word: て
+      postiion: 11
+    - word: い
+      base: 居る
+      postiion: 12
+    - word: た
+      postiion: 13
+    - word: 連中
+      postiion: 14
+    - word: が
+      postiion: 16
 - id: Sankakuto Shikaku-f000044
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 今でわみんな画板の方ばかり向いて、
-  word_list: [今, で, わ, みんな, 画板, の, 方, ばかり, 向い, て]
   sound: f000044.mp3
   sound_begin: 127200
   sound_end: 130199
+  sentence: 今でわみんな画板の方ばかり向いて、
+  words:
+    - word: 今
+      postiion: 0
+    - word: で
+      base: だ
+      postiion: 1
+    - word: わ
+      postiion: 2
+    - word: みんな
+      base: 皆
+      postiion: 3
+    - word: 画板
+      postiion: 6
+    - word: の
+      postiion: 8
+    - word: 方
+      postiion: 9
+    - word: ばかり
+      postiion: 10
+    - word: 向い
+      base: 向く
+      postiion: 13
+    - word: て
+      postiion: 15
 - id: Sankakuto Shikaku-f000045
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 頻りにその角を褒めている様子です。
-  word_list: [頻り, に, その, 角, を, 褒め, て, いる, 様子, です]
   sound: f000045.mp3
   sound_begin: 130199
   sound_end: 134433
+  sentence: 頻りにその角を褒めている様子です。
+  words:
+    - word: 頻り
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: その
+      base: 其の
+      postiion: 3
+    - word: 角
+      postiion: 5
+    - word: を
+      postiion: 6
+    - word: 褒め
+      base: 褒める
+      postiion: 7
+    - word: て
+      postiion: 9
+    - word: いる
+      base: 居る
+      postiion: 10
+    - word: 様子
+      postiion: 12
+    - word: です
+      postiion: 14
 - id: Sankakuto Shikaku-f000046
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: （筆）どうだイ嘘じゃあるまい。
-  word_list: [筆, どう, だ, イ, 嘘, じゃ, ある, まい]
   sound: f000046.mp3
   sound_begin: 134433
   sound_end: 137442
+  sentence: （筆）どうだイ嘘じゃあるまい。
+  words:
+    - word: 筆
+      postiion: 1
+    - word: どう
+      postiion: 3
+    - word: だ
+      postiion: 5
+    - word: イ
+      postiion: 6
+    - word: 嘘
+      postiion: 7
+    - word: じゃ
+      base: だ
+      postiion: 8
+    - word: ある
+      base: 有る
+      postiion: 10
+    - word: まい
+      postiion: 12
 - id: Sankakuto Shikaku-f000047
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: （三）なるほど此奴わ恐れ入た。
-  word_list: [三, なるほど, 此奴, わ, 恐れ, 入, た]
   sound: f000047.mp3
   sound_begin: 137442
   sound_end: 141561
+  sentence: （三）なるほど此奴わ恐れ入た。
+  words:
+    - word: 三
+      base: '3'
+      postiion: 1
+    - word: なるほど
+      base: 成る程
+      postiion: 3
+    - word: 此奴
+      postiion: 7
+    - word: わ
+      postiion: 9
+    - word: 恐れ
+      base: 恐れる
+      postiion: 10
+    - word: 入
+      base: 入る
+      postiion: 12
+    - word: た
+      postiion: 13
 - id: Sankakuto Shikaku-f000048
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: と、
-  word_list: [と]
   sound: f000048.mp3
   sound_begin: 141561
   sound_end: 142480
+  sentence: と、
+  words:
+    - word: と
+      postiion: 0
 - id: Sankakuto Shikaku-f000049
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: さすがの三角定木も、
-  word_list: [さすが, の, 三角, 定木, も]
   sound: f000049.mp3
   sound_begin: 142480
   sound_end: 144200
+  sentence: さすがの三角定木も、
+  words:
+    - word: さすが
+      base: 流石
+      postiion: 0
+    - word: の
+      postiion: 3
+    - word: 三角
+      postiion: 4
+    - word: 定木
+      postiion: 6
+    - word: も
+      postiion: 8
 - id: Sankakuto Shikaku-f000050
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: こうなると頭を掻くより他わありません。
-  word_list: [こう, なる, と, 頭, を, 掻く, より, 他, わ, あり, ませ, ん]
   sound: f000050.mp3
   sound_begin: 144200
   sound_end: 148160
+  sentence: こうなると頭を掻くより他わありません。
+  words:
+    - word: こう
+      postiion: 0
+    - word: なる
+      base: 成る
+      postiion: 2
+    - word: と
+      postiion: 4
+    - word: 頭
+      postiion: 5
+    - word: を
+      postiion: 6
+    - word: 掻く
+      postiion: 7
+    - word: より
+      postiion: 9
+    - word: 他
+      postiion: 11
+    - word: わ
+      postiion: 12
+    - word: あり
+      base: 有る
+      postiion: 13
+    - word: ませ
+      base: ます
+      postiion: 15
+    - word: ん
+      base: ず
+      postiion: 17
 - id: Sankakuto Shikaku-f000051
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 大いに面目を失いましたが、
-  word_list: [大いに, 面目, を, 失い, まし, た, が]
   sound: f000051.mp3
   sound_begin: 148160
   sound_end: 150760
+  sentence: 大いに面目を失いましたが、
+  words:
+    - word: 大いに
+      postiion: 0
+    - word: 面目
+      postiion: 3
+    - word: を
+      postiion: 5
+    - word: 失い
+      base: 失う
+      postiion: 6
+    - word: まし
+      base: ます
+      postiion: 8
+    - word: た
+      postiion: 10
+    - word: が
+      postiion: 11
 - id: Sankakuto Shikaku-f000052
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: しかし心の中でわ、
-  word_list: [しかし, 心, の, 中, で, わ]
   sound: f000052.mp3
   sound_begin: 150760
   sound_end: 152680
+  sentence: しかし心の中でわ、
+  words:
+    - word: しかし
+      base: 然し
+      postiion: 0
+    - word: 心
+      postiion: 3
+    - word: の
+      postiion: 4
+    - word: 中
+      postiion: 5
+    - word: で
+      base: だ
+      postiion: 6
+    - word: わ
+      postiion: 7
 - id: Sankakuto Shikaku-f000053
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: まだ負惜しみという奴があって、
-  word_list: [まだ, 負, 惜しみ, と, いう, 奴, が, あっ, て]
   sound: f000053.mp3
   sound_begin: 152680
   sound_end: 155800
+  sentence: まだ負惜しみという奴があって、
+  words:
+    - word: まだ
+      base: 未だ
+      postiion: 0
+    - word: 負
+      postiion: 2
+    - word: 惜しみ
+      base: 惜しむ
+      postiion: 3
+    - word: と
+      postiion: 6
+    - word: いう
+      base: 言う
+      postiion: 7
+    - word: 奴
+      postiion: 9
+    - word: が
+      postiion: 10
+    - word: あっ
+      base: 有る
+      postiion: 11
+    - word: て
+      postiion: 13
 - id: Sankakuto Shikaku-f000054
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: おのれ生意気な画板め、
-  word_list: [おのれ, 生, 意気, な, 画板, め]
   sound: f000054.mp3
   sound_begin: 155800
   sound_end: 157760
+  sentence: おのれ生意気な画板め、
+  words:
+    - word: おのれ
+      base: 己
+      postiion: 0
+    - word: 生
+      postiion: 3
+    - word: 意気
+      postiion: 4
+    - word: な
+      base: だ
+      postiion: 6
+    - word: 画板
+      postiion: 7
+    - word: め
+      postiion: 9
 - id: Sankakuto Shikaku-f000055
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 余計な角を持て来やがって、
-  word_list: [余計, な, 角, を, 持て, 来, やがっ, て]
   sound: f000055.mp3
   sound_begin: 157760
   sound_end: 160560
+  sentence: 余計な角を持て来やがって、
+  words:
+    - word: 余計
+      postiion: 0
+    - word: な
+      base: だ
+      postiion: 2
+    - word: 角
+      postiion: 3
+    - word: を
+      postiion: 4
+    - word: 持て
+      base: 持つ
+      postiion: 5
+    - word: 来
+      base: 来る
+      postiion: 7
+    - word: やがっ
+      base: やがる
+      postiion: 8
+    - word: て
+      postiion: 11
 - id: Sankakuto Shikaku-f000056
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: よくも乃公に赤恥をかかせやがったな。
-  word_list: [よく, も, 乃公, に, 赤恥, を, かか, せ, やがっ, た, な]
   sound: f000056.mp3
   sound_begin: 160560
   sound_end: 163855
+  sentence: よくも乃公に赤恥をかかせやがったな。
+  words:
+    - word: よく
+      base: 良く
+      postiion: 0
+    - word: も
+      postiion: 2
+    - word: 乃公
+      postiion: 3
+    - word: に
+      postiion: 5
+    - word: 赤恥
+      postiion: 6
+    - word: を
+      postiion: 8
+    - word: かか
+      base: かく
+      postiion: 9
+    - word: せ
+      base: せる
+      postiion: 11
+    - word: やがっ
+      base: やがる
+      postiion: 12
+    - word: た
+      postiion: 15
+    - word: な
+      postiion: 16
 - id: Sankakuto Shikaku-f000057
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: どうするか覚えていろと、
-  word_list: [どう, する, か, 覚え, て, いろ, と]
   sound: f000057.mp3
   sound_begin: 163855
   sound_end: 167400
+  sentence: どうするか覚えていろと、
+  words:
+    - word: どう
+      postiion: 0
+    - word: する
+      base: 為る
+      postiion: 2
+    - word: か
+      postiion: 4
+    - word: 覚え
+      base: 覚える
+      postiion: 5
+    - word: て
+      postiion: 7
+    - word: いろ
+      base: 居る
+      postiion: 8
+    - word: と
+      postiion: 10
 - id: Sankakuto Shikaku-f000058
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 果わ悔しまぎれに良くない了簡を起しました。
-  word_list: [果, わ, 悔しまぎれ, に, 良く, ない, 了簡, を, 起し, まし, た]
   sound: f000058.mp3
   sound_begin: 167400
   sound_end: 172120
+  sentence: 果わ悔しまぎれに良くない了簡を起しました。
+  words:
+    - word: 果
+      base: 果て
+      postiion: 0
+    - word: わ
+      postiion: 1
+    - word: 悔しまぎれ
+      base: 悔し紛れ
+      postiion: 2
+    - word: に
+      base: だ
+      postiion: 7
+    - word: 良く
+      base: 良い
+      postiion: 8
+    - word: ない
+      base: 無い
+      postiion: 10
+    - word: 了簡
+      base: 了見
+      postiion: 12
+    - word: を
+      postiion: 14
+    - word: 起し
+      base: 起こす
+      postiion: 15
+    - word: まし
+      base: ます
+      postiion: 17
+    - word: た
+      postiion: 19
 - id: Sankakuto Shikaku-f000059
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: で、
-  word_list: [で]
   sound: f000059.mp3
   sound_begin: 172120
   sound_end: 172840
+  sentence: で、
+  words:
+    - word: で
+      postiion: 0
 - id: Sankakuto Shikaku-f000060
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: そのまま帰ると、
-  word_list: [その, まま, 帰る, と]
   sound: f000060.mp3
   sound_begin: 172840
   sound_end: 174240
+  sentence: そのまま帰ると、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: まま
+      base: 侭
+      postiion: 2
+    - word: 帰る
+      postiion: 4
+    - word: と
+      postiion: 6
 - id: Sankakuto Shikaku-f000061
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 直ぐに近所の鋏の処え参り、
-  word_list: [直ぐ, に, 近所, の, 鋏, の, 処, え, 参り]
   sound: f000061.mp3
   sound_begin: 174240
   sound_end: 177962
+  sentence: 直ぐに近所の鋏の処え参り、
+  words:
+    - word: 直ぐ
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: 近所
+      postiion: 3
+    - word: の
+      postiion: 5
+    - word: 鋏
+      base: はさみ
+      postiion: 6
+    - word: の
+      postiion: 7
+    - word: 処
+      postiion: 8
+    - word: え
+      base: えー
+      postiion: 9
+    - word: 参り
+      base: 参る
+      postiion: 10
 - id: Sankakuto Shikaku-f000062
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: （三）鋏君、
-  word_list: [三, 鋏, 君]
   sound: f000062.mp3
   sound_begin: 177962
   sound_end: 180040
+  sentence: （三）鋏君、
+  words:
+    - word: 三
+      base: '3'
+      postiion: 1
+    - word: 鋏
+      base: はさみ
+      postiion: 3
+    - word: 君
+      postiion: 4
 - id: Sankakuto Shikaku-f000063
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 申兼たが今夜一ト晩、
-  word_list: [申, 兼, た, が, 今夜, 一, ト, 晩]
   sound: f000063.mp3
   sound_begin: 180040
   sound_end: 182320
+  sentence: 申兼たが今夜一ト晩、
+  words:
+    - word: 申
+      postiion: 0
+    - word: 兼
+      base: 兼ねる
+      postiion: 1
+    - word: た
+      postiion: 2
+    - word: が
+      postiion: 3
+    - word: 今夜
+      postiion: 4
+    - word: 一
+      base: '1'
+      postiion: 6
+    - word: ト
+      base: と
+      postiion: 7
+    - word: 晩
+      postiion: 8
 - id: Sankakuto Shikaku-f000064
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 君の体を貸してくれまいか。
-  word_list: [君, の, 体, を, 貸し, て, くれ, まい, か]
   sound: f000064.mp3
   sound_begin: 182320
   sound_end: 185386
+  sentence: 君の体を貸してくれまいか。
+  words:
+    - word: 君
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 体
+      postiion: 2
+    - word: を
+      postiion: 3
+    - word: 貸し
+      base: 貸す
+      postiion: 4
+    - word: て
+      postiion: 6
+    - word: くれ
+      base: 呉れる
+      postiion: 7
+    - word: まい
+      postiion: 9
+    - word: か
+      postiion: 11
 - id: Sankakuto Shikaku-f000065
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 鋏わこれを聞いて、
-  word_list: [鋏, わ, これ, を, 聞い, て]
   sound: f000065.mp3
   sound_begin: 185386
   sound_end: 187852
+  sentence: 鋏わこれを聞いて、
+  words:
+    - word: 鋏
+      base: はさみ
+      postiion: 0
+    - word: わ
+      postiion: 1
+    - word: これ
+      base: 此れ
+      postiion: 2
+    - word: を
+      postiion: 4
+    - word: 聞い
+      base: 聞く
+      postiion: 5
+    - word: て
+      postiion: 7
 - id: Sankakuto Shikaku-f000066
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: （鋏）なるほど、
-  word_list: [鋏, なるほど]
   sound: f000066.mp3
   sound_begin: 187852
   sound_end: 189840
+  sentence: （鋏）なるほど、
+  words:
+    - word: 鋏
+      base: はさみ
+      postiion: 1
+    - word: なるほど
+      base: 成る程
+      postiion: 3
 - id: Sankakuto Shikaku-f000067
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 次第によってわ貸すまいものでもないが、
-  word_list: [次第, に, よっ, て, わ, 貸す, まい, もの, で, も, ない, が]
   sound: f000067.mp3
   sound_begin: 189840
   sound_end: 193600
+  sentence: 次第によってわ貸すまいものでもないが、
+  words:
+    - word: 次第
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: よっ
+      base: よる
+      postiion: 3
+    - word: て
+      postiion: 5
+    - word: わ
+      postiion: 6
+    - word: 貸す
+      postiion: 7
+    - word: まい
+      postiion: 9
+    - word: もの
+      base: 物
+      postiion: 11
+    - word: で
+      base: だ
+      postiion: 13
+    - word: も
+      postiion: 14
+    - word: ない
+      base: 無い
+      postiion: 15
+    - word: が
+      postiion: 17
 - id: Sankakuto Shikaku-f000068
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 一体何を切るのだ。
-  word_list: [一体, 何, を, 切る, の, だ]
   sound: f000068.mp3
   sound_begin: 193600
   sound_end: 196440
+  sentence: 一体何を切るのだ。
+  words:
+    - word: 一体
+      postiion: 0
+    - word: 何
+      postiion: 2
+    - word: を
+      postiion: 3
+    - word: 切る
+      postiion: 4
+    - word: の
+      postiion: 6
+    - word: だ
+      postiion: 7
 - id: Sankakuto Shikaku-f000069
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: （三）ちっと硬いものを切りたいのだが、
-  word_list: [三, ちっと, 硬い, もの, を, 切り, たい, の, だ, が]
   sound: f000069.mp3
   sound_begin: 196440
   sound_end: 199680
+  sentence: （三）ちっと硬いものを切りたいのだが、
+  words:
+    - word: 三
+      base: '3'
+      postiion: 1
+    - word: ちっと
+      base: 一寸
+      postiion: 3
+    - word: 硬い
+      base: 固い
+      postiion: 6
+    - word: もの
+      base: 物
+      postiion: 8
+    - word: を
+      postiion: 10
+    - word: 切り
+      base: 切る
+      postiion: 11
+    - word: たい
+      postiion: 13
+    - word: の
+      postiion: 15
+    - word: だ
+      postiion: 16
+    - word: が
+      postiion: 17
 - id: Sankakuto Shikaku-f000070
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: よく切れるかイ。
-  word_list: [よく, 切れる, か, イ]
   sound: f000070.mp3
   sound_begin: 199680
   sound_end: 200720
+  sentence: よく切れるかイ。
+  words:
+    - word: よく
+      base: 良く
+      postiion: 0
+    - word: 切れる
+      base: 切る
+      postiion: 2
+    - word: か
+      postiion: 5
+    - word: イ
+      postiion: 6
 - id: Sankakuto Shikaku-f000071
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: （鋏）大抵なものなら切て見せるが、
-  word_list: [鋏, 大抵, な, もの, なら, 切, て, 見せる, が]
   sound: f000071.mp3
   sound_begin: 202420
   sound_end: 205240
+  sentence: （鋏）大抵なものなら切て見せるが、
+  words:
+    - word: 鋏
+      base: はさみ
+      postiion: 1
+    - word: 大抵
+      postiion: 3
+    - word: な
+      base: だ
+      postiion: 5
+    - word: もの
+      base: 物
+      postiion: 6
+    - word: なら
+      base: だ
+      postiion: 8
+    - word: 切
+      base: 切れ
+      postiion: 10
+    - word: て
+      base: って
+      postiion: 11
+    - word: 見せる
+      postiion: 12
+    - word: が
+      postiion: 15
 - id: Sankakuto Shikaku-f000072
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: それでも六かしいと思うならまア一遍磨いで行くさ。
-  word_list: [それ, で, も, 六, か, しい, と, 思う, なら, まア, 一遍, 磨い, で, 行く, さ]
   sound: f000072.mp3
   sound_begin: 205240
   sound_end: 211231
+  sentence: それでも六かしいと思うならまア一遍磨いで行くさ。
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: で
+      postiion: 2
+    - word: も
+      postiion: 3
+    - word: 六
+      base: '6'
+      postiion: 4
+    - word: か
+      postiion: 5
+    - word: しい
+      postiion: 6
+    - word: と
+      postiion: 8
+    - word: 思う
+      postiion: 9
+    - word: なら
+      base: だ
+      postiion: 11
+    - word: まア
+      base: まあ
+      postiion: 13
+    - word: 一遍
+      postiion: 15
+    - word: 磨い
+      base: 研ぐ
+      postiion: 17
+    - word: で
+      postiion: 19
+    - word: 行く
+      postiion: 20
+    - word: さ
+      postiion: 22
 - id: Sankakuto Shikaku-f000073
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: （三）そうか、
-  word_list: [三, そう, か]
   sound: f000073.mp3
   sound_begin: 211231
   sound_end: 212360
+  sentence: （三）そうか、
+  words:
+    - word: 三
+      base: '3'
+      postiion: 1
+    - word: そう
+      postiion: 3
+    - word: か
+      postiion: 5
 - id: Sankakuto Shikaku-f000074
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: そんなら磨がしてくれたまえ。
-  word_list: [そん, なら, 磨, が, し, て, くれ, た, まえ]
   sound: f000074.mp3
   sound_begin: 212360
   sound_end: 214400
+  sentence: そんなら磨がしてくれたまえ。
+  words:
+    - word: そん
+      base: 其れ
+      postiion: 0
+    - word: なら
+      base: だ
+      postiion: 2
+    - word: 磨
+      postiion: 4
+    - word: が
+      postiion: 5
+    - word: し
+      base: 為る
+      postiion: 6
+    - word: て
+      postiion: 7
+    - word: くれ
+      base: 呉れる
+      postiion: 8
+    - word: た
+      postiion: 10
+    - word: まえ
+      base: 前
+      postiion: 11
 - id: Sankakuto Shikaku-f000075
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 痛かろうけども頼まれたが因果だ、
-  word_list: [痛かろう, けど, も, 頼ま, れ, た, が, 因果, だ]
   sound: f000075.mp3
   sound_begin: 214400
   sound_end: 217760
+  sentence: 痛かろうけども頼まれたが因果だ、
+  words:
+    - word: 痛かろう
+      base: 痛い
+      postiion: 0
+    - word: けど
+      base: けれど
+      postiion: 4
+    - word: も
+      postiion: 6
+    - word: 頼ま
+      base: 頼む
+      postiion: 7
+    - word: れ
+      base: れる
+      postiion: 9
+    - word: た
+      postiion: 10
+    - word: が
+      postiion: 11
+    - word: 因果
+      postiion: 12
+    - word: だ
+      postiion: 14
 - id: Sankakuto Shikaku-f000076
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: ちっとの間辛抱頼む。
-  word_list: [ちっと, の, 間, 辛抱, 頼む]
   sound: f000076.mp3
   sound_begin: 217760
   sound_end: 220850
+  sentence: ちっとの間辛抱頼む。
+  words:
+    - word: ちっと
+      base: 一寸
+      postiion: 0
+    - word: の
+      postiion: 3
+    - word: 間
+      postiion: 4
+    - word: 辛抱
+      postiion: 5
+    - word: 頼む
+      postiion: 7
 - id: Sankakuto Shikaku-f000077
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: と、
-  word_list: [と]
   sound: f000077.mp3
   sound_begin: 220850
   sound_end: 221852
+  sentence: と、
+  words:
+    - word: と
+      postiion: 0
 - id: Sankakuto Shikaku-f000078
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: これから三角定木わ、
-  word_list: [これ, から, 三角, 定木, わ]
   sound: f000078.mp3
   sound_begin: 221852
   sound_end: 223476
+  sentence: これから三角定木わ、
+  words:
+    - word: これ
+      base: 此れ
+      postiion: 0
+    - word: から
+      postiion: 2
+    - word: 三角
+      postiion: 4
+    - word: 定木
+      postiion: 6
+    - word: わ
+      postiion: 8
 - id: Sankakuto Shikaku-f000079
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 件んの鋏をば磨ぎ立てまして、
-  word_list: [件, ん, の, 鋏, をば, 磨ぎ, 立て, まし, て]
   sound: f000079.mp3
   sound_begin: 223476
   sound_end: 226160
+  sentence: 件んの鋏をば磨ぎ立てまして、
+  words:
+    - word: 件
+      postiion: 0
+    - word: ん
+      postiion: 1
+    - word: の
+      postiion: 2
+    - word: 鋏
+      base: はさみ
+      postiion: 3
+    - word: をば
+      postiion: 4
+    - word: 磨ぎ
+      base: 研ぐ
+      postiion: 6
+    - word: 立て
+      base: 立つ
+      postiion: 8
+    - word: まし
+      base: ます
+      postiion: 10
+    - word: て
+      postiion: 12
 - id: Sankakuto Shikaku-f000080
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: もうこれならば大丈夫と、
-  word_list: [もう, これ, なら, ば, 大丈夫, と]
   sound: f000080.mp3
   sound_begin: 226160
   sound_end: 228520
+  sentence: もうこれならば大丈夫と、
+  words:
+    - word: もう
+      postiion: 0
+    - word: これ
+      base: 此れ
+      postiion: 2
+    - word: なら
+      base: だ
+      postiion: 4
+    - word: ば
+      postiion: 6
+    - word: 大丈夫
+      postiion: 7
+    - word: と
+      postiion: 10
 - id: Sankakuto Shikaku-f000081
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: その日の暮れるのを、
-  word_list: [その, 日, の, 暮れる, の, を]
   sound: f000081.mp3
   sound_begin: 228520
   sound_end: 230400
+  sentence: その日の暮れるのを、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 日
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: 暮れる
+      postiion: 4
+    - word: の
+      postiion: 7
+    - word: を
+      postiion: 8
 - id: Sankakuto Shikaku-f000082
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 今か今かと待ちかまえておりました。
-  word_list: [今, か, 今, か, と, 待ち, かまえ, て, おり, まし, た]
   sound: f000082.mp3
   sound_begin: 230400
   sound_end: 236177
+  sentence: 今か今かと待ちかまえておりました。
+  words:
+    - word: 今
+      postiion: 0
+    - word: か
+      postiion: 1
+    - word: 今
+      postiion: 2
+    - word: か
+      postiion: 3
+    - word: と
+      postiion: 4
+    - word: 待ち
+      base: 待つ
+      postiion: 5
+    - word: かまえ
+      base: 構える
+      postiion: 7
+    - word: て
+      postiion: 10
+    - word: おり
+      base: おる
+      postiion: 11
+    - word: まし
+      base: ます
+      postiion: 13
+    - word: た
+      postiion: 15
 - id: Sankakuto Shikaku-f000083
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: その中に日も暮れて、
-  word_list: [その, 中, に, 日, も, 暮れ, て]
   sound: f000083.mp3
   sound_begin: 236177
   sound_end: 238717
+  sentence: その中に日も暮れて、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 中
+      postiion: 2
+    - word: に
+      postiion: 3
+    - word: 日
+      postiion: 4
+    - word: も
+      postiion: 5
+    - word: 暮れ
+      base: 暮れる
+      postiion: 6
+    - word: て
+      postiion: 8
 - id: Sankakuto Shikaku-f000084
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 夜も更けて、
-  word_list: [夜, も, 更け, て]
   sound: f000084.mp3
   sound_begin: 238717
   sound_end: 240520
+  sentence: 夜も更けて、
+  words:
+    - word: 夜
+      postiion: 0
+    - word: も
+      postiion: 1
+    - word: 更け
+      base: 更ける
+      postiion: 2
+    - word: て
+      postiion: 4
 - id: Sankakuto Shikaku-f000085
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 四隣も寝静まったと思う頃、
-  word_list: [四隣, も, 寝, 静まっ, た, と, 思う, 頃]
   sound: f000085.mp3
   sound_begin: 240520
   sound_end: 243560
+  sentence: 四隣も寝静まったと思う頃、
+  words:
+    - word: 四隣
+      postiion: 0
+    - word: も
+      postiion: 2
+    - word: 寝
+      base: 寝る
+      postiion: 3
+    - word: 静まっ
+      base: 静まる
+      postiion: 4
+    - word: た
+      postiion: 7
+    - word: と
+      postiion: 8
+    - word: 思う
+      postiion: 9
+    - word: 頃
+      postiion: 11
 - id: Sankakuto Shikaku-f000086
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 三角定木わムクムクと床を出て例の鋏をば小脇にかかえ、
-  word_list: [三角, 定木, わ, ムクムク, と, 床, を, 出, て, 例, の, 鋏, をば, 小脇, に, かかえ]
   sound: f000086.mp3
   sound_begin: 243560
   sound_end: 249800
+  sentence: 三角定木わムクムクと床を出て例の鋏をば小脇にかかえ、
+  words:
+    - word: 三角
+      postiion: 0
+    - word: 定木
+      postiion: 2
+    - word: わ
+      postiion: 4
+    - word: ムクムク
+      base: むくむく
+      postiion: 5
+    - word: と
+      postiion: 9
+    - word: 床
+      postiion: 10
+    - word: を
+      postiion: 11
+    - word: 出
+      base: 出る
+      postiion: 12
+    - word: て
+      postiion: 13
+    - word: 例
+      postiion: 14
+    - word: の
+      postiion: 15
+    - word: 鋏
+      base: はさみ
+      postiion: 16
+    - word: をば
+      postiion: 17
+    - word: 小脇
+      postiion: 19
+    - word: に
+      postiion: 21
+    - word: かかえ
+      base: 抱える
+      postiion: 22
 - id: Sankakuto Shikaku-f000087
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: さし足ぬき足で、
-  word_list: [さし足, ぬき足, で]
   sound: f000087.mp3
   sound_begin: 249800
   sound_end: 251640
+  sentence: さし足ぬき足で、
+  words:
+    - word: さし足
+      base: 差し足
+      postiion: 0
+    - word: ぬき足
+      base: 抜き足
+      postiion: 3
+    - word: で
+      base: だ
+      postiion: 6
 - id: Sankakuto Shikaku-f000088
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 彼の画板の寝ている処え、
-  word_list: [彼, の, 画板, の, 寝, て, いる, 処, え]
   sound: f000088.mp3
   sound_begin: 251640
   sound_end: 254160
+  sentence: 彼の画板の寝ている処え、
+  words:
+    - word: 彼
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 画板
+      postiion: 2
+    - word: の
+      postiion: 4
+    - word: 寝
+      base: 寝る
+      postiion: 5
+    - word: て
+      postiion: 6
+    - word: いる
+      base: 居る
+      postiion: 7
+    - word: 処
+      postiion: 9
+    - word: え
+      base: えー
+      postiion: 10
 - id: Sankakuto Shikaku-f000089
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: そっと忍んで参りました。
-  word_list: [そっと, 忍ん, で, 参り, まし, た]
   sound: f000089.mp3
   sound_begin: 254160
   sound_end: 257920
+  sentence: そっと忍んで参りました。
+  words:
+    - word: そっと
+      postiion: 0
+    - word: 忍ん
+      base: 忍ぶ
+      postiion: 3
+    - word: で
+      postiion: 5
+    - word: 参り
+      base: 参る
+      postiion: 6
+    - word: まし
+      base: ます
+      postiion: 8
+    - word: た
+      postiion: 10
 - id: Sankakuto Shikaku-f000090
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 見ると画板わ、
-  word_list: [見る, と, 画板, わ]
   sound: f000090.mp3
   sound_begin: 257920
   sound_end: 260040
+  sentence: 見ると画板わ、
+  words:
+    - word: 見る
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: 画板
+      postiion: 3
+    - word: わ
+      postiion: 5
 - id: Sankakuto Shikaku-f000091
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 前後も知らぬ高鼾で、
-  word_list: [前後, も, 知ら, ぬ, 高鼾, で]
   sound: f000091.mp3
   sound_begin: 260040
   sound_end: 262800
+  sentence: 前後も知らぬ高鼾で、
+  words:
+    - word: 前後
+      postiion: 0
+    - word: も
+      postiion: 2
+    - word: 知ら
+      base: 知る
+      postiion: 3
+    - word: ぬ
+      base: ず
+      postiion: 5
+    - word: 高鼾
+      postiion: 6
+    - word: で
+      base: だ
+      postiion: 8
 - id: Sankakuto Shikaku-f000092
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: さも心持快さそうに寝ておりますから、
-  word_list: [さも, 心持, 快さ, そう, に, 寝, て, おり, ます, から]
   sound: f000092.mp3
   sound_begin: 262800
   sound_end: 266536
+  sentence: さも心持快さそうに寝ておりますから、
+  words:
+    - word: さも
+      base: 然も
+      postiion: 0
+    - word: 心持
+      base: 心持ち
+      postiion: 2
+    - word: 快さ
+      base: 良い
+      postiion: 4
+    - word: そう
+      postiion: 6
+    - word: に
+      base: だ
+      postiion: 8
+    - word: 寝
+      base: 寝る
+      postiion: 9
+    - word: て
+      postiion: 10
+    - word: おり
+      base: おる
+      postiion: 11
+    - word: ます
+      postiion: 13
+    - word: から
+      postiion: 15
 - id: Sankakuto Shikaku-f000093
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 〆めた！
-  word_list: [〆め, た]
   sound: f000093.mp3
   sound_begin: 266536
   sound_end: 268400
+  sentence: 〆めた！
+  words:
+    - word: 〆め
+      base: 締める
+      postiion: 0
+    - word: た
+      postiion: 2
 - id: Sankakuto Shikaku-f000094
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: おのれ画板め、
-  word_list: [おのれ, 画板, め]
   sound: f000094.mp3
   sound_begin: 268400
   sound_end: 270480
+  sentence: おのれ画板め、
+  words:
+    - word: おのれ
+      base: 己
+      postiion: 0
+    - word: 画板
+      postiion: 3
+    - word: め
+      postiion: 5
 - id: Sankakuto Shikaku-f000095
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 今乃公が貴様の角を、
-  word_list: [今, 乃公, が, 貴様, の, 角, を]
   sound: f000095.mp3
   sound_begin: 270480
   sound_end: 272600
+  sentence: 今乃公が貴様の角を、
+  words:
+    - word: 今
+      postiion: 0
+    - word: 乃公
+      postiion: 1
+    - word: が
+      postiion: 3
+    - word: 貴様
+      postiion: 4
+    - word: の
+      postiion: 6
+    - word: 角
+      postiion: 7
+    - word: を
+      postiion: 8
 - id: Sankakuto Shikaku-f000096
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 残らず取り払ってやるからにわ、
-  word_list: [残ら, ず, 取り, 払っ, て, やる, から, に, わ]
   sound: f000096.mp3
   sound_begin: 272600
   sound_end: 275840
+  sentence: 残らず取り払ってやるからにわ、
+  words:
+    - word: 残ら
+      base: 残る
+      postiion: 0
+    - word: ず
+      postiion: 2
+    - word: 取り
+      base: 取る
+      postiion: 3
+    - word: 払っ
+      base: 払う
+      postiion: 5
+    - word: て
+      postiion: 7
+    - word: やる
+      base: 遣る
+      postiion: 8
+    - word: から
+      postiion: 10
+    - word: に
+      postiion: 12
+    - word: わ
+      postiion: 13
 - id: Sankakuto Shikaku-f000097
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: もう明日からわ角なしだ、
-  word_list: [もう, 明日, から, わ, 角, なし, だ]
   sound: f000097.mp3
   sound_begin: 275840
   sound_end: 278572
+  sentence: もう明日からわ角なしだ、
+  words:
+    - word: もう
+      postiion: 0
+    - word: 明日
+      postiion: 2
+    - word: から
+      postiion: 4
+    - word: わ
+      postiion: 6
+    - word: 角
+      postiion: 7
+    - word: なし
+      postiion: 8
+    - word: だ
+      postiion: 10
 - id: Sankakuto Shikaku-f000098
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: いくら威張っても追い付かんぞと、
-  word_list: [いくら, 威張っ, て, も, 追い, 付か, ん, ぞ, と]
   sound: f000098.mp3
   sound_begin: 278572
   sound_end: 282080
+  sentence: いくら威張っても追い付かんぞと、
+  words:
+    - word: いくら
+      base: 幾ら
+      postiion: 0
+    - word: 威張っ
+      base: 威張る
+      postiion: 3
+    - word: て
+      postiion: 6
+    - word: も
+      postiion: 7
+    - word: 追い
+      base: 追う
+      postiion: 8
+    - word: 付か
+      base: 付く
+      postiion: 10
+    - word: ん
+      base: ず
+      postiion: 12
+    - word: ぞ
+      postiion: 13
+    - word: と
+      postiion: 14
 - id: Sankakuto Shikaku-f000099
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 腹の中で散々悪態を吐きながら、
-  word_list: [腹, の, 中, で, 散々, 悪態, を, 吐き, ながら]
   sound: f000099.mp3
   sound_begin: 282080
   sound_end: 285160
+  sentence: 腹の中で散々悪態を吐きながら、
+  words:
+    - word: 腹
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 中
+      postiion: 2
+    - word: で
+      postiion: 3
+    - word: 散々
+      postiion: 4
+    - word: 悪態
+      postiion: 6
+    - word: を
+      postiion: 8
+    - word: 吐き
+      base: 吐く
+      postiion: 9
+    - word: ながら
+      postiion: 11
 - id: Sankakuto Shikaku-f000100
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 突然チョキリ！
-  word_list: [突然, チョキリ]
   sound: f000100.mp3
   sound_begin: 285160
   sound_end: 287760
+  sentence: 突然チョキリ！
+  words:
+    - word: 突然
+      postiion: 0
+    - word: チョキリ
+      postiion: 2
 - id: Sankakuto Shikaku-f000101
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 一角切て落しましたが、
-  word_list: [一角, 切, て, 落し, まし, た, が]
   sound: f000101.mp3
   sound_begin: 287760
   sound_end: 289920
+  sentence: 一角切て落しましたが、
+  words:
+    - word: 一角
+      postiion: 0
+    - word: 切
+      base: 切り
+      postiion: 2
+    - word: て
+      base: って
+      postiion: 3
+    - word: 落し
+      base: 落とす
+      postiion: 4
+    - word: まし
+      base: ます
+      postiion: 6
+    - word: た
+      postiion: 8
+    - word: が
+      postiion: 9
 - id: Sankakuto Shikaku-f000102
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: まだ気が付かない様子ですから、
-  word_list: [まだ, 気, が, 付か, ない, 様子, です, から]
   sound: f000102.mp3
   sound_begin: 289920
   sound_end: 292200
+  sentence: まだ気が付かない様子ですから、
+  words:
+    - word: まだ
+      base: 未だ
+      postiion: 0
+    - word: 気
+      postiion: 2
+    - word: が
+      postiion: 3
+    - word: 付か
+      base: 付く
+      postiion: 4
+    - word: ない
+      postiion: 6
+    - word: 様子
+      postiion: 8
+    - word: です
+      postiion: 10
+    - word: から
+      postiion: 12
 - id: Sankakuto Shikaku-f000103
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: また一角をチョキリ！
-  word_list: [また, 一角, を, チョキリ]
   sound: f000103.mp3
   sound_begin: 292200
   sound_end: 295560
+  sentence: また一角をチョキリ！
+  words:
+    - word: また
+      base: 又
+      postiion: 0
+    - word: 一角
+      postiion: 2
+    - word: を
+      postiion: 4
+    - word: チョキリ
+      postiion: 5
 - id: Sankakuto Shikaku-f000104
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: それでも眼が醒めないから、
-  word_list: [それ, で, も, 眼, が, 醒め, ない, から]
   sound: f000104.mp3
   sound_begin: 295560
   sound_end: 298116
+  sentence: それでも眼が醒めないから、
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: で
+      postiion: 2
+    - word: も
+      postiion: 3
+    - word: 眼
+      base: 目
+      postiion: 4
+    - word: が
+      postiion: 5
+    - word: 醒め
+      base: 覚める
+      postiion: 6
+    - word: ない
+      postiion: 8
+    - word: から
+      postiion: 10
 - id: Sankakuto Shikaku-f000105
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: こりゃよくよく寝坊だわイ、
-  word_list: [こりゃ, よくよく, 寝坊, だ, わ, イ]
   sound: f000105.mp3
   sound_begin: 298116
   sound_end: 301150
+  sentence: こりゃよくよく寝坊だわイ、
+  words:
+    - word: こりゃ
+      base: 此れ
+      postiion: 0
+    - word: よくよく
+      base: 良く良く
+      postiion: 3
+    - word: 寝坊
+      postiion: 7
+    - word: だ
+      postiion: 9
+    - word: わ
+      postiion: 10
+    - word: イ
+      postiion: 11
 - id: Sankakuto Shikaku-f000106
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: といいながら、
-  word_list: [と, いい, ながら]
   sound: f000106.mp3
   sound_begin: 301150
   sound_end: 303073
+  sentence: といいながら、
+  words:
+    - word: と
+      postiion: 0
+    - word: いい
+      base: 言う
+      postiion: 1
+    - word: ながら
+      postiion: 3
 - id: Sankakuto Shikaku-f000107
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: チョキリ！
-  word_list: [チョキリ]
   sound: f000107.mp3
   sound_begin: 303073
   sound_end: 303998
+  sentence: チョキリ！
+  words:
+    - word: チョキリ
+      postiion: 0
 - id: Sankakuto Shikaku-f000108
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: チョキリ！
-  word_list: [チョキリ]
   sound: f000108.mp3
   sound_begin: 303998
   sound_end: 305299
+  sentence: チョキリ！
+  words:
+    - word: チョキリ
+      postiion: 0
 - id: Sankakuto Shikaku-f000109
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: とうとう四角とも切り落し、
-  word_list: [とうとう, 四角, と, も, 切り, 落し]
   sound: f000109.mp3
   sound_begin: 305299
   sound_end: 308370
+  sentence: とうとう四角とも切り落し、
+  words:
+    - word: とうとう
+      base: 到頭
+      postiion: 0
+    - word: 四角
+      postiion: 4
+    - word: と
+      postiion: 6
+    - word: も
+      postiion: 7
+    - word: 切り
+      base: 切る
+      postiion: 8
+    - word: 落し
+      base: 落とす
+      postiion: 10
 - id: Sankakuto Shikaku-f000110
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: まずこれで溜飲が下がった。
-  word_list: [まず, これ, で, 溜飲, が, 下がっ, た]
   sound: f000110.mp3
   sound_begin: 308370
   sound_end: 311835
+  sentence: まずこれで溜飲が下がった。
+  words:
+    - word: まず
+      base: 先ず
+      postiion: 0
+    - word: これ
+      base: 此れ
+      postiion: 2
+    - word: で
+      postiion: 4
+    - word: 溜飲
+      postiion: 5
+    - word: が
+      postiion: 7
+    - word: 下がっ
+      base: 下がる
+      postiion: 8
+    - word: た
+      postiion: 11
 - id: Sankakuto Shikaku-f000111
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: どりゃ帰って寝よう、
-  word_list: [どりゃ, 帰っ, て, 寝よう]
   sound: f000111.mp3
   sound_begin: 311835
   sound_end: 314621
+  sentence: どりゃ帰って寝よう、
+  words:
+    - word: どりゃ
+      base: とる
+      postiion: 0
+    - word: 帰っ
+      base: 帰る
+      postiion: 3
+    - word: て
+      postiion: 5
+    - word: 寝よう
+      base: 寝る
+      postiion: 6
 - id: Sankakuto Shikaku-f000112
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 鋏さん大きに御苦労だったと、
-  word_list: [鋏, さん, 大きに, 御, 苦労, だっ, た, と]
   sound: f000112.mp3
   sound_begin: 314621
   sound_end: 319880
+  sentence: 鋏さん大きに御苦労だったと、
+  words:
+    - word: 鋏
+      base: はさみ
+      postiion: 0
+    - word: さん
+      postiion: 1
+    - word: 大きに
+      postiion: 3
+    - word: 御
+      postiion: 6
+    - word: 苦労
+      postiion: 7
+    - word: だっ
+      base: だ
+      postiion: 9
+    - word: た
+      postiion: 11
+    - word: と
+      postiion: 12
 - id: Sankakuto Shikaku-f000113
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 急いでわが家え帰って、
-  word_list: [急い, で, わが家, え, 帰っ, て]
   sound: f000113.mp3
   sound_begin: 319880
   sound_end: 321880
+  sentence: 急いでわが家え帰って、
+  words:
+    - word: 急い
+      base: 急ぐ
+      postiion: 0
+    - word: で
+      postiion: 2
+    - word: わが家
+      base: 我が家
+      postiion: 3
+    - word: え
+      base: えー
+      postiion: 6
+    - word: 帰っ
+      base: 帰る
+      postiion: 7
+    - word: て
+      postiion: 9
 - id: Sankakuto Shikaku-f000114
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: そのまま寝てしまいました。
-  word_list: [その, まま, 寝, て, しまい, まし, た]
   sound: f000114.mp3
   sound_begin: 321880
   sound_end: 323480
+  sentence: そのまま寝てしまいました。
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: まま
+      base: 侭
+      postiion: 2
+    - word: 寝
+      base: 寝る
+      postiion: 4
+    - word: て
+      postiion: 5
+    - word: しまい
+      base: 仕舞う
+      postiion: 6
+    - word: まし
+      base: ます
+      postiion: 9
+    - word: た
+      postiion: 11
 - id: Sankakuto Shikaku-f000115
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: さてその翌朝、
-  word_list: [さて, その, 翌朝]
   sound: f000115.mp3
   sound_begin: 326480
   sound_end: 329440
+  sentence: さてその翌朝、
+  words:
+    - word: さて
+      base: 扠
+      postiion: 0
+    - word: その
+      base: 其の
+      postiion: 2
+    - word: 翌朝
+      postiion: 4
 - id: Sankakuto Shikaku-f000116
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 何喰わぬ顔で床を出て見ますと、
-  word_list: [何, 喰わ, ぬ, 顔, で, 床, を, 出, て, 見, ます, と]
   sound: f000116.mp3
   sound_begin: 329440
   sound_end: 332080
+  sentence: 何喰わぬ顔で床を出て見ますと、
+  words:
+    - word: 何
+      postiion: 0
+    - word: 喰わ
+      base: 食う
+      postiion: 1
+    - word: ぬ
+      base: ず
+      postiion: 3
+    - word: 顔
+      postiion: 4
+    - word: で
+      postiion: 5
+    - word: 床
+      postiion: 6
+    - word: を
+      postiion: 7
+    - word: 出
+      base: 出る
+      postiion: 8
+    - word: て
+      postiion: 9
+    - word: 見
+      base: 見る
+      postiion: 10
+    - word: ます
+      postiion: 11
+    - word: と
+      postiion: 13
 - id: Sankakuto Shikaku-f000117
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 世間でわ大評判で、
-  word_list: [世間, で, わ, 大, 評判, で]
   sound: f000117.mp3
   sound_begin: 332080
   sound_end: 334120
+  sentence: 世間でわ大評判で、
+  words:
+    - word: 世間
+      postiion: 0
+    - word: で
+      base: だ
+      postiion: 2
+    - word: わ
+      postiion: 3
+    - word: 大
+      postiion: 4
+    - word: 評判
+      postiion: 5
+    - word: で
+      postiion: 7
 - id: Sankakuto Shikaku-f000118
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 逢う者ごとに、
-  word_list: [逢う, 者, ごと, に]
   sound: f000118.mp3
   sound_begin: 334120
   sound_end: 335424
+  sentence: 逢う者ごとに、
+  words:
+    - word: 逢う
+      base: 会う
+      postiion: 0
+    - word: 者
+      postiion: 2
+    - word: ごと
+      base: 毎
+      postiion: 3
+    - word: に
+      postiion: 5
 - id: Sankakuto Shikaku-f000119
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 「画板わえらいえらい。」
-  word_list: [画板, わ, えらい, えらい]
   sound: f000119.mp3
   sound_begin: 335424
   sound_end: 337841
+  sentence: 「画板わえらいえらい。」
+  words:
+    - word: 画板
+      postiion: 1
+    - word: わ
+      postiion: 3
+    - word: えらい
+      base: 偉い
+      postiion: 4
+    - word: えらい
+      base: 偉い
+      postiion: 4
 - id: Sankakuto Shikaku-f000120
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: と、
-  word_list: [と]
   sound: f000120.mp3
   sound_begin: 337841
   sound_end: 338480
+  sentence: と、
+  words:
+    - word: と
+      postiion: 0
 - id: Sankakuto Shikaku-f000121
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 頻りに画板を褒め立てますから、
-  word_list: [頻り, に, 画板, を, 褒め, 立て, ます, から]
   sound: f000121.mp3
   sound_begin: 338480
   sound_end: 340720
+  sentence: 頻りに画板を褒め立てますから、
+  words:
+    - word: 頻り
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: 画板
+      postiion: 3
+    - word: を
+      postiion: 5
+    - word: 褒め
+      base: 褒める
+      postiion: 6
+    - word: 立て
+      base: 立つ
+      postiion: 8
+    - word: ます
+      postiion: 10
+    - word: から
+      postiion: 12
 - id: Sankakuto Shikaku-f000122
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 如何した事かと行て見ますと、
-  word_list: [如何, し, た, 事, か, と, 行, て, 見, ます, と]
   sound: f000122.mp3
   sound_begin: 340720
   sound_end: 343125
+  sentence: 如何した事かと行て見ますと、
+  words:
+    - word: 如何
+      base: どう
+      postiion: 0
+    - word: し
+      base: 為る
+      postiion: 2
+    - word: た
+      postiion: 3
+    - word: 事
+      postiion: 4
+    - word: か
+      postiion: 5
+    - word: と
+      postiion: 6
+    - word: 行
+      postiion: 7
+    - word: て
+      base: って
+      postiion: 8
+    - word: 見
+      base: 見る
+      postiion: 9
+    - word: ます
+      postiion: 10
+    - word: と
+      postiion: 12
 - id: Sankakuto Shikaku-f000123
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: こわいかに、
-  word_list: [こわい, か, に]
   sound: f000123.mp3
   sound_begin: 343125
   sound_end: 345036
+  sentence: こわいかに、
+  words:
+    - word: こわい
+      base: 怖い
+      postiion: 0
+    - word: か
+      postiion: 3
+    - word: に
+      postiion: 4
 - id: Sankakuto Shikaku-f000124
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 昨日まで四角であった画板わ、
-  word_list: [昨日, まで, 四角, で, あっ, た, 画板, わ]
   sound: f000124.mp3
   sound_begin: 345036
   sound_end: 347560
+  sentence: 昨日まで四角であった画板わ、
+  words:
+    - word: 昨日
+      postiion: 0
+    - word: まで
+      postiion: 2
+    - word: 四角
+      postiion: 4
+    - word: で
+      base: だ
+      postiion: 6
+    - word: あっ
+      base: 有る
+      postiion: 7
+    - word: た
+      postiion: 9
+    - word: 画板
+      postiion: 10
+    - word: わ
+      postiion: 12
 - id: Sankakuto Shikaku-f000125
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 今朝わ八角に成って、
-  word_list: [今朝, わ, 八角, に, 成っ, て]
   sound: f000125.mp3
   sound_begin: 347560
   sound_end: 349640
+  sentence: 今朝わ八角に成って、
+  words:
+    - word: 今朝
+      postiion: 0
+    - word: わ
+      postiion: 2
+    - word: 八角
+      postiion: 3
+    - word: に
+      postiion: 5
+    - word: 成っ
+      base: 成る
+      postiion: 6
+    - word: て
+      postiion: 8
 - id: Sankakuto Shikaku-f000126
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 意気揚々と歩行いております。
-  word_list: [意気, 揚々, と, 歩行い, て, おり, ます]
   sound: f000126.mp3
   sound_begin: 349640
   sound_end: 352410
+  sentence: 意気揚々と歩行いております。
+  words:
+    - word: 意気
+      postiion: 0
+    - word: 揚々
+      postiion: 2
+    - word: と
+      postiion: 4
+    - word: 歩行い
+      base: 歩く
+      postiion: 5
+    - word: て
+      postiion: 8
+    - word: おり
+      base: おる
+      postiion: 9
+    - word: ます
+      postiion: 11
 - id: Sankakuto Shikaku-f000127
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 四角の角々を切り落せば、
-  word_list: [四角, の, 角, 々, を, 切り, 落せ, ば]
   sound: f000127.mp3
   sound_begin: 352410
   sound_end: 355400
+  sentence: 四角の角々を切り落せば、
+  words:
+    - word: 四角
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 角
+      postiion: 3
+    - word: 々
+      postiion: 4
+    - word: を
+      postiion: 5
+    - word: 切り
+      base: 切る
+      postiion: 6
+    - word: 落せ
+      base: 落とす
+      postiion: 8
+    - word: ば
+      postiion: 10
 - id: Sankakuto Shikaku-f000128
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 角の数が倍になって、
-  word_list: [角, の, 数, が, 倍, に, なっ, て]
   sound: f000128.mp3
   sound_begin: 355400
   sound_end: 357440
+  sentence: 角の数が倍になって、
+  words:
+    - word: 角
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 数
+      postiion: 2
+    - word: が
+      postiion: 3
+    - word: 倍
+      postiion: 4
+    - word: に
+      postiion: 5
+    - word: なっ
+      base: 成る
+      postiion: 6
+    - word: て
+      postiion: 8
 - id: Sankakuto Shikaku-f000129
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 八角に成るのわ当然、
-  word_list: [八角, に, 成る, の, わ, 当然]
   sound: f000129.mp3
   sound_begin: 357440
   sound_end: 359784
+  sentence: 八角に成るのわ当然、
+  words:
+    - word: 八角
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: 成る
+      postiion: 3
+    - word: の
+      postiion: 5
+    - word: わ
+      postiion: 6
+    - word: 当然
+      postiion: 7
 - id: Sankakuto Shikaku-f000130
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: しかもそれわ自分の所業であるのに、
-  word_list: [しかも, それ, わ, 自分, の, 所業, で, ある, の, に]
   sound: f000130.mp3
   sound_begin: 359784
   sound_end: 363320
+  sentence: しかもそれわ自分の所業であるのに、
+  words:
+    - word: しかも
+      base: 然も
+      postiion: 0
+    - word: それ
+      base: 其れ
+      postiion: 3
+    - word: わ
+      postiion: 5
+    - word: 自分
+      postiion: 6
+    - word: の
+      postiion: 8
+    - word: 所業
+      base: 所行
+      postiion: 9
+    - word: で
+      base: だ
+      postiion: 11
+    - word: ある
+      base: 有る
+      postiion: 12
+    - word: の
+      postiion: 14
+    - word: に
+      postiion: 15
 - id: Sankakuto Shikaku-f000131
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: そうとわ心付かぬ三角定木、
-  word_list: [そう, とわ, 心付か, ぬ, 三角, 定木]
   sound: f000131.mp3
   sound_begin: 363320
   sound_end: 366040
+  sentence: そうとわ心付かぬ三角定木、
+  words:
+    - word: そう
+      postiion: 0
+    - word: とわ
+      base: 永久
+      postiion: 2
+    - word: 心付か
+      base: 心付く
+      postiion: 4
+    - word: ぬ
+      base: ず
+      postiion: 7
+    - word: 三角
+      postiion: 8
+    - word: 定木
+      postiion: 10
 - id: Sankakuto Shikaku-f000132
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 驚いたの驚かないの！
-  word_list: [驚い, た, の, 驚か, ない, の]
   sound: f000132.mp3
   sound_begin: 366040
   sound_end: 368200
+  sentence: 驚いたの驚かないの！
+  words:
+    - word: 驚い
+      base: 驚く
+      postiion: 0
+    - word: た
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: 驚か
+      base: 驚く
+      postiion: 4
+    - word: ない
+      postiion: 6
+    - word: の
+      postiion: 8
 - id: Sankakuto Shikaku-f000133
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: （三）ヒヤーこりゃ如何じゃ。
-  word_list: [三, ヒヤー, こりゃ, 如何, じゃ]
   sound: f000133.mp3
   sound_begin: 368200
   sound_end: 371400
+  sentence: （三）ヒヤーこりゃ如何じゃ。
+  words:
+    - word: 三
+      base: '3'
+      postiion: 1
+    - word: ヒヤー
+      postiion: 3
+    - word: こりゃ
+      base: 此れ
+      postiion: 6
+    - word: 如何
+      postiion: 9
+    - word: じゃ
+      postiion: 11
 - id: Sankakuto Shikaku-f000134
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: アノ四角奴、
-  word_list: [アノ, 四角, 奴]
   sound: f000134.mp3
   sound_begin: 371400
   sound_end: 372600
+  sentence: アノ四角奴、
+  words:
+    - word: アノ
+      base: 彼の
+      postiion: 0
+    - word: 四角
+      postiion: 2
+    - word: 奴
+      postiion: 4
 - id: Sankakuto Shikaku-f000135
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 一夜の中に八角に成りよった。
-  word_list: [一夜, の, 中, に, 八角, に, 成り, よっ, た]
   sound: f000135.mp3
   sound_begin: 372600
   sound_end: 375240
+  sentence: 一夜の中に八角に成りよった。
+  words:
+    - word: 一夜
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 中
+      postiion: 3
+    - word: に
+      postiion: 4
+    - word: 八角
+      postiion: 5
+    - word: に
+      postiion: 7
+    - word: 成り
+      base: 成る
+      postiion: 8
+    - word: よっ
+      base: よる
+      postiion: 10
+    - word: た
+      postiion: 12
 - id: Sankakuto Shikaku-f000136
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: この分でわまた明日わ、
-  word_list: [この, 分, で, わ, また, 明日, わ]
   sound: f000136.mp3
   sound_begin: 375240
   sound_end: 377320
+  sentence: この分でわまた明日わ、
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: 分
+      postiion: 2
+    - word: で
+      base: だ
+      postiion: 3
+    - word: わ
+      postiion: 4
+    - word: また
+      base: 又
+      postiion: 5
+    - word: 明日
+      postiion: 7
+    - word: わ
+      postiion: 9
 - id: Sankakuto Shikaku-f000137
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 十角や二十角にも成るだろう、
-  word_list: [十角, や, 二, 十角, に, も, 成る, だろう]
   sound: f000137.mp3
   sound_begin: 377320
   sound_end: 379800
+  sentence: 十角や二十角にも成るだろう、
+  words:
+    - word: 十角
+      postiion: 0
+    - word: や
+      postiion: 2
+    - word: 二
+      base: '2'
+      postiion: 3
+    - word: 十角
+      postiion: 4
+    - word: に
+      postiion: 6
+    - word: も
+      postiion: 7
+    - word: 成る
+      postiion: 8
+    - word: だろう
+      base: だ
+      postiion: 10
 - id: Sankakuto Shikaku-f000138
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: こりゃ所詮叶わぬわイ。
-  word_list: [こりゃ, 所詮, 叶わ, ぬ, わ, イ]
   sound: f000138.mp3
   sound_begin: 379800
   sound_end: 383164
+  sentence: こりゃ所詮叶わぬわイ。
+  words:
+    - word: こりゃ
+      base: 此れ
+      postiion: 0
+    - word: 所詮
+      postiion: 3
+    - word: 叶わ
+      base: 叶う
+      postiion: 5
+    - word: ぬ
+      base: ず
+      postiion: 7
+    - word: わ
+      postiion: 8
+    - word: イ
+      postiion: 9
 - id: Sankakuto Shikaku-f000139
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: と、
-  word_list: [と]
   sound: f000139.mp3
   sound_begin: 383164
   sound_end: 384237
+  sentence: と、
+  words:
+    - word: と
+      postiion: 0
 - id: Sankakuto Shikaku-f000140
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: とうとう兜を脱いで降参しましたとわ、
-  word_list: [とうとう, 兜, を, 脱い, で, 降参, し, まし, た, と, わ]
   sound: f000140.mp3
   sound_begin: 384237
   sound_end: 389317
+  sentence: とうとう兜を脱いで降参しましたとわ、
+  words:
+    - word: とうとう
+      base: 到頭
+      postiion: 0
+    - word: 兜
+      postiion: 4
+    - word: を
+      postiion: 5
+    - word: 脱い
+      base: 脱ぐ
+      postiion: 6
+    - word: で
+      postiion: 8
+    - word: 降参
+      postiion: 9
+    - word: し
+      base: 為る
+      postiion: 11
+    - word: まし
+      base: ます
+      postiion: 12
+    - word: た
+      postiion: 14
+    - word: と
+      postiion: 15
+    - word: わ
+      postiion: 16
 - id: Sankakuto Shikaku-f000141
   author_japanese: 巖谷 小波
   deck_name: Sankakuto Shikaku
   deck_name_japanese: 三角と四角
-  sentence: 身のほど知らぬ大白痴。
-  word_list: [身のほど, 知ら, ぬ, 大, 白痴]
   sound: f000141.mp3
   sound_begin: 389317
   sound_end: 394060
+  sentence: 身のほど知らぬ大白痴。
+  words:
+    - word: 身のほど
+      base: 身の程
+      postiion: 0
+    - word: 知ら
+      base: 知る
+      postiion: 4
+    - word: ぬ
+      base: ず
+      postiion: 6
+    - word: 大
+      postiion: 7
+    - word: 白痴
+      postiion: 8

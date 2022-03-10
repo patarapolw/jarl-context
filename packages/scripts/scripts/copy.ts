@@ -28,7 +28,6 @@ async function main() {
       cwd: src
     })
     .map((p) => {
-      fs.rmdir(`${dst}/${p}`, () => {})
       try {
         fs.mkdirSync(`${dst}/${p.replace(/\/data\.json$/, '')}`, {
           recursive: true
@@ -43,19 +42,59 @@ async function main() {
           .filter((d) => d.sound)
           .map(
             ({
+              sentence,
               sentence_with_furigana,
-              word_base_list,
-              word_dictionary_list,
+              word_list,
+              word_base_list = [],
+              word_dictionary_list = [],
               translation_word_list,
               translation_word_base_list,
               image,
               ...d
             }) => {
-              d.sentence = d.sentence.replace(reClean, '')
-              d.word_list = (d.word_list || []).filter(
-                (r) => !reExclude.test(r)
-              )
-              return d
+              sentence = sentence.replace(reClean, '')
+
+              let words: any[] | undefined
+              if (word_list) {
+                let postiion = 0
+                words = word_list
+                  .map((word, i) => {
+                    if (reExclude.test(word)) return null
+
+                    let base: string | undefined
+                    let dictionary: string | undefined
+
+                    if (word_base_list[i] !== word) {
+                      base = word_base_list[i]
+                    }
+                    if (word_dictionary_list[i] !== word) {
+                      dictionary = word_dictionary_list[i]
+                    }
+
+                    const pos = sentence.indexOf(word, postiion)
+                    if (pos !== -1) {
+                      postiion = pos
+                      return {
+                        word,
+                        base,
+                        dictionary,
+                        postiion
+                      }
+                    }
+                    return {
+                      word,
+                      base,
+                      dictionary
+                    }
+                  })
+                  .filter((s) => s)
+              }
+
+              return {
+                ...d,
+                sentence: sentence.replace(reClean, ''),
+                words
+              }
             }
           )
 
@@ -63,7 +102,7 @@ async function main() {
           fs.writeFileSync(
             `${dst}/${p.replace(/\.json$/, '.yaml')}`,
             yaml.dump(out, {
-              flowLevel: 2
+              skipInvalid: true
             })
           )
         } else {

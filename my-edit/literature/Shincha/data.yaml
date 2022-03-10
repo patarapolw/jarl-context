@@ -2,458 +2,1435 @@
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: 新茶
-  word_list: [新茶]
   sound: f000002.mp3
   sound_begin: 4769
   sound_end: 8274
+  sentence: 新茶
+  words:
+    - word: 新茶
+      postiion: 0
 - id: Shincha-f000003
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: それほど茶好きでなくとも、
-  word_list: [それ, ほど, 茶, 好き, で, なく, とも]
   sound: f000003.mp3
   sound_begin: 8274
   sound_end: 10803
+  sentence: それほど茶好きでなくとも、
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: ほど
+      postiion: 2
+    - word: 茶
+      postiion: 4
+    - word: 好き
+      postiion: 5
+    - word: で
+      base: だ
+      postiion: 7
+    - word: なく
+      base: 無い
+      postiion: 8
+    - word: とも
+      postiion: 10
 - id: Shincha-f000004
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: 新茶には心ひかれる。
-  word_list: [新茶, に, は, 心, ひか, れる]
   sound: f000004.mp3
   sound_begin: 10803
   sound_end: 14563
+  sentence: 新茶には心ひかれる。
+  words:
+    - word: 新茶
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: は
+      postiion: 3
+    - word: 心
+      postiion: 4
+    - word: ひか
+      base: ひく
+      postiion: 5
+    - word: れる
+      postiion: 7
 - id: Shincha-f000005
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: あの年寄りじみた、
-  word_list: [あの, 年寄り, じみ, た]
   sound: f000005.mp3
   sound_begin: 14563
   sound_end: 16138
+  sentence: あの年寄りじみた、
+  words:
+    - word: あの
+      base: 彼の
+      postiion: 0
+    - word: 年寄り
+      postiion: 2
+    - word: じみ
+      base: 染みる
+      postiion: 5
+    - word: た
+      postiion: 7
 - id: Shincha-f000006
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: きつい苦みがないし、
-  word_list: [きつい, 苦, み, が, ない, し]
   sound: f000006.mp3
   sound_begin: 16138
   sound_end: 18645
+  sentence: きつい苦みがないし、
+  words:
+    - word: きつい
+      postiion: 0
+    - word: 苦
+      base: 苦い
+      postiion: 3
+    - word: み
+      base: 味
+      postiion: 4
+    - word: が
+      postiion: 5
+    - word: ない
+      base: 無い
+      postiion: 6
+    - word: し
+      postiion: 8
 - id: Shincha-f000007
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: 晴々しい匂ひがするし、
-  word_list: [晴々しい, 匂, ひ, が, する, し]
   sound: f000007.mp3
   sound_begin: 18645
   sound_end: 21418
+  sentence: 晴々しい匂ひがするし、
+  words:
+    - word: 晴々しい
+      postiion: 0
+    - word: 匂
+      base: 匂い
+      postiion: 4
+    - word: ひ
+      postiion: 5
+    - word: が
+      postiion: 6
+    - word: する
+      base: 為る
+      postiion: 7
+    - word: し
+      postiion: 9
 - id: Shincha-f000008
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: 茶といふよりも、
-  word_list: [茶, と, いふ, より, も]
   sound: f000008.mp3
   sound_begin: 21418
   sound_end: 23320
+  sentence: 茶といふよりも、
+  words:
+    - word: 茶
+      postiion: 0
+    - word: と
+      postiion: 1
+    - word: いふ
+      base: 言う
+      postiion: 2
+    - word: より
+      postiion: 4
+    - word: も
+      postiion: 6
 - id: Shincha-f000009
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: 若葉の雫を啜るといふ感じである。
-  word_list: [若葉, の, 雫, を, 啜る, と, いふ, 感じ, で, ある]
   sound: f000009.mp3
   sound_begin: 23320
   sound_end: 28320
+  sentence: 若葉の雫を啜るといふ感じである。
+  words:
+    - word: 若葉
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 雫
+      postiion: 3
+    - word: を
+      postiion: 4
+    - word: 啜る
+      postiion: 5
+    - word: と
+      postiion: 7
+    - word: いふ
+      base: 言う
+      postiion: 8
+    - word: 感じ
+      postiion: 10
+    - word: で
+      base: だ
+      postiion: 12
+    - word: ある
+      base: 有る
+      postiion: 13
 - id: Shincha-f000010
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: 色がいゝ。
-  word_list: [色, が, いゝ]
   sound: f000010.mp3
   sound_begin: 28320
   sound_end: 31200
+  sentence: 色がいゝ。
+  words:
+    - word: 色
+      postiion: 0
+    - word: が
+      postiion: 1
+    - word: いゝ
+      base: 良い
+      postiion: 2
 - id: Shincha-f000011
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: 白磁の茶椀の半を満してゆらめく青湖の水。
-  word_list: [白磁, の, 茶椀, の, 半, を, 満し, て, ゆらめく, 青, 湖, の, 水]
   sound: f000011.mp3
   sound_begin: 31200
   sound_end: 37280
+  sentence: 白磁の茶椀の半を満してゆらめく青湖の水。
+  words:
+    - word: 白磁
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 茶椀
+      base: 茶碗
+      postiion: 3
+    - word: の
+      postiion: 5
+    - word: 半
+      postiion: 6
+    - word: を
+      postiion: 7
+    - word: 満し
+      base: 満たす
+      postiion: 8
+    - word: て
+      postiion: 10
+    - word: ゆらめく
+      base: 揺らめく
+      postiion: 11
+    - word: 青
+      postiion: 15
+    - word: 湖
+      postiion: 16
+    - word: の
+      postiion: 17
+    - word: 水
+      postiion: 18
 - id: Shincha-f000012
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: さなりき、
-  word_list: [さ, なり, き]
   sound: f000012.mp3
   sound_begin: 37280
   sound_end: 38600
+  sentence: さなりき、
+  words:
+    - word: さ
+      base: 為る
+      postiion: 0
+    - word: なり
+      postiion: 1
+    - word: き
+      postiion: 3
 - id: Shincha-f000013
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: 誘ふニンフも
-  word_list: [誘, ふ, ニンフ, も]
   sound: f000013.mp3
   sound_begin: 38600
   sound_end: 40280
+  sentence: 誘ふニンフも
+  words:
+    - word: 誘
+      postiion: 0
+    - word: ふ
+      postiion: 1
+    - word: ニンフ
+      postiion: 2
+    - word: も
+      postiion: 5
 - id: Shincha-f000014
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: 誘はるゝ男妖精も共に髪ぞ青かりし
-  word_list: [誘, はる, ゝ, 男, 妖精, も, 共, に, 髪, ぞ, 青かり, し]
   sound: f000014.mp3
   sound_begin: 40280
   sound_end: 46880
+  sentence: 誘はるゝ男妖精も共に髪ぞ青かりし
+  words:
+    - word: 誘
+      postiion: 0
+    - word: はる
+      postiion: 1
+    - word: ゝ
+      base: の
+      postiion: 3
+    - word: 男
+      postiion: 4
+    - word: 妖精
+      postiion: 5
+    - word: も
+      postiion: 7
+    - word: 共
+      postiion: 8
+    - word: に
+      postiion: 9
+    - word: 髪
+      postiion: 10
+    - word: ぞ
+      postiion: 11
+    - word: 青かり
+      base: 青い
+      postiion: 12
+    - word: し
+      postiion: 15
 - id: Shincha-f000015
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: 揺曳とした湯気の隙間から、
-  word_list: [揺曳, と, し, た, 湯気, の, 隙間, から]
   sound: f000015.mp3
   sound_begin: 46880
   sound_end: 49613
+  sentence: 揺曳とした湯気の隙間から、
+  words:
+    - word: 揺曳
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: し
+      base: 為る
+      postiion: 3
+    - word: た
+      postiion: 4
+    - word: 湯気
+      postiion: 5
+    - word: の
+      postiion: 7
+    - word: 隙間
+      postiion: 8
+    - word: から
+      postiion: 10
 - id: Shincha-f000016
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: 茶椀の岸にさういふ美麗が見えるやうな気がする。
-  word_list: [茶椀, の, 岸, に, さう, いふ, 美麗, が, 見える, やう, な, 気, が, する]
   sound: f000016.mp3
   sound_begin: 49613
   sound_end: 56601
+  sentence: 茶椀の岸にさういふ美麗が見えるやうな気がする。
+  words:
+    - word: 茶椀
+      base: 茶碗
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 岸
+      postiion: 3
+    - word: に
+      postiion: 4
+    - word: さう
+      base: そう
+      postiion: 5
+    - word: いふ
+      base: 言う
+      postiion: 7
+    - word: 美麗
+      postiion: 9
+    - word: が
+      postiion: 11
+    - word: 見える
+      postiion: 12
+    - word: やう
+      base: 様
+      postiion: 15
+    - word: な
+      base: だ
+      postiion: 17
+    - word: 気
+      postiion: 18
+    - word: が
+      postiion: 19
+    - word: する
+      base: 為る
+      postiion: 20
 - id: Shincha-f000017
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: その茶椀を掌に享けて一口、
-  word_list: [その, 茶椀, を, 掌, に, 享け, て, 一口]
   sound: f000017.mp3
   sound_begin: 56601
   sound_end: 60173
+  sentence: その茶椀を掌に享けて一口、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 茶椀
+      base: 茶碗
+      postiion: 2
+    - word: を
+      postiion: 4
+    - word: 掌
+      postiion: 5
+    - word: に
+      postiion: 6
+    - word: 享け
+      base: 受ける
+      postiion: 7
+    - word: て
+      postiion: 9
+    - word: 一口
+      postiion: 10
 - id: Shincha-f000018
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: 二口、
-  word_list: [二口]
   sound: f000018.mp3
   sound_begin: 60173
   sound_end: 61881
+  sentence: 二口、
+  words:
+    - word: 二口
+      postiion: 0
 - id: Shincha-f000019
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: 唇に触れては庭を眺める。
-  word_list: [唇, に, 触れ, て, は, 庭, を, 眺める]
   sound: f000019.mp3
   sound_begin: 61881
   sound_end: 66840
+  sentence: 唇に触れては庭を眺める。
+  words:
+    - word: 唇
+      postiion: 0
+    - word: に
+      postiion: 1
+    - word: 触れ
+      base: 触れる
+      postiion: 2
+    - word: て
+      postiion: 4
+    - word: は
+      postiion: 5
+    - word: 庭
+      postiion: 6
+    - word: を
+      postiion: 7
+    - word: 眺める
+      postiion: 8
 - id: Shincha-f000020
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: 実を付けた若楓の枝の下に池が在つて、
-  word_list: [実, を, 付け, た, 若楓, の, 枝, の, 下, に, 池, が, 在つ, て]
   sound: f000020.mp3
   sound_begin: 66840
   sound_end: 71400
+  sentence: 実を付けた若楓の枝の下に池が在つて、
+  words:
+    - word: 実
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: 付け
+      base: 付ける
+      postiion: 2
+    - word: た
+      postiion: 4
+    - word: 若楓
+      postiion: 5
+    - word: の
+      postiion: 7
+    - word: 枝
+      postiion: 8
+    - word: の
+      postiion: 9
+    - word: 下
+      postiion: 10
+    - word: に
+      postiion: 11
+    - word: 池
+      postiion: 12
+    - word: が
+      postiion: 13
+    - word: 在つ
+      base: 有る
+      postiion: 14
+    - word: て
+      postiion: 16
 - id: Shincha-f000021
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: 底に透く陽光の水の宙に篦鮒が、
-  word_list: [底, に, 透く, 陽光, の, 水, の, 宙, に, 篦鮒, が]
   sound: f000021.mp3
   sound_begin: 71400
   sound_end: 75480
+  sentence: 底に透く陽光の水の宙に篦鮒が、
+  words:
+    - word: 底
+      postiion: 0
+    - word: に
+      postiion: 1
+    - word: 透く
+      postiion: 2
+    - word: 陽光
+      postiion: 4
+    - word: の
+      postiion: 6
+    - word: 水
+      postiion: 7
+    - word: の
+      postiion: 8
+    - word: 宙
+      postiion: 9
+    - word: に
+      postiion: 10
+    - word: 篦鮒
+      postiion: 11
+    - word: が
+      postiion: 13
 - id: Shincha-f000022
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: 昨年孵つた一寸ばかりの子鮒を四つほど従へて鰭を休めてゐる。
-  word_list: [昨年, 孵, つた, 一, 寸, ばかり, の, 子, 鮒, を, 四, つ, ほど, 従, へ, て, 鰭, を, 休め, て, ゐる]
   sound: f000022.mp3
   sound_begin: 75480
   sound_end: 83399
+  sentence: 昨年孵つた一寸ばかりの子鮒を四つほど従へて鰭を休めてゐる。
+  words:
+    - word: 昨年
+      postiion: 0
+    - word: 孵
+      postiion: 2
+    - word: つた
+      base: 蔦
+      postiion: 3
+    - word: 一
+      base: '1'
+      postiion: 5
+    - word: 寸
+      postiion: 6
+    - word: ばかり
+      postiion: 7
+    - word: の
+      postiion: 10
+    - word: 子
+      postiion: 11
+    - word: 鮒
+      postiion: 12
+    - word: を
+      postiion: 13
+    - word: 四
+      base: '4'
+      postiion: 14
+    - word: つ
+      postiion: 15
+    - word: ほど
+      postiion: 16
+    - word: 従
+      postiion: 18
+    - word: へ
+      postiion: 19
+    - word: て
+      postiion: 20
+    - word: 鰭
+      postiion: 21
+    - word: を
+      postiion: 22
+    - word: 休め
+      base: 休む
+      postiion: 23
+    - word: て
+      postiion: 25
+    - word: ゐる
+      base: 居る
+      postiion: 26
 - id: Shincha-f000023
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: このとき、
-  word_list: [この, とき]
   sound: f000023.mp3
   sound_begin: 83399
   sound_end: 84840
+  sentence: このとき、
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: とき
+      base: 時
+      postiion: 2
 - id: Shincha-f000024
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: 身に合つた袷の上に、
-  word_list: [身, に, 合, つた, 袷, の, 上, に]
   sound: f000024.mp3
   sound_begin: 84840
   sound_end: 87440
+  sentence: 身に合つた袷の上に、
+  words:
+    - word: 身
+      postiion: 0
+    - word: に
+      postiion: 1
+    - word: 合
+      base: 合わせ
+      postiion: 2
+    - word: つた
+      base: 蔦
+      postiion: 3
+    - word: 袷
+      base: 合わせ
+      postiion: 5
+    - word: の
+      postiion: 6
+    - word: 上
+      postiion: 7
+    - word: に
+      postiion: 8
 - id: Shincha-f000025
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: やゝ幅狭の博多帯が硬からず緩からず胸に締つてゐて呉れれば、
-  word_list: [や, ゝ, 幅狭, の, 博多, 帯, が, 硬, から, ず, 緩, から, ず, 胸, に, 締, つ, て, ゐ, て, 呉れれ, ば]
   sound: f000025.mp3
   sound_begin: 87440
   sound_end: 94200
+  sentence: やゝ幅狭の博多帯が硬からず緩からず胸に締つてゐて呉れれば、
+  words:
+    - word: や
+      postiion: 0
+    - word: ゝ
+      base: の
+      postiion: 1
+    - word: 幅狭
+      postiion: 2
+    - word: の
+      postiion: 4
+    - word: 博多
+      postiion: 5
+    - word: 帯
+      postiion: 7
+    - word: が
+      postiion: 8
+    - word: 硬
+      postiion: 9
+    - word: から
+      base: かる
+      postiion: 10
+    - word: ず
+      postiion: 12
+    - word: 緩
+      postiion: 13
+    - word: から
+      postiion: 14
+    - word: ず
+      postiion: 16
+    - word: 胸
+      postiion: 17
+    - word: に
+      postiion: 18
+    - word: 締
+      base: 締め
+      postiion: 19
+    - word: つ
+      postiion: 20
+    - word: て
+      base: って
+      postiion: 21
+    - word: ゐ
+      base: 居る
+      postiion: 22
+    - word: て
+      postiion: 23
+    - word: 呉れれ
+      base: 呉れる
+      postiion: 24
+    - word: ば
+      postiion: 27
 - id: Shincha-f000026
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: 他に何を望まう。
-  word_list: [他, に, 何, を, 望ま, う]
   sound: f000026.mp3
   sound_begin: 94200
   sound_end: 98880
+  sentence: 他に何を望まう。
+  words:
+    - word: 他
+      postiion: 0
+    - word: に
+      postiion: 1
+    - word: 何
+      postiion: 2
+    - word: を
+      postiion: 3
+    - word: 望ま
+      base: 望む
+      postiion: 4
+    - word: う
+      base: うう
+      postiion: 6
 - id: Shincha-f000027
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: しみ／″＼日本の土に生れて日本の女であることが自分で味はれる。
-  word_list: [しみ, 日本, の, 土, に, 生れ, て, 日本, の, 女, で, ある, こと, が, 自分, で, 味, は, れる]
   sound: f000027.mp3
   sound_begin: 98880
   sound_end: 109640
+  sentence: しみ／″＼日本の土に生れて日本の女であることが自分で味はれる。
+  words:
+    - word: しみ
+      postiion: 0
+    - word: 日本
+      postiion: 5
+    - word: の
+      postiion: 7
+    - word: 土
+      postiion: 8
+    - word: に
+      postiion: 9
+    - word: 生れ
+      base: 生まれる
+      postiion: 10
+    - word: て
+      postiion: 12
+    - word: 日本
+      postiion: 13
+    - word: の
+      postiion: 15
+    - word: 女
+      postiion: 16
+    - word: で
+      base: だ
+      postiion: 17
+    - word: ある
+      base: 有る
+      postiion: 18
+    - word: こと
+      postiion: 20
+    - word: が
+      postiion: 22
+    - word: 自分
+      postiion: 23
+    - word: で
+      postiion: 25
+    - word: 味
+      postiion: 26
+    - word: は
+      postiion: 27
+    - word: れる
+      postiion: 28
 - id: Shincha-f000028
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: 西洋人の中で好んで日本の緑茶を飲むのはアメリカ人だが、
-  word_list: [西洋, 人, の, 中, で, 好ん, で, 日本, の, 緑茶, を, 飲む, の, は, アメリカ, 人, だ, が]
   sound: f000028.mp3
   sound_begin: 109640
   sound_end: 114720
+  sentence: 西洋人の中で好んで日本の緑茶を飲むのはアメリカ人だが、
+  words:
+    - word: 西洋
+      postiion: 0
+    - word: 人
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: 中
+      postiion: 4
+    - word: で
+      postiion: 5
+    - word: 好ん
+      base: 好む
+      postiion: 6
+    - word: で
+      postiion: 8
+    - word: 日本
+      postiion: 9
+    - word: の
+      postiion: 11
+    - word: 緑茶
+      postiion: 12
+    - word: を
+      postiion: 14
+    - word: 飲む
+      postiion: 15
+    - word: の
+      postiion: 17
+    - word: は
+      postiion: 18
+    - word: アメリカ
+      postiion: 19
+    - word: 人
+      postiion: 23
+    - word: だ
+      postiion: 24
+    - word: が
+      postiion: 25
 - id: Shincha-f000029
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: 必ず砂糖を入れて飲む。
-  word_list: [必ず, 砂糖, を, 入れ, て, 飲む]
   sound: f000029.mp3
   sound_begin: 114720
   sound_end: 118680
+  sentence: 必ず砂糖を入れて飲む。
+  words:
+    - word: 必ず
+      postiion: 0
+    - word: 砂糖
+      postiion: 2
+    - word: を
+      postiion: 4
+    - word: 入れ
+      base: 入れる
+      postiion: 5
+    - word: て
+      postiion: 7
+    - word: 飲む
+      postiion: 8
 - id: Shincha-f000030
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: お話にならない。
-  word_list: [お, 話, に, なら, ない]
   sound: f000030.mp3
   sound_begin: 118680
   sound_end: 121520
+  sentence: お話にならない。
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: 話
+      postiion: 1
+    - word: に
+      postiion: 2
+    - word: なら
+      base: 成る
+      postiion: 3
+    - word: ない
+      postiion: 5
 - id: Shincha-f000031
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: まして新茶の風味などは思ひもよらない。
-  word_list: [まして, 新茶, の, 風味, など, は, 思ひ, も, よら, ない]
   sound: f000031.mp3
   sound_begin: 121520
   sound_end: 128440
+  sentence: まして新茶の風味などは思ひもよらない。
+  words:
+    - word: まして
+      base: 況して
+      postiion: 0
+    - word: 新茶
+      postiion: 3
+    - word: の
+      postiion: 5
+    - word: 風味
+      postiion: 6
+    - word: など
+      postiion: 8
+    - word: は
+      postiion: 10
+    - word: 思ひ
+      base: 思う
+      postiion: 11
+    - word: も
+      postiion: 13
+    - word: よら
+      base: よる
+      postiion: 14
+    - word: ない
+      postiion: 16
 - id: Shincha-f000032
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: およそ嗜好飲料は香料の悦びの外に、
-  word_list: [およそ, 嗜好, 飲料, は, 香料, の, 悦び, の, 外, に]
   sound: f000032.mp3
   sound_begin: 128440
   sound_end: 133160
+  sentence: およそ嗜好飲料は香料の悦びの外に、
+  words:
+    - word: およそ
+      base: 凡そ
+      postiion: 0
+    - word: 嗜好
+      postiion: 3
+    - word: 飲料
+      postiion: 5
+    - word: は
+      postiion: 7
+    - word: 香料
+      postiion: 8
+    - word: の
+      postiion: 10
+    - word: 悦び
+      base: 喜び
+      postiion: 11
+    - word: の
+      postiion: 13
+    - word: 外
+      postiion: 14
+    - word: に
+      postiion: 15
 - id: Shincha-f000033
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: 一種の客観性の心境を作らせる作用がある。
-  word_list: [一種, の, 客観, 性, の, 心境, を, 作ら, せる, 作用, が, ある]
   sound: f000033.mp3
   sound_begin: 133160
   sound_end: 138336
+  sentence: 一種の客観性の心境を作らせる作用がある。
+  words:
+    - word: 一種
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 客観
+      postiion: 3
+    - word: 性
+      postiion: 5
+    - word: の
+      postiion: 6
+    - word: 心境
+      postiion: 7
+    - word: を
+      postiion: 9
+    - word: 作ら
+      base: 作る
+      postiion: 10
+    - word: せる
+      postiion: 12
+    - word: 作用
+      postiion: 14
+    - word: が
+      postiion: 16
+    - word: ある
+      base: 有る
+      postiion: 17
 - id: Shincha-f000034
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: 世相が、
-  word_list: [世相, が]
   sound: f000034.mp3
   sound_begin: 138336
   sound_end: 139880
+  sentence: 世相が、
+  words:
+    - word: 世相
+      postiion: 0
+    - word: が
+      postiion: 2
 - id: Shincha-f000035
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: まま、
-  word_list: [まま]
   sound: f000035.mp3
   sound_begin: 139880
   sound_end: 140320
+  sentence: まま、
+  words:
+    - word: まま
+      base: 侭
+      postiion: 0
 - id: Shincha-f000036
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: 熱騰でなければ消沈に傾き易いときに、
-  word_list: [熱, 騰, で, なけれ, ば, 消沈, に, 傾き, 易い, とき, に]
   sound: f000036.mp3
   sound_begin: 140320
   sound_end: 144692
+  sentence: 熱騰でなければ消沈に傾き易いときに、
+  words:
+    - word: 熱
+      postiion: 0
+    - word: 騰
+      postiion: 1
+    - word: で
+      base: だ
+      postiion: 2
+    - word: なけれ
+      base: 無い
+      postiion: 3
+    - word: ば
+      postiion: 6
+    - word: 消沈
+      postiion: 7
+    - word: に
+      postiion: 9
+    - word: 傾き
+      base: 傾く
+      postiion: 10
+    - word: 易い
+      postiion: 12
+    - word: とき
+      base: 時
+      postiion: 14
+    - word: に
+      postiion: 16
 - id: Shincha-f000037
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: それに釣り込まれないやう、
-  word_list: [それ, に, 釣り, 込ま, れ, ない, やう]
   sound: f000037.mp3
   sound_begin: 144692
   sound_end: 146800
+  sentence: それに釣り込まれないやう、
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: 釣り
+      base: 釣る
+      postiion: 3
+    - word: 込ま
+      base: 込む
+      postiion: 5
+    - word: れ
+      base: れる
+      postiion: 7
+    - word: ない
+      postiion: 8
+    - word: やう
+      base: 様
+      postiion: 10
 - id: Shincha-f000038
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: 客観性を平衡に保つことは私たちに必要なことである。
-  word_list: [客観, 性, を, 平衡, に, 保つ, こと, は, 私, たち, に, 必要, な, こと, で, ある]
   sound: f000038.mp3
   sound_begin: 146800
   sound_end: 153960
+  sentence: 客観性を平衡に保つことは私たちに必要なことである。
+  words:
+    - word: 客観
+      postiion: 0
+    - word: 性
+      postiion: 2
+    - word: を
+      postiion: 3
+    - word: 平衡
+      postiion: 4
+    - word: に
+      postiion: 6
+    - word: 保つ
+      postiion: 7
+    - word: こと
+      postiion: 9
+    - word: は
+      postiion: 11
+    - word: 私
+      postiion: 12
+    - word: たち
+      base: 達
+      postiion: 13
+    - word: に
+      postiion: 15
+    - word: 必要
+      postiion: 16
+    - word: な
+      base: だ
+      postiion: 18
+    - word: こと
+      postiion: 19
+    - word: で
+      base: だ
+      postiion: 21
+    - word: ある
+      base: 有る
+      postiion: 22
 - id: Shincha-f000039
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: さればといつて、
-  word_list: [されば, と, いつ, て]
   sound: f000039.mp3
   sound_begin: 153960
   sound_end: 155600
+  sentence: さればといつて、
+  words:
+    - word: されば
+      postiion: 0
+    - word: と
+      postiion: 3
+    - word: いつ
+      postiion: 4
+    - word: て
+      base: って
+      postiion: 6
 - id: Shincha-f000040
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: 不経済、
-  word_list: [不, 経済]
   sound: f000040.mp3
   sound_begin: 155600
   sound_end: 156800
+  sentence: 不経済、
+  words:
+    - word: 不
+      postiion: 0
+    - word: 経済
+      postiion: 1
 - id: Shincha-f000041
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: 不健康ほどに嗜好飲料を摂るのも行き過ぎである。
-  word_list: [不, 健康, ほど, に, 嗜好, 飲料, を, 摂る, の, も, 行き, 過ぎ, で, ある]
   sound: f000041.mp3
   sound_begin: 156800
   sound_end: 163360
+  sentence: 不健康ほどに嗜好飲料を摂るのも行き過ぎである。
+  words:
+    - word: 不
+      postiion: 0
+    - word: 健康
+      postiion: 1
+    - word: ほど
+      postiion: 3
+    - word: に
+      postiion: 5
+    - word: 嗜好
+      postiion: 6
+    - word: 飲料
+      postiion: 8
+    - word: を
+      postiion: 10
+    - word: 摂る
+      base: 取る
+      postiion: 11
+    - word: の
+      postiion: 13
+    - word: も
+      postiion: 14
+    - word: 行き
+      base: 行く
+      postiion: 15
+    - word: 過ぎ
+      base: 過ぎる
+      postiion: 17
+    - word: で
+      base: だ
+      postiion: 19
+    - word: ある
+      base: 有る
+      postiion: 20
 - id: Shincha-f000042
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: 今や、
-  word_list: [今, や]
   sound: f000042.mp3
   sound_begin: 163360
   sound_end: 164080
+  sentence: 今や、
+  words:
+    - word: 今
+      postiion: 0
+    - word: や
+      postiion: 1
 - id: Shincha-f000043
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: 天地爽麗の季に乗じて、
-  word_list: [天地, 爽, 麗, の, 季, に, 乗じ, て]
   sound: f000043.mp3
   sound_begin: 164080
   sound_end: 166720
+  sentence: 天地爽麗の季に乗じて、
+  words:
+    - word: 天地
+      postiion: 0
+    - word: 爽
+      postiion: 2
+    - word: 麗
+      postiion: 3
+    - word: の
+      postiion: 4
+    - word: 季
+      postiion: 5
+    - word: に
+      postiion: 6
+    - word: 乗じ
+      base: 乗ずる
+      postiion: 7
+    - word: て
+      postiion: 9
 - id: Shincha-f000044
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: 新茶一椀の服涼は、
-  word_list: [新茶, 一, 椀, の, 服, 涼, は]
   sound: f000044.mp3
   sound_begin: 166720
   sound_end: 170040
+  sentence: 新茶一椀の服涼は、
+  words:
+    - word: 新茶
+      postiion: 0
+    - word: 一
+      base: '1'
+      postiion: 2
+    - word: 椀
+      postiion: 3
+    - word: の
+      postiion: 4
+    - word: 服
+      postiion: 5
+    - word: 涼
+      postiion: 6
+    - word: は
+      postiion: 7
 - id: Shincha-f000045
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: 忙中僅に許さるべき自然の贈りものではあるまいか。
-  word_list: [忙中, 僅, に, 許, さる, べき, 自然, の, 贈りもの, で, は, ある, まい, か]
   sound: f000045.mp3
   sound_begin: 170040
   sound_end: 179176
+  sentence: 忙中僅に許さるべき自然の贈りものではあるまいか。
+  words:
+    - word: 忙中
+      postiion: 0
+    - word: 僅
+      base: 僅か
+      postiion: 2
+    - word: に
+      base: だ
+      postiion: 3
+    - word: 許
+      postiion: 4
+    - word: さる
+      base: 去る
+      postiion: 5
+    - word: べき
+      base: べし
+      postiion: 7
+    - word: 自然
+      postiion: 9
+    - word: の
+      postiion: 11
+    - word: 贈りもの
+      base: 贈り物
+      postiion: 12
+    - word: で
+      postiion: 16
+    - word: は
+      postiion: 17
+    - word: ある
+      base: 有る
+      postiion: 18
+    - word: まい
+      postiion: 20
+    - word: か
+      postiion: 22
 - id: Shincha-f000046
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: 煎茶道の中興の祖、
-  word_list: [煎茶, 道, の, 中興, の, 祖]
   sound: f000046.mp3
   sound_begin: 179176
   sound_end: 182160
+  sentence: 煎茶道の中興の祖、
+  words:
+    - word: 煎茶
+      postiion: 0
+    - word: 道
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: 中興
+      postiion: 4
+    - word: の
+      postiion: 6
+    - word: 祖
+      postiion: 7
 - id: Shincha-f000047
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: 上田秋成が書いてゐる「もう何も出来ぬ故、
-  word_list: [上田, 秋成, が, 書い, て, ゐる, もう, 何, も, 出来, ぬ, 故]
   sound: f000047.mp3
   sound_begin: 182160
   sound_end: 187640
+  sentence: 上田秋成が書いてゐる「もう何も出来ぬ故、
+  words:
+    - word: 上田
+      postiion: 0
+    - word: 秋成
+      postiion: 2
+    - word: が
+      postiion: 4
+    - word: 書い
+      base: 書く
+      postiion: 5
+    - word: て
+      postiion: 7
+    - word: ゐる
+      base: 居る
+      postiion: 8
+    - word: もう
+      postiion: 11
+    - word: 何
+      postiion: 13
+    - word: も
+      postiion: 14
+    - word: 出来
+      base: 出来る
+      postiion: 15
+    - word: ぬ
+      base: ず
+      postiion: 17
+    - word: 故
+      postiion: 18
 - id: Shincha-f000048
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: 煎茶を飲んで死をきはめてゐるばかりだ」と。
-  word_list: [煎茶, を, 飲ん, で, 死, を, きはめ, て, ゐる, ばかり, だ, と]
   sound: f000048.mp3
   sound_begin: 187640
   sound_end: 193906
+  sentence: 煎茶を飲んで死をきはめてゐるばかりだ」と。
+  words:
+    - word: 煎茶
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: 飲ん
+      base: 飲む
+      postiion: 3
+    - word: で
+      postiion: 5
+    - word: 死
+      postiion: 6
+    - word: を
+      postiion: 7
+    - word: きはめ
+      base: 極める
+      postiion: 8
+    - word: て
+      postiion: 11
+    - word: ゐる
+      base: 居る
+      postiion: 12
+    - word: ばかり
+      postiion: 14
+    - word: だ
+      postiion: 17
+    - word: と
+      postiion: 19
 - id: Shincha-f000049
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: 而も、
-  word_list: [而も]
   sound: f000049.mp3
   sound_begin: 193906
   sound_end: 195080
+  sentence: 而も、
+  words:
+    - word: 而も
+      base: 然も
+      postiion: 0
 - id: Shincha-f000050
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: それが何もかも、
-  word_list: [それ, が, 何, も, か, も]
   sound: f000050.mp3
   sound_begin: 195080
   sound_end: 196400
+  sentence: それが何もかも、
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: が
+      postiion: 2
+    - word: 何
+      postiion: 3
+    - word: も
+      postiion: 4
+    - word: か
+      base: 彼
+      postiion: 5
+    - word: も
+      postiion: 6
 - id: Shincha-f000051
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: し尽した年齢七十五のときの秋成の言だから、
-  word_list: [し, 尽し, た, 年齢, 七十五, の, とき, の, 秋成, の, 言, だ, から]
   sound: f000051.mp3
   sound_begin: 196400
   sound_end: 201240
+  sentence: し尽した年齢七十五のときの秋成の言だから、
+  words:
+    - word: し
+      base: 為る
+      postiion: 0
+    - word: 尽し
+      base: 尽くす
+      postiion: 1
+    - word: た
+      postiion: 3
+    - word: 年齢
+      postiion: 4
+    - word: 七十五
+      base: '75'
+      postiion: 6
+    - word: の
+      postiion: 9
+    - word: とき
+      base: 時
+      postiion: 10
+    - word: の
+      postiion: 12
+    - word: 秋成
+      postiion: 13
+    - word: の
+      postiion: 15
+    - word: 言
+      postiion: 16
+    - word: だ
+      postiion: 17
+    - word: から
+      postiion: 18
 - id: Shincha-f000052
   author_japanese: 岡本 かの子
   deck_name: Shincha
   deck_name_japanese: 新茶
-  sentence: 茶には何処か余悠のあることが判る。
-  word_list: [茶, に, は, 何処, か, 余, 悠, の, ある, こと, が, 判る]
   sound: f000052.mp3
   sound_begin: 201240
   sound_end: 206085
+  sentence: 茶には何処か余悠のあることが判る。
+  words:
+    - word: 茶
+      postiion: 0
+    - word: に
+      postiion: 1
+    - word: は
+      postiion: 2
+    - word: 何処
+      postiion: 3
+    - word: か
+      postiion: 5
+    - word: 余
+      postiion: 6
+    - word: 悠
+      postiion: 7
+    - word: の
+      postiion: 8
+    - word: ある
+      base: 有る
+      postiion: 9
+    - word: こと
+      postiion: 11
+    - word: が
+      postiion: 13
+    - word: 判る
+      base: 分かる
+      postiion: 14

@@ -2,566 +2,1901 @@
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: あひるさん　と　時計
-  word_list: [あひる, さん, と, 時計]
   sound: f000002.mp3
   sound_begin: 5280
   sound_end: 8085
+  sentence: あひるさん　と　時計
+  words:
+    - word: あひる
+      base: 家鴨
+      postiion: 0
+    - word: さん
+      postiion: 3
+    - word: と
+      postiion: 6
+    - word: 時計
+      postiion: 8
 - id: Ahirusanto Tokei-f000003
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: 何でもかでも他人の真似をしたがるあひるさんがありました。
-  word_list: [何, で, も, か, で, も, 他人, の, 真似, を, し, たがる, あひる, さん, が, あり, まし, た]
   sound: f000003.mp3
   sound_begin: 10320
   sound_end: 15680
+  sentence: 何でもかでも他人の真似をしたがるあひるさんがありました。
+  words:
+    - word: 何
+      postiion: 0
+    - word: で
+      postiion: 1
+    - word: も
+      postiion: 2
+    - word: か
+      base: 彼
+      postiion: 3
+    - word: で
+      postiion: 4
+    - word: も
+      postiion: 5
+    - word: 他人
+      postiion: 6
+    - word: の
+      postiion: 8
+    - word: 真似
+      postiion: 9
+    - word: を
+      postiion: 11
+    - word: し
+      base: 為る
+      postiion: 12
+    - word: たがる
+      postiion: 13
+    - word: あひる
+      base: 家鴨
+      postiion: 16
+    - word: さん
+      postiion: 19
+    - word: が
+      postiion: 21
+    - word: あり
+      base: 有る
+      postiion: 22
+    - word: まし
+      base: ます
+      postiion: 24
+    - word: た
+      postiion: 26
 - id: Ahirusanto Tokei-f000004
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: まだ子供でしたから無理もありませんが、
-  word_list: [まだ, 子供, でし, た, から, 無理, も, あり, ませ, ん, が]
   sound: f000004.mp3
   sound_begin: 15680
   sound_end: 19640
+  sentence: まだ子供でしたから無理もありませんが、
+  words:
+    - word: まだ
+      base: 未だ
+      postiion: 0
+    - word: 子供
+      postiion: 2
+    - word: でし
+      base: です
+      postiion: 4
+    - word: た
+      postiion: 6
+    - word: から
+      postiion: 7
+    - word: 無理
+      postiion: 9
+    - word: も
+      postiion: 11
+    - word: あり
+      base: 有る
+      postiion: 12
+    - word: ませ
+      base: ます
+      postiion: 14
+    - word: ん
+      base: ず
+      postiion: 16
+    - word: が
+      postiion: 17
 - id: Ahirusanto Tokei-f000005
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: 大きなあひるさんたちが時計を持っているのを見て欲しくて堪りません。
-  word_list: [大きな, あひる, さん, たち, が, 時計, を, 持っ, て, いる, の, を, 見, て, 欲しく, て, 堪り, ませ, ん]
   sound: f000005.mp3
   sound_begin: 19640
   sound_end: 26800
+  sentence: 大きなあひるさんたちが時計を持っているのを見て欲しくて堪りません。
+  words:
+    - word: 大きな
+      postiion: 0
+    - word: あひる
+      base: 家鴨
+      postiion: 3
+    - word: さん
+      postiion: 6
+    - word: たち
+      base: 達
+      postiion: 8
+    - word: が
+      postiion: 10
+    - word: 時計
+      postiion: 11
+    - word: を
+      postiion: 13
+    - word: 持っ
+      base: 持つ
+      postiion: 14
+    - word: て
+      postiion: 16
+    - word: いる
+      base: 居る
+      postiion: 17
+    - word: の
+      postiion: 19
+    - word: を
+      postiion: 20
+    - word: 見
+      base: 見る
+      postiion: 21
+    - word: て
+      postiion: 22
+    - word: 欲しく
+      base: 欲しい
+      postiion: 23
+    - word: て
+      postiion: 26
+    - word: 堪り
+      base: 堪る
+      postiion: 27
+    - word: ませ
+      base: ます
+      postiion: 29
+    - word: ん
+      base: ず
+      postiion: 31
 - id: Ahirusanto Tokei-f000006
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: お父さんにお願いしました。
-  word_list: [お, 父さん, に, お, 願い, し, まし, た]
   sound: f000006.mp3
   sound_begin: 26800
   sound_end: 29800
+  sentence: お父さんにお願いしました。
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: 父さん
+      postiion: 1
+    - word: に
+      postiion: 4
+    - word: お
+      base: 御
+      postiion: 5
+    - word: 願い
+      base: 願う
+      postiion: 6
+    - word: し
+      base: 為る
+      postiion: 8
+    - word: まし
+      base: ます
+      postiion: 9
+    - word: た
+      postiion: 11
 - id: Ahirusanto Tokei-f000007
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: 「お父さん、
-  word_list: [お, 父さん]
   sound: f000007.mp3
   sound_begin: 29800
   sound_end: 30560
+  sentence: 「お父さん、
+  words:
+    - word: お
+      base: 御
+      postiion: 1
+    - word: 父さん
+      postiion: 2
 - id: Ahirusanto Tokei-f000008
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: 時計を買って下さい。」
-  word_list: [時計, を, 買っ, て, 下さい]
   sound: f000008.mp3
   sound_begin: 30560
   sound_end: 33760
+  sentence: 時計を買って下さい。」
+  words:
+    - word: 時計
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: 買っ
+      base: 買う
+      postiion: 3
+    - word: て
+      postiion: 5
+    - word: 下さい
+      base: 下さる
+      postiion: 6
 - id: Ahirusanto Tokei-f000009
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: お父さんは言いました。
-  word_list: [お, 父さん, は, 言い, まし, た]
   sound: f000009.mp3
   sound_begin: 33760
   sound_end: 36080
+  sentence: お父さんは言いました。
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: 父さん
+      postiion: 1
+    - word: は
+      postiion: 4
+    - word: 言い
+      base: 言う
+      postiion: 5
+    - word: まし
+      base: ます
+      postiion: 7
+    - word: た
+      postiion: 9
 - id: Ahirusanto Tokei-f000010
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: 「もっと大きくなったらにしよう。」
-  word_list: [もっと, 大きく, なっ, たら, に, しよう]
   sound: f000010.mp3
   sound_begin: 36080
   sound_end: 40040
+  sentence: 「もっと大きくなったらにしよう。」
+  words:
+    - word: もっと
+      postiion: 1
+    - word: 大きく
+      base: 大きい
+      postiion: 4
+    - word: なっ
+      base: 成る
+      postiion: 7
+    - word: たら
+      base: た
+      postiion: 9
+    - word: に
+      postiion: 11
+    - word: しよう
+      base: 為る
+      postiion: 12
 - id: Ahirusanto Tokei-f000011
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: あひるさんは、
-  word_list: [あひる, さん, は]
   sound: f000011.mp3
   sound_begin: 40040
   sound_end: 41360
+  sentence: あひるさんは、
+  words:
+    - word: あひる
+      base: 家鴨
+      postiion: 0
+    - word: さん
+      postiion: 3
+    - word: は
+      postiion: 5
 - id: Ahirusanto Tokei-f000012
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: すぐおばあさんのところへ行きました。
-  word_list: [すぐ, お, ばあ, さん, の, ところ, へ, 行き, まし, た]
   sound: f000012.mp3
   sound_begin: 41360
   sound_end: 45800
+  sentence: すぐおばあさんのところへ行きました。
+  words:
+    - word: すぐ
+      base: 直ぐ
+      postiion: 0
+    - word: お
+      base: 御
+      postiion: 2
+    - word: ばあ
+      base: 婆
+      postiion: 3
+    - word: さん
+      postiion: 5
+    - word: の
+      postiion: 7
+    - word: ところ
+      base: 所
+      postiion: 8
+    - word: へ
+      postiion: 11
+    - word: 行き
+      base: 行く
+      postiion: 12
+    - word: まし
+      base: ます
+      postiion: 14
+    - word: た
+      postiion: 16
 - id: Ahirusanto Tokei-f000013
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: 「おばあさん、
-  word_list: [お, ばあ, さん]
   sound: f000013.mp3
   sound_begin: 45800
   sound_end: 46520
+  sentence: 「おばあさん、
+  words:
+    - word: お
+      base: 御
+      postiion: 1
+    - word: ばあ
+      base: 婆
+      postiion: 2
+    - word: さん
+      postiion: 4
 - id: Ahirusanto Tokei-f000014
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: 僕に時計を買って下さい。」
-  word_list: [僕, に, 時計, を, 買っ, て, 下さい]
   sound: f000014.mp3
   sound_begin: 46520
   sound_end: 50400
+  sentence: 僕に時計を買って下さい。」
+  words:
+    - word: 僕
+      postiion: 0
+    - word: に
+      postiion: 1
+    - word: 時計
+      postiion: 2
+    - word: を
+      postiion: 4
+    - word: 買っ
+      base: 買う
+      postiion: 5
+    - word: て
+      postiion: 7
+    - word: 下さい
+      base: 下さる
+      postiion: 8
 - id: Ahirusanto Tokei-f000015
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: おばあさんはあひるさんをよく見って言いました。
-  word_list: [お, ばあ, さん, は, あひる, さん, を, よく, 見, って, 言い, まし, た]
   sound: f000015.mp3
   sound_begin: 50400
   sound_end: 54560
+  sentence: おばあさんはあひるさんをよく見って言いました。
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: ばあ
+      base: 婆
+      postiion: 1
+    - word: さん
+      postiion: 3
+    - word: は
+      postiion: 5
+    - word: あひる
+      base: 家鴨
+      postiion: 6
+    - word: さん
+      postiion: 9
+    - word: を
+      postiion: 11
+    - word: よく
+      base: 良く
+      postiion: 12
+    - word: 見
+      base: 見る
+      postiion: 14
+    - word: って
+      postiion: 15
+    - word: 言い
+      base: 言う
+      postiion: 17
+    - word: まし
+      base: ます
+      postiion: 19
+    - word: た
+      postiion: 21
 - id: Ahirusanto Tokei-f000016
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: 「お前はまだ小さいから大きくなったらにしましょう。」
-  word_list: [お前, は, まだ, 小さい, から, 大きく, なっ, たら, に, し, ましょう]
   sound: f000016.mp3
   sound_begin: 54560
   sound_end: 60720
+  sentence: 「お前はまだ小さいから大きくなったらにしましょう。」
+  words:
+    - word: お前
+      base: 御前
+      postiion: 1
+    - word: は
+      postiion: 3
+    - word: まだ
+      base: 未だ
+      postiion: 4
+    - word: 小さい
+      postiion: 6
+    - word: から
+      postiion: 9
+    - word: 大きく
+      base: 大きい
+      postiion: 11
+    - word: なっ
+      base: 成る
+      postiion: 14
+    - word: たら
+      base: た
+      postiion: 16
+    - word: に
+      postiion: 18
+    - word: し
+      base: 為る
+      postiion: 19
+    - word: ましょう
+      base: ます
+      postiion: 20
 - id: Ahirusanto Tokei-f000017
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: あひるさんは涙が出て来ました。
-  word_list: [あひる, さん, は, 涙, が, 出, て, 来, まし, た]
   sound: f000017.mp3
   sound_begin: 60720
   sound_end: 63040
+  sentence: あひるさんは涙が出て来ました。
+  words:
+    - word: あひる
+      base: 家鴨
+      postiion: 0
+    - word: さん
+      postiion: 3
+    - word: は
+      postiion: 5
+    - word: 涙
+      postiion: 6
+    - word: が
+      postiion: 7
+    - word: 出
+      base: 出る
+      postiion: 8
+    - word: て
+      postiion: 9
+    - word: 来
+      base: 来る
+      postiion: 10
+    - word: まし
+      base: ます
+      postiion: 11
+    - word: た
+      postiion: 13
 - id: Ahirusanto Tokei-f000018
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: じだんだをふまうと思いましたが、
-  word_list: [じだんだ, を, ふま, う, と, 思い, まし, た, が]
   sound: f000018.mp3
   sound_begin: 63040
   sound_end: 66720
+  sentence: じだんだをふまうと思いましたが、
+  words:
+    - word: じだんだ
+      base: 地団駄
+      postiion: 0
+    - word: を
+      postiion: 4
+    - word: ふま
+      base: 踏む
+      postiion: 5
+    - word: う
+      base: うー
+      postiion: 7
+    - word: と
+      postiion: 8
+    - word: 思い
+      base: 思う
+      postiion: 9
+    - word: まし
+      base: ます
+      postiion: 11
+    - word: た
+      postiion: 13
+    - word: が
+      postiion: 14
 - id: Ahirusanto Tokei-f000019
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: すぐに、
-  word_list: [すぐ, に]
   sound: f000019.mp3
   sound_begin: 66720
   sound_end: 67720
+  sentence: すぐに、
+  words:
+    - word: すぐ
+      base: 直ぐ
+      postiion: 0
+    - word: に
+      postiion: 2
 - id: Ahirusanto Tokei-f000020
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: 大きな虫目鏡をおばあさんにわたして言いました。
-  word_list: [大きな, 虫, 目鏡, を, お, ばあ, さん, に, わたし, て, 言い, まし, た]
   sound: f000020.mp3
   sound_begin: 67720
   sound_end: 72720
+  sentence: 大きな虫目鏡をおばあさんにわたして言いました。
+  words:
+    - word: 大きな
+      postiion: 0
+    - word: 虫
+      postiion: 3
+    - word: 目鏡
+      base: 眼鏡
+      postiion: 4
+    - word: を
+      postiion: 6
+    - word: お
+      base: 御
+      postiion: 7
+    - word: ばあ
+      base: 婆
+      postiion: 8
+    - word: さん
+      postiion: 10
+    - word: に
+      postiion: 12
+    - word: わたし
+      base: 渡す
+      postiion: 13
+    - word: て
+      postiion: 16
+    - word: 言い
+      base: 言う
+      postiion: 17
+    - word: まし
+      base: ます
+      postiion: 19
+    - word: た
+      postiion: 21
 - id: Ahirusanto Tokei-f000021
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: 「おばあさんは目が悪いから、
-  word_list: [お, ばあ, さん, は, 目, が, 悪い, から]
   sound: f000021.mp3
   sound_begin: 72720
   sound_end: 74720
+  sentence: 「おばあさんは目が悪いから、
+  words:
+    - word: お
+      base: 御
+      postiion: 1
+    - word: ばあ
+      base: 婆
+      postiion: 2
+    - word: さん
+      postiion: 4
+    - word: は
+      postiion: 6
+    - word: 目
+      postiion: 7
+    - word: が
+      postiion: 8
+    - word: 悪い
+      postiion: 9
+    - word: から
+      postiion: 11
 - id: Ahirusanto Tokei-f000022
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: これでよく見て下さい。
-  word_list: [これ, で, よく, 見, て, 下さい]
   sound: f000022.mp3
   sound_begin: 74720
   sound_end: 76880
+  sentence: これでよく見て下さい。
+  words:
+    - word: これ
+      base: 此れ
+      postiion: 0
+    - word: で
+      postiion: 2
+    - word: よく
+      base: 良く
+      postiion: 3
+    - word: 見
+      base: 見る
+      postiion: 5
+    - word: て
+      postiion: 6
+    - word: 下さい
+      base: 下さる
+      postiion: 7
 - id: Ahirusanto Tokei-f000023
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: 僕はとても大きいんだから。」
-  word_list: [僕, は, とても, 大きい, ん, だ, から]
   sound: f000023.mp3
   sound_begin: 76880
   sound_end: 81560
+  sentence: 僕はとても大きいんだから。」
+  words:
+    - word: 僕
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: とても
+      base: 迚も
+      postiion: 2
+    - word: 大きい
+      postiion: 5
+    - word: ん
+      base: の
+      postiion: 8
+    - word: だ
+      postiion: 9
+    - word: から
+      postiion: 10
 - id: Ahirusanto Tokei-f000024
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: おばあさんは虫目鏡をかけてあひるさんを見直しましたら、
-  word_list: [お, ばあ, さん, は, 虫, 目鏡, を, かけ, て, あひる, さん, を, 見, 直し, まし, たら]
   sound: f000024.mp3
   sound_begin: 81560
   sound_end: 86261
+  sentence: おばあさんは虫目鏡をかけてあひるさんを見直しましたら、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: ばあ
+      base: 婆
+      postiion: 1
+    - word: さん
+      postiion: 3
+    - word: は
+      postiion: 5
+    - word: 虫
+      postiion: 6
+    - word: 目鏡
+      base: 眼鏡
+      postiion: 7
+    - word: を
+      postiion: 9
+    - word: かけ
+      base: 掛ける
+      postiion: 10
+    - word: て
+      postiion: 12
+    - word: あひる
+      base: 家鴨
+      postiion: 13
+    - word: さん
+      postiion: 16
+    - word: を
+      postiion: 18
+    - word: 見
+      base: 見る
+      postiion: 19
+    - word: 直し
+      base: 直す
+      postiion: 20
+    - word: まし
+      base: ます
+      postiion: 22
+    - word: たら
+      base: た
+      postiion: 24
 - id: Ahirusanto Tokei-f000025
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: あひるさんはもうお父さんのように大きく見えました。
-  word_list: [あひる, さん, は, もう, お, 父さん, の, よう, に, 大きく, 見え, まし, た]
   sound: f000025.mp3
   sound_begin: 86261
   sound_end: 91600
+  sentence: あひるさんはもうお父さんのように大きく見えました。
+  words:
+    - word: あひる
+      base: 家鴨
+      postiion: 0
+    - word: さん
+      postiion: 3
+    - word: は
+      postiion: 5
+    - word: もう
+      postiion: 6
+    - word: お
+      base: 御
+      postiion: 8
+    - word: 父さん
+      postiion: 9
+    - word: の
+      postiion: 12
+    - word: よう
+      base: 様
+      postiion: 13
+    - word: に
+      base: だ
+      postiion: 15
+    - word: 大きく
+      base: 大きい
+      postiion: 16
+    - word: 見え
+      base: 見える
+      postiion: 19
+    - word: まし
+      base: ます
+      postiion: 21
+    - word: た
+      postiion: 23
 - id: Ahirusanto Tokei-f000026
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: おばあさんは成程と思って財布からお金を出してあひるさんにやりました。
-  word_list: [お, ばあ, さん, は, 成程, と, 思っ, て, 財布, から, お, 金, を, 出し, て, あひる, さん, に, やり, まし, た]
   sound: f000026.mp3
   sound_begin: 91600
   sound_end: 99920
+  sentence: おばあさんは成程と思って財布からお金を出してあひるさんにやりました。
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: ばあ
+      base: 婆
+      postiion: 1
+    - word: さん
+      postiion: 3
+    - word: は
+      postiion: 5
+    - word: 成程
+      base: 成る程
+      postiion: 6
+    - word: と
+      postiion: 8
+    - word: 思っ
+      base: 思う
+      postiion: 9
+    - word: て
+      postiion: 11
+    - word: 財布
+      postiion: 12
+    - word: から
+      postiion: 14
+    - word: お
+      base: 御
+      postiion: 16
+    - word: 金
+      postiion: 17
+    - word: を
+      postiion: 18
+    - word: 出し
+      base: 出す
+      postiion: 19
+    - word: て
+      postiion: 21
+    - word: あひる
+      base: 家鴨
+      postiion: 22
+    - word: さん
+      postiion: 25
+    - word: に
+      postiion: 27
+    - word: やり
+      base: 遣る
+      postiion: 28
+    - word: まし
+      base: ます
+      postiion: 30
+    - word: た
+      postiion: 32
 - id: Ahirusanto Tokei-f000027
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: あひるさんはそれを持って時計屋さんに行きました。
-  word_list: [あひる, さん, は, それ, を, 持っ, て, 時計, 屋, さん, に, 行き, まし, た]
   sound: f000027.mp3
   sound_begin: 99920
   sound_end: 102880
+  sentence: あひるさんはそれを持って時計屋さんに行きました。
+  words:
+    - word: あひる
+      base: 家鴨
+      postiion: 0
+    - word: さん
+      postiion: 3
+    - word: は
+      postiion: 5
+    - word: それ
+      base: 其れ
+      postiion: 6
+    - word: を
+      postiion: 8
+    - word: 持っ
+      base: 持つ
+      postiion: 9
+    - word: て
+      postiion: 11
+    - word: 時計
+      postiion: 12
+    - word: 屋
+      postiion: 14
+    - word: さん
+      postiion: 15
+    - word: に
+      postiion: 17
+    - word: 行き
+      base: 行く
+      postiion: 18
+    - word: まし
+      base: ます
+      postiion: 20
+    - word: た
+      postiion: 22
 - id: Ahirusanto Tokei-f000028
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: ところが、
-  word_list: [ところ, が]
   sound: f000028.mp3
   sound_begin: 102880
   sound_end: 105160
+  sentence: ところが、
+  words:
+    - word: ところ
+      base: 所
+      postiion: 0
+    - word: が
+      postiion: 3
 - id: Ahirusanto Tokei-f000029
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: あひるの時計屋さんの品物は、
-  word_list: [あひる, の, 時, 計屋, さん, の, 品物, は]
   sound: f000029.mp3
   sound_begin: 105160
   sound_end: 107880
+  sentence: あひるの時計屋さんの品物は、
+  words:
+    - word: あひる
+      base: 家鴨
+      postiion: 0
+    - word: の
+      postiion: 3
+    - word: 時
+      postiion: 4
+    - word: 計屋
+      postiion: 5
+    - word: さん
+      postiion: 7
+    - word: の
+      postiion: 9
+    - word: 品物
+      postiion: 10
+    - word: は
+      postiion: 12
 - id: Ahirusanto Tokei-f000030
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: 人間が使い古した時計ばかり売っていて、
-  word_list: [人間, が, 使い, 古し, た, 時計, ばかり, 売っ, て, い, て]
   sound: f000030.mp3
   sound_begin: 107880
   sound_end: 111200
+  sentence: 人間が使い古した時計ばかり売っていて、
+  words:
+    - word: 人間
+      postiion: 0
+    - word: が
+      postiion: 2
+    - word: 使い
+      base: 使う
+      postiion: 3
+    - word: 古し
+      base: 古す
+      postiion: 5
+    - word: た
+      postiion: 7
+    - word: 時計
+      postiion: 8
+    - word: ばかり
+      postiion: 10
+    - word: 売っ
+      base: 売る
+      postiion: 13
+    - word: て
+      postiion: 15
+    - word: い
+      base: 居る
+      postiion: 16
+    - word: て
+      postiion: 17
 - id: Ahirusanto Tokei-f000031
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: 新しい時計などは一つだってないのです。
-  word_list: [新しい, 時計, など, は, 一, つ, だ, って, ない, の, です]
   sound: f000031.mp3
   sound_begin: 111200
   sound_end: 116076
+  sentence: 新しい時計などは一つだってないのです。
+  words:
+    - word: 新しい
+      postiion: 0
+    - word: 時計
+      postiion: 3
+    - word: など
+      postiion: 5
+    - word: は
+      postiion: 7
+    - word: 一
+      base: '1'
+      postiion: 8
+    - word: つ
+      postiion: 9
+    - word: だ
+      postiion: 10
+    - word: って
+      postiion: 11
+    - word: ない
+      base: 無い
+      postiion: 13
+    - word: の
+      postiion: 15
+    - word: です
+      postiion: 16
 - id: Ahirusanto Tokei-f000032
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: 何故って、
-  word_list: [何故, って]
   sound: f000032.mp3
   sound_begin: 116076
   sound_end: 117810
+  sentence: 何故って、
+  words:
+    - word: 何故
+      postiion: 0
+    - word: って
+      postiion: 2
 - id: Ahirusanto Tokei-f000033
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: あひるの職工さんたちに、
-  word_list: [あひる, の, 職工, さん, たち, に]
   sound: f000033.mp3
   sound_begin: 117810
   sound_end: 119920
+  sentence: あひるの職工さんたちに、
+  words:
+    - word: あひる
+      base: 家鴨
+      postiion: 0
+    - word: の
+      postiion: 3
+    - word: 職工
+      postiion: 4
+    - word: さん
+      postiion: 6
+    - word: たち
+      base: 達
+      postiion: 8
+    - word: に
+      postiion: 10
 - id: Ahirusanto Tokei-f000034
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: 時計のあのややこしいぜんまいや機械がこさえられると思いますか？
-  word_list: [時計, の, あの, ややこしい, ぜんまい, や, 機械, が, こさえ, られる, と, 思い, ます, か]
   sound: f000034.mp3
   sound_begin: 119920
   sound_end: 126404
+  sentence: 時計のあのややこしいぜんまいや機械がこさえられると思いますか？
+  words:
+    - word: 時計
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: あの
+      postiion: 3
+    - word: ややこしい
+      postiion: 5
+    - word: ぜんまい
+      postiion: 10
+    - word: や
+      postiion: 14
+    - word: 機械
+      postiion: 15
+    - word: が
+      postiion: 17
+    - word: こさえ
+      base: 拵える
+      postiion: 18
+    - word: られる
+      postiion: 21
+    - word: と
+      postiion: 24
+    - word: 思い
+      base: 思う
+      postiion: 25
+    - word: ます
+      postiion: 27
+    - word: か
+      postiion: 29
 - id: Ahirusanto Tokei-f000035
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: あひるさんは何にも分らないので、
-  word_list: [あひる, さん, は, 何に, も, 分ら, ない, の, で]
   sound: f000035.mp3
   sound_begin: 126404
   sound_end: 129720
+  sentence: あひるさんは何にも分らないので、
+  words:
+    - word: あひる
+      base: 家鴨
+      postiion: 0
+    - word: さん
+      postiion: 3
+    - word: は
+      postiion: 5
+    - word: 何に
+      base: 何
+      postiion: 6
+    - word: も
+      postiion: 8
+    - word: 分ら
+      base: 分かる
+      postiion: 9
+    - word: ない
+      postiion: 11
+    - word: の
+      postiion: 13
+    - word: で
+      base: だ
+      postiion: 14
 - id: Ahirusanto Tokei-f000036
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: よりによってよく光ったのを買いました。
-  word_list: [より, に, よっ, て, よく, 光っ, た, の, を, 買い, まし, た]
   sound: f000036.mp3
   sound_begin: 129720
   sound_end: 134000
+  sentence: よりによってよく光ったのを買いました。
+  words:
+    - word: より
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: よっ
+      base: よる
+      postiion: 3
+    - word: て
+      postiion: 5
+    - word: よく
+      base: 良く
+      postiion: 6
+    - word: 光っ
+      base: 光る
+      postiion: 8
+    - word: た
+      postiion: 10
+    - word: の
+      postiion: 11
+    - word: を
+      postiion: 12
+    - word: 買い
+      base: 買う
+      postiion: 13
+    - word: まし
+      base: ます
+      postiion: 15
+    - word: た
+      postiion: 17
 - id: Ahirusanto Tokei-f000037
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: ニツケル製で、
-  word_list: [ニツケル, 製, で]
   sound: f000037.mp3
   sound_begin: 134000
   sound_end: 135360
+  sentence: ニツケル製で、
+  words:
+    - word: ニツケル
+      postiion: 0
+    - word: 製
+      postiion: 4
+    - word: で
+      postiion: 5
 - id: Ahirusanto Tokei-f000038
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: 値段と言えば人間世界なら二円五十銭の品物で、
-  word_list: [値段, と, 言え, ば, 人間, 世界, なら, 二, 円, 五十, 銭, の, 品物, で]
   sound: f000038.mp3
   sound_begin: 135360
   sound_end: 140483
+  sentence: 値段と言えば人間世界なら二円五十銭の品物で、
+  words:
+    - word: 値段
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: 言え
+      base: 言う
+      postiion: 3
+    - word: ば
+      postiion: 5
+    - word: 人間
+      postiion: 6
+    - word: 世界
+      postiion: 8
+    - word: なら
+      base: だ
+      postiion: 10
+    - word: 二
+      base: '2'
+      postiion: 12
+    - word: 円
+      postiion: 13
+    - word: 五十
+      base: '50'
+      postiion: 14
+    - word: 銭
+      postiion: 16
+    - word: の
+      postiion: 17
+    - word: 品物
+      postiion: 18
+    - word: で
+      base: だ
+      postiion: 20
 - id: Ahirusanto Tokei-f000039
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: 振るとガタガタ音のする大変な代物です。
-  word_list: [振る, と, ガタガタ, 音, の, する, 大変, な, 代物, です]
   sound: f000039.mp3
   sound_begin: 140483
   sound_end: 146560
+  sentence: 振るとガタガタ音のする大変な代物です。
+  words:
+    - word: 振る
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: ガタガタ
+      base: がたがた
+      postiion: 3
+    - word: 音
+      postiion: 7
+    - word: の
+      postiion: 8
+    - word: する
+      base: 為る
+      postiion: 9
+    - word: 大変
+      postiion: 11
+    - word: な
+      base: だ
+      postiion: 13
+    - word: 代物
+      postiion: 14
+    - word: です
+      postiion: 16
 - id: Ahirusanto Tokei-f000040
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: ですけれども、
-  word_list: [です, けれど, も]
   sound: f000040.mp3
   sound_begin: 146560
   sound_end: 147800
+  sentence: ですけれども、
+  words:
+    - word: です
+      postiion: 0
+    - word: けれど
+      postiion: 2
+    - word: も
+      postiion: 5
 - id: Ahirusanto Tokei-f000041
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: あひるさんは大よろこびで、
-  word_list: [あひる, さん, は, 大よろこび, で]
   sound: f000041.mp3
   sound_begin: 147800
   sound_end: 149880
+  sentence: あひるさんは大よろこびで、
+  words:
+    - word: あひる
+      base: 家鴨
+      postiion: 0
+    - word: さん
+      postiion: 3
+    - word: は
+      postiion: 5
+    - word: 大よろこび
+      base: 大喜び
+      postiion: 6
+    - word: で
+      base: だ
+      postiion: 11
 - id: Ahirusanto Tokei-f000042
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: ポケツトから時々取り出して眺めて喜んでいました。
-  word_list: [ポケツト, から, 時々, 取り, 出し, て, 眺め, て, 喜ん, で, い, まし, た]
   sound: f000042.mp3
   sound_begin: 149880
   sound_end: 155220
+  sentence: ポケツトから時々取り出して眺めて喜んでいました。
+  words:
+    - word: ポケツト
+      postiion: 0
+    - word: から
+      postiion: 4
+    - word: 時々
+      postiion: 6
+    - word: 取り
+      base: 取る
+      postiion: 8
+    - word: 出し
+      base: 出す
+      postiion: 10
+    - word: て
+      postiion: 12
+    - word: 眺め
+      base: 眺める
+      postiion: 13
+    - word: て
+      postiion: 15
+    - word: 喜ん
+      base: 喜ぶ
+      postiion: 16
+    - word: で
+      postiion: 18
+    - word: い
+      base: 居る
+      postiion: 19
+    - word: まし
+      base: ます
+      postiion: 20
+    - word: た
+      postiion: 22
 - id: Ahirusanto Tokei-f000043
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: すると或日、
-  word_list: [する, と, 或, 日]
   sound: f000043.mp3
   sound_begin: 157256
   sound_end: 158480
+  sentence: すると或日、
+  words:
+    - word: する
+      base: 為る
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: 或
+      base: 或る
+      postiion: 3
+    - word: 日
+      postiion: 4
 - id: Ahirusanto Tokei-f000044
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: 七面鳥さんから手紙が来ました。
-  word_list: [七面鳥, さん, から, 手紙, が, 来, まし, た]
   sound: f000044.mp3
   sound_begin: 158480
   sound_end: 162967
+  sentence: 七面鳥さんから手紙が来ました。
+  words:
+    - word: 七面鳥
+      postiion: 0
+    - word: さん
+      postiion: 3
+    - word: から
+      postiion: 5
+    - word: 手紙
+      postiion: 7
+    - word: が
+      postiion: 9
+    - word: 来
+      base: 来る
+      postiion: 10
+    - word: まし
+      base: ます
+      postiion: 11
+    - word: た
+      postiion: 13
 - id: Ahirusanto Tokei-f000045
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: 「お天気がよいから旅行に行きましょう。
-  word_list: [お, 天気, が, よい, から, 旅行, に, 行き, ましょう]
   sound: f000045.mp3
   sound_begin: 162967
   sound_end: 166880
+  sentence: 「お天気がよいから旅行に行きましょう。
+  words:
+    - word: お
+      base: 御
+      postiion: 1
+    - word: 天気
+      postiion: 2
+    - word: が
+      postiion: 4
+    - word: よい
+      base: 良い
+      postiion: 5
+    - word: から
+      postiion: 7
+    - word: 旅行
+      postiion: 9
+    - word: に
+      postiion: 11
+    - word: 行き
+      base: 行く
+      postiion: 12
+    - word: ましょう
+      base: ます
+      postiion: 14
 - id: Ahirusanto Tokei-f000046
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: 僕達は小さくても方々旅行して色々なことを勉強しなくちゃならない。
-  word_list: [僕, 達, は, 小さく, て, も, 方々, 旅行, し, て, 色々, な, こと, を, 勉強, し, なく, ちゃ, なら, ない]
   sound: f000046.mp3
   sound_begin: 166880
   sound_end: 173520
+  sentence: 僕達は小さくても方々旅行して色々なことを勉強しなくちゃならない。
+  words:
+    - word: 僕
+      postiion: 0
+    - word: 達
+      postiion: 1
+    - word: は
+      postiion: 2
+    - word: 小さく
+      base: 小さい
+      postiion: 3
+    - word: て
+      postiion: 6
+    - word: も
+      postiion: 7
+    - word: 方々
+      postiion: 8
+    - word: 旅行
+      postiion: 10
+    - word: し
+      base: 為る
+      postiion: 12
+    - word: て
+      postiion: 13
+    - word: 色々
+      postiion: 14
+    - word: な
+      base: だ
+      postiion: 16
+    - word: こと
+      postiion: 17
+    - word: を
+      postiion: 19
+    - word: 勉強
+      postiion: 20
+    - word: し
+      base: 為る
+      postiion: 22
+    - word: なく
+      base: ない
+      postiion: 23
+    - word: ちゃ
+      base: て
+      postiion: 25
+    - word: なら
+      base: 成る
+      postiion: 27
+    - word: ない
+      postiion: 29
 - id: Ahirusanto Tokei-f000047
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: あひる君、
-  word_list: [あひる, 君]
   sound: f000047.mp3
   sound_begin: 173520
   sound_end: 174280
+  sentence: あひる君、
+  words:
+    - word: あひる
+      base: 家鴨
+      postiion: 0
+    - word: 君
+      postiion: 3
 - id: Ahirusanto Tokei-f000048
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: きっと来給えね。
-  word_list: [きっと, 来, 給え, ね]
   sound: f000048.mp3
   sound_begin: 174280
   sound_end: 175920
+  sentence: きっと来給えね。
+  words:
+    - word: きっと
+      postiion: 0
+    - word: 来
+      base: 来る
+      postiion: 3
+    - word: 給え
+      base: 給う
+      postiion: 4
+    - word: ね
+      postiion: 6
 - id: Ahirusanto Tokei-f000049
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: 僕たち二年生は全部行くよ。
-  word_list: [僕, たち, 二, 年, 生, は, 全部, 行く, よ]
   sound: f000049.mp3
   sound_begin: 175920
   sound_end: 180480
+  sentence: 僕たち二年生は全部行くよ。
+  words:
+    - word: 僕
+      postiion: 0
+    - word: たち
+      base: 達
+      postiion: 1
+    - word: 二
+      base: '2'
+      postiion: 3
+    - word: 年
+      postiion: 4
+    - word: 生
+      postiion: 5
+    - word: は
+      postiion: 6
+    - word: 全部
+      postiion: 7
+    - word: 行く
+      postiion: 9
+    - word: よ
+      postiion: 11
 - id: Ahirusanto Tokei-f000050
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: あす朝、
-  word_list: [あす, 朝]
   sound: f000050.mp3
   sound_begin: 180480
   sound_end: 181400
+  sentence: あす朝、
+  words:
+    - word: あす
+      base: 明日
+      postiion: 0
+    - word: 朝
+      postiion: 2
 - id: Ahirusanto Tokei-f000051
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: きっかり七時に鳥山駅を出発だ。」
-  word_list: [きっかり, 七, 時, に, 鳥山, 駅, を, 出発, だ]
   sound: f000051.mp3
   sound_begin: 181400
   sound_end: 187280
+  sentence: きっかり七時に鳥山駅を出発だ。」
+  words:
+    - word: きっかり
+      postiion: 0
+    - word: 七
+      base: '7'
+      postiion: 4
+    - word: 時
+      postiion: 5
+    - word: に
+      postiion: 6
+    - word: 鳥山
+      postiion: 7
+    - word: 駅
+      postiion: 9
+    - word: を
+      postiion: 10
+    - word: 出発
+      postiion: 11
+    - word: だ
+      postiion: 13
 - id: Ahirusanto Tokei-f000052
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: あひるさんは鳥さんですから生れつき旅行が好きで、
-  word_list: [あひる, さん, は, 鳥, さん, です, から, 生れつき, 旅行, が, 好き, で]
   sound: f000052.mp3
   sound_begin: 187280
   sound_end: 191360
+  sentence: あひるさんは鳥さんですから生れつき旅行が好きで、
+  words:
+    - word: あひる
+      base: 家鴨
+      postiion: 0
+    - word: さん
+      postiion: 3
+    - word: は
+      postiion: 5
+    - word: 鳥
+      postiion: 6
+    - word: さん
+      postiion: 7
+    - word: です
+      postiion: 9
+    - word: から
+      postiion: 11
+    - word: 生れつき
+      base: 生まれ付き
+      postiion: 13
+    - word: 旅行
+      postiion: 17
+    - word: が
+      postiion: 19
+    - word: 好き
+      postiion: 20
+    - word: で
+      base: だ
+      postiion: 22
 - id: Ahirusanto Tokei-f000053
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: その夜は嬉しくて眠れません。
-  word_list: [その, 夜, は, 嬉しく, て, 眠れ, ませ, ん]
   sound: f000053.mp3
   sound_begin: 191360
   sound_end: 194920
+  sentence: その夜は嬉しくて眠れません。
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 夜
+      postiion: 2
+    - word: は
+      postiion: 3
+    - word: 嬉しく
+      base: 嬉しい
+      postiion: 4
+    - word: て
+      postiion: 7
+    - word: 眠れ
+      base: 眠る
+      postiion: 8
+    - word: ませ
+      base: ます
+      postiion: 10
+    - word: ん
+      base: ず
+      postiion: 12
 - id: Ahirusanto Tokei-f000054
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: 朝、
-  word_list: [朝]
   sound: f000054.mp3
   sound_begin: 194920
   sound_end: 195480
+  sentence: 朝、
+  words:
+    - word: 朝
+      postiion: 0
 - id: Ahirusanto Tokei-f000055
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: 三時頃から起きて時計とにらめっくらをしていました。
-  word_list: [三, 時, 頃, から, 起き, て, 時計, と, にらめ, っ, くら, を, し, て, い, まし, た]
   sound: f000055.mp3
   sound_begin: 195480
   sound_end: 200999
+  sentence: 三時頃から起きて時計とにらめっくらをしていました。
+  words:
+    - word: 三
+      base: '3'
+      postiion: 0
+    - word: 時
+      postiion: 1
+    - word: 頃
+      postiion: 2
+    - word: から
+      postiion: 3
+    - word: 起き
+      base: 起きる
+      postiion: 5
+    - word: て
+      postiion: 7
+    - word: 時計
+      postiion: 8
+    - word: と
+      postiion: 10
+    - word: にらめ
+      base: 睨む
+      postiion: 11
+    - word: っ
+      postiion: 14
+    - word: くら
+      base: 蔵
+      postiion: 15
+    - word: を
+      postiion: 17
+    - word: し
+      base: 為る
+      postiion: 18
+    - word: て
+      postiion: 19
+    - word: い
+      base: 居る
+      postiion: 20
+    - word: まし
+      base: ます
+      postiion: 21
+    - word: た
+      postiion: 23
 - id: Ahirusanto Tokei-f000056
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: 七時前になりましたから飛ぶように駅へかけつけました。
-  word_list: [七, 時, 前, に, なり, まし, た, から, 飛ぶ, よう, に, 駅, へ, かけ, つけ, まし, た]
   sound: f000056.mp3
   sound_begin: 200999
   sound_end: 205485
+  sentence: 七時前になりましたから飛ぶように駅へかけつけました。
+  words:
+    - word: 七
+      base: '7'
+      postiion: 0
+    - word: 時
+      postiion: 1
+    - word: 前
+      postiion: 2
+    - word: に
+      postiion: 3
+    - word: なり
+      base: 成る
+      postiion: 4
+    - word: まし
+      base: ます
+      postiion: 6
+    - word: た
+      postiion: 8
+    - word: から
+      postiion: 9
+    - word: 飛ぶ
+      postiion: 11
+    - word: よう
+      base: 様
+      postiion: 13
+    - word: に
+      base: だ
+      postiion: 15
+    - word: 駅
+      postiion: 16
+    - word: へ
+      postiion: 17
+    - word: かけ
+      base: かける
+      postiion: 18
+    - word: つけ
+      base: つける
+      postiion: 20
+    - word: まし
+      base: ます
+      postiion: 22
+    - word: た
+      postiion: 24
 - id: Ahirusanto Tokei-f000057
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: ところが、
-  word_list: [ところ, が]
   sound: f000057.mp3
   sound_begin: 205485
   sound_end: 207106
+  sentence: ところが、
+  words:
+    - word: ところ
+      base: 所
+      postiion: 0
+    - word: が
+      postiion: 3
 - id: Ahirusanto Tokei-f000058
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: お、
-  word_list: [お]
   sound: f000058.mp3
   sound_begin: 207106
   sound_end: 207619
+  sentence: お、
+  words:
+    - word: お
+      base: おっ
+      postiion: 0
 - id: Ahirusanto Tokei-f000059
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: お、
-  word_list: [お]
   sound: f000059.mp3
   sound_begin: 207619
   sound_end: 208623
+  sentence: お、
+  words:
+    - word: お
+      base: おっ
+      postiion: 0
 - id: Ahirusanto Tokei-f000060
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: 汽車はとっくに出て行って残っているのは煙ばかり。
-  word_list: [汽車, は, とっく, に, 出, て, 行っ, て, 残っ, て, いる, の, は, 煙, ばかり]
   sound: f000060.mp3
   sound_begin: 208623
   sound_end: 214280
+  sentence: 汽車はとっくに出て行って残っているのは煙ばかり。
+  words:
+    - word: 汽車
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: とっく
+      base: 疾っく
+      postiion: 3
+    - word: に
+      postiion: 6
+    - word: 出
+      base: 出る
+      postiion: 7
+    - word: て
+      postiion: 8
+    - word: 行っ
+      base: 行く
+      postiion: 9
+    - word: て
+      postiion: 11
+    - word: 残っ
+      base: 残る
+      postiion: 12
+    - word: て
+      postiion: 14
+    - word: いる
+      base: 居る
+      postiion: 15
+    - word: の
+      postiion: 17
+    - word: は
+      postiion: 18
+    - word: 煙
+      postiion: 19
+    - word: ばかり
+      postiion: 20
 - id: Ahirusanto Tokei-f000061
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: あひるさんは自分の時計を出して駅のと較べて見ましたら三十分おくれていましたとさ。
-  word_list: [あひる, さん, は, 自分, の, 時計, を, 出し, て, 駅, の, と, 較べ, て, 見, まし, たら, 三, 十分, おくれ, て, い, まし, た, と, さ]
   sound: f000061.mp3
   sound_begin: 214280
   sound_end: 222280
+  sentence: あひるさんは自分の時計を出して駅のと較べて見ましたら三十分おくれていましたとさ。
+  words:
+    - word: あひる
+      base: 家鴨
+      postiion: 0
+    - word: さん
+      postiion: 3
+    - word: は
+      postiion: 5
+    - word: 自分
+      postiion: 6
+    - word: の
+      postiion: 8
+    - word: 時計
+      postiion: 9
+    - word: を
+      postiion: 11
+    - word: 出し
+      base: 出す
+      postiion: 12
+    - word: て
+      postiion: 14
+    - word: 駅
+      postiion: 15
+    - word: の
+      postiion: 16
+    - word: と
+      postiion: 17
+    - word: 較べ
+      base: 比べる
+      postiion: 18
+    - word: て
+      postiion: 20
+    - word: 見
+      base: 見る
+      postiion: 21
+    - word: まし
+      base: ます
+      postiion: 22
+    - word: たら
+      base: た
+      postiion: 24
+    - word: 三
+      base: '3'
+      postiion: 26
+    - word: 十分
+      postiion: 27
+    - word: おくれ
+      base: 遅れる
+      postiion: 29
+    - word: て
+      postiion: 32
+    - word: い
+      base: 居る
+      postiion: 33
+    - word: まし
+      base: ます
+      postiion: 34
+    - word: た
+      postiion: 36
+    - word: と
+      postiion: 37
+    - word: さ
+      postiion: 38
 - id: Ahirusanto Tokei-f000062
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: 「何という時計だ!!」とあひるさんは泣きましたが、
-  word_list: [何, と, いう, 時計, だ, と, あひる, さん, は, 泣き, まし, た, が]
   sound: f000062.mp3
   sound_begin: 222280
   sound_end: 226920
+  sentence: 「何という時計だ!!」とあひるさんは泣きましたが、
+  words:
+    - word: 何
+      postiion: 1
+    - word: と
+      postiion: 2
+    - word: いう
+      base: 言う
+      postiion: 3
+    - word: 時計
+      postiion: 5
+    - word: だ
+      postiion: 7
+    - word: と
+      postiion: 11
+    - word: あひる
+      base: 家鴨
+      postiion: 12
+    - word: さん
+      postiion: 15
+    - word: は
+      postiion: 17
+    - word: 泣き
+      base: 泣く
+      postiion: 18
+    - word: まし
+      base: ます
+      postiion: 20
+    - word: た
+      postiion: 22
+    - word: が
+      postiion: 23
 - id: Ahirusanto Tokei-f000063
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: もう、
-  word_list: [もう]
   sound: f000063.mp3
   sound_begin: 226920
   sound_end: 227200
+  sentence: もう、
+  words:
+    - word: もう
+      postiion: 0
 - id: Ahirusanto Tokei-f000064
   author_japanese: 村山 籌子
   deck_name: Ahirusanto Tokei
   deck_name_japanese: あひるさん と 時計
-  sentence: 仕方がありませんでした。
-  word_list: [仕方, が, あり, ませ, ん, でし, た]
   sound: f000064.mp3
   sound_begin: 227200
   sound_end: 229780
+  sentence: 仕方がありませんでした。
+  words:
+    - word: 仕方
+      postiion: 0
+    - word: が
+      postiion: 2
+    - word: あり
+      base: 有る
+      postiion: 3
+    - word: ませ
+      base: ます
+      postiion: 5
+    - word: ん
+      base: ず
+      postiion: 7
+    - word: でし
+      base: です
+      postiion: 8
+    - word: た
+      postiion: 10

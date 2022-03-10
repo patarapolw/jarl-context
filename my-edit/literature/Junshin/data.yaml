@@ -2,278 +2,924 @@
   author_japanese: 太宰 治
   deck_name: Junshin
   deck_name_japanese: 純真
-  sentence: 純真
-  word_list: [純真]
   sound: f000002.mp3
   sound_begin: 5914
   sound_end: 10600
+  sentence: 純真
+  words:
+    - word: 純真
+      postiion: 0
 - id: Junshin-f000003
   author_japanese: 太宰 治
   deck_name: Junshin
   deck_name_japanese: 純真
-  sentence: 「純真」なんて概念は、
-  word_list: [純真, なんて, 概念, は]
   sound: f000003.mp3
   sound_begin: 10600
   sound_end: 12680
+  sentence: 「純真」なんて概念は、
+  words:
+    - word: 純真
+      postiion: 1
+    - word: なんて
+      postiion: 4
+    - word: 概念
+      postiion: 7
+    - word: は
+      postiion: 9
 - id: Junshin-f000004
   author_japanese: 太宰 治
   deck_name: Junshin
   deck_name_japanese: 純真
-  sentence: ひょっとしたら、
-  word_list: [ひょっと, し, たら]
   sound: f000004.mp3
   sound_begin: 12680
   sound_end: 13680
+  sentence: ひょっとしたら、
+  words:
+    - word: ひょっと
+      postiion: 0
+    - word: し
+      base: 為る
+      postiion: 4
+    - word: たら
+      base: た
+      postiion: 5
 - id: Junshin-f000005
   author_japanese: 太宰 治
   deck_name: Junshin
   deck_name_japanese: 純真
-  sentence: アメリカ生活あたりにそのお手本があったのかも知れない。
-  word_list: [アメリカ, 生活, あたり, に, その, お, 手本, が, あっ, た, の, か, も, 知れ, ない]
   sound: f000005.mp3
   sound_begin: 13680
   sound_end: 20400
+  sentence: アメリカ生活あたりにそのお手本があったのかも知れない。
+  words:
+    - word: アメリカ
+      postiion: 0
+    - word: 生活
+      postiion: 4
+    - word: あたり
+      base: 辺り
+      postiion: 6
+    - word: に
+      postiion: 9
+    - word: その
+      base: 其の
+      postiion: 10
+    - word: お
+      base: 御
+      postiion: 12
+    - word: 手本
+      postiion: 13
+    - word: が
+      postiion: 15
+    - word: あっ
+      base: 有る
+      postiion: 16
+    - word: た
+      postiion: 18
+    - word: の
+      postiion: 19
+    - word: か
+      postiion: 20
+    - word: も
+      postiion: 21
+    - word: 知れ
+      base: 知る
+      postiion: 22
+    - word: ない
+      postiion: 24
 - id: Junshin-f000006
   author_japanese: 太宰 治
   deck_name: Junshin
   deck_name_japanese: 純真
-  sentence: たとえば、
-  word_list: [たとえば]
   sound: f000006.mp3
   sound_begin: 20400
   sound_end: 21400
+  sentence: たとえば、
+  words:
+    - word: たとえば
+      base: 例えば
+      postiion: 0
 - id: Junshin-f000007
   author_japanese: 太宰 治
   deck_name: Junshin
   deck_name_japanese: 純真
-  sentence: 何々学院の何々女史とでもいったような者が「子供の純真性は尊い」などと甚だあいまい模糊たる事を憂ひ顔で言って歎息して、
-  word_list: [何々, 学院, の, 何々, 女史, と, で, も, いっ, た, よう, な, 者, が, 子供, の, 純真, 性, は, 尊い, など, と, 甚だ, あいまい, 模糊, たる, 事, を, 憂ひ, 顔, で, 言っ, て, 歎息, し, て]
   sound: f000007.mp3
   sound_begin: 21400
   sound_end: 33560
+  sentence: 何々学院の何々女史とでもいったような者が「子供の純真性は尊い」などと甚だあいまい模糊たる事を憂ひ顔で言って歎息して、
+  words:
+    - word: 何々
+      postiion: 0
+    - word: 学院
+      postiion: 2
+    - word: の
+      postiion: 4
+    - word: 何々
+      postiion: 5
+    - word: 女史
+      postiion: 7
+    - word: と
+      postiion: 9
+    - word: で
+      postiion: 10
+    - word: も
+      postiion: 11
+    - word: いっ
+      base: 言う
+      postiion: 12
+    - word: た
+      postiion: 14
+    - word: よう
+      base: 様
+      postiion: 15
+    - word: な
+      base: だ
+      postiion: 17
+    - word: 者
+      postiion: 18
+    - word: が
+      postiion: 19
+    - word: 子供
+      postiion: 21
+    - word: の
+      postiion: 23
+    - word: 純真
+      postiion: 24
+    - word: 性
+      postiion: 26
+    - word: は
+      postiion: 27
+    - word: 尊い
+      postiion: 28
+    - word: など
+      postiion: 31
+    - word: と
+      postiion: 33
+    - word: 甚だ
+      postiion: 34
+    - word: あいまい
+      base: 曖昧
+      postiion: 36
+    - word: 模糊
+      postiion: 40
+    - word: たる
+      base: たり
+      postiion: 42
+    - word: 事
+      postiion: 44
+    - word: を
+      postiion: 45
+    - word: 憂ひ
+      base: 憂える
+      postiion: 46
+    - word: 顔
+      postiion: 48
+    - word: で
+      postiion: 49
+    - word: 言っ
+      base: 言う
+      postiion: 50
+    - word: て
+      postiion: 52
+    - word: 歎息
+      base: 嘆息
+      postiion: 53
+    - word: し
+      base: 為る
+      postiion: 55
+    - word: て
+      postiion: 56
 - id: Junshin-f000008
   author_japanese: 太宰 治
   deck_name: Junshin
   deck_name_japanese: 純真
-  sentence: それを女史のお弟子の婦人がそのまま信奉して自分の亭主に訴える。
-  word_list: [それ, を, 女史, の, お, 弟子, の, 婦人, が, その, まま, 信奉, し, て, 自分, の, 亭主, に, 訴える]
   sound: f000008.mp3
   sound_begin: 33560
   sound_end: 41194
+  sentence: それを女史のお弟子の婦人がそのまま信奉して自分の亭主に訴える。
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: 女史
+      postiion: 3
+    - word: の
+      postiion: 5
+    - word: お
+      base: 御
+      postiion: 6
+    - word: 弟子
+      postiion: 7
+    - word: の
+      postiion: 9
+    - word: 婦人
+      postiion: 10
+    - word: が
+      postiion: 12
+    - word: その
+      base: 其の
+      postiion: 13
+    - word: まま
+      base: 侭
+      postiion: 15
+    - word: 信奉
+      postiion: 17
+    - word: し
+      base: 為る
+      postiion: 19
+    - word: て
+      postiion: 20
+    - word: 自分
+      postiion: 21
+    - word: の
+      postiion: 23
+    - word: 亭主
+      postiion: 24
+    - word: に
+      postiion: 26
+    - word: 訴える
+      postiion: 27
 - id: Junshin-f000009
   author_japanese: 太宰 治
   deck_name: Junshin
   deck_name_japanese: 純真
-  sentence: 亭主はあまく、
-  word_list: [亭主, は, あまく]
   sound: f000009.mp3
   sound_begin: 41194
   sound_end: 42840
+  sentence: 亭主はあまく、
+  words:
+    - word: 亭主
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: あまく
+      base: 甘い
+      postiion: 3
 - id: Junshin-f000010
   author_japanese: 太宰 治
   deck_name: Junshin
   deck_name_japanese: 純真
-  sentence: いいとしをして口髭なんかを生やしていながら「うむ、
-  word_list: [いい, とし, を, し, て, 口髭, なんか, を, 生やし, て, い, ながら, うむ]
   sound: f000010.mp3
   sound_begin: 42840
   sound_end: 47514
+  sentence: いいとしをして口髭なんかを生やしていながら「うむ、
+  words:
+    - word: いい
+      base: 良い
+      postiion: 0
+    - word: とし
+      base: 年
+      postiion: 2
+    - word: を
+      postiion: 4
+    - word: し
+      base: 為る
+      postiion: 5
+    - word: て
+      postiion: 6
+    - word: 口髭
+      postiion: 7
+    - word: なんか
+      postiion: 9
+    - word: を
+      postiion: 12
+    - word: 生やし
+      base: 生やす
+      postiion: 13
+    - word: て
+      postiion: 16
+    - word: い
+      base: 居る
+      postiion: 17
+    - word: ながら
+      postiion: 18
+    - word: うむ
+      postiion: 22
 - id: Junshin-f000011
   author_japanese: 太宰 治
   deck_name: Junshin
   deck_name_japanese: 純真
-  sentence: 子供の純真性は大事だ」などと騒ぐ。
-  word_list: [子供, の, 純真, 性, は, 大事, だ, など, と, 騒ぐ]
   sound: f000011.mp3
   sound_begin: 47514
   sound_end: 53520
+  sentence: 子供の純真性は大事だ」などと騒ぐ。
+  words:
+    - word: 子供
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 純真
+      postiion: 3
+    - word: 性
+      postiion: 5
+    - word: は
+      postiion: 6
+    - word: 大事
+      postiion: 7
+    - word: だ
+      postiion: 9
+    - word: など
+      postiion: 11
+    - word: と
+      postiion: 13
+    - word: 騒ぐ
+      postiion: 14
 - id: Junshin-f000012
   author_japanese: 太宰 治
   deck_name: Junshin
   deck_name_japanese: 純真
-  sentence: 親馬鹿というものに酷似している。
-  word_list: [親, 馬鹿, と, いう, もの, に, 酷似, し, て, いる]
   sound: f000012.mp3
   sound_begin: 53520
   sound_end: 56880
+  sentence: 親馬鹿というものに酷似している。
+  words:
+    - word: 親
+      postiion: 0
+    - word: 馬鹿
+      postiion: 1
+    - word: と
+      postiion: 3
+    - word: いう
+      base: 言う
+      postiion: 4
+    - word: もの
+      base: 物
+      postiion: 6
+    - word: に
+      postiion: 8
+    - word: 酷似
+      postiion: 9
+    - word: し
+      base: 為る
+      postiion: 11
+    - word: て
+      postiion: 12
+    - word: いる
+      base: 居る
+      postiion: 13
 - id: Junshin-f000013
   author_japanese: 太宰 治
   deck_name: Junshin
   deck_name_japanese: 純真
-  sentence: いい図ではない。
-  word_list: [いい, 図, で, は, ない]
   sound: f000013.mp3
   sound_begin: 56880
   sound_end: 61480
+  sentence: いい図ではない。
+  words:
+    - word: いい
+      base: 良い
+      postiion: 0
+    - word: 図
+      postiion: 2
+    - word: で
+      postiion: 3
+    - word: は
+      postiion: 4
+    - word: ない
+      base: 無い
+      postiion: 5
 - id: Junshin-f000014
   author_japanese: 太宰 治
   deck_name: Junshin
   deck_name_japanese: 純真
-  sentence: 日本には「誠」という倫理はあっても、
-  word_list: [日本, に, は, 誠, と, いう, 倫理, は, あっ, て, も]
   sound: f000014.mp3
   sound_begin: 61480
   sound_end: 65120
+  sentence: 日本には「誠」という倫理はあっても、
+  words:
+    - word: 日本
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: は
+      postiion: 3
+    - word: 誠
+      postiion: 5
+    - word: と
+      postiion: 7
+    - word: いう
+      base: 言う
+      postiion: 8
+    - word: 倫理
+      postiion: 10
+    - word: は
+      postiion: 12
+    - word: あっ
+      base: 有る
+      postiion: 13
+    - word: て
+      postiion: 15
+    - word: も
+      postiion: 16
 - id: Junshin-f000015
   author_japanese: 太宰 治
   deck_name: Junshin
   deck_name_japanese: 純真
-  sentence: 「純真」なんて概念は無かった。
-  word_list: [純真, なんて, 概念, は, 無かっ, た]
   sound: f000015.mp3
   sound_begin: 65120
   sound_end: 69640
+  sentence: 「純真」なんて概念は無かった。
+  words:
+    - word: 純真
+      postiion: 1
+    - word: なんて
+      postiion: 4
+    - word: 概念
+      postiion: 7
+    - word: は
+      postiion: 9
+    - word: 無かっ
+      base: 無い
+      postiion: 10
+    - word: た
+      postiion: 13
 - id: Junshin-f000016
   author_japanese: 太宰 治
   deck_name: Junshin
   deck_name_japanese: 純真
-  sentence: 人が「純真」と銘打っているものの姿を見ると、
-  word_list: [人, が, 純真, と, 銘打っ, て, いる, もの, の, 姿, を, 見る, と]
   sound: f000016.mp3
   sound_begin: 69640
   sound_end: 72800
+  sentence: 人が「純真」と銘打っているものの姿を見ると、
+  words:
+    - word: 人
+      postiion: 0
+    - word: が
+      postiion: 1
+    - word: 純真
+      postiion: 3
+    - word: と
+      postiion: 6
+    - word: 銘打っ
+      base: 銘打つ
+      postiion: 7
+    - word: て
+      postiion: 10
+    - word: いる
+      base: 居る
+      postiion: 11
+    - word: もの
+      base: 物
+      postiion: 13
+    - word: の
+      postiion: 14
+    - word: 姿
+      postiion: 16
+    - word: を
+      postiion: 17
+    - word: 見る
+      postiion: 18
+    - word: と
+      postiion: 20
 - id: Junshin-f000017
   author_japanese: 太宰 治
   deck_name: Junshin
   deck_name_japanese: 純真
-  sentence: たいてい演技だ。
-  word_list: [たいてい, 演技, だ]
   sound: f000017.mp3
   sound_begin: 72800
   sound_end: 76520
+  sentence: たいてい演技だ。
+  words:
+    - word: たいてい
+      base: 大抵
+      postiion: 0
+    - word: 演技
+      postiion: 4
+    - word: だ
+      postiion: 6
 - id: Junshin-f000018
   author_japanese: 太宰 治
   deck_name: Junshin
   deck_name_japanese: 純真
-  sentence: 演技でなければ、
-  word_list: [演技, で, なけれ, ば]
   sound: f000018.mp3
   sound_begin: 76520
   sound_end: 77960
+  sentence: 演技でなければ、
+  words:
+    - word: 演技
+      postiion: 0
+    - word: で
+      base: だ
+      postiion: 2
+    - word: なけれ
+      base: 無い
+      postiion: 3
+    - word: ば
+      postiion: 6
 - id: Junshin-f000019
   author_japanese: 太宰 治
   deck_name: Junshin
   deck_name_japanese: 純真
-  sentence: 阿呆である。
-  word_list: [阿呆, で, ある]
   sound: f000019.mp3
   sound_begin: 77960
   sound_end: 82080
+  sentence: 阿呆である。
+  words:
+    - word: 阿呆
+      postiion: 0
+    - word: で
+      base: だ
+      postiion: 2
+    - word: ある
+      base: 有る
+      postiion: 3
 - id: Junshin-f000020
   author_japanese: 太宰 治
   deck_name: Junshin
   deck_name_japanese: 純真
-  sentence: 家の娘は四歳であるが、
-  word_list: [家, の, 娘, は, 四, 歳, で, ある, が]
   sound: f000020.mp3
   sound_begin: 82080
   sound_end: 84000
+  sentence: 家の娘は四歳であるが、
+  words:
+    - word: 家
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 娘
+      postiion: 2
+    - word: は
+      postiion: 3
+    - word: 四
+      base: '4'
+      postiion: 4
+    - word: 歳
+      postiion: 5
+    - word: で
+      base: だ
+      postiion: 6
+    - word: ある
+      base: 有る
+      postiion: 7
+    - word: が
+      postiion: 9
 - id: Junshin-f000021
   author_japanese: 太宰 治
   deck_name: Junshin
   deck_name_japanese: 純真
-  sentence: ことしの八月に生れた赤子の頭をコツンと殴ったりしている。
-  word_list: [ことし, の, 八, 月, に, 生れ, た, 赤子, の, 頭, を, コツン, と, 殴っ, たり, し, て, いる]
   sound: f000021.mp3
   sound_begin: 84000
   sound_end: 90941
+  sentence: ことしの八月に生れた赤子の頭をコツンと殴ったりしている。
+  words:
+    - word: ことし
+      base: 今年
+      postiion: 0
+    - word: の
+      postiion: 3
+    - word: 八
+      base: '8'
+      postiion: 4
+    - word: 月
+      postiion: 5
+    - word: に
+      postiion: 6
+    - word: 生れ
+      base: 生まれる
+      postiion: 7
+    - word: た
+      postiion: 9
+    - word: 赤子
+      postiion: 10
+    - word: の
+      postiion: 12
+    - word: 頭
+      postiion: 13
+    - word: を
+      postiion: 14
+    - word: コツン
+      base: こつん
+      postiion: 15
+    - word: と
+      postiion: 18
+    - word: 殴っ
+      base: 殴る
+      postiion: 19
+    - word: たり
+      postiion: 21
+    - word: し
+      base: 為る
+      postiion: 23
+    - word: て
+      postiion: 24
+    - word: いる
+      base: 居る
+      postiion: 25
 - id: Junshin-f000022
   author_japanese: 太宰 治
   deck_name: Junshin
   deck_name_japanese: 純真
-  sentence: こんな「純真」のどこが尊いのか。
-  word_list: [こんな, 純真, の, どこ, が, 尊い, の, か]
   sound: f000022.mp3
   sound_begin: 90941
   sound_end: 95260
+  sentence: こんな「純真」のどこが尊いのか。
+  words:
+    - word: こんな
+      postiion: 0
+    - word: 純真
+      postiion: 4
+    - word: の
+      postiion: 7
+    - word: どこ
+      postiion: 8
+    - word: が
+      postiion: 10
+    - word: 尊い
+      postiion: 11
+    - word: の
+      postiion: 13
+    - word: か
+      postiion: 14
 - id: Junshin-f000023
   author_japanese: 太宰 治
   deck_name: Junshin
   deck_name_japanese: 純真
-  sentence: 感覚だけの人間は、
-  word_list: [感覚, だけ, の, 人間, は]
   sound: f000023.mp3
   sound_begin: 95260
   sound_end: 97640
+  sentence: 感覚だけの人間は、
+  words:
+    - word: 感覚
+      postiion: 0
+    - word: だけ
+      postiion: 2
+    - word: の
+      postiion: 4
+    - word: 人間
+      postiion: 5
+    - word: は
+      postiion: 7
 - id: Junshin-f000024
   author_japanese: 太宰 治
   deck_name: Junshin
   deck_name_japanese: 純真
-  sentence: 悪鬼に似ている。
-  word_list: [悪鬼, に, 似, て, いる]
   sound: f000024.mp3
   sound_begin: 97640
   sound_end: 100942
+  sentence: 悪鬼に似ている。
+  words:
+    - word: 悪鬼
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: 似
+      base: 似る
+      postiion: 3
+    - word: て
+      postiion: 4
+    - word: いる
+      base: 居る
+      postiion: 5
 - id: Junshin-f000025
   author_japanese: 太宰 治
   deck_name: Junshin
   deck_name_japanese: 純真
-  sentence: どうしても倫理の訓練は必要である。
-  word_list: [どう, し, て, も, 倫理, の, 訓練, は, 必要, で, ある]
   sound: f000025.mp3
   sound_begin: 100942
   sound_end: 107871
+  sentence: どうしても倫理の訓練は必要である。
+  words:
+    - word: どう
+      postiion: 0
+    - word: し
+      base: 為る
+      postiion: 2
+    - word: て
+      postiion: 3
+    - word: も
+      postiion: 4
+    - word: 倫理
+      postiion: 5
+    - word: の
+      postiion: 7
+    - word: 訓練
+      postiion: 8
+    - word: は
+      postiion: 10
+    - word: 必要
+      postiion: 11
+    - word: で
+      base: だ
+      postiion: 13
+    - word: ある
+      base: 有る
+      postiion: 14
 - id: Junshin-f000026
   author_japanese: 太宰 治
   deck_name: Junshin
   deck_name_japanese: 純真
-  sentence: 子供から冷い母だと言われているその母を見ると、
-  word_list: [子供, から, 冷い, 母, だ, と, 言わ, れ, て, いる, その, 母, を, 見る, と]
   sound: f000026.mp3
   sound_begin: 107871
   sound_end: 112200
+  sentence: 子供から冷い母だと言われているその母を見ると、
+  words:
+    - word: 子供
+      postiion: 0
+    - word: から
+      postiion: 2
+    - word: 冷い
+      base: 冷たい
+      postiion: 4
+    - word: 母
+      postiion: 6
+    - word: だ
+      postiion: 7
+    - word: と
+      postiion: 8
+    - word: 言わ
+      base: 言う
+      postiion: 9
+    - word: れ
+      base: れる
+      postiion: 11
+    - word: て
+      postiion: 12
+    - word: いる
+      base: 居る
+      postiion: 13
+    - word: その
+      base: 其の
+      postiion: 15
+    - word: 母
+      postiion: 17
+    - word: を
+      postiion: 18
+    - word: 見る
+      postiion: 19
+    - word: と
+      postiion: 21
 - id: Junshin-f000027
   author_japanese: 太宰 治
   deck_name: Junshin
   deck_name_japanese: 純真
-  sentence: たいていそれはいいお母さんだ。
-  word_list: [たいてい, それ, は, いい, お, 母さん, だ]
   sound: f000027.mp3
   sound_begin: 112200
   sound_end: 117205
+  sentence: たいていそれはいいお母さんだ。
+  words:
+    - word: たいてい
+      base: 大抵
+      postiion: 0
+    - word: それ
+      base: 其れ
+      postiion: 4
+    - word: は
+      postiion: 6
+    - word: いい
+      base: 良い
+      postiion: 7
+    - word: お
+      base: 御
+      postiion: 9
+    - word: 母さん
+      postiion: 10
+    - word: だ
+      postiion: 13
 - id: Junshin-f000028
   author_japanese: 太宰 治
   deck_name: Junshin
   deck_name_japanese: 純真
-  sentence: 子供の頃に苦労して、
-  word_list: [子供, の, 頃, に, 苦労, し, て]
   sound: f000028.mp3
   sound_begin: 117205
   sound_end: 119640
+  sentence: 子供の頃に苦労して、
+  words:
+    - word: 子供
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 頃
+      postiion: 3
+    - word: に
+      postiion: 4
+    - word: 苦労
+      postiion: 5
+    - word: し
+      base: 為る
+      postiion: 7
+    - word: て
+      postiion: 8
 - id: Junshin-f000029
   author_japanese: 太宰 治
   deck_name: Junshin
   deck_name_japanese: 純真
-  sentence: それがその人のために悪い結果になったという例は聞かない。
-  word_list: [それ, が, その, 人, の, ため, に, 悪い, 結果, に, なっ, た, と, いう, 例, は, 聞か, ない]
   sound: f000029.mp3
   sound_begin: 119640
   sound_end: 126480
+  sentence: それがその人のために悪い結果になったという例は聞かない。
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: が
+      postiion: 2
+    - word: その
+      base: 其の
+      postiion: 3
+    - word: 人
+      postiion: 5
+    - word: の
+      postiion: 6
+    - word: ため
+      base: 為
+      postiion: 7
+    - word: に
+      postiion: 9
+    - word: 悪い
+      postiion: 10
+    - word: 結果
+      postiion: 12
+    - word: に
+      postiion: 14
+    - word: なっ
+      base: 成る
+      postiion: 15
+    - word: た
+      postiion: 17
+    - word: と
+      postiion: 18
+    - word: いう
+      base: 言う
+      postiion: 19
+    - word: 例
+      postiion: 21
+    - word: は
+      postiion: 22
+    - word: 聞か
+      base: 聞く
+      postiion: 23
+    - word: ない
+      postiion: 25
 - id: Junshin-f000030
   author_japanese: 太宰 治
   deck_name: Junshin
   deck_name_japanese: 純真
-  sentence: 人間は、
-  word_list: [人間, は]
   sound: f000030.mp3
   sound_begin: 126480
   sound_end: 127200
+  sentence: 人間は、
+  words:
+    - word: 人間
+      postiion: 0
+    - word: は
+      postiion: 2
 - id: Junshin-f000031
   author_japanese: 太宰 治
   deck_name: Junshin
   deck_name_japanese: 純真
-  sentence: 子供の時から、
-  word_list: [子供, の, 時, から]
   sound: f000031.mp3
   sound_begin: 127200
   sound_end: 128639
+  sentence: 子供の時から、
+  words:
+    - word: 子供
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 時
+      postiion: 3
+    - word: から
+      postiion: 4
 - id: Junshin-f000032
   author_japanese: 太宰 治
   deck_name: Junshin
   deck_name_japanese: 純真
-  sentence: どうしたって悲しい思いをしなければならぬものだ。
-  word_list: [どう, し, たって, 悲しい, 思い, を, し, なけれ, ば, なら, ぬ, もの, だ]
   sound: f000032.mp3
   sound_begin: 128639
   sound_end: 133671
+  sentence: どうしたって悲しい思いをしなければならぬものだ。
+  words:
+    - word: どう
+      postiion: 0
+    - word: し
+      base: 為る
+      postiion: 2
+    - word: たって
+      postiion: 3
+    - word: 悲しい
+      postiion: 6
+    - word: 思い
+      postiion: 9
+    - word: を
+      postiion: 11
+    - word: し
+      base: 為る
+      postiion: 12
+    - word: なけれ
+      base: ない
+      postiion: 13
+    - word: ば
+      postiion: 16
+    - word: なら
+      base: 成る
+      postiion: 17
+    - word: ぬ
+      base: ず
+      postiion: 19
+    - word: もの
+      base: 物
+      postiion: 20
+    - word: だ
+      postiion: 22

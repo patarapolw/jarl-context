@@ -2,2249 +2,5579 @@
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 赤い魚と子供
-  word_list: [赤い, 魚, と, 子供]
   sound: f000002.mp3
   sound_begin: 5760
   sound_end: 12433
+  sentence: 赤い魚と子供
+  words:
+    - word: 赤い
+      postiion: 0
+    - word: 魚
+      postiion: 2
+    - word: と
+      postiion: 3
+    - word: 子供
+      postiion: 4
 - id: Akai Sakanato Kodomo-f000003
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 川の中に、
-  word_list: [川, の, 中, に]
   sound: f000003.mp3
   sound_begin: 12433
   sound_end: 13904
+  sentence: 川の中に、
+  words:
+    - word: 川
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 中
+      postiion: 2
+    - word: に
+      postiion: 3
 - id: Akai Sakanato Kodomo-f000004
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 魚がすんでいました。
-  word_list: [魚, が, すん, で, い, まし, た]
   sound: f000004.mp3
   sound_begin: 13904
   sound_end: 18120
+  sentence: 魚がすんでいました。
+  words:
+    - word: 魚
+      postiion: 0
+    - word: が
+      postiion: 1
+    - word: すん
+      base: すむ
+      postiion: 2
+    - word: で
+      postiion: 4
+    - word: い
+      base: 居る
+      postiion: 5
+    - word: まし
+      base: ます
+      postiion: 6
+    - word: た
+      postiion: 8
 - id: Akai Sakanato Kodomo-f000005
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 春になると、
-  word_list: [春, に, なる, と]
   sound: f000005.mp3
   sound_begin: 18120
   sound_end: 19400
+  sentence: 春になると、
+  words:
+    - word: 春
+      postiion: 0
+    - word: に
+      postiion: 1
+    - word: なる
+      base: 成る
+      postiion: 2
+    - word: と
+      postiion: 4
 - id: Akai Sakanato Kodomo-f000006
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: いろいろの花が川のほとりに咲きました。
-  word_list: [いろいろ, の, 花, が, 川, の, ほとり, に, 咲き, まし, た]
   sound: f000006.mp3
   sound_begin: 19400
   sound_end: 23628
+  sentence: いろいろの花が川のほとりに咲きました。
+  words:
+    - word: いろいろ
+      base: 色々
+      postiion: 0
+    - word: の
+      postiion: 4
+    - word: 花
+      postiion: 5
+    - word: が
+      postiion: 6
+    - word: 川
+      postiion: 7
+    - word: の
+      postiion: 8
+    - word: ほとり
+      base: 辺
+      postiion: 9
+    - word: に
+      postiion: 12
+    - word: 咲き
+      base: 咲く
+      postiion: 13
+    - word: まし
+      base: ます
+      postiion: 15
+    - word: た
+      postiion: 17
 - id: Akai Sakanato Kodomo-f000007
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 木が、
-  word_list: [木, が]
   sound: f000007.mp3
   sound_begin: 23628
   sound_end: 24760
+  sentence: 木が、
+  words:
+    - word: 木
+      postiion: 0
+    - word: が
+      postiion: 1
 - id: Akai Sakanato Kodomo-f000008
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 枝を川の上に拡げていましたから、
-  word_list: [枝, を, 川, の, 上, に, 拡げ, て, い, まし, た, から]
   sound: f000008.mp3
   sound_begin: 24760
   sound_end: 27440
+  sentence: 枝を川の上に拡げていましたから、
+  words:
+    - word: 枝
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: 川
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: 上
+      postiion: 4
+    - word: に
+      postiion: 5
+    - word: 拡げ
+      base: 広げる
+      postiion: 6
+    - word: て
+      postiion: 8
+    - word: い
+      base: 居る
+      postiion: 9
+    - word: まし
+      base: ます
+      postiion: 10
+    - word: た
+      postiion: 12
+    - word: から
+      postiion: 13
 - id: Akai Sakanato Kodomo-f000009
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: こずえに咲いた、
-  word_list: [こずえ, に, 咲い, た]
   sound: f000009.mp3
   sound_begin: 27440
   sound_end: 29000
+  sentence: こずえに咲いた、
+  words:
+    - word: こずえ
+      base: 梢
+      postiion: 0
+    - word: に
+      postiion: 3
+    - word: 咲い
+      base: 咲く
+      postiion: 4
+    - word: た
+      postiion: 6
 - id: Akai Sakanato Kodomo-f000010
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 真紅な花や、
-  word_list: [真紅, な, 花, や]
   sound: f000010.mp3
   sound_begin: 29000
   sound_end: 29800
+  sentence: 真紅な花や、
+  words:
+    - word: 真紅
+      base: 深紅
+      postiion: 0
+    - word: な
+      base: だ
+      postiion: 2
+    - word: 花
+      postiion: 3
+    - word: や
+      postiion: 4
 - id: Akai Sakanato Kodomo-f000011
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: またうす紅の花は、
-  word_list: [また, うす紅, の, 花, は]
   sound: f000011.mp3
   sound_begin: 29800
   sound_end: 32560
+  sentence: またうす紅の花は、
+  words:
+    - word: また
+      base: 又
+      postiion: 0
+    - word: うす紅
+      base: 薄紅
+      postiion: 2
+    - word: の
+      postiion: 5
+    - word: 花
+      postiion: 6
+    - word: は
+      postiion: 7
 - id: Akai Sakanato Kodomo-f000012
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: その美しい姿を水の面に映したのであります。
-  word_list: [その, 美しい, 姿, を, 水, の, 面, に, 映し, た, の, で, あり, ます]
   sound: f000012.mp3
   sound_begin: 32560
   sound_end: 39120
+  sentence: その美しい姿を水の面に映したのであります。
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 美しい
+      postiion: 2
+    - word: 姿
+      postiion: 5
+    - word: を
+      postiion: 6
+    - word: 水
+      postiion: 7
+    - word: の
+      postiion: 8
+    - word: 面
+      postiion: 9
+    - word: に
+      postiion: 10
+    - word: 映し
+      base: 映す
+      postiion: 11
+    - word: た
+      postiion: 13
+    - word: の
+      postiion: 14
+    - word: で
+      base: だ
+      postiion: 15
+    - word: あり
+      base: 有る
+      postiion: 16
+    - word: ます
+      postiion: 18
 - id: Akai Sakanato Kodomo-f000013
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: なんのたのしみもない、
-  word_list: [なん, の, たのし, み, も, ない]
   sound: f000013.mp3
   sound_begin: 39120
   sound_end: 40560
+  sentence: なんのたのしみもない、
+  words:
+    - word: なん
+      base: 何
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: たのし
+      base: 楽しい
+      postiion: 3
+    - word: み
+      base: 味
+      postiion: 6
+    - word: も
+      postiion: 7
+    - word: ない
+      base: 無い
+      postiion: 8
 - id: Akai Sakanato Kodomo-f000014
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: この川の魚たちは、
-  word_list: [この, 川, の, 魚, たち, は]
   sound: f000014.mp3
   sound_begin: 40560
   sound_end: 42560
+  sentence: この川の魚たちは、
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: 川
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: 魚
+      postiion: 4
+    - word: たち
+      base: 達
+      postiion: 5
+    - word: は
+      postiion: 7
 - id: Akai Sakanato Kodomo-f000015
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: どんなに上を向いて、
-  word_list: [どんな, に, 上, を, 向い, て]
   sound: f000015.mp3
   sound_begin: 42560
   sound_end: 44360
+  sentence: どんなに上を向いて、
+  words:
+    - word: どんな
+      postiion: 0
+    - word: に
+      base: だ
+      postiion: 3
+    - word: 上
+      postiion: 4
+    - word: を
+      postiion: 5
+    - word: 向い
+      base: 向く
+      postiion: 6
+    - word: て
+      postiion: 8
 - id: Akai Sakanato Kodomo-f000016
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 水の面に映った花をながめてうれしがったでありましょう。
-  word_list: [水, の, 面, に, 映っ, た, 花, を, ながめ, て, うれし, がっ, た, で, あり, ましょう]
   sound: f000016.mp3
   sound_begin: 44360
   sound_end: 50480
+  sentence: 水の面に映った花をながめてうれしがったでありましょう。
+  words:
+    - word: 水
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 面
+      postiion: 2
+    - word: に
+      postiion: 3
+    - word: 映っ
+      base: 映る
+      postiion: 4
+    - word: た
+      postiion: 6
+    - word: 花
+      postiion: 7
+    - word: を
+      postiion: 8
+    - word: ながめ
+      base: 眺める
+      postiion: 9
+    - word: て
+      postiion: 12
+    - word: うれし
+      base: 嬉しい
+      postiion: 13
+    - word: がっ
+      base: がる
+      postiion: 16
+    - word: た
+      postiion: 18
+    - word: で
+      base: だ
+      postiion: 19
+    - word: あり
+      base: 有る
+      postiion: 20
+    - word: ましょう
+      base: ます
+      postiion: 22
 - id: Akai Sakanato Kodomo-f000017
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 「なんというきれいな花でしょう。
-  word_list: [なん, と, いう, きれい, な, 花, でしょう]
   sound: f000017.mp3
   sound_begin: 50480
   sound_end: 53280
+  sentence: 「なんというきれいな花でしょう。
+  words:
+    - word: なん
+      base: 何
+      postiion: 1
+    - word: と
+      postiion: 3
+    - word: いう
+      base: 言う
+      postiion: 4
+    - word: きれい
+      base: 奇麗
+      postiion: 6
+    - word: な
+      base: だ
+      postiion: 9
+    - word: 花
+      postiion: 10
+    - word: でしょう
+      base: です
+      postiion: 11
 - id: Akai Sakanato Kodomo-f000018
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 水の上の世界にはあんなに美しいものがたくさんあるのだ。
-  word_list: [水, の, 上, の, 世界, に, は, あんな, に, 美しい, もの, が, たくさん, ある, の, だ]
   sound: f000018.mp3
   sound_begin: 53280
   sound_end: 58141
+  sentence: 水の上の世界にはあんなに美しいものがたくさんあるのだ。
+  words:
+    - word: 水
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 上
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: 世界
+      postiion: 4
+    - word: に
+      postiion: 6
+    - word: は
+      postiion: 7
+    - word: あんな
+      postiion: 8
+    - word: に
+      base: だ
+      postiion: 11
+    - word: 美しい
+      postiion: 12
+    - word: もの
+      base: 物
+      postiion: 15
+    - word: が
+      postiion: 17
+    - word: たくさん
+      base: 沢山
+      postiion: 18
+    - word: ある
+      base: 有る
+      postiion: 22
+    - word: の
+      postiion: 24
+    - word: だ
+      postiion: 25
 - id: Akai Sakanato Kodomo-f000019
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: こんどの世には、
-  word_list: [こんど, の, 世, に, は]
   sound: f000019.mp3
   sound_begin: 58141
   sound_end: 59600
+  sentence: こんどの世には、
+  words:
+    - word: こんど
+      base: 今度
+      postiion: 0
+    - word: の
+      postiion: 3
+    - word: 世
+      postiion: 4
+    - word: に
+      postiion: 5
+    - word: は
+      postiion: 6
 - id: Akai Sakanato Kodomo-f000020
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: どうかして私たちは水の上の世界に生まれ変わってきたいものです。
-  word_list: [どう, か, し, て, 私, たち, は, 水, の, 上, の, 世界, に, 生まれ, 変わっ, て, き, たい, もの, です]
   sound: f000020.mp3
   sound_begin: 59600
   sound_end: 66131
+  sentence: どうかして私たちは水の上の世界に生まれ変わってきたいものです。
+  words:
+    - word: どう
+      postiion: 0
+    - word: か
+      postiion: 2
+    - word: し
+      base: 為る
+      postiion: 3
+    - word: て
+      postiion: 4
+    - word: 私
+      postiion: 5
+    - word: たち
+      base: 達
+      postiion: 6
+    - word: は
+      postiion: 8
+    - word: 水
+      postiion: 9
+    - word: の
+      postiion: 10
+    - word: 上
+      postiion: 11
+    - word: の
+      postiion: 12
+    - word: 世界
+      postiion: 13
+    - word: に
+      postiion: 15
+    - word: 生まれ
+      base: 生まれる
+      postiion: 16
+    - word: 変わっ
+      base: 変わる
+      postiion: 19
+    - word: て
+      postiion: 22
+    - word: き
+      base: 来る
+      postiion: 23
+    - word: たい
+      postiion: 24
+    - word: もの
+      base: 物
+      postiion: 26
+    - word: です
+      postiion: 28
 - id: Akai Sakanato Kodomo-f000021
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 」と、
-  word_list: [と]
   sound: f000021.mp3
   sound_begin: 66131
   sound_end: 66800
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Akai Sakanato Kodomo-f000022
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 魚たちは話し合っていました。
-  word_list: [魚, たち, は, 話し, 合っ, て, い, まし, た]
   sound: f000022.mp3
   sound_begin: 66800
   sound_end: 70840
+  sentence: 魚たちは話し合っていました。
+  words:
+    - word: 魚
+      postiion: 0
+    - word: たち
+      base: 達
+      postiion: 1
+    - word: は
+      postiion: 3
+    - word: 話し
+      base: 話す
+      postiion: 4
+    - word: 合っ
+      base: 合う
+      postiion: 6
+    - word: て
+      postiion: 8
+    - word: い
+      base: 居る
+      postiion: 9
+    - word: まし
+      base: ます
+      postiion: 10
+    - word: た
+      postiion: 12
 - id: Akai Sakanato Kodomo-f000023
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: なかにも、
-  word_list: [なか, に, も]
   sound: f000023.mp3
   sound_begin: 70840
   sound_end: 71880
+  sentence: なかにも、
+  words:
+    - word: なか
+      base: 中
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: も
+      postiion: 3
 - id: Akai Sakanato Kodomo-f000024
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 魚の子供らは躍り上がって、
-  word_list: [魚, の, 子供, ら, は, 躍り, 上がっ, て]
   sound: f000024.mp3
   sound_begin: 71880
   sound_end: 74160
+  sentence: 魚の子供らは躍り上がって、
+  words:
+    - word: 魚
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 子供
+      postiion: 2
+    - word: ら
+      base: 等
+      postiion: 4
+    - word: は
+      postiion: 5
+    - word: 躍り
+      base: 踊る
+      postiion: 6
+    - word: 上がっ
+      base: 上がる
+      postiion: 8
+    - word: て
+      postiion: 11
 - id: Akai Sakanato Kodomo-f000025
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: とどきもしない花に向かって、
-  word_list: [と, どき, も, し, ない, 花, に, 向かっ, て]
   sound: f000025.mp3
   sound_begin: 74160
   sound_end: 76560
+  sentence: とどきもしない花に向かって、
+  words:
+    - word: と
+      postiion: 0
+    - word: どき
+      base: 時
+      postiion: 1
+    - word: も
+      postiion: 3
+    - word: し
+      base: 為る
+      postiion: 4
+    - word: ない
+      postiion: 5
+    - word: 花
+      postiion: 7
+    - word: に
+      postiion: 8
+    - word: 向かっ
+      base: 向かう
+      postiion: 9
+    - word: て
+      postiion: 12
 - id: Akai Sakanato Kodomo-f000026
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 飛びつこうと騒いだのです。
-  word_list: [飛び, つこう, と, 騒い, だ, の, です]
   sound: f000026.mp3
   sound_begin: 76560
   sound_end: 79520
+  sentence: 飛びつこうと騒いだのです。
+  words:
+    - word: 飛び
+      base: 飛ぶ
+      postiion: 0
+    - word: つこう
+      base: 付く
+      postiion: 2
+    - word: と
+      postiion: 5
+    - word: 騒い
+      base: 騒ぐ
+      postiion: 6
+    - word: だ
+      base: た
+      postiion: 8
+    - word: の
+      postiion: 9
+    - word: です
+      postiion: 10
 - id: Akai Sakanato Kodomo-f000027
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 「お母さん、
-  word_list: [お, 母さん]
   sound: f000027.mp3
   sound_begin: 79520
   sound_end: 80600
+  sentence: 「お母さん、
+  words:
+    - word: お
+      base: 御
+      postiion: 1
+    - word: 母さん
+      postiion: 2
 - id: Akai Sakanato Kodomo-f000028
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: あのきれいな花がほしいのです。
-  word_list: [あの, きれい, な, 花, が, ほしい, の, です]
   sound: f000028.mp3
   sound_begin: 80600
   sound_end: 83116
+  sentence: あのきれいな花がほしいのです。
+  words:
+    - word: あの
+      base: 彼の
+      postiion: 0
+    - word: きれい
+      base: 奇麗
+      postiion: 2
+    - word: な
+      base: だ
+      postiion: 5
+    - word: 花
+      postiion: 6
+    - word: が
+      postiion: 7
+    - word: ほしい
+      base: 欲しい
+      postiion: 8
+    - word: の
+      postiion: 11
+    - word: です
+      postiion: 12
 - id: Akai Sakanato Kodomo-f000029
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 」といいました。
-  word_list: [と, いい, まし, た]
   sound: f000029.mp3
   sound_begin: 83116
   sound_end: 85834
+  sentence: 」といいました。
+  words:
+    - word: と
+      postiion: 1
+    - word: いい
+      base: 言う
+      postiion: 2
+    - word: まし
+      base: ます
+      postiion: 4
+    - word: た
+      postiion: 6
 - id: Akai Sakanato Kodomo-f000030
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: すると、
-  word_list: [する, と]
   sound: f000030.mp3
   sound_begin: 85834
   sound_end: 86680
+  sentence: すると、
+  words:
+    - word: する
+      base: 為る
+      postiion: 0
+    - word: と
+      postiion: 2
 - id: Akai Sakanato Kodomo-f000031
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 魚の母親は、
-  word_list: [魚, の, 母親, は]
   sound: f000031.mp3
   sound_begin: 86680
   sound_end: 88200
+  sentence: 魚の母親は、
+  words:
+    - word: 魚
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 母親
+      postiion: 2
+    - word: は
+      postiion: 4
 - id: Akai Sakanato Kodomo-f000032
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: その子供をいましめて、
-  word_list: [その, 子供, を, いましめ, て]
   sound: f000032.mp3
   sound_begin: 88200
   sound_end: 89520
+  sentence: その子供をいましめて、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 子供
+      postiion: 2
+    - word: を
+      postiion: 4
+    - word: いましめ
+      base: 戒める
+      postiion: 5
+    - word: て
+      postiion: 9
 - id: Akai Sakanato Kodomo-f000033
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: いいますのには、
-  word_list: [いい, ます, の, に, は]
   sound: f000033.mp3
   sound_begin: 89520
   sound_end: 92200
+  sentence: いいますのには、
+  words:
+    - word: いい
+      base: 言う
+      postiion: 0
+    - word: ます
+      postiion: 2
+    - word: の
+      postiion: 4
+    - word: に
+      postiion: 5
+    - word: は
+      postiion: 6
 - id: Akai Sakanato Kodomo-f000034
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 「あれは、
-  word_list: [あれ, は]
   sound: f000034.mp3
   sound_begin: 92200
   sound_end: 92880
+  sentence: 「あれは、
+  words:
+    - word: あれ
+      base: 彼れ
+      postiion: 1
+    - word: は
+      postiion: 3
 - id: Akai Sakanato Kodomo-f000035
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: ただ遠くからながめているものです。
-  word_list: [ただ, 遠く, から, ながめ, て, いる, もの, です]
   sound: f000035.mp3
   sound_begin: 92880
   sound_end: 95890
+  sentence: ただ遠くからながめているものです。
+  words:
+    - word: ただ
+      base: 唯
+      postiion: 0
+    - word: 遠く
+      postiion: 2
+    - word: から
+      postiion: 4
+    - word: ながめ
+      base: 眺める
+      postiion: 6
+    - word: て
+      postiion: 9
+    - word: いる
+      base: 居る
+      postiion: 10
+    - word: もの
+      base: 物
+      postiion: 12
+    - word: です
+      postiion: 14
 - id: Akai Sakanato Kodomo-f000036
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: けっして、
-  word_list: [けっして]
   sound: f000036.mp3
   sound_begin: 95890
   sound_end: 96840
+  sentence: けっして、
+  words:
+    - word: けっして
+      base: 決して
+      postiion: 0
 - id: Akai Sakanato Kodomo-f000037
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: あの花が水の上に落ちてきたとて食べてはなりません。
-  word_list: [あの, 花, が, 水, の, 上, に, 落ち, て, き, た, とて, 食べ, て, は, なり, ませ, ん]
   sound: f000037.mp3
   sound_begin: 96840
   sound_end: 102130
+  sentence: あの花が水の上に落ちてきたとて食べてはなりません。
+  words:
+    - word: あの
+      base: 彼の
+      postiion: 0
+    - word: 花
+      postiion: 2
+    - word: が
+      postiion: 3
+    - word: 水
+      postiion: 4
+    - word: の
+      postiion: 5
+    - word: 上
+      postiion: 6
+    - word: に
+      postiion: 7
+    - word: 落ち
+      base: 落ちる
+      postiion: 8
+    - word: て
+      postiion: 10
+    - word: き
+      base: 来る
+      postiion: 11
+    - word: た
+      postiion: 12
+    - word: とて
+      postiion: 13
+    - word: 食べ
+      base: 食べる
+      postiion: 15
+    - word: て
+      postiion: 17
+    - word: は
+      postiion: 18
+    - word: なり
+      base: 成る
+      postiion: 19
+    - word: ませ
+      base: ます
+      postiion: 21
+    - word: ん
+      base: ず
+      postiion: 23
 - id: Akai Sakanato Kodomo-f000038
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 」と教えました。
-  word_list: [と, 教え, まし, た]
   sound: f000038.mp3
   sound_begin: 102130
   sound_end: 105173
+  sentence: 」と教えました。
+  words:
+    - word: と
+      postiion: 1
+    - word: 教え
+      base: 教える
+      postiion: 2
+    - word: まし
+      base: ます
+      postiion: 4
+    - word: た
+      postiion: 6
 - id: Akai Sakanato Kodomo-f000039
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 子供らは、
-  word_list: [子供, ら, は]
   sound: f000039.mp3
   sound_begin: 105173
   sound_end: 106360
+  sentence: 子供らは、
+  words:
+    - word: 子供
+      postiion: 0
+    - word: ら
+      base: 等
+      postiion: 2
+    - word: は
+      postiion: 3
 - id: Akai Sakanato Kodomo-f000040
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 母親のいうことが、
-  word_list: [母親, の, いう, こと, が]
   sound: f000040.mp3
   sound_begin: 106360
   sound_end: 107920
+  sentence: 母親のいうことが、
+  words:
+    - word: 母親
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: いう
+      base: 言う
+      postiion: 3
+    - word: こと
+      postiion: 5
+    - word: が
+      postiion: 7
 - id: Akai Sakanato Kodomo-f000041
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: なぜだか信じられなかった。
-  word_list: [なぜ, だ, か, 信じ, られ, なかっ, た]
   sound: f000041.mp3
   sound_begin: 107920
   sound_end: 110720
+  sentence: なぜだか信じられなかった。
+  words:
+    - word: なぜ
+      base: 何故
+      postiion: 0
+    - word: だ
+      postiion: 2
+    - word: か
+      postiion: 3
+    - word: 信じ
+      base: 信ずる
+      postiion: 4
+    - word: られ
+      base: られる
+      postiion: 6
+    - word: なかっ
+      base: ない
+      postiion: 8
+    - word: た
+      postiion: 11
 - id: Akai Sakanato Kodomo-f000042
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 「なぜ、
-  word_list: [なぜ]
   sound: f000042.mp3
   sound_begin: 110720
   sound_end: 111640
+  sentence: 「なぜ、
+  words:
+    - word: なぜ
+      base: 何故
+      postiion: 1
 - id: Akai Sakanato Kodomo-f000043
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: お母さん、
-  word_list: [お, 母さん]
   sound: f000043.mp3
   sound_begin: 111640
   sound_end: 113240
+  sentence: お母さん、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: 母さん
+      postiion: 1
 - id: Akai Sakanato Kodomo-f000044
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: あの花びらが落ちてきたら、
-  word_list: [あの, 花びら, が, 落ち, て, き, たら]
   sound: f000044.mp3
   sound_begin: 113240
   sound_end: 115040
+  sentence: あの花びらが落ちてきたら、
+  words:
+    - word: あの
+      base: 彼の
+      postiion: 0
+    - word: 花びら
+      base: 花弁
+      postiion: 2
+    - word: が
+      postiion: 5
+    - word: 落ち
+      base: 落ちる
+      postiion: 6
+    - word: て
+      postiion: 8
+    - word: き
+      base: 来る
+      postiion: 9
+    - word: たら
+      base: た
+      postiion: 10
 - id: Akai Sakanato Kodomo-f000045
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 食べてはなりませんのですか。
-  word_list: [食べ, て, は, なり, ませ, ん, の, です, か]
   sound: f000045.mp3
   sound_begin: 115040
   sound_end: 116840
+  sentence: 食べてはなりませんのですか。
+  words:
+    - word: 食べ
+      base: 食べる
+      postiion: 0
+    - word: て
+      postiion: 2
+    - word: は
+      postiion: 3
+    - word: なり
+      base: 成る
+      postiion: 4
+    - word: ませ
+      base: ます
+      postiion: 6
+    - word: ん
+      base: ず
+      postiion: 8
+    - word: の
+      postiion: 9
+    - word: です
+      postiion: 10
+    - word: か
+      postiion: 12
 - id: Akai Sakanato Kodomo-f000046
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 」と聞きました。
-  word_list: [と, 聞き, まし, た]
   sound: f000046.mp3
   sound_begin: 116840
   sound_end: 120960
+  sentence: 」と聞きました。
+  words:
+    - word: と
+      postiion: 1
+    - word: 聞き
+      base: 聞く
+      postiion: 2
+    - word: まし
+      base: ます
+      postiion: 4
+    - word: た
+      postiion: 6
 - id: Akai Sakanato Kodomo-f000047
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 母親は、
-  word_list: [母親, は]
   sound: f000047.mp3
   sound_begin: 120960
   sound_end: 121760
+  sentence: 母親は、
+  words:
+    - word: 母親
+      postiion: 0
+    - word: は
+      postiion: 2
 - id: Akai Sakanato Kodomo-f000048
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 思案顔をして、
-  word_list: [思案, 顔, を, し, て]
   sound: f000048.mp3
   sound_begin: 121760
   sound_end: 123120
+  sentence: 思案顔をして、
+  words:
+    - word: 思案
+      postiion: 0
+    - word: 顔
+      postiion: 2
+    - word: を
+      postiion: 3
+    - word: し
+      base: 為る
+      postiion: 4
+    - word: て
+      postiion: 5
 - id: Akai Sakanato Kodomo-f000049
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 子供らを見守りながら、
-  word_list: [子供, ら, を, 見, 守り, ながら]
   sound: f000049.mp3
   sound_begin: 123120
   sound_end: 127320
+  sentence: 子供らを見守りながら、
+  words:
+    - word: 子供
+      postiion: 0
+    - word: ら
+      base: 等
+      postiion: 2
+    - word: を
+      postiion: 3
+    - word: 見
+      base: 見る
+      postiion: 4
+    - word: 守り
+      base: 守る
+      postiion: 5
+    - word: ながら
+      postiion: 7
 - id: Akai Sakanato Kodomo-f000050
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 「昔から、
-  word_list: [昔, から]
   sound: f000050.mp3
   sound_begin: 127320
   sound_end: 128499
+  sentence: 「昔から、
+  words:
+    - word: 昔
+      postiion: 1
+    - word: から
+      postiion: 2
 - id: Akai Sakanato Kodomo-f000051
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 花を食べてはいけないといわれています。
-  word_list: [花, を, 食べ, ては, いけ, ない, と, いわ, れ, て, い, ます]
   sound: f000051.mp3
   sound_begin: 128499
   sound_end: 132354
+  sentence: 花を食べてはいけないといわれています。
+  words:
+    - word: 花
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: 食べ
+      base: 食べる
+      postiion: 2
+    - word: ては
+      postiion: 4
+    - word: いけ
+      base: 行く
+      postiion: 6
+    - word: ない
+      postiion: 8
+    - word: と
+      postiion: 10
+    - word: いわ
+      base: 言う
+      postiion: 11
+    - word: れ
+      base: れる
+      postiion: 13
+    - word: て
+      postiion: 14
+    - word: い
+      base: 居る
+      postiion: 15
+    - word: ます
+      postiion: 16
 - id: Akai Sakanato Kodomo-f000052
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: あれを食べると、
-  word_list: [あれ, を, 食べる, と]
   sound: f000052.mp3
   sound_begin: 132354
   sound_end: 133640
+  sentence: あれを食べると、
+  words:
+    - word: あれ
+      base: 彼れ
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: 食べる
+      postiion: 3
+    - word: と
+      postiion: 6
 - id: Akai Sakanato Kodomo-f000053
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 体に変わりができるということです。
-  word_list: [体, に, 変わり, が, できる, と, いう, こと, です]
   sound: f000053.mp3
   sound_begin: 133640
   sound_end: 136800
+  sentence: 体に変わりができるということです。
+  words:
+    - word: 体
+      postiion: 0
+    - word: に
+      postiion: 1
+    - word: 変わり
+      postiion: 2
+    - word: が
+      postiion: 5
+    - word: できる
+      base: 出来る
+      postiion: 6
+    - word: と
+      postiion: 9
+    - word: いう
+      base: 言う
+      postiion: 10
+    - word: こと
+      postiion: 12
+    - word: です
+      postiion: 14
 - id: Akai Sakanato Kodomo-f000054
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 食べるなというものは、
-  word_list: [食べる, な, と, いう, もの, は]
   sound: f000054.mp3
   sound_begin: 136800
   sound_end: 139800
+  sentence: 食べるなというものは、
+  words:
+    - word: 食べる
+      postiion: 0
+    - word: な
+      postiion: 3
+    - word: と
+      postiion: 4
+    - word: いう
+      base: 言う
+      postiion: 5
+    - word: もの
+      base: 物
+      postiion: 7
+    - word: は
+      postiion: 9
 - id: Akai Sakanato Kodomo-f000055
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: なんでも食べないほうがいいのです。
-  word_list: [なん, で, も, 食べ, ない, ほう, が, いい, の, です]
   sound: f000055.mp3
   sound_begin: 139800
   sound_end: 143092
+  sentence: なんでも食べないほうがいいのです。
+  words:
+    - word: なん
+      base: 何
+      postiion: 0
+    - word: で
+      postiion: 2
+    - word: も
+      postiion: 3
+    - word: 食べ
+      base: 食べる
+      postiion: 4
+    - word: ない
+      postiion: 6
+    - word: ほう
+      base: 方
+      postiion: 8
+    - word: が
+      postiion: 10
+    - word: いい
+      base: 良い
+      postiion: 11
+    - word: の
+      postiion: 13
+    - word: です
+      postiion: 14
 - id: Akai Sakanato Kodomo-f000056
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 」といいました。
-  word_list: [と, いい, まし, た]
   sound: f000056.mp3
   sound_begin: 143092
   sound_end: 146240
+  sentence: 」といいました。
+  words:
+    - word: と
+      postiion: 1
+    - word: いい
+      base: 言う
+      postiion: 2
+    - word: まし
+      base: ます
+      postiion: 4
+    - word: た
+      postiion: 6
 - id: Akai Sakanato Kodomo-f000057
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 「あんなにきれいな花を、
-  word_list: [あんな, に, きれい, な, 花, を]
   sound: f000057.mp3
   sound_begin: 146240
   sound_end: 148320
+  sentence: 「あんなにきれいな花を、
+  words:
+    - word: あんな
+      postiion: 1
+    - word: に
+      base: だ
+      postiion: 4
+    - word: きれい
+      base: 奇麗
+      postiion: 5
+    - word: な
+      base: だ
+      postiion: 8
+    - word: 花
+      postiion: 9
+    - word: を
+      postiion: 10
 - id: Akai Sakanato Kodomo-f000058
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: なぜ食べてはいけないのだろう。
-  word_list: [なぜ, 食べ, ては, いけ, ない, の, だろう]
   sound: f000058.mp3
   sound_begin: 148320
   sound_end: 151105
+  sentence: なぜ食べてはいけないのだろう。
+  words:
+    - word: なぜ
+      base: 何故
+      postiion: 0
+    - word: 食べ
+      base: 食べる
+      postiion: 2
+    - word: ては
+      postiion: 4
+    - word: いけ
+      base: 行く
+      postiion: 6
+    - word: ない
+      postiion: 8
+    - word: の
+      postiion: 10
+    - word: だろう
+      base: だ
+      postiion: 11
 - id: Akai Sakanato Kodomo-f000059
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 」と、
-  word_list: [と]
   sound: f000059.mp3
   sound_begin: 151105
   sound_end: 151840
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Akai Sakanato Kodomo-f000060
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 一ぴきの子供の魚は、
-  word_list: [一, ぴき, の, 子供, の, 魚, は]
   sound: f000060.mp3
   sound_begin: 151840
   sound_end: 153760
+  sentence: 一ぴきの子供の魚は、
+  words:
+    - word: 一
+      base: '1'
+      postiion: 0
+    - word: ぴき
+      base: 匹
+      postiion: 1
+    - word: の
+      postiion: 3
+    - word: 子供
+      postiion: 4
+    - word: の
+      postiion: 6
+    - word: 魚
+      postiion: 7
+    - word: は
+      postiion: 8
 - id: Akai Sakanato Kodomo-f000061
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 頭をかしげました。
-  word_list: [頭, を, かしげ, まし, た]
   sound: f000061.mp3
   sound_begin: 153760
   sound_end: 158320
+  sentence: 頭をかしげました。
+  words:
+    - word: 頭
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: かしげ
+      base: 傾げる
+      postiion: 2
+    - word: まし
+      base: ます
+      postiion: 5
+    - word: た
+      postiion: 7
 - id: Akai Sakanato Kodomo-f000062
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 「あの花が、
-  word_list: [あの, 花, が]
   sound: f000062.mp3
   sound_begin: 158320
   sound_end: 159040
+  sentence: 「あの花が、
+  words:
+    - word: あの
+      base: 彼の
+      postiion: 1
+    - word: 花
+      postiion: 3
+    - word: が
+      postiion: 4
 - id: Akai Sakanato Kodomo-f000063
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: この水の上に、
-  word_list: [この, 水, の, 上, に]
   sound: f000063.mp3
   sound_begin: 159040
   sound_end: 160400
+  sentence: この水の上に、
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: 水
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: 上
+      postiion: 4
+    - word: に
+      postiion: 5
 - id: Akai Sakanato Kodomo-f000064
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: みんな落ちてきたら、
-  word_list: [みんな, 落ち, て, き, たら]
   sound: f000064.mp3
   sound_begin: 160400
   sound_end: 161851
+  sentence: みんな落ちてきたら、
+  words:
+    - word: みんな
+      base: 皆
+      postiion: 0
+    - word: 落ち
+      base: 落ちる
+      postiion: 3
+    - word: て
+      postiion: 5
+    - word: き
+      base: 来る
+      postiion: 6
+    - word: たら
+      base: た
+      postiion: 7
 - id: Akai Sakanato Kodomo-f000065
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: どんなにきれいだろう。
-  word_list: [どんな, に, きれい, だろう]
   sound: f000065.mp3
   sound_begin: 161851
   sound_end: 164119
+  sentence: どんなにきれいだろう。
+  words:
+    - word: どんな
+      postiion: 0
+    - word: に
+      base: だ
+      postiion: 3
+    - word: きれい
+      base: 奇麗
+      postiion: 4
+    - word: だろう
+      base: だ
+      postiion: 7
 - id: Akai Sakanato Kodomo-f000066
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 」と、
-  word_list: [と]
   sound: f000066.mp3
   sound_begin: 164119
   sound_end: 164800
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Akai Sakanato Kodomo-f000067
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: ほかの一ぴきは目を輝かしながらいいました。
-  word_list: [ほか, の, 一, ぴき, は, 目, を, 輝かし, ながら, いい, まし, た]
   sound: f000067.mp3
   sound_begin: 164800
   sound_end: 170040
+  sentence: ほかの一ぴきは目を輝かしながらいいました。
+  words:
+    - word: ほか
+      base: 他
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 一
+      base: '1'
+      postiion: 3
+    - word: ぴき
+      base: 匹
+      postiion: 4
+    - word: は
+      postiion: 6
+    - word: 目
+      postiion: 7
+    - word: を
+      postiion: 8
+    - word: 輝かし
+      base: 輝く
+      postiion: 9
+    - word: ながら
+      postiion: 12
+    - word: いい
+      base: 言う
+      postiion: 15
+    - word: まし
+      base: ます
+      postiion: 17
+    - word: た
+      postiion: 19
 - id: Akai Sakanato Kodomo-f000068
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: そして、
-  word_list: [そして]
   sound: f000068.mp3
   sound_begin: 170040
   sound_end: 170978
+  sentence: そして、
+  words:
+    - word: そして
+      postiion: 0
 - id: Akai Sakanato Kodomo-f000069
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 子供らは、
-  word_list: [子供, ら, は]
   sound: f000069.mp3
   sound_begin: 170978
   sound_end: 172120
+  sentence: 子供らは、
+  words:
+    - word: 子供
+      postiion: 0
+    - word: ら
+      base: 等
+      postiion: 2
+    - word: は
+      postiion: 3
 - id: Akai Sakanato Kodomo-f000070
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 毎日、
-  word_list: [毎日]
   sound: f000070.mp3
   sound_begin: 172120
   sound_end: 172720
+  sentence: 毎日、
+  words:
+    - word: 毎日
+      postiion: 0
 - id: Akai Sakanato Kodomo-f000071
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 水の面を見上げて、
-  word_list: [水, の, 面, を, 見, 上げ, て]
   sound: f000071.mp3
   sound_begin: 172720
   sound_end: 174640
+  sentence: 水の面を見上げて、
+  words:
+    - word: 水
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 面
+      postiion: 2
+    - word: を
+      postiion: 3
+    - word: 見
+      base: 見る
+      postiion: 4
+    - word: 上げ
+      base: 上げる
+      postiion: 5
+    - word: て
+      postiion: 7
 - id: Akai Sakanato Kodomo-f000072
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 花の散る日をたのしみにして待っていました。
-  word_list: [花, の, 散る, 日, を, たのしみ, に, し, て, 待っ, て, い, まし, た]
   sound: f000072.mp3
   sound_begin: 174640
   sound_end: 179760
+  sentence: 花の散る日をたのしみにして待っていました。
+  words:
+    - word: 花
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 散る
+      postiion: 2
+    - word: 日
+      postiion: 4
+    - word: を
+      postiion: 5
+    - word: たのしみ
+      base: 楽しむ
+      postiion: 6
+    - word: に
+      postiion: 10
+    - word: し
+      base: 為る
+      postiion: 11
+    - word: て
+      postiion: 12
+    - word: 待っ
+      base: 待つ
+      postiion: 13
+    - word: て
+      postiion: 15
+    - word: い
+      base: 居る
+      postiion: 16
+    - word: まし
+      base: ます
+      postiion: 17
+    - word: た
+      postiion: 19
 - id: Akai Sakanato Kodomo-f000073
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: ひとり、
-  word_list: [ひとり]
   sound: f000073.mp3
   sound_begin: 179760
   sound_end: 180840
+  sentence: ひとり、
+  words:
+    - word: ひとり
+      base: 一人
+      postiion: 0
 - id: Akai Sakanato Kodomo-f000074
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 母親だけは、
-  word_list: [母親, だけ, は]
   sound: f000074.mp3
   sound_begin: 180840
   sound_end: 182436
+  sentence: 母親だけは、
+  words:
+    - word: 母親
+      postiion: 0
+    - word: だけ
+      postiion: 2
+    - word: は
+      postiion: 4
 - id: Akai Sakanato Kodomo-f000075
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 子供らが自分のいましめをきかないのを心配していました。
-  word_list: [子供, ら, が, 自分, の, いましめ, を, きか, ない, の, を, 心配, し, て, い, まし, た]
   sound: f000075.mp3
   sound_begin: 182436
   sound_end: 188088
+  sentence: 子供らが自分のいましめをきかないのを心配していました。
+  words:
+    - word: 子供
+      postiion: 0
+    - word: ら
+      base: 等
+      postiion: 2
+    - word: が
+      postiion: 3
+    - word: 自分
+      postiion: 4
+    - word: の
+      postiion: 6
+    - word: いましめ
+      base: 戒め
+      postiion: 7
+    - word: を
+      postiion: 11
+    - word: きか
+      base: きく
+      postiion: 12
+    - word: ない
+      postiion: 14
+    - word: の
+      postiion: 16
+    - word: を
+      postiion: 17
+    - word: 心配
+      postiion: 18
+    - word: し
+      base: 為る
+      postiion: 20
+    - word: て
+      postiion: 21
+    - word: い
+      base: 居る
+      postiion: 22
+    - word: まし
+      base: ます
+      postiion: 23
+    - word: た
+      postiion: 25
 - id: Akai Sakanato Kodomo-f000076
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 「どうか、
-  word_list: [どう, か]
   sound: f000076.mp3
   sound_begin: 188088
   sound_end: 189120
+  sentence: 「どうか、
+  words:
+    - word: どう
+      postiion: 1
+    - word: か
+      postiion: 3
 - id: Akai Sakanato Kodomo-f000077
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 花を私の知らぬまに食べてくれぬといいけれど。
-  word_list: [花, を, 私, の, 知ら, ぬ, ま, に, 食べ, て, くれ, ぬ, と, いい, けれど]
   sound: f000077.mp3
   sound_begin: 189120
   sound_end: 194227
+  sentence: 花を私の知らぬまに食べてくれぬといいけれど。
+  words:
+    - word: 花
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: 私
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: 知ら
+      base: 知る
+      postiion: 4
+    - word: ぬ
+      base: ず
+      postiion: 6
+    - word: ま
+      postiion: 7
+    - word: に
+      postiion: 8
+    - word: 食べ
+      base: 食べる
+      postiion: 9
+    - word: て
+      postiion: 11
+    - word: くれ
+      base: 呉れる
+      postiion: 12
+    - word: ぬ
+      base: ず
+      postiion: 14
+    - word: と
+      postiion: 15
+    - word: いい
+      base: 言う
+      postiion: 16
+    - word: けれど
+      postiion: 18
 - id: Akai Sakanato Kodomo-f000078
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 」と、
-  word_list: [と]
   sound: f000078.mp3
   sound_begin: 194227
   sound_end: 194880
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Akai Sakanato Kodomo-f000079
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 独り言をしていました。
-  word_list: [独り言, を, し, て, い, まし, た]
   sound: f000079.mp3
   sound_begin: 194880
   sound_end: 200180
+  sentence: 独り言をしていました。
+  words:
+    - word: 独り言
+      postiion: 0
+    - word: を
+      postiion: 3
+    - word: し
+      base: 為る
+      postiion: 4
+    - word: て
+      postiion: 5
+    - word: い
+      base: 居る
+      postiion: 6
+    - word: まし
+      base: ます
+      postiion: 7
+    - word: た
+      postiion: 9
 - id: Akai Sakanato Kodomo-f000080
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 木々の咲いた花には、
-  word_list: [木々, の, 咲い, た, 花, に, は]
   sound: f000080.mp3
   sound_begin: 200180
   sound_end: 202400
+  sentence: 木々の咲いた花には、
+  words:
+    - word: 木々
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 咲い
+      base: 咲く
+      postiion: 3
+    - word: た
+      postiion: 5
+    - word: 花
+      postiion: 6
+    - word: に
+      postiion: 7
+    - word: は
+      postiion: 8
 - id: Akai Sakanato Kodomo-f000081
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 朝から、
-  word_list: [朝, から]
   sound: f000081.mp3
   sound_begin: 202400
   sound_end: 203120
+  sentence: 朝から、
+  words:
+    - word: 朝
+      postiion: 0
+    - word: から
+      postiion: 1
 - id: Akai Sakanato Kodomo-f000082
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 晩になるまで、
-  word_list: [晩, に, なる, まで]
   sound: f000082.mp3
   sound_begin: 203120
   sound_end: 204407
+  sentence: 晩になるまで、
+  words:
+    - word: 晩
+      postiion: 0
+    - word: に
+      postiion: 1
+    - word: なる
+      base: 成る
+      postiion: 2
+    - word: まで
+      postiion: 4
 - id: Akai Sakanato Kodomo-f000083
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: ちょうや、
-  word_list: [ちょう, や]
   sound: f000083.mp3
   sound_begin: 204407
   sound_end: 205080
+  sentence: ちょうや、
+  words:
+    - word: ちょう
+      base: 蝶
+      postiion: 0
+    - word: や
+      postiion: 3
 - id: Akai Sakanato Kodomo-f000084
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: はちがきてにぎやかでありましたが、
-  word_list: [はち, が, き, て, にぎやか, で, あり, まし, た, が]
   sound: f000084.mp3
   sound_begin: 205080
   sound_end: 207840
+  sentence: はちがきてにぎやかでありましたが、
+  words:
+    - word: はち
+      base: 八
+      postiion: 0
+    - word: が
+      postiion: 2
+    - word: き
+      base: 来る
+      postiion: 3
+    - word: て
+      postiion: 4
+    - word: にぎやか
+      base: 賑やか
+      postiion: 5
+    - word: で
+      base: だ
+      postiion: 9
+    - word: あり
+      base: 有る
+      postiion: 10
+    - word: まし
+      base: ます
+      postiion: 12
+    - word: た
+      postiion: 14
+    - word: が
+      postiion: 15
 - id: Akai Sakanato Kodomo-f000085
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 日がたつにつれて、
-  word_list: [日, が, たつ, に, つれ, て]
   sound: f000085.mp3
   sound_begin: 207840
   sound_end: 209680
+  sentence: 日がたつにつれて、
+  words:
+    - word: 日
+      postiion: 0
+    - word: が
+      postiion: 1
+    - word: たつ
+      postiion: 2
+    - word: に
+      postiion: 4
+    - word: つれ
+      base: つれる
+      postiion: 5
+    - word: て
+      postiion: 7
 - id: Akai Sakanato Kodomo-f000086
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 花は開ききってしまいました。
-  word_list: [花, は, 開き, きっ, て, しまい, まし, た]
   sound: f000086.mp3
   sound_begin: 209680
   sound_end: 213040
+  sentence: 花は開ききってしまいました。
+  words:
+    - word: 花
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: 開き
+      base: 開く
+      postiion: 2
+    - word: きっ
+      base: 切る
+      postiion: 4
+    - word: て
+      postiion: 6
+    - word: しまい
+      base: 仕舞う
+      postiion: 7
+    - word: まし
+      base: ます
+      postiion: 10
+    - word: た
+      postiion: 12
 - id: Akai Sakanato Kodomo-f000087
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: そして、
-  word_list: [そして]
   sound: f000087.mp3
   sound_begin: 213040
   sound_end: 214440
+  sentence: そして、
+  words:
+    - word: そして
+      postiion: 0
 - id: Akai Sakanato Kodomo-f000088
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: ある日のこと、
-  word_list: [ある, 日, の, こと]
   sound: f000088.mp3
   sound_begin: 214440
   sound_end: 216160
+  sentence: ある日のこと、
+  words:
+    - word: ある
+      base: 或る
+      postiion: 0
+    - word: 日
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: こと
+      postiion: 4
 - id: Akai Sakanato Kodomo-f000089
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: ひとしきり風が吹いたときに、
-  word_list: [ひとしきり, 風, が, 吹い, た, とき, に]
   sound: f000089.mp3
   sound_begin: 216160
   sound_end: 218590
+  sentence: ひとしきり風が吹いたときに、
+  words:
+    - word: ひとしきり
+      base: 一頻り
+      postiion: 0
+    - word: 風
+      postiion: 5
+    - word: が
+      postiion: 6
+    - word: 吹い
+      base: 吹く
+      postiion: 7
+    - word: た
+      postiion: 9
+    - word: とき
+      base: 時
+      postiion: 10
+    - word: に
+      postiion: 12
 - id: Akai Sakanato Kodomo-f000090
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 花はこぼれるように水の面にちりかかったのであります。
-  word_list: [花, は, こぼれる, よう, に, 水, の, 面, に, ちり, かかっ, た, の, で, あり, ます]
   sound: f000090.mp3
   sound_begin: 218590
   sound_end: 223932
+  sentence: 花はこぼれるように水の面にちりかかったのであります。
+  words:
+    - word: 花
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: こぼれる
+      postiion: 2
+    - word: よう
+      base: 様
+      postiion: 6
+    - word: に
+      base: だ
+      postiion: 8
+    - word: 水
+      postiion: 9
+    - word: の
+      postiion: 10
+    - word: 面
+      postiion: 11
+    - word: に
+      postiion: 12
+    - word: ちり
+      base: 散る
+      postiion: 13
+    - word: かかっ
+      base: 掛かる
+      postiion: 15
+    - word: た
+      postiion: 18
+    - word: の
+      postiion: 19
+    - word: で
+      base: だ
+      postiion: 20
+    - word: あり
+      base: 有る
+      postiion: 21
+    - word: ます
+      postiion: 23
 - id: Akai Sakanato Kodomo-f000091
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 「ああ、
-  word_list: [ああ]
   sound: f000091.mp3
   sound_begin: 223932
   sound_end: 225200
+  sentence: 「ああ、
+  words:
+    - word: ああ
+      postiion: 1
 - id: Akai Sakanato Kodomo-f000092
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 花が降ってきた。
-  word_list: [花, が, 降っ, て, き, た]
   sound: f000092.mp3
   sound_begin: 225200
   sound_end: 228020
+  sentence: 花が降ってきた。
+  words:
+    - word: 花
+      postiion: 0
+    - word: が
+      postiion: 1
+    - word: 降っ
+      base: 降る
+      postiion: 2
+    - word: て
+      postiion: 4
+    - word: き
+      base: 来る
+      postiion: 5
+    - word: た
+      postiion: 6
 - id: Akai Sakanato Kodomo-f000093
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 」と、
-  word_list: [と]
   sound: f000093.mp3
   sound_begin: 228020
   sound_end: 228240
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Akai Sakanato Kodomo-f000094
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 川の中の魚は、
-  word_list: [川, の, 中, の, 魚, は]
   sound: f000094.mp3
   sound_begin: 228240
   sound_end: 230160
+  sentence: 川の中の魚は、
+  words:
+    - word: 川
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 中
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: 魚
+      postiion: 4
+    - word: は
+      postiion: 5
 - id: Akai Sakanato Kodomo-f000095
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: みんな大騒ぎをしました。
-  word_list: [みんな, 大騒ぎ, を, し, まし, た]
   sound: f000095.mp3
   sound_begin: 230160
   sound_end: 233600
+  sentence: みんな大騒ぎをしました。
+  words:
+    - word: みんな
+      base: 皆
+      postiion: 0
+    - word: 大騒ぎ
+      postiion: 3
+    - word: を
+      postiion: 6
+    - word: し
+      base: 為る
+      postiion: 7
+    - word: まし
+      base: ます
+      postiion: 8
+    - word: た
+      postiion: 10
 - id: Akai Sakanato Kodomo-f000096
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 「まあ、
-  word_list: [まあ]
   sound: f000096.mp3
   sound_begin: 233600
   sound_end: 233920
+  sentence: 「まあ、
+  words:
+    - word: まあ
+      postiion: 1
 - id: Akai Sakanato Kodomo-f000097
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: なんというりっぱさでしょう。
-  word_list: [なん, と, いう, りっぱ, さ, でしょう]
   sound: f000097.mp3
   sound_begin: 233920
   sound_end: 236240
+  sentence: なんというりっぱさでしょう。
+  words:
+    - word: なん
+      base: 何
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: いう
+      base: 言う
+      postiion: 3
+    - word: りっぱ
+      base: 立派
+      postiion: 5
+    - word: さ
+      postiion: 8
+    - word: でしょう
+      base: です
+      postiion: 9
 - id: Akai Sakanato Kodomo-f000098
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: しかし、
-  word_list: [しかし]
   sound: f000098.mp3
   sound_begin: 236240
   sound_end: 236760
+  sentence: しかし、
+  words:
+    - word: しかし
+      base: 然し
+      postiion: 0
 - id: Akai Sakanato Kodomo-f000099
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 子供らが、
-  word_list: [子供, ら, が]
   sound: f000099.mp3
   sound_begin: 236760
   sound_end: 237840
+  sentence: 子供らが、
+  words:
+    - word: 子供
+      postiion: 0
+    - word: ら
+      base: 等
+      postiion: 2
+    - word: が
+      postiion: 3
 - id: Akai Sakanato Kodomo-f000100
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: うっかりこの花をのまなければいいが。
-  word_list: [うっかり, この, 花, を, のま, なけれ, ば, いい, が]
   sound: f000100.mp3
   sound_begin: 237840
   sound_end: 241313
+  sentence: うっかりこの花をのまなければいいが。
+  words:
+    - word: うっかり
+      postiion: 0
+    - word: この
+      base: 此の
+      postiion: 4
+    - word: 花
+      postiion: 6
+    - word: を
+      postiion: 7
+    - word: のま
+      base: 飲む
+      postiion: 8
+    - word: なけれ
+      base: ない
+      postiion: 10
+    - word: ば
+      postiion: 13
+    - word: いい
+      base: 良い
+      postiion: 14
+    - word: が
+      postiion: 16
 - id: Akai Sakanato Kodomo-f000101
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 」と、
-  word_list: [と]
   sound: f000101.mp3
   sound_begin: 241313
   sound_end: 242000
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Akai Sakanato Kodomo-f000102
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 大きな魚は心配していました。
-  word_list: [大きな, 魚, は, 心配, し, て, い, まし, た]
   sound: f000102.mp3
   sound_begin: 242000
   sound_end: 246794
+  sentence: 大きな魚は心配していました。
+  words:
+    - word: 大きな
+      postiion: 0
+    - word: 魚
+      postiion: 3
+    - word: は
+      postiion: 4
+    - word: 心配
+      postiion: 5
+    - word: し
+      base: 為る
+      postiion: 7
+    - word: て
+      postiion: 8
+    - word: い
+      base: 居る
+      postiion: 9
+    - word: まし
+      base: ます
+      postiion: 10
+    - word: た
+      postiion: 12
 - id: Akai Sakanato Kodomo-f000103
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 花は、
-  word_list: [花, は]
   sound: f000103.mp3
   sound_begin: 246794
   sound_end: 247920
+  sentence: 花は、
+  words:
+    - word: 花
+      postiion: 0
+    - word: は
+      postiion: 1
 - id: Akai Sakanato Kodomo-f000104
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 水の上に浮かんで、
-  word_list: [水, の, 上, に, 浮かん, で]
   sound: f000104.mp3
   sound_begin: 247920
   sound_end: 249680
+  sentence: 水の上に浮かんで、
+  words:
+    - word: 水
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 上
+      postiion: 2
+    - word: に
+      postiion: 3
+    - word: 浮かん
+      base: 浮かぶ
+      postiion: 4
+    - word: で
+      postiion: 7
 - id: Akai Sakanato Kodomo-f000105
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 流れ流れてゆきました。
-  word_list: [流れ, 流れ, て, ゆき, まし, た]
   sound: f000105.mp3
   sound_begin: 249680
   sound_end: 253160
+  sentence: 流れ流れてゆきました。
+  words:
+    - word: 流れ
+      base: 流れる
+      postiion: 0
+    - word: 流れ
+      base: 流れる
+      postiion: 0
+    - word: て
+      postiion: 4
+    - word: ゆき
+      base: 行く
+      postiion: 5
+    - word: まし
+      base: ます
+      postiion: 7
+    - word: た
+      postiion: 9
 - id: Akai Sakanato Kodomo-f000106
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: しかし、
-  word_list: [しかし]
   sound: f000106.mp3
   sound_begin: 253160
   sound_end: 254200
+  sentence: しかし、
+  words:
+    - word: しかし
+      base: 然し
+      postiion: 0
 - id: Akai Sakanato Kodomo-f000107
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 後から、
-  word_list: [後, から]
   sound: f000107.mp3
   sound_begin: 254200
   sound_end: 255040
+  sentence: 後から、
+  words:
+    - word: 後
+      postiion: 0
+    - word: から
+      postiion: 1
 - id: Akai Sakanato Kodomo-f000108
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 後から、
-  word_list: [後, から]
   sound: f000108.mp3
   sound_begin: 255040
   sound_end: 256040
+  sentence: 後から、
+  words:
+    - word: 後
+      postiion: 0
+    - word: から
+      postiion: 1
 - id: Akai Sakanato Kodomo-f000109
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 花がこぼれて落ちてきました。
-  word_list: [花, が, こぼれ, て, 落ち, て, き, まし, た]
   sound: f000109.mp3
   sound_begin: 256040
   sound_end: 260040
+  sentence: 花がこぼれて落ちてきました。
+  words:
+    - word: 花
+      postiion: 0
+    - word: が
+      postiion: 1
+    - word: こぼれ
+      base: こぼれる
+      postiion: 2
+    - word: て
+      postiion: 5
+    - word: 落ち
+      base: 落ちる
+      postiion: 6
+    - word: て
+      postiion: 8
+    - word: き
+      base: 来る
+      postiion: 9
+    - word: まし
+      base: ます
+      postiion: 10
+    - word: た
+      postiion: 12
 - id: Akai Sakanato Kodomo-f000110
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 「どんなに、
-  word_list: [どんな, に]
   sound: f000110.mp3
   sound_begin: 260040
   sound_end: 260839
+  sentence: 「どんなに、
+  words:
+    - word: どんな
+      postiion: 1
+    - word: に
+      base: だ
+      postiion: 4
 - id: Akai Sakanato Kodomo-f000111
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: おいしかろう。
-  word_list: [おいしかろう]
   sound: f000111.mp3
   sound_begin: 260839
   sound_end: 262541
+  sentence: おいしかろう。
+  words:
+    - word: おいしかろう
+      base: 美味しい
+      postiion: 0
 - id: Akai Sakanato Kodomo-f000112
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 」といって、
-  word_list: [と, いっ, て]
   sound: f000112.mp3
   sound_begin: 262541
   sound_end: 263888
+  sentence: 」といって、
+  words:
+    - word: と
+      postiion: 1
+    - word: いっ
+      base: 言う
+      postiion: 2
+    - word: て
+      postiion: 4
 - id: Akai Sakanato Kodomo-f000113
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 三びきの魚の子供は、
-  word_list: [三, びき, の, 魚, の, 子供, は]
   sound: f000113.mp3
   sound_begin: 263888
   sound_end: 266210
+  sentence: 三びきの魚の子供は、
+  words:
+    - word: 三
+      base: '3'
+      postiion: 0
+    - word: びき
+      base: 匹
+      postiion: 1
+    - word: の
+      postiion: 3
+    - word: 魚
+      postiion: 4
+    - word: の
+      postiion: 5
+    - word: 子供
+      postiion: 6
+    - word: は
+      postiion: 8
 - id: Akai Sakanato Kodomo-f000114
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: ついに、
-  word_list: [ついに]
   sound: f000114.mp3
   sound_begin: 266210
   sound_end: 267280
+  sentence: ついに、
+  words:
+    - word: ついに
+      base: 遂に
+      postiion: 0
 - id: Akai Sakanato Kodomo-f000115
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: その花びらをのんでしまいました。
-  word_list: [その, 花びら, を, のん, で, しまい, まし, た]
   sound: f000115.mp3
   sound_begin: 267280
   sound_end: 273440
+  sentence: その花びらをのんでしまいました。
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 花びら
+      base: 花弁
+      postiion: 2
+    - word: を
+      postiion: 5
+    - word: のん
+      base: 飲む
+      postiion: 6
+    - word: で
+      postiion: 8
+    - word: しまい
+      base: 仕舞う
+      postiion: 9
+    - word: まし
+      base: ます
+      postiion: 12
+    - word: た
+      postiion: 14
 - id: Akai Sakanato Kodomo-f000116
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: その子供らの母親は、
-  word_list: [その, 子供, ら, の, 母親, は]
   sound: f000116.mp3
   sound_begin: 273440
   sound_end: 275741
+  sentence: その子供らの母親は、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 子供
+      postiion: 2
+    - word: ら
+      base: 等
+      postiion: 4
+    - word: の
+      postiion: 5
+    - word: 母親
+      postiion: 6
+    - word: は
+      postiion: 8
 - id: Akai Sakanato Kodomo-f000117
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: その翌日、
-  word_list: [その, 翌日]
   sound: f000117.mp3
   sound_begin: 275741
   sound_end: 277440
+  sentence: その翌日、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 翌日
+      postiion: 2
 - id: Akai Sakanato Kodomo-f000118
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 我が子の姿を見て、
-  word_list: [我が, 子, の, 姿, を, 見, て]
   sound: f000118.mp3
   sound_begin: 277440
   sound_end: 279000
+  sentence: 我が子の姿を見て、
+  words:
+    - word: 我が
+      postiion: 0
+    - word: 子
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: 姿
+      postiion: 4
+    - word: を
+      postiion: 5
+    - word: 見
+      base: 見る
+      postiion: 6
+    - word: て
+      postiion: 7
 - id: Akai Sakanato Kodomo-f000119
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: さめざめと泣いたのです。
-  word_list: [さめざめ, と, 泣い, た, の, です]
   sound: f000119.mp3
   sound_begin: 279000
   sound_end: 282400
+  sentence: さめざめと泣いたのです。
+  words:
+    - word: さめざめ
+      postiion: 0
+    - word: と
+      postiion: 4
+    - word: 泣い
+      base: 泣く
+      postiion: 5
+    - word: た
+      postiion: 7
+    - word: の
+      postiion: 8
+    - word: です
+      postiion: 9
 - id: Akai Sakanato Kodomo-f000120
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 「あれほど、
-  word_list: [あれ, ほど]
   sound: f000120.mp3
   sound_begin: 282400
   sound_end: 283520
+  sentence: 「あれほど、
+  words:
+    - word: あれ
+      base: 彼れ
+      postiion: 1
+    - word: ほど
+      postiion: 3
 - id: Akai Sakanato Kodomo-f000121
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 花びらをたべてはいけないといったのに。
-  word_list: [花びら, を, たべ, ては, いけ, ない, と, いっ, た, の, に]
   sound: f000121.mp3
   sound_begin: 283520
   sound_end: 287098
+  sentence: 花びらをたべてはいけないといったのに。
+  words:
+    - word: 花びら
+      base: 花弁
+      postiion: 0
+    - word: を
+      postiion: 3
+    - word: たべ
+      base: 食べる
+      postiion: 4
+    - word: ては
+      postiion: 6
+    - word: いけ
+      base: 行く
+      postiion: 8
+    - word: ない
+      postiion: 10
+    - word: と
+      postiion: 12
+    - word: いっ
+      base: 言う
+      postiion: 13
+    - word: た
+      postiion: 15
+    - word: の
+      postiion: 16
+    - word: に
+      postiion: 17
 - id: Akai Sakanato Kodomo-f000122
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 」といいました。
-  word_list: [と, いい, まし, た]
   sound: f000122.mp3
   sound_begin: 287098
   sound_end: 290435
+  sentence: 」といいました。
+  words:
+    - word: と
+      postiion: 1
+    - word: いい
+      base: 言う
+      postiion: 2
+    - word: まし
+      base: ます
+      postiion: 4
+    - word: た
+      postiion: 6
 - id: Akai Sakanato Kodomo-f000123
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 黒い子供の体は、
-  word_list: [黒い, 子供, の, 体, は]
   sound: f000123.mp3
   sound_begin: 290435
   sound_end: 292556
+  sentence: 黒い子供の体は、
+  words:
+    - word: 黒い
+      postiion: 0
+    - word: 子供
+      postiion: 2
+    - word: の
+      postiion: 4
+    - word: 体
+      postiion: 5
+    - word: は
+      postiion: 6
 - id: Akai Sakanato Kodomo-f000124
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: いつのまにか、
-  word_list: [いつ, の, ま, に, か]
   sound: f000124.mp3
   sound_begin: 292556
   sound_end: 294480
+  sentence: いつのまにか、
+  words:
+    - word: いつ
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: ま
+      postiion: 3
+    - word: に
+      postiion: 4
+    - word: か
+      postiion: 5
 - id: Akai Sakanato Kodomo-f000125
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 二ひきは、
-  word_list: [二, ひき, は]
   sound: f000125.mp3
   sound_begin: 294480
   sound_end: 295560
+  sentence: 二ひきは、
+  words:
+    - word: 二
+      base: '2'
+      postiion: 0
+    - word: ひき
+      base: 匹
+      postiion: 1
+    - word: は
+      postiion: 3
 - id: Akai Sakanato Kodomo-f000126
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 赤い色に、
-  word_list: [赤い, 色, に]
   sound: f000126.mp3
   sound_begin: 295560
   sound_end: 297480
+  sentence: 赤い色に、
+  words:
+    - word: 赤い
+      postiion: 0
+    - word: 色
+      postiion: 2
+    - word: に
+      postiion: 3
 - id: Akai Sakanato Kodomo-f000127
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 一ぴきは白と赤の斑色になっていたからです。
-  word_list: [一, ぴき, は, 白, と, 赤, の, 斑, 色, に, なっ, て, い, た, から, です]
   sound: f000127.mp3
   sound_begin: 297480
   sound_end: 304440
+  sentence: 一ぴきは白と赤の斑色になっていたからです。
+  words:
+    - word: 一
+      base: '1'
+      postiion: 0
+    - word: ぴき
+      base: 匹
+      postiion: 1
+    - word: は
+      postiion: 3
+    - word: 白
+      postiion: 4
+    - word: と
+      postiion: 5
+    - word: 赤
+      postiion: 6
+    - word: の
+      postiion: 7
+    - word: 斑
+      postiion: 8
+    - word: 色
+      postiion: 9
+    - word: に
+      postiion: 10
+    - word: なっ
+      base: 成る
+      postiion: 11
+    - word: て
+      postiion: 13
+    - word: い
+      base: 居る
+      postiion: 14
+    - word: た
+      postiion: 15
+    - word: から
+      postiion: 16
+    - word: です
+      postiion: 18
 - id: Akai Sakanato Kodomo-f000128
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 母親の歎いたのも、
-  word_list: [母親, の, 歎い, た, の, も]
   sound: f000128.mp3
   sound_begin: 304440
   sound_end: 305760
+  sentence: 母親の歎いたのも、
+  words:
+    - word: 母親
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 歎い
+      base: 嘆く
+      postiion: 3
+    - word: た
+      postiion: 5
+    - word: の
+      postiion: 6
+    - word: も
+      postiion: 7
 - id: Akai Sakanato Kodomo-f000129
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 無理はありませんでした。
-  word_list: [無理, は, あり, ませ, ん, でし, た]
   sound: f000129.mp3
   sound_begin: 305760
   sound_end: 308009
+  sentence: 無理はありませんでした。
+  words:
+    - word: 無理
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: あり
+      base: 有る
+      postiion: 3
+    - word: ませ
+      base: ます
+      postiion: 5
+    - word: ん
+      base: ず
+      postiion: 7
+    - word: でし
+      base: です
+      postiion: 8
+    - word: た
+      postiion: 10
 - id: Akai Sakanato Kodomo-f000130
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: この三びきの子供が、
-  word_list: [この, 三, びき, の, 子供, が]
   sound: f000130.mp3
   sound_begin: 308009
   sound_end: 309720
+  sentence: この三びきの子供が、
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: 三
+      base: '3'
+      postiion: 2
+    - word: びき
+      base: 匹
+      postiion: 3
+    - word: の
+      postiion: 5
+    - word: 子供
+      postiion: 6
+    - word: が
+      postiion: 8
 - id: Akai Sakanato Kodomo-f000131
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 川中でいちばん目立って美しく見えたからであります。
-  word_list: [川中, で, いちばん, 目立っ, て, 美しく, 見え, た, から, で, あり, ます]
   sound: f000131.mp3
   sound_begin: 309720
   sound_end: 315520
+  sentence: 川中でいちばん目立って美しく見えたからであります。
+  words:
+    - word: 川中
+      postiion: 0
+    - word: で
+      postiion: 2
+    - word: いちばん
+      base: 一番
+      postiion: 3
+    - word: 目立っ
+      base: 目立つ
+      postiion: 7
+    - word: て
+      postiion: 10
+    - word: 美しく
+      base: 美しい
+      postiion: 11
+    - word: 見え
+      base: 見える
+      postiion: 14
+    - word: た
+      postiion: 16
+    - word: から
+      postiion: 17
+    - word: で
+      base: だ
+      postiion: 19
+    - word: あり
+      base: 有る
+      postiion: 20
+    - word: ます
+      postiion: 22
 - id: Akai Sakanato Kodomo-f000132
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: そして、
-  word_list: [そして]
   sound: f000132.mp3
   sound_begin: 315520
   sound_end: 316280
+  sentence: そして、
+  words:
+    - word: そして
+      postiion: 0
 - id: Akai Sakanato Kodomo-f000133
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 川の水は、
-  word_list: [川, の, 水, は]
   sound: f000133.mp3
   sound_begin: 316280
   sound_end: 317240
+  sentence: 川の水は、
+  words:
+    - word: 川
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 水
+      postiion: 2
+    - word: は
+      postiion: 3
 - id: Akai Sakanato Kodomo-f000134
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: よく澄んでいましたから、
-  word_list: [よく, 澄ん, で, い, まし, た, から]
   sound: f000134.mp3
   sound_begin: 317240
   sound_end: 319200
+  sentence: よく澄んでいましたから、
+  words:
+    - word: よく
+      base: 良く
+      postiion: 0
+    - word: 澄ん
+      base: 澄む
+      postiion: 2
+    - word: で
+      postiion: 4
+    - word: い
+      base: 居る
+      postiion: 5
+    - word: まし
+      base: ます
+      postiion: 6
+    - word: た
+      postiion: 8
+    - word: から
+      postiion: 9
 - id: Akai Sakanato Kodomo-f000135
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 上からでものぞけば、
-  word_list: [上, から, で, も, のぞけ, ば]
   sound: f000135.mp3
   sound_begin: 319200
   sound_end: 320560
+  sentence: 上からでものぞけば、
+  words:
+    - word: 上
+      postiion: 0
+    - word: から
+      postiion: 1
+    - word: で
+      base: だ
+      postiion: 3
+    - word: も
+      postiion: 4
+    - word: のぞけ
+      base: のぞく
+      postiion: 5
+    - word: ば
+      postiion: 8
 - id: Akai Sakanato Kodomo-f000136
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: この三びきの子供らが遊んでいる姿がよくわかったのであります。
-  word_list: [この, 三, びき, の, 子供, ら, が, 遊ん, で, いる, 姿, が, よく, わかっ, た, の, で, あり, ます]
   sound: f000136.mp3
   sound_begin: 320560
   sound_end: 327760
+  sentence: この三びきの子供らが遊んでいる姿がよくわかったのであります。
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: 三
+      base: '3'
+      postiion: 2
+    - word: びき
+      base: 匹
+      postiion: 3
+    - word: の
+      postiion: 5
+    - word: 子供
+      postiion: 6
+    - word: ら
+      base: 等
+      postiion: 8
+    - word: が
+      postiion: 9
+    - word: 遊ん
+      base: 遊ぶ
+      postiion: 10
+    - word: で
+      postiion: 12
+    - word: いる
+      base: 居る
+      postiion: 13
+    - word: 姿
+      postiion: 15
+    - word: が
+      postiion: 16
+    - word: よく
+      base: 良く
+      postiion: 17
+    - word: わかっ
+      base: 分かる
+      postiion: 19
+    - word: た
+      postiion: 22
+    - word: の
+      postiion: 23
+    - word: で
+      base: だ
+      postiion: 24
+    - word: あり
+      base: 有る
+      postiion: 25
+    - word: ます
+      postiion: 27
 - id: Akai Sakanato Kodomo-f000137
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 「人間が、
-  word_list: [人間, が]
   sound: f000137.mp3
   sound_begin: 327760
   sound_end: 328800
+  sentence: 「人間が、
+  words:
+    - word: 人間
+      postiion: 1
+    - word: が
+      postiion: 3
 - id: Akai Sakanato Kodomo-f000138
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: おまえらを見つけたら、
-  word_list: [おまえ, ら, を, 見つけ, たら]
   sound: f000138.mp3
   sound_begin: 328800
   sound_end: 330160
+  sentence: おまえらを見つけたら、
+  words:
+    - word: おまえ
+      base: 御前
+      postiion: 0
+    - word: ら
+      base: 等
+      postiion: 3
+    - word: を
+      postiion: 4
+    - word: 見つけ
+      base: 見付ける
+      postiion: 5
+    - word: たら
+      base: た
+      postiion: 8
 - id: Akai Sakanato Kodomo-f000139
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: きっと捕らえるから、
-  word_list: [きっと, 捕らえる, から]
   sound: f000139.mp3
   sound_begin: 330160
   sound_end: 331400
+  sentence: きっと捕らえるから、
+  words:
+    - word: きっと
+      postiion: 0
+    - word: 捕らえる
+      postiion: 3
+    - word: から
+      postiion: 7
 - id: Akai Sakanato Kodomo-f000140
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: けっして水の上へ浮いてはならないぞ。
-  word_list: [けっして, 水, の, 上, へ, 浮い, て, は, なら, ない, ぞ]
   sound: f000140.mp3
   sound_begin: 331400
   sound_end: 335577
+  sentence: けっして水の上へ浮いてはならないぞ。
+  words:
+    - word: けっして
+      base: 決して
+      postiion: 0
+    - word: 水
+      postiion: 4
+    - word: の
+      postiion: 5
+    - word: 上
+      postiion: 6
+    - word: へ
+      postiion: 7
+    - word: 浮い
+      base: 浮く
+      postiion: 8
+    - word: て
+      postiion: 10
+    - word: は
+      postiion: 11
+    - word: なら
+      base: 成る
+      postiion: 12
+    - word: ない
+      postiion: 14
+    - word: ぞ
+      postiion: 16
 - id: Akai Sakanato Kodomo-f000141
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 」と、
-  word_list: [と]
   sound: f000141.mp3
   sound_begin: 335577
   sound_end: 336320
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Akai Sakanato Kodomo-f000142
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 母親は、
-  word_list: [母親, は]
   sound: f000142.mp3
   sound_begin: 336320
   sound_end: 337240
+  sentence: 母親は、
+  words:
+    - word: 母親
+      postiion: 0
+    - word: は
+      postiion: 2
 - id: Akai Sakanato Kodomo-f000143
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: その子供らをいましめました。
-  word_list: [その, 子供, ら, を, いましめ, まし, た]
   sound: f000143.mp3
   sound_begin: 337240
   sound_end: 343440
+  sentence: その子供らをいましめました。
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 子供
+      postiion: 2
+    - word: ら
+      base: 等
+      postiion: 4
+    - word: を
+      postiion: 5
+    - word: いましめ
+      base: 戒める
+      postiion: 6
+    - word: まし
+      base: ます
+      postiion: 7
+    - word: た
+      postiion: 12
 - id: Akai Sakanato Kodomo-f000144
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 町からは、
-  word_list: [町, から, は]
   sound: f000144.mp3
   sound_begin: 343440
   sound_end: 344883
+  sentence: 町からは、
+  words:
+    - word: 町
+      postiion: 0
+    - word: から
+      postiion: 1
+    - word: は
+      postiion: 3
 - id: Akai Sakanato Kodomo-f000145
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: こんどは、
-  word_list: [こんど, は]
   sound: f000145.mp3
   sound_begin: 344883
   sound_end: 345920
+  sentence: こんどは、
+  words:
+    - word: こんど
+      base: 今度
+      postiion: 0
+    - word: は
+      postiion: 3
 - id: Akai Sakanato Kodomo-f000146
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 人間の子供たちが毎日川へ遊びにやってきました。
-  word_list: [人間, の, 子供, たち, が, 毎日, 川, へ, 遊び, に, やっ, て, き, まし, た]
   sound: f000146.mp3
   sound_begin: 345920
   sound_end: 352080
+  sentence: 人間の子供たちが毎日川へ遊びにやってきました。
+  words:
+    - word: 人間
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 子供
+      postiion: 3
+    - word: たち
+      base: 達
+      postiion: 5
+    - word: が
+      postiion: 7
+    - word: 毎日
+      postiion: 8
+    - word: 川
+      postiion: 10
+    - word: へ
+      postiion: 11
+    - word: 遊び
+      base: 遊ぶ
+      postiion: 12
+    - word: に
+      postiion: 14
+    - word: やっ
+      base: 遣る
+      postiion: 15
+    - word: て
+      postiion: 17
+    - word: き
+      base: 来る
+      postiion: 18
+    - word: まし
+      base: ます
+      postiion: 19
+    - word: た
+      postiion: 21
 - id: Akai Sakanato Kodomo-f000147
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 町の子供たちの中で、
-  word_list: [町, の, 子供, たち, の, 中, で]
   sound: f000147.mp3
   sound_begin: 352080
   sound_end: 354281
+  sentence: 町の子供たちの中で、
+  words:
+    - word: 町
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 子供
+      postiion: 2
+    - word: たち
+      base: 達
+      postiion: 4
+    - word: の
+      postiion: 6
+    - word: 中
+      postiion: 7
+    - word: で
+      postiion: 8
 - id: Akai Sakanato Kodomo-f000148
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 川にすむ、
-  word_list: [川, に, すむ]
   sound: f000148.mp3
   sound_begin: 354281
   sound_end: 355360
+  sentence: 川にすむ、
+  words:
+    - word: 川
+      postiion: 0
+    - word: に
+      postiion: 1
+    - word: すむ
+      postiion: 2
 - id: Akai Sakanato Kodomo-f000149
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 赤い魚を見つけたものがあります。
-  word_list: [赤い, 魚, を, 見つけ, た, もの, が, あり, ます]
   sound: f000149.mp3
   sound_begin: 355360
   sound_end: 359321
+  sentence: 赤い魚を見つけたものがあります。
+  words:
+    - word: 赤い
+      postiion: 0
+    - word: 魚
+      postiion: 2
+    - word: を
+      postiion: 3
+    - word: 見つけ
+      base: 見付ける
+      postiion: 4
+    - word: た
+      postiion: 7
+    - word: もの
+      base: 物
+      postiion: 8
+    - word: が
+      postiion: 10
+    - word: あり
+      base: 有る
+      postiion: 11
+    - word: ます
+      postiion: 13
 - id: Akai Sakanato Kodomo-f000150
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 「この川の中に、
-  word_list: [この, 川, の, 中, に]
   sound: f000150.mp3
   sound_begin: 359321
   sound_end: 360831
+  sentence: 「この川の中に、
+  words:
+    - word: この
+      base: 此の
+      postiion: 1
+    - word: 川
+      postiion: 3
+    - word: の
+      postiion: 4
+    - word: 中
+      postiion: 5
+    - word: に
+      postiion: 6
 - id: Akai Sakanato Kodomo-f000151
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 金魚がいるよ。
-  word_list: [金魚, が, いる, よ]
   sound: f000151.mp3
   sound_begin: 360831
   sound_end: 363208
+  sentence: 金魚がいるよ。
+  words:
+    - word: 金魚
+      postiion: 0
+    - word: が
+      postiion: 2
+    - word: いる
+      base: 居る
+      postiion: 3
+    - word: よ
+      postiion: 5
 - id: Akai Sakanato Kodomo-f000152
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 」と、
-  word_list: [と]
   sound: f000152.mp3
   sound_begin: 363208
   sound_end: 363800
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Akai Sakanato Kodomo-f000153
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: その魚を見た子供がいいました。
-  word_list: [その, 魚, を, 見, た, 子供, が, いい, まし, た]
   sound: f000153.mp3
   sound_begin: 363800
   sound_end: 367040
+  sentence: その魚を見た子供がいいました。
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 魚
+      postiion: 2
+    - word: を
+      postiion: 3
+    - word: 見
+      base: 見る
+      postiion: 4
+    - word: た
+      postiion: 5
+    - word: 子供
+      postiion: 6
+    - word: が
+      postiion: 8
+    - word: いい
+      base: 言う
+      postiion: 9
+    - word: まし
+      base: ます
+      postiion: 11
+    - word: た
+      postiion: 13
 - id: Akai Sakanato Kodomo-f000154
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 「なんで、
-  word_list: [なん, で]
   sound: f000154.mp3
   sound_begin: 367040
   sound_end: 368046
+  sentence: 「なんで、
+  words:
+    - word: なん
+      base: 何
+      postiion: 1
+    - word: で
+      postiion: 3
 - id: Akai Sakanato Kodomo-f000155
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: この川の中に金魚なんかがいるもんか、
-  word_list: [この, 川, の, 中, に, 金魚, なんか, が, いる, もん, か]
   sound: f000155.mp3
   sound_begin: 368046
   sound_end: 371430
+  sentence: この川の中に金魚なんかがいるもんか、
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: 川
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: 中
+      postiion: 4
+    - word: に
+      postiion: 5
+    - word: 金魚
+      postiion: 6
+    - word: なんか
+      postiion: 8
+    - word: が
+      postiion: 11
+    - word: いる
+      base: 居る
+      postiion: 12
+    - word: もん
+      postiion: 14
+    - word: か
+      postiion: 16
 - id: Akai Sakanato Kodomo-f000156
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: きっとひごいだろう。
-  word_list: [きっと, ひごい, だろう]
   sound: f000156.mp3
   sound_begin: 371430
   sound_end: 373729
+  sentence: きっとひごいだろう。
+  words:
+    - word: きっと
+      postiion: 0
+    - word: ひごい
+      base: 緋鯉
+      postiion: 3
+    - word: だろう
+      base: だ
+      postiion: 6
 - id: Akai Sakanato Kodomo-f000157
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 」と、
-  word_list: [と]
   sound: f000157.mp3
   sound_begin: 373729
   sound_end: 374360
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Akai Sakanato Kodomo-f000158
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: ほかの子供がいいました。
-  word_list: [ほか, の, 子供, が, いい, まし, た]
   sound: f000158.mp3
   sound_begin: 374360
   sound_end: 377200
+  sentence: ほかの子供がいいました。
+  words:
+    - word: ほか
+      base: 他
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 子供
+      postiion: 3
+    - word: が
+      postiion: 5
+    - word: いい
+      base: 言う
+      postiion: 6
+    - word: まし
+      base: ます
+      postiion: 8
+    - word: た
+      postiion: 10
 - id: Akai Sakanato Kodomo-f000159
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 「ひごいなんか、
-  word_list: [ひごい, なんか]
   sound: f000159.mp3
   sound_begin: 377200
   sound_end: 378040
+  sentence: 「ひごいなんか、
+  words:
+    - word: ひごい
+      base: 緋鯉
+      postiion: 1
+    - word: なんか
+      postiion: 4
 - id: Akai Sakanato Kodomo-f000160
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: なんでこの川中にいるもんか。
-  word_list: [なん, で, この, 川中, に, いる, もん, か]
   sound: f000160.mp3
   sound_begin: 378040
   sound_end: 381160
+  sentence: なんでこの川中にいるもんか。
+  words:
+    - word: なん
+      base: 何
+      postiion: 0
+    - word: で
+      postiion: 2
+    - word: この
+      base: 此の
+      postiion: 3
+    - word: 川中
+      postiion: 5
+    - word: に
+      postiion: 7
+    - word: いる
+      base: 居る
+      postiion: 8
+    - word: もん
+      postiion: 10
+    - word: か
+      postiion: 12
 - id: Akai Sakanato Kodomo-f000161
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: それはお化けだよ。
-  word_list: [それ, は, お化け, だ, よ]
   sound: f000161.mp3
   sound_begin: 381160
   sound_end: 384366
+  sentence: それはお化けだよ。
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: お化け
+      postiion: 3
+    - word: だ
+      postiion: 6
+    - word: よ
+      postiion: 7
 - id: Akai Sakanato Kodomo-f000162
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 」と、
-  word_list: [と]
   sound: f000162.mp3
   sound_begin: 384366
   sound_end: 384960
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Akai Sakanato Kodomo-f000163
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: ほかの子供がいいました。
-  word_list: [ほか, の, 子供, が, いい, まし, た]
   sound: f000163.mp3
   sound_begin: 384960
   sound_end: 388044
+  sentence: ほかの子供がいいました。
+  words:
+    - word: ほか
+      base: 他
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 子供
+      postiion: 3
+    - word: が
+      postiion: 5
+    - word: いい
+      base: 言う
+      postiion: 6
+    - word: まし
+      base: ます
+      postiion: 8
+    - word: た
+      postiion: 10
 - id: Akai Sakanato Kodomo-f000164
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: けれど、
-  word_list: [けれど]
   sound: f000164.mp3
   sound_begin: 388044
   sound_end: 388800
+  sentence: けれど、
+  words:
+    - word: けれど
+      postiion: 0
 - id: Akai Sakanato Kodomo-f000165
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 子供たちは、
-  word_list: [子供, たち, は]
   sound: f000165.mp3
   sound_begin: 388800
   sound_end: 389640
+  sentence: 子供たちは、
+  words:
+    - word: 子供
+      postiion: 0
+    - word: たち
+      base: 達
+      postiion: 2
+    - word: は
+      postiion: 4
 - id: Akai Sakanato Kodomo-f000166
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: どうかして、
-  word_list: [どう, か, し, て]
   sound: f000166.mp3
   sound_begin: 389640
   sound_end: 390520
+  sentence: どうかして、
+  words:
+    - word: どう
+      postiion: 0
+    - word: か
+      postiion: 2
+    - word: し
+      base: 為る
+      postiion: 3
+    - word: て
+      postiion: 4
 - id: Akai Sakanato Kodomo-f000167
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: その赤い魚を捕らえたいばかりに、
-  word_list: [その, 赤い, 魚, を, 捕らえ, たい, ばかり, に]
   sound: f000167.mp3
   sound_begin: 390520
   sound_end: 393200
+  sentence: その赤い魚を捕らえたいばかりに、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 赤い
+      postiion: 2
+    - word: 魚
+      postiion: 4
+    - word: を
+      postiion: 5
+    - word: 捕らえ
+      base: 捕らえる
+      postiion: 6
+    - word: たい
+      postiion: 9
+    - word: ばかり
+      postiion: 11
+    - word: に
+      postiion: 14
 - id: Akai Sakanato Kodomo-f000168
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 毎日川のほとりへやってきました。
-  word_list: [毎日, 川, の, ほとり, へ, やっ, て, き, まし, た]
   sound: f000168.mp3
   sound_begin: 393200
   sound_end: 398400
+  sentence: 毎日川のほとりへやってきました。
+  words:
+    - word: 毎日
+      postiion: 0
+    - word: 川
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: ほとり
+      base: 辺
+      postiion: 4
+    - word: へ
+      postiion: 7
+    - word: やっ
+      base: 遣る
+      postiion: 8
+    - word: て
+      postiion: 10
+    - word: き
+      base: 来る
+      postiion: 11
+    - word: まし
+      base: ます
+      postiion: 12
+    - word: た
+      postiion: 14
 - id: Akai Sakanato Kodomo-f000169
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 町では、
-  word_list: [町, で, は]
   sound: f000169.mp3
   sound_begin: 398400
   sound_end: 399400
+  sentence: 町では、
+  words:
+    - word: 町
+      postiion: 0
+    - word: で
+      postiion: 1
+    - word: は
+      postiion: 2
 - id: Akai Sakanato Kodomo-f000170
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 子供たちの母親が心配いたしました。
-  word_list: [子供, たち, の, 母親, が, 心配, いたし, まし, た]
   sound: f000170.mp3
   sound_begin: 399400
   sound_end: 403560
+  sentence: 子供たちの母親が心配いたしました。
+  words:
+    - word: 子供
+      postiion: 0
+    - word: たち
+      base: 達
+      postiion: 2
+    - word: の
+      postiion: 4
+    - word: 母親
+      postiion: 5
+    - word: が
+      postiion: 7
+    - word: 心配
+      postiion: 8
+    - word: いたし
+      base: 致す
+      postiion: 10
+    - word: まし
+      base: ます
+      postiion: 13
+    - word: た
+      postiion: 15
 - id: Akai Sakanato Kodomo-f000171
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 「どうして、
-  word_list: [どう, し, て]
   sound: f000171.mp3
   sound_begin: 403560
   sound_end: 404120
+  sentence: 「どうして、
+  words:
+    - word: どう
+      postiion: 1
+    - word: し
+      base: 為る
+      postiion: 3
+    - word: て
+      postiion: 4
 - id: Akai Sakanato Kodomo-f000172
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: そう毎日川へばかりゆくのだえ。
-  word_list: [そう, 毎日, 川, へ, ばかり, ゆく, の, だ, え]
   sound: f000172.mp3
   sound_begin: 404120
   sound_end: 408157
+  sentence: そう毎日川へばかりゆくのだえ。
+  words:
+    - word: そう
+      postiion: 0
+    - word: 毎日
+      postiion: 2
+    - word: 川
+      postiion: 4
+    - word: へ
+      postiion: 5
+    - word: ばかり
+      postiion: 6
+    - word: ゆく
+      base: 行く
+      postiion: 9
+    - word: の
+      postiion: 11
+    - word: だ
+      postiion: 12
+    - word: え
+      postiion: 13
 - id: Akai Sakanato Kodomo-f000173
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 」と、
-  word_list: [と]
   sound: f000173.mp3
   sound_begin: 408157
   sound_end: 408360
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Akai Sakanato Kodomo-f000174
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 子供たちをしかりました。
-  word_list: [子供, たち, を, しかり, まし, た]
   sound: f000174.mp3
   sound_begin: 408360
   sound_end: 410541
+  sentence: 子供たちをしかりました。
+  words:
+    - word: 子供
+      postiion: 0
+    - word: たち
+      base: 達
+      postiion: 2
+    - word: を
+      postiion: 4
+    - word: しかり
+      base: 然り
+      postiion: 5
+    - word: まし
+      base: ます
+      postiion: 8
+    - word: た
+      postiion: 10
 - id: Akai Sakanato Kodomo-f000175
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 「だって、
-  word_list: [だ, って]
   sound: f000175.mp3
   sound_begin: 410541
   sound_end: 411360
+  sentence: 「だって、
+  words:
+    - word: だ
+      postiion: 1
+    - word: って
+      postiion: 2
 - id: Akai Sakanato Kodomo-f000176
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 赤い魚がいるんですもの。
-  word_list: [赤い, 魚, が, いる, ん, です, もの]
   sound: f000176.mp3
   sound_begin: 411360
   sound_end: 413909
+  sentence: 赤い魚がいるんですもの。
+  words:
+    - word: 赤い
+      postiion: 0
+    - word: 魚
+      postiion: 2
+    - word: が
+      postiion: 3
+    - word: いる
+      base: 居る
+      postiion: 4
+    - word: ん
+      base: の
+      postiion: 6
+    - word: です
+      postiion: 7
+    - word: もの
+      postiion: 9
 - id: Akai Sakanato Kodomo-f000177
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 」と、
-  word_list: [と]
   sound: f000177.mp3
   sound_begin: 413909
   sound_end: 414360
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Akai Sakanato Kodomo-f000178
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 子供は答えました。
-  word_list: [子供, は, 答え, まし, た]
   sound: f000178.mp3
   sound_begin: 414360
   sound_end: 416843
+  sentence: 子供は答えました。
+  words:
+    - word: 子供
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: 答え
+      base: 答える
+      postiion: 3
+    - word: まし
+      base: ます
+      postiion: 5
+    - word: た
+      postiion: 7
 - id: Akai Sakanato Kodomo-f000179
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 「ああ、
-  word_list: [ああ]
   sound: f000179.mp3
   sound_begin: 416843
   sound_end: 417960
+  sentence: 「ああ、
+  words:
+    - word: ああ
+      postiion: 1
 - id: Akai Sakanato Kodomo-f000180
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 昔から、
-  word_list: [昔, から]
   sound: f000180.mp3
   sound_begin: 417960
   sound_end: 418960
+  sentence: 昔から、
+  words:
+    - word: 昔
+      postiion: 0
+    - word: から
+      postiion: 1
 - id: Akai Sakanato Kodomo-f000181
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: あの川には赤い魚がいるんですよ。
-  word_list: [あの, 川, に, は, 赤い, 魚, が, いる, ん, です, よ]
   sound: f000181.mp3
   sound_begin: 418960
   sound_end: 422160
+  sentence: あの川には赤い魚がいるんですよ。
+  words:
+    - word: あの
+      base: 彼の
+      postiion: 0
+    - word: 川
+      postiion: 2
+    - word: に
+      postiion: 3
+    - word: は
+      postiion: 4
+    - word: 赤い
+      postiion: 5
+    - word: 魚
+      postiion: 7
+    - word: が
+      postiion: 8
+    - word: いる
+      base: 居る
+      postiion: 9
+    - word: ん
+      base: の
+      postiion: 11
+    - word: です
+      postiion: 12
+    - word: よ
+      postiion: 14
 - id: Akai Sakanato Kodomo-f000182
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: しかし、
-  word_list: [しかし]
   sound: f000182.mp3
   sound_begin: 422160
   sound_end: 422960
+  sentence: しかし、
+  words:
+    - word: しかし
+      base: 然し
+      postiion: 0
 - id: Akai Sakanato Kodomo-f000183
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: それを捕らえるとよくないことがあるというから、
-  word_list: [それ, を, 捕らえる, と, よく, ない, こと, が, ある, と, いう, から]
   sound: f000183.mp3
   sound_begin: 422960
   sound_end: 426200
+  sentence: それを捕らえるとよくないことがあるというから、
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: 捕らえる
+      postiion: 3
+    - word: と
+      postiion: 7
+    - word: よく
+      base: 良い
+      postiion: 8
+    - word: ない
+      base: 無い
+      postiion: 10
+    - word: こと
+      postiion: 12
+    - word: が
+      postiion: 14
+    - word: ある
+      base: 有る
+      postiion: 15
+    - word: と
+      postiion: 17
+    - word: いう
+      base: 言う
+      postiion: 18
+    - word: から
+      postiion: 20
 - id: Akai Sakanato Kodomo-f000184
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: けっして、
-  word_list: [けっして]
   sound: f000184.mp3
   sound_begin: 426200
   sound_end: 426920
+  sentence: けっして、
+  words:
+    - word: けっして
+      base: 決して
+      postiion: 0
 - id: Akai Sakanato Kodomo-f000185
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 川などへいってはいけません。
-  word_list: [川, など, へ, いっ, て, は, いけ, ませ, ん]
   sound: f000185.mp3
   sound_begin: 426920
   sound_end: 429648
+  sentence: 川などへいってはいけません。
+  words:
+    - word: 川
+      postiion: 0
+    - word: など
+      postiion: 1
+    - word: へ
+      postiion: 3
+    - word: いっ
+      base: 行く
+      postiion: 4
+    - word: て
+      postiion: 6
+    - word: は
+      postiion: 7
+    - word: いけ
+      base: 行く
+      postiion: 8
+    - word: ませ
+      base: ます
+      postiion: 10
+    - word: ん
+      base: ず
+      postiion: 12
 - id: Akai Sakanato Kodomo-f000186
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 」と、
-  word_list: [と]
   sound: f000186.mp3
   sound_begin: 429648
   sound_end: 430240
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Akai Sakanato Kodomo-f000187
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 母親はいいました。
-  word_list: [母親, は, いい, まし, た]
   sound: f000187.mp3
   sound_begin: 430240
   sound_end: 433898
+  sentence: 母親はいいました。
+  words:
+    - word: 母親
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: いい
+      base: 言う
+      postiion: 3
+    - word: まし
+      base: ます
+      postiion: 5
+    - word: た
+      postiion: 7
 - id: Akai Sakanato Kodomo-f000188
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 子供たちは、
-  word_list: [子供, たち, は]
   sound: f000188.mp3
   sound_begin: 433898
   sound_end: 435320
+  sentence: 子供たちは、
+  words:
+    - word: 子供
+      postiion: 0
+    - word: たち
+      base: 達
+      postiion: 2
+    - word: は
+      postiion: 4
 - id: Akai Sakanato Kodomo-f000189
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 母親がいったことをほんとうにしませんでした。
-  word_list: [母親, が, いっ, た, こと, を, ほんとう, に, し, ませ, ん, でし, た]
   sound: f000189.mp3
   sound_begin: 435320
   sound_end: 439240
+  sentence: 母親がいったことをほんとうにしませんでした。
+  words:
+    - word: 母親
+      postiion: 0
+    - word: が
+      postiion: 2
+    - word: いっ
+      base: 言う
+      postiion: 3
+    - word: た
+      postiion: 5
+    - word: こと
+      postiion: 6
+    - word: を
+      postiion: 8
+    - word: ほんとう
+      base: 本当
+      postiion: 9
+    - word: に
+      postiion: 13
+    - word: し
+      base: 為る
+      postiion: 14
+    - word: ませ
+      base: ます
+      postiion: 15
+    - word: ん
+      base: ず
+      postiion: 17
+    - word: でし
+      base: です
+      postiion: 18
+    - word: た
+      postiion: 20
 - id: Akai Sakanato Kodomo-f000190
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: どうかして、
-  word_list: [どう, か, し, て]
   sound: f000190.mp3
   sound_begin: 439240
   sound_end: 440360
+  sentence: どうかして、
+  words:
+    - word: どう
+      postiion: 0
+    - word: か
+      postiion: 2
+    - word: し
+      base: 為る
+      postiion: 3
+    - word: て
+      postiion: 4
 - id: Akai Sakanato Kodomo-f000191
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 赤い魚を捕まえたいものだと、
-  word_list: [赤い, 魚, を, 捕まえ, たい, もの, だ, と]
   sound: f000191.mp3
   sound_begin: 440360
   sound_end: 442880
+  sentence: 赤い魚を捕まえたいものだと、
+  words:
+    - word: 赤い
+      postiion: 0
+    - word: 魚
+      postiion: 2
+    - word: を
+      postiion: 3
+    - word: 捕まえ
+      base: 捕まえる
+      postiion: 4
+    - word: たい
+      postiion: 7
+    - word: もの
+      base: 物
+      postiion: 9
+    - word: だ
+      postiion: 11
+    - word: と
+      postiion: 12
 - id: Akai Sakanato Kodomo-f000192
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 毎日、
-  word_list: [毎日]
   sound: f000192.mp3
   sound_begin: 442880
   sound_end: 443440
+  sentence: 毎日、
+  words:
+    - word: 毎日
+      postiion: 0
 - id: Akai Sakanato Kodomo-f000193
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 川のふちへきてはうろついていました。
-  word_list: [川, の, ふち, へ, き, て, は, うろつい, て, い, まし, た]
   sound: f000193.mp3
   sound_begin: 443440
   sound_end: 448440
+  sentence: 川のふちへきてはうろついていました。
+  words:
+    - word: 川
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: ふち
+      base: 縁
+      postiion: 2
+    - word: へ
+      postiion: 4
+    - word: き
+      base: 来る
+      postiion: 5
+    - word: て
+      postiion: 6
+    - word: は
+      postiion: 7
+    - word: うろつい
+      base: 彷徨く
+      postiion: 8
+    - word: て
+      postiion: 12
+    - word: い
+      base: 居る
+      postiion: 13
+    - word: まし
+      base: ます
+      postiion: 14
+    - word: た
+      postiion: 16
 - id: Akai Sakanato Kodomo-f000194
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: ある日のこと、
-  word_list: [ある, 日, の, こと]
   sound: f000194.mp3
   sound_begin: 448440
   sound_end: 449440
+  sentence: ある日のこと、
+  words:
+    - word: ある
+      base: 或る
+      postiion: 0
+    - word: 日
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: こと
+      postiion: 4
 - id: Akai Sakanato Kodomo-f000195
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 子供たちは、
-  word_list: [子供, たち, は]
   sound: f000195.mp3
   sound_begin: 449440
   sound_end: 451080
+  sentence: 子供たちは、
+  words:
+    - word: 子供
+      postiion: 0
+    - word: たち
+      base: 達
+      postiion: 2
+    - word: は
+      postiion: 4
 - id: Akai Sakanato Kodomo-f000196
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: とうとう赤い魚を三びきとも捕まえてしまいました。
-  word_list: [とうとう, 赤い, 魚, を, 三, びき, と, も, 捕まえ, て, しまい, まし, た]
   sound: f000196.mp3
   sound_begin: 451080
   sound_end: 457240
+  sentence: とうとう赤い魚を三びきとも捕まえてしまいました。
+  words:
+    - word: とうとう
+      base: 到頭
+      postiion: 0
+    - word: 赤い
+      postiion: 4
+    - word: 魚
+      postiion: 6
+    - word: を
+      postiion: 7
+    - word: 三
+      base: '3'
+      postiion: 8
+    - word: びき
+      base: 匹
+      postiion: 9
+    - word: と
+      postiion: 11
+    - word: も
+      postiion: 12
+    - word: 捕まえ
+      base: 捕まえる
+      postiion: 13
+    - word: て
+      postiion: 16
+    - word: しまい
+      base: 仕舞う
+      postiion: 17
+    - word: まし
+      base: ます
+      postiion: 20
+    - word: た
+      postiion: 22
 - id: Akai Sakanato Kodomo-f000197
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: そして、
-  word_list: [そして]
   sound: f000197.mp3
   sound_begin: 457240
   sound_end: 458080
+  sentence: そして、
+  words:
+    - word: そして
+      postiion: 0
 - id: Akai Sakanato Kodomo-f000198
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 家へ持って帰りました。
-  word_list: [家, へ, 持っ, て, 帰り, まし, た]
   sound: f000198.mp3
   sound_begin: 458080
   sound_end: 460680
+  sentence: 家へ持って帰りました。
+  words:
+    - word: 家
+      postiion: 0
+    - word: へ
+      postiion: 1
+    - word: 持っ
+      base: 持つ
+      postiion: 2
+    - word: て
+      postiion: 4
+    - word: 帰り
+      base: 帰る
+      postiion: 5
+    - word: まし
+      base: ます
+      postiion: 7
+    - word: た
+      postiion: 9
 - id: Akai Sakanato Kodomo-f000199
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 「お母さん、
-  word_list: [お, 母さん]
   sound: f000199.mp3
   sound_begin: 460680
   sound_end: 461920
+  sentence: 「お母さん、
+  words:
+    - word: お
+      base: 御
+      postiion: 1
+    - word: 母さん
+      postiion: 2
 - id: Akai Sakanato Kodomo-f000200
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 赤い魚を捕まえてきましたよ。
-  word_list: [赤い, 魚, を, 捕まえ, て, き, まし, た, よ]
   sound: f000200.mp3
   sound_begin: 461920
   sound_end: 464997
+  sentence: 赤い魚を捕まえてきましたよ。
+  words:
+    - word: 赤い
+      postiion: 0
+    - word: 魚
+      postiion: 2
+    - word: を
+      postiion: 3
+    - word: 捕まえ
+      base: 捕まえる
+      postiion: 4
+    - word: て
+      postiion: 7
+    - word: き
+      base: 来る
+      postiion: 8
+    - word: まし
+      base: ます
+      postiion: 9
+    - word: た
+      postiion: 11
+    - word: よ
+      postiion: 12
 - id: Akai Sakanato Kodomo-f000201
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 」と、
-  word_list: [と]
   sound: f000201.mp3
   sound_begin: 464997
   sound_end: 465120
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Akai Sakanato Kodomo-f000202
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 子供たちはいいました。
-  word_list: [子供, たち, は, いい, まし, た]
   sound: f000202.mp3
   sound_begin: 465120
   sound_end: 467920
+  sentence: 子供たちはいいました。
+  words:
+    - word: 子供
+      postiion: 0
+    - word: たち
+      base: 達
+      postiion: 2
+    - word: は
+      postiion: 4
+    - word: いい
+      base: 言う
+      postiion: 5
+    - word: まし
+      base: ます
+      postiion: 7
+    - word: た
+      postiion: 9
 - id: Akai Sakanato Kodomo-f000203
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: お母さんは、
-  word_list: [お, 母さん, は]
   sound: f000203.mp3
   sound_begin: 467920
   sound_end: 468640
+  sentence: お母さんは、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: 母さん
+      postiion: 1
+    - word: は
+      postiion: 4
 - id: Akai Sakanato Kodomo-f000204
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 子供たちの捕まえてきた赤い魚を見ました。
-  word_list: [子供, たち, の, 捕まえ, て, き, た, 赤い, 魚, を, 見, まし, た]
   sound: f000204.mp3
   sound_begin: 468640
   sound_end: 473280
+  sentence: 子供たちの捕まえてきた赤い魚を見ました。
+  words:
+    - word: 子供
+      postiion: 0
+    - word: たち
+      base: 達
+      postiion: 2
+    - word: の
+      postiion: 4
+    - word: 捕まえ
+      base: 捕まえる
+      postiion: 5
+    - word: て
+      postiion: 8
+    - word: き
+      base: 来る
+      postiion: 9
+    - word: た
+      postiion: 10
+    - word: 赤い
+      postiion: 11
+    - word: 魚
+      postiion: 13
+    - word: を
+      postiion: 14
+    - word: 見
+      base: 見る
+      postiion: 15
+    - word: まし
+      base: ます
+      postiion: 16
+    - word: た
+      postiion: 18
 - id: Akai Sakanato Kodomo-f000205
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 「おお、
-  word_list: [おお]
   sound: f000205.mp3
   sound_begin: 473280
   sound_end: 474589
+  sentence: 「おお、
+  words:
+    - word: おお
+      postiion: 1
 - id: Akai Sakanato Kodomo-f000206
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 小さいかわいらしい魚だね！
-  word_list: [小さい, かわいらしい, 魚, だ, ね]
   sound: f000206.mp3
   sound_begin: 474589
   sound_end: 477120
+  sentence: 小さいかわいらしい魚だね！
+  words:
+    - word: 小さい
+      postiion: 0
+    - word: かわいらしい
+      base: 可愛らしい
+      postiion: 3
+    - word: 魚
+      postiion: 9
+    - word: だ
+      postiion: 10
+    - word: ね
+      postiion: 11
 - id: Akai Sakanato Kodomo-f000207
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: どんなにか、
-  word_list: [どんな, に, か]
   sound: f000207.mp3
   sound_begin: 477120
   sound_end: 479640
+  sentence: どんなにか、
+  words:
+    - word: どんな
+      postiion: 0
+    - word: に
+      base: だ
+      postiion: 3
+    - word: か
+      postiion: 4
 - id: Akai Sakanato Kodomo-f000208
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: この魚の母親が、
-  word_list: [この, 魚, の, 母親, が]
   sound: f000208.mp3
   sound_begin: 479640
   sound_end: 481760
+  sentence: この魚の母親が、
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: 魚
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: 母親
+      postiion: 4
+    - word: が
+      postiion: 6
 - id: Akai Sakanato Kodomo-f000209
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: いまごろ悲しんでいるでしょう。
-  word_list: [いまごろ, 悲しん, で, いる, でしょう]
   sound: f000209.mp3
   sound_begin: 481760
   sound_end: 484894
+  sentence: いまごろ悲しんでいるでしょう。
+  words:
+    - word: いまごろ
+      base: 今頃
+      postiion: 0
+    - word: 悲しん
+      base: 悲しむ
+      postiion: 4
+    - word: で
+      postiion: 7
+    - word: いる
+      base: 居る
+      postiion: 8
+    - word: でしょう
+      base: です
+      postiion: 10
 - id: Akai Sakanato Kodomo-f000210
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 」と、
-  word_list: [と]
   sound: f000210.mp3
   sound_begin: 484894
   sound_end: 485080
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Akai Sakanato Kodomo-f000211
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: お母さんはいいました。
-  word_list: [お, 母さん, は, いい, まし, た]
   sound: f000211.mp3
   sound_begin: 485080
   sound_end: 487640
+  sentence: お母さんはいいました。
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: 母さん
+      postiion: 1
+    - word: は
+      postiion: 4
+    - word: いい
+      base: 言う
+      postiion: 5
+    - word: まし
+      base: ます
+      postiion: 7
+    - word: た
+      postiion: 9
 - id: Akai Sakanato Kodomo-f000212
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 「お母さん、
-  word_list: [お, 母さん]
   sound: f000212.mp3
   sound_begin: 487640
   sound_end: 488640
+  sentence: 「お母さん、
+  words:
+    - word: お
+      base: 御
+      postiion: 1
+    - word: 母さん
+      postiion: 2
 - id: Akai Sakanato Kodomo-f000213
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: この魚にもお母さんがあるのですか？
-  word_list: [この, 魚, に, も, お, 母さん, が, ある, の, です, か]
   sound: f000213.mp3
   sound_begin: 488640
   sound_end: 493201
+  sentence: この魚にもお母さんがあるのですか？
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: 魚
+      postiion: 2
+    - word: に
+      postiion: 3
+    - word: も
+      postiion: 4
+    - word: お
+      base: 御
+      postiion: 5
+    - word: 母さん
+      postiion: 6
+    - word: が
+      postiion: 9
+    - word: ある
+      base: 有る
+      postiion: 10
+    - word: の
+      postiion: 12
+    - word: です
+      postiion: 13
+    - word: か
+      postiion: 15
 - id: Akai Sakanato Kodomo-f000214
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 」と、
-  word_list: [と]
   sound: f000214.mp3
   sound_begin: 493201
   sound_end: 493360
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Akai Sakanato Kodomo-f000215
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 子供たちはききました。
-  word_list: [子供, たち, は, きき, まし, た]
   sound: f000215.mp3
   sound_begin: 493360
   sound_end: 495920
+  sentence: 子供たちはききました。
+  words:
+    - word: 子供
+      postiion: 0
+    - word: たち
+      base: 達
+      postiion: 2
+    - word: は
+      postiion: 4
+    - word: きき
+      base: きく
+      postiion: 5
+    - word: まし
+      base: ます
+      postiion: 7
+    - word: た
+      postiion: 9
 - id: Akai Sakanato Kodomo-f000216
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 「ありますよ。
-  word_list: [あり, ます, よ]
   sound: f000216.mp3
   sound_begin: 495920
   sound_end: 497440
+  sentence: 「ありますよ。
+  words:
+    - word: あり
+      base: 有る
+      postiion: 1
+    - word: ます
+      postiion: 3
+    - word: よ
+      postiion: 5
 - id: Akai Sakanato Kodomo-f000217
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: そして、
-  word_list: [そして]
   sound: f000217.mp3
   sound_begin: 497440
   sound_end: 497960
+  sentence: そして、
+  words:
+    - word: そして
+      postiion: 0
 - id: Akai Sakanato Kodomo-f000218
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: いまごろ、
-  word_list: [いまごろ]
   sound: f000218.mp3
   sound_begin: 497960
   sound_end: 498744
+  sentence: いまごろ、
+  words:
+    - word: いまごろ
+      base: 今頃
+      postiion: 0
 - id: Akai Sakanato Kodomo-f000219
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 子供がいなくなったといって心配しているでしょう。
-  word_list: [子供, が, い, なく, なっ, た, と, いっ, て, 心配, し, て, いる, でしょう]
   sound: f000219.mp3
   sound_begin: 498744
   sound_end: 503474
+  sentence: 子供がいなくなったといって心配しているでしょう。
+  words:
+    - word: 子供
+      postiion: 0
+    - word: が
+      postiion: 2
+    - word: い
+      base: 居る
+      postiion: 3
+    - word: なく
+      base: ない
+      postiion: 4
+    - word: なっ
+      base: 成る
+      postiion: 6
+    - word: た
+      postiion: 8
+    - word: と
+      postiion: 9
+    - word: いっ
+      base: 言う
+      postiion: 10
+    - word: て
+      postiion: 12
+    - word: 心配
+      postiion: 13
+    - word: し
+      base: 為る
+      postiion: 15
+    - word: て
+      postiion: 16
+    - word: いる
+      base: 居る
+      postiion: 17
+    - word: でしょう
+      base: です
+      postiion: 19
 - id: Akai Sakanato Kodomo-f000220
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 」と、
-  word_list: [と]
   sound: f000220.mp3
   sound_begin: 503474
   sound_end: 503640
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Akai Sakanato Kodomo-f000221
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: お母さんは答えました。
-  word_list: [お, 母さん, は, 答え, まし, た]
   sound: f000221.mp3
   sound_begin: 503640
   sound_end: 507376
+  sentence: お母さんは答えました。
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: 母さん
+      postiion: 1
+    - word: は
+      postiion: 4
+    - word: 答え
+      base: 答える
+      postiion: 5
+    - word: まし
+      base: ます
+      postiion: 7
+    - word: た
+      postiion: 9
 - id: Akai Sakanato Kodomo-f000222
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 子供たちは、
-  word_list: [子供, たち, は]
   sound: f000222.mp3
   sound_begin: 507376
   sound_end: 508560
+  sentence: 子供たちは、
+  words:
+    - word: 子供
+      postiion: 0
+    - word: たち
+      base: 達
+      postiion: 2
+    - word: は
+      postiion: 4
 - id: Akai Sakanato Kodomo-f000223
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: その話をきくとかわいそうになりました。
-  word_list: [その, 話, を, きく, と, かわいそう, に, なり, まし, た]
   sound: f000223.mp3
   sound_begin: 508560
   sound_end: 512803
+  sentence: その話をきくとかわいそうになりました。
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 話
+      postiion: 2
+    - word: を
+      postiion: 3
+    - word: きく
+      postiion: 4
+    - word: と
+      postiion: 6
+    - word: かわいそう
+      base: 可哀想
+      postiion: 7
+    - word: に
+      base: だ
+      postiion: 12
+    - word: なり
+      base: 成る
+      postiion: 13
+    - word: まし
+      base: ます
+      postiion: 15
+    - word: た
+      postiion: 17
 - id: Akai Sakanato Kodomo-f000224
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 「この魚を逃がしてやろうか。
-  word_list: [この, 魚, を, 逃がし, て, やろう, か]
   sound: f000224.mp3
   sound_begin: 512803
   sound_end: 516380
+  sentence: 「この魚を逃がしてやろうか。
+  words:
+    - word: この
+      base: 此の
+      postiion: 1
+    - word: 魚
+      postiion: 3
+    - word: を
+      postiion: 4
+    - word: 逃がし
+      base: 逃がす
+      postiion: 5
+    - word: て
+      postiion: 8
+    - word: やろう
+      base: 遣る
+      postiion: 9
+    - word: か
+      postiion: 12
 - id: Akai Sakanato Kodomo-f000225
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 」と、
-  word_list: [と]
   sound: f000225.mp3
   sound_begin: 516380
   sound_end: 516631
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Akai Sakanato Kodomo-f000226
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 一人がいいました。
-  word_list: [一人, が, いい, まし, た]
   sound: f000226.mp3
   sound_begin: 516631
   sound_end: 518470
+  sentence: 一人がいいました。
+  words:
+    - word: 一人
+      postiion: 0
+    - word: が
+      postiion: 2
+    - word: いい
+      base: 言う
+      postiion: 3
+    - word: まし
+      base: ます
+      postiion: 5
+    - word: た
+      postiion: 7
 - id: Akai Sakanato Kodomo-f000227
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 「ああもう、
-  word_list: [ああ, もう]
   sound: f000227.mp3
   sound_begin: 518470
   sound_end: 520159
+  sentence: 「ああもう、
+  words:
+    - word: ああ
+      postiion: 1
+    - word: もう
+      postiion: 3
 - id: Akai Sakanato Kodomo-f000228
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: だれも捕まえないように大きな河へ逃がしてやろう。
-  word_list: [だれ, も, 捕まえ, ない, よう, に, 大きな, 河, へ, 逃がし, て, やろう]
   sound: f000228.mp3
   sound_begin: 520159
   sound_end: 524973
+  sentence: だれも捕まえないように大きな河へ逃がしてやろう。
+  words:
+    - word: だれ
+      base: 誰
+      postiion: 0
+    - word: も
+      postiion: 2
+    - word: 捕まえ
+      base: 捕まえる
+      postiion: 3
+    - word: ない
+      postiion: 6
+    - word: よう
+      base: 様
+      postiion: 8
+    - word: に
+      base: だ
+      postiion: 10
+    - word: 大きな
+      postiion: 11
+    - word: 河
+      postiion: 14
+    - word: へ
+      postiion: 15
+    - word: 逃がし
+      base: 逃がす
+      postiion: 16
+    - word: て
+      postiion: 19
+    - word: やろう
+      base: 遣る
+      postiion: 20
 - id: Akai Sakanato Kodomo-f000229
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 」と、
-  word_list: [と]
   sound: f000229.mp3
   sound_begin: 524973
   sound_end: 525120
+  sentence: 」と、
+  words:
+    - word: と
+      postiion: 1
 - id: Akai Sakanato Kodomo-f000230
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: もう一人がいいました。
-  word_list: [もう, 一人, が, いい, まし, た]
   sound: f000230.mp3
   sound_begin: 525120
   sound_end: 528682
+  sentence: もう一人がいいました。
+  words:
+    - word: もう
+      postiion: 0
+    - word: 一人
+      postiion: 2
+    - word: が
+      postiion: 4
+    - word: いい
+      base: 言う
+      postiion: 5
+    - word: まし
+      base: ます
+      postiion: 7
+    - word: た
+      postiion: 9
 - id: Akai Sakanato Kodomo-f000231
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 子供たちは、
-  word_list: [子供, たち, は]
   sound: f000231.mp3
   sound_begin: 528682
   sound_end: 529920
+  sentence: 子供たちは、
+  words:
+    - word: 子供
+      postiion: 0
+    - word: たち
+      base: 達
+      postiion: 2
+    - word: は
+      postiion: 4
 - id: Akai Sakanato Kodomo-f000232
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 三びきのきれいな魚を町はずれの大きな河へ逃がしてやりました、
-  word_list: [三, びき, の, きれい, な, 魚, を, 町はずれ, の, 大きな, 河, へ, 逃がし, て, やり, まし, た]
   sound: f000232.mp3
   sound_begin: 529920
   sound_end: 537200
+  sentence: 三びきのきれいな魚を町はずれの大きな河へ逃がしてやりました、
+  words:
+    - word: 三
+      base: '3'
+      postiion: 0
+    - word: びき
+      base: 匹
+      postiion: 1
+    - word: の
+      postiion: 3
+    - word: きれい
+      base: 奇麗
+      postiion: 4
+    - word: な
+      base: だ
+      postiion: 7
+    - word: 魚
+      postiion: 8
+    - word: を
+      postiion: 9
+    - word: 町はずれ
+      base: 町外れ
+      postiion: 10
+    - word: の
+      postiion: 14
+    - word: 大きな
+      postiion: 15
+    - word: 河
+      postiion: 18
+    - word: へ
+      postiion: 19
+    - word: 逃がし
+      base: 逃がす
+      postiion: 20
+    - word: て
+      postiion: 23
+    - word: やり
+      base: 遣る
+      postiion: 24
+    - word: まし
+      base: ます
+      postiion: 26
+    - word: た
+      postiion: 28
 - id: Akai Sakanato Kodomo-f000233
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: その後で子供たちは、
-  word_list: [その, 後, で, 子供, たち, は]
   sound: f000233.mp3
   sound_begin: 537200
   sound_end: 539680
+  sentence: その後で子供たちは、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 後
+      postiion: 2
+    - word: で
+      postiion: 3
+    - word: 子供
+      postiion: 4
+    - word: たち
+      base: 達
+      postiion: 6
+    - word: は
+      postiion: 8
 - id: Akai Sakanato Kodomo-f000234
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: はじめて気がついていいました。
-  word_list: [はじめて, 気, が, つい, て, いい, まし, た]
   sound: f000234.mp3
   sound_begin: 539680
   sound_end: 543440
+  sentence: はじめて気がついていいました。
+  words:
+    - word: はじめて
+      base: 初めて
+      postiion: 0
+    - word: 気
+      postiion: 4
+    - word: が
+      postiion: 5
+    - word: つい
+      base: 付く
+      postiion: 6
+    - word: て
+      postiion: 8
+    - word: いい
+      base: 言う
+      postiion: 9
+    - word: まし
+      base: ます
+      postiion: 11
+    - word: た
+      postiion: 13
 - id: Akai Sakanato Kodomo-f000235
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 「あの三びきの赤い魚は、
-  word_list: [あの, 三, びき, の, 赤い, 魚, は]
   sound: f000235.mp3
   sound_begin: 543440
   sound_end: 545520
+  sentence: 「あの三びきの赤い魚は、
+  words:
+    - word: あの
+      base: 彼の
+      postiion: 1
+    - word: 三
+      base: '3'
+      postiion: 3
+    - word: びき
+      base: 匹
+      postiion: 4
+    - word: の
+      postiion: 6
+    - word: 赤い
+      postiion: 7
+    - word: 魚
+      postiion: 9
+    - word: は
+      postiion: 10
 - id: Akai Sakanato Kodomo-f000236
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: はたして、
-  word_list: [はたして]
   sound: f000236.mp3
   sound_begin: 545520
   sound_end: 546520
+  sentence: はたして、
+  words:
+    - word: はたして
+      base: 果たして
+      postiion: 0
 - id: Akai Sakanato Kodomo-f000237
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 魚のお母さんにあえるのだろうか？」
-  word_list: [魚, の, お, 母さん, に, あえる, の, だろう, か]
   sound: f000237.mp3
   sound_begin: 546520
   sound_end: 552160
+  sentence: 魚のお母さんにあえるのだろうか？」
+  words:
+    - word: 魚
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: お
+      base: 御
+      postiion: 2
+    - word: 母さん
+      postiion: 3
+    - word: に
+      postiion: 6
+    - word: あえる
+      postiion: 7
+    - word: の
+      postiion: 10
+    - word: だろう
+      base: だ
+      postiion: 11
+    - word: か
+      postiion: 14
 - id: Akai Sakanato Kodomo-f000238
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: しかし、
-  word_list: [しかし]
   sound: f000238.mp3
   sound_begin: 552160
   sound_end: 553240
+  sentence: しかし、
+  words:
+    - word: しかし
+      base: 然し
+      postiion: 0
 - id: Akai Sakanato Kodomo-f000239
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: それはだれにもわからなかったのです。
-  word_list: [それ, は, だれ, に, も, わから, なかっ, た, の, です]
   sound: f000239.mp3
   sound_begin: 553240
   sound_end: 557440
+  sentence: それはだれにもわからなかったのです。
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: だれ
+      base: 誰
+      postiion: 3
+    - word: に
+      postiion: 5
+    - word: も
+      postiion: 6
+    - word: わから
+      base: 分かる
+      postiion: 7
+    - word: なかっ
+      base: ない
+      postiion: 10
+    - word: た
+      postiion: 13
+    - word: の
+      postiion: 14
+    - word: です
+      postiion: 15
 - id: Akai Sakanato Kodomo-f000240
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 子供たちはその後、
-  word_list: [子供, たち, は, その, 後]
   sound: f000240.mp3
   sound_begin: 557440
   sound_end: 559160
+  sentence: 子供たちはその後、
+  words:
+    - word: 子供
+      postiion: 0
+    - word: たち
+      base: 達
+      postiion: 2
+    - word: は
+      postiion: 4
+    - word: その
+      base: 其の
+      postiion: 5
+    - word: 後
+      postiion: 7
 - id: Akai Sakanato Kodomo-f000241
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 気にかかるので、
-  word_list: [気, に, かかる, の, で]
   sound: f000241.mp3
   sound_begin: 559160
   sound_end: 560880
+  sentence: 気にかかるので、
+  words:
+    - word: 気
+      postiion: 0
+    - word: に
+      postiion: 1
+    - word: かかる
+      base: 掛かる
+      postiion: 2
+    - word: の
+      postiion: 5
+    - word: で
+      base: だ
+      postiion: 6
 - id: Akai Sakanato Kodomo-f000242
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: いつか三びきの赤い魚を捕まえた川にいってみましたけれど、
-  word_list: [いつ, か, 三, びき, の, 赤い, 魚, を, 捕まえ, た, 川, に, いっ, て, み, まし, た, けれど]
   sound: f000242.mp3
   sound_begin: 560880
   sound_end: 565889
+  sentence: いつか三びきの赤い魚を捕まえた川にいってみましたけれど、
+  words:
+    - word: いつ
+      postiion: 0
+    - word: か
+      postiion: 2
+    - word: 三
+      base: '3'
+      postiion: 3
+    - word: びき
+      base: 匹
+      postiion: 4
+    - word: の
+      postiion: 6
+    - word: 赤い
+      postiion: 7
+    - word: 魚
+      postiion: 9
+    - word: を
+      postiion: 10
+    - word: 捕まえ
+      base: 捕まえる
+      postiion: 11
+    - word: た
+      postiion: 14
+    - word: 川
+      postiion: 15
+    - word: に
+      postiion: 16
+    - word: いっ
+      base: 行く
+      postiion: 17
+    - word: て
+      postiion: 19
+    - word: み
+      base: 見る
+      postiion: 20
+    - word: まし
+      base: ます
+      postiion: 21
+    - word: た
+      postiion: 23
+    - word: けれど
+      postiion: 24
 - id: Akai Sakanato Kodomo-f000243
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: ついにふたたび赤い魚の姿を見ませんでした。
-  word_list: [ついに, ふたたび, 赤い, 魚, の, 姿, を, 見, ませ, ん, でし, た]
   sound: f000243.mp3
   sound_begin: 565889
   sound_end: 573240
+  sentence: ついにふたたび赤い魚の姿を見ませんでした。
+  words:
+    - word: ついに
+      base: 遂に
+      postiion: 0
+    - word: ふたたび
+      base: 再び
+      postiion: 3
+    - word: 赤い
+      postiion: 7
+    - word: 魚
+      postiion: 9
+    - word: の
+      postiion: 10
+    - word: 姿
+      postiion: 11
+    - word: を
+      postiion: 12
+    - word: 見
+      base: 見る
+      postiion: 13
+    - word: ませ
+      base: ます
+      postiion: 14
+    - word: ん
+      base: ず
+      postiion: 16
+    - word: でし
+      base: です
+      postiion: 17
+    - word: た
+      postiion: 19
 - id: Akai Sakanato Kodomo-f000244
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 夏の夕暮れ方、
-  word_list: [夏, の, 夕暮れ, 方]
   sound: f000244.mp3
   sound_begin: 573240
   sound_end: 575200
+  sentence: 夏の夕暮れ方、
+  words:
+    - word: 夏
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 夕暮れ
+      postiion: 2
+    - word: 方
+      postiion: 5
 - id: Akai Sakanato Kodomo-f000245
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 西の空の、
-  word_list: [西, の, 空, の]
   sound: f000245.mp3
   sound_begin: 575200
   sound_end: 576160
+  sentence: 西の空の、
+  words:
+    - word: 西
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 空
+      postiion: 2
+    - word: の
+      postiion: 3
 - id: Akai Sakanato Kodomo-f000246
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: ちょうど町のとがった塔の上に、
-  word_list: [ちょうど, 町, の, とがっ, た, 塔, の, 上, に]
   sound: f000246.mp3
   sound_begin: 576160
   sound_end: 579560
+  sentence: ちょうど町のとがった塔の上に、
+  words:
+    - word: ちょうど
+      base: 丁度
+      postiion: 0
+    - word: 町
+      postiion: 4
+    - word: の
+      postiion: 5
+    - word: とがっ
+      base: 尖る
+      postiion: 6
+    - word: た
+      postiion: 9
+    - word: 塔
+      postiion: 10
+    - word: の
+      postiion: 11
+    - word: 上
+      postiion: 12
+    - word: に
+      postiion: 13
 - id: Akai Sakanato Kodomo-f000247
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: その赤い魚のような雲が、
-  word_list: [その, 赤い, 魚, の, よう, な, 雲, が]
   sound: f000247.mp3
   sound_begin: 579560
   sound_end: 581560
+  sentence: その赤い魚のような雲が、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 赤い
+      postiion: 2
+    - word: 魚
+      postiion: 4
+    - word: の
+      postiion: 5
+    - word: よう
+      base: 様
+      postiion: 6
+    - word: な
+      base: だ
+      postiion: 8
+    - word: 雲
+      postiion: 9
+    - word: が
+      postiion: 10
 - id: Akai Sakanato Kodomo-f000248
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: しばしば浮かぶことがありました。
-  word_list: [しばしば, 浮かぶ, こと, が, あり, まし, た]
   sound: f000248.mp3
   sound_begin: 581560
   sound_end: 585522
+  sentence: しばしば浮かぶことがありました。
+  words:
+    - word: しばしば
+      base: 屡々
+      postiion: 0
+    - word: 浮かぶ
+      postiion: 4
+    - word: こと
+      postiion: 7
+    - word: が
+      postiion: 9
+    - word: あり
+      base: 有る
+      postiion: 10
+    - word: まし
+      base: ます
+      postiion: 12
+    - word: た
+      postiion: 14
 - id: Akai Sakanato Kodomo-f000249
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: 子供たちは、
-  word_list: [子供, たち, は]
   sound: f000249.mp3
   sound_begin: 585522
   sound_end: 586760
+  sentence: 子供たちは、
+  words:
+    - word: 子供
+      postiion: 0
+    - word: たち
+      base: 達
+      postiion: 2
+    - word: は
+      postiion: 4
 - id: Akai Sakanato Kodomo-f000250
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: それを見ると、
-  word_list: [それ, を, 見る, と]
   sound: f000250.mp3
   sound_begin: 586760
   sound_end: 588440
+  sentence: それを見ると、
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: 見る
+      postiion: 3
+    - word: と
+      postiion: 5
 - id: Akai Sakanato Kodomo-f000251
   author_japanese: 小川 未明
   deck_name: Akai Sakanato Kodomo
   deck_name_japanese: 赤い魚と子供
-  sentence: なんとなく悲しく思ったのです。
-  word_list: [なん, と, なく, 悲しく, 思っ, た, の, です]
   sound: f000251.mp3
   sound_begin: 588440
   sound_end: 594080
+  sentence: なんとなく悲しく思ったのです。
+  words:
+    - word: なん
+      base: 何
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: なく
+      base: 無い
+      postiion: 3
+    - word: 悲しく
+      base: 悲しい
+      postiion: 5
+    - word: 思っ
+      base: 思う
+      postiion: 8
+    - word: た
+      postiion: 10
+    - word: の
+      postiion: 11
+    - word: です
+      postiion: 12

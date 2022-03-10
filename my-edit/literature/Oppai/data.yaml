@@ -2,395 +2,996 @@
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: おっぱい
-  word_list: [おっぱい]
   sound: f000002.mp3
   sound_begin: 5739
   sound_end: 9560
+  sentence: おっぱい
+  words:
+    - word: おっぱい
+      postiion: 0
 - id: Oppai-f000003
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: 赤ちゃんが、
-  word_list: [赤ちゃん, が]
   sound: f000003.mp3
   sound_begin: 9560
   sound_end: 10720
+  sentence: 赤ちゃんが、
+  words:
+    - word: 赤ちゃん
+      postiion: 0
+    - word: が
+      postiion: 4
 - id: Oppai-f000004
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: おかあさんの　おっぱいを　すぱすぱと　のんで　いました。
-  word_list: [お, かあさん, の, おっぱい, を, すぱすぱ, と, のん, で, い, まし, た]
   sound: f000004.mp3
   sound_begin: 10720
   sound_end: 17000
+  sentence: おかあさんの　おっぱいを　すぱすぱと　のんで　いました。
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: かあさん
+      postiion: 1
+    - word: の
+      postiion: 5
+    - word: おっぱい
+      postiion: 7
+    - word: を
+      postiion: 11
+    - word: すぱすぱ
+      postiion: 13
+    - word: と
+      postiion: 17
+    - word: のん
+      base: 飲む
+      postiion: 19
+    - word: で
+      postiion: 21
+    - word: い
+      base: 居る
+      postiion: 23
+    - word: まし
+      base: ます
+      postiion: 24
+    - word: た
+      postiion: 26
 - id: Oppai-f000005
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: そばで　みて　いた　つね子ちゃんは、
-  word_list: [そば, で, み, て, い, た, つね, 子, ちゃん, は]
   sound: f000005.mp3
   sound_begin: 17000
   sound_end: 20280
+  sentence: そばで　みて　いた　つね子ちゃんは、
+  words:
+    - word: そば
+      postiion: 0
+    - word: で
+      postiion: 2
+    - word: み
+      base: 見る
+      postiion: 4
+    - word: て
+      postiion: 5
+    - word: い
+      base: 居る
+      postiion: 7
+    - word: た
+      postiion: 8
+    - word: つね
+      base: 常
+      postiion: 10
+    - word: 子
+      postiion: 12
+    - word: ちゃん
+      postiion: 13
+    - word: は
+      postiion: 16
 - id: Oppai-f000006
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: 「おいしそうね。」
-  word_list: [おいし, そう, ね]
   sound: f000006.mp3
   sound_begin: 20280
   sound_end: 22114
+  sentence: 「おいしそうね。」
+  words:
+    - word: おいし
+      base: 美味しい
+      postiion: 1
+    - word: そう
+      postiion: 4
+    - word: ね
+      postiion: 6
 - id: Oppai-f000007
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: と　いいました。
-  word_list: [と, いい, まし, た]
   sound: f000007.mp3
   sound_begin: 22114
   sound_end: 25040
+  sentence: と　いいました。
+  words:
+    - word: と
+      postiion: 0
+    - word: いい
+      base: 言う
+      postiion: 2
+    - word: まし
+      base: ます
+      postiion: 4
+    - word: た
+      postiion: 6
 - id: Oppai-f000008
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: 「おまえも　こう　して　のんだのですよ。」
-  word_list: [おまえ, も, こう, し, て, のん, だ, の, です, よ]
   sound: f000008.mp3
   sound_begin: 25040
   sound_end: 29109
+  sentence: 「おまえも　こう　して　のんだのですよ。」
+  words:
+    - word: おまえ
+      base: 御前
+      postiion: 1
+    - word: も
+      postiion: 4
+    - word: こう
+      postiion: 6
+    - word: し
+      base: 為る
+      postiion: 9
+    - word: て
+      postiion: 10
+    - word: のん
+      base: 飲む
+      postiion: 12
+    - word: だ
+      base: た
+      postiion: 14
+    - word: の
+      postiion: 15
+    - word: です
+      postiion: 16
+    - word: よ
+      postiion: 18
 - id: Oppai-f000009
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: と、
-  word_list: [と]
   sound: f000009.mp3
   sound_begin: 29109
   sound_end: 29760
+  sentence: と、
+  words:
+    - word: と
+      postiion: 0
 - id: Oppai-f000010
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: おかあさんが　おっしゃいました。
-  word_list: [お, かあさん, が, おっしゃい, まし, た]
   sound: f000010.mp3
   sound_begin: 29760
   sound_end: 32889
+  sentence: おかあさんが　おっしゃいました。
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: かあさん
+      postiion: 1
+    - word: が
+      postiion: 5
+    - word: おっしゃい
+      base: 仰る
+      postiion: 7
+    - word: まし
+      base: ます
+      postiion: 12
+    - word: た
+      postiion: 14
 - id: Oppai-f000011
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: つね子ちゃんは　きゅうに　おちちが　こいしく　なりました。
-  word_list: [つね, 子, ちゃん, は, きゅう, に, お, ちち, が, こいしく, なり, まし, た]
   sound: f000011.mp3
   sound_begin: 32889
   sound_end: 39080
+  sentence: つね子ちゃんは　きゅうに　おちちが　こいしく　なりました。
+  words:
+    - word: つね
+      base: 常
+      postiion: 0
+    - word: 子
+      postiion: 2
+    - word: ちゃん
+      postiion: 3
+    - word: は
+      postiion: 6
+    - word: きゅう
+      base: 急
+      postiion: 8
+    - word: に
+      base: だ
+      postiion: 11
+    - word: お
+      base: おー
+      postiion: 13
+    - word: ちち
+      postiion: 14
+    - word: が
+      postiion: 16
+    - word: こいしく
+      base: 恋しい
+      postiion: 18
+    - word: なり
+      base: 成る
+      postiion: 23
+    - word: まし
+      base: ます
+      postiion: 25
+    - word: た
+      postiion: 27
 - id: Oppai-f000012
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: 「あたしにも　のましてよ。」
-  word_list: [あたし, に, も, のまし, て, よ]
   sound: f000012.mp3
   sound_begin: 39080
   sound_end: 41497
+  sentence: 「あたしにも　のましてよ。」
+  words:
+    - word: あたし
+      base: 私
+      postiion: 1
+    - word: に
+      postiion: 4
+    - word: も
+      postiion: 5
+    - word: のまし
+      base: 飲む
+      postiion: 7
+    - word: て
+      postiion: 10
+    - word: よ
+      postiion: 11
 - id: Oppai-f000013
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: と、
-  word_list: [と]
   sound: f000013.mp3
   sound_begin: 41497
   sound_end: 42480
+  sentence: と、
+  words:
+    - word: と
+      postiion: 0
 - id: Oppai-f000014
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: おかおを　だすと、
-  word_list: [お, かお, を, だす, と]
   sound: f000014.mp3
   sound_begin: 42480
   sound_end: 44200
+  sentence: おかおを　だすと、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: かお
+      base: 顔
+      postiion: 1
+    - word: を
+      postiion: 3
+    - word: だす
+      base: 出す
+      postiion: 5
+    - word: と
+      postiion: 7
 - id: Oppai-f000015
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: 赤ちゃんが、
-  word_list: [赤ちゃん, が]
   sound: f000015.mp3
   sound_begin: 44200
   sound_end: 47640
+  sentence: 赤ちゃんが、
+  words:
+    - word: 赤ちゃん
+      postiion: 0
+    - word: が
+      postiion: 4
 - id: Oppai-f000016
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: 「ううん。」
-  word_list: [ううん]
   sound: f000016.mp3
   sound_begin: 47640
   sound_end: 48192
+  sentence: 「ううん。」
+  words:
+    - word: ううん
+      postiion: 1
 - id: Oppai-f000017
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: と　いって、
-  word_list: [と, いっ, て]
   sound: f000017.mp3
   sound_begin: 48188
   sound_end: 48920
+  sentence: と　いって、
+  words:
+    - word: と
+      postiion: 0
+    - word: いっ
+      base: 言う
+      postiion: 2
+    - word: て
+      postiion: 4
 - id: Oppai-f000018
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: おこりました。
-  word_list: [お, こり, まし, た]
   sound: f000018.mp3
   sound_begin: 48920
   sound_end: 51480
+  sentence: おこりました。
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: こり
+      base: こる
+      postiion: 1
+    - word: まし
+      base: ます
+      postiion: 3
+    - word: た
+      postiion: 5
 - id: Oppai-f000019
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: 「いじを　つついては　いけません。」
-  word_list: [いじ, を, つつい, て, は, いけ, ませ, ん]
   sound: f000019.mp3
   sound_begin: 51480
   sound_end: 54748
+  sentence: 「いじを　つついては　いけません。」
+  words:
+    - word: いじ
+      base: 意地
+      postiion: 1
+    - word: を
+      postiion: 3
+    - word: つつい
+      base: 突く
+      postiion: 5
+    - word: て
+      postiion: 8
+    - word: は
+      postiion: 9
+    - word: いけ
+      base: 行く
+      postiion: 11
+    - word: ませ
+      base: ます
+      postiion: 13
+    - word: ん
+      base: ず
+      postiion: 15
 - id: Oppai-f000020
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: と、
-  word_list: [と]
   sound: f000020.mp3
   sound_begin: 54748
   sound_end: 55440
+  sentence: と、
+  words:
+    - word: と
+      postiion: 0
 - id: Oppai-f000021
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: おかあさんが　おっしゃいました。
-  word_list: [お, かあさん, が, おっしゃい, まし, た]
   sound: f000021.mp3
   sound_begin: 55440
   sound_end: 58666
+  sentence: おかあさんが　おっしゃいました。
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: かあさん
+      postiion: 1
+    - word: が
+      postiion: 5
+    - word: おっしゃい
+      base: 仰る
+      postiion: 7
+    - word: まし
+      base: ます
+      postiion: 12
+    - word: た
+      postiion: 14
 - id: Oppai-f000022
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: 「赤ちゃんの　いじわる。」
-  word_list: [赤ちゃん, の, いじわる]
   sound: f000022.mp3
   sound_begin: 58666
   sound_end: 61952
+  sentence: 「赤ちゃんの　いじわる。」
+  words:
+    - word: 赤ちゃん
+      postiion: 1
+    - word: の
+      postiion: 5
+    - word: いじわる
+      base: 意地悪
+      postiion: 7
 - id: Oppai-f000023
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: と　いって、
-  word_list: [と, いっ, て]
   sound: f000023.mp3
   sound_begin: 61952
   sound_end: 62920
+  sentence: と　いって、
+  words:
+    - word: と
+      postiion: 0
+    - word: いっ
+      base: 言う
+      postiion: 2
+    - word: て
+      postiion: 4
 - id: Oppai-f000024
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: つね子ちゃんは　おもてへ　いきました。
-  word_list: [つね, 子, ちゃん, は, おもて, へ, いき, まし, た]
   sound: f000024.mp3
   sound_begin: 62920
   sound_end: 68400
+  sentence: つね子ちゃんは　おもてへ　いきました。
+  words:
+    - word: つね
+      base: 常
+      postiion: 0
+    - word: 子
+      postiion: 2
+    - word: ちゃん
+      postiion: 3
+    - word: は
+      postiion: 6
+    - word: おもて
+      postiion: 8
+    - word: へ
+      postiion: 11
+    - word: いき
+      base: 行く
+      postiion: 13
+    - word: まし
+      base: ます
+      postiion: 15
+    - word: た
+      postiion: 17
 - id: Oppai-f000025
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: おとなりの　よしおさんと　あそんで　いると、
-  word_list: [お, となり, の, よしお, さん, と, あそん, で, いる, と]
   sound: f000025.mp3
   sound_begin: 68400
   sound_end: 71080
+  sentence: おとなりの　よしおさんと　あそんで　いると、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: となり
+      base: 隣り
+      postiion: 1
+    - word: の
+      postiion: 4
+    - word: よしお
+      postiion: 6
+    - word: さん
+      postiion: 9
+    - word: と
+      postiion: 11
+    - word: あそん
+      base: 遊ぶ
+      postiion: 13
+    - word: で
+      postiion: 16
+    - word: いる
+      base: 居る
+      postiion: 18
+    - word: と
+      postiion: 20
 - id: Oppai-f000026
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: かぜが　ふいて　きて、
-  word_list: [かぜ, が, ふい, て, き, て]
   sound: f000026.mp3
   sound_begin: 71080
   sound_end: 73640
+  sentence: かぜが　ふいて　きて、
+  words:
+    - word: かぜ
+      postiion: 0
+    - word: が
+      postiion: 2
+    - word: ふい
+      base: ふく
+      postiion: 4
+    - word: て
+      postiion: 6
+    - word: き
+      base: 来る
+      postiion: 8
+    - word: て
+      postiion: 9
 - id: Oppai-f000027
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: ごみが　お目目に　はいりました。
-  word_list: [ごみ, が, お, 目目, に, はいり, まし, た]
   sound: f000027.mp3
   sound_begin: 73640
   sound_end: 77600
+  sentence: ごみが　お目目に　はいりました。
+  words:
+    - word: ごみ
+      base: 塵
+      postiion: 0
+    - word: が
+      postiion: 2
+    - word: お
+      base: 御
+      postiion: 4
+    - word: 目目
+      base: 目々
+      postiion: 5
+    - word: に
+      postiion: 7
+    - word: はいり
+      base: 入る
+      postiion: 9
+    - word: まし
+      base: ます
+      postiion: 12
+    - word: た
+      postiion: 14
 - id: Oppai-f000028
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: 「ぼくが　とって　あげよう。」
-  word_list: [ぼく, が, とっ, て, あげよう]
   sound: f000028.mp3
   sound_begin: 77600
   sound_end: 79080
+  sentence: 「ぼくが　とって　あげよう。」
+  words:
+    - word: ぼく
+      base: 僕
+      postiion: 1
+    - word: が
+      postiion: 3
+    - word: とっ
+      base: 取る
+      postiion: 5
+    - word: て
+      postiion: 7
+    - word: あげよう
+      base: 上げる
+      postiion: 9
 - id: Oppai-f000029
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: と、
-  word_list: [と]
   sound: f000029.mp3
   sound_begin: 79080
   sound_end: 80280
+  sentence: と、
+  words:
+    - word: と
+      postiion: 0
 - id: Oppai-f000030
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: よしおさんが　とろうと　しましたが、
-  word_list: [よしお, さん, が, とろう, と, し, まし, た, が]
   sound: f000030.mp3
   sound_begin: 80280
   sound_end: 83626
+  sentence: よしおさんが　とろうと　しましたが、
+  words:
+    - word: よしお
+      postiion: 0
+    - word: さん
+      postiion: 3
+    - word: が
+      postiion: 5
+    - word: とろう
+      base: 取る
+      postiion: 7
+    - word: と
+      postiion: 7
+    - word: し
+      base: 為る
+      postiion: 12
+    - word: まし
+      base: ます
+      postiion: 13
+    - word: た
+      postiion: 15
+    - word: が
+      postiion: 16
 - id: Oppai-f000031
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: とれません。
-  word_list: [とれ, ませ, ん]
   sound: f000031.mp3
   sound_begin: 83626
   sound_end: 86495
+  sentence: とれません。
+  words:
+    - word: とれ
+      base: 取る
+      postiion: 0
+    - word: ませ
+      base: ます
+      postiion: 2
+    - word: ん
+      base: ず
+      postiion: 4
 - id: Oppai-f000032
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: よしおさんが、
-  word_list: [よしお, さん, が]
   sound: f000032.mp3
   sound_begin: 86495
   sound_end: 87880
+  sentence: よしおさんが、
+  words:
+    - word: よしお
+      postiion: 0
+    - word: さん
+      postiion: 3
+    - word: が
+      postiion: 5
 - id: Oppai-f000033
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: つね子ちゃんを　おうちへ　つれて　きて　あげました。
-  word_list: [つね, 子, ちゃん, を, お, うち, へ, つれ, て, き, て, あげ, まし, た]
   sound: f000033.mp3
   sound_begin: 87880
   sound_end: 92560
+  sentence: つね子ちゃんを　おうちへ　つれて　きて　あげました。
+  words:
+    - word: つね
+      base: 常
+      postiion: 0
+    - word: 子
+      postiion: 2
+    - word: ちゃん
+      postiion: 3
+    - word: を
+      postiion: 6
+    - word: お
+      base: 御
+      postiion: 8
+    - word: うち
+      base: 内
+      postiion: 9
+    - word: へ
+      postiion: 11
+    - word: つれ
+      base: つれる
+      postiion: 13
+    - word: て
+      postiion: 15
+    - word: き
+      base: 来る
+      postiion: 17
+    - word: て
+      postiion: 18
+    - word: あげ
+      base: 上げる
+      postiion: 20
+    - word: まし
+      base: ます
+      postiion: 22
+    - word: た
+      postiion: 24
 - id: Oppai-f000034
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: おかあさんは、
-  word_list: [お, かあさん, は]
   sound: f000034.mp3
   sound_begin: 92560
   sound_end: 94200
+  sentence: おかあさんは、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: かあさん
+      postiion: 1
+    - word: は
+      postiion: 5
 - id: Oppai-f000035
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: 「よしおさん、
-  word_list: [よしお, さん]
   sound: f000035.mp3
   sound_begin: 94200
   sound_end: 95720
+  sentence: 「よしおさん、
+  words:
+    - word: よしお
+      postiion: 1
+    - word: さん
+      postiion: 4
 - id: Oppai-f000036
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: ありがとう。」
-  word_list: [ありがとう]
   sound: f000036.mp3
   sound_begin: 95720
   sound_end: 96520
+  sentence: ありがとう。」
+  words:
+    - word: ありがとう
+      base: 有り難う
+      postiion: 0
 - id: Oppai-f000037
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: と　おっしゃいました。
-  word_list: [と, おっしゃい, まし, た]
   sound: f000037.mp3
   sound_begin: 96520
   sound_end: 99962
+  sentence: と　おっしゃいました。
+  words:
+    - word: と
+      postiion: 0
+    - word: おっしゃい
+      base: 仰る
+      postiion: 2
+    - word: まし
+      base: ます
+      postiion: 7
+    - word: た
+      postiion: 9
 - id: Oppai-f000038
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: つね子ちゃんは　よく　お目目を　あらいました。
-  word_list: [つね, 子, ちゃん, は, よく, お, 目目, を, あらい, まし, た]
   sound: f000038.mp3
   sound_begin: 99962
   sound_end: 105360
+  sentence: つね子ちゃんは　よく　お目目を　あらいました。
+  words:
+    - word: つね
+      base: 常
+      postiion: 0
+    - word: 子
+      postiion: 2
+    - word: ちゃん
+      postiion: 3
+    - word: は
+      postiion: 6
+    - word: よく
+      base: 良く
+      postiion: 8
+    - word: お
+      base: 御
+      postiion: 11
+    - word: 目目
+      base: 目々
+      postiion: 12
+    - word: を
+      postiion: 14
+    - word: あらい
+      base: 洗う
+      postiion: 16
+    - word: まし
+      base: ます
+      postiion: 19
+    - word: た
+      postiion: 21
 - id: Oppai-f000039
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: 「おちちを　さして　あげましょう。」
-  word_list: [お, ちち, を, さして, あげ, ましょう]
   sound: f000039.mp3
   sound_begin: 105360
   sound_end: 108694
+  sentence: 「おちちを　さして　あげましょう。」
+  words:
+    - word: お
+      base: おー
+      postiion: 1
+    - word: ちち
+      postiion: 2
+    - word: を
+      postiion: 4
+    - word: さして
+      postiion: 6
+    - word: あげ
+      base: 上げる
+      postiion: 10
+    - word: ましょう
+      base: ます
+      postiion: 12
 - id: Oppai-f000040
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: つね子ちゃんは　おかあさんに　だかれて、
-  word_list: [つね, 子, ちゃん, は, お, かあさん, に, だか, れ, て]
   sound: f000040.mp3
   sound_begin: 108694
   sound_end: 112560
+  sentence: つね子ちゃんは　おかあさんに　だかれて、
+  words:
+    - word: つね
+      base: 常
+      postiion: 0
+    - word: 子
+      postiion: 2
+    - word: ちゃん
+      postiion: 3
+    - word: は
+      postiion: 6
+    - word: お
+      base: 御
+      postiion: 8
+    - word: かあさん
+      postiion: 9
+    - word: に
+      postiion: 13
+    - word: だか
+      base: 抱く
+      postiion: 15
+    - word: れ
+      base: れる
+      postiion: 17
+    - word: て
+      postiion: 18
 - id: Oppai-f000041
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: おっぱいを　たらたらと　お目目に　いれて　いただきました。
-  word_list: [おっぱい, を, たらたら, と, お, 目目, に, いれ, て, いただき, まし, た]
   sound: f000041.mp3
   sound_begin: 112560
   sound_end: 118800
+  sentence: おっぱいを　たらたらと　お目目に　いれて　いただきました。
+  words:
+    - word: おっぱい
+      postiion: 0
+    - word: を
+      postiion: 4
+    - word: たらたら
+      postiion: 6
+    - word: と
+      postiion: 10
+    - word: お
+      base: 御
+      postiion: 12
+    - word: 目目
+      base: 目々
+      postiion: 13
+    - word: に
+      postiion: 15
+    - word: いれ
+      base: 入れる
+      postiion: 17
+    - word: て
+      postiion: 19
+    - word: いただき
+      base: 頂く
+      postiion: 21
+    - word: まし
+      base: ます
+      postiion: 25
+    - word: た
+      postiion: 27
 - id: Oppai-f000042
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: 「もう、
-  word_list: [もう]
   sound: f000042.mp3
   sound_begin: 118800
   sound_end: 119080
+  sentence: 「もう、
+  words:
+    - word: もう
+      postiion: 1
 - id: Oppai-f000043
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: よく　なった？」
-  word_list: [よく, なっ, た]
   sound: f000043.mp3
   sound_begin: 119080
   sound_end: 121158
+  sentence: よく　なった？」
+  words:
+    - word: よく
+      base: 良く
+      postiion: 0
+    - word: なっ
+      base: 成る
+      postiion: 3
+    - word: た
+      postiion: 5
 - id: Oppai-f000044
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: と　きいて、
-  word_list: [と, きい, て]
   sound: f000044.mp3
   sound_begin: 121158
   sound_end: 122600
+  sentence: と　きいて、
+  words:
+    - word: と
+      postiion: 0
+    - word: きい
+      base: きく
+      postiion: 2
+    - word: て
+      postiion: 4
 - id: Oppai-f000045
   author_japanese: 小川 未明
   deck_name: Oppai
   deck_name_japanese: おっぱい
-  sentence: そばで　みて　いた　よしおさんも　おっぱいを　こいしそうに　ながめて　いました。
-  word_list: [そば, で, み, て, い, た, よしお, さん, も, おっぱい, を, こいし, そう, に, ながめ, て, い, まし, た]
   sound: f000045.mp3
   sound_begin: 122600
   sound_end: 132040
+  sentence: そばで　みて　いた　よしおさんも　おっぱいを　こいしそうに　ながめて　いました。
+  words:
+    - word: そば
+      postiion: 0
+    - word: で
+      postiion: 2
+    - word: み
+      base: 見る
+      postiion: 4
+    - word: て
+      postiion: 5
+    - word: い
+      base: 居る
+      postiion: 7
+    - word: た
+      postiion: 8
+    - word: よしお
+      postiion: 10
+    - word: さん
+      postiion: 13
+    - word: も
+      postiion: 15
+    - word: おっぱい
+      postiion: 17
+    - word: を
+      postiion: 21
+    - word: こいし
+      base: 恋しい
+      postiion: 23
+    - word: そう
+      postiion: 26
+    - word: に
+      base: だ
+      postiion: 28
+    - word: ながめ
+      base: 眺める
+      postiion: 30
+    - word: て
+      postiion: 33
+    - word: い
+      base: 居る
+      postiion: 35
+    - word: まし
+      base: ます
+      postiion: 36
+    - word: た
+      postiion: 38

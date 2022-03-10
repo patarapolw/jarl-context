@@ -2,800 +2,2834 @@
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 犬と人形
-  word_list: [犬, と, 人形]
   sound: f000002.mp3
   sound_begin: 5424
   sound_end: 9076
+  sentence: 犬と人形
+  words:
+    - word: 犬
+      postiion: 0
+    - word: と
+      postiion: 1
+    - word: 人形
+      postiion: 2
 - id: Inuto Ningyo-f000003
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 東京では今度大地震と大火事がありましてたくさんのひとが死にました。
-  word_list: [東京, で, は, 今度, 大, 地震, と, 大, 火事, が, あり, まし, て, たくさん, の, ひと, が, 死に, まし, た]
   sound: f000003.mp3
   sound_begin: 9076
   sound_end: 16688
+  sentence: 東京では今度大地震と大火事がありましてたくさんのひとが死にました。
+  words:
+    - word: 東京
+      postiion: 0
+    - word: で
+      postiion: 2
+    - word: は
+      postiion: 3
+    - word: 今度
+      postiion: 4
+    - word: 大
+      postiion: 6
+    - word: 地震
+      postiion: 7
+    - word: と
+      postiion: 9
+    - word: 大
+      postiion: 10
+    - word: 火事
+      postiion: 11
+    - word: が
+      postiion: 13
+    - word: あり
+      base: 有る
+      postiion: 14
+    - word: まし
+      base: ます
+      postiion: 16
+    - word: て
+      postiion: 18
+    - word: たくさん
+      base: 沢山
+      postiion: 19
+    - word: の
+      postiion: 23
+    - word: ひと
+      base: 人
+      postiion: 24
+    - word: が
+      postiion: 26
+    - word: 死に
+      base: 死ぬ
+      postiion: 27
+    - word: まし
+      base: ます
+      postiion: 29
+    - word: た
+      postiion: 31
 - id: Inuto Ningyo-f000004
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 死ななかったひともおうちやきものやたべものがなくなって大変に困りました。
-  word_list: [死な, なかっ, た, ひと, も, お, うち, やきもの, や, たべもの, が, なくなっ, て, 大変, に, 困り, まし, た]
   sound: f000004.mp3
   sound_begin: 16688
   sound_end: 22800
+  sentence: 死ななかったひともおうちやきものやたべものがなくなって大変に困りました。
+  words:
+    - word: 死な
+      base: 死ぬ
+      postiion: 0
+    - word: なかっ
+      base: ない
+      postiion: 2
+    - word: た
+      postiion: 5
+    - word: ひと
+      base: 人
+      postiion: 6
+    - word: も
+      postiion: 8
+    - word: お
+      base: 御
+      postiion: 9
+    - word: うち
+      base: 内
+      postiion: 10
+    - word: やきもの
+      base: 焼き物
+      postiion: 12
+    - word: や
+      postiion: 12
+    - word: たべもの
+      base: 食べ物
+      postiion: 17
+    - word: が
+      postiion: 21
+    - word: なくなっ
+      base: なくなる
+      postiion: 22
+    - word: て
+      postiion: 26
+    - word: 大変
+      postiion: 27
+    - word: に
+      base: だ
+      postiion: 29
+    - word: 困り
+      base: 困る
+      postiion: 30
+    - word: まし
+      base: ます
+      postiion: 32
+    - word: た
+      postiion: 34
 - id: Inuto Ningyo-f000005
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 太郎さんと花子さんは、
-  word_list: [太郎, さん, と, 花子, さん, は]
   sound: f000005.mp3
   sound_begin: 24700
   sound_end: 27000
+  sentence: 太郎さんと花子さんは、
+  words:
+    - word: 太郎
+      postiion: 0
+    - word: さん
+      postiion: 2
+    - word: と
+      postiion: 4
+    - word: 花子
+      postiion: 5
+    - word: さん
+      postiion: 7
+    - word: は
+      postiion: 9
 - id: Inuto Ningyo-f000006
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: お父様とお母様に手を引かれて東京の近所のばあやの処へ逃げて来ました。
-  word_list: [お, 父様, と, お, 母様, に, 手, を, 引か, れ, て, 東京, の, 近所, の, ばあや, の, 処, へ, 逃げ, て, 来, まし, た]
   sound: f000006.mp3
   sound_begin: 27000
   sound_end: 35572
+  sentence: お父様とお母様に手を引かれて東京の近所のばあやの処へ逃げて来ました。
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: 父様
+      postiion: 1
+    - word: と
+      postiion: 3
+    - word: お
+      base: 御
+      postiion: 4
+    - word: 母様
+      postiion: 5
+    - word: に
+      postiion: 7
+    - word: 手
+      postiion: 8
+    - word: を
+      postiion: 9
+    - word: 引か
+      base: 引く
+      postiion: 10
+    - word: れ
+      base: れる
+      postiion: 12
+    - word: て
+      postiion: 13
+    - word: 東京
+      postiion: 14
+    - word: の
+      postiion: 16
+    - word: 近所
+      postiion: 17
+    - word: の
+      postiion: 19
+    - word: ばあや
+      base: 婆や
+      postiion: 20
+    - word: の
+      postiion: 23
+    - word: 処
+      postiion: 24
+    - word: へ
+      postiion: 25
+    - word: 逃げ
+      base: 逃げる
+      postiion: 26
+    - word: て
+      postiion: 28
+    - word: 来
+      base: 来る
+      postiion: 29
+    - word: まし
+      base: ます
+      postiion: 30
+    - word: た
+      postiion: 32
 - id: Inuto Ningyo-f000007
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 二人は久し振りに親切なばあやのお話をきいてよろこんでおとなしくねむりました。
-  word_list: [二人, は, 久し振り, に, 親切, な, ばあや, の, お, 話, を, きい, て, よろこん, で, おとなしく, ねむり, まし, た]
   sound: f000007.mp3
   sound_begin: 35572
   sound_end: 43560
+  sentence: 二人は久し振りに親切なばあやのお話をきいてよろこんでおとなしくねむりました。
+  words:
+    - word: 二人
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: 久し振り
+      postiion: 3
+    - word: に
+      postiion: 7
+    - word: 親切
+      postiion: 8
+    - word: な
+      base: だ
+      postiion: 10
+    - word: ばあや
+      base: 婆や
+      postiion: 11
+    - word: の
+      postiion: 14
+    - word: お
+      base: 御
+      postiion: 15
+    - word: 話
+      postiion: 16
+    - word: を
+      postiion: 17
+    - word: きい
+      base: きく
+      postiion: 18
+    - word: て
+      postiion: 20
+    - word: よろこん
+      base: 喜ぶ
+      postiion: 21
+    - word: で
+      postiion: 25
+    - word: おとなしく
+      base: 大人しい
+      postiion: 26
+    - word: ねむり
+      base: 眠る
+      postiion: 31
+    - word: まし
+      base: ます
+      postiion: 34
+    - word: た
+      postiion: 36
 - id: Inuto Ningyo-f000008
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: ところが夜中になると太郎さんはねむったまま大きな声を出して、
-  word_list: [ところ, が, 夜中, に, なる, と, 太郎, さん, は, ねむっ, た, まま, 大きな, 声, を, 出し, て]
   sound: f000008.mp3
   sound_begin: 45860
   sound_end: 53358
+  sentence: ところが夜中になると太郎さんはねむったまま大きな声を出して、
+  words:
+    - word: ところ
+      base: 所
+      postiion: 0
+    - word: が
+      postiion: 3
+    - word: 夜中
+      postiion: 4
+    - word: に
+      postiion: 6
+    - word: なる
+      base: 成る
+      postiion: 7
+    - word: と
+      postiion: 9
+    - word: 太郎
+      postiion: 10
+    - word: さん
+      postiion: 12
+    - word: は
+      postiion: 14
+    - word: ねむっ
+      base: 眠る
+      postiion: 15
+    - word: た
+      postiion: 18
+    - word: まま
+      base: 侭
+      postiion: 19
+    - word: 大きな
+      postiion: 21
+    - word: 声
+      postiion: 24
+    - word: を
+      postiion: 25
+    - word: 出し
+      base: 出す
+      postiion: 26
+    - word: て
+      postiion: 28
 - id: Inuto Ningyo-f000009
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 「ポチ、
-  word_list: [ポチ]
   sound: f000009.mp3
   sound_begin: 53358
   sound_end: 54778
+  sentence: 「ポチ、
+  words:
+    - word: ポチ
+      base: ぽち
+      postiion: 1
 - id: Inuto Ningyo-f000010
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: ポチ」
-  word_list: [ポチ]
   sound: f000010.mp3
   sound_begin: 54778
   sound_end: 56258
+  sentence: ポチ」
+  words:
+    - word: ポチ
+      base: ぽち
+      postiion: 0
 - id: Inuto Ningyo-f000011
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: とよびました。
-  word_list: [と, よび, まし, た]
   sound: f000011.mp3
   sound_begin: 56256
   sound_end: 59160
+  sentence: とよびました。
+  words:
+    - word: と
+      postiion: 0
+    - word: よび
+      base: 呼ぶ
+      postiion: 1
+    - word: まし
+      base: ます
+      postiion: 3
+    - word: た
+      postiion: 5
 - id: Inuto Ningyo-f000012
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: すると花子さんもねむったままで、
-  word_list: [する, と, 花子, さん, も, ねむっ, た, まま, で]
   sound: f000012.mp3
   sound_begin: 59160
   sound_end: 63080
+  sentence: すると花子さんもねむったままで、
+  words:
+    - word: する
+      base: 為る
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: 花子
+      postiion: 3
+    - word: さん
+      postiion: 5
+    - word: も
+      postiion: 7
+    - word: ねむっ
+      base: 眠る
+      postiion: 8
+    - word: た
+      postiion: 11
+    - word: まま
+      base: 侭
+      postiion: 12
+    - word: で
+      postiion: 14
 - id: Inuto Ningyo-f000013
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 「メリーさん、
-  word_list: [メリー, さん]
   sound: f000013.mp3
   sound_begin: 63080
   sound_end: 64640
+  sentence: 「メリーさん、
+  words:
+    - word: メリー
+      postiion: 1
+    - word: さん
+      postiion: 4
 - id: Inuto Ningyo-f000014
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: メリーさん」
-  word_list: [メリー, さん]
   sound: f000014.mp3
   sound_begin: 64640
   sound_end: 66525
+  sentence: メリーさん」
+  words:
+    - word: メリー
+      postiion: 0
+    - word: さん
+      postiion: 3
 - id: Inuto Ningyo-f000015
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: と呼びました。
-  word_list: [と, 呼び, まし, た]
   sound: f000015.mp3
   sound_begin: 66525
   sound_end: 69280
+  sentence: と呼びました。
+  words:
+    - word: と
+      postiion: 0
+    - word: 呼び
+      base: 呼ぶ
+      postiion: 1
+    - word: まし
+      base: ます
+      postiion: 3
+    - word: た
+      postiion: 5
 - id: Inuto Ningyo-f000016
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: そうしてまたスヤスヤとねむりました。
-  word_list: [そう, し, て, また, スヤスヤ, と, ねむり, まし, た]
   sound: f000016.mp3
   sound_begin: 69280
   sound_end: 75600
+  sentence: そうしてまたスヤスヤとねむりました。
+  words:
+    - word: そう
+      postiion: 0
+    - word: し
+      base: 為る
+      postiion: 2
+    - word: て
+      postiion: 3
+    - word: また
+      base: 又
+      postiion: 4
+    - word: スヤスヤ
+      base: すやすや
+      postiion: 6
+    - word: と
+      postiion: 10
+    - word: ねむり
+      base: 眠る
+      postiion: 11
+    - word: まし
+      base: ます
+      postiion: 14
+    - word: た
+      postiion: 16
 - id: Inuto Ningyo-f000017
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: お父様とお母様とは顔を見合わせて、
-  word_list: [お, 父様, と, お, 母様, と, は, 顔, を, 見, 合わせ, て]
   sound: f000017.mp3
   sound_begin: 75600
   sound_end: 80600
+  sentence: お父様とお母様とは顔を見合わせて、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: 父様
+      postiion: 1
+    - word: と
+      postiion: 3
+    - word: お
+      base: 御
+      postiion: 4
+    - word: 母様
+      postiion: 5
+    - word: と
+      postiion: 7
+    - word: は
+      postiion: 8
+    - word: 顔
+      postiion: 9
+    - word: を
+      postiion: 10
+    - word: 見
+      base: 見る
+      postiion: 11
+    - word: 合わせ
+      base: 合う
+      postiion: 12
+    - word: て
+      postiion: 15
 - id: Inuto Ningyo-f000018
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 「犬とお人形の夢を見ているのですよ」
-  word_list: [犬, と, お, 人形, の, 夢, を, 見, て, いる, の, です, よ]
   sound: f000018.mp3
   sound_begin: 80600
   sound_end: 85760
+  sentence: 「犬とお人形の夢を見ているのですよ」
+  words:
+    - word: 犬
+      postiion: 1
+    - word: と
+      postiion: 2
+    - word: お
+      base: 御
+      postiion: 3
+    - word: 人形
+      postiion: 4
+    - word: の
+      postiion: 6
+    - word: 夢
+      postiion: 7
+    - word: を
+      postiion: 8
+    - word: 見
+      base: 見る
+      postiion: 9
+    - word: て
+      postiion: 10
+    - word: いる
+      base: 居る
+      postiion: 11
+    - word: の
+      postiion: 13
+    - word: です
+      postiion: 14
+    - word: よ
+      postiion: 16
 - id: Inuto Ningyo-f000019
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 「どちらも焼けてしまっただろう。
-  word_list: [どちら, も, 焼け, て, しまっ, た, だろう]
   sound: f000019.mp3
   sound_begin: 85760
   sound_end: 88213
+  sentence: 「どちらも焼けてしまっただろう。
+  words:
+    - word: どちら
+      postiion: 1
+    - word: も
+      postiion: 4
+    - word: 焼け
+      base: 焼く
+      postiion: 5
+    - word: て
+      postiion: 7
+    - word: しまっ
+      base: 仕舞う
+      postiion: 8
+    - word: た
+      postiion: 11
+    - word: だろう
+      base: だ
+      postiion: 12
 - id: Inuto Ningyo-f000020
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 可哀そうに……」
-  word_list: [可哀そう, に]
   sound: f000020.mp3
   sound_begin: 88213
   sound_end: 90086
+  sentence: 可哀そうに……」
+  words:
+    - word: 可哀そう
+      base: 可哀想
+      postiion: 0
+    - word: に
+      base: だ
+      postiion: 4
 - id: Inuto Ningyo-f000021
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: と言われました。
-  word_list: [と, 言わ, れ, まし, た]
   sound: f000021.mp3
   sound_begin: 90086
   sound_end: 91916
+  sentence: と言われました。
+  words:
+    - word: と
+      postiion: 0
+    - word: 言わ
+      base: 言う
+      postiion: 1
+    - word: れ
+      base: れる
+      postiion: 3
+    - word: まし
+      base: ます
+      postiion: 4
+    - word: た
+      postiion: 6
 - id: Inuto Ningyo-f000022
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: あくる朝、
-  word_list: [あくる, 朝]
   sound: f000022.mp3
   sound_begin: 94640
   sound_end: 96630
+  sentence: あくる朝、
+  words:
+    - word: あくる
+      base: 明ける
+      postiion: 0
+    - word: 朝
+      postiion: 3
 - id: Inuto Ningyo-f000023
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 太郎さんと花子さんは二人揃ってお父様とお母様の前へ出て、
-  word_list: [太郎, さん, と, 花子, さん, は, 二人, 揃っ, て, お, 父様, と, お, 母様, の, 前, へ, 出, て]
   sound: f000023.mp3
   sound_begin: 96630
   sound_end: 102520
+  sentence: 太郎さんと花子さんは二人揃ってお父様とお母様の前へ出て、
+  words:
+    - word: 太郎
+      postiion: 0
+    - word: さん
+      postiion: 2
+    - word: と
+      postiion: 4
+    - word: 花子
+      postiion: 5
+    - word: さん
+      postiion: 7
+    - word: は
+      postiion: 9
+    - word: 二人
+      postiion: 10
+    - word: 揃っ
+      base: 揃う
+      postiion: 12
+    - word: て
+      postiion: 14
+    - word: お
+      base: 御
+      postiion: 15
+    - word: 父様
+      postiion: 16
+    - word: と
+      postiion: 18
+    - word: お
+      base: 御
+      postiion: 19
+    - word: 母様
+      postiion: 20
+    - word: の
+      postiion: 22
+    - word: 前
+      postiion: 23
+    - word: へ
+      postiion: 24
+    - word: 出
+      base: 出る
+      postiion: 25
+    - word: て
+      postiion: 26
 - id: Inuto Ningyo-f000024
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 「どうぞも一ペン東京に連れて行って下さい。
-  word_list: [どうぞ, も, 一, ペン, 東京, に, 連れ, て, 行っ, て, 下さい]
   sound: f000024.mp3
   sound_begin: 104420
   sound_end: 109080
+  sentence: 「どうぞも一ペン東京に連れて行って下さい。
+  words:
+    - word: どうぞ
+      postiion: 1
+    - word: も
+      postiion: 4
+    - word: 一
+      base: '1'
+      postiion: 5
+    - word: ペン
+      postiion: 6
+    - word: 東京
+      postiion: 8
+    - word: に
+      postiion: 10
+    - word: 連れ
+      base: 連れる
+      postiion: 11
+    - word: て
+      postiion: 13
+    - word: 行っ
+      base: 行く
+      postiion: 14
+    - word: て
+      postiion: 16
+    - word: 下さい
+      base: 下さる
+      postiion: 17
 - id: Inuto Ningyo-f000025
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: あたしたちは昨夜二人共同じ夢をみました。
-  word_list: [あたし, たち, は, 昨夜, 二人, 共, 同じ, 夢, を, み, まし, た]
   sound: f000025.mp3
   sound_begin: 109080
   sound_end: 114474
+  sentence: あたしたちは昨夜二人共同じ夢をみました。
+  words:
+    - word: あたし
+      base: 私
+      postiion: 0
+    - word: たち
+      base: 達
+      postiion: 3
+    - word: は
+      postiion: 5
+    - word: 昨夜
+      postiion: 6
+    - word: 二人
+      postiion: 8
+    - word: 共
+      postiion: 10
+    - word: 同じ
+      postiion: 11
+    - word: 夢
+      postiion: 13
+    - word: を
+      postiion: 14
+    - word: み
+      base: 見る
+      postiion: 15
+    - word: まし
+      base: ます
+      postiion: 16
+    - word: た
+      postiion: 18
 - id: Inuto Ningyo-f000026
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: ポチもメリーちゃんも焼けずにいて、
-  word_list: [ポチ, も, メリー, ちゃん, も, 焼け, ず, に, い, て]
   sound: f000026.mp3
   sound_begin: 114474
   sound_end: 116720
+  sentence: ポチもメリーちゃんも焼けずにいて、
+  words:
+    - word: ポチ
+      base: ぽち
+      postiion: 0
+    - word: も
+      postiion: 2
+    - word: メリー
+      postiion: 3
+    - word: ちゃん
+      postiion: 6
+    - word: も
+      postiion: 9
+    - word: 焼け
+      base: 焼く
+      postiion: 10
+    - word: ず
+      postiion: 12
+    - word: に
+      postiion: 13
+    - word: い
+      base: 居る
+      postiion: 14
+    - word: て
+      postiion: 15
 - id: Inuto Ningyo-f000027
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 早くお迎えに来て頂戴っておまねきをしていましたから」
-  word_list: [早く, お, 迎え, に, 来, て, 頂戴, って, お, まねき, を, し, て, い, まし, た, から]
   sound: f000027.mp3
   sound_begin: 116720
   sound_end: 121223
+  sentence: 早くお迎えに来て頂戴っておまねきをしていましたから」
+  words:
+    - word: 早く
+      base: 早い
+      postiion: 0
+    - word: お
+      base: 御
+      postiion: 2
+    - word: 迎え
+      postiion: 3
+    - word: に
+      postiion: 5
+    - word: 来
+      base: 来る
+      postiion: 6
+    - word: て
+      postiion: 7
+    - word: 頂戴
+      postiion: 8
+    - word: って
+      postiion: 10
+    - word: お
+      base: 御
+      postiion: 12
+    - word: まねき
+      base: 招き
+      postiion: 13
+    - word: を
+      postiion: 16
+    - word: し
+      base: 為る
+      postiion: 17
+    - word: て
+      postiion: 18
+    - word: い
+      base: 居る
+      postiion: 19
+    - word: まし
+      base: ます
+      postiion: 20
+    - word: た
+      postiion: 22
+    - word: から
+      postiion: 23
 - id: Inuto Ningyo-f000028
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: と言いました。
-  word_list: [と, 言い, まし, た]
   sound: f000028.mp3
   sound_begin: 121223
   sound_end: 123565
+  sentence: と言いました。
+  words:
+    - word: と
+      postiion: 0
+    - word: 言い
+      base: 言う
+      postiion: 1
+    - word: まし
+      base: ます
+      postiion: 3
+    - word: た
+      postiion: 5
 - id: Inuto Ningyo-f000029
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: お父さんもお母さんも大層お笑いになって、
-  word_list: [お, 父さん, も, お, 母さん, も, 大層, お, 笑い, に, なっ, て]
   sound: f000029.mp3
   sound_begin: 123565
   sound_end: 127386
+  sentence: お父さんもお母さんも大層お笑いになって、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: 父さん
+      postiion: 1
+    - word: も
+      postiion: 4
+    - word: お
+      base: 御
+      postiion: 5
+    - word: 母さん
+      postiion: 6
+    - word: も
+      postiion: 9
+    - word: 大層
+      postiion: 10
+    - word: お
+      base: 御
+      postiion: 12
+    - word: 笑い
+      postiion: 13
+    - word: に
+      postiion: 15
+    - word: なっ
+      base: 成る
+      postiion: 16
+    - word: て
+      postiion: 18
 - id: Inuto Ningyo-f000030
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 「そんな事はない。
-  word_list: [そんな, 事, は, ない]
   sound: f000030.mp3
   sound_begin: 127386
   sound_end: 129320
+  sentence: 「そんな事はない。
+  words:
+    - word: そんな
+      postiion: 1
+    - word: 事
+      postiion: 4
+    - word: は
+      postiion: 5
+    - word: ない
+      base: 無い
+      postiion: 6
 - id: Inuto Ningyo-f000031
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 犬は逃げたかも知れないが、
-  word_list: [犬, は, 逃げ, た, か, も, 知れ, ない, が]
   sound: f000031.mp3
   sound_begin: 129320
   sound_end: 131520
+  sentence: 犬は逃げたかも知れないが、
+  words:
+    - word: 犬
+      postiion: 0
+    - word: は
+      postiion: 1
+    - word: 逃げ
+      base: 逃げる
+      postiion: 2
+    - word: た
+      postiion: 4
+    - word: か
+      postiion: 5
+    - word: も
+      postiion: 6
+    - word: 知れ
+      base: 知る
+      postiion: 7
+    - word: ない
+      postiion: 9
+    - word: が
+      postiion: 11
 - id: Inuto Ningyo-f000032
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 人形は押入れに仕舞ってあったのだから、
-  word_list: [人形, は, 押入れ, に, 仕舞っ, て, あっ, た, の, だ, から]
   sound: f000032.mp3
   sound_begin: 131520
   sound_end: 134240
+  sentence: 人形は押入れに仕舞ってあったのだから、
+  words:
+    - word: 人形
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: 押入れ
+      base: 押し入れ
+      postiion: 3
+    - word: に
+      postiion: 6
+    - word: 仕舞っ
+      base: 仕舞う
+      postiion: 7
+    - word: て
+      postiion: 10
+    - word: あっ
+      base: 有る
+      postiion: 11
+    - word: た
+      postiion: 13
+    - word: の
+      postiion: 14
+    - word: だ
+      postiion: 15
+    - word: から
+      postiion: 16
 - id: Inuto Ningyo-f000033
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: きっと焼けてしまったに違いない。
-  word_list: [きっと, 焼け, て, しまっ, た, に, 違い, ない]
   sound: f000033.mp3
   sound_begin: 134240
   sound_end: 137840
+  sentence: きっと焼けてしまったに違いない。
+  words:
+    - word: きっと
+      postiion: 0
+    - word: 焼け
+      base: 焼く
+      postiion: 3
+    - word: て
+      postiion: 5
+    - word: しまっ
+      base: 仕舞う
+      postiion: 6
+    - word: た
+      postiion: 9
+    - word: に
+      postiion: 10
+    - word: 違い
+      postiion: 11
+    - word: ない
+      base: 無い
+      postiion: 13
 - id: Inuto Ningyo-f000034
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: もうしかたがないから二人ともおとなしく遊ぶのですよ。
-  word_list: [もう, しかた, が, ない, から, 二人, と, も, おとなしく, 遊ぶ, の, です, よ]
   sound: f000034.mp3
   sound_begin: 137840
   sound_end: 142920
+  sentence: もうしかたがないから二人ともおとなしく遊ぶのですよ。
+  words:
+    - word: もう
+      postiion: 0
+    - word: しかた
+      base: 仕方
+      postiion: 2
+    - word: が
+      postiion: 5
+    - word: ない
+      base: 無い
+      postiion: 6
+    - word: から
+      postiion: 8
+    - word: 二人
+      postiion: 10
+    - word: と
+      postiion: 12
+    - word: も
+      postiion: 13
+    - word: おとなしく
+      base: 大人しい
+      postiion: 14
+    - word: 遊ぶ
+      postiion: 19
+    - word: の
+      postiion: 21
+    - word: です
+      postiion: 22
+    - word: よ
+      postiion: 24
 - id: Inuto Ningyo-f000035
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: そうしたら今に又いい犬といいお人形を買って上げるから」
-  word_list: [そう, し, たら, 今, に, 又, いい, 犬, と, いい, お, 人形, を, 買っ, て, 上げる, から]
   sound: f000035.mp3
   sound_begin: 142920
   sound_end: 150120
+  sentence: そうしたら今に又いい犬といいお人形を買って上げるから」
+  words:
+    - word: そう
+      postiion: 0
+    - word: し
+      base: 為る
+      postiion: 2
+    - word: たら
+      base: た
+      postiion: 3
+    - word: 今
+      postiion: 5
+    - word: に
+      postiion: 6
+    - word: 又
+      postiion: 7
+    - word: いい
+      base: 良い
+      postiion: 8
+    - word: 犬
+      postiion: 10
+    - word: と
+      postiion: 11
+    - word: いい
+      base: 良い
+      postiion: 12
+    - word: お
+      base: 御
+      postiion: 14
+    - word: 人形
+      postiion: 15
+    - word: を
+      postiion: 17
+    - word: 買っ
+      base: 買う
+      postiion: 18
+    - word: て
+      postiion: 20
+    - word: 上げる
+      postiion: 21
+    - word: から
+      postiion: 24
 - id: Inuto Ningyo-f000036
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: と言われました。
-  word_list: [と, 言わ, れ, まし, た]
   sound: f000036.mp3
   sound_begin: 150120
   sound_end: 151408
+  sentence: と言われました。
+  words:
+    - word: と
+      postiion: 0
+    - word: 言わ
+      base: 言う
+      postiion: 1
+    - word: れ
+      base: れる
+      postiion: 3
+    - word: まし
+      base: ます
+      postiion: 4
+    - word: た
+      postiion: 6
 - id: Inuto Ningyo-f000037
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 二人は悲しくなってシクシク泣き出しましたが、
-  word_list: [二人, は, 悲しく, なっ, て, シクシク, 泣き, 出し, まし, た, が]
   sound: f000037.mp3
   sound_begin: 152872
   sound_end: 157351
+  sentence: 二人は悲しくなってシクシク泣き出しましたが、
+  words:
+    - word: 二人
+      postiion: 0
+    - word: は
+      postiion: 2
+    - word: 悲しく
+      base: 悲しい
+      postiion: 3
+    - word: なっ
+      base: 成る
+      postiion: 6
+    - word: て
+      postiion: 8
+    - word: シクシク
+      base: しくしく
+      postiion: 9
+    - word: 泣き
+      base: 泣く
+      postiion: 13
+    - word: 出し
+      base: 出す
+      postiion: 15
+    - word: まし
+      base: ます
+      postiion: 17
+    - word: た
+      postiion: 19
+    - word: が
+      postiion: 20
 - id: Inuto Ningyo-f000038
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: やがて花子さんはばあやのお庭の隅に、
-  word_list: [やがて, 花子, さん, は, ばあや, の, お, 庭, の, 隅, に]
   sound: f000038.mp3
   sound_begin: 157351
   sound_end: 161960
+  sentence: やがて花子さんはばあやのお庭の隅に、
+  words:
+    - word: やがて
+      base: 軈て
+      postiion: 0
+    - word: 花子
+      postiion: 3
+    - word: さん
+      postiion: 5
+    - word: は
+      postiion: 7
+    - word: ばあや
+      base: 婆や
+      postiion: 8
+    - word: の
+      postiion: 11
+    - word: お
+      base: 御
+      postiion: 12
+    - word: 庭
+      postiion: 13
+    - word: の
+      postiion: 14
+    - word: 隅
+      postiion: 15
+    - word: に
+      postiion: 16
 - id: Inuto Ningyo-f000039
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 「メリーさんのお墓」と書いた木の札を立ててコスモスやケイトーの花を上げて拝みました。
-  word_list: [メリー, さん, の, お, 墓, と, 書い, た, 木, の, 札, を, 立て, て, コスモス, や, ケイトー, の, 花, を, 上げ, て, 拝み, まし, た]
   sound: f000039.mp3
   sound_begin: 161960
   sound_end: 170716
+  sentence: 「メリーさんのお墓」と書いた木の札を立ててコスモスやケイトーの花を上げて拝みました。
+  words:
+    - word: メリー
+      postiion: 1
+    - word: さん
+      postiion: 4
+    - word: の
+      postiion: 6
+    - word: お
+      base: 御
+      postiion: 7
+    - word: 墓
+      postiion: 8
+    - word: と
+      postiion: 10
+    - word: 書い
+      base: 書く
+      postiion: 11
+    - word: た
+      postiion: 13
+    - word: 木
+      postiion: 14
+    - word: の
+      postiion: 15
+    - word: 札
+      postiion: 16
+    - word: を
+      postiion: 17
+    - word: 立て
+      base: 立つ
+      postiion: 18
+    - word: て
+      postiion: 19
+    - word: コスモス
+      postiion: 21
+    - word: や
+      postiion: 25
+    - word: ケイトー
+      postiion: 26
+    - word: の
+      postiion: 30
+    - word: 花
+      postiion: 31
+    - word: を
+      postiion: 32
+    - word: 上げ
+      base: 上げる
+      postiion: 33
+    - word: て
+      postiion: 35
+    - word: 拝み
+      base: 拝む
+      postiion: 36
+    - word: まし
+      base: ます
+      postiion: 38
+    - word: た
+      postiion: 40
 - id: Inuto Ningyo-f000040
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 太郎さんは、
-  word_list: [太郎, さん, は]
   sound: f000040.mp3
   sound_begin: 170716
   sound_end: 171640
+  sentence: 太郎さんは、
+  words:
+    - word: 太郎
+      postiion: 0
+    - word: さん
+      postiion: 2
+    - word: は
+      postiion: 4
 - id: Inuto Ningyo-f000041
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 「ポチが生きていればメリーチャンもきっと焼けないでいるよ。
-  word_list: [ポチ, が, 生き, て, いれ, ば, メリー, チャン, も, きっと, 焼け, ない, で, いる, よ]
   sound: f000041.mp3
   sound_begin: 173240
   sound_end: 177523
+  sentence: 「ポチが生きていればメリーチャンもきっと焼けないでいるよ。
+  words:
+    - word: ポチ
+      postiion: 1
+    - word: が
+      postiion: 3
+    - word: 生き
+      base: 生きる
+      postiion: 4
+    - word: て
+      postiion: 6
+    - word: いれ
+      base: 居る
+      postiion: 7
+    - word: ば
+      postiion: 9
+    - word: メリー
+      postiion: 10
+    - word: チャン
+      base: ちゃん
+      postiion: 13
+    - word: も
+      postiion: 16
+    - word: きっと
+      postiion: 17
+    - word: 焼け
+      base: 焼く
+      postiion: 20
+    - word: ない
+      postiion: 22
+    - word: で
+      postiion: 24
+    - word: いる
+      base: 居る
+      postiion: 25
+    - word: よ
+      postiion: 27
 - id: Inuto Ningyo-f000042
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: まだよくわからないのだからお墓を建てるのおよしよ」
-  word_list: [まだ, よく, わから, ない, の, だ, から, お, 墓, を, 建てる, の, お, よし, よ]
   sound: f000042.mp3
   sound_begin: 177523
   sound_end: 181959
+  sentence: まだよくわからないのだからお墓を建てるのおよしよ」
+  words:
+    - word: まだ
+      base: 未だ
+      postiion: 0
+    - word: よく
+      base: 良く
+      postiion: 2
+    - word: わから
+      base: 分かる
+      postiion: 4
+    - word: ない
+      postiion: 7
+    - word: の
+      postiion: 9
+    - word: だ
+      postiion: 10
+    - word: から
+      postiion: 11
+    - word: お
+      base: 御
+      postiion: 13
+    - word: 墓
+      postiion: 14
+    - word: を
+      postiion: 15
+    - word: 建てる
+      base: 立つ
+      postiion: 16
+    - word: の
+      postiion: 19
+    - word: お
+      base: 御
+      postiion: 20
+    - word: よし
+      postiion: 21
+    - word: よ
+      postiion: 21
 - id: Inuto Ningyo-f000043
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: と止めましたが、
-  word_list: [と, 止め, まし, た, が]
   sound: f000043.mp3
   sound_begin: 181959
   sound_end: 184240
+  sentence: と止めましたが、
+  words:
+    - word: と
+      postiion: 0
+    - word: 止め
+      base: 止める
+      postiion: 1
+    - word: まし
+      base: ます
+      postiion: 3
+    - word: た
+      postiion: 5
+    - word: が
+      postiion: 6
 - id: Inuto Ningyo-f000044
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 花子さんはただシクシク泣いて拝んでいました。
-  word_list: [花子, さん, は, ただ, シクシク, 泣い, て, 拝ん, で, い, まし, た]
   sound: f000044.mp3
   sound_begin: 184240
   sound_end: 188810
+  sentence: 花子さんはただシクシク泣いて拝んでいました。
+  words:
+    - word: 花子
+      postiion: 0
+    - word: さん
+      postiion: 2
+    - word: は
+      postiion: 4
+    - word: ただ
+      base: 唯
+      postiion: 5
+    - word: シクシク
+      base: しくしく
+      postiion: 7
+    - word: 泣い
+      base: 泣く
+      postiion: 11
+    - word: て
+      postiion: 13
+    - word: 拝ん
+      base: 拝む
+      postiion: 14
+    - word: で
+      postiion: 16
+    - word: い
+      base: 居る
+      postiion: 17
+    - word: まし
+      base: ます
+      postiion: 18
+    - word: た
+      postiion: 20
 - id: Inuto Ningyo-f000045
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 火事がすっかり済んでから、
-  word_list: [火事, が, すっかり, 済ん, で, から]
   sound: f000045.mp3
   sound_begin: 191320
   sound_end: 194040
+  sentence: 火事がすっかり済んでから、
+  words:
+    - word: 火事
+      postiion: 0
+    - word: が
+      postiion: 2
+    - word: すっかり
+      postiion: 3
+    - word: 済ん
+      base: 済む
+      postiion: 7
+    - word: で
+      postiion: 9
+    - word: から
+      postiion: 10
 - id: Inuto Ningyo-f000046
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: お父様は一人でお家の焼けあとを見にいらっしゃいましたが、
-  word_list: [お, 父様, は, 一人, で, お, 家, の, 焼けあと, を, 見, に, いらっしゃい, まし, た, が]
   sound: f000046.mp3
   sound_begin: 194040
   sound_end: 198984
+  sentence: お父様は一人でお家の焼けあとを見にいらっしゃいましたが、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: 父様
+      postiion: 1
+    - word: は
+      postiion: 3
+    - word: 一人
+      postiion: 4
+    - word: で
+      postiion: 6
+    - word: お
+      base: 御
+      postiion: 7
+    - word: 家
+      postiion: 8
+    - word: の
+      postiion: 9
+    - word: 焼けあと
+      base: 焼け跡
+      postiion: 10
+    - word: を
+      postiion: 14
+    - word: 見
+      base: 見る
+      postiion: 15
+    - word: に
+      postiion: 16
+    - word: いらっしゃい
+      base: いらっしゃる
+      postiion: 17
+    - word: まし
+      base: ます
+      postiion: 23
+    - word: た
+      postiion: 25
+    - word: が
+      postiion: 26
 - id: Inuto Ningyo-f000047
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 夕方になると急いで帰って来て、
-  word_list: [夕方, に, なる, と, 急い, で, 帰っ, て, 来, て]
   sound: f000047.mp3
   sound_begin: 198984
   sound_end: 202560
+  sentence: 夕方になると急いで帰って来て、
+  words:
+    - word: 夕方
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: なる
+      base: 成る
+      postiion: 3
+    - word: と
+      postiion: 5
+    - word: 急い
+      base: 急ぐ
+      postiion: 6
+    - word: で
+      postiion: 8
+    - word: 帰っ
+      base: 帰る
+      postiion: 9
+    - word: て
+      postiion: 11
+    - word: 来
+      base: 来る
+      postiion: 12
+    - word: て
+      postiion: 13
 - id: Inuto Ningyo-f000048
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 「うちはたった一軒焼け残っていた。
-  word_list: [うち, は, たった, 一, 軒, 焼け, 残っ, て, い, た]
   sound: f000048.mp3
   sound_begin: 202560
   sound_end: 204751
+  sentence: 「うちはたった一軒焼け残っていた。
+  words:
+    - word: うち
+      base: 内
+      postiion: 1
+    - word: は
+      postiion: 3
+    - word: たった
+      base: 唯
+      postiion: 4
+    - word: 一
+      base: '1'
+      postiion: 7
+    - word: 軒
+      postiion: 8
+    - word: 焼け
+      base: 焼く
+      postiion: 9
+    - word: 残っ
+      base: 残る
+      postiion: 11
+    - word: て
+      postiion: 13
+    - word: い
+      base: 居る
+      postiion: 14
+    - word: た
+      postiion: 15
 - id: Inuto Ningyo-f000049
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: さあみんな来い」
-  word_list: [さあ, みんな, 来い]
   sound: f000049.mp3
   sound_begin: 204751
   sound_end: 205878
+  sentence: さあみんな来い」
+  words:
+    - word: さあ
+      postiion: 0
+    - word: みんな
+      base: 皆
+      postiion: 2
+    - word: 来い
+      base: 来る
+      postiion: 5
 - id: Inuto Ningyo-f000050
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: と大喜びで、
-  word_list: [と, 大喜び, で]
   sound: f000050.mp3
   sound_begin: 205878
   sound_end: 208000
+  sentence: と大喜びで、
+  words:
+    - word: と
+      postiion: 0
+    - word: 大喜び
+      postiion: 1
+    - word: で
+      base: だ
+      postiion: 4
 - id: Inuto Ningyo-f000051
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: ばあやも連れて東京のおうちへお帰りになりました。
-  word_list: [ばあや, も, 連れ, て, 東京, の, お, うち, へ, お, 帰り, に, なり, まし, た]
   sound: f000051.mp3
   sound_begin: 208000
   sound_end: 212880
+  sentence: ばあやも連れて東京のおうちへお帰りになりました。
+  words:
+    - word: ばあや
+      base: 婆や
+      postiion: 0
+    - word: も
+      postiion: 3
+    - word: 連れ
+      base: 連れる
+      postiion: 4
+    - word: て
+      postiion: 6
+    - word: 東京
+      postiion: 7
+    - word: の
+      postiion: 9
+    - word: お
+      base: 御
+      postiion: 10
+    - word: うち
+      base: 内
+      postiion: 11
+    - word: へ
+      postiion: 13
+    - word: お
+      base: 御
+      postiion: 14
+    - word: 帰り
+      postiion: 15
+    - word: に
+      postiion: 17
+    - word: なり
+      base: 成る
+      postiion: 18
+    - word: まし
+      base: ます
+      postiion: 20
+    - word: た
+      postiion: 22
 - id: Inuto Ningyo-f000052
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: おうちに来ると花子さんは何より先に押入れをあけて人形を見つけますと、
-  word_list: [お, うち, に, 来る, と, 花子, さん, は, 何, より, 先, に, 押入れ, を, あけ, て, 人形, を, 見つけ, ます, と]
   sound: f000052.mp3
   sound_begin: 212880
   sound_end: 219419
+  sentence: おうちに来ると花子さんは何より先に押入れをあけて人形を見つけますと、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: うち
+      base: 内
+      postiion: 1
+    - word: に
+      postiion: 3
+    - word: 来る
+      postiion: 4
+    - word: と
+      postiion: 6
+    - word: 花子
+      postiion: 7
+    - word: さん
+      postiion: 9
+    - word: は
+      postiion: 11
+    - word: 何
+      postiion: 12
+    - word: より
+      postiion: 13
+    - word: 先
+      postiion: 15
+    - word: に
+      postiion: 16
+    - word: 押入れ
+      base: 押し入れ
+      postiion: 17
+    - word: を
+      postiion: 20
+    - word: あけ
+      base: あける
+      postiion: 21
+    - word: て
+      postiion: 23
+    - word: 人形
+      postiion: 24
+    - word: を
+      postiion: 26
+    - word: 見つけ
+      base: 見付ける
+      postiion: 27
+    - word: ます
+      postiion: 30
+    - word: と
+      postiion: 32
 - id: Inuto Ningyo-f000053
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 抱き締めて飛んでよろこびました。
-  word_list: [抱き, 締め, て, 飛ん, で, よろこび, まし, た]
   sound: f000053.mp3
   sound_begin: 219419
   sound_end: 222727
+  sentence: 抱き締めて飛んでよろこびました。
+  words:
+    - word: 抱き
+      base: 抱く
+      postiion: 0
+    - word: 締め
+      base: 締める
+      postiion: 2
+    - word: て
+      postiion: 4
+    - word: 飛ん
+      base: 飛ぶ
+      postiion: 5
+    - word: で
+      postiion: 7
+    - word: よろこび
+      base: 喜ぶ
+      postiion: 8
+    - word: まし
+      base: ます
+      postiion: 12
+    - word: た
+      postiion: 14
 - id: Inuto Ningyo-f000054
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: それと一緒に太郎さんはおうちのまわりをクルクルまわって、
-  word_list: [それ, と, 一緒, に, 太郎, さん, は, お, うち, の, まわり, を, クルクル, まわっ, て]
   sound: f000054.mp3
   sound_begin: 222727
   sound_end: 228276
+  sentence: それと一緒に太郎さんはおうちのまわりをクルクルまわって、
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: 一緒
+      postiion: 3
+    - word: に
+      postiion: 5
+    - word: 太郎
+      postiion: 6
+    - word: さん
+      postiion: 8
+    - word: は
+      postiion: 10
+    - word: お
+      base: 御
+      postiion: 11
+    - word: うち
+      base: 内
+      postiion: 12
+    - word: の
+      postiion: 14
+    - word: まわり
+      base: 周り
+      postiion: 15
+    - word: を
+      postiion: 18
+    - word: クルクル
+      base: くるくる
+      postiion: 19
+    - word: まわっ
+      base: 回る
+      postiion: 23
+    - word: て
+      postiion: 26
 - id: Inuto Ningyo-f000055
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 「ポチよ、
-  word_list: [ポチ, よ]
   sound: f000055.mp3
   sound_begin: 228276
   sound_end: 229652
+  sentence: 「ポチよ、
+  words:
+    - word: ポチ
+      base: ぽち
+      postiion: 1
+    - word: よ
+      postiion: 3
 - id: Inuto Ningyo-f000056
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: ポチよ」
-  word_list: [ポチ, よ]
   sound: f000056.mp3
   sound_begin: 229652
   sound_end: 231130
+  sentence: ポチよ」
+  words:
+    - word: ポチ
+      base: ぽち
+      postiion: 0
+    - word: よ
+      postiion: 2
 - id: Inuto Ningyo-f000057
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: と呼んでいましたが見つかりませんので、
-  word_list: [と, 呼ん, で, い, まし, た, が, 見つかり, ませ, ん, の, で]
   sound: f000057.mp3
   sound_begin: 231130
   sound_end: 234848
+  sentence: と呼んでいましたが見つかりませんので、
+  words:
+    - word: と
+      postiion: 0
+    - word: 呼ん
+      base: 呼ぶ
+      postiion: 1
+    - word: で
+      postiion: 3
+    - word: い
+      base: 居る
+      postiion: 4
+    - word: まし
+      base: ます
+      postiion: 5
+    - word: た
+      postiion: 7
+    - word: が
+      postiion: 8
+    - word: 見つかり
+      base: 見付かる
+      postiion: 9
+    - word: ませ
+      base: ます
+      postiion: 13
+    - word: ん
+      base: ず
+      postiion: 15
+    - word: の
+      postiion: 16
+    - word: で
+      base: だ
+      postiion: 17
 - id: Inuto Ningyo-f000058
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: ベソをかいて帰って来ました。
-  word_list: [ベソ, を, かい, て, 帰っ, て, 来, まし, た]
   sound: f000058.mp3
   sound_begin: 234848
   sound_end: 238040
+  sentence: ベソをかいて帰って来ました。
+  words:
+    - word: ベソ
+      base: べそ
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: かい
+      base: かく
+      postiion: 3
+    - word: て
+      postiion: 5
+    - word: 帰っ
+      base: 帰る
+      postiion: 6
+    - word: て
+      postiion: 8
+    - word: 来
+      base: 来る
+      postiion: 9
+    - word: まし
+      base: ます
+      postiion: 10
+    - word: た
+      postiion: 12
 - id: Inuto Ningyo-f000059
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: そうして今度はお庭の隅にポチのお墓をこしらえ始めました。
-  word_list: [そう, し, て, 今度, は, お, 庭, の, 隅, に, ポチ, の, お, 墓, を, こしらえ, 始め, まし, た]
   sound: f000059.mp3
   sound_begin: 238040
   sound_end: 245640
+  sentence: そうして今度はお庭の隅にポチのお墓をこしらえ始めました。
+  words:
+    - word: そう
+      postiion: 0
+    - word: し
+      base: 為る
+      postiion: 2
+    - word: て
+      postiion: 3
+    - word: 今度
+      postiion: 4
+    - word: は
+      postiion: 6
+    - word: お
+      base: 御
+      postiion: 7
+    - word: 庭
+      postiion: 8
+    - word: の
+      postiion: 9
+    - word: 隅
+      postiion: 10
+    - word: に
+      postiion: 11
+    - word: ポチ
+      base: ぽち
+      postiion: 12
+    - word: の
+      postiion: 14
+    - word: お
+      base: 御
+      postiion: 15
+    - word: 墓
+      postiion: 16
+    - word: を
+      postiion: 17
+    - word: こしらえ
+      base: 拵える
+      postiion: 18
+    - word: 始め
+      base: 始める
+      postiion: 22
+    - word: まし
+      base: ます
+      postiion: 24
+    - word: た
+      postiion: 26
 - id: Inuto Ningyo-f000060
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 花子さんはそれを見て、
-  word_list: [花子, さん, は, それ, を, 見, て]
   sound: f000060.mp3
   sound_begin: 245640
   sound_end: 248320
+  sentence: 花子さんはそれを見て、
+  words:
+    - word: 花子
+      postiion: 0
+    - word: さん
+      postiion: 2
+    - word: は
+      postiion: 4
+    - word: それ
+      base: 其れ
+      postiion: 5
+    - word: を
+      postiion: 7
+    - word: 見
+      base: 見る
+      postiion: 8
+    - word: て
+      postiion: 9
 - id: Inuto Ningyo-f000061
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 「お兄様、
-  word_list: [お, 兄, 様]
   sound: f000061.mp3
   sound_begin: 248320
   sound_end: 249760
+  sentence: 「お兄様、
+  words:
+    - word: お
+      base: 御
+      postiion: 1
+    - word: 兄
+      postiion: 2
+    - word: 様
+      postiion: 3
 - id: Inuto Ningyo-f000062
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: お人形が焼けなかったからポチもきっと無事ですよ。
-  word_list: [お, 人形, が, 焼け, なかっ, た, から, ポチ, も, きっと, 無事, です, よ]
   sound: f000062.mp3
   sound_begin: 249760
   sound_end: 253920
+  sentence: お人形が焼けなかったからポチもきっと無事ですよ。
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: 人形
+      postiion: 1
+    - word: が
+      postiion: 3
+    - word: 焼け
+      base: 焼く
+      postiion: 4
+    - word: なかっ
+      base: ない
+      postiion: 6
+    - word: た
+      postiion: 9
+    - word: から
+      postiion: 10
+    - word: ポチ
+      base: ぽち
+      postiion: 12
+    - word: も
+      postiion: 14
+    - word: きっと
+      postiion: 15
+    - word: 無事
+      postiion: 18
+    - word: です
+      postiion: 20
+    - word: よ
+      postiion: 22
 - id: Inuto Ningyo-f000063
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: お墓を作るのはおよしなさい」
-  word_list: [お, 墓, を, 作る, の, は, お, よし, なさい]
   sound: f000063.mp3
   sound_begin: 253920
   sound_end: 256514
+  sentence: お墓を作るのはおよしなさい」
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: 墓
+      postiion: 1
+    - word: を
+      postiion: 2
+    - word: 作る
+      postiion: 3
+    - word: の
+      postiion: 5
+    - word: は
+      postiion: 6
+    - word: お
+      base: 御
+      postiion: 7
+    - word: よし
+      base: 止す
+      postiion: 8
+    - word: なさい
+      base: 為す
+      postiion: 10
 - id: Inuto Ningyo-f000064
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: と慰めましたが、
-  word_list: [と, 慰め, まし, た, が]
   sound: f000064.mp3
   sound_begin: 256514
   sound_end: 258812
+  sentence: と慰めましたが、
+  words:
+    - word: と
+      postiion: 0
+    - word: 慰め
+      base: 慰める
+      postiion: 1
+    - word: まし
+      base: ます
+      postiion: 3
+    - word: た
+      postiion: 5
+    - word: が
+      postiion: 6
 - id: Inuto Ningyo-f000065
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 太郎さんはきかずにお墓を作ってお水を上げて拝んでいました。
-  word_list: [太郎, さん, は, きか, ず, に, お, 墓, を, 作っ, て, お, 水, を, 上げ, て, 拝ん, で, い, まし, た]
   sound: f000065.mp3
   sound_begin: 258812
   sound_end: 265720
+  sentence: 太郎さんはきかずにお墓を作ってお水を上げて拝んでいました。
+  words:
+    - word: 太郎
+      postiion: 0
+    - word: さん
+      postiion: 2
+    - word: は
+      postiion: 4
+    - word: きか
+      base: きく
+      postiion: 5
+    - word: ず
+      postiion: 7
+    - word: に
+      postiion: 8
+    - word: お
+      base: 御
+      postiion: 9
+    - word: 墓
+      postiion: 10
+    - word: を
+      postiion: 11
+    - word: 作っ
+      base: 作る
+      postiion: 12
+    - word: て
+      postiion: 14
+    - word: お
+      base: 御
+      postiion: 15
+    - word: 水
+      postiion: 16
+    - word: を
+      postiion: 17
+    - word: 上げ
+      base: 上げる
+      postiion: 18
+    - word: て
+      postiion: 20
+    - word: 拝ん
+      base: 拝む
+      postiion: 21
+    - word: で
+      postiion: 23
+    - word: い
+      base: 居る
+      postiion: 24
+    - word: まし
+      base: ます
+      postiion: 25
+    - word: た
+      postiion: 27
 - id: Inuto Ningyo-f000066
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: するとその晩おそくワンワンワンとはげしく犬が吠える声と一緒に、
-  word_list: [する, と, その, 晩, おそく, ワンワンワン, と, はげしく, 犬, が, 吠える, 声, と, 一緒, に]
   sound: f000066.mp3
   sound_begin: 265720
   sound_end: 274007
+  sentence: するとその晩おそくワンワンワンとはげしく犬が吠える声と一緒に、
+  words:
+    - word: する
+      base: 為る
+      postiion: 0
+    - word: と
+      postiion: 2
+    - word: その
+      base: 其の
+      postiion: 3
+    - word: 晩
+      postiion: 5
+    - word: おそく
+      base: 遅い
+      postiion: 6
+    - word: ワンワンワン
+      postiion: 9
+    - word: と
+      postiion: 15
+    - word: はげしく
+      base: 激しい
+      postiion: 16
+    - word: 犬
+      postiion: 20
+    - word: が
+      postiion: 21
+    - word: 吠える
+      postiion: 22
+    - word: 声
+      postiion: 25
+    - word: と
+      postiion: 26
+    - word: 一緒
+      postiion: 27
+    - word: に
+      postiion: 29
 - id: Inuto Ningyo-f000067
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 「痛い痛い。
-  word_list: [痛い, 痛い]
   sound: f000067.mp3
   sound_begin: 274008
   sound_end: 275397
+  sentence: 「痛い痛い。
+  words:
+    - word: 痛い
+      postiion: 1
+    - word: 痛い
+      postiion: 1
 - id: Inuto Ningyo-f000068
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 畜生。
-  word_list: [畜生]
   sound: f000068.mp3
   sound_begin: 275397
   sound_end: 276232
+  sentence: 畜生。
+  words:
+    - word: 畜生
+      postiion: 0
 - id: Inuto Ningyo-f000069
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: ア痛た痛た。
-  word_list: [ア, 痛, た, 痛, た]
   sound: f000069.mp3
   sound_begin: 276229
   sound_end: 277117
+  sentence: ア痛た痛た。
+  words:
+    - word: ア
+      postiion: 0
+    - word: 痛
+      postiion: 1
+    - word: た
+      postiion: 2
+    - word: 痛
+      base: 痛い
+      postiion: 3
+    - word: た
+      postiion: 4
 - id: Inuto Ningyo-f000070
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 助けてくれ」
-  word_list: [助け, て, くれ]
   sound: f000070.mp3
   sound_begin: 277117
   sound_end: 278240
+  sentence: 助けてくれ」
+  words:
+    - word: 助け
+      base: 助ける
+      postiion: 0
+    - word: て
+      postiion: 2
+    - word: くれ
+      base: 呉れる
+      postiion: 3
 - id: Inuto Ningyo-f000071
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: と言ううちに、
-  word_list: [と, 言う, うち, に]
   sound: f000071.mp3
   sound_begin: 278240
   sound_end: 279680
+  sentence: と言ううちに、
+  words:
+    - word: と
+      postiion: 0
+    - word: 言う
+      postiion: 1
+    - word: うち
+      base: 内
+      postiion: 3
+    - word: に
+      postiion: 5
 - id: Inuto Ningyo-f000072
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: バタバタと誰か逃げて行く音がしました。
-  word_list: [バタバタ, と, 誰, か, 逃げ, て, 行く, 音, が, し, まし, た]
   sound: f000072.mp3
   sound_begin: 279680
   sound_end: 283493
+  sentence: バタバタと誰か逃げて行く音がしました。
+  words:
+    - word: バタバタ
+      base: ばたばた
+      postiion: 0
+    - word: と
+      postiion: 4
+    - word: 誰
+      postiion: 5
+    - word: か
+      postiion: 6
+    - word: 逃げ
+      base: 逃げる
+      postiion: 7
+    - word: て
+      postiion: 9
+    - word: 行く
+      postiion: 10
+    - word: 音
+      postiion: 12
+    - word: が
+      postiion: 13
+    - word: し
+      base: 為る
+      postiion: 14
+    - word: まし
+      base: ます
+      postiion: 15
+    - word: た
+      postiion: 17
 - id: Inuto Ningyo-f000073
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 太郎さんは一番に飛び起きて、
-  word_list: [太郎, さん, は, 一番, に, 飛び, 起き, て]
   sound: f000073.mp3
   sound_begin: 283493
   sound_end: 285791
+  sentence: 太郎さんは一番に飛び起きて、
+  words:
+    - word: 太郎
+      postiion: 0
+    - word: さん
+      postiion: 2
+    - word: は
+      postiion: 4
+    - word: 一番
+      postiion: 5
+    - word: に
+      postiion: 7
+    - word: 飛び
+      base: 飛ぶ
+      postiion: 8
+    - word: 起き
+      base: 起きる
+      postiion: 10
+    - word: て
+      postiion: 12
 - id: Inuto Ningyo-f000074
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 「ポチだ、
-  word_list: [ポチ, だ]
   sound: f000074.mp3
   sound_begin: 285791
   sound_end: 287174
+  sentence: 「ポチだ、
+  words:
+    - word: ポチ
+      base: ぽち
+      postiion: 1
+    - word: だ
+      postiion: 3
 - id: Inuto Ningyo-f000075
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: ポチだ」
-  word_list: [ポチ, だ]
   sound: f000075.mp3
   sound_begin: 287174
   sound_end: 288104
+  sentence: ポチだ」
+  words:
+    - word: ポチ
+      base: ぽち
+      postiion: 0
+    - word: だ
+      postiion: 2
 - id: Inuto Ningyo-f000076
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: と表へ飛び出しました。
-  word_list: [と, 表, へ, 飛び, 出し, まし, た]
   sound: f000076.mp3
   sound_begin: 288104
   sound_end: 291040
+  sentence: と表へ飛び出しました。
+  words:
+    - word: と
+      postiion: 0
+    - word: 表
+      postiion: 1
+    - word: へ
+      postiion: 2
+    - word: 飛び
+      base: 飛ぶ
+      postiion: 3
+    - word: 出し
+      base: 出す
+      postiion: 5
+    - word: まし
+      base: ます
+      postiion: 7
+    - word: た
+      postiion: 9
 - id: Inuto Ningyo-f000077
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: お父様もお母様も花子さんも驚いてみんな表へ出ますと、
-  word_list: [お, 父様, も, お, 母様, も, 花子, さん, も, 驚い, て, みんな, 表, へ, 出, ます, と]
   sound: f000077.mp3
   sound_begin: 291040
   sound_end: 296600
+  sentence: お父様もお母様も花子さんも驚いてみんな表へ出ますと、
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: 父様
+      postiion: 1
+    - word: も
+      postiion: 3
+    - word: お
+      base: 御
+      postiion: 4
+    - word: 母様
+      postiion: 5
+    - word: も
+      postiion: 7
+    - word: 花子
+      postiion: 8
+    - word: さん
+      postiion: 10
+    - word: も
+      postiion: 12
+    - word: 驚い
+      base: 驚く
+      postiion: 13
+    - word: て
+      postiion: 15
+    - word: みんな
+      base: 皆
+      postiion: 16
+    - word: 表
+      postiion: 19
+    - word: へ
+      postiion: 20
+    - word: 出
+      base: 出る
+      postiion: 21
+    - word: ます
+      postiion: 22
+    - word: と
+      postiion: 24
 - id: Inuto Ningyo-f000078
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 泥棒のようななりをした大男が犬に食いつかれて跛を引き引き向うへ逃げて行きます。
-  word_list: [泥棒, の, よう, な, なり, を, し, た, 大男, が, 犬, に, 食い, つか, れ, て, 跛, を, 引き, 引き, 向う, へ, 逃げ, て, 行き, ます]
   sound: f000078.mp3
   sound_begin: 296600
   sound_end: 304528
+  sentence: 泥棒のようななりをした大男が犬に食いつかれて跛を引き引き向うへ逃げて行きます。
+  words:
+    - word: 泥棒
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: よう
+      base: 様
+      postiion: 3
+    - word: な
+      base: だ
+      postiion: 5
+    - word: なり
+      postiion: 6
+    - word: を
+      postiion: 8
+    - word: し
+      base: 為る
+      postiion: 9
+    - word: た
+      postiion: 10
+    - word: 大男
+      postiion: 11
+    - word: が
+      postiion: 13
+    - word: 犬
+      postiion: 14
+    - word: に
+      postiion: 15
+    - word: 食い
+      base: 食う
+      postiion: 16
+    - word: つか
+      base: 付く
+      postiion: 18
+    - word: れ
+      base: れる
+      postiion: 20
+    - word: て
+      postiion: 21
+    - word: 跛
+      postiion: 22
+    - word: を
+      postiion: 23
+    - word: 引き
+      base: 引く
+      postiion: 24
+    - word: 引き
+      postiion: 24
+    - word: 向う
+      base: 向こう
+      postiion: 28
+    - word: へ
+      postiion: 30
+    - word: 逃げ
+      base: 逃げる
+      postiion: 31
+    - word: て
+      postiion: 33
+    - word: 行き
+      base: 行く
+      postiion: 34
+    - word: ます
+      postiion: 36
 - id: Inuto Ningyo-f000079
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: そのあとからポチが一所懸命吠えながら追っかけて行きますと、
-  word_list: [その, あと, から, ポチ, が, 一所, 懸命, 吠え, ながら, 追っ, かけ, て, 行き, ます, と]
   sound: f000079.mp3
   sound_begin: 304528
   sound_end: 311080
+  sentence: そのあとからポチが一所懸命吠えながら追っかけて行きますと、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: あと
+      base: 後
+      postiion: 2
+    - word: から
+      postiion: 4
+    - word: ポチ
+      postiion: 6
+    - word: が
+      postiion: 8
+    - word: 一所
+      postiion: 9
+    - word: 懸命
+      postiion: 11
+    - word: 吠え
+      base: 吠える
+      postiion: 13
+    - word: ながら
+      postiion: 15
+    - word: 追っ
+      base: 追う
+      postiion: 18
+    - word: かけ
+      base: 掛ける
+      postiion: 20
+    - word: て
+      postiion: 22
+    - word: 行き
+      base: 行く
+      postiion: 23
+    - word: ます
+      postiion: 25
+    - word: と
+      postiion: 27
 - id: Inuto Ningyo-f000080
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: やがて泥棒は通りかかったお巡査さんに捕まってしまいました。
-  word_list: [やがて, 泥棒, は, 通り, かかっ, た, お, 巡査, さん, に, 捕まっ, て, しまい, まし, た]
   sound: f000080.mp3
   sound_begin: 311080
   sound_end: 317586
+  sentence: やがて泥棒は通りかかったお巡査さんに捕まってしまいました。
+  words:
+    - word: やがて
+      base: 軈て
+      postiion: 0
+    - word: 泥棒
+      postiion: 3
+    - word: は
+      postiion: 5
+    - word: 通り
+      base: 通る
+      postiion: 6
+    - word: かかっ
+      base: 掛かる
+      postiion: 8
+    - word: た
+      postiion: 11
+    - word: お
+      base: 御
+      postiion: 12
+    - word: 巡査
+      postiion: 13
+    - word: さん
+      postiion: 15
+    - word: に
+      postiion: 17
+    - word: 捕まっ
+      base: 捕まる
+      postiion: 18
+    - word: て
+      postiion: 21
+    - word: しまい
+      base: 仕舞う
+      postiion: 22
+    - word: まし
+      base: ます
+      postiion: 25
+    - word: た
+      postiion: 27
 - id: Inuto Ningyo-f000081
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 帰って来たポチを見ると、
-  word_list: [帰っ, て, 来, た, ポチ, を, 見る, と]
   sound: f000081.mp3
   sound_begin: 317586
   sound_end: 319958
+  sentence: 帰って来たポチを見ると、
+  words:
+    - word: 帰っ
+      base: 帰る
+      postiion: 0
+    - word: て
+      postiion: 2
+    - word: 来
+      base: 来る
+      postiion: 3
+    - word: た
+      postiion: 4
+    - word: ポチ
+      postiion: 5
+    - word: を
+      postiion: 7
+    - word: 見る
+      postiion: 8
+    - word: と
+      postiion: 10
 - id: Inuto Ningyo-f000082
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 太郎さんは抱きついて嬉し泣きをしました。
-  word_list: [太郎, さん, は, 抱き, つい, て, 嬉し泣き, を, し, まし, た]
   sound: f000082.mp3
   sound_begin: 319958
   sound_end: 324349
+  sentence: 太郎さんは抱きついて嬉し泣きをしました。
+  words:
+    - word: 太郎
+      postiion: 0
+    - word: さん
+      postiion: 2
+    - word: は
+      postiion: 4
+    - word: 抱き
+      base: 抱く
+      postiion: 5
+    - word: つい
+      base: 付く
+      postiion: 7
+    - word: て
+      postiion: 9
+    - word: 嬉し泣き
+      postiion: 10
+    - word: を
+      postiion: 14
+    - word: し
+      base: 為る
+      postiion: 15
+    - word: まし
+      base: ます
+      postiion: 16
+    - word: た
+      postiion: 18
 - id: Inuto Ningyo-f000083
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 「えらい、
-  word_list: [えらい]
   sound: f000083.mp3
   sound_begin: 324349
   sound_end: 324891
+  sentence: 「えらい、
+  words:
+    - word: えらい
+      base: 偉い
+      postiion: 1
 - id: Inuto Ningyo-f000084
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: えらい。
-  word_list: [えらい]
   sound: f000084.mp3
   sound_begin: 324891
   sound_end: 325403
+  sentence: えらい。
+  words:
+    - word: えらい
+      base: 偉い
+      postiion: 0
 - id: Inuto Ningyo-f000085
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: よく泥棒を追っ払った」
-  word_list: [よく, 泥棒, を, 追っ, 払っ, た]
   sound: f000085.mp3
   sound_begin: 325403
   sound_end: 327687
+  sentence: よく泥棒を追っ払った」
+  words:
+    - word: よく
+      base: 良く
+      postiion: 0
+    - word: 泥棒
+      postiion: 2
+    - word: を
+      postiion: 4
+    - word: 追っ
+      base: 追う
+      postiion: 5
+    - word: 払っ
+      base: 払う
+      postiion: 7
+    - word: た
+      postiion: 9
 - id: Inuto Ningyo-f000086
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 「さあ御ほうびにお握りを上げるよ」
-  word_list: [さあ, 御, ほうび, に, お握り, を, 上げる, よ]
   sound: f000086.mp3
   sound_begin: 327687
   sound_end: 331449
+  sentence: 「さあ御ほうびにお握りを上げるよ」
+  words:
+    - word: さあ
+      postiion: 1
+    - word: 御
+      postiion: 3
+    - word: ほうび
+      base: 褒美
+      postiion: 4
+    - word: に
+      postiion: 7
+    - word: お握り
+      base: 御握り
+      postiion: 8
+    - word: を
+      postiion: 11
+    - word: 上げる
+      postiion: 12
+    - word: よ
+      postiion: 15
 - id: Inuto Ningyo-f000087
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: とお父さんとお母さんが交わる交わるお賞めになりました。
-  word_list: [と, お, 父さん, と, お, 母さん, が, 交わる, 交わる, お, 賞め, に, なり, まし, た]
   sound: f000087.mp3
   sound_begin: 331449
   sound_end: 336120
+  sentence: とお父さんとお母さんが交わる交わるお賞めになりました。
+  words:
+    - word: と
+      postiion: 0
+    - word: お
+      base: 御
+      postiion: 1
+    - word: 父さん
+      postiion: 2
+    - word: と
+      postiion: 5
+    - word: お
+      base: 御
+      postiion: 6
+    - word: 母さん
+      postiion: 7
+    - word: が
+      postiion: 10
+    - word: 交わる
+      postiion: 11
+    - word: 交わる
+      postiion: 11
+    - word: お
+      base: 御
+      postiion: 17
+    - word: 賞め
+      base: 褒める
+      postiion: 18
+    - word: に
+      postiion: 20
+    - word: なり
+      base: 成る
+      postiion: 21
+    - word: まし
+      base: ます
+      postiion: 23
+    - word: た
+      postiion: 25
 - id: Inuto Ningyo-f000088
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 「やっぱりあの夢はほんとだったわね」
-  word_list: [やっぱり, あの, 夢, は, ほんと, だっ, た, わ, ね]
   sound: f000088.mp3
   sound_begin: 338220
   sound_end: 341560
+  sentence: 「やっぱりあの夢はほんとだったわね」
+  words:
+    - word: やっぱり
+      base: 矢張り
+      postiion: 1
+    - word: あの
+      postiion: 5
+    - word: 夢
+      postiion: 7
+    - word: は
+      postiion: 8
+    - word: ほんと
+      base: 本当
+      postiion: 9
+    - word: だっ
+      base: だ
+      postiion: 12
+    - word: た
+      postiion: 14
+    - word: わ
+      postiion: 15
+    - word: ね
+      postiion: 16
 - id: Inuto Ningyo-f000089
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: と花子さんは人形を抱きながら太郎さんに言いました。
-  word_list: [と, 花子, さん, は, 人形, を, 抱き, ながら, 太郎, さん, に, 言い, まし, た]
   sound: f000089.mp3
   sound_begin: 343160
   sound_end: 350362
+  sentence: と花子さんは人形を抱きながら太郎さんに言いました。
+  words:
+    - word: と
+      postiion: 0
+    - word: 花子
+      postiion: 1
+    - word: さん
+      postiion: 3
+    - word: は
+      postiion: 5
+    - word: 人形
+      postiion: 6
+    - word: を
+      postiion: 8
+    - word: 抱き
+      base: 抱く
+      postiion: 9
+    - word: ながら
+      postiion: 11
+    - word: 太郎
+      postiion: 14
+    - word: さん
+      postiion: 16
+    - word: に
+      postiion: 18
+    - word: 言い
+      base: 言う
+      postiion: 19
+    - word: まし
+      base: ます
+      postiion: 21
+    - word: た
+      postiion: 23
 - id: Inuto Ningyo-f000090
   author_japanese: 夢野 久作
   deck_name: Inuto Ningyo
   deck_name_japanese: 犬と人形
-  sentence: 太郎さんは犬の背中を撫でながら嬉しそうにうなずきました。
-  word_list: [太郎, さん, は, 犬, の, 背中, を, 撫で, ながら, 嬉し, そう, に, うなずき, まし, た]
   sound: f000090.mp3
   sound_begin: 350362
   sound_end: 358100
+  sentence: 太郎さんは犬の背中を撫でながら嬉しそうにうなずきました。
+  words:
+    - word: 太郎
+      postiion: 0
+    - word: さん
+      postiion: 2
+    - word: は
+      postiion: 4
+    - word: 犬
+      postiion: 5
+    - word: の
+      postiion: 6
+    - word: 背中
+      postiion: 7
+    - word: を
+      postiion: 9
+    - word: 撫で
+      base: 撫でる
+      postiion: 10
+    - word: ながら
+      postiion: 12
+    - word: 嬉し
+      base: 嬉しい
+      postiion: 15
+    - word: そう
+      postiion: 17
+    - word: に
+      base: だ
+      postiion: 19
+    - word: うなずき
+      base: 頷く
+      postiion: 20
+    - word: まし
+      base: ます
+      postiion: 24
+    - word: た
+      postiion: 26

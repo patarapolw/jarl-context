@@ -2,1079 +2,2665 @@
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 赤い船とつばめ
-  word_list: [赤い, 船, と, つばめ]
   sound: f000002.mp3
   sound_begin: 5815
   sound_end: 11840
+  sentence: 赤い船とつばめ
+  words:
+    - word: 赤い
+      postiion: 0
+    - word: 船
+      postiion: 2
+    - word: と
+      postiion: 3
+    - word: つばめ
+      base: 燕
+      postiion: 4
 - id: Akai Funeto Tsubame-f000003
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: ある日の晩方、
-  word_list: [ある, 日, の, 晩方]
   sound: f000003.mp3
   sound_begin: 11840
   sound_end: 13960
+  sentence: ある日の晩方、
+  words:
+    - word: ある
+      base: 或る
+      postiion: 0
+    - word: 日
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: 晩方
+      postiion: 4
 - id: Akai Funeto Tsubame-f000004
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 赤い船が、
-  word_list: [赤い, 船, が]
   sound: f000004.mp3
   sound_begin: 13960
   sound_end: 15120
+  sentence: 赤い船が、
+  words:
+    - word: 赤い
+      postiion: 0
+    - word: 船
+      postiion: 2
+    - word: が
+      postiion: 3
 - id: Akai Funeto Tsubame-f000005
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 浜辺につきました。
-  word_list: [浜辺, に, つき, まし, た]
   sound: f000005.mp3
   sound_begin: 15120
   sound_end: 17960
+  sentence: 浜辺につきました。
+  words:
+    - word: 浜辺
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: つき
+      base: つく
+      postiion: 3
+    - word: まし
+      base: ます
+      postiion: 5
+    - word: た
+      postiion: 7
 - id: Akai Funeto Tsubame-f000006
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: その船は、
-  word_list: [その, 船, は]
   sound: f000006.mp3
   sound_begin: 17960
   sound_end: 18920
+  sentence: その船は、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 船
+      postiion: 2
+    - word: は
+      postiion: 3
 - id: Akai Funeto Tsubame-f000007
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 南の国からきたので、
-  word_list: [南, の, 国, から, き, た, の, で]
   sound: f000007.mp3
   sound_begin: 18920
   sound_end: 21188
+  sentence: 南の国からきたので、
+  words:
+    - word: 南
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 国
+      postiion: 2
+    - word: から
+      postiion: 3
+    - word: き
+      base: 来る
+      postiion: 5
+    - word: た
+      postiion: 6
+    - word: の
+      postiion: 7
+    - word: で
+      base: だ
+      postiion: 8
 - id: Akai Funeto Tsubame-f000008
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: つばめを迎えに、
-  word_list: [つばめ, を, 迎え, に]
   sound: f000008.mp3
   sound_begin: 21188
   sound_end: 22400
+  sentence: つばめを迎えに、
+  words:
+    - word: つばめ
+      base: 燕
+      postiion: 0
+    - word: を
+      postiion: 3
+    - word: 迎え
+      base: 迎える
+      postiion: 4
+    - word: に
+      postiion: 6
 - id: Akai Funeto Tsubame-f000009
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 王さまが、
-  word_list: [王, さま, が]
   sound: f000009.mp3
   sound_begin: 22400
   sound_end: 23040
+  sentence: 王さまが、
+  words:
+    - word: 王
+      postiion: 0
+    - word: さま
+      base: 様
+      postiion: 1
+    - word: が
+      postiion: 3
 - id: Akai Funeto Tsubame-f000010
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: よこされたものです。
-  word_list: [よこさ, れ, た, もの, です]
   sound: f000010.mp3
   sound_begin: 23040
   sound_end: 26840
+  sentence: よこされたものです。
+  words:
+    - word: よこさ
+      base: 寄越す
+      postiion: 0
+    - word: れ
+      base: れる
+      postiion: 3
+    - word: た
+      postiion: 4
+    - word: もの
+      base: 物
+      postiion: 5
+    - word: です
+      postiion: 7
 - id: Akai Funeto Tsubame-f000011
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 長い間、
-  word_list: [長い, 間]
   sound: f000011.mp3
   sound_begin: 26840
   sound_end: 27800
+  sentence: 長い間、
+  words:
+    - word: 長い
+      postiion: 0
+    - word: 間
+      postiion: 2
 - id: Akai Funeto Tsubame-f000012
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 北の青い海の上を飛んだり、
-  word_list: [北, の, 青い, 海, の, 上, を, 飛ん, だり]
   sound: f000012.mp3
   sound_begin: 27800
   sound_end: 30320
+  sentence: 北の青い海の上を飛んだり、
+  words:
+    - word: 北
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 青い
+      postiion: 2
+    - word: 海
+      postiion: 4
+    - word: の
+      postiion: 5
+    - word: 上
+      postiion: 6
+    - word: を
+      postiion: 7
+    - word: 飛ん
+      base: 飛ぶ
+      postiion: 8
+    - word: だり
+      base: たり
+      postiion: 10
 - id: Akai Funeto Tsubame-f000013
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 電信柱の上にとまって、
-  word_list: [電信, 柱, の, 上, に, とまっ, て]
   sound: f000013.mp3
   sound_begin: 30320
   sound_end: 32600
+  sentence: 電信柱の上にとまって、
+  words:
+    - word: 電信
+      postiion: 0
+    - word: 柱
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: 上
+      postiion: 4
+    - word: に
+      postiion: 5
+    - word: とまっ
+      base: とまる
+      postiion: 6
+    - word: て
+      postiion: 9
 - id: Akai Funeto Tsubame-f000014
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: さえずっていましたつばめたちは、
-  word_list: [さえずっ, て, い, まし, た, つばめ, たち, は]
   sound: f000014.mp3
   sound_begin: 32600
   sound_end: 35520
+  sentence: さえずっていましたつばめたちは、
+  words:
+    - word: さえずっ
+      base: 囀る
+      postiion: 0
+    - word: て
+      postiion: 4
+    - word: い
+      base: 居る
+      postiion: 5
+    - word: まし
+      base: ます
+      postiion: 6
+    - word: た
+      postiion: 8
+    - word: つばめ
+      base: 燕
+      postiion: 9
+    - word: たち
+      base: 達
+      postiion: 12
+    - word: は
+      postiion: 14
 - id: Akai Funeto Tsubame-f000015
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 秋風がそよそよと吹いて、
-  word_list: [秋風, が, そよそよ, と, 吹い, て]
   sound: f000015.mp3
   sound_begin: 35520
   sound_end: 37760
+  sentence: 秋風がそよそよと吹いて、
+  words:
+    - word: 秋風
+      postiion: 0
+    - word: が
+      postiion: 2
+    - word: そよそよ
+      postiion: 3
+    - word: と
+      postiion: 7
+    - word: 吹い
+      base: 吹く
+      postiion: 8
+    - word: て
+      postiion: 10
 - id: Akai Funeto Tsubame-f000016
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 木の葉が色づくころになると、
-  word_list: [木の葉, が, 色づく, ころ, に, なる, と]
   sound: f000016.mp3
   sound_begin: 37760
   sound_end: 40640
+  sentence: 木の葉が色づくころになると、
+  words:
+    - word: 木の葉
+      postiion: 0
+    - word: が
+      postiion: 3
+    - word: 色づく
+      base: 色付く
+      postiion: 4
+    - word: ころ
+      base: 頃
+      postiion: 7
+    - word: に
+      postiion: 9
+    - word: なる
+      base: 成る
+      postiion: 10
+    - word: と
+      postiion: 12
 - id: Akai Funeto Tsubame-f000017
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: もはや、
-  word_list: [もはや]
   sound: f000017.mp3
   sound_begin: 40640
   sound_end: 41280
+  sentence: もはや、
+  words:
+    - word: もはや
+      base: 最早
+      postiion: 0
 - id: Akai Funeto Tsubame-f000018
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 南の方のお家へ帰らなければなりませんでした。
-  word_list: [南, の, 方, の, お, 家, へ, 帰ら, なけれ, ば, なり, ませ, ん, でし, た]
   sound: f000018.mp3
   sound_begin: 41280
   sound_end: 46160
+  sentence: 南の方のお家へ帰らなければなりませんでした。
+  words:
+    - word: 南
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: 方
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: お
+      base: 御
+      postiion: 4
+    - word: 家
+      postiion: 5
+    - word: へ
+      postiion: 6
+    - word: 帰ら
+      base: 帰る
+      postiion: 7
+    - word: なけれ
+      base: ない
+      postiion: 9
+    - word: ば
+      postiion: 12
+    - word: なり
+      base: 成る
+      postiion: 13
+    - word: ませ
+      base: ます
+      postiion: 15
+    - word: ん
+      base: ず
+      postiion: 17
+    - word: でし
+      base: です
+      postiion: 18
+    - word: た
+      postiion: 20
 - id: Akai Funeto Tsubame-f000019
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 寒さに弱い、
-  word_list: [寒, さ, に, 弱い]
   sound: f000019.mp3
   sound_begin: 46160
   sound_end: 47160
+  sentence: 寒さに弱い、
+  words:
+    - word: 寒
+      base: 寒い
+      postiion: 0
+    - word: さ
+      postiion: 1
+    - word: に
+      postiion: 2
+    - word: 弱い
+      postiion: 3
 - id: Akai Funeto Tsubame-f000020
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: この小鳥は、
-  word_list: [この, 小鳥, は]
   sound: f000020.mp3
   sound_begin: 47160
   sound_end: 48440
+  sentence: この小鳥は、
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: 小鳥
+      postiion: 2
+    - word: は
+      postiion: 4
 - id: Akai Funeto Tsubame-f000021
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: あたたかなところに育つように生まれついたからです。
-  word_list: [あたたか, な, ところ, に, 育つ, よう, に, 生まれ, つい, た, から, です]
   sound: f000021.mp3
   sound_begin: 48440
   sound_end: 55080
+  sentence: あたたかなところに育つように生まれついたからです。
+  words:
+    - word: あたたか
+      base: 温か
+      postiion: 0
+    - word: な
+      base: だ
+      postiion: 4
+    - word: ところ
+      base: 所
+      postiion: 5
+    - word: に
+      postiion: 8
+    - word: 育つ
+      postiion: 9
+    - word: よう
+      base: 様
+      postiion: 11
+    - word: に
+      base: だ
+      postiion: 13
+    - word: 生まれ
+      base: 生まれる
+      postiion: 14
+    - word: つい
+      base: 付く
+      postiion: 17
+    - word: た
+      postiion: 19
+    - word: から
+      postiion: 20
+    - word: です
+      postiion: 22
 - id: Akai Funeto Tsubame-f000022
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 王さまは、
-  word_list: [王, さま, は]
   sound: f000022.mp3
   sound_begin: 55080
   sound_end: 56120
+  sentence: 王さまは、
+  words:
+    - word: 王
+      postiion: 0
+    - word: さま
+      base: 様
+      postiion: 1
+    - word: は
+      postiion: 3
 - id: Akai Funeto Tsubame-f000023
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: もうつばめらの帰る時分だと思うと、
-  word_list: [もう, つばめ, ら, の, 帰る, 時分, だ, と, 思う, と]
   sound: f000023.mp3
   sound_begin: 56120
   sound_end: 59320
+  sentence: もうつばめらの帰る時分だと思うと、
+  words:
+    - word: もう
+      postiion: 0
+    - word: つばめ
+      base: 燕
+      postiion: 2
+    - word: ら
+      base: 等
+      postiion: 5
+    - word: の
+      postiion: 6
+    - word: 帰る
+      postiion: 7
+    - word: 時分
+      postiion: 9
+    - word: だ
+      postiion: 11
+    - word: と
+      postiion: 12
+    - word: 思う
+      postiion: 13
+    - word: と
+      postiion: 15
 - id: Akai Funeto Tsubame-f000024
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 赤い船を迎えによこされました。
-  word_list: [赤い, 船, を, 迎え, に, よこさ, れ, まし, た]
   sound: f000024.mp3
   sound_begin: 59320
   sound_end: 63429
+  sentence: 赤い船を迎えによこされました。
+  words:
+    - word: 赤い
+      postiion: 0
+    - word: 船
+      postiion: 2
+    - word: を
+      postiion: 3
+    - word: 迎え
+      base: 迎える
+      postiion: 4
+    - word: に
+      postiion: 6
+    - word: よこさ
+      base: 寄越す
+      postiion: 7
+    - word: れ
+      base: れる
+      postiion: 10
+    - word: まし
+      base: ます
+      postiion: 11
+    - word: た
+      postiion: 13
 - id: Akai Funeto Tsubame-f000025
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: つばめたちも、
-  word_list: [つばめ, たち, も]
   sound: f000025.mp3
   sound_begin: 63429
   sound_end: 64720
+  sentence: つばめたちも、
+  words:
+    - word: つばめ
+      base: 燕
+      postiion: 0
+    - word: たち
+      base: 達
+      postiion: 3
+    - word: も
+      postiion: 5
 - id: Akai Funeto Tsubame-f000026
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 船に乗りおくれてはならぬと思って、
-  word_list: [船, に, 乗り, おくれ, て, は, なら, ぬ, と, 思っ, て]
   sound: f000026.mp3
   sound_begin: 64720
   sound_end: 67280
+  sentence: 船に乗りおくれてはならぬと思って、
+  words:
+    - word: 船
+      postiion: 0
+    - word: に
+      postiion: 1
+    - word: 乗り
+      base: 乗る
+      postiion: 2
+    - word: おくれ
+      base: 遅れる
+      postiion: 4
+    - word: て
+      postiion: 7
+    - word: は
+      postiion: 8
+    - word: なら
+      base: 成る
+      postiion: 9
+    - word: ぬ
+      base: ず
+      postiion: 11
+    - word: と
+      postiion: 12
+    - word: 思っ
+      base: 思う
+      postiion: 13
+    - word: て
+      postiion: 15
 - id: Akai Funeto Tsubame-f000027
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: その時分には、
-  word_list: [その, 時分, に, は]
   sound: f000027.mp3
   sound_begin: 67280
   sound_end: 68320
+  sentence: その時分には、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 時分
+      postiion: 2
+    - word: に
+      postiion: 4
+    - word: は
+      postiion: 5
 - id: Akai Funeto Tsubame-f000028
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 海岸の近くにきて、
-  word_list: [海岸, の, 近く, に, き, て]
   sound: f000028.mp3
   sound_begin: 68320
   sound_end: 70080
+  sentence: 海岸の近くにきて、
+  words:
+    - word: 海岸
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 近く
+      postiion: 3
+    - word: に
+      postiion: 5
+    - word: き
+      base: 来る
+      postiion: 6
+    - word: て
+      postiion: 7
 - id: Akai Funeto Tsubame-f000029
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 気をつけていました。
-  word_list: [気, を, つけ, て, い, まし, た]
   sound: f000029.mp3
   sound_begin: 70080
   sound_end: 73000
+  sentence: 気をつけていました。
+  words:
+    - word: 気
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: つけ
+      base: つける
+      postiion: 2
+    - word: て
+      postiion: 4
+    - word: い
+      base: 居る
+      postiion: 5
+    - word: まし
+      base: ます
+      postiion: 6
+    - word: た
+      postiion: 8
 - id: Akai Funeto Tsubame-f000030
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: そして、
-  word_list: [そして]
   sound: f000030.mp3
   sound_begin: 73000
   sound_end: 73800
+  sentence: そして、
+  words:
+    - word: そして
+      postiion: 0
 - id: Akai Funeto Tsubame-f000031
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 波間に、
-  word_list: [波間, に]
   sound: f000031.mp3
   sound_begin: 73800
   sound_end: 74840
+  sentence: 波間に、
+  words:
+    - word: 波間
+      postiion: 0
+    - word: に
+      postiion: 2
 - id: Akai Funeto Tsubame-f000032
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 赤い船が見えると、
-  word_list: [赤い, 船, が, 見える, と]
   sound: f000032.mp3
   sound_begin: 74840
   sound_end: 77023
+  sentence: 赤い船が見えると、
+  words:
+    - word: 赤い
+      postiion: 0
+    - word: 船
+      postiion: 2
+    - word: が
+      postiion: 3
+    - word: 見える
+      postiion: 4
+    - word: と
+      postiion: 7
 - id: Akai Funeto Tsubame-f000033
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 「キイ、
-  word_list: [キイ]
   sound: f000033.mp3
   sound_begin: 77023
   sound_end: 77595
+  sentence: 「キイ、
+  words:
+    - word: キイ
+      base: キー
+      postiion: 1
 - id: Akai Funeto Tsubame-f000034
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: キイ……。
-  word_list: [キイ]
   sound: f000034.mp3
   sound_begin: 77595
   sound_end: 78597
+  sentence: キイ……。
+  words:
+    - word: キイ
+      base: キー
+      postiion: 0
 - id: Akai Funeto Tsubame-f000035
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 」といって、
-  word_list: [と, いっ, て]
   sound: f000035.mp3
   sound_begin: 78597
   sound_end: 79760
+  sentence: 」といって、
+  words:
+    - word: と
+      postiion: 1
+    - word: いっ
+      base: 言う
+      postiion: 2
+    - word: て
+      postiion: 4
 - id: Akai Funeto Tsubame-f000036
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 喜んで鳴いたのです。
-  word_list: [喜ん, で, 鳴い, た, の, です]
   sound: f000036.mp3
   sound_begin: 79760
   sound_end: 83360
+  sentence: 喜んで鳴いたのです。
+  words:
+    - word: 喜ん
+      base: 喜ぶ
+      postiion: 0
+    - word: で
+      postiion: 2
+    - word: 鳴い
+      base: 鳴く
+      postiion: 3
+    - word: た
+      postiion: 5
+    - word: の
+      postiion: 6
+    - word: です
+      postiion: 7
 - id: Akai Funeto Tsubame-f000037
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 早く見つけたつばめは、
-  word_list: [早く, 見つけ, た, つばめ, は]
   sound: f000037.mp3
   sound_begin: 83360
   sound_end: 85240
+  sentence: 早く見つけたつばめは、
+  words:
+    - word: 早く
+      base: 早い
+      postiion: 0
+    - word: 見つけ
+      base: 見付ける
+      postiion: 2
+    - word: た
+      postiion: 5
+    - word: つばめ
+      base: 燕
+      postiion: 6
+    - word: は
+      postiion: 9
 - id: Akai Funeto Tsubame-f000038
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: それをまだ知らない友だちに告げるために、
-  word_list: [それ, を, まだ, 知ら, ない, 友だち, に, 告げる, ため, に]
   sound: f000038.mp3
   sound_begin: 85240
   sound_end: 88080
+  sentence: それをまだ知らない友だちに告げるために、
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: を
+      postiion: 2
+    - word: まだ
+      base: 未だ
+      postiion: 3
+    - word: 知ら
+      base: 知る
+      postiion: 5
+    - word: ない
+      postiion: 7
+    - word: 友だち
+      base: 友達
+      postiion: 9
+    - word: に
+      postiion: 12
+    - word: 告げる
+      postiion: 13
+    - word: ため
+      base: 為
+      postiion: 16
+    - word: に
+      postiion: 18
 - id: Akai Funeto Tsubame-f000039
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 空高く舞い上がって、
-  word_list: [空, 高く, 舞い, 上がっ, て]
   sound: f000039.mp3
   sound_begin: 88080
   sound_end: 90231
+  sentence: 空高く舞い上がって、
+  words:
+    - word: 空
+      postiion: 0
+    - word: 高く
+      base: 高い
+      postiion: 1
+    - word: 舞い
+      base: 舞う
+      postiion: 3
+    - word: 上がっ
+      base: 上がる
+      postiion: 5
+    - word: て
+      postiion: 8
 - id: Akai Funeto Tsubame-f000040
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 紺色の美しい翼をひるがえしながら、
-  word_list: [紺, 色, の, 美しい, 翼, を, ひるがえし, ながら]
   sound: f000040.mp3
   sound_begin: 90231
   sound_end: 95040
+  sentence: 紺色の美しい翼をひるがえしながら、
+  words:
+    - word: 紺
+      postiion: 0
+    - word: 色
+      postiion: 1
+    - word: の
+      postiion: 2
+    - word: 美しい
+      postiion: 3
+    - word: 翼
+      postiion: 6
+    - word: を
+      postiion: 7
+    - word: ひるがえし
+      base: 翻す
+      postiion: 8
+    - word: ながら
+      postiion: 13
 - id: Akai Funeto Tsubame-f000041
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 「赤い船がきましたよ。
-  word_list: [赤い, 船, が, き, まし, た, よ]
   sound: f000041.mp3
   sound_begin: 95040
   sound_end: 97080
+  sentence: 「赤い船がきましたよ。
+  words:
+    - word: 赤い
+      postiion: 1
+    - word: 船
+      postiion: 3
+    - word: が
+      postiion: 4
+    - word: き
+      base: 来る
+      postiion: 5
+    - word: まし
+      base: ます
+      postiion: 6
+    - word: た
+      postiion: 8
+    - word: よ
+      postiion: 9
 - id: Akai Funeto Tsubame-f000042
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: さあ、
-  word_list: [さあ]
   sound: f000042.mp3
   sound_begin: 97080
   sound_end: 97840
+  sentence: さあ、
+  words:
+    - word: さあ
+      postiion: 0
 - id: Akai Funeto Tsubame-f000043
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: もう私たちは、
-  word_list: [もう, 私, たち, は]
   sound: f000043.mp3
   sound_begin: 97840
   sound_end: 98800
+  sentence: もう私たちは、
+  words:
+    - word: もう
+      postiion: 0
+    - word: 私
+      postiion: 2
+    - word: たち
+      base: 達
+      postiion: 3
+    - word: は
+      postiion: 5
 - id: Akai Funeto Tsubame-f000044
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 立つときです。
-  word_list: [立つ, とき, です]
   sound: f000044.mp3
   sound_begin: 98800
   sound_end: 100640
+  sentence: 立つときです。
+  words:
+    - word: 立つ
+      postiion: 0
+    - word: とき
+      base: 時
+      postiion: 2
+    - word: です
+      postiion: 4
 - id: Akai Funeto Tsubame-f000045
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: どうか、
-  word_list: [どう, か]
   sound: f000045.mp3
   sound_begin: 100640
   sound_end: 101400
+  sentence: どうか、
+  words:
+    - word: どう
+      postiion: 0
+    - word: か
+      postiion: 2
 - id: Akai Funeto Tsubame-f000046
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 遠方にいるお友だちに知らせてください。
-  word_list: [遠方, に, いる, お, 友だち, に, 知ら, せ, て, ください]
   sound: f000046.mp3
   sound_begin: 101400
   sound_end: 104485
+  sentence: 遠方にいるお友だちに知らせてください。
+  words:
+    - word: 遠方
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: いる
+      base: 居る
+      postiion: 3
+    - word: お
+      base: 御
+      postiion: 5
+    - word: 友だち
+      base: 友達
+      postiion: 6
+    - word: に
+      postiion: 9
+    - word: 知ら
+      base: 知る
+      postiion: 10
+    - word: せ
+      base: せる
+      postiion: 12
+    - word: て
+      postiion: 13
+    - word: ください
+      base: 下さる
+      postiion: 14
 - id: Akai Funeto Tsubame-f000047
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 」といいました。
-  word_list: [と, いい, まし, た]
   sound: f000047.mp3
   sound_begin: 104485
   sound_end: 107200
+  sentence: 」といいました。
+  words:
+    - word: と
+      postiion: 1
+    - word: いい
+      base: 言う
+      postiion: 2
+    - word: まし
+      base: ます
+      postiion: 4
+    - word: た
+      postiion: 6
 - id: Akai Funeto Tsubame-f000048
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: なかには遠いところにいて、
-  word_list: [なか, に, は, 遠い, ところ, に, い, て]
   sound: f000048.mp3
   sound_begin: 107200
   sound_end: 109600
+  sentence: なかには遠いところにいて、
+  words:
+    - word: なか
+      base: 中
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: は
+      postiion: 3
+    - word: 遠い
+      postiion: 4
+    - word: ところ
+      base: 所
+      postiion: 6
+    - word: に
+      postiion: 9
+    - word: い
+      base: 居る
+      postiion: 10
+    - word: て
+      postiion: 11
 - id: Akai Funeto Tsubame-f000049
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: まだ知らずにいるものもありました。
-  word_list: [まだ, 知ら, ず, に, いる, もの, も, あり, まし, た]
   sound: f000049.mp3
   sound_begin: 109600
   sound_end: 113758
+  sentence: まだ知らずにいるものもありました。
+  words:
+    - word: まだ
+      base: 未だ
+      postiion: 0
+    - word: 知ら
+      base: 知る
+      postiion: 2
+    - word: ず
+      postiion: 4
+    - word: に
+      postiion: 5
+    - word: いる
+      base: 居る
+      postiion: 6
+    - word: もの
+      base: 物
+      postiion: 8
+    - word: も
+      postiion: 8
+    - word: あり
+      base: 有る
+      postiion: 11
+    - word: まし
+      base: ます
+      postiion: 13
+    - word: た
+      postiion: 15
 - id: Akai Funeto Tsubame-f000050
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: そういうつばめは、
-  word_list: [そう, いう, つばめ, は]
   sound: f000050.mp3
   sound_begin: 113758
   sound_end: 115280
+  sentence: そういうつばめは、
+  words:
+    - word: そう
+      postiion: 0
+    - word: いう
+      base: 言う
+      postiion: 2
+    - word: つばめ
+      base: 燕
+      postiion: 4
+    - word: は
+      postiion: 7
 - id: Akai Funeto Tsubame-f000051
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 村に他のいいお友だちができて、
-  word_list: [村, に, 他, の, いい, お, 友だち, が, でき, て]
   sound: f000051.mp3
   sound_begin: 115280
   sound_end: 119920
+  sentence: 村に他のいいお友だちができて、
+  words:
+    - word: 村
+      postiion: 0
+    - word: に
+      postiion: 1
+    - word: 他
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: いい
+      base: 良い
+      postiion: 4
+    - word: お
+      base: 御
+      postiion: 6
+    - word: 友だち
+      base: 友達
+      postiion: 7
+    - word: が
+      postiion: 10
+    - word: でき
+      base: 出来る
+      postiion: 11
+    - word: て
+      postiion: 13
 - id: Akai Funeto Tsubame-f000052
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 「まあ、
-  word_list: [まあ]
   sound: f000052.mp3
   sound_begin: 119920
   sound_end: 120280
+  sentence: 「まあ、
+  words:
+    - word: まあ
+      postiion: 1
 - id: Akai Funeto Tsubame-f000053
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: まあ、
-  word_list: [まあ]
   sound: f000053.mp3
   sound_begin: 120280
   sound_end: 121080
+  sentence: まあ、
+  words:
+    - word: まあ
+      postiion: 0
 - id: Akai Funeto Tsubame-f000054
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: そんなに急いで、
-  word_list: [そんな, に, 急い, で]
   sound: f000054.mp3
   sound_begin: 121080
   sound_end: 122200
+  sentence: そんなに急いで、
+  words:
+    - word: そんな
+      postiion: 0
+    - word: に
+      base: だ
+      postiion: 3
+    - word: 急い
+      base: 急ぐ
+      postiion: 4
+    - word: で
+      postiion: 6
 - id: Akai Funeto Tsubame-f000055
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: お帰りなさることはない。
-  word_list: [お, 帰り, なさる, こと, は, ない]
   sound: f000055.mp3
   sound_begin: 122200
   sound_end: 124486
+  sentence: お帰りなさることはない。
+  words:
+    - word: お
+      base: 御
+      postiion: 0
+    - word: 帰り
+      base: 帰る
+      postiion: 1
+    - word: なさる
+      base: 為す
+      postiion: 3
+    - word: こと
+      postiion: 6
+    - word: は
+      postiion: 8
+    - word: ない
+      base: 無い
+      postiion: 9
 - id: Akai Funeto Tsubame-f000056
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 」といわれて、
-  word_list: [と, いわ, れ, て]
   sound: f000056.mp3
   sound_begin: 124486
   sound_end: 125856
+  sentence: 」といわれて、
+  words:
+    - word: と
+      postiion: 1
+    - word: いわ
+      base: 言う
+      postiion: 2
+    - word: れ
+      base: れる
+      postiion: 4
+    - word: て
+      postiion: 5
 - id: Akai Funeto Tsubame-f000057
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 引きとめられているつばめたちであったのでした。
-  word_list: [引き, とめ, られ, て, いる, つばめ, たち, で, あっ, た, の, でし, た]
   sound: f000057.mp3
   sound_begin: 125856
   sound_end: 132640
+  sentence: 引きとめられているつばめたちであったのでした。
+  words:
+    - word: 引き
+      base: 引く
+      postiion: 0
+    - word: とめ
+      base: とめる
+      postiion: 2
+    - word: られ
+      base: られる
+      postiion: 4
+    - word: て
+      postiion: 6
+    - word: いる
+      base: 居る
+      postiion: 7
+    - word: つばめ
+      base: 燕
+      postiion: 9
+    - word: たち
+      base: 達
+      postiion: 12
+    - word: で
+      base: だ
+      postiion: 14
+    - word: あっ
+      base: 有る
+      postiion: 15
+    - word: た
+      postiion: 17
+    - word: の
+      postiion: 18
+    - word: でし
+      base: です
+      postiion: 19
+    - word: た
+      postiion: 21
 - id: Akai Funeto Tsubame-f000058
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 赤い船は、
-  word_list: [赤い, 船, は]
   sound: f000058.mp3
   sound_begin: 132640
   sound_end: 133880
+  sentence: 赤い船は、
+  words:
+    - word: 赤い
+      postiion: 0
+    - word: 船
+      postiion: 2
+    - word: は
+      postiion: 3
 - id: Akai Funeto Tsubame-f000059
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 浜辺に四日、
-  word_list: [浜辺, に, 四, 日]
   sound: f000059.mp3
   sound_begin: 133880
   sound_end: 136120
+  sentence: 浜辺に四日、
+  words:
+    - word: 浜辺
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: 四
+      base: '4'
+      postiion: 3
+    - word: 日
+      postiion: 4
 - id: Akai Funeto Tsubame-f000060
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 五日、
-  word_list: [五, 日]
   sound: f000060.mp3
   sound_begin: 136120
   sound_end: 136720
+  sentence: 五日、
+  words:
+    - word: 五
+      base: '5'
+      postiion: 0
+    - word: 日
+      postiion: 1
 - id: Akai Funeto Tsubame-f000061
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: とまっていました。
-  word_list: [とまっ, て, い, まし, た]
   sound: f000061.mp3
   sound_begin: 136720
   sound_end: 139700
+  sentence: とまっていました。
+  words:
+    - word: とまっ
+      base: とまる
+      postiion: 0
+    - word: て
+      postiion: 3
+    - word: い
+      base: 居る
+      postiion: 4
+    - word: まし
+      base: ます
+      postiion: 5
+    - word: た
+      postiion: 7
 - id: Akai Funeto Tsubame-f000062
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: そして、
-  word_list: [そして]
   sound: f000062.mp3
   sound_begin: 139700
   sound_end: 140640
+  sentence: そして、
+  words:
+    - word: そして
+      postiion: 0
 - id: Akai Funeto Tsubame-f000063
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 四方から、
-  word_list: [四方, から]
   sound: f000063.mp3
   sound_begin: 140640
   sound_end: 141400
+  sentence: 四方から、
+  words:
+    - word: 四方
+      postiion: 0
+    - word: から
+      postiion: 2
 - id: Akai Funeto Tsubame-f000064
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 毎日のように集まってくるつばめを待っていました。
-  word_list: [毎日, の, よう, に, 集まっ, て, くる, つばめ, を, 待っ, て, い, まし, た]
   sound: f000064.mp3
   sound_begin: 141400
   sound_end: 146600
+  sentence: 毎日のように集まってくるつばめを待っていました。
+  words:
+    - word: 毎日
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: よう
+      base: 様
+      postiion: 3
+    - word: に
+      base: だ
+      postiion: 5
+    - word: 集まっ
+      base: 集まる
+      postiion: 6
+    - word: て
+      postiion: 9
+    - word: くる
+      base: 来る
+      postiion: 10
+    - word: つばめ
+      base: 燕
+      postiion: 12
+    - word: を
+      postiion: 15
+    - word: 待っ
+      base: 待つ
+      postiion: 16
+    - word: て
+      postiion: 18
+    - word: い
+      base: 居る
+      postiion: 19
+    - word: まし
+      base: ます
+      postiion: 20
+    - word: た
+      postiion: 22
 - id: Akai Funeto Tsubame-f000065
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: もう、
-  word_list: [もう]
   sound: f000065.mp3
   sound_begin: 146600
   sound_end: 147253
+  sentence: もう、
+  words:
+    - word: もう
+      postiion: 0
 - id: Akai Funeto Tsubame-f000066
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: たくさんつばめが船に乗って、
-  word_list: [たくさん, つばめ, が, 船, に, 乗っ, て]
   sound: f000066.mp3
   sound_begin: 147253
   sound_end: 150001
+  sentence: たくさんつばめが船に乗って、
+  words:
+    - word: たくさん
+      base: 沢山
+      postiion: 0
+    - word: つばめ
+      base: 燕
+      postiion: 4
+    - word: が
+      postiion: 7
+    - word: 船
+      postiion: 8
+    - word: に
+      postiion: 9
+    - word: 乗っ
+      base: 乗る
+      postiion: 10
+    - word: て
+      postiion: 12
 - id: Akai Funeto Tsubame-f000067
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 最後には、
-  word_list: [最後, に, は]
   sound: f000067.mp3
   sound_begin: 150001
   sound_end: 151040
+  sentence: 最後には、
+  words:
+    - word: 最後
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: は
+      postiion: 3
 - id: Akai Funeto Tsubame-f000068
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: ほばしらの上まで止まって、
-  word_list: [ほばしら, の, 上, まで, 止まっ, て]
   sound: f000068.mp3
   sound_begin: 151040
   sound_end: 152720
+  sentence: ほばしらの上まで止まって、
+  words:
+    - word: ほばしら
+      base: 帆柱
+      postiion: 0
+    - word: の
+      postiion: 4
+    - word: 上
+      postiion: 5
+    - word: まで
+      postiion: 6
+    - word: 止まっ
+      base: 止まる
+      postiion: 8
+    - word: て
+      postiion: 11
 - id: Akai Funeto Tsubame-f000069
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: まったく、
-  word_list: [まったく]
   sound: f000069.mp3
   sound_begin: 152720
   sound_end: 153440
+  sentence: まったく、
+  words:
+    - word: まったく
+      base: 全く
+      postiion: 0
 - id: Akai Funeto Tsubame-f000070
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: はいる席がなくなった時分、
-  word_list: [はいる, 席, が, なくなっ, た, 時分]
   sound: f000070.mp3
   sound_begin: 153440
   sound_end: 156360
+  sentence: はいる席がなくなった時分、
+  words:
+    - word: はいる
+      base: 入る
+      postiion: 0
+    - word: 席
+      postiion: 3
+    - word: が
+      postiion: 4
+    - word: なくなっ
+      base: なくなる
+      postiion: 5
+    - word: た
+      postiion: 9
+    - word: 時分
+      postiion: 10
 - id: Akai Funeto Tsubame-f000071
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 静かに海岸をはなれたのです。
-  word_list: [静か, に, 海岸, を, はなれ, た, の, です]
   sound: f000071.mp3
   sound_begin: 156360
   sound_end: 161364
+  sentence: 静かに海岸をはなれたのです。
+  words:
+    - word: 静か
+      postiion: 0
+    - word: に
+      base: だ
+      postiion: 2
+    - word: 海岸
+      postiion: 3
+    - word: を
+      postiion: 5
+    - word: はなれ
+      base: 離れる
+      postiion: 6
+    - word: た
+      postiion: 9
+    - word: の
+      postiion: 10
+    - word: です
+      postiion: 11
 - id: Akai Funeto Tsubame-f000072
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: たいていは、
-  word_list: [たいてい, は]
   sound: f000072.mp3
   sound_begin: 161364
   sound_end: 162480
+  sentence: たいていは、
+  words:
+    - word: たいてい
+      base: 大抵
+      postiion: 0
+    - word: は
+      postiion: 4
 - id: Akai Funeto Tsubame-f000073
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 月のいい晩を見はからって、
-  word_list: [月, の, いい, 晩, を, 見, はからっ, て]
   sound: f000073.mp3
   sound_begin: 162480
   sound_end: 164640
+  sentence: 月のいい晩を見はからって、
+  words:
+    - word: 月
+      postiion: 0
+    - word: の
+      postiion: 1
+    - word: いい
+      base: 良い
+      postiion: 2
+    - word: 晩
+      postiion: 4
+    - word: を
+      postiion: 5
+    - word: 見
+      base: 見る
+      postiion: 6
+    - word: はからっ
+      base: 計らう
+      postiion: 7
+    - word: て
+      postiion: 11
 - id: Akai Funeto Tsubame-f000074
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 出発しました。
-  word_list: [出発, し, まし, た]
   sound: f000074.mp3
   sound_begin: 164640
   sound_end: 167480
+  sentence: 出発しました。
+  words:
+    - word: 出発
+      postiion: 0
+    - word: し
+      base: 為る
+      postiion: 2
+    - word: まし
+      base: ます
+      postiion: 3
+    - word: た
+      postiion: 5
 - id: Akai Funeto Tsubame-f000075
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: なぜなら、
-  word_list: [なぜ, なら]
   sound: f000075.mp3
   sound_begin: 167480
   sound_end: 168520
+  sentence: なぜなら、
+  words:
+    - word: なぜ
+      base: 何故
+      postiion: 0
+    - word: なら
+      base: だ
+      postiion: 2
 - id: Akai Funeto Tsubame-f000076
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 長い海の上をゆくには、
-  word_list: [長い, 海, の, 上, を, ゆく, に, は]
   sound: f000076.mp3
   sound_begin: 168520
   sound_end: 170560
+  sentence: 長い海の上をゆくには、
+  words:
+    - word: 長い
+      postiion: 0
+    - word: 海
+      postiion: 2
+    - word: の
+      postiion: 3
+    - word: 上
+      postiion: 4
+    - word: を
+      postiion: 5
+    - word: ゆく
+      base: 行く
+      postiion: 6
+    - word: に
+      postiion: 8
+    - word: は
+      postiion: 9
 - id: Akai Funeto Tsubame-f000077
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 景色が見えなければ、
-  word_list: [景色, が, 見え, なけれ, ば]
   sound: f000077.mp3
   sound_begin: 170560
   sound_end: 172120
+  sentence: 景色が見えなければ、
+  words:
+    - word: 景色
+      postiion: 0
+    - word: が
+      postiion: 2
+    - word: 見え
+      base: 見える
+      postiion: 3
+    - word: なけれ
+      base: ない
+      postiion: 5
+    - word: ば
+      postiion: 8
 - id: Akai Funeto Tsubame-f000078
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 退屈であるし、
-  word_list: [退屈, で, ある, し]
   sound: f000078.mp3
   sound_begin: 172120
   sound_end: 174280
+  sentence: 退屈であるし、
+  words:
+    - word: 退屈
+      postiion: 0
+    - word: で
+      base: だ
+      postiion: 2
+    - word: ある
+      base: 有る
+      postiion: 3
+    - word: し
+      postiion: 5
 - id: Akai Funeto Tsubame-f000079
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: また途中から、
-  word_list: [また, 途中, から]
   sound: f000079.mp3
   sound_begin: 174280
   sound_end: 175720
+  sentence: また途中から、
+  words:
+    - word: また
+      base: 又
+      postiion: 0
+    - word: 途中
+      postiion: 2
+    - word: から
+      postiion: 4
 - id: Akai Funeto Tsubame-f000080
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 船をたよって、
-  word_list: [船, を, たよっ, て]
   sound: f000080.mp3
   sound_begin: 175720
   sound_end: 176960
+  sentence: 船をたよって、
+  words:
+    - word: 船
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: たよっ
+      base: 頼る
+      postiion: 2
+    - word: て
+      postiion: 5
 - id: Akai Funeto Tsubame-f000081
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 飛んできて加わるものがないとはかぎらなかったからです。
-  word_list: [飛ん, で, き, て, 加わる, もの, が, ない, と, は, かぎら, なかっ, た, から, です]
   sound: f000081.mp3
   sound_begin: 176960
   sound_end: 184840
+  sentence: 飛んできて加わるものがないとはかぎらなかったからです。
+  words:
+    - word: 飛ん
+      base: 飛ぶ
+      postiion: 0
+    - word: で
+      postiion: 2
+    - word: き
+      base: 来る
+      postiion: 3
+    - word: て
+      postiion: 4
+    - word: 加わる
+      postiion: 5
+    - word: もの
+      base: 物
+      postiion: 8
+    - word: が
+      postiion: 10
+    - word: ない
+      base: 無い
+      postiion: 11
+    - word: と
+      postiion: 13
+    - word: は
+      postiion: 14
+    - word: かぎら
+      base: 限る
+      postiion: 15
+    - word: なかっ
+      base: ない
+      postiion: 18
+    - word: た
+      postiion: 21
+    - word: から
+      postiion: 22
+    - word: です
+      postiion: 24
 - id: Akai Funeto Tsubame-f000082
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: あるとき、
-  word_list: [ある, とき]
   sound: f000082.mp3
   sound_begin: 184840
   sound_end: 186000
+  sentence: あるとき、
+  words:
+    - word: ある
+      base: 或る
+      postiion: 0
+    - word: とき
+      base: 時
+      postiion: 2
 - id: Akai Funeto Tsubame-f000083
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 一羽のつばめは、
-  word_list: [一, 羽, の, つばめ, は]
   sound: f000083.mp3
   sound_begin: 186000
   sound_end: 187560
+  sentence: 一羽のつばめは、
+  words:
+    - word: 一
+      base: '1'
+      postiion: 0
+    - word: 羽
+      postiion: 1
+    - word: の
+      postiion: 2
+    - word: つばめ
+      base: 燕
+      postiion: 3
+    - word: は
+      postiion: 6
 - id: Akai Funeto Tsubame-f000084
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 船に乗ろうと思って、
-  word_list: [船, に, 乗ろう, と, 思っ, て]
   sound: f000084.mp3
   sound_begin: 187560
   sound_end: 188880
+  sentence: 船に乗ろうと思って、
+  words:
+    - word: 船
+      postiion: 0
+    - word: に
+      postiion: 1
+    - word: 乗ろう
+      base: 乗る
+      postiion: 2
+    - word: と
+      postiion: 5
+    - word: 思っ
+      base: 思う
+      postiion: 6
+    - word: て
+      postiion: 8
 - id: Akai Funeto Tsubame-f000085
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 遠いところから、
-  word_list: [遠い, ところ, から]
   sound: f000085.mp3
   sound_begin: 188880
   sound_end: 189800
+  sentence: 遠いところから、
+  words:
+    - word: 遠い
+      postiion: 0
+    - word: ところ
+      base: 所
+      postiion: 2
+    - word: から
+      postiion: 5
 - id: Akai Funeto Tsubame-f000086
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 急いで飛んできましたが、
-  word_list: [急い, で, 飛ん, で, き, まし, た, が]
   sound: f000086.mp3
   sound_begin: 189800
   sound_end: 191840
+  sentence: 急いで飛んできましたが、
+  words:
+    - word: 急い
+      base: 急ぐ
+      postiion: 0
+    - word: で
+      postiion: 2
+    - word: 飛ん
+      base: 飛ぶ
+      postiion: 3
+    - word: で
+      postiion: 5
+    - word: き
+      base: 来る
+      postiion: 6
+    - word: まし
+      base: ます
+      postiion: 7
+    - word: た
+      postiion: 9
+    - word: が
+      postiion: 10
 - id: Akai Funeto Tsubame-f000087
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: すでに船の立ってしまった後でした。
-  word_list: [すでに, 船, の, 立っ, て, しまっ, た, 後, でし, た]
   sound: f000087.mp3
   sound_begin: 191840
   sound_end: 196437
+  sentence: すでに船の立ってしまった後でした。
+  words:
+    - word: すでに
+      base: 既に
+      postiion: 0
+    - word: 船
+      postiion: 3
+    - word: の
+      postiion: 4
+    - word: 立っ
+      base: 立つ
+      postiion: 5
+    - word: て
+      postiion: 7
+    - word: しまっ
+      base: 仕舞う
+      postiion: 8
+    - word: た
+      postiion: 11
+    - word: 後
+      postiion: 12
+    - word: でし
+      base: です
+      postiion: 13
+    - word: た
+      postiion: 15
 - id: Akai Funeto Tsubame-f000088
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: そのつばめは、
-  word_list: [その, つばめ, は]
   sound: f000088.mp3
   sound_begin: 196437
   sound_end: 197960
+  sentence: そのつばめは、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: つばめ
+      base: 燕
+      postiion: 2
+    - word: は
+      postiion: 5
 - id: Akai Funeto Tsubame-f000089
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: ひじょうにがっかりしました。
-  word_list: [ひじょう, に, がっかり, し, まし, た]
   sound: f000089.mp3
   sound_begin: 197960
   sound_end: 201480
+  sentence: ひじょうにがっかりしました。
+  words:
+    - word: ひじょう
+      base: 非常
+      postiion: 0
+    - word: に
+      base: だ
+      postiion: 4
+    - word: がっかり
+      postiion: 5
+    - word: し
+      base: 為る
+      postiion: 9
+    - word: まし
+      base: ます
+      postiion: 10
+    - word: た
+      postiion: 12
 - id: Akai Funeto Tsubame-f000090
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: しかたなく、
-  word_list: [しかたなく]
   sound: f000090.mp3
   sound_begin: 201480
   sound_end: 202640
+  sentence: しかたなく、
+  words:
+    - word: しかたなく
+      base: 仕方無い
+      postiion: 0
 - id: Akai Funeto Tsubame-f000091
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 木の葉を船として、
-  word_list: [木の葉, を, 船, と, し, て]
   sound: f000091.mp3
   sound_begin: 202640
   sound_end: 204792
+  sentence: 木の葉を船として、
+  words:
+    - word: 木の葉
+      postiion: 0
+    - word: を
+      postiion: 3
+    - word: 船
+      postiion: 4
+    - word: と
+      postiion: 5
+    - word: し
+      base: 為る
+      postiion: 6
+    - word: て
+      postiion: 7
 - id: Akai Funeto Tsubame-f000092
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: これに乗ってゆこうと決心しました。
-  word_list: [これ, に, 乗っ, て, ゆこう, と, 決心, し, まし, た]
   sound: f000092.mp3
   sound_begin: 204792
   sound_end: 208840
+  sentence: これに乗ってゆこうと決心しました。
+  words:
+    - word: これ
+      base: 此れ
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: 乗っ
+      base: 乗る
+      postiion: 3
+    - word: て
+      postiion: 5
+    - word: ゆこう
+      base: 行く
+      postiion: 6
+    - word: と
+      postiion: 9
+    - word: 決心
+      postiion: 10
+    - word: し
+      base: 為る
+      postiion: 12
+    - word: まし
+      base: ます
+      postiion: 13
+    - word: た
+      postiion: 15
 - id: Akai Funeto Tsubame-f000093
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: それより海のかなたへ、
-  word_list: [それ, より, 海, の, かなた, へ]
   sound: f000093.mp3
   sound_begin: 208840
   sound_end: 210440
+  sentence: それより海のかなたへ、
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: より
+      postiion: 2
+    - word: 海
+      postiion: 4
+    - word: の
+      postiion: 5
+    - word: かなた
+      base: 彼方
+      postiion: 6
+    - word: へ
+      postiion: 9
 - id: Akai Funeto Tsubame-f000094
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 渡る途はなかったのです。
-  word_list: [渡る, 途, は, なかっ, た, の, です]
   sound: f000094.mp3
   sound_begin: 210440
   sound_end: 215320
+  sentence: 渡る途はなかったのです。
+  words:
+    - word: 渡る
+      postiion: 0
+    - word: 途
+      postiion: 2
+    - word: は
+      postiion: 3
+    - word: なかっ
+      base: 無い
+      postiion: 4
+    - word: た
+      postiion: 7
+    - word: の
+      postiion: 8
+    - word: です
+      postiion: 9
 - id: Akai Funeto Tsubame-f000095
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 昼間は、
-  word_list: [昼間, は]
   sound: f000095.mp3
   sound_begin: 215320
   sound_end: 216200
+  sentence: 昼間は、
+  words:
+    - word: 昼間
+      postiion: 0
+    - word: は
+      postiion: 2
 - id: Akai Funeto Tsubame-f000096
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 木の葉をくわえて飛んで、
-  word_list: [木の葉, を, くわえ, て, 飛ん, で]
   sound: f000096.mp3
   sound_begin: 216200
   sound_end: 218761
+  sentence: 木の葉をくわえて飛んで、
+  words:
+    - word: 木の葉
+      postiion: 0
+    - word: を
+      postiion: 3
+    - word: くわえ
+      base: くわえる
+      postiion: 4
+    - word: て
+      postiion: 7
+    - word: 飛ん
+      base: 飛ぶ
+      postiion: 8
+    - word: で
+      postiion: 10
 - id: Akai Funeto Tsubame-f000097
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 夜になると葉を船にして、
-  word_list: [夜, に, なる, と, 葉, を, 船, に, し, て]
   sound: f000097.mp3
   sound_begin: 218761
   sound_end: 221520
+  sentence: 夜になると葉を船にして、
+  words:
+    - word: 夜
+      postiion: 0
+    - word: に
+      postiion: 1
+    - word: なる
+      base: 成る
+      postiion: 2
+    - word: と
+      postiion: 4
+    - word: 葉
+      postiion: 5
+    - word: を
+      postiion: 6
+    - word: 船
+      postiion: 7
+    - word: に
+      postiion: 8
+    - word: し
+      base: 為る
+      postiion: 9
+    - word: て
+      postiion: 10
 - id: Akai Funeto Tsubame-f000098
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: その上で休みました。
-  word_list: [その, 上, で, 休み, まし, た]
   sound: f000098.mp3
   sound_begin: 221520
   sound_end: 225120
+  sentence: その上で休みました。
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: 上
+      postiion: 2
+    - word: で
+      postiion: 3
+    - word: 休み
+      base: 休む
+      postiion: 4
+    - word: まし
+      base: ます
+      postiion: 6
+    - word: た
+      postiion: 8
 - id: Akai Funeto Tsubame-f000099
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: そのつばめは、
-  word_list: [その, つばめ, は]
   sound: f000099.mp3
   sound_begin: 225120
   sound_end: 226200
+  sentence: そのつばめは、
+  words:
+    - word: その
+      base: 其の
+      postiion: 0
+    - word: つばめ
+      base: 燕
+      postiion: 2
+    - word: は
+      postiion: 5
 - id: Akai Funeto Tsubame-f000100
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: こうして、
-  word_list: [こう, し, て]
   sound: f000100.mp3
   sound_begin: 226200
   sound_end: 226920
+  sentence: こうして、
+  words:
+    - word: こう
+      postiion: 0
+    - word: し
+      base: 為る
+      postiion: 2
+    - word: て
+      postiion: 3
 - id: Akai Funeto Tsubame-f000101
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 旅をしているうちに、
-  word_list: [旅, を, し, て, いる, うち, に]
   sound: f000101.mp3
   sound_begin: 226920
   sound_end: 228640
+  sentence: 旅をしているうちに、
+  words:
+    - word: 旅
+      postiion: 0
+    - word: を
+      postiion: 1
+    - word: し
+      base: 為る
+      postiion: 2
+    - word: て
+      postiion: 3
+    - word: いる
+      base: 居る
+      postiion: 4
+    - word: うち
+      base: 内
+      postiion: 6
+    - word: に
+      postiion: 8
 - id: Akai Funeto Tsubame-f000102
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 一夜、
-  word_list: [一夜]
   sound: f000102.mp3
   sound_begin: 228640
   sound_end: 229560
+  sentence: 一夜、
+  words:
+    - word: 一夜
+      postiion: 0
 - id: Akai Funeto Tsubame-f000103
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: ひじょうな暴風に出あいました。
-  word_list: [ひじょう, な, 暴風, に, 出, あい, まし, た]
   sound: f000103.mp3
   sound_begin: 229560
   sound_end: 233800
+  sentence: ひじょうな暴風に出あいました。
+  words:
+    - word: ひじょう
+      base: 非常
+      postiion: 0
+    - word: な
+      base: だ
+      postiion: 4
+    - word: 暴風
+      postiion: 5
+    - word: に
+      postiion: 7
+    - word: 出
+      base: 出る
+      postiion: 8
+    - word: あい
+      base: あう
+      postiion: 9
+    - word: まし
+      base: ます
+      postiion: 11
+    - word: た
+      postiion: 13
 - id: Akai Funeto Tsubame-f000104
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 驚いて、
-  word_list: [驚い, て]
   sound: f000104.mp3
   sound_begin: 233800
   sound_end: 234640
+  sentence: 驚いて、
+  words:
+    - word: 驚い
+      base: 驚く
+      postiion: 0
+    - word: て
+      postiion: 2
 - id: Akai Funeto Tsubame-f000105
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 木の葉をしっかりとくわえて暗い空に舞い上がり、
-  word_list: [木の葉, を, しっかり, と, くわえ, て, 暗い, 空, に, 舞い, 上がり]
   sound: f000105.mp3
   sound_begin: 234640
   sound_end: 238240
+  sentence: 木の葉をしっかりとくわえて暗い空に舞い上がり、
+  words:
+    - word: 木の葉
+      postiion: 0
+    - word: を
+      postiion: 3
+    - word: しっかり
+      base: 確り
+      postiion: 4
+    - word: と
+      postiion: 8
+    - word: くわえ
+      base: くわえる
+      postiion: 9
+    - word: て
+      postiion: 12
+    - word: 暗い
+      postiion: 13
+    - word: 空
+      postiion: 15
+    - word: に
+      postiion: 16
+    - word: 舞い
+      base: 舞う
+      postiion: 17
+    - word: 上がり
+      base: 上がる
+      postiion: 19
 - id: Akai Funeto Tsubame-f000106
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 死にもの狂いで夜の間を暴風と戦いながらかけりました。
-  word_list: [死, に, もの狂い, で, 夜, の, 間, を, 暴風, と, 戦い, ながら, かけり, まし, た]
   sound: f000106.mp3
   sound_begin: 238240
   sound_end: 245520
+  sentence: 死にもの狂いで夜の間を暴風と戦いながらかけりました。
+  words:
+    - word: 死
+      postiion: 0
+    - word: に
+      postiion: 1
+    - word: もの狂い
+      base: 物狂い
+      postiion: 2
+    - word: で
+      postiion: 6
+    - word: 夜
+      postiion: 7
+    - word: の
+      postiion: 8
+    - word: 間
+      postiion: 9
+    - word: を
+      postiion: 10
+    - word: 暴風
+      postiion: 11
+    - word: と
+      postiion: 13
+    - word: 戦い
+      base: 戦う
+      postiion: 14
+    - word: ながら
+      postiion: 16
+    - word: かけり
+      base: 翔る
+      postiion: 19
+    - word: まし
+      base: ます
+      postiion: 22
+    - word: た
+      postiion: 24
 - id: Akai Funeto Tsubame-f000107
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 夜が明けると、
-  word_list: [夜, が, 明ける, と]
   sound: f000107.mp3
   sound_begin: 245520
   sound_end: 246920
+  sentence: 夜が明けると、
+  words:
+    - word: 夜
+      postiion: 0
+    - word: が
+      postiion: 1
+    - word: 明ける
+      postiion: 2
+    - word: と
+      postiion: 5
 - id: Akai Funeto Tsubame-f000108
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: はるか目の下の波間に、
-  word_list: [はるか, 目, の, 下, の, 波間, に]
   sound: f000108.mp3
   sound_begin: 246920
   sound_end: 249280
+  sentence: はるか目の下の波間に、
+  words:
+    - word: はるか
+      postiion: 0
+    - word: 目
+      postiion: 3
+    - word: の
+      postiion: 4
+    - word: 下
+      postiion: 5
+    - word: の
+      postiion: 6
+    - word: 波間
+      postiion: 7
+    - word: に
+      postiion: 9
 - id: Akai Funeto Tsubame-f000109
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 赤い船が、
-  word_list: [赤い, 船, が]
   sound: f000109.mp3
   sound_begin: 249280
   sound_end: 250320
+  sentence: 赤い船が、
+  words:
+    - word: 赤い
+      postiion: 0
+    - word: 船
+      postiion: 2
+    - word: が
+      postiion: 3
 - id: Akai Funeto Tsubame-f000110
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 暴風のために、
-  word_list: [暴風, の, ため, に]
   sound: f000110.mp3
   sound_begin: 250320
   sound_end: 251840
+  sentence: 暴風のために、
+  words:
+    - word: 暴風
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: ため
+      base: 為
+      postiion: 3
+    - word: に
+      postiion: 5
 - id: Akai Funeto Tsubame-f000111
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: くつがえっているのを見ました。
-  word_list: [くつがえっ, て, いる, の, を, 見, まし, た]
   sound: f000111.mp3
   sound_begin: 251840
   sound_end: 255338
+  sentence: くつがえっているのを見ました。
+  words:
+    - word: くつがえっ
+      base: 覆る
+      postiion: 0
+    - word: て
+      postiion: 5
+    - word: いる
+      base: 居る
+      postiion: 6
+    - word: の
+      postiion: 8
+    - word: を
+      postiion: 9
+    - word: 見
+      base: 見る
+      postiion: 10
+    - word: まし
+      base: ます
+      postiion: 11
+    - word: た
+      postiion: 13
 - id: Akai Funeto Tsubame-f000112
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: それは、
-  word_list: [それ, は]
   sound: f000112.mp3
   sound_begin: 255338
   sound_end: 256399
+  sentence: それは、
+  words:
+    - word: それ
+      base: 其れ
+      postiion: 0
+    - word: は
+      postiion: 2
 - id: Akai Funeto Tsubame-f000113
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 王さまのお迎えに出された赤い船です。
-  word_list: [王, さま, の, お, 迎え, に, 出さ, れ, た, 赤い, 船, です]
   sound: f000113.mp3
   sound_begin: 256399
   sound_end: 261922
+  sentence: 王さまのお迎えに出された赤い船です。
+  words:
+    - word: 王
+      postiion: 0
+    - word: さま
+      base: 様
+      postiion: 1
+    - word: の
+      postiion: 3
+    - word: お
+      base: 御
+      postiion: 4
+    - word: 迎え
+      postiion: 5
+    - word: に
+      postiion: 7
+    - word: 出さ
+      base: 出す
+      postiion: 8
+    - word: れ
+      base: れる
+      postiion: 10
+    - word: た
+      postiion: 11
+    - word: 赤い
+      postiion: 12
+    - word: 船
+      postiion: 14
+    - word: です
+      postiion: 15
 - id: Akai Funeto Tsubame-f000114
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: つばめは、
-  word_list: [つばめ, は]
   sound: f000114.mp3
   sound_begin: 261922
   sound_end: 262920
+  sentence: つばめは、
+  words:
+    - word: つばめ
+      base: 燕
+      postiion: 0
+    - word: は
+      postiion: 3
 - id: Akai Funeto Tsubame-f000115
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 急いで帰って、
-  word_list: [急い, で, 帰っ, て]
   sound: f000115.mp3
   sound_begin: 262920
   sound_end: 263640
+  sentence: 急いで帰って、
+  words:
+    - word: 急い
+      base: 急ぐ
+      postiion: 0
+    - word: で
+      postiion: 2
+    - word: 帰っ
+      base: 帰る
+      postiion: 3
+    - word: て
+      postiion: 5
 - id: Akai Funeto Tsubame-f000116
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: このことを王さまに申し上げました。
-  word_list: [この, こと, を, 王, さま, に, 申し, 上げ, まし, た]
   sound: f000116.mp3
   sound_begin: 263640
   sound_end: 268840
+  sentence: このことを王さまに申し上げました。
+  words:
+    - word: この
+      base: 此の
+      postiion: 0
+    - word: こと
+      postiion: 2
+    - word: を
+      postiion: 4
+    - word: 王
+      postiion: 5
+    - word: さま
+      base: 様
+      postiion: 6
+    - word: に
+      postiion: 8
+    - word: 申し
+      base: 申す
+      postiion: 9
+    - word: 上げ
+      base: 上げる
+      postiion: 11
+    - word: まし
+      base: ます
+      postiion: 13
+    - word: た
+      postiion: 15
 - id: Akai Funeto Tsubame-f000117
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: ──王さまは、
-  word_list: [─, ─, 王, さま, は]
   sound: f000117.mp3
   sound_begin: 268840
   sound_end: 270126
+  sentence: ──王さまは、
+  words:
+    - word: ─
+      postiion: 0
+    - word: ─
+      postiion: 0
+    - word: 王
+      postiion: 2
+    - word: さま
+      base: 様
+      postiion: 3
+    - word: は
+      postiion: 5
 - id: Akai Funeto Tsubame-f000118
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: ここにはじめて、
-  word_list: [ここ, に, はじめて]
   sound: f000118.mp3
   sound_begin: 270126
   sound_end: 272000
+  sentence: ここにはじめて、
+  words:
+    - word: ここ
+      base: 此処
+      postiion: 0
+    - word: に
+      postiion: 2
+    - word: はじめて
+      base: 初めて
+      postiion: 3
 - id: Akai Funeto Tsubame-f000119
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 自らの力をたよることのいちばん安心なのを悟られ、
-  word_list: [自ら, の, 力, を, たよる, こと, の, いちばん, 安心, な, の, を, 悟ら, れ]
   sound: f000119.mp3
   sound_begin: 272000
   sound_end: 277960
+  sentence: 自らの力をたよることのいちばん安心なのを悟られ、
+  words:
+    - word: 自ら
+      postiion: 0
+    - word: の
+      postiion: 2
+    - word: 力
+      postiion: 3
+    - word: を
+      postiion: 4
+    - word: たよる
+      base: 頼る
+      postiion: 5
+    - word: こと
+      postiion: 8
+    - word: の
+      postiion: 10
+    - word: いちばん
+      base: 一番
+      postiion: 11
+    - word: 安心
+      postiion: 15
+    - word: な
+      base: だ
+      postiion: 17
+    - word: の
+      postiion: 18
+    - word: を
+      postiion: 19
+    - word: 悟ら
+      base: 悟る
+      postiion: 20
+    - word: れ
+      base: れる
+      postiion: 22
 - id: Akai Funeto Tsubame-f000120
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: あくる年から、
-  word_list: [あくる, 年, から]
   sound: f000120.mp3
   sound_begin: 277960
   sound_end: 279360
+  sentence: あくる年から、
+  words:
+    - word: あくる
+      base: 明ける
+      postiion: 0
+    - word: 年
+      postiion: 3
+    - word: から
+      postiion: 4
 - id: Akai Funeto Tsubame-f000121
   author_japanese: 小川 未明
   deck_name: Akai Funeto Tsubame
   deck_name_japanese: 赤い船とつばめ
-  sentence: 赤い船を出すことを見合わせられたのであります。
-  word_list: [赤い, 船, を, 出す, こと, を, 見, 合わせ, られ, た, の, で, あり, ます]
   sound: f000121.mp3
   sound_begin: 279360
   sound_end: 283243
+  sentence: 赤い船を出すことを見合わせられたのであります。
+  words:
+    - word: 赤い
+      postiion: 0
+    - word: 船
+      postiion: 2
+    - word: を
+      postiion: 3
+    - word: 出す
+      postiion: 4
+    - word: こと
+      postiion: 6
+    - word: を
+      postiion: 8
+    - word: 見
+      base: 見る
+      postiion: 9
+    - word: 合わせ
+      base: 合う
+      postiion: 10
+    - word: られ
+      base: られる
+      postiion: 13
+    - word: た
+      postiion: 15
+    - word: の
+      postiion: 16
+    - word: で
+      base: だ
+      postiion: 17
+    - word: あり
+      base: 有る
+      postiion: 18
+    - word: ます
+      postiion: 20
