@@ -28,8 +28,10 @@ async function main() {
       cwd: src
     })
     .map((p) => {
+      const folder = p.replace(/\/data\.json$/, '')
+
       try {
-        fs.mkdirSync(`${dst}/${p.replace(/\/data\.json$/, '')}`, {
+        fs.mkdirSync(`${dst}/${folder}`, {
           recursive: true
         })
       } catch (e) {}
@@ -53,6 +55,7 @@ async function main() {
               ...d
             }) => {
               sentence = sentence.replace(reClean, '')
+              if (!/（.+）/.test(sentence)) return null
 
               let words: any[] | undefined
               if (word_list) {
@@ -97,16 +100,19 @@ async function main() {
               }
             }
           )
+          .filter((s) => s)
+
+        const filename = `override.yaml`
 
         if (out.length) {
           fs.writeFileSync(
-            `${dst}/${p.replace(/\.json$/, '.yaml')}`,
+            `${dst}/${folder}/${filename}`,
             yaml.dump(out, {
               skipInvalid: true
             })
           )
         } else {
-          fs.rmdir(`${dst}/${p.replace(/\/data\.json$/, '')}`, () => {})
+          fs.rm(`${dst}/${folder}/${filename}`, () => {})
         }
       }
     })

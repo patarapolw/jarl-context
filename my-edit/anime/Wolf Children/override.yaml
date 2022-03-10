@@ -1,0 +1,1282 @@
+- id: A_WolfChildren_0015
+  deck_name: Wolf Children
+  translation: Oh, welcome. This way.
+  sound: A_WolfChildren_1_0.05.48.668-0.05.53.640.mp3
+  sentence: （犬の吠え声） はい　いらっしゃい　こっちよ。
+  words:
+    - word: 犬
+      postiion: 1
+    - word: の
+      postiion: 2
+    - word: 吠え声
+      postiion: 3
+    - word: はい
+      postiion: 8
+    - word: いらっしゃい
+      base: いらっしゃる
+      dictionary: いらっしゃる
+      postiion: 11
+    - word: こっち
+      base: 此方
+      postiion: 18
+    - word: よ
+      postiion: 21
+- id: A_WolfChildren_0098
+  deck_name: Wolf Children
+  translation: I'm hungry!
+  sound: A_WolfChildren_1_0.25.38.543-0.25.41.596.mp3
+  sentence: （げっぷ） お腹すいた。
+  words:
+    - word: げっぷ
+      postiion: 1
+    - word: お腹
+      base: 御腹
+      postiion: 6
+    - word: すい
+      base: すく
+      dictionary: すく
+      postiion: 8
+    - word: た
+      postiion: 10
+- id: A_WolfChildren_0099
+  deck_name: Wolf Children
+  translation: I see.
+  sound: A_WolfChildren_1_0.25.41.596-0.25.43.014.mp3
+  sentence: （げっぷ）
+  words:
+    - word: げっぷ
+      postiion: 1
+- id: A_WolfChildren_0110
+  deck_name: Wolf Children
+  translation: He says you're cute. Isn't that great?
+  sound: A_WolfChildren_1_0.26.37.485-0.26.41.005.mp3
+  sentence: かわいいって　よかったね。 （犬の吠え声）
+  words:
+    - word: かわいい
+      base: 可愛い
+      postiion: 0
+    - word: って
+      postiion: 4
+    - word: よかっ
+      base: 良い
+      dictionary: よい
+      postiion: 7
+    - word: た
+      postiion: 10
+    - word: ね
+      postiion: 11
+    - word: 犬
+      postiion: 15
+    - word: の
+      postiion: 16
+    - word: 吠え声
+      postiion: 17
+- id: A_WolfChildren_0113
+  deck_name: Wolf Children
+  translation: Make 'em shut up already!
+  sound: A_WolfChildren_1_0.27.06.598-0.27.07.999.mp3
+  sentence: （ドアが開く音）
+  words:
+    - word: ドア
+      postiion: 1
+    - word: が
+      postiion: 3
+    - word: 開く
+      postiion: 4
+    - word: 音
+      postiion: 6
+- id: A_WolfChildren_0117
+  deck_name: Wolf Children
+  translation: Tch. At least teach them some discipline!
+  sound: A_WolfChildren_1_0.27.14.005-0.27.17.492.mp3
+  sentence: チッ！　躾ぐらい　ちゃんとしろ！ （ドアを激しく閉める音）
+  words:
+    - word: チッ
+      base: ちっ
+      postiion: 0
+    - word: 躾
+      base: 仕付け
+      postiion: 4
+    - word: ぐらい
+      base: くらい
+      postiion: 5
+    - word: ちゃんと
+      postiion: 9
+    - word: しろ
+      base: 為る
+      dictionary: する
+      postiion: 13
+    - word: ドア
+      postiion: 18
+    - word: を
+      postiion: 20
+    - word: 激しく
+      base: 激しい
+      dictionary: 激しい
+      postiion: 21
+    - word: 閉める
+      postiion: 24
+    - word: 音
+      postiion: 27
+- id: A_WolfChildren_0118
+  deck_name: Wolf Children
+  translation: There, there. It's all right.
+  sound: A_WolfChildren_1_0.27.17.492-0.27.23.031.mp3
+  sentence: （泣き声） （泣き声） よしよし　大丈夫だよ。
+  words:
+    - word: 泣き声
+      postiion: 1
+    - word: 泣き声
+      postiion: 1
+    - word: よし
+      postiion: 12
+    - word: よし
+      postiion: 12
+    - word: 大丈夫
+      postiion: 17
+    - word: だ
+      postiion: 20
+    - word: よ
+      postiion: 21
+- id: A_WolfChildren_0179
+  deck_name: Wolf Children
+  translation: Oh, hey, Mr. Nirasaki! Be nicer this time!
+  sound: A_WolfChildren_1_0.32.39.649-0.32.45.718.mp3
+  sentence: （黒田） あ…　韮崎のおじいちゃ～ん→ 今度は　お手柔らかに お願いしま～す！
+  words:
+    - word: 黒田
+      postiion: 1
+    - word: あ
+      base: あっ
+      postiion: 5
+    - word: 韮崎
+      postiion: 8
+    - word: の
+      postiion: 10
+    - word: お
+      base: 御
+      postiion: 11
+    - word: じい
+      base: 爺
+      postiion: 12
+    - word: ちゃ
+      base: だ
+      dictionary: だ
+      postiion: 14
+    - word: ～
+      postiion: 16
+    - word: ん
+      base: んっ
+      postiion: 17
+    - word: →
+      postiion: 18
+    - word: 今度
+      postiion: 20
+    - word: は
+      postiion: 22
+    - word: お
+      base: 御
+      postiion: 24
+    - word: 手柔らか
+      postiion: 25
+    - word: に
+      base: だ
+      dictionary: だ
+      postiion: 29
+    - word: お
+      base: 御
+      postiion: 31
+    - word: 願い
+      postiion: 32
+    - word: しま
+      postiion: 34
+    - word: ～
+      base: から
+      postiion: 36
+    - word: す
+      base: 為る
+      postiion: 37
+- id: A_WolfChildren_0180
+  deck_name: Wolf Children
+  translation: Three... two...
+  sound: A_WolfChildren_1_0.32.58.167-0.33.01.669.mp3
+  sentence: あっ！ （床板を修理する音）
+  words:
+    - word: あっ
+      postiion: 0
+    - word: 床板
+      postiion: 5
+    - word: を
+      postiion: 7
+    - word: 修理
+      postiion: 8
+    - word: する
+      base: 為る
+      postiion: 10
+    - word: 音
+      postiion: 12
+- id: A_WolfChildren_0215
+  deck_name: Wolf Children
+  translation: Nobody asks if they can take those!
+  sound: A_WolfChildren_1_0.37.20.525-0.37.23.912.mp3
+  sentence: （山岡） そんなもん　もらっていいか なんて聞くヤツはいないよ！
+  words:
+    - word: 山岡
+      postiion: 1
+    - word: そんな
+      postiion: 5
+    - word: もん
+      postiion: 8
+    - word: もらっ
+      base: 貰う
+      dictionary: もらう
+      postiion: 11
+    - word: て
+      postiion: 14
+    - word: いい
+      base: 良い
+      postiion: 15
+    - word: か
+      postiion: 17
+    - word: なんて
+      postiion: 19
+    - word: 聞く
+      postiion: 22
+    - word: ヤツ
+      base: 奴
+      postiion: 24
+    - word: は
+      postiion: 26
+    - word: い
+      base: 居る
+      dictionary: いる
+      postiion: 27
+    - word: ない
+      postiion: 28
+    - word: よ
+      postiion: 30
+- id: A_WolfChildren_0292
+  deck_name: Wolf Children
+  translation: Man, this is awful.
+  sound: A_WolfChildren_1_0.43.01.432-0.43.03.401.mp3
+  sentence: （韮崎のおばさん） ひゃ～　ひどい　ひどい。
+  words:
+    - word: 韮崎
+      postiion: 1
+    - word: の
+      postiion: 3
+    - word: おば
+      base: 伯母
+      postiion: 4
+    - word: さん
+      postiion: 6
+    - word: ひ
+      base: 一
+      postiion: 10
+    - word: ゃ
+      base: ヤ
+      postiion: 11
+    - word: ～
+      base: から
+      postiion: 12
+    - word: ひどい
+      base: 酷い
+      postiion: 14
+    - word: ひどい
+      base: 酷い
+      postiion: 14
+- id: A_WolfChildren_0346
+  deck_name: Wolf Children
+  translation: >-
+    Yeah. It's a condensed liquid of the smoke generated by charcoal production.
+    There's some poultry manure too. The instructions are in the bag.
+  sound: A_WolfChildren_1_0.47.46.500-0.47.51.422.mp3
+  sentence: （土肥のおばさん） 炭焼きの煙から作るのよ→ あと鶏糞 使い方は中に入ってるから。
+  words:
+    - word: 土肥
+      postiion: 1
+    - word: の
+      postiion: 3
+    - word: おば
+      base: 伯母
+      postiion: 4
+    - word: さん
+      postiion: 6
+    - word: 炭焼き
+      postiion: 10
+    - word: の
+      postiion: 13
+    - word: 煙
+      postiion: 14
+    - word: から
+      postiion: 15
+    - word: 作る
+      postiion: 17
+    - word: の
+      postiion: 19
+    - word: よ
+      postiion: 20
+    - word: →
+      postiion: 21
+    - word: あと
+      base: 後
+      postiion: 23
+    - word: 鶏糞
+      postiion: 25
+    - word: 使い方
+      postiion: 28
+    - word: は
+      postiion: 31
+    - word: 中
+      postiion: 32
+    - word: に
+      postiion: 33
+    - word: 入っ
+      base: 入る
+      dictionary: 入る
+      postiion: 34
+    - word: てる
+      postiion: 36
+    - word: から
+      postiion: 38
+- id: A_WolfChildren_0349
+  deck_name: Wolf Children
+  translation: It's probably a lot of trouble living in such an unfamiliar place, isn't it?
+  sound: A_WolfChildren_1_0.47.58.412-0.48.00.915.mp3
+  sentence: （堀田のおじさん） 慣れない土地で苦労するでしょ。
+  words:
+    - word: 堀田
+      postiion: 1
+    - word: の
+      postiion: 3
+    - word: おじ
+      base: 伯父
+      postiion: 4
+    - word: さん
+      postiion: 6
+    - word: 慣れ
+      base: 慣れる
+      dictionary: 慣れる
+      postiion: 10
+    - word: ない
+      postiion: 12
+    - word: 土地
+      postiion: 14
+    - word: で
+      postiion: 16
+    - word: 苦労
+      postiion: 17
+    - word: する
+      base: 為る
+      postiion: 19
+    - word: でしょ
+      base: です
+      dictionary: です
+      postiion: 21
+- id: A_WolfChildren_0351
+  deck_name: Wolf Children
+  translation: >-
+    Most people who move here from urban areas get disillusioned and leave
+    immediately.
+  sound: A_WolfChildren_1_0.48.03.434-0.48.08.022.mp3
+  sentence: （土肥おばさん） せっかく都会から来ても→ すぐに　くじけて 帰っちゃう人が多くてね。
+  words:
+    - word: 土肥
+      postiion: 1
+    - word: おば
+      base: 伯母
+      postiion: 3
+    - word: さん
+      postiion: 5
+    - word: せっかく
+      base: 折角
+      postiion: 9
+    - word: 都会
+      postiion: 13
+    - word: から
+      postiion: 15
+    - word: 来
+      base: 来る
+      dictionary: 来る
+      postiion: 17
+    - word: て
+      postiion: 18
+    - word: も
+      postiion: 19
+    - word: →
+      postiion: 20
+    - word: すぐ
+      base: 直ぐ
+      postiion: 22
+    - word: に
+      postiion: 24
+    - word: くじけ
+      base: 挫く
+      dictionary: くじける
+      postiion: 26
+    - word: て
+      postiion: 29
+    - word: 帰っ
+      base: 帰る
+      dictionary: 帰る
+      postiion: 31
+    - word: ちゃう
+      postiion: 33
+    - word: 人
+      postiion: 36
+    - word: が
+      postiion: 37
+    - word: 多く
+      base: 多い
+      dictionary: 多い
+      postiion: 38
+    - word: て
+      postiion: 40
+    - word: ね
+      postiion: 41
+- id: A_WolfChildren_0356
+  deck_name: Wolf Children
+  translation: The drainage is poor... ...and it snows a ton out here.
+  sound: A_WolfChildren_1_0.48.22.419-0.48.25.956.mp3
+  sentence: （堀田のおばさん）水はけは悪いし。 雪は　たくさんだし。
+  words:
+    - word: 堀田
+      postiion: 1
+    - word: の
+      postiion: 3
+    - word: おば
+      base: 伯母
+      postiion: 4
+    - word: さん
+      postiion: 6
+    - word: 水はけ
+      base: 水捌け
+      postiion: 9
+    - word: は
+      postiion: 10
+    - word: 悪い
+      postiion: 13
+    - word: し
+      postiion: 15
+    - word: 雪
+      postiion: 18
+    - word: は
+      postiion: 19
+    - word: たくさん
+      base: 沢山
+      postiion: 21
+    - word: だ
+      postiion: 25
+    - word: し
+      postiion: 26
+- id: A_WolfChildren_0357
+  deck_name: Wolf Children
+  translation: We've got to help each other out.
+  sound: A_WolfChildren_1_0.48.25.956-0.48.28.956.mp3
+  sentence: （土肥のおじさん） 助け合って行かにゃあ…。
+  words:
+    - word: 土肥
+      postiion: 1
+    - word: の
+      postiion: 3
+    - word: おじ
+      base: 伯父
+      postiion: 4
+    - word: さん
+      postiion: 6
+    - word: 助け
+      base: 助ける
+      dictionary: 助ける
+      postiion: 10
+    - word: 合っ
+      base: 合う
+      dictionary: 合う
+      postiion: 12
+    - word: て
+      postiion: 14
+    - word: 行か
+      base: 行く
+      dictionary: 行く
+      postiion: 15
+    - word: にゃあ
+      base: に
+      postiion: 17
+- id: A_WolfChildren_0359
+  deck_name: Wolf Children
+  translation: >-
+    There are very few young mothers out here, so it's very reassuring that
+    there's another one of us here now. Feel free to ask anything.
+  sound: A_WolfChildren_1_0.48.33.430-0.48.39.436.mp3
+  sentence: （土肥の奥さん） ここ　若いお母さんが すごく少ないから→ 仲間が増えて心強いわ 何でも聞いてね。
+  words:
+    - word: 土肥
+      postiion: 1
+    - word: の
+      postiion: 3
+    - word: 奥さん
+      postiion: 4
+    - word: ここ
+      base: 此処
+      postiion: 9
+    - word: 若い
+      postiion: 12
+    - word: お
+      base: 御
+      postiion: 14
+    - word: 母さん
+      postiion: 15
+    - word: が
+      postiion: 18
+    - word: すごく
+      base: 凄い
+      dictionary: すごい
+      postiion: 20
+    - word: 少ない
+      postiion: 23
+    - word: から
+      postiion: 26
+    - word: →
+      postiion: 28
+    - word: 仲間
+      postiion: 30
+    - word: が
+      postiion: 32
+    - word: 増え
+      base: 増える
+      dictionary: 増える
+      postiion: 33
+    - word: て
+      postiion: 35
+    - word: 心強い
+      postiion: 36
+    - word: わ
+      postiion: 39
+    - word: 何
+      postiion: 41
+    - word: で
+      postiion: 42
+    - word: も
+      postiion: 43
+    - word: 聞い
+      base: 聞く
+      dictionary: 聞く
+      postiion: 44
+    - word: て
+      postiion: 46
+    - word: ね
+      postiion: 47
+- id: A_WolfChildren_0361
+  deck_name: Wolf Children
+  translation: What?! You're living off your savings?
+  sound: A_WolfChildren_1_0.48.41.405-0.48.44.475.mp3
+  sentence: （堀田の奥さん） えっ！　貯金で生活してんの？
+  words:
+    - word: 堀田
+      postiion: 1
+    - word: の
+      postiion: 3
+    - word: 奥さん
+      postiion: 4
+    - word: えっ
+      postiion: 9
+    - word: 貯金
+      postiion: 13
+    - word: で
+      postiion: 15
+    - word: 生活
+      postiion: 16
+    - word: し
+      base: 為る
+      dictionary: する
+      postiion: 18
+    - word: てん
+      base: てる
+      dictionary: てる
+      postiion: 19
+    - word: の
+      postiion: 21
+- id: A_WolfChildren_0404
+  deck_name: Wolf Children
+  translation: Everyone wants to know.
+  sound: A_WolfChildren_1_0.51.27.021-0.51.28.906.mp3
+  sentence: （土肥のおばさん） みんな知りたがってるよ。
+  words:
+    - word: 土肥
+      postiion: 1
+    - word: の
+      postiion: 3
+    - word: おば
+      base: 伯母
+      postiion: 4
+    - word: さん
+      postiion: 6
+    - word: みんな
+      base: 皆
+      postiion: 10
+    - word: 知り
+      base: 知る
+      dictionary: 知る
+      postiion: 13
+    - word: たがっ
+      base: たがる
+      dictionary: たがる
+      postiion: 15
+    - word: てる
+      postiion: 18
+    - word: よ
+      postiion: 20
+- id: A_WolfChildren_0406
+  deck_name: Wolf Children
+  translation: She's so lively, that Yuki.
+  sound: A_WolfChildren_1_0.51.31.909-0.51.34.912.mp3
+  sentence: （土肥のおばさん） 元気ね　雪ちゃんは。
+  words:
+    - word: 土肥
+      postiion: 1
+    - word: の
+      postiion: 3
+    - word: おば
+      base: 伯母
+      postiion: 4
+    - word: さん
+      postiion: 6
+    - word: 元気
+      postiion: 10
+    - word: ね
+      postiion: 12
+    - word: 雪
+      postiion: 14
+    - word: ちゃん
+      postiion: 15
+    - word: は
+      postiion: 18
+- id: A_WolfChildren_0410
+  deck_name: Wolf Children
+  translation: Don't mention it. It's in return for the potatoes.
+  sound: A_WolfChildren_1_0.51.42.920-0.51.44.955.mp3
+  sentence: （韮崎のおばさん） いいのよ　ジャガイモのお返し。
+  words:
+    - word: 韮崎
+      postiion: 1
+    - word: の
+      postiion: 3
+    - word: おば
+      base: 伯母
+      postiion: 4
+    - word: さん
+      postiion: 6
+    - word: いい
+      base: 良い
+      postiion: 10
+    - word: の
+      postiion: 12
+    - word: よ
+      postiion: 13
+    - word: ジャガイモ
+      base: ジャガ芋
+      postiion: 15
+    - word: の
+      postiion: 20
+    - word: お
+      base: 御
+      postiion: 21
+    - word: 返し
+      postiion: 22
+- id: A_WolfChildren_0421
+  deck_name: Wolf Children
+  translation: He's fallen for you. He's ninety years old, you fool.
+  sound: A_WolfChildren_1_0.52.11.932-0.52.14.935.mp3
+  sentence: （韮崎の旦那の息子）ほれてんのよ。 もう９０歳だっての。
+  words:
+    - word: 韮崎
+      postiion: 1
+    - word: の
+      postiion: 3
+    - word: 旦那
+      postiion: 4
+    - word: の
+      postiion: 6
+    - word: 息子
+      postiion: 7
+    - word: ほれ
+      base: ほれる
+      dictionary: ほれる
+      postiion: 10
+    - word: てん
+      base: てる
+      dictionary: てる
+      postiion: 12
+    - word: の
+      postiion: 14
+    - word: よ
+      postiion: 15
+    - word: もう
+      postiion: 18
+    - word: ９０
+      base: '90'
+      dictionary: '90'
+      postiion: 20
+    - word: 歳
+      postiion: 22
+    - word: だ
+      postiion: 23
+    - word: って
+      postiion: 24
+    - word: の
+      postiion: 26
+- id: A_WolfChildren_0422
+  deck_name: Wolf Children
+  translation: I mean, he was the one who asked all of us to take good care of her.
+  sound: A_WolfChildren_1_0.52.14.935-0.52.18.405.mp3
+  sentence: （韮崎の旦那の息子） だって　面倒見てやれって みんなをけしかけたのも…。
+  words:
+    - word: 韮崎
+      postiion: 1
+    - word: の
+      postiion: 3
+    - word: 旦那
+      postiion: 4
+    - word: の
+      postiion: 6
+    - word: 息子
+      postiion: 7
+    - word: だ
+      postiion: 11
+    - word: って
+      postiion: 12
+    - word: 面倒
+      postiion: 15
+    - word: 見
+      base: 見る
+      dictionary: 見る
+      postiion: 17
+    - word: て
+      postiion: 18
+    - word: やれ
+      base: 遣る
+      dictionary: やる
+      postiion: 19
+    - word: って
+      postiion: 21
+    - word: みんな
+      base: 皆
+      postiion: 24
+    - word: を
+      postiion: 27
+    - word: けしかけ
+      base: 嗾ける
+      dictionary: けしかける
+      postiion: 28
+    - word: た
+      postiion: 32
+    - word: の
+      postiion: 33
+    - word: も
+      postiion: 34
+- id: A_WolfChildren_0436
+  deck_name: Wolf Children
+  translation: M—
+  sound: A_WolfChildren_1_0.56.55.982-0.56.57.517.mp3
+  sentence: （岩に頭がぶつかる音）
+  words:
+    - word: 岩
+      postiion: 1
+    - word: に
+      postiion: 2
+    - word: 頭
+      postiion: 3
+    - word: が
+      postiion: 4
+    - word: ぶつかる
+      postiion: 5
+    - word: 音
+      postiion: 9
+- id: A_WolfChildren_0468
+  deck_name: Wolf Children
+  translation: And then there were three presents, and three octopuses.
+  sound: A_WolfChildren_1_0.59.22.996-0.59.28.917.mp3
+  sentence: （雪：花） おみやげみっつ　たこみっつ。 アハハハ…。 フフフ…。
+  words:
+    - word: 雪
+      postiion: 1
+    - word: 花
+      postiion: 3
+    - word: お
+      base: 御
+      postiion: 6
+    - word: みやげ
+      base: 土産
+      postiion: 7
+    - word: みっ
+      base: 三
+      postiion: 10
+    - word: つ
+      postiion: 12
+    - word: たこ
+      postiion: 14
+    - word: みっ
+      base: 三
+      postiion: 16
+    - word: つ
+      postiion: 18
+    - word: アハハハ
+      base: あはは
+      postiion: 21
+    - word: フフフ
+      base: ふふふ
+      postiion: 28
+- id: A_WolfChildren_0479
+  deck_name: Wolf Children
+  translation: Good morning, Shino!
+  sound: A_WolfChildren_1_1.00.30.784-1.00.32.285.mp3
+  sentence: （バスのドアが開く音）
+  words:
+    - word: バス
+      postiion: 1
+    - word: の
+      postiion: 3
+    - word: ドア
+      postiion: 4
+    - word: が
+      postiion: 6
+    - word: 開く
+      postiion: 7
+    - word: 音
+      postiion: 9
+- id: A_WolfChildren_0482
+  deck_name: Wolf Children
+  translation: So who knows the answer?
+  sound: A_WolfChildren_1_1.00.38.875-1.00.40.777.mp3
+  sentence: （田辺） じゃあ　この問題　分かる人。
+  words:
+    - word: 田辺
+      postiion: 1
+    - word: じゃあ
+      base: で
+      postiion: 5
+    - word: この
+      base: 此の
+      postiion: 9
+    - word: 問題
+      postiion: 11
+    - word: 分かる
+      postiion: 14
+    - word: 人
+      postiion: 17
+- id: A_WolfChildren_0485
+  deck_name: Wolf Children
+  translation: Yuki!
+  sound: A_WolfChildren_1_1.00.48.268-1.00.51.271.mp3
+  sentence: （女の子達の声援）
+  words:
+    - word: 女の子
+      postiion: 1
+    - word: 達
+      postiion: 4
+    - word: の
+      postiion: 5
+    - word: 声援
+      postiion: 6
+- id: A_WolfChildren_0495
+  deck_name: Wolf Children
+  translation: Pleased to meet you.
+  sound: A_WolfChildren_1_1.01.29.793-1.01.32.278.mp3
+  sentence: （中学生達） よろしくお願いします。
+  words:
+    - word: 中学
+      postiion: 1
+    - word: 生
+      postiion: 3
+    - word: 達
+      postiion: 4
+    - word: よろしく
+      base: 宜しく
+      postiion: 7
+    - word: お
+      base: 御
+      postiion: 11
+    - word: 願い
+      base: 願う
+      dictionary: 願う
+      postiion: 12
+    - word: し
+      base: 為る
+      dictionary: する
+      postiion: 14
+    - word: ます
+      postiion: 15
+- id: A_WolfChildren_0505
+  deck_name: Wolf Children
+  translation: Well, he is quite old.
+  sound: A_WolfChildren_1_1.02.30.787-1.02.33.306.mp3
+  sentence: 年ですから。 （ドアが開く音）
+  words:
+    - word: 年
+      postiion: 0
+    - word: です
+      postiion: 1
+    - word: から
+      postiion: 3
+    - word: ドア
+      postiion: 8
+    - word: が
+      postiion: 10
+    - word: 開く
+      postiion: 11
+    - word: 音
+      postiion: 13
+- id: A_WolfChildren_0549
+  deck_name: Wolf Children
+  translation: Oh hey, Ame. Is school off today?
+  sound: A_WolfChildren_1_1.07.45.768-1.07.48.287.mp3
+  sentence: （天童） ああ…　おや　雨くん　学校休み？
+  words:
+    - word: 天童
+      postiion: 1
+    - word: ああ
+      postiion: 5
+    - word: おや
+      postiion: 9
+    - word: 雨
+      postiion: 12
+    - word: くん
+      base: 君
+      postiion: 13
+    - word: 学校
+      postiion: 16
+    - word: 休み
+      postiion: 18
+- id: A_WolfChildren_0597
+  deck_name: Wolf Children
+  translation: Sorry we had to call you at work.
+  sound: A_WolfChildren_1_1.11.07.370-1.11.10.370.mp3
+  sentence: （田辺） あっ　すいません　お仕事中に…。
+  words:
+    - word: 田辺
+      postiion: 1
+    - word: あっ
+      postiion: 5
+    - word: すい
+      base: すむ
+      dictionary: すむ
+      postiion: 8
+    - word: ませ
+      base: ます
+      dictionary: ます
+      postiion: 10
+    - word: ん
+      base: ず
+      dictionary: ぬ
+      postiion: 12
+    - word: お
+      base: 御
+      postiion: 14
+    - word: 仕事
+      postiion: 15
+    - word: 中
+      postiion: 17
+    - word: に
+      postiion: 18
+- id: A_WolfChildren_0621
+  deck_name: Wolf Children
+  translation: But she has been acting weird lately.
+  sound: A_WolfChildren_1_1.12.39.779-1.12.41.781.mp3
+  sentence: （男の子） いや　最近変わってるもん。
+  words:
+    - word: 男の子
+      postiion: 1
+    - word: いや
+      base: 否
+      postiion: 6
+    - word: 最近
+      postiion: 9
+    - word: 変わっ
+      base: 変わる
+      dictionary: 変わる
+      postiion: 11
+    - word: てる
+      postiion: 14
+    - word: もん
+      base: もの
+      postiion: 16
+- id: A_WolfChildren_0623
+  deck_name: Wolf Children
+  translation: It was obviously her.
+  sound: A_WolfChildren_1_1.12.44.267-1.12.46.267.mp3
+  sentence: （男の子） 絶対　あいつに決まってるよ。
+  words:
+    - word: 男の子
+      postiion: 1
+    - word: 絶対
+      postiion: 6
+    - word: あいつ
+      base: 彼奴
+      postiion: 9
+    - word: に
+      postiion: 12
+    - word: 決まっ
+      base: 決まる
+      dictionary: 決まる
+      postiion: 13
+    - word: てる
+      postiion: 16
+    - word: よ
+      postiion: 18
+- id: A_WolfChildren_0639
+  deck_name: Wolf Children
+  translation: I'm so sorry!
+  sound: A_WolfChildren_1_1.13.44.277-1.13.50.783.mp3
+  sentence: ごめんなさい～！ （泣き声）
+  words:
+    - word: ごめん
+      base: 御免
+      postiion: 0
+    - word: なさい
+      base: 為す
+      dictionary: なさる
+      postiion: 3
+    - word: ～
+      postiion: 6
+    - word: 泣き声
+      postiion: 10
+- id: A_WolfChildren_0678
+  deck_name: Wolf Children
+  translation: Where's Yuki?
+  sound: A_WolfChildren_1_1.17.54.761-1.17.56.796.mp3
+  sentence: （韮崎のおばさんの声） 雪ちゃんは？
+  words:
+    - word: 韮崎
+      postiion: 1
+    - word: の
+      postiion: 3
+    - word: おば
+      base: 伯母
+      postiion: 4
+    - word: さん
+      postiion: 6
+    - word: の
+      postiion: 8
+    - word: 声
+      postiion: 9
+    - word: 雪
+      postiion: 12
+    - word: ちゃん
+      postiion: 13
+    - word: は
+      postiion: 16
+- id: A_WolfChildren_0690
+  deck_name: Wolf Children
+  translation: Master knows everything. Everything about the mountain.
+  sound: A_WolfChildren_1_1.18.27.760-1.18.32.265.mp3
+  sentence: （雨の声） 先生はね　何でも知ってるんだ 山のことなら何でも。
+  words:
+    - word: 雨
+      postiion: 1
+    - word: の
+      postiion: 2
+    - word: 声
+      postiion: 3
+    - word: 先生
+      postiion: 6
+    - word: は
+      postiion: 8
+    - word: ね
+      postiion: 9
+    - word: 何
+      postiion: 11
+    - word: で
+      postiion: 12
+    - word: も
+      postiion: 13
+    - word: 知っ
+      base: 知る
+      dictionary: 知る
+      postiion: 14
+    - word: てる
+      postiion: 16
+    - word: ん
+      base: の
+      postiion: 18
+    - word: だ
+      postiion: 19
+    - word: 山
+      postiion: 21
+    - word: の
+      postiion: 22
+    - word: こと
+      postiion: 23
+    - word: なら
+      base: だ
+      dictionary: だ
+      postiion: 25
+    - word: 何
+      postiion: 27
+    - word: で
+      postiion: 28
+    - word: も
+      postiion: 29
+- id: A_WolfChildren_0721
+  deck_name: Wolf Children
+  translation: And what's there to know?!
+  sound: A_WolfChildren_1_1.23.05.210-1.23.07.145.mp3
+  sentence: 何が!? （顔をたたく音）
+  words:
+    - word: 何
+      postiion: 0
+    - word: が
+      postiion: 1
+    - word: 顔
+      postiion: 6
+    - word: を
+      postiion: 7
+    - word: たたく
+      base: 叩く
+      postiion: 8
+    - word: 音
+      postiion: 11
+- id: A_WolfChildren_0726
+  deck_name: Wolf Children
+  translation: What? What's all this noise?
+  sound: A_WolfChildren_1_1.23.21.143-1.23.25.230.mp3
+  sentence: 何？　何の音？ （うなり声） あっ！
+  words:
+    - word: 何
+      postiion: 0
+    - word: 何
+      postiion: 0
+    - word: の
+      postiion: 4
+    - word: 音
+      postiion: 5
+    - word: うなり声
+      base: 唸り声
+      postiion: 9
+    - word: あっ
+      postiion: 15
+- id: A_WolfChildren_0760
+  deck_name: Wolf Children
+  translation: Keep this a secret, no matter what. Okay?
+  sound: A_WolfChildren_1_1.27.36.131-1.27.39.631.mp3
+  sentence: （荘子） いい？　絶対に秘密だからね。
+  words:
+    - word: 荘子
+      postiion: 1
+    - word: いい
+      base: 良い
+      postiion: 5
+    - word: 絶対
+      postiion: 9
+    - word: に
+      postiion: 11
+    - word: 秘密
+      postiion: 12
+    - word: だ
+      postiion: 14
+    - word: から
+      postiion: 15
+    - word: ね
+      postiion: 17
+- id: A_WolfChildren_0777
+  deck_name: Wolf Children
+  translation: All right. Take your seats, everyone.
+  sound: A_WolfChildren_1_1.30.44.658-1.30.49.580.mp3
+  sentence: （子供達のざわめき） （田辺） はい　座って　座って。
+  words:
+    - word: 子供
+      postiion: 1
+    - word: 達
+      postiion: 3
+    - word: の
+      postiion: 4
+    - word: ざわめき
+      base: 騒めき
+      postiion: 5
+    - word: 田辺
+      postiion: 12
+    - word: はい
+      postiion: 16
+    - word: 座っ
+      base: 座る
+      dictionary: 座る
+      postiion: 19
+    - word: て
+      postiion: 21
+    - word: 座っ
+      base: 座る
+      dictionary: 座る
+      postiion: 23
+    - word: て
+      postiion: 25
+- id: A_WolfChildren_0798
+  deck_name: Wolf Children
+  translation: The Alps are ten thousand—
+  sound: A_WolfChildren_1_1.33.20.063-1.33.29.573.mp3
+  sentence: ♪～　アルプス　一万尺… （雷鳴）
+  words:
+    - word: ♪
+      postiion: 0
+    - word: ～
+      postiion: 1
+    - word: アルプス
+      postiion: 3
+    - word: 一万
+      base: '10000'
+      postiion: 8
+    - word: 尺
+      postiion: 10
+    - word: 雷鳴
+      postiion: 14
+- id: A_WolfChildren_0816
+  deck_name: Wolf Children
+  translation: You don't need to be so reserved.
+  sound: A_WolfChildren_1_1.34.16.620-1.34.18.655.mp3
+  sentence: （信乃の父） 遠慮しなくていいんだよ。
+  words:
+    - word: 信乃
+      postiion: 1
+    - word: の
+      postiion: 3
+    - word: 父
+      postiion: 4
+    - word: 遠慮
+      postiion: 7
+    - word: し
+      base: 為る
+      dictionary: する
+      postiion: 9
+    - word: なく
+      base: ない
+      dictionary: ない
+      postiion: 10
+    - word: て
+      postiion: 12
+    - word: いい
+      base: 良い
+      postiion: 13
+    - word: ん
+      base: の
+      postiion: 15
+    - word: だ
+      postiion: 16
+    - word: よ
+      postiion: 17
+- id: A_WolfChildren_0911
+  deck_name: Wolf Children
+  translation: Ame will be just fine.
+  sound: A_WolfChildren_1_1.46.05.061-1.46.07.063.mp3
+  sentence: （彼）((雨なら大丈夫だよ))
+  words:
+    - word: 彼
+      postiion: 1
+    - word: 雨
+      postiion: 5
+    - word: なら
+      base: だ
+      dictionary: だ
+      postiion: 6
+    - word: 大丈夫
+      postiion: 8
+    - word: だ
+      postiion: 11
+    - word: よ
+      postiion: 12
