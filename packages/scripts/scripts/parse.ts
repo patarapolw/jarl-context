@@ -4,10 +4,12 @@ import yaml from 'js-yaml'
 import S from 'jsonschema-definer'
 
 const sImKit = S.shape({
+  Japanese: S.string(),
+  Reading: S.string().optional(),
   Sentence: S.string(),
   SentenceAudio: S.string(),
   SentenceMeaning: S.string().optional()
-})
+}).additionalProperties(true)
 
 async function main() {
   const data = S.list(sImKit).ensure(
@@ -15,7 +17,7 @@ async function main() {
   )
 
   const toCopy: {
-    [filePath: string]: string[]
+    [filePath: string]: any[]
   } = {}
 
   const reURL =
@@ -27,7 +29,11 @@ async function main() {
     } else {
       const p = `${decodeURIComponent(f1)}/${decodeURIComponent(f2)}`
       toCopy[p] = toCopy[p] || []
-      toCopy[p]!.push(decodeURIComponent(id).replace(/\\_/g, '_'))
+      toCopy[p]!.push({
+        Japanese: d.Japanese,
+        Reading: d.Reading,
+        sound: decodeURIComponent(id).replace(/\\_/g, '_')
+      })
     }
   })
 
