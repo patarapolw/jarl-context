@@ -18,9 +18,6 @@ async function main() {
     [filePath: string]: string[]
   } = {}
 
-  const src = `../../submodules/immersion-kit-api/resources`
-  const dst = `../../my-edit`
-
   const reURL =
     /^https:\/\/immersion-kit\.sfo3\.digitaloceanspaces\.com\/media\/([^/]+)\/([^/]+)\/media\/(.+\.mp3)$/
   data.map((d) => {

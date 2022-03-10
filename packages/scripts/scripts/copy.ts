@@ -5,6 +5,7 @@ import yaml from 'js-yaml'
 import S from 'jsonschema-definer'
 
 const sDataJSON = S.shape({
+  sentence: S.string(),
   sentence_with_furigana: S.string().optional(),
   word_base_list: S.list(S.string()).optional(),
   word_dictionary_list: S.list(S.string()).optional(),
@@ -18,6 +19,9 @@ const sDataJSON = S.shape({
 async function main() {
   const src = `../../submodules/immersion-kit-api/resources`
   const dst = `../../my-edit`
+
+  const reClean = /(^[\p{Z}]+|[\p{Z}]+$|[\u{202a}\u{202c}]+)/gu
+  const reExclude = /^[\p{Z}\p{P}\u{202a}\u{202c}]*$/u
 
   glob
     .sync('**/data.json', {
@@ -47,6 +51,10 @@ async function main() {
               image,
               ...d
             }) => {
+              d.sentence = d.sentence.replace(reClean, '')
+              d.word_list = (d.word_list || []).filter(
+                (r) => !reExclude.test(r)
+              )
               return d
             }
           )
