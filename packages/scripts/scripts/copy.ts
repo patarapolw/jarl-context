@@ -55,7 +55,7 @@ async function main() {
               ...d
             }) => {
               sentence = sentence.replace(reClean, '')
-              if (!/（.+）/.test(sentence)) return null
+              // if (!/（.+）/.test(sentence)) return null
 
               let words: any[] | undefined
               if (word_list) {
@@ -76,7 +76,7 @@ async function main() {
 
                     const pos = sentence.indexOf(word, postiion)
                     if (pos !== -1) {
-                      postiion = pos
+                      postiion = pos + word.length
                       return {
                         word,
                         base,
@@ -87,7 +87,8 @@ async function main() {
                     return {
                       word,
                       base,
-                      dictionary
+                      dictionary,
+                      postiion: null
                     }
                   })
                   .filter((s) => s)
@@ -102,7 +103,7 @@ async function main() {
           )
           .filter((s) => s)
 
-        const filename = `override.yaml`
+        const filename = `override.gen.yaml`
 
         if (out.length) {
           fs.writeFileSync(

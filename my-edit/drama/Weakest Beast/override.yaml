@@ -8,11 +8,8 @@
   words:
     - word: 花井
       postiion: 1
-    - word: は
-      postiion: 4
-    - word: ない
-      base: 無い
-      postiion: 5
+      reading: はない
+      tags: [name, silent]
     - word: それ
       base: 其れ
       postiion: 9
@@ -32,6 +29,8 @@
   words:
     - word: 晶
       postiion: 1
+      reading: あきら
+      tags: [name, silent]
     - word: ん
       postiion: 3
     - word: うん
@@ -58,6 +57,8 @@
   words:
     - word: 花井
       postiion: 1
+      reading: はない
+      tags: [name, silent]
     - word: ああ
       postiion: 4
 - id: >-
@@ -70,6 +71,8 @@
   words:
     - word: 晶
       postiion: 1
+      reading: あきら
+      tags: [name, silent]
     - word: ブーツ
       postiion: 3
     - word: かっこ
@@ -88,6 +91,8 @@
   words:
     - word: 花井
       postiion: 1
+      reading: はない
+      tags: [name, silent]
     - word: 脅かす
       postiion: 4
     - word: な
@@ -96,7 +101,9 @@
       postiion: 8
     - word: 晶
       postiion: 12
-    - word: ハハハ
+      reading: あきら
+      tags: [name, silent]
+      - word: ハハハ
       base: ははは
       postiion: 14
 - id: >-
@@ -109,19 +116,14 @@
   words:
     - word: 根元
       postiion: 1
-    - word: ねもと
-      base: 根元
-      postiion: 4
+      reading: ねもと
+      tags: [name, silent]
     - word: 結婚
       postiion: 9
     - word: 呉羽
       postiion: 14
-    - word: くれ
-      base: 呉れる
-      dictionary: くれる
-      postiion: 17
-    - word: は
-      postiion: 19
+      reading: くれは
+      tags: [name, silent]
     - word: うん
       postiion: 22
 - id: >-
@@ -134,12 +136,16 @@
   words:
     - word: 根元
       postiion: 1
+      reading: ねもと
+      tags: [name, silent]
     - word: 誰
       postiion: 4
     - word: が
       postiion: 5
     - word: 呉羽
       postiion: 9
+      reading: くれは
+      tags: [name, silent]
     - word: 私
       postiion: 12
     - word: が
@@ -154,11 +160,10 @@
   words:
     - word: 根元
       postiion: 1
-    - word: は
+      reading: ねもと
+      tags: [name, silent]
+    - word: はあ
       postiion: 4
-    - word: あ
-      base: あー
-      postiion: 5
 - id: >-
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.01.21.483-0.01.24.352
   deck_name: Weakest Beast
@@ -169,6 +174,8 @@
   words:
     - word: 根元
       postiion: 1
+      reading: ねもと
+      tags: [name, silent]
     - word: 結婚
       postiion: 4
     - word: 指輪
@@ -209,6 +216,8 @@
   words:
     - word: 呉羽
       postiion: 1
+      reading: くれは
+      tags: [name, silent]
     - word: きれい
       base: 奇麗
       postiion: 4
@@ -216,9 +225,6 @@
       base: です
       dictionary: です
       postiion: 7
-    - word: ～？‬
-      base: ~?‬
-      dictionary: ~?‬
 - id: >-
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.01.25.420-0.01.27.221
   deck_name: Weakest Beast
@@ -229,6 +235,8 @@
   words:
     - word: 根元
       postiion: 1
+      reading: ねもと
+      tags: [name, silent]
     - word: いつ
       postiion: 4
     - word: から
@@ -249,6 +257,8 @@
   words:
     - word: 根元
       postiion: 1
+      reading: ねもと
+      tags: [name, silent]
     - word: 相手
       postiion: 4
 - id: >-
@@ -261,6 +271,8 @@
   words:
     - word: 根元
       postiion: 1
+      reading: ねもと
+      tags: [name, silent]
     - word: いや
       base: 否
       postiion: 4
@@ -288,9 +300,6 @@
       base: です
       dictionary: です
       postiion: 6
-    - word: ～？‬
-      base: ~?‬
-      dictionary: ~?‬
 - id: >-
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.01.49.277-0.01.51.145
   deck_name: Weakest Beast
@@ -301,13 +310,14 @@
   words:
     - word: 呉羽
       postiion: 1
+      reading: くれは
+      tags: [name, silent]
     - word: タクラマカン
       postiion: 4
     - word: 斎藤
       postiion: 13
-    - word: さいとう
-      base: 菜刀
-      postiion: 16
+      reading: さいとう
+      tags: [name, silent]
     - word: え
       base: えー
       postiion: 22
@@ -321,6 +331,8 @@
   words:
     - word: 呉羽
       postiion: 1
+      reading: くれは
+      tags: [name, silent]
     - word: シャンパン
       postiion: 4
     - word: 開け
@@ -339,6 +351,8 @@
   words:
     - word: 斎藤
       postiion: 1
+      reading: さいとう
+      tags: [name, silent]
     - word: シャンパン
       postiion: 5
     - word: ない
@@ -360,10 +374,10 @@
   words:
     - word: 呉羽
       postiion: 1
+      reading: くれは
+      tags: [name, silent]
     - word: ん
       postiion: 4
-    - word: ～
-      postiion: 5
     - word: 似
       base: 似る
       dictionary: 似る
@@ -423,6 +437,8 @@
   words:
     - word: 根元
       postiion: 1
+      reading: ねもと
+      tags: [name, silent]
     - word: 何
       postiion: 4
     - word: それ
@@ -438,6 +454,8 @@
   words:
     - word: 斎藤
       postiion: 1
+      reading: さいとう
+      tags: [name, silent]
     - word: ＫＡＧＵＹＡ
       base: kaguya
       dictionary: kaguya
@@ -460,6 +478,8 @@
   words:
     - word: 呉羽
       postiion: 1
+      reading: くれは
+      tags: [name, silent]
     - word: 皆
       postiion: 4
     - word: さん
@@ -468,9 +488,6 @@
       postiion: 7
     - word: どうぞ
       postiion: 9
-    - word: ～‬
-      base: ~‬
-      dictionary: ~‬
 - id: >-
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.02.13.068-0.02.15.403
   deck_name: Weakest Beast
@@ -481,8 +498,12 @@
   words:
     - word: 斎藤
       postiion: 1
+      reading: さいとう
+      tags: [name, silent]
     - word: 晶
       postiion: 5
+      reading: あきら
+      tags: [name]
     - word: ちゃん
       postiion: 6
     - word: たち
@@ -548,8 +569,6 @@
     - word: え
       base: えっ
       postiion: 4
-    - word: ～
-      postiion: 5
     - word: で
       postiion: 7
     - word: は
@@ -564,26 +583,21 @@
   words:
     - word: 斎藤
       postiion: 1
-    - word: カンパ
+      tags: [name, silent]
+    - word: カンパ～イ
+      base: 乾杯
       postiion: 4
-    - word: ～
-      postiion: 7
-    - word: イ
-      postiion: 8
     - word: 根元
       postiion: 12
+      reading: ねもと
+      tags: [name, silent]
     - word: 俺
       postiion: 15
     - word: じゃ
       postiion: 16
-    - word: な
+    - word: な～い
+      base: 無い
       postiion: 18
-    - word: ～
-      base: から
-      postiion: 19
-    - word: い
-      base: いー
-      postiion: 20
 - id: >-
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.02.25.213-0.02.26.213
   deck_name: Weakest Beast
@@ -606,6 +620,7 @@
   words:
     - word: 斎藤
       postiion: 1
+      tags: [name, silent]
     - word: 別
       postiion: 4
     - word: の
@@ -614,6 +629,7 @@
       postiion: 6
     - word: 呉羽
       postiion: 10
+      tags: [name, silent]
     - word: 私
       postiion: 13
     - word: の
@@ -634,6 +650,7 @@
   words:
     - word: 斎藤
       postiion: 1
+      tags: [name, silent]
     - word: えっ
       postiion: 4
     - word: どういう
@@ -642,12 +659,10 @@
       postiion: 11
     - word: 呉羽
       postiion: 16
-    - word: カンパ
+      tags: [name, silent]
+    - word: カンパ～イ
+      base: 乾杯
       postiion: 19
-    - word: ～
-      postiion: 22
-    - word: イ
-      postiion: 23
 - id: >-
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.02.34.022-0.02.35.990
   deck_name: Weakest Beast
@@ -658,6 +673,7 @@
   words:
     - word: 晶
       postiion: 1
+      tags: [name, silent]
     - word: おめでとう
       postiion: 3
     - word: ござい
@@ -668,12 +684,10 @@
       postiion: 11
     - word: 一同
       postiion: 15
-    - word: カンパ
+      tags: [silent]
+    - word: カンパ～イ
+      base: 乾杯
       postiion: 18
-    - word: ～
-      postiion: 21
-    - word: イ
-      postiion: 22
 - id: >-
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.02.35.557-0.02.37.592
   deck_name: Weakest Beast
@@ -684,6 +698,7 @@
   words:
     - word: 花井
       postiion: 1
+      tags: [name, silent]
     - word: おめでとう
       postiion: 4
     - word: ござい
@@ -694,6 +709,7 @@
       postiion: 12
     - word: 呉羽
       postiion: 16
+      tags: [name, silent]
     - word: ありがとう
       base: 有り難う
       postiion: 19
@@ -713,6 +729,7 @@
   words:
     - word: 斎藤
       postiion: 1
+      tags: [name, silent]
     - word: え
       base: えー
       postiion: 4
@@ -726,6 +743,7 @@
   words:
     - word: 花井
       postiion: 1
+      tags: [name, silent]
     - word: そう
       postiion: 4
     - word: で
@@ -742,6 +760,7 @@
   words:
     - word: 呉羽
       postiion: 1
+      tags: [name, silent]
     - word: うち
       postiion: 4
     - word: ら
@@ -778,6 +797,7 @@
   words:
     - word: 呉羽
       postiion: 1
+      tags: [name, silent]
     - word: 考える
       postiion: 4
     - word: フリ
@@ -798,6 +818,7 @@
   words:
     - word: 斎藤
       postiion: 1
+      tags: [name, silent]
     - word: まあ
       postiion: 5
     - word: ２人
@@ -831,18 +852,17 @@
   words:
     - word: 男
       postiion: 1
+      tags: [silent]
     - word: おめでとう
       postiion: 3
     - word: 呉羽
       postiion: 11
+      tags: [name, silent]
     - word: イエイ
       postiion: 14
-    - word: イエ
-      postiion: 14
-    - word: ～
-      postiion: 20
-    - word: イ
-      postiion: 21
+    - word: イエ～イ
+      base: イエイ
+      postiion: 18
 - id: >-
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.03.02.217-0.03.04.185
   deck_name: Weakest Beast
@@ -853,17 +873,12 @@
   words:
     - word: 花井
       postiion: 1
+      tags: [name, silent]
     - word: おめでとう
       postiion: 4
-    - word: ござ
-      base: 茣蓙
+    - word: ございま～す
+      base: ござる
       postiion: 9
-    - word: いま
-      base: 今
-      postiion: 11
-    - word: ～
-      base: から
-      postiion: 13
     - word: す
       postiion: 14
 - id: >-
@@ -879,15 +894,11 @@
     - word: 乾杯
       postiion: 4
     - word: 乾杯
-      postiion: 4
+      postiion: 7
     - word: 男
       postiion: 12
-    - word: イエ
+    - word: イエ～イ
       postiion: 14
-    - word: ～
-      postiion: 16
-    - word: イ
-      postiion: 17
 - id: >-
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.03.06.087-0.03.08.122
   deck_name: Weakest Beast
@@ -898,18 +909,13 @@
   words:
     - word: 呉羽
       postiion: 1
-    - word: イエ
+      tags: [name, silent]
+    - word: イエ～イ
+      base: イエイ
       postiion: 4
-    - word: ～
-      postiion: 6
-    - word: イ
-      postiion: 7
-    - word: イエ
+    - word: イエ～イ
+      base: イエイ
       postiion: 10
-    - word: ～
-      postiion: 12
-    - word: イ
-      postiion: 13
 - id: >-
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.03.07.689-0.03.09.624
   deck_name: Weakest Beast
@@ -920,8 +926,10 @@
   words:
     - word: 晶
       postiion: 1
+      tags: [name, silent]
     - word: 花井
       postiion: 3
+      tags: [name, silent]
     - word: おめでとう
       postiion: 6
     - word: ござい
@@ -940,8 +948,10 @@
   words:
     - word: 斎藤
       postiion: 1
+      tags: [name, silent]
     - word: 晶
       postiion: 5
+      tags: [name]
     - word: ちゃん
       postiion: 6
     - word: の
@@ -966,10 +976,12 @@
   words:
     - word: 晶
       postiion: 1
+      tags: [name, silent]
     - word: はい
       postiion: 3
     - word: 花井
       postiion: 7
+      tags: [name, silent]
     - word: はい
       postiion: 10
     - word: あっ
@@ -988,6 +1000,7 @@
   words:
     - word: 斎藤
       postiion: 1
+      tags: [name, silent]
     - word: ああ
       postiion: 5
     - word: もう
@@ -1013,17 +1026,13 @@
   words:
     - word: 呉羽
       postiion: 1
+      tags: [name, silent]
     - word: ハア
       base: はあ
       postiion: 4
-    - word: ～
-      postiion: 6
     - word: うまい
       base: 旨い
       postiion: 8
-    - word: ～！‬
-      base: ~!‬
-      dictionary: ~!‬
 - id: >-
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.03.27.375-0.03.30.578
   deck_name: Weakest Beast
@@ -1034,12 +1043,14 @@
   words:
     - word: 花井
       postiion: 1
+      tags: [name, silent]
     - word: スペシャル
       postiion: 4
     - word: エディション
       postiion: 9
     - word: 斎藤
       postiion: 18
+      tags: [name, silent]
     - word: これ
       base: 此れ
       postiion: 21
@@ -1061,6 +1072,7 @@
   words:
     - word: 呉羽
       postiion: 1
+      tags: [name, silent]
     - word: 最高
       postiion: 4
 - id: >-
@@ -1073,6 +1085,7 @@
   words:
     - word: 花井
       postiion: 1
+      tags: [name, silent]
     - word: あの
       base: 彼の
       postiion: 4
@@ -1092,6 +1105,7 @@
   words:
     - word: 晶
       postiion: 1
+      tags: [name, silent]
     - word: うん
       postiion: 3
     - word: 男
@@ -1115,6 +1129,7 @@
   words:
     - word: 花井
       postiion: 1
+      tags: [name, silent]
     - word: だっ
       base: だ
       dictionary: だ
@@ -1154,6 +1169,7 @@
   words:
     - word: 晶
       postiion: 1
+      tags: [name, silent]
     - word: この
       base: 此の
       postiion: 3
@@ -1182,6 +1198,7 @@
       postiion: 1
     - word: 音
       postiion: 3
+  tags: [silent, mistranslated]
 - id: >-
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.05.39.707-0.05.41.242
   deck_name: Weakest Beast
@@ -1194,6 +1211,7 @@
       postiion: 1
     - word: 音
       postiion: 3
+  tags: [silent, mistranslated]
 - id: >-
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.05.42.443-0.05.43.844
   deck_name: Weakest Beast
@@ -1206,6 +1224,7 @@
       postiion: 1
     - word: 音
       postiion: 3
+  tags: [silent, mistranslated]
 - id: >-
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.05.45.346-0.05.46.747
   deck_name: Weakest Beast
@@ -1218,6 +1237,7 @@
       postiion: 1
     - word: 音
       postiion: 3
+  tags: [silent, mistranslated]
 - id: >-
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.06.42.003-0.06.43.471
   deck_name: Weakest Beast
@@ -1228,8 +1248,10 @@
   words:
     - word: 応答
       postiion: 1
+      tags: [silent]
     - word: メッセージ
       postiion: 3
+      tags: [silent]
     - word: ただいま
       base: 只今
       postiion: 10
@@ -1247,6 +1269,7 @@
   words:
     - word: アナウンス
       postiion: 1
+      tags: [silent]
     - word: ま
       postiion: 8
     - word: も
@@ -1257,14 +1280,12 @@
       postiion: 10
     - word: 馬倉
       postiion: 12
-    - word: う
-      base: うー
-      postiion: 15
-    - word: まくら
-      base: 枕
-      postiion: 16
+      reading: うまくら
+      tags: [name, place]
     - word: 馬倉
       postiion: 21
+      reading: うまくら
+      tags: [name, place]
     - word: です
       postiion: 23
 - id: >-
@@ -1278,6 +1299,7 @@
     - word: ため息
       base: 溜め息
       postiion: 1
+  tags: [silent]
 - id: >-
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.08.42.823-0.08.44.325
   deck_name: Weakest Beast
@@ -3038,8 +3060,6 @@
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.16.00.060-0.16.02.529.mp3
   sentence: （根元） タクラマカンって砂漠だよね
   words:
-    - word: 根元
-      postiion: 1
     - word: タクラマカン
       postiion: 5
     - word: って
@@ -3187,13 +3207,8 @@
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.17.28.615-0.17.30.450.mp3
   sentence: （根元）ん～
   words:
-    - word: 根元
-      postiion: 1
     - word: ん
       postiion: 4
-    - word: ～‬
-      base: ~‬
-      dictionary: ~‬
 - id: >-
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.18.19.933-0.18.21.501
   deck_name: Weakest Beast
@@ -3202,8 +3217,6 @@
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.18.19.933-0.18.21.501.mp3
   sentence: （根元）もしもし
   words:
-    - word: 根元
-      postiion: 1
     - word: もしもし
       postiion: 4
 - id: >-
@@ -3228,12 +3241,12 @@
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.18.32.546-0.18.34.014.mp3
   sentence: （根元）いや だから
   words:
-    - word: 根元
-      postiion: 1
     - word: いや
       base: 否
       postiion: 4
     - word: だ
+      postiion: 7
+    - word: だから
       postiion: 7
     - word: から
       postiion: 8
@@ -3245,22 +3258,13 @@
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.18.58.105-0.19.01.208.mp3
   sentence: （根元）あの女… 晶だっけ？ （斎藤）うん
   words:
-    - word: 根元
-      postiion: 1
     - word: あの
       base: 彼の
       postiion: 4
     - word: 女
       postiion: 6
-    - word: 晶
-      postiion: 9
-    - word: だ
+    - word: だけ
       postiion: 10
-    - word: っけ
-      base: け
-      postiion: 11
-    - word: 斎藤
-      postiion: 16
     - word: うん
       postiion: 19
 - id: >-
@@ -3271,9 +3275,8 @@
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.19.01.208-0.19.03.009.mp3
   sentence: （根元） さっきの質問 なんだ あれ
   words:
-    - word: 根元
-      postiion: 1
     - word: さっき
+      base: 先
       postiion: 5
     - word: の
       postiion: 8
@@ -3294,8 +3297,6 @@
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.19.12.519-0.19.13.987.mp3
   sentence: （根元）何が？
   words:
-    - word: 根元
-      postiion: 1
     - word: 何
       postiion: 4
     - word: が
@@ -3308,8 +3309,6 @@
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.19.49.356-0.19.50.690.mp3
   sentence: （根元）キモい
   words:
-    - word: 根元
-      postiion: 1
     - word: キモい
       base: きもい
       postiion: 4
@@ -3321,13 +3320,9 @@
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.19.52.693-0.19.55.395.mp3
   sentence: （根元）いや 斎藤じゃなくて あの女がキモい
   words:
-    - word: 根元
-      postiion: 1
     - word: いや
       base: 否
       postiion: 4
-    - word: 斎藤
-      postiion: 7
     - word: じゃ
       base: だ
       dictionary: だ
@@ -3430,17 +3425,10 @@
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.20.22.322-0.20.23.857.mp3
   sentence: （斎藤）焦った～！
   words:
-    - word: 斎藤
-      postiion: 1
-    - word: 焦っ
+    - word: 焦った
       base: 焦る
       dictionary: 焦る
       postiion: 4
-    - word: た
-      postiion: 6
-    - word: ～！‬
-      base: ~!‬
-      dictionary: ~!‬
 - id: >-
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.20.29.663-0.20.31.631
   deck_name: Weakest Beast
@@ -3449,13 +3437,9 @@
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.20.29.663-0.20.31.631.mp3
   sentence: （根元）それ （斎藤）え？
   words:
-    - word: 根元
-      postiion: 1
     - word: それ
       base: 其れ
       postiion: 4
-    - word: 斎藤
-      postiion: 8
     - word: え
       base: えー
       postiion: 11
@@ -3502,16 +3486,11 @@
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.21.35.629-0.21.38.398.mp3
   sentence: （根元）ん… いらない
   words:
-    - word: 根元
-      postiion: 1
     - word: ん
       postiion: 4
-    - word: いら
-      base: いる
-      dictionary: いる
+    - word: いらない
+      base: 要る
       postiion: 7
-    - word: ない
-      postiion: 9
 - id: >-
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.21.40.234-0.21.42.535
   deck_name: Weakest Beast
@@ -3539,8 +3518,6 @@
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.21.46.573-0.21.49.209.mp3
   sentence: （根元） フフッ ホントに結婚してるよ
   words:
-    - word: 根元
-      postiion: 1
     - word: フフッ
       base: ふふ
       postiion: 5
@@ -3579,13 +3556,9 @@
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.22.09.463-0.22.11.998.mp3
   sentence: （根元）あ～ ダメですね
   words:
-    - word: 根元
-      postiion: 1
     - word: あ
       base: あっ
       postiion: 4
-    - word: ～
-      postiion: 5
     - word: ダメ
       base: 駄目
       postiion: 7
@@ -3601,18 +3574,12 @@
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.22.13.734-0.22.15.735.mp3
   sentence: （根元） 面倒かかってんの 俺だから
   words:
-    - word: 根元
-      postiion: 1
     - word: 面倒
       postiion: 5
-    - word: かかっ
+    - word: かかって
       base: 掛かる
       dictionary: かかる
       postiion: 7
-    - word: てん
-      base: てる
-      dictionary: てる
-      postiion: 10
     - word: の
       postiion: 12
     - word: 俺
@@ -3629,8 +3596,6 @@
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.22.19.740-0.22.22.609.mp3
   sentence: （根元）いいよ 問題なし
   words:
-    - word: 根元
-      postiion: 1
     - word: いい
       base: 良い
       postiion: 4
@@ -3639,6 +3604,7 @@
     - word: 問題
       postiion: 8
     - word: なし
+      base: 無い
       postiion: 10
 - id: >-
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.23.05.652-0.23.08.254
@@ -7358,19 +7324,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.01.49.557-0.01.50.791.mp3
   sentence: （根元(ねもと)）呉羽(くれは)か
   words:
-    - word: 根元
-      postiion: 1
-    - word: ねもと
-      base: 根元
-      postiion: 4
-    - word: 呉羽
-      postiion: 9
-    - word: くれ
-      base: 呉れる
-      dictionary: くれる
-      postiion: 12
-    - word: は
-      postiion: 14
     - word: か
       postiion: 16
 - id: 獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.01.50.358-0.01.52.159
@@ -7380,12 +7333,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.01.50.358-0.01.52.159.mp3
   sentence: （岡持）呉羽さん…
   words:
-    - word: 岡持
-      postiion: 1
-    - word: 呉
-      postiion: 4
-    - word: 羽
-      postiion: 5
     - word: さん
       postiion: 6
 - id: 獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.01.58.599-0.02.00.200
@@ -7395,8 +7342,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.01.58.599-0.02.00.200.mp3
   sentence: （根元）知らねえよ
   words:
-    - word: 根元
-      postiion: 1
     - word: 知ら
       base: 知る
       dictionary: 知る
@@ -7414,8 +7359,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.02.02.303-0.02.03.604.mp3
   sentence: （根元）知らない
   words:
-    - word: 根元
-      postiion: 1
     - word: 知ら
       base: 知る
       dictionary: 知る
@@ -7511,8 +7454,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.02.08.242-0.02.09.677.mp3
   sentence: （根元）普通 されないね
   words:
-    - word: 根元
-      postiion: 1
     - word: 普通
       postiion: 4
     - word: さ
@@ -7534,8 +7475,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.02.09.711-0.02.12.813.mp3
   sentence: （勝俣）私を助けられるのは 根元先生だけなんです！
   words:
-    - word: 勝俣
-      postiion: 1
     - word: 私
       postiion: 4
     - word: を
@@ -7550,8 +7489,6 @@
       postiion: 11
     - word: は
       postiion: 12
-    - word: 根元
-      postiion: 14
     - word: 先生
       postiion: 16
     - word: だけ
@@ -7634,8 +7571,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.02.46.881-0.02.48.682.mp3
   sentence: （根元）もうないか どっか遠く
   words:
-    - word: 根元
-      postiion: 1
     - word: もう
       postiion: 4
     - word: ない
@@ -7658,8 +7593,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.03.13.808-0.03.15.409.mp3
   sentence: （根元）開いてない？
   words:
-    - word: 根元
-      postiion: 1
     - word: 開い
       base: 開く
       dictionary: 開く
@@ -7677,8 +7610,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.03.18.813-0.03.21.115.mp3
   sentence: （根元）フッ… なんだよ
   words:
-    - word: 根元
-      postiion: 1
     - word: フッ
       base: ふっ
       postiion: 4
@@ -7712,8 +7643,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.03.30.892-0.03.31.992.mp3
   sentence: （根元）こんばんは
   words:
-    - word: 根元
-      postiion: 1
     - word: こんばんは
       base: 今晩は
       postiion: 4
@@ -7749,8 +7678,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.03.46.340-0.03.48.909.mp3
   sentence: （根元） 女の服 いちいち見ないだろ
   words:
-    - word: 根元
-      postiion: 1
     - word: 女
       postiion: 5
     - word: の
@@ -8073,8 +8000,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.06.19.060-0.06.21.728.mp3
   sentence: （根元） 服から入る意味が分からない
   words:
-    - word: 根元
-      postiion: 1
     - word: 服
       postiion: 5
     - word: から
@@ -8175,8 +8100,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.06.56.063-0.06.58.365.mp3
   sentence: （根元）どこまで行ってたんだよ？
   words:
-    - word: 根元
-      postiion: 1
     - word: どこ
       postiion: 4
     - word: まで
@@ -8205,8 +8128,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.07.00.601-0.07.02.836.mp3
   sentence: （岡持）あれ 誰っすか？ （根元）近い 近い…
   words:
-    - word: 岡持
-      postiion: 1
     - word: あれ
       base: 彼れ
       postiion: 4
@@ -8216,8 +8137,6 @@
       postiion: 8
     - word: か
       postiion: 10
-    - word: 根元
-      postiion: 14
     - word: 近い
       postiion: 17
     - word: 近い
@@ -8229,8 +8148,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.07.03.738-0.07.05.305.mp3
   sentence: （根元）お客さん
   words:
-    - word: 根元
-      postiion: 1
     - word: お
       base: 御
       postiion: 4
@@ -8245,13 +8162,9 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.07.05.206-0.07.08.141.mp3
   sentence: （岡持）ハアハア… （根元）近いな
   words:
-    - word: 岡持
-      postiion: 1
     - word: ハアハア
       base: はあはあ
       postiion: 4
-    - word: 根元
-      postiion: 11
     - word: 近い
       postiion: 14
     - word: な
@@ -8277,8 +8190,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.07.12.113-0.07.13.380.mp3
   sentence: （根元）あっ…
   words:
-    - word: 根元
-      postiion: 1
     - word: あっ
       postiion: 4
 - id: 獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.07.17.184-0.07.18.418
@@ -8288,10 +8199,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.07.17.184-0.07.18.418.mp3
   sentence: （根元）晶さん
   words:
-    - word: 根元
-      postiion: 1
-    - word: 晶
-      postiion: 4
     - word: さん
       postiion: 5
 - id: 獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.07.42.209-0.07.43.911
@@ -8301,8 +8208,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.07.42.209-0.07.43.911.mp3
   sentence: （根元）ちょっと近いな
   words:
-    - word: 根元
-      postiion: 1
     - word: ちょっと
       base: 一寸
       postiion: 4
@@ -8333,8 +8238,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.07.46.547-0.07.47.748.mp3
   sentence: （根元）おい！
   words:
-    - word: 根元
-      postiion: 1
     - word: おい
       postiion: 4
 - id: 獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.07.53.654-0.07.57.157
@@ -8344,8 +8247,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.07.53.654-0.07.57.157.mp3
   sentence: （根元）お前さ 距離感 学べよ
   words:
-    - word: 根元
-      postiion: 1
     - word: お前
       base: 御前
       postiion: 4
@@ -8382,8 +8283,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.08.11.705-0.08.13.206.mp3
   sentence: （根元）無臭？
   words:
-    - word: 根元
-      postiion: 1
     - word: 無臭
       postiion: 4
 - id: 獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.08.13.307-0.08.15.142
@@ -8412,8 +8311,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.08.16.911-0.08.18.612.mp3
   sentence: （根元）とりあえず 嗅ぐなって
   words:
-    - word: 根元
-      postiion: 1
     - word: とりあえず
       base: 取り敢えず
       postiion: 4
@@ -8514,9 +8411,6 @@
       postiion: 8
     - word: た
       postiion: 10
-    - word: ～！‬
-      base: ~!‬
-      dictionary: ~!‬
 - id: 獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.09.25.045-0.09.26.413
   deck_name: Weakest Beast
   translation: Kureha said it.
@@ -8526,8 +8420,10 @@
   words:
     - word: 根元
       postiion: 1
+      tags: [name, silent]
     - word: 呉羽
       postiion: 4
+      tags: [name]
 - id: 獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.10.27.241-0.10.31.611
   deck_name: Weakest Beast
   translation: I am…<br>unable to stand up for myself.
@@ -8535,8 +8431,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.10.27.241-0.10.31.611.mp3
   sentence: （晶） “私は 人に強く言えなくて”
   words:
-    - word: 晶
-      postiion: 1
     - word: 私
       postiion: 5
     - word: は
@@ -8570,6 +8464,7 @@
       postiion: 1
     - word: 音
       postiion: 3
+  tags: [silent, mistranslated]
 - id: 獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.11.25.866-0.11.28.435
   deck_name: Weakest Beast
   translation: Her work is hard.
@@ -8579,9 +8474,8 @@
   words:
     - word: 朱里
       postiion: 1
-    - word: しゅり
-      base: 手裏
-      postiion: 4
+      reading: しゅり
+      tags: [name, silent]
     - word: 彼女
       postiion: 9
     - word: 仕事
@@ -8604,13 +8498,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.11.33.841-0.11.36.409.mp3
   sentence: （花井(はない)）簡単に 辞められる人じゃないんだよ
   words:
-    - word: 花井
-      postiion: 1
-    - word: は
-      postiion: 4
-    - word: ない
-      base: 無い
-      postiion: 5
     - word: 簡単
       postiion: 9
     - word: に
@@ -9148,8 +9035,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.18.01.995-0.18.03.696.mp3
   sentence: （根元）これの領収書ありますか？
   words:
-    - word: 根元
-      postiion: 1
     - word: これ
       base: 此れ
       postiion: 4
@@ -9185,8 +9070,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.18.11.138-0.18.13.106.mp3
   sentence: （根元） この調子なら融資の借り換えも
   words:
-    - word: 根元
-      postiion: 1
     - word: この
       base: 此の
       postiion: 5
@@ -9231,8 +9114,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.18.19.579-0.18.20.880.mp3
   sentence: （根元）いいですね
   words:
-    - word: 根元
-      postiion: 1
     - word: いい
       base: 良い
       postiion: 4
@@ -9247,8 +9128,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.18.21.548-0.18.24.951.mp3
   sentence: （根元）でも 実態が私用なら 会社の経費には できませんよ
   words:
-    - word: 根元
-      postiion: 1
     - word: で
       postiion: 4
     - word: も
@@ -9294,8 +9173,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.19.02.622-0.19.05.959.mp3
   sentence: （根元）ちょっと やめてくださいよ こんな所で
   words:
-    - word: 根元
-      postiion: 1
     - word: ちょっと
       base: 一寸
       postiion: 4
@@ -11254,9 +11131,6 @@
       postiion: 4
     - word: か
       postiion: 6
-    - word: ～‬
-      base: ~‬
-      dictionary: ~‬
 - id: 獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.32.30.162-0.32.33.699
   deck_name: Weakest Beast
   translation: I changed your name.<br>Sign it and return it to me.
@@ -11264,8 +11138,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.32.30.162-0.32.33.699.mp3
   sentence: （根元）名前 直したから 印鑑押して 俺に戻して
   words:
-    - word: 根元
-      postiion: 1
     - word: 名前
       postiion: 4
     - word: 直し
@@ -11301,8 +11173,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.32.40.239-0.32.43.342.mp3
   sentence: （根元）あれ 出来た？ あのパンフみたいの
   words:
-    - word: 根元
-      postiion: 1
     - word: あれ
       base: 彼れ
       postiion: 4
@@ -11327,8 +11197,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.32.55.554-0.32.58.323.mp3
   sentence: （根元）ポスター見て ロゴからブランド ググったって
   words:
-    - word: 根元
-      postiion: 1
     - word: ポスター
       postiion: 4
     - word: 見
@@ -11417,8 +11285,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.33.25.618-0.33.27.986.mp3
   sentence: （根元）まあ リアルに 聞こえたわけじゃないか
   words:
-    - word: 根元
-      postiion: 1
     - word: まあ
       postiion: 4
     - word: リアル
@@ -11472,8 +11338,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.33.52.778-0.33.55.714.mp3
   sentence: （根元）えっ？　音声あるか検索
   words:
-    - word: 根元
-      postiion: 1
     - word: えっ
       postiion: 4
     - word: 音声
@@ -11689,8 +11553,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.38.13.305-0.38.17.409.mp3
   sentence: （根元）ハア… もうさ…
   words:
-    - word: 根元
-      postiion: 1
     - word: ハア
       base: はあ
       postiion: 4
@@ -11716,8 +11578,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.38.32.358-0.38.34.459.mp3
   sentence: （根元）責任 責任って…
   words:
-    - word: 根元
-      postiion: 1
     - word: 責任
       postiion: 4
     - word: 責任
@@ -11755,22 +11615,14 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.39.09.828-0.39.11.830.mp3
   sentence: （根元）晶さんが怒ってんの？
   words:
-    - word: 根元
-      postiion: 1
-    - word: 晶
-      postiion: 4
     - word: さん
       postiion: 5
     - word: が
       postiion: 7
-    - word: 怒っ
+    - word: 怒って
       base: 怒る
       dictionary: 怒る
       postiion: 8
-    - word: てん
-      base: てる
-      dictionary: てる
-      postiion: 10
     - word: の
       postiion: 12
 - id: 獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.39.12.564-0.39.15.801
@@ -11808,8 +11660,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.39.17.136-0.39.20.071.mp3
   sentence: （根元）俺はね 相応な人間なんで
   words:
-    - word: 根元
-      postiion: 1
     - word: 俺
       postiion: 4
     - word: は
@@ -11863,8 +11713,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.41.08.447-0.41.11.016.mp3
   sentence: （根元） どっちか選ぶなんて 簡単だろう
   words:
-    - word: 根元
-      postiion: 1
     - word: どっち
       postiion: 5
     - word: か
@@ -11914,8 +11762,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.41.13.819-0.41.16.187.mp3
   sentence: （根元）選べないヤツは 選ぶ気がないんだよ
   words:
-    - word: 根元
-      postiion: 1
     - word: 選べ
       base: 選ぶ
       dictionary: 選べる
@@ -11988,25 +11834,15 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.41.19.658-0.41.22.093.mp3
   sentence: （根元）さっきから 何 ムキになってるの？
   words:
-    - word: 根元
-      postiion: 1
     - word: さっき
       postiion: 4
     - word: から
       postiion: 7
     - word: 何
       postiion: 10
-    - word: ムキ
-      base: むき
+    - word: ムキになってる
+      base: むきになる
       postiion: 12
-    - word: に
-      postiion: 14
-    - word: なっ
-      base: 成る
-      dictionary: なる
-      postiion: 15
-    - word: てる
-      postiion: 17
     - word: の
       postiion: 19
 - id: 獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.41.22.061-0.41.24.062
@@ -12039,8 +11875,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.41.25.063-0.41.27.198.mp3
   sentence: （根元）そうですか
   words:
-    - word: 根元
-      postiion: 1
     - word: そう
       postiion: 4
     - word: です
@@ -12077,19 +11911,13 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.41.34.807-0.41.36.975.mp3
   sentence: （根元）フッ… 誘ってねえよ
   words:
-    - word: 根元
-      postiion: 1
     - word: フッ
       base: ふっ
       postiion: 4
-    - word: 誘っ
+    - word: 誘って
       base: 誘う
       dictionary: 誘う
       postiion: 8
-    - word: て
-      base: てる
-      dictionary: てる
-      postiion: 10
     - word: ねえ
       base: ない
       dictionary: ない
@@ -12153,21 +11981,14 @@
   words:
     - word: 根元
       postiion: 1
+      tags: [name, silent]
     - word: 実家
       postiion: 4
     - word: は
       postiion: 6
     - word: 青山
       postiion: 7
-    - word: あ
-      base: あっ
-      postiion: 10
-    - word: お
-      base: 御
-      postiion: 11
-    - word: やま
-      base: 山
-      postiion: 12
+      tags: [name, place]
 - id: 獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.42.54.920-0.42.59.024
   deck_name: Weakest Beast
   translation: So, humans lost many abilities during the evolution process.
@@ -12175,8 +11996,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.42.54.920-0.42.59.024.mp3
   sentence: （根元）人間は 進化の過程で いろんな能力を失ったわけですよ
   words:
-    - word: 根元
-      postiion: 1
     - word: 人間
       postiion: 4
     - word: は
@@ -12232,8 +12051,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.43.20.512-0.43.22.580.mp3
   sentence: （根元）文化水準を上げて
   words:
-    - word: 根元
-      postiion: 1
     - word: 文化
       postiion: 4
     - word: 水準
@@ -12273,8 +12090,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.43.38.297-0.43.40.365.mp3
   sentence: （根元）あいつは野生児
   words:
-    - word: 根元
-      postiion: 1
     - word: あいつ
       base: 彼奴
       postiion: 4
@@ -12305,8 +12120,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.43.46.305-0.43.47.539.mp3
   sentence: （根元）おっ…
   words:
-    - word: 根元
-      postiion: 1
     - word: おっ
       postiion: 4
 - id: 獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.43.47.105-0.43.49.741
@@ -12375,9 +12188,8 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.44.02.087-0.44.03.321.mp3
   sentence: （根元）タレ？
   words:
-    - word: 根元
-      postiion: 1
     - word: タレ
+      base: 垂れ
       postiion: 4
 - id: 獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.44.03.221-0.44.04.823
   deck_name: Weakest Beast
@@ -12386,9 +12198,8 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.44.03.221-0.44.04.823.mp3
   sentence: （晶）バーベキューで
   words:
-    - word: 晶
-      postiion: 1
     - word: バーベキュー
+      alt: [barbeque]
       postiion: 3
     - word: で
       postiion: 9
@@ -12399,8 +12210,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.44.04.723-0.44.07.058.mp3
   sentence: （根元）フッ… 若いね
   words:
-    - word: 根元
-      postiion: 1
     - word: フッ
       base: ふっ
       postiion: 4
@@ -12440,8 +12249,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.44.11.063-0.44.13.598.mp3
   sentence: （根元）前？ そんなもん よく行くな
   words:
-    - word: 根元
-      postiion: 1
     - word: 前
       postiion: 4
     - word: そんな
@@ -12515,8 +12322,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.46.04.943-0.46.07.145.mp3
   sentence: （根元） もう帰りましょうってやつ？
   words:
-    - word: 根元
-      postiion: 1
     - word: もう
       postiion: 5
     - word: 帰り
@@ -12875,8 +12680,6 @@
     獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.50.54.566-0.50.57.168.mp3
   sentence: （根元） 母は 兄が行方をくらましたのを
   words:
-    - word: 根元
-      postiion: 1
     - word: 母
       postiion: 5
     - word: は
@@ -13053,17 +12856,11 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.00.14.074-0.00.17.244.mp3
   sentence: （根元(ねもと)）ハハッ… 安っ！
   words:
-    - word: 根元
-      postiion: 1
-    - word: ねもと
-      base: 根元
-      postiion: 4
     - word: ハハッ
       postiion: 9
-    - word: 安
+    - word: 安っ
+      base: 安い
       postiion: 14
-    - word: っ
-      postiion: 15
 - id: >-
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.00.25.519-0.00.27.020
   deck_name: Weakest Beast
@@ -13072,27 +12869,17 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.00.25.519-0.00.27.020.mp3
   sentence: （高梨）どうしようもありません
   words:
-    - word: 高梨
-      postiion: 1
-    - word: どうし
-      base: 同士
+    - word: どう
       postiion: 4
-    - word: よう
-      postiion: 7
+    - word: しよう
+      base: する
+      postiion: 6
     - word: も
       postiion: 9
-    - word: あり
+    - word: ありません
       base: 有る
       dictionary: ある
       postiion: 10
-    - word: ませ
-      base: ます
-      dictionary: ます
-      postiion: 12
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      postiion: 14
 - id: >-
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.00.34.929-0.00.37.064
   deck_name: Weakest Beast
@@ -13101,8 +12888,6 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.00.34.929-0.00.37.064.mp3
   sentence: （高梨）私に言われても…
   words:
-    - word: 高梨
-      postiion: 1
     - word: 私
       postiion: 4
     - word: に
@@ -13191,16 +12976,11 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.00.56.917-0.00.58.819.mp3
   sentence: （斎藤(さいとう)） えっ 根元事務所？
   words:
-    - word: 斎藤
-      postiion: 1
-    - word: さいとう
-      base: 菜刀
-      postiion: 4
     - word: えっ
       postiion: 11
-    - word: 根元
-      postiion: 14
     - word: 事務
+      postiion: 16
+    - word: 事務所
       postiion: 16
     - word: 所
       postiion: 18
@@ -13505,8 +13285,6 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.01.44.932-0.01.46.566.mp3
   sentence: （根元）こんばんは
   words:
-    - word: 根元
-      postiion: 1
     - word: こんばんは
       base: 今晩は
       postiion: 4
@@ -13794,19 +13572,10 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.02.23.904-0.02.26.139.mp3
   sentence: （根元）あっ 彼氏… （花井(はない)）え？
   words:
-    - word: 根元
-      postiion: 1
     - word: あっ
       postiion: 4
     - word: 彼氏
       postiion: 7
-    - word: 花井
-      postiion: 12
-    - word: は
-      postiion: 15
-    - word: ない
-      base: 無い
-      postiion: 16
     - word: え
       base: えー
       postiion: 20
@@ -13818,16 +13587,10 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.02.26.607-0.02.29.442.mp3
   sentence: （根元）…さん？　あっ 晶(あきら)さんの
   words:
-    - word: 根元
-      postiion: 1
     - word: さん
       postiion: 5
     - word: あっ
       postiion: 9
-    - word: 晶
-      postiion: 12
-    - word: あきら
-      postiion: 14
     - word: さん
       postiion: 18
     - word: の
@@ -13874,19 +13637,9 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.03.12.186-0.03.13.687.mp3
   sentence: （根元）なんだよ
   words:
-    - word: 根元
-      postiion: 1
-    - word: な
-      base: だ
-      dictionary: だ
+    - word: なん
+      base: 何
       postiion: 4
-    - word: ん
-      base: の
-      postiion: 5
-    - word: だ
-      postiion: 6
-    - word: よ
-      postiion: 7
 - id: >-
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.03.20.394-0.03.21.962
   deck_name: Weakest Beast
@@ -13895,8 +13648,6 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.03.20.394-0.03.21.962.mp3
   sentence: （斎藤）あっ スーツケース…
   words:
-    - word: 斎藤
-      postiion: 1
     - word: あっ
       postiion: 4
     - word: スーツケース
@@ -14082,8 +13833,6 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.04.15.482-0.04.17.484.mp3
   sentence: （根元）漏電ですか？
   words:
-    - word: 根元
-      postiion: 1
     - word: 漏電
       postiion: 4
     - word: です
@@ -14129,8 +13878,6 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.04.41.175-0.04.44.477.mp3
   sentence: （根元）彼 自宅で問題があって 帰れないんだって
   words:
-    - word: 根元
-      postiion: 1
     - word: 彼
       postiion: 4
     - word: 自宅
@@ -14574,11 +14321,6 @@
     - word: あ
       base: あー
       postiion: 5
-    - word: ～‬
-      base: ~‬
-      dictionary: ~‬
-    - word: 根元
-      postiion: 9
     - word: え
       base: えー
       postiion: 12
@@ -14590,12 +14332,8 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.06.56.576-0.06.58.812.mp3
   sentence: （根元）周年… （斎藤）うん
   words:
-    - word: 根元
-      postiion: 1
     - word: 周年
       postiion: 4
-    - word: 斎藤
-      postiion: 9
     - word: うん
       postiion: 12
 - id: >-
@@ -14606,12 +14344,8 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.06.58.879-0.07.00.814.mp3
   sentence: （根元）ああ （斎藤）思い出した？
   words:
-    - word: 根元
-      postiion: 1
     - word: ああ
       postiion: 4
-    - word: 斎藤
-      postiion: 8
     - word: 思い
       base: 思う
       dictionary: 思う
@@ -15528,8 +15262,6 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.15.02.228-0.15.05.164.mp3
   sentence: （根元）ゴミ箱に 札束入れるヤツは いないだろう
   words:
-    - word: 根元
-      postiion: 1
     - word: ゴミ箱
       base: 塵箱
       postiion: 4
@@ -15584,8 +15316,6 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.15.14.674-0.15.16.142.mp3
   sentence: （根元）どうぞ
   words:
-    - word: 根元
-      postiion: 1
     - word: どうぞ
       postiion: 4
 - id: >-
@@ -15615,8 +15345,6 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.15.22.282-0.15.23.616.mp3
   sentence: （根元）どうしたんですか？
   words:
-    - word: 根元
-      postiion: 1
     - word: どう
       postiion: 4
     - word: し
@@ -15672,8 +15400,6 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.15.37.330-0.15.39.565.mp3
   sentence: （根元） 叔父さんに連絡があったんですか？
   words:
-    - word: 根元
-      postiion: 1
     - word: 叔父
       base: 伯父
       postiion: 5
@@ -15738,8 +15464,6 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.15.52.478-0.15.54.146.mp3
   sentence: （根元）なんでだよ！
   words:
-    - word: 根元
-      postiion: 1
     - word: なん
       base: 何
       postiion: 4
@@ -15788,8 +15512,6 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.16.00.787-0.16.02.755.mp3
   sentence: （根元）答えなくて大丈夫です
   words:
-    - word: 根元
-      postiion: 1
     - word: 答え
       base: 答える
       dictionary: 答える
@@ -15827,10 +15549,6 @@
       postiion: 12
     - word: た
       postiion: 14
-    - word: ～
-      postiion: 15
-    - word: 根元
-      postiion: 18
     - word: 泥棒
       postiion: 21
 - id: >-
@@ -15841,20 +15559,13 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.16.19.472-0.16.20.873.mp3
   sentence: （根元）すいません
   words:
-    - word: 根元
-      postiion: 1
-    - word: すい
+    - word: すいません
       base: すむ
       dictionary: すむ
       postiion: 4
-    - word: ませ
-      base: ます
-      dictionary: ます
-      postiion: 6
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      postiion: 8
+    - word: すいません
+      base: すみません
+      postiion: 4
 - id: >-
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.16.22.208-0.16.25.644
   deck_name: Weakest Beast
@@ -15887,8 +15598,6 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.16.54.741-0.16.57.676.mp3
   sentence: （根元） 母は 兄が行方をくらましたのを
   words:
-    - word: 根元
-      postiion: 1
     - word: 母
       postiion: 5
     - word: は
@@ -15964,8 +15673,6 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.17.09.555-0.17.14.093.mp3
   sentence: （根元）兄は子供のころから優秀で みんなの人気者だったから
   words:
-    - word: 根元
-      postiion: 1
     - word: 兄
       postiion: 4
     - word: は
@@ -16029,8 +15736,6 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.17.35.114-0.17.37.149.mp3
   sentence: （根元） 叔父さんは父の弟ってだけで
   words:
-    - word: 根元
-      postiion: 1
     - word: 叔父
       base: 伯父
       postiion: 5
@@ -16058,8 +15763,6 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.17.44.290-0.17.46.592.mp3
   sentence: （根元） いなくなったのは兄の意思ですから
   words:
-    - word: 根元
-      postiion: 1
     - word: い
       base: 居る
       dictionary: いる
@@ -16637,8 +16340,10 @@
   words:
     - word: 堀田
       postiion: 1
+      tags: [name, silent]
     - word: 根元
       postiion: 4
+      tags: [name]
 - id: >-
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.24.21.454-0.24.25.557
   deck_name: Weakest Beast
@@ -16647,23 +16352,16 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.24.21.454-0.24.25.557.mp3
   sentence: （根元）あ… すいません お待たせしました
   words:
-    - word: 根元
-      postiion: 1
     - word: あ
       base: あっ
       postiion: 4
-    - word: すい
+    - word: すいません
       base: すむ
       dictionary: すむ
       postiion: 7
-    - word: ませ
-      base: ます
-      dictionary: ます
-      postiion: 9
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      postiion: 11
+    - word: すいません
+      base: すみません
+      postiion: 7
     - word: お
       base: 御
       postiion: 13
@@ -17402,8 +17100,6 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.32.30.275-0.32.31.810.mp3
   sentence: （根元）こんばんは
   words:
-    - word: 根元
-      postiion: 1
     - word: こんばんは
       base: 今晩は
       postiion: 4
@@ -17430,8 +17126,6 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.32.38.717-0.32.40.051.mp3
   sentence: （根元）え？
   words:
-    - word: 根元
-      postiion: 1
     - word: え
       base: えー
       postiion: 4
@@ -17461,8 +17155,6 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.32.41.854-0.32.45.056.mp3
   sentence: （根元） 会社勤めしてましたよ 監査法人
   words:
-    - word: 根元
-      postiion: 1
     - word: 会社
       postiion: 5
     - word: 勤め
@@ -17495,8 +17187,6 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.32.52.164-0.32.54.999.mp3
   sentence: （根元） 電車のホーム 怖いですよね
   words:
-    - word: 根元
-      postiion: 1
     - word: 電車
       postiion: 5
     - word: の
@@ -17519,8 +17209,6 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.33.29.968-0.33.33.738.mp3
   sentence: （根元） いや なんで声かけたのかなって…
   words:
-    - word: 根元
-      postiion: 1
     - word: いや
       base: 否
       postiion: 5
@@ -17550,8 +17238,6 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.33.43.982-0.33.46.217.mp3
   sentence: （根元）好みじゃないし…
   words:
-    - word: 根元
-      postiion: 1
     - word: 好み
       postiion: 4
     - word: じゃ
@@ -17590,8 +17276,6 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.33.49.621-0.33.51.856.mp3
   sentence: （根元）キモいって思ってたし
   words:
-    - word: 根元
-      postiion: 1
     - word: キモい
       base: きもい
       postiion: 4
@@ -17636,8 +17320,6 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.33.54.359-0.33.56.561.mp3
   sentence: （根元）俺が誘ったって ホント？
   words:
-    - word: 根元
-      postiion: 1
     - word: 俺
       postiion: 4
     - word: が
@@ -17659,8 +17341,6 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.33.59.798-0.34.01.533.mp3
   sentence: （根元）だよね
   words:
-    - word: 根元
-      postiion: 1
     - word: だ
       postiion: 4
     - word: よ
@@ -17861,12 +17541,8 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.35.05.831-0.35.08.132.mp3
   sentence: （根元）あっ！ （晶）思い出した？
   words:
-    - word: 根元
-      postiion: 1
     - word: あっ
       postiion: 4
-    - word: 晶
-      postiion: 9
     - word: 思い
       base: 思う
       dictionary: 思う
@@ -18091,17 +17767,10 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.37.16.461-0.37.18.529.mp3
   sentence: （根元）ええ～？ （呉羽）フフ…
   words:
-    - word: 根元
-      postiion: 1
     - word: ええ
       base: 良い
       dictionary: よい
       postiion: 4
-    - word: ～？‬
-      base: ~?‬
-      dictionary: ~?‬
-    - word: 呉羽
-      postiion: 10
     - word: フフ
       base: ふふ
       postiion: 13
@@ -18141,16 +17810,11 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.37.26.271-0.37.28.172.mp3
   sentence: （根元）４年？ （呉羽）うん
   words:
-    - word: 根元
-      postiion: 1
-    - word: ４
-      base: '4'
-      dictionary: '4'
+    - word: ４年
+      base: 四年
       postiion: 4
     - word: 年
       postiion: 5
-    - word: 呉羽
-      postiion: 9
     - word: うん
       postiion: 12
 - id: >-
@@ -18200,8 +17864,6 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.38.24.596-0.38.26.264.mp3
   sentence: （根元）あのバカ…
   words:
-    - word: 根元
-      postiion: 1
     - word: あの
       base: 彼の
       postiion: 4
@@ -18216,16 +17878,14 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.38.27.899-0.38.29.967.mp3
   sentence: （根元）無理無理 無理無理
   words:
-    - word: 根元
-      postiion: 1
     - word: 無理
       postiion: 4
     - word: 無理
-      postiion: 4
+      postiion: 6
     - word: 無理
-      postiion: 4
+      postiion: 9
     - word: 無理
-      postiion: 4
+      postiion: 11
 - id: >-
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.38.35.473-0.38.37.742
   deck_name: Weakest Beast
@@ -18492,10 +18152,6 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.43.01.573-0.43.03.774.mp3
   sentence: （根元）呉羽が反省してる
   words:
-    - word: 根元
-      postiion: 1
-    - word: 呉羽
-      postiion: 4
     - word: が
       postiion: 6
     - word: 反省
@@ -18531,8 +18187,6 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.43.54.726-0.43.56.794.mp3
   sentence: （根元）どんな会社の財務諸表も
   words:
-    - word: 根元
-      postiion: 1
     - word: どんな
       postiion: 4
     - word: 会社
@@ -18553,13 +18207,9 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.45.22.647-0.45.24.882.mp3
   sentence: （晶）え？ （根元）送ります
   words:
-    - word: 晶
-      postiion: 1
     - word: え
       base: えー
       postiion: 3
-    - word: 根元
-      postiion: 7
     - word: 送り
       base: 送る
       dictionary: 送る
@@ -18592,10 +18242,6 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.45.26.250-0.45.28.219.mp3
   sentence: （根元）呉羽の指令だから
   words:
-    - word: 根元
-      postiion: 1
-    - word: 呉羽
-      postiion: 4
     - word: の
       postiion: 6
     - word: 指令
@@ -18625,8 +18271,6 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.45.37.595-0.45.38.763.mp3
   sentence: （根元）はい
   words:
-    - word: 根元
-      postiion: 1
     - word: はい
       postiion: 4
 - id: >-
@@ -18673,13 +18317,12 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.46.27.779-0.46.29.747.mp3
   sentence: （根元）親父(おやじ)の会社だろ
   words:
-    - word: 根元
-      postiion: 1
     - word: 親父
+      base: おやじ
       postiion: 4
-    - word: おやじ
-      base: 親父
-      postiion: 7
+    # - word: おやじ
+    #   base: 親父
+    #   postiion: 7
     - word: の
       postiion: 11
     - word: 会社
@@ -18696,18 +18339,10 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.46.38.790-0.46.40.491.mp3
   sentence: （根元）恨まれて
   words:
-    - word: 根元
-      postiion: 1
-    - word: 恨ま
+    - word: 恨まれて
       base: 恨む
       dictionary: 恨む
       postiion: 4
-    - word: れ
-      base: れる
-      dictionary: れる
-      postiion: 6
-    - word: て
-      postiion: 7
 - id: >-
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.46.52.770-0.46.55.139
   deck_name: Weakest Beast
@@ -18801,8 +18436,6 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.47.02.847-0.47.06.083.mp3
   sentence: （根元）なんか兄貴みたいだな
   words:
-    - word: 根元
-      postiion: 1
     - word: なんか
       postiion: 4
     - word: 兄貴
@@ -18878,8 +18511,6 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.47.33.978-0.47.35.546.mp3
   sentence: （根元）それで
   words:
-    - word: 根元
-      postiion: 1
     - word: それ
       base: 其れ
       postiion: 4
@@ -18893,8 +18524,6 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.47.43.688-0.47.47.157.mp3
   sentence: （根元）俺は子供のころから 兄貴のことが嫌いで
   words:
-    - word: 根元
-      postiion: 1
     - word: 俺
       postiion: 4
     - word: は
@@ -18949,8 +18578,6 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.50.36.794-0.50.38.962.mp3
   sentence: （根元）一応 言っとくけど
   words:
-    - word: 根元
-      postiion: 1
     - word: 一応
       postiion: 4
     - word: 言っ
@@ -19329,8 +18956,6 @@
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.05.24.024-0.05.27.360.mp3
   sentence: （根元）俺が処分して 見なかったことにしましょうか？
   words:
-    - word: 根元
-      postiion: 1
     - word: 俺
       postiion: 4
     - word: が
@@ -19402,8 +19027,6 @@
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.05.30.130-0.05.32.031.mp3
   sentence: （根元）だって 変でしょう
   words:
-    - word: 根元
-      postiion: 1
     - word: だ
       postiion: 4
     - word: って
@@ -19456,8 +19079,6 @@
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.05.49.049-0.05.50.183.mp3
   sentence: （根元）だけど
   words:
-    - word: 根元
-      postiion: 1
     - word: だ
       postiion: 4
     - word: けど
@@ -20019,11 +19640,10 @@
   words:
     - word: 根元
       postiion: 1
+      tags: [name, silent]
     - word: 斎藤
       postiion: 4
-    - word: さいとう
-      base: 菜刀
-      postiion: 7
+      tags: [name]
     - word: は
       postiion: 12
 - id: >-
@@ -20034,8 +19654,6 @@
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.11.30.757-0.11.32.758.mp3
   sentence: （根元）素人が触んなよ
   words:
-    - word: 根元
-      postiion: 1
     - word: 素人
       postiion: 4
     - word: が
@@ -20056,8 +19674,6 @@
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.11.38.031-0.11.40.499.mp3
   sentence: （根元）ここの店の流儀があんの
   words:
-    - word: 根元
-      postiion: 1
     - word: ここ
       base: 此処
       postiion: 4
@@ -20222,8 +19838,6 @@
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.13.07.220-0.13.11.257.mp3
   sentence: （根元）いろいろ… 余計な雑味が含まれてる
   words:
-    - word: 根元
-      postiion: 1
     - word: いろいろ
       base: 色々
       postiion: 4
@@ -20338,16 +19952,9 @@
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.13.32.679-0.13.34.080.mp3
   sentence: （根元）へえ～
   words:
-    - word: 根元
-      postiion: 1
-    - word: へ
+    - word: へえ～
+      base: ้へー
       postiion: 4
-    - word: え
-      base: えー
-      postiion: 5
-    - word: ～‬
-      base: ~‬
-      dictionary: ~‬
 - id: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.13.34.514-0.13.37.216
   deck_name: Weakest Beast
@@ -20809,8 +20416,6 @@
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.19.34.173-0.19.35.240.mp3
   sentence: （根元）もしもし？
   words:
-    - word: 根元
-      postiion: 1
     - word: もしもし
       postiion: 4
 - id: >-
@@ -20833,8 +20438,6 @@
       postiion: 6
     - word: 音
       postiion: 7
-    - word: 根元
-      postiion: 11
     - word: あっ
       postiion: 14
     - word: 切ら
@@ -21096,26 +20699,19 @@
       postiion: 8
     - word: て
       postiion: 10
-    - word: 根元
-      postiion: 14
-    - word: 分かっ
+    - word: 分かった
       base: 分かる
       dictionary: 分かる
       postiion: 17
-    - word: た
-      postiion: 20
+    - word: 一回
+      postiion: 22
     - word: 一
       postiion: 22
     - word: 回
       postiion: 23
-    - word: 落ち
-      base: 落ちる
-      dictionary: 落ちる
+    - word: 落ち着こう
+      base: 落ち着く
       postiion: 25
-    - word: 着こう
-      base: 着く
-      dictionary: 着く
-      postiion: 27
 - id: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.23.52.298-0.23.54.199
   deck_name: Weakest Beast
@@ -21136,20 +20732,15 @@
       postiion: 7
     - word: で
       postiion: 9
-    - word: 根元
-      postiion: 13
+    - word: 一回
+      postiion: 16
     - word: 一
       postiion: 16
     - word: 回
       postiion: 17
-    - word: 落ち
-      base: 落ちる
-      dictionary: 落ちる
+    - word: 落ち着こう
+      base: 落ち着く
       postiion: 19
-    - word: 着こう
-      base: 着く
-      dictionary: 着く
-      postiion: 21
 - id: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.24.00.506-0.24.02.274
   deck_name: Weakest Beast
@@ -21169,8 +20760,6 @@
       postiion: 3
     - word: の
       postiion: 6
-    - word: 根元
-      postiion: 10
     - word: ごめん
       base: 御免
       postiion: 13
@@ -21182,8 +20771,6 @@
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.24.45.918-0.24.47.452.mp3
   sentence: （晶）じゃない？ （根元）じゃない
   words:
-    - word: 晶
-      postiion: 1
     - word: じゃ
       base: だ
       dictionary: だ
@@ -21191,8 +20778,6 @@
     - word: ない
       base: 無い
       postiion: 5
-    - word: 根元
-      postiion: 10
     - word: じゃ
       base: だ
       dictionary: だ
@@ -21208,12 +20793,8 @@
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.24.47.019-0.24.48.720.mp3
   sentence: （晶）そう？ （根元）そう
   words:
-    - word: 晶
-      postiion: 1
     - word: そう
       postiion: 3
-    - word: 根元
-      postiion: 8
     - word: そう
       postiion: 11
 - id: >-
@@ -21224,8 +20805,6 @@
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.24.55.561-0.24.57.963.mp3
   sentence: （根元）何をやってんだ？
   words:
-    - word: 根元
-      postiion: 1
     - word: 何
       postiion: 4
     - word: を
@@ -21251,16 +20830,11 @@
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.25.13.045-0.25.15.080.mp3
   sentence: （呉羽）乾杯 （根元）ふざけんな
   words:
-    - word: 呉羽
-      postiion: 1
     - word: 乾杯
       postiion: 4
-    - word: 根元
-      postiion: 8
-    - word: ふざけ
+    - word: ふざけんな
+      base: 巫山戯る
       postiion: 11
-    - word: んな
-      postiion: 14
 - id: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.25.36.602-0.25.38.136
   deck_name: Weakest Beast
@@ -21269,8 +20843,6 @@
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.25.36.602-0.25.38.136.mp3
   sentence: （根元）なんだよ？
   words:
-    - word: 根元
-      postiion: 1
     - word: な
       base: だ
       dictionary: だ
@@ -21290,8 +20862,6 @@
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.25.39.672-0.25.43.275.mp3
   sentence: （根元）それをやめろ！ そういうことは やめろって
   words:
-    - word: 根元
-      postiion: 1
     - word: それ
       base: 其れ
       postiion: 4
@@ -21869,8 +21439,6 @@
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.32.41.226-0.32.42.794.mp3
   sentence: （根元）それ 何？
   words:
-    - word: 根元
-      postiion: 1
     - word: それ
       base: 其れ
       postiion: 4
@@ -21882,10 +21450,8 @@
   translation: This is the newly opened tap 1.<br>It's Shonan Beer…
   sound: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.32.55.974-0.32.59.644.mp3
-  sentence: （斎藤）開栓したてのタップ･ワン 湘南(しょうなん)&lrm;酒造の…
+  sentence: （斎藤）開栓したてのタップ･ワン 湘南(しょうなん)酒造の…
   words:
-    - word: 斎藤
-      postiion: 1
     - word: 開栓
       postiion: 4
     - word: したて
@@ -21898,15 +21464,12 @@
     - word: ワン
       postiion: 14
     - word: 湘南
+      alt: [しょうなん]
       postiion: 17
-    - word: しょうなん
-      postiion: 20
-    - word: lrm
-      postiion: 27
     - word: 酒造
-      postiion: 31
+      postiion: 27
     - word: の
-      postiion: 33
+      postiion: 29
 - id: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.33.04.383-0.33.06.417
   deck_name: Weakest Beast
@@ -21915,14 +21478,11 @@
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.33.04.383-0.33.06.417.mp3
   sentence: （客）タクラマカ～ン
   words:
-    - word: 客
-      postiion: 1
-    - word: タクラマカ
+    # - word: 客
+    #   postiion: 1
+    - word: タクラマカ～ン
+      base: タクラマカン
       postiion: 3
-    - word: ～
-      postiion: 8
-    - word: ン
-      postiion: 9
 - id: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.33.07.252-0.33.08.853
   deck_name: Weakest Beast
@@ -21931,16 +21491,10 @@
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.33.07.252-0.33.08.853.mp3
   sentence: （根元）待った （斎藤）えっ？
   words:
-    - word: 根元
-      postiion: 1
-    - word: 待っ
+    - word: 待った
       base: 待つ
       dictionary: 待つ
       postiion: 4
-    - word: た
-      postiion: 6
-    - word: 斎藤
-      postiion: 9
     - word: えっ
       postiion: 12
 - id: >-
@@ -22000,8 +21554,6 @@
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.33.52.631-0.33.54.465.mp3
   sentence: （根元）いいこと言うね
   words:
-    - word: 根元
-      postiion: 1
     - word: いい
       base: 良い
       postiion: 4
@@ -22101,15 +21653,9 @@
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.34.50.222-0.34.51.990.mp3
   sentence: （根元）めんどくさっ！
   words:
-    - word: 根元
-      postiion: 1
-    - word: めんどく
-      base: めんどい
-      dictionary: めんどい
+    - word: めんどくさっ
+      base: 面倒くさい
       postiion: 4
-    - word: さっ
-      base: さあ
-      postiion: 8
 - id: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.34.56.995-0.34.59.197
   deck_name: Weakest Beast
@@ -22198,17 +21744,13 @@
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.35.36.301-0.35.38.136.mp3
   sentence: （根元）すごい来てるけど
   words:
-    - word: 根元
-      postiion: 1
     - word: すごい
       base: 凄い
       postiion: 4
-    - word: 来
+    - word: 来てる
       base: 来る
       dictionary: 来る
       postiion: 7
-    - word: てる
-      postiion: 8
     - word: けど
       base: けれど
       postiion: 10
@@ -22220,8 +21762,6 @@
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.35.46.812-0.35.47.879.mp3
   sentence: （根元）えい！
   words:
-    - word: 根元
-      postiion: 1
     - word: えい
       postiion: 4
 - id: >-
@@ -22357,8 +21897,9 @@
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.37.51.836-0.37.53.538.mp3
   sentence: （根元）２つ （斎藤）えっ？
   words:
-    - word: 根元
-      postiion: 1
+    - word: ２つ
+      base: 二つ
+      postiion: 4
     - word: ２
       base: '2'
       dictionary: '2'
@@ -22377,8 +21918,6 @@
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.37.54.873-0.37.56.174.mp3
   sentence: （斎藤）はい
   words:
-    - word: 斎藤
-      postiion: 1
     - word: はい
       postiion: 4
 - id: >-
@@ -22530,8 +22069,6 @@
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.40.21.586-0.40.23.087.mp3
   sentence: （根元）礼儀？
   words:
-    - word: 根元
-      postiion: 1
     - word: 礼儀
       postiion: 4
 - id: >-
@@ -22554,14 +22091,9 @@
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.40.29.260-0.40.31.362.mp3
   sentence: （根元）いらないなら なしでも
   words:
-    - word: 根元
-      postiion: 1
-    - word: いら
-      base: いる
-      dictionary: いる
+    - word: いらない
+      base: 居る
       postiion: 4
-    - word: ない
-      postiion: 6
     - word: なら
       base: だ
       dictionary: だ
@@ -22604,8 +22136,6 @@
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.41.23.481-0.41.24.915.mp3
   sentence: （根元）かばうの？
   words:
-    - word: 根元
-      postiion: 1
     - word: かばう
       base: 庇う
       postiion: 4
@@ -22641,8 +22171,6 @@
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.41.33.525-0.41.36.594.mp3
   sentence: （根元）フッ… あれだな
   words:
-    - word: 根元
-      postiion: 1
     - word: フッ
       base: ふっ
       postiion: 4
@@ -22661,26 +22189,18 @@
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.41.48.940-0.41.51.575.mp3
   sentence: （根元）晶さんは ナメられてんじゃない？
   words:
-    - word: 根元
-      postiion: 1
-    - word: 晶
-      postiion: 4
     - word: さん
       postiion: 5
     - word: は
       postiion: 7
-    - word: ナメ
-      base: 嘗める
+    - word: ナメられて
+      base: ナメる
       dictionary: ナメる
       postiion: 9
-    - word: られ
-      base: られる
-      dictionary: られる
-      postiion: 11
-    - word: て
-      base: てる
-      dictionary: てる
-      postiion: 13
+      note: |-
+        https://jisho.org/word/ナメる 
+        Id: 2088888 Corpus: jmdict Seq: 2847552
+        舐める・なめる[4]
     - word: ん
       base: の
       postiion: 14
@@ -22699,8 +22219,6 @@
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.42.12.497-0.42.14.365.mp3
   sentence: （根元）自覚あるんだ？
   words:
-    - word: 根元
-      postiion: 1
     - word: 自覚
       postiion: 4
     - word: ある
@@ -22757,8 +22275,6 @@
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.43.31.109-0.43.33.310.mp3
   sentence: （根元）よく分かるんですね
   words:
-    - word: 根元
-      postiion: 1
     - word: よく
       base: 良く
       postiion: 4
@@ -22805,10 +22321,6 @@
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.44.20.925-0.44.23.994.mp3
   sentence: （根元）呉羽に 俺が
   words:
-    - word: 根元
-      postiion: 1
-    - word: 呉羽
-      postiion: 4
     - word: に
       postiion: 6
     - word: 俺
@@ -22839,8 +22351,6 @@
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.47.47.732-0.47.49.133.mp3
   sentence: （根元）何？
   words:
-    - word: 根元
-      postiion: 1
     - word: 何
       postiion: 4
 - id: >-
@@ -22869,14 +22379,12 @@
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.47.50.268-0.47.51.969.mp3
   sentence: （根元）なになに なになに？
   words:
-    - word: 根元
-      postiion: 1
     - word: なになに
       base: 何々
       postiion: 4
     - word: なになに
       base: 何々
-      postiion: 4
+      postiion: 9
 - id: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.47.51.535-0.47.54.271
   deck_name: Weakest Beast
@@ -22912,15 +22420,9 @@
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.47.55.406-0.47.57.508.mp3
   sentence: （根元）なんだよ 朝から
   words:
-    - word: 根元
-      postiion: 1
-    - word: な
-      base: だ
-      dictionary: だ
+    - word: なん
+      base: なに
       postiion: 4
-    - word: ん
-      base: の
-      postiion: 5
     - word: だ
       postiion: 6
     - word: よ
@@ -22961,8 +22463,6 @@
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.49.07.878-0.49.10.781.mp3
   sentence: （岡持） ずるいっすよ～！
   words:
-    - word: 岡持
-      postiion: 1
     - word: ずるい
       base: 狡い
       postiion: 5
@@ -22970,8 +22470,6 @@
       postiion: 8
     - word: よ
       postiion: 10
-    - word: ～
-      postiion: 11
 - id: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.49.15.286-0.49.17.254
   deck_name: Weakest Beast
@@ -22980,8 +22478,6 @@
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.49.15.286-0.49.17.254.mp3
   sentence: （根元） そういうんじゃねえから
   words:
-    - word: 根元
-      postiion: 1
     - word: そう
       postiion: 5
     - word: いう
@@ -23070,8 +22566,6 @@
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.49.25.463-0.49.27.197.mp3
   sentence: （根元） お前には ここで十分
   words:
-    - word: 根元
-      postiion: 1
     - word: お前
       base: 御前
       postiion: 5
@@ -23134,24 +22628,10 @@
     - word: ゆうべ
       base: 昨夜
       postiion: 4
-    - word: 根元
-      postiion: 10
-    - word: 来
+    - word: 来てません
       base: 来る
       dictionary: 来る
       postiion: 13
-    - word: て
-      base: てる
-      dictionary: てる
-      postiion: 14
-    - word: ませ
-      base: ます
-      dictionary: ます
-      postiion: 15
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      postiion: 17
     - word: よ
       postiion: 18
 - id: >-
@@ -23190,8 +22670,6 @@
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.49.55.593-0.49.56.960.mp3
   sentence: （根元） 食べ方 分かんないから
   words:
-    - word: 根元
-      postiion: 1
     - word: 食べ
       base: 食べる
       dictionary: 食べる
@@ -23238,23 +22716,6 @@
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.00.29.823-0.00.32.626.mp3
   sentence: （&lrm;根元(ねもと)&lrm;）&lrm;晶(あきら)&lrm;さんって ああ見えて 結構 声でかい…
   words:
-    - word: lrm
-      postiion: 2
-    - word: 根元
-      postiion: 6
-    - word: ねもと
-      base: 根元
-      postiion: 9
-    - word: lrm
-      postiion: 14
-    - word: lrm
-      postiion: 14
-    - word: 晶
-      postiion: 24
-    - word: あきら
-      postiion: 26
-    - word: lrm
-      postiion: 31
     - word: さん
       postiion: 35
     - word: って
@@ -23281,13 +22742,9 @@
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.00.44.938-0.00.46.840.mp3
   sentence: （根元）イッテえ！
   words:
-    - word: 根元
-      postiion: 1
-    - word: イッテ
+    - word: イッテえ
+      base: 痛い
       postiion: 4
-    - word: え
-      base: えー
-      postiion: 7
 - id: >-
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.00.47.274-0.00.49.776
   deck_name: Weakest Beast
@@ -23359,8 +22816,6 @@
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.00.56.984-0.00.59.886.mp3
   sentence: （根元） あんたに 俺 殴る権利ある？
   words:
-    - word: 根元
-      postiion: 1
     - word: あんた
       base: 貴方
       postiion: 5
@@ -23400,38 +22855,19 @@
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.01.13.100-0.01.14.834.mp3
   sentence: （根元）なんで&lrm;斎藤(さいとう)&lrm;が参ってんの？
   words:
-    - word: 根元
-      postiion: 1
-    - word: な
-      base: だ
-      dictionary: だ
+    - word: なん
+      base: なに
       postiion: 4
-    - word: ん
-      base: の
-      postiion: 5
     - word: で
       base: だ
       dictionary: だ
       postiion: 6
-    - word: lrm
-      postiion: 8
-    - word: 斎藤
-      postiion: 12
-    - word: さいとう
-      base: 菜刀
-      postiion: 15
-    - word: lrm
-      postiion: 21
     - word: が
       postiion: 25
-    - word: 参っ
+    - word: 参って
       base: 参る
       dictionary: 参る
       postiion: 26
-    - word: てん
-      base: てる
-      dictionary: てる
-      postiion: 28
     - word: の
       postiion: 30
 - id: >-
@@ -23517,8 +22953,6 @@
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.01.34.455-0.01.35.889.mp3
   sentence: （根元）つい？
   words:
-    - word: 根元
-      postiion: 1
     - word: つい
       postiion: 4
 - id: >-
@@ -23696,8 +23130,6 @@
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.02.55.802-0.02.57.771.mp3
   sentence: （根元） さすがにウェートが違うだろ
   words:
-    - word: 根元
-      postiion: 1
     - word: さすが
       base: 流石
       postiion: 5
@@ -23767,10 +23199,6 @@
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.05.28.155-0.05.32.325.mp3
   sentence: （根元） 晶の男だからな 偽善臭がすごい
   words:
-    - word: 根元
-      postiion: 1
-    - word: 晶
-      postiion: 5
     - word: の
       postiion: 6
     - word: 男
@@ -23798,8 +23226,6 @@
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.05.48.408-0.05.49.442.mp3
   sentence: （根元）ん？
   words:
-    - word: 根元
-      postiion: 1
     - word: ん
       postiion: 4
 - id: >-
@@ -23810,8 +23236,9 @@
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.06.07.494-0.06.10.530.mp3
   sentence: （根元）４年もつきあっといて 今更 つきあっちゃいけないって…
   words:
-    - word: 根元
-      postiion: 1
+    - word: ４年
+      base: 四年
+      postiion: 4
     - word: ４
       base: '4'
       dictionary: '4'
@@ -24239,20 +23666,16 @@
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.15.15.008-0.15.16.776.mp3
   sentence: （根元）風邪引きました
   words:
-    - word: 根元
-      postiion: 1
     - word: 風邪
       postiion: 4
     - word: 引き
       base: 引く
       dictionary: 引く
       postiion: 6
-    - word: まし
+    - word: ました
       base: ます
       dictionary: ます
       postiion: 8
-    - word: た
-      postiion: 10
 - id: >-
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.15.28.054-0.15.29.889
   deck_name: Weakest Beast
@@ -24261,8 +23684,6 @@
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.15.28.054-0.15.29.889.mp3
   sentence: （根元）違いますよ
   words:
-    - word: 根元
-      postiion: 1
     - word: 違い
       base: 違う
       dictionary: 違う
@@ -24279,13 +23700,8 @@
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.15.31.724-0.15.34.360.mp3
   sentence: （根元） タチの悪い債権者にやられました
   words:
-    - word: 根元
-      postiion: 1
-    - word: タチ
-      base: 達
+    - word: タチの悪い
       postiion: 5
-    - word: の
-      postiion: 7
     - word: 悪い
       postiion: 8
     - word: 債権
@@ -24801,8 +24217,6 @@
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.20.46.305-0.20.49.208.mp3
   sentence: （根元）調査するにしても会社主導
   words:
-    - word: 根元
-      postiion: 1
     - word: 調査
       postiion: 4
     - word: する
@@ -24881,8 +24295,6 @@
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.22.21.233-0.22.22.301.mp3
   sentence: （根元）え？
   words:
-    - word: 根元
-      postiion: 1
     - word: え
       base: えー
       postiion: 4
@@ -25433,19 +24845,15 @@
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.31.20.506-0.31.22.474.mp3
   sentence: （根元）それは知らない
   words:
-    - word: 根元
-      postiion: 1
     - word: それ
       base: 其れ
       postiion: 4
     - word: は
       postiion: 6
-    - word: 知ら
+    - word: 知らない
       base: 知る
       dictionary: 知る
       postiion: 7
-    - word: ない
-      postiion: 9
 - id: >-
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.31.22.040-0.31.23.675
   deck_name: Weakest Beast
@@ -25503,14 +24911,10 @@
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.31.55.841-0.31.57.776.mp3
   sentence: （根元）嫌です （斎藤）うん
   words:
-    - word: 根元
-      postiion: 1
     - word: 嫌
       postiion: 4
     - word: です
       postiion: 5
-    - word: 斎藤
-      postiion: 9
     - word: うん
       postiion: 12
 - id: >-
@@ -26378,6 +25782,7 @@
       postiion: 1
     - word: 音
       postiion: 3
+  tags: [silent, mistranslated]
 - id: >-
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.49.08.105-0.49.11.375
   deck_name: Weakest Beast
@@ -26388,6 +25793,7 @@
   words:
     - word: 根元
       postiion: 1
+      tags: [name, silent]
     - word: 俺
       postiion: 4
     - word: は
@@ -26424,11 +25830,13 @@
   words:
     - word: 晶
       postiion: 1
+      tags: [name, silent]
     - word: ちょっと
       base: 一寸
       postiion: 3
     - word: 根元
       postiion: 10
+      tags: [name, silent]
     - word: ん
       postiion: 13
 - id: >-
@@ -26459,8 +25867,6 @@
     獣になれない私たち_第06話偽装結婚の悲しい真実でも好きだったよ720p_HDTV_x264_AAC-DoA_0.00.53.249-0.00.56.685.mp3
   sentence: （根元） これは… なんの会？
   words:
-    - word: 根元
-      postiion: 1
     - word: これ
       base: 此れ
       postiion: 5
@@ -26565,8 +25971,6 @@
     獣になれない私たち_第06話偽装結婚の悲しい真実でも好きだったよ720p_HDTV_x264_AAC-DoA_0.01.15.604-0.01.17.239.mp3
   sentence: （根元） 俺は 復興エール
   words:
-    - word: 根元
-      postiion: 1
     - word: 俺
       postiion: 5
     - word: は
@@ -26635,8 +26039,6 @@
     獣になれない私たち_第06話偽装結婚の悲しい真実でも好きだったよ720p_HDTV_x264_AAC-DoA_0.01.29.818-0.01.31.887.mp3
   sentence: （根元）事務所に 来るはずだったろ
   words:
-    - word: 根元
-      postiion: 1
     - word: 事務
       postiion: 4
     - word: 所
@@ -27106,8 +26508,6 @@
     獣になれない私たち_第06話偽装結婚の悲しい真実でも好きだったよ720p_HDTV_x264_AAC-DoA_0.04.59.762-0.05.01.296.mp3
   sentence: （根元）また今度な
   words:
-    - word: 根元
-      postiion: 1
     - word: また
       base: 又
       postiion: 4
