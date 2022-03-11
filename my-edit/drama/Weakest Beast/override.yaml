@@ -8,7 +8,6 @@
   words:
     - word: 花井
       position: 1
-      reading: はない
       tags: [name, silent]
     - word: それ
       base: 其れ
@@ -29,7 +28,6 @@
   words:
     - word: 晶
       position: 1
-      reading: あきら
       tags: [name, silent]
     - word: ん
       position: 3
@@ -45,6 +43,7 @@
   words:
     - word: 花井
       position: 1
+      tags: [name, silent]
     - word: 何
       position: 4
 - id: >-
@@ -57,7 +56,6 @@
   words:
     - word: 花井
       position: 1
-      reading: はない
       tags: [name, silent]
     - word: ああ
       position: 4
@@ -71,7 +69,6 @@
   words:
     - word: 晶
       position: 1
-      reading: あきら
       tags: [name, silent]
     - word: ブーツ
       position: 3
@@ -91,7 +88,6 @@
   words:
     - word: 花井
       position: 1
-      reading: はない
       tags: [name, silent]
     - word: 脅かす
       position: 4
@@ -116,13 +112,11 @@
   words:
     - word: 根元
       position: 1
-      reading: ねもと
       tags: [name, silent]
     - word: 結婚
       position: 9
     - word: 呉羽
       position: 14
-      reading: くれは
       tags: [name, silent]
     - word: うん
       position: 22
@@ -136,7 +130,6 @@
   words:
     - word: 根元
       position: 1
-      reading: ねもと
       tags: [name, silent]
     - word: 誰
       position: 4
@@ -144,7 +137,6 @@
       position: 5
     - word: 呉羽
       position: 9
-      reading: くれは
       tags: [name, silent]
     - word: 私
       position: 12
@@ -160,7 +152,6 @@
   words:
     - word: 根元
       position: 1
-      reading: ねもと
       tags: [name, silent]
     - word: はあ
       position: 4
@@ -174,7 +165,6 @@
   words:
     - word: 根元
       position: 1
-      reading: ねもと
       tags: [name, silent]
     - word: 結婚
       position: 4
@@ -216,7 +206,6 @@
   words:
     - word: 呉羽
       position: 1
-      reading: くれは
       tags: [name, silent]
     - word: きれい
       base: 奇麗
@@ -235,7 +224,6 @@
   words:
     - word: 根元
       position: 1
-      reading: ねもと
       tags: [name, silent]
     - word: いつ
       position: 4
@@ -243,6 +231,7 @@
       position: 6
     - word: 呉羽
       position: 11
+      tags: [name, silent]
     - word: 何
       position: 14
     - word: が
@@ -257,7 +246,6 @@
   words:
     - word: 根元
       position: 1
-      reading: ねもと
       tags: [name, silent]
     - word: 相手
       position: 4
@@ -311,13 +299,11 @@
   words:
     - word: 呉羽
       position: 1
-      reading: くれは
       tags: [name, silent]
     - word: タクラマカン
       position: 4
     - word: 斎藤
       position: 13
-      reading: さいとう
       tags: [name, silent]
     - word: え
       base: えー
@@ -332,7 +318,6 @@
   words:
     - word: 呉羽
       position: 1
-      reading: くれは
       tags: [name, silent]
     - word: シャンパン
       position: 4
@@ -352,7 +337,6 @@
   words:
     - word: 斎藤
       position: 1
-      reading: さいとう
       tags: [name, silent]
     - word: シャンパン
       position: 5
@@ -375,7 +359,6 @@
   words:
     - word: 呉羽
       position: 1
-      reading: くれは
       tags: [name, silent]
     - word: ん
       position: 4
@@ -404,6 +387,7 @@
   words:
     - word: 斎藤
       position: 1
+      tags: [name, silent]
     - word: 何
       position: 4
     - word: なん
@@ -426,6 +410,7 @@
   words:
     - word: 斎藤
       position: 1
+      tags: [name, silent]
     - word: はい
       position: 4
 - id: >-
@@ -438,7 +423,6 @@
   words:
     - word: 根元
       position: 1
-      reading: ねもと
       tags: [name, silent]
     - word: 何
       position: 4
@@ -455,7 +439,6 @@
   words:
     - word: 斎藤
       position: 1
-      reading: さいとう
       tags: [name, silent]
     - word: ＫＡＧＵＹＡ
       base: kaguya
@@ -479,7 +462,6 @@
   words:
     - word: 呉羽
       position: 1
-      reading: くれは
       tags: [name, silent]
     - word: 皆
       position: 4
@@ -499,7 +481,6 @@
   words:
     - word: 斎藤
       position: 1
-      reading: さいとう
       tags: [name, silent]
     - word: 晶
       position: 5
@@ -532,8 +513,10 @@
   words:
     - word: 晶
       position: 1
+      tags: [name, silent]
     - word: 花井
       position: 3
+      tags: [name, silent]
     - word: ありがとう
       base: 有り難う
       position: 6
@@ -568,6 +551,7 @@
   words:
     - word: 斎藤
       position: 1
+      tags: [name, silent]
     - word: え
       base: えっ
       position: 4
@@ -610,6 +594,7 @@
   words:
     - word: 斎藤
       position: 1
+      tags: [name, silent]
     - word: ん
       position: 4
 - id: >-
@@ -1314,10 +1299,7 @@
   words:
     - word: 九十九
       position: 1
-    - word: つく
-      position: 5
-    - word: も
-      position: 7
+      tags: [name, silent]
     - word: おはよう
       base: 御早う
       position: 10
@@ -1333,6 +1315,7 @@
   words:
     - word: 晶
       position: 1
+      tags: [name, silent]
     - word: おはよう
       base: 御早う
       position: 3
@@ -1351,8 +1334,8 @@
   sentence: （九十九） 自分 今朝の留守電 聞いたか？
   words:
     - word: 九十九
-      base: '99'
       position: 1
+      tags: [name, silent]
     - word: 自分
       position: 6
     - word: 今朝
@@ -1381,6 +1364,7 @@
   words:
     - word: 晶
       position: 1
+      tags: [name, silent]
     - word: 今
       position: 3
     - word: それ
@@ -1398,6 +1382,10 @@
   words:
     - word: 九十九
       position: 1
+      tags: [name, silent]
+    - word: ９時
+      base: 九時
+      position: 5
     - word: ９
       base: '9'
       dictionary: '9'
@@ -1414,6 +1402,7 @@
       position: 13
     - word: 晶
       position: 17
+      tags: [name, silent]
     - word: セッティング
       position: 19
     - word: 済み
@@ -1430,6 +1419,7 @@
   words:
     - word: 晶
       position: 1
+      tags: [name, silent]
     - word: チェック
       position: 3
     - word: 終わっ
@@ -1454,6 +1444,7 @@
   words:
     - word: 晶
       position: 1
+      tags: [name, silent]
     - word: 失礼
       position: 3
     - word: し
@@ -1472,12 +1463,7 @@
   words:
     - word: 夢子
       position: 1
-    - word: ゆめ
-      base: 夢
-      position: 4
-    - word: こ
-      base: っこ
-      position: 6
+      tags: [name, silent]
     - word: えっ
       position: 10
     - word: やっ
@@ -1486,8 +1472,6 @@
       position: 13
     - word: た
       position: 15
-    - word: ～
-      position: 16
     - word: ラッキー
       position: 19
 - id: >-
@@ -1500,25 +1484,19 @@
   words:
     - word: 夢子
       position: 1
+      tags: [name, silent]
     - word: おはよう
       base: 御早う
       position: 4
-    - word: ござ
-      base: 茣蓙
+    - word: ござる
       position: 8
-    - word: いま
-      base: 今
-      position: 10
-    - word: ～
-      base: から
-      position: 12
-    - word: す
-      position: 13
     - word: 社員
       position: 16
+      tags: [silent]
     - word: たち
       base: 達
       position: 18
+      tags: [silent]
     - word: おはよう
       base: 御早う
       position: 21
@@ -1538,6 +1516,7 @@
   words:
     - word: 晶
       position: 1
+      tags: [name, silent]
     - word: お
       base: 御
       position: 3
@@ -1561,13 +1540,12 @@
   words:
     - word: 九十九
       position: 1
+      tags: [silent]
     - word: 深海
       position: 5
-    - word: しんかい
-      base: 深海
-      position: 8
     - word: 晶
       position: 15
+      tags: [silent]
     - word: はい
       position: 17
 - id: >-
@@ -1580,6 +1558,7 @@
   words:
     - word: 九十九
       position: 1
+      tags: [silent]
     - word: 金曜
       position: 5
     - word: の
@@ -1610,6 +1589,7 @@
   words:
     - word: 九十九
       position: 1
+      tags: [silent]
     - word: 今
       position: 5
     - word: 探し
@@ -1642,6 +1622,7 @@
   words:
     - word: 夢子
       position: 1
+      tags: [silent]
     - word: あっ
       position: 4
     - word: 深海
@@ -1661,6 +1642,7 @@
   words:
     - word: 晶
       position: 1
+      tags: [silent]
     - word: おはよう
       base: 御早う
       position: 3
@@ -1680,15 +1662,13 @@
   words:
     - word: 九十九
       position: 1
+      tags: [silent]
     - word: 上野
       position: 5
-    - word: うえ
-      base: 上
-      position: 8
-    - word: の
-      position: 10
+      tags: [name]
     - word: 上野
       position: 15
+      tags: [name, silent]
     - word: ハッ
       base: はっ
       position: 18
@@ -1701,8 +1681,8 @@
   sentence: （九十九） 今晩のミヤコ特産さんとの
   words:
     - word: 九十九
-      base: '99'
       position: 1
+      tags: [name, silent]
     - word: 今晩
       position: 6
     - word: の
@@ -1727,6 +1707,7 @@
   words:
     - word: 九十九
       position: 1
+      tags: [silent, name]
     - word: どこ
       position: 5
     - word: や
@@ -1752,6 +1733,7 @@
   words:
     - word: 上野
       position: 1
+      tags: [silent]
     - word: 見せ
       base: 見せる
       dictionary: 見せる
@@ -1768,6 +1750,7 @@
   words:
     - word: 九十九
       position: 1
+      tags: [silent]
     - word: ほん
       base: 其れ
       position: 5
@@ -1787,6 +1770,7 @@
   words:
     - word: 九十九
       position: 1
+      tags: [silent]
     - word: ほな
       position: 5
     - word: は
@@ -1810,14 +1794,10 @@
   sentence: （九十九） 中国さんとの会議出るヤツ 行くで
   words:
     - word: 九十九
-      base: '99'
       position: 1
+      tags: [name, silent]
     - word: 中国
       position: 6
-    - word: さん
-      position: 8
-    - word: と
-      position: 10
     - word: の
       position: 11
     - word: 会議
@@ -1843,6 +1823,7 @@
   words:
     - word: 社員
       position: 1
+      tags: [silent]
     - word: はい
       position: 4
 - id: >-
@@ -1855,6 +1836,7 @@
   words:
     - word: 九十九
       position: 1
+      tags: [name, silent]
     - word: あっ
       position: 5
     - word: 俺
@@ -1865,6 +1847,7 @@
       position: 10
     - word: 夢子
       position: 15
+      tags: [name, silent]
     - word: うっ
       base: うう
       position: 18
