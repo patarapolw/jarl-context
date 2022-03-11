@@ -4,15 +4,12 @@
   translation: So, my brother told me, "Why not take a break and relax?"
   sound: >-
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.00.06.308-0.00.07.775.mp3
-  sentence: （ 花井[はない]）それで 兄貴に
+  sentence: （花井）それで 兄貴に
   words:
     - word: 花井
-      position: 2
-      tags:
-        - silent
-        - name
-    - word: 兄貴
-      position: 14
+      furigana: はない
+      position: 1
+      tags: [silent]
 - id: >-
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.00.14.349-0.00.17.218
   deck_name: Weakest Beast
@@ -21,40 +18,23 @@
     meet.
   sound: >-
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.00.14.349-0.00.17.218.mp3
-  sentence: まあ 前から 晶[あきら]のこと話してあったから
+  sentence: まあ 前から 晶のこと話してあったから
   words:
-    - word: まあ
-      position: 0
-    - word: 前
-      position: 3
     - word: 晶
+      furigana: あきら
       position: 7
-      tags:
-        - name
-    - word: 話し
-      base: 話す
-      position: 16
 - id: >-
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.00.25.126-0.00.27.495
   deck_name: Weakest Beast
   translation: Yeah. I think that's fine.<br>I would like to meet your mom too.
   sound: >-
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.00.25.126-0.00.27.495.mp3
-  sentence: 私も会ってみたい 京谷[きょうや]のお母さん
+  sentence: 私も会ってみたい 京谷のお母さん
   words:
-    - word: 私
-      position: 0
-    - word: も
-      position: 1
-    - word: 会っ
-      base: 会う
-      position: 2
     - word: 京谷
+      furigana: きょうや
       position: 9
-      tags:
-        - name
     - word: お母さん
-      base: お母さん
       position: 18
 - id: >-
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.01.10.639-0.01.13.040
@@ -62,20 +42,18 @@
   translation: '-Getting married?<br>-Yep.'
   sound: >-
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.01.10.639-0.01.13.040.mp3
-  sentence: （ 根元[ねもと]）結婚？ （ 呉羽[くれは]）うん
+  sentence: （根元）結婚？ （呉羽）うん
   words:
     - word: 根元
+      furigana: ねもと
       position: 2
-      tags:
-        - silent
-        - name
+      tags: [silent]
     - word: 結婚
       position: 10
     - word: 呉羽
+      furigana: くれは
       position: 16
-      tags:
-        - silent
-        - name
+      tags: [silent]
     - word: うん
       position: 24
 - id: >-
@@ -88,9 +66,7 @@
   words:
     - word: 呉羽
       position: 1
-      tags:
-        - silent
-        - name
+      tags: [silent]
     - word: きれい
       base: 奇麗
       position: 4
@@ -100,7 +76,7 @@
   translation: We knew each other for zero days.
   sound: >-
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.01.29.324-0.01.31.826.mp3
-  sentence: つきあってない 交際ゼロ 日[にち]
+  sentence: つきあってない 交際ゼロ日
   words:
     - word: つきあって
       base: 付き合う
@@ -118,7 +94,7 @@
     - word: ゼロ
       position: 10
     - word: 日
-      reading: にち
+      furigana: にち
       position: 13
 - id: >-
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.01.44.239-0.01.45.673
@@ -130,9 +106,7 @@
   words:
     - word: 呉羽
       position: 1
-      tags:
-        - silent
-        - name
+      tags: [silent]
     - word: いい
       base: 良い
       position: 4
@@ -142,7 +116,7 @@
   translation: '-Takuramakan!<br>-Eh?'
   sound: >-
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.01.49.277-0.01.51.145.mp3
-  sentence: （呉羽）タクラマカン！ （ 斎藤[さいとう]）え？
+  sentence: （呉羽）タクラマカン！ （斎藤）え？
   words:
     - word: 呉羽
       position: 1
