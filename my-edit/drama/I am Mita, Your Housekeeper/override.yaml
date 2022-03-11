@@ -98,7 +98,7 @@
     - word: はい
       postiion: 4
     - word: はい
-      postiion: 4
+      postiion: 6
 - id: Kaseifu_no_Mita_01_0.01.39.383-0.01.41.685
   deck_name: I am Mita, Your Housekeeper
   translation: Hey, there's no butter.
@@ -185,12 +185,12 @@
     - word: おい
       postiion: 8
     - word: おい
-      postiion: 8
+      postiion: 10
     - word: おい
-      postiion: 8
+      postiion: 12
     - word: お
       base: 御
-      postiion: 8
+      postiion: 16
     - word: 姉ちゃん
       postiion: 17
 - id: Kaseifu_no_Mita_01_0.02.15.886-0.02.17.754
@@ -245,7 +245,7 @@
       postiion: 13
     - word: ごめん
       base: 御免
-      postiion: 13
+      postiion: 17
 - id: Kaseifu_no_Mita_01_0.02.51.755-0.02.54.624
   deck_name: I am Mita, Your Housekeeper
   translation: '-Just how long were you going to take?<br>-What?'
@@ -332,9 +332,10 @@
       postiion: 18
     - word: ね
       postiion: 20
-    - word: ～‬
+    - word: ～
       base: ~‬
       dictionary: ~‬
+      postiion: 21
 - id: Kaseifu_no_Mita_01_0.03.20.451-0.03.23.520
   deck_name: I am Mita, Your Housekeeper
   translation: You'll really be late if you don't hurry, Kii.
@@ -739,7 +740,7 @@
     - word: はい
       postiion: 7
     - word: はい
-      postiion: 7
+      postiion: 9
 - id: Kaseifu_no_Mita_01_0.04.53.644-0.04.56.513
   deck_name: I am Mita, Your Housekeeper
   translation: '-Hey, what''s a Buddhist altar?<br>-What?'
@@ -1019,7 +1020,7 @@
       dictionary: てる
       postiion: 21
     - word: て
-      postiion: 21
+      postiion: 22
 - id: Kaseifu_no_Mita_01_0.06.08.986-0.06.11.187
   deck_name: I am Mita, Your Housekeeper
   translation: Oh, your slippers.<br>-Don't worry.<br>-What?
@@ -1568,9 +1569,10 @@
     - word: またまた
       base: 又々
       postiion: 4
-    - word: ～‬
+    - word: ～
       base: ~‬
       dictionary: ~‬
+      postiion: 8
     - word: 乗せる
       postiion: 10
     - word: の
@@ -1719,9 +1721,10 @@
     - word: あの
       base: 彼の
       postiion: 4
-    - word: ～‬
+    - word: ～
       base: ~‬
       dictionary: ~‬
+      postiion: 6
     - word: 今日
       postiion: 8
     - word: から
@@ -2031,16 +2034,18 @@
       postiion: 3
     - word: た
       postiion: 4
-    - word: ～！‬
+    - word: ～！
       base: ~!‬
       dictionary: ~!‬
+      postiion: 5
     - word: 一同
       postiion: 9
     - word: うわ
       postiion: 12
-    - word: ～！‬
+    - word: ～！
       base: ~!‬
       dictionary: ~!‬
+      postiion: 14
 - id: Kaseifu_no_Mita_01_0.18.01.464-0.18.03.599
   deck_name: I am Mita, Your Housekeeper
   translation: They look delicious.
@@ -2305,7 +2310,7 @@
     - word: 希衣
       postiion: 1
     - word: 希衣
-      postiion: 1
+      postiion: 4
     - word: が
       postiion: 6
     - word: 出る
@@ -3502,9 +3507,10 @@
       postiion: 10
     - word: よ
       postiion: 11
-    - word: ～‬
+    - word: ～
       base: ~‬
       dictionary: ~‬
+      postiion: 12
 - id: Kaseifu_no_Mita_01_0.37.42.611-0.37.45.246
   deck_name: I am Mita, Your Housekeeper
   translation: '-I don''t want any.<br>-What? Why?'
@@ -3766,13 +3772,14 @@
       postiion: 3
     - word: お
       base: 御
-      postiion: 3
+      postiion: 7
     - word: お
       base: 御
-      postiion: 3
-    - word: ～！‬
+      postiion: 8
+    - word: ～！
       base: ~!‬
       dictionary: ~!‬
+      postiion: 9
 - id: Kaseifu_no_Mita_01_0.39.53.475-0.39.55.376
   deck_name: I am Mita, Your Housekeeper
   translation: You better stop it, Kii.
@@ -4036,9 +4043,10 @@
       postiion: 3
     - word: しょ
       postiion: 5
-    - word: ～！‬
+    - word: ～！
       base: ~!‬
       dictionary: ~!‬
+      postiion: 7
     - word: 恵一
       postiion: 11
     - word: おい
@@ -4182,7 +4190,7 @@
     - word: な
       base: だ
       dictionary: だ
-      postiion: 4
+      postiion: 6
     - word: の
       postiion: 7
     - word: この
@@ -4221,7 +4229,7 @@
     - word: 希衣
       postiion: 1
     - word: 希衣
-      postiion: 1
+      postiion: 4
     - word: が
       postiion: 6
     - word: いけ
@@ -4427,10 +4435,11 @@
       postiion: 4
     - word: お
       base: 御
-      postiion: 4
-    - word: ～！‬
+      postiion: 5
+    - word: ～！
       base: ~!‬
       dictionary: ~!‬
+      postiion: 6
 - id: Kaseifu_no_Mita_01_0.50.31.112-0.50.33.948
   deck_name: I am Mita, Your Housekeeper
   translation: Mita. I don't suppose you have candles, do you?
@@ -4458,10 +4467,11 @@
       postiion: 4
     - word: お
       base: 御
-      postiion: 4
-    - word: ～！‬
+      postiion: 5
+    - word: ～！
       base: ~!‬
       dictionary: ~!‬
+      postiion: 6
 - id: Kaseifu_no_Mita_01_0.50.45.860-0.50.48.062
   deck_name: I am Mita, Your Housekeeper
   translation: Exactly six of them, too.
@@ -4644,9 +4654,10 @@
       postiion: 3
     - word: て
       postiion: 5
-    - word: ～‬
+    - word: ～
       base: ~‬
       dictionary: ~‬
+      postiion: 6
     - word: 恵一
       postiion: 9
     - word: はい
@@ -4897,7 +4908,7 @@
     - word: 偉い
       postiion: 14
     - word: 偉い
-      postiion: 14
+      postiion: 17
 - id: Kaseifu_no_Mita_01_0.54.03.758-0.54.05.125
   deck_name: I am Mita, Your Housekeeper
   translation: Mr. Asuda.
@@ -5108,9 +5119,10 @@
     - word: あ
       base: あー
       postiion: 8
-    - word: ～！‬
+    - word: ～！
       base: ~!‬
       dictionary: ~!‬
+      postiion: 9
     - word: 朝
       postiion: 12
     - word: から
@@ -5313,10 +5325,11 @@
       postiion: 3
     - word: お
       base: 御
-      postiion: 3
-    - word: ～！‬
+      postiion: 4
+    - word: ～！
       base: ~!‬
       dictionary: ~!‬
+      postiion: 5
 - id: Kaseifu_no_Mita_02_0.03.41.456-0.03.44.225
   deck_name: I am Mita, Your Housekeeper
   translation: Yesterday, an elementary student committed suicide due to bullying.
@@ -5419,7 +5432,7 @@
     - word: うめえ
       base: 旨い
       dictionary: うまい
-      postiion: 6
+      postiion: 11
 - id: Kaseifu_no_Mita_02_0.06.20.181-0.06.22.616
   deck_name: I am Mita, Your Housekeeper
   translation: '-Give me yours.<br>-Will you do everything we ask, Mita?'
@@ -5511,9 +5524,10 @@
     - word: お
       base: 御
       postiion: 3
-    - word: ～！‬
+    - word: ～！
       base: ~!‬
       dictionary: ~!‬
+      postiion: 4
 - id: Kaseifu_no_Mita_02_0.06.56.851-0.07.00.788
   deck_name: I am Mita, Your Housekeeper
   translation: You stink!<br>You're so smelly!
@@ -5555,9 +5569,10 @@
     - word: さ
       base: さあ
       postiion: 29
-    - word: ～！‬
+    - word: ～！
       base: ~!‬
       dictionary: ~!‬
+      postiion: 30
 - id: Kaseifu_no_Mita_02_0.07.00.888-0.07.05.025
   deck_name: I am Mita, Your Housekeeper
   translation: Why were you even born in the first place?
@@ -5815,7 +5830,7 @@
       dictionary: たい
       postiion: 12
     - word: た
-      postiion: 12
+      postiion: 15
     - word: の
       postiion: 16
 - id: Kaseifu_no_Mita_02_0.09.55.763-0.09.59.700
@@ -6240,9 +6255,10 @@
       postiion: 1
     - word: うわ
       postiion: 4
-    - word: ～！‬
+    - word: ～！
       base: ~!‬
       dictionary: ~!‬
+      postiion: 6
 - id: Kaseifu_no_Mita_02_0.19.24.298-0.19.27.834
   deck_name: I am Mita, Your Housekeeper
   translation: Hey!<br>What are you doing to a child?
@@ -6468,7 +6484,7 @@
       postiion: 6
     - word: ちょっと
       base: 一寸
-      postiion: 6
+      postiion: 11
     - word: お
       base: 御
       postiion: 16
@@ -6560,7 +6576,7 @@
       base: 一寸
       postiion: 9
     - word: ちょ
-      postiion: 9
+      postiion: 13
     - word: うらら
       base: 麗ら
       postiion: 17
@@ -6619,9 +6635,10 @@
       postiion: 23
     - word: ね
       postiion: 24
-    - word: ～‬
+    - word: ～
       base: ~‬
       dictionary: ~‬
+      postiion: 25
 - id: Kaseifu_no_Mita_02_0.24.17.491-0.24.18.825
   deck_name: I am Mita, Your Housekeeper
   translation: Thank you.
@@ -6700,7 +6717,7 @@
     - word: はい
       postiion: 18
     - word: はい
-      postiion: 18
+      postiion: 20
 - id: Kaseifu_no_Mita_02_0.25.45.912-0.25.47.714
   deck_name: I am Mita, Your Housekeeper
   translation: Excuse me?<br>The thing is, my children are quite interested in her.
@@ -6826,7 +6843,7 @@
     - word: 帰れ
       base: 帰る
       dictionary: 帰る
-      postiion: 6
+      postiion: 9
 - id: Kaseifu_no_Mita_02_0.28.30.510-0.28.33.546
   deck_name: I am Mita, Your Housekeeper
   translation: '-Go home!<br>-Hold on, everyone.<br>-Go home!<br>-Go home!'
@@ -6860,7 +6877,7 @@
     - word: 帰れ
       base: 帰る
       dictionary: 帰る
-      postiion: 24
+      postiion: 27
 - id: Kaseifu_no_Mita_02_0.28.33.113-0.28.35.915
   deck_name: I am Mita, Your Housekeeper
   translation: '-Go home!<br>-Hold on, everyone.'
@@ -6949,7 +6966,7 @@
     - word: 翔
       postiion: 4
     - word: 翔
-      postiion: 4
+      postiion: 8
     - word: おい
       postiion: 10
 - id: Kaseifu_no_Mita_02_0.30.13.046-0.30.14.580
@@ -7532,9 +7549,10 @@
     - word: あ
       base: あー
       postiion: 15
-    - word: ～！‬
+    - word: ～！
       base: ~!‬
       dictionary: ~!‬
+      postiion: 16
 - id: Kaseifu_no_Mita_02_0.37.01.687-0.37.04.123
   deck_name: I am Mita, Your Housekeeper
   translation: Why do you bully the other kids?
@@ -7692,7 +7710,7 @@
       postiion: 7
     - word: お
       base: 御
-      postiion: 7
+      postiion: 10
     - word: 義父
       postiion: 11
     - word: とう
@@ -8281,9 +8299,10 @@
       postiion: 4
     - word: た
       postiion: 6
-    - word: ～！‬
+    - word: ～！
       base: ~!‬
       dictionary: ~!‬
+      postiion: 7
 - id: Kaseifu_no_Mita_03_0.06.43.909-0.06.45.243
   deck_name: I am Mita, Your Housekeeper
   translation: '-Oh, wow!<br>-Thank you for your treat, Chief.'
@@ -8568,10 +8587,10 @@
     - word: な
       base: だ
       dictionary: だ
-      postiion: 4
+      postiion: 6
     - word: ん
       base: の
-      postiion: 5
+      postiion: 7
     - word: だ
       postiion: 8
     - word: よ
@@ -9090,7 +9109,7 @@
       postiion: 8
     - word: ごめん
       base: 御免
-      postiion: 8
+      postiion: 12
     - word: 起こし
       base: 起こす
       dictionary: 起こす
@@ -9811,7 +9830,7 @@
     - word: はい
       postiion: 4
     - word: はい
-      postiion: 4
+      postiion: 6
 - id: Kaseifu_no_Mita_03_0.20.35.873-0.20.38.275
   deck_name: I am Mita, Your Housekeeper
   translation: '-Did you bring any money?<br>-What?'
@@ -10749,7 +10768,7 @@
       postiion: 19
     - word: お
       base: 御
-      postiion: 19
+      postiion: 20
 - id: Kaseifu_no_Mita_03_0.29.07.718-0.29.11.187
   deck_name: I am Mita, Your Housekeeper
   translation: Daddy.<br>Do you love me?
@@ -11457,7 +11476,7 @@
     - word: 希衣
       postiion: 3
     - word: 希衣
-      postiion: 3
+      postiion: 7
     - word: や
       postiion: 10
     - word: ～
@@ -11785,7 +11804,7 @@
     - word: 希衣
       postiion: 1
     - word: 希衣
-      postiion: 1
+      postiion: 4
     - word: お
       base: 御
       postiion: 7
@@ -11841,7 +11860,7 @@
       dictionary: 捨てる
       postiion: 21
     - word: て
-      postiion: 22
+      postiion: 23
 - id: Kaseifu_no_Mita_04_0.10.09.070-0.10.10.804
   deck_name: I am Mita, Your Housekeeper
   translation: Due to some circumstances,
@@ -12756,9 +12775,10 @@
       postiion: 1
     - word: ああ
       postiion: 3
-    - word: ～！‬
+    - word: ～！
       base: ~!‬
       dictionary: ~!‬
+      postiion: 5
     - word: 一体
       postiion: 8
     - word: 何
@@ -13178,9 +13198,9 @@
     - word: 希衣
       postiion: 5
     - word: 希衣
-      postiion: 5
+      postiion: 9
     - word: 希衣
-      postiion: 5
+      postiion: 13
 - id: Kaseifu_no_Mita_04_0.28.45.618-0.28.47.053
   deck_name: I am Mita, Your Housekeeper
   translation: '-Is Kii here?<br>-Did Mita call you?'
@@ -13486,7 +13506,7 @@
       dictionary: てる
       postiion: 19
     - word: て
-      postiion: 19
+      postiion: 20
     - word: と
       postiion: 22
 - id: Kaseifu_no_Mita_04_0.31.37.757-0.31.39.925
@@ -13591,7 +13611,7 @@
     - word: い
       base: 居る
       dictionary: いる
-      postiion: 5
+      postiion: 7
     - word: た
       postiion: 8
     - word: か
@@ -13705,7 +13725,7 @@
     - word: 希衣
       postiion: 3
     - word: 希衣
-      postiion: 3
+      postiion: 7
 - id: Kaseifu_no_Mita_04_0.32.27.707-0.32.29.041
   deck_name: I am Mita, Your Housekeeper
   translation: Kii!
@@ -14006,7 +14026,7 @@
       postiion: 16
     - word: て
       base: って
-      postiion: 16
+      postiion: 18
 - id: Kaseifu_no_Mita_04_0.34.40.640-0.34.42.441
   deck_name: I am Mita, Your Housekeeper
   translation: You dropped this.
@@ -14231,7 +14251,7 @@
       dictionary: てく
       postiion: 7
     - word: て
-      postiion: 7
+      postiion: 9
     - word: お
       base: 御
       postiion: 11
@@ -14542,7 +14562,7 @@
     - word: し
       base: 為る
       dictionary: する
-      postiion: 12
+      postiion: 14
     - word: た
       postiion: 15
     - word: みたい
@@ -14984,7 +15004,7 @@
     - word: 上がれ
       base: 上がる
       dictionary: 上がれる
-      postiion: 3
+      postiion: 7
 - id: Kaseifu_no_Mita_05_0.05.52.290-0.05.53.324
   deck_name: I am Mita, Your Housekeeper
   translation: Hey!
@@ -15614,7 +15634,7 @@
     - word: ちゃん
       postiion: 6
     - word: ち
-      postiion: 6
+      postiion: 9
     - word: は
       postiion: 10
     - word: かてい
@@ -15638,9 +15658,10 @@
       postiion: 24
     - word: ね
       postiion: 26
-    - word: ～‬
+    - word: ～
       base: ~‬
       dictionary: ~‬
+      postiion: 27
 - id: Kaseifu_no_Mita_05_0.11.20.017-0.11.22.519
   deck_name: I am Mita, Your Housekeeper
   translation: You can always reach me through my phone.
@@ -16099,9 +16120,10 @@
       postiion: 6
     - word: た
       postiion: 8
-    - word: ～！‬
+    - word: ～！
       base: ~!‬
       dictionary: ~!‬
+      postiion: 9
 - id: Kaseifu_no_Mita_05_0.17.22.079-0.17.24.381
   deck_name: I am Mita, Your Housekeeper
   translation: We did it! You actually got it!
@@ -16128,7 +16150,7 @@
       dictionary: 当たる
       postiion: 17
     - word: た
-      postiion: 18
+      postiion: 20
 - id: Kaseifu_no_Mita_05_0.17.24.315-0.17.25.548
   deck_name: I am Mita, Your Housekeeper
   translation: Let's play one more time!
@@ -16870,9 +16892,10 @@
     - word: え
       base: えー
       postiion: 5
-    - word: ～‬
+    - word: ～
       base: ~‬
       dictionary: ~‬
+      postiion: 6
 - id: Kaseifu_no_Mita_05_0.30.25.428-0.30.28.197
   deck_name: I am Mita, Your Housekeeper
   translation: Hey.<br>What are you doing?
@@ -17316,7 +17339,7 @@
     - word: 希衣
       postiion: 1
     - word: 希衣
-      postiion: 1
+      postiion: 4
     - word: も
       postiion: 6
     - word: 手伝う
@@ -18023,7 +18046,7 @@
     - word: 痛い
       postiion: 16
     - word: 痛い
-      postiion: 16
+      postiion: 19
 - id: Kaseifu_no_Mita_06_0.04.05.148-0.04.06.716
   deck_name: I am Mita, Your Housekeeper
   translation: Ouch! Don't step on my foot!
@@ -18048,7 +18071,7 @@
       dictionary: だ
       postiion: 14
     - word: た
-      postiion: 14
+      postiion: 15
 - id: Kaseifu_no_Mita_06_0.04.07.718-0.04.11.321
   deck_name: I am Mita, Your Housekeeper
   translation: '-You stepped on me!<br>-And stop tugging me! It hurts!'
@@ -18526,7 +18549,7 @@
       postiion: 14
     - word: お
       base: 御
-      postiion: 14
+      postiion: 15
 - id: Kaseifu_no_Mita_06_0.07.35.292-0.07.38.127
   deck_name: I am Mita, Your Housekeeper
   translation: Hey!<br>What is it?
@@ -19592,7 +19615,7 @@
     - word: 結
       postiion: 13
     - word: 結
-      postiion: 13
+      postiion: 16
 - id: Kaseifu_no_Mita_06_0.33.42.591-0.33.44.092
   deck_name: I am Mita, Your Housekeeper
   translation: Don't come close!
@@ -19996,7 +20019,7 @@
     - word: はい
       postiion: 16
     - word: はい
-      postiion: 16
+      postiion: 18
 - id: Kaseifu_no_Mita_07_0.01.28.562-0.01.30.664
   deck_name: I am Mita, Your Housekeeper
   translation: Oh, there's 20 seconds left.<br>-18, 17, 16...<br>-Wait. What are you doing?
@@ -20858,9 +20881,10 @@
       postiion: 13
     - word: よ
       postiion: 14
-    - word: ～‬
+    - word: ～
       base: ~‬
       dictionary: ~‬
+      postiion: 15
 - id: Kaseifu_no_Mita_07_0.18.26.713-0.18.28.748
   deck_name: I am Mita, Your Housekeeper
   translation: Sorry.
@@ -21102,9 +21126,10 @@
     - word: あ
       base: あー
       postiion: 3
-    - word: ～！‬
+    - word: ～！
       base: ~!‬
       dictionary: ~!‬
+      postiion: 4
     - word: 余計
       postiion: 7
     - word: な
@@ -21819,19 +21844,19 @@
     - word: 早く
       base: 早い
       dictionary: 早い
-      postiion: 7
+      postiion: 10
     - word: 早く
       base: 早い
       dictionary: 早い
-      postiion: 7
+      postiion: 13
     - word: 結
       postiion: 17
     - word: はい
       postiion: 19
     - word: はい
-      postiion: 19
+      postiion: 22
     - word: はい
-      postiion: 19
+      postiion: 25
 - id: Kaseifu_no_Mita_07_0.37.27.019-0.37.28.786
   deck_name: I am Mita, Your Housekeeper
   translation: Sorry, everyone!
@@ -21915,9 +21940,10 @@
       postiion: 2
     - word: ああ
       postiion: 5
-    - word: ～！‬
+    - word: ～！
       base: ~!‬
       dictionary: ~!‬
+      postiion: 7
     - word: うらら
       base: 麗ら
       postiion: 11
@@ -22490,7 +22516,7 @@
       postiion: 7
     - word: ちょっと
       base: 一寸
-      postiion: 7
+      postiion: 12
 - id: Kaseifu_no_Mita_07_0.44.55.667-0.44.58.302
   deck_name: I am Mita, Your Housekeeper
   translation: You killed them!
@@ -22601,7 +22627,7 @@
       postiion: 1
     - word: うらら
       base: 麗ら
-      postiion: 1
+      postiion: 6
     - word: さん
       postiion: 9
     - word: が
@@ -22659,17 +22685,19 @@
       postiion: 1
     - word: ああ
       postiion: 3
-    - word: ～！‬
+    - word: ～！
       base: ~!‬
       dictionary: ~!‬
+      postiion: 5
     - word: 三田
       postiion: 9
     - word: あ
       base: あー
       postiion: 12
-    - word: ～！‬
+    - word: ～！
       base: ~!‬
       dictionary: ~!‬
+      postiion: 13
 - id: Kaseifu_no_Mita_08_0.00.41.432-0.00.44.001
   deck_name: I am Mita, Your Housekeeper
   translation: Seriously, what are you doing?
@@ -22709,7 +22737,7 @@
       postiion: 4
     - word: ら
       base: 等
-      postiion: 5
+      postiion: 6
     - word: が
       postiion: 7
     - word: 来る
@@ -22809,9 +22837,10 @@
       postiion: 1
     - word: ああ
       postiion: 3
-    - word: ～！‬
+    - word: ～！
       base: ~!‬
       dictionary: ~!‬
+      postiion: 5
     - word: うらら
       base: 麗ら
       postiion: 9
@@ -23230,9 +23259,10 @@
       postiion: 1
     - word: ああ
       postiion: 4
-    - word: ～！‬
+    - word: ～！
       base: ~!‬
       dictionary: ~!‬
+      postiion: 6
     - word: 翔
       postiion: 10
     - word: ちょっと
@@ -23264,7 +23294,7 @@
     - word: 希衣
       postiion: 1
     - word: 希衣
-      postiion: 1
+      postiion: 4
     - word: 強い
       postiion: 7
     - word: ん
@@ -23312,10 +23342,11 @@
       postiion: 3
     - word: お
       base: 御
-      postiion: 3
-    - word: ～‬
+      postiion: 4
+    - word: ～
       base: ~‬
       dictionary: ~‬
+      postiion: 5
     - word: 希衣
       postiion: 8
     - word: すごい
@@ -23443,7 +23474,7 @@
     - word: 痛い
       postiion: 6
     - word: 痛い
-      postiion: 6
+      postiion: 9
 - id: Kaseifu_no_Mita_08_0.12.03.814-0.12.07.350
   deck_name: I am Mita, Your Housekeeper
   translation: Seriously, what were you doing?<br>You're so lame.
@@ -23715,7 +23746,7 @@
     - word: ドライバー
       postiion: 4
     - word: ドライバー
-      postiion: 4
+      postiion: 10
     - word: 早く
       base: 早い
       dictionary: 早い
@@ -23723,7 +23754,7 @@
     - word: 早く
       base: 早い
       dictionary: 早い
-      postiion: 16
+      postiion: 18
 - id: Kaseifu_no_Mita_08_0.14.17.147-0.14.19.516
   deck_name: I am Mita, Your Housekeeper
   translation: I just need a little more time!
@@ -24075,9 +24106,10 @@
       postiion: 6
     - word: よっしゃ
       postiion: 8
-    - word: ～！‬
+    - word: ～！
       base: ~!‬
       dictionary: ~!‬
+      postiion: 12
     - word: 海斗
       postiion: 16
     - word: もう
@@ -24127,7 +24159,7 @@
       postiion: 4
     - word: みんな
       base: 皆
-      postiion: 4
+      postiion: 8
 - id: Kaseifu_no_Mita_08_0.20.03.360-0.20.06.395
   deck_name: I am Mita, Your Housekeeper
   translation: '&quot;You''re still staying with this family?&quot;'
@@ -24491,9 +24523,10 @@
       postiion: 1
     - word: シ
       postiion: 3
-    - word: ～！‬
+    - word: ～！
       base: ~!‬
       dictionary: ~!‬
+      postiion: 4
 - id: Kaseifu_no_Mita_08_0.24.04.634-0.24.07.303
   deck_name: I am Mita, Your Housekeeper
   translation: '-What?<br>-Hey, what''s going on?'
@@ -24554,9 +24587,10 @@
     - word: あ
       base: あー
       postiion: 22
-    - word: ～！‬
+    - word: ～！
       base: ~!‬
       dictionary: ~!‬
+      postiion: 23
 - id: Kaseifu_no_Mita_08_0.24.25.355-0.24.27.456
   deck_name: I am Mita, Your Housekeeper
   translation: What are you doing, Dad?
@@ -25025,9 +25059,10 @@
       postiion: 4
     - word: た
       postiion: 6
-    - word: ～！‬
+    - word: ～！
       base: ~!‬
       dictionary: ~!‬
+      postiion: 7
 - id: Kaseifu_no_Mita_08_0.38.43.345-0.38.46.781
   deck_name: I am Mita, Your Housekeeper
   translation: I'm beginning to like monaka!
@@ -25037,7 +25072,7 @@
     - word: 希衣
       postiion: 1
     - word: 希衣
-      postiion: 1
+      postiion: 4
     - word: だ
       postiion: 7
     - word: ～
@@ -25440,9 +25475,10 @@
       postiion: 14
     - word: あら
       postiion: 19
-    - word: ～‬
+    - word: ～
       base: ~‬
       dictionary: ~‬
+      postiion: 21
 - id: Kaseifu_no_Mita_09_0.04.03.124-0.04.05.926
   deck_name: I am Mita, Your Housekeeper
   translation: Here you go. Have some.<br>Thanks.
@@ -25786,7 +25822,7 @@
     - word: はい
       postiion: 8
     - word: はい
-      postiion: 8
+      postiion: 10
 - id: Kaseifu_no_Mita_09_0.08.48.642-0.08.53.046
   deck_name: I am Mita, Your Housekeeper
   translation: What do you mean?<br>She's already decided to work for another household.
@@ -25830,7 +25866,7 @@
     - word: いえ
       postiion: 10
     - word: いえ
-      postiion: 10
+      postiion: 12
     - word: いい
       base: 良い
       postiion: 15
@@ -26066,9 +26102,10 @@
       postiion: 1
     - word: ママ
       postiion: 4
-    - word: ～！‬
+    - word: ～！
       base: ~!‬
       dictionary: ~!‬
+      postiion: 6
 - id: Kaseifu_no_Mita_09_0.11.34.541-0.11.36.309
   deck_name: I am Mita, Your Housekeeper
   translation: Hey, Mita.
@@ -26309,7 +26346,7 @@
     - word: 危ない
       postiion: 7
     - word: 危ない
-      postiion: 7
+      postiion: 11
 - id: Kaseifu_no_Mita_09_0.13.54.448-0.13.56.649
   deck_name: I am Mita, Your Housekeeper
   translation: Hey. What should we do?
@@ -26796,9 +26833,9 @@
       base: 伯父
       postiion: 5
     - word: おっ
-      postiion: 5
+      postiion: 8
     - word: おっ
-      postiion: 5
+      postiion: 11
     - word: 差し入れ
       postiion: 14
     - word: か
@@ -26824,7 +26861,7 @@
     - word: いえ
       postiion: 19
     - word: いえ
-      postiion: 19
+      postiion: 21
 - id: Kaseifu_no_Mita_09_0.19.36.122-0.19.38.357
   deck_name: I am Mita, Your Housekeeper
   translation: '-Are you two love-dovey?<br>-That''s not... Oh!'
@@ -26874,7 +26911,7 @@
       postiion: 9
     - word: ちょっと
       base: 一寸
-      postiion: 9
+      postiion: 13
 - id: Kaseifu_no_Mita_09_0.21.20.260-0.21.22.528
   deck_name: I am Mita, Your Housekeeper
   translation: Hey, what are you guys up to?
@@ -27029,7 +27066,7 @@
       postiion: 5
     - word: お
       base: 御
-      postiion: 5
+      postiion: 6
 - id: Kaseifu_no_Mita_09_0.22.46.713-0.22.49.348
   deck_name: I am Mita, Your Housekeeper
   translation: '-You''re really good.<br>-You''re good at this.'
@@ -27313,7 +27350,7 @@
     - word: こと
       postiion: 6
     - word: と
-      postiion: 7
+      postiion: 8
     - word: は
       postiion: 9
 - id: Kaseifu_no_Mita_09_0.26.03.142-0.26.05.177
@@ -27390,9 +27427,10 @@
       postiion: 14
     - word: ぞ
       postiion: 15
-    - word: ～‬
+    - word: ～
       base: ~‬
       dictionary: ~‬
+      postiion: 16
 - id: Kaseifu_no_Mita_09_0.27.20.453-0.27.22.321
   deck_name: I am Mita, Your Housekeeper
   translation: '-Welcome home, Papa!<br>-Welcome home.'
@@ -27628,7 +27666,10 @@
       base: 二人
       dictionary: 2人
       postiion: 1
-    - word: ‪♪
+    - word: ♪
+      base: ‪♪
+      dictionary: ‪♪
+      postiion: 5
     - word: みんな
       base: 皆
       postiion: 7
@@ -28193,7 +28234,10 @@
       postiion: 1
     - word: 真利子
       postiion: 4
-    - word: ‪♪
+    - word: ♪
+      base: ‪♪
+      dictionary: ‪♪
+      postiion: 9
     - word: ハッピー
       postiion: 11
     - word: バースデー
@@ -28237,7 +28281,7 @@
       postiion: 4
     - word: お
       base: 御
-      postiion: 4
+      postiion: 5
 - id: Kaseifu_no_Mita_09_0.35.55.601-0.35.57.435
   deck_name: I am Mita, Your Housekeeper
   translation: '-Yay!<br>-Happy birthday!'
@@ -28254,9 +28298,10 @@
       postiion: 7
     - word: た
       postiion: 9
-    - word: ～！‬
+    - word: ～！
       base: ~!‬
       dictionary: ~!‬
+      postiion: 10
 - id: Kaseifu_no_Mita_09_0.35.57.002-0.35.59.137
   deck_name: I am Mita, Your Housekeeper
   translation: '-Yay!<br>-Happy birthday!'
@@ -28282,7 +28327,7 @@
       postiion: 5
     - word: ちょっと
       base: 一寸
-      postiion: 5
+      postiion: 11
     - word: あんた
       base: 貴方
       postiion: 16
@@ -29187,10 +29232,11 @@
       postiion: 8
     - word: お
       base: 御
-      postiion: 8
-    - word: ～‬
+      postiion: 9
+    - word: ～
       base: ~‬
       dictionary: ~‬
+      postiion: 10
 - id: Kaseifu_no_Mita_10_0.00.38.122-0.00.41.391
   deck_name: I am Mita, Your Housekeeper
   translation: '-Well then, let''s dig in.<br>-I''m digging in!'
@@ -29234,9 +29280,10 @@
       postiion: 9
     - word: うま
       postiion: 11
-    - word: ～‬
+    - word: ～
       base: ~‬
       dictionary: ~‬
+      postiion: 13
 - id: Kaseifu_no_Mita_10_0.00.46.563-0.00.48.064
   deck_name: I am Mita, Your Housekeeper
   translation: Well...
@@ -29503,7 +29550,7 @@
       dictionary: 食べる
       postiion: 25
     - word: よ
-      postiion: 27
+      postiion: 29
 - id: Kaseifu_no_Mita_10_0.02.12.716-0.02.15.752
   deck_name: I am Mita, Your Housekeeper
   translation: Kii's right. If you just stand there,
@@ -29608,7 +29655,7 @@
     - word: 海斗
       postiion: 9
     - word: 海斗
-      postiion: 9
+      postiion: 13
     - word: 別
       postiion: 16
     - word: に
@@ -29849,9 +29896,10 @@
       base: 良い
       dictionary: よい
       postiion: 3
-    - word: ～？‬
+    - word: ～？
       base: ~?‬
       dictionary: ~?‬
+      postiion: 5
     - word: こっち
       base: 此方
       postiion: 8
@@ -30105,9 +30153,10 @@
     - word: ただいま
       base: 只今
       postiion: 4
-    - word: ～‬
+    - word: ～
       base: ~‬
       dictionary: ~‬
+      postiion: 8
 - id: Kaseifu_no_Mita_10_0.12.23.993-0.12.26.295
   deck_name: I am Mita, Your Housekeeper
   translation: Welcome home.
@@ -30180,9 +30229,10 @@
     - word: ただいま
       base: 只今
       postiion: 15
-    - word: ～‬
+    - word: ～
       base: ~‬
       dictionary: ~‬
+      postiion: 19
 - id: Kaseifu_no_Mita_10_0.14.33.489-0.14.35.724
   deck_name: I am Mita, Your Housekeeper
   translation: You have to cherish it, okay?
@@ -30253,9 +30303,10 @@
     - word: あの
       base: 彼の
       postiion: 4
-    - word: ～‬
+    - word: ～
       base: ~‬
       dictionary: ~‬
+      postiion: 6
 - id: Kaseifu_no_Mita_10_0.16.55.465-0.16.57.099
   deck_name: I am Mita, Your Housekeeper
   translation: Do you always speak your mind, Ms. Urara?
@@ -30452,9 +30503,10 @@
       postiion: 4
     - word: ぞ
       postiion: 6
-    - word: ～！‬
+    - word: ～！
       base: ~!‬
       dictionary: ~!‬
+      postiion: 7
     - word: 部員
       postiion: 11
     - word: たち
@@ -30658,7 +30710,7 @@
     - word: 海斗
       postiion: 7
     - word: 海斗
-      postiion: 7
+      postiion: 11
     - word: ありがとう
       base: 有り難う
       postiion: 14
@@ -31260,9 +31312,10 @@
     - word: こんにちは
       base: 今日は
       postiion: 14
-    - word: ～‬
+    - word: ～
       base: ~‬
       dictionary: ~‬
+      postiion: 19
 - id: Kaseifu_no_Mita_10_0.44.12.333-0.44.13.767
   deck_name: I am Mita, Your Housekeeper
   translation: Sorry to keep you waiting.
@@ -31307,7 +31360,7 @@
       postiion: 7
     - word: こっち
       base: 此方
-      postiion: 7
+      postiion: 11
 - id: Kaseifu_no_Mita_10_0.45.08.256-0.45.11.759
   deck_name: I am Mita, Your Housekeeper
   translation: But this is nothing compared to Mommy's cooking, right?
@@ -31635,7 +31688,10 @@
   words:
     - word: 一同
       postiion: 1
-    - word: ‪♪
+    - word: ♪
+      base: ‪♪
+      dictionary: ‪♪
+      postiion: 5
     - word: みんな
       base: 皆
       postiion: 7
@@ -31840,7 +31896,7 @@
       base: 時
       postiion: 12
     - word: と
-      postiion: 12
+      postiion: 14
     - word: か
       postiion: 15
     - word: うれしい
@@ -31974,7 +32030,7 @@
       base: 嫌々
       postiion: 12
     - word: いやいや
-      postiion: 12
+      postiion: 17
 - id: Kaseifu_no_Mita_11_0.01.02.663-0.01.04.498
   deck_name: I am Mita, Your Housekeeper
   translation: I can't do that!
@@ -32244,9 +32300,10 @@
       postiion: 7
     - word: た
       postiion: 9
-    - word: ～！‬
+    - word: ～！
       base: ~!‬
       dictionary: ~!‬
+      postiion: 10
 - id: Kaseifu_no_Mita_11_0.05.00.501-0.05.03.470
   deck_name: I am Mita, Your Housekeeper
   translation: >-
@@ -32501,7 +32558,7 @@
       postiion: 18
     - word: て
       base: って
-      postiion: 18
+      postiion: 19
 - id: Kaseifu_no_Mita_11_0.07.45.432-0.07.47.801
   deck_name: I am Mita, Your Housekeeper
   translation: Please have a good rest.<br>I will oversee everything at home.
@@ -32746,9 +32803,10 @@
     - word: え
       base: えー
       postiion: 14
-    - word: ～？‬
+    - word: ～？
       base: ~?‬
       dictionary: ~?‬
+      postiion: 15
 - id: Kaseifu_no_Mita_11_0.12.32.786-0.12.35.254
   deck_name: I am Mita, Your Housekeeper
   translation: I tried to give up my seat for an old lady on the train,
@@ -32808,7 +32866,7 @@
     - word: 希衣
       postiion: 10
     - word: 希衣
-      postiion: 10
+      postiion: 14
     - word: ミルク
       postiion: 17
     - word: に
@@ -33229,7 +33287,7 @@
       dictionary: てる
       postiion: 10
     - word: て
-      postiion: 10
+      postiion: 11
     - word: ください
       base: 下さる
       dictionary: くださる
@@ -33329,7 +33387,7 @@
     - word: おい
       postiion: 4
     - word: おい
-      postiion: 4
+      postiion: 8
 - id: Kaseifu_no_Mita_11_0.24.32.305-0.24.34.039
   deck_name: I am Mita, Your Housekeeper
   translation: Just what's wrong with you?
@@ -33426,7 +33484,7 @@
       postiion: 7
     - word: ら
       base: 等
-      postiion: 8
+      postiion: 9
     - word: さん
       postiion: 10
     - word: を
@@ -33484,9 +33542,10 @@
     - word: ゃ
       base: ヤ
       postiion: 8
-    - word: ～！‬
+    - word: ～！
       base: ~!‬
       dictionary: ~!‬
+      postiion: 9
     - word: 大場
       postiion: 13
     - word: すい
@@ -33563,9 +33622,10 @@
       base: 待つ
       dictionary: 待つ
       postiion: 9
-    - word: ～！‬
+    - word: ～！
       base: ~!‬
       dictionary: ~!‬
+      postiion: 11
 - id: Kaseifu_no_Mita_11_0.30.38.570-0.30.42.374
   deck_name: I am Mita, Your Housekeeper
   translation: It looks so tasty!
@@ -33586,9 +33646,10 @@
     - word: そ
       base: そう
       postiion: 9
-    - word: ～！‬
+    - word: ～！
       base: ~!‬
       dictionary: ~!‬
+      postiion: 10
 - id: Kaseifu_no_Mita_11_0.30.45.311-0.30.48.780
   deck_name: I am Mita, Your Housekeeper
   translation: '-Let''s go, it''s chilly.<br>-Tickle, tickle... Tickle, tickle...'
@@ -33988,10 +34049,11 @@
       postiion: 4
     - word: お
       base: 御
-      postiion: 4
-    - word: ～‬
+      postiion: 5
+    - word: ～
       base: ~‬
       dictionary: ~‬
+      postiion: 6
     - word: 今日
       postiion: 8
     - word: も
@@ -34058,9 +34120,10 @@
       postiion: 1
     - word: よっしゃ
       postiion: 3
-    - word: ～！‬
+    - word: ～！
       base: ~!‬
       dictionary: ~!‬
+      postiion: 7
     - word: 海斗
       postiion: 11
     - word: やっ
@@ -34092,7 +34155,7 @@
     - word: はい
       postiion: 4
     - word: はい
-      postiion: 4
+      postiion: 7
     - word: 結
       postiion: 11
     - word: はい
@@ -34304,7 +34367,7 @@
     - word: 希衣
       postiion: 3
     - word: 希衣
-      postiion: 3
+      postiion: 7
     - word: や
       postiion: 10
     - word: ～

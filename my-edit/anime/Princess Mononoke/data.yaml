@@ -431,7 +431,7 @@
       dictionary: 捨てる
       postiion: 4
     - word: て
-      postiion: 5
+      postiion: 6
     - word: 来
       base: 来る
       dictionary: 来る
@@ -1782,7 +1782,7 @@
     - word: そう
       postiion: 0
     - word: そう
-      postiion: 0
+      postiion: 2
     - word: 山犬
       postiion: 5
     - word: なんぞ
@@ -1833,7 +1833,7 @@
       dictionary: たい
       postiion: 15
     - word: た
-      postiion: 15
+      postiion: 18
     - word: ぜ
       postiion: 19
     - word: なあ
@@ -2399,7 +2399,7 @@
       base: 物の怪
       postiion: 9
     - word: の
-      postiion: 10
+      postiion: 13
     - word: 手先
       postiion: 14
     - word: と
@@ -3296,7 +3296,7 @@
     - word: 山の神
       postiion: 4
     - word: の
-      postiion: 5
+      postiion: 7
     - word: 森
       postiion: 8
     - word: を
@@ -5099,7 +5099,7 @@
       base: 離れる
       postiion: 4
     - word: な
-      postiion: 5
+      postiion: 8
     - word: うろたえる
       base: 狼狽える
       postiion: 10
@@ -5178,7 +5178,7 @@
     - word: 落とす
       postiion: 17
     - word: と
-      postiion: 18
+      postiion: 20
     - word: 取り返し
       postiion: 21
     - word: が
@@ -5332,7 +5332,7 @@
       dictionary: 討つ
       postiion: 10
     - word: と
-      postiion: 11
+      postiion: 13
     - word: いう
       base: 言う
       postiion: 14
@@ -5836,7 +5836,7 @@
       base: 物の怪
       postiion: 9
     - word: の
-      postiion: 10
+      postiion: 13
     - word: 類
       base: 類い
       postiion: 14
@@ -6300,7 +6300,7 @@
       dictionary: 当たる
       postiion: 0
     - word: た
-      postiion: 1
+      postiion: 3
     - word: の
       postiion: 4
     - word: に
@@ -6329,7 +6329,7 @@
       postiion: 7
     - word: ご
       base: 御
-      postiion: 7
+      postiion: 9
     - word: 無事
       postiion: 10
     - word: です
@@ -6693,9 +6693,9 @@
     - word: 火
       postiion: 4
     - word: 火
-      postiion: 4
+      postiion: 7
     - word: 火
-      postiion: 4
+      postiion: 10
 - id: A_PrincessMononoke_0437
   deck_name: Princess Mononoke
   translation: Stop! Your princess is safe!
@@ -7302,7 +7302,7 @@
     - word: 行け
       base: 行く
       dictionary: 行く
-      postiion: 0
+      postiion: 3
     - word: オレ
       base: 俺
       postiion: 6
@@ -7506,7 +7506,7 @@
     - word: だけ
       postiion: 10
     - word: だ
-      postiion: 10
+      postiion: 12
     - word: ショウジョウ
       base: 猩々
       postiion: 14
@@ -7749,7 +7749,7 @@
     - word: 平気
       postiion: 0
     - word: 気
-      postiion: 1
+      postiion: 3
     - word: に
       postiion: 4
     - word: し
@@ -8523,7 +8523,7 @@
     - word: やれ
       postiion: 0
     - word: やれ
-      postiion: 0
+      postiion: 2
     - word: あの
       base: 彼の
       postiion: 5
@@ -9136,7 +9136,7 @@
     - word: 早く
       base: 早い
       dictionary: 早い
-      postiion: 10
+      postiion: 13
 - id: A_PrincessMononoke_0919
   deck_name: Princess Mononoke
   translation: Don't touch the body! It'll draw your life into it!
@@ -9256,7 +9256,7 @@
     - word: 急げ
       base: 急ぐ
       dictionary: 急ぐ
-      postiion: 13
+      postiion: 16
     - word: って
       postiion: 18
     - word: ほら
@@ -9808,25 +9808,25 @@
     - word: いか
       base: 行く
       dictionary: いく
-      postiion: 0
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      postiion: 2
-    - word: いかん
-      base: 如何
-      postiion: 4
-    - word: いかん
-      base: 如何
-      postiion: 4
-    - word: いか
-      base: 行く
-      dictionary: いく
       postiion: 4
     - word: ん
       base: ず
       dictionary: ぬ
       postiion: 6
+    - word: いかん
+      base: 如何
+      postiion: 9
+    - word: いかん
+      base: 如何
+      postiion: 13
+    - word: いか
+      base: 行く
+      dictionary: いく
+      postiion: 17
+    - word: ん
+      base: ず
+      dictionary: ぬ
+      postiion: 19
 - id: A_PrincessMononoke_0947
   deck_name: Princess Mononoke
   translation: The head's moving!
@@ -10019,7 +10019,7 @@
       postiion: 0
     - word: あ
       base: あー
-      postiion: 0
+      postiion: 2
     - word: だらしない
       base: だらし無い
       postiion: 4
@@ -11184,7 +11184,7 @@
     - word: だけ
       postiion: 16
     - word: だ
-      postiion: 16
+      postiion: 18
 - id: A_PrincessMononoke_0668
   deck_name: Princess Mononoke
   translation: There is nothing you can do, boy.
@@ -12301,7 +12301,7 @@
       dictionary: たまげる
       postiion: 5
     - word: た
-      postiion: 5
+      postiion: 8
 - id: A_PrincessMononoke_0717
   deck_name: Princess Mononoke
   translation: He's stopping them!
@@ -12362,7 +12362,7 @@
     - word: 早く
       base: 早い
       dictionary: 早い
-      postiion: 0
+      postiion: 3
 - id: A_PrincessMononoke_0720
   deck_name: Princess Mononoke
   translation: You're right! It is him!
@@ -13022,7 +13022,7 @@
       base: 生き物
       postiion: 0
     - word: の
-      postiion: 3
+      postiion: 4
     - word: 焼ける
       base: 焼く
       postiion: 5
@@ -13091,7 +13091,7 @@
       dictionary: てる
       postiion: 10
     - word: て
-      postiion: 10
+      postiion: 11
     - word: くれ
       base: 呉れる
       dictionary: くれる
@@ -15576,7 +15576,7 @@
       dictionary: 捨てる
       postiion: 16
     - word: て
-      postiion: 17
+      postiion: 18
     - word: 行こう
       base: 行く
       dictionary: 行く
@@ -15904,7 +15904,7 @@
       dictionary: こたえる
       postiion: 0
     - word: た
-      postiion: 1
+      postiion: 3
 - id: A_PrincessMononoke_0850
   deck_name: Princess Mononoke
   translation: What is it? San's in danger!
@@ -15915,7 +15915,7 @@
       base: 分かる
       postiion: 0
     - word: か
-      postiion: 1
+      postiion: 3
     - word: サン
       postiion: 6
     - word: が
@@ -16063,7 +16063,7 @@
       dictionary: やめる
       postiion: 0
     - word: やめ
-      postiion: 0
+      postiion: 3
 - id: A_PrincessMononoke_0860
   deck_name: Princess Mononoke
   translation: Ashitaka?
@@ -16243,7 +16243,7 @@
       dictionary: たい
       postiion: 22
     - word: た
-      postiion: 22
+      postiion: 25
 - id: A_PrincessMononoke_0866
   deck_name: Princess Mononoke
   translation: So it's 'don't kill the Deer God, kill the samurai,' is it?
@@ -16535,7 +16535,7 @@
     - word: サン
       postiion: 10
     - word: サン
-      postiion: 10
+      postiion: 14
     - word: どこ
       postiion: 17
     - word: だ
@@ -18850,7 +18850,7 @@
     - word: やれ
       postiion: 0
     - word: やれ
-      postiion: 0
+      postiion: 2
     - word: エボシ
       base: 烏帽子
       postiion: 5
@@ -19734,7 +19734,7 @@
       base: 物の怪
       postiion: 4
     - word: も
-      postiion: 4
+      postiion: 8
     - word: 眼中
       postiion: 9
     - word: に
@@ -19883,7 +19883,7 @@
       base: 分かる
       postiion: 12
     - word: か
-      postiion: 13
+      postiion: 15
     - word: 天朝
       postiion: 17
     - word: さま
@@ -20916,7 +20916,7 @@
     - word: じい
       postiion: 0
     - word: じ
-      postiion: 0
+      postiion: 2
     - word: も
       postiion: 3
     - word: そう
@@ -20934,7 +20934,7 @@
     - word: じい
       postiion: 0
     - word: じ
-      postiion: 0
+      postiion: 2
     - word: が
       postiion: 3
     - word: 山
@@ -20995,7 +20995,7 @@
       base: 爺
       postiion: 4
     - word: じ
-      postiion: 4
+      postiion: 6
     - word: の
       postiion: 7
     - word: 所
@@ -21058,7 +21058,7 @@
     - word: じい
       postiion: 0
     - word: じ
-      postiion: 0
+      postiion: 2
     - word: 何
       postiion: 4
     - word: だろう
@@ -21588,7 +21588,7 @@
     - word: かしこみ
       base: 畏まる
       dictionary: かしこむ
-      postiion: 0
+      postiion: 5
     - word: 申す
       postiion: 9
 - id: A_PrincessMononoke_0036
@@ -22404,7 +22404,7 @@
       base: 見付かる
       postiion: 15
     - word: か
-      postiion: 17
+      postiion: 19
     - word: も
       postiion: 20
     - word: しれ
@@ -22809,7 +22809,7 @@
     - word: いつも
       postiion: 0
     - word: いつも
-      postiion: 0
+      postiion: 3
     - word: カヤ
       base: かや
       postiion: 7
@@ -22837,7 +22837,7 @@
     - word: きっと
       postiion: 22
     - word: きっと
-      postiion: 22
+      postiion: 26
 - id: A_PrincessMononoke_0076
   deck_name: Princess Mononoke
   translation: As will I, Kaya.
@@ -22899,7 +22899,7 @@
     - word: 勝負
       postiion: 11
     - word: 勝負
-      postiion: 11
+      postiion: 14
 - id: A_PrincessMononoke_0080
   deck_name: Princess Mononoke
   translation: Stop!
@@ -23141,7 +23141,7 @@
     - word: 待て
       base: 待つ
       dictionary: 待つ
-      postiion: 0
+      postiion: 2
     - word: 拙僧
       postiion: 5
     - word: が
@@ -23508,7 +23508,7 @@
       dictionary: ごとし
       postiion: 7
     - word: と
-      postiion: 8
+      postiion: 10
     - word: は
       postiion: 11
     - word: まさに
@@ -24052,7 +24052,7 @@
     - word: だけ
       postiion: 16
     - word: だ
-      postiion: 16
+      postiion: 18
 - id: A_PrincessMononoke_0119
   deck_name: Princess Mononoke
   translation: Hm, an elegant bowl...
@@ -25605,7 +25605,7 @@
       base: 彼の世
       postiion: 19
     - word: の
-      postiion: 20
+      postiion: 22
     - word: 入り口
       postiion: 23
     - word: だ
@@ -26286,7 +26286,7 @@
     - word: だけ
       postiion: 11
     - word: だ
-      postiion: 11
+      postiion: 13
 - id: A_PrincessMononoke_0201
   deck_name: Princess Mononoke
   translation: It's never the guards that die.
@@ -26832,7 +26832,7 @@
     - word: 倒れる
       postiion: 4
     - word: 倒れる
-      postiion: 4
+      postiion: 9
 - id: A_PrincessMononoke_1009
   deck_name: Princess Mononoke
   translation: Hang on! Don't let go!
@@ -27391,7 +27391,7 @@
       base: 駄目
       postiion: 0
     - word: だ
-      postiion: 0
+      postiion: 2
     - word: 逃げよう
       base: 逃げる
       dictionary: 逃げる
@@ -28213,7 +28213,7 @@
     - word: へ
       postiion: 0
     - word: へ
-      postiion: 0
+      postiion: 1
     - word: いやあ
       base: いや
       postiion: 3

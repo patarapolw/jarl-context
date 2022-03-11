@@ -20,8 +20,9 @@ async function main() {
   const src = `../../submodules/immersion-kit-api/resources`
   const dst = `../../my-edit`
 
-  const reClean = /(^[\p{Z}]+|[\p{Z}]+$|[\u{202a}\u{202c}]+)/gu
-  const reExclude = /^[\p{Z}\p{P}\u{202a}\u{202c}]*$/u
+  const reClean = /(^[\p{Z}]+|[\p{Z}]+$)/gu
+  const reWordClean = /[\u{202a}\u{202c}]+/gu
+  const reExclude = /^[\p{Z}\p{P}]*$/u
 
   glob
     .sync('**/data.json', {
@@ -54,14 +55,15 @@ async function main() {
               image,
               ...d
             }) => {
-              sentence = sentence.replace(reClean, '')
-              // if (!/（.+）/.test(sentence)) return null
+              sentence = sentence.replace(reClean, '').replace(reWordClean, '')
+              if (!/（.+）/.test(sentence)) return null
 
               let words: any[] | undefined
               if (word_list) {
-                let postiion = 0
+                let position = 0
                 words = word_list
                   .map((word, i) => {
+                    word = word.replace(reWordClean, '')
                     if (reExclude.test(word)) return null
 
                     let base: string | undefined
@@ -74,14 +76,14 @@ async function main() {
                       dictionary = word_dictionary_list[i]
                     }
 
-                    const pos = sentence.indexOf(word, postiion)
+                    const pos = sentence.indexOf(word, position)
                     if (pos !== -1) {
-                      postiion = pos + word.length
+                      position = pos + word.length
                       return {
                         word,
                         base,
                         dictionary,
-                        postiion
+                        postiion: pos
                       }
                     }
                     return {
