@@ -293,6 +293,7 @@
   words:
     - word: 呉羽
       postiion: 1
+      tags: [name, silent]
     - word: いい
       base: 良い
       postiion: 4
@@ -552,6 +553,7 @@
   words:
     - word: 呉羽
       postiion: 1
+      tags: [name, silent]
     - word: はい
       postiion: 4
     - word: 恒星
@@ -891,12 +893,14 @@
   words:
     - word: 呉羽
       postiion: 1
+      tags: [name, silent]
     - word: 乾杯
       postiion: 4
     - word: 乾杯
       postiion: 7
     - word: 男
       postiion: 12
+      tags: [silent]
     - word: イエ～イ
       postiion: 14
 - id: >-
@@ -3193,10 +3197,12 @@
   words:
     - word: 斎藤
       postiion: 1
+      tags: [name, silent]
     - word: ああ
       postiion: 4
     - word: 呉羽
       postiion: 7
+      tags: [name]
     - word: ちゃん
       postiion: 9
 - id: >-
@@ -3453,6 +3459,7 @@
   words:
     - word: 呉羽
       postiion: 1
+      tags: [name, silent]
     - word: ふん
       postiion: 4
     - word: ふん
@@ -3471,6 +3478,7 @@
   words:
     - word: 呉羽
       postiion: 1
+      tags: [name, silent]
     - word: 住民
       postiion: 4
     - word: 票
@@ -3501,13 +3509,9 @@
   words:
     - word: 呉羽
       postiion: 1
-    - word: ふ
+      tags: [name, silent]
+    - word: ふ～ん
       postiion: 4
-    - word: ～
-      postiion: 5
-    - word: ん
-      base: んっ
-      postiion: 6
     - word: 印鑑
       postiion: 9
 - id: >-
@@ -11057,15 +11061,8 @@
   words:
     - word: 呉羽
       postiion: 1
-    - word: お
-      base: 御
+    - word: おお
       postiion: 4
-    - word: お
-      base: 御
-      postiion: 4
-    - word: ～‬
-      base: ~‬
-      dictionary: ~‬
 - id: 獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.32.17.850-0.32.19.051
   deck_name: Weakest Beast
   translation: There.
@@ -11330,7 +11327,7 @@
     - word: うん
       postiion: 14
     - word: うん
-      postiion: 14
+      postiion: 16
 - id: 獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.33.52.778-0.33.55.714
   deck_name: Weakest Beast
   translation: I'm searching for the audio.
@@ -11581,7 +11578,7 @@
     - word: 責任
       postiion: 4
     - word: 責任
-      postiion: 4
+      postiion: 7
     - word: って
       postiion: 9
 - id: 獣になれない私たち_第02話反撃開始仕事も恋も私変わりたい720p_HDTV_x264_AAC-DoA_0.38.52.044-0.38.54.379
