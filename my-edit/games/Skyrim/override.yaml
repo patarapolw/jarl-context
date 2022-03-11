@@ -6,3 +6,34 @@
   words:
     - word: 鼻歌
       position: 1
+      tags:
+        - silent
+- id: Skyrim_malecommander_db09__0006422a_1
+  deck_name: Skyrim
+  translation: (Clapping.)
+  sound: malecommander_db09__0006422a_1.mp3
+  sentence: (手をたたく)
+  words:
+    - word: 手
+      position: 1
+      tags:
+        - silent
+    - word: を
+      position: 2
+      tags:
+        - silent
+    - word: たたく
+      base: 叩く
+      position: 3
+      tags:
+        - silent
+- id: Skyrim_maleuniquecicero_darkbrotherhood__000e0d12_1
+  deck_name: Skyrim
+  translation: (Whistling)
+  sound: maleuniquecicero_darkbrotherhood__000e0d12_1.mp3
+  sentence: (口笛)
+  words:
+    - word: 口笛
+      position: 1
+      tags:
+        - silent

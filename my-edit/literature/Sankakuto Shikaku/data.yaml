@@ -457,6 +457,8 @@
   words:
     - word: 筆
       position: 1
+      tags:
+        - silent
     - word: 三角
       position: 3
     - word: さん
@@ -681,6 +683,8 @@
     - word: 三
       base: '3'
       position: 1
+      tags:
+        - silent
     - word: ナニ
       base: 何
       position: 3
@@ -794,6 +798,8 @@
   words:
     - word: 筆
       position: 1
+      tags:
+        - silent
     - word: ところ
       base: 所
       position: 3
@@ -823,6 +829,8 @@
     - word: 三
       base: '3'
       position: 1
+      tags:
+        - silent
     - word: ナニ
       base: 何
       position: 3
@@ -866,6 +874,8 @@
   words:
     - word: 筆
       position: 1
+      tags:
+        - silent
     - word: ナニ
       base: 何
       position: 3
@@ -926,6 +936,8 @@
     - word: 三
       base: '3'
       position: 1
+      tags:
+        - silent
     - word: そんな
       position: 3
     - word: ら行
@@ -973,6 +985,8 @@
   words:
     - word: 筆
       position: 1
+      tags:
+        - silent
     - word: いい
       base: 良い
       position: 3
@@ -1195,6 +1209,8 @@
   words:
     - word: 筆
       position: 1
+      tags:
+        - silent
     - word: どう
       position: 3
     - word: だ
@@ -1223,6 +1239,8 @@
     - word: 三
       base: '3'
       position: 1
+      tags:
+        - silent
     - word: なるほど
       base: 成る程
       position: 3
@@ -1609,6 +1627,8 @@
     - word: 三
       base: '3'
       position: 1
+      tags:
+        - silent
     - word: 鋏
       base: はさみ
       position: 3
@@ -1707,6 +1727,8 @@
     - word: 鋏
       base: はさみ
       position: 1
+      tags:
+        - silent
     - word: なるほど
       base: 成る程
       position: 3
@@ -1780,6 +1802,8 @@
     - word: 三
       base: '3'
       position: 1
+      tags:
+        - silent
     - word: ちっと
       base: 一寸
       position: 3
@@ -1833,6 +1857,8 @@
     - word: 鋏
       base: はさみ
       position: 1
+      tags:
+        - silent
     - word: 大抵
       position: 3
     - word: な
@@ -1910,6 +1936,8 @@
     - word: 三
       base: '3'
       position: 1
+      tags:
+        - silent
     - word: そう
       position: 3
     - word: か
@@ -3337,6 +3365,8 @@
     - word: 三
       base: '3'
       position: 1
+      tags:
+        - silent
     - word: ヒヤー
       position: 3
     - word: こりゃ

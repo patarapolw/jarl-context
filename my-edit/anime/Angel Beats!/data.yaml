@@ -18108,9 +18108,13 @@
     - word: おっ
       base: 御
       position: 3
+      tags:
+        - silent
     - word: す
       base: 為る
       position: 5
+      tags:
+        - silent
 - id: Angel_Beats!_2_314_0.18.50.640
   deck_name: Angel Beats!
   translation: Alright, prepare the explosives!
@@ -32313,6 +32317,8 @@
       base: fight
       dictionary: fight
       position: 5
+      tags:
+        - silent
     - word: おお
       position: 13
     - word: おぉ
@@ -32385,6 +32391,8 @@
       position: 3
     - word: play ball
       position: 7
+      tags:
+        - silent
 - id: Angel_Beats!_4_252_0.12.36.620
   deck_name: Angel Beats!
   translation: So we're going for a called game?
@@ -33868,6 +33876,8 @@
       position: 3
     - word: play ball
       position: 7
+      tags:
+        - silent
 - id: Angel_Beats!_4_319_0.16.20.850
   deck_name: Angel Beats!
   translation: Home run!
@@ -35612,10 +35622,14 @@
       base: 死ぬ
       dictionary: 死ぬ
       position: 1
+      tags:
+        - silent
     - word: 死ね
       base: 死ぬ
       dictionary: 死ぬ
       position: 4
+      tags:
+        - silent
 - id: Angel_Beats!_4_402_0.22.03.230
   deck_name: Angel Beats!
   translation: At a time like this...

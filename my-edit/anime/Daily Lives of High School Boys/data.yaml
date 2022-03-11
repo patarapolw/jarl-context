@@ -2558,12 +2558,18 @@
       base: はれる
       dictionary: はれる
       position: 12
+      tags:
+        - silent
     - word: ん
       base: ず
       dictionary: ぬ
       position: 14
+      tags:
+        - silent
     - word: ち
       position: 15
+      tags:
+        - silent
     - word: だ
       position: 17
     - word: よ
@@ -5510,8 +5516,12 @@
       position: 3
     - word: さ
       position: 5
+      tags:
+        - silent
     - word: み
       position: 6
+      tags:
+        - silent
     - word: い
       base: 居る
       dictionary: いる
@@ -7616,6 +7626,8 @@
     - word: はえ
       base: 蠅
       position: 13
+      tags:
+        - silent
     - word: えな
       position: 16
 - id: A_DailyLivesofHighSchoolBoys_S01E02_0310
@@ -9880,6 +9892,8 @@
     - word: あさひ
       base: 朝日
       position: 6
+      tags:
+        - silent
     - word: 町
       position: 10
     - word: の
@@ -10472,15 +10486,23 @@
       position: 6
     - word: さ
       position: 8
+      tags:
+        - silent
     - word: なだ
       base: 灘
       position: 9
+      tags:
+        - silent
     - word: き
       base: 来る
       dictionary: くる
       position: 11
+      tags:
+        - silent
     - word: た
       position: 12
+      tags:
+        - silent
     - word: 高校
       position: 14
     - word: も
@@ -11048,6 +11070,8 @@
     - word: きょうだい
       base: 兄弟
       position: 3
+      tags:
+        - silent
     - word: 仲
       position: 10
     - word: いい
@@ -15127,8 +15151,12 @@
       position: 8
     - word: から
       position: 11
+      tags:
+        - silent
     - word: さわ
       position: 13
+      tags:
+        - silent
     - word: 呼べ
       base: 呼ぶ
       dictionary: 呼ぶ
@@ -16707,8 +16735,12 @@
     - word: たば
       base: 束
       position: 3
+      tags:
+        - silent
     - word: た
       position: 5
+      tags:
+        - silent
     - word: ヒデノリ
       position: 7
     - word: の
@@ -16898,8 +16930,12 @@
       position: 23
     - word: てん
       position: 25
+      tags:
+        - silent
     - word: りゅうじ
       position: 27
+      tags:
+        - silent
     - word: さん
       position: 32
     - word: です
@@ -17307,8 +17343,12 @@
       position: 2
     - word: てん
       position: 4
+      tags:
+        - silent
     - word: げんじ
       position: 6
+      tags:
+        - silent
     - word: です
       position: 10
 - id: A_DailyLivesofHighSchoolBoys_S01E03_0717
@@ -20090,12 +20130,18 @@
       position: 12
     - word: さ
       position: 14
+      tags:
+        - silent
     - word: なだ
       base: 灘
       position: 15
+      tags:
+        - silent
     - word: ひがし
       base: 東
       position: 17
+      tags:
+        - silent
     - word: 女子
       position: 21
     - word: 高
@@ -23346,6 +23392,8 @@
       base: なぐ
       dictionary: なぐ
       position: 3
+      tags:
+        - silent
     - word: さん
       position: 6
 - id: A_DailyLivesofHighSchoolBoys_S01E04_0965
@@ -24939,9 +24987,13 @@
     - word: やま
       base: 山
       position: 17
+      tags:
+        - silent
     - word: うち
       base: 内
       position: 19
+      tags:
+        - silent
     - word: って
       position: 22
     - word: 人
@@ -25365,6 +25417,8 @@
       position: 0
     - word: ごわ
       position: 3
+      tags:
+        - silent
     - word: 中
       position: 6
     - word: だ
@@ -25398,6 +25452,8 @@
       position: 5
     - word: たけ
       position: 7
+      tags:
+        - silent
     - word: え
       base: えー
       position: 10
@@ -26399,9 +26455,13 @@
     - word: え
       base: えー
       position: 3
+      tags:
+        - silent
     - word: いくら
       base: 幾ら
       position: 4
+      tags:
+        - silent
 - id: A_DailyLivesofHighSchoolBoys_S01E05_1100
   deck_name: Daily Lives of High School Boys
   translation: He does  look like him!
@@ -28433,12 +28493,18 @@
     - word: ま
       base: まー
       position: 6
+      tags:
+        - silent
     - word: つい
       position: 7
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
       position: 9
+      tags:
+        - silent
     - word: 兄弟
       position: 11
     - word: や
@@ -28455,8 +28521,12 @@
       position: 19
     - word: た
       position: 22
+      tags:
+        - silent
     - word: ぶち
       position: 23
+      tags:
+        - silent
     - word: を
       position: 26
     - word: 倒し
@@ -29300,6 +29370,8 @@
     - word: わいしょう
       base: 矮小
       position: 11
+      tags:
+        - silent
     - word: な
       base: だ
       dictionary: だ
@@ -33471,6 +33543,8 @@
       base: たくる
       dictionary: たくる
       position: 14
+      tags:
+        - silent
     - word: あっ
       position: 20
     - word: 何
@@ -37238,9 +37312,13 @@
       position: 9
     - word: だい
       position: 11
+      tags:
+        - silent
     - word: ごみ
       base: 塵
       position: 13
+      tags:
+        - silent
     - word: っす
       position: 16
 - id: A_DailyLivesofHighSchoolBoys_S01E07_1574
@@ -38384,6 +38462,8 @@
       position: 2
     - word: たなか
       position: 5
+      tags:
+        - silent
     - word: の
       position: 9
     - word: 泣い
@@ -40963,6 +41043,8 @@
     - word: やなぎ
       base: 柳
       position: 2
+      tags:
+        - silent
     - word: と
       position: 6
     - word: 生島
@@ -41179,12 +41261,20 @@
       position: 2
     - word: おだ
       position: 5
+      tags:
+        - silent
     - word: の
       position: 7
+      tags:
+        - silent
     - word: ぶな
       position: 8
+      tags:
+        - silent
     - word: が
       position: 10
+      tags:
+        - silent
 - id: A_DailyLivesofHighSchoolBoys_S01E07_1711
   deck_name: Daily Lives of High School Boys
   translation: Incorrect!
@@ -41420,8 +41510,12 @@
       position: 11
     - word: は
       position: 14
+      tags:
+        - silent
     - word: ばら
       position: 15
+      tags:
+        - silent
 - id: A_DailyLivesofHighSchoolBoys_S01E07_1723
   deck_name: Daily Lives of High School Boys
   translation: See you next week!
@@ -45049,6 +45143,8 @@
       base: なぐ
       dictionary: なぐ
       position: 15
+      tags:
+        - silent
 - id: A_DailyLivesofHighSchoolBoys_S01E08_1866
   deck_name: Daily Lives of High School Boys
   translation: I'm number two, but, well, studies aren't really my thing.
@@ -45996,6 +46092,8 @@
       position: 3
     - word: たなか
       position: 6
+      tags:
+        - silent
     - word: 何
       position: 11
     - word: を
@@ -51304,6 +51402,8 @@
     - word: やなぎ
       base: 柳
       position: 2
+      tags:
+        - silent
     - word: しっかり
       base: 確り
       position: 7
@@ -51394,8 +51494,12 @@
       position: 15
     - word: は
       position: 18
+      tags:
+        - silent
     - word: ばら
       position: 19
+      tags:
+        - silent
     - word: は
       position: 22
     - word: 徐々
@@ -53014,8 +53118,12 @@
     - word: やま
       base: 山
       position: 12
+      tags:
+        - silent
     - word: だ
       position: 14
+      tags:
+        - silent
     - word: が
       position: 16
     - word: さ
@@ -54363,6 +54471,8 @@
     - word: やなぎ
       base: 柳
       position: 7
+      tags:
+        - silent
 - id: A_DailyLivesofHighSchoolBoys_S01E10_2272
   deck_name: Daily Lives of High School Boys
   translation: Ikushima...
@@ -55439,8 +55549,12 @@
       position: 0
     - word: から
       position: 3
+      tags:
+        - silent
     - word: さわ
       position: 5
+      tags:
+        - silent
 - id: A_DailyLivesofHighSchoolBoys_S01E11_2317
   deck_name: Daily Lives of High School Boys
   translation: Have you seen Yoshitake anywhere?
@@ -55719,6 +55833,8 @@
     - word: こえ
       base: 声
       position: 2
+      tags:
+        - silent
     - word: え
       base: えー
       position: 5
@@ -57757,6 +57873,8 @@
     - word: きゅう
       base: 急
       position: 20
+      tags:
+        - silent
     - word: を
       position: 24
     - word: 据える
@@ -60629,8 +60747,12 @@
       position: 9
     - word: かが
       position: 13
+      tags:
+        - silent
     - word: や
       position: 15
+      tags:
+        - silent
     - word: さん
       position: 17
 - id: A_DailyLivesofHighSchoolBoys_S01E12_2528
@@ -62019,15 +62141,23 @@
       position: 2
     - word: さ
       position: 4
+      tags:
+        - silent
     - word: なだ
       base: 灘
       position: 5
+      tags:
+        - silent
     - word: き
       base: 来る
       dictionary: くる
       position: 7
+      tags:
+        - silent
     - word: た
       position: 8
+      tags:
+        - silent
     - word: 高
       position: 10
     - word: 生徒
@@ -63142,6 +63272,8 @@
     - word: やなぎ
       base: 柳
       position: 16
+      tags:
+        - silent
     - word: 生島
       position: 21
     - word: 羽原

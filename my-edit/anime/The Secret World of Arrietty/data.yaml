@@ -75,6 +75,8 @@
       position: 0
     - word: ハル
       position: 3
+      tags:
+        - silent
     - word: さん
       position: 6
     - word: ったら
@@ -124,6 +126,8 @@
   words:
     - word: ハル
       position: 1
+      tags:
+        - silent
     - word: さん
       position: 4
     - word: また
@@ -148,6 +152,8 @@
   words:
     - word: 翔
       position: 1
+      tags:
+        - silent
     - word: さん
       position: 3
     - word: どこ
@@ -197,6 +203,8 @@
   words:
     - word: アリエッティ
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 9
 - id: A_Arrietty_012
@@ -1148,6 +1156,8 @@
   words:
     - word: アリエッティ
       position: 1
+      tags:
+        - silent
     - word: も
       position: 8
     - word: もう
@@ -1283,6 +1293,8 @@
       position: 9
     - word: ハル
       position: 12
+      tags:
+        - silent
     - word: さん
       position: 15
     - word: に
@@ -1311,6 +1323,8 @@
   words:
     - word: ハル
       position: 1
+      tags:
+        - silent
     - word: さん
       position: 4
     - word: お
@@ -1612,6 +1626,8 @@
       position: 2
     - word: アリエッティ
       position: 4
+      tags:
+        - silent
     - word: が
       position: 11
     - word: 持っ
@@ -2670,6 +2686,8 @@
   words:
     - word: アリエッティ
       position: 1
+      tags:
+        - silent
     - word: お
       base: 御
       position: 9
@@ -2796,6 +2814,8 @@
   words:
     - word: 翔
       position: 1
+      tags:
+        - silent
     - word: さん
       position: 3
 - id: A_Arrietty_120
@@ -3179,6 +3199,8 @@
       position: 0
     - word: アリエッティ
       position: 7
+      tags:
+        - silent
 - id: A_Arrietty_137
   deck_name: The Secret World of Arrietty
   translation: I wanted to hang everything while the sun's out.
@@ -3643,6 +3665,8 @@
   words:
     - word: アリエッティ
       position: 1
+      tags:
+        - silent
     - word: よ
       position: 8
 - id: A_Arrietty_156
@@ -3967,6 +3991,8 @@
       position: 0
     - word: ハル
       position: 7
+      tags:
+        - silent
     - word: さん
       position: 10
     - word: 僕
@@ -4539,6 +4565,8 @@
       position: 0
     - word: ハル
       position: 4
+      tags:
+        - silent
     - word: さん
       position: 7
     - word: が
@@ -5462,6 +5490,8 @@
   words:
     - word: ハル
       position: 1
+      tags:
+        - silent
     - word: さん
       position: 4
     - word: 電気
@@ -5645,6 +5675,8 @@
   words:
     - word: ハル
       position: 1
+      tags:
+        - silent
     - word: さん
       position: 4
     - word: そこ
@@ -6053,6 +6085,8 @@
       position: 11
     - word: スピラー
       position: 14
+      tags:
+        - silent
     - word: が
       position: 19
     - word: 助け
@@ -6287,6 +6321,8 @@
       position: 14
     - word: スピラー
       position: 16
+      tags:
+        - silent
     - word: に
       position: 21
     - word: お
@@ -6321,6 +6357,8 @@
       position: 0
     - word: スピラー
       position: 7
+      tags:
+        - silent
     - word: お
       base: 御
       position: 13
@@ -6788,6 +6826,8 @@
       position: 17
     - word: スピラー
       position: 20
+      tags:
+        - silent
     - word: が
       position: 25
     - word: 現れ
@@ -6992,6 +7032,8 @@
   words:
     - word: スピラー
       position: 1
+      tags:
+        - silent
     - word: に
       position: 6
     - word: 仲間
@@ -7078,6 +7120,8 @@
   words:
     - word: ハル
       position: 1
+      tags:
+        - silent
     - word: さん
       position: 4
 - id: A_Arrietty_288
@@ -7088,6 +7132,8 @@
   words:
     - word: アリエッティ
       position: 1
+      tags:
+        - silent
     - word: もう
       position: 9
     - word: 少し
@@ -7705,6 +7751,8 @@
       position: 2
     - word: ホミリー
       position: 4
+      tags:
+        - silent
     - word: ドール
       position: 10
     - word: ハウス
@@ -8472,6 +8520,8 @@
       position: 8
     - word: スピラー
       position: 12
+      tags:
+        - silent
     - word: も
       position: 17
     - word: 言っ
@@ -8509,6 +8559,8 @@
   words:
     - word: スピラー
       position: 1
+      tags:
+        - silent
     - word: は
       position: 6
     - word: 他
@@ -9987,6 +10039,8 @@
   words:
     - word: ハル
       position: 1
+      tags:
+        - silent
     - word: さん
       position: 4
     - word: が
@@ -10251,6 +10305,8 @@
       position: 2
     - word: アリエッティ
       position: 8
+      tags:
+        - silent
 - id: A_Arrietty_418
   deck_name: The Secret World of Arrietty
   translation: Here I am, Arrietty!
@@ -10265,6 +10321,8 @@
       position: 3
     - word: アリエッティ
       position: 7
+      tags:
+        - silent
 - id: A_Arrietty_419
   deck_name: The Secret World of Arrietty
   translation: Mother!
@@ -10417,10 +10475,14 @@
       position: 8
     - word: ハル
       position: 11
+      tags:
+        - silent
     - word: さん
       position: 14
     - word: ハル
       position: 18
+      tags:
+        - silent
     - word: さん
       position: 21
     - word: はーい
@@ -10570,6 +10632,8 @@
   words:
     - word: ハル
       position: 1
+      tags:
+        - silent
     - word: さん
       position: 4
     - word: 何
@@ -10790,6 +10854,8 @@
   words:
     - word: ハル
       position: 1
+      tags:
+        - silent
     - word: さん
       position: 4
     - word: 業者
@@ -10993,6 +11059,8 @@
   words:
     - word: ハル
       position: 1
+      tags:
+        - silent
     - word: さん
       position: 4
     - word: どう
@@ -11121,6 +11189,8 @@
   words:
     - word: ハル
       position: 1
+      tags:
+        - silent
     - word: さん
       position: 4
     - word: は
@@ -11420,6 +11490,8 @@
   words:
     - word: スピラー
       position: 1
+      tags:
+        - silent
     - word: と
       position: 6
     - word: の
@@ -12111,6 +12183,8 @@
       position: 9
     - word: アリエッティ
       position: 12
+      tags:
+        - silent
 - id: A_Arrietty_505
   deck_name: The Secret World of Arrietty
   translation: I'll never forget you, ever.

@@ -9,6 +9,8 @@
       position: 0
     - word: トトロ
       position: 6
+      tags:
+        - silent
     - word: ね
       position: 10
 - id: A_TonarinoTotoro_001
@@ -70,6 +72,8 @@
   words:
     - word: メイ
       position: 1
+      tags:
+        - silent
     - word: 隠れ
       base: 隠れる
       dictionary: 隠れる
@@ -155,6 +159,8 @@
   words:
     - word: 草壁
       position: 1
+      tags:
+        - silent
     - word: です
       position: 4
     - word: 引っ越し
@@ -250,6 +256,8 @@
       position: 0
     - word: メイ
       position: 5
+      tags:
+        - silent
     - word: 待っ
       base: 待つ
       dictionary: 待つ
@@ -264,6 +272,8 @@
   words:
     - word: メイ
       position: 1
+      tags:
+        - silent
     - word: 橋
       position: 5
     - word: が
@@ -428,6 +438,8 @@
   words:
     - word: メイ
       position: 1
+      tags:
+        - silent
     - word: 見
       base: 見る
       dictionary: 見る
@@ -716,6 +728,8 @@
       position: 0
     - word: メイ
       position: 5
+      tags:
+        - silent
     - word: リス
       base: 栗鼠
       position: 9
@@ -767,6 +781,8 @@
     - word: サツキ
       base: 五月
       position: 16
+      tags:
+        - silent
     - word: 裏
       position: 21
     - word: の
@@ -1268,6 +1284,8 @@
       position: 4
     - word: メイ
       position: 8
+      tags:
+        - silent
     - word: も
       position: 11
 - id: A_TonarinoTotoro_065
@@ -1321,6 +1339,8 @@
       position: 0
     - word: メイ
       position: 5
+      tags:
+        - silent
     - word: あっ
       base: 有る
       dictionary: ある
@@ -1601,6 +1621,8 @@
     - word: サツキ
       base: 五月
       position: 1
+      tags:
+        - silent
     - word: に
       position: 5
     - word: 妹
@@ -1609,6 +1631,8 @@
       position: 8
     - word: メイ
       position: 10
+      tags:
+        - silent
     - word: です
       position: 13
     - word: こんにちは
@@ -1771,6 +1795,8 @@
   words:
     - word: メイ
       position: 1
+      tags:
+        - silent
     - word: 手
       position: 5
     - word: 真っ黒
@@ -1825,6 +1851,8 @@
       position: 0
     - word: メイ
       position: 3
+      tags:
+        - silent
     - word: の
       position: 6
     - word: 足
@@ -2189,6 +2217,8 @@
   words:
     - word: メイ
       position: 1
+      tags:
+        - silent
     - word: みんな
       base: 皆
       position: 5
@@ -2252,6 +2282,8 @@
   words:
     - word: メイ
       position: 1
+      tags:
+        - silent
     - word: 怖く
       base: 怖い
       dictionary: 怖い
@@ -2364,6 +2396,8 @@
       position: 1
     - word: メイ
       position: 5
+      tags:
+        - silent
     - word: も
       position: 8
     - word: 行く
@@ -2376,6 +2410,8 @@
   words:
     - word: メイ
       position: 1
+      tags:
+        - silent
     - word: は
       position: 4
     - word: そこ
@@ -2492,6 +2528,8 @@
   words:
     - word: カンタ
       position: 1
+      tags:
+        - silent
     - word: か
       position: 6
     - word: 母ちゃん
@@ -2544,6 +2582,8 @@
   words:
     - word: カンタ
       position: 1
+      tags:
+        - silent
     - word: か
       position: 5
 - id: A_TonarinoTotoro_113
@@ -2797,6 +2837,8 @@
   words:
     - word: メイ
       position: 1
+      tags:
+        - silent
     - word: 怖く
       base: 怖い
       dictionary: 怖い
@@ -3028,6 +3070,8 @@
       position: 1
     - word: メイ
       position: 8
+      tags:
+        - silent
     - word: よく
       base: 良く
       position: 12
@@ -3270,6 +3314,8 @@
       position: 4
     - word: メイ
       position: 7
+      tags:
+        - silent
     - word: うん
       position: 12
 - id: A_TonarinoTotoro_145
@@ -3320,10 +3366,14 @@
     - word: サツキ
       base: 五月
       position: 1
+      tags:
+        - silent
     - word: と
       position: 5
     - word: メイ
       position: 7
+      tags:
+        - silent
     - word: は
       position: 10
     - word: 好き
@@ -3336,6 +3386,8 @@
   words:
     - word: メイ
       position: 1
+      tags:
+        - silent
     - word: 怖く
       base: 怖い
       dictionary: 怖い
@@ -3356,6 +3408,8 @@
       position: 0
     - word: メイ
       position: 6
+      tags:
+        - silent
     - word: の
       position: 9
     - word: 髪の毛
@@ -3363,6 +3417,8 @@
     - word: サツキ
       base: 五月
       position: 15
+      tags:
+        - silent
     - word: が
       position: 19
     - word: 結っ
@@ -3398,6 +3454,8 @@
       position: 11
     - word: メイ
       position: 14
+      tags:
+        - silent
 - id: A_TonarinoTotoro_150
   deck_name: My Neighbor Totoro
   translation: But she always gets mad at me.
@@ -3430,6 +3488,8 @@
   words:
     - word: メイ
       position: 1
+      tags:
+        - silent
     - word: が
       position: 4
     - word: おとなしく
@@ -3455,6 +3515,8 @@
     - word: サツキ
       base: 五月
       position: 1
+      tags:
+        - silent
     - word: おい
       position: 6
     - word: で
@@ -3498,10 +3560,14 @@
   words:
     - word: メイ
       position: 1
+      tags:
+        - silent
     - word: も
       position: 4
     - word: メイ
       position: 8
+      tags:
+        - silent
     - word: も
       position: 11
     - word: 順番
@@ -3703,6 +3769,8 @@
       position: 0
     - word: メイ
       position: 3
+      tags:
+        - silent
     - word: の
       position: 6
     - word: 明日
@@ -3741,6 +3809,8 @@
       position: 1
     - word: メイ
       position: 6
+      tags:
+        - silent
     - word: の
       position: 9
     - word: お
@@ -3772,6 +3842,8 @@
       position: 0
     - word: メイ
       position: 5
+      tags:
+        - silent
     - word: は
       position: 8
     - word: 大きく
@@ -3974,6 +4046,8 @@
       position: 0
     - word: メイ
       position: 4
+      tags:
+        - silent
     - word: の
       position: 7
     - word: ね
@@ -3986,10 +4060,14 @@
   words:
     - word: メイ
       position: 1
+      tags:
+        - silent
     - word: の
       position: 4
     - word: メイ
       position: 9
+      tags:
+        - silent
     - word: 座っ
       base: 座る
       dictionary: 座る
@@ -4029,6 +4107,8 @@
     - word: サツキ
       base: 五月
       position: 1
+      tags:
+        - silent
     - word: ちゃん
       position: 5
 - id: A_TonarinoTotoro_175
@@ -4070,6 +4150,8 @@
     - word: サツキ
       base: 五月
       position: 15
+      tags:
+        - silent
     - word: ちゃん
       position: 19
     - word: だ
@@ -4086,6 +4168,8 @@
       position: 0
     - word: みっ
       position: 4
+      tags:
+        - silent
     - word: ちゃん
       position: 7
     - word: って
@@ -4186,6 +4270,8 @@
   words:
     - word: メイ
       position: 1
+      tags:
+        - silent
     - word: お
       base: 御
       position: 5
@@ -4329,11 +4415,15 @@
   words:
     - word: トトロ
       position: 1
+      tags:
+        - silent
     - word: あなた
       base: 貴方
       position: 8
     - word: トトロ
       position: 13
+      tags:
+        - silent
     - word: って
       position: 17
     - word: いう
@@ -4389,10 +4479,14 @@
       position: 11
     - word: メイ
       position: 15
+      tags:
+        - silent
     - word: は
       position: 18
     - word: みっ
       position: 22
+      tags:
+        - silent
     - word: ちゃん
       position: 25
     - word: 家
@@ -4428,6 +4522,8 @@
       position: 7
     - word: メイ
       position: 10
+      tags:
+        - silent
     - word: 庭
       position: 14
     - word: で
@@ -4459,6 +4555,8 @@
       position: 1
     - word: メイ
       position: 7
+      tags:
+        - silent
     - word: の
       position: 10
     - word: 帽子
@@ -4479,6 +4577,8 @@
   words:
     - word: メイ
       position: 1
+      tags:
+        - silent
     - word: こら
       base: 此れ
       position: 6
@@ -4522,10 +4622,14 @@
   words:
     - word: トトロ
       position: 1
+      tags:
+        - silent
     - word: は
       position: 5
     - word: トトロ
       position: 9
+      tags:
+        - silent
 - id: A_TonarinoTotoro_201
   deck_name: My Neighbor Totoro
   translation: Huh? Where?
@@ -4558,6 +4662,8 @@
       position: 4
     - word: トトロ
       position: 8
+      tags:
+        - silent
     - word: い
       base: 居る
       dictionary: いる
@@ -4579,6 +4685,8 @@
   words:
     - word: トトロ
       position: 1
+      tags:
+        - silent
     - word: って
       position: 5
     - word: 絵本
@@ -4612,6 +4720,8 @@
       position: 0
     - word: トトロ
       position: 4
+      tags:
+        - silent
     - word: って
       position: 8
     - word: ちゃんと
@@ -4736,6 +4846,8 @@
       position: 1
     - word: メイ
       position: 6
+      tags:
+        - silent
     - word: ここ
       base: 此処
       position: 10
@@ -4743,6 +4855,8 @@
       position: 12
     - word: トトロ
       position: 15
+      tags:
+        - silent
     - word: に
       position: 19
     - word: 会っ
@@ -4766,6 +4880,8 @@
   words:
     - word: トトロ
       position: 1
+      tags:
+        - silent
     - word: うん
       position: 7
 - id: A_TonarinoTotoro_209
@@ -4874,6 +4990,8 @@
       position: 0
     - word: メイ
       position: 4
+      tags:
+        - silent
     - word: 戻っ
       base: 戻る
       dictionary: 戻る
@@ -4908,6 +5026,8 @@
       position: 11
     - word: トトロ
       position: 13
+      tags:
+        - silent
     - word: い
       base: 居る
       dictionary: いる
@@ -4949,6 +5069,8 @@
   words:
     - word: メイ
       position: 1
+      tags:
+        - silent
     - word: ウソ
       base: うそ
       position: 6
@@ -4981,10 +5103,14 @@
     - word: サツキ
       base: 五月
       position: 10
+      tags:
+        - silent
     - word: も
       position: 14
     - word: メイ
       position: 17
+      tags:
+        - silent
     - word: が
       position: 20
     - word: ウソつき
@@ -5016,6 +5142,8 @@
   words:
     - word: メイ
       position: 1
+      tags:
+        - silent
     - word: は
       position: 4
     - word: きっと
@@ -5154,6 +5282,8 @@
       position: 0
     - word: メイ
       position: 4
+      tags:
+        - silent
     - word: も
       position: 7
     - word: 重く
@@ -5595,6 +5725,8 @@
       position: 2
     - word: みっ
       position: 5
+      tags:
+        - silent
     - word: ちゃん
       position: 8
     - word: 家
@@ -5622,6 +5754,8 @@
   words:
     - word: メイ
       position: 1
+      tags:
+        - silent
     - word: も
       position: 4
     - word: 行く
@@ -5648,6 +5782,8 @@
   words:
     - word: メイ
       position: 1
+      tags:
+        - silent
     - word: が
       position: 4
     - word: お
@@ -5777,6 +5913,8 @@
   words:
     - word: カンタ
       position: 1
+      tags:
+        - silent
     - word: 早く
       base: 早い
       dictionary: 早い
@@ -5814,6 +5952,8 @@
     - word: サツキ
       base: 五月
       position: 8
+      tags:
+        - silent
     - word: さん
       position: 12
 - id: A_TonarinoTotoro_254
@@ -5832,6 +5972,8 @@
       position: 3
     - word: メイ
       position: 8
+      tags:
+        - silent
 - id: A_TonarinoTotoro_255
   deck_name: My Neighbor Totoro
   translation: I'm sorry. She insisted that she be with you.
@@ -5883,6 +6025,8 @@
       position: 1
     - word: メイ
       position: 6
+      tags:
+        - silent
     - word: 今日
       position: 10
     - word: は
@@ -6058,6 +6202,8 @@
     - word: サツキ
       base: 五月
       position: 1
+      tags:
+        - silent
     - word: さん
       position: 5
     - word: の
@@ -6134,6 +6280,8 @@
       position: 3
     - word: トトロ
       position: 8
+      tags:
+        - silent
     - word: だ
       position: 12
     - word: よ
@@ -6228,6 +6376,8 @@
   words:
     - word: メイ
       position: 1
+      tags:
+        - silent
     - word: 急い
       base: 急ぐ
       dictionary: 急ぐ
@@ -6270,6 +6420,8 @@
   words:
     - word: メイ
       position: 1
+      tags:
+        - silent
     - word: 泣か
       base: 泣く
       dictionary: 泣く
@@ -6422,6 +6574,8 @@
   words:
     - word: メイ
       position: 1
+      tags:
+        - silent
     - word: も
       position: 4
     - word: お
@@ -6572,12 +6726,16 @@
     - word: サツキ
       base: 五月
       position: 4
+      tags:
+        - silent
     - word: さん
       position: 8
     - word: あっ
       position: 11
     - word: メイ
       position: 15
+      tags:
+        - silent
     - word: ちゃん
       position: 18
     - word: も
@@ -6655,6 +6813,8 @@
       position: 5
     - word: カンタ
       position: 8
+      tags:
+        - silent
     - word: さん
       position: 12
     - word: が
@@ -6711,6 +6871,8 @@
   words:
     - word: メイ
       position: 1
+      tags:
+        - silent
     - word: も
       position: 4
     - word: い
@@ -6738,6 +6900,8 @@
       position: 20
     - word: カンタ
       position: 22
+      tags:
+        - silent
     - word: さん
       position: 26
     - word: が
@@ -6870,6 +7034,8 @@
   words:
     - word: メイ
       position: 1
+      tags:
+        - silent
     - word: ちゃん
       position: 4
     - word: バイバイ
@@ -7000,6 +7166,8 @@
   words:
     - word: メイ
       position: 1
+      tags:
+        - silent
     - word: は
       position: 4
     - word: お
@@ -7044,6 +7212,8 @@
   words:
     - word: メイ
       position: 1
+      tags:
+        - silent
     - word: 眠い
       position: 5
     - word: の
@@ -7171,6 +7341,8 @@
       position: 0
     - word: メイ
       position: 4
+      tags:
+        - silent
     - word: が
       position: 7
     - word: 落ち
@@ -7223,6 +7395,8 @@
   words:
     - word: トトロ
       position: 1
+      tags:
+        - silent
     - word: お
       base: 御
       position: 6
@@ -7433,6 +7607,8 @@
       position: 5
     - word: トトロ
       position: 9
+      tags:
+        - silent
     - word: に
       position: 13
     - word: 会っ
@@ -7617,6 +7793,8 @@
       position: 3
     - word: トトロ
       position: 6
+      tags:
+        - silent
     - word: なら
       base: だ
       dictionary: だ
@@ -7690,6 +7868,8 @@
   words:
     - word: メイ
       position: 1
+      tags:
+        - silent
     - word: 私
       position: 5
     - word: 達
@@ -7787,6 +7967,8 @@
   words:
     - word: 草壁
       position: 1
+      tags:
+        - silent
     - word: さん
       position: 4
     - word: 電報
@@ -7795,6 +7977,8 @@
       position: 9
     - word: 草壁
       position: 14
+      tags:
+        - silent
     - word: さん
       position: 17
 - id: A_TonarinoTotoro_333
@@ -8108,6 +8292,8 @@
   words:
     - word: メイ
       position: 1
+      tags:
+        - silent
     - word: の
       position: 4
     - word: お
@@ -8250,6 +8436,8 @@
   words:
     - word: メイ
       position: 1
+      tags:
+        - silent
     - word: が
       position: 4
     - word: 取っ
@@ -8563,6 +8751,8 @@
   words:
     - word: カンタ
       position: 1
+      tags:
+        - silent
     - word: 本家
       position: 6
     - word: へ
@@ -8605,6 +8795,8 @@
   words:
     - word: メイ
       position: 1
+      tags:
+        - silent
     - word: ちゃん
       position: 4
     - word: は
@@ -8628,6 +8820,8 @@
   words:
     - word: メイ
       position: 1
+      tags:
+        - silent
     - word: お
       base: 御
       position: 6
@@ -8722,6 +8916,8 @@
       position: 7
     - word: カンタ
       position: 11
+      tags:
+        - silent
 - id: A_TonarinoTotoro_367
   deck_name: My Neighbor Totoro
   translation: Hello? Yes?
@@ -8759,6 +8955,8 @@
       position: 19
     - word: 草壁
       position: 24
+      tags:
+        - silent
     - word: を
       position: 27
     - word: お
@@ -8784,9 +8982,13 @@
       position: 0
     - word: 草壁
       position: 3
+      tags:
+        - silent
     - word: サツキ
       base: 五月
       position: 7
+      tags:
+        - silent
     - word: です
       position: 11
     - word: はい
@@ -8809,6 +9011,8 @@
     - word: サツキ
       base: 五月
       position: 12
+      tags:
+        - silent
 - id: A_TonarinoTotoro_371
   deck_name: My Neighbor Totoro
   translation: Hello, what's up? From the hospital?
@@ -9067,6 +9271,8 @@
   words:
     - word: メイ
       position: 1
+      tags:
+        - silent
     - word: お
       base: 御
       position: 5
@@ -9236,6 +9442,8 @@
   words:
     - word: メイ
       position: 1
+      tags:
+        - silent
     - word: の
       position: 4
     - word: バカ
@@ -9547,6 +9755,8 @@
     - word: サツキ
       base: 五月
       position: 1
+      tags:
+        - silent
     - word: ちゃん
       position: 5
 - id: A_TonarinoTotoro_396
@@ -9693,6 +9903,8 @@
   words:
     - word: メイ
       position: 1
+      tags:
+        - silent
     - word: ちゃん
       position: 4
 - id: A_TonarinoTotoro_401
@@ -9703,6 +9915,8 @@
   words:
     - word: メイ
       position: 1
+      tags:
+        - silent
     - word: 戻っ
       base: 戻る
       dictionary: 戻る
@@ -9784,6 +9998,8 @@
       position: 0
     - word: メイ
       position: 4
+      tags:
+        - silent
     - word: と
       position: 7
     - word: ケンカ
@@ -9803,6 +10019,8 @@
       position: 16
     - word: メイ
       position: 19
+      tags:
+        - silent
     - word: ったら
       base: たら
       position: 22
@@ -9899,6 +10117,8 @@
   words:
     - word: カンタ
       position: 1
+      tags:
+        - silent
     - word: 早く
       base: 早い
       dictionary: 早い
@@ -9918,6 +10138,8 @@
       position: 18
     - word: メイ
       position: 23
+      tags:
+        - silent
     - word: ちゃん
       position: 26
     - word: が
@@ -10344,6 +10566,8 @@
       position: 8
     - word: 松郷
       position: 12
+      tags:
+        - silent
     - word: です
       position: 15
 - id: A_TonarinoTotoro_424
@@ -10354,6 +10578,8 @@
   words:
     - word: 松郷
       position: 1
+      tags:
+        - silent
     - word: 何
       position: 7
     - word: か
@@ -10470,6 +10696,8 @@
   words:
     - word: メイ
       position: 1
+      tags:
+        - silent
     - word: は
       position: 4
     - word: 病院
@@ -10546,6 +10774,8 @@
       position: 0
     - word: メイ
       position: 3
+      tags:
+        - silent
     - word: の
       position: 6
     - word: もの
@@ -10664,6 +10894,8 @@
     - word: サツキ
       base: 五月
       position: 7
+      tags:
+        - silent
     - word: ちゃん
       position: 11
     - word: が
@@ -10715,6 +10947,8 @@
   words:
     - word: メイ
       position: 1
+      tags:
+        - silent
     - word: ん
       base: の
       position: 4
@@ -10747,6 +10981,8 @@
       position: 12
     - word: メイ
       position: 18
+      tags:
+        - silent
     - word: ちゃん
       position: 21
     - word: の
@@ -10941,6 +11177,8 @@
       position: 1
     - word: トトロ
       position: 6
+      tags:
+        - silent
     - word: の
       position: 10
     - word: 所
@@ -10955,6 +11193,8 @@
       position: 15
     - word: メイ
       position: 18
+      tags:
+        - silent
     - word: が
       position: 21
     - word: 迷子
@@ -11026,8 +11266,12 @@
   words:
     - word: トトロ
       position: 1
+      tags:
+        - silent
     - word: メイ
       position: 8
+      tags:
+        - silent
     - word: が
       position: 11
     - word: 迷子
@@ -11076,6 +11320,8 @@
       position: 1
     - word: メイ
       position: 5
+      tags:
+        - silent
     - word: を
       position: 8
     - word: 捜し
@@ -11192,6 +11438,8 @@
   words:
     - word: メイ
       position: 1
+      tags:
+        - silent
     - word: お
       base: 御
       position: 6
@@ -11208,6 +11456,8 @@
       position: 0
     - word: メイ
       position: 4
+      tags:
+        - silent
     - word: ごめん
       base: 御免
       position: 9
@@ -11504,6 +11754,8 @@
     - word: サツキ
       base: 五月
       position: 1
+      tags:
+        - silent
     - word: なんか
       position: 5
     - word: 聞き分け
@@ -11725,10 +11977,14 @@
     - word: サツキ
       base: 五月
       position: 11
+      tags:
+        - silent
     - word: と
       position: 15
     - word: メイ
       position: 17
+      tags:
+        - silent
     - word: が
       position: 20
     - word: 笑っ
@@ -11798,6 +12054,8 @@
   words:
     - word: メイ
       position: 1
+      tags:
+        - silent
     - word: の
       position: 4
     - word: バカ

@@ -1,3 +1,94 @@
+- id: A_ReZeroS01_E01_0008
+  deck_name: Re Zero − Starting Life in Another World
+  translation: Oh, a grooved-edge ten.
+  sound: A_ReZeroS01_E01_1_0.00.54.720-0.00.56.720.mp3
+  sentence: おっ　ギザ十(じゅう)
+  words:
+    - word: おっ
+      position: 0
+    - word: ギザ
+      position: 3
+    - word: 十
+      base: '10'
+      position: 5
+    - word: じゅう
+      base: 銃
+      position: 7
+      tags:
+        - silent
+- id: A_ReZeroS01_E02_0746
+  deck_name: Re Zero − Starting Life in Another World
+  translation: It hurts... It hurts...
+  sound: A_ReZeroS01_E02_1_0.03.25.780-0.03.26.830.mp3
+  sentence: んっ…　違(ちげ)えよ　冗談じゃねえ　痛え…　痛い…
+  words:
+    - word: んっ
+      position: 0
+    - word: 違
+      position: 4
+    - word: ち
+      position: 6
+      tags:
+        - silent
+    - word: げ
+      position: 7
+      tags:
+        - silent
+    - word: えよ
+      base: 得る
+      dictionary: える
+      position: 9
+    - word: 冗談
+      position: 12
+    - word: じゃ
+      base: だ
+      dictionary: だ
+      position: 14
+    - word: ねえ
+      base: 無い
+      dictionary: ない
+      position: 16
+    - word: 痛え
+      base: 痛い
+      dictionary: 痛い
+      position: 19
+    - word: 痛い
+      position: 23
+- id: A_ReZeroS01_E06_3691
+  deck_name: Re Zero − Starting Life in Another World
+  translation: That's not quite right. Let me correct you.
+  sound: A_ReZeroS01_E06_1_0.10.48.600-0.10.52.270.mp3
+  sentence: フッ…　ちょと違(ちげ)えよ　訂正するぜ
+  words:
+    - word: フッ
+      base: ふっ
+      position: 0
+    - word: ちょ
+      base: 一寸
+      position: 4
+    - word: と
+      position: 6
+    - word: 違
+      position: 7
+    - word: ち
+      position: 9
+      tags:
+        - silent
+    - word: げ
+      position: 10
+      tags:
+        - silent
+    - word: えよ
+      base: 得る
+      dictionary: える
+      position: 12
+    - word: 訂正
+      position: 15
+    - word: する
+      base: 為る
+      position: 17
+    - word: ぜ
+      position: 19
 - id: A_ReZeroS01_E11_6797
   deck_name: Re Zero − Starting Life in Another World
   translation: (The roar of a white whale)
@@ -6,10 +97,16 @@
   words:
     - word: 白鯨
       position: 1
+      tags:
+        - silent
     - word: の
       position: 3
+      tags:
+        - silent
     - word: 咆哮
       position: 4
+      tags:
+        - silent
 - id: A_ReZeroS01_E11_6800
   deck_name: Re Zero − Starting Life in Another World
   translation: (roar)
@@ -18,6 +115,8 @@
   words:
     - word: 咆哮
       position: 1
+      tags:
+        - silent
 - id: A_ReZeroS01_E11_6813
   deck_name: Re Zero − Starting Life in Another World
   translation: (Roar)
@@ -26,6 +125,8 @@
   words:
     - word: 悲鳴
       position: 1
+      tags:
+        - silent
 - id: A_ReZeroS01_E11_6818
   deck_name: Re Zero − Starting Life in Another World
   translation: （the white whale cries)
@@ -34,10 +135,16 @@
   words:
     - word: 白鯨
       position: 1
+      tags:
+        - silent
     - word: の
       position: 3
+      tags:
+        - silent
     - word: 鳴き声
       position: 4
+      tags:
+        - silent
 - id: A_ReZeroS01_E11_6825
   deck_name: Re Zero − Starting Life in Another World
   translation: (whale cries)
@@ -46,6 +153,8 @@
   words:
     - word: 鳴き声
       position: 1
+      tags:
+        - silent
 - id: A_ReZeroS01_E11_6828
   deck_name: Re Zero − Starting Life in Another World
   translation: (whale cries)
@@ -54,6 +163,8 @@
   words:
     - word: 悲鳴
       position: 1
+      tags:
+        - silent
 - id: A_ReZeroS01_E11_6829
   deck_name: Re Zero − Starting Life in Another World
   translation: (whale groans)
@@ -63,3 +174,5 @@
     - word: うめき声
       base: 呻き声
       position: 1
+      tags:
+        - silent

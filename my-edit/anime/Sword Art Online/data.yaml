@@ -386,14 +386,22 @@
       position: 25
     - word: かや
       position: 28
+      tags:
+        - silent
     - word: ば
       position: 30
+      tags:
+        - silent
     - word: あき
       base: あく
       dictionary: あく
       position: 31
+      tags:
+        - silent
     - word: ひこ
       position: 33
+      tags:
+        - silent
     - word: 氏
       position: 36
     - word: プロデュース
@@ -417,6 +425,8 @@
       position: 6
     - word: バーチャル
       position: 9
+      tags:
+        - silent
     - word: ＭＭＯＲＰＧ
       base: mmorpg
       dictionary: mmorpg
@@ -539,6 +549,8 @@
       position: 18
     - word: もさ
       position: 21
+      tags:
+        - silent
     - word: たち
       base: 達
       position: 24
@@ -2970,8 +2982,12 @@
       position: 4
     - word: ゲーム
       position: 7
+      tags:
+        - silent
     - word: マスター
       position: 10
+      tags:
+        - silent
     - word: コール
       position: 15
     - word: しろ
@@ -3881,6 +3897,8 @@
       position: 2
     - word: テレポート
       position: 5
+      tags:
+        - silent
 - id: SwordArtOnlineS01_E01_0136
   deck_name: Sword Art Online
   translation: Up there.
@@ -6836,6 +6854,8 @@
     - word: わり
       base: 割
       position: 2
+      tags:
+        - silent
     - word: い
       position: 5
 - id: SwordArtOnlineS01_E01_0235
@@ -9008,6 +9028,8 @@
       position: 6
     - word: おの
       position: 8
+      tags:
+        - silent
     - word: と
       position: 11
     - word: バックラー
@@ -9064,6 +9086,8 @@
       position: 24
     - word: きょくとう
       position: 26
+      tags:
+        - silent
     - word: カテゴリ
       base: カテゴリー
       position: 32
@@ -25499,6 +25523,8 @@
     - word: せんこう
       base: 潜航
       position: 12
+      tags:
+        - silent
     - word: の
       position: 17
 - id: SwordArtOnlineS01_E05_0976
@@ -29544,6 +29570,8 @@
       position: 9
     - word: タンク
       position: 12
+      tags:
+        - silent
     - word: です
       position: 16
 - id: SwordArtOnlineS01_E05_1116
@@ -29638,6 +29666,8 @@
       position: 9
     - word: ディフェンダー
       position: 12
+      tags:
+        - silent
     - word: 隊
       position: 20
     - word: の
@@ -30326,6 +30356,8 @@
       position: 35
     - word: フェアネス
       position: 37
+      tags:
+        - silent
     - word: を
       position: 43
     - word: 貫い
@@ -30698,6 +30730,8 @@
     - word: ふくしゅう
       base: 復習
       position: 20
+      tags:
+        - silent
     - word: な
       base: だ
       dictionary: だ
@@ -31000,8 +31034,12 @@
     - word: かた
       base: 方
       position: 10
+      tags:
+        - silent
     - word: き
       position: 12
+      tags:
+        - silent
     - word: を
       position: 14
     - word: 討つ
@@ -31428,6 +31466,8 @@
     - word: ふくしゅう
       base: 復習
       position: 9
+      tags:
+        - silent
     - word: に
       position: 15
     - word: 来
@@ -33220,6 +33260,8 @@
       base: 遣る
       dictionary: やる
       position: 18
+      tags:
+        - silent
     - word: に
       position: 21
     - word: 貫通
@@ -35617,6 +35659,8 @@
     - word: いんぺい
       base: 隠蔽
       position: 8
+      tags:
+        - silent
     - word: と
       position: 13
     - word: か
@@ -42052,6 +42096,8 @@
     - word: はいせつ
       base: 排泄
       position: 21
+      tags:
+        - silent
     - word: 物
       position: 26
     - word: だ
@@ -45725,6 +45771,8 @@
     - word: せんこう
       base: 潜航
       position: 3
+      tags:
+        - silent
     - word: の
       position: 8
     - word: アスナ
@@ -49584,8 +49632,12 @@
     - word: て
       base: で
       position: 3
+      tags:
+        - silent
     - word: だ
       position: 4
+      tags:
+        - silent
     - word: れ
       base: れる
       dictionary: れる
@@ -50574,8 +50626,12 @@
       position: 6
     - word: けん
       position: 9
+      tags:
+        - silent
     - word: さん
       position: 11
+      tags:
+        - silent
     - word: の
       position: 14
     - word: 成果
@@ -53859,6 +53915,8 @@
       position: 18
     - word: ねた
       position: 20
+      tags:
+        - silent
     - word: み
       position: 23
     - word: そねみ
@@ -57732,6 +57790,8 @@
       position: 28
     - word: ノーキン
       position: 31
+      tags:
+        - silent
     - word: だ
       position: 36
     - word: な
@@ -58835,6 +58895,8 @@
       position: 0
     - word: あめ
       position: 2
+      tags:
+        - silent
     - word: えん
       position: 5
     - word: だ
@@ -61458,6 +61520,8 @@
       position: 11
     - word: ウッドクラフト
       position: 14
+      tags:
+        - silent
     - word: の
       position: 22
     - word: プレイヤー
@@ -71678,8 +71742,12 @@
       position: 12
     - word: かや
       position: 15
+      tags:
+        - silent
     - word: ば
       position: 17
+      tags:
+        - silent
 - id: SwordArtOnlineS01_E12_2724
   deck_name: Sword Art Online
   translation: Don't think things will always go your way!
@@ -72781,6 +72849,8 @@
     - word: さお
       base: 竿
       position: 10
+      tags:
+        - silent
     - word: ごと
       position: 13
     - word: 取ら
@@ -78464,14 +78534,22 @@
       position: 7
     - word: かや
       position: 10
+      tags:
+        - silent
     - word: ば
       position: 12
+      tags:
+        - silent
     - word: あき
       base: あく
       dictionary: あく
       position: 13
+      tags:
+        - silent
     - word: ひこ
       position: 15
+      tags:
+        - silent
 - id: SwordArtOnlineS01_E14_2983
   deck_name: Sword Art Online
   translation: For future reference, mind sharing how you figured it out?
@@ -79027,9 +79105,13 @@
       position: 26
     - word: だい
       position: 28
+      tags:
+        - silent
     - word: ごみ
       base: 塵
       position: 30
+      tags:
+        - silent
     - word: と
       position: 33
     - word: 言う
@@ -79095,6 +79177,8 @@
     - word: まひ
       base: 麻痺
       position: 3
+      tags:
+        - silent
 - id: SwordArtOnlineS01_E14_3000
   deck_name: Sword Art Online
   translation: Kirito-kun...
@@ -79153,6 +79237,8 @@
     - word: いんぺい
       base: 隠蔽
       position: 14
+      tags:
+        - silent
     - word: する
       base: 為る
       position: 19
@@ -79237,9 +79323,13 @@
       position: 8
     - word: こうぎょく
       position: 10
+      tags:
+        - silent
     - word: きゅう
       base: 灸
       position: 15
+      tags:
+        - silent
     - word: にて
       position: 19
     - word: 君
@@ -81609,10 +81699,16 @@
       position: 0
     - word: きり
       position: 4
+      tags:
+        - silent
     - word: が
       position: 6
+      tags:
+        - silent
     - word: や
       position: 7
+      tags:
+        - silent
     - word: 桐ヶ谷
       position: 11
     - word: 和人
@@ -81620,8 +81716,12 @@
     - word: かず
       base: 数
       position: 17
+      tags:
+        - silent
     - word: と
       position: 19
+      tags:
+        - silent
 - id: SwordArtOnlineS01_E14_3099
   deck_name: Sword Art Online
   translation: I think I turned sixteen last month.
@@ -81690,8 +81790,12 @@
     - word: ゆうき
       base: 勇気
       position: 10
+      tags:
+        - silent
     - word: あすな
       position: 13
+      tags:
+        - silent
     - word: '17'
       position: 18
     - word: 歳
@@ -82509,6 +82613,8 @@
       position: 5
     - word: エイト
       position: 7
+      tags:
+        - silent
     - word: の
       position: 11
     - word: あたし
@@ -83805,6 +83911,8 @@
       position: 0
     - word: あすな
       position: 4
+      tags:
+        - silent
     - word: さん
       position: 8
     - word: が
@@ -86407,6 +86515,8 @@
       position: 12
     - word: バーチャル
       position: 15
+      tags:
+        - silent
     - word: ＭＭＯ
       base: mmo
       dictionary: mmo
@@ -89414,8 +89524,12 @@
       position: 13
     - word: ゲーム
       position: 16
+      tags:
+        - silent
     - word: マスター
       position: 19
+      tags:
+        - silent
     - word: が
       position: 24
     - word: 直接
@@ -93411,6 +93525,8 @@
       position: 5
     - word: ヒール
       position: 8
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -93583,8 +93699,12 @@
     - word: げん
       base: 弦
       position: 15
+      tags:
+        - silent
     - word: わく
       position: 17
+      tags:
+        - silent
     - word: 魔法
       position: 20
     - word: か
@@ -94820,8 +94940,12 @@
       position: 10
     - word: えっ
       position: 13
+      tags:
+        - silent
     - word: けん
       position: 15
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -96699,6 +96823,8 @@
       base: 凄い
       dictionary: すごい
       position: 3
+      tags:
+        - silent
     - word: さん
       position: 7
 - id: SwordArtOnlineS01_E17_3709
@@ -96761,6 +96887,8 @@
       position: 9
     - word: せんぼう
       position: 12
+      tags:
+        - silent
     - word: を
       position: 17
     - word: 込め
@@ -97502,8 +97630,12 @@
       position: 0
     - word: かや
       position: 3
+      tags:
+        - silent
     - word: ば
       position: 5
+      tags:
+        - silent
     - word: 先輩
       position: 7
     - word: は
@@ -98487,6 +98619,8 @@
     - word: すぐ
       base: 直ぐ
       position: 2
+      tags:
+        - silent
 - id: SwordArtOnlineS01_E18_3775
   deck_name: Sword Art Online
   translation: Kirigaya-san, I had something to tell you, so I waited here all morning.
@@ -99638,6 +99772,8 @@
     - word: よろい
       base: 鎧
       position: 21
+      tags:
+        - silent
     - word: みたい
       position: 25
     - word: に
@@ -99890,6 +100026,8 @@
     - word: は
       base: はあ
       position: 5
+      tags:
+        - silent
     - word: い
       base: いー
       position: 7
@@ -104576,8 +104714,12 @@
     - word: げん
       base: 弦
       position: 9
+      tags:
+        - silent
     - word: わく
       position: 11
+      tags:
+        - silent
     - word: 魔法
       position: 14
     - word: くらい
@@ -106042,8 +106184,12 @@
     - word: て
       base: で
       position: 36
+      tags:
+        - silent
     - word: だ
       position: 37
+      tags:
+        - silent
     - word: れ
       base: れる
       dictionary: れる
@@ -108649,8 +108795,12 @@
       base: なぐ
       dictionary: なぐ
       position: 8
+      tags:
+        - silent
     - word: た
       position: 10
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 12
@@ -108894,8 +109044,12 @@
       position: 10
     - word: ふる
       position: 13
+      tags:
+        - silent
     - word: もり
       position: 15
+      tags:
+        - silent
     - word: エリア
       position: 18
     - word: で
@@ -109557,6 +109711,8 @@
     - word: まひ
       base: 麻痺
       position: 16
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -110662,6 +110818,8 @@
       position: 9
     - word: ようへい
       position: 12
+      tags:
+        - silent
     - word: と
       position: 17
     - word: し
@@ -114255,8 +114413,12 @@
       position: 11
     - word: こう
       position: 14
+      tags:
+        - silent
     - word: じん
       position: 16
+      tags:
+        - silent
     - word: を
       position: 19
     - word: 拝し
@@ -115540,6 +115702,8 @@
       position: 16
     - word: ようへい
       position: 19
+      tags:
+        - silent
     - word: やら
       base: 遣る
       dictionary: やる
@@ -118847,6 +119011,8 @@
     - word: いきち
       base: 閾値
       position: 14
+      tags:
+        - silent
     - word: を
       position: 18
     - word: 超え
@@ -119661,10 +119827,14 @@
     - word: ゆうき
       base: 勇気
       position: 3
+      tags:
+        - silent
     - word: 明日奈
       position: 9
     - word: あすな
       position: 13
+      tags:
+        - silent
     - word: さん
       position: 17
 - id: SwordArtOnlineS01_E21_4572
@@ -119810,6 +119980,8 @@
     - word: せんこう
       base: 潜航
       position: 13
+      tags:
+        - silent
     - word: の
       position: 19
     - word: アスナ
@@ -119972,6 +120144,8 @@
       base: 凄い
       dictionary: すごい
       position: 5
+      tags:
+        - silent
     - word: さん
       position: 9
     - word: の
@@ -120230,6 +120404,8 @@
       position: 21
     - word: こ
       position: 23
+      tags:
+        - silent
     - word: を
       position: 25
     - word: きゃっ
@@ -122280,8 +122456,12 @@
       position: 29
     - word: えっ
       position: 32
+      tags:
+        - silent
     - word: けん
       position: 34
+      tags:
+        - silent
     - word: でき
       base: 出来る
       dictionary: できる
@@ -124400,6 +124580,8 @@
     - word: あまかける
       base: 天翔る
       position: 17
+      tags:
+        - silent
     - word: に
       position: 23
     - word: 足る
@@ -125024,8 +125206,12 @@
     - word: すぐ
       base: 直ぐ
       position: 7
+      tags:
+        - silent
     - word: は
       position: 9
+      tags:
+        - silent
 - id: SwordArtOnlineS01_E22_4791
   deck_name: Sword Art Online
   translation: This is cruel. It's just too much. This...
@@ -125524,6 +125710,8 @@
     - word: きょうだい
       base: 兄弟
       position: 17
+      tags:
+        - silent
     - word: じゃ
       base: だ
       dictionary: だ
@@ -128772,6 +128960,8 @@
       position: 7
     - word: ドラグーン
       position: 10
+      tags:
+        - silent
     - word: 隊
       position: 16
 - id: SwordArtOnlineS01_E23_4947
@@ -130196,6 +130386,8 @@
       base: 凄い
       dictionary: すごい
       position: 3
+      tags:
+        - silent
     - word: か
       position: 7
 - id: SwordArtOnlineS01_E24_5026
@@ -130367,6 +130559,8 @@
     - word: ひきょう
       base: 卑怯
       position: 9
+      tags:
+        - silent
     - word: 者
       position: 14
 - id: SwordArtOnlineS01_E24_5033
@@ -130392,10 +130586,16 @@
       position: 6
     - word: きり
       position: 10
+      tags:
+        - silent
     - word: が
       position: 12
+      tags:
+        - silent
     - word: や
       position: 13
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 15
@@ -130796,6 +130996,8 @@
     - word: わざ
       base: 技
       position: 28
+      tags:
+        - silent
     - word: を
       position: 31
 - id: SwordArtOnlineS01_E24_5045
@@ -131108,6 +131310,8 @@
       position: 3
     - word: あすな
       position: 7
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 11
@@ -131243,6 +131447,8 @@
     - word: は
       base: はあ
       position: 11
+      tags:
+        - silent
     - word: いつ
       position: 13
     - word: くばっ
@@ -132371,6 +132577,8 @@
     - word: メッキ
       base: 鍍金
       position: 9
+      tags:
+        - silent
     - word: の
       position: 13
     - word: 勇者
@@ -134555,6 +134763,8 @@
       position: 0
     - word: あすな
       position: 4
+      tags:
+        - silent
 - id: SwordArtOnlineS01_E25_5220
   deck_name: Sword Art Online
   translation: You're late, Kirito-kun.
@@ -136566,6 +136776,8 @@
       position: 7
     - word: りか
       position: 10
+      tags:
+        - silent
     - word: さん
       position: 13
 - id: SwordArtOnlineS01_E25_5302
@@ -137668,6 +137880,8 @@
     - word: こんとん
       base: 混沌
       position: 12
+      tags:
+        - silent
     - word: って
       position: 17
     - word: 感じ
@@ -138653,6 +138867,8 @@
       base: 押す
       dictionary: おす
       position: 6
+      tags:
+        - silent
     - word: えぞ
       position: 9
     - word: キリト

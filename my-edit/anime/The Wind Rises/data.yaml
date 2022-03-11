@@ -1051,8 +1051,12 @@
       position: 13
     - word: ち
       position: 15
+      tags:
+        - silent
     - word: が
       position: 16
+      tags:
+        - silent
     - word: い
       base: 居る
       dictionary: いる
@@ -2415,6 +2419,8 @@
     - word: ぬ
       base: ず
       position: 4
+      tags:
+        - silent
     - word: い
       base: 居る
       dictionary: いる
@@ -3197,6 +3203,8 @@
       position: 4
     - word: ふ
       position: 6
+      tags:
+        - silent
     - word: い
       base: 居る
       dictionary: いる
@@ -3233,6 +3241,8 @@
       position: 6
     - word: ふ
       position: 8
+      tags:
+        - silent
     - word: い
       base: 居る
       dictionary: いる
@@ -4900,8 +4910,12 @@
       position: 8
     - word: かめ
       position: 10
+      tags:
+        - silent
     - word: はち
       position: 12
+      tags:
+        - silent
     - word: 銀行
       position: 15
     - word: です
@@ -5021,8 +5035,12 @@
     - word: いそ
       base: 磯
       position: 4
+      tags:
+        - silent
     - word: が
       position: 6
+      tags:
+        - silent
     - word: しい
       position: 8
     - word: 時
@@ -6041,8 +6059,12 @@
       position: 3
     - word: ち
       position: 5
+      tags:
+        - silent
     - word: が
       position: 6
+      tags:
+        - silent
     - word: う
       base: うー
       position: 8
@@ -6797,6 +6819,8 @@
     - word: いど
       base: 井戸
       position: 17
+      tags:
+        - silent
     - word: み
       base: 見る
       dictionary: みる
@@ -7705,8 +7729,12 @@
       position: 0
     - word: ち
       position: 2
+      tags:
+        - silent
     - word: が
       position: 3
+      tags:
+        - silent
     - word: う
       base: うう
       position: 5
@@ -7901,6 +7929,8 @@
       position: 25
     - word: はら
       position: 27
+      tags:
+        - silent
     - word: う
       base: うー
       position: 30
@@ -10550,6 +10580,8 @@
       position: 4
     - word: ふ
       position: 6
+      tags:
+        - silent
     - word: い
       base: 居る
       dictionary: いる
@@ -10576,6 +10608,8 @@
       position: 3
     - word: ふ
       position: 5
+      tags:
+        - silent
     - word: い
       base: 居る
       dictionary: いる
@@ -10654,6 +10688,8 @@
       position: 4
     - word: と
       position: 6
+      tags:
+        - silent
     - word: べ
       base: べい
       position: 8
@@ -10669,6 +10705,8 @@
       position: 0
     - word: と
       position: 2
+      tags:
+        - silent
     - word: べ
       base: べい
       position: 4
@@ -11125,6 +11163,8 @@
       position: 8
     - word: さわ
       position: 10
+      tags:
+        - silent
     - word: ぐ
       position: 13
     - word: と
@@ -11140,6 +11180,8 @@
     - word: ぬ
       base: ず
       position: 20
+      tags:
+        - silent
     - word: ける
       base: けり
       dictionary: けり
@@ -11817,8 +11859,12 @@
       position: 0
     - word: だい
       position: 3
+      tags:
+        - silent
     - word: ばっ
       position: 5
+      tags:
+        - silent
     - word: てき
       base: 的
       position: 8
@@ -14410,8 +14456,12 @@
       position: 2
     - word: ち
       position: 4
+      tags:
+        - silent
     - word: が
       position: 5
+      tags:
+        - silent
     - word: い
       base: 居る
       dictionary: いる
@@ -16137,6 +16187,8 @@
     - word: お
       base: おっ
       position: 13
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -16428,6 +16480,8 @@
       position: 3
     - word: ぼう
       position: 5
+      tags:
+        - silent
     - word: とく
       position: 8
     - word: です
@@ -17414,6 +17468,8 @@
     - word: そ
       base: そう
       position: 12
+      tags:
+        - silent
     - word: えれ
       base: 得る
       dictionary: える
@@ -18317,6 +18373,8 @@
     - word: お
       base: おっ
       position: 2
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -19604,6 +19662,8 @@
     - word: そ
       base: そう
       position: 14
+      tags:
+        - silent
     - word: わ
       position: 16
     - word: なけれ
@@ -20131,8 +20191,12 @@
       base: つう
       dictionary: つう
       position: 2
+      tags:
+        - silent
     - word: か
       position: 3
+      tags:
+        - silent
     - word: れ
       base: れる
       dictionary: れる
@@ -21307,12 +21371,18 @@
     - word: あ
       base: あっ
       position: 9
+      tags:
+        - silent
     - word: つ
       base: つう
       dictionary: つう
       position: 10
+      tags:
+        - silent
     - word: か
       position: 11
+      tags:
+        - silent
     - word: う
       base: うー
       position: 13
@@ -22323,8 +22393,12 @@
       base: つう
       dictionary: つう
       position: 3
+      tags:
+        - silent
     - word: か
       position: 4
+      tags:
+        - silent
     - word: れ
       base: れる
       dictionary: れる
@@ -22469,8 +22543,12 @@
       base: つう
       dictionary: つう
       position: 3
+      tags:
+        - silent
     - word: か
       position: 4
+      tags:
+        - silent
     - word: れ
       base: れる
       dictionary: れる
@@ -23391,8 +23469,12 @@
       position: 4
     - word: ち
       position: 6
+      tags:
+        - silent
     - word: が
       position: 7
+      tags:
+        - silent
     - word: う
       base: うー
       position: 9

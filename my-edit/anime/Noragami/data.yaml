@@ -1093,9 +1093,13 @@
       position: 8
     - word: kamigami
       position: 10
+      tags:
+        - silent
     - word: org
       base: ORG
       position: 19
+      tags:
+        - silent
     - word: 制作
       position: 23
     - word: 仅供
@@ -11275,6 +11279,8 @@
       position: 2
     - word: ゆき
       position: 4
+      tags:
+        - silent
     - word: 器
       position: 8
     - word: は
@@ -11284,6 +11290,8 @@
     - word: せつ
       base: 切
       position: 12
+      tags:
+        - silent
 - id: A_Noragami_E02_0519
   deck_name: Noragami
   translation: Come, Sekki!
@@ -14728,6 +14736,8 @@
       position: 2
     - word: ゆき
       position: 4
+      tags:
+        - silent
     - word: 器
       position: 8
     - word: は
@@ -14737,6 +14747,8 @@
     - word: せつ
       base: 切
       position: 12
+      tags:
+        - silent
 - id: A_Noragami_E03_0681
   deck_name: Noragami
   translation: And as a person... Yukine.
@@ -20484,6 +20496,8 @@
     - word: くろ
       base: 黒
       position: 4
+      tags:
+        - silent
     - word: 器
       position: 8
     - word: は
@@ -20492,6 +20506,8 @@
       position: 10
     - word: こく
       position: 12
+      tags:
+        - silent
 - id: A_Noragami_E04_0933
   deck_name: Noragami
   translation: As a person, Daikoku.
@@ -31865,8 +31881,12 @@
     - word: くら
       base: 蔵
       position: 9
+      tags:
+        - silent
     - word: は
       position: 11
+      tags:
+        - silent
     - word: から
       position: 13
     - word: 報告

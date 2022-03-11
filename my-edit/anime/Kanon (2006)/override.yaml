@@ -9,41 +9,73 @@
     - word: これ
       base: 此れ
       position: 1
+      tags:
+        - silent
     - word: より
       position: 3
+      tags:
+        - silent
     - word: は
       position: 5
+      tags:
+        - silent
     - word: 騒ぐ
       position: 6
+      tags:
+        - silent
     - word: こと
       position: 8
+      tags:
+        - silent
     - word: は
       position: 10
+      tags:
+        - silent
     - word: なけれ
       base: 無い
       dictionary: ない
       position: 11
+      tags:
+        - silent
     - word: ど
       position: 14
+      tags:
+        - silent
     - word: 精神
       position: 18
+      tags:
+        - silent
     - word: の
       position: 20
+      tags:
+        - silent
     - word: 作用
       position: 21
+      tags:
+        - silent
     - word: は
       position: 23
+      tags:
+        - silent
     - word: ほとんど
       base: 殆ど
       position: 24
+      tags:
+        - silent
     - word: 全く
       position: 28
+      tags:
+        - silent
     - word: 廃し
       base: 廃する
       dictionary: 廃する
       position: 30
+      tags:
+        - silent
     - word: て
       position: 32
+      tags:
+        - silent
     - word: その
       base: 其の
       position: 36
@@ -74,44 +106,72 @@
   words:
     - word: 医
       position: 1
+      tags:
+        - silent
     - word: に
       position: 2
+      tags:
+        - silent
     - word: 見せ
       base: 見せる
       dictionary: 見せる
       position: 3
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
       position: 5
+      tags:
+        - silent
     - word: に
       position: 6
+      tags:
+        - silent
     - word: 過
       position: 10
+      tags:
+        - silent
     - word: 劇
       position: 11
+      tags:
+        - silent
     - word: なる
       base: なり
       dictionary: なり
       position: 12
+      tags:
+        - silent
     - word: 心労
       position: 14
+      tags:
+        - silent
     - word: にて
       position: 16
+      tags:
+        - silent
     - word: 急
       position: 18
+      tags:
+        - silent
     - word: に
       base: だ
       dictionary: だ
       position: 19
+      tags:
+        - silent
     - word: 起こり
       base: 起こる
       dictionary: 起こる
       position: 20
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
       position: 23
+      tags:
+        - silent
     - word: パラノイア
       position: 28
     - word: と
@@ -137,6 +197,8 @@
       position: 9
     - word: ちゃん
       position: 11
+      tags:
+        - silent
 - id: A_Kanon_E19_6027
   deck_name: Kanon (2006)
   translation: What's the current order?
@@ -159,19 +221,31 @@
       position: 8
     - word: おい
       position: 12
+      tags:
+        - silent
     - word: あれ
       position: 15
+      tags:
+        - silent
     - word: 水瀬
       position: 17
+      tags:
+        - silent
     - word: じゃ
       base: だ
       dictionary: だ
       position: 19
+      tags:
+        - silent
     - word: ない
       base: 無い
       position: 21
+      tags:
+        - silent
     - word: か
       position: 23
+      tags:
+        - silent
 - id: A_Kanon_E19_6028
   deck_name: Kanon (2006)
   translation: We're in the leading group, but...
@@ -199,8 +273,12 @@
       position: 10
     - word: 水瀬
       position: 14
+      tags:
+        - silent
     - word: だ
       position: 16
+      tags:
+        - silent
 - id: A_Kanon_E19_6029
   deck_name: Kanon (2006)
   translation: You'll do fine.
@@ -223,14 +301,24 @@
       position: 10
     - word: 本当
       position: 13
+      tags:
+        - silent
     - word: だ
       position: 15
+      tags:
+        - silent
     - word: 水瀬
       position: 17
+      tags:
+        - silent
     - word: 名雪
       position: 19
+      tags:
+        - silent
     - word: だ
       position: 21
+      tags:
+        - silent
 - id: A_Kanon_E19_6030
   deck_name: Kanon (2006)
   translation: Wh-What's going on?
@@ -240,16 +328,28 @@
     - word: あれ
       base: 彼れ
       position: 1
+      tags:
+        - silent
     - word: は
       position: 3
+      tags:
+        - silent
     - word: 水瀬
       position: 4
+      tags:
+        - silent
     - word: 名雪
       position: 6
+      tags:
+        - silent
     - word: だ
       position: 8
+      tags:
+        - silent
     - word: よ
       position: 9
+      tags:
+        - silent
     - word: な
       position: 12
     - word: なん
@@ -268,44 +368,78 @@
     - word: つまり
       base: 詰まり
       position: 1
+      tags:
+        - silent
     - word: 多
       position: 4
+      tags:
+        - silent
     - word: 世界
       position: 5
+      tags:
+        - silent
     - word: 解釈
       position: 7
+      tags:
+        - silent
     - word: で
       position: 9
+      tags:
+        - silent
     - word: は
       position: 10
+      tags:
+        - silent
     - word: 生き
       base: 生きる
       dictionary: 生きる
       position: 14
+      tags:
+        - silent
     - word: て
       position: 16
+      tags:
+        - silent
     - word: いる
       base: 居る
       position: 17
+      tags:
+        - silent
     - word: の
       position: 19
+      tags:
+        - silent
     - word: 猫
       position: 20
+      tags:
+        - silent
     - word: と
       position: 21
+      tags:
+        - silent
     - word: 死ん
       base: 死ぬ
       dictionary: 死ぬ
       position: 22
+      tags:
+        - silent
     - word: で
       position: 24
+      tags:
+        - silent
     - word: いる
       base: 居る
       position: 25
+      tags:
+        - silent
     - word: 猫
       position: 27
+      tags:
+        - silent
     - word: が
       position: 28
+      tags:
+        - silent
     - word: 同時
       position: 32
     - word: に
@@ -337,21 +471,35 @@
   words:
     - word: で
       position: 1
+      tags:
+        - silent
     - word: ね
       position: 2
+      tags:
+        - silent
     - word: すごく
       base: 凄い
       dictionary: すごい
       position: 4
+      tags:
+        - silent
     - word: 可愛い
       position: 7
+      tags:
+        - silent
     - word: ん
       base: の
       position: 10
+      tags:
+        - silent
     - word: だ
       position: 11
+      tags:
+        - silent
     - word: よ
       position: 12
+      tags:
+        - silent
     - word: あゆ
       position: 15
     - word: ちゃん
@@ -374,13 +522,23 @@
       position: 31
     - word: 後
       position: 34
+      tags:
+        - silent
     - word: で
       position: 35
+      tags:
+        - silent
     - word: 見せ
       base: 見せる
       dictionary: 見せる
       position: 36
+      tags:
+        - silent
     - word: て
       position: 38
+      tags:
+        - silent
     - word: ね
       position: 39
+      tags:
+        - silent

@@ -8,6 +8,8 @@
     - word: すずめ
       base: 雀
       position: 1
+      tags:
+        - silent
     - word: ２
       base: '2'
       dictionary: '2'
@@ -49,6 +51,8 @@
   words:
     - word: 鏡子
       position: 1
+      tags:
+        - silent
     - word: すずめ
       base: 雀
       position: 4
@@ -173,12 +177,16 @@
   words:
     - word: 別府
       position: 1
+      tags:
+        - silent
     - word: どう
       position: 4
     - word: も
       position: 6
     - word: 真紀
       position: 9
+      tags:
+        - silent
     - word: どう
       position: 12
     - word: も
@@ -666,6 +674,8 @@
       position: 0
     - word: 別府
       position: 2
+      tags:
+        - silent
     - word: しかも
       base: 然も
       position: 5
@@ -864,6 +874,8 @@
       position: 0
     - word: 家森
       position: 2
+      tags:
+        - silent
     - word: バイバイ
       position: 5
 - id: Quartet_Episode_01_0.04.36.300-0.04.39.510
@@ -1165,6 +1177,8 @@
       position: 15
     - word: 別府
       position: 17
+      tags:
+        - silent
     - word: 巻
       position: 20
     - word: 真紀
@@ -1412,6 +1426,8 @@
       position: 0
     - word: 別府
       position: 2
+      tags:
+        - silent
     - word: 滑る
       position: 5
     - word: ん
@@ -2331,6 +2347,8 @@
   words:
     - word: 一同
       position: 1
+      tags:
+        - silent
     - word: よろしく
       base: 宜しく
       position: 4
@@ -4008,8 +4026,12 @@
     - word: それぞれ
       base: 其々
       position: 1
+      tags:
+        - silent
     - word: に
       position: 5
+      tags:
+        - silent
     - word: いただき
       base: 頂く
       dictionary: いただく
@@ -4648,6 +4670,8 @@
   words:
     - word: 寺川
       position: 1
+      tags:
+        - silent
     - word: 別府
       position: 4
     - word: 君
@@ -4796,6 +4820,8 @@
       position: 0
     - word: 大谷
       position: 2
+      tags:
+        - silent
     - word: ヤモリ
       base: 守宮
       position: 5
@@ -4814,6 +4840,8 @@
   words:
     - word: 大谷
       position: 1
+      tags:
+        - silent
     - word: シャンプー
       position: 4
     - word: はい
@@ -4936,6 +4964,8 @@
       position: 1
     - word: ラジオ
       position: 8
+      tags:
+        - silent
     - word: ここ
       base: 此処
       position: 12
@@ -6109,6 +6139,8 @@
       position: 0
     - word: 別府
       position: 2
+      tags:
+        - silent
     - word: 買い
       base: 買う
       dictionary: 買う
@@ -6205,6 +6237,8 @@
   words:
     - word: 瀧田
       position: 1
+      tags:
+        - silent
     - word: ねえ
       base: ね
       position: 4
@@ -6506,6 +6540,8 @@
       position: 0
     - word: 別府
       position: 2
+      tags:
+        - silent
     - word: イエーイ
       base: イエイ
       position: 5
@@ -6889,6 +6925,8 @@
       position: 0
     - word: 谷村
       position: 2
+      tags:
+        - silent
     - word: 責任
       position: 5
     - word: 者
@@ -7052,8 +7090,12 @@
   words:
     - word: 多可
       position: 1
+      tags:
+        - silent
     - word: 美
       position: 3
+      tags:
+        - silent
     - word: ただいま
       base: 只今
       position: 5
@@ -7062,6 +7104,8 @@
       position: 9
     - word: 有朱
       position: 12
+      tags:
+        - silent
     - word: ただいま
       base: 只今
       position: 15
@@ -7266,6 +7310,8 @@
   words:
     - word: 別府
       position: 1
+      tags:
+        - silent
     - word: マジ
       base: まじ
       position: 4
@@ -7280,16 +7326,28 @@
   words:
     - word: ♬
       position: 1
+      tags:
+        - silent
     - word: ～
       position: 2
+      tags:
+        - silent
     - word: ばら
       position: 3
+      tags:
+        - silent
     - word: 色
       position: 5
+      tags:
+        - silent
     - word: の
       position: 6
+      tags:
+        - silent
     - word: 人生
       position: 7
+      tags:
+        - silent
 - id: Quartet_Episode_01_0.23.56.170-0.23.58.370
   deck_name: Quartet
   translation: We're pretty empty on Saturday and Sunday.
@@ -8173,6 +8231,8 @@
       position: 0
     - word: 瀧田
       position: 2
+      tags:
+        - silent
     - word: カンパイ
       base: 乾杯
       position: 5
@@ -8180,6 +8240,8 @@
       position: 10
     - word: 別府
       position: 12
+      tags:
+        - silent
     - word: カンパイ
       base: 乾杯
       position: 15
@@ -8801,17 +8863,29 @@
   words:
     - word: ♬
       position: 1
+      tags:
+        - silent
     - word: ～
       position: 2
+      tags:
+        - silent
     - word: ふたり
       base: 二人
       position: 3
+      tags:
+        - silent
     - word: の
       position: 6
+      tags:
+        - silent
     - word: 夏
       position: 7
+      tags:
+        - silent
     - word: 物語
       position: 8
+      tags:
+        - silent
 - id: Quartet_Episode_01_0.28.58.610-0.29.00.740
   deck_name: Quartet
   translation: Found you.
@@ -8821,6 +8895,8 @@
   words:
     - word: 半田
       position: 1
+      tags:
+        - silent
     - word: 見つけ
       base: 見付ける
       dictionary: 見つける
@@ -8851,6 +8927,8 @@
   words:
     - word: 結衣
       position: 1
+      tags:
+        - silent
     - word: 世界
       position: 4
     - word: の
@@ -10102,8 +10180,12 @@
       position: 0
     - word: 多可
       position: 2
+      tags:
+        - silent
     - word: 美
       position: 4
+      tags:
+        - silent
     - word: じゃあ
       base: で
       position: 6
@@ -15642,10 +15724,16 @@
   words:
     - word: ♬
       position: 1
+      tags:
+        - silent
     - word: ～
       position: 2
+      tags:
+        - silent
     - word: モルダウ
       position: 3
+      tags:
+        - silent
 - id: Quartet_Episode_01_0.50.38.070-0.50.41.740
   deck_name: Quartet
   translation: Good evening. We are Quartet Doughnuts Hole.
@@ -15708,13 +15796,21 @@
   words:
     - word: ♬
       position: 1
+      tags:
+        - silent
     - word: ～
       position: 2
+      tags:
+        - silent
     - word: アヴェ
       base: アベ
       position: 3
+      tags:
+        - silent
     - word: マリア
       position: 7
+      tags:
+        - silent
 - id: Quartet_Episode_01_0.51.48.760-0.51.51.270
   deck_name: Quartet
   translation: Good morning.
@@ -16922,6 +17018,8 @@
     - word: すずめ
       base: 雀
       position: 1
+      tags:
+        - silent
     - word: 旧軽
       position: 5
     - word: に
@@ -16959,6 +17057,8 @@
   words:
     - word: 真紀
       position: 1
+      tags:
+        - silent
     - word: えッ
       base: えっ
       position: 4
@@ -16973,6 +17073,8 @@
       position: 10
     - word: 別府
       position: 12
+      tags:
+        - silent
     - word: 餃子
       base: ギョーザ
       position: 15
@@ -17032,6 +17134,8 @@
   words:
     - word: 家森
       position: 1
+      tags:
+        - silent
     - word: ﾌﾞｲﾔﾍﾞｰｽ
       base: ブイヤベース
       dictionary: ブイヤベース
@@ -17297,8 +17401,12 @@
       base: '3'
       dictionary: '3'
       position: 1
+      tags:
+        - silent
     - word: 人
       position: 2
+      tags:
+        - silent
     - word: はい
       position: 4
 - id: Quartet_Episode_02_0.00.42.610-0.00.45.450
@@ -17473,6 +17581,8 @@
   words:
     - word: 鏡子
       position: 1
+      tags:
+        - silent
     - word: 楽し
       base: 楽しい
       dictionary: 楽しい
@@ -18462,6 +18572,8 @@
   words:
     - word: 有朱
       position: 1
+      tags:
+        - silent
     - word: 美容
       position: 4
     - word: 室
@@ -18862,24 +18974,38 @@
   words:
     - word: ♬
       position: 1
+      tags:
+        - silent
     - word: ～
       position: 2
+      tags:
+        - silent
     - word: Tune
       base: チューン
       position: 3
+      tags:
+        - silent
     - word: for
       base: フォー
       position: 8
+      tags:
+        - silent
     - word: a
       position: 12
+      tags:
+        - silent
     - word: Found
       base: found
       dictionary: found
       position: 14
+      tags:
+        - silent
     - word: Harmonium
       base: ハルモニウム
       dictionary: harmonium
       position: 20
+      tags:
+        - silent
 - id: Quartet_Episode_02_0.04.46.760-0.04.50.940
   deck_name: Quartet
   translation: 'Timing: keiko1981 | www.giftedones.net'
@@ -18914,6 +19040,8 @@
   words:
     - word: デザイナー
       position: 1
+      tags:
+        - silent
     - word: 別府
       position: 7
     - word: さん
@@ -18991,6 +19119,8 @@
   words:
     - word: 結衣
       position: 1
+      tags:
+        - silent
     - word: ♬
       position: 4
     - word: ～
@@ -20050,6 +20180,8 @@
       base: 二人
       dictionary: 2人
       position: 4
+      tags:
+        - silent
     - word: 行間
       position: 7
 - id: Quartet_Episode_02_0.08.19.490-0.08.22.690
@@ -23018,13 +23150,21 @@
   words:
     - word: ♬
       position: 2
+      tags:
+        - silent
     - word: ～
       position: 3
+      tags:
+        - silent
     - word: アヴェ
       base: アベ
       position: 4
+      tags:
+        - silent
     - word: マリア
       position: 8
+      tags:
+        - silent
 - id: Quartet_Episode_02_0.16.27.760-0.16.31.320
   deck_name: Quartet
   translation: Congratulations, Kujou-san!
@@ -23034,6 +23174,8 @@
   words:
     - word: 寺川
       position: 1
+      tags:
+        - silent
     - word: 九條
       position: 4
     - word: さん
@@ -23279,8 +23421,12 @@
   words:
     - word: 多可
       position: 1
+      tags:
+        - silent
     - word: 美
       position: 3
+      tags:
+        - silent
     - word: こんにちは
       base: 今日は
       position: 5
@@ -23483,6 +23629,8 @@
   words:
     - word: 谷村
       position: 1
+      tags:
+        - silent
     - word: デコポン
       base: でこポン
       position: 4
@@ -24043,6 +24191,8 @@
   words:
     - word: 別府
       position: 1
+      tags:
+        - silent
     - word: 家森
       position: 4
     - word: さん
@@ -24115,6 +24265,8 @@
       position: 0
     - word: 別府
       position: 2
+      tags:
+        - silent
     - word: ほてっ
       base: 火照る
       dictionary: ほてる
@@ -24205,17 +24357,29 @@
   words:
     - word: ♬
       position: 1
+      tags:
+        - silent
     - word: ～
       position: 2
+      tags:
+        - silent
     - word: ふたり
       base: 二人
       position: 3
+      tags:
+        - silent
     - word: の
       position: 6
+      tags:
+        - silent
     - word: 夏
       position: 7
+      tags:
+        - silent
     - word: 物語
       position: 8
+      tags:
+        - silent
 - id: Quartet_Episode_02_0.19.20.510-0.19.23.400
   deck_name: Quartet
   translation: It's cold!
@@ -24225,6 +24389,8 @@
   words:
     - word: 半田
       position: 1
+      tags:
+        - silent
     - word: 寒
       base: 寒い
       dictionary: 寒い
@@ -27229,6 +27395,8 @@
       base: カメラマン
       dictionary: カメラマン
       position: 1
+      tags:
+        - silent
     - word: もう
       position: 7
     - word: 少し
@@ -27697,6 +27865,8 @@
       position: 0
     - word: 結衣
       position: 2
+      tags:
+        - silent
     - word: あッ
       base: 有る
       dictionary: ある
@@ -27889,8 +28059,12 @@
   words:
     - word: 結衣
       position: 1
+      tags:
+        - silent
     - word: 別府
       position: 4
+      tags:
+        - silent
     - word: いただき
       base: 頂く
       dictionary: いただく
@@ -27912,8 +28086,12 @@
   words:
     - word: 同時
       position: 1
+      tags:
+        - silent
     - word: に
       position: 3
+      tags:
+        - silent
     - word: うまい
       base: 旨い
       position: 5
@@ -28613,6 +28791,8 @@
       position: 0
     - word: 別府
       position: 2
+      tags:
+        - silent
     - word: 大切
       position: 5
     - word: な
@@ -28792,13 +28972,21 @@
   words:
     - word: ♬
       position: 1
+      tags:
+        - silent
     - word: ～
       position: 2
+      tags:
+        - silent
     - word: アヴェ
       base: アベ
       position: 3
+      tags:
+        - silent
     - word: マリア
       position: 7
+      tags:
+        - silent
 - id: Quartet_Episode_02_0.33.59.180-0.34.03.000
   deck_name: Quartet
   translation: You may now kiss your beautiful bride.
@@ -28810,6 +28998,8 @@
       position: 0
     - word: 神父
       position: 2
+      tags:
+        - silent
     - word: You
       base: ユー
       dictionary: YOU
@@ -28843,6 +29033,8 @@
   words:
     - word: 神父
       position: 1
+      tags:
+        - silent
     - word: 新郎
       position: 4
     - word: 新婦
@@ -28860,13 +29052,21 @@
   words:
     - word: ♬
       position: 1
+      tags:
+        - silent
     - word: ～
       position: 2
+      tags:
+        - silent
     - word: アヴェ
       base: アベ
       position: 3
+      tags:
+        - silent
     - word: マリア
       position: 7
+      tags:
+        - silent
 - id: Quartet_Episode_02_0.34.59.650-0.35.09.130
   deck_name: Quartet
   translation: (♬ SPEED - White Love)
@@ -28876,15 +29076,23 @@
   words:
     - word: ♬
       position: 1
+      tags:
+        - silent
     - word: ～
       position: 2
+      tags:
+        - silent
     - word: White
       base: ホワイト
       position: 3
+      tags:
+        - silent
     - word: Love
       base: ラブ
       dictionary: LOVE
       position: 9
+      tags:
+        - silent
 - id: Quartet_Episode_02_0.35.21.940-0.35.25.960
   deck_name: Quartet
   translation: In the end, it's always the woman who takes a step ahead...
@@ -29094,8 +29302,12 @@
       base: '3'
       dictionary: '3'
       position: 14
+      tags:
+        - silent
     - word: 人
       position: 15
+      tags:
+        - silent
     - word: Ｘ
       base: x
       dictionary: x
@@ -30936,6 +31148,8 @@
   words:
     - word: 純
       position: 1
+      tags:
+        - silent
     - word: お
       base: 御
       position: 3
@@ -30953,8 +31167,12 @@
   words:
     - word: 綿
       position: 1
+      tags:
+        - silent
     - word: 来
       position: 2
+      tags:
+        - silent
     - word: あいつ
       base: 彼奴
       position: 4
@@ -30979,6 +31197,8 @@
   words:
     - word: 寛子
       position: 1
+      tags:
+        - silent
     - word: そう
       position: 4
     - word: ね
@@ -31038,6 +31258,8 @@
       position: 0
     - word: 寛子
       position: 2
+      tags:
+        - silent
     - word: 最後
       position: 5
     - word: に
@@ -31102,6 +31324,8 @@
       position: 0
     - word: 純
       position: 2
+      tags:
+        - silent
     - word: その
       base: 其の
       position: 4
@@ -31176,6 +31400,8 @@
       position: 0
     - word: 寛子
       position: 2
+      tags:
+        - silent
     - word: 色んな
       position: 5
     - word: 親戚
@@ -31645,6 +31871,8 @@
       position: 1
     - word: 司会
       position: 5
+      tags:
+        - silent
     - word: それ
       base: 其れ
       position: 8
@@ -31764,6 +31992,8 @@
     - word: すずめ
       base: 雀
       position: 5
+      tags:
+        - silent
     - word: スペード
       position: 9
     - word: の
@@ -31806,6 +32036,8 @@
       position: 0
     - word: 純
       position: 2
+      tags:
+        - silent
     - word: インチキ
       base: いんちき
       position: 4
@@ -31835,6 +32067,8 @@
       position: 20
     - word: 寛子
       position: 22
+      tags:
+        - silent
     - word: 週刊
       position: 25
     - word: 誌
@@ -31990,8 +32224,12 @@
       position: 1
     - word: 司会
       position: 5
+      tags:
+        - silent
     - word: 者
       position: 7
+      tags:
+        - silent
     - word: 本物
       position: 9
     - word: の
@@ -32038,6 +32276,8 @@
   words:
     - word: 有朱
       position: 1
+      tags:
+        - silent
     - word: ウチ
       base: 家
       position: 4
@@ -32690,6 +32930,8 @@
   words:
     - word: 別府
       position: 1
+      tags:
+        - silent
     - word: 行き
       base: 行く
       dictionary: 行く
@@ -32751,6 +32993,8 @@
   words:
     - word: 家森
       position: 1
+      tags:
+        - silent
     - word: あれ
       position: 4
 - id: Quartet_Episode_03_0.06.35.250-0.06.37.950
@@ -32989,6 +33233,8 @@
   words:
     - word: 真紀
       position: 1
+      tags:
+        - silent
     - word: お
       base: 御
       position: 4
@@ -33495,6 +33741,8 @@
   words:
     - word: 純
       position: 1
+      tags:
+        - silent
     - word: すい
       base: すむ
       dictionary: すむ
@@ -33518,6 +33766,8 @@
       position: 12
     - word: 別府
       position: 14
+      tags:
+        - silent
     - word: はい
       position: 17
 - id: Quartet_Episode_03_0.08.08.180-0.08.10.540
@@ -34335,6 +34585,8 @@
       position: 12
     - word: 別府
       position: 14
+      tags:
+        - silent
     - word: ウルトラ
       position: 17
     - word: ソウル
@@ -35050,6 +35302,8 @@
   words:
     - word: 有朱
       position: 2
+      tags:
+        - silent
     - word: あッ
       base: 有る
       dictionary: ある
@@ -35242,6 +35496,8 @@
   words:
     - word: 妹
       position: 2
+      tags:
+        - silent
     - word: あの
       base: 彼の
       position: 4
@@ -35523,8 +35779,12 @@
       position: 1
     - word: 司会
       position: 5
+      tags:
+        - silent
     - word: 者
       position: 7
+      tags:
+        - silent
     - word: これ
       base: 此れ
       position: 9
@@ -35790,6 +36050,8 @@
   words:
     - word: 鏡子
       position: 1
+      tags:
+        - silent
     - word: 今月
       position: 4
     - word: 分
@@ -36041,6 +36303,8 @@
   words:
     - word: 有朱
       position: 1
+      tags:
+        - silent
     - word: すずめ
       base: 雀
       position: 4
@@ -36092,6 +36356,8 @@
       position: 0
     - word: 鏡子
       position: 2
+      tags:
+        - silent
     - word: ハロー
       position: 5
     - word: グッバイ
@@ -36262,6 +36528,8 @@
   words:
     - word: 谷村
       position: 1
+      tags:
+        - silent
     - word: そう
       position: 4
     - word: だ
@@ -36559,6 +36827,8 @@
       position: 17
     - word: 谷村
       position: 19
+      tags:
+        - silent
     - word: 何
       position: 22
     - word: か
@@ -37670,8 +37940,12 @@
       position: 1
     - word: 運転
       position: 8
+      tags:
+        - silent
     - word: 手
       position: 10
+      tags:
+        - silent
     - word: 青葉
       position: 12
     - word: 病院前
@@ -37937,6 +38211,8 @@
       position: 0
     - word: 寛子
       position: 2
+      tags:
+        - silent
     - word: 戻っ
       base: 戻る
       dictionary: 戻る
@@ -38008,8 +38284,12 @@
   words:
     - word: 看護
       position: 1
+      tags:
+        - silent
     - word: 師
       position: 3
+      tags:
+        - silent
     - word: あッ
       base: 有る
       dictionary: ある
@@ -38121,8 +38401,12 @@
       position: 1
     - word: 司会
       position: 5
+      tags:
+        - silent
     - word: 者
       position: 7
+      tags:
+        - silent
     - word: それ
       base: 其れ
       position: 9
@@ -38177,6 +38461,8 @@
       position: 0
     - word: 純
       position: 2
+      tags:
+        - silent
     - word: 検索
       position: 4
     - word: し
@@ -38220,6 +38506,8 @@
   words:
     - word: 女性
       position: 1
+      tags:
+        - silent
     - word: ４
       base: '4'
       dictionary: '4'
@@ -38279,6 +38567,8 @@
       position: 8
     - word: 仮名
       position: 12
+      tags:
+        - silent
     - word: と
       position: 16
     - word: いう
@@ -39475,6 +39765,8 @@
       position: 0
     - word: 店主
       position: 2
+      tags:
+        - silent
     - word: いらっしゃい
       base: いらっしゃる
       dictionary: いらっしゃる
@@ -39523,6 +39815,8 @@
       position: 1
     - word: 稲川
       position: 8
+      tags:
+        - silent
     - word: ちょうど
       base: 丁度
       position: 11
@@ -39664,6 +39958,8 @@
   words:
     - word: 店主
       position: 1
+      tags:
+        - silent
     - word: カツ
       position: 4
     - word: 丼
@@ -43657,6 +43953,8 @@
   words:
     - word: 半田
       position: 1
+      tags:
+        - silent
     - word: しゃべる
       base: 喋る
       position: 4
@@ -43857,6 +44155,8 @@
   words:
     - word: 別府
       position: 1
+      tags:
+        - silent
     - word: これ
       base: 此れ
       position: 4
@@ -43871,6 +44171,8 @@
       position: 9
     - word: 真紀
       position: 15
+      tags:
+        - silent
     - word: いつ
       position: 18
     - word: の
@@ -43889,6 +44191,8 @@
     - word: すずめ
       base: 雀
       position: 1
+      tags:
+        - silent
     - word: 知ら
       base: 知る
       dictionary: 知る
@@ -43903,6 +44207,8 @@
       position: 11
     - word: 家森
       position: 15
+      tags:
+        - silent
     - word: 何
       position: 18
     - word: で
@@ -44790,8 +45096,12 @@
       base: '3'
       dictionary: '3'
       position: 1
+      tags:
+        - silent
     - word: 人
       position: 2
+      tags:
+        - silent
     - word: はい
       position: 4
 - id: Quartet_Episode_04_0.01.42.540-0.01.45.390
@@ -45778,6 +46088,8 @@
   words:
     - word: 半田
       position: 1
+      tags:
+        - silent
     - word: あ
       base: あっ
       position: 4
@@ -46108,6 +46420,8 @@
   words:
     - word: 墨田
       position: 1
+      tags:
+        - silent
     - word: あり
       base: 有る
       dictionary: ある
@@ -46754,8 +47068,12 @@
       base: '3'
       dictionary: '3'
       position: 1
+      tags:
+        - silent
     - word: 人
       position: 2
+      tags:
+        - silent
     - word: えッ
       base: えっ
       position: 4
@@ -48648,17 +48966,29 @@
       position: 1
     - word: ♬
       position: 8
+      tags:
+        - silent
     - word: ～
       position: 9
+      tags:
+        - silent
     - word: ふたり
       base: 二人
       position: 10
+      tags:
+        - silent
     - word: の
       position: 13
+      tags:
+        - silent
     - word: 夏
       position: 14
+      tags:
+        - silent
     - word: 物語
       position: 15
+      tags:
+        - silent
 - id: Quartet_Episode_04_0.10.55.590-0.10.56.950
   deck_name: Quartet
   translation: What's the matter?
@@ -48687,6 +49017,8 @@
   words:
     - word: 鏡子
       position: 1
+      tags:
+        - silent
     - word: メガネ
       base: 眼鏡
       position: 4
@@ -48694,6 +49026,8 @@
       position: 7
     - word: 別府
       position: 11
+      tags:
+        - silent
     - word: 落とし
       base: 落とす
       dictionary: 落とす
@@ -49100,27 +49434,43 @@
   words:
     - word: 口笛
       position: 1
+      tags:
+        - silent
     - word: で
       position: 3
+      tags:
+        - silent
     - word: ﾌﾚｰﾙ
       base: フレール
       dictionary: フレール
       position: 5
+      tags:
+        - silent
     - word: ｼﾞｬｯｸ
       base: ジャック
       dictionary: ジャック
       position: 10
+      tags:
+        - silent
     - word: を
       position: 16
+      tags:
+        - silent
     - word: 吹い
       base: 吹く
       dictionary: 吹く
       position: 17
+      tags:
+        - silent
     - word: て
       position: 19
+      tags:
+        - silent
     - word: いる
       base: 居る
       position: 20
+      tags:
+        - silent
 - id: Quartet_Episode_04_0.12.29.220-0.12.33.740
   deck_name: Quartet
   translation: Are you nervous about meeting your ex-wife?
@@ -49670,12 +50020,20 @@
   words:
     - word: ♬
       position: 1
+      tags:
+        - silent
     - word: ～
       position: 2
+      tags:
+        - silent
     - word: フレール
       position: 3
+      tags:
+        - silent
     - word: ジャック
       position: 8
+      tags:
+        - silent
 - id: Quartet_Episode_04_0.14.13.540-0.14.21.090
   deck_name: Quartet
   translation: (♫ Frere Jacques)
@@ -49687,27 +50045,43 @@
       base: リコーダー
       dictionary: リコーダー
       position: 1
+      tags:
+        - silent
     - word: で
       position: 7
+      tags:
+        - silent
     - word: ﾌﾚｰﾙ
       base: フレール
       dictionary: フレール
       position: 10
+      tags:
+        - silent
     - word: ｼﾞｬｯｸ
       base: ジャック
       dictionary: ジャック
       position: 15
+      tags:
+        - silent
     - word: を
       position: 21
+      tags:
+        - silent
     - word: 吹い
       base: 吹く
       dictionary: 吹く
       position: 22
+      tags:
+        - silent
     - word: て
       position: 24
+      tags:
+        - silent
     - word: いる
       base: 居る
       position: 25
+      tags:
+        - silent
 - id: Quartet_Episode_04_0.14.34.910-0.14.41.870
   deck_name: Quartet
   translation: ♫ I want hot milk tea
@@ -49762,6 +50136,8 @@
       position: 7
     - word: 光大
       position: 9
+      tags:
+        - silent
     - word: パパ
       position: 12
 - id: Quartet_Episode_04_0.15.01.120-0.15.04.040
@@ -49929,8 +50305,12 @@
   words:
     - word: 茶
       position: 1
+      tags:
+        - silent
     - word: 馬子
       position: 2
+      tags:
+        - silent
     - word: 光大
       position: 5
 - id: Quartet_Episode_04_0.16.08.320-0.16.10.250
@@ -50095,6 +50475,8 @@
   words:
     - word: 一同
       position: 1
+      tags:
+        - silent
     - word: いただき
       base: 頂く
       dictionary: いただく
@@ -50959,11 +51341,17 @@
       position: 0
     - word: 別府
       position: 4
+      tags:
+        - silent
     - word: 真紀
       position: 7
+      tags:
+        - silent
     - word: すずめ
       base: 雀
       position: 10
+      tags:
+        - silent
     - word: はい
       position: 14
 - id: Quartet_Episode_04_0.20.39.830-0.20.42.570
@@ -53355,8 +53743,12 @@
       position: 0
     - word: 茶
       position: 2
+      tags:
+        - silent
     - word: 馬子
       position: 3
+      tags:
+        - silent
     - word: もう
       position: 6
     - word: 遅い
@@ -54019,12 +54411,20 @@
   words:
     - word: ♬
       position: 1
+      tags:
+        - silent
     - word: ～
       position: 2
+      tags:
+        - silent
     - word: フレール
       position: 3
+      tags:
+        - silent
     - word: ジャック
       position: 8
+      tags:
+        - silent
 - id: Quartet_Episode_04_0.33.04.210-0.33.07.790
   deck_name: Quartet
   translation: He was worried that he might die alone.
@@ -54497,9 +54897,13 @@
   words:
     - word: 真紀
       position: 1
+      tags:
+        - silent
     - word: すずめ
       base: 雀
       position: 4
+      tags:
+        - silent
     - word: いいえ
       position: 8
 - id: Quartet_Episode_04_0.34.13.680-0.34.17.130
@@ -54858,6 +55262,8 @@
   words:
     - word: 有朱
       position: 1
+      tags:
+        - silent
     - word: すずめ
       base: 雀
       position: 4
@@ -57733,6 +58139,8 @@
   words:
     - word: 鏡子
       position: 1
+      tags:
+        - silent
     - word: あの
       base: 彼の
       position: 4
@@ -57818,6 +58226,8 @@
     - word: すずめ
       base: 雀
       position: 1
+      tags:
+        - silent
     - word: それ
       base: 其れ
       position: 5
@@ -57940,6 +58350,8 @@
   words:
     - word: 真紀
       position: 2
+      tags:
+        - silent
     - word: お
       base: 御
       position: 5
@@ -58114,6 +58526,8 @@
   words:
     - word: 別府
       position: 2
+      tags:
+        - silent
     - word: じゃ
       base: で
       position: 5
@@ -58733,6 +59147,8 @@
       position: 0
     - word: 鏡子
       position: 2
+      tags:
+        - silent
     - word: 幹生
       position: 5
     - word: は
@@ -59105,6 +59521,8 @@
   words:
     - word: 家森
       position: 1
+      tags:
+        - silent
     - word: こないだ
       base: 此の間
       position: 4
@@ -59284,8 +59702,12 @@
   words:
     - word: 多可
       position: 1
+      tags:
+        - silent
     - word: 美
       position: 3
+      tags:
+        - silent
     - word: おかしい
       base: 可笑しい
       position: 5
@@ -59304,6 +59726,8 @@
       position: 16
     - word: 谷村
       position: 18
+      tags:
+        - silent
     - word: おかしい
       base: 可笑しい
       position: 21
@@ -59535,6 +59959,8 @@
       position: 0
     - word: 別府
       position: 2
+      tags:
+        - silent
     - word: ありがとう
       base: 有り難う
       position: 5
@@ -59559,6 +59985,8 @@
       position: 0
     - word: 別府
       position: 2
+      tags:
+        - silent
     - word: 弟
       position: 5
     - word: です
@@ -59592,6 +60020,8 @@
   words:
     - word: 圭
       position: 1
+      tags:
+        - silent
     - word: あッ
       base: 有る
       dictionary: ある
@@ -59999,6 +60429,8 @@
   words:
     - word: 朝木
       position: 1
+      tags:
+        - silent
     - word: 別府
       position: 4
     - word: さん
@@ -61104,6 +61536,8 @@
       position: 0
     - word: 朝木
       position: 2
+      tags:
+        - silent
     - word: うん
       position: 5
 - id: Quartet_Episode_05_0.09.37.000-0.09.39.810
@@ -63166,6 +63600,8 @@
       position: 0
     - word: 朝木
       position: 2
+      tags:
+        - silent
     - word: 今回
       position: 5
     - word: の
@@ -63237,6 +63673,8 @@
   words:
     - word: 岡中
       position: 1
+      tags:
+        - silent
     - word: 皆
       position: 4
     - word: さん
@@ -63327,6 +63765,8 @@
       position: 9
     - word: 岡中
       position: 11
+      tags:
+        - silent
     - word: ﾋﾟｱﾆｽﾄ
       base: ピアニスト
       dictionary: ピアニスト
@@ -63361,6 +63801,8 @@
   words:
     - word: 藤川
       position: 1
+      tags:
+        - silent
     - word: 入ら
       base: 入る
       dictionary: 入る
@@ -63382,6 +63824,8 @@
       position: 11
     - word: 一同
       position: 13
+      tags:
+        - silent
     - word: お
       base: 御
       position: 16
@@ -63426,6 +63870,8 @@
       position: 0
     - word: 藤川
       position: 2
+      tags:
+        - silent
     - word: こちら
       base: 此方
       position: 5
@@ -63543,6 +63989,8 @@
       position: 0
     - word: 岡中
       position: 2
+      tags:
+        - silent
     - word: はい
       position: 5
     - word: 設定
@@ -63558,6 +64006,8 @@
       position: 0
     - word: 岡中
       position: 2
+      tags:
+        - silent
     - word: 説明
       position: 5
     - word: し
@@ -63630,6 +64080,8 @@
       position: 0
     - word: 岡中
       position: 2
+      tags:
+        - silent
     - word: その
       base: 其の
       position: 5
@@ -63648,6 +64100,8 @@
       position: 0
     - word: 岡中
       position: 2
+      tags:
+        - silent
     - word: キャラ
       position: 5
     - word: と
@@ -64125,6 +64579,8 @@
       position: 0
     - word: 朝木
       position: 2
+      tags:
+        - silent
     - word: いや
       base: 否
       position: 5
@@ -64397,6 +64853,8 @@
       position: 0
     - word: スタッフ
       position: 2
+      tags:
+        - silent
     - word: 藤川
       position: 7
 - id: Quartet_Episode_05_0.18.42.860-0.18.47.310
@@ -65156,6 +65614,8 @@
   words:
     - word: 朝木
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 5
     - word: お
@@ -65781,6 +66241,8 @@
       position: 0
     - word: 藤川
       position: 2
+      tags:
+        - silent
     - word: おはよう
       base: 御早う
       position: 5
@@ -67304,22 +67766,36 @@
   words:
     - word: ♬
       position: 1
+      tags:
+        - silent
     - word: ～
       position: 2
+      tags:
+        - silent
     - word: tune
       base: チューン
       dictionary: Tune
       position: 3
+      tags:
+        - silent
     - word: for
       base: フォー
       position: 8
+      tags:
+        - silent
     - word: a
       position: 12
+      tags:
+        - silent
     - word: found
       position: 14
+      tags:
+        - silent
     - word: harmonium
       base: ハルモニウム
       position: 20
+      tags:
+        - silent
 - id: Quartet_Episode_05_0.29.22.490-0.29.24.120
   deck_name: Quartet
   translation: Kei, I know...
@@ -67331,6 +67807,8 @@
       position: 0
     - word: 別府
       position: 2
+      tags:
+        - silent
     - word: せっかく
       base: 折角
       position: 5
@@ -67596,6 +68074,8 @@
       position: 7
     - word: 鏡子
       position: 9
+      tags:
+        - silent
     - word: さようなら
       position: 12
 - id: Quartet_Episode_05_0.30.36.740-0.30.38.480
@@ -67609,6 +68089,8 @@
       position: 0
     - word: 有朱
       position: 2
+      tags:
+        - silent
     - word: 絶対
       position: 5
     - word: 似
@@ -67646,6 +68128,8 @@
       position: 8
     - word: 有朱
       position: 10
+      tags:
+        - silent
     - word: あッ
       base: あっ
       position: 13
@@ -71571,6 +72055,8 @@
       position: 1
     - word: 別府
       position: 8
+      tags:
+        - silent
     - word: 何
       position: 11
     - word: です
@@ -72180,10 +72666,16 @@
       position: 0
     - word: 宅配
       position: 2
+      tags:
+        - silent
     - word: 業
       position: 4
+      tags:
+        - silent
     - word: 者
       position: 5
+      tags:
+        - silent
     - word: 別府
       position: 8
     - word: さ
@@ -72209,10 +72701,16 @@
       position: 0
     - word: 宅配
       position: 2
+      tags:
+        - silent
     - word: 業
       position: 4
+      tags:
+        - silent
     - word: 者
       position: 5
+      tags:
+        - silent
     - word: 別府
       position: 7
     - word: さん
@@ -72816,6 +73314,8 @@
   words:
     - word: 幹生
       position: 1
+      tags:
+        - silent
     - word: すずめ
       base: 雀
       position: 4
@@ -72875,6 +73375,8 @@
     - word: すずめ
       base: 雀
       position: 1
+      tags:
+        - silent
     - word: うん
       position: 5
     - word: <
@@ -73170,6 +73672,8 @@
   words:
     - word: 店員
       position: 1
+      tags:
+        - silent
     - word: '40'
       position: 4
     - word: 円
@@ -73349,6 +73853,8 @@
       position: 0
     - word: 店員
       position: 2
+      tags:
+        - silent
     - word: ありがとう
       base: 有り難う
       position: 5
@@ -73371,6 +73877,8 @@
   words:
     - word: 真紀
       position: 1
+      tags:
+        - silent
     - word: うん
       position: 4
     - word: 上がっ
@@ -73414,6 +73922,8 @@
   words:
     - word: 別府
       position: 1
+      tags:
+        - silent
     - word: お
       base: 御
       position: 4
@@ -73661,6 +74171,8 @@
       position: 18
     - word: 家森
       position: 20
+      tags:
+        - silent
     - word: 僕
       position: 23
     - word: も
@@ -73958,6 +74470,8 @@
   words:
     - word: 鏡子
       position: 1
+      tags:
+        - silent
     - word: 慣れ
       base: 慣れる
       dictionary: 慣れる
@@ -74086,8 +74600,12 @@
       position: 3
     - word: 多可
       position: 6
+      tags:
+        - silent
     - word: 美
       position: 8
+      tags:
+        - silent
     - word: うん
       position: 10
 - id: Quartet_Episode_06_0.04.29.490-0.04.35.260
@@ -74155,6 +74673,8 @@
   words:
     - word: 谷村
       position: 1
+      tags:
+        - silent
     - word: 貴重
       position: 4
     - word: な
@@ -74552,6 +75072,8 @@
   words:
     - word: 有朱
       position: 1
+      tags:
+        - silent
     - word: どう
       position: 4
     - word: し
@@ -74737,6 +75259,8 @@
   words:
     - word: 女性
       position: 1
+      tags:
+        - silent
     - word: うわ
       position: 4
     - word: ～
@@ -75371,10 +75895,16 @@
       position: 0
     - word: 宅配
       position: 2
+      tags:
+        - silent
     - word: 業
       position: 4
+      tags:
+        - silent
     - word: 者
       position: 5
+      tags:
+        - silent
     - word: サイン
       position: 7
     - word: お
@@ -75982,6 +76512,8 @@
       position: 11
     - word: 幹生
       position: 13
+      tags:
+        - silent
     - word: そう
       position: 16
     - word: 倒し
@@ -77067,6 +77599,8 @@
       position: 0
     - word: 幹生
       position: 2
+      tags:
+        - silent
     - word: その
       base: 其の
       position: 5
@@ -77701,6 +78235,8 @@
       position: 0
     - word: 幹生
       position: 2
+      tags:
+        - silent
     - word: 彼女
       position: 5
     - word: と
@@ -77950,20 +78486,32 @@
   words:
     - word: ♬
       position: 2
+      tags:
+        - silent
     - word: ～
       position: 3
+      tags:
+        - silent
     - word: ｶｳﾞｧﾚﾘｱ
       base: カバレリア
       dictionary: カヴァレリア
       position: 4
+      tags:
+        - silent
     - word: ﾙｽﾃｨｶｰﾅ
       base: ルスティカーナ
       dictionary: ルスティカーナ
       position: 12
+      tags:
+        - silent
     - word: 間奏
       position: 20
+      tags:
+        - silent
     - word: 曲
       position: 22
+      tags:
+        - silent
 - id: Quartet_Episode_06_0.15.06.150-0.15.10.740
   deck_name: Quartet
   translation: If it's a domestic destination, I want to visit Kanazawa.
@@ -78027,6 +78575,8 @@
       position: 0
     - word: 幹生
       position: 2
+      tags:
+        - silent
     - word: 巻
       position: 5
     - word: 真紀
@@ -78090,6 +78640,8 @@
       position: 0
     - word: 幹生
       position: 2
+      tags:
+        - silent
     - word: 結婚
       position: 5
     - word: しよ
@@ -78116,6 +78668,8 @@
       position: 0
     - word: 幹生
       position: 2
+      tags:
+        - silent
     - word: 人生
       position: 5
     - word: を
@@ -78213,6 +78767,8 @@
       position: 0
     - word: 幹生
       position: 2
+      tags:
+        - silent
     - word: 結婚
       position: 5
     - word: し
@@ -78737,6 +79293,8 @@
       position: 0
     - word: 幹生
       position: 2
+      tags:
+        - silent
     - word: これ
       base: 此れ
       position: 5
@@ -78801,6 +79359,8 @@
       position: 0
     - word: 幹生
       position: 2
+      tags:
+        - silent
     - word: 病院
       position: 5
     - word: で
@@ -78865,6 +79425,8 @@
       position: 0
     - word: 幹生
       position: 2
+      tags:
+        - silent
     - word: いつ
       position: 5
     - word: まで
@@ -79539,6 +80101,8 @@
       position: 0
     - word: 幹生
       position: 2
+      tags:
+        - silent
     - word: 一緒
       position: 5
     - word: に
@@ -79660,6 +80224,8 @@
       position: 0
     - word: 幹生
       position: 2
+      tags:
+        - silent
     - word: 恋
       position: 5
     - word: を
@@ -79706,6 +80272,8 @@
       position: 0
     - word: 幹生
       position: 2
+      tags:
+        - silent
     - word: 最初
       position: 5
     - word: の
@@ -80155,6 +80723,8 @@
       position: 0
     - word: 幹生
       position: 2
+      tags:
+        - silent
     - word: こんな
       position: 5
     - word: ん
@@ -80310,6 +80880,8 @@
       position: 0
     - word: 幹生
       position: 2
+      tags:
+        - silent
     - word: 彼女
       position: 5
     - word: が
@@ -80391,6 +80963,8 @@
       position: 1
     - word: モデル
       position: 3
+      tags:
+        - silent
     - word: あっ
       base: 有る
       dictionary: ある
@@ -80413,6 +80987,8 @@
   words:
     - word: スタッフ
       position: 2
+      tags:
+        - silent
     - word: カット
       position: 7
 - id: Quartet_Episode_06_0.23.31.120-0.23.34.910
@@ -80509,6 +81085,8 @@
   words:
     - word: 玲音
       position: 2
+      tags:
+        - silent
     - word: 幹生
       position: 5
 - id: Quartet_Episode_06_0.24.26.360-0.24.27.950
@@ -81117,6 +81695,8 @@
       position: 0
     - word: 幹生
       position: 2
+      tags:
+        - silent
     - word: 好き
       position: 5
     - word: な
@@ -81236,6 +81816,8 @@
       position: 0
     - word: 幹生
       position: 2
+      tags:
+        - silent
     - word: ある
       base: 有る
       position: 5
@@ -81310,6 +81892,8 @@
       position: 0
     - word: 幹生
       position: 2
+      tags:
+        - silent
     - word: 聞い
       base: 聞く
       dictionary: 聞く
@@ -81561,6 +82145,8 @@
       position: 0
     - word: 幹生
       position: 2
+      tags:
+        - silent
     - word: 彼女
       position: 5
     - word: は
@@ -82010,6 +82596,8 @@
       position: 0
     - word: 幹生
       position: 2
+      tags:
+        - silent
     - word: 次
       position: 5
     - word: の
@@ -82781,6 +83369,8 @@
       position: 0
     - word: 幹生
       position: 2
+      tags:
+        - silent
     - word: 悔しく
       base: 悔しい
       dictionary: 悔しい
@@ -82812,6 +83402,8 @@
   words:
     - word: 西村
       position: 2
+      tags:
+        - silent
     - word: 何
       position: 5
     - word: で
@@ -82871,6 +83463,8 @@
   words:
     - word: 西村
       position: 2
+      tags:
+        - silent
     - word: 大村
       position: 5
     - word: 部
@@ -83005,6 +83599,8 @@
       position: 1
     - word: 西村
       position: 3
+      tags:
+        - silent
     - word: そう
       position: 6
     - word: っす
@@ -83172,6 +83768,8 @@
   words:
     - word: 西村
       position: 2
+      tags:
+        - silent
     - word: 結婚
       position: 5
     - word: し
@@ -83205,6 +83803,8 @@
   words:
     - word: 幹生
       position: 2
+      tags:
+        - silent
     - word: ２
       base: '2'
       dictionary: '2'
@@ -83240,6 +83840,8 @@
   words:
     - word: 西村
       position: 2
+      tags:
+        - silent
     - word: まだまだ
       base: 未だ未だ
       position: 5
@@ -83270,6 +83872,8 @@
   words:
     - word: 幹生
       position: 2
+      tags:
+        - silent
     - word: お前
       base: 御前
       position: 5
@@ -83391,10 +83995,14 @@
   words:
     - word: 友人
       position: 2
+      tags:
+        - silent
     - word: Ａ
       base: a
       dictionary: a
       position: 4
+      tags:
+        - silent
     - word: 巻
       position: 6
     - word: さん
@@ -83416,6 +84024,8 @@
       base: b
       dictionary: b
       position: 2
+      tags:
+        - silent
     - word: 何
       position: 4
     - word: か
@@ -83455,6 +84065,8 @@
       base: a
       dictionary: a
       position: 3
+      tags:
+        - silent
     - word: 聞こえ
       base: 聞こえる
       dictionary: 聞こえる
@@ -83490,6 +84102,8 @@
       base: b
       dictionary: b
       position: 3
+      tags:
+        - silent
     - word: 確か
       position: 5
     - word: に
@@ -83536,6 +84150,8 @@
       position: 0
     - word: 幹生
       position: 2
+      tags:
+        - silent
     - word: 結婚
       position: 5
     - word: し
@@ -83648,6 +84264,8 @@
       position: 0
     - word: 幹生
       position: 2
+      tags:
+        - silent
     - word: 彼女
       position: 5
     - word: は
@@ -83725,6 +84343,8 @@
       position: 0
     - word: 幹生
       position: 2
+      tags:
+        - silent
     - word: 欲しかっ
       base: 欲しい
       dictionary: 欲しい
@@ -83768,6 +84388,8 @@
       position: 0
     - word: 幹生
       position: 2
+      tags:
+        - silent
     - word: で
       position: 5
     - word: も
@@ -83924,20 +84546,32 @@
   words:
     - word: ♬
       position: 2
+      tags:
+        - silent
     - word: ～
       position: 3
+      tags:
+        - silent
     - word: ｶｳﾞｧﾚﾘｱ
       base: カバレリア
       dictionary: カヴァレリア
       position: 4
+      tags:
+        - silent
     - word: ﾙｽﾃｨｶｰﾅ
       base: ルスティカーナ
       dictionary: ルスティカーナ
       position: 12
+      tags:
+        - silent
     - word: 間奏
       position: 20
+      tags:
+        - silent
     - word: 曲
       position: 22
+      tags:
+        - silent
 - id: Quartet_Episode_06_0.38.11.220-0.38.16.100
   deck_name: Quartet
   translation: Sorry, I forgot to get chili oil.
@@ -85459,6 +86093,8 @@
   words:
     - word: 有朱
       position: 1
+      tags:
+        - silent
     - word: さ
       position: 4
     - word: むッ
@@ -85516,6 +86152,8 @@
   words:
     - word: 家森
       position: 1
+      tags:
+        - silent
     - word: 無理
       position: 4
     - word: だ
@@ -85933,6 +86571,8 @@
       position: 0
     - word: 幹生
       position: 2
+      tags:
+        - silent
     - word: ホント
       base: 本当
       position: 5
@@ -85957,6 +86597,8 @@
   words:
     - word: 幹生
       position: 1
+      tags:
+        - silent
     - word: ああ
       position: 4
     - word: あの
@@ -86098,6 +86740,8 @@
     - word: すずめ
       base: 雀
       position: 1
+      tags:
+        - silent
     - word: ううん
       position: 5
     - word: すい
@@ -86357,6 +87001,8 @@
   words:
     - word: 真紀
       position: 1
+      tags:
+        - silent
     - word: 痩せ
       base: 痩せる
       dictionary: 痩せる
@@ -86640,6 +87286,8 @@
   words:
     - word: 別府
       position: 1
+      tags:
+        - silent
     - word: よし
       position: 4
 - id: Quartet_Episode_07_0.07.20.090-0.07.23.060
@@ -89217,6 +89865,8 @@
   words:
     - word: 鏡子
       position: 1
+      tags:
+        - silent
     - word: すずめ
       base: 雀
       position: 4
@@ -89327,8 +89977,12 @@
       position: 4
     - word: 運転
       position: 7
+      tags:
+        - silent
     - word: 手
       position: 9
+      tags:
+        - silent
     - word: はい
       position: 11
 - id: Quartet_Episode_07_0.17.43.970-0.17.46.750
@@ -89464,8 +90118,12 @@
   words:
     - word: 同時
       position: 1
+      tags:
+        - silent
     - word: に
       position: 3
+      tags:
+        - silent
     - word: ごめん
       base: 御免
       position: 5
@@ -89624,8 +90282,12 @@
   words:
     - word: 運転
       position: 1
+      tags:
+        - silent
     - word: 手
       position: 3
+      tags:
+        - silent
     - word: どこ
       position: 5
     - word: に
@@ -89684,8 +90346,12 @@
       position: 9
     - word: 運転
       position: 15
+      tags:
+        - silent
     - word: 手
       position: 17
+      tags:
+        - silent
     - word: かしこまり
       base: 畏まる
       dictionary: かしこまる
@@ -89705,16 +90371,28 @@
   words:
     - word: 車
       position: 1
+      tags:
+        - silent
     - word: から
       position: 2
+      tags:
+        - silent
     - word: 軽井沢
       position: 5
+      tags:
+        - silent
     - word: 音頭
       position: 8
+      tags:
+        - silent
     - word: が
       position: 11
+      tags:
+        - silent
     - word: 聞こえる
       position: 12
+      tags:
+        - silent
 - id: Quartet_Episode_07_0.21.19.600-0.21.20.800
   deck_name: Quartet
   translation: Iemori-san!
@@ -93598,20 +94276,32 @@
   words:
     - word: ♬
       position: 1
+      tags:
+        - silent
     - word: ～
       position: 2
+      tags:
+        - silent
     - word: ｶｳﾞｧﾚﾘｱ
       base: カバレリア
       dictionary: カヴァレリア
       position: 3
+      tags:
+        - silent
     - word: ﾙｽﾃｨｶｰﾅ
       base: ルスティカーナ
       dictionary: ルスティカーナ
       position: 11
+      tags:
+        - silent
     - word: 間奏
       position: 19
+      tags:
+        - silent
     - word: 曲
       position: 21
+      tags:
+        - silent
 - id: Quartet_Episode_07_0.37.35.620-0.37.37.850
   deck_name: Quartet
   translation: '- Excuse me.<br>- Good evening.'
@@ -93635,6 +94325,8 @@
       position: 6
     - word: 職員
       position: 8
+      tags:
+        - silent
     - word: こんばんは
       base: 今晩は
       position: 11
@@ -93677,6 +94369,8 @@
       position: 0
     - word: 職員
       position: 2
+      tags:
+        - silent
     - word: はい
       position: 5
     - word: 離婚
@@ -93794,6 +94488,8 @@
   words:
     - word: 別府
       position: 1
+      tags:
+        - silent
     - word: おはよう
       base: 御早う
       position: 4
@@ -93839,6 +94535,8 @@
       position: 0
     - word: 有朱
       position: 2
+      tags:
+        - silent
     - word: おはよう
       base: 御早う
       position: 5
@@ -95250,6 +95948,8 @@
   words:
     - word: 家森
       position: 1
+      tags:
+        - silent
     - word: おッ
       base: おっ
       position: 4
@@ -95307,6 +96007,8 @@
   words:
     - word: 別府
       position: 1
+      tags:
+        - silent
     - word: 皆
       position: 4
     - word: さん
@@ -95618,9 +96320,13 @@
   words:
     - word: 別府
       position: 1
+      tags:
+        - silent
     - word: すずめ
       base: 雀
       position: 4
+      tags:
+        - silent
     - word: へえ
       position: 8
     - word: ～
@@ -96395,6 +97101,8 @@
       position: 0
     - word: 鏡子
       position: 2
+      tags:
+        - silent
     - word: やっと
       base: 漸と
       position: 5
@@ -96443,8 +97151,12 @@
       base: '4'
       dictionary: '4'
       position: 1
+      tags:
+        - silent
     - word: 人
       position: 2
+      tags:
+        - silent
     - word: ありがとう
       base: 有り難う
       position: 4
@@ -96569,8 +97281,12 @@
       base: '4'
       dictionary: '4'
       position: 1
+      tags:
+        - silent
     - word: 人
       position: 2
+      tags:
+        - silent
     - word: いただき
       base: 頂く
       dictionary: いただく
@@ -97909,6 +98625,8 @@
       position: 1
     - word: 別府
       position: 3
+      tags:
+        - silent
     - word: 冬
       position: 6
     - word: の
@@ -100174,6 +100892,8 @@
   words:
     - word: 業者
       position: 1
+      tags:
+        - silent
     - word: ここ
       base: 此処
       position: 4
@@ -100257,6 +100977,8 @@
       position: 0
     - word: 圭
       position: 2
+      tags:
+        - silent
     - word: 会社
       position: 4
     - word: だ
@@ -100620,6 +101342,8 @@
       position: 0
     - word: 別府
       position: 2
+      tags:
+        - silent
     - word: それ
       base: 其れ
       position: 5
@@ -100633,6 +101357,8 @@
       position: 12
     - word: 圭
       position: 14
+      tags:
+        - silent
     - word: いや
       base: 否
       position: 16
@@ -101431,6 +102157,8 @@
       position: 0
     - word: 別府
       position: 2
+      tags:
+        - silent
     - word: めんど
       base: 面倒
       position: 5
@@ -101479,6 +102207,8 @@
       position: 0
     - word: 別府
       position: 2
+      tags:
+        - silent
     - word: おなか
       base: 御腹
       position: 5
@@ -101563,8 +102293,12 @@
       base: '3'
       dictionary: '3'
       position: 11
+      tags:
+        - silent
     - word: 人
       position: 12
+      tags:
+        - silent
     - word: おはよう
       base: 御早う
       position: 14
@@ -101628,6 +102362,8 @@
       position: 0
     - word: 別府
       position: 2
+      tags:
+        - silent
     - word: えッ
       base: えっ
       position: 5
@@ -101662,6 +102398,8 @@
   words:
     - word: 根本
       position: 1
+      tags:
+        - silent
     - word: いや
       base: 否
       position: 4
@@ -103341,8 +104079,12 @@
   words:
     - word: 真紀
       position: 1
+      tags:
+        - silent
     - word: 別府
       position: 4
+      tags:
+        - silent
     - word: おお
       position: 7
     - word: ～
@@ -104151,6 +104893,8 @@
       position: 10
     - word: 別府
       position: 12
+      tags:
+        - silent
     - word: はい
       position: 15
 - id: Quartet_Episode_08_0.26.16.580-0.26.20.000
@@ -104207,6 +104951,8 @@
       position: 0
     - word: 別府
       position: 2
+      tags:
+        - silent
     - word: かわいい
       base: 可愛い
       position: 5
@@ -104223,6 +104969,8 @@
       position: 0
     - word: 別府
       position: 2
+      tags:
+        - silent
     - word: こっち
       base: 此方
       position: 5
@@ -104336,6 +105084,8 @@
       position: 1
     - word: 別府
       position: 3
+      tags:
+        - silent
     - word: ナポリタン
       position: 6
     - word: 危険
@@ -104679,6 +105429,8 @@
       position: 0
     - word: 女性
       position: 2
+      tags:
+        - silent
     - word: 撮り
       base: 取る
       dictionary: 撮る
@@ -104784,6 +105536,8 @@
       position: 0
     - word: 別府
       position: 2
+      tags:
+        - silent
     - word: 小腹
       position: 5
     - word: すき
@@ -104902,6 +105656,8 @@
       position: 11
     - word: 別府
       position: 13
+      tags:
+        - silent
     - word: 歩い
       base: 歩く
       dictionary: 歩く
@@ -104978,8 +105734,12 @@
   words:
     - word: 多可
       position: 1
+      tags:
+        - silent
     - word: 美
       position: 3
+      tags:
+        - silent
     - word: いらっしゃい
       base: いらっしゃる
       dictionary: いらっしゃる
@@ -105016,6 +105776,8 @@
   words:
     - word: 有朱
       position: 1
+      tags:
+        - silent
     - word: ああ
       position: 4
     - word: ～
@@ -105077,6 +105839,8 @@
   words:
     - word: 谷村
       position: 1
+      tags:
+        - silent
     - word: 僕
       position: 4
     - word: から
@@ -105741,6 +106505,8 @@
       position: 0
     - word: 別府
       position: 2
+      tags:
+        - silent
     - word: おやすみ
       position: 5
     - word: な
@@ -107262,6 +108028,8 @@
   words:
     - word: 船村
       position: 1
+      tags:
+        - silent
     - word: あッ
       base: 有る
       dictionary: ある
@@ -107290,6 +108058,8 @@
   words:
     - word: 大菅
       position: 1
+      tags:
+        - silent
     - word: 娘
       position: 4
     - word: の
@@ -107409,6 +108179,8 @@
       position: 13
     - word: 鏡子
       position: 15
+      tags:
+        - silent
     - word: どう
       position: 18
     - word: も
@@ -107431,6 +108203,8 @@
       position: 4
     - word: 大菅
       position: 6
+      tags:
+        - silent
     - word: いただき
       base: 頂く
       dictionary: いただく
@@ -107576,6 +108350,8 @@
   words:
     - word: 大菅
       position: 1
+      tags:
+        - silent
     - word: こちら
       base: 此方
       position: 4
@@ -107613,6 +108389,8 @@
   words:
     - word: 大菅
       position: 1
+      tags:
+        - silent
     - word: こちら
       base: 此方
       position: 4
@@ -107862,6 +108640,8 @@
       position: 0
     - word: 大菅
       position: 2
+      tags:
+        - silent
     - word: 誰
       position: 5
     - word: で
@@ -107886,6 +108666,8 @@
   words:
     - word: 女
       position: 2
+      tags:
+        - silent
     - word: 何
       position: 4
     - word: で
@@ -107911,6 +108693,8 @@
       position: 1
     - word: 大菅
       position: 3
+      tags:
+        - silent
     - word: たか
       position: 6
     - word: が
@@ -107965,6 +108749,8 @@
       position: 1
     - word: 同僚
       position: 3
+      tags:
+        - silent
     - word: 自分
       position: 7
     - word: の
@@ -108037,6 +108823,8 @@
   words:
     - word: 大菅
       position: 1
+      tags:
+        - silent
     - word: で
       position: 4
     - word: それ
@@ -108149,6 +108937,8 @@
   words:
     - word: 鏡子
       position: 1
+      tags:
+        - silent
     - word: ほう
       base: 方
       position: 4
@@ -108186,6 +108976,8 @@
   words:
     - word: 女
       position: 2
+      tags:
+        - silent
     - word: えッ
       base: えっ
       position: 4
@@ -108221,6 +109013,8 @@
       position: 0
     - word: 大菅
       position: 2
+      tags:
+        - silent
     - word: '14'
       position: 6
     - word: 年
@@ -108796,6 +109590,8 @@
   words:
     - word: 大菅
       position: 1
+      tags:
+        - silent
     - word: 山本
       position: 4
     - word: 彰子
@@ -108877,6 +109673,8 @@
       position: 1
     - word: みずえ
       position: 8
+      tags:
+        - silent
     - word: ♬
       position: 12
     - word: ～
@@ -109088,6 +109886,8 @@
   words:
     - word: 真紀
       position: 1
+      tags:
+        - silent
     - word: 見る
       position: 4
     - word: だけ
@@ -109106,6 +109906,8 @@
     - word: すずめ
       base: 雀
       position: 1
+      tags:
+        - silent
     - word: 見る
       position: 5
     - word: だけ
@@ -109411,6 +110213,8 @@
   words:
     - word: 別府
       position: 1
+      tags:
+        - silent
     - word: お
       base: 御
       position: 4
@@ -109424,6 +110228,8 @@
       position: 7
     - word: 家森
       position: 12
+      tags:
+        - silent
     - word: お
       base: 御
       position: 15
@@ -111147,6 +111953,8 @@
       position: 0
     - word: 鏡子
       position: 2
+      tags:
+        - silent
     - word: 山本
       position: 5
     - word: 彰子
@@ -111190,6 +111998,8 @@
   words:
     - word: みずえ
       position: 2
+      tags:
+        - silent
     - word: ♬
       position: 6
     - word: ～
@@ -111267,6 +112077,8 @@
       position: 0
     - word: 鏡子
       position: 2
+      tags:
+        - silent
     - word: 山本
       position: 5
     - word: 彰子
@@ -111284,6 +112096,8 @@
   words:
     - word: 幹生
       position: 1
+      tags:
+        - silent
     - word: 真紀
       position: 4
     - word: ちゃん
@@ -112134,6 +112948,8 @@
       position: 0
     - word: 有朱
       position: 2
+      tags:
+        - silent
     - word: えッ
       base: えっ
       position: 5
@@ -112186,6 +113002,8 @@
   words:
     - word: 谷村
       position: 1
+      tags:
+        - silent
     - word: 有朱
       position: 4
     - word: ちゃん
@@ -112274,6 +113092,8 @@
   words:
     - word: 一同
       position: 1
+      tags:
+        - silent
     - word: おはよう
       base: 御早う
       position: 4
@@ -112294,6 +113114,8 @@
       position: 0
     - word: 有朱
       position: 2
+      tags:
+        - silent
     - word: ここ
       base: 此処
       position: 5
@@ -114463,6 +115285,8 @@
       position: 0
     - word: 幹生
       position: 2
+      tags:
+        - silent
     - word: 真紀
       position: 5
     - word: ちゃん
@@ -114505,6 +115329,8 @@
   words:
     - word: 大菅
       position: 1
+      tags:
+        - silent
     - word: ２億
       base: '200000000'
       dictionary: 2億
@@ -115819,6 +116645,8 @@
       position: 0
     - word: 船村
       position: 2
+      tags:
+        - silent
     - word: どっち
       position: 5
     - word: な
@@ -115928,6 +116756,8 @@
       position: 0
     - word: 別府
       position: 2
+      tags:
+        - silent
     - word: ごめん
       base: 御免
       position: 5
@@ -116976,6 +117806,8 @@
       position: 2
     - word: 船村
       position: 5
+      tags:
+        - silent
     - word: どう
       position: 8
     - word: も
@@ -117205,6 +118037,8 @@
       position: 6
     - word: 大菅
       position: 8
+      tags:
+        - silent
     - word: いえ
       position: 11
 - id: Quartet_Episode_09_0.24.53.080-0.24.55.660
@@ -119457,13 +120291,21 @@
   words:
     - word: ♬
       position: 1
+      tags:
+        - silent
     - word: ～
       position: 2
+      tags:
+        - silent
     - word: アヴェ
       base: アベ
       position: 3
+      tags:
+        - silent
     - word: マリア
       position: 7
+      tags:
+        - silent
 - id: Quartet_Episode_09_0.36.12.190-0.36.17.820
   deck_name: Quartet
   translation: (♫ Má vlast - Bedřich Smetana)
@@ -119473,10 +120315,16 @@
   words:
     - word: ♬
       position: 1
+      tags:
+        - silent
     - word: ～
       position: 2
+      tags:
+        - silent
     - word: モルダウ
       position: 3
+      tags:
+        - silent
 - id: Quartet_Episode_09_0.36.44.450-0.36.49.130
   deck_name: Quartet
   translation: >-
@@ -120525,6 +121373,8 @@
       position: 1
     - word: ラジオ
       position: 8
+      tags:
+        - silent
     - word: 明日
       position: 12
     - word: の
@@ -120576,6 +121426,8 @@
       position: 0
     - word: 柊
       position: 2
+      tags:
+        - silent
     - word: 軽井沢
       position: 4
     - word: に
@@ -120615,6 +121467,8 @@
   words:
     - word: 真紀
       position: 1
+      tags:
+        - silent
     - word: お
       base: 御
       position: 4
@@ -120656,6 +121510,8 @@
   words:
     - word: 柊
       position: 1
+      tags:
+        - silent
     - word: 音楽
       position: 3
     - word: の
@@ -121142,6 +121998,8 @@
   words:
     - word: 別府
       position: 1
+      tags:
+        - silent
     - word: すい
       base: すむ
       dictionary: すむ
@@ -121181,6 +122039,8 @@
   words:
     - word: 大橋
       position: 1
+      tags:
+        - silent
     - word: リムジン
       position: 4
     - word: じゃ
@@ -121218,6 +122078,8 @@
   words:
     - word: 家森
       position: 1
+      tags:
+        - silent
     - word: マリコ
       position: 4
     - word: おお
@@ -121228,6 +122090,8 @@
       position: 15
     - word: 女性
       position: 17
+      tags:
+        - silent
     - word: やめ
       base: やめる
       dictionary: やめる
@@ -121523,6 +122387,8 @@
     - word: すずめ
       base: 雀
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 5
     - word: はい
@@ -122244,6 +123110,8 @@
       position: 0
     - word: 別府
       position: 2
+      tags:
+        - silent
     - word: 真紀
       position: 5
     - word: さん
@@ -122366,6 +123234,8 @@
       position: 0
     - word: 別府
       position: 2
+      tags:
+        - silent
     - word: すずめ
       base: 雀
       position: 5
@@ -122401,6 +123271,8 @@
       position: 0
     - word: 別府
       position: 2
+      tags:
+        - silent
     - word: 家森
       position: 5
     - word: さん
@@ -122521,6 +123393,8 @@
       position: 0
     - word: 別府
       position: 2
+      tags:
+        - silent
     - word: しばらく
       base: 暫く
       position: 5
@@ -122605,6 +123479,8 @@
       position: 1
     - word: 刑事
       position: 3
+      tags:
+        - silent
     - word: これ
       base: 此れ
       position: 6
@@ -122632,6 +123508,8 @@
       position: 0
     - word: 別府
       position: 2
+      tags:
+        - silent
     - word: はじめ
       position: 5
     - word: は
@@ -122674,6 +123552,8 @@
       position: 0
     - word: 別府
       position: 2
+      tags:
+        - silent
     - word: もう
       position: 5
     - word: あっ
@@ -122742,6 +123622,8 @@
       position: 0
     - word: 別府
       position: 2
+      tags:
+        - silent
     - word: やがて
       base: 軈て
       position: 5
@@ -122845,6 +123727,8 @@
       position: 0
     - word: 別府
       position: 2
+      tags:
+        - silent
     - word: いい
       base: 良い
       position: 5
@@ -123083,6 +123967,8 @@
       position: 0
     - word: 別府
       position: 2
+      tags:
+        - silent
     - word: だ
       position: 5
     - word: けど
@@ -123634,6 +124520,8 @@
   words:
     - word: 村濱
       position: 1
+      tags:
+        - silent
     - word: ちょっと
       base: 一寸
       position: 4
@@ -123904,6 +124792,8 @@
   words:
     - word: 村濱
       position: 1
+      tags:
+        - silent
     - word: 今朝
       position: 4
     - word: 出
@@ -125518,8 +126408,12 @@
       position: 0
     - word: 管理
       position: 2
+      tags:
+        - silent
     - word: 人
       position: 4
+      tags:
+        - silent
     - word: あらららら
       base: あら
       position: 6
@@ -126020,10 +126914,14 @@
   words:
     - word: 男子
       position: 1
+      tags:
+        - silent
     - word: Ａ
       base: a
       dictionary: a
       position: 3
+      tags:
+        - silent
     - word: 行こう
       base: 行く
       dictionary: 行く
@@ -126034,6 +126932,8 @@
       base: b
       dictionary: b
       position: 11
+      tags:
+        - silent
     - word: うん
       position: 13
 - id: Quartet_Episode_10_0.15.58.030-0.16.00.820
@@ -126047,10 +126947,14 @@
       position: 0
     - word: 子供
       position: 2
+      tags:
+        - silent
     - word: Ａ
       base: a
       dictionary: a
       position: 4
+      tags:
+        - silent
     - word: 嘘
       position: 6
     - word: <
@@ -126068,6 +126972,8 @@
       base: b
       dictionary: b
       position: 14
+      tags:
+        - silent
     - word: どう
       position: 16
     - word: し
@@ -126092,6 +126998,8 @@
       base: c
       dictionary: c
       position: 2
+      tags:
+        - silent
     - word: どう
       position: 4
     - word: し
@@ -126119,6 +127027,8 @@
       base: d
       dictionary: d
       position: 2
+      tags:
+        - silent
     - word: 意味
       position: 4
     - word: 分かん
@@ -129046,6 +129956,8 @@
   words:
     - word: 谷村
       position: 1
+      tags:
+        - silent
     - word: 真紀
       position: 4
     - word: さん
@@ -129087,8 +129999,12 @@
   words:
     - word: 多可
       position: 1
+      tags:
+        - silent
     - word: 美
       position: 3
+      tags:
+        - silent
     - word: 当たり前
       position: 5
     - word: でしょ
@@ -129178,6 +130094,8 @@
       position: 2
     - word: 夫
       position: 7
+      tags:
+        - silent
     - word: はい
       position: 9
     - word: ありがとう
@@ -129198,6 +130116,8 @@
   words:
     - word: 妻
       position: 1
+      tags:
+        - silent
     - word: ねえ
       base: ね
       position: 3
@@ -130748,6 +131668,8 @@
       base: レポーター
       dictionary: リポーター
       position: 1
+      tags:
+        - silent
     - word: 別府
       position: 8
     - word: さん
@@ -130815,6 +131737,8 @@
   words:
     - word: 谷村
       position: 1
+      tags:
+        - silent
     - word: ﾁｹｯﾄ
       base: チケット
       dictionary: チケット
@@ -130844,8 +131768,12 @@
       position: 22
     - word: 多可
       position: 24
+      tags:
+        - silent
     - word: 美
       position: 26
+      tags:
+        - silent
     - word: 私
       position: 28
     - word: 持っ
@@ -130894,12 +131822,16 @@
   words:
     - word: 墨田
       position: 1
+      tags:
+        - silent
     - word: 副
       position: 4
     - word: 部長
       position: 5
     - word: 半田
       position: 9
+      tags:
+        - silent
     - word: うん
       position: 12
 - id: Quartet_Episode_10_0.29.14.980-0.29.16.180
@@ -130920,21 +131852,37 @@
   words:
     - word: イヤホン
       position: 1
+      tags:
+        - silent
     - word: から
       position: 5
+      tags:
+        - silent
     - word: ふたり
       base: 二人
       position: 9
+      tags:
+        - silent
     - word: の
       position: 12
+      tags:
+        - silent
     - word: 夏
       position: 13
+      tags:
+        - silent
     - word: 物語
       position: 14
+      tags:
+        - silent
     - word: が
       position: 17
+      tags:
+        - silent
     - word: 聞こえる
       position: 18
+      tags:
+        - silent
 - id: Quartet_Episode_10_0.29.20.750-0.29.23.350
   deck_name: Quartet
   translation: '- Thank you very much.<br>- No problem.'
@@ -131288,14 +132236,24 @@
   words:
     - word: ♬
       position: 1
+      tags:
+        - silent
     - word: ～
       position: 2
+      tags:
+        - silent
     - word: 死
       position: 3
+      tags:
+        - silent
     - word: と
       position: 4
+      tags:
+        - silent
     - word: 乙女
       position: 5
+      tags:
+        - silent
 - id: Quartet_Episode_10_0.33.13.260-0.33.16.550
   deck_name: Quartet
   translation: '- I betrayed all of you.<br>- You didn''t betray us.'
@@ -131369,6 +132327,8 @@
   words:
     - word: 別府
       position: 2
+      tags:
+        - silent
     - word: 僕
       position: 5
     - word: 達
@@ -131661,6 +132621,8 @@
   words:
     - word: 別府
       position: 2
+      tags:
+        - silent
     - word: あッ
       base: 有る
       dictionary: ある
@@ -132231,14 +133193,24 @@
   words:
     - word: ♬
       position: 1
+      tags:
+        - silent
     - word: ～
       position: 2
+      tags:
+        - silent
     - word: ドラゴン
       position: 3
+      tags:
+        - silent
     - word: クエスト
       position: 7
+      tags:
+        - silent
     - word: 序曲
       position: 11
+      tags:
+        - silent
 - id: Quartet_Episode_10_0.37.32.090-0.37.36.980
   deck_name: Quartet
   translation: (♫ Dragon Quest Pray At The Church (Save))
@@ -132248,28 +133220,46 @@
   words:
     - word: ♬
       position: 1
+      tags:
+        - silent
     - word: ～
       position: 2
+      tags:
+        - silent
     - word: ﾄﾞﾗｺﾞﾝ
       base: ドラゴン
       dictionary: ドラゴン
       position: 3
+      tags:
+        - silent
     - word: ｸｴｽﾄ
       base: クエスト
       dictionary: クエスト
       position: 9
+      tags:
+        - silent
     - word: 教会
       position: 14
+      tags:
+        - silent
     - word: で
       position: 16
+      tags:
+        - silent
     - word: の
       position: 17
+      tags:
+        - silent
     - word: ｾｰﾌﾞ
       base: セーブ
       dictionary: セーブ
       position: 18
+      tags:
+        - silent
     - word: 音
       position: 22
+      tags:
+        - silent
 - id: Quartet_Episode_10_0.37.38.900-0.37.43.980
   deck_name: Quartet
   translation: (♫ Music For A Found Harmonium)
@@ -132279,28 +133269,42 @@
   words:
     - word: ♬
       position: 1
+      tags:
+        - silent
     - word: ～
       position: 2
+      tags:
+        - silent
     - word: Music
       base: ミュージック
       dictionary: MUSIC
       position: 3
+      tags:
+        - silent
     - word: For
       base: フォー
       dictionary: for
       position: 9
+      tags:
+        - silent
     - word: A
       base: a
       dictionary: a
       position: 13
+      tags:
+        - silent
     - word: Found
       base: found
       dictionary: found
       position: 15
+      tags:
+        - silent
     - word: Harmonium
       base: ハルモニウム
       dictionary: harmonium
       position: 21
+      tags:
+        - silent
 - id: Quartet_Episode_10_0.38.39.110-0.38.40.840
   deck_name: Quartet
   translation: Been sleeping, haven't you?
@@ -132482,6 +133486,8 @@
   words:
     - word: 一同
       position: 1
+      tags:
+        - silent
     - word: よろしく
       base: 宜しく
       position: 4
@@ -132542,11 +133548,17 @@
   words:
     - word: 別府
       position: 1
+      tags:
+        - silent
     - word: 真紀
       position: 4
+      tags:
+        - silent
     - word: すずめ
       base: 雀
       position: 7
+      tags:
+        - silent
     - word: いただき
       base: 頂く
       dictionary: いただく
@@ -132813,8 +133825,12 @@
   words:
     - word: 小声
       position: 1
+      tags:
+        - silent
     - word: で
       position: 3
+      tags:
+        - silent
     - word: パセリ
       position: 5
     - word: ぐらい
@@ -132828,9 +133844,13 @@
       position: 15
     - word: 別府
       position: 18
+      tags:
+        - silent
     - word: すずめ
       base: 雀
       position: 21
+      tags:
+        - silent
     - word: えッ
       base: えっ
       position: 25
@@ -132946,8 +133966,12 @@
   words:
     - word: 家森
       position: 1
+      tags:
+        - silent
     - word: 真紀
       position: 4
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -133293,9 +134317,13 @@
   words:
     - word: 別府
       position: 1
+      tags:
+        - silent
     - word: すずめ
       base: 雀
       position: 4
+      tags:
+        - silent
     - word: センキュー
       position: 8
     - word: パセリ

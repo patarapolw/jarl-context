@@ -1,3 +1,83 @@
+- id: A_DeathNote_01_0197
+  deck_name: Death Note
+  translation: Juicy?
+  sound: A_DeathNote_01_0.16.24.120-0.16.24.920.mp3
+  sentence: (Juicy=ジューシー)
+  words:
+    - word: Juicy
+      base: juicy
+      dictionary: juicy
+      position: 1
+      tags:
+        - silent
+    - word: '='
+      base: ＝
+      dictionary: ＝
+      position: 6
+      tags:
+        - silent
+    - word: ジューシー
+      position: 7
+      tags:
+        - silent
+- id: A_DeathNote_02_0322
+  deck_name: Death Note
+  translation: I know. I had a call from headquarters.
+  sound: A_DeathNote_12_0.05.31.170-0.05.33.870.mp3
+  sentence: ※(「がな」、があるなの略)　あぁ、ちょっと本部から連絡がな…
+  words:
+    - word: がな
+      base: 仮名
+      position: 3
+      tags:
+        - silent
+    - word: が
+      position: 7
+      tags:
+        - silent
+    - word: ある
+      base: 有る
+      position: 8
+      tags:
+        - silent
+    - word: な
+      position: 10
+      tags:
+        - silent
+    - word: の
+      position: 11
+      tags:
+        - silent
+    - word: 略
+      position: 12
+      tags:
+        - silent
+    - word: あぁ
+      base: ああ
+      position: 15
+    - word: ちょっと
+      base: 一寸
+      position: 18
+    - word: 本部
+      position: 22
+    - word: から
+      position: 24
+    - word: 連絡
+      position: 26
+    - word: が
+      position: 28
+    - word: な
+      position: 29
+- id: A_DeathNote_04_0814
+  deck_name: Death Note
+  translation: Probably...
+  sound: A_DeathNote_19_0.04.37.110-0.04.38.240.mp3
+  sentence: (…多分)
+  words:
+    - word: 多分
+      position: 2
+      tags:
+        - silent
 - id: A_DeathNote_04_0904
   deck_name: Death Note
   translation: Well, it's time for the real thing.
@@ -8,17 +88,27 @@
       base: l
       dictionary: l
       position: 2
+      tags:
+        - silent
     - word: 知っ
       base: 知る
       dictionary: 知る
       position: 5
+      tags:
+        - silent
     - word: て
       position: 7
+      tags:
+        - silent
     - word: いる
       base: 居る
       position: 8
+      tags:
+        - silent
     - word: か
       position: 10
+      tags:
+        - silent
     - word: じゃあ
       base: で
       position: 13
@@ -29,6 +119,83 @@
       position: 20
     - word: だ
       position: 22
+- id: A_DeathNote_11_2554
+  deck_name: Death Note
+  translation: >-
+    Even if you don't agree with me, keep your sentiments to yourself.  As long
+    as you do not broadcast them, I won't kill you.
+  sound: A_DeathNote_03_0.05.31.330-0.05.39.180.mp3
+  sentence: 私に同意できなくとも、　メディアに乗せ、公(おおやけ)にしたりしなければ、　殺したりはしません
+  words:
+    - word: 私
+      position: 0
+    - word: に
+      position: 1
+    - word: 同意
+      position: 2
+    - word: でき
+      base: 出来る
+      dictionary: できる
+      position: 4
+    - word: なく
+      base: ない
+      dictionary: ない
+      position: 6
+    - word: とも
+      position: 8
+    - word: メディア
+      position: 12
+    - word: に
+      position: 16
+    - word: 乗せ
+      base: 乗せる
+      dictionary: 乗せる
+      position: 17
+    - word: 公
+      position: 20
+    - word: おおやけ
+      base: 公
+      position: 22
+      tags:
+        - silent
+    - word: に
+      position: 27
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 28
+    - word: たり
+      position: 29
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 31
+    - word: なけれ
+      base: ない
+      dictionary: ない
+      position: 32
+    - word: ば
+      position: 35
+    - word: 殺し
+      base: 殺す
+      dictionary: 殺す
+      position: 38
+    - word: たり
+      position: 40
+    - word: は
+      position: 42
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 43
+    - word: ませ
+      base: ます
+      dictionary: ます
+      position: 44
+    - word: ん
+      base: ず
+      dictionary: ぬ
+      position: 46
 - id: A_DeathNote_14_3326
   deck_name: Death Note
   translation: Scary...
@@ -37,22 +204,36 @@
   words:
     - word: 怖い
       position: 2
+      tags:
+        - silent
     - word: の
       position: 5
+      tags:
+        - silent
     - word: 口語
       position: 6
+      tags:
+        - silent
     - word: 的
       position: 8
+      tags:
+        - silent
     - word: な
       base: だ
       dictionary: だ
       position: 9
+      tags:
+        - silent
     - word: 言い
       base: 言う
       dictionary: 言う
       position: 10
+      tags:
+        - silent
     - word: 方
       position: 12
+      tags:
+        - silent
     - word: こえ
       base: 声
       position: 15
@@ -81,12 +262,20 @@
       position: 9
     - word: 体育
       position: 11
+      tags:
+        - silent
     - word: 会
       position: 13
+      tags:
+        - silent
     - word: 系
       position: 14
+      tags:
+        - silent
     - word: の
       position: 15
+      tags:
+        - silent
     - word: 挨拶
       position: 17
     - word: はい

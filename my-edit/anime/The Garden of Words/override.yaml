@@ -1,3 +1,121 @@
+- id: A_GardenOfWords_0231
+  deck_name: The Garden of Words
+  translation: Now that you mention it, you are late a lot, Akizuki.
+  sound: A_GardenOfWords_1_0.26.00.220-0.26.03.060.mp3
+  sentence: (佐藤)　そういえばよく遅刻してたよね　秋月くん
+  words:
+    - word: 佐藤
+      position: 1
+      tags:
+        - silent
+    - word: そう
+      position: 5
+    - word: いえ
+      base: 言う
+      dictionary: いう
+      position: 7
+    - word: ば
+      position: 9
+    - word: よく
+      base: 良く
+      position: 10
+    - word: 遅刻
+      position: 12
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 14
+    - word: て
+      base: てる
+      dictionary: てる
+      position: 15
+    - word: た
+      position: 16
+    - word: よ
+      position: 17
+    - word: ね
+      position: 18
+    - word: 秋月
+      position: 20
+    - word: くん
+      base: 君
+      position: 22
+- id: A_GardenOfWords_0248
+  deck_name: The Garden of Words
+  translation: >-
+    Someone's boyfriend fell for Miss Yukino, and as payback everyone in the
+    class treated Miss Yukino terribly.
+  sound: A_GardenOfWords_1_0.27.10.460-0.27.16.900.mp3
+  sentence: (佐藤)　誰かの彼氏がユキノ先生に　惚れちゃったとかでさ　逆恨みしてクラス全員で　散々先生に嫌がらせして
+  words:
+    - word: 佐藤
+      position: 1
+      tags:
+        - silent
+    - word: 誰
+      position: 5
+    - word: か
+      position: 6
+    - word: の
+      position: 7
+    - word: 彼氏
+      position: 8
+    - word: が
+      position: 10
+    - word: ユキノ
+      position: 11
+    - word: 先生
+      position: 14
+    - word: に
+      position: 16
+    - word: 惚れ
+      base: 惚れる
+      dictionary: 惚れる
+      position: 18
+    - word: ちゃっ
+      base: ちゃう
+      dictionary: ちゃう
+      position: 20
+    - word: た
+      position: 23
+    - word: と
+      position: 24
+    - word: か
+      position: 25
+    - word: で
+      base: だ
+      dictionary: だ
+      position: 26
+    - word: さ
+      position: 27
+    - word: 逆恨み
+      position: 29
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 32
+    - word: て
+      position: 33
+    - word: クラス
+      position: 34
+    - word: 全員
+      position: 37
+    - word: で
+      position: 39
+    - word: 散々
+      position: 41
+    - word: 先生
+      position: 43
+    - word: に
+      position: 45
+    - word: 嫌がらせ
+      position: 46
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 50
+    - word: て
+      position: 51
 - id: A_GardenOfWords_0303
   deck_name: The Garden of Words
   translation: ...time of my life.
@@ -8,6 +126,8 @@
       base: 二人
       dictionary: 2人
       position: 1
+      tags:
+        - silent
     - word: 幸せ
       position: 4
     - word: か

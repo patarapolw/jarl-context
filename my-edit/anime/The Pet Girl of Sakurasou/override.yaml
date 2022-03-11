@@ -1,3 +1,72 @@
+- id: Sakurasou_no_Pet_na_Kanojo_02_0259_0.00.11.530
+  deck_name: The Pet Girl of Sakurasou
+  translation: >-
+    You see before you the focus of today's Sakura-sou Conference, Shiina
+    Mashiro-san.
+  sound: Sakurasou_no_Pet_na_Kanojo_02_0.00.11.380-0.00.17.810.mp3
+  sentence: 今度の桜荘会議　議題はこちらにいる椎名真白(しいなましろ)さんについてです
+  words:
+    - word: 今度
+      position: 0
+    - word: の
+      position: 2
+    - word: 桜
+      position: 3
+    - word: 荘
+      position: 4
+    - word: 会議
+      position: 5
+    - word: 議題
+      position: 8
+    - word: は
+      position: 10
+    - word: こちら
+      base: 此方
+      position: 11
+    - word: に
+      position: 14
+    - word: いる
+      base: 居る
+      position: 15
+    - word: 椎名
+      position: 17
+    - word: 真
+      position: 19
+    - word: 白
+      position: 20
+    - word: しい
+      position: 22
+      tags:
+        - silent
+    - word: な
+      base: だ
+      dictionary: だ
+      position: 24
+      tags:
+        - silent
+    - word: ま
+      base: まー
+      position: 25
+      tags:
+        - silent
+    - word: しろ
+      base: 為る
+      dictionary: する
+      position: 26
+      tags:
+        - silent
+    - word: さん
+      position: 29
+    - word: に
+      position: 31
+    - word: つい
+      base: つく
+      dictionary: つく
+      position: 32
+    - word: て
+      position: 34
+    - word: です
+      position: 35
 - id: Sakurasou_no_Pet_na_Kanojo_02_0261_0.00.20.810
   deck_name: The Pet Girl of Sakurasou
   translation: After fixing her bed hair, we were as good as tardy.
@@ -25,26 +94,46 @@
       position: 12
     - word: 学校
       position: 15
+      tags:
+        - silent
     - word: は
       position: 17
+      tags:
+        - silent
     - word: どう
       position: 18
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
       position: 20
+      tags:
+        - silent
     - word: た
       position: 21
+      tags:
+        - silent
     - word: の
       position: 22
+      tags:
+        - silent
     - word: 俺
       position: 24
+      tags:
+        - silent
     - word: は
       position: 25
+      tags:
+        - silent
     - word: 遅刻
       position: 26
+      tags:
+        - silent
     - word: だ
       position: 28
+      tags:
+        - silent
 - id: Sakurasou_no_Pet_na_Kanojo_08_2119_0.05.48.850
   deck_name: The Pet Girl of Sakurasou
   translation: Now what kind of punishment does he deserve (lol)?
@@ -79,6 +168,8 @@
     - word: 笑
       base: 笑い
       position: 18
+      tags:
+        - silent
 - id: Sakurasou_no_Pet_na_Kanojo_09_2558_0.13.11.010
   deck_name: The Pet Girl of Sakurasou
   translation: >-
@@ -90,39 +181,67 @@
     - word: なに
       base: 何
       position: 1
+      tags:
+        - silent
     - word: よ
       position: 3
+      tags:
+        - silent
     - word: なに
       base: 何
       position: 5
+      tags:
+        - silent
     - word: よ
       position: 7
+      tags:
+        - silent
     - word: 千尋
       position: 9
+      tags:
+        - silent
     - word: ちゃん
       position: 11
+      tags:
+        - silent
     - word: に
       position: 14
+      tags:
+        - silent
     - word: 言い
       base: 言う
       dictionary: 言う
       position: 15
+      tags:
+        - silent
     - word: つけ
       base: つける
       dictionary: つける
       position: 17
+      tags:
+        - silent
     - word: て
       position: 19
+      tags:
+        - silent
     - word: やる
       base: 遣る
       position: 20
+      tags:
+        - silent
     - word: ん
       base: の
       position: 22
+      tags:
+        - silent
     - word: だ
       position: 23
+      tags:
+        - silent
     - word: から
       position: 24
+      tags:
+        - silent
 - id: Sakurasou_no_Pet_na_Kanojo_11_3020_0.00.54.270
   deck_name: The Pet Girl of Sakurasou
   translation: We'co...
@@ -132,6 +251,8 @@
     - word: いらっ
       base: いら
       position: 1
+      tags:
+        - silent
     - word: さ
       position: 5
     - word: いやせ
@@ -156,11 +277,17 @@
       position: 4
     - word: 時速
       position: 8
+      tags:
+        - silent
     - word: 三百八十
       base: '380'
       position: 10
+      tags:
+        - silent
     - word: キロメートル
       position: 14
+      tags:
+        - silent
 - id: Sakurasou_no_Pet_na_Kanojo_12_3474_0.12.30.420
   deck_name: The Pet Girl of Sakurasou
   translation: Shout! Meatball Beam!
@@ -171,10 +298,16 @@
       base: 叫ぶ
       dictionary: 叫べる
       position: 1
+      tags:
+        - silent
     - word: ミートボール
       position: 4
+      tags:
+        - silent
     - word: ビール
       position: 10
+      tags:
+        - silent
 - id: Sakurasou_no_Pet_na_Kanojo_12_3536_0.17.24.220
   deck_name: The Pet Girl of Sakurasou
   translation: U-Um, sorry, I'm—
@@ -184,12 +317,20 @@
     - word: その
       base: 其の
       position: 1
+      tags:
+        - silent
     - word: 私
       position: 4
+      tags:
+        - silent
     - word: は
       position: 5
+      tags:
+        - silent
     - word: 今
       position: 6
+      tags:
+        - silent
 - id: Sakurasou_no_Pet_na_Kanojo_16_4945_0.20.54.390
   deck_name: The Pet Girl of Sakurasou
   translation: How about that?
@@ -202,8 +343,12 @@
       position: 3
     - word: 大阪
       position: 5
+      tags:
+        - silent
     - word: 腔
       position: 7
+      tags:
+        - silent
 - id: Sakurasou_no_Pet_na_Kanojo_19_5944_0.14.43.580
   deck_name: The Pet Girl of Sakurasou
   translation: Hmm... For now, a simple "hi" should do it.
@@ -230,42 +375,74 @@
       base: '101'
       dictionary: '101'
       position: 21
+      tags:
+        - silent
     - word: 号
       position: 24
+      tags:
+        - silent
     - word: 室
       position: 25
+      tags:
+        - silent
     - word: に
       position: 26
+      tags:
+        - silent
     - word: 日
       position: 27
+      tags:
+        - silent
     - word: っ
       position: 28
+      tags:
+        - silent
     - word: 越し
       base: 越す
       dictionary: 越す
       position: 29
+      tags:
+        - silent
     - word: て
       position: 31
+      tags:
+        - silent
     - word: き
       base: 来る
       dictionary: くる
       position: 32
+      tags:
+        - silent
     - word: た
       position: 33
+      tags:
+        - silent
     - word: 神田
       position: 34
+      tags:
+        - silent
     - word: 空
       position: 36
+      tags:
+        - silent
     - word: 太
       position: 37
+      tags:
+        - silent
     - word: だ
       position: 38
+      tags:
+        - silent
     - word: けど
       base: けれど
       position: 39
+      tags:
+        - silent
     - word: よろしく
       base: 宜しく
       position: 42
+      tags:
+        - silent
 - id: Sakurasou_no_Pet_na_Kanojo_19_5954_0.15.31.650
   deck_name: The Pet Girl of Sakurasou
   translation: What the hell is with this conversation?!
@@ -284,42 +461,74 @@
       position: 6
     - word: 赤坂
       position: 10
+      tags:
+        - silent
     - word: 君
       position: 12
+      tags:
+        - silent
     - word: あの
       position: 13
+      tags:
+        - silent
     - word: ね
       position: 15
+      tags:
+        - silent
     - word: その
       base: 其の
       position: 16
+      tags:
+        - silent
     - word: 語尾
       position: 18
+      tags:
+        - silent
     - word: やめ
       base: やめる
       dictionary: やめる
       position: 20
+      tags:
+        - silent
     - word: て
       position: 22
+      tags:
+        - silent
     - word: くれる
       base: 呉れる
       position: 23
+      tags:
+        - silent
     - word: か
       position: 26
+      tags:
+        - silent
     - word: い
       position: 27
+      tags:
+        - silent
     - word: い
       base: いー
       position: 29
+      tags:
+        - silent
     - word: ラッ
       position: 30
+      tags:
+        - silent
     - word: と
       position: 32
+      tags:
+        - silent
     - word: する
       base: 為る
       position: 33
+      tags:
+        - silent
     - word: わ
       position: 35
+      tags:
+        - silent
 - id: Sakurasou_no_Pet_na_Kanojo_23_7157_0.15.15.870
   deck_name: The Pet Girl of Sakurasou
   translation: Good grief, not you too!
@@ -338,3 +547,5 @@
       position: 8
     - word: 青山
       position: 11
+      tags:
+        - silent

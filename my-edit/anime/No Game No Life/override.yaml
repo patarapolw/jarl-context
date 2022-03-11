@@ -1,0 +1,5693 @@
+- id: A_NoGameNoLife_E01_0011
+  deck_name: No Game No Life
+  translation: Their account names are always left empty, so they're only known as "Blank."
+  sound: A_NoGameNoLife__01_0.01.52.207-0.01.57.546.mp3
+  sentence: アカウント名が常に空欄ゆえに― 通称 「空白(くうはく)」
+  words:
+    - word: アカウント
+      position: 0
+    - word: 名
+      position: 5
+    - word: が
+      position: 6
+    - word: 常
+      position: 7
+    - word: に
+      position: 8
+    - word: 空欄
+      position: 9
+    - word: ゆえ
+      base: 故
+      position: 11
+    - word: に
+      position: 13
+    - word: 通称
+      position: 16
+    - word: 空白
+      position: 20
+    - word: くう
+      position: 23
+      tags:
+        - silent
+    - word: はく
+      position: 25
+      tags:
+        - silent
+- id: A_NoGameNoLife_E01_0040
+  deck_name: No Game No Life
+  translation: Thanks for the efficiency lecture.
+  sound: A_NoGameNoLife__01_0.03.44.319-0.03.46.196.mp3
+  sentence: 効率厨 乙(おつ)
+  words:
+    - word: 効率
+      position: 0
+    - word: 厨
+      position: 2
+    - word: 乙
+      position: 4
+    - word: おつ
+      position: 6
+      tags:
+        - silent
+- id: A_NoGameNoLife_E01_0074
+  deck_name: No Game No Life
+  translation: >-
+    To "     "  Sender: unknown    Have you two siblings ever felt like you
+    were  born in the wrong world? What is this? And how does he know that Blank
+    are siblings?
+  sound: A_NoGameNoLife__01_0.05.33.428-0.05.42.437.mp3
+  sentence: あっ 何だ これ？ つうか なんで俺ら「空白」が 兄妹(きょうだい)だって知ってんだ？
+  words:
+    - word: あっ
+      position: 0
+    - word: 何
+      position: 3
+    - word: だ
+      position: 4
+    - word: これ
+      base: 此れ
+      position: 6
+    - word: つう
+      position: 10
+    - word: か
+      position: 12
+    - word: なん
+      base: 何
+      position: 14
+    - word: で
+      position: 16
+    - word: 俺
+      position: 17
+    - word: ら
+      base: 等
+      position: 18
+    - word: 空白
+      position: 20
+    - word: が
+      position: 23
+    - word: 兄妹
+      base: 兄弟
+      position: 25
+    - word: きょうだい
+      base: 兄弟
+      position: 28
+      tags:
+        - silent
+    - word: だ
+      position: 34
+    - word: って
+      position: 35
+    - word: 知っ
+      base: 知る
+      dictionary: 知る
+      position: 37
+    - word: て
+      base: てる
+      dictionary: てる
+      position: 39
+    - word: ん
+      base: の
+      position: 40
+    - word: だ
+      position: 41
+- id: A_NoGameNoLife_E01_0082
+  deck_name: No Game No Life
+  translation: Chess is a finite two-player,  zero-sum, perfect-information game.
+  sound: A_NoGameNoLife__01_0.06.09.548-0.06.13.760.mp3
+  sentence: チェスは 二人零和(ににんぜろわ)有限確定 完全情報ゲーム
+  words:
+    - word: チェス
+      position: 0
+    - word: は
+      position: 3
+    - word: 二人
+      position: 5
+    - word: 零
+      position: 7
+    - word: 和
+      position: 8
+    - word: に
+      position: 10
+      tags:
+        - silent
+    - word: にん
+      base: にる
+      dictionary: にる
+      position: 11
+      tags:
+        - silent
+    - word: ぜろ
+      base: 競る
+      dictionary: せる
+      position: 13
+      tags:
+        - silent
+    - word: わ
+      position: 15
+      tags:
+        - silent
+    - word: 有限
+      position: 17
+    - word: 確定
+      position: 19
+    - word: 完全
+      position: 22
+    - word: 情報
+      position: 24
+    - word: ゲーム
+      position: 26
+- id: A_NoGameNoLife_E01_0150
+  deck_name: No Game No Life
+  translation: >-
+    Long ago, in the distant, distant past, the gods, along with  their families
+    and creations, waged an eternal war for the  right to rule the world, the
+    right to be the One True God.
+  sound: A_NoGameNoLife__01_0.12.00.857-0.12.13.036.mp3
+  sentence: 昔々の さらに昔 神々は世界の絶対支配権 唯一神(ゆいいつしん)の座をかけ― その けん属 被造物と共に 永遠を争った
+  words:
+    - word: 昔々
+      position: 0
+    - word: の
+      position: 2
+    - word: さらに
+      base: 更に
+      position: 4
+    - word: 昔
+      position: 7
+    - word: 神々
+      position: 9
+    - word: は
+      position: 11
+    - word: 世界
+      position: 12
+    - word: の
+      position: 14
+    - word: 絶対
+      position: 15
+    - word: 支配
+      position: 17
+    - word: 権
+      position: 19
+    - word: 唯一
+      position: 21
+    - word: 神
+      position: 23
+    - word: ゆい
+      position: 25
+      tags:
+        - silent
+    - word: いつ
+      position: 27
+      tags:
+        - silent
+    - word: しん
+      position: 29
+      tags:
+        - silent
+    - word: の
+      position: 32
+    - word: 座
+      position: 33
+    - word: を
+      position: 34
+    - word: かけ
+      base: 掛ける
+      dictionary: かける
+      position: 35
+    - word: その
+      base: 其の
+      position: 39
+    - word: けん
+      position: 42
+    - word: 属
+      position: 44
+    - word: 被
+      position: 46
+    - word: 造物
+      position: 47
+    - word: と
+      position: 49
+    - word: 共
+      position: 50
+    - word: に
+      position: 51
+    - word: 永遠
+      position: 53
+    - word: を
+      position: 55
+    - word: 争っ
+      base: 争う
+      dictionary: 争う
+      position: 56
+    - word: た
+      position: 58
+- id: A_NoGameNoLife_E01_0151
+  deck_name: No Game No Life
+  translation: The long, brutal battle came  to a swift end without a victor
+  sound: A_NoGameNoLife__01_0.12.13.536-0.12.18.917.mp3
+  sentence: 長く凄惨(せいさん)な戦いは 空と海と地 星の死によって―
+  words:
+    - word: 長く
+      base: 長い
+      dictionary: 長い
+      position: 0
+    - word: 凄惨
+      position: 2
+    - word: せいさん
+      base: 生産
+      position: 5
+      tags:
+        - silent
+    - word: な
+      base: だ
+      dictionary: だ
+      position: 10
+    - word: 戦い
+      position: 11
+    - word: は
+      position: 13
+    - word: 空
+      position: 15
+    - word: と
+      position: 16
+    - word: 海
+      position: 17
+    - word: と
+      position: 18
+    - word: 地
+      position: 19
+    - word: 星
+      position: 21
+    - word: の
+      position: 22
+    - word: 死
+      position: 23
+    - word: に
+      position: 24
+    - word: よっ
+      base: よる
+      dictionary: よる
+      position: 25
+    - word: て
+      position: 27
+- id: A_NoGameNoLife_E01_0185
+  deck_name: No Game No Life
+  translation: He wants the next king to  be humanity's best gambler.
+  sound: A_NoGameNoLife__01_0.14.27.212-0.14.31.132.mp3
+  sentence: 次期国王は人類最強の ギャンブラーに載冠(たいかん)させろってね
+  words:
+    - word: 次期
+      position: 0
+    - word: 国王
+      position: 2
+    - word: は
+      position: 4
+    - word: 人類
+      position: 5
+    - word: 最強
+      position: 7
+    - word: の
+      position: 9
+    - word: ギャンブラー
+      position: 11
+    - word: に
+      position: 17
+    - word: 載冠
+      position: 18
+    - word: た
+      position: 21
+      tags:
+        - silent
+    - word: いかん
+      base: 如何
+      position: 22
+      tags:
+        - silent
+    - word: さ
+      base: 為る
+      dictionary: する
+      position: 26
+    - word: せろ
+      base: せる
+      dictionary: せる
+      position: 27
+    - word: って
+      position: 29
+    - word: ね
+      position: 31
+- id: A_NoGameNoLife_E01_0293
+  deck_name: No Game No Life
+  translation: >-
+    Shiro, I'm glad, as your brother, that you love me so much,  but let me go
+    for a second.
+  sound: A_NoGameNoLife__01_0.23.18.326-0.23.24.957.mp3
+  sentence: 白 懐いてくれるのは 兄冥利(みょうり)に尽きるが― ちょっと放してくれ
+  words:
+    - word: 白
+      position: 0
+    - word: 懐い
+      base: 懐く
+      dictionary: 懐く
+      position: 2
+    - word: て
+      position: 4
+    - word: くれる
+      base: 呉れる
+      position: 5
+    - word: の
+      position: 8
+    - word: は
+      position: 9
+    - word: 兄
+      position: 11
+    - word: 冥利
+      position: 12
+    - word: みょうり
+      base: 冥利
+      position: 15
+      tags:
+        - silent
+    - word: に
+      position: 20
+    - word: 尽きる
+      position: 21
+    - word: が
+      position: 24
+    - word: ちょっと
+      base: 一寸
+      position: 27
+    - word: 放し
+      base: 放す
+      dictionary: 放す
+      position: 31
+    - word: て
+      position: 33
+    - word: くれ
+      base: 呉れる
+      dictionary: くれる
+      position: 34
+- id: A_NoGameNoLife_E02_0299
+  deck_name: No Game No Life
+  translation: >-
+    What do you mean? Oh, just so we're clear, we're siblings, so this isn't
+    weird.
+  sound: A_NoGameNoLife__02_0.00.07.186-0.00.11.398.mp3
+  sentence: ああ 言っとくけど 俺ら兄妹(きょうだい)だから これは別に…
+  words:
+    - word: ああ
+      position: 0
+    - word: 言っ
+      base: 言う
+      dictionary: 言う
+      position: 3
+    - word: とく
+      position: 5
+    - word: けど
+      base: けれど
+      position: 7
+    - word: 俺
+      position: 10
+    - word: ら
+      base: 等
+      position: 11
+    - word: 兄妹
+      base: 兄弟
+      position: 12
+    - word: きょうだい
+      base: 兄弟
+      position: 15
+      tags:
+        - silent
+    - word: だ
+      position: 21
+    - word: から
+      position: 22
+    - word: これ
+      base: 此れ
+      position: 25
+    - word: は
+      position: 27
+    - word: 別
+      position: 28
+    - word: に
+      base: だ
+      dictionary: だ
+      position: 29
+- id: A_NoGameNoLife_E02_0318
+  deck_name: No Game No Life
+  translation: Say what you want about me, but I won't let you insult my grandfather!
+  sound: A_NoGameNoLife__02_0.01.17.673-0.01.22.177.mp3
+  sentence: 私(わたくし)は ともかく おじい様まで 愚弄するのは許せませんわ
+  words:
+    - word: 私
+      position: 0
+    - word: わたくし
+      base: 私
+      position: 2
+      tags:
+        - silent
+    - word: は
+      position: 7
+    - word: ともかく
+      base: 兎も角
+      position: 9
+    - word: お
+      base: 御
+      position: 14
+    - word: じい
+      base: 爺
+      position: 15
+    - word: 様
+      position: 17
+    - word: まで
+      position: 18
+    - word: 愚弄
+      position: 21
+    - word: する
+      base: 為る
+      position: 23
+    - word: の
+      position: 25
+    - word: は
+      position: 26
+    - word: 許せ
+      base: 許す
+      dictionary: 許せる
+      position: 27
+    - word: ませ
+      base: ます
+      dictionary: ます
+      position: 29
+    - word: ん
+      base: ず
+      dictionary: ぬ
+      position: 31
+    - word: わ
+      position: 32
+- id: A_NoGameNoLife_E02_0350
+  deck_name: No Game No Life
+  translation: >-
+    He may think I fell for his trap, but while these rules appear  to give me
+    an advantage, there's actually a one in  three chance of a draw.
+  sound: A_NoGameNoLife__02_0.04.48.717-0.04.55.474.mp3
+  sentence: このルール 一見 私(わたくし)に有利なように見えて― 実は３分の１の確率で 引き分けになるんですわ
+  words:
+    - word: この
+      base: 此の
+      position: 0
+    - word: ルール
+      position: 2
+    - word: 一見
+      position: 6
+    - word: 私
+      position: 9
+    - word: わたくし
+      base: 私
+      position: 11
+      tags:
+        - silent
+    - word: に
+      position: 16
+    - word: 有利
+      position: 17
+    - word: な
+      base: だ
+      dictionary: だ
+      position: 19
+    - word: よう
+      base: 様
+      position: 20
+    - word: に
+      base: だ
+      dictionary: だ
+      position: 22
+    - word: 見え
+      base: 見える
+      dictionary: 見える
+      position: 23
+    - word: て
+      position: 25
+    - word: 実
+      position: 28
+    - word: は
+      position: 29
+    - word: ３
+      base: '3'
+      dictionary: '3'
+      position: 30
+    - word: 分
+      position: 31
+    - word: の
+      position: 32
+    - word: １
+      base: '1'
+      dictionary: '1'
+      position: 33
+    - word: の
+      position: 34
+    - word: 確率
+      position: 35
+    - word: で
+      position: 37
+    - word: 引き分け
+      position: 39
+    - word: に
+      position: 43
+    - word: なる
+      base: 成る
+      position: 44
+    - word: ん
+      base: の
+      position: 46
+    - word: です
+      position: 47
+    - word: わ
+      position: 49
+- id: A_NoGameNoLife_E02_0353
+  deck_name: No Game No Life
+  translation: With these rules, if I play rock,  I have a two in three chance of winning.
+  sound: A_NoGameNoLife__02_0.05.02.981-0.05.07.194.mp3
+  sentence: このルールだと 私(わたくし)がグーを出した場合― ３分の２で勝ち
+  words:
+    - word: この
+      base: 此の
+      position: 0
+    - word: ルール
+      position: 2
+    - word: だ
+      position: 5
+    - word: と
+      position: 6
+    - word: 私
+      position: 8
+    - word: わたくし
+      base: 私
+      position: 10
+      tags:
+        - silent
+    - word: が
+      position: 15
+    - word: グー
+      base: ぐう
+      position: 16
+    - word: を
+      position: 18
+    - word: 出し
+      base: 出す
+      dictionary: 出す
+      position: 19
+    - word: た
+      position: 21
+    - word: 場合
+      position: 22
+    - word: ３
+      base: '3'
+      dictionary: '3'
+      position: 26
+    - word: 分
+      position: 27
+    - word: の
+      position: 28
+    - word: ２
+      base: '2'
+      dictionary: '2'
+      position: 29
+    - word: で
+      position: 30
+    - word: 勝ち
+      base: 勝つ
+      dictionary: 勝つ
+      position: 31
+- id: A_NoGameNoLife_E02_0357
+  deck_name: No Game No Life
+  translation: >-
+    But he's said that he'll only play paper, to try and make it harder for me
+    to play rock.
+  sound: A_NoGameNoLife__02_0.05.14.952-0.05.21.166.mp3
+  sentence: ですが この男は パーしか出さないと宣言し― 私(わたくし)がグーを出しにくくするよう 誘導している
+  words:
+    - word: です
+      position: 0
+    - word: が
+      position: 2
+    - word: この
+      base: 此の
+      position: 4
+    - word: 男
+      position: 6
+    - word: は
+      position: 7
+    - word: パー
+      position: 9
+    - word: しか
+      position: 11
+    - word: 出さ
+      base: 出す
+      dictionary: 出す
+      position: 13
+    - word: ない
+      position: 15
+    - word: と
+      position: 17
+    - word: 宣言
+      position: 18
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 20
+    - word: 私
+      position: 23
+    - word: わたくし
+      base: 私
+      position: 25
+      tags:
+        - silent
+    - word: が
+      position: 30
+    - word: グー
+      base: ぐう
+      position: 31
+    - word: を
+      position: 33
+    - word: 出し
+      base: 出す
+      dictionary: 出す
+      position: 34
+    - word: にくく
+      base: 難い
+      dictionary: にくい
+      position: 36
+    - word: する
+      base: 為る
+      position: 39
+    - word: よう
+      base: 様
+      position: 41
+    - word: 誘導
+      position: 44
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 46
+    - word: て
+      position: 47
+    - word: いる
+      base: 居る
+      position: 48
+- id: A_NoGameNoLife_E02_0358
+  deck_name: No Game No Life
+  translation: In other words, he's trying  to make me play scissors!
+  sound: A_NoGameNoLife__02_0.05.21.291-0.05.24.461.mp3
+  sentence: つまり 私(わたくし)に チョキを出させようとしている
+  words:
+    - word: つまり
+      base: 詰まり
+      position: 0
+    - word: 私
+      position: 4
+    - word: わたくし
+      base: 私
+      position: 6
+      tags:
+        - silent
+    - word: に
+      position: 11
+    - word: チョキ
+      base: ちょき
+      position: 13
+    - word: を
+      position: 16
+    - word: 出さ
+      base: 出す
+      dictionary: 出す
+      position: 17
+    - word: せよう
+      base: せる
+      dictionary: せる
+      position: 19
+    - word: と
+      position: 22
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 23
+    - word: て
+      position: 24
+    - word: いる
+      base: 居る
+      position: 25
+- id: A_NoGameNoLife_E02_0361
+  deck_name: No Game No Life
+  translation: No! Calm down, Stephanie Dola!
+  sound: A_NoGameNoLife__02_0.05.36.014-0.05.41.395.mp3
+  sentence: 違う 冷静になるんですのよ ステファニー･ドーラ！ 私(わたくし)がグーを出せば―
+  words:
+    - word: 違う
+      position: 0
+    - word: 冷静
+      position: 3
+    - word: に
+      base: だ
+      dictionary: だ
+      position: 5
+    - word: なる
+      base: 成る
+      position: 6
+    - word: ん
+      base: の
+      position: 8
+    - word: です
+      position: 9
+    - word: の
+      position: 11
+    - word: よ
+      position: 12
+    - word: ステファニー
+      position: 14
+    - word: ドーラ
+      position: 21
+    - word: 私
+      position: 26
+    - word: わたくし
+      base: 私
+      position: 28
+      tags:
+        - silent
+    - word: が
+      position: 33
+    - word: グー
+      base: ぐう
+      position: 34
+    - word: を
+      position: 36
+    - word: 出せ
+      base: 出す
+      dictionary: 出す
+      position: 37
+    - word: ば
+      position: 39
+- id: A_NoGameNoLife_E02_0388
+  deck_name: No Game No Life
+  translation: W-Wait! That's not true! I checked!
+  sound: A_NoGameNoLife__02_0.07.22.829-0.07.26.875.mp3
+  sentence: 違いますわ 私(わたくし) 確認しましたわよ 宿を提供しろって…
+  words:
+    - word: 違い
+      base: 違う
+      dictionary: 違う
+      position: 0
+    - word: ます
+      position: 2
+    - word: わ
+      position: 4
+    - word: 私
+      position: 6
+    - word: わたくし
+      base: 私
+      position: 8
+      tags:
+        - silent
+    - word: 確認
+      position: 14
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 16
+    - word: まし
+      base: ます
+      dictionary: ます
+      position: 17
+    - word: た
+      position: 19
+    - word: わ
+      position: 20
+    - word: よ
+      position: 21
+    - word: 宿
+      position: 23
+    - word: を
+      position: 24
+    - word: 提供
+      position: 25
+    - word: しろ
+      base: 為る
+      dictionary: する
+      position: 27
+    - word: って
+      position: 29
+- id: A_NoGameNoLife_E02_0418
+  deck_name: No Game No Life
+  translation: >-
+    You said it four times... I know the ten pledges are absolute, but the fact
+    that I feel jealous as  he ignores me to talk to his sister... I refuse...
+  sound: A_NoGameNoLife__02_0.09.28.163-0.09.38.965.mp3
+  sentence: 十の盟約に拒否権はない けど あの男が私(わたくし)を無視して 妹と話をしていることに― 嫉妬しているなんて そんなこと そんなこと…
+  words:
+    - word: 十
+      base: '10'
+      position: 0
+    - word: の
+      position: 1
+    - word: 盟約
+      position: 2
+    - word: に
+      position: 4
+    - word: 拒否
+      position: 5
+    - word: 権
+      position: 7
+    - word: は
+      position: 8
+    - word: ない
+      base: 無い
+      position: 9
+    - word: けど
+      base: けれど
+      position: 12
+    - word: あの
+      base: 彼の
+      position: 15
+    - word: 男
+      position: 17
+    - word: が
+      position: 18
+    - word: 私
+      position: 19
+    - word: わたくし
+      base: 私
+      position: 21
+      tags:
+        - silent
+    - word: を
+      position: 26
+    - word: 無視
+      position: 27
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 29
+    - word: て
+      position: 30
+    - word: 妹
+      position: 32
+    - word: と
+      position: 33
+    - word: 話
+      position: 34
+    - word: を
+      position: 35
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 36
+    - word: て
+      position: 37
+    - word: いる
+      base: 居る
+      position: 38
+    - word: こと
+      position: 40
+    - word: に
+      position: 42
+    - word: 嫉妬
+      position: 45
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 47
+    - word: て
+      position: 48
+    - word: いる
+      base: 居る
+      position: 49
+    - word: なんて
+      position: 51
+    - word: そんな
+      position: 55
+    - word: こと
+      position: 58
+    - word: そんな
+      position: 61
+    - word: こと
+      position: 64
+- id: A_NoGameNoLife_E02_0422
+  deck_name: No Game No Life
+  translation: In other words, if I can just  maintain a strong will...
+  sound: A_NoGameNoLife__02_0.09.55.190-0.09.59.236.mp3
+  sentence: つまり 私(わたくし)が 意志を強く持ちさえすれば… なあ
+  words:
+    - word: つまり
+      base: 詰まり
+      position: 0
+    - word: 私
+      position: 4
+    - word: わたくし
+      base: 私
+      position: 6
+      tags:
+        - silent
+    - word: が
+      position: 11
+    - word: 意志
+      position: 13
+    - word: を
+      position: 15
+    - word: 強く
+      base: 強い
+      dictionary: 強い
+      position: 16
+    - word: 持ち
+      base: 持つ
+      dictionary: 持つ
+      position: 18
+    - word: さえ
+      position: 20
+    - word: すれ
+      base: 為る
+      dictionary: する
+      position: 22
+    - word: ば
+      position: 24
+    - word: なあ
+      position: 27
+- id: A_NoGameNoLife_E02_0425
+  deck_name: No Game No Life
+  translation: Of course! No! No! This isn't me! Hey, Steph.
+  sound: A_NoGameNoLife__02_0.10.03.156-0.10.08.203.mp3
+  sentence: 違う 違うんですの これは私(わたくし)では ないんですの！ なあ ステフ はい
+  words:
+    - word: 違う
+      position: 0
+    - word: 違う
+      position: 3
+    - word: ん
+      base: の
+      position: 5
+    - word: です
+      position: 6
+    - word: の
+      position: 8
+    - word: これ
+      base: 此れ
+      position: 10
+    - word: は
+      position: 12
+    - word: 私
+      position: 13
+    - word: わたくし
+      base: 私
+      position: 15
+      tags:
+        - silent
+    - word: で
+      position: 20
+    - word: は
+      position: 21
+    - word: ない
+      base: 無い
+      position: 23
+    - word: ん
+      base: の
+      position: 25
+    - word: です
+      position: 26
+    - word: の
+      position: 28
+    - word: なあ
+      base: な
+      position: 31
+    - word: ステフ
+      position: 34
+    - word: はい
+      position: 38
+- id: A_NoGameNoLife_E02_0471
+  deck_name: No Game No Life
+  translation: I wore it when I was a kid.
+  sound: A_NoGameNoLife__02_0.13.08.133-0.13.12.637.mp3
+  sentence: 私(わたくし)が小さいころ着ていた服ですわ ピッタリですわね
+  words:
+    - word: 私
+      position: 0
+    - word: わたくし
+      base: 私
+      position: 2
+      tags:
+        - silent
+    - word: が
+      position: 7
+    - word: 小さい
+      position: 8
+    - word: ころ
+      base: 頃
+      position: 11
+    - word: 着
+      base: 着る
+      dictionary: 着る
+      position: 13
+    - word: て
+      position: 14
+    - word: い
+      base: 居る
+      dictionary: いる
+      position: 15
+    - word: た
+      position: 16
+    - word: 服
+      position: 17
+    - word: です
+      position: 18
+    - word: わ
+      position: 20
+    - word: ピッタリ
+      base: ぴったり
+      position: 22
+    - word: です
+      position: 26
+    - word: わ
+      position: 28
+    - word: ね
+      position: 29
+- id: A_NoGameNoLife_E02_0481
+  deck_name: No Game No Life
+  translation: Miss...
+  sound: A_NoGameNoLife__02_0.13.47.130-0.13.49.132.mp3
+  sentence: お茶ならば 私(わたくし)どもが
+  words:
+    - word: お
+      base: 御
+      position: 0
+    - word: 茶
+      position: 1
+    - word: なら
+      base: だ
+      dictionary: だ
+      position: 2
+    - word: ば
+      position: 4
+    - word: 私
+      position: 6
+    - word: わたくし
+      base: 私
+      position: 8
+      tags:
+        - silent
+    - word: ども
+      base: 共
+      position: 13
+    - word: が
+      position: 15
+- id: A_NoGameNoLife_E02_0487
+  deck_name: No Game No Life
+  translation: Your wife? Oh, I'm so embarrassed...
+  sound: A_NoGameNoLife__02_0.14.04.647-0.14.06.524.mp3
+  sentence: …しいのは 私(わたくし)ですわ！
+  words:
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 1
+    - word: い
+      base: 居る
+      dictionary: いる
+      position: 2
+    - word: の
+      position: 3
+    - word: は
+      position: 4
+    - word: 私
+      position: 6
+    - word: わたくし
+      base: 私
+      position: 8
+      tags:
+        - silent
+    - word: です
+      position: 13
+    - word: わ
+      position: 15
+- id: A_NoGameNoLife_E02_0505
+  deck_name: No Game No Life
+  translation: We collectively call them the Exceed.
+  sound: A_NoGameNoLife__02_0.15.32.110-0.15.36.781.mp3
+  sentence: それを総称して 私(わたくし)たちは “イクシード”と呼んでいますわ
+  words:
+    - word: それ
+      base: 其れ
+      position: 0
+    - word: を
+      position: 2
+    - word: 総称
+      position: 3
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 5
+    - word: て
+      position: 6
+    - word: 私
+      position: 8
+    - word: わたくし
+      base: 私
+      position: 10
+      tags:
+        - silent
+    - word: たち
+      base: 達
+      position: 15
+    - word: は
+      position: 17
+    - word: イクシード
+      position: 20
+    - word: と
+      position: 26
+    - word: 呼ん
+      base: 呼ぶ
+      dictionary: 呼ぶ
+      position: 27
+    - word: で
+      position: 29
+    - word: い
+      base: 居る
+      dictionary: いる
+      position: 30
+    - word: ます
+      position: 31
+    - word: わ
+      position: 33
+- id: A_NoGameNoLife_E02_0506
+  deck_name: No Game No Life
+  translation: '#1 is the Old Deus, the gods who  were defeated by the One True God.'
+  sound: A_NoGameNoLife__02_0.15.36.948-0.15.39.993.mp3
+  sentence: 唯一神(ゆいいつしん)に敗れた １位のオールドデウス
+  words:
+    - word: 唯一
+      position: 0
+    - word: 神
+      position: 2
+    - word: ゆい
+      position: 4
+      tags:
+        - silent
+    - word: いつ
+      position: 6
+      tags:
+        - silent
+    - word: しん
+      position: 8
+      tags:
+        - silent
+    - word: に
+      position: 11
+    - word: 敗れ
+      base: 敗れる
+      dictionary: 敗れる
+      position: 12
+    - word: た
+      position: 14
+    - word: １
+      base: '1'
+      dictionary: '1'
+      position: 16
+    - word: 位
+      position: 17
+    - word: の
+      position: 18
+    - word: オールド
+      position: 19
+    - word: デウス
+      position: 23
+- id: A_NoGameNoLife_E02_0549
+  deck_name: No Game No Life
+  translation: I wanted to prove my grandfather was right.
+  sound: A_NoGameNoLife__02_0.18.33.750-0.18.38.629.mp3
+  sentence: 私(わたくし)は おじい様が 間違っていなかったと― 証明したかった
+  words:
+    - word: 私
+      position: 0
+    - word: わたくし
+      base: 私
+      position: 2
+      tags:
+        - silent
+    - word: は
+      position: 7
+    - word: お
+      base: 御
+      position: 9
+    - word: じい
+      base: 爺
+      position: 10
+    - word: 様
+      position: 12
+    - word: が
+      position: 13
+    - word: 間違っ
+      base: 間違う
+      dictionary: 間違う
+      position: 15
+    - word: て
+      position: 18
+    - word: い
+      base: 居る
+      dictionary: いる
+      position: 19
+    - word: なかっ
+      base: ない
+      dictionary: ない
+      position: 20
+    - word: た
+      position: 23
+    - word: と
+      position: 24
+    - word: 証明
+      position: 27
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 29
+    - word: たかっ
+      base: たい
+      dictionary: たい
+      position: 30
+    - word: た
+      position: 33
+- id: A_NoGameNoLife_E02_0559
+  deck_name: No Game No Life
+  translation: It's finally time for the coronation, isn't it?
+  sound: A_NoGameNoLife__02_0.19.32.475-0.19.36.229.mp3
+  sentence: いよいよ 戴冠(たいかん)式ですのね
+  words:
+    - word: いよいよ
+      base: 愈
+      position: 0
+    - word: 戴冠
+      position: 5
+    - word: た
+      position: 8
+      tags:
+        - silent
+    - word: いかん
+      base: 如何
+      position: 9
+      tags:
+        - silent
+    - word: 式
+      position: 13
+    - word: です
+      position: 14
+    - word: の
+      position: 16
+    - word: ね
+      position: 17
+- id: A_NoGameNoLife_E03_0596
+  deck_name: No Game No Life
+  translation: Wait, Sora. Are you serious?
+  sound: A_NoGameNoLife__03_0.00.11.523-0.00.13.567.mp3
+  sentence: ちょっと 空(ソラ) 本気ですの？
+  words:
+    - word: ちょっと
+      base: 一寸
+      position: 0
+    - word: 空
+      position: 5
+    - word: ソラ
+      base: そら
+      position: 7
+      tags:
+        - silent
+    - word: 本気
+      position: 11
+    - word: です
+      position: 13
+    - word: の
+      position: 15
+- id: A_NoGameNoLife_E03_0597
+  deck_name: No Game No Life
+  translation: You're going to crash the coronation?
+  sound: A_NoGameNoLife__03_0.00.13.692-0.00.15.402.mp3
+  sentence: 戴冠(たいかん)式に乗り込むなんて
+  words:
+    - word: 戴冠
+      position: 0
+    - word: た
+      position: 3
+      tags:
+        - silent
+    - word: いかん
+      base: 如何
+      position: 4
+      tags:
+        - silent
+    - word: 式
+      position: 8
+    - word: に
+      position: 9
+    - word: 乗り
+      base: 乗る
+      dictionary: 乗る
+      position: 10
+    - word: 込む
+      position: 12
+    - word: なんて
+      position: 14
+- id: A_NoGameNoLife_E03_0611
+  deck_name: No Game No Life
+  translation: You see any, Shiro?
+  sound: A_NoGameNoLife__03_0.02.42.758-0.02.45.094.mp3
+  sentence: 白(シロ) いたか？ １人
+  words:
+    - word: 白
+      position: 0
+    - word: シロ
+      base: 白
+      position: 2
+      tags:
+        - silent
+    - word: い
+      base: 居る
+      dictionary: いる
+      position: 6
+    - word: た
+      position: 7
+    - word: か
+      position: 8
+    - word: １人
+      base: 一人
+      dictionary: 1人
+      position: 11
+- id: A_NoGameNoLife_E03_0644
+  deck_name: No Game No Life
+  translation: Th-Then, she was using magic on us?
+  sound: A_NoGameNoLife__03_0.04.40.876-0.04.43.170.mp3
+  sentence: 私(わたくし)たちは 魔法を使われていたんですの？
+  words:
+    - word: 私
+      position: 0
+    - word: わたくし
+      base: 私
+      position: 2
+      tags:
+        - silent
+    - word: たち
+      base: 達
+      position: 7
+    - word: は
+      position: 9
+    - word: 魔法
+      position: 11
+    - word: を
+      position: 13
+    - word: 使わ
+      base: 使う
+      dictionary: 使う
+      position: 14
+    - word: れ
+      base: れる
+      dictionary: れる
+      position: 16
+    - word: て
+      position: 17
+    - word: い
+      base: 居る
+      dictionary: いる
+      position: 18
+    - word: た
+      position: 19
+    - word: ん
+      base: の
+      position: 20
+    - word: です
+      position: 21
+    - word: の
+      position: 23
+- id: A_NoGameNoLife_E03_0659
+  deck_name: No Game No Life
+  translation: >-
+    Plus, they're facing Imanities  who can't detect magic, so they're sure to
+    win.
+  sound: A_NoGameNoLife__03_0.05.30.884-0.05.37.557.mp3
+  sentence: しかも相手は 魔法を感知できないイマニティ 勝つのも たやすい これで 傀儡(かいらい)王の誕生
+  words:
+    - word: しかも
+      base: 然も
+      position: 0
+    - word: 相手
+      position: 3
+    - word: は
+      position: 5
+    - word: 魔法
+      position: 7
+    - word: を
+      position: 9
+    - word: 感知
+      position: 10
+    - word: でき
+      base: 出来る
+      dictionary: できる
+      position: 12
+    - word: ない
+      position: 14
+    - word: イマニティ
+      position: 16
+    - word: 勝つ
+      position: 22
+    - word: の
+      position: 24
+    - word: も
+      position: 25
+    - word: たやすい
+      base: 容易い
+      position: 27
+    - word: これ
+      base: 此れ
+      position: 32
+    - word: で
+      position: 34
+    - word: 傀儡
+      position: 36
+    - word: かいらい
+      base: 傀儡
+      position: 39
+      tags:
+        - silent
+    - word: 王
+      position: 44
+    - word: の
+      position: 45
+    - word: 誕生
+      position: 46
+- id: A_NoGameNoLife_E03_0667
+  deck_name: No Game No Life
+  translation: So Kurami's convinced that  another race is helping us!
+  sound: A_NoGameNoLife__03_0.06.08.422-0.06.13.593.mp3
+  sentence: つまり クラミーは 私(わたくし)たちのバックに― ほかの種族がいると 勝手に思い込んでいる？
+  words:
+    - word: つまり
+      base: 詰まり
+      position: 0
+    - word: クラミー
+      position: 4
+    - word: は
+      position: 8
+    - word: 私
+      position: 10
+    - word: わたくし
+      base: 私
+      position: 12
+      tags:
+        - silent
+    - word: たち
+      base: 達
+      position: 17
+    - word: の
+      position: 19
+    - word: バック
+      position: 20
+    - word: に
+      position: 23
+    - word: ほか
+      base: 他
+      position: 26
+    - word: の
+      position: 28
+    - word: 種族
+      position: 29
+    - word: が
+      position: 31
+    - word: いる
+      base: 居る
+      position: 32
+    - word: と
+      position: 34
+    - word: 勝手に
+      position: 36
+    - word: 思い
+      base: 思う
+      dictionary: 思う
+      position: 39
+    - word: 込ん
+      base: 込む
+      dictionary: 込む
+      position: 41
+    - word: で
+      position: 43
+    - word: いる
+      base: 居る
+      position: 44
+- id: A_NoGameNoLife_E03_0680
+  deck_name: No Game No Life
+  translation: Blank will never lose.
+  sound: A_NoGameNoLife__03_0.07.02.309-0.07.04.978.mp3
+  sentence: 「空白(くうはく)」に“敗北”の二文字はない
+  words:
+    - word: 空白
+      position: 1
+    - word: くう
+      position: 4
+      tags:
+        - silent
+    - word: はく
+      position: 6
+      tags:
+        - silent
+    - word: に
+      position: 10
+    - word: 敗北
+      position: 12
+    - word: の
+      position: 15
+    - word: 二
+      base: '2'
+      position: 16
+    - word: 文字
+      position: 17
+    - word: は
+      position: 19
+    - word: ない
+      base: 無い
+      position: 20
+- id: A_NoGameNoLife_E03_0740
+  deck_name: No Game No Life
+  translation: D-2 to D-4.
+  sound: A_NoGameNoLife__03_0.11.07.679-0.11.09.556.mp3
+  sentence: ｄ２(ツー) ｄ４(フォー)へ
+  words:
+    - word: ｄ
+      base: d
+      dictionary: d
+      position: 0
+    - word: ２
+      base: '2'
+      dictionary: '2'
+      position: 1
+    - word: ツー
+      position: 3
+      tags:
+        - silent
+    - word: ｄ
+      base: d
+      dictionary: d
+      position: 7
+    - word: ４
+      base: '4'
+      dictionary: '4'
+      position: 8
+    - word: フォー
+      position: 10
+      tags:
+        - silent
+    - word: へ
+      position: 14
+- id: A_NoGameNoLife_E03_0744
+  deck_name: No Game No Life
+  translation: G-7, forward.
+  sound: A_NoGameNoLife__03_0.11.25.572-0.11.27.741.mp3
+  sentence: ｇ７(セブン) 前へ
+  words:
+    - word: ｇ
+      base: g
+      dictionary: g
+      position: 0
+    - word: ７
+      base: '7'
+      dictionary: '7'
+      position: 1
+    - word: セブン
+      position: 3
+      tags:
+        - silent
+    - word: 前
+      position: 8
+    - word: へ
+      position: 9
+- id: A_NoGameNoLife_E03_0750
+  deck_name: No Game No Life
+  translation: Knight to C-3.
+  sound: A_NoGameNoLife__03_0.11.55.560-0.11.57.687.mp3
+  sentence: ナイト ｃ３(スリー)へ
+  words:
+    - word: ナイト
+      position: 0
+    - word: ｃ
+      base: c
+      dictionary: c
+      position: 4
+    - word: ３
+      base: '3'
+      dictionary: '3'
+      position: 5
+    - word: スリー
+      position: 7
+      tags:
+        - silent
+    - word: へ
+      position: 11
+- id: A_NoGameNoLife_E03_0837
+  deck_name: No Game No Life
+  translation: King to E-6!
+  sound: A_NoGameNoLife__03_0.18.15.898-0.18.18.026.mp3
+  sentence: キング ｅ６(シックス)へ
+  words:
+    - word: キング
+      position: 0
+    - word: ｅ
+      base: e
+      dictionary: e
+      position: 4
+    - word: ６
+      base: '6'
+      dictionary: '6'
+      position: 5
+    - word: シックス
+      position: 7
+      tags:
+        - silent
+    - word: へ
+      position: 12
+- id: A_NoGameNoLife_E04_0918
+  deck_name: No Game No Life
+  translation: You traitors!
+  sound: A_NoGameNoLife__04_0.04.04.756-0.04.06.800.mp3
+  sentence: この 売国奴(ばいこくど)どもめ
+  words:
+    - word: この
+      base: 此の
+      position: 0
+    - word: 売国
+      position: 3
+    - word: 奴
+      position: 5
+    - word: ばい
+      position: 7
+      tags:
+        - silent
+    - word: こく
+      base: 国
+      position: 9
+      tags:
+        - silent
+    - word: ど
+      position: 11
+      tags:
+        - silent
+    - word: ど
+      position: 13
+    - word: もめ
+      base: 揉む
+      dictionary: もめる
+      position: 14
+- id: A_NoGameNoLife_E04_0990
+  deck_name: No Game No Life
+  translation: >-
+    Then, in accordance with the  last wish of the former king, I crown Sora the
+    new king of El— HOLD IT!
+  sound: A_NoGameNoLife__04_0.09.15.942-0.09.23.700.mp3
+  sentence: では 前国王の遺言に従い― 空をエルキアの新国王として 戴冠(たいかん)する 待った！ またですかな？
+  words:
+    - word: で
+      position: 0
+    - word: は
+      position: 1
+    - word: 前
+      position: 3
+    - word: 国王
+      position: 4
+    - word: の
+      position: 6
+    - word: 遺言
+      position: 7
+    - word: に
+      position: 9
+    - word: 従い
+      base: 従う
+      dictionary: 従う
+      position: 10
+    - word: 空
+      position: 14
+    - word: を
+      position: 15
+    - word: エルキア
+      position: 16
+    - word: の
+      position: 20
+    - word: 新
+      position: 21
+    - word: 国王
+      position: 22
+    - word: と
+      position: 24
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 25
+    - word: て
+      position: 26
+    - word: 戴冠
+      position: 28
+    - word: た
+      position: 31
+      tags:
+        - silent
+    - word: いかん
+      base: 如何
+      position: 32
+      tags:
+        - silent
+    - word: する
+      base: 為る
+      position: 36
+    - word: 待っ
+      base: 待つ
+      dictionary: 待つ
+      position: 39
+    - word: た
+      position: 41
+    - word: また
+      base: 又
+      position: 44
+    - word: です
+      position: 46
+    - word: か
+      position: 48
+    - word: な
+      position: 49
+- id: A_NoGameNoLife_E04_1028
+  deck_name: No Game No Life
+  translation: >-
+    Unfortunately, due to the decline of Elkia, there are rumors that some of 
+    the ministers are collaborating
+  sound: A_NoGameNoLife__04_0.11.38.376-0.11.45.216.mp3
+  sentence: 残念ながら エルキア衰退により 大臣の中にも― 他国と つながっている輩(やから)がいる というウワサがありますわ
+  words:
+    - word: 残念
+      position: 0
+    - word: ながら
+      position: 2
+    - word: エルキア
+      position: 6
+    - word: 衰退
+      position: 10
+    - word: に
+      position: 12
+    - word: より
+      base: よる
+      dictionary: よる
+      position: 13
+    - word: 大臣
+      position: 16
+    - word: の
+      position: 18
+    - word: 中
+      position: 19
+    - word: に
+      position: 20
+    - word: も
+      position: 21
+    - word: 他国
+      position: 24
+    - word: と
+      position: 26
+    - word: つながっ
+      base: 繋ぐ
+      dictionary: つながる
+      position: 28
+    - word: て
+      position: 32
+    - word: いる
+      base: 居る
+      position: 33
+    - word: 輩
+      position: 35
+    - word: やから
+      base: 輩
+      position: 37
+      tags:
+        - silent
+    - word: が
+      position: 41
+    - word: いる
+      base: 居る
+      position: 42
+    - word: と
+      position: 45
+    - word: いう
+      base: 言う
+      position: 46
+    - word: ウワサ
+      base: 噂
+      position: 48
+    - word: が
+      position: 51
+    - word: あり
+      base: 有る
+      dictionary: ある
+      position: 52
+    - word: ます
+      position: 54
+    - word: わ
+      position: 56
+- id: A_NoGameNoLife_E04_1033
+  deck_name: No Game No Life
+  translation: >-
+    Whoever loses will be forbidden from  presenting false reports or arbitrary
+    messages.
+  sound: A_NoGameNoLife__04_0.11.57.479-0.12.03.401.mp3
+  sentence: 勝負に負けた者は 以後 虚偽の報告 また恣意的(しいてき)な伝達 これら一切を禁止する
+  words:
+    - word: 勝負
+      position: 0
+    - word: に
+      position: 2
+    - word: 負け
+      base: 負ける
+      dictionary: 負ける
+      position: 3
+    - word: た
+      position: 5
+    - word: 者
+      position: 6
+    - word: は
+      position: 7
+    - word: 以後
+      position: 9
+    - word: 虚偽
+      position: 12
+    - word: の
+      position: 14
+    - word: 報告
+      position: 15
+    - word: また
+      base: 又
+      position: 18
+    - word: 恣意
+      position: 20
+    - word: 的
+      position: 22
+    - word: しいて
+      base: 強いて
+      position: 24
+      tags:
+        - silent
+    - word: き
+      base: 来る
+      dictionary: くる
+      position: 27
+      tags:
+        - silent
+    - word: な
+      base: だ
+      dictionary: だ
+      position: 29
+    - word: 伝達
+      position: 30
+    - word: これ
+      base: 此れ
+      position: 33
+    - word: ら
+      base: 等
+      position: 35
+    - word: 一切
+      position: 36
+    - word: を
+      position: 38
+    - word: 禁止
+      position: 39
+    - word: する
+      base: 為る
+      position: 41
+- id: A_NoGameNoLife_E04_1040
+  deck_name: No Game No Life
+  translation: Yes, sir. Um... We'll introduce crop-rotation-based agriculture.
+  sound: A_NoGameNoLife__04_0.12.22.796-0.12.28.927.mp3
+  sentence: ええと 農業に関しては 輪栽式農業を導入する 圃場(ほじょう)を１つにし…
+  words:
+    - word: ええと
+      base: えーと
+      position: 0
+    - word: 農業
+      position: 4
+    - word: に
+      position: 6
+    - word: 関し
+      base: 関する
+      dictionary: 関する
+      position: 7
+    - word: て
+      position: 9
+    - word: は
+      position: 10
+    - word: 輪栽
+      position: 12
+    - word: 式
+      position: 14
+    - word: 農業
+      position: 15
+    - word: を
+      position: 17
+    - word: 導入
+      position: 18
+    - word: する
+      base: 為る
+      position: 20
+    - word: 圃場
+      position: 23
+    - word: ほ
+      base: ほっ
+      position: 26
+      tags:
+        - silent
+    - word: じょう
+      position: 27
+      tags:
+        - silent
+    - word: を
+      position: 31
+    - word: １
+      base: '1'
+      dictionary: '1'
+      position: 32
+    - word: つ
+      position: 33
+    - word: に
+      position: 34
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 35
+- id: A_NoGameNoLife_E04_1099
+  deck_name: No Game No Life
+  translation: I say a third time.
+  sound: A_NoGameNoLife__04_0.16.33.838-0.16.36.841.mp3
+  sentence: 三度(みたび)繰り返す 我らは弱者だ！
+  words:
+    - word: 三
+      base: '3'
+      position: 0
+    - word: 度
+      position: 1
+    - word: みたび
+      position: 3
+      tags:
+        - silent
+    - word: 繰り
+      base: 繰る
+      dictionary: 繰る
+      position: 7
+    - word: 返す
+      position: 9
+    - word: 我
+      position: 12
+    - word: ら
+      base: 等
+      position: 13
+    - word: は
+      position: 14
+    - word: 弱者
+      position: 15
+    - word: だ
+      position: 17
+- id: A_NoGameNoLife_E04_1158
+  deck_name: No Game No Life
+  translation: I see. In other words, even the title of  One True God is decided by a game?
+  sound: A_NoGameNoLife__04_0.20.51.929-0.20.58.769.mp3
+  sentence: なるほど つまり 唯一神(ゆいいつしん)の座さえ ゲームで決まるってことか 正解
+  words:
+    - word: なるほど
+      base: 成る程
+      position: 0
+    - word: つまり
+      base: 詰まり
+      position: 5
+    - word: 唯一
+      position: 9
+    - word: 神
+      position: 11
+    - word: ゆい
+      position: 13
+      tags:
+        - silent
+    - word: いつ
+      position: 15
+      tags:
+        - silent
+    - word: しん
+      position: 17
+      tags:
+        - silent
+    - word: の
+      position: 20
+    - word: 座
+      position: 21
+    - word: さえ
+      position: 22
+    - word: ゲーム
+      position: 25
+    - word: で
+      position: 28
+    - word: 決まる
+      position: 29
+    - word: って
+      position: 32
+    - word: こと
+      position: 34
+    - word: か
+      position: 36
+    - word: 正解
+      position: 38
+- id: A_NoGameNoLife_E05_1212
+  deck_name: No Game No Life
+  translation: There was a time when I thought  that those two could save Elkia.
+  sound: A_NoGameNoLife__05_0.01.01.240-0.01.08.289.mp3
+  sentence: あの二人なら エルキアを… そう思っていた時期が 私(わたくし)にもありましたわ なのに！
+  words:
+    - word: あの
+      base: 彼の
+      position: 0
+    - word: 二人
+      position: 2
+    - word: なら
+      base: だ
+      dictionary: だ
+      position: 4
+    - word: エルキア
+      position: 7
+    - word: を
+      position: 11
+    - word: そう
+      position: 14
+    - word: 思っ
+      base: 思う
+      dictionary: 思う
+      position: 16
+    - word: て
+      position: 18
+    - word: い
+      base: 居る
+      dictionary: いる
+      position: 19
+    - word: た
+      position: 20
+    - word: 時期
+      position: 21
+    - word: が
+      position: 23
+    - word: 私
+      position: 25
+    - word: わたくし
+      base: 私
+      position: 27
+      tags:
+        - silent
+    - word: に
+      position: 32
+    - word: も
+      position: 33
+    - word: あり
+      base: 有る
+      dictionary: ある
+      position: 34
+    - word: まし
+      base: ます
+      dictionary: ます
+      position: 36
+    - word: た
+      position: 38
+    - word: わ
+      position: 39
+    - word: な
+      base: だ
+      dictionary: だ
+      position: 41
+    - word: の
+      position: 42
+    - word: に
+      position: 43
+- id: A_NoGameNoLife_E05_1213
+  deck_name: No Game No Life
+  translation: But now...
+  sound: A_NoGameNoLife__05_0.01.08.789-0.01.11.500.mp3
+  sentence: 即位後は私(わたくし)や大臣に 仕事を投げまくり―
+  words:
+    - word: 即位
+      position: 0
+    - word: 後
+      position: 2
+    - word: は
+      position: 3
+    - word: 私
+      position: 4
+    - word: わたくし
+      base: 私
+      position: 6
+      tags:
+        - silent
+    - word: や
+      position: 11
+    - word: 大臣
+      position: 12
+    - word: に
+      position: 14
+    - word: 仕事
+      position: 16
+    - word: を
+      position: 18
+    - word: 投げ
+      base: 投げる
+      dictionary: 投げる
+      position: 19
+    - word: まくり
+      base: 捲る
+      dictionary: まくる
+      position: 21
+- id: A_NoGameNoLife_E05_1232
+  deck_name: No Game No Life
+  translation: >-
+    That's just how you see things. But neither in our old world, nor in any 
+    other, will Blank ever do any work!
+  sound: A_NoGameNoLife__05_0.03.49.158-0.03.55.747.mp3
+  sentence: 元の世界だろうが 異世界だろうが― 「空白(くうはく)」に“労働”の二文字はない あまりニート(じんるい)を…
+  words:
+    - word: 元
+      position: 0
+    - word: の
+      position: 1
+    - word: 世界
+      position: 2
+    - word: だろう
+      base: だ
+      dictionary: だ
+      position: 4
+    - word: が
+      position: 7
+    - word: 異
+      position: 9
+    - word: 世界
+      position: 10
+    - word: だろう
+      base: だ
+      dictionary: だ
+      position: 12
+    - word: が
+      position: 15
+    - word: 空白
+      position: 19
+    - word: くう
+      position: 22
+      tags:
+        - silent
+    - word: はく
+      position: 24
+      tags:
+        - silent
+    - word: に
+      position: 28
+    - word: 労働
+      position: 30
+    - word: の
+      position: 33
+    - word: 二
+      base: '2'
+      position: 34
+    - word: 文字
+      position: 35
+    - word: は
+      position: 37
+    - word: ない
+      base: 無い
+      position: 38
+    - word: あまり
+      base: 余り
+      position: 41
+    - word: ニート
+      position: 44
+    - word: じん
+      position: 48
+      tags:
+        - silent
+    - word: るい
+      base: 類
+      position: 50
+      tags:
+        - silent
+    - word: を
+      position: 53
+- id: A_NoGameNoLife_E05_1236
+  deck_name: No Game No Life
+  translation: Sora!
+  sound: A_NoGameNoLife__05_0.04.04.173-0.04.07.426.mp3
+  sentence: 空 私(わたくし)と勝負なさい！
+  words:
+    - word: 空
+      position: 0
+    - word: 私
+      position: 2
+    - word: わたくし
+      base: 私
+      position: 4
+      tags:
+        - silent
+    - word: と
+      position: 9
+    - word: 勝負
+      position: 10
+    - word: なさい
+      base: 為す
+      dictionary: なさる
+      position: 12
+- id: A_NoGameNoLife_E05_1243
+  deck_name: No Game No Life
+  translation: the best gamer in human history  would choose a game where
+  sound: A_NoGameNoLife__05_0.04.28.071-0.04.30.449.mp3
+  sentence: 私(わたくし)ごとき相手に 自分の得意なゲームを―
+  words:
+    - word: 私
+      position: 0
+    - word: わたくし
+      base: 私
+      position: 2
+      tags:
+        - silent
+    - word: ごとき
+      base: ごとし
+      dictionary: ごとし
+      position: 7
+    - word: 相手
+      position: 10
+    - word: に
+      position: 12
+    - word: 自分
+      position: 14
+    - word: の
+      position: 16
+    - word: 得意
+      position: 17
+    - word: な
+      base: だ
+      dictionary: だ
+      position: 19
+    - word: ゲーム
+      position: 20
+    - word: を
+      position: 23
+- id: A_NoGameNoLife_E05_1246
+  deck_name: No Game No Life
+  translation: If I win, you will become a decent person!
+  sound: A_NoGameNoLife__05_0.04.37.789-0.04.42.586.mp3
+  sentence: 私(わたくし)が勝ったら空には 真人間になってもらいますわ！
+  words:
+    - word: 私
+      position: 0
+    - word: わたくし
+      base: 私
+      position: 2
+      tags:
+        - silent
+    - word: が
+      position: 7
+    - word: 勝っ
+      base: 勝つ
+      dictionary: 勝つ
+      position: 8
+    - word: たら
+      base: た
+      dictionary: た
+      position: 10
+    - word: 空
+      position: 12
+    - word: に
+      position: 13
+    - word: は
+      position: 14
+    - word: 真
+      position: 16
+    - word: 人間
+      position: 17
+    - word: に
+      position: 19
+    - word: なっ
+      base: 成る
+      dictionary: なる
+      position: 20
+    - word: て
+      position: 22
+    - word: もらい
+      base: 貰う
+      dictionary: もらう
+      position: 23
+    - word: ます
+      position: 26
+    - word: わ
+      position: 28
+- id: A_NoGameNoLife_E05_1264
+  deck_name: No Game No Life
+  translation: I'll be the dealer, and you  can be the player, I suppose.
+  sound: A_NoGameNoLife__05_0.05.38.684-0.05.43.814.mp3
+  sentence: ディーラーは私(わたくし) 空はプレーヤーで かまいませんわね？ ハアー
+  words:
+    - word: ディーラー
+      position: 0
+    - word: は
+      position: 5
+    - word: 私
+      position: 6
+    - word: わたくし
+      base: 私
+      position: 8
+      tags:
+        - silent
+    - word: 空
+      position: 14
+    - word: は
+      position: 15
+    - word: プレーヤー
+      position: 16
+    - word: で
+      position: 21
+    - word: かまい
+      base: 構う
+      dictionary: かまう
+      position: 23
+    - word: ませ
+      base: ます
+      dictionary: ます
+      position: 26
+    - word: ん
+      base: ず
+      dictionary: ぬ
+      position: 28
+    - word: わ
+      position: 29
+    - word: ね
+      position: 30
+    - word: ハアー
+      base: はあ
+      position: 33
+- id: A_NoGameNoLife_E05_1299
+  deck_name: No Game No Life
+  translation: I refuse to accept this! How did I lose?
+  sound: A_NoGameNoLife__05_0.07.58.281-0.08.00.701.mp3
+  sentence: どうして私(わたくし)が負けなきゃ いけないんですの？
+  words:
+    - word: どう
+      position: 0
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 2
+    - word: て
+      position: 3
+    - word: 私
+      position: 4
+    - word: わたくし
+      base: 私
+      position: 6
+      tags:
+        - silent
+    - word: が
+      position: 11
+    - word: 負け
+      base: 負ける
+      dictionary: 負ける
+      position: 12
+    - word: なきゃ
+      base: ない
+      dictionary: ない
+      position: 14
+    - word: いけ
+      base: 行く
+      dictionary: いける
+      position: 18
+    - word: ない
+      position: 20
+    - word: ん
+      base: の
+      position: 22
+    - word: です
+      position: 23
+    - word: の
+      position: 25
+- id: A_NoGameNoLife_E05_1364
+  deck_name: No Game No Life
+  translation: We're going after the animal girls!
+  sound: A_NoGameNoLife__05_0.12.24.381-0.12.26.883.mp3
+  sentence: ケモ耳っ娘(こ)たちを 征服しに行く！ 今…
+  words:
+    - word: ケモ
+      position: 0
+    - word: 耳
+      position: 2
+    - word: っ
+      position: 3
+    - word: 娘
+      position: 4
+    - word: こ
+      position: 6
+      tags:
+        - silent
+    - word: たち
+      base: 達
+      position: 8
+    - word: を
+      position: 10
+    - word: 征服
+      position: 12
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 14
+    - word: に
+      position: 15
+    - word: 行く
+      position: 16
+    - word: 今
+      position: 20
+- id: A_NoGameNoLife_E05_1383
+  deck_name: No Game No Life
+  translation: >-
+    What do you mean, "Oh"? You left me in the middle of town dressed  like this
+    and then you just forgot me?!
+  sound: A_NoGameNoLife__05_0.13.24.065-0.13.28.903.mp3
+  sentence: 人を こんな格好で 街中(まちなか)に放置しておいて― まさか 素で ど忘れですの？
+  words:
+    - word: 人
+      position: 0
+    - word: を
+      position: 1
+    - word: こんな
+      position: 3
+    - word: 格好
+      position: 6
+    - word: で
+      position: 8
+    - word: 街中
+      base: 町中
+      position: 10
+    - word: まちなか
+      base: 町中
+      position: 13
+      tags:
+        - silent
+    - word: に
+      position: 18
+    - word: 放置
+      position: 19
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 21
+    - word: て
+      position: 22
+    - word: おい
+      base: おく
+      dictionary: おく
+      position: 23
+    - word: て
+      position: 25
+    - word: まさか
+      position: 28
+    - word: 素
+      position: 32
+    - word: で
+      position: 33
+    - word: ど
+      position: 35
+    - word: 忘れ
+      base: 忘れる
+      dictionary: 忘れる
+      position: 36
+    - word: です
+      position: 38
+    - word: の
+      position: 40
+- id: A_NoGameNoLife_E05_1386
+  deck_name: No Game No Life
+  translation: This is no good. I need to do something about these two.
+  sound: A_NoGameNoLife__05_0.13.36.035-0.13.40.331.mp3
+  sentence: やはりダメですわ この兄妹(きょうだい) 早くなんとかしないと
+  words:
+    - word: やはり
+      base: 矢張り
+      position: 0
+    - word: ダメ
+      base: 駄目
+      position: 3
+    - word: です
+      position: 5
+    - word: わ
+      position: 7
+    - word: この
+      base: 此の
+      position: 9
+    - word: 兄妹
+      base: 兄弟
+      position: 11
+    - word: きょうだい
+      base: 兄弟
+      position: 14
+      tags:
+        - silent
+    - word: 早く
+      base: 早い
+      dictionary: 早い
+      position: 21
+    - word: なん
+      base: 何
+      position: 23
+    - word: と
+      position: 25
+    - word: か
+      position: 26
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 27
+    - word: ない
+      position: 28
+    - word: と
+      position: 30
+- id: A_NoGameNoLife_E05_1387
+  deck_name: No Game No Life
+  translation: >-
+    But if I'm going to beat them in a game, it needs to be a game that  really
+    is pure chance, where math doesn't play a part.
+  sound: A_NoGameNoLife__05_0.13.40.457-0.13.48.840.mp3
+  sentence: でも 私(わたくし)が この２人に勝てるとしたら― 数学なんて介入する余地もない 本当に純粋な運勝負のみ ならば…
+  words:
+    - word: で
+      position: 0
+    - word: も
+      position: 1
+    - word: 私
+      position: 3
+    - word: わたくし
+      base: 私
+      position: 5
+      tags:
+        - silent
+    - word: が
+      position: 10
+    - word: この
+      base: 此の
+      position: 12
+    - word: ２人
+      base: 二人
+      dictionary: 2人
+      position: 14
+    - word: に
+      position: 16
+    - word: 勝てる
+      base: 勝つ
+      position: 17
+    - word: と
+      position: 20
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 21
+    - word: たら
+      base: た
+      dictionary: た
+      position: 22
+    - word: 数学
+      position: 26
+    - word: なんて
+      position: 28
+    - word: 介入
+      position: 31
+    - word: する
+      base: 為る
+      position: 33
+    - word: 余地
+      position: 35
+    - word: も
+      position: 37
+    - word: ない
+      base: 無い
+      position: 38
+    - word: 本当
+      position: 41
+    - word: に
+      position: 43
+    - word: 純粋
+      position: 44
+    - word: な
+      base: だ
+      dictionary: だ
+      position: 46
+    - word: 運
+      position: 47
+    - word: 勝負
+      position: 48
+    - word: のみ
+      position: 50
+    - word: なら
+      base: だ
+      dictionary: だ
+      position: 53
+    - word: ば
+      position: 55
+- id: A_NoGameNoLife_E05_1406
+  deck_name: No Game No Life
+  translation: I'm really ruined forever now, aren't I?
+  sound: A_NoGameNoLife__05_0.14.55.990-0.15.01.287.mp3
+  sentence: フッ フフフッ 私(わたくし) こんなにも 汚れてしまったんですのね
+  words:
+    - word: フッ
+      base: ふっ
+      position: 0
+    - word: フフフッ
+      base: ふふふ
+      position: 3
+    - word: 私
+      position: 8
+    - word: わたくし
+      base: 私
+      position: 10
+      tags:
+        - silent
+    - word: こんな
+      position: 16
+    - word: に
+      base: だ
+      dictionary: だ
+      position: 19
+    - word: も
+      position: 20
+    - word: 汚れ
+      base: 汚す
+      dictionary: 汚れる
+      position: 22
+    - word: て
+      position: 24
+    - word: しまっ
+      base: 仕舞う
+      dictionary: しまう
+      position: 25
+    - word: た
+      position: 28
+    - word: ん
+      base: の
+      position: 29
+    - word: です
+      position: 30
+    - word: の
+      position: 32
+    - word: ね
+      position: 33
+- id: A_NoGameNoLife_E05_1412
+  deck_name: No Game No Life
+  translation: I haven't shown my true strength yet!
+  sound: A_NoGameNoLife__05_0.15.16.928-0.15.19.889.mp3
+  sentence: 私(わたくし)は まだ全然 本気を出していませんわよ
+  words:
+    - word: 私
+      position: 0
+    - word: わたくし
+      base: 私
+      position: 2
+      tags:
+        - silent
+    - word: は
+      position: 7
+    - word: まだ
+      base: 未だ
+      position: 9
+    - word: 全然
+      position: 11
+    - word: 本気
+      position: 14
+    - word: を
+      position: 16
+    - word: 出し
+      base: 出す
+      dictionary: 出す
+      position: 17
+    - word: て
+      position: 19
+    - word: い
+      base: 居る
+      dictionary: いる
+      position: 20
+    - word: ませ
+      base: ます
+      dictionary: ます
+      position: 21
+    - word: ん
+      base: ず
+      dictionary: ぬ
+      position: 23
+    - word: わ
+      position: 24
+    - word: よ
+      position: 25
+- id: A_NoGameNoLife_E05_1432
+  deck_name: No Game No Life
+  translation: Why can't I win?
+  sound: A_NoGameNoLife__05_0.16.43.223-0.16.45.725.mp3
+  sentence: なんで私(わたくし)は勝てないんですの？
+  words:
+    - word: なん
+      base: 何
+      position: 0
+    - word: で
+      position: 2
+    - word: 私
+      position: 3
+    - word: わたくし
+      base: 私
+      position: 5
+      tags:
+        - silent
+    - word: は
+      position: 10
+    - word: 勝て
+      base: 勝つ
+      dictionary: 勝てる
+      position: 11
+    - word: ない
+      position: 13
+    - word: ん
+      base: の
+      position: 15
+    - word: です
+      position: 16
+    - word: の
+      position: 18
+- id: A_NoGameNoLife_E05_1434
+  deck_name: No Game No Life
+  translation: Why can't I even win once by chance?
+  sound: A_NoGameNoLife__05_0.16.49.020-0.16.52.774.mp3
+  sentence: たった一度の偶然すら 私(わたくし)は つかめませんの？
+  words:
+    - word: たった
+      base: 唯
+      position: 0
+    - word: 一度
+      position: 3
+    - word: の
+      position: 5
+    - word: 偶然
+      position: 6
+    - word: すら
+      position: 8
+    - word: 私
+      position: 11
+    - word: わたくし
+      base: 私
+      position: 13
+      tags:
+        - silent
+    - word: は
+      position: 18
+    - word: つかめ
+      base: 掴む
+      dictionary: つかめる
+      position: 20
+    - word: ませ
+      base: ます
+      dictionary: ます
+      position: 23
+    - word: ん
+      base: ず
+      dictionary: ぬ
+      position: 25
+    - word: の
+      position: 26
+- id: A_NoGameNoLife_E05_1442
+  deck_name: No Game No Life
+  translation: >-
+    For example, what's the probability of drawing the ace  of spades from a
+    deck with no jokers?
+  sound: A_NoGameNoLife__05_0.17.14.796-0.17.18.841.mp3
+  sentence: ジョーカー抜きのデッキから スペードのＡ(エース)を引く確率は？
+  words:
+    - word: ジョーカー
+      position: 0
+    - word: 抜き
+      position: 5
+    - word: の
+      position: 7
+    - word: デッキ
+      position: 8
+    - word: から
+      position: 11
+    - word: スペード
+      position: 14
+    - word: の
+      position: 18
+    - word: Ａ
+      base: a
+      dictionary: a
+      position: 19
+    - word: エース
+      position: 21
+      tags:
+        - silent
+    - word: を
+      position: 25
+    - word: 引く
+      position: 26
+    - word: 確率
+      position: 28
+    - word: は
+      position: 30
+- id: A_NoGameNoLife_E05_1468
+  deck_name: No Game No Life
+  translation: and I didn't even realize it.
+  sound: A_NoGameNoLife__05_0.19.09.869-0.19.13.039.mp3
+  sentence: 私(わたくし)は そんなことにも気付かず
+  words:
+    - word: 私
+      position: 0
+    - word: わたくし
+      base: 私
+      position: 2
+      tags:
+        - silent
+    - word: は
+      position: 7
+    - word: そんな
+      position: 9
+    - word: こと
+      position: 12
+    - word: に
+      position: 14
+    - word: も
+      position: 15
+    - word: 気付か
+      base: 気付く
+      dictionary: 気付く
+      position: 16
+    - word: ず
+      dictionary: ぬ
+      position: 19
+- id: A_NoGameNoLife_E06_1517
+  deck_name: No Game No Life
+  translation: of the Imanity, Sora-sama and Shiro-sama?
+  sound: A_NoGameNoLife__06_0.00.15.319-0.00.18.239.mp3
+  sentence: 空(ソラ)様と白(シロ)様が どのような ご用でしょう
+  words:
+    - word: 空
+      position: 0
+    - word: ソラ
+      base: そら
+      position: 2
+      tags:
+        - silent
+    - word: 様
+      position: 5
+    - word: と
+      position: 6
+    - word: 白
+      position: 7
+    - word: シロ
+      base: 白
+      position: 9
+      tags:
+        - silent
+    - word: 様
+      position: 12
+    - word: が
+      position: 13
+    - word: どのような
+      position: 15
+    - word: ご
+      base: 御
+      position: 21
+    - word: 用
+      position: 22
+    - word: でしょう
+      base: です
+      dictionary: です
+      position: 23
+- id: A_NoGameNoLife_E06_1542
+  deck_name: No Game No Life
+  translation: Inside here. I got them to study for quiz games.
+  sound: A_NoGameNoLife__06_0.03.32.391-0.03.34.852.mp3
+  sentence: クイズゲームの勉強用に 持ってた物(もん)だが―
+  words:
+    - word: クイズ
+      position: 0
+    - word: ゲーム
+      position: 3
+    - word: の
+      position: 6
+    - word: 勉強
+      position: 7
+    - word: 用
+      position: 9
+    - word: に
+      position: 10
+    - word: 持っ
+      base: 持つ
+      dictionary: 持つ
+      position: 12
+    - word: て
+      base: てる
+      dictionary: てる
+      position: 14
+    - word: た
+      position: 15
+    - word: 物
+      position: 16
+    - word: もん
+      position: 18
+      tags:
+        - silent
+    - word: だ
+      position: 21
+    - word: が
+      position: 22
+- id: A_NoGameNoLife_E06_1578
+  deck_name: No Game No Life
+  translation: I'll just say that admitting  so would hurt my manly pride.
+  sound: A_NoGameNoLife__06_0.05.37.224-0.05.42.646.mp3
+  sentence: そこを性感帯として認めるのは― 男の沽券(こけん)に関わる問題だとだけ 言っておこう
+  words:
+    - word: そこ
+      base: 其処
+      position: 0
+    - word: を
+      position: 2
+    - word: 性感
+      position: 3
+    - word: 帯
+      position: 5
+    - word: と
+      position: 6
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 7
+    - word: て
+      position: 8
+    - word: 認める
+      position: 9
+    - word: の
+      position: 12
+    - word: は
+      position: 13
+    - word: 男
+      position: 16
+    - word: の
+      position: 17
+    - word: 沽券
+      position: 18
+    - word: こけ
+      base: こける
+      dictionary: こける
+      position: 21
+      tags:
+        - silent
+    - word: ん
+      base: ず
+      dictionary: ぬ
+      position: 23
+      tags:
+        - silent
+    - word: に
+      position: 25
+    - word: 関わる
+      position: 26
+    - word: 問題
+      position: 29
+    - word: だ
+      position: 31
+    - word: と
+      position: 32
+    - word: だけ
+      position: 33
+    - word: 言っ
+      base: 言う
+      dictionary: 言う
+      position: 36
+    - word: て
+      position: 38
+    - word: おこう
+      base: おく
+      dictionary: おく
+      position: 39
+- id: A_NoGameNoLife_E06_1588
+  deck_name: No Game No Life
+  translation: What are these two doing?  She's a god-killing weapon!
+  sound: A_NoGameNoLife__06_0.06.15.637-0.06.23.061.mp3
+  sentence: 神殺しの兵器を相手に 何なんですの この兄妹(きょうだい) ああ～ん
+  words:
+    - word: 神
+      position: 0
+    - word: 殺し
+      position: 1
+    - word: の
+      position: 3
+    - word: 兵器
+      position: 4
+    - word: を
+      position: 6
+    - word: 相手
+      position: 7
+    - word: に
+      position: 9
+    - word: 何
+      position: 11
+    - word: な
+      base: だ
+      dictionary: だ
+      position: 12
+    - word: ん
+      base: の
+      position: 13
+    - word: です
+      position: 14
+    - word: の
+      position: 16
+    - word: この
+      base: 此の
+      position: 18
+    - word: 兄妹
+      base: 兄弟
+      position: 20
+    - word: きょうだい
+      base: 兄弟
+      position: 23
+      tags:
+        - silent
+    - word: ああ
+      position: 30
+    - word: ～
+      position: 32
+    - word: ん
+      base: んっ
+      position: 33
+- id: A_NoGameNoLife_E06_1593
+  deck_name: No Game No Life
+  translation: You are the unknown!
+  sound: A_NoGameNoLife__06_0.06.44.207-0.06.46.293.mp3
+  sentence: “未(いま)だ知らず”と書いて“未知”
+  words:
+    - word: 未
+      position: 1
+    - word: いま
+      base: 今
+      position: 3
+      tags:
+        - silent
+    - word: だ
+      position: 6
+    - word: 知ら
+      base: 知る
+      dictionary: 知る
+      position: 7
+    - word: ず
+      dictionary: ぬ
+      position: 9
+    - word: と
+      position: 11
+    - word: 書い
+      base: 書く
+      dictionary: 書く
+      position: 12
+    - word: て
+      position: 14
+    - word: 未知
+      position: 16
+- id: A_NoGameNoLife_E06_1627
+  deck_name: No Game No Life
+  translation: Then I don't need to be here, do I?
+  sound: A_NoGameNoLife__06_0.09.05.098-0.09.08.268.mp3
+  sentence: じゃあ私(わたくし) この場に いる必要ないじゃないですの？
+  words:
+    - word: じゃあ
+      base: で
+      position: 0
+    - word: 私
+      position: 3
+    - word: わたくし
+      base: 私
+      position: 5
+      tags:
+        - silent
+    - word: この
+      base: 此の
+      position: 11
+    - word: 場
+      position: 13
+    - word: に
+      position: 14
+    - word: いる
+      base: 居る
+      position: 16
+    - word: 必要
+      position: 18
+    - word: ない
+      base: 無い
+      position: 20
+    - word: じゃ
+      base: だ
+      dictionary: だ
+      position: 22
+    - word: ない
+      base: 無い
+      position: 24
+    - word: です
+      position: 26
+    - word: の
+      position: 28
+- id: A_NoGameNoLife_E06_1716
+  deck_name: No Game No Life
+  translation: That's what makes you an empty-headed academic.
+  sound: A_NoGameNoLife__06_0.14.34.719-0.14.38.348.mp3
+  sentence: 闇弱(あんじゃく)な部分ってやつだな 闇弱？
+  words:
+    - word: 闇
+      position: 0
+    - word: 弱
+      position: 1
+    - word: あん
+      position: 3
+      tags:
+        - silent
+    - word: じゃ
+      base: で
+      position: 5
+      tags:
+        - silent
+    - word: く
+      base: 九
+      position: 7
+      tags:
+        - silent
+    - word: な
+      base: だ
+      dictionary: だ
+      position: 9
+    - word: 部分
+      position: 10
+    - word: って
+      position: 12
+    - word: やつ
+      base: 奴
+      position: 14
+    - word: だ
+      position: 16
+    - word: な
+      position: 17
+    - word: 闇
+      position: 19
+    - word: 弱
+      position: 20
+- id: A_NoGameNoLife_E06_1724
+  deck_name: No Game No Life
+  translation: If you hadn't kept all the  dangerous things off us, we couldn't have won.
+  sound: A_NoGameNoLife__06_0.15.03.748-0.15.08.253.mp3
+  sentence: ステフがヤバい物(もん) 引き付けてくれなきゃ勝てなかった 勝ったおつもりで？
+  words:
+    - word: ステフ
+      position: 0
+    - word: が
+      position: 3
+    - word: ヤバい
+      base: やばい
+      position: 4
+    - word: 物
+      position: 7
+    - word: もん
+      position: 9
+      tags:
+        - silent
+    - word: 引き
+      base: 引く
+      dictionary: 引く
+      position: 13
+    - word: 付け
+      base: 付く
+      dictionary: 付ける
+      position: 15
+    - word: て
+      position: 17
+    - word: くれ
+      base: 呉れる
+      dictionary: くれる
+      position: 18
+    - word: なきゃ
+      base: ない
+      dictionary: ない
+      position: 20
+    - word: 勝て
+      base: 勝つ
+      dictionary: 勝てる
+      position: 23
+    - word: なかっ
+      base: ない
+      dictionary: ない
+      position: 25
+    - word: た
+      position: 28
+    - word: 勝っ
+      base: 勝つ
+      dictionary: 勝つ
+      position: 30
+    - word: た
+      position: 32
+    - word: お
+      base: 御
+      position: 33
+    - word: つもり
+      base: 積もり
+      position: 34
+    - word: で
+      position: 37
+- id: A_NoGameNoLife_E06_1773
+  deck_name: No Game No Life
+  translation: When Coulomb's force vanishes
+  sound: A_NoGameNoLife__06_0.18.42.717-0.18.44.677.mp3
+  sentence: クローン力(りょく)が消滅し
+  words:
+    - word: クローン
+      position: 0
+    - word: 力
+      position: 4
+    - word: り
+      position: 6
+      tags:
+        - silent
+    - word: ょ
+      base: よ
+      position: 7
+      tags:
+        - silent
+    - word: く
+      base: 九
+      position: 8
+      tags:
+        - silent
+    - word: が
+      position: 10
+    - word: 消滅
+      position: 11
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 13
+- id: A_NoGameNoLife_E06_1790
+  deck_name: No Game No Life
+  translation: Oh, welcome back. You used me as a decoy, and then you killed me!
+  sound: A_NoGameNoLife__06_0.20.08.177-0.20.12.765.mp3
+  sentence: あなた！ 私(わたくし)をおとりに使ったあげく― 平然と見殺しにしましたわね
+  words:
+    - word: あなた
+      base: 貴方
+      position: 0
+    - word: 私
+      position: 5
+    - word: わたくし
+      base: 私
+      position: 7
+      tags:
+        - silent
+    - word: を
+      position: 12
+    - word: おとり
+      position: 13
+    - word: に
+      position: 16
+    - word: 使っ
+      base: 使う
+      dictionary: 使う
+      position: 17
+    - word: た
+      position: 19
+    - word: あげく
+      base: 挙げ句
+      position: 20
+    - word: 平然
+      position: 25
+    - word: と
+      position: 27
+    - word: 見殺し
+      position: 28
+    - word: に
+      position: 31
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 32
+    - word: まし
+      base: ます
+      dictionary: ます
+      position: 33
+    - word: た
+      position: 35
+    - word: わ
+      position: 36
+    - word: ね
+      position: 37
+- id: A_NoGameNoLife_E06_1816
+  deck_name: No Game No Life
+  translation: Wait, how long am I supposed  to keep acting like a dog?
+  sound: A_NoGameNoLife__06_0.22.05.670-0.22.10.174.mp3
+  sentence: …てゆうか 私(わたくし) いつまで 犬のまねしてればいいんですのよ！
+  words:
+    - word: て
+      base: って
+      position: 1
+    - word: ゆう
+      position: 2
+    - word: か
+      position: 4
+    - word: 私
+      position: 6
+    - word: わたくし
+      base: 私
+      position: 8
+      tags:
+        - silent
+    - word: いつ
+      position: 14
+    - word: まで
+      position: 16
+    - word: 犬
+      position: 19
+    - word: の
+      position: 20
+    - word: まね
+      base: 真似
+      position: 21
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 23
+    - word: てれ
+      base: てる
+      dictionary: てる
+      position: 24
+    - word: ば
+      position: 26
+    - word: いい
+      base: 良い
+      position: 27
+    - word: ん
+      base: の
+      position: 29
+    - word: です
+      position: 30
+    - word: の
+      position: 32
+    - word: よ
+      position: 33
+- id: A_NoGameNoLife_E07_1844
+  deck_name: No Game No Life
+  translation: Wait, that means they're indirectly  telling me to make them something!
+  sound: A_NoGameNoLife__07_0.03.10.786-0.03.13.872.mp3
+  sentence: …って それ 間接的に 私(わたくし)に作れってことですわ
+  words:
+    - word: って
+      position: 1
+    - word: それ
+      base: 其れ
+      position: 4
+    - word: 間接
+      position: 7
+    - word: 的
+      position: 9
+    - word: に
+      base: だ
+      dictionary: だ
+      position: 10
+    - word: 私
+      position: 12
+    - word: わたくし
+      base: 私
+      position: 14
+      tags:
+        - silent
+    - word: に
+      position: 19
+    - word: 作れ
+      base: 作る
+      dictionary: 作る
+      position: 20
+    - word: って
+      position: 22
+    - word: こと
+      position: 24
+    - word: です
+      position: 26
+    - word: わ
+      position: 28
+- id: A_NoGameNoLife_E07_1862
+  deck_name: No Game No Life
+  translation: >-
+    Stephanie Dola did that, huh? A puppet of a puppet. She's as shameless as
+    her  grandfather was foolish.
+  sound: A_NoGameNoLife__07_0.04.16.643-0.04.21.565.mp3
+  sentence: フン 傀儡(かいらい)の傀儡なんて 愚王の孫娘らしく恥知らずね
+  words:
+    - word: フン
+      position: 0
+    - word: 傀儡
+      position: 3
+    - word: かいらい
+      base: 傀儡
+      position: 6
+      tags:
+        - silent
+    - word: の
+      position: 11
+    - word: 傀儡
+      position: 12
+    - word: なんて
+      position: 14
+    - word: 愚
+      position: 18
+    - word: 王
+      position: 19
+    - word: の
+      position: 20
+    - word: 孫娘
+      position: 21
+    - word: らしく
+      base: らしい
+      dictionary: らしい
+      position: 23
+    - word: 恥
+      position: 26
+    - word: 知ら
+      base: 知る
+      dictionary: 知る
+      position: 27
+    - word: ず
+      dictionary: ぬ
+      position: 29
+    - word: ね
+      position: 30
+- id: A_NoGameNoLife_E07_1878
+  deck_name: No Game No Life
+  translation: An individual known as the  Shrine Priestess ended the war
+  sound: A_NoGameNoLife__07_0.05.17.120-0.05.19.581.mp3
+  sentence: それが 巫女(みこ)と呼ばれる個体によって―
+  words:
+    - word: それ
+      base: 其れ
+      position: 0
+    - word: が
+      position: 2
+    - word: 巫女
+      position: 4
+    - word: みこ
+      position: 7
+      tags:
+        - silent
+    - word: と
+      position: 10
+    - word: 呼ば
+      base: 呼ぶ
+      dictionary: 呼ぶ
+      position: 11
+    - word: れる
+      position: 13
+    - word: 個体
+      position: 15
+    - word: に
+      position: 17
+    - word: よっ
+      base: よる
+      dictionary: よる
+      position: 18
+    - word: て
+      position: 20
+- id: A_NoGameNoLife_E07_1887
+  deck_name: No Game No Life
+  translation: ...that "Blank" will lose?
+  sound: A_NoGameNoLife__07_0.05.54.408-0.05.56.034.mp3
+  sentence: 「空白(くうはく)」が負けると？
+  words:
+    - word: 空白
+      position: 1
+    - word: くう
+      position: 4
+      tags:
+        - silent
+    - word: はく
+      position: 6
+      tags:
+        - silent
+    - word: が
+      position: 10
+    - word: 負ける
+      position: 11
+    - word: と
+      position: 14
+- id: A_NoGameNoLife_E07_1972
+  deck_name: No Game No Life
+  translation: >-
+    I don't care if you insult me, but don't insult my grandfather  or the
+    things he believed in!
+  sound: A_NoGameNoLife__07_0.11.44.799-0.11.52.223.mp3
+  sentence: 私(わたくし)を悪く言うのは かまいません でも おじい様や おじい様が信じたものを…
+  words:
+    - word: 私
+      position: 0
+    - word: わたくし
+      base: 私
+      position: 2
+      tags:
+        - silent
+    - word: を
+      position: 7
+    - word: 悪く
+      base: 悪い
+      dictionary: 悪い
+      position: 8
+    - word: 言う
+      position: 10
+    - word: の
+      position: 12
+    - word: は
+      position: 13
+    - word: かまい
+      base: 構う
+      dictionary: かまう
+      position: 15
+    - word: ませ
+      base: ます
+      dictionary: ます
+      position: 18
+    - word: ん
+      base: ず
+      dictionary: ぬ
+      position: 20
+    - word: で
+      position: 22
+    - word: も
+      position: 23
+    - word: お
+      base: 御
+      position: 25
+    - word: じい
+      base: 爺
+      position: 26
+    - word: 様
+      position: 28
+    - word: や
+      position: 29
+    - word: お
+      base: 御
+      position: 31
+    - word: じい
+      base: 爺
+      position: 32
+    - word: 様
+      position: 34
+    - word: が
+      position: 35
+    - word: 信じ
+      base: 信ずる
+      dictionary: 信ずる
+      position: 36
+    - word: た
+      position: 38
+    - word: もの
+      base: 物
+      position: 39
+    - word: を
+      position: 41
+- id: A_NoGameNoLife_E07_1979
+  deck_name: No Game No Life
+  translation: It's the key to where I keep  something very important.
+  sound: A_NoGameNoLife__07_0.12.34.724-0.12.40.855.mp3
+  sentence: これはの じいちゃんの大事な物が 入ってる場所の鍵じゃ  私(わたくし) 知ってますわ
+  words:
+    - word: これ
+      base: 此れ
+      position: 0
+    - word: は
+      position: 2
+    - word: の
+      position: 3
+    - word: じい
+      base: 爺
+      position: 5
+    - word: ちゃん
+      position: 7
+    - word: の
+      position: 10
+    - word: 大事
+      position: 11
+    - word: な
+      base: だ
+      dictionary: だ
+      position: 13
+    - word: 物
+      position: 14
+    - word: が
+      position: 15
+    - word: 入っ
+      base: 入る
+      dictionary: 入る
+      position: 17
+    - word: てる
+      position: 19
+    - word: 場所
+      position: 21
+    - word: の
+      position: 23
+    - word: 鍵
+      position: 24
+    - word: じゃ
+      base: で
+      position: 25
+    - word: 私
+      position: 29
+    - word: わたくし
+      base: 私
+      position: 31
+      tags:
+        - silent
+    - word: 知っ
+      base: 知る
+      dictionary: 知る
+      position: 37
+    - word: て
+      base: てる
+      dictionary: てる
+      position: 39
+    - word: ます
+      position: 40
+    - word: わ
+      position: 42
+- id: A_NoGameNoLife_E07_1994
+  deck_name: No Game No Life
+  translation: D-Don't be ridiculous! Why would I...
+  sound: A_NoGameNoLife__07_0.13.31.990-0.13.35.452.mp3
+  sentence: じょ 冗談じゃないですわ なんで私(わたくし)が
+  words:
+    - word: じょ
+      base: ぞ
+      position: 0
+    - word: 冗談
+      position: 3
+    - word: じゃ
+      base: だ
+      dictionary: だ
+      position: 5
+    - word: ない
+      base: 無い
+      position: 7
+    - word: です
+      position: 9
+    - word: わ
+      position: 11
+    - word: なん
+      base: 何
+      position: 13
+    - word: で
+      position: 15
+    - word: 私
+      position: 16
+    - word: わたくし
+      base: 私
+      position: 18
+      tags:
+        - silent
+    - word: が
+      position: 23
+- id: A_NoGameNoLife_E07_2077
+  deck_name: No Game No Life
+  translation: >-
+    He bet eight times and found  a loophole in the pledges, and entrusted it to
+    a king that  would restore humanity... To humanity's greatest gambler.
+  sound: A_NoGameNoLife__07_0.20.28.614-0.20.39.083.mp3
+  sentence: ８回 賭けて 盟約の間隙(かんげき)をかいくぐり託したんだ 再起の王 人類最強のギャンブラーに
+  words:
+    - word: ８
+      base: '8'
+      dictionary: '8'
+      position: 0
+    - word: 回
+      position: 1
+    - word: 賭け
+      base: 掛ける
+      dictionary: 賭ける
+      position: 3
+    - word: て
+      position: 5
+    - word: 盟約
+      position: 7
+    - word: の
+      position: 9
+    - word: 間隙
+      position: 10
+    - word: かんげき
+      base: 間隙
+      position: 13
+      tags:
+        - silent
+    - word: を
+      position: 18
+    - word: かい
+      base: かく
+      dictionary: かく
+      position: 19
+    - word: くぐり
+      base: 潜る
+      dictionary: くぐる
+      position: 21
+    - word: 託し
+      base: 託する
+      dictionary: 託する
+      position: 24
+    - word: た
+      position: 26
+    - word: ん
+      base: の
+      position: 27
+    - word: だ
+      position: 28
+    - word: 再起
+      position: 30
+    - word: の
+      position: 32
+    - word: 王
+      position: 33
+    - word: 人類
+      position: 35
+    - word: 最強
+      position: 37
+    - word: の
+      position: 39
+    - word: ギャンブラー
+      position: 40
+    - word: に
+      position: 46
+- id: A_NoGameNoLife_E08_2104
+  deck_name: No Game No Life
+  translation: Right? Welcome, king of Elkia,  Sora-dono and Shiro-dono.
+  sound: A_NoGameNoLife__08_0.00.28.999-0.00.33.295.mp3
+  sentence: ようこそ エルキア王 空殿 白(シロ)殿
+  words:
+    - word: ようこそ
+      position: 0
+    - word: エルキア
+      position: 5
+    - word: 王
+      position: 9
+    - word: 空
+      position: 11
+    - word: 殿
+      position: 12
+    - word: 白
+      position: 14
+    - word: シロ
+      base: 白
+      position: 16
+      tags:
+        - silent
+    - word: 殿
+      position: 19
+- id: A_NoGameNoLife_E08_2170
+  deck_name: No Game No Life
+  translation: But Izuna is so cute with her  contrasting personalities! +1050 points.
+  sound: A_NoGameNoLife__08_0.06.51.965-0.06.55.927.mp3
+  sentence: でも いづなたん ギャップ萌(も)え プラス1050ポイン
+  words:
+    - word: で
+      position: 0
+    - word: も
+      position: 1
+    - word: いづ
+      base: 出る
+      position: 3
+    - word: な
+      base: ぬ
+      dictionary: ぬ
+      position: 5
+    - word: た
+      position: 6
+    - word: ん
+      base: の
+      position: 7
+    - word: ギャップ
+      position: 9
+    - word: 萌
+      position: 13
+    - word: も
+      position: 15
+      tags:
+        - silent
+    - word: え
+      base: えー
+      position: 17
+    - word: プラス
+      position: 19
+    - word: '1050'
+      position: 22
+    - word: ポイン
+      position: 26
+- id: A_NoGameNoLife_E08_2315
+  deck_name: No Game No Life
+  translation: Blank isn't going to lose to any of those.
+  sound: A_NoGameNoLife__08_0.16.37.592-0.16.41.387.mp3
+  sentence: そんなもので勝てるほど 「空白(くうはく)」は甘くない
+  words:
+    - word: そんな
+      position: 0
+    - word: もの
+      base: 物
+      position: 3
+    - word: で
+      position: 5
+    - word: 勝てる
+      base: 勝つ
+      position: 6
+    - word: ほど
+      position: 9
+    - word: 空白
+      position: 13
+    - word: くう
+      position: 16
+      tags:
+        - silent
+    - word: はく
+      position: 18
+      tags:
+        - silent
+    - word: は
+      position: 22
+    - word: 甘く
+      base: 甘い
+      dictionary: 甘い
+      position: 23
+    - word: ない
+      base: 無い
+      position: 25
+- id: A_NoGameNoLife_E08_2352
+  deck_name: No Game No Life
+  translation: That's what we need in a ruler.
+  sound: A_NoGameNoLife__08_0.18.45.720-0.18.48.848.mp3
+  sentence: それでこそ 我らを統(す)べるべき お方
+  words:
+    - word: それ
+      base: 其れ
+      position: 0
+    - word: で
+      position: 2
+    - word: こそ
+      position: 3
+    - word: 我
+      position: 6
+    - word: ら
+      base: 等
+      position: 7
+    - word: を
+      position: 8
+    - word: 統
+      position: 9
+    - word: す
+      base: 為る
+      position: 11
+      tags:
+        - silent
+    - word: べる
+      position: 13
+    - word: べき
+      base: べし
+      dictionary: べし
+      position: 15
+    - word: お
+      base: 御
+      position: 18
+    - word: 方
+      position: 19
+- id: A_NoGameNoLife_E08_2371
+  deck_name: No Game No Life
+  translation: Day 19 More importantly, they're late. It's been a week.
+  sound: A_NoGameNoLife__08_0.19.54.539-0.19.57.291.mp3
+  sentence: それより遅(おせ)えな もう１週間だぞ
+  words:
+    - word: それ
+      base: 其れ
+      position: 0
+    - word: より
+      position: 2
+    - word: 遅
+      position: 4
+    - word: おせ
+      base: 押す
+      dictionary: おす
+      position: 6
+      tags:
+        - silent
+    - word: えな
+      position: 9
+    - word: もう
+      position: 12
+    - word: １
+      base: '1'
+      dictionary: '1'
+      position: 14
+    - word: 週間
+      position: 15
+    - word: だ
+      position: 17
+    - word: ぞ
+      position: 18
+- id: A_NoGameNoLife_E09_2418
+  deck_name: No Game No Life
+  translation: Blank...
+  sound: A_NoGameNoLife__09_0.01.39.319-0.01.40.738.mp3
+  sentence: 「空白(くうはく)」…
+  words:
+    - word: 空白
+      position: 1
+    - word: くう
+      position: 4
+      tags:
+        - silent
+    - word: はく
+      position: 6
+      tags:
+        - silent
+- id: A_NoGameNoLife_E09_2512
+  deck_name: No Game No Life
+  translation: How am I supposed to respond to that?
+  sound: A_NoGameNoLife__09_0.07.56.780-0.07.59.616.mp3
+  sentence: それで私(わたくし)は どう反応すれば…
+  words:
+    - word: それ
+      base: 其れ
+      position: 0
+    - word: で
+      position: 2
+    - word: 私
+      position: 3
+    - word: わたくし
+      base: 私
+      position: 5
+      tags:
+        - silent
+    - word: は
+      position: 10
+    - word: どう
+      position: 12
+    - word: 反応
+      position: 14
+    - word: すれ
+      base: 為る
+      dictionary: する
+      position: 16
+    - word: ば
+      position: 18
+- id: A_NoGameNoLife_E09_2519
+  deck_name: No Game No Life
+  translation: So why did you fondle my breasts?
+  sound: A_NoGameNoLife__09_0.08.18.510-0.08.21.513.mp3
+  sentence: いったい私(わたくし)は 何のために もまれたんですの？
+  words:
+    - word: いったい
+      base: 一体
+      position: 0
+    - word: 私
+      position: 4
+    - word: わたくし
+      base: 私
+      position: 6
+      tags:
+        - silent
+    - word: は
+      position: 11
+    - word: 何
+      position: 13
+    - word: の
+      position: 14
+    - word: ため
+      base: 為
+      position: 15
+    - word: に
+      position: 17
+    - word: もま
+      base: 揉む
+      dictionary: もむ
+      position: 19
+    - word: れ
+      base: れる
+      dictionary: れる
+      position: 21
+    - word: た
+      position: 22
+    - word: ん
+      base: の
+      position: 23
+    - word: です
+      position: 24
+    - word: の
+      position: 26
+- id: A_NoGameNoLife_E09_2524
+  deck_name: No Game No Life
+  translation: A way to make our memories of the  last day and a half disappear...
+  sound: A_NoGameNoLife__09_0.08.36.737-0.08.42.325.mp3
+  sentence: 約１日半で 私(わたくし)たちすべての 頭の中から消え去る方法…
+  words:
+    - word: 約
+      position: 0
+    - word: １
+      base: '1'
+      dictionary: '1'
+      position: 1
+    - word: 日
+      position: 2
+    - word: 半
+      position: 3
+    - word: で
+      position: 4
+    - word: 私
+      position: 6
+    - word: わたくし
+      base: 私
+      position: 8
+      tags:
+        - silent
+    - word: たち
+      base: 達
+      position: 13
+    - word: すべて
+      base: 全て
+      position: 15
+    - word: の
+      position: 18
+    - word: 頭
+      position: 20
+    - word: の
+      position: 21
+    - word: 中
+      position: 22
+    - word: から
+      position: 23
+    - word: 消え
+      base: 消える
+      dictionary: 消える
+      position: 25
+    - word: 去る
+      position: 27
+    - word: 方法
+      position: 29
+- id: A_NoGameNoLife_E09_2626
+  deck_name: No Game No Life
+  translation: Tripped? Me?
+  sound: A_NoGameNoLife__09_0.15.33.903-0.15.37.448.mp3
+  sentence: 転んだ？ 私(わたくし)が？ あっ
+  words:
+    - word: 転ん
+      base: 転ぶ
+      dictionary: 転ぶ
+      position: 0
+    - word: だ
+      base: た
+      position: 2
+    - word: 私
+      position: 5
+    - word: わたくし
+      base: 私
+      position: 7
+      tags:
+        - silent
+    - word: が
+      position: 12
+    - word: あっ
+      position: 15
+- id: A_NoGameNoLife_E10_2717
+  deck_name: No Game No Life
+  translation: So... Why are we all here?
+  sound: A_NoGameNoLife__10_0.00.13.150-0.00.17.696.mp3
+  sentence: それで… なんで ここに 集められてるんですの？ 私(わたくし)たち
+  words:
+    - word: それ
+      base: 其れ
+      position: 0
+    - word: で
+      position: 2
+    - word: なん
+      base: 何
+      position: 5
+    - word: で
+      position: 7
+    - word: ここ
+      base: 此処
+      position: 9
+    - word: に
+      position: 11
+    - word: 集め
+      base: 集める
+      dictionary: 集める
+      position: 13
+    - word: られ
+      base: られる
+      dictionary: られる
+      position: 15
+    - word: てる
+      position: 17
+    - word: ん
+      base: の
+      position: 19
+    - word: です
+      position: 20
+    - word: の
+      position: 22
+    - word: 私
+      position: 25
+    - word: わたくし
+      base: 私
+      position: 27
+      tags:
+        - silent
+    - word: たち
+      base: 達
+      position: 32
+- id: A_NoGameNoLife_E10_2782
+  deck_name: No Game No Life
+  translation: >-
+    Do you know what's behind  this shocking discovery? Who is Blank, that
+    they're capable  of doing this to a Flugel? Um...
+  sound: A_NoGameNoLife__10_0.05.43.605-0.05.47.859.mp3
+  sentence: フリューゲルに ここまでやらせる「空白(くうはく)」って… あの！ ん？
+  words:
+    - word: フリューゲル
+      position: 0
+    - word: に
+      position: 6
+    - word: ここ
+      base: 此処
+      position: 8
+    - word: まで
+      position: 10
+    - word: やら
+      base: 遣る
+      dictionary: やる
+      position: 12
+    - word: せる
+      position: 14
+    - word: 空白
+      position: 17
+    - word: くう
+      position: 20
+      tags:
+        - silent
+    - word: はく
+      position: 22
+      tags:
+        - silent
+    - word: って
+      position: 26
+    - word: あの
+      base: 彼の
+      position: 30
+    - word: ん
+      base: んっ
+      position: 34
+- id: A_NoGameNoLife_E10_2783
+  deck_name: No Game No Life
+  translation: If we're talking about hard  feelings, I have my share.
+  sound: A_NoGameNoLife__10_0.05.48.443-0.05.52.656.mp3
+  sentence: わだかまりというなら 私(わたくし)にもありますわよ この人！
+  words:
+    - word: わだかまり
+      base: 蟠り
+      position: 0
+    - word: と
+      position: 5
+    - word: いう
+      base: 言う
+      position: 6
+    - word: なら
+      base: だ
+      dictionary: だ
+      position: 8
+    - word: 私
+      position: 11
+    - word: わたくし
+      base: 私
+      position: 13
+      tags:
+        - silent
+    - word: に
+      position: 18
+    - word: も
+      position: 19
+    - word: あり
+      base: 有る
+      dictionary: ある
+      position: 20
+    - word: ます
+      position: 22
+    - word: わ
+      position: 24
+    - word: よ
+      position: 25
+    - word: この
+      base: 此の
+      position: 27
+    - word: 人
+      position: 29
+- id: A_NoGameNoLife_E10_2784
+  deck_name: No Game No Life
+  translation: She used magic to cheat and defeat me!
+  sound: A_NoGameNoLife__10_0.05.52.781-0.05.57.953.mp3
+  sentence: 魔法を使ったイカサマで 私(わたくし)を負かした人じゃないですのよ だまされる お前が悪い
+  words:
+    - word: 魔法
+      position: 0
+    - word: を
+      position: 2
+    - word: 使っ
+      base: 使う
+      dictionary: 使う
+      position: 3
+    - word: た
+      position: 5
+    - word: イカサマ
+      position: 6
+    - word: で
+      position: 10
+    - word: 私
+      position: 12
+    - word: わたくし
+      base: 私
+      position: 14
+      tags:
+        - silent
+    - word: を
+      position: 19
+    - word: 負かし
+      base: 負かす
+      dictionary: 負かす
+      position: 20
+    - word: た
+      position: 23
+    - word: 人
+      position: 24
+    - word: じゃ
+      base: だ
+      dictionary: だ
+      position: 25
+    - word: ない
+      base: 無い
+      position: 27
+    - word: です
+      position: 29
+    - word: の
+      position: 31
+    - word: よ
+      position: 32
+    - word: だまさ
+      base: 騙す
+      dictionary: だます
+      position: 34
+    - word: れる
+      position: 37
+    - word: お前
+      base: 御前
+      position: 40
+    - word: が
+      position: 42
+    - word: 悪い
+      position: 43
+- id: A_NoGameNoLife_E10_2811
+  deck_name: No Game No Life
+  translation: Helping us could lead to the  destruction of Elven Garde.
+  sound: A_NoGameNoLife__10_0.07.32.756-0.07.38.595.mp3
+  sentence: 私(わたくし)たちに協力するのは― エルヴン･ガルドの破滅に つながるかもしれないんですのよ
+  words:
+    - word: 私
+      position: 0
+    - word: わたくし
+      base: 私
+      position: 2
+      tags:
+        - silent
+    - word: たち
+      base: 達
+      position: 7
+    - word: に
+      position: 9
+    - word: 協力
+      position: 10
+    - word: する
+      base: 為る
+      position: 12
+    - word: の
+      position: 14
+    - word: は
+      position: 15
+    - word: エルヴン
+      position: 18
+    - word: ガルド
+      position: 23
+    - word: の
+      position: 26
+    - word: 破滅
+      position: 27
+    - word: に
+      position: 29
+    - word: つながる
+      base: 繋ぐ
+      position: 31
+    - word: か
+      position: 35
+    - word: も
+      position: 36
+    - word: しれ
+      base: 知る
+      dictionary: しれる
+      position: 37
+    - word: ない
+      position: 39
+    - word: ん
+      base: の
+      position: 41
+    - word: です
+      position: 42
+    - word: の
+      position: 44
+    - word: よ
+      position: 45
+- id: A_NoGameNoLife_E10_2826
+  deck_name: No Game No Life
+  translation: >-
+    When their ruler, the  "Shrine Priestess," appeared, they became the third
+    largest country  in the world in just 50 years.
+  sound: A_NoGameNoLife__10_0.08.38.238-0.08.45.454.mp3
+  sentence: 巫女(みこ)と呼ばれる統治者の 登場により― わずか半世紀で 世界第３位の大国になった― 連中の脅威は未知数
+  words:
+    - word: 巫女
+      position: 0
+    - word: みこ
+      position: 3
+      tags:
+        - silent
+    - word: と
+      position: 6
+    - word: 呼ば
+      base: 呼ぶ
+      dictionary: 呼ぶ
+      position: 7
+    - word: れる
+      position: 9
+    - word: 統治
+      position: 11
+    - word: 者
+      position: 13
+    - word: の
+      position: 14
+    - word: 登場
+      position: 16
+    - word: に
+      position: 18
+    - word: より
+      base: よる
+      dictionary: よる
+      position: 19
+    - word: わずか
+      base: 僅か
+      position: 23
+    - word: 半
+      position: 26
+    - word: 世紀
+      position: 27
+    - word: で
+      position: 29
+    - word: 世界
+      position: 31
+    - word: 第
+      position: 33
+    - word: ３
+      base: '3'
+      dictionary: '3'
+      position: 34
+    - word: 位
+      position: 35
+    - word: の
+      position: 36
+    - word: 大国
+      position: 37
+    - word: に
+      position: 39
+    - word: なっ
+      base: 成る
+      dictionary: なる
+      position: 40
+    - word: た
+      position: 42
+    - word: 連中
+      position: 45
+    - word: の
+      position: 47
+    - word: 脅威
+      position: 48
+    - word: は
+      position: 50
+    - word: 未知
+      position: 51
+    - word: 数
+      position: 53
+- id: A_NoGameNoLife_E10_2926
+  deck_name: No Game No Life
+  translation: We're heading for Izuna-tan's house!
+  sound: A_NoGameNoLife__10_0.15.28.314-0.15.32.277.mp3
+  sentence: 目的地は… いづなたん家(ち)で ゴー
+  words:
+    - word: 目的
+      position: 0
+    - word: 地
+      position: 2
+    - word: は
+      position: 3
+    - word: いづ
+      base: 出る
+      position: 6
+    - word: な
+      base: だ
+      dictionary: だ
+      position: 8
+    - word: たん
+      base: 痰
+      position: 9
+    - word: 家
+      position: 11
+    - word: ち
+      position: 13
+      tags:
+        - silent
+    - word: で
+      position: 15
+    - word: ゴー
+      position: 17
+- id: A_NoGameNoLife_E10_3007
+  deck_name: No Game No Life
+  translation: Wh-What do you mean?
+  sound: A_NoGameNoLife__10_0.21.54.867-0.21.57.620.mp3
+  sentence: ど… どういうことですの？ あんな啖呵(たんか)切っといて
+  words:
+    - word: ど
+      position: 0
+    - word: どういう
+      position: 3
+    - word: こと
+      position: 7
+    - word: です
+      position: 9
+    - word: の
+      position: 11
+    - word: あんな
+      position: 14
+    - word: 啖呵
+      position: 17
+    - word: たんか
+      base: 啖呵
+      position: 20
+      tags:
+        - silent
+    - word: 切っ
+      base: 切る
+      dictionary: 切る
+      position: 24
+    - word: とい
+      base: とく
+      dictionary: とく
+      position: 26
+    - word: て
+      position: 28
+- id: A_NoGameNoLife_E11_3015
+  deck_name: No Game No Life
+  translation: Wh-What do you mean?
+  sound: A_NoGameNoLife__11_0.00.07.728-0.00.10.481.mp3
+  sentence: ど… どういうことですの？ あんな啖呵(たんか)切っといて
+  words:
+    - word: ど
+      position: 0
+    - word: どういう
+      position: 3
+    - word: こと
+      position: 7
+    - word: です
+      position: 9
+    - word: の
+      position: 11
+    - word: あんな
+      position: 14
+    - word: 啖呵
+      position: 17
+    - word: たんか
+      base: 啖呵
+      position: 20
+      tags:
+        - silent
+    - word: 切っ
+      base: 切る
+      dictionary: 切る
+      position: 24
+    - word: とい
+      base: とく
+      dictionary: とく
+      position: 26
+    - word: て
+      position: 28
+- id: A_NoGameNoLife_E11_3027
+  deck_name: No Game No Life
+  translation: 'Love or Loved 2: Hit Her  With Your Bullet of Love!'
+  sound: A_NoGameNoLife__11_0.01.10.958-0.01.18.048.mp3
+  sentence: 「ラブ･オア･ラベッド２(ツー)」 「恋の弾丸 あの子に届け」
+  words:
+    - word: ラブ
+      position: 1
+    - word: オア
+      position: 4
+    - word: ラベッド
+      position: 7
+    - word: ２
+      base: '2'
+      dictionary: '2'
+      position: 11
+    - word: ツー
+      position: 13
+      tags:
+        - silent
+    - word: 恋
+      position: 19
+    - word: の
+      position: 20
+    - word: 弾丸
+      position: 21
+    - word: あの
+      base: 彼の
+      position: 24
+    - word: 子
+      position: 26
+    - word: に
+      position: 27
+    - word: 届け
+      base: 届ける
+      dictionary: 届ける
+      position: 28
+- id: A_NoGameNoLife_E11_3091
+  deck_name: No Game No Life
+  translation: No, Brother, we're sibli—
+  sound: A_NoGameNoLife__11_0.06.07.087-0.06.11.174.mp3
+  sentence: やっ にぃ ダメ 白たち 兄妹(きょうだい)…  ヒイッ
+  words:
+    - word: やっ
+      base: 遣る
+      dictionary: やる
+      position: 0
+    - word: にぃ
+      base: 二
+      position: 3
+    - word: ダメ
+      base: 駄目
+      position: 6
+    - word: 白
+      position: 9
+    - word: たち
+      base: 達
+      position: 10
+    - word: 兄妹
+      base: 兄弟
+      position: 13
+    - word: きょうだい
+      base: 兄弟
+      position: 16
+      tags:
+        - silent
+    - word: ヒイッ
+      base: ひい
+      position: 25
+- id: A_NoGameNoLife_E11_3094
+  deck_name: No Game No Life
+  translation: >-
+    So this is the "love triangle" and "NTR"  I saw in my master's books! Shiro!
+    My beloved Shiro!
+  sound: A_NoGameNoLife__11_0.06.17.472-0.06.20.142.mp3
+  sentence: “三角関係”と“ＮＲ(ネトラレ)”で ございますね
+  words:
+    - word: 三角
+      position: 1
+    - word: 関係
+      position: 3
+    - word: と
+      position: 6
+    - word: ＮＲ
+      base: nr
+      dictionary: nr
+      position: 8
+    - word: ネトラレ
+      position: 11
+      tags:
+        - silent
+    - word: で
+      position: 17
+    - word: ござい
+      base: 御座る
+      dictionary: ござる
+      position: 19
+    - word: ます
+      position: 22
+    - word: ね
+      position: 24
+- id: A_NoGameNoLife_E11_3101
+  deck_name: No Game No Life
+  translation: You all left me on my own again!
+  sound: A_NoGameNoLife__11_0.06.38.785-0.06.42.706.mp3
+  sentence: みんなして また 私(わたくし)を 放置しましたわね！ ひどいじゃ…
+  words:
+    - word: みんな
+      base: 皆
+      position: 0
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 3
+    - word: て
+      position: 4
+    - word: また
+      base: 又
+      position: 6
+    - word: 私
+      position: 9
+    - word: わたくし
+      base: 私
+      position: 11
+      tags:
+        - silent
+    - word: を
+      position: 16
+    - word: 放置
+      position: 18
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 20
+    - word: まし
+      base: ます
+      dictionary: ます
+      position: 21
+    - word: た
+      position: 23
+    - word: わ
+      position: 24
+    - word: ね
+      position: 25
+    - word: ひどい
+      base: 酷い
+      position: 28
+    - word: じゃ
+      position: 31
+- id: A_NoGameNoLife_E11_3102
+  deck_name: No Game No Life
+  translation: That's horribl— Sora! My prince!
+  sound: A_NoGameNoLife__11_0.06.42.831-0.06.45.125.mp3
+  sentence: ああっ 空！ 私(わたくし)の王子様！
+  words:
+    - word: ああっ
+      base: ああ
+      position: 0
+    - word: 空
+      position: 4
+    - word: 私
+      position: 7
+    - word: わたくし
+      base: 私
+      position: 9
+      tags:
+        - silent
+    - word: の
+      position: 14
+    - word: 王子
+      position: 15
+    - word: 様
+      position: 17
+- id: A_NoGameNoLife_E11_3107
+  deck_name: No Game No Life
+  translation: Now pull your index finger in.
+  sound: A_NoGameNoLife__11_0.06.56.678-0.06.58.096.mp3
+  sentence: ハッ 私(わたくし) いったい何を…
+  words:
+    - word: ハッ
+      base: はっ
+      position: 0
+    - word: 私
+      position: 3
+    - word: わたくし
+      base: 私
+      position: 5
+      tags:
+        - silent
+    - word: いったい
+      base: 一体
+      position: 11
+    - word: 何
+      position: 15
+    - word: を
+      position: 16
+- id: A_NoGameNoLife_E11_3132
+  deck_name: No Game No Life
+  translation: That's what makes this game special!
+  sound: A_NoGameNoLife__11_0.08.47.414-0.08.49.082.mp3
+  sentence: これこそ このゲームの醍醐味(だいごみ)か！
+  words:
+    - word: これ
+      base: 此れ
+      position: 0
+    - word: こそ
+      position: 2
+    - word: この
+      base: 此の
+      position: 5
+    - word: ゲーム
+      position: 7
+    - word: の
+      position: 10
+    - word: 醍醐
+      position: 11
+    - word: 味
+      position: 13
+    - word: だい
+      position: 15
+      tags:
+        - silent
+    - word: ごみ
+      base: 塵
+      position: 17
+      tags:
+        - silent
+    - word: か
+      position: 20
+- id: A_NoGameNoLife_E11_3135
+  deck_name: No Game No Life
+  translation: 'Cotton max thickness: 1 millimeter. 12 o'' clock.'
+  sound: A_NoGameNoLife__11_0.08.56.423-0.08.58.717.mp3
+  sentence: 12時方向 距離２００５０(フタマルマルゴマル)
+  words:
+    - word: '12'
+      position: 0
+    - word: 時
+      position: 2
+    - word: 方向
+      position: 3
+    - word: 距離
+      position: 6
+    - word: ２００５０
+      base: '20050'
+      dictionary: '20050'
+      position: 8
+    - word: フタマルマルゴマル
+      position: 14
+      tags:
+        - silent
+- id: A_NoGameNoLife_E11_3136
+  deck_name: No Game No Life
+  translation: 'Distance: 20050.'
+  sound: A_NoGameNoLife__11_0.08.58.842-0.08.59.676.mp3
+  sentence: 射角９３(キュウサン)
+  words:
+    - word: 射角
+      position: 0
+    - word: ９３
+      base: '93'
+      dictionary: '93'
+      position: 2
+    - word: キュウサン
+      position: 5
+      tags:
+        - silent
+- id: A_NoGameNoLife_E11_3137
+  deck_name: No Game No Life
+  translation: 'Firing angle: 93.'
+  sound: A_NoGameNoLife__11_0.08.59.801-0.09.01.386.mp3
+  sentence: 弾速３００(サンマルマル)メーターセカンズ
+  words:
+    - word: 弾速
+      position: 0
+    - word: ３００
+      base: '300'
+      dictionary: '300'
+      position: 2
+    - word: サンマルマル
+      position: 6
+      tags:
+        - silent
+    - word: メーターセカンズ
+      position: 13
+- id: A_NoGameNoLife_E11_3210
+  deck_name: No Game No Life
+  translation: You're so mean, Jibril-sama!
+  sound: A_NoGameNoLife__11_0.15.05.041-0.15.08.503.mp3
+  sentence: あーん ジブリールってば いけず！ 私(わたくし)を置いて みんなと…
+  words:
+    - word: あーん
+      base: ああん
+      position: 0
+    - word: ジブリール
+      position: 4
+    - word: って
+      position: 9
+    - word: ば
+      position: 11
+    - word: いけ
+      base: 行く
+      dictionary: いける
+      position: 13
+    - word: ず
+      dictionary: ぬ
+      position: 15
+    - word: 私
+      position: 18
+    - word: わたくし
+      base: 私
+      position: 20
+      tags:
+        - silent
+    - word: を
+      position: 25
+    - word: 置い
+      base: 置く
+      dictionary: 置く
+      position: 26
+    - word: て
+      position: 28
+    - word: みんな
+      base: 皆
+      position: 30
+    - word: と
+      position: 33
+- id: A_NoGameNoLife_E11_3290
+  deck_name: No Game No Life
+  translation: This is fun!
+  sound: A_NoGameNoLife__11_0.22.05.253-0.22.07.755.mp3
+  sentence: 面白(おもしれ)え です！
+  words:
+    - word: 面白
+      base: 面白い
+      dictionary: 面白い
+      position: 0
+    - word: お
+      base: 御
+      position: 3
+      tags:
+        - silent
+    - word: も
+      position: 4
+      tags:
+        - silent
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 5
+      tags:
+        - silent
+    - word: れ
+      base: れる
+      dictionary: れる
+      position: 6
+      tags:
+        - silent
+    - word: え
+      base: えー
+      position: 8
+    - word: です
+      position: 10
+- id: A_NoGameNoLife_E12_3296
+  deck_name: No Game No Life
+  translation: Blank doesn't lose.
+  sound: A_NoGameNoLife__12_0.00.15.527-0.00.17.947.mp3
+  sentence: 「空白(くうはく)」に敗北はないの
+  words:
+    - word: 空白
+      position: 1
+    - word: くう
+      position: 4
+      tags:
+        - silent
+    - word: はく
+      position: 6
+      tags:
+        - silent
+    - word: に
+      position: 10
+    - word: 敗北
+      position: 11
+    - word: は
+      position: 13
+    - word: ない
+      base: 無い
+      position: 14
+    - word: の
+      position: 16
+- id: A_NoGameNoLife_E12_3297
+  deck_name: No Game No Life
+  translation: This is fun!
+  sound: A_NoGameNoLife__12_0.00.30.292-0.00.32.670.mp3
+  sentence: 面白(おもしれ)え です！
+  words:
+    - word: 面白
+      base: 面白い
+      dictionary: 面白い
+      position: 0
+    - word: お
+      base: 御
+      position: 3
+      tags:
+        - silent
+    - word: も
+      position: 4
+      tags:
+        - silent
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 5
+      tags:
+        - silent
+    - word: れ
+      base: れる
+      dictionary: れる
+      position: 6
+      tags:
+        - silent
+    - word: え
+      base: えー
+      position: 8
+    - word: です
+      position: 10
+- id: A_NoGameNoLife_E12_3299
+  deck_name: No Game No Life
+  translation: A double jump? You've gotta be kidding! Cheater!
+  sound: A_NoGameNoLife__12_0.00.38.842-0.00.41.720.mp3
+  sentence: ２段ジャンプとか マジふざけんなよ チート 乙(おつ)
+  words:
+    - word: ２
+      base: '2'
+      dictionary: '2'
+      position: 0
+    - word: 段
+      position: 1
+    - word: ジャンプ
+      position: 2
+    - word: と
+      position: 6
+    - word: か
+      position: 7
+    - word: マジ
+      base: まじ
+      position: 9
+    - word: ふざけん
+      base: ふざける
+      dictionary: ふざける
+      position: 11
+    - word: な
+      position: 15
+    - word: よ
+      position: 16
+    - word: チート
+      position: 18
+    - word: 乙
+      position: 22
+    - word: おつ
+      position: 24
+      tags:
+        - silent
+- id: A_NoGameNoLife_E12_3336
+  deck_name: No Game No Life
+  translation: >-
+    When Shiro bounced her shot  off of Jibril's bullet, she wasn't aiming for
+    you.
+  sound: A_NoGameNoLife__12_0.04.19.146-0.04.25.110.mp3
+  sentence: あのとき 白がジブリールの弾(たま)に― 跳弾(ちょうだん)させて狙ったのが お前ですらなく その下
+  words:
+    - word: あの
+      base: 彼の
+      position: 0
+    - word: とき
+      base: 時
+      position: 2
+    - word: 白
+      position: 5
+    - word: が
+      position: 6
+    - word: ジブリール
+      position: 7
+    - word: の
+      position: 12
+    - word: 弾
+      position: 13
+    - word: たま
+      position: 15
+      tags:
+        - silent
+    - word: に
+      position: 18
+    - word: 跳弾
+      position: 21
+    - word: ちょう
+      base: 蝶
+      position: 24
+      tags:
+        - silent
+    - word: だん
+      position: 27
+      tags:
+        - silent
+    - word: さ
+      base: 為る
+      dictionary: する
+      position: 30
+    - word: せ
+      base: せる
+      dictionary: せる
+      position: 31
+    - word: て
+      position: 32
+    - word: 狙っ
+      base: 狙う
+      dictionary: 狙う
+      position: 33
+    - word: た
+      position: 35
+    - word: の
+      position: 36
+    - word: が
+      position: 37
+    - word: お前
+      base: 御前
+      position: 39
+    - word: で
+      position: 41
+    - word: すら
+      position: 42
+    - word: なく
+      base: 無い
+      dictionary: ない
+      position: 44
+    - word: その
+      base: 其の
+      position: 47
+    - word: 下
+      position: 49
+- id: A_NoGameNoLife_E12_3371
+  deck_name: No Game No Life
+  translation: You're talking like it doesn't  matter if they see me naked!
+  sound: A_NoGameNoLife__12_0.06.41.913-0.06.45.334.mp3
+  sentence: まるで私(わたくし)なら問題ないという 言い方ですわね！
+  words:
+    - word: まるで
+      base: 丸で
+      position: 0
+    - word: 私
+      position: 3
+    - word: わたくし
+      base: 私
+      position: 5
+      tags:
+        - silent
+    - word: なら
+      base: だ
+      dictionary: だ
+      position: 10
+    - word: 問題
+      position: 12
+    - word: ない
+      base: 無い
+      position: 14
+    - word: と
+      position: 16
+    - word: いう
+      base: 言う
+      position: 17
+    - word: 言い
+      base: 言う
+      dictionary: 言う
+      position: 20
+    - word: 方
+      position: 22
+    - word: です
+      position: 23
+    - word: わ
+      position: 25
+    - word: ね
+      position: 26
+- id: A_NoGameNoLife_E12_3408
+  deck_name: No Game No Life
+  translation: I hate baths.
+  sound: A_NoGameNoLife__12_0.09.19.905-0.09.22.073.mp3
+  sentence: 風呂は嫌(きれ)えです
+  words:
+    - word: 風呂
+      position: 0
+    - word: は
+      position: 2
+    - word: 嫌
+      position: 3
+    - word: きれ
+      base: 切れ
+      position: 5
+      tags:
+        - silent
+    - word: え
+      base: えー
+      position: 8
+    - word: です
+      position: 9
+- id: A_NoGameNoLife_E12_3439
+  deck_name: No Game No Life
+  translation: >-
+    Welcome to the land beyond the sea, where we read poetry beneath  the light
+    of the moon.
+  sound: A_NoGameNoLife__12_0.11.03.425-0.11.08.388.mp3
+  sentence: 海よりも遠からに 月読(つくよ)みの光へ ようおいでやす
+  words:
+    - word: 海
+      position: 0
+    - word: より
+      position: 1
+    - word: も
+      position: 3
+    - word: 遠から
+      base: 遠い
+      dictionary: 遠し
+      position: 4
+    - word: に
+      position: 7
+    - word: 月読
+      position: 9
+    - word: つく
+      base: 付く
+      position: 12
+      tags:
+        - silent
+    - word: よ
+      position: 14
+      tags:
+        - silent
+    - word: み
+      position: 16
+    - word: の
+      position: 17
+    - word: 光
+      position: 18
+    - word: へ
+      position: 19
+    - word: よう
+      base: 良く
+      position: 21
+    - word: お
+      base: 御
+      position: 23
+    - word: いで
+      base: 出る
+      dictionary: いでる
+      position: 24
+    - word: やす
+      position: 26
+- id: A_NoGameNoLife_E12_3452
+  deck_name: No Game No Life
+  translation: >-
+    Who could have guessed you'd use your  spy to make contact with the elves,
+    and expose the nature of our game  to ensure that we couldn't win?
+  sound: A_NoGameNoLife__12_0.11.52.557-0.12.01.483.mp3
+  sentence: 間者(かんじゃ)を通じてエルフと接触 あてらのゲームのからくり さらして勝ち目を消す …なんてな あっ…
+  words:
+    - word: 間者
+      position: 0
+    - word: かん
+      base: 彼
+      position: 3
+      tags:
+        - silent
+    - word: じゃ
+      position: 5
+      tags:
+        - silent
+    - word: を
+      position: 8
+    - word: 通じ
+      base: 通ずる
+      dictionary: 通ずる
+      position: 9
+    - word: て
+      position: 11
+    - word: エルフ
+      position: 12
+    - word: と
+      position: 15
+    - word: 接触
+      position: 16
+    - word: あ
+      base: あー
+      position: 19
+    - word: てら
+      base: 寺
+      position: 20
+    - word: の
+      position: 22
+    - word: ゲーム
+      position: 23
+    - word: の
+      position: 26
+    - word: からくり
+      base: 絡繰
+      position: 27
+    - word: さらし
+      base: 晒す
+      dictionary: さらす
+      position: 32
+    - word: て
+      position: 35
+    - word: 勝ち目
+      position: 36
+    - word: を
+      position: 39
+    - word: 消す
+      position: 40
+    - word: なんて
+      position: 44
+    - word: な
+      base: だ
+      dictionary: だ
+      position: 47
+    - word: あっ
+      position: 49
+- id: A_NoGameNoLife_E12_3454
+  deck_name: No Game No Life
+  translation: Actually, I thought you were  Elven Garde spies yourselves.
+  sound: A_NoGameNoLife__12_0.12.07.447-0.12.12.077.mp3
+  sentence: あんたらこそがエルヴン･ガルドの 回し者(もん)やと思うとったしね
+  words:
+    - word: あんた
+      base: 貴方
+      position: 0
+    - word: ら
+      base: 等
+      position: 3
+    - word: こそ
+      position: 4
+    - word: が
+      position: 6
+    - word: エルヴン
+      position: 7
+    - word: ガルド
+      position: 12
+    - word: の
+      position: 15
+    - word: 回し者
+      position: 17
+    - word: もん
+      position: 21
+      tags:
+        - silent
+    - word: や
+      position: 24
+    - word: と
+      position: 25
+    - word: 思う
+      position: 26
+    - word: とっ
+      base: とる
+      dictionary: とる
+      position: 28
+    - word: た
+      position: 30
+    - word: し
+      position: 31
+    - word: ね
+      position: 32
+- id: A_NoGameNoLife_E12_3458
+  deck_name: No Game No Life
+  translation: >-
+    I may not look it, but I was once a member of the Council of 18 Wings,  the
+    Avantheim government.
+  sound: A_NoGameNoLife__12_0.12.23.421-0.12.29.094.mp3
+  sentence: これでも私はかつて 十八翼(よく)議会 アヴァントヘイム政府の一翼
+  words:
+    - word: これ
+      base: 此れ
+      position: 0
+    - word: で
+      position: 2
+    - word: も
+      position: 3
+    - word: 私
+      position: 4
+    - word: は
+      position: 5
+    - word: かつて
+      base: 嘗て
+      position: 6
+    - word: 十八
+      base: '18'
+      position: 10
+    - word: 翼
+      position: 12
+    - word: よく
+      base: 良く
+      position: 14
+      tags:
+        - silent
+    - word: 議会
+      position: 17
+    - word: アヴァントヘイム
+      position: 20
+    - word: 政府
+      position: 28
+    - word: の
+      position: 30
+    - word: 一翼
+      position: 31
+- id: A_NoGameNoLife_E12_3516
+  deck_name: No Game No Life
+  translation: >-
+    Why the hell would I want to  destroy a treasure like that? You're too
+    passionate, Brother.
+  sound: A_NoGameNoLife__12_0.16.58.112-0.17.04.244.mp3
+  sentence: どんな鬱(うつ)こじらせたら― そんな世界の宝 滅ぼすって結論になるー？ にぃ 熱すぎ
+  words:
+    - word: どんな
+      position: 0
+    - word: 鬱
+      position: 3
+    - word: うつ
+      base: 鬱
+      position: 5
+      tags:
+        - silent
+    - word: こじら
+      base: 抉る
+      dictionary: こじる
+      position: 8
+    - word: せ
+      base: せる
+      dictionary: せる
+      position: 11
+    - word: たら
+      base: た
+      dictionary: た
+      position: 12
+    - word: そんな
+      position: 16
+    - word: 世界
+      position: 19
+    - word: の
+      position: 21
+    - word: 宝
+      position: 22
+    - word: 滅ぼす
+      base: 滅ぶ
+      position: 24
+    - word: って
+      position: 27
+    - word: 結論
+      position: 29
+    - word: に
+      position: 31
+    - word: なる
+      base: 成る
+      position: 32
+    - word: ー
+      position: 34
+    - word: にぃ
+      base: 二
+      position: 37
+    - word: 熱
+      position: 40
+    - word: すぎ
+      base: 過ぎ
+      position: 41
+- id: A_NoGameNoLife_E12_3543
+  deck_name: No Game No Life
+  translation: If I wanted that, I would've  taken your Race Piece.
+  sound: A_NoGameNoLife__12_0.18.48.639-0.18.51.267.mp3
+  sentence: だったら お前らの種(しゅ)の駒 奪ってるよ
+  words:
+    - word: だっ
+      base: だ
+      dictionary: だ
+      position: 0
+    - word: たら
+      base: た
+      dictionary: た
+      position: 2
+    - word: お前
+      base: 御前
+      position: 5
+    - word: ら
+      base: 等
+      position: 7
+    - word: の
+      position: 8
+    - word: 種
+      position: 9
+    - word: しゅ
+      base: しゅっ
+      position: 11
+      tags:
+        - silent
+    - word: の
+      position: 14
+    - word: 駒
+      position: 15
+    - word: 奪っ
+      base: 奪う
+      dictionary: 奪う
+      position: 17
+    - word: てる
+      position: 19
+    - word: よ
+      position: 21
+- id: A_NoGameNoLife_E12_3548
+  deck_name: No Game No Life
+  translation: Beat him? He's the one true god!
+  sound: A_NoGameNoLife__12_0.19.05.198-0.19.08.743.mp3
+  sentence: 相手は唯一神(ゆいいつしん)ですぞ ああ それが？
+  words:
+    - word: 相手
+      position: 0
+    - word: は
+      position: 2
+    - word: 唯一
+      position: 3
+    - word: 神
+      position: 5
+    - word: ゆい
+      position: 7
+      tags:
+        - silent
+    - word: いつ
+      position: 9
+      tags:
+        - silent
+    - word: しん
+      position: 11
+      tags:
+        - silent
+    - word: です
+      position: 14
+    - word: ぞ
+      position: 16
+    - word: ああ
+      position: 18
+    - word: それ
+      base: 其れ
+      position: 21
+    - word: が
+      position: 23
+- id: A_NoGameNoLife_E12_3571
+  deck_name: No Game No Life
+  translation: Prove to me that you have wisdom at all.
+  sound: A_NoGameNoLife__12_0.20.38.666-0.20.43.379.mp3
+  sentence: 汝(なんじ)ら 自らの知性を証明せよ …と
+  words:
+    - word: 汝
+      position: 0
+    - word: なん
+      base: 何
+      position: 2
+      tags:
+        - silent
+    - word: じ
+      position: 4
+      tags:
+        - silent
+    - word: ら
+      base: 等
+      position: 6
+    - word: 自ら
+      position: 8
+    - word: の
+      position: 10
+    - word: 知性
+      position: 11
+    - word: を
+      position: 13
+    - word: 証明
+      position: 14
+    - word: せよ
+      base: 為る
+      dictionary: する
+      position: 16
+    - word: と
+      position: 20
+- id: A_NoGameNoLife_E12_3603
+  deck_name: No Game No Life
+  translation: Divine core manifestation.
+  sound: A_NoGameNoLife__12_0.23.12.903-0.23.16.365.mp3
+  sentence: 神髄顕現(しんずいけんげん) 神将意通(しんしょういつう)
+  words:
+    - word: 神髄
+      base: 真髄
+      position: 0
+    - word: 顕現
+      position: 2
+    - word: しん
+      base: 知る
+      dictionary: しれる
+      position: 5
+      tags:
+        - silent
+    - word: ず
+      dictionary: ぬ
+      position: 7
+      tags:
+        - silent
+    - word: いけん
+      base: 意見
+      position: 8
+      tags:
+        - silent
+    - word: げん
+      base: 弦
+      position: 11
+      tags:
+        - silent
+    - word: 神将
+      position: 15
+    - word: 意
+      position: 17
+    - word: 通
+      position: 18
+    - word: しん
+      position: 20
+      tags:
+        - silent
+    - word: しょうい
+      base: 焼夷
+      position: 22
+      tags:
+        - silent
+    - word: つう
+      position: 26
+      tags:
+        - silent
+- id: A_NoGameNoLife_E12_3604
+  deck_name: No Game No Life
+  translation: 'Mind meld established. Power setting: minimal.'
+  sound: A_NoGameNoLife__12_0.23.16.490-0.23.18.868.mp3
+  sentence: 神格設定底辺(しんかくせっていていへん)
+  words:
+    - word: 神格
+      position: 0
+    - word: 設定
+      position: 2
+    - word: 底辺
+      position: 4
+    - word: しん
+      position: 7
+      tags:
+        - silent
+    - word: かく
+      base: 斯く
+      position: 9
+      tags:
+        - silent
+    - word: せっ
+      base: 競る
+      dictionary: せる
+      position: 11
+      tags:
+        - silent
+    - word: て
+      position: 13
+      tags:
+        - silent
+    - word: い
+      base: 居る
+      dictionary: いる
+      position: 14
+      tags:
+        - silent
+    - word: て
+      position: 15
+      tags:
+        - silent
+    - word: い
+      base: 居る
+      dictionary: いる
+      position: 16
+      tags:
+        - silent
+    - word: へん
+      position: 17
+      tags:
+        - silent
+- id: A_NoGameNoLife_E12_3605
+  deck_name: No Game No Life
+  translation: Why have you summoned me,  you with finite lifespans?
+  sound: A_NoGameNoLife__12_0.23.20.578-0.23.24.790.mp3
+  sentence: 余を如何(いかん)と知って呼びかける 定命(じょうみょう)の者
+  words:
+    - word: 余
+      base: 余り
+      position: 0
+    - word: を
+      position: 1
+    - word: 如何
+      base: どう
+      position: 2
+    - word: いか
+      base: 行く
+      dictionary: いく
+      position: 5
+      tags:
+        - silent
+    - word: ん
+      base: ず
+      dictionary: ぬ
+      position: 7
+      tags:
+        - silent
+    - word: と
+      position: 9
+    - word: 知っ
+      base: 知る
+      dictionary: 知る
+      position: 10
+    - word: て
+      position: 12
+    - word: 呼び
+      base: 呼ぶ
+      dictionary: 呼ぶ
+      position: 13
+    - word: かける
+      base: 掛ける
+      position: 15
+    - word: 定命
+      position: 19
+    - word: じょう
+      base: 上
+      position: 22
+      tags:
+        - silent
+    - word: みょう
+      base: 妙
+      position: 25
+      tags:
+        - silent
+    - word: の
+      position: 29
+    - word: 者
+      position: 30

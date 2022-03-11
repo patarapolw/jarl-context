@@ -5774,6 +5774,8 @@
   words:
     - word: 佐藤
       position: 1
+      tags:
+        - silent
     - word: そう
       position: 5
     - word: いえ
@@ -6200,6 +6202,8 @@
   words:
     - word: 佐藤
       position: 1
+      tags:
+        - silent
     - word: 誰
       position: 5
     - word: か
@@ -7607,6 +7611,8 @@
       base: 二人
       dictionary: 2人
       position: 1
+      tags:
+        - silent
     - word: 幸せ
       position: 4
     - word: か

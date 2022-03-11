@@ -1399,6 +1399,8 @@
       position: 5
     - word: けいこ
       position: 8
+      tags:
+        - silent
     - word: ちゃん
       position: 12
     - word: から
@@ -1567,8 +1569,12 @@
       base: 見る
       dictionary: みる
       position: 3
+      tags:
+        - silent
     - word: わ
       position: 4
+      tags:
+        - silent
     - word: が
       position: 6
     - word: 言っ
@@ -2326,12 +2332,16 @@
       position: 11
     - word: グース
       position: 17
+      tags:
+        - silent
     - word: House
       base: ハウス
       dictionary: house
       position: 22
     - word: ハウス
       position: 28
+      tags:
+        - silent
     - word: の
       position: 32
     - word: 新曲
@@ -3764,10 +3774,16 @@
     - word: みや
       base: 宮
       position: 16
+      tags:
+        - silent
     - word: ぞ
       position: 18
+      tags:
+        - silent
     - word: の
       position: 19
+      tags:
+        - silent
     - word: かをり
       position: 21
     - word: ちゃん
@@ -3801,10 +3817,14 @@
       position: 9
     - word: りょう
       position: 12
+      tags:
+        - silent
     - word: た
       base: だ
       dictionary: だ
       position: 15
+      tags:
+        - silent
     - word: こう
       position: 18
     - word: 見え
@@ -4333,8 +4353,12 @@
       position: 7
     - word: と
       position: 10
+      tags:
+        - silent
     - word: うわ
       position: 11
+      tags:
+        - silent
     - word: ホール
       position: 14
 - id: Anime_Your_lie_in_april_E01_0181
@@ -4858,8 +4882,12 @@
       base: 有る
       dictionary: ある
       position: 8
+      tags:
+        - silent
     - word: ま
       position: 10
+      tags:
+        - silent
     - word: だ
       position: 12
     - word: よ
@@ -4916,9 +4944,13 @@
     - word: さ
       base: さあ
       position: 3
+      tags:
+        - silent
     - word: いき
       base: 粋
       position: 4
+      tags:
+        - silent
     - word: コンクール
       position: 7
     - word: で
@@ -5508,6 +5540,8 @@
     - word: さとう
       base: 砂糖
       position: 3
+      tags:
+        - silent
     - word: 先生
       position: 7
     - word: の
@@ -6182,10 +6216,16 @@
     - word: みや
       base: 宮
       position: 3
+      tags:
+        - silent
     - word: ぞ
       position: 5
+      tags:
+        - silent
     - word: の
       position: 6
+      tags:
+        - silent
     - word: かをり
       position: 8
     - word: でしょ
@@ -7825,6 +7865,8 @@
       position: 7
     - word: けいこ
       position: 10
+      tags:
+        - silent
     - word: 泣か
       base: 泣く
       dictionary: 泣く
@@ -9323,13 +9365,21 @@
       position: 2
     - word: もり
       position: 5
+      tags:
+        - silent
     - word: わき
       base: 脇
       position: 7
+      tags:
+        - silent
     - word: がく
       position: 9
+      tags:
+        - silent
     - word: せい
       position: 11
+      tags:
+        - silent
     - word: コンクール
       position: 14
     - word: ピアノ
@@ -9343,9 +9393,13 @@
     - word: さ
       base: さあ
       position: 32
+      tags:
+        - silent
     - word: いき
       base: 粋
       position: 33
+      tags:
+        - silent
     - word: コンクール
       position: 36
     - word: 最
@@ -10443,6 +10497,8 @@
       position: 0
     - word: つばき
       position: 2
+      tags:
+        - silent
     - word: おはよう
       base: 御早う
       position: 7
@@ -10720,6 +10776,8 @@
       base: 押す
       dictionary: おす
       position: 2
+      tags:
+        - silent
     - word: えよ
       base: 得る
       dictionary: える
@@ -11198,8 +11256,12 @@
       base: 有る
       dictionary: ある
       position: 9
+      tags:
+        - silent
     - word: ま
       position: 11
+      tags:
+        - silent
     - word: 君
       position: 13
     - word: が
@@ -12908,10 +12970,14 @@
       position: 4
     - word: こう
       position: 7
+      tags:
+        - silent
     - word: せい
       base: 為る
       dictionary: する
       position: 9
+      tags:
+        - silent
 - id: Anime_Your_lie_in_april_E04_0541
   deck_name: Your Lie in April
   translation: I want you to study the sheet music over and over.
@@ -13144,8 +13210,12 @@
       base: 有る
       dictionary: ある
       position: 6
+      tags:
+        - silent
     - word: ま
       position: 8
+      tags:
+        - silent
     - word: が
       position: 10
     - word: トップ
@@ -13166,10 +13236,16 @@
       position: 4
     - word: はし
       position: 7
+      tags:
+        - silent
     - word: も
       position: 9
+      tags:
+        - silent
     - word: と
       position: 10
+      tags:
+        - silent
     - word: 先生
       position: 12
     - word: 直系
@@ -13808,8 +13884,12 @@
       position: 6
     - word: なし
       position: 9
+      tags:
+        - silent
     - word: だ
       position: 11
+      tags:
+        - silent
     - word: さん
       position: 13
     - word: 準備
@@ -14299,10 +14379,16 @@
     - word: みや
       base: 宮
       position: 8
+      tags:
+        - silent
     - word: ぞ
       position: 10
+      tags:
+        - silent
     - word: の
       position: 11
+      tags:
+        - silent
     - word: かをり
       position: 13
     - word: さん
@@ -15512,10 +15598,14 @@
       position: 3
     - word: こう
       position: 6
+      tags:
+        - silent
     - word: せい
       base: 為る
       dictionary: する
       position: 8
+      tags:
+        - silent
     - word: いけ
       base: 行く
       dictionary: いく
@@ -16506,6 +16596,8 @@
       position: 22
     - word: けいこ
       position: 25
+      tags:
+        - silent
     - word: ちゃん
       position: 29
     - word: 俺
@@ -17445,8 +17537,12 @@
       base: 有る
       dictionary: ある
       position: 9
+      tags:
+        - silent
     - word: ま
       position: 11
+      tags:
+        - silent
     - word: 公生
       position: 13
     - word: 君
@@ -19258,6 +19354,8 @@
     - word: こえ
       base: 声
       position: 8
+      tags:
+        - silent
     - word: ～
       base: から
       position: 11
@@ -20003,9 +20101,13 @@
       position: 1
     - word: まい
       position: 3
+      tags:
+        - silent
     - word: ほう
       base: 方
       position: 5
+      tags:
+        - silent
     - word: 音楽
       position: 9
     - word: コンクール
@@ -20709,8 +20811,12 @@
       base: 有る
       dictionary: ある
       position: 7
+      tags:
+        - silent
     - word: ま
       position: 9
+      tags:
+        - silent
     - word: 君
       position: 11
     - word: 頭
@@ -21993,6 +22099,8 @@
       position: 10
     - word: めえ
       position: 13
+      tags:
+        - silent
     - word: ら
       base: 等
       position: 16
@@ -22020,10 +22128,14 @@
       position: 2
     - word: りょう
       position: 5
+      tags:
+        - silent
     - word: た
       base: だ
       dictionary: だ
       position: 8
+      tags:
+        - silent
     - word: って
       position: 10
     - word: いう
@@ -24046,6 +24158,8 @@
       base: 渡る
       dictionary: わたる
       position: 12
+      tags:
+        - silent
 - id: Anime_Your_lie_in_april_E07_1047
   deck_name: Your Lie in April
   translation: Cover him! He's cutting in from the right!
@@ -24355,10 +24469,14 @@
       position: 3
     - word: ぜ
       position: 6
+      tags:
+        - silent
     - word: ってえ
       base: つう
       dictionary: っつう
       position: 7
+      tags:
+        - silent
     - word: 負け
       base: 負ける
       dictionary: 負ける
@@ -24383,8 +24501,12 @@
       base: 有る
       dictionary: ある
       position: 3
+      tags:
+        - silent
     - word: ま
       position: 5
+      tags:
+        - silent
     - word: 授業
       position: 9
     - word: 中
@@ -26207,10 +26329,16 @@
       position: 27
     - word: へん
       position: 29
+      tags:
+        - silent
     - word: そう
       position: 31
+      tags:
+        - silent
     - word: きょく
       position: 33
+      tags:
+        - silent
 - id: Anime_Your_lie_in_april_E07_1145
   deck_name: Your Lie in April
   translation: The stars are shining down on you!
@@ -26343,8 +26471,12 @@
     - word: い
       base: いー
       position: 3
+      tags:
+        - silent
     - word: がわ
       position: 4
+      tags:
+        - silent
     - word: 絵見
       position: 7
     - word: ちゃん
@@ -26356,8 +26488,12 @@
     - word: あ
       base: あっ
       position: 17
+      tags:
+        - silent
     - word: いざ
       position: 18
+      tags:
+        - silent
     - word: 武士
       position: 21
     - word: 君
@@ -27740,8 +27876,12 @@
     - word: しんき
       base: 蜃気
       position: 28
+      tags:
+        - silent
     - word: ろう
       position: 31
+      tags:
+        - silent
     - word: の
       position: 34
     - word: よう
@@ -27920,13 +28060,19 @@
       position: 3
     - word: かわ
       position: 6
+      tags:
+        - silent
     - word: なか
       base: 中
       position: 8
+      tags:
+        - silent
     - word: 優子
       position: 11
     - word: ゆうこ
       position: 14
+      tags:
+        - silent
     - word: さん
       position: 18
     - word: 準備
@@ -28154,9 +28300,13 @@
       position: 1
     - word: まい
       position: 3
+      tags:
+        - silent
     - word: ほう
       base: 方
       position: 5
+      tags:
+        - silent
     - word: 音楽
       position: 9
     - word: コンクール
@@ -28304,6 +28454,8 @@
       position: 0
     - word: たけし
       position: 3
+      tags:
+        - silent
     - word: シュベルスタイン
       position: 8
     - word: コンクール
@@ -28357,9 +28509,13 @@
       position: 1
     - word: まい
       position: 3
+      tags:
+        - silent
     - word: ほう
       base: 方
       position: 5
+      tags:
+        - silent
     - word: コン
       base: こん
       position: 8
@@ -28633,16 +28789,24 @@
       base: 有る
       dictionary: ある
       position: 3
+      tags:
+        - silent
     - word: ま
       position: 5
+      tags:
+        - silent
     - word: 公生
       position: 7
     - word: こう
       position: 10
+      tags:
+        - silent
     - word: せい
       base: 為る
       dictionary: する
       position: 12
+      tags:
+        - silent
     - word: が
       position: 15
     - word: 出る
@@ -28977,6 +29141,8 @@
       position: 6
     - word: タケシ
       position: 14
+      tags:
+        - silent
     - word: 親衛
       position: 18
     - word: 隊
@@ -29590,8 +29756,12 @@
     - word: い
       base: いー
       position: 6
+      tags:
+        - silent
     - word: がわ
       position: 7
+      tags:
+        - silent
     - word: さん
       position: 10
     - word: ね
@@ -29945,6 +30115,8 @@
       position: 0
     - word: くまがい
       position: 3
+      tags:
+        - silent
     - word: コンクール
       position: 8
     - word: は
@@ -29962,16 +30134,26 @@
     - word: たに
       base: 谷
       position: 26
+      tags:
+        - silent
     - word: ざ
       position: 28
+      tags:
+        - silent
     - word: き
       position: 29
+      tags:
+        - silent
     - word: おんが
       base: 温雅
       position: 30
+      tags:
+        - silent
     - word: くさい
       base: 臭い
       position: 33
+      tags:
+        - silent
     - word: は
       position: 37
     - word: ３
@@ -31739,6 +31921,8 @@
       position: 8
     - word: ゆりこ
       position: 12
+      tags:
+        - silent
     - word: です
       position: 16
 - id: Anime_Your_lie_in_april_E09_1353
@@ -32301,6 +32485,8 @@
       position: 7
     - word: つばき
       position: 9
+      tags:
+        - silent
     - word: ちゃん
       position: 13
 - id: Anime_Your_lie_in_april_E09_1378
@@ -33302,10 +33488,16 @@
     - word: ながい
       base: 長い
       position: 12
+      tags:
+        - silent
     - word: き
       position: 15
+      tags:
+        - silent
     - word: ねん
       position: 16
+      tags:
+        - silent
     - word: コンクール
       position: 19
 - id: Anime_Your_lie_in_april_E09_1422
@@ -35335,6 +35527,8 @@
       position: 3
     - word: つばき
       position: 5
+      tags:
+        - silent
     - word: の
       position: 9
     - word: 母性
@@ -36631,8 +36825,12 @@
       base: 為る
       dictionary: する
       position: 9
+      tags:
+        - silent
     - word: と
       position: 10
+      tags:
+        - silent
     - word: さん
       position: 12
 - id: Anime_Your_lie_in_april_E11_1564
@@ -36899,8 +37097,12 @@
       base: 来る
       dictionary: くる
       position: 9
+      tags:
+        - silent
     - word: はる
       position: 10
+      tags:
+        - silent
     - word: ちゃん
       position: 13
     - word: 有馬
@@ -36909,8 +37111,12 @@
       base: 有る
       dictionary: ある
       position: 21
+      tags:
+        - silent
     - word: ま
       position: 23
+      tags:
+        - silent
     - word: 君
       position: 25
     - word: の
@@ -38864,6 +39070,8 @@
       position: 0
     - word: ひろ
       position: 2
+      tags:
+        - silent
     - word: ちゃん
       position: 5
 - id: Anime_Your_lie_in_april_E11_1664
@@ -38919,6 +39127,8 @@
       position: 0
     - word: たかひこ
       position: 3
+      tags:
+        - silent
     - word: さん
       position: 8
     - word: は
@@ -39111,8 +39321,12 @@
       position: 5
     - word: と
       position: 8
+      tags:
+        - silent
     - word: うわ
       position: 9
+      tags:
+        - silent
     - word: ホール
       position: 12
     - word: 事務
@@ -39484,14 +39698,20 @@
       position: 7
     - word: あい
       position: 9
+      tags:
+        - silent
     - word: の
       position: 12
     - word: 悲
       position: 13
     - word: か
       position: 15
+      tags:
+        - silent
     - word: な
       position: 16
+      tags:
+        - silent
     - word: しみ
       position: 18
 - id: Anime_Your_lie_in_april_E11_1692
@@ -40478,8 +40698,12 @@
     - word: てきがい
       base: 敵愾
       position: 9
+      tags:
+        - silent
     - word: しん
       position: 13
+      tags:
+        - silent
     - word: か
       position: 16
     - word: も
@@ -40573,6 +40797,8 @@
     - word: むく
       base: 無垢
       position: 3
+      tags:
+        - silent
     - word: の
       position: 6
     - word: まま
@@ -41094,16 +41320,22 @@
       position: 7
     - word: あい
       position: 9
+      tags:
+        - silent
     - word: の
       position: 12
     - word: 喜
       position: 13
     - word: よろ
       position: 15
+      tags:
+        - silent
     - word: こ
       base: 来る
       dictionary: くる
       position: 17
+      tags:
+        - silent
     - word: び
       base: びっ
       position: 19
@@ -41333,6 +41565,8 @@
       position: 0
     - word: ひろこ
       position: 3
+      tags:
+        - silent
     - word: さん
       position: 7
     - word: 僕
@@ -42334,8 +42568,12 @@
       base: 有る
       dictionary: ある
       position: 6
+      tags:
+        - silent
     - word: ま
       position: 8
+      tags:
+        - silent
     - word: 君
       position: 10
     - word: えっ
@@ -43411,9 +43649,13 @@
     - word: ごうがん
       base: 傲岸
       position: 24
+      tags:
+        - silent
     - word: ふそん
       base: 不遜
       position: 28
+      tags:
+        - silent
     - word: 私
       position: 34
     - word: に
@@ -44443,10 +44685,16 @@
     - word: みや
       base: 宮
       position: 3
+      tags:
+        - silent
     - word: ぞ
       position: 5
+      tags:
+        - silent
     - word: の
       position: 6
+      tags:
+        - silent
     - word: さん
       position: 8
     - word: も
@@ -46201,6 +46449,8 @@
       position: 0
     - word: ひろ
       position: 2
+      tags:
+        - silent
     - word: ちゃん
       position: 5
     - word: また
@@ -46453,10 +46703,16 @@
     - word: みや
       base: 宮
       position: 3
+      tags:
+        - silent
     - word: ぞ
       position: 5
+      tags:
+        - silent
     - word: の
       position: 6
+      tags:
+        - silent
     - word: かをり
       position: 8
     - word: が
@@ -47494,16 +47750,22 @@
       position: 1
     - word: あい
       position: 3
+      tags:
+        - silent
     - word: の
       position: 6
     - word: 喜
       position: 7
     - word: よろ
       position: 9
+      tags:
+        - silent
     - word: こ
       base: 来る
       dictionary: くる
       position: 11
+      tags:
+        - silent
     - word: び
       base: びっ
       position: 13
@@ -49381,6 +49643,8 @@
     - word: しかん
       base: 弛緩
       position: 13
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -50167,6 +50431,8 @@
     - word: さいとう
       base: 菜刀
       position: 8
+      tags:
+        - silent
     - word: 先輩
       position: 13
     - word: まだ
@@ -50296,8 +50562,12 @@
       base: 有る
       dictionary: ある
       position: 7
+      tags:
+        - silent
     - word: ま
       position: 9
+      tags:
+        - silent
     - word: 君
       position: 11
     - word: は
@@ -50530,8 +50800,12 @@
     - word: こん
       base: 此の
       position: 3
+      tags:
+        - silent
     - word: しん
       position: 5
+      tags:
+        - silent
     - word: の
       position: 8
     - word: だし巻き
@@ -51430,9 +51704,13 @@
       position: 7
     - word: すみや
       position: 10
+      tags:
+        - silent
     - word: やきゅう
       base: 野球
       position: 13
+      tags:
+        - silent
     - word: スポーツ
       position: 18
     - word: 少年
@@ -51443,18 +51721,28 @@
       base: 為る
       dictionary: する
       position: 26
+      tags:
+        - silent
     - word: ね
       base: ず
       dictionary: ぬ
       position: 29
+      tags:
+        - silent
     - word: ん
       base: の
       position: 30
+      tags:
+        - silent
     - word: だ
       position: 31
+      tags:
+        - silent
     - word: ん
       base: の
       position: 32
+      tags:
+        - silent
     - word: 強
       position: 35
     - word: 打者
@@ -51691,6 +51979,8 @@
       position: 4
     - word: おうじ
       position: 6
+      tags:
+        - silent
     - word: 公園
       position: 10
     - word: 行こう
@@ -53974,6 +54264,8 @@
       position: 0
     - word: ひろこ
       position: 3
+      tags:
+        - silent
     - word: さん
       position: 7
     - word: も
@@ -54374,21 +54666,33 @@
       position: 4
     - word: おく
       position: 7
+      tags:
+        - silent
     - word: つお
       base: つう
       dictionary: つう
       position: 9
+      tags:
+        - silent
     - word: ん
       base: の
       position: 11
+      tags:
+        - silent
     - word: だ
       position: 12
+      tags:
+        - silent
     - word: いふ
       base: 言う
       position: 13
+      tags:
+        - silent
     - word: ぞく
       base: 俗
       position: 15
+      tags:
+        - silent
     - word: 高校
       position: 18
     - word: を
@@ -54847,6 +55151,8 @@
     - word: こえ
       base: 声
       position: 4
+      tags:
+        - silent
     - word: え
       position: 7
 - id: Anime_Your_lie_in_april_E15_2324
@@ -55133,9 +55439,13 @@
       position: 0
     - word: さわ
       position: 3
+      tags:
+        - silent
     - word: べ
       base: べい
       position: 5
+      tags:
+        - silent
     - word: 俺
       position: 8
     - word: の
@@ -56154,10 +56464,14 @@
       base: 落ちる
       dictionary: おちる
       position: 15
+      tags:
+        - silent
     - word: あい
       base: あう
       dictionary: あう
       position: 17
+      tags:
+        - silent
     - word: 先生
       position: 20
 - id: Anime_Your_lie_in_april_E15_2382
@@ -56218,8 +56532,12 @@
       base: 有る
       dictionary: ある
       position: 3
+      tags:
+        - silent
     - word: ま
       position: 5
+      tags:
+        - silent
     - word: 君
       position: 7
     - word: に
@@ -56454,8 +56772,12 @@
       base: 来る
       dictionary: くる
       position: 3
+      tags:
+        - silent
     - word: はる
       position: 4
+      tags:
+        - silent
     - word: の
       position: 7
     - word: 教育
@@ -56765,10 +57087,16 @@
       position: 3
     - word: くるみ
       position: 5
+      tags:
+        - silent
     - word: が
       position: 8
+      tags:
+        - silent
     - word: おか
       position: 9
+      tags:
+        - silent
     - word: 中
       position: 12
     - word: 学校
@@ -56788,9 +57116,13 @@
     - word: あい
       base: 相
       position: 25
+      tags:
+        - silent
     - word: ざと
       base: 里
       position: 27
+      tags:
+        - silent
     - word: 凪
       position: 31
     - word: と
@@ -57425,6 +57757,8 @@
       position: 35
     - word: なかむら
       position: 38
+      tags:
+        - silent
     - word: が
       position: 43
     - word: さ
@@ -57825,6 +58159,8 @@
     - word: きたん
       base: 忌憚
       position: 3
+      tags:
+        - silent
     - word: ない
       base: 無い
       position: 7
@@ -58501,6 +58837,8 @@
       base: 渡る
       dictionary: わたる
       position: 13
+      tags:
+        - silent
     - word: 君
       position: 17
     - word: は
@@ -58615,8 +58953,12 @@
     - word: しょく
       base: 食
       position: 10
+      tags:
+        - silent
     - word: ざい
       position: 13
+      tags:
+        - silent
     - word: の
       position: 16
     - word: チャンス
@@ -59320,8 +59662,12 @@
       base: 為る
       dictionary: する
       position: 11
+      tags:
+        - silent
     - word: と
       position: 12
+      tags:
+        - silent
     - word: 先生
       position: 14
     - word: こんな
@@ -59516,8 +59862,12 @@
       base: 有る
       dictionary: ある
       position: 15
+      tags:
+        - silent
     - word: ま
       position: 17
+      tags:
+        - silent
     - word: 公生
       position: 19
 - id: Anime_Your_lie_in_april_E16_2527
@@ -60674,9 +61024,13 @@
     - word: かみ
       base: 嘉美
       position: 6
+      tags:
+        - silent
     - word: やま
       base: 山
       position: 8
+      tags:
+        - silent
     - word: 先輩
       position: 11
     - word: 振っ
@@ -60849,10 +61203,14 @@
       base: 見る
       dictionary: みる
       position: 3
+      tags:
+        - silent
     - word: いけ
       base: 行く
       dictionary: いく
       position: 4
+      tags:
+        - silent
     - word: 君
       position: 7
     - word: は
@@ -63103,10 +63461,14 @@
       position: 0
     - word: こう
       position: 3
+      tags:
+        - silent
     - word: せい
       base: 為る
       dictionary: する
       position: 5
+      tags:
+        - silent
     - word: 具合
       position: 9
     - word: で
@@ -63560,21 +63922,33 @@
       position: 4
     - word: おく
       position: 7
+      tags:
+        - silent
     - word: つお
       base: つう
       dictionary: つう
       position: 9
+      tags:
+        - silent
     - word: ん
       base: の
       position: 11
+      tags:
+        - silent
     - word: だ
       position: 12
+      tags:
+        - silent
     - word: いふ
       base: 言う
       position: 13
+      tags:
+        - silent
     - word: ぞく
       base: 俗
       position: 15
+      tags:
+        - silent
     - word: 近く
       position: 18
     - word: の
@@ -63890,8 +64264,12 @@
       base: 為る
       dictionary: する
       position: 10
+      tags:
+        - silent
     - word: と
       position: 11
+      tags:
+        - silent
     - word: 先生
       position: 13
     - word: 私
@@ -63935,8 +64313,12 @@
       base: 有る
       dictionary: ある
       position: 7
+      tags:
+        - silent
     - word: ま
       position: 9
+      tags:
+        - silent
     - word: 先生
       position: 11
 - id: Anime_Your_lie_in_april_E17_2711
@@ -64039,8 +64421,12 @@
     - word: きも
       base: 肝
       position: 6
+      tags:
+        - silent
     - word: と
       position: 8
+      tags:
+        - silent
     - word: が
       position: 10
     - word: ね
@@ -64746,6 +65132,8 @@
       position: 0
     - word: めえ
       position: 3
+      tags:
+        - silent
     - word: よ
       position: 6
     - word: それ
@@ -66186,12 +66574,16 @@
       position: 3
     - word: ばら
       position: 6
+      tags:
+        - silent
     - word: の
       position: 9
     - word: 騎士
       position: 10
     - word: きし
       position: 13
+      tags:
+        - silent
     - word: に
       position: 17
     - word: つい
@@ -66615,8 +67007,12 @@
     - word: あ
       base: あっ
       position: 7
+      tags:
+        - silent
     - word: いざ
       position: 8
+      tags:
+        - silent
     - word: 武士
       position: 11
     - word: 君
@@ -68159,8 +68555,12 @@
       base: 有る
       dictionary: ある
       position: 3
+      tags:
+        - silent
     - word: ま
       position: 5
+      tags:
+        - silent
     - word: 先生
       position: 7
     - word: は
@@ -68386,8 +68786,12 @@
     - word: あ
       base: あっ
       position: 9
+      tags:
+        - silent
     - word: いざ
       position: 10
+      tags:
+        - silent
     - word: 妹
       position: 13
     - word: と
@@ -69075,8 +69479,12 @@
       base: 為る
       dictionary: する
       position: 25
+      tags:
+        - silent
     - word: と
       position: 26
+      tags:
+        - silent
     - word: 先生
       position: 28
     - word: あっ
@@ -69282,9 +69690,13 @@
     - word: あい
       base: 相
       position: 9
+      tags:
+        - silent
     - word: ざと
       base: 里
       position: 11
+      tags:
+        - silent
     - word: さん
       position: 14
     - word: 名字
@@ -69432,6 +69844,8 @@
       position: 19
     - word: めえ
       position: 22
+      tags:
+        - silent
     - word: が
       position: 25
     - word: 凪
@@ -69759,9 +70173,13 @@
     - word: ひがし
       base: 東
       position: 8
+      tags:
+        - silent
     - word: にほん
       base: 日本
       position: 11
+      tags:
+        - silent
     - word: ピアノ
       position: 15
     - word: コンクール
@@ -71252,6 +71670,8 @@
       position: 3
     - word: つばき
       position: 5
+      tags:
+        - silent
     - word: 模試
       position: 10
     - word: の
@@ -71508,8 +71928,12 @@
       base: 有る
       dictionary: ある
       position: 3
+      tags:
+        - silent
     - word: ま
       position: 5
+      tags:
+        - silent
     - word: 君
       position: 7
     - word: じゃ
@@ -71536,10 +71960,16 @@
     - word: みや
       base: 宮
       position: 3
+      tags:
+        - silent
     - word: ぞ
       position: 5
+      tags:
+        - silent
     - word: の
       position: 6
+      tags:
+        - silent
     - word: さん
       position: 8
     - word: の
@@ -72701,6 +73131,8 @@
       position: 21
     - word: はく
       position: 23
+      tags:
+        - silent
     - word: を
       position: 26
     - word: 付け
@@ -72737,9 +73169,13 @@
     - word: ひがし
       base: 東
       position: 16
+      tags:
+        - silent
     - word: にほん
       base: 日本
       position: 19
+      tags:
+        - silent
     - word: ピアノ
       position: 23
     - word: コンクール
@@ -73074,10 +73510,14 @@
       position: 6
     - word: と
       position: 8
+      tags:
+        - silent
     - word: さけん
       base: 叫ぶ
       dictionary: さけぶ
       position: 9
+      tags:
+        - silent
     - word: ああ
       position: 15
     - word: 椿
@@ -73822,6 +74262,8 @@
       position: 3
     - word: かしま
       position: 6
+      tags:
+        - silent
     - word: さん
       position: 10
     - word: いらっしゃい
@@ -74141,8 +74583,12 @@
     - word: あ
       base: あっ
       position: 6
+      tags:
+        - silent
     - word: いざ
       position: 7
+      tags:
+        - silent
     - word: 武士
       position: 10
     - word: 君
@@ -74359,6 +74805,8 @@
       position: 5
     - word: たけ
       position: 7
+      tags:
+        - silent
     - word: ちゃん
       position: 10
     - word: だ
@@ -74506,13 +74954,21 @@
     - word: ひゃく
       base: 百
       position: 12
+      tags:
+        - silent
     - word: だん
       base: 段
       position: 15
+      tags:
+        - silent
     - word: ざ
       position: 17
+      tags:
+        - silent
     - word: か
       position: 18
+      tags:
+        - silent
     - word: 一気
       position: 21
     - word: に
@@ -78426,10 +78882,16 @@
     - word: みや
       base: 宮
       position: 6
+      tags:
+        - silent
     - word: ぞ
       position: 8
+      tags:
+        - silent
     - word: の
       position: 9
+      tags:
+        - silent
     - word: さん
       position: 11
     - word: が
@@ -78512,9 +78974,13 @@
     - word: かた
       base: 方
       position: 3
+      tags:
+        - silent
     - word: ぎり
       base: きり
       position: 5
+      tags:
+        - silent
     - word: 先生
       position: 8
     - word: 呼ん
@@ -79043,10 +79509,14 @@
       position: 3
     - word: こう
       position: 6
+      tags:
+        - silent
     - word: せい
       base: 為る
       dictionary: する
       position: 8
+      tags:
+        - silent
     - word: が
       position: 11
     - word: 病院
@@ -80247,8 +80717,12 @@
       base: 有る
       dictionary: ある
       position: 18
+      tags:
+        - silent
     - word: ま
       position: 20
+      tags:
+        - silent
     - word: 公生
       position: 22
     - word: 君
@@ -80559,8 +81033,12 @@
     - word: い
       base: いー
       position: 9
+      tags:
+        - silent
     - word: がわ
       position: 10
+      tags:
+        - silent
     - word: さーん
       base: さん
       position: 13
@@ -80742,8 +81220,12 @@
       base: 為る
       dictionary: する
       position: 3
+      tags:
+        - silent
     - word: と
       position: 4
+      tags:
+        - silent
     - word: 先生
       position: 6
     - word: どう
@@ -81763,6 +82245,8 @@
       position: 24
     - word: かしわぎ
       position: 27
+      tags:
+        - silent
     - word: うん
       position: 33
 - id: Anime_Your_lie_in_april_E22_3468

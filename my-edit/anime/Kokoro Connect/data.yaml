@@ -98,6 +98,8 @@
     - word: いおり
       base: 庵
       position: 8
+      tags:
+        - silent
     - word: お
       base: 御
       position: 13
@@ -1551,6 +1553,8 @@
       position: 17
     - word: たけ
       position: 19
+      tags:
+        - silent
     - word: えな
       position: 22
 - id: A_KokoroConnect_E02_0496
@@ -1967,9 +1971,13 @@
       base: 切る
       dictionary: きる
       position: 7
+      tags:
+        - silent
     - word: やま
       base: 山
       position: 9
+      tags:
+        - silent
     - word: に
       position: 12
     - word: なっ
@@ -3319,6 +3327,8 @@
     - word: こえ
       base: 声
       position: 6
+      tags:
+        - silent
     - word: ぇ
       position: 9
 - id: A_KokoroConnect_E01_0017
@@ -3381,6 +3391,8 @@
       position: 8
     - word: いなば
       position: 11
+      tags:
+        - silent
     - word: ん
       position: 15
 - id: A_KokoroConnect_E01_0021
@@ -3460,6 +3472,8 @@
     - word: あおき
       base: 青木
       position: 8
+      tags:
+        - silent
     - word: も
       position: 12
     - word: おはよう
@@ -3537,9 +3551,13 @@
     - word: やま
       base: 山
       position: 12
+      tags:
+        - silent
     - word: ぼし
       base: 星
       position: 14
+      tags:
+        - silent
     - word: 高校
       position: 17
     - word: で
@@ -3724,9 +3742,13 @@
       base: 切る
       dictionary: きる
       position: 11
+      tags:
+        - silent
     - word: やま
       base: 山
       position: 13
+      tags:
+        - silent
     - word: 唯
       position: 16
     - word: で
@@ -3949,6 +3971,8 @@
       position: 86
     - word: ながせ
       position: 89
+      tags:
+        - silent
     - word: 伊織
       position: 93
     - word: で
@@ -5247,12 +5271,18 @@
     - word: やえ
       base: 八重
       position: 11
+      tags:
+        - silent
     - word: が
       position: 13
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
       position: 14
+      tags:
+        - silent
     - word: 太一
       position: 16
 - id: A_KokoroConnect_E01_0083
@@ -7157,8 +7187,12 @@
       position: 14
     - word: ふじ
       position: 17
+      tags:
+        - silent
     - word: しま
       position: 19
+      tags:
+        - silent
     - word: 話し
       base: 話す
       dictionary: 話す
@@ -9271,6 +9305,8 @@
     - word: ふくしゅう
       base: 復習
       position: 14
+      tags:
+        - silent
     - word: も
       position: 20
     - word: 進行
@@ -10008,6 +10044,8 @@
     - word: うち
       base: 内
       position: 2
+      tags:
+        - silent
     - word: の
       position: 5
     - word: 人
@@ -10575,6 +10613,8 @@
       position: 3
     - word: ながせ
       position: 6
+      tags:
+        - silent
     - word: あっ
       position: 11
 - id: A_KokoroConnect_E02_0275
@@ -10741,9 +10781,13 @@
       base: 切る
       dictionary: きる
       position: 9
+      tags:
+        - silent
     - word: やま
       base: 山
       position: 11
+      tags:
+        - silent
     - word: 唯
       position: 14
     - word: よ
@@ -10762,6 +10806,8 @@
       position: 2
     - word: いなば
       position: 5
+      tags:
+        - silent
     - word: 姫子
       position: 9
     - word: だ
@@ -11259,6 +11305,8 @@
       position: 10
     - word: そば
       position: 13
+      tags:
+        - silent
     - word: だ
       position: 16
     - word: から
@@ -11728,6 +11776,8 @@
       position: 7
     - word: ひらた
       position: 10
+      tags:
+        - silent
     - word: 先生
       position: 14
     - word: に
@@ -11891,9 +11941,13 @@
     - word: ごうがん
       base: 傲岸
       position: 10
+      tags:
+        - silent
     - word: ふそん
       base: 不遜
       position: 14
+      tags:
+        - silent
     - word: な
       base: だ
       dictionary: だ
@@ -12254,12 +12308,18 @@
     - word: やえ
       base: 八重
       position: 4
+      tags:
+        - silent
     - word: が
       position: 6
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
       position: 7
+      tags:
+        - silent
     - word: うん
       position: 10
 - id: A_KokoroConnect_E02_0337
@@ -12404,8 +12464,12 @@
       position: 15
     - word: ふじ
       position: 18
+      tags:
+        - silent
     - word: しま
       position: 20
+      tags:
+        - silent
     - word: さん
       position: 23
     - word: と
@@ -18251,6 +18315,8 @@
       position: 6
     - word: いなば
       position: 9
+      tags:
+        - silent
     - word: さっき
       position: 14
     - word: の
@@ -18262,6 +18328,8 @@
     - word: いおり
       base: 庵
       position: 24
+      tags:
+        - silent
     - word: は
       position: 28
     - word: 俺
@@ -18324,8 +18392,12 @@
       position: 0
     - word: ふじ
       position: 3
+      tags:
+        - silent
     - word: しま
       position: 5
+      tags:
+        - silent
     - word: と
       position: 8
     - word: の
@@ -18536,6 +18608,8 @@
       position: 5
     - word: ながせ
       position: 8
+      tags:
+        - silent
     - word: を
       position: 12
     - word: 好き
@@ -20372,6 +20446,8 @@
     - word: あおき
       base: 青木
       position: 14
+      tags:
+        - silent
     - word: の
       position: 18
     - word: こと
@@ -20621,6 +20697,8 @@
       position: 19
     - word: も
       position: 21
+      tags:
+        - silent
     - word: え
       base: 得る
       dictionary: える
@@ -21376,6 +21454,8 @@
       position: 32
     - word: 足音
       position: 36
+      tags:
+        - silent
 - id: A_KokoroConnect_E03_0651
   deck_name: Kokoro Connect
   translation: That's nonsense.
@@ -22058,6 +22138,8 @@
     - word: ほ
       base: ほっ
       position: 2
+      tags:
+        - silent
     - word: れ
       base: れる
       dictionary: れる
@@ -25061,12 +25143,18 @@
     - word: やえ
       base: 八重
       position: 4
+      tags:
+        - silent
     - word: が
       position: 6
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
       position: 7
+      tags:
+        - silent
     - word: 君
       position: 9
     - word: あっ
@@ -26281,9 +26369,13 @@
       base: 切る
       dictionary: きる
       position: 7
+      tags:
+        - silent
     - word: やま
       base: 山
       position: 9
+      tags:
+        - silent
     - word: に
       position: 12
     - word: 蹴り
@@ -26321,6 +26413,8 @@
     - word: あおき
       base: 青木
       position: 9
+      tags:
+        - silent
     - word: も
       position: 13
     - word: つい
@@ -26769,6 +26863,8 @@
       position: 5
     - word: ながせ
       position: 8
+      tags:
+        - silent
     - word: も
       position: 12
     - word: 何
@@ -27227,6 +27323,8 @@
     - word: ほ
       base: ほっ
       position: 22
+      tags:
+        - silent
     - word: れ
       base: れる
       dictionary: れる
@@ -30618,6 +30716,8 @@
     - word: ひきょう
       base: 卑怯
       position: 22
+      tags:
+        - silent
     - word: じゃ
       base: で
       position: 27

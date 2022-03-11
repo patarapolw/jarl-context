@@ -6,10 +6,16 @@
   words:
     - word: 犬
       position: 1
+      tags:
+        - silent
     - word: の
       position: 2
+      tags:
+        - silent
     - word: 吠え声
       position: 3
+      tags:
+        - silent
     - word: はい
       position: 8
     - word: いらっしゃい
@@ -29,6 +35,8 @@
   words:
     - word: げっぷ
       position: 1
+      tags:
+        - silent
     - word: お腹
       base: 御腹
       position: 6
@@ -46,6 +54,8 @@
   words:
     - word: げっぷ
       position: 1
+      tags:
+        - silent
 - id: A_WolfChildren_0110
   deck_name: Wolf Children
   translation: He says you're cute. Isn't that great?
@@ -67,10 +77,16 @@
       position: 11
     - word: 犬
       position: 15
+      tags:
+        - silent
     - word: の
       position: 16
+      tags:
+        - silent
     - word: 吠え声
       position: 17
+      tags:
+        - silent
 - id: A_WolfChildren_0113
   deck_name: Wolf Children
   translation: Make 'em shut up already!
@@ -79,12 +95,20 @@
   words:
     - word: ドア
       position: 1
+      tags:
+        - silent
     - word: が
       position: 3
+      tags:
+        - silent
     - word: 開く
       position: 4
+      tags:
+        - silent
     - word: 音
       position: 6
+      tags:
+        - silent
 - id: A_WolfChildren_0117
   deck_name: Wolf Children
   translation: Tch. At least teach them some discipline!
@@ -108,16 +132,26 @@
       position: 13
     - word: ドア
       position: 18
+      tags:
+        - silent
     - word: を
       position: 20
+      tags:
+        - silent
     - word: 激しく
       base: 激しい
       dictionary: 激しい
       position: 21
+      tags:
+        - silent
     - word: 閉める
       position: 24
+      tags:
+        - silent
     - word: 音
       position: 27
+      tags:
+        - silent
 - id: A_WolfChildren_0118
   deck_name: Wolf Children
   translation: There, there. It's all right.
@@ -126,8 +160,12 @@
   words:
     - word: 泣き声
       position: 1
+      tags:
+        - silent
     - word: 泣き声
       position: 7
+      tags:
+        - silent
     - word: よし
       position: 12
     - word: よし
@@ -146,6 +184,8 @@
   words:
     - word: 黒田
       position: 1
+      tags:
+        - silent
     - word: あ
       base: あっ
       position: 5
@@ -206,15 +246,25 @@
       position: 0
     - word: 床板
       position: 5
+      tags:
+        - silent
     - word: を
       position: 7
+      tags:
+        - silent
     - word: 修理
       position: 8
+      tags:
+        - silent
     - word: する
       base: 為る
       position: 10
+      tags:
+        - silent
     - word: 音
       position: 12
+      tags:
+        - silent
 - id: A_WolfChildren_0215
   deck_name: Wolf Children
   translation: Nobody asks if they can take those!
@@ -223,6 +273,8 @@
   words:
     - word: 山岡
       position: 1
+      tags:
+        - silent
     - word: そんな
       position: 5
     - word: もん
@@ -263,13 +315,21 @@
   words:
     - word: 韮崎
       position: 1
+      tags:
+        - silent
     - word: の
       position: 3
+      tags:
+        - silent
     - word: おば
       base: 伯母
       position: 4
+      tags:
+        - silent
     - word: さん
       position: 6
+      tags:
+        - silent
     - word: ひ
       base: 一
       position: 10
@@ -295,13 +355,21 @@
   words:
     - word: 土肥
       position: 1
+      tags:
+        - silent
     - word: の
       position: 3
+      tags:
+        - silent
     - word: おば
       base: 伯母
       position: 4
+      tags:
+        - silent
     - word: さん
       position: 6
+      tags:
+        - silent
     - word: 炭焼き
       position: 10
     - word: の
@@ -347,13 +415,21 @@
   words:
     - word: 堀田
       position: 1
+      tags:
+        - silent
     - word: の
       position: 3
+      tags:
+        - silent
     - word: おじ
       base: 伯父
       position: 4
+      tags:
+        - silent
     - word: さん
       position: 6
+      tags:
+        - silent
     - word: 慣れ
       base: 慣れる
       dictionary: 慣れる
@@ -383,11 +459,17 @@
   words:
     - word: 土肥
       position: 1
+      tags:
+        - silent
     - word: おば
       base: 伯母
       position: 3
+      tags:
+        - silent
     - word: さん
       position: 5
+      tags:
+        - silent
     - word: せっかく
       base: 折角
       position: 9
@@ -442,13 +524,21 @@
   words:
     - word: 堀田
       position: 1
+      tags:
+        - silent
     - word: の
       position: 3
+      tags:
+        - silent
     - word: おば
       base: 伯母
       position: 4
+      tags:
+        - silent
     - word: さん
       position: 6
+      tags:
+        - silent
     - word: 水はけ
       base: 水捌け
       position: 9
@@ -477,13 +567,21 @@
   words:
     - word: 土肥
       position: 1
+      tags:
+        - silent
     - word: の
       position: 3
+      tags:
+        - silent
     - word: おじ
       base: 伯父
       position: 4
+      tags:
+        - silent
     - word: さん
       position: 6
+      tags:
+        - silent
     - word: 助け
       base: 助ける
       dictionary: 助ける
@@ -511,10 +609,16 @@
   words:
     - word: 土肥
       position: 1
+      tags:
+        - silent
     - word: の
       position: 3
+      tags:
+        - silent
     - word: 奥さん
       position: 4
+      tags:
+        - silent
     - word: ここ
       base: 此処
       position: 9
@@ -573,10 +677,16 @@
   words:
     - word: 堀田
       position: 1
+      tags:
+        - silent
     - word: の
       position: 3
+      tags:
+        - silent
     - word: 奥さん
       position: 4
+      tags:
+        - silent
     - word: えっ
       position: 9
     - word: 貯金
@@ -603,13 +713,21 @@
   words:
     - word: 土肥
       position: 1
+      tags:
+        - silent
     - word: の
       position: 3
+      tags:
+        - silent
     - word: おば
       base: 伯母
       position: 4
+      tags:
+        - silent
     - word: さん
       position: 6
+      tags:
+        - silent
     - word: みんな
       base: 皆
       position: 10
@@ -633,13 +751,21 @@
   words:
     - word: 土肥
       position: 1
+      tags:
+        - silent
     - word: の
       position: 3
+      tags:
+        - silent
     - word: おば
       base: 伯母
       position: 4
+      tags:
+        - silent
     - word: さん
       position: 6
+      tags:
+        - silent
     - word: 元気
       position: 10
     - word: ね
@@ -658,13 +784,21 @@
   words:
     - word: 韮崎
       position: 1
+      tags:
+        - silent
     - word: の
       position: 3
+      tags:
+        - silent
     - word: おば
       base: 伯母
       position: 4
+      tags:
+        - silent
     - word: さん
       position: 6
+      tags:
+        - silent
     - word: いい
       base: 良い
       position: 10
@@ -690,14 +824,24 @@
   words:
     - word: 韮崎
       position: 1
+      tags:
+        - silent
     - word: の
       position: 3
+      tags:
+        - silent
     - word: 旦那
       position: 4
+      tags:
+        - silent
     - word: の
       position: 6
+      tags:
+        - silent
     - word: 息子
       position: 7
+      tags:
+        - silent
     - word: ほれ
       base: ほれる
       dictionary: ほれる
@@ -732,14 +876,24 @@
   words:
     - word: 韮崎
       position: 1
+      tags:
+        - silent
     - word: の
       position: 3
+      tags:
+        - silent
     - word: 旦那
       position: 4
+      tags:
+        - silent
     - word: の
       position: 6
+      tags:
+        - silent
     - word: 息子
       position: 7
+      tags:
+        - silent
     - word: だ
       position: 11
     - word: って
@@ -781,16 +935,28 @@
   words:
     - word: 岩
       position: 1
+      tags:
+        - silent
     - word: に
       position: 2
+      tags:
+        - silent
     - word: 頭
       position: 3
+      tags:
+        - silent
     - word: が
       position: 4
+      tags:
+        - silent
     - word: ぶつかる
       position: 5
+      tags:
+        - silent
     - word: 音
       position: 9
+      tags:
+        - silent
 - id: A_WolfChildren_0468
   deck_name: Wolf Children
   translation: And then there were three presents, and three octopuses.
@@ -799,8 +965,12 @@
   words:
     - word: 雪
       position: 1
+      tags:
+        - silent
     - word: 花
       position: 3
+      tags:
+        - silent
     - word: お
       base: 御
       position: 6
@@ -833,16 +1003,28 @@
   words:
     - word: バス
       position: 1
+      tags:
+        - silent
     - word: の
       position: 3
+      tags:
+        - silent
     - word: ドア
       position: 4
+      tags:
+        - silent
     - word: が
       position: 6
+      tags:
+        - silent
     - word: 開く
       position: 7
+      tags:
+        - silent
     - word: 音
       position: 9
+      tags:
+        - silent
 - id: A_WolfChildren_0482
   deck_name: Wolf Children
   translation: So who knows the answer?
@@ -851,6 +1033,8 @@
   words:
     - word: 田辺
       position: 1
+      tags:
+        - silent
     - word: じゃあ
       base: で
       position: 5
@@ -871,12 +1055,20 @@
   words:
     - word: 女の子
       position: 1
+      tags:
+        - silent
     - word: 達
       position: 4
+      tags:
+        - silent
     - word: の
       position: 5
+      tags:
+        - silent
     - word: 声援
       position: 6
+      tags:
+        - silent
 - id: A_WolfChildren_0495
   deck_name: Wolf Children
   translation: Pleased to meet you.
@@ -885,10 +1077,16 @@
   words:
     - word: 中学
       position: 1
+      tags:
+        - silent
     - word: 生
       position: 3
+      tags:
+        - silent
     - word: 達
       position: 4
+      tags:
+        - silent
     - word: よろしく
       base: 宜しく
       position: 7
@@ -919,12 +1117,20 @@
       position: 3
     - word: ドア
       position: 8
+      tags:
+        - silent
     - word: が
       position: 10
+      tags:
+        - silent
     - word: 開く
       position: 11
+      tags:
+        - silent
     - word: 音
       position: 13
+      tags:
+        - silent
 - id: A_WolfChildren_0549
   deck_name: Wolf Children
   translation: Oh hey, Ame. Is school off today?
@@ -933,6 +1139,8 @@
   words:
     - word: 天童
       position: 1
+      tags:
+        - silent
     - word: ああ
       position: 5
     - word: おや
@@ -954,6 +1162,8 @@
   words:
     - word: 田辺
       position: 1
+      tags:
+        - silent
     - word: あっ
       position: 5
     - word: すい
@@ -985,6 +1195,8 @@
   words:
     - word: 男の子
       position: 1
+      tags:
+        - silent
     - word: いや
       base: 否
       position: 6
@@ -1007,6 +1219,8 @@
   words:
     - word: 男の子
       position: 1
+      tags:
+        - silent
     - word: 絶対
       position: 6
     - word: あいつ
@@ -1039,6 +1253,8 @@
       position: 6
     - word: 泣き声
       position: 10
+      tags:
+        - silent
 - id: A_WolfChildren_0678
   deck_name: Wolf Children
   translation: Where's Yuki?
@@ -1047,17 +1263,29 @@
   words:
     - word: 韮崎
       position: 1
+      tags:
+        - silent
     - word: の
       position: 3
+      tags:
+        - silent
     - word: おば
       base: 伯母
       position: 4
+      tags:
+        - silent
     - word: さん
       position: 6
+      tags:
+        - silent
     - word: の
       position: 8
+      tags:
+        - silent
     - word: 声
       position: 9
+      tags:
+        - silent
     - word: 雪
       position: 12
     - word: ちゃん
@@ -1072,10 +1300,16 @@
   words:
     - word: 雨
       position: 1
+      tags:
+        - silent
     - word: の
       position: 2
+      tags:
+        - silent
     - word: 声
       position: 3
+      tags:
+        - silent
     - word: 先生
       position: 6
     - word: は
@@ -1127,13 +1361,21 @@
       position: 1
     - word: 顔
       position: 6
+      tags:
+        - silent
     - word: を
       position: 7
+      tags:
+        - silent
     - word: たたく
       base: 叩く
       position: 8
+      tags:
+        - silent
     - word: 音
       position: 11
+      tags:
+        - silent
 - id: A_WolfChildren_0726
   deck_name: Wolf Children
   translation: What? What's all this noise?
@@ -1151,6 +1393,8 @@
     - word: うなり声
       base: 唸り声
       position: 9
+      tags:
+        - silent
     - word: あっ
       position: 15
 - id: A_WolfChildren_0760
@@ -1161,6 +1405,8 @@
   words:
     - word: 荘子
       position: 1
+      tags:
+        - silent
     - word: いい
       base: 良い
       position: 5
@@ -1184,15 +1430,25 @@
   words:
     - word: 子供
       position: 1
+      tags:
+        - silent
     - word: 達
       position: 3
+      tags:
+        - silent
     - word: の
       position: 4
+      tags:
+        - silent
     - word: ざわめき
       base: 騒めき
       position: 5
+      tags:
+        - silent
     - word: 田辺
       position: 12
+      tags:
+        - silent
     - word: はい
       position: 16
     - word: 座っ
@@ -1226,6 +1482,8 @@
       position: 10
     - word: 雷鳴
       position: 14
+      tags:
+        - silent
 - id: A_WolfChildren_0816
   deck_name: Wolf Children
   translation: You don't need to be so reserved.
@@ -1234,10 +1492,16 @@
   words:
     - word: 信乃
       position: 1
+      tags:
+        - silent
     - word: の
       position: 3
+      tags:
+        - silent
     - word: 父
       position: 4
+      tags:
+        - silent
     - word: 遠慮
       position: 7
     - word: し
@@ -1260,6 +1524,473 @@
       position: 16
     - word: よ
       position: 17
+- id: A_WolfChildren_0894
+  deck_name: Wolf Children
+  translation: Where did you go, Ame?
+  sound: A_WolfChildren_1_1.44.49.569-1.44.52.569.mp3
+  sentence: ((雨　どこ行ったの？))
+  words:
+    - word: 雨
+      position: 2
+      tags:
+        - silent
+    - word: どこ
+      position: 4
+      tags:
+        - silent
+    - word: 行っ
+      base: 行く
+      dictionary: 行く
+      position: 6
+      tags:
+        - silent
+    - word: た
+      position: 8
+      tags:
+        - silent
+    - word: の
+      position: 9
+      tags:
+        - silent
+- id: A_WolfChildren_0895
+  deck_name: Wolf Children
+  translation: Ame!
+  sound: A_WolfChildren_1_1.44.54.073-1.44.56.073.mp3
+  sentence: ((雨！))
+  words:
+    - word: 雨
+      position: 2
+      tags:
+        - silent
+- id: A_WolfChildren_0896
+  deck_name: Wolf Children
+  translation: Ame.
+  sound: A_WolfChildren_1_1.44.58.628-1.45.01.064.mp3
+  sentence: ((フフ…　雨))
+  words:
+    - word: フフ
+      base: ふふ
+      position: 2
+      tags:
+        - silent
+    - word: 雨
+      position: 6
+      tags:
+        - silent
+- id: A_WolfChildren_0897
+  deck_name: Wolf Children
+  translation: I looked all over for you.
+  sound: A_WolfChildren_1_1.45.01.064-1.45.03.066.mp3
+  sentence: ((捜したよ))
+  words:
+    - word: 捜し
+      base: 探す
+      dictionary: 捜す
+      position: 2
+      tags:
+        - silent
+    - word: た
+      position: 4
+      tags:
+        - silent
+    - word: よ
+      position: 5
+      tags:
+        - silent
+- id: A_WolfChildren_0898
+  deck_name: Wolf Children
+  translation: Hurry up, now. We have to go back and pick Yuki up—
+  sound: A_WolfChildren_1_1.45.03.066-1.45.06.552.mp3
+  sentence: ((さぁ　早く戻って 雪を迎えに…))
+  words:
+    - word: さぁ
+      base: さあ
+      position: 2
+      tags:
+        - silent
+    - word: 早く
+      base: 早い
+      dictionary: 早い
+      position: 5
+      tags:
+        - silent
+    - word: 戻っ
+      base: 戻る
+      dictionary: 戻る
+      position: 7
+      tags:
+        - silent
+    - word: て
+      position: 9
+      tags:
+        - silent
+    - word: 雪
+      position: 11
+      tags:
+        - silent
+    - word: を
+      position: 12
+      tags:
+        - silent
+    - word: 迎え
+      base: 迎える
+      dictionary: 迎える
+      position: 13
+      tags:
+        - silent
+    - word: に
+      position: 15
+      tags:
+        - silent
+- id: A_WolfChildren_0899
+  deck_name: Wolf Children
+  translation: Hana.
+  sound: A_WolfChildren_1_1.45.13.126-1.45.14.660.mp3
+  sentence: ((花))
+  words:
+    - word: 花
+      position: 2
+      tags:
+        - silent
+- id: A_WolfChildren_0900
+  deck_name: Wolf Children
+  translation: I've missed you so much.
+  sound: A_WolfChildren_1_1.45.26.055-1.45.29.058.mp3
+  sentence: ((会いたかった…))
+  words:
+    - word: 会い
+      base: 会う
+      dictionary: 会う
+      position: 2
+      tags:
+        - silent
+    - word: たかっ
+      base: たい
+      dictionary: たい
+      position: 4
+      tags:
+        - silent
+    - word: た
+      position: 7
+      tags:
+        - silent
+- id: A_WolfChildren_0901
+  deck_name: Wolf Children
+  translation: I gave you a lot of trouble, didn't I?
+  sound: A_WolfChildren_1_1.45.29.058-1.45.33.079.mp3
+  sentence: ((今まで苦労かけたね すまなかった))
+  words:
+    - word: 今
+      position: 2
+      tags:
+        - silent
+    - word: まで
+      position: 3
+      tags:
+        - silent
+    - word: 苦労
+      position: 5
+      tags:
+        - silent
+    - word: かけ
+      base: 掛ける
+      dictionary: かける
+      position: 7
+      tags:
+        - silent
+    - word: た
+      position: 9
+      tags:
+        - silent
+    - word: ね
+      position: 10
+      tags:
+        - silent
+    - word: すま
+      base: すむ
+      dictionary: すむ
+      position: 12
+      tags:
+        - silent
+    - word: なかっ
+      base: ない
+      dictionary: ない
+      position: 14
+      tags:
+        - silent
+    - word: た
+      position: 17
+      tags:
+        - silent
+- id: A_WolfChildren_0902
+  deck_name: Wolf Children
+  translation: I'm sorry.
+  sound: A_WolfChildren_1_1.45.33.079-1.45.35.048.mp3
+  sentence: ((ううん))
+  words:
+    - word: ううん
+      position: 2
+      tags:
+        - silent
+- id: A_WolfChildren_0903
+  deck_name: Wolf Children
+  translation: I was watching you the entire time.
+  sound: A_WolfChildren_1_1.45.35.048-1.45.38.117.mp3
+  sentence: ((ず～っと君を見ていた))
+  words:
+    - word: ず
+      dictionary: ぬ
+      position: 2
+      tags:
+        - silent
+    - word: ～
+      position: 3
+      tags:
+        - silent
+    - word: っと
+      base: と
+      position: 4
+      tags:
+        - silent
+    - word: 君
+      position: 6
+      tags:
+        - silent
+    - word: を
+      position: 7
+      tags:
+        - silent
+    - word: 見
+      base: 見る
+      dictionary: 見る
+      position: 8
+      tags:
+        - silent
+    - word: て
+      position: 9
+      tags:
+        - silent
+    - word: い
+      base: 居る
+      dictionary: いる
+      position: 10
+      tags:
+        - silent
+    - word: た
+      position: 11
+      tags:
+        - silent
+- id: A_WolfChildren_0904
+  deck_name: Wolf Children
+  translation: Yeah, I knew you were.
+  sound: A_WolfChildren_1_1.45.38.117-1.45.40.670.mp3
+  sentence: ((うん　分かってた))
+  words:
+    - word: うん
+      position: 2
+      tags:
+        - silent
+    - word: 分かっ
+      base: 分かる
+      dictionary: 分かる
+      position: 5
+      tags:
+        - silent
+    - word: て
+      base: てる
+      dictionary: てる
+      position: 8
+      tags:
+        - silent
+    - word: た
+      position: 9
+      tags:
+        - silent
+- id: A_WolfChildren_0905
+  deck_name: Wolf Children
+  translation: You raised the kids well.
+  sound: A_WolfChildren_1_1.45.40.670-1.45.43.072.mp3
+  sentence: ((子供達をちゃんと育てた))
+  words:
+    - word: 子供
+      position: 2
+      tags:
+        - silent
+    - word: 達
+      position: 4
+      tags:
+        - silent
+    - word: を
+      position: 5
+      tags:
+        - silent
+    - word: ちゃんと
+      position: 6
+      tags:
+        - silent
+    - word: 育て
+      base: 育つ
+      dictionary: 育てる
+      position: 10
+      tags:
+        - silent
+    - word: た
+      position: 12
+      tags:
+        - silent
+- id: A_WolfChildren_0906
+  deck_name: Wolf Children
+  translation: Not at all. All I did was mess up.
+  sound: A_WolfChildren_1_1.45.43.072-1.45.46.576.mp3
+  sentence: ((ううん　全然　失敗ばっかり))
+  words:
+    - word: ううん
+      position: 2
+      tags:
+        - silent
+    - word: 全然
+      position: 6
+      tags:
+        - silent
+    - word: 失敗
+      position: 9
+      tags:
+        - silent
+    - word: ばっかり
+      base: ばかり
+      position: 11
+      tags:
+        - silent
+- id: A_WolfChildren_0907
+  deck_name: Wolf Children
+  translation: Nah, it's true. Yuki and Ame both grew up well.
+  sound: A_WolfChildren_1_1.45.46.576-1.45.50.563.mp3
+  sentence: ((本当だよ 雪も雨も立派に育った))
+  words:
+    - word: 本当
+      position: 2
+      tags:
+        - silent
+    - word: だ
+      position: 4
+      tags:
+        - silent
+    - word: よ
+      position: 5
+      tags:
+        - silent
+    - word: 雪
+      position: 7
+      tags:
+        - silent
+    - word: も
+      position: 8
+      tags:
+        - silent
+    - word: 雨
+      position: 9
+      tags:
+        - silent
+    - word: も
+      position: 10
+      tags:
+        - silent
+    - word: 立派
+      position: 11
+      tags:
+        - silent
+    - word: に
+      base: だ
+      dictionary: だ
+      position: 13
+      tags:
+        - silent
+    - word: 育っ
+      base: 育つ
+      dictionary: 育つ
+      position: 14
+      tags:
+        - silent
+    - word: た
+      position: 16
+      tags:
+        - silent
+- id: A_WolfChildren_0908
+  deck_name: Wolf Children
+  translation: Nah, I mean...
+  sound: A_WolfChildren_1_1.45.50.563-1.45.54.100.mp3
+  sentence: ((ううん　だって…))
+  words:
+    - word: ううん
+      position: 2
+      tags:
+        - silent
+    - word: だ
+      position: 6
+      tags:
+        - silent
+    - word: って
+      position: 7
+      tags:
+        - silent
+- id: A_WolfChildren_0909
+  deck_name: Wolf Children
+  translation: Ame's... That's right. Ame's missing.
+  sound: A_WolfChildren_1_1.45.55.635-1.46.01.135.mp3
+  sentence: ((雨が…　そうだ　雨がいないの))
+  words:
+    - word: 雨
+      position: 2
+      tags:
+        - silent
+    - word: が
+      position: 3
+      tags:
+        - silent
+    - word: そう
+      position: 6
+      tags:
+        - silent
+    - word: だ
+      position: 8
+      tags:
+        - silent
+    - word: 雨
+      position: 10
+      tags:
+        - silent
+    - word: が
+      position: 11
+      tags:
+        - silent
+    - word: い
+      base: 居る
+      dictionary: いる
+      position: 12
+      tags:
+        - silent
+    - word: ない
+      position: 13
+      tags:
+        - silent
+    - word: の
+      position: 15
+      tags:
+        - silent
+- id: A_WolfChildren_0910
+  deck_name: Wolf Children
+  translation: Ame!
+  sound: A_WolfChildren_1_1.46.03.559-1.46.05.061.mp3
+  sentence: ((雨～！))
+  words:
+    - word: 雨
+      position: 2
+      tags:
+        - silent
+    - word: ～
+      position: 3
+      tags:
+        - silent
 - id: A_WolfChildren_0911
   deck_name: Wolf Children
   translation: Ame will be just fine.
@@ -1268,15 +1999,118 @@
   words:
     - word: 彼
       position: 1
+      tags:
+        - silent
     - word: 雨
       position: 5
+      tags:
+        - silent
     - word: なら
       base: だ
       dictionary: だ
       position: 6
+      tags:
+        - silent
     - word: 大丈夫
       position: 8
+      tags:
+        - silent
     - word: だ
       position: 11
+      tags:
+        - silent
     - word: よ
       position: 12
+      tags:
+        - silent
+- id: A_WolfChildren_0912
+  deck_name: Wolf Children
+  translation: But...
+  sound: A_WolfChildren_1_1.46.07.063-1.46.08.564.mp3
+  sentence: ((でも…))
+  words:
+    - word: で
+      position: 2
+      tags:
+        - silent
+    - word: も
+      position: 3
+      tags:
+        - silent
+- id: A_WolfChildren_0913
+  deck_name: Wolf Children
+  translation: It's okay. He's an adult now.
+  sound: A_WolfChildren_1_1.46.08.564-1.46.12.064.mp3
+  sentence: ((大丈夫　もう大人だよ))
+  words:
+    - word: 大丈夫
+      position: 2
+      tags:
+        - silent
+    - word: もう
+      position: 6
+      tags:
+        - silent
+    - word: 大人
+      position: 8
+      tags:
+        - silent
+    - word: だ
+      position: 10
+      tags:
+        - silent
+    - word: よ
+      position: 11
+      tags:
+        - silent
+- id: A_WolfChildren_0914
+  deck_name: Wolf Children
+  translation: An adult?
+  sound: A_WolfChildren_1_1.46.14.604-1.46.16.639.mp3
+  sentence: ((大人？))
+  words:
+    - word: 大人
+      position: 2
+      tags:
+        - silent
+- id: A_WolfChildren_0915
+  deck_name: Wolf Children
+  translation: He found a world of his own.
+  sound: A_WolfChildren_1_1.46.16.639-1.46.19.639.mp3
+  sentence: ((自分の世界を見つけたんだ))
+  words:
+    - word: 自分
+      position: 2
+      tags:
+        - silent
+    - word: の
+      position: 4
+      tags:
+        - silent
+    - word: 世界
+      position: 5
+      tags:
+        - silent
+    - word: を
+      position: 7
+      tags:
+        - silent
+    - word: 見つけ
+      base: 見付ける
+      dictionary: 見つける
+      position: 8
+      tags:
+        - silent
+    - word: た
+      position: 11
+      tags:
+        - silent
+    - word: ん
+      base: の
+      position: 12
+      tags:
+        - silent
+    - word: だ
+      position: 13
+      tags:
+        - silent

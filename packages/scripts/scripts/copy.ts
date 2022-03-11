@@ -19,123 +19,163 @@ const sDataJSON = S.shape({
 async function main() {
   const src = `../../submodules/immersion-kit-api/resources`
   const dst = `../../my-edit`
+  const outputFilename = 'override.gen.yaml'
+  const isFull = false
 
   const reClean = /(^[\p{Z}]+|[\p{Z}]+$)/gu
-  const reWordClean = /[\u{202a}\u{202c}]+/gu
+  const reWordClean = /([\u{202a}\u{202c}])/gu
   const reExclude = /^[\p{Z}\p{P}]*$/u
 
-  glob
-    .sync('**/data.json', {
-      cwd: src
-    })
-    .map((p) => {
-      const folder = p.replace(/\/data\.json$/, '')
+  const files = await glob('**/data.json', {
+    cwd: src
+  })
 
-      try {
-        fs.mkdirSync(`${dst}/${folder}`, {
-          recursive: true
-        })
-      } catch (e) {}
-      if (true) {
-        const ds = S.list(sDataJSON).ensure(
-          yaml.load(fs.readFileSync(`${src}/${p}`, 'utf-8')) as any
-        )
+  files.map((p, i) => {
+    console.log(`[${i + 1}/${files.length}] ${p}`)
 
-        const out = ds
-          .filter((d) => d.sound)
-          .map(
-            ({
-              sentence,
-              sentence_with_furigana,
-              word_list,
-              word_base_list = [],
-              word_dictionary_list = [],
-              translation_word_list = [],
-              translation_word_base_list = [],
-              image,
-              ...d
-            }) => {
-              sentence = sentence.replace(reClean, '').replace(reWordClean, '')
-              if (!/（.+）/.test(sentence)) return null
+    const folder = p.replace(/\/data\.json$/, '')
 
-              let words: any[] | undefined
-              if (word_list) {
-                let position = 0
-                words = word_list
-                  .map((word, i) => {
-                    word = word.replace(reWordClean, '')
-                    if (reExclude.test(word)) return null
+    try {
+      fs.mkdirSync(`${dst}/${folder}`, {
+        recursive: true
+      })
+    } catch (e) {}
+    const ds = S.list(sDataJSON).ensure(
+      yaml.load(fs.readFileSync(`${src}/${p}`, 'utf-8')) as any
+    )
 
-                    let base: string | undefined
-                    let dictionary: string | undefined
-                    let translation: string | undefined
-                    let translation_base: string | undefined
+    const out = ds
+      .filter((d) => d.sound)
+      .map(
+        ({
+          sentence,
+          sentence_with_furigana,
+          word_list,
+          word_base_list = [],
+          word_dictionary_list = [],
+          translation_word_list = [],
+          translation_word_base_list = [],
+          image,
+          ...d
+        }) => {
+          sentence = sentence.replace(reClean, '').replace(reWordClean, '')
 
-                    if (word_base_list[i] !== word) {
-                      base = word_base_list[i]
-                    }
-                    if (word_dictionary_list[i] !== word) {
-                      dictionary = word_dictionary_list[i]
-                    }
-                    // if (translation_word_list[i]) {
-                    //   translation = translation_word_list[i]
-                    // }
-                    // if (
-                    //   translation_word_base_list[i] &&
-                    //   (translation
-                    //     ? translation_word_base_list[i] !== translation
-                    //     : true)
-                    // ) {
-                    //   translation_base = translation_word_base_list[i]
-                    // }
+          const bracketed = [
+            ...matchAllWithPositionRegex(sentence, /（.+?）/g),
+            ...matchAllWithPositionRegex(sentence, /\(.+?\)/g),
+            ...matchAllWithPositionRegex(sentence, /&[^;]+;/g)
+          ]
+          const bracketedWithPosition = bracketed
+            .filter((b) => b.position)
+            .map((b) => ({
+              item: b.item,
+              position: b.position!
+            }))
 
-                    const pos = sentence.indexOf(word, position)
-                    if (pos !== -1) {
-                      position = pos + word.length
-                      return {
-                        word,
-                        base,
-                        dictionary,
-                        translation,
-                        translation_base,
-                        position: pos
-                      }
-                    }
-                    return {
-                      word,
-                      base,
-                      dictionary,
-                      translation,
-                      translation_base,
-                      position: null
+          if (!isFull) {
+            if (!bracketed.length) return null
+          }
+
+          let words: any[] | undefined
+          if (word_list) {
+            let position = 0
+            words = word_list
+              .map((word, i) => {
+                word = word.replace(reWordClean, '')
+                if (reExclude.test(word)) return null
+
+                let base: string | undefined
+                let dictionary: string | undefined
+                let tags: string[] | undefined
+
+                if (word_base_list[i] !== word) {
+                  base = word_base_list[i]
+                }
+                if (word_dictionary_list[i] !== word) {
+                  dictionary = word_dictionary_list[i]
+                }
+
+                const from = sentence.indexOf(word, position)
+                if (from !== -1) {
+                  position = from + word.length
+                  bracketedWithPosition.map((b) => {
+                    if (
+                      from > b.position.from &&
+                      b.position.to > position &&
+                      b.item.includes(word)
+                    ) {
+                      tags = ['silent']
                     }
                   })
-                  .filter((s) => s)
-              }
 
-              return {
-                ...d,
-                sentence: sentence.replace(reClean, ''),
-                words
-              }
-            }
-          )
-          .filter((s) => s)
+                  return {
+                    word,
+                    base,
+                    dictionary,
+                    position: from,
+                    tags
+                  }
+                }
 
-        const filename = `override.gen.yaml`
+                bracketed.map((b) => {
+                  if (b.item.includes(word)) {
+                    tags = ['silent']
+                  }
+                })
 
-        if (out.length) {
-          fs.writeFileSync(
-            `${dst}/${folder}/${filename}`,
-            yaml.dump(out, {
-              skipInvalid: true
-            })
-          )
-        } else {
-          fs.rm(`${dst}/${folder}/${filename}`, () => {})
+                return {
+                  word,
+                  base,
+                  dictionary,
+                  position: null,
+                  tags
+                }
+              })
+              .filter((s) => s)
+          }
+
+          return {
+            ...d,
+            sentence: sentence.replace(reClean, ''),
+            words
+          }
+        }
+      )
+      .filter((s) => s)
+
+    if (out.length) {
+      fs.writeFileSync(
+        `${dst}/${folder}/${outputFilename}`,
+        yaml.dump(out, {
+          skipInvalid: true
+        })
+      )
+    } else {
+      fs.rm(`${dst}/${folder}/${outputFilename}`, () => {})
+    }
+  })
+}
+
+function matchAllWithPositionRegex(sentence: string, re: RegExp) {
+  let pos1 = 0
+  return Array.from(sentence.matchAll(re)).map(([s]) => {
+    const item = s!
+    const position = sentence.indexOf(item, pos1)
+    if (position !== -1) {
+      pos1 += position + item.length
+
+      return {
+        item,
+        position: {
+          from: position,
+          to: position + item.length
         }
       }
-    })
+    }
+    return {
+      item
+    }
+  })
 }
 
 if (require.main === module) {

@@ -6,8 +6,12 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: いしかわ
       position: 4
+      tags:
+        - silent
     - word: 人
       position: 11
     - word: は
@@ -52,6 +56,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: これ
       base: 此れ
       position: 5
@@ -150,6 +156,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: ３
       base: '3'
       dictionary: '3'
@@ -546,6 +554,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 4
 - id: border_ep1_0.01.42.326-0.01.43.660
@@ -564,6 +574,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 捜査
       position: 5
     - word: 一
@@ -631,6 +643,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: お
       base: 御
       position: 4
@@ -649,12 +663,18 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: いち
       base: 位置
       position: 4
+      tags:
+        - silent
     - word: くら
       base: 蔵
       position: 6
+      tags:
+        - silent
     - word: １
       base: '1'
       dictionary: '1'
@@ -687,15 +707,21 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: たちばな
       base: 橘
       position: 4
+      tags:
+        - silent
     - word: 遅
       position: 10
     - word: おせ
       base: 押す
       dictionary: おす
       position: 12
+      tags:
+        - silent
     - word: えぞ
       position: 15
 - id: border_ep1_0.02.03.626-0.02.05.260
@@ -760,6 +786,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 凶器
       position: 4
     - word: は
@@ -775,6 +803,8 @@
       position: 11
     - word: 立花
       position: 13
+      tags:
+        - silent
     - word: 眉間
       position: 16
     - word: に
@@ -805,6 +835,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: 玄関
       position: 5
     - word: の
@@ -1070,6 +1102,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 聞こえ
       base: 聞こえる
       dictionary: 聞こえる
@@ -1135,6 +1169,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: まだ
       base: 未だ
       position: 5
@@ -1344,6 +1380,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: すい
       base: すむ
       dictionary: すむ
@@ -1374,6 +1412,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: まぬけ
       base: 間抜け
       position: 5
@@ -1503,6 +1543,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 誰
       position: 4
     - word: か
@@ -1527,11 +1569,17 @@
   words:
     - word: 救急
       position: 1
+      tags:
+        - silent
     - word: 隊員
       position: 3
+      tags:
+        - silent
     - word: たち
       base: 達
       position: 5
+      tags:
+        - silent
     - word: 聞こえ
       base: 聞こえる
       dictionary: 聞こえる
@@ -1583,6 +1631,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: まだ
       base: 未だ
       position: 5
@@ -1619,8 +1669,12 @@
   words:
     - word: 看護
       position: 1
+      tags:
+        - silent
     - word: 師
       position: 3
+      tags:
+        - silent
     - word: 石川
       position: 6
     - word: さん
@@ -1641,6 +1695,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 人
       position: 5
     - word: は
@@ -1777,6 +1833,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 死に
       base: 死ぬ
       dictionary: 死ぬ
@@ -1830,6 +1888,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 僕
       position: 5
     - word: は
@@ -1849,8 +1909,12 @@
   words:
     - word: 看護
       position: 1
+      tags:
+        - silent
     - word: 師
       position: 3
+      tags:
+        - silent
     - word: 戻り
       base: 戻る
       dictionary: 戻る
@@ -1869,6 +1933,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: そして
       position: 5
 - id: border_ep1_0.05.46.693-0.05.48.193
@@ -1895,6 +1961,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 人
       position: 5
     - word: は
@@ -2142,6 +2210,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 意識
       position: 5
     - word: を
@@ -2200,6 +2270,8 @@
   words:
     - word: 医師
       position: 1
+      tags:
+        - silent
     - word: この
       base: 此の
       position: 5
@@ -2499,6 +2571,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 僕
       position: 5
     - word: は
@@ -2593,6 +2667,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 4
     - word: よ
@@ -2617,6 +2693,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: もう
       position: 4
     - word: だいぶ
@@ -3274,8 +3352,12 @@
   words:
     - word: 看護
       position: 1
+      tags:
+        - silent
     - word: 師
       position: 3
+      tags:
+        - silent
     - word: あ
       base: あっ
       position: 6
@@ -3314,8 +3396,12 @@
   words:
     - word: 看護
       position: 1
+      tags:
+        - silent
     - word: 師
       position: 3
+      tags:
+        - silent
     - word: まだ
       base: 未だ
       position: 6
@@ -3379,6 +3465,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: この
       base: 此の
       position: 5
@@ -3435,10 +3523,16 @@
   words:
     - word: 無線
       position: 1
+      tags:
+        - silent
     - word: の
       position: 3
+      tags:
+        - silent
     - word: 会話
       position: 4
+      tags:
+        - silent
 - id: border_ep1_0.11.51.326-0.11.52.660
   deck_name: Border
   translation: '-You''re working hard.<br>-You, too.'
@@ -3447,6 +3541,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: お
       base: 御
       position: 4
@@ -3821,6 +3917,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: あいつ
       base: 彼奴
       position: 5
@@ -4087,6 +4185,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: おい
       position: 4
     - word: <
@@ -4100,6 +4200,8 @@
       position: 10
     - word: 市倉
       position: 12
+      tags:
+        - silent
     - word: ほっ
       base: ほる
       dictionary: ほる
@@ -4116,6 +4218,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: すい
       base: すむ
       dictionary: すむ
@@ -4152,6 +4256,8 @@
   words:
     - word: ミカ
       position: 1
+      tags:
+        - silent
     - word: なに
       base: 何
       position: 4
@@ -4580,6 +4686,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 何
       position: 4
     - word: が
@@ -4716,6 +4824,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: 入る
       position: 4
     - word: ぞ
@@ -4731,6 +4841,8 @@
       position: 11
     - word: 立花
       position: 13
+      tags:
+        - silent
     - word: はい
       position: 16
 - id: border_ep1_0.14.53.926-0.14.55.793
@@ -4741,10 +4853,14 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: おい
       position: 4
     - word: 刑事
       position: 8
+      tags:
+        - silent
     - word: はい
       position: 11
 - id: border_ep1_0.14.55.893-0.14.59.126
@@ -4755,6 +4871,8 @@
   words:
     - word: 刑事
       position: 1
+      tags:
+        - silent
     - word: 被害
       position: 5
     - word: 者
@@ -4777,10 +4895,16 @@
     - word: さ
       base: さあ
       position: 21
+      tags:
+        - silent
     - word: わだ
       position: 22
+      tags:
+        - silent
     - word: てつろう
       position: 24
+      tags:
+        - silent
     - word: '39'
       position: 30
     - word: 歳
@@ -4795,6 +4919,8 @@
       position: 0
     - word: みゆき
       position: 3
+      tags:
+        - silent
     - word: '33'
       position: 8
     - word: 歳
@@ -4803,6 +4929,8 @@
       position: 12
     - word: りょう
       position: 14
+      tags:
+        - silent
     - word: ４
       base: '4'
       dictionary: '4'
@@ -4827,6 +4955,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: よし
       position: 4
     - word: 行く
@@ -4835,6 +4965,8 @@
       position: 9
     - word: 立花
       position: 12
+      tags:
+        - silent
     - word: はい
       position: 15
 - id: border_ep1_0.15.37.260-0.15.38.693
@@ -4845,6 +4977,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: おい
       position: 4
 - id: border_ep1_0.15.42.760-0.15.44.626
@@ -4855,6 +4989,8 @@
   words:
     - word: 刑事
       position: 1
+      tags:
+        - silent
     - word: 靴跡
       position: 4
     - word: は
@@ -4975,6 +5111,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: 多分
       position: 4
     - word: 最初
@@ -5015,6 +5153,8 @@
   words:
     - word: 刑事
       position: 1
+      tags:
+        - silent
     - word: 昨日
       position: 4
     - word: の
@@ -5088,6 +5228,8 @@
   words:
     - word: 哲郎
       position: 1
+      tags:
+        - silent
     - word: 私
       position: 5
     - word: たち
@@ -5123,6 +5265,8 @@
   words:
     - word: 美雪
       position: 1
+      tags:
+        - silent
     - word: お
       base: 御
       position: 4
@@ -5182,6 +5326,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 班
       position: 4
     - word: 長
@@ -5242,6 +5388,8 @@
   words:
     - word: ミカ
       position: 1
+      tags:
+        - silent
     - word: 左
       position: 4
     - word: 第
@@ -5255,11 +5403,17 @@
       position: 9
     - word: 検視
       position: 13
+      tags:
+        - silent
     - word: 官
       position: 15
+      tags:
+        - silent
     - word: たち
       base: 達
       position: 16
+      tags:
+        - silent
     - word: はい
       position: 19
 - id: border_ep1_0.19.12.966-0.19.14.899
@@ -5270,6 +5424,8 @@
   words:
     - word: ミカ
       position: 1
+      tags:
+        - silent
     - word: 第
       position: 4
     - word: 四
@@ -5281,11 +5437,17 @@
       position: 8
     - word: 検視
       position: 12
+      tags:
+        - silent
     - word: 官
       position: 14
+      tags:
+        - silent
     - word: たち
       base: 達
       position: 15
+      tags:
+        - silent
     - word: はい
       position: 18
 - id: border_ep1_0.19.15.866-0.19.18.633
@@ -5296,6 +5458,8 @@
   words:
     - word: ミカ
       position: 1
+      tags:
+        - silent
     - word: 左
       position: 4
     - word: 大
@@ -5307,11 +5471,17 @@
       position: 7
     - word: 検視
       position: 11
+      tags:
+        - silent
     - word: 官
       position: 13
+      tags:
+        - silent
     - word: たち
       base: 達
       position: 14
+      tags:
+        - silent
     - word: はい
       position: 17
 - id: border_ep1_0.19.22.133-0.19.24.599
@@ -5322,6 +5492,8 @@
   words:
     - word: ミカ
       position: 1
+      tags:
+        - silent
     - word: 右
       position: 4
     - word: 第
@@ -5333,11 +5505,17 @@
       position: 7
     - word: 検視
       position: 11
+      tags:
+        - silent
     - word: 官
       position: 13
+      tags:
+        - silent
     - word: たち
       base: 達
       position: 14
+      tags:
+        - silent
     - word: はい
       position: 17
 - id: border_ep1_0.19.29.799-0.19.31.566
@@ -5348,6 +5526,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: すごい
       base: 凄い
       position: 4
@@ -5361,6 +5541,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 何
       position: 4
     - word: が
@@ -5373,6 +5555,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 朝
       position: 5
     - word: から
@@ -5498,6 +5682,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 4
     - word: もしもし
@@ -5518,6 +5704,8 @@
   words:
     - word: ミカ
       position: 1
+      tags:
+        - silent
     - word: 左
       position: 5
     - word: 胸腔
@@ -5549,11 +5737,17 @@
   words:
     - word: 橋爪
       position: 1
+      tags:
+        - silent
     - word: はし
       position: 4
+      tags:
+        - silent
     - word: づめ
       base: つめ
       position: 6
+      tags:
+        - silent
     - word: はい
       position: 10
 - id: border_ep1_0.20.30.899-0.20.35.033
@@ -5788,6 +5982,8 @@
   words:
     - word: ミカ
       position: 1
+      tags:
+        - silent
     - word: 心嚢
       position: 4
     - word: 液
@@ -5795,19 +5991,29 @@
     - word: しんのう
       base: 親王
       position: 8
+      tags:
+        - silent
     - word: えき
       position: 12
+      tags:
+        - silent
     - word: '10'
       position: 16
     - word: です
       position: 18
     - word: 検視
       position: 22
+      tags:
+        - silent
     - word: 官
       position: 24
+      tags:
+        - silent
     - word: たち
       base: 達
       position: 25
+      tags:
+        - silent
     - word: はい
       position: 28
 - id: border_ep1_0.21.02.033-0.21.05.466
@@ -5830,8 +6036,12 @@
       base: 為る
       dictionary: する
       position: 9
+      tags:
+        - silent
     - word: そう
       position: 10
+      tags:
+        - silent
     - word: に
       position: 13
     - word: よる
@@ -6018,6 +6228,8 @@
   words:
     - word: ミカ
       position: 1
+      tags:
+        - silent
     - word: それ
       base: 其れ
       position: 4
@@ -6025,6 +6237,8 @@
       position: 6
     - word: 立花
       position: 10
+      tags:
+        - silent
     - word: あの〜
       base: あの
       position: 13
@@ -6129,6 +6343,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: さっき
       position: 5
     - word: 言い
@@ -6228,6 +6444,8 @@
   words:
     - word: ミカ
       position: 1
+      tags:
+        - silent
     - word: 解剖
       position: 4
     - word: の
@@ -6313,6 +6531,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 皮膚
       position: 4
     - word: が
@@ -6346,6 +6566,8 @@
   words:
     - word: ミカ
       position: 1
+      tags:
+        - silent
     - word: 抵抗
       position: 5
     - word: し
@@ -6424,6 +6646,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: そう
       position: 5
     - word: すれ
@@ -6482,6 +6706,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: まだ
       base: 未だ
       position: 4
@@ -7072,6 +7298,8 @@
   words:
     - word: ミカ
       position: 1
+      tags:
+        - silent
     - word: 刺し傷
       position: 5
     - word: の
@@ -7437,6 +7665,8 @@
   words:
     - word: ミカ
       position: 1
+      tags:
+        - silent
     - word: なに
       base: 何
       position: 4
@@ -7511,6 +7741,8 @@
   words:
     - word: ミカ
       position: 1
+      tags:
+        - silent
     - word: 一般
       position: 4
     - word: 論
@@ -7681,6 +7913,8 @@
   words:
     - word: ミカ
       position: 1
+      tags:
+        - silent
     - word: あくまで
       base: 飽くまで
       position: 4
@@ -7853,6 +8087,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 弾
       position: 5
     - word: が
@@ -7900,6 +8136,8 @@
   words:
     - word: ミカ
       position: 1
+      tags:
+        - silent
     - word: それ
       base: 其れ
       position: 5
@@ -8286,6 +8524,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: その
       base: 其の
       position: 5
@@ -8315,6 +8555,8 @@
   words:
     - word: ミカ
       position: 1
+      tags:
+        - silent
     - word: その
       base: 其の
       position: 4
@@ -8329,6 +8571,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 分かっ
       base: 分かる
       dictionary: 分かる
@@ -8365,6 +8609,8 @@
   words:
     - word: ミカ
       position: 1
+      tags:
+        - silent
     - word: 私
       position: 5
     - word: は
@@ -8421,6 +8667,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 患者
       position: 4
     - word: か
@@ -8435,6 +8683,8 @@
   words:
     - word: ミカ
       position: 1
+      tags:
+        - silent
     - word: 面白い
       position: 5
     - word: 症状
@@ -8509,13 +8759,21 @@
   words:
     - word: 光永
       position: 1
+      tags:
+        - silent
     - word: み
       position: 4
+      tags:
+        - silent
     - word: つな
       base: 綱
       position: 5
+      tags:
+        - silent
     - word: が
       position: 7
+      tags:
+        - silent
     - word: こちら
       base: 此方
       position: 10
@@ -8525,13 +8783,19 @@
       position: 14
     - word: に
       position: 17
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
       position: 18
+      tags:
+        - silent
     - word: やま
       base: 山
       position: 19
+      tags:
+        - silent
 - id: border_ep1_0.27.38.716-0.27.41.416
   deck_name: Border
   translation: And this is Hayakawa.
@@ -8547,6 +8811,8 @@
       position: 4
     - word: はやかわ
       position: 7
+      tags:
+        - silent
     - word: です
       position: 12
 - id: border_ep1_0.27.41.850-0.27.44.916
@@ -8557,6 +8823,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: で
       position: 5
     - word: は
@@ -8631,6 +8899,8 @@
   words:
     - word: 光永
       position: 1
+      tags:
+        - silent
     - word: どうぞ
       position: 4
 - id: border_ep1_0.27.50.216-0.27.52.383
@@ -8663,6 +8933,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: メモ
       position: 5
     - word: を
@@ -8700,6 +8972,8 @@
   words:
     - word: 西山
       position: 1
+      tags:
+        - silent
     - word: ああ
       position: 4
     - word: どうぞ
@@ -8962,6 +9236,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: 近所
       position: 5
     - word: の
@@ -9185,10 +9461,14 @@
   words:
     - word: 西山
       position: 1
+      tags:
+        - silent
     - word: 赤坂
       position: 4
     - word: あかさか
       position: 7
+      tags:
+        - silent
     - word: の
       position: 12
     - word: テイトウホテル
@@ -9203,6 +9483,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: 開催
       position: 4
     - word: 時間
@@ -9249,6 +9531,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: 西山
       position: 5
     - word: さん
@@ -9293,6 +9577,8 @@
   words:
     - word: 美雪
       position: 1
+      tags:
+        - silent
     - word: 私
       position: 5
     - word: たち
@@ -9339,6 +9625,8 @@
   words:
     - word: 西山
       position: 1
+      tags:
+        - silent
     - word: ２
       base: '2'
       dictionary: '2'
@@ -9401,6 +9689,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: パーティー
       position: 5
     - word: の
@@ -9444,6 +9734,8 @@
   words:
     - word: 西山
       position: 1
+      tags:
+        - silent
     - word: 総裁
       position: 5
     - word: 光永
@@ -9473,6 +9765,8 @@
   words:
     - word: 哲郎
       position: 1
+      tags:
+        - silent
     - word: 私
       position: 5
     - word: たち
@@ -9504,6 +9798,8 @@
   words:
     - word: 西山
       position: 1
+      tags:
+        - silent
     - word: それ
       base: 其れ
       position: 5
@@ -9563,6 +9859,8 @@
   words:
     - word: 哲郎
       position: 1
+      tags:
+        - silent
     - word: 同じ
       position: 5
     - word: 町内
@@ -9583,12 +9881,18 @@
     - word: くら
       base: 蔵
       position: 19
+      tags:
+        - silent
     - word: は
       position: 21
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
       position: 22
+      tags:
+        - silent
     - word: さん
       position: 24
     - word: の
@@ -9647,6 +9951,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: すい
       base: すむ
       dictionary: すむ
@@ -9673,6 +9979,8 @@
   words:
     - word: 哲郎
       position: 1
+      tags:
+        - silent
     - word: あの
       base: 彼の
       position: 4
@@ -10234,6 +10542,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 殺さ
       base: 殺す
       dictionary: 殺す
@@ -10368,6 +10678,8 @@
   words:
     - word: 哲郎
       position: 1
+      tags:
+        - silent
     - word: あなた
       base: 貴方
       position: 5
@@ -10530,8 +10842,12 @@
   words:
     - word: 貴志
       position: 1
+      tags:
+        - silent
     - word: たかし
       position: 4
+      tags:
+        - silent
     - word: どちら
       position: 9
     - word: 様
@@ -10548,6 +10864,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 警察
       position: 5
     - word: の
@@ -10588,6 +10906,8 @@
   words:
     - word: 貴志
       position: 1
+      tags:
+        - silent
     - word: 何
       position: 4
     - word: でしょう
@@ -11077,8 +11397,12 @@
   words:
     - word: 由子
       position: 1
+      tags:
+        - silent
     - word: ゆうこ
       position: 4
+      tags:
+        - silent
     - word: どう
       position: 9
     - word: し
@@ -11097,6 +11421,8 @@
   words:
     - word: 貴志
       position: 1
+      tags:
+        - silent
     - word: 警察
       position: 4
     - word: の
@@ -11485,6 +11811,8 @@
   words:
     - word: 由子
       position: 1
+      tags:
+        - silent
     - word: 失礼
       position: 4
     - word: し
@@ -11501,6 +11829,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 犯人
       position: 5
     - word: の
@@ -11604,6 +11934,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 暗かっ
       base: 暗い
       dictionary: 暗い
@@ -12173,6 +12505,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: できれ
       base: 出来る
       dictionary: できる
@@ -12206,6 +12540,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: ウワサ
       base: 噂
       position: 5
@@ -12252,6 +12588,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 分かっ
       base: 分かる
       dictionary: 分かる
@@ -12270,6 +12608,8 @@
   words:
     - word: バーテンダー
       position: 1
+      tags:
+        - silent
     - word: すい
       base: すむ
       dictionary: すむ
@@ -12326,9 +12666,13 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: あかい
       base: 赤い
       position: 4
+      tags:
+        - silent
     - word: 何
       position: 9
     - word: か
@@ -12358,6 +12702,8 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: ご
       base: 御
       position: 4
@@ -12411,6 +12757,8 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: 入手
       position: 4
     - word: は
@@ -12495,6 +12843,8 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: 私
       position: 4
     - word: が
@@ -12624,6 +12974,8 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: 分かり
       base: 分かる
       dictionary: 分かる
@@ -12704,6 +13056,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: おい
       position: 4
 - id: border_ep1_0.38.23.563-0.38.25.396
@@ -12714,6 +13068,8 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: 合格
       position: 4
     - word: です
@@ -12847,6 +13203,8 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: 初回
       position: 4
     - word: だ
@@ -12908,6 +13266,8 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: やぼ
       base: 野暮
       position: 4
@@ -12952,6 +13312,8 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: おたく
       base: 御宅
       position: 5
@@ -12987,6 +13349,8 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: うち
       base: 内
       position: 5
@@ -13007,6 +13371,8 @@
     - word: けが
       base: 怪我
       position: 6
+      tags:
+        - silent
     - word: れ
       base: れる
       dictionary: れる
@@ -13091,6 +13457,8 @@
   words:
     - word: 警官
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 4
     - word: どう
@@ -13113,6 +13481,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: 公園
       position: 4
     - word: で
@@ -13342,6 +13712,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: どう
       position: 5
     - word: し
@@ -13358,6 +13730,8 @@
     - word: まちなか
       base: 町中
       position: 16
+      tags:
+        - silent
     - word: で
       position: 21
     - word: 引っ
@@ -13412,6 +13786,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: いい
       base: 良い
       position: 4
@@ -13428,6 +13804,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: もう
       position: 5
     - word: 一度
@@ -13508,6 +13886,8 @@
   words:
     - word: 由子
       position: 1
+      tags:
+        - silent
     - word: 家
       position: 4
     - word: に
@@ -13530,6 +13910,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 間違い
       position: 4
     - word: あり
@@ -13554,6 +13936,8 @@
   words:
     - word: 由子
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 4
     - word: 間違い
@@ -13578,6 +13962,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 時刻
       position: 4
     - word: を
@@ -13600,6 +13986,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: どういう
       position: 5
     - word: こと
@@ -15966,6 +16354,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: ん
       position: 4
     - word: いや
@@ -15976,6 +16366,8 @@
       position: 9
     - word: ミカ
       position: 13
+      tags:
+        - silent
     - word: ふざけん
       base: ふざける
       dictionary: ふざける
@@ -15990,6 +16382,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: おふくろ
       base: 御袋
       position: 4
@@ -16108,6 +16502,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: お前
       base: 御前
       position: 5
@@ -16466,6 +16862,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: お
       base: 御
       position: 4
@@ -16486,6 +16884,8 @@
       position: 14
     - word: 貴志
       position: 17
+      tags:
+        - silent
     - word: うるせえ
       base: 煩い
       dictionary: うるさい
@@ -16498,6 +16898,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: ようやく
       base: 漸く
       position: 4
@@ -17263,9 +17665,13 @@
     - word: みず
       base: 水
       position: 15
+      tags:
+        - silent
     - word: ぼうそう
       base: 疱瘡
       position: 17
+      tags:
+        - silent
     - word: と
       position: 22
     - word: か
@@ -17682,11 +18088,17 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: の
       position: 3
+      tags:
+        - silent
     - word: ため息
       base: 溜め息
       position: 4
+      tags:
+        - silent
     - word: なあ
       base: な
       position: 9
@@ -17847,6 +18259,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 供述
       position: 4
     - word: まとめ
@@ -17869,6 +18283,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: おい
       position: 4
     - word: おい
@@ -17942,6 +18358,8 @@
   words:
     - word: 亮
       position: 1
+      tags:
+        - silent
     - word: ありがと
       base: 有り難う
       position: 3
@@ -17953,6 +18371,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: この
       base: 此の
       position: 5
@@ -18051,9 +18471,13 @@
       position: 0
     - word: だ
       position: 3
+      tags:
+        - silent
     - word: び
       base: びっ
       position: 4
+      tags:
+        - silent
     - word: に
       position: 6
     - word: 付さ
@@ -18304,8 +18728,12 @@
   words:
     - word: 村上
       position: 1
+      tags:
+        - silent
     - word: むらかみ
       position: 4
+      tags:
+        - silent
     - word: 俺
       position: 11
     - word: は
@@ -18316,6 +18744,8 @@
       position: 16
     - word: かずお
       position: 19
+      tags:
+        - silent
 - id: border_ep2_0.00.13.680-0.00.16.846
   deck_name: Border
   translation: I was chased down by the police<br>and killed.
@@ -18356,8 +18786,12 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: いしかわ
       position: 4
+      tags:
+        - silent
     - word: これ
       base: 此れ
       position: 11
@@ -18491,16 +18925,24 @@
       position: 2
     - word: あん
       position: 6
+      tags:
+        - silent
     - word: ざい
       base: 際
       position: 8
+      tags:
+        - silent
     - word: ま
       base: まー
       position: 10
+      tags:
+        - silent
     - word: ゆこ
       base: 行く
       dictionary: ゆく
       position: 11
+      tags:
+        - silent
     - word: '16'
       position: 15
     - word: 歳
@@ -18633,9 +19075,13 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: たちばな
       base: 橘
       position: 4
+      tags:
+        - silent
     - word: で
       position: 11
     - word: 映っ
@@ -18692,9 +19138,13 @@
     - word: がん
       base: 癌
       position: 11
+      tags:
+        - silent
     - word: ぼう
       base: 宝
       position: 13
+      tags:
+        - silent
     - word: 認識
       position: 16
     - word: ソフト
@@ -18721,12 +19171,18 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: いち
       base: 位置
       position: 4
+      tags:
+        - silent
     - word: くら
       base: 蔵
       position: 6
+      tags:
+        - silent
     - word: 男
       position: 11
     - word: は
@@ -18781,6 +19237,8 @@
     - word: ごうかん
       base: 強姦
       position: 11
+      tags:
+        - silent
     - word: 罪
       position: 16
     - word: 強姦
@@ -18867,6 +19325,8 @@
   words:
     - word: 上司
       position: 1
+      tags:
+        - silent
     - word: まあ
       position: 5
     - word: これ
@@ -18931,6 +19391,8 @@
   words:
     - word: 刑事
       position: 1
+      tags:
+        - silent
     - word: さすが
       base: 流石
       position: 4
@@ -18957,6 +19419,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: えっ
       position: 4
     - word: 居眠り
@@ -18983,6 +19447,8 @@
   words:
     - word: 刑事
       position: 1
+      tags:
+        - silent
     - word: いや
       base: 否
       position: 4
@@ -19075,6 +19541,8 @@
   words:
     - word: 刑事
       position: 1
+      tags:
+        - silent
     - word: 違い
       base: 違う
       dictionary: 違う
@@ -19173,6 +19641,8 @@
   words:
     - word: 刑事
       position: 1
+      tags:
+        - silent
     - word: そんな
       position: 4
     - word: もん
@@ -19222,6 +19692,8 @@
   words:
     - word: 村上
       position: 1
+      tags:
+        - silent
     - word: どちら
       position: 4
     - word: 様
@@ -19238,6 +19710,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 警察
       position: 4
     - word: の
@@ -19346,6 +19820,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: おい
       position: 4
     - word: <
@@ -19359,6 +19835,8 @@
       position: 10
     - word: 立花
       position: 12
+      tags:
+        - silent
     - word: おい
       position: 15
     - word: 何
@@ -19379,6 +19857,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: おい
       position: 4
     - word: 何
@@ -19422,10 +19902,16 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: ひ
       position: 4
+      tags:
+        - silent
     - word: が
       position: 5
+      tags:
+        - silent
     - word: あんた
       base: 貴方
       position: 9
@@ -19535,6 +20021,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: ほか
       base: 他
       position: 4
@@ -19561,6 +20049,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 何
       position: 4
     - word: が
@@ -19575,6 +20065,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: リビング
       position: 5
     - word: で
@@ -20129,6 +20621,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 俺
       position: 4
     - word: は
@@ -20210,6 +20704,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: だ
       position: 5
     - word: から
@@ -20319,6 +20815,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: 石川
       position: 4
 - id: border_ep2_0.07.53.246-0.07.55.346
@@ -20396,6 +20894,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 俺
       position: 5
     - word: は
@@ -20550,6 +21050,8 @@
   words:
     - word: 村上
       position: 1
+      tags:
+        - silent
     - word: 俺
       position: 5
     - word: を
@@ -20680,6 +21182,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: ７
       base: '7'
       dictionary: '7'
@@ -20810,6 +21314,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: で
       position: 4
     - word: も
@@ -20959,6 +21465,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: さすが
       base: 流石
       position: 5
@@ -21282,6 +21790,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: ウソ
       base: うそ
       position: 4
@@ -21921,6 +22431,8 @@
   words:
     - word: 刑事
       position: 1
+      tags:
+        - silent
     - word: お
       base: 御
       position: 4
@@ -21939,8 +22451,12 @@
   words:
     - word: 金原
       position: 1
+      tags:
+        - silent
     - word: かねはら
       position: 4
+      tags:
+        - silent
     - word: お
       base: 御
       position: 10
@@ -21959,11 +22475,17 @@
   words:
     - word: 橋爪
       position: 1
+      tags:
+        - silent
     - word: はし
       position: 4
+      tags:
+        - silent
     - word: づめ
       base: つめ
       position: 6
+      tags:
+        - silent
     - word: お
       base: 御
       position: 10
@@ -21991,6 +22513,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: さっき
       position: 4
     - word: の
@@ -22029,6 +22553,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: 何に
       base: 何
       position: 4
@@ -22174,6 +22700,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: そう
       position: 4
     - word: いう
@@ -22607,6 +23135,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: そんな
       position: 5
     - word: こと
@@ -22635,6 +23165,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: ああ
       position: 5
     - word: いや
@@ -22661,6 +23193,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: そう
       position: 5
     - word: いえ
@@ -22717,6 +23251,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: さっき
       position: 4
     - word: も
@@ -23372,6 +23908,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 物件
       position: 5
     - word: の
@@ -23423,6 +23961,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: その
       base: 其の
       position: 5
@@ -23685,6 +24225,8 @@
   words:
     - word: 村上
       position: 1
+      tags:
+        - silent
     - word: もう
       position: 4
     - word: すっかり
@@ -23913,6 +24455,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: １
       base: '1'
       dictionary: '1'
@@ -23983,6 +24527,8 @@
   words:
     - word: 村上
       position: 1
+      tags:
+        - silent
     - word: 好み
       position: 4
     - word: だっ
@@ -24006,6 +24552,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: それ
       base: 其れ
       position: 4
@@ -24116,6 +24664,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: どんな
       position: 4
     - word: 要求
@@ -24130,6 +24680,8 @@
   words:
     - word: 村上
       position: 1
+      tags:
+        - silent
     - word: 俺
       position: 4
     - word: の
@@ -24285,6 +24837,8 @@
   words:
     - word: 村上
       position: 1
+      tags:
+        - silent
     - word: ひどい
       base: 酷い
       position: 4
@@ -24345,6 +24899,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: どこ
       position: 4
     - word: の
@@ -24364,6 +24920,8 @@
   words:
     - word: 村上
       position: 1
+      tags:
+        - silent
     - word: えっ
       position: 4
 - id: border_ep2_0.20.33.080-0.20.36.380
@@ -24374,6 +24932,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 空き
       base: 空く
       dictionary: 空く
@@ -24528,6 +25088,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: お前
       base: 御前
       position: 5
@@ -24781,6 +25343,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: どこ
       position: 4
     - word: に
@@ -24809,6 +25373,8 @@
   words:
     - word: 村上
       position: 1
+      tags:
+        - silent
     - word: 俺
       position: 5
     - word: に
@@ -25019,6 +25585,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 今
       position: 5
     - word: から
@@ -25092,6 +25660,8 @@
   words:
     - word: 村上
       position: 1
+      tags:
+        - silent
     - word: ありがたい
       base: 有り難い
       position: 4
@@ -25227,6 +25797,8 @@
   words:
     - word: 村上
       position: 1
+      tags:
+        - silent
     - word: 何
       position: 4
     - word: だ
@@ -25603,6 +26175,8 @@
   words:
     - word: 村上
       position: 1
+      tags:
+        - silent
     - word: そんな
       position: 5
     - word: ベタ
@@ -25819,8 +26393,12 @@
       position: 6
     - word: かしま
       position: 9
+      tags:
+        - silent
     - word: ひろみ
       position: 12
+      tags:
+        - silent
 - id: border_ep2_0.25.12.349-0.25.14.282
   deck_name: Border
   translation: And I'll even give you her address.
@@ -25877,6 +26455,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: どう
       position: 3
     - word: か
@@ -25901,6 +26481,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 夜分
       position: 5
     - word: 遅く
@@ -25975,6 +26557,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: ああ
       position: 4
     - word: ご
@@ -26084,6 +26668,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: ああ
       position: 3
     - word: 裕美
@@ -26159,6 +26745,8 @@
   words:
     - word: 村上
       position: 1
+      tags:
+        - silent
     - word: ♪
       position: 5
     - word: ぼく
@@ -26330,6 +26918,8 @@
   words:
     - word: 村上
       position: 1
+      tags:
+        - silent
     - word: ♪
       position: 5
     - word: まっか
@@ -26366,6 +26956,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: 掛け
       base: 掛ける
       dictionary: 掛ける
@@ -26389,6 +26981,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 4
 - id: border_ep2_0.27.16.682-0.27.21.315
@@ -26399,6 +26993,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: 午後
       position: 5
     - word: １
@@ -26439,6 +27035,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 4
 - id: border_ep2_0.27.25.649-0.27.27.515
@@ -26486,6 +27084,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 随分
       position: 4
     - word: 信心
@@ -26507,9 +27107,13 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: あかい
       base: 赤い
       position: 4
+      tags:
+        - silent
     - word: ここ
       base: 此処
       position: 10
@@ -26592,6 +27196,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: お
       base: 御
       position: 4
@@ -26600,6 +27206,8 @@
     - word: さいせん
       base: 賽銭
       position: 8
+      tags:
+        - silent
     - word: は
       position: 13
     - word: 入れ
@@ -26637,6 +27245,8 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: 本物
       position: 5
     - word: の
@@ -26894,6 +27504,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: できる
       base: 出来る
       position: 4
@@ -26911,6 +27523,8 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: 分かり
       base: 分かる
       dictionary: 分かる
@@ -27008,6 +27622,8 @@
   words:
     - word: ガーファンクル
       position: 1
+      tags:
+        - silent
     - word: 王手
       position: 9
 - id: border_ep2_0.29.29.282-0.29.32.349
@@ -27018,6 +27634,8 @@
   words:
     - word: サイモン
       position: 1
+      tags:
+        - silent
     - word: ワープ
       position: 6
     - word: ブ〜ン
@@ -27043,6 +27661,8 @@
   words:
     - word: ガーファンクル
       position: 1
+      tags:
+        - silent
     - word: ハイパー
       position: 10
     - word: メガ
@@ -27054,9 +27674,13 @@
     - word: じゅう
       base: 十
       position: 26
+      tags:
+        - silent
     - word: てん
       base: 点
       position: 29
+      tags:
+        - silent
 - id: border_ep2_0.29.40.615-0.29.43.082
   deck_name: Border
   translation: Hyper-mega-launcher engaged!<br>At 50%... 90%...
@@ -27119,6 +27743,8 @@
   words:
     - word: ガーファンクル
       position: 1
+      tags:
+        - silent
     - word: どう
       position: 10
     - word: 思う
@@ -27158,6 +27784,8 @@
   words:
     - word: サイモン
       position: 1
+      tags:
+        - silent
     - word: お
       base: 御
       position: 6
@@ -27219,8 +27847,12 @@
       base: 為る
       dictionary: する
       position: 6
+      tags:
+        - silent
     - word: こう
       position: 7
+      tags:
+        - silent
     - word: に
       position: 10
     - word: 関わる
@@ -27573,14 +28205,20 @@
   words:
     - word: サイモン
       position: 1
+      tags:
+        - silent
     - word: 岩田
       position: 6
     - word: 美智子
       position: 8
     - word: いわた
       position: 12
+      tags:
+        - silent
     - word: みちこ
       position: 15
+      tags:
+        - silent
 - id: border_ep2_0.32.00.215-0.32.02.015
   deck_name: Border
   translation: Do you know the address?
@@ -27729,6 +28367,8 @@
     - word: しんえん
       base: 深遠
       position: 13
+      tags:
+        - silent
     - word: なる
       base: なり
       dictionary: なり
@@ -27747,6 +28387,8 @@
   words:
     - word: 美智子
       position: 1
+      tags:
+        - silent
     - word: 何
       position: 5
     - word: です
@@ -27761,6 +28403,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 用件
       position: 4
     - word: は
@@ -27938,6 +28582,8 @@
   words:
     - word: 美智子
       position: 1
+      tags:
+        - silent
     - word: お
       base: 御
       position: 5
@@ -28682,6 +29328,8 @@
       position: 0
     - word: ぎんざ
       position: 3
+      tags:
+        - silent
     - word: です
       position: 7
 - id: border_ep2_0.35.14.715-0.35.17.349
@@ -28963,6 +29611,8 @@
       position: 4
     - word: が
       position: 8
+      tags:
+        - silent
     - word: が
       position: 10
     - word: 分かっ
@@ -29268,6 +29918,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: 俺
       position: 5
     - word: が
@@ -29329,6 +29981,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: おい
       position: 4
     - word: どう
@@ -29379,6 +30033,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: どう
       position: 4
     - word: し
@@ -29441,14 +30097,22 @@
   words:
     - word: 宅配
       position: 1
+      tags:
+        - silent
     - word: 業
       position: 3
+      tags:
+        - silent
     - word: 者
       position: 4
+      tags:
+        - silent
     - word: １
       base: '1'
       dictionary: '1'
       position: 5
+      tags:
+        - silent
     - word: 日時
       position: 8
     - word: 指定
@@ -29484,14 +30148,22 @@
   words:
     - word: 宅配
       position: 1
+      tags:
+        - silent
     - word: 業
       position: 3
+      tags:
+        - silent
     - word: 者
       position: 4
+      tags:
+        - silent
     - word: ２
       base: '2'
       dictionary: '2'
       position: 5
+      tags:
+        - silent
     - word: はっ
       base: 八
       position: 8
@@ -29525,6 +30197,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: すい
       base: すむ
       dictionary: すむ
@@ -29569,14 +30243,22 @@
   words:
     - word: 宅配
       position: 1
+      tags:
+        - silent
     - word: 業
       position: 3
+      tags:
+        - silent
     - word: 者
       position: 4
+      tags:
+        - silent
     - word: １
       base: '1'
       dictionary: '1'
       position: 5
+      tags:
+        - silent
     - word: 冷蔵
       position: 8
     - word: 庫
@@ -29907,6 +30589,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: まあ
       position: 4
     - word: そう
@@ -30315,6 +30999,8 @@
   words:
     - word: 女
       position: 1
+      tags:
+        - silent
     - word: 大丈夫
       position: 3
     - word: <
@@ -30328,6 +31014,8 @@
       position: 10
     - word: 女の子
       position: 12
+      tags:
+        - silent
     - word: え〜ん
       base: えーん
       position: 16
@@ -30339,6 +31027,8 @@
   words:
     - word: 女
       position: 1
+      tags:
+        - silent
     - word: 押し
       base: 押す
       dictionary: 押す
@@ -30362,6 +31052,8 @@
   words:
     - word: 女の子
       position: 1
+      tags:
+        - silent
     - word: え〜ん
       base: えーん
       position: 6
@@ -30683,9 +31375,13 @@
   words:
     - word: 勇樹
       position: 1
+      tags:
+        - silent
     - word: ゆうき
       base: 勇気
       position: 4
+      tags:
+        - silent
     - word: ママ
       position: 9
 - id: border_ep2_0.44.53.743-0.44.55.543
@@ -30790,11 +31486,17 @@
   words:
     - word: 西本
       position: 1
+      tags:
+        - silent
     - word: に
       position: 4
+      tags:
+        - silent
     - word: しもと
       base: 笞
       position: 5
+      tags:
+        - silent
     - word: 僕
       position: 11
     - word: は
@@ -30805,6 +31507,8 @@
       position: 15
     - word: ゆうじ
       position: 18
+      tags:
+        - silent
 - id: border_ep3_0.00.06.689-0.00.09.053
   deck_name: Border
   translation: I was killed out of revenge.
@@ -30816,6 +31520,8 @@
     - word: ふくしゅう
       base: 復習
       position: 3
+      tags:
+        - silent
     - word: の
       position: 9
     - word: ため
@@ -30841,6 +31547,8 @@
   words:
     - word: 刑事
       position: 1
+      tags:
+        - silent
     - word: 死体
       position: 5
     - word: が
@@ -30940,12 +31648,18 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: いち
       base: 位置
       position: 4
+      tags:
+        - silent
     - word: くら
       base: 蔵
       position: 6
+      tags:
+        - silent
     - word: ごめん
       base: 御免
       position: 10
@@ -30994,6 +31708,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: ああ
       position: 4
     - word: そう
@@ -31006,6 +31722,8 @@
   words:
     - word: 刑事
       position: 1
+      tags:
+        - silent
     - word: 所持
       position: 5
     - word: 品
@@ -31070,9 +31788,13 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: たちばな
       base: 橘
       position: 4
+      tags:
+        - silent
     - word: こんな
       position: 11
     - word: に
@@ -31207,8 +31929,12 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: いしかわ
       position: 4
+      tags:
+        - silent
     - word: 服
       position: 11
     - word: の
@@ -31261,6 +31987,8 @@
   words:
     - word: 刑事
       position: 1
+      tags:
+        - silent
     - word: お
       base: 御
       position: 4
@@ -31305,6 +32033,8 @@
   words:
     - word: 刑事
       position: 1
+      tags:
+        - silent
     - word: 死体
       position: 4
     - word: の
@@ -31348,11 +32078,17 @@
   words:
     - word: 藤崎
       position: 1
+      tags:
+        - silent
     - word: ふじ
       position: 4
+      tags:
+        - silent
     - word: さき
       base: 先
       position: 6
+      tags:
+        - silent
     - word: はい
       position: 10
 - id: border_ep3_0.01.56.912-0.01.58.778
@@ -31544,6 +32280,8 @@
   words:
     - word: 藤崎
       position: 1
+      tags:
+        - silent
     - word: 念
       position: 5
     - word: の
@@ -31753,6 +32491,8 @@
   words:
     - word: 藤崎
       position: 1
+      tags:
+        - silent
     - word: いえ
       position: 4
     - word: 触れ
@@ -31824,6 +32564,8 @@
     - word: やじうま
       base: 野次馬
       position: 4
+      tags:
+        - silent
     - word: を
       position: 9
     - word: 死体
@@ -32132,6 +32874,8 @@
   words:
     - word: 刑事
       position: 1
+      tags:
+        - silent
     - word: 検死
       base: 検屍
       position: 4
@@ -32155,6 +32899,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: ご
       base: 御
       position: 5
@@ -32181,10 +32927,16 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: ひ
       position: 4
+      tags:
+        - silent
     - word: が
       position: 5
+      tags:
+        - silent
     - word: 結論
       position: 9
     - word: から
@@ -32400,6 +33152,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: この
       base: 此の
       position: 5
@@ -32526,6 +33280,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: それ
       base: 其れ
       position: 5
@@ -32610,6 +33366,8 @@
     - word: こんとう
       base: 懇到
       position: 17
+      tags:
+        - silent
     - word: さ
       base: 為る
       dictionary: する
@@ -32680,10 +33438,14 @@
       position: 0
     - word: えんこ
       position: 3
+      tags:
+        - silent
     - word: ん
       base: む
       dictionary: む
       position: 6
+      tags:
+        - silent
     - word: 絡み
       position: 8
     - word: か
@@ -32700,6 +33462,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: 何
       position: 4
     - word: か
@@ -32724,6 +33488,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 顔
       position: 4
     - word: を
@@ -32925,6 +33691,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 自分
       position: 5
     - word: が
@@ -32988,6 +33756,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: ガキ
       position: 4
     - word: か
@@ -33131,6 +33901,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 4
 - id: border_ep3_0.07.06.769-0.07.08.534
@@ -33200,8 +33972,12 @@
       position: 2
     - word: しまむら
       position: 5
+      tags:
+        - silent
     - word: やすお
       position: 9
+      tags:
+        - silent
     - word: と
       position: 13
     - word: いう
@@ -33257,8 +34033,12 @@
   words:
     - word: 事務
       position: 1
+      tags:
+        - silent
     - word: 員
       position: 3
+      tags:
+        - silent
     - word: 何
       position: 5
     - word: でしょう
@@ -33275,6 +34055,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 団地
       position: 5
     - word: の
@@ -33312,8 +34094,12 @@
   words:
     - word: 事務
       position: 1
+      tags:
+        - silent
     - word: 員
       position: 3
+      tags:
+        - silent
     - word: 今朝
       position: 6
     - word: の
@@ -33346,6 +34132,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: いえ
       position: 4
     - word: 参考
@@ -33366,8 +34154,12 @@
   words:
     - word: 事務
       position: 1
+      tags:
+        - silent
     - word: 員
       position: 3
+      tags:
+        - silent
     - word: どなた
       position: 6
     - word: の
@@ -33458,6 +34250,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 法令
       position: 5
     - word: に
@@ -33486,8 +34280,12 @@
   words:
     - word: 事務
       position: 1
+      tags:
+        - silent
     - word: 員
       position: 3
+      tags:
+        - silent
     - word: あ
       base: あっ
       position: 5
@@ -34095,6 +34893,8 @@
   words:
     - word: 記者
       position: 1
+      tags:
+        - silent
     - word: 犯人
       position: 5
     - word: を
@@ -34121,6 +34921,8 @@
   words:
     - word: 島村
       position: 1
+      tags:
+        - silent
     - word: 今
       position: 5
     - word: は
@@ -34219,9 +35021,13 @@
       position: 1
     - word: せい
       position: 4
+      tags:
+        - silent
     - word: いっぱい
       base: 一杯
       position: 6
+      tags:
+        - silent
     - word: です
       position: 11
 - id: border_ep3_0.10.26.535-0.10.28.867
@@ -34932,6 +35738,8 @@
   words:
     - word: 刑事
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 4
     - word: 動き
@@ -35010,6 +35818,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: 旦那
       position: 5
     - word: さん
@@ -35069,6 +35879,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: 石川
       position: 4
     - word: 行く
@@ -35077,6 +35889,8 @@
       position: 9
     - word: 石川
       position: 12
+      tags:
+        - silent
     - word: はい
       position: 15
 - id: border_ep3_0.12.24.552-0.12.26.751
@@ -35160,12 +35974,18 @@
   words:
     - word: 鎌田
       position: 1
+      tags:
+        - silent
     - word: かま
       base: かむ
       dictionary: かむ
       position: 4
+      tags:
+        - silent
     - word: た
       position: 6
+      tags:
+        - silent
     - word: 午前
       position: 10
     - word: ６
@@ -35385,11 +36205,17 @@
   words:
     - word: 小谷
       position: 1
+      tags:
+        - silent
     - word: こた
       base: 事
       position: 4
+      tags:
+        - silent
     - word: に
       position: 6
+      tags:
+        - silent
     - word: '180'
       position: 10
     - word: センチ
@@ -35460,15 +36286,23 @@
   words:
     - word: 青沼
       position: 1
+      tags:
+        - silent
     - word: あ
       base: あっ
       position: 4
+      tags:
+        - silent
     - word: お
       base: 御
       position: 5
+      tags:
+        - silent
     - word: ぬま
       base: 沼
       position: 6
+      tags:
+        - silent
     - word: カーキ
       position: 11
     - word: 色
@@ -35517,8 +36351,12 @@
   words:
     - word: 清水
       position: 1
+      tags:
+        - silent
     - word: しみず
       position: 4
+      tags:
+        - silent
     - word: カーキ
       position: 9
     - word: 色
@@ -35607,6 +36445,8 @@
   words:
     - word: 藤崎
       position: 1
+      tags:
+        - silent
     - word: 先
       position: 4
     - word: に
@@ -36614,6 +37454,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: ありがとう
       base: 有り難う
       position: 4
@@ -36635,6 +37477,8 @@
   words:
     - word: 西本
       position: 1
+      tags:
+        - silent
     - word: 団地
       position: 5
     - word: の
@@ -36778,6 +37622,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: すい
       base: すむ
       dictionary: すむ
@@ -36798,6 +37644,8 @@
   words:
     - word: 島村
       position: 1
+      tags:
+        - silent
     - word: どう
       position: 4
     - word: し
@@ -37017,6 +37865,8 @@
     - word: つら
       base: 面
       position: 6
+      tags:
+        - silent
     - word: く
       base: 来る
       dictionary: くる
@@ -37176,6 +38026,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: そんな
       position: 4
     - word: こと
@@ -37875,6 +38727,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: そんな
       position: 4
     - word: こと
@@ -38170,6 +39024,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: ええ
       position: 4
 - id: border_ep3_0.20.35.184-0.20.39.081
@@ -38187,8 +39043,12 @@
     - word: みの
       base: 蓑
       position: 7
+      tags:
+        - silent
     - word: わ
       position: 9
+      tags:
+        - silent
     - word: に
       position: 11
     - word: ある
@@ -38433,9 +39293,13 @@
       position: 11
     - word: ゆう
       position: 13
+      tags:
+        - silent
     - word: げん
       base: 弦
       position: 15
+      tags:
+        - silent
     - word: 書房
       position: 18
     - word: に
@@ -38502,8 +39366,12 @@
   words:
     - word: 編集
       position: 1
+      tags:
+        - silent
     - word: 者
       position: 3
+      tags:
+        - silent
     - word: うち
       base: 内
       position: 6
@@ -38623,6 +39491,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 出版
       position: 5
     - word: は
@@ -38738,6 +39608,8 @@
     - word: しんし
       base: 真摯
       position: 8
+      tags:
+        - silent
     - word: に
       position: 12
     - word: 向き
@@ -39052,6 +39924,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 出し
       base: 出す
       dictionary: 出す
@@ -39076,8 +39950,12 @@
       position: 15
     - word: 編集
       position: 17
+      tags:
+        - silent
     - word: 者
       position: 19
+      tags:
+        - silent
     - word: いえ
       position: 21
     - word: いえ
@@ -39191,6 +40069,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: いくら
       base: 幾ら
       position: 5
@@ -39868,6 +40748,8 @@
   words:
     - word: サイモン
       position: 1
+      tags:
+        - silent
     - word: で
       position: 6
     - word: 何
@@ -39896,6 +40778,8 @@
   words:
     - word: サイモン
       position: 1
+      tags:
+        - silent
     - word: 役所
       position: 6
     - word: は
@@ -39910,10 +40794,14 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 緑川
       position: 4
     - word: みどりかわ
       position: 7
+      tags:
+        - silent
     - word: 市
       position: 13
 - id: border_ep3_0.24.07.971-0.24.11.234
@@ -39924,6 +40812,8 @@
   words:
     - word: ガーファンクル
       position: 1
+      tags:
+        - silent
     - word: 夢
       position: 10
     - word: の
@@ -39961,6 +40851,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: ああ
       position: 4
 - id: border_ep3_0.24.12.599-0.24.16.196
@@ -40091,6 +40983,8 @@
   words:
     - word: サイモン
       position: 1
+      tags:
+        - silent
     - word: 入っ
       base: 入る
       dictionary: 入る
@@ -40131,6 +41025,8 @@
       position: 5
     - word: かおり
       position: 8
+      tags:
+        - silent
     - word: の
       position: 12
     - word: 戸籍
@@ -40215,6 +41111,8 @@
   words:
     - word: 藤崎
       position: 1
+      tags:
+        - silent
     - word: この
       base: 此の
       position: 4
@@ -40390,6 +41288,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 今回
       position: 5
     - word: の
@@ -40420,6 +41320,8 @@
   words:
     - word: 藤崎
       position: 1
+      tags:
+        - silent
     - word: 前
       position: 4
     - word: に
@@ -40518,6 +41420,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: あくまで
       base: 飽くまで
       position: 4
@@ -40717,6 +41621,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: おやすみなさい
       position: 4
 - id: border_ep3_0.26.36.686-0.26.39.617
@@ -40727,9 +41633,13 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: あかい
       base: 赤い
       position: 4
+      tags:
+        - silent
     - word: こんな
       position: 10
     - word: 夜
@@ -40816,6 +41726,8 @@
   words:
     - word: 笑い声
       position: 1
+      tags:
+        - silent
 - id: border_ep3_0.26.49.340-0.26.50.739
   deck_name: Border
   translation: Here you are.
@@ -40824,6 +41736,8 @@
   words:
     - word: バーテンダー
       position: 1
+      tags:
+        - silent
     - word: どうぞ
       position: 8
 - id: border_ep3_0.26.50.672-0.26.53.536
@@ -40834,6 +41748,8 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: 今
       position: 5
     - word: の
@@ -40915,6 +41831,8 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: 私
       position: 5
     - word: は
@@ -40989,6 +41907,8 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: 理屈
       position: 4
     - word: で
@@ -41333,6 +42253,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 先日
       position: 5
     - word: は
@@ -41436,6 +42358,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 実
       position: 4
     - word: は
@@ -41729,6 +42653,8 @@
   words:
     - word: 清水
       position: 1
+      tags:
+        - silent
     - word: もしもし
       position: 5
 - id: border_ep3_0.29.23.519-0.29.24.852
@@ -41815,6 +42741,8 @@
   words:
     - word: スズキ
       position: 1
+      tags:
+        - silent
     - word: ああ
       position: 6
     - word: もしもし
@@ -41889,6 +42817,8 @@
   words:
     - word: スズキ
       position: 1
+      tags:
+        - silent
     - word: ついで
       base: 序で
       position: 6
@@ -42051,6 +42981,8 @@
   words:
     - word: 藤崎
       position: 1
+      tags:
+        - silent
     - word: 心配
       position: 5
     - word: し
@@ -42528,6 +43460,8 @@
   words:
     - word: スズキ
       position: 1
+      tags:
+        - silent
     - word: いや〜
       base: いや
       position: 6
@@ -42906,6 +43840,8 @@
     - word: めい
       base: 姪
       position: 2
+      tags:
+        - silent
     - word: です
       position: 5
 - id: border_ep3_0.33.35.492-0.33.37.324
@@ -43234,6 +44170,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: いつ
       position: 5
     - word: 交換
@@ -44218,6 +45156,8 @@
     - word: こそく
       base: 姑息
       position: 3
+      tags:
+        - silent
     - word: に
       position: 7
     - word: も
@@ -44263,6 +45203,8 @@
     - word: ひきょう
       base: 卑怯
       position: 6
+      tags:
+        - silent
     - word: な
       base: だ
       dictionary: だ
@@ -44322,6 +45264,8 @@
   words:
     - word: 鎌田
       position: 1
+      tags:
+        - silent
     - word: 私
       position: 5
     - word: たち
@@ -44645,6 +45589,8 @@
   words:
     - word: 藤崎
       position: 1
+      tags:
+        - silent
     - word: 罪
       position: 5
     - word: と
@@ -46224,6 +47170,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: おい
       position: 4
 - id: border_ep3_0.44.17.982-0.44.19.880
@@ -46640,6 +47588,8 @@
   words:
     - word: ガーファンクル
       position: 1
+      tags:
+        - silent
     - word: で
       position: 10
     - word: いつ
@@ -46709,8 +47659,12 @@
   words:
     - word: 横森
       position: 1
+      tags:
+        - silent
     - word: よこもり
       position: 4
+      tags:
+        - silent
     - word: 何
       position: 10
     - word: だ
@@ -46771,6 +47725,8 @@
   words:
     - word: 横森
       position: 1
+      tags:
+        - silent
     - word: ちゃんと
       position: 5
     - word: 栄養
@@ -46878,6 +47834,8 @@
   words:
     - word: 横森
       position: 1
+      tags:
+        - silent
     - word: 僕
       position: 5
     - word: は
@@ -46888,6 +47846,8 @@
       position: 11
     - word: つとむ
       position: 13
+      tags:
+        - silent
 - id: border_ep7_0.00.28.267-0.00.29.600
   deck_name: Border
   translation: I'll die in two minutes.
@@ -46914,8 +47874,12 @@
   words:
     - word: エンジン
       position: 1
+      tags:
+        - silent
     - word: 音
       position: 5
+      tags:
+        - silent
 - id: border_ep7_0.00.46.167-0.00.48.300
   deck_name: Border
   translation: Shit!
@@ -46924,6 +47888,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: クッソ
       position: 3
 - id: border_ep7_0.00.50.367-0.00.51.733
@@ -46934,6 +47900,8 @@
   words:
     - word: 女
       position: 1
+      tags:
+        - silent
     - word: どう
       position: 3
     - word: すん
@@ -46950,8 +47918,12 @@
   words:
     - word: 久島
       position: 1
+      tags:
+        - silent
     - word: くしま
       position: 4
+      tags:
+        - silent
     - word: 大丈夫
       position: 9
     - word: か
@@ -47002,6 +47974,8 @@
   words:
     - word: 久島
       position: 1
+      tags:
+        - silent
     - word: すぐ
       base: 直ぐ
       position: 4
@@ -47048,6 +48022,8 @@
   words:
     - word: 横森
       position: 1
+      tags:
+        - silent
     - word: お
       base: 御
       position: 4
@@ -47061,6 +48037,8 @@
   words:
     - word: 久島
       position: 1
+      tags:
+        - silent
     - word: え
       position: 4
     - word: どう
@@ -47079,10 +48057,16 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: ひ
       position: 4
+      tags:
+        - silent
     - word: が
       position: 5
+      tags:
+        - silent
     - word: 死因
       position: 9
     - word: は
@@ -47101,6 +48085,8 @@
     - word: けいつい
       base: 頚椎
       position: 23
+      tags:
+        - silent
     - word: 損傷
       position: 28
     - word: の
@@ -47212,12 +48198,18 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: いち
       base: 位置
       position: 4
+      tags:
+        - silent
     - word: くら
       base: 蔵
       position: 6
+      tags:
+        - silent
     - word: 一流
       position: 11
     - word: 大学
@@ -47240,6 +48232,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: 現
       position: 5
     - word: 住所
@@ -47337,9 +48331,13 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: たちばな
       base: 橘
       position: 4
+      tags:
+        - silent
     - word: 最後
       position: 11
     - word: の
@@ -47427,6 +48425,8 @@
   words:
     - word: 刑事
       position: 1
+      tags:
+        - silent
     - word: 市倉
       position: 4
     - word: さん
@@ -47466,8 +48466,12 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: いしかわ
       position: 4
+      tags:
+        - silent
     - word: 夜
       position: 10
     - word: 遅く
@@ -47548,6 +48552,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: こっち
       base: 此方
       position: 5
@@ -47634,6 +48640,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: アルバイト
       position: 5
     - word: 先
@@ -47741,6 +48749,8 @@
   words:
     - word: 横森
       position: 1
+      tags:
+        - silent
     - word: 赤い
       position: 4
     - word: 車
@@ -47759,6 +48769,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 車種
       position: 4
     - word: は
@@ -47771,6 +48783,8 @@
   words:
     - word: 横森
       position: 1
+      tags:
+        - silent
     - word: 分かり
       base: 分かる
       dictionary: 分かる
@@ -47954,6 +48968,8 @@
   words:
     - word: 横森
       position: 1
+      tags:
+        - silent
     - word: アルバイト
       position: 5
     - word: 先
@@ -48296,6 +49312,8 @@
   words:
     - word: 刑事
       position: 1
+      tags:
+        - silent
     - word: 第
       position: 4
     - word: 一
@@ -48321,6 +49339,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: ひき逃げ
       base: 轢き逃げ
       position: 5
@@ -48432,6 +49452,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: とっさ
       base: 咄嗟
       position: 5
@@ -48525,6 +49547,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: 車
       position: 5
     - word: の
@@ -48843,6 +49867,8 @@
   words:
     - word: 刑事
       position: 1
+      tags:
+        - silent
     - word: こちら
       base: 此方
       position: 4
@@ -48856,6 +49882,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: タイヤ
       position: 4
     - word: の
@@ -48948,6 +49976,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: どう
       position: 4
     - word: し
@@ -48964,6 +49994,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: もし
       base: 若し
       position: 4
@@ -49247,11 +50279,17 @@
   words:
     - word: 神坂
       position: 1
+      tags:
+        - silent
     - word: こうさ
       base: 交差
       position: 4
+      tags:
+        - silent
     - word: か
       position: 7
+      tags:
+        - silent
     - word: はい
       position: 10
 - id: border_ep7_0.08.31.367-0.08.32.700
@@ -49313,6 +50351,8 @@
   words:
     - word: 神坂
       position: 1
+      tags:
+        - silent
     - word: で
       position: 5
     - word: は
@@ -49366,6 +50406,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: この
       base: 此の
       position: 4
@@ -49391,6 +50433,8 @@
   words:
     - word: 店長
       position: 1
+      tags:
+        - silent
     - word: 横森
       position: 4
     - word: 君
@@ -50111,12 +51155,20 @@
     - word: う
       base: うー
       position: 4
+      tags:
+        - silent
     - word: だ
       position: 5
+      tags:
+        - silent
     - word: が
       position: 6
+      tags:
+        - silent
     - word: わ
       position: 7
+      tags:
+        - silent
     - word: さん
       position: 9
     - word: です
@@ -50181,6 +51233,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 宇田川
       position: 4
     - word: 外務
@@ -50321,6 +51375,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: て
       base: って
       position: 4
@@ -50382,6 +51438,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 勘
       position: 4
     - word: だ
@@ -50568,6 +51626,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: なん
       base: 何
       position: 5
@@ -50631,6 +51691,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: そっ
       base: そう
       position: 4
@@ -50671,6 +51733,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: いい
       base: 良い
       position: 5
@@ -50955,6 +52019,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 被害
       position: 5
     - word: 者
@@ -51000,6 +52066,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: どこ
       position: 4
     - word: に
@@ -51014,6 +52082,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 班
       position: 5
     - word: 長
@@ -51118,6 +52188,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: どこ
       position: 4
     - word: 行く
@@ -51137,6 +52209,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 誰
       position: 5
     - word: が
@@ -51185,6 +52259,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 今
       position: 5
     - word: 動く
@@ -51218,6 +52294,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: ビビッ
       base: びびる
       dictionary: ビビル
@@ -51262,6 +52340,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 誰
       position: 4
     - word: に
@@ -51292,6 +52372,8 @@
   words:
     - word: 神坂
       position: 1
+      tags:
+        - silent
     - word: 久島
       position: 4
     - word: さん
@@ -51308,6 +52390,8 @@
   words:
     - word: 久島
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 4
 - id: border_ep7_0.14.31.800-0.14.33.700
@@ -51337,6 +52421,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: おい
       position: 4
     - word: どう
@@ -51355,6 +52441,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 何
       position: 4
     - word: で
@@ -51409,6 +52497,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 昨夜
       position: 4
     - word: の
@@ -51430,6 +52520,8 @@
   words:
     - word: 久島
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 4
 - id: border_ep7_0.15.41.100-0.15.44.567
@@ -51440,6 +52532,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 車
       position: 5
     - word: を
@@ -51520,6 +52614,8 @@
   words:
     - word: 久島
       position: 1
+      tags:
+        - silent
     - word: その
       base: 其の
       position: 4
@@ -51797,6 +52893,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 宇田川
       position: 4
     - word: 外務
@@ -51859,6 +52957,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: おい
       position: 4
 - id: border_ep7_0.16.41.133-0.16.43.367
@@ -51924,6 +53024,8 @@
   words:
     - word: 久島
       position: 1
+      tags:
+        - silent
     - word: 刑事
       position: 4
     - word: さん
@@ -52044,6 +53146,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: お前
       base: 御前
       position: 5
@@ -52071,6 +53175,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: 応接
       position: 5
     - word: 室
@@ -52105,9 +53211,13 @@
   words:
     - word: 助手
       position: 1
+      tags:
+        - silent
     - word: たち
       base: 達
       position: 3
+      tags:
+        - silent
     - word: はい
       position: 6
 - id: border_ep7_0.18.22.570-0.18.24.970
@@ -52160,8 +53270,12 @@
   words:
     - word: 金原
       position: 1
+      tags:
+        - silent
     - word: かねはら
       position: 4
+      tags:
+        - silent
     - word: すい
       base: すむ
       dictionary: すむ
@@ -52427,6 +53541,8 @@
   words:
     - word: 店長
       position: 1
+      tags:
+        - silent
     - word: うう
       position: 4
     - word: 何
@@ -52443,6 +53559,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 横森
       position: 5
     - word: 君
@@ -52531,6 +53649,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 宇田川
       position: 5
     - word: 大臣
@@ -52605,10 +53725,16 @@
     - word: たき
       base: 滝
       position: 5
+      tags:
+        - silent
     - word: がわ
       position: 7
+      tags:
+        - silent
     - word: まな
       position: 9
+      tags:
+        - silent
     - word: さん
       position: 12
 - id: border_ep7_0.21.38.436-0.21.40.170
@@ -52619,6 +53745,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: 何
       position: 3
     - word: だ
@@ -53063,6 +54191,8 @@
   words:
     - word: 宇田川
       position: 1
+      tags:
+        - silent
     - word: おい
       position: 5
 - id: border_ep7_0.23.15.736-0.23.17.070
@@ -53083,6 +54213,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 待て
       base: 待つ
       dictionary: 待つ
@@ -53091,6 +54223,8 @@
       position: 6
     - word: 宇田川
       position: 9
+      tags:
+        - silent
     - word: 触ん
       base: 触る
       dictionary: 触る
@@ -53301,10 +54435,16 @@
   words:
     - word: クラシック
       position: 1
+      tags:
+        - silent
     - word: 音楽
       position: 6
+      tags:
+        - silent
     - word: 神坂
       position: 11
+      tags:
+        - silent
     - word: はい
       position: 14
 - id: border_ep7_0.24.04.503-0.24.05.836
@@ -53503,9 +54643,13 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: あかい
       base: 赤い
       position: 4
+      tags:
+        - silent
     - word: 今日
       position: 9
     - word: は
@@ -53597,6 +54741,8 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: ひき逃げ
       base: 轢き逃げ
       position: 4
@@ -53639,6 +54785,8 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: 一流
       position: 4
     - word: の
@@ -53854,6 +55002,8 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: 知り
       base: 知る
       dictionary: 知る
@@ -54348,6 +55498,8 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: お
       base: 御
       position: 4
@@ -54848,6 +56000,8 @@
   words:
     - word: 真奈
       position: 1
+      tags:
+        - silent
     - word: 分かっ
       base: 分かる
       dictionary: 分かる
@@ -54888,11 +56042,15 @@
   words:
     - word: スズキ
       position: 1
+      tags:
+        - silent
     - word: こんばんは
       base: 今晩は
       position: 5
     - word: 真奈
       position: 12
+      tags:
+        - silent
     - word: ハッ
       base: はっ
       position: 15
@@ -55181,6 +56339,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 今
       position: 4
     - word: 証拠
@@ -55295,6 +56455,8 @@
   words:
     - word: サイモン
       position: 1
+      tags:
+        - silent
     - word: ダメ
       base: 駄目
       position: 6
@@ -55310,6 +56472,8 @@
   words:
     - word: サイモン
       position: 1
+      tags:
+        - silent
     - word: どこ
       position: 7
     - word: の
@@ -55467,6 +56631,8 @@
   words:
     - word: ガーファンクル
       position: 1
+      tags:
+        - silent
     - word: バカ
       base: ばか
       position: 10
@@ -55843,6 +57009,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: いえ
       position: 4
     - word: あり
@@ -55889,6 +57057,8 @@
       position: 3
     - word: い
       position: 5
+      tags:
+        - silent
     - word: てっ
       base: てく
       dictionary: てく
@@ -55919,6 +57089,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: この
       base: 此の
       position: 4
@@ -55947,6 +57119,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: お前
       base: 御前
       position: 5
@@ -56097,6 +57271,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: そっ
       base: そう
       position: 4
@@ -56241,6 +57417,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: そう
       position: 4
     - word: じゃ
@@ -56405,6 +57583,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: お前
       base: 御前
       position: 4
@@ -56515,6 +57695,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: もう
       position: 4
     - word: 行っ
@@ -57420,6 +58602,8 @@
   words:
     - word: 警官
       position: 1
+      tags:
+        - silent
     - word: 何
       position: 4
     - word: やっ
@@ -57443,6 +58627,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 公務
       position: 4
     - word: 執行
@@ -57535,9 +58721,13 @@
       position: 3
     - word: けい
       position: 6
+      tags:
+        - silent
     - word: ら
       base: 等
       position: 8
+      tags:
+        - silent
     - word: 中
       position: 10
     - word: だっ
@@ -57558,6 +58748,8 @@
   words:
     - word: 警官
       position: 1
+      tags:
+        - silent
     - word: ああ
       position: 4
     - word: いえ
@@ -57847,6 +59039,8 @@
   words:
     - word: 神坂
       position: 1
+      tags:
+        - silent
     - word: 飛行
       position: 5
     - word: 機
@@ -57974,6 +59168,8 @@
   words:
     - word: 神坂
       position: 1
+      tags:
+        - silent
     - word: カナダ
       position: 4
     - word: です
@@ -58290,6 +59486,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 余罪
       position: 5
     - word: の
@@ -58316,6 +59514,8 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: これ
       base: 此れ
       position: 5
@@ -58389,6 +59589,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: いい
       base: 良い
       position: 4
@@ -58410,6 +59612,8 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: 何
       position: 5
     - word: に
@@ -58438,6 +59642,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: お前
       base: 御前
       position: 4
@@ -58666,6 +59872,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: あいつ
       base: 彼奴
       position: 5
@@ -58798,6 +60006,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: すま
       base: すむ
       dictionary: すむ
@@ -58835,6 +60045,8 @@
   words:
     - word: 横森
       position: 1
+      tags:
+        - silent
     - word: いい
       base: 良い
       position: 4
@@ -59118,8 +60330,12 @@
   words:
     - word: 荒木
       position: 1
+      tags:
+        - silent
     - word: あらき
       position: 4
+      tags:
+        - silent
     - word: 待っ
       base: 待つ
       dictionary: 待つ
@@ -59147,6 +60363,8 @@
       position: 4
     - word: 銃声
       position: 9
+      tags:
+        - silent
 - id: border_ep8_0.00.40.030-0.00.42.163
   deck_name: Border
   translation: My name is Hideo Araki.
@@ -59155,6 +60373,8 @@
   words:
     - word: 荒木
       position: 1
+      tags:
+        - silent
     - word: 私
       position: 5
     - word: は
@@ -59165,6 +60385,8 @@
       position: 9
     - word: ひでお
       position: 12
+      tags:
+        - silent
 - id: border_ep8_0.00.42.263-0.00.44.730
   deck_name: Border
   translation: I was killed to be silenced.
@@ -59198,9 +60420,13 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: たちばな
       base: 橘
       position: 4
+      tags:
+        - silent
     - word: 撃た
       base: 打つ
       dictionary: 撃つ
@@ -59228,8 +60454,12 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: いしかわ
       position: 4
+      tags:
+        - silent
     - word: なん
       base: 何
       position: 10
@@ -59301,6 +60531,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 頭
       position: 5
     - word: ん
@@ -59512,6 +60744,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: お
       base: 御
       position: 4
@@ -59530,6 +60764,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: お
       base: 御
       position: 4
@@ -59548,6 +60784,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 警官
       position: 5
     - word: 殺し
@@ -59574,12 +60812,18 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: いち
       base: 位置
       position: 4
+      tags:
+        - silent
     - word: くら
       base: 蔵
       position: 6
+      tags:
+        - silent
     - word: 組織
       position: 11
     - word: 犯罪
@@ -59616,6 +60860,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 第
       position: 5
     - word: 五
@@ -59655,6 +60901,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: ああ
       position: 4
 - id: border_ep8_0.03.30.130-0.03.32.596
@@ -59665,6 +60913,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 元
       position: 6
     - word: 刑事
@@ -59694,12 +60944,20 @@
   words:
     - word: 鴨川
       position: 1
+      tags:
+        - silent
     - word: か
       position: 4
+      tags:
+        - silent
     - word: も
       position: 5
+      tags:
+        - silent
     - word: がわ
       position: 6
+      tags:
+        - silent
     - word: 公務
       position: 11
     - word: 中
@@ -59789,10 +61047,16 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: ひ
       position: 4
+      tags:
+        - silent
     - word: が
       position: 5
+      tags:
+        - silent
     - word: いい
       base: 良い
       position: 8
@@ -59997,12 +61261,18 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: おい
       position: 4
     - word: 鑑識
       position: 8
+      tags:
+        - silent
     - word: 官
       position: 10
+      tags:
+        - silent
     - word: はい
       position: 12
 - id: border_ep8_0.04.24.096-0.04.25.663
@@ -60013,6 +61283,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: 弾
       position: 4
     - word: は
@@ -60033,8 +61305,12 @@
   words:
     - word: 鑑識
       position: 1
+      tags:
+        - silent
     - word: 官
       position: 3
+      tags:
+        - silent
     - word: 近く
       position: 6
     - word: の
@@ -60081,6 +61357,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: 線条
       position: 4
     - word: 痕
@@ -60103,8 +61381,12 @@
   words:
     - word: 鑑識
       position: 1
+      tags:
+        - silent
     - word: 官
       position: 3
+      tags:
+        - silent
     - word: 弾
       position: 6
     - word: が
@@ -60150,6 +61432,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: 犯人
       position: 5
     - word: は
@@ -60265,6 +61549,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 線
       position: 5
     - word: 条痕
@@ -60317,6 +61603,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: か
       position: 4
     - word: も
@@ -60362,6 +61650,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: どの
       position: 4
     - word: 事件
@@ -60475,6 +61765,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: あっ
       position: 5
     - word: あ
@@ -60508,6 +61800,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: あの
       base: 彼の
       position: 5
@@ -60599,6 +61893,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 4
 - id: border_ep8_0.05.34.063-0.05.37.996
@@ -60609,6 +61905,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 今
       position: 5
     - word: の
@@ -60646,6 +61944,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: 分かっ
       base: 分かる
       dictionary: 分かる
@@ -60662,6 +61962,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 荒木
       position: 5
     - word: 警部
@@ -60801,6 +62103,8 @@
   words:
     - word: 鴨川
       position: 1
+      tags:
+        - silent
     - word: と
       position: 4
     - word: いう
@@ -60861,8 +62165,12 @@
     - word: かん
       base: 彼
       position: 3
+      tags:
+        - silent
     - word: ど
       position: 5
+      tags:
+        - silent
     - word: り
       position: 7
     - word: 班
@@ -61039,6 +62347,8 @@
   words:
     - word: 一同
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 4
 - id: border_ep8_0.07.21.463-0.07.23.863
@@ -61049,12 +62359,18 @@
   words:
     - word: 宮里
       position: 1
+      tags:
+        - silent
     - word: みや
       base: 宮
       position: 4
+      tags:
+        - silent
     - word: ざと
       base: 里
       position: 6
+      tags:
+        - silent
     - word: 心臓
       position: 10
     - word: '320'
@@ -61071,6 +62387,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 確か
       position: 4
     - word: に
@@ -61281,6 +62599,8 @@
       position: 2
     - word: うえだ
       position: 5
+      tags:
+        - silent
     - word: 元
       position: 9
     - word: 巡査
@@ -61326,12 +62646,18 @@
       position: 2
     - word: いけ
       position: 4
+      tags:
+        - silent
     - word: ぶくろ
       base: 袋
       position: 6
+      tags:
+        - silent
     - word: ひがし
       base: 東
       position: 9
+      tags:
+        - silent
     - word: 署
       position: 13
     - word: 勤務
@@ -61395,6 +62721,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 荒木
       position: 4
     - word: と
@@ -62473,6 +63801,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: 気
       position: 4
     - word: を
@@ -62549,10 +63879,16 @@
   words:
     - word: 荒木
       position: 1
+      tags:
+        - silent
     - word: の
       position: 3
+      tags:
+        - silent
     - word: 元妻
       position: 4
+      tags:
+        - silent
     - word: あちこち
       base: 彼方此方
       position: 8
@@ -62642,6 +63978,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: お
       base: 御
       position: 5
@@ -63009,6 +64347,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 元奥
       position: 5
     - word: さん
@@ -63162,10 +64502,14 @@
       position: 7
     - word: えんこ
       position: 10
+      tags:
+        - silent
     - word: ん
       base: む
       dictionary: む
       position: 13
+      tags:
+        - silent
     - word: が
       position: 15
     - word: 原因
@@ -63197,6 +64541,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: 先走る
       position: 4
     - word: な
@@ -63281,6 +64627,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: 何
       position: 4
     - word: だ
@@ -63405,6 +64753,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 4
 - id: border_ep8_0.12.22.996-0.12.25.096
@@ -63415,6 +64765,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 機嫌
       position: 4
     - word: 悪い
@@ -63447,6 +64799,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: トイレ
       position: 5
     - word: に
@@ -63481,6 +64835,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: あ
       base: あっ
       position: 4
@@ -63514,10 +64870,16 @@
   words:
     - word: 所轄
       position: 1
+      tags:
+        - silent
     - word: の
       position: 3
+      tags:
+        - silent
     - word: 刑事
       position: 4
+      tags:
+        - silent
     - word: 立花
       position: 7
     - word: さん
@@ -63604,8 +64966,12 @@
   words:
     - word: 小声
       position: 1
+      tags:
+        - silent
     - word: で
       position: 3
+      tags:
+        - silent
     - word: 出
       base: 出る
       dictionary: 出る
@@ -63650,6 +65016,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: お
       base: おっ
       position: 4
@@ -63665,6 +65033,8 @@
   words:
     - word: バーテンダー
       position: 1
+      tags:
+        - silent
     - word: 警官
       position: 9
     - word: 殺し
@@ -63712,6 +65082,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: その
       base: 其の
       position: 5
@@ -63740,6 +65112,8 @@
   words:
     - word: バーテンダー
       position: 1
+      tags:
+        - silent
     - word: 殺さ
       base: 殺す
       dictionary: 殺す
@@ -63865,6 +65239,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: じゃあ
       base: で
       position: 5
@@ -63904,6 +65280,8 @@
   words:
     - word: バーテンダー
       position: 1
+      tags:
+        - silent
     - word: それ
       base: 其れ
       position: 9
@@ -63948,9 +65326,13 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: あかい
       base: 赤い
       position: 4
+      tags:
+        - silent
     - word: いつも
       position: 9
     - word: の
@@ -63969,6 +65351,8 @@
   words:
     - word: バーテンダー
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 8
 - id: border_ep8_0.14.42.406-0.14.43.906
@@ -63979,6 +65363,8 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: ご
       base: 御
       position: 4
@@ -64041,6 +65427,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 警察
       position: 5
     - word: の
@@ -64065,6 +65453,8 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: まあ
       position: 4
     - word: それ
@@ -64085,6 +65475,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 記憶
       position: 4
     - word: 力
@@ -64109,6 +65501,8 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: まあ
       position: 4
     - word: それ
@@ -64129,6 +65523,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: '10'
       position: 5
     - word: 年
@@ -64165,6 +65561,8 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: 石川
       position: 5
     - word: さん
@@ -64228,6 +65626,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 五
       base: '5'
       position: 4
@@ -64329,6 +65729,8 @@
   words:
     - word: バーテンダー
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 8
 - id: border_ep8_0.15.33.073-0.15.38.406
@@ -64594,6 +65996,8 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: それ
       base: 其れ
       position: 4
@@ -64755,6 +66159,8 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: それ
       base: 其れ
       position: 5
@@ -64802,6 +66208,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 組織
       position: 5
     - word: は
@@ -64839,6 +66247,8 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: どちら
       position: 5
     - word: に
@@ -65165,6 +66575,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: その
       base: 其の
       position: 4
@@ -65194,6 +66606,8 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: そう
       position: 4
     - word: です
@@ -65287,6 +66701,8 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: 確か
       position: 4
     - word: ５
@@ -65307,6 +66723,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: ほか
       base: 他
       position: 5
@@ -65336,6 +66754,8 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: １人
       base: 一人
       dictionary: 1人
@@ -65362,6 +66782,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 教えろ
       base: 教える
       dictionary: 教える
@@ -65376,6 +66798,8 @@
       position: 0
     - word: さかい
       position: 3
+      tags:
+        - silent
     - word: と
       position: 7
     - word: いう
@@ -65403,17 +66827,27 @@
       base: 居る
       dictionary: いる
       position: 6
+      tags:
+        - silent
     - word: た
       position: 7
+      tags:
+        - silent
     - word: ばし
       base: はし
       position: 8
+      tags:
+        - silent
     - word: に
       position: 10
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
       position: 11
+      tags:
+        - silent
     - word: 署
       position: 13
     - word: の
@@ -65441,6 +66875,8 @@
   words:
     - word: バーテンダー
       position: 1
+      tags:
+        - silent
     - word: 本当
       position: 9
     - word: は
@@ -65521,6 +66957,8 @@
   words:
     - word: 酒井
       position: 1
+      tags:
+        - silent
     - word: お前
       base: 御前
       position: 4
@@ -65532,6 +66970,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 俺
       position: 4
     - word: の
@@ -65852,6 +67292,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: 警察
       position: 3
     - word: に
@@ -65874,10 +67316,16 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 小声
       position: 4
+      tags:
+        - silent
     - word: で
       position: 6
+      tags:
+        - silent
     - word: 必ず
       position: 9
     - word: 追い
@@ -65905,6 +67353,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: 大丈夫
       position: 3
     - word: です
@@ -65929,6 +67379,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: おい
       position: 4
 - id: border_ep8_0.20.31.940-0.20.33.307
@@ -65939,6 +67391,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: すい
       base: すむ
       dictionary: すむ
@@ -65959,6 +67413,8 @@
   words:
     - word: 鴨川
       position: 1
+      tags:
+        - silent
     - word: 荒木
       position: 5
     - word: の
@@ -66137,6 +67593,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 4
 - id: border_ep8_0.21.05.374-0.21.07.940
@@ -66147,6 +67605,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: 大丈夫
       position: 4
     - word: 顔色
@@ -66178,10 +67638,16 @@
   words:
     - word: 所轄
       position: 1
+      tags:
+        - silent
     - word: の
       position: 3
+      tags:
+        - silent
     - word: 刑事
       position: 4
+      tags:
+        - silent
     - word: で
       position: 8
     - word: 一方
@@ -66231,6 +67697,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: えと
       base: 干支
       position: 4
@@ -66260,6 +67728,8 @@
   words:
     - word: 女
       position: 1
+      tags:
+        - silent
     - word: スーツ
       position: 3
     - word: の
@@ -66296,6 +67766,8 @@
   words:
     - word: 鴨川
       position: 1
+      tags:
+        - silent
     - word: 石川
       position: 4
     - word: 戻る
@@ -66310,6 +67782,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 4
 - id: border_ep8_0.21.52.940-0.21.55.007
@@ -66320,10 +67794,16 @@
   words:
     - word: 所轄
       position: 1
+      tags:
+        - silent
     - word: の
       position: 3
+      tags:
+        - silent
     - word: 刑事
       position: 4
+      tags:
+        - silent
     - word: ほか
       base: 他
       position: 7
@@ -66345,6 +67825,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: 黒
       position: 3
     - word: の
@@ -66399,6 +67881,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: そう
       position: 4
     - word: か
@@ -66441,6 +67925,8 @@
   words:
     - word: ガーファンクル
       position: 1
+      tags:
+        - silent
     - word: '10'
       position: 10
     - word: 年
@@ -66482,6 +67968,8 @@
   words:
     - word: サイモン
       position: 1
+      tags:
+        - silent
     - word: 警察
       position: 7
     - word: の
@@ -66706,6 +68194,8 @@
   words:
     - word: ガーファンクル
       position: 1
+      tags:
+        - silent
     - word: ふだん
       base: 普段
       position: 10
@@ -66756,6 +68246,8 @@
   words:
     - word: サイモン
       position: 1
+      tags:
+        - silent
     - word: 新聞
       position: 7
     - word: に
@@ -66819,6 +68311,8 @@
   words:
     - word: ガーファンクル
       position: 1
+      tags:
+        - silent
     - word: これ
       base: 此れ
       position: 10
@@ -66899,6 +68393,8 @@
   words:
     - word: サイモン
       position: 1
+      tags:
+        - silent
     - word: あ
       base: あっ
       position: 6
@@ -66971,6 +68467,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 登庁
       position: 5
     - word: 前
@@ -67117,6 +68615,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 警察
       position: 5
     - word: 官
@@ -67151,6 +68651,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: もう
       position: 4
     - word: '25'
@@ -67235,6 +68737,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: これ
       base: 此れ
       position: 5
@@ -67269,6 +68773,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: 昔
       position: 4
     - word: も
@@ -67346,6 +68852,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 4
 - id: border_ep8_0.25.35.774-0.25.37.340
@@ -67858,6 +69366,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: どう
       position: 4
     - word: し
@@ -67876,6 +69386,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 今
       position: 4
     - word: の
@@ -67898,6 +69410,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: そう
       position: 4
     - word: だ
@@ -67913,6 +69427,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 死体
       position: 5
     - word: を
@@ -67946,6 +69462,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: 明日
       position: 4
     - word: の
@@ -67965,6 +69483,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 死体
       position: 5
     - word: の
@@ -67995,6 +69515,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: どう
       position: 4
     - word: し
@@ -68011,6 +69533,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 理由
       position: 4
     - word: は
@@ -68068,6 +69592,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: あの
       base: 彼の
       position: 5
@@ -68115,6 +69641,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 頼む
       position: 4
 - id: border_ep8_0.27.41.907-0.27.43.974
@@ -68125,6 +69653,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: どの
       position: 5
     - word: ぐらい
@@ -68151,6 +69681,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: １
       base: '1'
       dictionary: '1'
@@ -68165,6 +69697,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: そんな
       position: 4
     - word: の
@@ -68181,6 +69715,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: じゃ
       base: で
       position: 4
@@ -68203,6 +69739,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: 分かっ
       base: 分かる
       dictionary: 分かる
@@ -68236,6 +69774,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: ありがとう
       base: 有り難う
       position: 4
@@ -68247,6 +69787,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: 理由
       position: 5
     - word: は
@@ -68278,6 +69820,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: ああ
       position: 4
     - word: 必ず
@@ -68313,6 +69857,8 @@
   words:
     - word: スズキ
       position: 1
+      tags:
+        - silent
     - word: 趣味
       position: 6
     - word: と
@@ -68506,6 +70052,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 何
       position: 4
     - word: だ
@@ -68537,6 +70085,8 @@
   words:
     - word: 鴨川
       position: 1
+      tags:
+        - silent
     - word: 何
       position: 4
     - word: だ
@@ -68549,6 +70099,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 鴨川
       position: 5
     - word: 管理
@@ -68578,6 +70130,8 @@
   words:
     - word: 鴨川
       position: 1
+      tags:
+        - silent
     - word: また
       base: 又
       position: 4
@@ -68595,6 +70149,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 4
     - word: 失礼
@@ -68899,6 +70455,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 行方
       position: 4
     - word: 不明
@@ -69352,6 +70910,8 @@
   words:
     - word: 鴨川
       position: 1
+      tags:
+        - silent
     - word: 確か
       position: 5
     - word: に
@@ -69763,6 +71323,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: この
       base: 此の
       position: 4
@@ -70037,6 +71599,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 植田
       position: 5
     - word: を
@@ -70080,6 +71644,8 @@
   words:
     - word: 鴨川
       position: 1
+      tags:
+        - silent
     - word: バカ
       base: ばか
       position: 4
@@ -70972,6 +72538,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 何
       position: 4
     - word: だ
@@ -71607,6 +73175,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 忘れる
       position: 4
     - word: な
@@ -71887,6 +73457,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 班
       position: 4
     - word: 長
@@ -71993,6 +73565,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: ちっくしょう
       base: 畜生
       position: 4
@@ -72033,6 +73607,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: もう
       position: 4
     - word: 十分
@@ -72869,6 +74445,8 @@
   words:
     - word: 医師
       position: 1
+      tags:
+        - silent
     - word: 決断
       position: 4
     - word: を
@@ -72903,11 +74481,17 @@
   words:
     - word: 本田
       position: 1
+      tags:
+        - silent
     - word: ほん
       base: 其れ
       position: 4
+      tags:
+        - silent
     - word: だ
       position: 6
+      tags:
+        - silent
     - word: 日曜
       position: 10
     - word: 日
@@ -72934,8 +74518,12 @@
   words:
     - word: 安藤
       position: 1
+      tags:
+        - silent
     - word: あんどう
       position: 4
+      tags:
+        - silent
     - word: 大丈夫
       position: 11
     - word: です
@@ -73026,8 +74614,12 @@
   words:
     - word: 真理子
       position: 1
+      tags:
+        - silent
     - word: まりこ
       position: 5
+      tags:
+        - silent
     - word: また
       base: 又
       position: 11
@@ -73075,8 +74667,12 @@
   words:
     - word: 弘志
       position: 1
+      tags:
+        - silent
     - word: ひろし
       position: 4
+      tags:
+        - silent
     - word: これ
       base: 此れ
       position: 9
@@ -73097,6 +74693,8 @@
     - word: おんな
       base: 女
       position: 2
+      tags:
+        - silent
     - word: じ
       position: 6
     - word: よう
@@ -73203,6 +74801,8 @@
   words:
     - word: 弘志
       position: 1
+      tags:
+        - silent
     - word: おしっこ
       position: 4
     - word: し
@@ -73219,6 +74819,8 @@
   words:
     - word: 真理子
       position: 1
+      tags:
+        - silent
     - word: ええ
       position: 5
 - id: border_ep9_0.02.09.506-0.02.11.106
@@ -73229,6 +74831,8 @@
   words:
     - word: 安藤
       position: 1
+      tags:
+        - silent
     - word: かっこいい
       position: 4
     - word: だろ
@@ -73265,6 +74869,8 @@
   words:
     - word: 弘志
       position: 1
+      tags:
+        - silent
     - word: うん
       position: 4
 - id: border_ep9_0.02.18.273-0.02.19.873
@@ -73397,14 +75003,22 @@
   words:
     - word: 弘志
       position: 1
+      tags:
+        - silent
     - word: 天川
       position: 4
     - word: あま
       position: 7
+      tags:
+        - silent
     - word: か
       position: 9
+      tags:
+        - silent
     - word: わ
       position: 10
+      tags:
+        - silent
     - word: 弘志
       position: 12
     - word: です
@@ -73677,6 +75291,8 @@
   words:
     - word: 刑事
       position: 1
+      tags:
+        - silent
     - word: 今
       position: 5
     - word: うち
@@ -73727,8 +75343,12 @@
   words:
     - word: 芳雄
       position: 1
+      tags:
+        - silent
     - word: よしお
       position: 4
+      tags:
+        - silent
     - word: どう
       position: 9
     - word: し
@@ -73917,6 +75537,8 @@
   words:
     - word: 弘志
       position: 1
+      tags:
+        - silent
     - word: 僕
       position: 5
     - word: は
@@ -73953,9 +75575,13 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: たちばな
       base: 橘
       position: 4
+      tags:
+        - silent
     - word: 防犯
       position: 11
     - word: カメラ
@@ -73994,6 +75620,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: それ
       base: 其れ
       position: 5
@@ -74108,6 +75736,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 行き当たり
       position: 5
     - word: ばったり
@@ -74137,6 +75767,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 誘拐
       position: 5
     - word: さ
@@ -74287,6 +75919,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 確か
       position: 4
     - word: に
@@ -74305,12 +75939,18 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: いち
       base: 位置
       position: 4
+      tags:
+        - silent
     - word: くら
       base: 蔵
       position: 6
+      tags:
+        - silent
     - word: 気合い
       position: 11
     - word: 入れ
@@ -74332,8 +75972,12 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 立花
       position: 4
+      tags:
+        - silent
     - word: はい
       position: 7
 - id: border_ep9_0.06.30.206-0.06.31.540
@@ -74354,10 +75998,16 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: ひ
       position: 4
+      tags:
+        - silent
     - word: が
       position: 5
+      tags:
+        - silent
     - word: 角膜
       position: 9
     - word: の
@@ -74875,6 +76525,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 前科
       position: 5
     - word: の
@@ -75211,11 +76863,17 @@
   words:
     - word: 湯島
       position: 1
+      tags:
+        - silent
     - word: ゆ
       base: ユ
       position: 4
+      tags:
+        - silent
     - word: しま
       position: 5
+      tags:
+        - silent
     - word: 駐車
       position: 10
     - word: 場
@@ -75322,6 +76980,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: 設置
       position: 5
     - word: さ
@@ -75352,6 +77012,8 @@
   words:
     - word: 湯島
       position: 1
+      tags:
+        - silent
     - word: '20'
       position: 4
     - word: 台
@@ -75366,6 +77028,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: かなり
       base: 可成
       position: 4
@@ -75465,6 +77129,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: ８
       base: '8'
       dictionary: '8'
@@ -75510,6 +77176,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: 催眠
       position: 5
     - word: 術
@@ -75542,6 +77210,8 @@
   words:
     - word: 湯島
       position: 1
+      tags:
+        - silent
     - word: 防犯
       position: 5
     - word: カメラ
@@ -75642,6 +77312,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: それ
       base: 其れ
       position: 4
@@ -75666,6 +77338,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: 照明
       position: 4
     - word: を
@@ -75688,8 +77362,12 @@
   words:
     - word: 金原
       position: 1
+      tags:
+        - silent
     - word: かねはら
       position: 4
+      tags:
+        - silent
     - word: はい
       position: 10
 - id: border_ep9_0.09.50.673-0.09.52.640
@@ -75700,6 +77378,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: ここ
       base: 此処
       position: 4
@@ -76173,6 +77853,8 @@
   words:
     - word: 真理子
       position: 1
+      tags:
+        - silent
     - word: 私
       position: 5
 - id: border_ep9_0.11.56.073-0.11.57.640
@@ -76195,6 +77877,8 @@
   words:
     - word: 芳雄
       position: 1
+      tags:
+        - silent
     - word: きちんと
       position: 4
     - word: 確認
@@ -76259,6 +77943,8 @@
   words:
     - word: 真理子
       position: 1
+      tags:
+        - silent
     - word: あなた
       base: 貴方
       position: 5
@@ -76277,6 +77963,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: 弘志
       position: 5
     - word: 君
@@ -76363,6 +78051,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: じゃ
       base: で
       position: 5
@@ -76404,6 +78094,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: 写真
       position: 4
     - word: ８
@@ -76814,6 +78506,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: それ
       base: 其れ
       position: 5
@@ -77032,6 +78726,8 @@
   words:
     - word: ガーファンクル
       position: 1
+      tags:
+        - silent
     - word: ショッピング
       position: 10
     - word: モール
@@ -77188,6 +78884,8 @@
   words:
     - word: サイモン
       position: 1
+      tags:
+        - silent
     - word: 誘拐
       position: 7
     - word: が
@@ -77363,8 +79061,12 @@
       position: 3
     - word: あん
       position: 6
+      tags:
+        - silent
     - word: ご
       position: 8
+      tags:
+        - silent
     - word: 君
       position: 10
     - word: 何
@@ -77407,12 +79109,18 @@
   words:
     - word: 長島
       position: 1
+      tags:
+        - silent
     - word: ながし
       base: 流す
       dictionary: ながす
       position: 4
+      tags:
+        - silent
     - word: ま
       position: 7
+      tags:
+        - silent
     - word: ああ
       position: 11
     - word: 日曜
@@ -77509,6 +79217,8 @@
   words:
     - word: 長島
       position: 1
+      tags:
+        - silent
     - word: いや
       base: 否
       position: 4
@@ -77749,6 +79459,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: コーヒー
       position: 5
     - word: カップ
@@ -77868,6 +79580,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 今
       position: 4
     - word: は
@@ -77894,6 +79608,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: 何
       position: 4
     - word: に
@@ -78179,6 +79895,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: 例えば
       position: 4
 - id: border_ep9_0.17.56.973-0.17.58.640
@@ -78708,6 +80426,8 @@
   words:
     - word: 安藤
       position: 1
+      tags:
+        - silent
     - word: 何
       position: 4
     - word: でしょう
@@ -79182,6 +80902,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: しんどい
       position: 5
     - word: 仕事
@@ -79206,6 +80928,8 @@
   words:
     - word: スズキ
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 5
 - id: border_ep9_0.22.35.153-0.22.37.086
@@ -79483,6 +81207,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: 向こう
       position: 5
     - word: から
@@ -79516,6 +81242,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 4
 - id: border_ep9_0.25.16.720-0.25.19.753
@@ -79919,6 +81647,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: 部屋
       position: 5
     - word: から
@@ -80083,6 +81813,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: ヤツ
       base: 奴
       position: 5
@@ -80449,6 +82181,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: お前
       base: 御前
       position: 4
@@ -80712,6 +82446,8 @@
     - word: むく
       base: 無垢
       position: 13
+      tags:
+        - silent
     - word: な
       base: だ
       dictionary: だ
@@ -82028,9 +83764,13 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: あかい
       base: 赤い
       position: 4
+      tags:
+        - silent
     - word: どう
       position: 9
     - word: か
@@ -82071,6 +83811,8 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: そう
       position: 4
     - word: です
@@ -82125,6 +83867,8 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: 随分
       position: 5
     - word: と
@@ -82227,6 +83971,8 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: 存在
       position: 4
     - word: する
@@ -82353,6 +84099,8 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: 私
       position: 5
     - word: なら
@@ -82558,6 +84306,8 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: 相手
       position: 5
     - word: が
@@ -82713,6 +84463,8 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: 消え
       base: 消える
       dictionary: 消える
@@ -82918,6 +84670,8 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: 石川
       position: 4
     - word: さん
@@ -83168,10 +84922,16 @@
       base: 泣く
       dictionary: 泣く
       position: 1
+      tags:
+        - silent
     - word: 崩れる
       position: 3
+      tags:
+        - silent
     - word: 声
       position: 6
+      tags:
+        - silent
 - id: border_ep9_0.39.04.473-0.39.06.606
   deck_name: Border
   translation: No!
@@ -83641,10 +85401,16 @@
   words:
     - word: 女子
       position: 1
+      tags:
+        - silent
     - word: 高校
       position: 3
+      tags:
+        - silent
     - word: 生
       position: 5
+      tags:
+        - silent
     - word: 寒い
       position: 8
     - word: ん
@@ -83663,10 +85429,16 @@
   words:
     - word: 男子
       position: 1
+      tags:
+        - silent
     - word: 高校
       position: 3
+      tags:
+        - silent
     - word: 生
       position: 5
+      tags:
+        - silent
     - word: 芝生
       position: 8
     - word: に
@@ -83715,10 +85487,16 @@
   words:
     - word: 女子
       position: 1
+      tags:
+        - silent
     - word: 高校
       position: 3
+      tags:
+        - silent
     - word: 生
       position: 5
+      tags:
+        - silent
     - word: 言っ
       base: 言う
       dictionary: 言う
@@ -83816,10 +85594,16 @@
   words:
     - word: 広山
       position: 1
+      tags:
+        - silent
     - word: ひろ
       position: 4
+      tags:
+        - silent
     - word: やま
       position: 6
+      tags:
+        - silent
     - word: 私
       position: 11
     - word: は
@@ -83830,6 +85614,8 @@
       position: 16
     - word: しげお
       position: 19
+      tags:
+        - silent
 - id: border_ep4_0.00.55.414-0.00.58.447
   deck_name: Border
   translation: I was killed to be used as bait.
@@ -83866,12 +85652,18 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: いち
       base: 位置
       position: 4
+      tags:
+        - silent
     - word: くら
       base: 蔵
       position: 6
+      tags:
+        - silent
     - word: や
       position: 10
     - word: な
@@ -83903,8 +85695,12 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: いしかわ
       position: 4
+      tags:
+        - silent
     - word: 死体
       position: 11
     - word: 発見
@@ -83930,6 +85726,8 @@
   words:
     - word: 刑事
       position: 1
+      tags:
+        - silent
     - word: 第
       position: 5
     - word: 一
@@ -83997,6 +85795,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: シール
       position: 4
     - word: に
@@ -84085,6 +85885,8 @@
   words:
     - word: 刑事
       position: 1
+      tags:
+        - silent
     - word: どう
       position: 5
     - word: し
@@ -84225,9 +86027,13 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: たちばな
       base: 橘
       position: 4
+      tags:
+        - silent
     - word: こんな
       position: 11
     - word: の
@@ -84337,6 +86143,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 生
       position: 5
     - word: 意気
@@ -84365,6 +86173,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 事故
       position: 5
     - word: 渋滞
@@ -84503,6 +86313,8 @@
   words:
     - word: 巡査
       position: 1
+      tags:
+        - silent
     - word: 大丈夫
       position: 4
     - word: です
@@ -84517,10 +86329,16 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: ひ
       position: 4
+      tags:
+        - silent
     - word: が
       position: 5
+      tags:
+        - silent
     - word: ありがとう
       base: 有り難う
       position: 8
@@ -84547,6 +86365,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: うるさい
       base: 煩い
       position: 4
@@ -84591,6 +86411,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: お
       base: 御
       position: 4
@@ -84616,6 +86438,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: ご
       base: 御
       position: 4
@@ -85187,6 +87011,8 @@
   words:
     - word: 広山
       position: 1
+      tags:
+        - silent
     - word: あんた
       base: 貴方
       position: 6
@@ -85328,6 +87154,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 死体
       position: 4
     - word: を
@@ -85366,6 +87194,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: それ
       base: 其れ
       position: 4
@@ -85417,12 +87247,18 @@
   words:
     - word: 救急
       position: 1
+      tags:
+        - silent
     - word: 隊員
       position: 3
+      tags:
+        - silent
     - word: １
       base: '1'
       dictionary: '1'
       position: 5
+      tags:
+        - silent
     - word: ちょっと
       base: 一寸
       position: 8
@@ -85442,11 +87278,17 @@
   words:
     - word: 救急
       position: 1
+      tags:
+        - silent
     - word: 隊員
       position: 3
+      tags:
+        - silent
     - word: たち
       base: 達
       position: 5
+      tags:
+        - silent
     - word: １
       base: '1'
       dictionary: '1'
@@ -85467,12 +87309,18 @@
   words:
     - word: 救急
       position: 1
+      tags:
+        - silent
     - word: 隊員
       position: 3
+      tags:
+        - silent
     - word: ２
       base: '2'
       dictionary: '2'
       position: 5
+      tags:
+        - silent
     - word: 閉め
       base: 閉める
       dictionary: 閉める
@@ -85487,6 +87335,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: 大丈夫
       position: 4
     - word: か
@@ -85502,10 +87352,16 @@
   words:
     - word: 救急
       position: 1
+      tags:
+        - silent
     - word: 隊
       position: 3
+      tags:
+        - silent
     - word: 員
       position: 4
+      tags:
+        - silent
     - word: 大丈夫
       position: 6
     - word: です
@@ -85545,10 +87401,16 @@
   words:
     - word: 救急
       position: 1
+      tags:
+        - silent
     - word: 隊
       position: 3
+      tags:
+        - silent
     - word: 員
       position: 4
+      tags:
+        - silent
     - word: はい
       position: 6
 - id: border_ep4_0.08.12.914-0.08.15.314
@@ -86340,6 +88202,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: そう
       position: 4
     - word: です
@@ -86403,8 +88267,12 @@
       base: 蹴る
       dictionary: ける
       position: 3
+      tags:
+        - silent
     - word: たい
       position: 5
+      tags:
+        - silent
     - word: 感
       position: 8
     - word: など
@@ -86943,6 +88811,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 犯人
       position: 4
     - word: から
@@ -87241,8 +89111,12 @@
   words:
     - word: 看護
       position: 1
+      tags:
+        - silent
     - word: 師
       position: 3
+      tags:
+        - silent
     - word: 容体
       base: 容態
       position: 5
@@ -87296,6 +89170,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: おい
       position: 4
 - id: border_ep4_0.12.37.114-0.12.38.780
@@ -87326,6 +89202,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 4
     - word: <
@@ -87339,6 +89217,8 @@
       position: 10
     - word: 市倉
       position: 12
+      tags:
+        - silent
     - word: １
       base: '1'
       dictionary: '1'
@@ -87369,12 +89249,16 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: で
       position: 4
     - word: も
       position: 5
     - word: 市倉
       position: 9
+      tags:
+        - silent
     - word: 医者
       position: 12
     - word: と
@@ -87415,6 +89299,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 家
       position: 5
     - word: に
@@ -87452,10 +89338,16 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: の
       position: 3
+      tags:
+        - silent
     - word: 舌打ち
       position: 4
+      tags:
+        - silent
 - id: border_ep4_0.12.46.780-0.12.48.514
   deck_name: Border
   translation: What are you, children?
@@ -87544,10 +89436,14 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 4
     - word: 石川
       position: 8
+      tags:
+        - silent
     - word: はい
       position: 11
 - id: border_ep4_0.13.15.347-0.13.17.147
@@ -87558,6 +89454,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: あの
       base: 彼の
       position: 3
@@ -87623,6 +89521,8 @@
   words:
     - word: ホームレス
       position: 1
+      tags:
+        - silent
     - word: 何
       position: 7
     - word: よ
@@ -87692,6 +89592,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 寝
       base: 寝る
       dictionary: 寝る
@@ -87706,6 +89608,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: おい
       position: 4
     - word: 何
@@ -87720,6 +89624,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: おい
       position: 4
     - word: どう
@@ -87738,6 +89644,8 @@
   words:
     - word: 刑事
       position: 1
+      tags:
+        - silent
     - word: 管内
       position: 5
     - word: で
@@ -87797,6 +89705,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: すい
       base: すむ
       dictionary: すむ
@@ -87914,12 +89824,20 @@
   words:
     - word: 爆弾
       position: 1
+      tags:
+        - silent
     - word: 処理
       position: 3
+      tags:
+        - silent
     - word: 班
       position: 5
+      tags:
+        - silent
     - word: 員
       position: 6
+      tags:
+        - silent
     - word: はい
       position: 8
 - id: border_ep4_0.14.44.980-0.14.46.347
@@ -88008,6 +89926,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 感染
       position: 5
     - word: 症
@@ -88042,6 +89962,8 @@
   words:
     - word: ホームレス
       position: 1
+      tags:
+        - silent
     - word: 謝礼
       position: 8
     - word: って
@@ -88164,6 +90086,8 @@
   words:
     - word: ホームレス
       position: 1
+      tags:
+        - silent
     - word: 優し
       base: 優しい
       dictionary: 優しい
@@ -88271,6 +90195,8 @@
   words:
     - word: ホームレス
       position: 1
+      tags:
+        - silent
     - word: 特徴
       position: 7
     - word: ね
@@ -88448,6 +90374,8 @@
   words:
     - word: ホームレス
       position: 1
+      tags:
+        - silent
     - word: あっ
       position: 8
     - word: １
@@ -88746,6 +90674,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: あんた
       base: 貴方
       position: 4
@@ -88807,6 +90737,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: どう
       position: 4
     - word: も
@@ -88983,6 +90915,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: 出
       base: 出る
       dictionary: 出る
@@ -89253,6 +91187,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: せっかく
       base: 折角
       position: 4
@@ -89433,6 +91369,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: 紺
       position: 4
     - word: の
@@ -89472,13 +91410,21 @@
   words:
     - word: 通話
       position: 1
+      tags:
+        - silent
     - word: が
       position: 3
+      tags:
+        - silent
     - word: 切れる
       base: 切る
       position: 4
+      tags:
+        - silent
     - word: 音
       position: 7
+      tags:
+        - silent
 - id: border_ep4_0.18.34.447-0.18.36.380
   deck_name: Border
   translation: There's a bomb in a car.<br>Go and get the bomb specialists.
@@ -89487,6 +91433,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 車
       position: 4
     - word: に
@@ -89567,6 +91515,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: その
       base: 其の
       position: 4
@@ -89777,6 +91727,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: そこ
       base: 其処
       position: 4
@@ -89820,12 +91772,20 @@
   words:
     - word: 爆弾
       position: 1
+      tags:
+        - silent
     - word: 処理
       position: 3
+      tags:
+        - silent
     - word: 班
       position: 5
+      tags:
+        - silent
     - word: 員
       position: 6
+      tags:
+        - silent
     - word: 分かっ
       base: 分かる
       dictionary: 分かる
@@ -89874,15 +91834,25 @@
   words:
     - word: 爆弾
       position: 1
+      tags:
+        - silent
     - word: 処理
       position: 3
+      tags:
+        - silent
     - word: 班
       position: 5
+      tags:
+        - silent
     - word: 員
       position: 6
+      tags:
+        - silent
     - word: たち
       base: 達
       position: 7
+      tags:
+        - silent
     - word: はい
       position: 10
 - id: border_ep4_0.20.09.647-0.20.10.980
@@ -89893,6 +91863,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 頑張れよ
       base: 頑張る
       dictionary: 頑張れる
@@ -89918,6 +91890,8 @@
     - word: やじうま
       base: 野次馬
       position: 12
+      tags:
+        - silent
     - word: の
       position: 17
     - word: 顔
@@ -89979,12 +91953,20 @@
   words:
     - word: 爆弾
       position: 1
+      tags:
+        - silent
     - word: 処理
       position: 3
+      tags:
+        - silent
     - word: 班
       position: 5
+      tags:
+        - silent
     - word: 員
       position: 6
+      tags:
+        - silent
     - word: もう
       position: 8
     - word: 大丈夫
@@ -90087,6 +92069,8 @@
   words:
     - word: 刑事
       position: 1
+      tags:
+        - silent
     - word: 助かっ
       base: 助かる
       dictionary: 助かる
@@ -90161,6 +92145,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 分かっ
       base: 分かる
       dictionary: 分かる
@@ -90228,6 +92214,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: あんた
       base: 貴方
       position: 4
@@ -90769,8 +92757,12 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 石川
       position: 4
+      tags:
+        - silent
     - word: はい
       position: 7
 - id: border_ep4_0.24.17.024-0.24.19.157
@@ -91293,6 +93285,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: もう
       position: 4
     - word: やっ
@@ -91372,6 +93366,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: あり
       base: 有る
       dictionary: ある
@@ -91403,6 +93399,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: いえ
       position: 4
 - id: border_ep4_0.25.16.690-0.25.18.024
@@ -91492,9 +93490,13 @@
   words:
     - word: 赤井
       position: 1
+      tags:
+        - silent
     - word: あかい
       base: 赤い
       position: 4
+      tags:
+        - silent
     - word: スイング
       position: 10
     - word: し
@@ -92792,6 +94794,8 @@
   words:
     - word: ガーファンクル
       position: 1
+      tags:
+        - silent
     - word: 光
       position: 9
     - word: 合成
@@ -92804,6 +94808,8 @@
   words:
     - word: サイモン
       position: 1
+      tags:
+        - silent
     - word: 日焼け
       position: 7
     - word: し
@@ -92825,6 +94831,8 @@
   words:
     - word: ガーファンクル
       position: 1
+      tags:
+        - silent
     - word: で
       position: 10
     - word: 今日
@@ -92871,6 +94879,8 @@
   words:
     - word: サイモン
       position: 1
+      tags:
+        - silent
     - word: ああ
       position: 6
 - id: border_ep4_0.29.51.757-0.29.55.024
@@ -92937,6 +94947,8 @@
   words:
     - word: サイモン
       position: 1
+      tags:
+        - silent
     - word: 了解
       position: 6
 - id: border_ep4_0.30.06.390-0.30.09.057
@@ -92949,6 +94961,8 @@
   words:
     - word: ガーファンクル
       position: 1
+      tags:
+        - silent
     - word: 爆弾
       position: 10
     - word: 作り
@@ -93379,6 +95393,8 @@
       base: すく
       dictionary: すく
       position: 6
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -93454,6 +95470,8 @@
   words:
     - word: サイモン
       position: 1
+      tags:
+        - silent
     - word: ところ
       base: 所
       position: 7
@@ -93797,6 +95815,8 @@
   words:
     - word: ガーファンクル
       position: 1
+      tags:
+        - silent
     - word: それ
       base: 其れ
       position: 10
@@ -93916,6 +95936,8 @@
   words:
     - word: ガーファンクル
       position: 1
+      tags:
+        - silent
     - word: それ
       base: 其れ
       position: 11
@@ -94295,6 +96317,8 @@
   words:
     - word: ライアン
       position: 1
+      tags:
+        - silent
     - word: どちら
       position: 6
 - id: border_ep4_0.33.30.124-0.33.31.757
@@ -94305,6 +96329,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 宅配
       position: 4
     - word: 便
@@ -94569,6 +96595,8 @@
   words:
     - word: ライアン
       position: 1
+      tags:
+        - silent
     - word: バイト
       position: 7
     - word: 仲間
@@ -95154,10 +97182,16 @@
       base: 止む
       dictionary: やむ
       position: 5
+      tags:
+        - silent
     - word: き
       position: 7
+      tags:
+        - silent
     - word: こういち
       position: 8
+      tags:
+        - silent
 - id: border_ep4_0.35.19.024-0.35.20.657
   deck_name: Border
   translation: Do you know his address?
@@ -95222,8 +97256,12 @@
     - word: 八
       base: '8'
       position: 1
+      tags:
+        - silent
     - word: 巻
       position: 2
+      tags:
+        - silent
     - word: すい
       base: すむ
       dictionary: すむ
@@ -95292,6 +97330,8 @@
   words:
     - word: ホームレス
       position: 1
+      tags:
+        - silent
     - word: 何
       position: 8
     - word: を
@@ -95319,8 +97359,12 @@
     - word: 八
       base: '8'
       position: 1
+      tags:
+        - silent
     - word: 巻
       position: 2
+      tags:
+        - silent
     - word: 感染
       position: 5
     - word: 症
@@ -95479,8 +97523,12 @@
     - word: 八
       base: '8'
       position: 1
+      tags:
+        - silent
     - word: 巻
       position: 2
+      tags:
+        - silent
     - word: おとなしく
       base: 大人しい
       dictionary: おとなしい
@@ -95540,6 +97588,8 @@
   words:
     - word: 女
       position: 1
+      tags:
+        - silent
     - word: 何
       position: 3
     - word: です
@@ -95554,6 +97604,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 八巻
       position: 4
     - word: さん
@@ -95659,6 +97711,8 @@
   words:
     - word: 女
       position: 1
+      tags:
+        - silent
     - word: ３
       base: '3'
       dictionary: '3'
@@ -95733,6 +97787,8 @@
       position: 0
     - word: かわしま
       position: 3
+      tags:
+        - silent
     - word: 女子
       position: 8
     - word: 体育
@@ -95822,6 +97878,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: ちょっと
       base: 一寸
       position: 4
@@ -95855,6 +97913,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 爆弾
       position: 5
     - word: 処理
@@ -95987,6 +98047,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 俺
       position: 5
     - word: たち
@@ -96089,10 +98151,16 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: の
       position: 3
+      tags:
+        - silent
     - word: 大声
       position: 4
+      tags:
+        - silent
 - id: border_ep4_0.38.54.624-0.38.57.357
   deck_name: Border
   translation: What are you guys doing out on the scene again?
@@ -96101,6 +98169,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: ったく
       base: 全く
       position: 5
@@ -96129,6 +98199,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: いや
       base: 否
       position: 4
@@ -96184,6 +98256,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: 分かっ
       base: 分かる
       dictionary: 分かる
@@ -96295,8 +98369,12 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 石川
       position: 4
+      tags:
+        - silent
     - word: はい
       position: 7
 - id: border_ep4_0.39.46.357-0.39.47.724
@@ -96307,6 +98385,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: ごめん
       base: 御免
       position: 4
@@ -96328,6 +98408,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: 今
       position: 4
     - word: どこ
@@ -96435,6 +98517,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 何
       position: 5
     - word: だ
@@ -96716,6 +98800,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 立花
       position: 4
 - id: border_ep4_0.41.12.757-0.41.14.090
@@ -96726,6 +98812,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: どう
       position: 4
     - word: し
@@ -96742,6 +98830,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 警察
       position: 5
     - word: 官
@@ -96752,8 +98842,12 @@
       position: 9
     - word: ふん
       position: 12
+      tags:
+        - silent
     - word: そう
       position: 14
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -96866,8 +98960,12 @@
     - word: 八
       base: '8'
       position: 1
+      tags:
+        - silent
     - word: 巻
       position: 2
+      tags:
+        - silent
     - word: 離せ
       base: 離す
       dictionary: 離す
@@ -96880,8 +98978,12 @@
   words:
     - word: 鑑識
       position: 1
+      tags:
+        - silent
     - word: 官
       position: 3
+      tags:
+        - silent
     - word: 爆弾
       position: 5
     - word: だ
@@ -96894,6 +98996,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: そう
       position: 4
     - word: いえ
@@ -97051,6 +99155,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 警察
       position: 4
     - word: 官
@@ -97245,6 +99351,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: 俺
       position: 5
     - word: の
@@ -97316,6 +99424,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 素直
       position: 4
     - word: じゃ
@@ -97423,8 +99533,12 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 石川
       position: 4
+      tags:
+        - silent
     - word: はい
       position: 7
 - id: border_ep4_0.44.36.724-0.44.38.757
@@ -97435,6 +99549,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: いい
       base: 良い
       position: 4
@@ -97452,6 +99568,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: そう
       position: 4
     - word: ね
@@ -97464,6 +99582,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 話す
       position: 5
     - word: こと
@@ -97482,6 +99602,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: ない
       base: 無い
       position: 4
@@ -97495,6 +99617,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 倦怠
       position: 5
     - word: 期
@@ -97523,6 +99647,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: そう
       position: 4
     - word: だ
@@ -97651,6 +99777,8 @@
   words:
     - word: 母親
       position: 1
+      tags:
+        - silent
     - word: ねえ
       base: ね
       position: 4
@@ -97667,6 +99795,8 @@
   words:
     - word: 娘
       position: 1
+      tags:
+        - silent
     - word: いら
       base: いる
       dictionary: いる
@@ -97745,6 +99875,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: 私
       position: 4
     - word: は
@@ -97797,12 +99929,18 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: いち
       base: 位置
       position: 4
+      tags:
+        - silent
     - word: くら
       base: 蔵
       position: 6
+      tags:
+        - silent
     - word: ご
       base: 御
       position: 10
@@ -97818,10 +99956,16 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: ひ
       position: 4
+      tags:
+        - silent
     - word: が
       position: 5
+      tags:
+        - silent
     - word: お
       base: 御
       position: 8
@@ -97840,12 +99984,18 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: いしかわ
       position: 4
+      tags:
+        - silent
     - word: おす
       position: 10
     - word: 比嘉
       position: 14
+      tags:
+        - silent
     - word: おす
       position: 17
 - id: border_ep5_0.00.58.180-0.00.59.648
@@ -97856,9 +100006,13 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: たちばな
       base: 橘
       position: 4
+      tags:
+        - silent
     - word: おう
       base: おお
       position: 10
@@ -97870,6 +100024,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: どんな
       position: 4
     - word: 感じ
@@ -97884,6 +100040,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: 異状
       position: 5
     - word: 死
@@ -97973,6 +100131,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: そう
       position: 4
     - word: か
@@ -97989,6 +100149,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: ありがとう
       base: 有り難う
       position: 5
@@ -98006,6 +100168,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: じゃ
       base: で
       position: 4
@@ -98016,6 +100180,8 @@
       position: 9
     - word: 石川
       position: 12
+      tags:
+        - silent
     - word: おう
       base: おお
       position: 15
@@ -98027,6 +100193,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: あと
       base: 後
       position: 4
@@ -98044,6 +100212,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: だいぶ
       base: 大分
       position: 5
@@ -98071,6 +100241,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: そう
       position: 4
     - word: す
@@ -98086,10 +100258,16 @@
   words:
     - word: 所轄
       position: 1
+      tags:
+        - silent
     - word: の
       position: 3
+      tags:
+        - silent
     - word: 刑事
       position: 4
+      tags:
+        - silent
     - word: ご
       base: 御
       position: 8
@@ -98108,6 +100286,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: ご
       base: 御
       position: 4
@@ -98123,10 +100303,16 @@
   words:
     - word: 所轄
       position: 1
+      tags:
+        - silent
     - word: の
       position: 3
+      tags:
+        - silent
     - word: 刑事
       position: 4
+      tags:
+        - silent
     - word: 死体
       position: 8
     - word: が
@@ -98396,6 +100582,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: 身元
       position: 4
     - word: は
@@ -98408,10 +100596,16 @@
   words:
     - word: 所轄
       position: 1
+      tags:
+        - silent
     - word: の
       position: 3
+      tags:
+        - silent
     - word: 刑事
       position: 4
+      tags:
+        - silent
     - word: 分かっ
       base: 分かる
       dictionary: 分かる
@@ -98560,6 +100754,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: 携帯
       position: 5
     - word: 電話
@@ -98588,10 +100784,16 @@
   words:
     - word: 所轄
       position: 1
+      tags:
+        - silent
     - word: の
       position: 3
+      tags:
+        - silent
     - word: 刑事
       position: 4
+      tags:
+        - silent
     - word: はい
       position: 7
 - id: border_ep5_0.02.01.878-0.02.03.211
@@ -98602,6 +100804,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: とら
       base: 取る
       dictionary: とる
@@ -98673,10 +100877,16 @@
   words:
     - word: 所轄
       position: 1
+      tags:
+        - silent
     - word: の
       position: 3
+      tags:
+        - silent
     - word: 刑事
       position: 4
+      tags:
+        - silent
     - word: この
       base: 此の
       position: 8
@@ -98794,6 +101004,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 結婚
       position: 5
     - word: 指輪
@@ -98858,6 +101070,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: 夫
       position: 5
     - word: に
@@ -99135,6 +101349,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: この
       base: 此の
       position: 5
@@ -99156,10 +101372,16 @@
   words:
     - word: 所轄
       position: 1
+      tags:
+        - silent
     - word: の
       position: 3
+      tags:
+        - silent
     - word: 刑事
       position: 4
+      tags:
+        - silent
     - word: 家族
       position: 8
     - word: 全員
@@ -99211,6 +101433,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 強盗
       position: 5
     - word: に
@@ -99305,6 +101529,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: そんな
       position: 5
     - word: に
@@ -99378,6 +101604,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: いや
       base: 否
       position: 5
@@ -99398,6 +101626,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: 一体
       position: 4
     - word: 何
@@ -99427,8 +101657,12 @@
   words:
     - word: 小声
       position: 1
+      tags:
+        - silent
     - word: で
       position: 3
+      tags:
+        - silent
     - word: こっち
       base: 此方
       position: 6
@@ -99478,6 +101712,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: 全く
       position: 3
     - word: 思い
@@ -99503,6 +101739,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: 何
       position: 4
     - word: やっ
@@ -99596,6 +101834,8 @@
     - word: わり
       base: 割
       position: 5
+      tags:
+        - silent
     - word: いな
       base: 否
       position: 8
@@ -99872,8 +102112,12 @@
   words:
     - word: 小声
       position: 1
+      tags:
+        - silent
     - word: で
       position: 3
+      tags:
+        - silent
     - word: 黙れ
       base: 黙る
       dictionary: 黙る
@@ -99970,6 +102214,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: かわいそう
       base: 可哀想
       position: 4
@@ -99991,6 +102237,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 死因
       position: 4
     - word: は
@@ -100011,11 +102259,15 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: 乖離
       position: 5
     - word: かいり
       base: 乖離
       position: 8
+      tags:
+        - silent
     - word: 性
       position: 12
     - word: 大
@@ -100026,12 +102278,18 @@
       position: 16
     - word: だいどう
       position: 18
+      tags:
+        - silent
     - word: みゃく
       base: 脈
       position: 22
+      tags:
+        - silent
     - word: りゅう
       base: 竜
       position: 25
+      tags:
+        - silent
     - word: に
       position: 29
     - word: よる
@@ -100142,6 +102400,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: それ
       base: 其れ
       position: 4
@@ -100165,6 +102425,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: 胸
       position: 5
     - word: に
@@ -100296,6 +102558,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: やっぱり
       base: 矢張り
       position: 5
@@ -100325,6 +102589,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: 右
       position: 5
     - word: の
@@ -100387,6 +102653,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 頭
       position: 5
     - word: を
@@ -100459,8 +102727,12 @@
   words:
     - word: 鑑識
       position: 1
+      tags:
+        - silent
     - word: 官
       position: 3
+      tags:
+        - silent
     - word: 現場
       position: 6
     - word: で
@@ -100474,8 +102746,12 @@
       position: 11
     - word: の
       position: 14
+      tags:
+        - silent
     - word: もと
       position: 15
+      tags:
+        - silent
     - word: 家
       position: 18
     - word: の
@@ -100621,8 +102897,12 @@
   words:
     - word: 管理
       position: 1
+      tags:
+        - silent
     - word: 官
       position: 3
+      tags:
+        - silent
     - word: はい
       position: 5
     - word: 次
@@ -100635,10 +102915,16 @@
   words:
     - word: 所轄
       position: 1
+      tags:
+        - silent
     - word: の
       position: 3
+      tags:
+        - silent
     - word: 刑事
       position: 4
+      tags:
+        - silent
     - word: はい
       position: 7
 - id: border_ep5_0.07.07.749-0.07.10.552
@@ -100679,6 +102965,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: 私
       position: 3
     - word: の
@@ -100773,8 +103061,12 @@
   words:
     - word: 管理
       position: 1
+      tags:
+        - silent
     - word: 官
       position: 3
+      tags:
+        - silent
     - word: はい
       position: 5
     - word: 次
@@ -101805,6 +104097,8 @@
   words:
     - word: 笑い声
       position: 1
+      tags:
+        - silent
 - id: border_ep5_0.09.58.120-0.10.00.221
   deck_name: Border
   translation: You're not even trying to remember.
@@ -102042,6 +104336,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 今
       position: 5
     - word: から
@@ -102068,6 +104364,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: 何
       position: 3
     - word: か
@@ -102090,6 +104388,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: 朝
       position: 4
     - word: って
@@ -102134,6 +104434,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 黒
       position: 5
     - word: の
@@ -102155,6 +104457,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: ニット
       position: 5
     - word: 帽
@@ -102196,6 +104500,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: ポケット
       position: 4
     - word: に
@@ -102214,6 +104520,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: かっこいい
       position: 3
 - id: border_ep5_0.13.00.736-0.13.02.203
@@ -102258,8 +104566,12 @@
   words:
     - word: 被疑
       position: 1
+      tags:
+        - silent
     - word: 者
       position: 3
+      tags:
+        - silent
     - word: 知ら
       base: 知る
       dictionary: 知る
@@ -102341,8 +104653,12 @@
   words:
     - word: 被疑
       position: 1
+      tags:
+        - silent
     - word: 者
       position: 3
+      tags:
+        - silent
     - word: ホント
       base: 本当
       position: 5
@@ -102446,6 +104762,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: ウソ
       base: うそ
       position: 4
@@ -102502,6 +104820,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 裏
       position: 4
     - word: が
@@ -102595,6 +104915,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: やっぱり
       base: 矢張り
       position: 3
@@ -102647,6 +104969,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: ノックアウト
       position: 5
     - word: 強盗
@@ -102740,10 +105064,16 @@
   words:
     - word: 所轄
       position: 1
+      tags:
+        - silent
     - word: の
       position: 3
+      tags:
+        - silent
     - word: 刑事
       position: 4
+      tags:
+        - silent
     - word: 現場
       position: 8
     - word: から
@@ -102822,6 +105152,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: ホント
       base: 本当
       position: 3
@@ -102835,10 +105167,16 @@
   words:
     - word: 所轄
       position: 1
+      tags:
+        - silent
     - word: の
       position: 3
+      tags:
+        - silent
     - word: 刑事
       position: 4
+      tags:
+        - silent
     - word: 財布
       position: 8
     - word: の
@@ -102945,11 +105283,17 @@
     - word: お
       base: 御
       position: 17
+      tags:
+        - silent
     - word: かべ
       base: 壁
       position: 18
+      tags:
+        - silent
     - word: よしたけ
       position: 20
+      tags:
+        - silent
     - word: 年齢
       position: 26
     - word: は
@@ -102968,6 +105312,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: 現金
       position: 5
     - word: や
@@ -102994,10 +105340,16 @@
   words:
     - word: 所轄
       position: 1
+      tags:
+        - silent
     - word: の
       position: 3
+      tags:
+        - silent
     - word: 刑事
       position: 4
+      tags:
+        - silent
     - word: 入っ
       base: 入る
       dictionary: 入る
@@ -103030,6 +105382,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: やっぱり
       base: 矢張り
       position: 5
@@ -103083,12 +105437,18 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 石川
       position: 4
+      tags:
+        - silent
     - word: はい
       position: 7
     - word: 男
       position: 11
+      tags:
+        - silent
     - word: はい
       position: 13
 - id: border_ep5_0.14.40.952-0.14.44.088
@@ -103152,6 +105512,8 @@
   words:
     - word: 店長
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 4
 - id: border_ep5_0.15.15.419-0.15.16.820
@@ -103178,8 +105540,12 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: 立花
       position: 3
+      tags:
+        - silent
     - word: ビンゴ
       position: 6
 - id: border_ep5_0.15.24.796-0.15.26.830
@@ -103190,6 +105556,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: この
       base: 此の
       position: 4
@@ -103289,15 +105657,25 @@
   words:
     - word: 高校
       position: 1
+      tags:
+        - silent
     - word: 生
       position: 3
+      tags:
+        - silent
     - word: たち
       base: 達
       position: 4
+      tags:
+        - silent
     - word: の
       position: 6
+      tags:
+        - silent
     - word: 話し声
       position: 7
+      tags:
+        - silent
 - id: border_ep5_0.15.47.018-0.15.50.521
   deck_name: Border
   translation: Two nights ago you threw a wallet in this trash can.
@@ -103306,6 +105684,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: ２
       base: '2'
       dictionary: '2'
@@ -103346,12 +105726,18 @@
   words:
     - word: 高校
       position: 1
+      tags:
+        - silent
     - word: 生
       position: 3
+      tags:
+        - silent
     - word: １
       base: '1'
       dictionary: '1'
       position: 4
+      tags:
+        - silent
     - word: 知り
       base: 知る
       dictionary: 知る
@@ -103377,6 +105763,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 財布
       position: 5
     - word: に
@@ -103442,12 +105830,18 @@
   words:
     - word: 高校
       position: 1
+      tags:
+        - silent
     - word: 生
       position: 3
+      tags:
+        - silent
     - word: ２
       base: '2'
       dictionary: '2'
       position: 4
+      tags:
+        - silent
     - word: 捨て
       base: 捨てる
       dictionary: 捨てる
@@ -103488,6 +105882,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 新聞
       position: 4
     - word: ぐらい
@@ -103507,6 +105903,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 財布
       position: 5
     - word: の
@@ -103587,6 +105985,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: じゃ
       base: で
       position: 5
@@ -104010,14 +106410,22 @@
       position: 2
     - word: じ
       position: 4
+      tags:
+        - silent
     - word: ば
       position: 5
+      tags:
+        - silent
     - word: くれ
       base: 呉れる
       dictionary: くれる
       position: 6
+      tags:
+        - silent
     - word: い
       position: 8
+      tags:
+        - silent
     - word: みたい
       position: 10
     - word: に
@@ -104497,6 +106905,8 @@
     - word: かた
       base: 方
       position: 6
+      tags:
+        - silent
     - word: じゃ
       base: だ
       dictionary: だ
@@ -104516,8 +106926,12 @@
   words:
     - word: 彩
       position: 1
+      tags:
+        - silent
     - word: あや
       position: 3
+      tags:
+        - silent
     - word: 警察
       position: 7
     - word: の
@@ -104538,6 +106952,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 4
 - id: border_ep5_0.19.11.723-0.19.13.557
@@ -104562,6 +106978,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: こちら
       base: 此方
       position: 4
@@ -104569,6 +106987,8 @@
       position: 7
     - word: 彩
       position: 10
+      tags:
+        - silent
     - word: はい
       position: 12
 - id: border_ep5_0.19.26.170-0.19.30.174
@@ -104579,6 +106999,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: 万が一
       position: 5
     - word: です
@@ -104633,6 +107055,8 @@
   words:
     - word: 彩
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 3
 - id: border_ep5_0.19.43.722-0.19.45.389
@@ -104859,6 +107283,8 @@
   words:
     - word: 彩
       position: 1
+      tags:
+        - silent
     - word: 名古屋
       position: 3
     - word: です
@@ -105372,6 +107798,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 何
       position: 5
     - word: か
@@ -105695,6 +108123,8 @@
   words:
     - word: 岡部
       position: 1
+      tags:
+        - silent
     - word: つき
       base: 付く
       dictionary: つく
@@ -105727,8 +108157,12 @@
   words:
     - word: 小声
       position: 1
+      tags:
+        - silent
     - word: で
       position: 3
+      tags:
+        - silent
     - word: そろそろ
       position: 6
     - word: ここ
@@ -108184,6 +110618,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: もっと
       position: 4
     - word: 大きな
@@ -108244,6 +110680,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: いかに
       base: 如何に
       position: 5
@@ -108290,6 +110728,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 奥さん
       position: 5
     - word: から
@@ -108322,6 +110762,8 @@
   words:
     - word: 岡部
       position: 1
+      tags:
+        - silent
     - word: これ
       base: 此れ
       position: 4
@@ -108343,6 +110785,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 死体
       position: 5
     - word: の
@@ -108472,8 +110916,12 @@
   words:
     - word: フロント
       position: 1
+      tags:
+        - silent
     - word: 係
       position: 5
+      tags:
+        - silent
     - word: これ
       base: 此れ
       position: 8
@@ -108789,6 +111237,8 @@
   words:
     - word: スズキ
       position: 1
+      tags:
+        - silent
     - word: 今日
       position: 6
     - word: の
@@ -108896,6 +111346,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 書い
       base: 書く
       dictionary: 書く
@@ -108922,6 +111374,8 @@
   words:
     - word: スズキ
       position: 1
+      tags:
+        - silent
     - word: こんな
       position: 6
     - word: 奇妙
@@ -109453,6 +111907,8 @@
   words:
     - word: 岡部
       position: 1
+      tags:
+        - silent
     - word: あの
       base: 彼の
       position: 5
@@ -109632,6 +112088,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: もし
       base: 若し
       position: 4
@@ -109689,6 +112147,8 @@
   words:
     - word: 岡部
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 4
 - id: border_ep5_0.33.20.770-0.33.25.541
@@ -109699,6 +112159,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: で
       position: 5
     - word: も
@@ -109737,6 +112199,8 @@
   words:
     - word: 岡部
       position: 1
+      tags:
+        - silent
     - word: 恥ずかしい
       position: 4
     - word: 話
@@ -109758,6 +112222,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 今更
       position: 4
     - word: 何
@@ -109807,6 +112273,8 @@
   words:
     - word: 岡部
       position: 1
+      tags:
+        - silent
     - word: 絶対
       position: 5
     - word: に
@@ -110205,6 +112673,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 失礼
       position: 4
     - word: です
@@ -110498,6 +112968,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 電信
       position: 5
     - word: 柱
@@ -110683,6 +113155,8 @@
   words:
     - word: 彩
       position: 1
+      tags:
+        - silent
     - word: そう
       position: 3
     - word: です
@@ -110749,6 +113223,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 4
 - id: border_ep5_0.36.36.233-0.36.38.234
@@ -111403,6 +113879,8 @@
   words:
     - word: 岡部
       position: 1
+      tags:
+        - silent
     - word: 彩
       position: 6
     - word: と
@@ -111411,6 +113889,8 @@
       position: 8
     - word: みか
       position: 11
+      tags:
+        - silent
     - word: へ
       position: 14
 - id: border_ep5_0.38.49.366-0.38.54.070
@@ -112420,6 +114900,8 @@
   words:
     - word: 岡部
       position: 1
+      tags:
+        - silent
     - word: その
       base: 其の
       position: 5
@@ -112475,6 +114957,8 @@
   words:
     - word: 岡部
       position: 1
+      tags:
+        - silent
     - word: あっ
       position: 4
     - word: それ
@@ -112601,6 +115085,8 @@
   words:
     - word: 美夏
       position: 1
+      tags:
+        - silent
     - word: 川
       position: 5
     - word: 川
@@ -112613,6 +115099,8 @@
   words:
     - word: 彩
       position: 1
+      tags:
+        - silent
     - word: 川
       position: 4
 - id: border_ep5_0.42.39.529-0.42.41.197
@@ -112623,6 +115111,8 @@
   words:
     - word: 岡部
       position: 1
+      tags:
+        - silent
     - word: 川
       position: 5
     - word: じゃ
@@ -112661,8 +115151,12 @@
   words:
     - word: 岡部
       position: 1
+      tags:
+        - silent
     - word: 彩
       position: 4
+      tags:
+        - silent
     - word: 川
       position: 7
     - word: の
@@ -112677,6 +115171,8 @@
   words:
     - word: 岡部
       position: 1
+      tags:
+        - silent
     - word: この
       base: 此の
       position: 4
@@ -112739,6 +115235,8 @@
   words:
     - word: 岡部
       position: 1
+      tags:
+        - silent
     - word: そう
       position: 4
     - word: な
@@ -112760,6 +115258,8 @@
   words:
     - word: 岡部
       position: 1
+      tags:
+        - silent
     - word: いく
       base: 行く
       position: 5
@@ -112773,6 +115273,8 @@
   words:
     - word: 彩
       position: 1
+      tags:
+        - silent
     - word: そう
       position: 4
     - word: そう
@@ -112851,6 +115353,8 @@
   words:
     - word: 岡部
       position: 1
+      tags:
+        - silent
     - word: 怖く
       base: 怖い
       dictionary: 怖い
@@ -113089,12 +115593,18 @@
   words:
     - word: 久保田
       position: 1
+      tags:
+        - silent
     - word: くぼた
       position: 5
+      tags:
+        - silent
     - word: 舞子
       position: 10
     - word: まいこ
       position: 13
+      tags:
+        - silent
 - id: border_ep6_0.01.43.070-0.01.44.670
   deck_name: Border
   translation: Are you there?
@@ -113145,10 +115655,16 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: ひ
       position: 4
+      tags:
+        - silent
     - word: が
       position: 5
+      tags:
+        - silent
     - word: お
       base: 御
       position: 8
@@ -113167,12 +115683,20 @@
   words:
     - word: 鴨川
       position: 1
+      tags:
+        - silent
     - word: か
       position: 4
+      tags:
+        - silent
     - word: も
       position: 5
+      tags:
+        - silent
     - word: がわ
       position: 6
+      tags:
+        - silent
     - word: 自殺
       position: 10
     - word: だ
@@ -113248,6 +115772,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: すい
       base: すむ
       dictionary: すむ
@@ -113262,6 +115788,8 @@
       position: 8
     - word: 刑事
       position: 11
+      tags:
+        - silent
     - word: はい
       position: 14
 - id: border_ep6_0.04.40.403-0.04.42.703
@@ -113296,6 +115824,8 @@
   words:
     - word: 刑事
       position: 1
+      tags:
+        - silent
     - word: 屋上
       position: 4
     - word: から
@@ -113332,8 +115862,12 @@
   words:
     - word: 鑑識
       position: 1
+      tags:
+        - silent
     - word: 官
       position: 3
+      tags:
+        - silent
     - word: バッチリ
       base: ばっちり
       position: 6
@@ -113408,8 +115942,12 @@
   words:
     - word: 鑑識
       position: 1
+      tags:
+        - silent
     - word: 官
       position: 3
+      tags:
+        - silent
     - word: そう
       position: 5
     - word: です
@@ -113449,6 +115987,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: こんな
       position: 5
     - word: ふう
@@ -113508,8 +116048,12 @@
   words:
     - word: 鑑識
       position: 1
+      tags:
+        - silent
     - word: 官
       position: 3
+      tags:
+        - silent
     - word: はい
       position: 5
 - id: border_ep6_0.05.21.636-0.05.23.803
@@ -113543,6 +116087,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: この
       base: 此の
       position: 5
@@ -113662,6 +116208,8 @@
   words:
     - word: 刑事
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 4
 - id: border_ep6_0.05.35.836-0.05.39.270
@@ -113716,6 +116264,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: これ
       base: 此れ
       position: 5
@@ -113753,6 +116303,8 @@
   words:
     - word: 刑事
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 4
 - id: border_ep6_0.05.49.436-0.05.51.503
@@ -113916,6 +116468,8 @@
   words:
     - word: 刑事
       position: 1
+      tags:
+        - silent
     - word: それ
       base: 其れ
       position: 4
@@ -113936,6 +116490,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: 両端
       position: 5
     - word: が
@@ -114224,6 +116780,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: すい
       base: すむ
       dictionary: すむ
@@ -114274,6 +116832,8 @@
   words:
     - word: 久保田
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 5
 - id: border_ep6_0.07.02.136-0.07.03.936
@@ -114939,12 +117499,18 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: いち
       base: 位置
       position: 4
+      tags:
+        - silent
     - word: くら
       base: 蔵
       position: 6
+      tags:
+        - silent
     - word: おはよう
       base: 御早う
       position: 10
@@ -114956,6 +117522,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: あっ
       position: 4
     - word: おはよう
@@ -115019,6 +117587,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: やっと
       base: 漸と
       position: 4
@@ -115081,6 +117651,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: そっ
       base: そう
       position: 4
@@ -115094,6 +117666,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: もし
       base: 若し
       position: 4
@@ -115113,6 +117687,8 @@
   words:
     - word: 市倉
       position: 1
+      tags:
+        - silent
     - word: いや
       base: 否
       position: 4
@@ -115184,6 +117760,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 殺し
       position: 4
     - word: です
@@ -115201,6 +117779,8 @@
       position: 13
     - word: 市倉
       position: 15
+      tags:
+        - silent
     - word: いや
       base: 否
       position: 18
@@ -115833,9 +118413,13 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: たちばな
       base: 橘
       position: 4
+      tags:
+        - silent
     - word: はい
       position: 10
 - id: border_ep6_0.11.35.636-0.11.37.636
@@ -115846,15 +118430,23 @@
   words:
     - word: 宮里
       position: 1
+      tags:
+        - silent
     - word: みや
       base: 宮
       position: 4
+      tags:
+        - silent
     - word: ざと
       base: 里
       position: 6
+      tags:
+        - silent
     - word: たち
       base: 達
       position: 9
+      tags:
+        - silent
     - word: こんにちは
       base: 今日は
       position: 12
@@ -115866,6 +118458,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 解剖
       position: 4
     - word: は
@@ -115878,6 +118472,8 @@
   words:
     - word: 宮里
       position: 1
+      tags:
+        - silent
     - word: 連絡
       position: 5
     - word: が
@@ -116065,6 +118661,8 @@
     - word: けいつい
       base: 頚椎
       position: 5
+      tags:
+        - silent
     - word: が
       position: 10
     - word: 折れ
@@ -116083,6 +118681,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: よく
       base: 良く
       position: 4
@@ -116378,6 +118978,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: おい
       position: 5
     - word: おい
@@ -116575,6 +119177,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: それ
       base: 其れ
       position: 4
@@ -116596,6 +119200,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: 死ぬ
       position: 5
     - word: 間際
@@ -116706,6 +119312,8 @@
       position: 5
     - word: べんけい
       position: 8
+      tags:
+        - silent
     - word: の
       position: 13
     - word: 立
@@ -116724,6 +119332,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: そう
       position: 4
 - id: border_ep6_0.13.50.503-0.13.53.636
@@ -116764,6 +119374,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: その
       base: 其の
       position: 5
@@ -117556,6 +120168,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: フッ
       base: ふっ
       position: 5
@@ -117616,6 +120230,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: 不審
       position: 5
     - word: 死
@@ -117965,6 +120581,8 @@
     - word: ちゅうちょ
       base: 躊躇
       position: 3
+      tags:
+        - silent
     - word: なく
       base: 無い
       dictionary: ない
@@ -117994,11 +120612,17 @@
   words:
     - word: 橋爪
       position: 1
+      tags:
+        - silent
     - word: はし
       position: 4
+      tags:
+        - silent
     - word: づめ
       base: つめ
       position: 6
+      tags:
+        - silent
     - word: 失礼
       position: 10
     - word: し
@@ -118058,6 +120682,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: ありがとう
       base: 有り難う
       position: 4
@@ -118347,6 +120973,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: チョコレート
       position: 4
     - word: です
@@ -118361,6 +120989,8 @@
   words:
     - word: 久保田
       position: 1
+      tags:
+        - silent
     - word: 死のう
       base: 死ぬ
       dictionary: 死ぬ
@@ -118559,6 +121189,8 @@
   words:
     - word: 久保田
       position: 1
+      tags:
+        - silent
     - word: 遺書
       position: 5
     - word: も
@@ -118664,6 +121296,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: お
       base: 御
       position: 5
@@ -118717,6 +121351,8 @@
   words:
     - word: 鴨川
       position: 1
+      tags:
+        - silent
     - word: １人暮らし
       base: 独り暮らし
       dictionary: 1人暮らし
@@ -118966,6 +121602,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: 眼鏡
       position: 5
     - word: を
@@ -119114,6 +121752,8 @@
   words:
     - word: 鴨川
       position: 1
+      tags:
+        - silent
     - word: 君
       position: 5
     - word: は
@@ -119329,9 +121969,13 @@
       position: 1
     - word: へ
       position: 4
+      tags:
+        - silent
     - word: りくつ
       base: 理屈
       position: 5
+      tags:
+        - silent
     - word: だ
       position: 9
     - word: な
@@ -119368,6 +122012,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: 空
       position: 4
     - word: から
@@ -119387,6 +122033,8 @@
       position: 14
     - word: 鴨川
       position: 16
+      tags:
+        - silent
     - word: 屋上
       position: 19
     - word: だ
@@ -119401,6 +122049,8 @@
   words:
     - word: 鴨川
       position: 1
+      tags:
+        - silent
     - word: 他殺
       position: 5
     - word: の
@@ -119508,6 +122158,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: これ
       base: 此れ
       position: 4
@@ -119654,6 +122306,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 偶然
       position: 5
     - word: に
@@ -119717,6 +122371,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: ダンテ
       position: 4
     - word: の
@@ -119725,8 +122381,12 @@
       position: 9
     - word: しん
       position: 12
+      tags:
+        - silent
     - word: きょく
       position: 14
+      tags:
+        - silent
     - word: の
       position: 19
     - word: 中
@@ -120183,6 +122843,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 犯人
       position: 5
     - word: は
@@ -120593,6 +123255,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: 遺体
       position: 5
     - word: 保管
@@ -120768,8 +123432,12 @@
   words:
     - word: 佳子
       position: 1
+      tags:
+        - silent
     - word: けいこ
       position: 4
+      tags:
+        - silent
     - word: 自殺
       position: 9
     - word: なんて
@@ -121196,13 +123864,19 @@
   words:
     - word: 佳子
       position: 1
+      tags:
+        - silent
     - word: 代々木
       position: 4
     - word: よ
       position: 8
+      tags:
+        - silent
     - word: よぎ
       base: 余儀
       position: 9
+      tags:
+        - silent
     - word: に
       position: 12
     - word: ある
@@ -121218,6 +123892,8 @@
       position: 0
     - word: かわしま
       position: 3
+      tags:
+        - silent
     - word: メンタル
       position: 8
     - word: クリニック
@@ -121612,6 +124288,8 @@
   words:
     - word: 佳子
       position: 1
+      tags:
+        - silent
     - word: 私
       position: 4
     - word: の
@@ -121837,6 +124515,8 @@
     - word: 受付
       base: 受け付け
       position: 1
+      tags:
+        - silent
     - word: こんにちは
       base: 今日は
       position: 5
@@ -121861,6 +124541,8 @@
   words:
     - word: 河島
       position: 1
+      tags:
+        - silent
     - word: 自殺
       position: 5
     - word: で
@@ -121924,6 +124606,8 @@
   words:
     - word: 河島
       position: 1
+      tags:
+        - silent
     - word: これ
       base: 此れ
       position: 5
@@ -121961,6 +124645,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: そう
       position: 5
     - word: 考え
@@ -121995,6 +124681,8 @@
   words:
     - word: 河島
       position: 1
+      tags:
+        - silent
     - word: だ
       position: 5
     - word: と
@@ -122187,6 +124875,8 @@
   words:
     - word: 河島
       position: 1
+      tags:
+        - silent
     - word: そんな
       position: 5
     - word: こと
@@ -122252,6 +124942,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: また
       base: 又
       position: 4
@@ -122269,6 +124961,8 @@
   words:
     - word: ガーファンクル
       position: 1
+      tags:
+        - silent
     - word: 石川
       position: 10
     - word: さん
@@ -122457,6 +125151,8 @@
   words:
     - word: サイモン
       position: 1
+      tags:
+        - silent
     - word: 早速
       position: 7
     - word: だ
@@ -122614,6 +125310,8 @@
   words:
     - word: サイモン
       position: 1
+      tags:
+        - silent
     - word: 旅行
       position: 7
     - word: 会社
@@ -122780,6 +125478,8 @@
   words:
     - word: ガーファンクル
       position: 1
+      tags:
+        - silent
     - word: すごく
       base: 凄い
       dictionary: すごい
@@ -122827,6 +125527,8 @@
   words:
     - word: ガーファンクル
       position: 1
+      tags:
+        - silent
     - word: ２人
       base: 二人
       dictionary: 2人
@@ -122855,6 +125557,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 俺
       position: 4
     - word: に
@@ -123819,6 +126523,8 @@
   words:
     - word: サイモン
       position: 1
+      tags:
+        - silent
     - word: これ
       base: 此れ
       position: 7
@@ -123935,6 +126641,8 @@
   words:
     - word: ガーファンクル
       position: 1
+      tags:
+        - silent
     - word: 削除
       position: 10
     - word: さ
@@ -124475,6 +127183,8 @@
   words:
     - word: ガーファンクル
       position: 1
+      tags:
+        - silent
     - word: 携帯
       position: 10
     - word: 電話
@@ -124513,6 +127223,8 @@
   words:
     - word: サイモン
       position: 1
+      tags:
+        - silent
     - word: こっち
       base: 此方
       position: 7
@@ -124786,6 +127498,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: 彼女
       position: 5
     - word: たち
@@ -125245,6 +127959,8 @@
     - word: 受付
       base: 受け付け
       position: 1
+      tags:
+        - silent
     - word: 何
       position: 4
     - word: でしょう
@@ -125463,6 +128179,8 @@
     - word: 受付
       base: 受け付け
       position: 1
+      tags:
+        - silent
     - word: 津川
       position: 4
     - word: 利雄
@@ -125471,8 +128189,12 @@
       base: 番う
       dictionary: つがう
       position: 9
+      tags:
+        - silent
     - word: としお
       position: 12
+      tags:
+        - silent
     - word: 医師
       position: 16
     - word: です
@@ -125541,6 +128263,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: おう
       base: おお
       position: 4
@@ -125586,6 +128310,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 何
       position: 5
     - word: か
@@ -125773,6 +128499,8 @@
   words:
     - word: 女
       position: 1
+      tags:
+        - silent
     - word: は
       position: 3
     - word: はい
@@ -125785,6 +128513,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 部屋
       position: 4
     - word: の
@@ -125811,6 +128541,8 @@
   words:
     - word: 立花
       position: 1
+      tags:
+        - silent
     - word: 女の子
       position: 4
     - word: の
@@ -125858,6 +128590,8 @@
   words:
     - word: 津川
       position: 1
+      tags:
+        - silent
     - word: 自殺
       position: 5
     - word: 未遂
@@ -125956,6 +128690,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: 彼女
       position: 5
     - word: たち
@@ -125997,6 +128733,8 @@
   words:
     - word: 津川
       position: 1
+      tags:
+        - silent
     - word: それ
       base: 其れ
       position: 5
@@ -126029,6 +128767,8 @@
   words:
     - word: 石川
       position: 1
+      tags:
+        - silent
     - word: どう
       position: 5
     - word: し
@@ -126057,6 +128797,8 @@
   words:
     - word: 津川
       position: 1
+      tags:
+        - silent
     - word: 俺
       position: 4
     - word: を
@@ -126622,6 +129364,8 @@
   words:
     - word: 比嘉
       position: 1
+      tags:
+        - silent
     - word: ご
       base: 御
       position: 4

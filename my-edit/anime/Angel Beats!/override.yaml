@@ -1,13 +1,21 @@
 - id: Angel_Beats!_2_313_0.18.48.300
   deck_name: Angel Beats!
-  translation: OK!
+  translation: No!
   sound: Angel_Beats!_2_0.18.48.200-0.18.50.990.mp3
   sentence: はい（おっす）
   words:
     - word: はい
       position: 0
-    - word: おっす
+    - word: おっ
+      base: 御
       position: 3
+      tags:
+        - silent
+    - word: す
+      base: 為る
+      position: 5
+      tags:
+        - silent
 - id: Angel_Beats!_4_248_0.12.25.730
   deck_name: Angel Beats!
   translation: Fight!
@@ -16,6 +24,22 @@
   words:
     - word: ファイト
       position: 0
+    - word: Fight
+      base: fight
+      dictionary: fight
+      position: 5
+      tags:
+        - silent
+    - word: おお
+      position: 13
+    - word: おぉ
+      base: おお
+      position: 15
+    - word: ー
+      position: 17
+    - word: ッ
+      base: つ
+      position: 18
 - id: Angel_Beats!_4_251_0.12.35.430
   deck_name: Angel Beats!
   translation: Play ball!
@@ -27,6 +51,10 @@
     - word: ボール
       base: ボウル
       position: 3
+    - word: play ball
+      position: 7
+      tags:
+        - silent
 - id: Angel_Beats!_4_318_0.16.14.860
   deck_name: Angel Beats!
   translation: Play ball!
@@ -38,6 +66,10 @@
     - word: ボール
       base: ボウル
       position: 3
+    - word: play ball
+      position: 7
+      tags:
+        - silent
 - id: Angel_Beats!_4_401_0.22.01.920
   deck_name: Angel Beats!
   translation: You little...
@@ -48,7 +80,11 @@
       base: 死ぬ
       dictionary: 死ぬ
       position: 1
+      tags:
+        - silent
     - word: 死ね
       base: 死ぬ
       dictionary: 死ぬ
       position: 4
+      tags:
+        - silent

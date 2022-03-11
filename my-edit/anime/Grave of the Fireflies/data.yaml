@@ -820,6 +820,8 @@
   words:
     - word: 節
       position: 1
+      tags:
+        - silent
     - word: ちゃん
       position: 3
     - word: お
@@ -1381,6 +1383,8 @@
       position: 7
     - word: 節子
       position: 11
+      tags:
+        - silent
 - id: A_HotarunoHaka_041
   deck_name: Grave of the Fireflies
   translation: I lost one of my Geta.
@@ -1488,6 +1492,8 @@
   words:
     - word: 節子
       position: 1
+      tags:
+        - silent
     - word: は
       position: 4
     - word: 金持ち
@@ -1771,6 +1777,8 @@
   words:
     - word: 三浦
       position: 1
+      tags:
+        - silent
     - word: さん
       position: 4
     - word: 直撃
@@ -2130,6 +2138,8 @@
       position: 0
     - word: 清太
       position: 4
+      tags:
+        - silent
     - word: さん
       position: 7
 - id: A_HotarunoHaka_071
@@ -2140,6 +2150,8 @@
   words:
     - word: 清太
       position: 1
+      tags:
+        - silent
     - word: さん
       position: 4
     - word: お
@@ -2231,6 +2243,8 @@
       position: 4
     - word: 節
       position: 7
+      tags:
+        - silent
     - word: ちゃん
       position: 9
     - word: 泣か
@@ -2292,6 +2306,8 @@
       position: 0
     - word: 清太
       position: 4
+      tags:
+        - silent
     - word: 君
       position: 7
     - word: 捜し
@@ -2979,6 +2995,8 @@
       position: 4
     - word: 節
       position: 7
+      tags:
+        - silent
     - word: ちゃん
       position: 9
 - id: A_HotarunoHaka_101
@@ -3542,6 +3560,8 @@
   words:
     - word: 節子
       position: 1
+      tags:
+        - silent
     - word: に
       position: 4
     - word: くれ
@@ -3790,6 +3810,8 @@
       position: 2
     - word: 清太
       position: 5
+      tags:
+        - silent
     - word: さん
       position: 8
     - word: 病院
@@ -3848,6 +3870,8 @@
       position: 12
     - word: 節
       position: 15
+      tags:
+        - silent
     - word: ちゃん
       position: 17
     - word: 連れ
@@ -4037,6 +4061,8 @@
   words:
     - word: 節子
       position: 1
+      tags:
+        - silent
     - word: に
       position: 4
     - word: 知ら
@@ -4189,6 +4215,8 @@
       position: 4
     - word: 節子
       position: 7
+      tags:
+        - silent
     - word: おかえりなさい
       position: 12
 - id: A_HotarunoHaka_146
@@ -4390,6 +4418,8 @@
       position: 1
     - word: 節子
       position: 4
+      tags:
+        - silent
     - word: 目ぇ
       base: 目
       position: 8
@@ -4555,6 +4585,8 @@
   words:
     - word: 清太
       position: 1
+      tags:
+        - silent
     - word: さん
       position: 4
     - word: あんた
@@ -4850,6 +4882,8 @@
       position: 16
     - word: 節
       position: 19
+      tags:
+        - silent
     - word: ちゃん
       position: 21
 - id: A_HotarunoHaka_171
@@ -5419,6 +5453,8 @@
       position: 0
     - word: 節子
       position: 5
+      tags:
+        - silent
     - word: 早う
       base: 早い
       dictionary: 早い
@@ -6046,6 +6082,8 @@
   words:
     - word: 清太
       position: 1
+      tags:
+        - silent
     - word: さん
       position: 4
     - word: も
@@ -6203,6 +6241,8 @@
       position: 1
     - word: 節
       position: 4
+      tags:
+        - silent
     - word: ちゃん
       position: 6
     - word: 起き
@@ -6351,6 +6391,8 @@
       position: 16
     - word: 節
       position: 19
+      tags:
+        - silent
     - word: ちゃん
       position: 21
 - id: A_HotarunoHaka_225
@@ -6401,6 +6443,8 @@
       position: 6
     - word: 節子
       position: 9
+      tags:
+        - silent
 - id: A_HotarunoHaka_227
   deck_name: Grave of the Fireflies
   translation: >-
@@ -6505,6 +6549,8 @@
   words:
     - word: 節
       position: 1
+      tags:
+        - silent
     - word: ちゃん
       position: 3
     - word: 白い
@@ -6865,6 +6911,8 @@
   words:
     - word: 清太
       position: 1
+      tags:
+        - silent
     - word: さん
       position: 4
     - word: な
@@ -7244,6 +7292,8 @@
       position: 3
     - word: 清太
       position: 6
+      tags:
+        - silent
     - word: さん
       position: 9
     - word: あんた
@@ -7622,6 +7672,8 @@
       position: 13
     - word: 節子
       position: 20
+      tags:
+        - silent
     - word: が
       position: 23
     - word: 待っ
@@ -7982,6 +8034,8 @@
   words:
     - word: 娘
       position: 1
+      tags:
+        - silent
     - word: お
       base: 御
       position: 3
@@ -8282,6 +8336,8 @@
       position: 25
     - word: 節子
       position: 29
+      tags:
+        - silent
     - word: みんな
       base: 皆
       position: 33
@@ -8327,8 +8383,12 @@
     - word: おば
       base: 伯母
       position: 1
+      tags:
+        - silent
     - word: さん
       position: 3
+      tags:
+        - silent
     - word: あれ
       position: 7
     - word: あれ
@@ -8449,6 +8509,8 @@
   words:
     - word: 清太
       position: 1
+      tags:
+        - silent
     - word: さん
       position: 4
     - word: こい
@@ -8906,6 +8968,8 @@
       position: 19
     - word: 節子
       position: 22
+      tags:
+        - silent
     - word: と
       position: 25
     - word: ２人
@@ -9071,6 +9135,8 @@
       position: 11
     - word: 節
       position: 15
+      tags:
+        - silent
     - word: ちゃん
       position: 17
     - word: さいなら
@@ -9401,6 +9467,8 @@
   words:
     - word: 節子
       position: 1
+      tags:
+        - silent
     - word: あと
       base: 後
       position: 5
@@ -9555,6 +9623,8 @@
       position: 12
     - word: 節子
       position: 16
+      tags:
+        - silent
     - word: も
       position: 19
     - word: する
@@ -9678,6 +9748,8 @@
   words:
     - word: 節子
       position: 1
+      tags:
+        - silent
     - word: の
       position: 4
     - word: 顔
@@ -9742,6 +9814,8 @@
       position: 4
     - word: 節子
       position: 7
+      tags:
+        - silent
     - word: の
       position: 10
     - word: 生まれる
@@ -10046,6 +10120,8 @@
   words:
     - word: 節子
       position: 1
+      tags:
+        - silent
     - word: 覚え
       base: 覚える
       dictionary: 覚える
@@ -11898,6 +11974,8 @@
   words:
     - word: 節子
       position: 1
+      tags:
+        - silent
     - word: メシ
       base: 飯
       position: 5
@@ -11982,6 +12060,8 @@
       position: 4
     - word: 節子
       position: 10
+      tags:
+        - silent
     - word: 食べ
       base: 食べる
       dictionary: 食べる
@@ -12101,6 +12181,8 @@
       position: 16
     - word: 節子
       position: 19
+      tags:
+        - silent
 - id: A_HotarunoHaka_412
   deck_name: Grave of the Fireflies
   translation: Seita...?
@@ -12213,6 +12295,8 @@
   words:
     - word: 医者
       position: 1
+      tags:
+        - silent
     - word: 息
       position: 5
     - word: 吸っ
@@ -12780,6 +12864,8 @@
       position: 8
     - word: 節子
       position: 11
+      tags:
+        - silent
 - id: A_HotarunoHaka_439
   deck_name: Grave of the Fireflies
   translation: I'll buy you some good, nourishing food.
@@ -12846,6 +12932,8 @@
       position: 8
     - word: 節子
       position: 14
+      tags:
+        - silent
     - word: の
       position: 17
     - word: そば
@@ -13384,6 +13472,8 @@
   words:
     - word: 節子
       position: 1
+      tags:
+        - silent
     - word: 遅う
       base: 遅い
       dictionary: 遅い
@@ -13520,6 +13610,8 @@
   words:
     - word: 節子
       position: 1
+      tags:
+        - silent
     - word: 何
       position: 5
     - word: なめ
@@ -13604,6 +13696,8 @@
       position: 23
     - word: 節子
       position: 27
+      tags:
+        - silent
     - word: の
       position: 30
     - word: 大好き
@@ -13640,6 +13734,8 @@
       position: 1
     - word: 節子
       position: 5
+      tags:
+        - silent
 - id: A_HotarunoHaka_470
   deck_name: Grave of the Fireflies
   translation: Rice balls.

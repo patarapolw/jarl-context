@@ -6,11 +6,17 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: さ
       position: 4
+      tags:
+        - silent
     - word: べ
       base: べい
       position: 5
+      tags:
+        - silent
     - word: ご
       base: 御
       position: 8
@@ -38,6 +44,8 @@
   words:
     - word: 組長
       position: 1
+      tags:
+        - silent
     - word: ホント
       base: 本当
       position: 5
@@ -123,6 +131,8 @@
     - word: まと
       base: 的
       position: 6
+      tags:
+        - silent
     - word: を
       position: 9
     - word: 殺し
@@ -234,6 +244,8 @@
   words:
     - word: 組長
       position: 1
+      tags:
+        - silent
     - word: 趣味
       position: 4
     - word: 悪
@@ -241,6 +253,8 @@
     - word: わり
       base: 割
       position: 9
+      tags:
+        - silent
     - word: いな
       base: 否
       position: 12
@@ -282,6 +296,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: これ
       base: 此れ
       position: 5
@@ -388,6 +404,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: こんな
       position: 5
     - word: こと
@@ -419,6 +437,8 @@
   words:
     - word: 組長
       position: 1
+      tags:
+        - silent
     - word: だっ
       base: だ
       dictionary: だ
@@ -440,6 +460,8 @@
   words:
     - word: 組長
       position: 1
+      tags:
+        - silent
     - word: いつ
       position: 4
     - word: まで
@@ -475,6 +497,8 @@
   words:
     - word: 組員
       position: 1
+      tags:
+        - silent
     - word: おい
       position: 4
     - word: 何
@@ -492,6 +516,8 @@
   words:
     - word: 組員
       position: 1
+      tags:
+        - silent
     - word: 何
       position: 4
     - word: だ
@@ -509,12 +535,18 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: はっ
       base: 八
       position: 4
+      tags:
+        - silent
     - word: ちょう
       base: 鳥
       position: 6
+      tags:
+        - silent
     - word: まいど
       base: 毎度
       position: 11
@@ -538,6 +570,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: どこ
       position: 4
     - word: 行く
@@ -562,6 +596,8 @@
       base: はる
       dictionary: はる
       position: 6
+      tags:
+        - silent
     - word: うて
       base: 打つ
       dictionary: うてる
@@ -609,6 +645,8 @@
   words:
     - word: 組長
       position: 1
+      tags:
+        - silent
     - word: お前
       base: 御前
       position: 4
@@ -638,6 +676,8 @@
   words:
     - word: 組長
       position: 1
+      tags:
+        - silent
     - word: どういう
       position: 4
     - word: こと
@@ -657,6 +697,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 実
       position: 4
     - word: は
@@ -750,8 +792,12 @@
       position: 0
     - word: か
       position: 2
+      tags:
+        - silent
     - word: ね
       position: 3
+      tags:
+        - silent
     - word: ごまかす
       position: 6
     - word: よう
@@ -853,6 +899,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 命乞い
       position: 4
     - word: に
@@ -880,6 +928,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 作業
       position: 4
     - word: は
@@ -987,6 +1037,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: 佐辺
       position: 4
     - word: ジィ
@@ -1002,6 +1054,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: あっ
       position: 5
     - word: おはよう
@@ -1021,6 +1075,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: やっと
       base: 漸と
       position: 4
@@ -1050,6 +1106,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: そう
       position: 4
     - word: です
@@ -1064,6 +1122,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: よかっ
       base: 良い
       dictionary: よい
@@ -1089,6 +1149,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 最近
       position: 5
     - word: 景気
@@ -1109,6 +1171,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: 待た
       base: 待つ
       dictionary: 待つ
@@ -1254,6 +1318,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 八丁
       position: 4
     - word: 空き缶
@@ -1274,6 +1340,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: 俺
       position: 4
     - word: は
@@ -1339,6 +1407,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 空き缶
       position: 5
     - word: 潰す
@@ -1367,6 +1437,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: クソゴリラ
       position: 4
     - word: こら
@@ -1424,6 +1496,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 本気
       position: 5
     - word: だっ
@@ -1452,6 +1526,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: いつ
       position: 5
     - word: か
@@ -1479,6 +1555,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: ヒフミン
       position: 4
 - id: Smoking_Ep1_0.07.22.584-0.07.25.711
@@ -1531,6 +1609,8 @@
   words:
     - word: ノック
       position: 1
+      tags:
+        - silent
 - id: Smoking_Ep1_0.08.05.460-0.08.07.461
   deck_name: Smoking
   translation: Excuse me!
@@ -1539,6 +1619,8 @@
   words:
     - word: 麻里
       position: 1
+      tags:
+        - silent
     - word: すい
       base: すむ
       dictionary: すむ
@@ -1575,13 +1657,21 @@
   words:
     - word: 猿川
       position: 1
+      tags:
+        - silent
     - word: さる
       base: 去る
       position: 4
+      tags:
+        - silent
     - word: か
       position: 6
+      tags:
+        - silent
     - word: わ
       position: 7
+      tags:
+        - silent
     - word: はい
       position: 10
     - word: はい
@@ -1606,6 +1696,8 @@
   words:
     - word: 麻里
       position: 1
+      tags:
+        - silent
     - word: すい
       base: すむ
       dictionary: すむ
@@ -1660,6 +1752,8 @@
   words:
     - word: 猿川
       position: 1
+      tags:
+        - silent
     - word: あっ
       position: 4
     - word: すい
@@ -1828,6 +1922,8 @@
   words:
     - word: 麻里
       position: 1
+      tags:
+        - silent
     - word: ありがとう
       base: 有り難う
       position: 4
@@ -1849,6 +1945,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: すみ
       base: すむ
       dictionary: すむ
@@ -1893,6 +1991,8 @@
   words:
     - word: 猿川
       position: 1
+      tags:
+        - silent
     - word: は〜い
       base: はい
       position: 4
@@ -1904,6 +2004,8 @@
   words:
     - word: 猿川
       position: 1
+      tags:
+        - silent
     - word: ちょっと
       base: 一寸
       position: 4
@@ -1970,6 +2072,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: ええ
       position: 4
 - id: Smoking_Ep1_0.09.36.885-0.09.38.511
@@ -1980,6 +2084,8 @@
   words:
     - word: 猿川
       position: 1
+      tags:
+        - silent
     - word: どう
       position: 4
     - word: さ
@@ -2004,6 +2110,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 息子
       position: 4
     - word: が
@@ -2033,6 +2141,8 @@
   words:
     - word: 猿川
       position: 1
+      tags:
+        - silent
     - word: それ
       base: 其れ
       position: 4
@@ -2088,6 +2198,8 @@
   words:
     - word: 猿川
       position: 1
+      tags:
+        - silent
     - word: 手当て
       position: 5
     - word: し
@@ -2130,6 +2242,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: ありがとう
       base: 有り難う
       position: 5
@@ -2157,6 +2271,8 @@
   words:
     - word: 猿川
       position: 1
+      tags:
+        - silent
     - word: 息子
       position: 4
     - word: さん
@@ -2230,6 +2346,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: ええ
       position: 4
 - id: Smoking_Ep1_0.10.23.640-0.10.25.725
@@ -2240,6 +2358,8 @@
   words:
     - word: 猿川
       position: 1
+      tags:
+        - silent
     - word: そう
       position: 4
     - word: です
@@ -2254,6 +2374,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: あっ
       position: 4
     - word: で
@@ -2274,6 +2396,8 @@
   words:
     - word: 猿川
       position: 1
+      tags:
+        - silent
     - word: あっ
       position: 5
     - word: よかっ
@@ -2316,6 +2440,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: ええ
       position: 4
 - id: Smoking_Ep1_0.10.40.073-0.10.43.868
@@ -2326,6 +2452,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 猿川
       position: 5
     - word: 直哉
@@ -2333,14 +2461,20 @@
     - word: なお
       base: 猶
       position: 10
+      tags:
+        - silent
     - word: や
       position: 12
+      tags:
+        - silent
     - word: 通称
       position: 15
     - word: 野猿
       position: 18
     - word: やえん
       position: 21
+      tags:
+        - silent
 - id: Smoking_Ep1_0.10.44.452-0.10.47.872
   deck_name: Smoking
   translation: He raped his leader's wife and brutally killed her.
@@ -2422,12 +2556,18 @@
       position: 10
     - word: か
       position: 12
+      tags:
+        - silent
     - word: じゅう
       base: 十
       position: 13
+      tags:
+        - silent
     - word: ぐみ
       base: 組
       position: 16
+      tags:
+        - silent
     - word: が
       position: 19
     - word: 手詰まり
@@ -2529,6 +2669,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: どう
       position: 5
     - word: やら
@@ -2596,6 +2738,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: せ
       base: 為る
       dictionary: する
@@ -2750,6 +2894,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 俺
       position: 5
     - word: たち
@@ -2785,6 +2931,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: ハハッ
       position: 4
     - word: 真面目
@@ -2836,6 +2984,8 @@
   words:
     - word: 猿川
       position: 1
+      tags:
+        - silent
     - word: あの
       base: 彼の
       position: 4
@@ -3016,6 +3166,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: まあ
       position: 4
     - word: どうぞ
@@ -3028,6 +3180,8 @@
   words:
     - word: 猿川
       position: 1
+      tags:
+        - silent
     - word: ああ
       position: 4
     - word: すい
@@ -3172,6 +3326,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: ああ
       position: 5
     - word: そう
@@ -3224,6 +3380,8 @@
   words:
     - word: 猿川
       position: 1
+      tags:
+        - silent
     - word: おお
       position: 4
     - word: どう
@@ -3332,6 +3490,8 @@
       position: 12
     - word: も
       position: 14
+      tags:
+        - silent
     - word: える
       base: 得る
       position: 16
@@ -3345,6 +3505,8 @@
   words:
     - word: 猿川
       position: 1
+      tags:
+        - silent
     - word: もし
       base: 若し
       position: 4
@@ -3363,6 +3525,8 @@
   words:
     - word: 猿川
       position: 1
+      tags:
+        - silent
     - word: 見
       base: 見る
       dictionary: 見る
@@ -3381,6 +3545,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 元華
       position: 4
     - word: 重
@@ -3454,6 +3620,8 @@
   words:
     - word: 猿川
       position: 1
+      tags:
+        - silent
     - word: 誰
       position: 4
     - word: だ
@@ -3545,6 +3713,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: バルビツール
       base: バルビタール
       position: 4
@@ -3608,6 +3778,8 @@
   words:
     - word: 猿川
       position: 1
+      tags:
+        - silent
     - word: よ〜
       base: よ
       position: 4
@@ -3629,6 +3801,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: ムダ
       base: 無駄
       position: 4
@@ -3769,6 +3943,8 @@
   words:
     - word: 猿川
       position: 1
+      tags:
+        - silent
     - word: ちょっ
       base: 一寸
       position: 4
@@ -3794,6 +3970,8 @@
       position: 5
     - word: だし
       position: 8
+      tags:
+        - silent
     - word: に
       position: 11
     - word: も
@@ -3821,6 +3999,8 @@
   words:
     - word: 猿川
       position: 1
+      tags:
+        - silent
     - word: おら
       position: 4
     - word: <
@@ -3834,6 +4014,8 @@
       position: 10
     - word: 佐辺
       position: 12
+      tags:
+        - silent
     - word: ああ
       position: 15
 - id: Smoking_Ep1_0.17.28.230-0.17.30.357
@@ -3844,6 +4026,8 @@
   words:
     - word: 猿川
       position: 1
+      tags:
+        - silent
     - word: よし
       position: 4
     - word: いい
@@ -3879,6 +4063,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: ええ
       position: 4
 - id: Smoking_Ep1_0.17.59.220-0.18.01.221
@@ -3954,6 +4140,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: ２人
       base: 二人
       dictionary: 2人
@@ -3990,6 +4178,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: ああ
       position: 4
     - word: なん
@@ -4097,6 +4287,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 俺
       position: 4
     - word: の
@@ -4107,6 +4299,8 @@
       position: 8
     - word: 八丁
       position: 11
+      tags:
+        - silent
     - word: 俺
       position: 14
     - word: や
@@ -4119,6 +4313,8 @@
   words:
     - word: 猿川
       position: 1
+      tags:
+        - silent
     - word: お
       base: 御
       position: 4
@@ -4141,6 +4337,8 @@
   words:
     - word: 猿川
       position: 1
+      tags:
+        - silent
     - word: な
       base: だ
       dictionary: だ
@@ -4180,6 +4378,8 @@
   words:
     - word: 猿川
       position: 1
+      tags:
+        - silent
     - word: おい
       position: 4
 - id: Smoking_Ep1_0.18.40.761-0.18.42.763
@@ -4232,6 +4432,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: あ〜
       base: ああ
       position: 4
@@ -4373,6 +4575,8 @@
     - word: なりわい
       base: 生業
       position: 7
+      tags:
+        - silent
     - word: の
       position: 12
     - word: スタイル
@@ -4396,6 +4600,8 @@
   words:
     - word: 猿川
       position: 1
+      tags:
+        - silent
     - word: 入れ墨
       position: 4
 - id: Smoking_Ep1_0.19.07.329-0.19.11.583
@@ -4506,6 +4712,8 @@
   words:
     - word: 猿川
       position: 1
+      tags:
+        - silent
     - word: もう
       position: 4
     - word: いい
@@ -4515,6 +4723,8 @@
       position: 9
     - word: 佐辺
       position: 12
+      tags:
+        - silent
     - word: 今
       position: 15
     - word: から
@@ -4561,6 +4771,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: う〜ん
       base: ううん
       position: 4
@@ -4647,12 +4859,18 @@
   words:
     - word: スマホ
       position: 1
+      tags:
+        - silent
     - word: 女性
       position: 5
+      tags:
+        - silent
     - word: ＭＣ
       base: MC
       dictionary: MC
       position: 7
+      tags:
+        - silent
     - word: まず
       base: 先ず
       position: 11
@@ -4692,8 +4910,12 @@
   words:
     - word: 料理
       position: 1
+      tags:
+        - silent
     - word: 人
       position: 3
+      tags:
+        - silent
     - word: はい
       position: 6
     - word: 深く
@@ -4747,10 +4969,14 @@
   words:
     - word: 女性
       position: 1
+      tags:
+        - silent
     - word: ＭＣ
       base: MC
       dictionary: MC
       position: 3
+      tags:
+        - silent
     - word: あっ
       position: 7
     - word: そう
@@ -4856,10 +5082,14 @@
   words:
     - word: 女性
       position: 1
+      tags:
+        - silent
     - word: ＭＣ
       base: MC
       dictionary: MC
       position: 3
+      tags:
+        - silent
     - word: うわ〜
       base: うわ
       position: 7
@@ -4909,6 +5139,8 @@
   words:
     - word: 母
       position: 1
+      tags:
+        - silent
     - word: ここ
       base: 此処
       position: 3
@@ -4962,6 +5194,8 @@
   words:
     - word: 子
       position: 1
+      tags:
+        - silent
     - word: や
       position: 3
     - word: だ
@@ -4979,6 +5213,8 @@
       position: 13
     - word: 母
       position: 17
+      tags:
+        - silent
     - word: ダメ
       base: 駄目
       position: 19
@@ -5014,11 +5250,17 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: さ
       position: 4
+      tags:
+        - silent
     - word: べ
       base: べい
       position: 5
+      tags:
+        - silent
     - word: 見ろ
       base: 見る
       dictionary: 見る
@@ -5125,13 +5367,21 @@
   words:
     - word: 犬飼
       position: 1
+      tags:
+        - silent
     - word: いぬ
       base: 犬
       position: 4
+      tags:
+        - silent
     - word: か
       position: 6
+      tags:
+        - silent
     - word: い
       position: 7
+      tags:
+        - silent
     - word: 今日
       position: 11
     - word: は
@@ -5195,12 +5445,18 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: はっ
       base: 八
       position: 4
+      tags:
+        - silent
     - word: ちょう
       base: 鳥
       position: 6
+      tags:
+        - silent
     - word: 今日
       position: 12
     - word: 連れ
@@ -5277,6 +5533,8 @@
     - word: じょうもん
       base: 縄文
       position: 7
+      tags:
+        - silent
     - word: の
       position: 13
     - word: ハッパ
@@ -5309,6 +5567,8 @@
   words:
     - word: 犬飼
       position: 1
+      tags:
+        - silent
     - word: フフッ
       base: ふふ
       position: 4
@@ -5330,6 +5590,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: 心配
       position: 4
     - word: す
@@ -5386,6 +5648,8 @@
   words:
     - word: 犬飼
       position: 1
+      tags:
+        - silent
     - word: 羽振り
       position: 4
     - word: いい
@@ -5425,6 +5689,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: で
       position: 5
     - word: 奥
@@ -5459,6 +5725,8 @@
     - word: うわさ
       base: 噂
       position: 2
+      tags:
+        - silent
     - word: は
       position: 6
     - word: 流れ
@@ -5481,8 +5749,12 @@
       position: 0
     - word: か
       position: 2
+      tags:
+        - silent
     - word: ね
       position: 3
+      tags:
+        - silent
     - word: 持っ
       base: 持つ
       dictionary: 持つ
@@ -5501,6 +5773,8 @@
       base: 練る
       dictionary: ねる
       position: 16
+      tags:
+        - silent
     - word: て
       base: って
       position: 19
@@ -5579,12 +5853,18 @@
     - word: お
       base: 御
       position: 6
+      tags:
+        - silent
     - word: だぶつか
       base: だぶつく
       dictionary: だぶつく
       position: 7
+      tags:
+        - silent
     - word: い
       position: 11
+      tags:
+        - silent
     - word: 犬飼
       position: 14
     - word: 嶺二
@@ -5592,6 +5872,8 @@
     - word: りょうじ
       base: 聊爾
       position: 19
+      tags:
+        - silent
 - id: Smoking_Ep2_0.01.54.647-0.01.56.732
   deck_name: Smoking
   translation: I've come to take care of you.
@@ -5795,6 +6077,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 仲間
       position: 4
     - word: って
@@ -5835,6 +6119,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 農薬
       position: 5
     - word: に
@@ -5924,6 +6210,8 @@
   words:
     - word: 犬飼
       position: 1
+      tags:
+        - silent
     - word: あ〜
       base: ああ
       position: 4
@@ -5944,6 +6232,8 @@
     - word: は
       base: はあ
       position: 5
+      tags:
+        - silent
     - word: よせ
       base: 寄せ
       position: 7
@@ -5981,6 +6271,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: それ
       base: 其れ
       position: 4
@@ -6036,6 +6328,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 拾っ
       base: 拾う
       dictionary: 拾う
@@ -6050,6 +6344,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: は
       position: 4
     - word: あ
@@ -6093,6 +6389,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: ハア
       base: はあ
       position: 5
@@ -6122,6 +6420,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: チッ
       base: ちっ
       position: 5
@@ -6148,6 +6448,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 待て
       base: 待つ
       dictionary: 待つ
@@ -6189,6 +6491,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: ブ
       position: 4
     - word: ッ
@@ -6215,6 +6519,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 何
       position: 4
     - word: を
@@ -6237,11 +6543,17 @@
   words:
     - word: 大樹
       position: 1
+      tags:
+        - silent
     - word: だ
       position: 4
+      tags:
+        - silent
     - word: いき
       base: 粋
       position: 5
+      tags:
+        - silent
     - word: ご
       base: 御
       position: 9
@@ -6262,10 +6574,14 @@
   words:
     - word: 轟
       position: 1
+      tags:
+        - silent
     - word: とどろき
       base: 轟く
       dictionary: とどろく
       position: 3
+      tags:
+        - silent
     - word: 小僧
       position: 9
     - word: そこ
@@ -6311,6 +6627,8 @@
   words:
     - word: 大樹
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 4
 - id: Smoking_Ep2_0.05.23.647-0.05.25.982
@@ -6321,6 +6639,8 @@
   words:
     - word: 組員
       position: 1
+      tags:
+        - silent
     - word: 組長
       position: 4
     - word: お
@@ -6350,6 +6670,8 @@
   words:
     - word: 轟
       position: 1
+      tags:
+        - silent
     - word: 分かっ
       base: 分かる
       dictionary: 分かる
@@ -6368,6 +6690,8 @@
   words:
     - word: 轟
       position: 1
+      tags:
+        - silent
     - word: あっ
       position: 3
     - word: よく
@@ -6452,6 +6776,8 @@
   words:
     - word: 轟
       position: 1
+      tags:
+        - silent
     - word: それ
       base: 其れ
       position: 3
@@ -6516,18 +6842,30 @@
     - word: とうじ
       base: 湯治
       position: 6
+      tags:
+        - silent
     - word: ん
       position: 9
+      tags:
+        - silent
     - word: ぼう
       base: ぼー
       position: 10
+      tags:
+        - silent
     - word: り
       position: 12
+      tags:
+        - silent
     - word: き
       position: 13
+      tags:
+        - silent
     - word: お
       base: 御
       position: 14
+      tags:
+        - silent
     - word: の
       position: 16
     - word: 入れ墨
@@ -6578,6 +6916,8 @@
       position: 10
     - word: もん
       position: 12
+      tags:
+        - silent
     - word: の
       position: 15
     - word: 背中
@@ -6769,6 +7109,8 @@
   words:
     - word: 轟
       position: 1
+      tags:
+        - silent
     - word: 佐辺
       position: 3
     - word: さん
@@ -6873,6 +7215,8 @@
   words:
     - word: 轟
       position: 1
+      tags:
+        - silent
     - word: そう
       position: 3
     - word: か
@@ -7017,6 +7361,8 @@
   words:
     - word: 組員
       position: 1
+      tags:
+        - silent
     - word: 何
       position: 4
     - word: 言っ
@@ -7119,6 +7465,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 食い
       base: 食う
       dictionary: 食う
@@ -7139,6 +7487,8 @@
   words:
     - word: 轟
       position: 1
+      tags:
+        - silent
     - word: じゃあ
       base: で
       position: 4
@@ -7169,6 +7519,8 @@
   words:
     - word: 轟
       position: 1
+      tags:
+        - silent
     - word: ここ
       base: 此処
       position: 4
@@ -7334,6 +7686,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: お前
       base: 御前
       position: 4
@@ -7412,6 +7766,8 @@
   words:
     - word: 轟
       position: 1
+      tags:
+        - silent
     - word: そう
       position: 3
     - word: か
@@ -7463,6 +7819,8 @@
   words:
     - word: 轟
       position: 1
+      tags:
+        - silent
     - word: 首
       position: 4
     - word: で
@@ -7503,6 +7861,8 @@
   words:
     - word: 大樹
       position: 1
+      tags:
+        - silent
     - word: で
       position: 4
     - word: も
@@ -7515,6 +7875,8 @@
   words:
     - word: 轟
       position: 1
+      tags:
+        - silent
     - word: お前
       base: 御前
       position: 3
@@ -7563,6 +7925,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 入口
       base: 入り口
       position: 4
@@ -7598,6 +7962,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: 相手
       position: 4
     - word: すん
@@ -7628,6 +7994,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: おい
       position: 4
     - word: どう
@@ -7663,8 +8031,12 @@
   words:
     - word: 銃声
       position: 1
+      tags:
+        - silent
     - word: ゴロ
       position: 6
+      tags:
+        - silent
     - word: おい
       position: 9
 - id: Smoking_Ep2_0.10.28.327-0.10.30.870
@@ -7703,15 +8075,25 @@
   words:
     - word: エンジン
       position: 1
+      tags:
+        - silent
     - word: を
       position: 5
+      tags:
+        - silent
     - word: かける
       base: 掛ける
       position: 6
+      tags:
+        - silent
     - word: 音
       position: 9
+      tags:
+        - silent
     - word: 八丁
       position: 13
+      tags:
+        - silent
     - word: よっしゃ
       position: 16
     - word: 行こう
@@ -7726,6 +8108,8 @@
   words:
     - word: 組員
       position: 1
+      tags:
+        - silent
     - word: 組長
       position: 4
     - word: カチコミ
@@ -7753,6 +8137,8 @@
   words:
     - word: 轟
       position: 1
+      tags:
+        - silent
     - word: なに
       base: 何
       position: 3
@@ -7767,6 +8153,8 @@
       position: 9
     - word: 組員
       position: 11
+      tags:
+        - silent
     - word: 通報
       position: 14
     - word: で
@@ -7793,6 +8181,8 @@
   words:
     - word: 轟
       position: 1
+      tags:
+        - silent
     - word: 見
       base: 見る
       dictionary: 見る
@@ -7811,9 +8201,13 @@
   words:
     - word: 組員
       position: 1
+      tags:
+        - silent
     - word: たち
       base: 達
       position: 3
+      tags:
+        - silent
     - word: はい
       position: 6
 - id: Smoking_Ep2_0.10.53.810-0.10.55.937
@@ -7824,12 +8218,18 @@
   words:
     - word: 警察
       position: 1
+      tags:
+        - silent
     - word: 官
       position: 3
+      tags:
+        - silent
     - word: １
       base: '1'
       dictionary: '1'
       position: 4
+      tags:
+        - silent
     - word: あんた
       base: 貴方
       position: 7
@@ -7860,12 +8260,18 @@
   words:
     - word: 警察
       position: 1
+      tags:
+        - silent
     - word: 官
       position: 3
+      tags:
+        - silent
     - word: ２
       base: '2'
       dictionary: '2'
       position: 4
+      tags:
+        - silent
     - word: 建物
       position: 7
     - word: の
@@ -7892,10 +8298,14 @@
   words:
     - word: 組員
       position: 1
+      tags:
+        - silent
     - word: １
       base: '1'
       dictionary: '1'
       position: 3
+      tags:
+        - silent
     - word: だっ
       base: だ
       dictionary: だ
@@ -7924,10 +8334,14 @@
   words:
     - word: 組員
       position: 1
+      tags:
+        - silent
     - word: ２
       base: '2'
       dictionary: '2'
       position: 3
+      tags:
+        - silent
     - word: こっち
       base: 此方
       position: 6
@@ -7972,9 +8386,13 @@
   words:
     - word: 組員
       position: 1
+      tags:
+        - silent
     - word: たち
       base: 達
       position: 3
+      tags:
+        - silent
     - word: とっとと
       position: 7
     - word: 帰れ
@@ -8004,12 +8422,18 @@
   words:
     - word: 警察
       position: 1
+      tags:
+        - silent
     - word: 官
       position: 3
+      tags:
+        - silent
     - word: １
       base: '1'
       dictionary: '1'
       position: 4
+      tags:
+        - silent
     - word: ああ
       position: 7
     - word: 公妨
@@ -8042,15 +8466,25 @@
   words:
     - word: 組員
       position: 1
+      tags:
+        - silent
     - word: たち
       base: 達
       position: 3
+      tags:
+        - silent
     - word: の
       position: 5
+      tags:
+        - silent
     - word: 騒ぎ
       position: 6
+      tags:
+        - silent
     - word: 声
       position: 8
+      tags:
+        - silent
 - id: Smoking_Ep2_0.11.25.467-0.11.27.135
   deck_name: Smoking
   translation: Who the hell are you?
@@ -8059,10 +8493,14 @@
   words:
     - word: 組員
       position: 1
+      tags:
+        - silent
     - word: ３
       base: '3'
       dictionary: '3'
       position: 3
+      tags:
+        - silent
     - word: 誰
       position: 5
     - word: だ
@@ -8157,6 +8595,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: 聞こえる
       position: 5
     - word: わけ
@@ -8249,6 +8689,8 @@
   words:
     - word: 轟
       position: 1
+      tags:
+        - silent
     - word: 早く
       base: 早い
       dictionary: 早い
@@ -8294,8 +8736,12 @@
   words:
     - word: 芳雄
       position: 1
+      tags:
+        - silent
     - word: よしお
       position: 4
+      tags:
+        - silent
     - word: 申し訳
       position: 10
     - word: ござい
@@ -8326,6 +8772,8 @@
   words:
     - word: 轟
       position: 1
+      tags:
+        - silent
     - word: 申し訳
       position: 4
     - word: ござい
@@ -8388,6 +8836,8 @@
   words:
     - word: 大樹
       position: 1
+      tags:
+        - silent
     - word: もう
       position: 5
     - word: 我慢
@@ -8408,6 +8858,8 @@
   words:
     - word: 芳雄
       position: 1
+      tags:
+        - silent
     - word: 大樹
       position: 4
 - id: Smoking_Ep2_0.13.16.953-0.13.19.872
@@ -8609,6 +9061,8 @@
   words:
     - word: 轟
       position: 1
+      tags:
+        - silent
     - word: 誰
       position: 3
     - word: を
@@ -8673,6 +9127,8 @@
   words:
     - word: 轟
       position: 1
+      tags:
+        - silent
     - word: やめろ
       base: やめる
       dictionary: やめる
@@ -8704,6 +9160,8 @@
   words:
     - word: 大樹
       position: 1
+      tags:
+        - silent
     - word: 兄貴
       position: 4
     - word: の
@@ -8713,8 +9171,12 @@
     - word: かた
       base: 方
       position: 9
+      tags:
+        - silent
     - word: き
       position: 11
+      tags:
+        - silent
     - word: だ
       position: 13
 - id: Smoking_Ep2_0.14.25.814-0.14.27.899
@@ -8725,6 +9187,8 @@
   words:
     - word: 轟
       position: 1
+      tags:
+        - silent
     - word: クソガキ
       position: 3
     - word: が〜
@@ -8738,6 +9202,8 @@
   words:
     - word: 轟
       position: 1
+      tags:
+        - silent
     - word: おい
       position: 3
     - word: 何
@@ -8752,6 +9218,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 安心
       position: 4
     - word: しろ
@@ -8788,6 +9256,8 @@
   words:
     - word: 大樹
       position: 1
+      tags:
+        - silent
     - word: えっ
       position: 5
     - word: どういう
@@ -8911,6 +9381,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 何
       position: 4
     - word: が
@@ -9079,6 +9551,8 @@
   words:
     - word: 轟
       position: 1
+      tags:
+        - silent
     - word: やめろ
       base: やめる
       dictionary: やめる
@@ -9097,6 +9571,8 @@
   words:
     - word: 芳雄
       position: 1
+      tags:
+        - silent
     - word: いい
       base: 良い
       position: 4
@@ -9263,6 +9739,8 @@
   words:
     - word: 大樹
       position: 1
+      tags:
+        - silent
     - word: １千万
       base: '10000000'
       dictionary: 1千万
@@ -9275,6 +9753,8 @@
   words:
     - word: 芳雄
       position: 1
+      tags:
+        - silent
     - word: カタギ
       base: 堅気
       position: 5
@@ -9372,6 +9852,8 @@
   words:
     - word: 芳雄
       position: 1
+      tags:
+        - silent
     - word: お前
       base: 御前
       position: 4
@@ -9399,6 +9881,8 @@
   words:
     - word: 大樹
       position: 1
+      tags:
+        - silent
     - word: いえ
       position: 5
     - word: 地元
@@ -9464,6 +9948,8 @@
   words:
     - word: 芳雄
       position: 1
+      tags:
+        - silent
     - word: 大樹
       position: 4
 - id: Smoking_Ep2_0.17.49.643-0.17.53.354
@@ -9528,6 +10014,8 @@
   words:
     - word: 芳雄
       position: 1
+      tags:
+        - silent
     - word: ありがとう
       base: 有り難う
       position: 4
@@ -9579,6 +10067,8 @@
   words:
     - word: 芳雄
       position: 1
+      tags:
+        - silent
     - word: 本当
       position: 5
     - word: に
@@ -9679,6 +10169,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: たくさん
       base: 沢山
       position: 4
@@ -9731,6 +10223,8 @@
   words:
     - word: 轟
       position: 1
+      tags:
+        - silent
     - word: やめろ
       base: やめる
       dictionary: やめる
@@ -9753,6 +10247,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: クソサディスト
       position: 4
     - word: の
@@ -9819,6 +10315,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 思う
       position: 5
     - word: 存分
@@ -9857,6 +10355,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: ホンマ
       base: 本真
       position: 5
@@ -9886,6 +10386,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 時間
       position: 4
     - word: は
@@ -9905,6 +10407,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: せ
       base: 為る
       dictionary: する
@@ -10041,12 +10545,18 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: はっ
       base: 八
       position: 4
+      tags:
+        - silent
     - word: ちょう
       base: 鳥
       position: 6
+      tags:
+        - silent
     - word: おい
       position: 11
     - word: もっと
@@ -10069,6 +10579,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 俺
       position: 5
     - word: は
@@ -10096,15 +10608,21 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: ハハッ
       position: 4
     - word: 佐辺
       position: 8
     - word: さ
       position: 11
+      tags:
+        - silent
     - word: べ
       base: べい
       position: 12
+      tags:
+        - silent
     - word: ジィ
       position: 14
 - id: Smoking_Ep3_0.00.29.209-0.00.32.669
@@ -10188,6 +10706,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 降りろ
       base: 下りる
       dictionary: 降りる
@@ -10203,6 +10723,8 @@
       position: 11
     - word: 八丁
       position: 13
+      tags:
+        - silent
     - word: は
       position: 16
     - word: あ
@@ -10216,6 +10738,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: いい
       base: 良い
       position: 4
@@ -10233,6 +10757,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: 痛い
       position: 4
     - word: 痛い
@@ -10247,6 +10773,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 降りろ
       base: 下りる
       dictionary: 降りる
@@ -10264,6 +10792,8 @@
       position: 14
     - word: 八丁
       position: 16
+      tags:
+        - silent
     - word: やめろ
       base: やめる
       dictionary: やめる
@@ -10276,6 +10806,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: お前
       base: 御前
       position: 5
@@ -10320,6 +10852,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: 痛い
       position: 4
     - word: 痛い
@@ -10347,8 +10881,12 @@
   words:
     - word: 警察
       position: 1
+      tags:
+        - silent
     - word: 官
       position: 3
+      tags:
+        - silent
     - word: ケンカ
       base: 喧嘩
       position: 5
@@ -10420,8 +10958,12 @@
   words:
     - word: 警察
       position: 1
+      tags:
+        - silent
     - word: 官
       position: 3
+      tags:
+        - silent
     - word: 皆
       position: 5
     - word: さん
@@ -10438,6 +10980,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 4
     - word: そう
@@ -10538,8 +11082,12 @@
   words:
     - word: 警察
       position: 1
+      tags:
+        - silent
     - word: 官
       position: 3
+      tags:
+        - silent
     - word: この
       base: 此の
       position: 5
@@ -10631,8 +11179,12 @@
   words:
     - word: 警察
       position: 1
+      tags:
+        - silent
     - word: 官
       position: 3
+      tags:
+        - silent
     - word: 後ろ見
       position: 6
     - word: せ
@@ -10735,6 +11287,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: なん
       base: 何
       position: 5
@@ -10762,8 +11316,12 @@
   words:
     - word: 警察
       position: 1
+      tags:
+        - silent
     - word: 官
       position: 3
+      tags:
+        - silent
     - word: ありがとう
       base: 有り難う
       position: 6
@@ -10815,6 +11373,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: ご
       base: 御
       position: 4
@@ -10834,6 +11394,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: 佐辺
       position: 4
     - word: ジィ
@@ -10887,6 +11449,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 確か
       position: 4
     - word: に
@@ -10938,6 +11502,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: やかましい
       base: 喧しい
       position: 4
@@ -11019,6 +11585,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: もう
       position: 4
     - word: やめ
@@ -11066,6 +11634,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 逃げ道
       position: 4
     - word: なし
@@ -11080,8 +11650,12 @@
   words:
     - word: 松戸
       position: 1
+      tags:
+        - silent
     - word: まつど
       position: 4
+      tags:
+        - silent
     - word: 佐辺
       position: 9
     - word: さん
@@ -11094,6 +11668,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 松戸
       position: 4
 - id: Smoking_Ep3_0.04.36.706-0.04.39.250
@@ -11121,6 +11697,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 足
       position: 4
     - word: は
@@ -11146,6 +11724,8 @@
   words:
     - word: 松戸
       position: 1
+      tags:
+        - silent
     - word: いや
       base: 否
       position: 5
@@ -11217,6 +11797,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: そう
       position: 4
     - word: か
@@ -11229,6 +11811,8 @@
   words:
     - word: 松戸
       position: 1
+      tags:
+        - silent
     - word: 佐辺
       position: 4
     - word: さん
@@ -11251,6 +11835,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: ああ
       position: 5
     - word: まあ
@@ -11277,6 +11863,8 @@
   words:
     - word: 松戸
       position: 1
+      tags:
+        - silent
     - word: 平凡
       position: 4
 - id: Smoking_Ep3_0.05.10.365-0.05.12.992
@@ -11363,6 +11951,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: あの
       base: 彼の
       position: 4
@@ -11381,6 +11971,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 昔
       position: 4
     - word: の
@@ -11397,6 +11989,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: なん
       base: 何
       position: 5
@@ -11425,6 +12019,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 大した
       position: 4
     - word: 話
@@ -11444,6 +12040,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: 水くさい
       base: 水臭い
       position: 5
@@ -11473,6 +12071,8 @@
   words:
     - word: 松戸
       position: 1
+      tags:
+        - silent
     - word: 自分
       position: 5
     - word: に
@@ -11639,12 +12239,18 @@
   words:
     - word: 渡来
       position: 1
+      tags:
+        - silent
     - word: わたら
       base: 渡る
       dictionary: わたる
       position: 4
+      tags:
+        - silent
     - word: い
       position: 7
+      tags:
+        - silent
     - word: 松戸
       position: 11
     - word: さん
@@ -11670,6 +12276,8 @@
   words:
     - word: 松戸
       position: 1
+      tags:
+        - silent
     - word: 何
       position: 4
     - word: だ
@@ -11711,6 +12319,8 @@
   words:
     - word: 渡来
       position: 1
+      tags:
+        - silent
     - word: お〜い
       base: おい
       position: 4
@@ -11739,6 +12349,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: ああ
       position: 4
 - id: Smoking_Ep3_0.07.17.742-0.07.21.078
@@ -11802,6 +12414,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: 気付い
       base: 気付く
       dictionary: 気付く
@@ -11835,6 +12449,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: シャブ
       base: しゃぶ
       position: 4
@@ -11935,6 +12551,8 @@
   words:
     - word: ヘルパー
       position: 1
+      tags:
+        - silent
     - word: あんた
       base: 貴方
       position: 6
@@ -12383,6 +13001,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 見殺し
       position: 4
     - word: に
@@ -12575,6 +13195,8 @@
   words:
     - word: 渡来
       position: 1
+      tags:
+        - silent
     - word: 松戸
       position: 5
     - word: さん
@@ -12610,6 +13232,8 @@
   words:
     - word: 渡来
       position: 1
+      tags:
+        - silent
     - word: フッ
       base: ふっ
       position: 5
@@ -12794,6 +13418,8 @@
   words:
     - word: ヘルパー
       position: 1
+      tags:
+        - silent
     - word: いや
       base: 否
       position: 7
@@ -12869,6 +13495,8 @@
   words:
     - word: 松戸
       position: 1
+      tags:
+        - silent
     - word: おい
       position: 4
     - word: どう
@@ -12928,6 +13556,8 @@
   words:
     - word: 松戸
       position: 1
+      tags:
+        - silent
     - word: お前
       base: 御前
       position: 4
@@ -12942,11 +13572,17 @@
   words:
     - word: 獣
       position: 1
+      tags:
+        - silent
     - word: 一
       base: '1'
       position: 2
+      tags:
+        - silent
     - word: じゅういち
       position: 4
+      tags:
+        - silent
     - word: おお
       position: 11
     - word: 盛り
@@ -12971,6 +13607,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: すい
       base: すむ
       dictionary: すむ
@@ -13006,6 +13644,8 @@
   words:
     - word: ヘルパー
       position: 1
+      tags:
+        - silent
     - word: 必要
       position: 7
     - word: 書類
@@ -13029,6 +13669,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: ええ
       position: 4
 - id: Smoking_Ep3_0.13.07.842-0.13.10.010
@@ -13059,6 +13701,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: ゴロ
       position: 4
 - id: Smoking_Ep3_0.13.16.183-0.13.18.018
@@ -13069,6 +13713,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: すま
       base: すむ
       dictionary: すむ
@@ -13123,6 +13769,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: こっ
       base: 此処
       position: 5
@@ -13224,6 +13872,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 私
       position: 5
     - word: は
@@ -13277,6 +13927,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: おう
       base: おお
       position: 4
@@ -13345,9 +13997,13 @@
   words:
     - word: 獣
       position: 1
+      tags:
+        - silent
     - word: 一
       base: '1'
       position: 2
+      tags:
+        - silent
     - word: おい
       position: 5
     - word: おい
@@ -13483,6 +14139,8 @@
   words:
     - word: 松戸
       position: 1
+      tags:
+        - silent
     - word: この
       base: 此の
       position: 4
@@ -13501,9 +14159,13 @@
   words:
     - word: 獣
       position: 1
+      tags:
+        - silent
     - word: 一
       base: '1'
       position: 2
+      tags:
+        - silent
     - word: なあ
       base: な
       position: 5
@@ -13604,9 +14266,13 @@
   words:
     - word: 獣
       position: 1
+      tags:
+        - silent
     - word: 一
       base: '1'
       position: 2
+      tags:
+        - silent
     - word: そっ
       base: そう
       position: 4
@@ -13625,9 +14291,13 @@
   words:
     - word: 獣
       position: 1
+      tags:
+        - silent
     - word: 一
       base: '1'
       position: 2
+      tags:
+        - silent
     - word: じゃあ
       base: で
       position: 5
@@ -13653,6 +14323,8 @@
   words:
     - word: 渡来
       position: 1
+      tags:
+        - silent
     - word: へ
       position: 4
     - word: ヘヘヘッ
@@ -13699,6 +14371,8 @@
   words:
     - word: 渡来
       position: 1
+      tags:
+        - silent
     - word: やめ
       base: やめる
       dictionary: やめる
@@ -13719,6 +14393,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 急げ
       base: 急ぐ
       dictionary: 急ぐ
@@ -13835,6 +14511,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 松戸
       position: 4
     - word: の
@@ -13889,8 +14567,12 @@
   words:
     - word: 無線
       position: 1
+      tags:
+        - silent
     - word: 八丁
       position: 4
+      tags:
+        - silent
     - word: お〜い
       base: おい
       position: 8
@@ -13925,6 +14607,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: どう
       position: 4
     - word: し
@@ -13941,6 +14625,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: おい
       position: 5
     - word: いつ
@@ -13993,6 +14679,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: ヒフミン
       position: 5
     - word: 拉致ら
@@ -14050,9 +14738,13 @@
   words:
     - word: 老人
       position: 1
+      tags:
+        - silent
     - word: たち
       base: 達
       position: 3
+      tags:
+        - silent
     - word: 薬
       position: 7
     - word: 薬
@@ -14070,6 +14762,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: おい
       position: 4
     - word: やめろ
@@ -14088,9 +14782,13 @@
   words:
     - word: 獣
       position: 1
+      tags:
+        - silent
     - word: 一
       base: '1'
       position: 2
+      tags:
+        - silent
     - word: なかなか
       base: 中々
       position: 4
@@ -14127,6 +14825,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 松戸
       position: 4
     - word: は
@@ -14143,9 +14843,13 @@
   words:
     - word: 獣
       position: 1
+      tags:
+        - silent
     - word: 一
       base: '1'
       position: 2
+      tags:
+        - silent
     - word: ああ
       position: 5
     - word: <
@@ -14178,9 +14882,13 @@
   words:
     - word: 獣
       position: 1
+      tags:
+        - silent
     - word: 一
       base: '1'
       position: 2
+      tags:
+        - silent
     - word: まっ
       base: 待つ
       dictionary: まつ
@@ -14228,9 +14936,13 @@
   words:
     - word: 獣
       position: 1
+      tags:
+        - silent
     - word: 一
       base: '1'
       position: 2
+      tags:
+        - silent
     - word: おっ
       base: 伯父
       position: 5
@@ -14333,15 +15045,21 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: やれ
       base: 遣る
       dictionary: やる
       position: 4
     - word: 獣
       position: 8
+      tags:
+        - silent
     - word: 一
       base: '1'
       position: 9
+      tags:
+        - silent
     - word: ああ
       position: 11
 - id: Smoking_Ep3_0.17.57.381-0.17.59.341
@@ -14352,6 +15070,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: さっさと
       position: 4
     - word: やれ
@@ -14364,9 +15084,13 @@
   words:
     - word: 獣
       position: 1
+      tags:
+        - silent
     - word: 一
       base: '1'
       position: 2
+      tags:
+        - silent
     - word: えっ
       position: 4
     - word: どっち
@@ -14381,6 +15105,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: おとなしく
       base: 大人しい
       dictionary: おとなしい
@@ -14401,6 +15127,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: ヒフミン
       position: 4
     - word: 大丈夫
@@ -14440,9 +15168,13 @@
   words:
     - word: 獣
       position: 1
+      tags:
+        - silent
     - word: 一
       base: '1'
       position: 2
+      tags:
+        - silent
     - word: おい
       position: 4
     - word: おい
@@ -14578,9 +15310,13 @@
   words:
     - word: 獣
       position: 1
+      tags:
+        - silent
     - word: 一
       base: '1'
       position: 2
+      tags:
+        - silent
     - word: おい
       position: 4
     - word: 待て
@@ -14599,6 +15335,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: お
       base: 御
       position: 5
@@ -14626,6 +15364,8 @@
   words:
     - word: 松戸
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 4
 - id: Smoking_Ep3_0.20.07.261-0.20.10.597
@@ -14872,6 +15612,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: アホ
       base: 阿呆
       position: 5
@@ -14907,6 +15649,8 @@
     - word: かく
       base: 斯く
       position: 2
+      tags:
+        - silent
     - word: で
       position: 5
     - word: いかな
@@ -14932,6 +15676,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: それ
       base: 其れ
       position: 4
@@ -14964,6 +15710,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: だ
       position: 4
     - word: から
@@ -15027,6 +15775,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: ただいま
       base: 只今
       position: 4
@@ -15094,6 +15844,8 @@
   words:
     - word: 松戸
       position: 1
+      tags:
+        - silent
     - word: ただいま
       base: 只今
       position: 4
@@ -15129,13 +15881,21 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: け
       position: 4
+      tags:
+        - silent
     - word: ぬま
       base: 沼
       position: 5
+      tags:
+        - silent
     - word: どう
       position: 9
     - word: も
@@ -15172,8 +15932,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: 松戸
       position: 4
     - word: さん
@@ -15198,8 +15962,12 @@
   words:
     - word: 太田
       position: 1
+      tags:
+        - silent
     - word: おおた
       position: 4
+      tags:
+        - silent
     - word: いい
       base: 良い
       position: 9
@@ -15242,12 +16010,18 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: はっ
       base: 八
       position: 4
+      tags:
+        - silent
     - word: ちょう
       base: 鳥
       position: 6
+      tags:
+        - silent
     - word: ヒフミン
       position: 12
     - word: は
@@ -15286,6 +16060,8 @@
   words:
     - word: 太田
       position: 1
+      tags:
+        - silent
     - word: は
       position: 4
     - word: あ
@@ -15349,9 +16125,13 @@
       position: 0
     - word: さ
       position: 3
+      tags:
+        - silent
     - word: べ
       base: べい
       position: 4
+      tags:
+        - silent
     - word: ジィ
       position: 6
     - word: 俺
@@ -15366,6 +16146,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: どう
       position: 5
     - word: し
@@ -15436,6 +16218,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: こっち
       base: 此方
       position: 5
@@ -15520,6 +16304,8 @@
   words:
     - word: 太田
       position: 1
+      tags:
+        - silent
     - word: よし
       position: 4
     - word: 全員
@@ -15574,6 +16360,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: へ
       position: 4
     - word: え〜
@@ -15607,6 +16395,8 @@
   words:
     - word: 部下
       position: 1
+      tags:
+        - silent
     - word: てめえ
       base: てまえ
       position: 4
@@ -15621,6 +16411,8 @@
   words:
     - word: 部下
       position: 1
+      tags:
+        - silent
     - word: な
       base: だ
       dictionary: だ
@@ -15641,6 +16433,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: ゴロ
       position: 5
     - word: 先
@@ -15666,6 +16460,8 @@
   words:
     - word: 太田
       position: 1
+      tags:
+        - silent
     - word: 動く
       position: 4
     - word: な
@@ -15710,6 +16506,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: お前
       base: 御前
       position: 4
@@ -15727,6 +16525,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: ケガ
       base: 怪我
       position: 4
@@ -15759,6 +16559,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 貸せ
       base: 貸す
       dictionary: 貸す
@@ -15788,6 +16590,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: 非力
       position: 4
     - word: や
@@ -15863,6 +16667,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: お前
       base: 御前
       position: 5
@@ -15884,6 +16690,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: 俺
       position: 5
     - word: は
@@ -15934,6 +16742,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: な
       base: だ
       dictionary: だ
@@ -15953,6 +16763,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: ごめん
       base: 御免
       position: 5
@@ -16004,6 +16816,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: ただいま
       base: 只今
       position: 4
@@ -16041,10 +16855,14 @@
   words:
     - word: 少年
       position: 1
+      tags:
+        - silent
     - word: １
       base: '1'
       dictionary: '1'
       position: 3
+      tags:
+        - silent
     - word: 臭い
       position: 5
     - word: ん
@@ -16064,10 +16882,14 @@
   words:
     - word: 少年
       position: 1
+      tags:
+        - silent
     - word: ２
       base: '2'
       dictionary: '2'
       position: 3
+      tags:
+        - silent
     - word: あ〜
       base: ああ
       position: 6
@@ -16111,10 +16933,14 @@
   words:
     - word: 少年
       position: 1
+      tags:
+        - silent
     - word: １
       base: '1'
       dictionary: '1'
       position: 3
+      tags:
+        - silent
     - word: 行こう
       base: 行く
       dictionary: 行く
@@ -16123,10 +16949,14 @@
       position: 8
     - word: 少年
       position: 11
+      tags:
+        - silent
     - word: ２
       base: '2'
       dictionary: '2'
       position: 13
+      tags:
+        - silent
     - word: 行こう
       base: 行く
       dictionary: 行く
@@ -16141,6 +16971,8 @@
   words:
     - word: ケン
       position: 1
+      tags:
+        - silent
     - word: ありがとう
       base: 有り難う
       position: 4
@@ -16269,6 +17101,8 @@
   words:
     - word: ケン
       position: 1
+      tags:
+        - silent
     - word: えっ
       position: 4
     - word: なん
@@ -16313,6 +17147,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: おい
       position: 5
     - word: どこ
@@ -16344,6 +17180,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 気
       position: 4
     - word: を
@@ -16364,6 +17202,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: まあ
       position: 5
     - word: 何
@@ -16565,6 +17405,8 @@
   words:
     - word: ケン
       position: 1
+      tags:
+        - silent
     - word: じゃあ
       base: で
       position: 4
@@ -16578,8 +17420,12 @@
   words:
     - word: 鉄夫
       position: 1
+      tags:
+        - silent
     - word: てつお
       position: 4
+      tags:
+        - silent
     - word: ケン
       position: 9
 - id: Smoking_ep4_0.09.01.143-0.09.03.728
@@ -16667,6 +17513,8 @@
   words:
     - word: ケン
       position: 1
+      tags:
+        - silent
     - word: ごめん
       base: 御免
       position: 4
@@ -16682,6 +17530,8 @@
   words:
     - word: 鉄夫
       position: 1
+      tags:
+        - silent
     - word: お
       base: 御
       position: 4
@@ -16693,8 +17543,12 @@
       position: 9
     - word: 殴る
       position: 12
+      tags:
+        - silent
     - word: 音
       position: 14
+      tags:
+        - silent
 - id: Smoking_ep4_0.09.19.327-0.09.22.455
   deck_name: Smoking
   translation: Stop!<br>Stop!
@@ -16703,6 +17557,8 @@
   words:
     - word: ケン
       position: 1
+      tags:
+        - silent
     - word: やめ
       base: やめる
       dictionary: やめる
@@ -16723,6 +17579,8 @@
   words:
     - word: 鉄夫
       position: 1
+      tags:
+        - silent
     - word: 誰
       position: 5
     - word: に
@@ -16788,6 +17646,8 @@
   words:
     - word: 鉄夫
       position: 1
+      tags:
+        - silent
     - word: 分かっ
       base: 分かる
       dictionary: 分かる
@@ -16823,6 +17683,8 @@
   words:
     - word: ケン
       position: 1
+      tags:
+        - silent
     - word: ヒフミン
       position: 4
 - id: Smoking_ep4_0.10.07.417-0.10.09.335
@@ -16833,6 +17695,8 @@
   words:
     - word: ケン
       position: 1
+      tags:
+        - silent
     - word: 大丈夫
       position: 4
     - word: だ
@@ -16891,6 +17755,8 @@
   words:
     - word: ケン
       position: 1
+      tags:
+        - silent
     - word: もう
       position: 4
     - word: 帰っ
@@ -17022,6 +17888,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 強く
       base: 強い
       dictionary: 強い
@@ -17173,6 +18041,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: どう
       position: 5
     - word: し
@@ -17200,10 +18070,14 @@
   words:
     - word: 女
       position: 1
+      tags:
+        - silent
     - word: ああ
       position: 3
     - word: 鉄夫
       position: 9
+      tags:
+        - silent
     - word: 知ら
       base: 知る
       dictionary: 知る
@@ -17222,6 +18096,8 @@
   words:
     - word: 鉄夫
       position: 1
+      tags:
+        - silent
     - word: まあ
       position: 5
     - word: あの
@@ -17255,6 +18131,8 @@
   words:
     - word: 女
       position: 1
+      tags:
+        - silent
     - word: えっ
       position: 3
 - id: Smoking_ep4_0.12.35.190-0.12.39.068
@@ -17265,6 +18143,8 @@
   words:
     - word: 鉄夫
       position: 1
+      tags:
+        - silent
     - word: あいつ
       base: 彼奴
       position: 5
@@ -17304,6 +18184,8 @@
   words:
     - word: 女
       position: 1
+      tags:
+        - silent
     - word: え〜
       base: えー
       position: 4
@@ -17340,6 +18222,8 @@
   words:
     - word: 鉄夫
       position: 1
+      tags:
+        - silent
     - word: 事故
       position: 5
     - word: に
@@ -17392,6 +18276,8 @@
   words:
     - word: 女
       position: 1
+      tags:
+        - silent
     - word: や
       position: 4
     - word: だ〜
@@ -17430,6 +18316,8 @@
   words:
     - word: 鉄夫
       position: 1
+      tags:
+        - silent
     - word: もう
       position: 5
     - word: 一
@@ -17511,6 +18399,8 @@
   words:
     - word: 女
       position: 1
+      tags:
+        - silent
     - word: マジ
       base: まじ
       position: 4
@@ -17536,6 +18426,8 @@
   words:
     - word: 鉄夫
       position: 1
+      tags:
+        - silent
     - word: まあ
       position: 5
     - word: もう
@@ -17594,10 +18486,14 @@
   words:
     - word: 鉄夫
       position: 1
+      tags:
+        - silent
     - word: ハハハッ
       position: 4
     - word: 女
       position: 10
+      tags:
+        - silent
     - word: ヤバい
       base: やばい
       position: 12
@@ -17614,6 +18510,8 @@
   words:
     - word: 女
       position: 1
+      tags:
+        - silent
     - word: や
       position: 3
     - word: だ
@@ -17695,6 +18593,8 @@
   words:
     - word: 鉄夫
       position: 1
+      tags:
+        - silent
     - word: うっせえ
       base: 煩い
       dictionary: うっさい
@@ -17714,6 +18614,8 @@
       position: 15
     - word: 女
       position: 17
+      tags:
+        - silent
     - word: きゃっ
       base: きゃあ
       position: 19
@@ -17756,6 +18658,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: ほい
       base: 其れ
       position: 4
@@ -17806,10 +18710,14 @@
   words:
     - word: 少年
       position: 1
+      tags:
+        - silent
     - word: １
       base: '1'
       dictionary: '1'
       position: 3
+      tags:
+        - silent
     - word: うん
       position: 5
     - word: 一緒
@@ -17828,10 +18736,14 @@
   words:
     - word: 少年
       position: 1
+      tags:
+        - silent
     - word: ２
       base: '2'
       dictionary: '2'
       position: 3
+      tags:
+        - silent
     - word: うん
       position: 5
 - id: Smoking_ep4_0.14.34.684-0.14.36.185
@@ -17842,10 +18754,14 @@
   words:
     - word: 少年
       position: 1
+      tags:
+        - silent
     - word: １
       base: '1'
       dictionary: '1'
       position: 3
+      tags:
+        - silent
     - word: なに
       base: 何
       position: 5
@@ -17857,10 +18773,14 @@
   words:
     - word: 少年
       position: 1
+      tags:
+        - silent
     - word: ２
       base: '2'
       dictionary: '2'
       position: 3
+      tags:
+        - silent
     - word: 気持ち
       position: 5
     - word: 悪
@@ -17868,6 +18788,8 @@
     - word: わり
       base: 割
       position: 10
+      tags:
+        - silent
     - word: い
       position: 13
     - word: 行こう
@@ -17884,10 +18806,14 @@
   words:
     - word: 少年
       position: 1
+      tags:
+        - silent
     - word: １
       base: '1'
       dictionary: '1'
       position: 3
+      tags:
+        - silent
     - word: うん
       position: 5
 - id: Smoking_ep4_0.14.45.737-0.14.47.446
@@ -17913,6 +18839,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: ちょっと
       base: 一寸
       position: 4
@@ -17958,6 +18886,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: ケン
       position: 5
     - word: 君
@@ -18004,6 +18934,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 何
       position: 5
     - word: か
@@ -18024,6 +18956,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 分から
       base: 分かる
       dictionary: 分かる
@@ -18057,6 +18991,8 @@
     - word: けんまく
       base: 剣幕
       position: 13
+      tags:
+        - silent
     - word: に
       position: 18
 - id: Smoking_ep4_0.15.19.437-0.15.23.816
@@ -18097,6 +19033,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: そう
       position: 4
     - word: か
@@ -18217,6 +19155,8 @@
     - word: くせ
       base: 癖
       position: 2
+      tags:
+        - silent
     - word: え
       base: えー
       position: 5
@@ -18239,6 +19179,8 @@
   words:
     - word: 鉄夫
       position: 1
+      tags:
+        - silent
     - word: ああ
       position: 4
     - word: 腹
@@ -18257,6 +19199,8 @@
   words:
     - word: 鉄夫
       position: 1
+      tags:
+        - silent
     - word: 邪魔
       position: 4
     - word: だ
@@ -18272,6 +19216,8 @@
   words:
     - word: ケン
       position: 1
+      tags:
+        - silent
     - word: ヒフミン
       position: 4
 - id: Smoking_ep4_0.17.14.802-0.17.17.429
@@ -18282,6 +19228,8 @@
   words:
     - word: 鉄夫
       position: 1
+      tags:
+        - silent
     - word: おい
       position: 4
     - word: おい
@@ -18320,6 +19268,8 @@
   words:
     - word: ケン
       position: 1
+      tags:
+        - silent
     - word: やめ
       base: やめる
       dictionary: やめる
@@ -18340,6 +19290,8 @@
   words:
     - word: 鉄夫
       position: 1
+      tags:
+        - silent
     - word: 離れろ
       base: 離れる
       dictionary: 離れる
@@ -18384,6 +19336,8 @@
   words:
     - word: 鉄夫
       position: 1
+      tags:
+        - silent
     - word: な
       base: だ
       dictionary: だ
@@ -18403,6 +19357,8 @@
     - word: つら
       base: 面
       position: 13
+      tags:
+        - silent
     - word: は
       position: 16
     - word: よ
@@ -18541,10 +19497,16 @@
   words:
     - word: 蹴る
       position: 1
+      tags:
+        - silent
     - word: 音
       position: 3
+      tags:
+        - silent
     - word: 鉄夫
       position: 7
+      tags:
+        - silent
     - word: 死ねよ
       base: 死ぬ
       dictionary: 死ねる
@@ -18659,6 +19621,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: これ
       base: 此れ
       position: 5
@@ -18684,6 +19648,8 @@
   words:
     - word: 鉄夫
       position: 1
+      tags:
+        - silent
     - word: ふざけ
       base: ふざける
       dictionary: ふざける
@@ -18841,6 +19807,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 八丁
       position: 4
 - id: Smoking_ep4_0.19.54.962-0.19.59.425
@@ -18851,6 +19819,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: その
       base: 其の
       position: 4
@@ -18878,6 +19848,8 @@
   words:
     - word: 鉄夫
       position: 1
+      tags:
+        - silent
     - word: 助け
       base: 助ける
       dictionary: 助ける
@@ -18952,6 +19924,8 @@
   words:
     - word: 鉄夫
       position: 1
+      tags:
+        - silent
     - word: うう
       position: 4
     - word: 頼む
@@ -18964,6 +19938,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 悪い
       position: 5
     - word: 汁
@@ -19055,6 +20031,8 @@
   words:
     - word: 鉄夫
       position: 1
+      tags:
+        - silent
     - word: 助け
       base: 助ける
       dictionary: 助ける
@@ -19108,6 +20086,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: かわいそう
       base: 可哀想
       position: 4
@@ -19130,6 +20110,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 母方
       position: 5
     - word: の
@@ -19251,6 +20233,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: ハハハッ
       position: 4
     - word: ええ
@@ -19288,6 +20272,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 誰
       position: 4
     - word: が
@@ -19304,12 +20290,18 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: はっ
       base: 八
       position: 4
+      tags:
+        - silent
     - word: ちょう
       base: 鳥
       position: 6
+      tags:
+        - silent
     - word: ええ
       position: 12
     - word: もん
@@ -19369,6 +20361,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 缶詰
       base: 缶詰め
       position: 5
@@ -19471,6 +20465,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 早い
       position: 4
     - word: もん
@@ -19487,6 +20483,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: 寄こせ
       base: 寄越す
       dictionary: 寄こす
@@ -19502,6 +20500,8 @@
       position: 11
     - word: ゴロ
       position: 13
+      tags:
+        - silent
     - word: やめろ
       base: やめる
       dictionary: やめる
@@ -19514,6 +20514,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: あっ
       position: 4
     - word: ヒフミン
@@ -19563,11 +20565,17 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: さ
       position: 4
+      tags:
+        - silent
     - word: べ
       base: べい
       position: 5
+      tags:
+        - silent
     - word: 八丁
       position: 8
 - id: Smoking_Ep5_0.00.39.718-0.00.42.470
@@ -19611,10 +20619,16 @@
     - word: だて
       base: 伊達
       position: 10
+      tags:
+        - silent
     - word: ざわ
       position: 12
+      tags:
+        - silent
     - word: たけお
       position: 14
+      tags:
+        - silent
 - id: Smoking_Ep5_0.00.47.893-0.00.51.562
   deck_name: Smoking
   translation: He's hiding out somewhere in this area because he's from here.
@@ -19681,6 +20695,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: で
       position: 5
     - word: 何
@@ -19709,6 +20725,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 組
       position: 5
     - word: の
@@ -19717,8 +20735,12 @@
       position: 7
     - word: か
       position: 9
+      tags:
+        - silent
     - word: ね
       position: 10
+      tags:
+        - silent
     - word: ３千万
       base: '30000000'
       dictionary: 3千万
@@ -19802,6 +20824,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: おい
       position: 4
     - word: 捜し
@@ -19820,6 +20844,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: お前
       base: 御前
       position: 5
@@ -19870,11 +20896,17 @@
   words:
     - word: 江本
       position: 1
+      tags:
+        - silent
     - word: え
       base: えー
       position: 4
+      tags:
+        - silent
     - word: もと
       position: 5
+      tags:
+        - silent
     - word: 佐辺
       position: 9
     - word: さん
@@ -19904,6 +20936,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: じゃあ
       base: で
       position: 3
@@ -19918,6 +20952,8 @@
   words:
     - word: 江本
       position: 1
+      tags:
+        - silent
     - word: ほい
       base: 其れ
       position: 5
@@ -19948,6 +20984,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: ありがとう
       base: 有り難う
       position: 3
@@ -19959,6 +20997,8 @@
       position: 11
     - word: 江本
       position: 15
+      tags:
+        - silent
     - word: はい
       position: 18
 - id: Smoking_Ep5_0.02.29.035-0.02.32.497
@@ -19969,6 +21009,8 @@
   words:
     - word: 江本
       position: 1
+      tags:
+        - silent
     - word: あっ
       position: 5
     - word: すい
@@ -19998,6 +21040,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: どう
       position: 4
     - word: だ
@@ -20014,6 +21058,8 @@
   words:
     - word: 江本
       position: 1
+      tags:
+        - silent
     - word: まあまあ
       position: 4
     - word: 繁盛
@@ -20066,6 +21112,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: せっかく
       base: 折角
       position: 5
@@ -20206,6 +21254,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: で
       position: 4
     - word: 調べ
@@ -20229,6 +21279,8 @@
   words:
     - word: 江本
       position: 1
+      tags:
+        - silent
     - word: ああ
       position: 5
     - word: 虎
@@ -20283,6 +21335,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: さすが
       base: 流石
       position: 5
@@ -20425,6 +21479,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: じゃ
       base: で
       position: 5
@@ -20601,8 +21657,12 @@
   words:
     - word: 伊達
       position: 1
+      tags:
+        - silent
     - word: 沢
       position: 3
+      tags:
+        - silent
     - word: はい
       position: 5
 - id: Smoking_Ep5_0.04.26.778-0.04.29.155
@@ -20613,6 +21673,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: あっ
       position: 5
     - word: すい
@@ -20645,8 +21707,12 @@
     - word: やま
       base: 山
       position: 3
+      tags:
+        - silent
     - word: だ
       position: 5
+      tags:
+        - silent
     - word: 様
       position: 7
     - word: の
@@ -20676,8 +21742,12 @@
   words:
     - word: 伊達
       position: 1
+      tags:
+        - silent
     - word: 沢
       position: 3
+      tags:
+        - silent
     - word: 違う
       position: 5
     - word: よ
@@ -20740,8 +21810,12 @@
   words:
     - word: 雛
       position: 1
+      tags:
+        - silent
     - word: ひな
       position: 3
+      tags:
+        - silent
     - word: いっ
       base: 行く
       dictionary: いく
@@ -20766,8 +21840,12 @@
   words:
     - word: 伊達
       position: 1
+      tags:
+        - silent
     - word: 沢
       position: 3
+      tags:
+        - silent
     - word: 気
       position: 5
     - word: を
@@ -20782,6 +21860,8 @@
       position: 10
     - word: 雛
       position: 13
+      tags:
+        - silent
     - word: は〜い
       base: はい
       position: 15
@@ -20793,6 +21873,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: お
       base: 御
       position: 4
@@ -20838,6 +21920,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: 四つ葉
       position: 4
     - word: の
@@ -20949,6 +22033,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: おっ
       base: 伯父
       position: 5
@@ -20981,6 +22067,8 @@
   words:
     - word: 雛
       position: 1
+      tags:
+        - silent
     - word: へ
       position: 3
     - word: え〜
@@ -21017,6 +22105,8 @@
   words:
     - word: 雛
       position: 1
+      tags:
+        - silent
     - word: いい
       base: 良い
       position: 3
@@ -21033,6 +22123,8 @@
       position: 10
     - word: 八丁
       position: 12
+      tags:
+        - silent
     - word: うん
       position: 15
 - id: Smoking_Ep5_0.05.55.325-0.05.56.826
@@ -21097,6 +22189,8 @@
   words:
     - word: 雛
       position: 1
+      tags:
+        - silent
     - word: お
       base: 御
       position: 4
@@ -21266,6 +22360,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: ちんたら
       position: 4
     - word: し
@@ -21286,6 +22382,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: やかましい
       base: 喧しい
       position: 4
@@ -21400,6 +22498,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: どう
       position: 4
     - word: やっ
@@ -21519,6 +22619,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: 分かっ
       base: 分かる
       dictionary: 分かる
@@ -21560,11 +22662,15 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: おう
       base: おお
       position: 4
     - word: 八丁
       position: 8
+      tags:
+        - silent
     - word: おい
       position: 11
 - id: Smoking_Ep5_0.07.32.046-0.07.34.215
@@ -21607,6 +22713,8 @@
   words:
     - word: 雛
       position: 1
+      tags:
+        - silent
     - word: 出来
       base: 出来る
       dictionary: 出来る
@@ -21690,8 +22798,12 @@
   words:
     - word: 伊達
       position: 1
+      tags:
+        - silent
     - word: 沢
       position: 3
+      tags:
+        - silent
     - word: いただき
       base: 頂く
       dictionary: いただく
@@ -21706,6 +22818,8 @@
   words:
     - word: 雛
       position: 1
+      tags:
+        - silent
     - word: 味
       position: 3
     - word: 薄い
@@ -21718,8 +22832,12 @@
   words:
     - word: 伊達
       position: 1
+      tags:
+        - silent
     - word: 沢
       position: 3
+      tags:
+        - silent
     - word: 全然
       position: 5
     - word: おいしい
@@ -21727,6 +22845,8 @@
       position: 9
     - word: 雛
       position: 15
+      tags:
+        - silent
     - word: よかっ
       base: 良い
       dictionary: よい
@@ -21743,13 +22863,19 @@
   words:
     - word: 伊達
       position: 1
+      tags:
+        - silent
     - word: 沢
       position: 3
+      tags:
+        - silent
     - word: おいしい
       base: 美味しい
       position: 5
     - word: 雛
       position: 12
+      tags:
+        - silent
     - word: フフフッ
       base: ふふふ
       position: 14
@@ -21761,8 +22887,12 @@
   words:
     - word: 春美
       position: 1
+      tags:
+        - silent
     - word: はるみ
       position: 4
+      tags:
+        - silent
     - word: い
       base: いー
       position: 10
@@ -21777,8 +22907,12 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: 春美
       position: 4
+      tags:
+        - silent
     - word: せ
       base: せる
       dictionary: せる
@@ -21795,6 +22929,8 @@
   words:
     - word: 春美
       position: 1
+      tags:
+        - silent
     - word: もう
       position: 4
     - word: 一
@@ -21815,6 +22951,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: ちょっと
       base: 一寸
       position: 5
@@ -21844,8 +22982,12 @@
   words:
     - word: 明子
       position: 1
+      tags:
+        - silent
     - word: あきこ
       position: 4
+      tags:
+        - silent
     - word: 春美
       position: 10
     - word: パパ
@@ -21879,6 +23021,8 @@
   words:
     - word: 春美
       position: 1
+      tags:
+        - silent
     - word: だ
       position: 5
     - word: って
@@ -21911,6 +23055,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: 仕事
       position: 4
     - word: から
@@ -21966,6 +23112,8 @@
   words:
     - word: 春美
       position: 1
+      tags:
+        - silent
     - word: ホント
       base: 本当
       position: 4
@@ -21980,6 +23128,8 @@
       position: 11
     - word: 八丁
       position: 13
+      tags:
+        - silent
     - word: うん
       position: 16
 - id: Smoking_Ep5_0.08.58.341-0.09.02.052
@@ -22065,6 +23215,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: 大丈夫
       position: 4
 - id: Smoking_Ep5_0.09.07.350-0.09.13.481
@@ -22132,6 +23284,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: いい
       base: 良い
       position: 5
@@ -22158,6 +23312,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 誰
       position: 4
     - word: に
@@ -22209,6 +23365,8 @@
   words:
     - word: 雛
       position: 1
+      tags:
+        - silent
     - word: あっ
       position: 3
     - word: ハッチョ
@@ -22405,6 +23563,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: いい
       base: 良い
       position: 4
@@ -22472,6 +23632,8 @@
   words:
     - word: 雛
       position: 1
+      tags:
+        - silent
     - word: お
       base: 御
       position: 4
@@ -22508,8 +23670,12 @@
   words:
     - word: 伊達
       position: 1
+      tags:
+        - silent
     - word: 沢
       position: 3
+      tags:
+        - silent
     - word: 医者
       position: 5
 - id: Smoking_Ep5_0.11.41.546-0.11.45.507
@@ -22520,6 +23686,8 @@
   words:
     - word: 雛
       position: 1
+      tags:
+        - silent
     - word: ハッチョ
       position: 4
     - word: の
@@ -22557,6 +23725,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: どう
       position: 4
     - word: も
@@ -22634,6 +23804,8 @@
   words:
     - word: 雛
       position: 1
+      tags:
+        - silent
     - word: ええ
       position: 3
 - id: Smoking_Ep5_0.12.09.448-0.12.11.533
@@ -22658,6 +23830,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: 車
       position: 5
     - word: の
@@ -22702,6 +23876,8 @@
   words:
     - word: 雛
       position: 1
+      tags:
+        - silent
     - word: うん
       position: 3
 - id: Smoking_Ep5_0.12.21.711-0.12.24.380
@@ -22787,8 +23963,12 @@
   words:
     - word: 伊達
       position: 1
+      tags:
+        - silent
     - word: 沢
       position: 3
+      tags:
+        - silent
     - word: あんた
       base: 貴方
       position: 6
@@ -22810,6 +23990,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: 山戸
       position: 5
     - word: 市
@@ -22819,11 +24001,17 @@
       position: 8
     - word: さん
       position: 10
+      tags:
+        - silent
     - word: どい
       position: 12
+      tags:
+        - silent
     - word: ちかい
       base: 近い
       position: 14
+      tags:
+        - silent
     - word: から
       position: 18
     - word: 持ち逃げ
@@ -22863,8 +24051,12 @@
   words:
     - word: 伊達
       position: 1
+      tags:
+        - silent
     - word: 沢
       position: 3
+      tags:
+        - silent
     - word: いつ
       position: 6
     - word: か
@@ -22897,8 +24089,12 @@
   words:
     - word: 伊達
       position: 1
+      tags:
+        - silent
     - word: 沢
       position: 3
+      tags:
+        - silent
     - word: 娘
       position: 6
     - word: ダシ
@@ -22918,10 +24114,16 @@
       base: 来る
       dictionary: くる
       position: 17
+      tags:
+        - silent
     - word: た
       position: 18
+      tags:
+        - silent
     - word: ね
       position: 19
+      tags:
+        - silent
     - word: え
       base: えー
       position: 21
@@ -22941,6 +24143,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: どう
       position: 5
     - word: し
@@ -23060,6 +24264,8 @@
   words:
     - word: 雛
       position: 1
+      tags:
+        - silent
     - word: ありがとう
       base: 有り難う
       position: 3
@@ -23071,8 +24277,12 @@
   words:
     - word: 伊達
       position: 1
+      tags:
+        - silent
     - word: 沢
       position: 3
+      tags:
+        - silent
     - word: ヤクザ
       base: やくざ
       position: 6
@@ -23261,6 +24471,8 @@
       position: 5
     - word: さび
       position: 7
+      tags:
+        - silent
     - word: だ
       position: 10
 - id: Smoking_Ep5_0.15.35.363-0.15.41.451
@@ -23363,6 +24575,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: 娘
       position: 4
     - word: が
@@ -23649,8 +24863,12 @@
   words:
     - word: 伊達
       position: 1
+      tags:
+        - silent
     - word: 沢
       position: 3
+      tags:
+        - silent
     - word: そう
       position: 5
     - word: だ
@@ -23676,6 +24894,8 @@
       position: 6
     - word: もん
       position: 8
+      tags:
+        - silent
     - word: だ
       position: 11
 - id: Smoking_Ep5_0.17.37.276-0.17.38.944
@@ -23994,6 +25214,8 @@
   words:
     - word: 組長
       position: 1
+      tags:
+        - silent
     - word: ご
       base: 御
       position: 5
@@ -24028,6 +25250,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: まだ
       base: 未だ
       position: 5
@@ -24067,6 +25291,8 @@
   words:
     - word: 組長
       position: 1
+      tags:
+        - silent
     - word: 伊達
       position: 5
     - word: 沢
@@ -24131,6 +25357,8 @@
   words:
     - word: 組長
       position: 1
+      tags:
+        - silent
     - word: 女
       position: 4
     - word: の
@@ -24266,6 +25494,8 @@
     - word: みじん
       base: 微塵
       position: 13
+      tags:
+        - silent
     - word: も
       position: 17
     - word: ない
@@ -24279,6 +25509,8 @@
   words:
     - word: 組長
       position: 1
+      tags:
+        - silent
     - word: な
       base: だ
       dictionary: だ
@@ -24296,6 +25528,8 @@
   words:
     - word: 銃声
       position: 1
+      tags:
+        - silent
 - id: Smoking_Ep5_0.20.59.311-0.21.02.230
   deck_name: Smoking
   translation: That girl is going to find happiness.
@@ -24304,6 +25538,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: あの
       base: 彼の
       position: 5
@@ -24389,6 +25625,8 @@
   words:
     - word: 組長
       position: 1
+      tags:
+        - silent
     - word: くっ
       position: 4
     - word: 貴様
@@ -24401,6 +25639,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: 花
       position: 4
     - word: って
@@ -24425,6 +25665,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 黙れ
       base: 黙る
       dictionary: 黙る
@@ -24437,6 +25679,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: お前
       base: 御前
       position: 5
@@ -24467,6 +25711,8 @@
       position: 25
     - word: こ
       position: 27
+      tags:
+        - silent
     - word: う
       base: 得る
       position: 29
@@ -24486,6 +25732,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 花
       position: 4
     - word: だっ
@@ -24510,6 +25758,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: いろいろ
       base: 色々
       position: 4
@@ -24563,6 +25813,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: うるさい
       base: 煩い
       position: 4
@@ -24574,8 +25826,12 @@
   words:
     - word: 刑務
       position: 1
+      tags:
+        - silent
     - word: 官
       position: 3
+      tags:
+        - silent
     - word: ２３８１
       base: '2381'
       dictionary: '2381'
@@ -24644,11 +25900,17 @@
   words:
     - word: 刑務
       position: 1
+      tags:
+        - silent
     - word: 官
       position: 3
+      tags:
+        - silent
     - word: たち
       base: 達
       position: 4
+      tags:
+        - silent
     - word: おい
       position: 8
     - word: こら
@@ -24685,8 +25947,12 @@
   words:
     - word: 松戸
       position: 1
+      tags:
+        - silent
     - word: まつど
       position: 4
+      tags:
+        - silent
     - word: どう
       position: 9
     - word: も
@@ -24699,11 +25965,17 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: さ
       position: 4
+      tags:
+        - silent
     - word: べ
       base: べい
       position: 5
+      tags:
+        - silent
     - word: おお
       position: 8
     - word: 松戸
@@ -24733,6 +26005,8 @@
   words:
     - word: 松戸
       position: 1
+      tags:
+        - silent
     - word: ああ
       position: 4
     - word: おかげ
@@ -24776,6 +26050,8 @@
     - word: のどぐろ
       base: 喉黒
       position: 4
+      tags:
+        - silent
     - word: が
       position: 9
     - word: 脱獄
@@ -24871,6 +26147,8 @@
   words:
     - word: 松戸
       position: 1
+      tags:
+        - silent
     - word: 自分
       position: 4
     - word: も
@@ -24889,6 +26167,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 松戸
       position: 4
 - id: Smoking_Ep6_0.02.18.142-0.02.22.021
@@ -24949,6 +26229,8 @@
   words:
     - word: 松戸
       position: 1
+      tags:
+        - silent
     - word: 兄貴
       position: 5
     - word: 晩飯
@@ -24975,13 +26257,21 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: け
       position: 4
+      tags:
+        - silent
     - word: ぬま
       base: 沼
       position: 5
+      tags:
+        - silent
     - word: どう
       position: 9
     - word: も
@@ -25036,12 +26326,18 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: はっ
       base: 八
       position: 4
+      tags:
+        - silent
     - word: ちょう
       base: 鳥
       position: 6
+      tags:
+        - silent
     - word: あ〜
       base: ああ
       position: 12
@@ -25209,6 +26505,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 俺
       position: 5
     - word: たち
@@ -25347,6 +26645,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 誰
       position: 5
     - word: が
@@ -25384,6 +26684,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: 私
       position: 4
     - word: です
@@ -25396,6 +26698,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: お前
       base: 御前
       position: 4
@@ -25468,8 +26772,12 @@
   words:
     - word: 野戸
       position: 1
+      tags:
+        - silent
     - word: 黒
       position: 3
+      tags:
+        - silent
     - word: 誰
       position: 5
 - id: Smoking_Ep6_0.05.28.749-0.05.30.334
@@ -25500,8 +26808,12 @@
   words:
     - word: 野戸
       position: 1
+      tags:
+        - silent
     - word: 黒
       position: 3
+      tags:
+        - silent
     - word: ハア
       base: はあ
       position: 6
@@ -25594,6 +26906,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 分かっ
       base: 分かる
       dictionary: 分かる
@@ -25663,6 +26977,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 周り
       position: 5
     - word: は
@@ -25711,6 +27027,8 @@
   words:
     - word: 女子
       position: 1
+      tags:
+        - silent
     - word: 助け
       base: 助ける
       dictionary: 助ける
@@ -25751,6 +27069,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 放せ
       base: 放す
       dictionary: 放す
@@ -25775,6 +27095,8 @@
     - word: まと
       base: 的
       position: 3
+      tags:
+        - silent
     - word: 以外
       position: 6
     - word: 殺す
@@ -25903,6 +27225,8 @@
   words:
     - word: 松戸
       position: 1
+      tags:
+        - silent
     - word: 佐辺
       position: 4
     - word: さん
@@ -25926,6 +27250,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 分かっ
       base: 分かる
       dictionary: 分かる
@@ -25956,8 +27282,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: 尾行
       position: 5
     - word: し
@@ -26087,11 +27417,17 @@
   words:
     - word: 砂地
       position: 1
+      tags:
+        - silent
     - word: すな
       base: 砂
       position: 4
+      tags:
+        - silent
     - word: じ
       position: 6
+      tags:
+        - silent
     - word: 野戸
       position: 10
     - word: 黒
@@ -26121,8 +27457,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: 佐辺
       position: 5
     - word: を
@@ -26150,6 +27490,8 @@
   words:
     - word: 砂地
       position: 1
+      tags:
+        - silent
     - word: 餌
       position: 5
     - word: に
@@ -26509,8 +27851,12 @@
   words:
     - word: 野戸
       position: 1
+      tags:
+        - silent
     - word: 黒
       position: 3
+      tags:
+        - silent
     - word: ねえ
       base: ね
       position: 5
@@ -26540,6 +27886,8 @@
   words:
     - word: 女
       position: 1
+      tags:
+        - silent
     - word: あんた
       base: 貴方
       position: 3
@@ -26587,6 +27935,8 @@
   words:
     - word: 女
       position: 1
+      tags:
+        - silent
     - word: 痛い
       position: 4
     - word: 痛い
@@ -26605,8 +27955,12 @@
   words:
     - word: 野戸
       position: 1
+      tags:
+        - silent
     - word: 黒
       position: 3
+      tags:
+        - silent
     - word: 痛い
       position: 5
     - word: ね〜
@@ -26614,6 +27968,8 @@
       position: 7
     - word: 女
       position: 11
+      tags:
+        - silent
     - word: 放せ
       base: 放す
       dictionary: 放す
@@ -26628,10 +27984,14 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: １
       base: '1'
       dictionary: '1'
       position: 2
+      tags:
+        - silent
     - word: おい
       position: 4
     - word: <
@@ -26645,10 +28005,14 @@
       position: 10
     - word: 男
       position: 12
+      tags:
+        - silent
     - word: ２
       base: '2'
       dictionary: '2'
       position: 13
+      tags:
+        - silent
     - word: 何
       position: 15
     - word: やっ
@@ -26675,10 +28039,14 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: １
       base: '1'
       dictionary: '1'
       position: 2
+      tags:
+        - silent
     - word: 何
       position: 4
     - word: やっ
@@ -26741,8 +28109,12 @@
   words:
     - word: 野戸
       position: 1
+      tags:
+        - silent
     - word: 黒
       position: 3
+      tags:
+        - silent
     - word: いっ
       base: 良い
       dictionary: いい
@@ -26790,6 +28162,8 @@
   words:
     - word: 女
       position: 1
+      tags:
+        - silent
     - word: いや
       base: 否
       position: 3
@@ -26834,6 +28208,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 散歩
       position: 4
     - word: に
@@ -26851,6 +28227,8 @@
       base: なぐ
       dictionary: なぐ
       position: 13
+      tags:
+        - silent
     - word: えな
       position: 16
 - id: Smoking_Ep6_0.12.04.895-0.12.06.646
@@ -26861,6 +28239,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: おい
       position: 4
     - word: ゴロ
@@ -26900,6 +28280,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: はっ
       position: 4
 - id: Smoking_Ep6_0.12.11.193-0.12.14.446
@@ -26910,6 +28292,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: コンテナ
       position: 5
     - word: に
@@ -26946,6 +28330,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 弾
       position: 4
 - id: Smoking_Ep6_0.12.14.947-0.12.17.282
@@ -26956,6 +28342,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: ああ
       position: 5
     - word: 佐辺
@@ -27021,6 +28409,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 何
       position: 4
     - word: の
@@ -27037,6 +28427,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: 違う
       position: 4
     - word: の
@@ -27051,6 +28443,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 知ら
       base: 知る
       dictionary: 知る
@@ -27067,6 +28461,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: ホンマ
       base: 本真
       position: 4
@@ -27080,6 +28476,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 久しぶり
       base: 久し振り
       position: 4
@@ -27099,8 +28497,12 @@
   words:
     - word: 野戸
       position: 1
+      tags:
+        - silent
     - word: 黒
       position: 3
+      tags:
+        - silent
     - word: 先生
       position: 5
 - id: Smoking_Ep6_0.12.44.852-0.12.46.770
@@ -27111,6 +28513,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 覚え
       base: 覚える
       dictionary: 覚える
@@ -27208,8 +28612,12 @@
   words:
     - word: 野戸
       position: 1
+      tags:
+        - silent
     - word: 黒
       position: 3
+      tags:
+        - silent
     - word: ハハッ
       position: 5
     - word: 待っ
@@ -27279,8 +28687,12 @@
   words:
     - word: 野戸
       position: 1
+      tags:
+        - silent
     - word: 黒
       position: 3
+      tags:
+        - silent
     - word: ああ
       position: 5
     - word: 痛え
@@ -27308,6 +28720,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 彼女
       position: 4
     - word: は
@@ -27363,8 +28777,12 @@
   words:
     - word: 野戸
       position: 1
+      tags:
+        - silent
     - word: 黒
       position: 3
+      tags:
+        - silent
     - word: いや
       base: 否
       position: 6
@@ -27420,6 +28838,8 @@
   words:
     - word: 銃声
       position: 1
+      tags:
+        - silent
 - id: Smoking_Ep6_0.13.55.672-0.13.58.174
   deck_name: Smoking
   translation: And you killed her...
@@ -27772,8 +29192,12 @@
     - word: しょく
       base: 食
       position: 3
+      tags:
+        - silent
     - word: ざい
       position: 6
+      tags:
+        - silent
 - id: Smoking_Ep6_0.15.29.016-0.15.31.518
   deck_name: Smoking
   translation: That's what I'd like to call this.
@@ -27810,9 +29234,13 @@
     - word: あ
       base: あー
       position: 4
+      tags:
+        - silent
     - word: がな
       base: 仮名
       position: 5
+      tags:
+        - silent
     - word: うに
       base: 雲丹
       position: 8
@@ -27998,8 +29426,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: ああ
       position: 4
     - word: そう
@@ -28060,6 +29492,8 @@
   words:
     - word: 松戸
       position: 1
+      tags:
+        - silent
     - word: こっち
       base: 此方
       position: 4
@@ -28073,6 +29507,8 @@
   words:
     - word: 松戸
       position: 1
+      tags:
+        - silent
     - word: 佐辺
       position: 5
     - word: さん
@@ -28104,8 +29540,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: どういう
       position: 4
     - word: こと
@@ -28120,6 +29560,8 @@
   words:
     - word: 松戸
       position: 1
+      tags:
+        - silent
     - word: 毛
       position: 4
     - word: 沼
@@ -28257,6 +29699,8 @@
     - word: や
       base: やあ
       position: 9
+      tags:
+        - silent
     - word: っ
       position: 11
     - word: た
@@ -28287,6 +29731,8 @@
   words:
     - word: 松戸
       position: 1
+      tags:
+        - silent
     - word: 今頃
       position: 4
 - id: Smoking_Ep6_0.19.44.187-0.19.49.859
@@ -28341,8 +29787,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: どう
       position: 5
     - word: し
@@ -28376,6 +29826,8 @@
   words:
     - word: 松戸
       position: 1
+      tags:
+        - silent
     - word: 佐辺
       position: 5
     - word: さん
@@ -28512,8 +29964,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: 死に
       base: 死ぬ
       dictionary: 死ぬ
@@ -28530,8 +29986,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: 佐辺
       position: 4
     - word: は
@@ -28574,6 +30034,8 @@
   words:
     - word: 松戸
       position: 1
+      tags:
+        - silent
     - word: ハア
       base: はあ
       position: 4
@@ -28623,6 +30085,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 随分
       position: 4
     - word: 長え
@@ -28647,6 +30111,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: ああ
       position: 5
     - word: ちょっと
@@ -28727,6 +30193,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: よし
       position: 4
     - word: 風呂
@@ -28760,12 +30228,18 @@
   words:
     - word: 若林
       position: 1
+      tags:
+        - silent
     - word: わか
       base: 我が
       position: 4
+      tags:
+        - silent
     - word: ばやし
       base: はやし
       position: 6
+      tags:
+        - silent
     - word: 佐辺
       position: 11
     - word: さん
@@ -28778,6 +30252,8 @@
   words:
     - word: 砂地
       position: 1
+      tags:
+        - silent
     - word: 久しぶり
       base: 久し振り
       position: 4
@@ -28822,8 +30298,12 @@
   words:
     - word: 刑務
       position: 1
+      tags:
+        - silent
     - word: 官
       position: 3
+      tags:
+        - silent
     - word: ２３８１
       base: '2381'
       dictionary: '2381'
@@ -28892,11 +30372,17 @@
   words:
     - word: 刑務
       position: 1
+      tags:
+        - silent
     - word: 官
       position: 3
+      tags:
+        - silent
     - word: たち
       base: 達
       position: 4
+      tags:
+        - silent
     - word: おい
       position: 8
     - word: こら
@@ -28933,8 +30419,12 @@
   words:
     - word: 松戸
       position: 1
+      tags:
+        - silent
     - word: まつど
       position: 4
+      tags:
+        - silent
     - word: どう
       position: 9
     - word: も
@@ -28947,11 +30437,17 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: さ
       position: 4
+      tags:
+        - silent
     - word: べ
       base: べい
       position: 5
+      tags:
+        - silent
     - word: おお
       position: 8
     - word: 松戸
@@ -28981,6 +30477,8 @@
   words:
     - word: 松戸
       position: 1
+      tags:
+        - silent
     - word: ああ
       position: 4
     - word: おかげ
@@ -29024,6 +30522,8 @@
     - word: のどぐろ
       base: 喉黒
       position: 4
+      tags:
+        - silent
     - word: が
       position: 9
     - word: 脱獄
@@ -29119,6 +30619,8 @@
   words:
     - word: 松戸
       position: 1
+      tags:
+        - silent
     - word: 自分
       position: 4
     - word: も
@@ -29137,6 +30639,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 松戸
       position: 4
 - id: Smoking_Ep6_0.02.18.142-0.02.22.021
@@ -29197,6 +30701,8 @@
   words:
     - word: 松戸
       position: 1
+      tags:
+        - silent
     - word: 兄貴
       position: 5
     - word: 晩飯
@@ -29223,13 +30729,21 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: け
       position: 4
+      tags:
+        - silent
     - word: ぬま
       base: 沼
       position: 5
+      tags:
+        - silent
     - word: どう
       position: 9
     - word: も
@@ -29284,12 +30798,18 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: はっ
       base: 八
       position: 4
+      tags:
+        - silent
     - word: ちょう
       base: 鳥
       position: 6
+      tags:
+        - silent
     - word: あ〜
       base: ああ
       position: 12
@@ -29457,6 +30977,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 俺
       position: 5
     - word: たち
@@ -29595,6 +31117,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 誰
       position: 5
     - word: が
@@ -29632,6 +31156,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: 私
       position: 4
     - word: です
@@ -29644,6 +31170,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: お前
       base: 御前
       position: 4
@@ -29716,8 +31244,12 @@
   words:
     - word: 野戸
       position: 1
+      tags:
+        - silent
     - word: 黒
       position: 3
+      tags:
+        - silent
     - word: 誰
       position: 5
 - id: Smoking_Ep6_0.05.28.749-0.05.30.334
@@ -29748,8 +31280,12 @@
   words:
     - word: 野戸
       position: 1
+      tags:
+        - silent
     - word: 黒
       position: 3
+      tags:
+        - silent
     - word: ハア
       base: はあ
       position: 6
@@ -29842,6 +31378,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 分かっ
       base: 分かる
       dictionary: 分かる
@@ -29911,6 +31449,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 周り
       position: 5
     - word: は
@@ -29959,6 +31499,8 @@
   words:
     - word: 女子
       position: 1
+      tags:
+        - silent
     - word: 助け
       base: 助ける
       dictionary: 助ける
@@ -29999,6 +31541,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 放せ
       base: 放す
       dictionary: 放す
@@ -30023,6 +31567,8 @@
     - word: まと
       base: 的
       position: 3
+      tags:
+        - silent
     - word: 以外
       position: 6
     - word: 殺す
@@ -30151,6 +31697,8 @@
   words:
     - word: 松戸
       position: 1
+      tags:
+        - silent
     - word: 佐辺
       position: 4
     - word: さん
@@ -30174,6 +31722,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 分かっ
       base: 分かる
       dictionary: 分かる
@@ -30204,8 +31754,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: 尾行
       position: 5
     - word: し
@@ -30335,11 +31889,17 @@
   words:
     - word: 砂地
       position: 1
+      tags:
+        - silent
     - word: すな
       base: 砂
       position: 4
+      tags:
+        - silent
     - word: じ
       position: 6
+      tags:
+        - silent
     - word: 野戸
       position: 10
     - word: 黒
@@ -30369,8 +31929,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: 佐辺
       position: 5
     - word: を
@@ -30398,6 +31962,8 @@
   words:
     - word: 砂地
       position: 1
+      tags:
+        - silent
     - word: 餌
       position: 5
     - word: に
@@ -30757,8 +32323,12 @@
   words:
     - word: 野戸
       position: 1
+      tags:
+        - silent
     - word: 黒
       position: 3
+      tags:
+        - silent
     - word: ねえ
       base: ね
       position: 5
@@ -30788,6 +32358,8 @@
   words:
     - word: 女
       position: 1
+      tags:
+        - silent
     - word: あんた
       base: 貴方
       position: 3
@@ -30835,6 +32407,8 @@
   words:
     - word: 女
       position: 1
+      tags:
+        - silent
     - word: 痛い
       position: 4
     - word: 痛い
@@ -30853,8 +32427,12 @@
   words:
     - word: 野戸
       position: 1
+      tags:
+        - silent
     - word: 黒
       position: 3
+      tags:
+        - silent
     - word: 痛い
       position: 5
     - word: ね〜
@@ -30862,6 +32440,8 @@
       position: 7
     - word: 女
       position: 11
+      tags:
+        - silent
     - word: 放せ
       base: 放す
       dictionary: 放す
@@ -30876,10 +32456,14 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: １
       base: '1'
       dictionary: '1'
       position: 2
+      tags:
+        - silent
     - word: おい
       position: 4
     - word: <
@@ -30893,10 +32477,14 @@
       position: 10
     - word: 男
       position: 12
+      tags:
+        - silent
     - word: ２
       base: '2'
       dictionary: '2'
       position: 13
+      tags:
+        - silent
     - word: 何
       position: 15
     - word: やっ
@@ -30923,10 +32511,14 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: １
       base: '1'
       dictionary: '1'
       position: 2
+      tags:
+        - silent
     - word: 何
       position: 4
     - word: やっ
@@ -30989,8 +32581,12 @@
   words:
     - word: 野戸
       position: 1
+      tags:
+        - silent
     - word: 黒
       position: 3
+      tags:
+        - silent
     - word: いっ
       base: 良い
       dictionary: いい
@@ -31038,6 +32634,8 @@
   words:
     - word: 女
       position: 1
+      tags:
+        - silent
     - word: いや
       base: 否
       position: 3
@@ -31082,6 +32680,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 散歩
       position: 4
     - word: に
@@ -31099,6 +32699,8 @@
       base: なぐ
       dictionary: なぐ
       position: 13
+      tags:
+        - silent
     - word: えな
       position: 16
 - id: Smoking_Ep6_0.12.04.895-0.12.06.646
@@ -31109,6 +32711,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: おい
       position: 4
     - word: ゴロ
@@ -31148,6 +32752,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: はっ
       position: 4
 - id: Smoking_Ep6_0.12.11.193-0.12.14.446
@@ -31158,6 +32764,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: コンテナ
       position: 5
     - word: に
@@ -31194,6 +32802,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 弾
       position: 4
 - id: Smoking_Ep6_0.12.14.947-0.12.17.282
@@ -31204,6 +32814,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: ああ
       position: 5
     - word: 佐辺
@@ -31269,6 +32881,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 何
       position: 4
     - word: の
@@ -31285,6 +32899,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: 違う
       position: 4
     - word: の
@@ -31299,6 +32915,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 知ら
       base: 知る
       dictionary: 知る
@@ -31315,6 +32933,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: ホンマ
       base: 本真
       position: 4
@@ -31328,6 +32948,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 久しぶり
       base: 久し振り
       position: 4
@@ -31347,8 +32969,12 @@
   words:
     - word: 野戸
       position: 1
+      tags:
+        - silent
     - word: 黒
       position: 3
+      tags:
+        - silent
     - word: 先生
       position: 5
 - id: Smoking_Ep6_0.12.44.852-0.12.46.770
@@ -31359,6 +32985,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 覚え
       base: 覚える
       dictionary: 覚える
@@ -31456,8 +33084,12 @@
   words:
     - word: 野戸
       position: 1
+      tags:
+        - silent
     - word: 黒
       position: 3
+      tags:
+        - silent
     - word: ハハッ
       position: 5
     - word: 待っ
@@ -31527,8 +33159,12 @@
   words:
     - word: 野戸
       position: 1
+      tags:
+        - silent
     - word: 黒
       position: 3
+      tags:
+        - silent
     - word: ああ
       position: 5
     - word: 痛え
@@ -31556,6 +33192,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 彼女
       position: 4
     - word: は
@@ -31611,8 +33249,12 @@
   words:
     - word: 野戸
       position: 1
+      tags:
+        - silent
     - word: 黒
       position: 3
+      tags:
+        - silent
     - word: いや
       base: 否
       position: 6
@@ -31668,6 +33310,8 @@
   words:
     - word: 銃声
       position: 1
+      tags:
+        - silent
 - id: Smoking_Ep6_0.13.55.672-0.13.58.174
   deck_name: Smoking
   translation: And you killed her...
@@ -32020,8 +33664,12 @@
     - word: しょく
       base: 食
       position: 3
+      tags:
+        - silent
     - word: ざい
       position: 6
+      tags:
+        - silent
 - id: Smoking_Ep6_0.15.29.016-0.15.31.518
   deck_name: Smoking
   translation: That's what I'd like to call this.
@@ -32058,9 +33706,13 @@
     - word: あ
       base: あー
       position: 4
+      tags:
+        - silent
     - word: がな
       base: 仮名
       position: 5
+      tags:
+        - silent
     - word: うに
       base: 雲丹
       position: 8
@@ -32246,8 +33898,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: ああ
       position: 4
     - word: そう
@@ -32308,6 +33964,8 @@
   words:
     - word: 松戸
       position: 1
+      tags:
+        - silent
     - word: こっち
       base: 此方
       position: 4
@@ -32321,6 +33979,8 @@
   words:
     - word: 松戸
       position: 1
+      tags:
+        - silent
     - word: 佐辺
       position: 5
     - word: さん
@@ -32352,8 +34012,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: どういう
       position: 4
     - word: こと
@@ -32368,6 +34032,8 @@
   words:
     - word: 松戸
       position: 1
+      tags:
+        - silent
     - word: 毛
       position: 4
     - word: 沼
@@ -32505,6 +34171,8 @@
     - word: や
       base: やあ
       position: 9
+      tags:
+        - silent
     - word: っ
       position: 11
     - word: た
@@ -32535,6 +34203,8 @@
   words:
     - word: 松戸
       position: 1
+      tags:
+        - silent
     - word: 今頃
       position: 4
 - id: Smoking_Ep6_0.19.44.187-0.19.49.859
@@ -32589,8 +34259,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: どう
       position: 5
     - word: し
@@ -32624,6 +34298,8 @@
   words:
     - word: 松戸
       position: 1
+      tags:
+        - silent
     - word: 佐辺
       position: 5
     - word: さん
@@ -32760,8 +34436,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: 死に
       base: 死ぬ
       dictionary: 死ぬ
@@ -32778,8 +34458,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: 佐辺
       position: 4
     - word: は
@@ -32822,6 +34506,8 @@
   words:
     - word: 松戸
       position: 1
+      tags:
+        - silent
     - word: ハア
       base: はあ
       position: 4
@@ -32871,6 +34557,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 随分
       position: 4
     - word: 長え
@@ -32895,6 +34583,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: ああ
       position: 5
     - word: ちょっと
@@ -32975,6 +34665,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: よし
       position: 4
     - word: 風呂
@@ -33008,12 +34700,18 @@
   words:
     - word: 若林
       position: 1
+      tags:
+        - silent
     - word: わか
       base: 我が
       position: 4
+      tags:
+        - silent
     - word: ばやし
       base: はやし
       position: 6
+      tags:
+        - silent
     - word: 佐辺
       position: 11
     - word: さん
@@ -33026,6 +34724,8 @@
   words:
     - word: 砂地
       position: 1
+      tags:
+        - silent
     - word: 久しぶり
       base: 久し振り
       position: 4
@@ -33070,11 +34770,17 @@
   words:
     - word: 砂地
       position: 1
+      tags:
+        - silent
     - word: すな
       base: 砂
       position: 4
+      tags:
+        - silent
     - word: じ
       position: 6
+      tags:
+        - silent
     - word: 久しぶり
       base: 久し振り
       position: 9
@@ -33086,9 +34792,13 @@
       position: 16
     - word: さ
       position: 19
+      tags:
+        - silent
     - word: べ
       base: べい
       position: 20
+      tags:
+        - silent
 - id: Smoking_Ep7_0.00.09.776-0.00.12.779
   deck_name: Smoking
   translation: It is good to see you again, Mr. Sunaji.
@@ -33097,6 +34807,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: ご
       base: 御
       position: 5
@@ -33174,6 +34886,8 @@
   words:
     - word: 砂地
       position: 1
+      tags:
+        - silent
     - word: まさか
       position: 5
     - word: あんた
@@ -33219,6 +34933,8 @@
       position: 0
     - word: まつど
       position: 3
+      tags:
+        - silent
     - word: が
       position: 7
     - word: 死ん
@@ -33395,6 +35111,8 @@
     - word: ミナミ
       base: 南
       position: 1
+      tags:
+        - silent
     - word: のり
       position: 6
     - word: 弁
@@ -33443,6 +35161,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: あっ
       position: 4
     - word: あの
@@ -33614,12 +35334,18 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: はっ
       base: 八
       position: 4
+      tags:
+        - silent
     - word: ちょう
       base: 鳥
       position: 6
+      tags:
+        - silent
     - word: おい
       position: 11
 - id: Smoking_Ep7_0.02.27.164-0.02.29.874
@@ -33695,6 +35421,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: これ
       base: 此れ
       position: 4
@@ -33713,6 +35441,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: ガキ
       position: 4
     - word: か
@@ -33757,6 +35487,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: 完全
       position: 5
     - word: に
@@ -33795,6 +35527,8 @@
   words:
     - word: 砂地
       position: 1
+      tags:
+        - silent
     - word: あんた
       base: 貴方
       position: 5
@@ -33832,6 +35566,8 @@
     - word: ミナミ
       base: 南
       position: 1
+      tags:
+        - silent
     - word: お
       base: 御
       position: 5
@@ -33854,6 +35590,8 @@
   words:
     - word: 店員
       position: 1
+      tags:
+        - silent
     - word: いらっしゃい
       base: いらっしゃる
       dictionary: いらっしゃる
@@ -33887,6 +35625,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: あっ
       position: 4
     - word: いや
@@ -33992,6 +35732,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: あの
       base: 彼の
       position: 4
@@ -34040,6 +35782,8 @@
     - word: ミナミ
       base: 南
       position: 1
+      tags:
+        - silent
     - word: 最近
       position: 6
     - word: いろいろ
@@ -34059,6 +35803,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: そう
       position: 4
     - word: です
@@ -34146,6 +35892,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: あっ
       position: 4
     - word: あの
@@ -34218,13 +35966,21 @@
   words:
     - word: 劉
       position: 1
+      tags:
+        - silent
     - word: りゅう
       base: 竜
       position: 3
+      tags:
+        - silent
     - word: 片言
       position: 8
+      tags:
+        - silent
     - word: で
       position: 10
+      tags:
+        - silent
     - word: 景気
       position: 12
     - word: は
@@ -34261,6 +36017,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: ただいま
       base: 只今
       position: 4
@@ -34311,6 +36069,8 @@
   words:
     - word: 店員
       position: 1
+      tags:
+        - silent
     - word: いらっしゃい
       base: いらっしゃる
       dictionary: いらっしゃる
@@ -34355,6 +36115,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: ここ
       base: 此処
       position: 3
@@ -34376,6 +36138,8 @@
     - word: ミナミ
       base: 南
       position: 1
+      tags:
+        - silent
     - word: ちょっと
       base: 一寸
       position: 5
@@ -34403,11 +36167,15 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: ハハハハッ
       position: 3
     - word: ミナミ
       base: 南
       position: 10
+      tags:
+        - silent
     - word: ちょっと
       base: 一寸
       position: 14
@@ -34419,6 +36187,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: こう
       position: 4
     - word: いう
@@ -34457,6 +36227,8 @@
     - word: ミナミ
       base: 南
       position: 1
+      tags:
+        - silent
     - word: やめ
       base: やめる
       dictionary: やめる
@@ -34493,6 +36265,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: おい
       position: 4
     - word: <
@@ -34506,6 +36280,8 @@
       position: 10
     - word: 男
       position: 12
+      tags:
+        - silent
     - word: うわっ
       base: うわ
       position: 14
@@ -34517,6 +36293,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: てめえ
       base: てまえ
       position: 5
@@ -34544,6 +36322,8 @@
     - word: ミナミ
       base: 南
       position: 1
+      tags:
+        - silent
     - word: 待っ
       base: 待つ
       dictionary: 待つ
@@ -34584,6 +36364,8 @@
     - word: ミナミ
       base: 南
       position: 1
+      tags:
+        - silent
     - word: 実
       position: 6
     - word: は
@@ -34627,6 +36409,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: そう
       position: 4
     - word: だっ
@@ -34761,9 +36545,13 @@
   words:
     - word: 肥留間
       position: 1
+      tags:
+        - silent
     - word: ひるま
       base: 昼間
       position: 5
+      tags:
+        - silent
     - word: 一応
       position: 11
     - word: これ
@@ -34790,6 +36578,8 @@
     - word: ミナミ
       base: 南
       position: 1
+      tags:
+        - silent
     - word: 最近
       position: 6
     - word: 両親
@@ -34992,6 +36782,8 @@
     - word: ミナミ
       base: 南
       position: 1
+      tags:
+        - silent
     - word: いくら
       base: 幾ら
       position: 5
@@ -35007,6 +36799,8 @@
   words:
     - word: 肥留間
       position: 1
+      tags:
+        - silent
     - word: 今
       position: 5
     - word: で
@@ -35049,6 +36843,8 @@
     - word: ミナミ
       base: 南
       position: 1
+      tags:
+        - silent
     - word: １
       base: '1'
       dictionary: '1'
@@ -35066,12 +36862,18 @@
   words:
     - word: 肥留間
       position: 1
+      tags:
+        - silent
     - word: 槙野
       position: 5
     - word: まき
       position: 8
+      tags:
+        - silent
     - word: の
       position: 10
+      tags:
+        - silent
     - word: さん
       position: 12
 - id: Smoking_Ep7_0.10.47.622-0.10.49.665
@@ -35240,6 +37042,8 @@
     - word: ミナミ
       base: 南
       position: 1
+      tags:
+        - silent
     - word: そして
       position: 6
     - word: 会社
@@ -35286,6 +37090,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: その
       base: 其の
       position: 4
@@ -35314,6 +37120,8 @@
     - word: ミナミ
       base: 南
       position: 1
+      tags:
+        - silent
     - word: これ
       base: 此れ
       position: 5
@@ -35445,6 +37253,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 俺
       position: 4
     - word: が
@@ -35544,6 +37354,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 佐辺
       position: 4
     - word: ジィ
@@ -35747,11 +37559,15 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: にいちゃん
       base: 兄ちゃん
       position: 4
     - word: 男
       position: 11
+      tags:
+        - silent
     - word: えっ
       position: 13
 - id: Smoking_Ep7_0.13.46.843-0.13.50.346
@@ -35762,6 +37578,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: ちょっと
       base: 一寸
       position: 5
@@ -35825,6 +37643,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: ビンゴ
       position: 4
     - word: や
@@ -35847,6 +37667,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: ヒフミン
       position: 4
 - id: Smoking_Ep7_0.14.04.527-0.14.06.111
@@ -35907,6 +37729,8 @@
     - word: ミナミ
       base: 南
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 5
 - id: Smoking_Ep7_0.14.33.181-0.14.37.059
@@ -35940,6 +37764,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: いえ
       position: 4
 - id: Smoking_Ep7_0.14.39.020-0.14.40.354
@@ -35950,6 +37776,8 @@
   words:
     - word: 肥留間
       position: 1
+      tags:
+        - silent
     - word: ちょうど
       base: 丁度
       position: 5
@@ -36043,6 +37871,8 @@
   words:
     - word: 肥留間
       position: 1
+      tags:
+        - silent
     - word: で
       position: 6
     - word: は
@@ -36183,6 +38013,8 @@
   words:
     - word: 肥留間
       position: 1
+      tags:
+        - silent
     - word: 申し訳
       position: 5
     - word: あり
@@ -36383,6 +38215,8 @@
   words:
     - word: 肥留間
       position: 1
+      tags:
+        - silent
     - word: 槙野
       position: 6
     - word: さん
@@ -36656,6 +38490,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 力
       position: 5
     - word: で
@@ -36761,6 +38597,8 @@
     - word: ミナミ
       base: 南
       position: 1
+      tags:
+        - silent
     - word: ゴロ
       position: 5
     - word: さん
@@ -37019,6 +38857,8 @@
     - word: ミナミ
       base: 南
       position: 1
+      tags:
+        - silent
     - word: ゴロ
       position: 5
     - word: さん
@@ -37031,6 +38871,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: ふざけ
       base: ふざける
       dictionary: ふざける
@@ -37118,6 +38960,8 @@
       position: 3
     - word: もん
       position: 7
+      tags:
+        - silent
     - word: だ
       position: 10
     - word: から
@@ -37132,6 +38976,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 3
 - id: Smoking_Ep7_0.18.00.805-0.18.02.264
@@ -37142,6 +38988,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: やめろ
       base: やめる
       dictionary: やめる
@@ -37203,6 +39051,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: ふざけん
       base: ふざける
       dictionary: ふざける
@@ -37219,6 +39069,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: やめろ
       base: やめる
       dictionary: やめる
@@ -37241,6 +39093,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: どう
       position: 5
     - word: も
@@ -37267,6 +39121,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: さあ
       base: さ
       position: 4
@@ -37361,6 +39217,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 彼女
       position: 4
     - word: を
@@ -37392,6 +39250,8 @@
     - word: じき
       base: 直
       position: 2
+      tags:
+        - silent
     - word: 目
       position: 6
     - word: が
@@ -37406,6 +39266,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 佐辺
       position: 4
     - word: ジィ
@@ -37453,6 +39315,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: あんた
       base: 貴方
       position: 5
@@ -37629,6 +39493,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: あの
       base: 彼の
       position: 4
@@ -37701,6 +39567,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: この
       base: 此の
       position: 4
@@ -37778,9 +39646,13 @@
       position: 4
     - word: け
       position: 6
+      tags:
+        - silent
     - word: ぬま
       base: 沼
       position: 7
+      tags:
+        - silent
 - id: Smoking_Ep7_0.22.40.376-0.22.42.836
   deck_name: Smoking
   translation: Look how handsome you've become.
@@ -37815,6 +39687,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: うん
       position: 4
     - word: 打っ
@@ -37923,6 +39797,8 @@
   words:
     - word: ユウヤ
       position: 1
+      tags:
+        - silent
     - word: スモーキング
       position: 6
     - word: さん
@@ -37957,6 +39833,8 @@
       position: 0
     - word: まさき
       position: 3
+      tags:
+        - silent
     - word: ユウヤ
       position: 7
     - word: と
@@ -37986,11 +39864,15 @@
     - word: しわす
       base: 師走
       position: 10
+      tags:
+        - silent
     - word: 単
       position: 15
     - word: ひとえ
       base: 単
       position: 17
+      tags:
+        - silent
     - word: が
       position: 21
     - word: お
@@ -38104,6 +39986,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 有名
       position: 5
     - word: な
@@ -38128,6 +40012,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: かつて
       base: 嘗て
       position: 5
@@ -38213,6 +40099,8 @@
     - word: あくらつ
       base: 悪辣
       position: 3
+      tags:
+        - silent
     - word: な
       base: だ
       dictionary: だ
@@ -38273,6 +40161,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: で
       position: 5
     - word: も
@@ -38314,6 +40204,8 @@
   words:
     - word: ユウヤ
       position: 1
+      tags:
+        - silent
     - word: あいつ
       base: 彼奴
       position: 6
@@ -38699,6 +40591,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: う〜ん
       base: ううん
       position: 5
@@ -38875,6 +40769,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 腹
       position: 5
     - word: が
@@ -38938,6 +40834,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: 遅れ
       base: 遅れる
       dictionary: 遅れる
@@ -38987,6 +40885,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: ああ
       position: 4
     - word: 頼む
@@ -39001,6 +40901,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 4
     - word: いっ
@@ -39043,6 +40945,8 @@
   words:
     - word: 店員
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 4
     - word: 1600万
@@ -39061,6 +40965,8 @@
     - word: ミナミ
       base: 南
       position: 1
+      tags:
+        - silent
     - word: ゴロ
       position: 5
     - word: さん
@@ -39073,6 +40979,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: あっ
       position: 4
     - word: ミナミ
@@ -39280,6 +41188,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: なんか
       position: 4
     - word: すい
@@ -39469,6 +41379,8 @@
     - word: ミナミ
       base: 南
       position: 1
+      tags:
+        - silent
     - word: 食べ
       base: 食べる
       dictionary: 食べる
@@ -39479,6 +41391,8 @@
       position: 7
     - word: ゴロ
       position: 12
+      tags:
+        - silent
     - word: 好き
       position: 15
     - word: です
@@ -39572,6 +41486,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: どう
       position: 5
     - word: も
@@ -39590,6 +41506,8 @@
   words:
     - word: ユウヤ
       position: 1
+      tags:
+        - silent
     - word: 三島
       position: 5
     - word: 三島
@@ -39604,6 +41522,8 @@
   words:
     - word: ユウヤ
       position: 1
+      tags:
+        - silent
     - word: あなた
       base: 貴方
       position: 5
@@ -39611,6 +41531,8 @@
       position: 8
     - word: 八丁
       position: 12
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -39638,6 +41560,8 @@
   words:
     - word: ユウヤ
       position: 1
+      tags:
+        - silent
     - word: すい
       base: すむ
       dictionary: すむ
@@ -39719,6 +41643,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: んな
       position: 4
     - word: こっ
@@ -39746,6 +41672,8 @@
   words:
     - word: ユウヤ
       position: 1
+      tags:
+        - silent
     - word: えっ
       position: 5
 - id: Smoking_Ep8_0.06.44.055-0.06.46.807
@@ -39775,12 +41703,20 @@
       position: 13
     - word: ドア
       position: 15
+      tags:
+        - silent
     - word: が
       position: 17
+      tags:
+        - silent
     - word: 開く
       position: 18
+      tags:
+        - silent
     - word: 音
       position: 20
+      tags:
+        - silent
 - id: Smoking_Ep8_0.06.51.938-0.06.53.981
   deck_name: Smoking
   translation: What are you doing?
@@ -39789,6 +41725,8 @@
   words:
     - word: 単
       position: 1
+      tags:
+        - silent
     - word: 何
       position: 3
     - word: し
@@ -39810,6 +41748,8 @@
       position: 12
     - word: ユウヤ
       position: 14
+      tags:
+        - silent
     - word: あっ
       position: 18
 - id: Smoking_Ep8_0.06.56.317-0.06.59.528
@@ -39948,6 +41888,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: どう
       position: 4
     - word: も〜
@@ -39961,6 +41903,8 @@
   words:
     - word: ユウヤ
       position: 1
+      tags:
+        - silent
     - word: 失礼
       position: 5
     - word: し
@@ -40044,6 +41988,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: そや
       base: 粗野
       position: 4
@@ -40087,9 +42033,13 @@
   words:
     - word: 社員
       position: 1
+      tags:
+        - silent
     - word: たち
       base: 達
       position: 3
+      tags:
+        - silent
     - word: ありがとう
       base: 有り難う
       position: 7
@@ -40151,9 +42101,13 @@
   words:
     - word: 社員
       position: 1
+      tags:
+        - silent
     - word: たち
       base: 達
       position: 3
+      tags:
+        - silent
     - word: 失礼
       position: 6
     - word: し
@@ -40170,6 +42124,8 @@
   words:
     - word: 社員
       position: 1
+      tags:
+        - silent
     - word: 単
       position: 4
     - word: 様
@@ -40257,6 +42213,8 @@
   words:
     - word: 単
       position: 1
+      tags:
+        - silent
     - word: ハア
       base: はあ
       position: 4
@@ -40282,6 +42240,8 @@
   words:
     - word: 社員
       position: 1
+      tags:
+        - silent
     - word: 単
       position: 5
     - word: 様
@@ -40294,6 +42254,8 @@
   words:
     - word: 社員
       position: 1
+      tags:
+        - silent
     - word: 単
       position: 5
     - word: 様
@@ -40306,6 +42268,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: フッ
       base: ふっ
       position: 4
@@ -40349,6 +42313,8 @@
   words:
     - word: 社員
       position: 1
+      tags:
+        - silent
     - word: 単
       position: 4
     - word: 様
@@ -40361,6 +42327,8 @@
   words:
     - word: 単
       position: 1
+      tags:
+        - silent
     - word: かわいい
       base: 可愛い
       position: 4
@@ -40414,13 +42382,21 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: け
       position: 4
+      tags:
+        - silent
     - word: ぬま
       base: 沼
       position: 5
+      tags:
+        - silent
     - word: 私
       position: 10
     - word: は
@@ -40446,11 +42422,17 @@
   words:
     - word: 砂地
       position: 1
+      tags:
+        - silent
     - word: すな
       base: 砂
       position: 4
+      tags:
+        - silent
     - word: じ
       position: 6
+      tags:
+        - silent
     - word: 毛
       position: 9
     - word: 沼
@@ -40480,6 +42462,8 @@
   words:
     - word: 砂地
       position: 1
+      tags:
+        - silent
     - word: これ
       base: 此れ
       position: 5
@@ -40513,8 +42497,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: 佐辺
       position: 4
     - word: は
@@ -40557,12 +42545,18 @@
   words:
     - word: 若林
       position: 1
+      tags:
+        - silent
     - word: わか
       base: 我が
       position: 4
+      tags:
+        - silent
     - word: ばやし
       base: はやし
       position: 6
+      tags:
+        - silent
     - word: 毛
       position: 11
     - word: 沼
@@ -40642,6 +42636,8 @@
     - word: ミナミ
       base: 南
       position: 1
+      tags:
+        - silent
     - word: いい
       base: 良い
       position: 5
@@ -40739,6 +42735,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 俺
       position: 5
     - word: なんか
@@ -40763,6 +42761,8 @@
     - word: ミナミ
       base: 南
       position: 1
+      tags:
+        - silent
     - word: えっ
       position: 5
 - id: Smoking_Ep8_0.11.22.792-0.11.24.376
@@ -41089,6 +43089,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: あいつ
       base: 彼奴
       position: 4
@@ -41171,10 +43173,14 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 八丁
       position: 4
     - word: 八丁
       position: 8
+      tags:
+        - silent
     - word: ん
       position: 11
 - id: Smoking_Ep8_0.13.32.254-0.13.34.339
@@ -41185,6 +43191,8 @@
   words:
     - word: ユウヤ
       position: 1
+      tags:
+        - silent
     - word: 受け
       base: 受ける
       dictionary: 受ける
@@ -41345,6 +43353,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: まいど
       base: 毎度
       position: 4
@@ -41356,6 +43366,8 @@
   words:
     - word: ユウヤ
       position: 1
+      tags:
+        - silent
     - word: よろしく
       base: 宜しく
       position: 5
@@ -41413,6 +43425,8 @@
     - word: まと
       base: 的
       position: 6
+      tags:
+        - silent
     - word: が
       position: 9
     - word: ちゃう
@@ -41447,6 +43461,8 @@
   words:
     - word: ユウヤ
       position: 1
+      tags:
+        - silent
     - word: えっ
       position: 5
 - id: Smoking_Ep8_0.15.02.094-0.15.05.722
@@ -41494,6 +43510,8 @@
     - word: しつけ
       base: 仕付け
       position: 2
+      tags:
+        - silent
     - word: の
       position: 6
     - word: でき
@@ -41540,6 +43558,8 @@
   words:
     - word: ユウヤ
       position: 1
+      tags:
+        - silent
     - word: 佐辺
       position: 5
     - word: さん
@@ -41631,8 +43651,12 @@
   words:
     - word: スマホ
       position: 1
+      tags:
+        - silent
     - word: 男
       position: 5
+      tags:
+        - silent
     - word: やめ
       base: やめる
       dictionary: やめる
@@ -41835,6 +43859,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: 言い訳
       position: 4
     - word: す
@@ -42006,6 +44032,8 @@
   words:
     - word: 単
       position: 1
+      tags:
+        - silent
     - word: 最高
       position: 3
     - word: だっ
@@ -42057,6 +44085,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: お
       base: 御
       position: 4
@@ -42079,6 +44109,8 @@
   words:
     - word: ユウヤ
       position: 1
+      tags:
+        - silent
     - word: 何
       position: 5
     - word: な
@@ -42101,6 +44133,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 単
       position: 4
     - word: 女史
@@ -42151,6 +44185,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: かしこまり
       base: 畏まる
       dictionary: かしこまる
@@ -42273,6 +44309,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: ああ
       position: 4
 - id: Smoking_Ep8_0.17.33.579-0.17.36.915
@@ -42314,6 +44352,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: 佐辺
       position: 4
     - word: ジィ
@@ -42326,6 +44366,8 @@
   words:
     - word: 単
       position: 1
+      tags:
+        - silent
     - word: あら
       position: 3
     - word: かわいい
@@ -42354,6 +44396,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: どうぞ
       position: 4
 - id: Smoking_Ep8_0.17.50.763-0.17.54.349
@@ -42384,6 +44428,8 @@
   words:
     - word: 単
       position: 1
+      tags:
+        - silent
     - word: できる
       base: 出来る
       position: 4
@@ -42421,6 +44467,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: ええ
       position: 4
 - id: Smoking_Ep8_0.18.09.198-0.18.14.995
@@ -42517,6 +44565,8 @@
   words:
     - word: 単
       position: 1
+      tags:
+        - silent
     - word: あら
       position: 3
     - word: や
@@ -42577,6 +44627,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 私
       position: 4
     - word: たち
@@ -42707,6 +44759,8 @@
     - word: つら
       base: 面
       position: 6
+      tags:
+        - silent
     - word: の
       position: 9
     - word: 皮
@@ -42783,6 +44837,8 @@
   words:
     - word: 単
       position: 1
+      tags:
+        - silent
     - word: えっ
       position: 3
     - word: なに
@@ -42832,6 +44888,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 邪魔
       position: 4
     - word: な
@@ -42867,6 +44925,8 @@
     - word: あ
       base: あっ
       position: 6
+      tags:
+        - silent
     - word: しき
       position: 8
     - word: 前例
@@ -42984,6 +45044,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: そや
       base: 粗野
       position: 4
@@ -43064,6 +45126,8 @@
   words:
     - word: ユウヤ
       position: 1
+      tags:
+        - silent
     - word: どう
       position: 5
     - word: なっ
@@ -43087,6 +45151,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: これ
       base: 此れ
       position: 5
@@ -43115,6 +45181,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: 俺
       position: 5
     - word: ら
@@ -43185,6 +45253,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: おう
       base: おお
       position: 4
@@ -43226,6 +45296,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: お前
       base: 御前
       position: 5
@@ -43335,6 +45407,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: いっ
       base: 行く
       dictionary: いく
@@ -43358,6 +45432,8 @@
       position: 14
     - word: 八丁
       position: 16
+      tags:
+        - silent
     - word: ハハハッ
       position: 19
 - id: Smoking_Ep8_0.22.12.399-0.22.13.900
@@ -43368,6 +45444,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: いっ
       base: 行く
       dictionary: いく
@@ -43388,6 +45466,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: 俺
       position: 4
     - word: ら
@@ -43431,6 +45511,8 @@
   words:
     - word: 店員
       position: 1
+      tags:
+        - silent
     - word: あっ
       position: 4
 - id: Smoking_Ep9_0.00.42.213-0.00.44.632
@@ -43441,11 +45523,17 @@
   words:
     - word: 砂地
       position: 1
+      tags:
+        - silent
     - word: すな
       base: 砂
       position: 4
+      tags:
+        - silent
     - word: じ
       position: 6
+      tags:
+        - silent
     - word: 前回
       position: 9
     - word: の
@@ -43490,12 +45578,18 @@
   words:
     - word: 榊原
       position: 1
+      tags:
+        - silent
     - word: さかき
       base: 榊
       position: 4
+      tags:
+        - silent
     - word: ばら
       base: 輩
       position: 7
+      tags:
+        - silent
     - word: すごい
       base: 凄い
       position: 11
@@ -43555,6 +45649,8 @@
   words:
     - word: 砂地
       position: 1
+      tags:
+        - silent
     - word: ありがとう
       base: 有り難う
       position: 4
@@ -43591,6 +45687,8 @@
   words:
     - word: 榊原
       position: 1
+      tags:
+        - silent
     - word: いえ
       position: 4
     - word: いえ
@@ -43610,6 +45708,8 @@
   words:
     - word: 榊原
       position: 1
+      tags:
+        - silent
     - word: 砂地
       position: 4
     - word: さん
@@ -43755,6 +45855,8 @@
     - word: のち
       base: 後
       position: 2
+      tags:
+        - silent
     - word: の
       position: 5
     - word: 利益
@@ -43794,6 +45896,8 @@
   words:
     - word: 砂地
       position: 1
+      tags:
+        - silent
     - word: 猿
       position: 4
     - word: が
@@ -44023,6 +46127,8 @@
     - word: さだめ
       base: 定め
       position: 12
+      tags:
+        - silent
     - word: な
       base: だ
       dictionary: だ
@@ -44071,8 +46177,12 @@
     - word: び
       base: びっ
       position: 16
+      tags:
+        - silent
     - word: こく
       position: 17
+      tags:
+        - silent
     - word: 会議
       position: 20
     - word: を
@@ -44139,13 +46249,21 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: け
       position: 4
+      tags:
+        - silent
     - word: ぬま
       base: 沼
       position: 5
+      tags:
+        - silent
     - word: やっぱ
       base: 矢張り
       position: 9
@@ -44154,6 +46272,8 @@
     - word: つえ
       base: 杖
       position: 14
+      tags:
+        - silent
     - word: えな
       position: 17
     - word: '56'
@@ -44168,6 +46288,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: ミナミ
       base: 南
       position: 4
@@ -44185,12 +46307,18 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: はっ
       base: 八
       position: 4
+      tags:
+        - silent
     - word: ちょう
       base: 鳥
       position: 6
+      tags:
+        - silent
     - word: 佐辺
       position: 11
     - word: ジィ
@@ -44226,6 +46354,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 数
       position: 5
     - word: 日
@@ -44290,6 +46420,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: ああ
       position: 4
     - word: 腹
@@ -44389,6 +46521,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: ミナミ
       base: 南
       position: 4
@@ -44408,8 +46542,12 @@
   words:
     - word: モニター
       position: 1
+      tags:
+        - silent
     - word: 男
       position: 6
+      tags:
+        - silent
     - word: カメラ
       position: 9
     - word: ここ
@@ -44461,8 +46599,12 @@
   words:
     - word: モニター
       position: 1
+      tags:
+        - silent
     - word: 男
       position: 6
+      tags:
+        - silent
     - word: ちゃんと
       position: 9
     - word: 見
@@ -44481,8 +46623,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: ここ
       base: 此処
       position: 5
@@ -44631,6 +46777,8 @@
     - word: ミナミ
       base: 南
       position: 1
+      tags:
+        - silent
     - word: やめ
       base: やめる
       dictionary: やめる
@@ -44645,8 +46793,12 @@
   words:
     - word: モニター
       position: 1
+      tags:
+        - silent
     - word: 男
       position: 6
+      tags:
+        - silent
     - word: こっち
       base: 此方
       position: 9
@@ -44832,6 +46984,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: 冷戦
       position: 6
     - word: 言う
@@ -44883,6 +47037,8 @@
       base: 見る
       dictionary: みる
       position: 21
+      tags:
+        - silent
     - word: せ
       base: 為る
       dictionary: する
@@ -44891,6 +47047,8 @@
       position: 24
     - word: もん
       position: 26
+      tags:
+        - silent
 - id: Smoking_Ep9_0.06.36.067-0.06.38.068
   deck_name: Smoking
   translation: He was brutal, wasn't he?
@@ -44921,6 +47079,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: ああ
       position: 4
 - id: Smoking_Ep9_0.06.41.239-0.06.46.076
@@ -44944,6 +47104,8 @@
     - word: むしば
       base: 虫歯
       position: 7
+      tags:
+        - silent
     - word: まれ
       base: 稀
       position: 11
@@ -45029,12 +47191,16 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 出せ
       base: 出す
       dictionary: 出す
       position: 4
     - word: 男
       position: 8
+      tags:
+        - silent
     - word: 金
       position: 10
     - word: は
@@ -45047,6 +47213,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: ひどい
       base: 酷い
       position: 4
@@ -45186,6 +47354,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: ここ
       base: 此処
       position: 4
@@ -45234,6 +47404,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 薬
       position: 5
     - word: が
@@ -45278,6 +47450,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: よく
       base: 良く
       position: 4
@@ -45345,6 +47519,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 俺
       position: 4
     - word: に
@@ -45463,6 +47639,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: やめろ
       base: やめる
       dictionary: やめる
@@ -45475,6 +47653,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 命乞い
       position: 5
     - word: する
@@ -45520,6 +47700,8 @@
     - word: ちゅうちょ
       base: 躊躇
       position: 5
+      tags:
+        - silent
     - word: も
       position: 11
     - word: なく
@@ -45643,6 +47825,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 俺
       position: 4
     - word: の
@@ -45703,6 +47887,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 君
       position: 4
     - word: の
@@ -45755,6 +47941,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 別
       position: 4
     - word: の
@@ -45769,6 +47957,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: ああ
       position: 4
 - id: Smoking_Ep9_0.11.32.613-0.11.37.951
@@ -45870,6 +48060,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: 新入り
       position: 3
     - word: か
@@ -45903,6 +48095,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 名前
       position: 4
 - id: Smoking_Ep9_0.12.30.087-0.12.31.630
@@ -45913,6 +48107,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: ゴロ
       position: 4
     - word: や
@@ -45938,6 +48134,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: ゴロ
       position: 3
     - word: ちゃん
@@ -45971,6 +48169,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: おっ
       base: 伯父
       position: 4
@@ -46022,6 +48222,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: 俺
       position: 4
     - word: ら
@@ -46188,6 +48390,8 @@
   words:
     - word: 砂地
       position: 1
+      tags:
+        - silent
     - word: 冷戦
       position: 5
     - word: を
@@ -46279,6 +48483,8 @@
   words:
     - word: 女
       position: 1
+      tags:
+        - silent
     - word: 殺せ
       base: 殺す
       dictionary: 殺す
@@ -46291,6 +48497,8 @@
   words:
     - word: 榊原
       position: 1
+      tags:
+        - silent
     - word: 時間
       position: 5
     - word: が
@@ -46346,9 +48554,13 @@
     - word: うっ
       base: うう
       position: 6
+      tags:
+        - silent
     - word: くつ
       base: 靴
       position: 8
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -46383,6 +48595,8 @@
   words:
     - word: 砂地
       position: 1
+      tags:
+        - silent
     - word: 鬱屈
       position: 4
     - word: その
@@ -46632,6 +48846,8 @@
   words:
     - word: 砂地
       position: 1
+      tags:
+        - silent
     - word: 心得
       base: 心得る
       dictionary: 心得る
@@ -46884,6 +49100,8 @@
   words:
     - word: 砂地
       position: 1
+      tags:
+        - silent
     - word: ホント
       base: 本当
       position: 5
@@ -46997,6 +49215,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: 失礼
       position: 3
     - word: し
@@ -47021,6 +49241,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 私
       position: 5
     - word: の
@@ -47049,6 +49271,8 @@
   words:
     - word: 砂地
       position: 1
+      tags:
+        - silent
     - word: 仲間
       position: 4
 - id: Smoking_Ep9_0.22.15.066-0.22.20.321
@@ -47095,11 +49319,17 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: さ
       position: 4
+      tags:
+        - silent
     - word: べ
       base: べい
       position: 5
+      tags:
+        - silent
     - word: 今日
       position: 8
     - word: で
@@ -47133,13 +49363,21 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: け
       position: 4
+      tags:
+        - silent
     - word: ぬま
       base: 沼
       position: 5
+      tags:
+        - silent
     - word: 今日
       position: 10
     - word: から
@@ -47174,12 +49412,18 @@
   words:
     - word: 榊原
       position: 1
+      tags:
+        - silent
     - word: さかき
       base: 榊
       position: 4
+      tags:
+        - silent
     - word: ばら
       base: 輩
       position: 7
+      tags:
+        - silent
     - word: ぜひ
       base: 是非
       position: 12
@@ -47234,12 +49478,18 @@
   words:
     - word: 若林
       position: 1
+      tags:
+        - silent
     - word: わか
       base: 我が
       position: 4
+      tags:
+        - silent
     - word: ばやし
       base: はやし
       position: 6
+      tags:
+        - silent
     - word: 彼
       position: 12
     - word: を
@@ -47264,6 +49514,8 @@
   words:
     - word: 若林
       position: 1
+      tags:
+        - silent
     - word: 毛
       position: 4
     - word: 沼
@@ -47320,8 +49572,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: 聞こえ
       base: 聞こえる
       dictionary: 聞こえる
@@ -47376,6 +49632,8 @@
   words:
     - word: 若林
       position: 1
+      tags:
+        - silent
     - word: お
       base: 御
       position: 4
@@ -47407,8 +49665,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: おら
       position: 5
     - word: なん
@@ -47434,6 +49696,8 @@
   words:
     - word: ヒフミン
       position: 1
+      tags:
+        - silent
     - word: あっ
       position: 6
     - word: <
@@ -47447,8 +49711,12 @@
       position: 12
     - word: 毛
       position: 14
+      tags:
+        - silent
     - word: 沼
       position: 15
+      tags:
+        - silent
     - word: なに
       base: 何
       position: 17
@@ -47462,8 +49730,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: ようこそ
       position: 4
     - word: 佐辺
@@ -47515,6 +49787,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: この
       base: 此の
       position: 4
@@ -47536,8 +49810,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: なあ
       base: な
       position: 5
@@ -47565,6 +49843,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 覚え
       base: 覚える
       dictionary: 覚える
@@ -47627,8 +49907,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: 惨殺
       position: 4
     - word: し
@@ -47647,6 +49931,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 彼
       position: 5
     - word: は
@@ -47830,8 +50116,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: 何
       position: 4
     - word: 言っ
@@ -47887,6 +50177,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 私
       position: 4
     - word: が
@@ -47928,8 +50220,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: ああ
       position: 4
 - id: Smoking_Ep12_0.04.12.955-0.04.18.000
@@ -47940,6 +50236,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 私
       position: 5
     - word: が
@@ -47983,8 +50281,12 @@
     - word: すな
       base: 砂
       position: 7
+      tags:
+        - silent
     - word: じ
       position: 9
+      tags:
+        - silent
     - word: から
       position: 11
     - word: 預かっ
@@ -48014,8 +50316,12 @@
     - word: び
       base: びっ
       position: 3
+      tags:
+        - silent
     - word: こく
       position: 4
+      tags:
+        - silent
     - word: 会議
       position: 7
     - word: から
@@ -48160,8 +50466,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: 見ろ
       base: 見る
       dictionary: 見る
@@ -48230,8 +50540,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: まあ
       position: 4
     - word: いい
@@ -48263,6 +50577,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: もう
       position: 4
     - word: 一
@@ -48284,8 +50600,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: 何
       position: 4
     - word: だ
@@ -48303,6 +50623,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 私
       position: 5
     - word: が
@@ -48352,8 +50674,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: テープ
       position: 5
     - word: と
@@ -48418,6 +50744,8 @@
   words:
     - word: 若林
       position: 1
+      tags:
+        - silent
     - word: 会長
       position: 4
 - id: Smoking_Ep12_0.06.52.656-0.06.55.825
@@ -48461,8 +50789,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: おい
       position: 4
     - word: 中
@@ -48684,12 +51016,18 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: おい
       position: 4
     - word: 男
       position: 8
+      tags:
+        - silent
     - word: はい
       position: 10
 - id: Smoking_Ep12_0.08.33.756-0.08.35.174
@@ -48939,6 +51277,8 @@
   words:
     - word: ヒフミン
       position: 1
+      tags:
+        - silent
     - word: 僕
       position: 6
     - word: も
@@ -48989,8 +51329,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: 美しい
       position: 4
     - word: 親子
@@ -49050,8 +51394,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: おい
       position: 4
 - id: Smoking_Ep12_0.10.55.941-0.10.57.859
@@ -49102,6 +51450,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: おら
       position: 4
 - id: Smoking_Ep12_0.11.30.642-0.11.33.686
@@ -49112,12 +51462,18 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: はっ
       base: 八
       position: 4
+      tags:
+        - silent
     - word: ちょう
       base: 鳥
       position: 6
+      tags:
+        - silent
     - word: ほら
       position: 12
     - word: 道連れ
@@ -49238,10 +51594,16 @@
   words:
     - word: ヒフミン
       position: 1
+      tags:
+        - silent
     - word: の
       position: 5
+      tags:
+        - silent
     - word: 母
       position: 6
+      tags:
+        - silent
     - word: 愛し
       base: 愛する
       dictionary: 愛する
@@ -49270,6 +51632,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 殺す
       position: 4
     - word: ん
@@ -49305,6 +51669,8 @@
     - word: けが
       base: 怪我
       position: 10
+      tags:
+        - silent
     - word: れ
       base: れる
       dictionary: れる
@@ -49417,6 +51783,8 @@
     - word: ざんげ
       base: 懺悔
       position: 3
+      tags:
+        - silent
     - word: を
       position: 7
     - word: し
@@ -49446,6 +51814,8 @@
   words:
     - word: 雛
       position: 1
+      tags:
+        - silent
     - word: えっ
       position: 3
     - word: これ
@@ -49466,6 +51836,8 @@
   words:
     - word: 女の子
       position: 1
+      tags:
+        - silent
     - word: あっ
       position: 5
     - word: なんか
@@ -49484,6 +51856,8 @@
   words:
     - word: 雛
       position: 1
+      tags:
+        - silent
     - word: これ
       base: 此れ
       position: 3
@@ -49501,6 +51875,8 @@
   words:
     - word: 女の子
       position: 1
+      tags:
+        - silent
     - word: ちっちゃい
       base: 小さい
       position: 5
@@ -49512,6 +51888,8 @@
   words:
     - word: 雛
       position: 1
+      tags:
+        - silent
     - word: じゃあ
       base: で
       position: 3
@@ -49530,6 +51908,8 @@
   words:
     - word: 女の子
       position: 1
+      tags:
+        - silent
     - word: うん
       position: 5
 - id: Smoking_Ep12_0.16.34.237-0.16.35.571
@@ -49540,6 +51920,8 @@
   words:
     - word: 雛
       position: 1
+      tags:
+        - silent
     - word: これ
       base: 此れ
       position: 3
@@ -49553,6 +51935,8 @@
   words:
     - word: トレーナー
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 7
     - word: もう
@@ -49731,6 +52115,8 @@
   words:
     - word: 榊原
       position: 1
+      tags:
+        - silent
     - word: 若林
       position: 5
     - word: さん
@@ -49761,6 +52147,8 @@
   words:
     - word: 若林
       position: 1
+      tags:
+        - silent
     - word: 議長
       position: 5
     - word: の
@@ -49838,6 +52226,8 @@
   words:
     - word: 若林
       position: 1
+      tags:
+        - silent
     - word: 承知
       position: 4
     - word: し
@@ -49858,8 +52248,12 @@
   words:
     - word: 使用
       position: 1
+      tags:
+        - silent
     - word: 人
       position: 3
+      tags:
+        - silent
     - word: お
       base: 御
       position: 6
@@ -49896,6 +52290,8 @@
   words:
     - word: 榊原
       position: 1
+      tags:
+        - silent
     - word: 佐辺
       position: 4
     - word: さん
@@ -49930,6 +52326,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: いえ
       position: 4
 - id: Smoking_Ep12_0.18.39.112-0.18.41.405
@@ -49940,6 +52338,8 @@
   words:
     - word: 榊原
       position: 1
+      tags:
+        - silent
     - word: これ
       base: 此れ
       position: 4
@@ -49971,6 +52371,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 毛
       position: 4
     - word: 沼
@@ -50073,6 +52475,8 @@
   words:
     - word: 榊原
       position: 1
+      tags:
+        - silent
     - word: しかし
       base: 然し
       position: 5
@@ -50203,6 +52607,8 @@
   words:
     - word: 榊原
       position: 1
+      tags:
+        - silent
     - word: そう
       position: 5
     - word: いえ
@@ -50541,6 +52947,8 @@
     - word: ふち
       base: 縁
       position: 5
+      tags:
+        - silent
     - word: に
       position: 8
     - word: 突き
@@ -50686,6 +53094,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: この
       base: 此の
       position: 5
@@ -50826,11 +53236,17 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: さ
       position: 4
+      tags:
+        - silent
     - word: べ
       base: べい
       position: 5
+      tags:
+        - silent
     - word: 私
       position: 9
     - word: の
@@ -50901,11 +53317,17 @@
   words:
     - word: 砂地
       position: 1
+      tags:
+        - silent
     - word: すな
       base: 砂
       position: 4
+      tags:
+        - silent
     - word: じ
       position: 6
+      tags:
+        - silent
     - word: その
       base: 其の
       position: 9
@@ -50932,9 +53354,13 @@
       position: 7
     - word: け
       position: 9
+      tags:
+        - silent
     - word: ぬま
       base: 沼
       position: 10
+      tags:
+        - silent
     - word: の
       position: 13
     - word: 絵図
@@ -50987,8 +53413,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: 教える
       position: 4
     - word: の
@@ -51133,12 +53563,18 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: はっ
       base: 八
       position: 4
+      tags:
+        - silent
     - word: ちょう
       base: 鳥
       position: 6
+      tags:
+        - silent
     - word: ハア
       base: はあ
       position: 12
@@ -51234,12 +53670,18 @@
   words:
     - word: 若林
       position: 1
+      tags:
+        - silent
     - word: わか
       base: 我が
       position: 4
+      tags:
+        - silent
     - word: ばやし
       base: はやし
       position: 6
+      tags:
+        - silent
     - word: 毛
       position: 12
     - word: 沼
@@ -51276,6 +53718,8 @@
   words:
     - word: 砂地
       position: 1
+      tags:
+        - silent
     - word: これ
       base: 此れ
       position: 4
@@ -51297,8 +53741,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: 隣
       base: 隣り
       position: 5
@@ -51322,6 +53770,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: クリーナー
       position: 5
     - word: と
@@ -51348,8 +53798,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: '10'
       position: 5
     - word: 年
@@ -51426,11 +53880,17 @@
     - word: みず
       base: 水
       position: 5
+      tags:
+        - silent
     - word: ぬま
       base: 沼
       position: 7
+      tags:
+        - silent
     - word: しんじ
       position: 9
+      tags:
+        - silent
     - word: さん
       position: 13
 - id: Smoking_Ep10_0.02.19.913-0.02.24.625
@@ -51482,6 +53942,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: お前
       base: 御前
       position: 4
@@ -51490,6 +53952,8 @@
     - word: なにもん
       base: 何者
       position: 10
+      tags:
+        - silent
     - word: や
       position: 15
 - id: Smoking_Ep10_0.02.32.342-0.02.35.136
@@ -51553,8 +54017,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: なぜ
       base: 何故
       position: 4
@@ -51575,6 +54043,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: ああ
       position: 4
 - id: Smoking_Ep10_0.02.43.686-0.02.46.814
@@ -51585,8 +54055,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: 今
       position: 5
     - word: まで
@@ -51706,8 +54180,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: 俺
       position: 4
     - word: の
@@ -51799,6 +54277,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: 審議
       position: 5
     - word: 官
@@ -51849,8 +54329,12 @@
   words:
     - word: 審議
       position: 1
+      tags:
+        - silent
     - word: 官
       position: 3
+      tags:
+        - silent
     - word: 水沼
       position: 5
 - id: Smoking_Ep10_0.03.59.012-0.04.01.847
@@ -51894,8 +54378,12 @@
   words:
     - word: 審議
       position: 1
+      tags:
+        - silent
     - word: 官
       position: 3
+      tags:
+        - silent
     - word: 上
       position: 5
     - word: から
@@ -51940,8 +54428,12 @@
   words:
     - word: 春美
       position: 1
+      tags:
+        - silent
     - word: はるみ
       position: 4
+      tags:
+        - silent
     - word: パパ
       position: 9
 - id: Smoking_Ep10_0.04.32.337-0.04.33.921
@@ -51966,6 +54458,8 @@
   words:
     - word: 明子
       position: 1
+      tags:
+        - silent
     - word: フフッ
       base: ふふ
       position: 4
@@ -52027,6 +54521,8 @@
   words:
     - word: 春美
       position: 1
+      tags:
+        - silent
     - word: 春美
       position: 5
     - word: ママ
@@ -52077,6 +54573,8 @@
   words:
     - word: 春美
       position: 1
+      tags:
+        - silent
     - word: あ〜
       base: ああ
       position: 4
@@ -52084,6 +54582,8 @@
       position: 6
     - word: 明子
       position: 9
+      tags:
+        - silent
     - word: ありがとう
       base: 有り難う
       position: 12
@@ -52095,6 +54595,8 @@
   words:
     - word: 明子
       position: 1
+      tags:
+        - silent
     - word: うん
       position: 4
     - word: おいしい
@@ -52108,8 +54610,12 @@
   words:
     - word: 審議
       position: 1
+      tags:
+        - silent
     - word: 官
       position: 3
+      tags:
+        - silent
     - word: お前
       base: 御前
       position: 6
@@ -52137,6 +54643,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: 我々
       position: 5
     - word: の
@@ -52234,8 +54742,12 @@
   words:
     - word: 審議
       position: 1
+      tags:
+        - silent
     - word: 官
       position: 3
+      tags:
+        - silent
     - word: 俺
       position: 5
     - word: は
@@ -52351,6 +54863,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: お前
       base: 御前
       position: 4
@@ -52361,6 +54875,8 @@
     - word: や
       base: やあ
       position: 9
+      tags:
+        - silent
     - word: っ
       position: 11
     - word: た
@@ -52377,6 +54893,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: ヒフミン
       position: 4
     - word: そっち
@@ -52405,6 +54923,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 我々
       position: 4
     - word: は
@@ -52567,6 +55087,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 君
       position: 5
     - word: は
@@ -52764,6 +55286,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 奥さん
       position: 5
     - word: や
@@ -52817,8 +55341,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: 自分
       position: 5
     - word: の
@@ -52876,6 +55404,8 @@
     - word: ミナミ
       base: 南
       position: 1
+      tags:
+        - silent
     - word: こんな
       position: 6
     - word: こと
@@ -52917,8 +55447,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: 楽しもう
       base: 楽しむ
       dictionary: 楽しむ
@@ -52934,6 +55468,8 @@
     - word: ミナミ
       base: 南
       position: 1
+      tags:
+        - silent
     - word: きゃ〜
       base: きゃあ
       position: 5
@@ -52978,6 +55514,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: 佐辺
       position: 4
     - word: ジィ
@@ -53037,6 +55575,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: 誰
       position: 4
     - word: に
@@ -53154,6 +55694,8 @@
   words:
     - word: 男
       position: 1
+      tags:
+        - silent
     - word: おい
       position: 3
 - id: Smoking_Ep10_0.13.39.884-0.13.41.218
@@ -53164,6 +55706,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: やめろ
       base: やめる
       dictionary: やめる
@@ -53278,6 +55822,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: ゴロ
       position: 4
 - id: Smoking_Ep10_0.15.09.473-0.15.12.142
@@ -53288,6 +55834,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: シャブ
       base: しゃぶ
       position: 4
@@ -53313,8 +55861,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: おい
       position: 5
     - word: '56'
@@ -53472,8 +56024,12 @@
   words:
     - word: 大声
       position: 1
+      tags:
+        - silent
     - word: で
       position: 3
+      tags:
+        - silent
     - word: かかっ
       base: 掛かる
       dictionary: かかる
@@ -53507,6 +56063,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: おい
       position: 5
     - word: こん
@@ -53628,8 +56186,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: おい
       position: 5
     - word: '56'
@@ -53658,6 +56220,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: うるせえ
       base: 煩い
       dictionary: うるさい
@@ -53680,6 +56244,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 毛
       position: 5
     - word: 沼
@@ -53788,8 +56354,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: な
       base: だ
       dictionary: だ
@@ -53837,6 +56407,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: 常識
       position: 5
     - word: の
@@ -53897,6 +56469,8 @@
   words:
     - word: ゴロ
       position: 1
+      tags:
+        - silent
     - word: 大丈夫
       position: 4
     - word: か
@@ -54046,12 +56620,18 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: はっ
       base: 八
       position: 4
+      tags:
+        - silent
     - word: ちょう
       base: 鳥
       position: 6
+      tags:
+        - silent
     - word: 殺し
       base: 殺す
       dictionary: 殺す
@@ -54070,6 +56650,8 @@
   words:
     - word: ヒフミン
       position: 1
+      tags:
+        - silent
     - word: やめ
       base: やめる
       dictionary: やめる
@@ -54095,13 +56677,21 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: け
       position: 4
+      tags:
+        - silent
     - word: ぬま
       base: 沼
       position: 5
+      tags:
+        - silent
     - word: なん
       base: 何
       position: 10
@@ -54147,6 +56737,8 @@
     - word: ミナミ
       base: 南
       position: 1
+      tags:
+        - silent
     - word: えっ
       position: 5
 - id: Smoking_Ep11_0.00.25.347-0.00.26.764
@@ -54165,8 +56757,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: なぜ
       base: 何故
       position: 5
@@ -54194,9 +56790,13 @@
       position: 6
     - word: さ
       position: 9
+      tags:
+        - silent
     - word: べ
       base: べい
       position: 10
+      tags:
+        - silent
     - word: 殺せ
       base: 殺す
       dictionary: 殺せる
@@ -54215,11 +56815,17 @@
   words:
     - word: 砂地
       position: 1
+      tags:
+        - silent
     - word: すな
       base: 砂
       position: 4
+      tags:
+        - silent
     - word: じ
       position: 6
+      tags:
+        - silent
     - word: それ
       base: 其れ
       position: 10
@@ -54263,6 +56869,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 八丁
       position: 4
 - id: Smoking_Ep11_0.01.28.827-0.01.30.244
@@ -54346,6 +56954,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 八丁
       position: 4
 - id: Smoking_Ep11_0.02.15.457-0.02.17.667
@@ -54632,6 +57242,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 4
     - word: どうぞ
@@ -54644,6 +57256,8 @@
   words:
     - word: 砂地
       position: 1
+      tags:
+        - silent
     - word: 腕
       position: 5
     - word: の
@@ -54685,6 +57299,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: クリーナー
       position: 5
     - word: の
@@ -54697,6 +57313,8 @@
       position: 17
     - word: あきら
       position: 19
+      tags:
+        - silent
 - id: Smoking_Ep11_0.03.51.886-0.03.53.804
   deck_name: Smoking
   translation: '&quot;The Cleaner&quot;?'
@@ -54713,6 +57331,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: クリーナー
       position: 4
     - word: と
@@ -55069,6 +57689,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: その
       base: 其の
       position: 5
@@ -55176,12 +57798,18 @@
   words:
     - word: 榊原
       position: 1
+      tags:
+        - silent
     - word: さかき
       base: 榊
       position: 4
+      tags:
+        - silent
     - word: ばら
       base: 輩
       position: 7
+      tags:
+        - silent
     - word: 早かっ
       base: 早い
       dictionary: 早い
@@ -55205,6 +57833,8 @@
     - word: じきじき
       base: 直々
       position: 6
+      tags:
+        - silent
     - word: の
       position: 11
     - word: ご
@@ -55224,6 +57854,8 @@
   words:
     - word: 榊原
       position: 1
+      tags:
+        - silent
     - word: まさか
       position: 5
     - word: 転落
@@ -55275,13 +57907,19 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: 美国
       position: 5
     - word: び
       base: びっ
       position: 8
+      tags:
+        - silent
     - word: こく
       position: 9
+      tags:
+        - silent
     - word: 会議
       position: 12
     - word: の
@@ -55294,6 +57932,8 @@
       position: 20
     - word: まさゆき
       position: 23
+      tags:
+        - silent
 - id: Smoking_Ep11_0.06.01.683-0.06.04.101
   deck_name: Smoking
   translation: '&quot;The Bikoku Assembly&quot;?'
@@ -55335,6 +57975,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: ああ
       position: 4
 - id: Smoking_Ep11_0.06.12.735-0.06.17.156
@@ -55579,6 +58221,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: あの
       base: 彼の
       position: 5
@@ -55794,10 +58438,16 @@
   words:
     - word: ヒフミン
       position: 1
+      tags:
+        - silent
     - word: の
       position: 5
+      tags:
+        - silent
     - word: 母
       position: 6
+      tags:
+        - silent
     - word: 愛し
       base: 愛する
       dictionary: 愛する
@@ -55846,6 +58496,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: だ
       position: 4
     - word: が
@@ -56092,6 +58744,8 @@
   words:
     - word: 八丁
       position: 1
+      tags:
+        - silent
     - word: 言い
       base: 言う
       dictionary: 言う
@@ -56151,6 +58805,8 @@
   words:
     - word: 榊原
       position: 1
+      tags:
+        - silent
     - word: 人間
       position: 5
     - word: は
@@ -56287,6 +58943,8 @@
   words:
     - word: 砂地
       position: 1
+      tags:
+        - silent
     - word: そう
       position: 4
     - word: なら
@@ -56350,6 +59008,8 @@
   words:
     - word: 榊原
       position: 1
+      tags:
+        - silent
     - word: そう
       position: 4
     - word: です
@@ -56368,6 +59028,8 @@
   words:
     - word: 砂地
       position: 1
+      tags:
+        - silent
     - word: いや
       base: 否
       position: 4
@@ -56506,6 +59168,8 @@
   words:
     - word: 砂地
       position: 1
+      tags:
+        - silent
     - word: 承知
       position: 4
     - word: し
@@ -56526,14 +59190,20 @@
   words:
     - word: 砂地
       position: 1
+      tags:
+        - silent
     - word: 若林
       position: 4
     - word: わか
       base: 我が
       position: 7
+      tags:
+        - silent
     - word: ばやし
       base: はやし
       position: 9
+      tags:
+        - silent
 - id: Smoking_Ep11_0.13.31.132-0.13.32.466
   deck_name: Smoking
   translation: Mr. Kenuma.
@@ -56542,6 +59212,8 @@
   words:
     - word: 若林
       position: 1
+      tags:
+        - silent
     - word: 毛
       position: 4
     - word: 沼
@@ -56606,6 +59278,8 @@
   words:
     - word: 砂地
       position: 1
+      tags:
+        - silent
     - word: 毛
       position: 4
     - word: 沼
@@ -56683,8 +59357,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: いえ
       position: 4
 - id: Smoking_Ep11_0.14.22.600-0.14.27.187
@@ -56695,6 +59373,8 @@
   words:
     - word: 砂地
       position: 1
+      tags:
+        - silent
     - word: これ
       base: 此れ
       position: 5
@@ -56737,8 +59417,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: どういう
       position: 4
     - word: 意味
@@ -56795,6 +59479,8 @@
     - word: や
       base: やあ
       position: 5
+      tags:
+        - silent
     - word: れ
       base: れる
       dictionary: れる
@@ -56967,6 +59653,8 @@
       position: 8
     - word: あや
       position: 10
+      tags:
+        - silent
     - word: め
       base: む
       dictionary: む
@@ -57098,6 +59786,8 @@
   words:
     - word: 砂地
       position: 1
+      tags:
+        - silent
     - word: 決意
       position: 5
     - word: は
@@ -57120,6 +59810,8 @@
   words:
     - word: 佐辺
       position: 1
+      tags:
+        - silent
     - word: はい
       position: 4
 - id: Smoking_Ep11_0.16.29.018-0.16.32.354
@@ -57130,6 +59822,8 @@
   words:
     - word: 砂地
       position: 1
+      tags:
+        - silent
     - word: 我々
       position: 5
     - word: を
@@ -57225,12 +59919,18 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: バイバイ
       position: 4
     - word: 銃声
       position: 10
+      tags:
+        - silent
 - id: Smoking_Ep11_0.17.39.672-0.17.41.256
   deck_name: Smoking
   translation: You have visitors.
@@ -57239,8 +59939,12 @@
   words:
     - word: 使用
       position: 1
+      tags:
+        - silent
     - word: 人
       position: 3
+      tags:
+        - silent
     - word: お
       base: 御
       position: 5
@@ -57459,8 +60163,12 @@
   words:
     - word: 毛
       position: 1
+      tags:
+        - silent
     - word: 沼
       position: 2
+      tags:
+        - silent
     - word: 何
       position: 5
     - word: が
@@ -57610,6 +60318,8 @@
     - word: さまつ
       base: 瑣末
       position: 3
+      tags:
+        - silent
     - word: な
       base: だ
       dictionary: だ
@@ -57667,8 +60377,12 @@
       position: 9
     - word: バイブ
       position: 14
+      tags:
+        - silent
     - word: 音
       position: 17
+      tags:
+        - silent
 - id: Smoking_Ep11_0.19.33.327-0.19.34.744
   deck_name: Smoking
   translation: What is it?
@@ -57733,6 +60447,8 @@
   words:
     - word: 若林
       position: 1
+      tags:
+        - silent
     - word: やはり
       base: 矢張り
       position: 5
@@ -57835,6 +60551,8 @@
   words:
     - word: 若林
       position: 1
+      tags:
+        - silent
     - word: 佐辺
       position: 4
     - word: さん
@@ -58026,8 +60744,12 @@
     - word: かた
       base: 方
       position: 5
+      tags:
+        - silent
     - word: き
       position: 7
+      tags:
+        - silent
     - word: を
       position: 9
 - id: Smoking_Ep11_0.22.06.563-0.22.08.648

@@ -338,11 +338,17 @@
     - word: サヤ
       base: 莢
       position: 6
+      tags:
+        - silent
     - word: ちん
       base: ちゃん
       position: 8
+      tags:
+        - silent
     - word: テッシー
       position: 13
+      tags:
+        - silent
 - id: A-YourName022
   deck_name: Your Name
   translation: Morning.
@@ -392,6 +398,8 @@
     - word: ケチ
       base: けち
       position: 6
+      tags:
+        - silent
 - id: A-YourName025
   deck_name: Your Name
   translation: C'mon, you're heavy.
@@ -447,8 +455,12 @@
     - word: 三
       base: '3'
       position: 1
+      tags:
+        - silent
     - word: 葉
       position: 2
+      tags:
+        - silent
     - word: 今日
       position: 5
     - word: は
@@ -589,8 +601,12 @@
     - word: 三
       base: '3'
       position: 4
+      tags:
+        - silent
     - word: 葉
       position: 5
+      tags:
+        - silent
     - word: は
       position: 7
     - word: ストレス
@@ -745,6 +761,8 @@
       position: 12
     - word: 宮水
       position: 14
+      tags:
+        - silent
     - word: さん
       position: 17
     - word: で
@@ -1194,8 +1212,12 @@
   words:
     - word: 糸
       position: 1
+      tags:
+        - silent
     - word: 守
       position: 2
+      tags:
+        - silent
     - word: の
       position: 4
     - word: お
@@ -1253,6 +1275,8 @@
       position: 3
     - word: 宮水
       position: 6
+      tags:
+        - silent
     - word: さん
       position: 9
 - id: A-YourName061
@@ -1635,6 +1659,8 @@
   words:
     - word: テッシー
       position: 1
+      tags:
+        - silent
     - word: もし
       base: 若し
       position: 7
@@ -1688,8 +1714,12 @@
     - word: 三
       base: '3'
       position: 3
+      tags:
+        - silent
     - word: 葉
       position: 4
+      tags:
+        - silent
     - word: 昨日
       position: 7
     - word: は
@@ -2197,8 +2227,12 @@
     - word: 三
       base: '3'
       position: 1
+      tags:
+        - silent
     - word: 葉
       position: 2
+      tags:
+        - silent
     - word: 帰っ
       base: 帰る
       dictionary: 帰る
@@ -2248,8 +2282,12 @@
     - word: 三
       base: '3'
       position: 4
+      tags:
+        - silent
     - word: 葉
       position: 5
+      tags:
+        - silent
     - word: は
       position: 7
     - word: 主役
@@ -2283,6 +2321,8 @@
       position: 0
     - word: テッシー
       position: 4
+      tags:
+        - silent
 - id: A-YourName105
   deck_name: Your Name
   translation: What are you doing after you graduate?
@@ -2427,8 +2467,12 @@
     - word: 四
       base: '4'
       position: 1
+      tags:
+        - silent
     - word: 葉
       position: 2
+      tags:
+        - silent
     - word: に
       position: 4
     - word: は
@@ -2597,8 +2641,12 @@
       position: 8
     - word: 糸
       position: 11
+      tags:
+        - silent
     - word: 守
       position: 12
+      tags:
+        - silent
     - word: 千
       base: '1000'
       position: 14
@@ -2672,8 +2720,12 @@
       position: 5
     - word: 繭
       position: 8
+      tags:
+        - silent
     - word: 五郎
       position: 9
+      tags:
+        - silent
     - word: の
       position: 12
     - word: 風呂場
@@ -2763,8 +2815,12 @@
   words:
     - word: 繭
       position: 2
+      tags:
+        - silent
     - word: 五郎
       position: 3
+      tags:
+        - silent
     - word: の
       position: 6
     - word: 大火
@@ -2787,8 +2843,12 @@
       position: 6
     - word: 繭
       position: 10
+      tags:
+        - silent
     - word: 五郎
       position: 11
+      tags:
+        - silent
     - word: さん
       position: 14
     - word: かわいそう
@@ -2916,6 +2976,8 @@
       position: 5
     - word: 宮水
       position: 7
+      tags:
+        - silent
     - word: 神社
       position: 10
     - word: の
@@ -3206,6 +3268,8 @@
   words:
     - word: 克彦
       position: 1
+      tags:
+        - silent
     - word: 週末
       position: 5
     - word: は
@@ -3288,8 +3352,12 @@
     - word: 四
       base: '4'
       position: 4
+      tags:
+        - silent
     - word: 葉
       position: 5
+      tags:
+        - silent
     - word: ちゃん
       position: 7
     - word: か
@@ -3521,6 +3589,8 @@
       position: 6
     - word: 宮水
       position: 9
+      tags:
+        - silent
     - word: や
       position: 12
 - id: A-YourName151
@@ -3989,6 +4059,8 @@
     - word: 瀧
       base: 滝
       position: 1
+      tags:
+        - silent
     - word: 起き
       base: 起きる
       dictionary: 起きる
@@ -4170,6 +4242,8 @@
       position: 0
     - word: ツカサ
       position: 6
+      tags:
+        - silent
     - word: 誰
       position: 12
 - id: A-YourName181
@@ -4525,6 +4599,8 @@
     - word: 瀧
       base: 滝
       position: 1
+      tags:
+        - silent
     - word: 弁当
       position: 4
     - word: は
@@ -4643,6 +4719,8 @@
     - word: 瀧
       base: 滝
       position: 11
+      tags:
+        - silent
     - word: は
       position: 13
 - id: A-YourName208
@@ -4705,8 +4783,12 @@
       base: た
       dictionary: た
       position: 1
+      tags:
+        - silent
     - word: き
       position: 3
+      tags:
+        - silent
     - word: 決まっ
       base: 決まる
       dictionary: 決まる
@@ -4955,6 +5037,8 @@
     - word: 瀧
       base: 滝
       position: 9
+      tags:
+        - silent
 - id: A-YourName224
   deck_name: Your Name
   translation: Yes sir!
@@ -5045,6 +5129,8 @@
     - word: 瀧
       base: 滝
       position: 1
+      tags:
+        - silent
     - word: トリュフ
       position: 4
     - word: は
@@ -5072,6 +5158,8 @@
     - word: 瀧
       base: 滝
       position: 1
+      tags:
+        - silent
     - word: 声
       position: 4
     - word: が
@@ -5487,6 +5575,8 @@
   words:
     - word: 奥寺
       position: 1
+      tags:
+        - silent
     - word: 先輩
       position: 4
     - word: さっき
@@ -5586,6 +5676,8 @@
   words:
     - word: 奥寺
       position: 1
+      tags:
+        - silent
     - word: さん
       position: 4
     - word: その
@@ -5649,6 +5741,8 @@
     - word: 瀧
       base: 滝
       position: 4
+      tags:
+        - silent
 - id: A-YourName259
   deck_name: Your Name
   translation: Take off your skirt, please!
@@ -5733,6 +5827,8 @@
     - word: 瀧
       base: 滝
       position: 1
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 3
@@ -5828,6 +5924,8 @@
     - word: 瀧
       base: 滝
       position: 1
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 3
@@ -5892,6 +5990,8 @@
     - word: 瀧
       base: 滝
       position: 11
+      tags:
+        - silent
     - word: くん
       base: くむ
       dictionary: くむ
@@ -6093,6 +6193,8 @@
   words:
     - word: 司
       position: 1
+      tags:
+        - silent
     - word: もし
       base: 若し
       position: 4
@@ -6214,6 +6316,8 @@
     - word: 瀧
       base: 滝
       position: 5
+      tags:
+        - silent
     - word: 抜けがけ
       base: 抜け駆け
       position: 8
@@ -6272,6 +6376,8 @@
       position: 5
     - word: 奥寺
       position: 8
+      tags:
+        - silent
     - word: 先輩
       position: 11
     - word: と
@@ -6355,6 +6461,8 @@
   words:
     - word: 奥寺
       position: 1
+      tags:
+        - silent
     - word: 入り
       base: 入る
       dictionary: 入る
@@ -6416,8 +6524,12 @@
       base: た
       dictionary: た
       position: 4
+      tags:
+        - silent
     - word: き
       position: 6
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 8
@@ -6845,6 +6957,8 @@
     - word: 瀧
       base: 滝
       position: 1
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 3
@@ -6885,8 +6999,12 @@
     - word: 三
       base: '3'
       position: 8
+      tags:
+        - silent
     - word: 葉
       position: 9
+      tags:
+        - silent
     - word: と
       position: 11
     - word: の
@@ -7436,6 +7554,8 @@
       position: 6
     - word: 奥寺
       position: 8
+      tags:
+        - silent
     - word: 先輩
       position: 11
     - word: と
@@ -7480,8 +7600,12 @@
     - word: 三
       base: '3'
       position: 5
+      tags:
+        - silent
     - word: 葉
       position: 6
+      tags:
+        - silent
     - word: 俺
       position: 9
     - word: の
@@ -7508,6 +7632,8 @@
     - word: 瀧
       base: 滝
       position: 6
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 8
@@ -7822,8 +7948,12 @@
   words:
     - word: 繭
       position: 1
+      tags:
+        - silent
     - word: 五郎
       position: 2
+      tags:
+        - silent
     - word: の
       position: 5
     - word: せい
@@ -7908,13 +8038,21 @@
     - word: 三
       base: '3'
       position: 1
+      tags:
+        - silent
     - word: 葉
       position: 2
+      tags:
+        - silent
     - word: 四
       base: '4'
       position: 6
+      tags:
+        - silent
     - word: 葉
       position: 7
+      tags:
+        - silent
     - word: ムスビ
       base: 結び
       position: 10
@@ -8416,6 +8554,8 @@
       position: 2
     - word: 宮水
       position: 4
+      tags:
+        - silent
     - word: 神社
       position: 7
     - word: の
@@ -8691,8 +8831,12 @@
     - word: 三
       base: '3'
       position: 4
+      tags:
+        - silent
     - word: 葉
       position: 5
+      tags:
+        - silent
     - word: あんた
       base: 貴方
       position: 8
@@ -8733,6 +8877,8 @@
   words:
     - word: 奥寺
       position: 1
+      tags:
+        - silent
     - word: 先輩
       position: 4
 - id: A-YourName391
@@ -8761,8 +8907,12 @@
     - word: 三
       base: '3'
       position: 6
+      tags:
+        - silent
     - word: 葉
       position: 7
+      tags:
+        - silent
     - word: が
       position: 9
 - id: A-YourName393
@@ -8807,8 +8957,12 @@
       base: た
       dictionary: た
       position: 1
+      tags:
+        - silent
     - word: き
       position: 3
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 5
@@ -9034,6 +9188,8 @@
     - word: 瀧
       base: 滝
       position: 1
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 3
@@ -9141,6 +9297,8 @@
     - word: 瀧
       base: 滝
       position: 1
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 3
@@ -9408,6 +9566,8 @@
       position: 2
     - word: テッシー
       position: 5
+      tags:
+        - silent
     - word: か
       position: 10
 - id: A-YourName426
@@ -9527,8 +9687,12 @@
     - word: 三
       base: '3'
       position: 7
+      tags:
+        - silent
     - word: 葉
       position: 8
+      tags:
+        - silent
     - word: の
       position: 10
     - word: 浴衣
@@ -9731,8 +9895,12 @@
     - word: 三
       base: '3'
       position: 10
+      tags:
+        - silent
     - word: 葉
       position: 11
+      tags:
+        - silent
 - id: A-YourName440
   deck_name: Your Name
   translation: Your hair!
@@ -10050,6 +10218,8 @@
       position: 3
     - word: 高木
       position: 5
+      tags:
+        - silent
     - word: に
       position: 8
     - word: 頼ん
@@ -10206,6 +10376,8 @@
     - word: 瀧
       base: 滝
       position: 1
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 3
@@ -10393,8 +10565,12 @@
     - word: 三
       base: '3'
       position: 9
+      tags:
+        - silent
     - word: 葉
       position: 10
+      tags:
+        - silent
     - word: に
       position: 12
     - word: 会い
@@ -10698,6 +10874,8 @@
   words:
     - word: 高山
       position: 1
+      tags:
+        - silent
     - word: ラーメン
       position: 4
     - word: 一
@@ -10715,6 +10893,8 @@
   words:
     - word: 高山
       position: 1
+      tags:
+        - silent
     - word: ラーメン
       position: 4
     - word: 一
@@ -10738,6 +10918,8 @@
       position: 2
     - word: 高山
       position: 6
+      tags:
+        - silent
     - word: ラーメン
       position: 9
     - word: 一
@@ -10832,6 +11014,8 @@
     - word: 瀧
       base: 滝
       position: 1
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 3
@@ -10919,8 +11103,12 @@
       position: 10
     - word: 糸
       position: 13
+      tags:
+        - silent
     - word: 守
       position: 14
+      tags:
+        - silent
     - word: やろ
       base: や
       dictionary: や
@@ -10963,8 +11151,12 @@
       position: 0
     - word: 糸
       position: 4
+      tags:
+        - silent
     - word: 守
       position: 5
+      tags:
+        - silent
     - word: や
       position: 7
     - word: な
@@ -10995,8 +11187,12 @@
       position: 2
     - word: 糸
       position: 5
+      tags:
+        - silent
     - word: 守
       position: 6
+      tags:
+        - silent
     - word: 出身
       position: 8
     - word: や
@@ -11017,8 +11213,12 @@
       position: 2
     - word: 糸
       position: 5
+      tags:
+        - silent
     - word: 守
       position: 6
+      tags:
+        - silent
     - word: 町
       position: 8
 - id: A-YourName498
@@ -11059,8 +11259,12 @@
   words:
     - word: 糸
       position: 1
+      tags:
+        - silent
     - word: 守
       position: 2
+      tags:
+        - silent
     - word: って
       position: 4
     - word: の
@@ -11144,6 +11348,8 @@
     - word: 瀧
       base: 滝
       position: 8
+      tags:
+        - silent
     - word: の
       position: 10
     - word: 勘違い
@@ -11266,6 +11472,8 @@
     - word: 瀧
       base: 滝
       position: 17
+      tags:
+        - silent
     - word: だ
       position: 19
     - word: って
@@ -11550,8 +11758,12 @@
       position: 2
     - word: 糸
       position: 5
+      tags:
+        - silent
     - word: 守
       position: 6
+      tags:
+        - silent
     - word: に
       position: 8
     - word: は
@@ -11807,6 +12019,8 @@
     - word: 瀧
       base: 滝
       position: 1
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 3
@@ -11827,8 +12041,12 @@
       position: 4
     - word: 糸
       position: 6
+      tags:
+        - silent
     - word: 守
       position: 7
+      tags:
+        - silent
     - word: の
       position: 9
     - word: 記事
@@ -11990,6 +12208,8 @@
     - word: 瀧
       base: 滝
       position: 6
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 8
@@ -12055,6 +12275,8 @@
     - word: 瀧
       base: 滝
       position: 1
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 3
@@ -12100,6 +12322,8 @@
     - word: 瀧
       base: 滝
       position: 6
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 8
@@ -12412,6 +12636,8 @@
     - word: 瀧
       base: 滝
       position: 1
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 3
@@ -12523,6 +12749,8 @@
     - word: 瀧
       base: 滝
       position: 5
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 7
@@ -12703,6 +12931,8 @@
     - word: 瀧
       base: 滝
       position: 1
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 3
@@ -12743,8 +12973,12 @@
       position: 6
     - word: 糸
       position: 8
+      tags:
+        - silent
     - word: 守
       position: 9
+      tags:
+        - silent
     - word: あらあ
       base: あら
       position: 12
@@ -13010,8 +13244,12 @@
     - word: 三
       base: '3'
       position: 1
+      tags:
+        - silent
     - word: 葉
       position: 2
+      tags:
+        - silent
     - word: そこ
       base: 其処
       position: 5
@@ -13038,8 +13276,12 @@
     - word: 三
       base: '3'
       position: 1
+      tags:
+        - silent
     - word: 葉
       position: 2
+      tags:
+        - silent
     - word: 彗星
       position: 5
     - word: が
@@ -13070,8 +13312,12 @@
     - word: 三
       base: '3'
       position: 1
+      tags:
+        - silent
     - word: 葉
       position: 2
+      tags:
+        - silent
     - word: 逃げろ
       base: 逃げる
       dictionary: 逃げる
@@ -13085,8 +13331,12 @@
     - word: 三
       base: '3'
       position: 1
+      tags:
+        - silent
     - word: 葉
       position: 2
+      tags:
+        - silent
     - word: だ
       position: 4
     - word: 生き
@@ -13216,8 +13466,12 @@
     - word: 三
       base: '3'
       position: 6
+      tags:
+        - silent
     - word: 葉
       position: 7
+      tags:
+        - silent
 - id: A-YourName598
   deck_name: Your Name
   translation: Oh...
@@ -13238,8 +13492,12 @@
     - word: 三
       base: '3'
       position: 5
+      tags:
+        - silent
     - word: 葉
       position: 6
+      tags:
+        - silent
     - word: や
       position: 8
     - word: ない
@@ -13538,6 +13796,8 @@
       position: 4
     - word: 宮水
       position: 8
+      tags:
+        - silent
     - word: の
       position: 11
     - word: 人
@@ -13622,8 +13882,12 @@
       position: 0
     - word: 糸
       position: 4
+      tags:
+        - silent
     - word: 守
       position: 5
+      tags:
+        - silent
     - word: 町
       position: 7
     - word: に
@@ -13685,8 +13949,12 @@
     - word: 三
       base: '3'
       position: 12
+      tags:
+        - silent
     - word: 葉
       position: 13
+      tags:
+        - silent
 - id: A-YourName615
   deck_name: Your Name
   translation: Y-Y-Y-Y-Your hair!
@@ -13803,6 +14071,8 @@
   words:
     - word: 早耶香
       position: 1
+      tags:
+        - silent
     - word: ちゃん
       position: 5
     - word: 学校
@@ -13897,6 +14167,8 @@
       position: 3
     - word: テッシー
       position: 8
+      tags:
+        - silent
 - id: A-YourName626
   deck_name: Your Name
   translation: Hey, don't come so close.
@@ -14025,9 +14297,13 @@
     - word: サヤ
       base: 莢
       position: 6
+      tags:
+        - silent
     - word: ちん
       base: ちゃん
       position: 8
+      tags:
+        - silent
 - id: A-YourName632
   deck_name: Your Name
   translation: It's all right.
@@ -14338,9 +14614,13 @@
     - word: サヤ
       base: 莢
       position: 4
+      tags:
+        - silent
     - word: ちん
       base: ちゃん
       position: 6
+      tags:
+        - silent
     - word: 担当
       position: 9
     - word: ね
@@ -14603,8 +14883,12 @@
   words:
     - word: 糸
       position: 1
+      tags:
+        - silent
     - word: 守
       position: 2
+      tags:
+        - silent
     - word: 湖
       position: 4
     - word: が
@@ -14718,6 +15002,8 @@
       position: 3
     - word: テッシー
       position: 6
+      tags:
+        - silent
 - id: A-YourName660
   deck_name: Your Name
   translation: Let's do this!
@@ -14934,6 +15220,8 @@
       position: 2
     - word: 宮水
       position: 4
+      tags:
+        - silent
     - word: の
       position: 7
     - word: 血筋
@@ -15288,8 +15576,12 @@
     - word: 三
       base: '3'
       position: 1
+      tags:
+        - silent
     - word: 葉
       position: 2
+      tags:
+        - silent
     - word: なら
       base: だ
       dictionary: だ
@@ -15303,8 +15595,12 @@
     - word: 三
       base: '3'
       position: 1
+      tags:
+        - silent
     - word: 葉
       position: 2
+      tags:
+        - silent
     - word: なら
       base: だ
       dictionary: だ
@@ -15352,8 +15648,12 @@
     - word: 四
       base: '4'
       position: 1
+      tags:
+        - silent
     - word: 葉
       position: 2
+      tags:
+        - silent
     - word: 夕方
       position: 5
     - word: まで
@@ -15505,8 +15805,12 @@
     - word: 三
       base: '3'
       position: 5
+      tags:
+        - silent
     - word: 葉
       position: 6
+      tags:
+        - silent
 - id: A-YourName695
   deck_name: Your Name
   translation: How'd it go with your old man?
@@ -15542,8 +15846,12 @@
     - word: 三
       base: '3'
       position: 4
+      tags:
+        - silent
     - word: 葉
       position: 5
+      tags:
+        - silent
 - id: A-YourName697
   deck_name: Your Name
   translation: What's wrong with your sister?
@@ -15616,6 +15924,8 @@
   words:
     - word: テッシー
       position: 1
+      tags:
+        - silent
     - word: 自転車
       position: 7
     - word: 貸し
@@ -15638,8 +15948,12 @@
     - word: 三
       base: '3'
       position: 9
+      tags:
+        - silent
     - word: 葉
       position: 10
+      tags:
+        - silent
 - id: A-YourName703
   deck_name: Your Name
   translation: What about the operation!?
@@ -15693,6 +16007,8 @@
     - word: 瀧
       base: 滝
       position: 3
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 5
@@ -15721,6 +16037,8 @@
     - word: 瀧
       base: 滝
       position: 5
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 7
@@ -15901,6 +16219,8 @@
     - word: 瀧
       base: 滝
       position: 1
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 3
@@ -15913,6 +16233,8 @@
     - word: 瀧
       base: 滝
       position: 1
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 3
@@ -16009,8 +16331,12 @@
     - word: 三
       base: '3'
       position: 5
+      tags:
+        - silent
     - word: 葉
       position: 6
+      tags:
+        - silent
 - id: A-YourName728
   deck_name: Your Name
   translation: Taki?
@@ -16020,6 +16346,8 @@
     - word: 瀧
       base: 滝
       position: 1
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 3
@@ -16032,6 +16360,8 @@
     - word: 瀧
       base: 滝
       position: 1
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 3
@@ -16072,6 +16402,8 @@
     - word: 瀧
       base: 滝
       position: 1
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 3
@@ -16084,6 +16416,8 @@
     - word: 瀧
       base: 滝
       position: 1
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 3
@@ -16098,8 +16432,12 @@
     - word: 三
       base: '3'
       position: 1
+      tags:
+        - silent
     - word: 葉
       position: 2
+      tags:
+        - silent
     - word: だ
       position: 4
     - word: 声
@@ -16121,6 +16459,8 @@
     - word: 瀧
       base: 滝
       position: 1
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 3
@@ -16145,6 +16485,8 @@
     - word: 瀧
       base: 滝
       position: 1
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 3
@@ -16157,6 +16499,8 @@
     - word: 瀧
       base: 滝
       position: 1
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 3
@@ -16187,6 +16531,8 @@
     - word: 瀧
       base: 滝
       position: 1
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 3
@@ -16199,6 +16545,8 @@
     - word: 瀧
       base: 滝
       position: 1
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 3
@@ -16211,6 +16559,8 @@
     - word: 瀧
       base: 滝
       position: 1
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 3
@@ -16228,6 +16578,8 @@
     - word: 瀧
       base: 滝
       position: 1
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 3
@@ -16331,8 +16683,12 @@
     - word: 三
       base: '3'
       position: 1
+      tags:
+        - silent
     - word: 葉
       position: 2
+      tags:
+        - silent
     - word: の
       position: 4
     - word: 口
@@ -16451,8 +16807,12 @@
     - word: 四
       base: '4'
       position: 1
+      tags:
+        - silent
     - word: 葉
       position: 2
+      tags:
+        - silent
     - word: が
       position: 4
     - word: 見
@@ -16660,8 +17020,12 @@
     - word: 三
       base: '3'
       position: 4
+      tags:
+        - silent
     - word: 葉
       position: 5
+      tags:
+        - silent
     - word: が
       position: 7
     - word: 持っ
@@ -16763,8 +17127,12 @@
     - word: 三
       base: '3'
       position: 1
+      tags:
+        - silent
     - word: 葉
       position: 2
+      tags:
+        - silent
     - word: まだ
       base: 未だ
       position: 5
@@ -16860,8 +17228,12 @@
     - word: 三
       base: '3'
       position: 4
+      tags:
+        - silent
     - word: 葉
       position: 5
+      tags:
+        - silent
 - id: A-YourName774
   deck_name: Your Name
   translation: So we don't forget when we wake up...
@@ -16932,8 +17304,12 @@
     - word: 三
       base: '3'
       position: 4
+      tags:
+        - silent
     - word: 葉
       position: 5
+      tags:
+        - silent
 - id: A-YourName778
   deck_name: Your Name
   translation: I wanted to tell you.
@@ -17021,8 +17397,12 @@
     - word: 三
       base: '3'
       position: 6
+      tags:
+        - silent
     - word: 葉
       position: 7
+      tags:
+        - silent
 - id: A-YourName781
   deck_name: Your Name
   translation: It's okay. I remember.
@@ -17046,13 +17426,21 @@
     - word: 三
       base: '3'
       position: 1
+      tags:
+        - silent
     - word: 葉
       position: 2
+      tags:
+        - silent
     - word: 三
       base: '3'
       position: 6
+      tags:
+        - silent
     - word: 葉
       position: 7
+      tags:
+        - silent
     - word: 三
       base: '3'
       position: 11
@@ -17065,8 +17453,12 @@
     - word: 三
       base: '3'
       position: 19
+      tags:
+        - silent
     - word: 葉
       position: 20
+      tags:
+        - silent
 - id: A-YourName783
   deck_name: Your Name
   translation: Your name is...
@@ -17619,9 +18011,13 @@
     - word: サヤ
       base: 莢
       position: 1
+      tags:
+        - silent
     - word: ちん
       base: ちゃん
       position: 3
+      tags:
+        - silent
     - word: お
       base: 御
       position: 7
@@ -17853,8 +18249,12 @@
     - word: 三
       base: '3'
       position: 5
+      tags:
+        - silent
     - word: 葉
       position: 6
+      tags:
+        - silent
 - id: A-YourName821
   deck_name: Your Name
   translation: Run, everyone! A forest fire's comin’!
@@ -17957,8 +18357,12 @@
     - word: 三
       base: '3'
       position: 13
+      tags:
+        - silent
     - word: 葉
       position: 14
+      tags:
+        - silent
 - id: A-YourName826
   deck_name: Your Name
   translation: What's wrong?
@@ -18152,8 +18556,12 @@
     - word: 三
       base: '3'
       position: 4
+      tags:
+        - silent
     - word: 葉
       position: 5
+      tags:
+        - silent
     - word: ちゃん
       position: 7
 - id: A-YourName833
@@ -18320,6 +18728,8 @@
       position: 3
     - word: 高山
       position: 6
+      tags:
+        - silent
     - word: の
       position: 9
     - word: センサ
@@ -18373,6 +18783,8 @@
       position: 13
     - word: 名取
       position: 16
+      tags:
+        - silent
 - id: A-YourName842
   deck_name: Your Name
   translation: We are currently investigating the accident.
@@ -18600,8 +19012,12 @@
     - word: 三
       base: '3'
       position: 5
+      tags:
+        - silent
     - word: 葉
       position: 6
+      tags:
+        - silent
 - id: A-YourName850
   deck_name: Your Name
   translation: It's over.
@@ -19274,6 +19690,8 @@
     - word: 瀧
       base: 滝
       position: 19
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 21
@@ -19318,8 +19736,12 @@
       position: 6
     - word: 糸
       position: 8
+      tags:
+        - silent
     - word: 守
       position: 9
+      tags:
+        - silent
     - word: まで
       position: 11
     - word: 行っ
@@ -19354,6 +19776,8 @@
     - word: 瀧
       base: 滝
       position: 6
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 8
@@ -19610,6 +20034,8 @@
       position: 2
     - word: テッシー
       position: 5
+      tags:
+        - silent
     - word: さあ
       base: さ
       position: 10

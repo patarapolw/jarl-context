@@ -16,17 +16,25 @@
       base: kayneth
       dictionary: kayneth
       position: 18
+      tags:
+        - silent
     - word: El
       base: el
       dictionary: el
       position: 26
+      tags:
+        - silent
     - word: Melloi
       base: melloi
       dictionary: melloi
       position: 29
+      tags:
+        - silent
     - word: Archibald
       base: アーチボルド
       position: 36
+      tags:
+        - silent
 - id: Fate_Zero_01_0196_0.17.21.460
   deck_name: Fate Zero
   translation: Waver Velvet-kun.
@@ -41,10 +49,14 @@
       base: waver
       dictionary: waver
       position: 12
+      tags:
+        - silent
     - word: Velvet
       base: velvet
       dictionary: velvet
       position: 18
+      tags:
+        - silent
     - word: 君
       position: 25
 - id: Fate_Zero_01_0230_0.20.00.110
@@ -59,6 +71,8 @@
       base: archer
       dictionary: archer
       position: 7
+      tags:
+        - silent
 - id: Fate_Zero_01_0231_0.20.01.260
   deck_name: Fate Zero
   translation: Saber.
@@ -71,6 +85,8 @@
       base: セイバー
       dictionary: saber
       position: 6
+      tags:
+        - silent
 - id: Fate_Zero_01_0232_0.20.02.360
   deck_name: Fate Zero
   translation: Lancer.
@@ -83,6 +99,8 @@
       base: ランサー
       dictionary: lancer
       position: 6
+      tags:
+        - silent
 - id: Fate_Zero_01_0233_0.20.03.460
   deck_name: Fate Zero
   translation: Rider.
@@ -95,6 +113,8 @@
       base: rider
       dictionary: rider
       position: 6
+      tags:
+        - silent
 - id: Fate_Zero_01_0234_0.20.04.560
   deck_name: Fate Zero
   translation: Assassin.
@@ -107,6 +127,8 @@
       base: アサシン
       dictionary: assassin
       position: 6
+      tags:
+        - silent
 - id: Fate_Zero_01_0235_0.20.05.660
   deck_name: Fate Zero
   translation: Caster.
@@ -119,6 +141,8 @@
       base: caster
       dictionary: caster
       position: 7
+      tags:
+        - silent
 - id: Fate_Zero_01_0236_0.20.06.710
   deck_name: Fate Zero
   translation: Berserker.
@@ -131,6 +155,95 @@
       base: berserker
       dictionary: berserker
       position: 8
+      tags:
+        - silent
+- id: Fate_Zero_01_0534_0.42.13.040
+  deck_name: Fate Zero
+  translation: Fill, fill, fill, fill, fill!
+  sound: Fate_Zero_01_0.42.12.790-0.42.16.240.mp3
+  sentence: 閉じよ(みたせ) 閉じよ 閉じよ 閉じよ 閉じよ
+  words:
+    - word: 閉じよ
+      base: 閉じる
+      dictionary: 閉じる
+      position: 0
+    - word: みたせ
+      base: 満たす
+      dictionary: みたす
+      position: 4
+      tags:
+        - silent
+    - word: 閉じよ
+      base: 閉じる
+      dictionary: 閉じる
+      position: 9
+    - word: 閉じよ
+      base: 閉じる
+      dictionary: 閉じる
+      position: 13
+    - word: 閉じよ
+      base: 閉じる
+      dictionary: 閉じる
+      position: 17
+    - word: 閉じよ
+      base: 閉じる
+      dictionary: 閉じる
+      position: 21
+- id: Fate_Zero_12_3153_0.09.10.270
+  deck_name: Fate Zero
+  translation: I'm surprised you have such harsh words to say about your own Master.
+  sound: Fate_Zero_12_0.09.10.020-0.09.15.330.mp3
+  sentence: 自らのマスターに対し　よくもそこまで憚(はばか)りなく言えたものだ
+  words:
+    - word: 自ら
+      position: 0
+    - word: の
+      position: 2
+    - word: マスター
+      position: 3
+    - word: に
+      position: 7
+    - word: 対し
+      base: 対する
+      dictionary: 対する
+      position: 8
+    - word: よく
+      base: 良く
+      position: 11
+    - word: も
+      position: 13
+    - word: そこ
+      base: 其処
+      position: 14
+    - word: まで
+      position: 16
+    - word: 憚
+      position: 18
+    - word: は
+      position: 20
+      tags:
+        - silent
+    - word: ばか
+      position: 21
+      tags:
+        - silent
+    - word: り
+      position: 24
+    - word: なく
+      base: 無い
+      dictionary: ない
+      position: 25
+    - word: 言え
+      base: 言う
+      dictionary: 言える
+      position: 27
+    - word: た
+      position: 29
+    - word: もの
+      base: 物
+      position: 30
+    - word: だ
+      position: 32
 - id: Fate_Zero_13_3555_0.17.40.450
   deck_name: Fate Zero
   translation: Glory lies beyond the horizon, after all.
@@ -153,8 +266,12 @@
       position: 8
     - word: ト
       position: 11
+      tags:
+        - silent
     - word: フィロティモ
       position: 13
+      tags:
+        - silent
     - word: と
       position: 21
     - word: いっ
@@ -177,6 +294,8 @@
       base: calico
       dictionary: calico
       position: 5
+      tags:
+        - silent
     - word: は
       position: 12
     - word: 喪失
@@ -193,6 +312,8 @@
       base: コンテンダー
       dictionary: contender
       position: 7
+      tags:
+        - silent
     - word: は
       position: 17
     - word: 再

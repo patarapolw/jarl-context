@@ -14,8 +14,12 @@
       position: 4
     - word: きゅう
       position: 7
+      tags:
+        - silent
     - word: か
       position: 10
+      tags:
+        - silent
     - word: とる
       base: 取る
       position: 12
@@ -71,6 +75,8 @@
     - word: いなか
       base: 田舎
       position: 6
+      tags:
+        - silent
     - word: へ
       position: 10
     - word: 行く
@@ -87,8 +93,12 @@
     - word: お
       base: 御
       position: 22
+      tags:
+        - silent
     - word: かじま
       position: 23
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 27
@@ -112,13 +122,19 @@
       base: 為る
       dictionary: する
       position: 3
+      tags:
+        - silent
     - word: つれ
       base: つ
       dictionary: つ
       position: 4
+      tags:
+        - silent
     - word: ん
       base: の
       position: 6
+      tags:
+        - silent
     - word: で
       position: 8
     - word: も
@@ -170,6 +186,8 @@
       position: 4
     - word: ち
       position: 6
+      tags:
+        - silent
     - word: 行こう
       base: 行く
       dictionary: 行く
@@ -235,6 +253,8 @@
     - word: せいせき
       base: 成績
       position: 16
+      tags:
+        - silent
     - word: 上がっ
       base: 上がる
       dictionary: 上がる
@@ -303,6 +323,8 @@
     - word: いなか
       base: 田舎
       position: 14
+      tags:
+        - silent
     - word: の
       position: 18
     - word: お
@@ -317,6 +339,8 @@
       position: 25
     - word: ち
       position: 27
+      tags:
+        - silent
     - word: に
       position: 29
     - word: 行っ
@@ -384,6 +408,8 @@
     - word: いなか
       base: 田舎
       position: 17
+      tags:
+        - silent
     - word: 行く
       position: 21
     - word: の
@@ -402,6 +428,8 @@
       position: 6
     - word: こ
       position: 10
+      tags:
+        - silent
     - word: ちゃん
       position: 12
     - word: は
@@ -530,6 +558,8 @@
     - word: えいが
       base: 映画
       position: 3
+      tags:
+        - silent
     - word: に
       position: 7
     - word: 連れ
@@ -605,6 +635,8 @@
     - word: いなか
       base: 田舎
       position: 17
+      tags:
+        - silent
 - id: A_OnlyYesterday_0028
   deck_name: Only Yesterday
   translation: Like Grandma's country house.
@@ -618,6 +650,8 @@
     - word: いなか
       base: 田舎
       position: 6
+      tags:
+        - silent
     - word: の
       position: 10
     - word: お
@@ -679,6 +713,8 @@
     - word: いなか
       base: 田舎
       position: 6
+      tags:
+        - silent
     - word: が
       position: 10
     - word: ない
@@ -745,11 +781,17 @@
     - word: お
       base: 御
       position: 4
+      tags:
+        - silent
     - word: おの
       base: 斧
       position: 5
+      tags:
+        - silent
     - word: や
       position: 7
+      tags:
+        - silent
     - word: は
       position: 9
     - word: え
@@ -862,6 +904,8 @@
     - word: ぶろ
       base: 風呂
       position: 12
+      tags:
+        - silent
     - word: って
       position: 15
     - word: いう
@@ -907,6 +951,8 @@
     - word: ふろ
       base: 風呂
       position: 16
+      tags:
+        - silent
     - word: な
       base: だ
       dictionary: だ
@@ -934,6 +980,8 @@
     - word: ふろ
       base: 風呂
       position: 8
+      tags:
+        - silent
     - word: 大好き
       position: 11
     - word: じゃ
@@ -1002,6 +1050,8 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
     - word: たち
       base: 達
       position: 6
@@ -1030,6 +1080,8 @@
     - word: たいそう
       base: 大層
       position: 20
+      tags:
+        - silent
     - word: 来
       base: 来る
       dictionary: 来る
@@ -1059,6 +1111,8 @@
     - word: いなか
       base: 田舎
       position: 7
+      tags:
+        - silent
     - word: へ
       position: 11
     - word: 行っ
@@ -1145,6 +1199,8 @@
     - word: ふろ
       base: 風呂
       position: 4
+      tags:
+        - silent
     - word: 入り
       position: 7
     - word: に
@@ -1243,6 +1299,8 @@
     - word: わたし
       base: 私
       position: 12
+      tags:
+        - silent
     - word: タエ子
       position: 17
 - id: A_OnlyYesterday_0070
@@ -1302,6 +1360,8 @@
     - word: おこ
       base: 烏滸
       position: 4
+      tags:
+        - silent
     - word: って
       position: 7
     - word: た
@@ -1322,8 +1382,12 @@
       position: 20
     - word: こと
       position: 22
+      tags:
+        - silent
     - word: わ
       position: 24
+      tags:
+        - silent
     - word: っ
       position: 26
     - word: た
@@ -1403,12 +1467,18 @@
       base: 居る
       dictionary: いる
       position: 7
+      tags:
+        - silent
     - word: ね
       base: ない
       dictionary: ない
       position: 8
+      tags:
+        - silent
     - word: か
       position: 9
+      tags:
+        - silent
     - word: り
       position: 11
     - word: 今年
@@ -1426,6 +1496,8 @@
       base: つう
       dictionary: つう
       position: 24
+      tags:
+        - silent
     - word: む
       position: 26
     - word: の
@@ -1459,6 +1531,8 @@
     - word: いなか
       base: 田舎
       position: 22
+      tags:
+        - silent
     - word: が
       position: 26
     - word: 持て
@@ -1511,6 +1585,8 @@
       position: 18
     - word: と
       position: 20
+      tags:
+        - silent
     - word: まったり
       position: 22
     - word: し
@@ -1583,6 +1659,8 @@
     - word: ぶろ
       base: 風呂
       position: 23
+      tags:
+        - silent
     - word: に
       position: 26
     - word: なっ
@@ -1612,6 +1690,8 @@
       position: 8
     - word: かこ
       position: 11
+      tags:
+        - silent
     - word: を
       position: 14
     - word: 背負
@@ -1622,9 +1702,13 @@
       base: 為る
       dictionary: する
       position: 18
+      tags:
+        - silent
     - word: お
       base: 御
       position: 19
+      tags:
+        - silent
     - word: って
       position: 21
     - word: 生き
@@ -1669,6 +1753,8 @@
     - word: ぶろ
       base: 風呂
       position: 8
+      tags:
+        - silent
     - word: だけ
       position: 11
     - word: だ
@@ -1688,6 +1774,8 @@
     - word: ぶろ
       base: 風呂
       position: 6
+      tags:
+        - silent
     - word: に
       position: 9
     - word: たどり
@@ -1736,9 +1824,13 @@
       position: 4
     - word: そっと
       position: 7
+      tags:
+        - silent
     - word: う
       base: うー
       position: 10
+      tags:
+        - silent
 - id: A_OnlyYesterday_0108
   deck_name: Only Yesterday
   translation: Jump on both feet.
@@ -1754,8 +1846,12 @@
     - word: りょうあし
       base: 両足
       position: 4
+      tags:
+        - silent
     - word: と
       position: 9
+      tags:
+        - silent
     - word: び
       base: びっ
       position: 11
@@ -1775,6 +1871,8 @@
     - word: きょうだい
       base: 兄弟
       position: 7
+      tags:
+        - silent
     - word: で
       position: 13
     - word: 集まっ
@@ -1860,6 +1958,8 @@
     - word: ころ
       base: 頃
       position: 4
+      tags:
+        - silent
     - word: の
       position: 7
     - word: 思い出
@@ -1878,6 +1978,8 @@
     - word: さ
       base: さあ
       position: 17
+      tags:
+        - silent
     - word: い
       base: 居る
       dictionary: いる
@@ -1921,17 +2023,25 @@
       position: 0
     - word: ぎんざ
       position: 3
+      tags:
+        - silent
     - word: の
       position: 7
     - word: 千疋屋
       position: 8
     - word: せん
       position: 12
+      tags:
+        - silent
     - word: びき
       base: ひき
       position: 14
+      tags:
+        - silent
     - word: や
       position: 16
+      tags:
+        - silent
 - id: A_OnlyYesterday_0119
   deck_name: Only Yesterday
   translation: Must have been expensive.
@@ -2034,6 +2144,8 @@
     - word: わたし
       base: 私
       position: 5
+      tags:
+        - silent
     - word: も
       position: 9
 - id: A_OnlyYesterday_0130
@@ -2055,9 +2167,13 @@
       position: 9
     - word: め
       position: 11
+      tags:
+        - silent
     - word: ず
       dictionary: ぬ
       position: 12
+      tags:
+        - silent
     - word: しい
       base: 為る
       dictionary: する
@@ -2119,8 +2235,12 @@
       position: 0
     - word: で
       position: 3
+      tags:
+        - silent
     - word: ば
       position: 4
+      tags:
+        - silent
     - word: 包丁
       position: 6
     - word: の
@@ -2210,6 +2330,8 @@
     - word: かんづめ
       base: 缶詰め
       position: 3
+      tags:
+        - silent
     - word: と
       position: 8
     - word: 全然
@@ -2222,8 +2344,12 @@
       position: 14
     - word: ち
       position: 16
+      tags:
+        - silent
     - word: が
       position: 17
+      tags:
+        - silent
     - word: う
       base: うー
       position: 19
@@ -2247,6 +2373,8 @@
     - word: わたし
       base: 私
       position: 10
+      tags:
+        - silent
     - word: も
       position: 14
 - id: A_OnlyYesterday_0151
@@ -2259,12 +2387,16 @@
       position: 0
     - word: はら
       position: 2
+      tags:
+        - silent
     - word: 壊
       position: 5
     - word: こわ
       base: 怖い
       dictionary: こわい
       position: 7
+      tags:
+        - silent
     - word: す
       base: っす
       position: 10
@@ -2358,6 +2490,8 @@
     - word: ほ
       base: ほっ
       position: 4
+      tags:
+        - silent
     - word: しかっ
       base: 叱る
       dictionary: しかる
@@ -2406,15 +2540,21 @@
     - word: ぶろ
       base: 風呂
       position: 6
+      tags:
+        - silent
     - word: で
       position: 9
     - word: 卒倒
       position: 10
     - word: そっと
       position: 13
+      tags:
+        - silent
     - word: う
       base: うー
       position: 16
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -2481,8 +2621,12 @@
     - word: さいせん
       base: 賽銭
       position: 27
+      tags:
+        - silent
     - word: たん
       position: 31
+      tags:
+        - silent
 - id: A_OnlyYesterday_0168
   deck_name: Only Yesterday
   translation: When she wore a mini-skirt, she'd cover her bottom going up the stairs.
@@ -2522,6 +2666,8 @@
     - word: かいだん
       base: 階段
       position: 30
+      tags:
+        - silent
     - word: は
       position: 35
     - word: 紙袋
@@ -2529,9 +2675,13 @@
     - word: かみ
       base: 嘉美
       position: 40
+      tags:
+        - silent
     - word: ぶくろ
       base: 袋
       position: 42
+      tags:
+        - silent
     - word: で
       position: 46
     - word: お
@@ -2587,6 +2737,8 @@
     - word: ごろ
       base: 頃
       position: 7
+      tags:
+        - silent
     - word: 姉さん
       position: 11
     - word: 達
@@ -2599,6 +2751,8 @@
       position: 18
     - word: なつ
       position: 20
+      tags:
+        - silent
     - word: か
       position: 23
     - word: しい
@@ -2631,6 +2785,8 @@
     - word: おうふく
       base: 往復
       position: 8
+      tags:
+        - silent
     - word: する
       base: 為る
       position: 13
@@ -2674,6 +2830,8 @@
     - word: わたし
       base: 私
       position: 46
+      tags:
+        - silent
     - word: の
       position: 50
     - word: だけ
@@ -2695,6 +2853,8 @@
     - word: おうふく
       base: 往復
       position: 66
+      tags:
+        - silent
     - word: する
       base: 為る
       position: 71
@@ -2740,6 +2900,8 @@
     - word: は
       base: はあ
       position: 6
+      tags:
+        - silent
     - word: り
       position: 8
     - word: 出し
@@ -2814,6 +2976,8 @@
     - word: はさ
       base: 稲架
       position: 12
+      tags:
+        - silent
     - word: ん
       base: の
       position: 15
@@ -2878,6 +3042,8 @@
       position: 2
     - word: きら
       position: 4
+      tags:
+        - silent
     - word: い
       base: いー
       position: 7
@@ -2912,6 +3078,8 @@
     - word: えら
       base: 鰓
       position: 29
+      tags:
+        - silent
     - word: い
       base: 居る
       dictionary: いる
@@ -3017,6 +3185,8 @@
     - word: ろうか
       base: 廊下
       position: 3
+      tags:
+        - silent
     - word: を
       position: 7
     - word: 走っ
@@ -3099,10 +3269,14 @@
       position: 14
     - word: はい
       position: 17
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
       position: 19
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -3128,6 +3302,8 @@
     - word: ろうか
       base: 廊下
       position: 6
+      tags:
+        - silent
     - word: を
       position: 10
     - word: 走っ
@@ -3181,6 +3357,8 @@
     - word: わたし
       base: 私
       position: 44
+      tags:
+        - silent
     - word: は
       position: 48
     - word: 思い
@@ -3199,6 +3377,8 @@
       position: 0
     - word: すずき
       position: 3
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 7
@@ -3306,6 +3486,8 @@
     - word: いはん
       base: 違反
       position: 10
+      tags:
+        - silent
     - word: の
       position: 14
     - word: 自動車
@@ -3318,8 +3500,12 @@
       base: つう
       dictionary: つう
       position: 23
+      tags:
+        - silent
     - word: か
       position: 24
+      tags:
+        - silent
     - word: まえる
       base: 舞う
       position: 26
@@ -3541,6 +3727,8 @@
       position: 2
     - word: ばん
       position: 4
+      tags:
+        - silent
     - word: 姉さん
       position: 8
     - word: たち
@@ -3617,9 +3805,13 @@
       base: 埋める
       dictionary: うめる
       position: 3
+      tags:
+        - silent
     - word: ず
       dictionary: ぬ
       position: 5
+      tags:
+        - silent
     - word: かずお
       position: 7
     - word: の
@@ -3629,6 +3821,8 @@
     - word: まんが
       base: 漫画
       position: 14
+      tags:
+        - silent
     - word: に
       position: 18
     - word: おびえ
@@ -3654,9 +3848,13 @@
       position: 6
     - word: け
       position: 8
+      tags:
+        - silent
     - word: ず
       dictionary: ぬ
       position: 9
+      tags:
+        - silent
     - word: り
       position: 11
     - word: に
@@ -3688,6 +3886,8 @@
     - word: えいが
       base: 映画
       position: 10
+      tags:
+        - silent
     - word: の
       position: 14
     - word: よう
@@ -3702,6 +3902,8 @@
     - word: わたし
       base: 私
       position: 21
+      tags:
+        - silent
     - word: の
       position: 25
     - word: 頭
@@ -3723,6 +3925,8 @@
     - word: げんじつ
       base: 現実
       position: 42
+      tags:
+        - silent
     - word: の
       position: 47
     - word: 私
@@ -3777,8 +3981,12 @@
       base: 干る
       dictionary: ひる
       position: 3
+      tags:
+        - silent
     - word: た
       position: 5
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 7
@@ -3797,8 +4005,12 @@
     - word: お
       base: 御
       position: 16
+      tags:
+        - silent
     - word: かじま
       position: 17
+      tags:
+        - silent
     - word: さん
       position: 21
     - word: の
@@ -4112,6 +4324,8 @@
     - word: たいこう
       base: 対抗
       position: 9
+      tags:
+        - silent
     - word: おれ
       base: 俺
       position: 15
@@ -4153,11 +4367,17 @@
       position: 10
     - word: と
       position: 13
+      tags:
+        - silent
     - word: の
       position: 14
+      tags:
+        - silent
     - word: むら
       base: 村
       position: 15
+      tags:
+        - silent
 - id: A_OnlyYesterday_0303
   deck_name: Only Yesterday
   translation: Taeko's watching you!
@@ -4169,8 +4389,12 @@
     - word: お
       base: 御
       position: 3
+      tags:
+        - silent
     - word: かじま
       position: 4
+      tags:
+        - silent
     - word: さん
       position: 8
     - word: が
@@ -4210,14 +4434,22 @@
       position: 0
     - word: さん
       position: 3
+      tags:
+        - silent
     - word: しん
       position: 5
+      tags:
+        - silent
     - word: 三振
       position: 9
     - word: さん
       position: 12
+      tags:
+        - silent
     - word: しん
       position: 14
+      tags:
+        - silent
 - id: A_OnlyYesterday_0310
   deck_name: Only Yesterday
   translation: Go, go, Tono!
@@ -4240,11 +4472,17 @@
       position: 10
     - word: と
       position: 13
+      tags:
+        - silent
     - word: の
       position: 14
+      tags:
+        - silent
     - word: むら
       base: 村
       position: 15
+      tags:
+        - silent
 - id: A_OnlyYesterday_0311
   deck_name: Only Yesterday
   translation: Go, go, Tono!
@@ -4325,6 +4563,8 @@
     - word: わたし
       base: 私
       position: 11
+      tags:
+        - silent
     - word: に
       position: 15
     - word: も
@@ -4432,11 +4672,17 @@
       position: 4
     - word: と
       position: 7
+      tags:
+        - silent
     - word: の
       position: 8
+      tags:
+        - silent
     - word: むら
       base: 村
       position: 9
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 12
@@ -4711,6 +4957,8 @@
     - word: ほけん
       base: 保健
       position: 6
+      tags:
+        - silent
     - word: の
       position: 10
     - word: 先生
@@ -4800,9 +5048,13 @@
     - word: なか
       base: 中
       position: 3
+      tags:
+        - silent
     - word: やま
       base: 山
       position: 5
+      tags:
+        - silent
     - word: くん
       base: 君
       position: 8
@@ -4842,6 +5094,8 @@
     - word: ひみつ
       base: 秘密
       position: 14
+      tags:
+        - silent
     - word: じゃ
       base: だ
       dictionary: だ
@@ -4927,6 +5181,8 @@
     - word: ないしょ
       base: 内緒
       position: 3
+      tags:
+        - silent
     - word: よ
       position: 8
     - word: って
@@ -5077,10 +5333,16 @@
       position: 4
     - word: なつ
       position: 8
+      tags:
+        - silent
     - word: か
       position: 10
+      tags:
+        - silent
     - word: ぜ
       position: 11
+      tags:
+        - silent
     - word: は
       position: 13
     - word: こじらせる
@@ -5347,6 +5609,8 @@
     - word: わたし
       base: 私
       position: 12
+      tags:
+        - silent
     - word: たち
       base: 達
       position: 16
@@ -5394,6 +5658,8 @@
     - word: わたし
       base: 私
       position: 6
+      tags:
+        - silent
     - word: が
       position: 10
     - word: つき
@@ -5429,6 +5695,8 @@
       position: 2
     - word: おく
       position: 4
+      tags:
+        - silent
     - word: れ
       base: れる
       dictionary: れる
@@ -5453,8 +5721,12 @@
     - word: お
       base: 御
       position: 3
+      tags:
+        - silent
     - word: かじま
       position: 4
+      tags:
+        - silent
     - word: タエ子
       position: 8
     - word: さん
@@ -5530,6 +5802,8 @@
       position: 21
     - word: むか
       position: 23
+      tags:
+        - silent
     - word: え
       base: えー
       position: 26
@@ -5583,6 +5857,8 @@
       position: 0
     - word: くわ
       position: 2
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -5643,6 +5919,8 @@
       base: つう
       dictionary: つう
       position: 6
+      tags:
+        - silent
     - word: み
       position: 8
     - word: に
@@ -5709,6 +5987,8 @@
       position: 0
     - word: もう
       position: 2
+      tags:
+        - silent
     - word: けた
       base: 桁
       position: 5
@@ -5738,6 +6018,8 @@
     - word: ひゃくしょう
       base: 百姓
       position: 26
+      tags:
+        - silent
     - word: に
       position: 33
     - word: は
@@ -5765,8 +6047,12 @@
       position: 0
     - word: は
       position: 3
+      tags:
+        - silent
     - word: なつ
       position: 4
+      tags:
+        - silent
     - word: み
       position: 7
     - word: を
@@ -5797,8 +6083,12 @@
     - word: べ
       base: べい
       position: 30
+      tags:
+        - silent
     - word: に
       position: 31
+      tags:
+        - silent
     - word: なんか
       position: 33
     - word: 付け
@@ -5847,6 +6137,8 @@
     - word: けんめい
       base: 懸命
       position: 20
+      tags:
+        - silent
     - word: やっ
       base: 遣る
       dictionary: やる
@@ -5890,14 +6182,20 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
     - word: も
       position: 6
     - word: 違
       position: 9
     - word: ち
       position: 11
+      tags:
+        - silent
     - word: が
       position: 12
+      tags:
+        - silent
     - word: う
       base: うー
       position: 14
@@ -5934,8 +6232,12 @@
       position: 0
     - word: ちく
       position: 3
+      tags:
+        - silent
     - word: さん
       position: 5
+      tags:
+        - silent
     - word: の
       position: 8
     - word: 方
@@ -5992,6 +6294,8 @@
     - word: いせい
       base: 威勢
       position: 6
+      tags:
+        - silent
     - word: の
       position: 10
     - word: いい
@@ -6041,9 +6345,13 @@
       base: 行く
       dictionary: いく
       position: 41
+      tags:
+        - silent
     - word: お
       base: 御
       position: 43
+      tags:
+        - silent
     - word: いが
       base: 毬
       position: 45
@@ -6120,6 +6428,8 @@
       position: 3
     - word: ね
       position: 5
+      tags:
+        - silent
     - word: ない
       base: 無い
       position: 7
@@ -6206,11 +6516,15 @@
     - word: いちおう
       base: 一応
       position: 3
+      tags:
+        - silent
     - word: 布団
       position: 9
     - word: ふとん
       base: 布団
       position: 12
+      tags:
+        - silent
     - word: は
       position: 16
     - word: しい
@@ -6286,6 +6600,8 @@
     - word: あざ
       base: 痣
       position: 21
+      tags:
+        - silent
     - word: や
       position: 24
     - word: か
@@ -6297,12 +6613,18 @@
     - word: べ
       base: べい
       position: 31
+      tags:
+        - silent
     - word: に
       position: 32
+      tags:
+        - silent
     - word: いろ
       base: 居る
       dictionary: いる
       position: 33
+      tags:
+        - silent
     - word: が
       position: 36
     - word: 生まれる
@@ -6326,6 +6648,8 @@
     - word: くちびる
       base: 唇
       position: 5
+      tags:
+        - silent
     - word: に
       position: 10
     - word: 紅
@@ -6333,8 +6657,12 @@
     - word: べ
       base: べい
       position: 13
+      tags:
+        - silent
     - word: に
       position: 14
+      tags:
+        - silent
     - word: を
       position: 16
     - word: さす
@@ -6354,6 +6682,8 @@
     - word: むすめ
       base: 娘
       position: 29
+      tags:
+        - silent
     - word: たち
       base: 達
       position: 33
@@ -6375,6 +6705,8 @@
     - word: うす
       base: 臼
       position: 5
+      tags:
+        - silent
     - word: で
       position: 8
     - word: つい
@@ -6408,6 +6740,8 @@
     - word: お
       base: おっ
       position: 28
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -6424,6 +6758,8 @@
     - word: かんそう
       base: 乾燥
       position: 42
+      tags:
+        - silent
     - word: さ
       base: 為る
       dictionary: する
@@ -6446,8 +6782,12 @@
       position: 3
     - word: はい
       position: 6
+      tags:
+        - silent
     - word: えき
       position: 8
+      tags:
+        - silent
     - word: の
       position: 11
     - word: 中
@@ -6461,6 +6801,8 @@
     - word: ふく
       base: 服
       position: 16
+      tags:
+        - silent
     - word: ま
       position: 19
     - word: れる
@@ -6478,9 +6820,13 @@
       position: 29
     - word: しき
       position: 32
+      tags:
+        - silent
     - word: そ
       base: そう
       position: 34
+      tags:
+        - silent
     - word: を
       position: 36
 - id: A_OnlyYesterday_0644
@@ -6495,9 +6841,13 @@
       position: 3
     - word: しき
       position: 6
+      tags:
+        - silent
     - word: そ
       base: そう
       position: 8
+      tags:
+        - silent
     - word: は
       position: 10
     - word: 水
@@ -6508,6 +6858,8 @@
       position: 13
     - word: と
       position: 15
+      tags:
+        - silent
     - word: け
       position: 17
     - word: 去り
@@ -6525,6 +6877,8 @@
       position: 30
     - word: あさ
       position: 32
+      tags:
+        - silent
     - word: は
       position: 35
     - word: 美しい
@@ -6571,6 +6925,8 @@
       base: つう
       dictionary: つう
       position: 5
+      tags:
+        - silent
     - word: み
       position: 7
     - word: 終え
@@ -6584,6 +6940,8 @@
       position: 12
     - word: ふ
       position: 14
+      tags:
+        - silent
     - word: り
       position: 16
     - word: 返っ
@@ -6622,6 +6980,8 @@
     - word: さ
       base: さあ
       position: 42
+      tags:
+        - silent
     - word: い
       base: 居る
       dictionary: いる
@@ -6771,6 +7131,8 @@
     - word: は
       base: はあ
       position: 13
+      tags:
+        - silent
     - word: い
       base: 居る
       dictionary: いる
@@ -6803,8 +7165,12 @@
     - word: たんじょう
       base: 誕生
       position: 11
+      tags:
+        - silent
     - word: び
       position: 16
+      tags:
+        - silent
     - word: だけ
       position: 18
     - word: に
@@ -6855,6 +7221,8 @@
       position: 11
     - word: ぼう
       position: 13
+      tags:
+        - silent
 - id: A_OnlyYesterday_0678
   deck_name: Only Yesterday
   translation: Right? -Yep.
@@ -7018,6 +7386,8 @@
     - word: したく
       base: 支度
       position: 5
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -7039,8 +7409,12 @@
     - word: ちゅう
       base: つう
       position: 3
+      tags:
+        - silent
     - word: か
       position: 6
+      tags:
+        - silent
     - word: 料理
       position: 8
     - word: です
@@ -7091,6 +7465,8 @@
       position: 7
     - word: あぶら
       position: 9
+      tags:
+        - silent
     - word: っこい
       position: 13
     - word: もの
@@ -7102,6 +7478,8 @@
       position: 20
     - word: きら
       position: 22
+      tags:
+        - silent
     - word: いで
       base: 出る
       dictionary: いでる
@@ -7149,6 +7527,8 @@
       position: 6
     - word: ぼう
       position: 8
+      tags:
+        - silent
     - word: は
       position: 11
     - word: 行か
@@ -7198,8 +7578,12 @@
       base: 居る
       dictionary: いる
       position: 11
+      tags:
+        - silent
     - word: た
       position: 12
+      tags:
+        - silent
     - word: む
       position: 14
     - word: の
@@ -7230,6 +7614,8 @@
     - word: ころ
       base: 頃
       position: 16
+      tags:
+        - silent
     - word: わがまま
       base: 我が儘
       position: 20
@@ -7262,6 +7648,8 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
     - word: プーマ
       position: 7
     - word: の
@@ -7271,6 +7659,8 @@
     - word: くつ
       base: 靴
       position: 13
+      tags:
+        - silent
     - word: あきらめる
       base: 諦める
       position: 16
@@ -7329,6 +7719,8 @@
     - word: けっこん
       base: 結婚
       position: 9
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -7482,6 +7874,8 @@
       position: 0
     - word: ふ
       position: 2
+      tags:
+        - silent
     - word: き
       position: 4
     - word: 絵
@@ -7498,8 +7892,12 @@
       position: 1
     - word: まち
       position: 3
+      tags:
+        - silent
     - word: が
       position: 5
+      tags:
+        - silent
     - word: っ
       position: 7
     - word: た
@@ -7654,6 +8052,8 @@
     - word: わ
       base: わあ
       position: 8
+      tags:
+        - silent
     - word: る
       base: れる
       position: 10
@@ -7806,6 +8206,8 @@
       position: 6
     - word: ゆた
       position: 8
+      tags:
+        - silent
     - word: か
       position: 11
     - word: さ
@@ -7872,6 +8274,8 @@
     - word: わたし
       base: 私
       position: 6
+      tags:
+        - silent
     - word: なんか
       position: 10
     - word: いい
@@ -7888,6 +8292,8 @@
       position: 19
     - word: つと
       position: 21
+      tags:
+        - silent
     - word: め
       position: 24
     - word: です
@@ -7925,6 +8331,8 @@
       position: 47
     - word: こ
       position: 49
+      tags:
+        - silent
     - word: め
       position: 51
     - word: る
@@ -7978,6 +8386,8 @@
     - word: わ
       base: わあ
       position: 15
+      tags:
+        - silent
     - word: り
       position: 17
     - word: 切れる
@@ -7995,6 +8405,8 @@
     - word: じょうたい
       base: 状態
       position: 27
+      tags:
+        - silent
     - word: だっ
       base: だ
       dictionary: だ
@@ -8083,10 +8495,16 @@
       base: 為る
       dictionary: する
       position: 16
+      tags:
+        - silent
     - word: ど
       position: 17
+      tags:
+        - silent
     - word: ういん
       position: 18
+      tags:
+        - silent
     - word: なんて
       position: 22
 - id: A_OnlyYesterday_0900
@@ -8106,6 +8524,8 @@
     - word: やまおく
       base: 山奥
       position: 8
+      tags:
+        - silent
     - word: は
       position: 13
     - word: ともかく
@@ -8116,6 +8536,8 @@
     - word: いなか
       base: 田舎
       position: 22
+      tags:
+        - silent
     - word: の
       position: 26
     - word: 景色
@@ -8187,8 +8609,12 @@
       position: 6
     - word: たた
       position: 8
+      tags:
+        - silent
     - word: か
       position: 10
+      tags:
+        - silent
     - word: っ
       position: 12
     - word: たり
@@ -8221,6 +8647,8 @@
     - word: く
       base: 九
       position: 35
+      tags:
+        - silent
     - word: らし
       base: らしい
       dictionary: らしい
@@ -8298,6 +8726,8 @@
     - word: いなか
       base: 田舎
       position: 13
+      tags:
+        - silent
     - word: な
       base: だ
       dictionary: だ
@@ -8433,6 +8863,8 @@
     - word: おおぜい
       base: 大勢
       position: 20
+      tags:
+        - silent
     - word: しか
       position: 25
     - word: やっ
@@ -8483,6 +8915,8 @@
     - word: ころ
       base: 頃
       position: 16
+      tags:
+        - silent
     - word: は
       position: 19
     - word: もう
@@ -8494,6 +8928,8 @@
       base: 出来す
       dictionary: でかす
       position: 26
+      tags:
+        - silent
     - word: ぎ
       position: 30
     - word: が
@@ -8539,6 +8975,8 @@
     - word: わたし
       base: 私
       position: 15
+      tags:
+        - silent
     - word: 意外
       position: 20
     - word: と
@@ -8588,9 +9026,13 @@
       position: 8
     - word: もう
       position: 11
+      tags:
+        - silent
     - word: れんしゅう
       base: 練習
       position: 13
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -8632,6 +9074,8 @@
     - word: うち
       base: 内
       position: 15
+      tags:
+        - silent
     - word: に
       position: 18
     - word: 帰っ
@@ -8718,9 +9162,13 @@
     - word: い
       base: いー
       position: 9
+      tags:
+        - silent
     - word: よく
       base: 良く
       position: 10
+      tags:
+        - silent
     - word: を
       position: 13
     - word: 失っ
@@ -8768,6 +9216,8 @@
     - word: ほ
       base: ほっ
       position: 13
+      tags:
+        - silent
     - word: め
       base: む
       dictionary: む
@@ -8898,9 +9348,13 @@
       position: 0
     - word: えん
       position: 3
+      tags:
+        - silent
     - word: げき
       base: 劇
       position: 5
+      tags:
+        - silent
     - word: なんて
       position: 8
     - word: ダメ
@@ -8937,6 +9391,8 @@
     - word: かた
       base: 方
       position: 8
+      tags:
+        - silent
     - word: い
       base: 居る
       dictionary: いる
@@ -9113,9 +9569,13 @@
     - word: わ
       base: わあ
       position: 10
+      tags:
+        - silent
     - word: す
       base: っす
       position: 11
+      tags:
+        - silent
     - word: れ
       base: れる
       dictionary: れる
@@ -9154,6 +9614,8 @@
     - word: じょうだん
       base: 冗談
       position: 8
+      tags:
+        - silent
     - word: ふふふ
       position: 15
 - id: A_OnlyYesterday_1082
@@ -9171,6 +9633,8 @@
       position: 4
     - word: ふ
       position: 6
+      tags:
+        - silent
     - word: か
       position: 8
     - word: し
@@ -9671,6 +10135,8 @@
     - word: わたし
       base: 私
       position: 3
+      tags:
+        - silent
     - word: で
       position: 7
     - word: よかっ
@@ -9696,6 +10162,8 @@
     - word: えいが
       base: 映画
       position: 24
+      tags:
+        - silent
     - word: の
       position: 28
     - word: よう
@@ -9716,6 +10184,8 @@
     - word: きび
       base: 黍
       position: 2
+      tags:
+        - silent
     - word: しい
       base: 為る
       dictionary: する
@@ -9733,6 +10203,8 @@
     - word: げんじつ
       base: 現実
       position: 15
+      tags:
+        - silent
     - word: も
       position: 20
     - word: 知ら
@@ -9769,6 +10241,8 @@
     - word: みす
       base: 御簾
       position: 10
+      tags:
+        - silent
     - word: か
       position: 13
     - word: さ
@@ -9798,6 +10272,8 @@
     - word: ないしょ
       base: 内緒
       position: 3
+      tags:
+        - silent
     - word: よ
       position: 8
 - id: A_OnlyYesterday_1173
@@ -9916,6 +10392,8 @@
     - word: あくしゅ
       base: 握手
       position: 16
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -9945,6 +10423,8 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
     - word: イヤ
       base: 嫌
       position: 7
@@ -10004,8 +10484,12 @@
       position: 41
     - word: せき
       position: 43
+      tags:
+        - silent
     - word: が
       position: 45
+      tags:
+        - silent
     - word: え
       base: 得る
       dictionary: える
@@ -10044,6 +10528,8 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
     - word: が
       position: 6
     - word: 手
@@ -10082,6 +10568,8 @@
     - word: あくしゅ
       base: 握手
       position: 33
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -10151,6 +10639,8 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
     - word: に
       position: 6
     - word: は
@@ -10218,6 +10708,8 @@
     - word: となり
       base: 隣り
       position: 8
+      tags:
+        - silent
     - word: の
       position: 12
     - word: 席
@@ -10272,6 +10764,8 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
     - word: あべ
       position: 7
     - word: 君
@@ -10306,8 +10800,12 @@
       position: 3
     - word: て
       position: 5
+      tags:
+        - silent
     - word: おく
       position: 6
+      tags:
+        - silent
     - word: れよ
       base: れる
       dictionary: れる
@@ -10343,6 +10841,8 @@
     - word: ぐうぜん
       base: 偶然
       position: 3
+      tags:
+        - silent
     - word: と
       position: 8
     - word: は
@@ -10356,6 +10856,8 @@
     - word: わたし
       base: 私
       position: 15
+      tags:
+        - silent
     - word: の
       position: 19
     - word: ひねくれ
@@ -10381,6 +10883,8 @@
     - word: だいじょうぶ
       base: 大丈夫
       position: 7
+      tags:
+        - silent
     - word: です
       position: 14
 - id: A_OnlyYesterday_1277
@@ -10397,14 +10901,20 @@
     - word: じっ
       base: 爺
       position: 7
+      tags:
+        - silent
     - word: せ
       base: 為る
       dictionary: す
       position: 9
+      tags:
+        - silent
     - word: ん
       base: む
       dictionary: む
       position: 10
+      tags:
+        - silent
     - word: ある
       base: 有る
       position: 12
@@ -10443,6 +10953,8 @@
     - word: だいじょうぶ
       base: 大丈夫
       position: 14
+      tags:
+        - silent
     - word: もう
       position: 22
     - word: ５
@@ -10460,6 +10972,8 @@
     - word: わたし
       base: 私
       position: 30
+      tags:
+        - silent
     - word: なんか
       position: 34
     - word: 連れ
@@ -10487,6 +11001,8 @@
     - word: いなか
       base: 田舎
       position: 3
+      tags:
+        - silent
     - word: に
       position: 7
     - word: あこがれ
@@ -10511,6 +11027,8 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
     - word: ねー
       base: ね
       position: 6
@@ -10523,8 +11041,12 @@
     - word: べっ
       base: 別
       position: 15
+      tags:
+        - silent
     - word: そう
       position: 17
+      tags:
+        - silent
     - word: 買っ
       base: 買う
       dictionary: 買う
@@ -10571,6 +11093,8 @@
     - word: いなか
       base: 田舎
       position: 3
+      tags:
+        - silent
 - id: A_OnlyYesterday_0029
   deck_name: Only Yesterday
   translation: Grandma lives with us.
@@ -10611,6 +11135,8 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
     - word: は
       position: 6
     - word: 親
@@ -10642,6 +11168,8 @@
     - word: いなか
       base: 田舎
       position: 3
+      tags:
+        - silent
     - word: を
       position: 7
     - word: もっ
@@ -10744,9 +11272,13 @@
     - word: あ
       base: あー
       position: 3
+      tags:
+        - silent
     - word: たみ
       base: 民
       position: 4
+      tags:
+        - silent
     - word: よ
       position: 7
 - id: A_OnlyYesterday_0044
@@ -10763,11 +11295,17 @@
       position: 4
     - word: しん
       position: 8
+      tags:
+        - silent
     - word: かん
       base: 乾
       position: 10
+      tags:
+        - silent
     - word: せん
       position: 12
+      tags:
+        - silent
     - word: 乗れる
       base: 乗る
       position: 16
@@ -10822,6 +11360,8 @@
     - word: ふろ
       base: 風呂
       position: 17
+      tags:
+        - silent
     - word: が
       position: 20
     - word: あっ
@@ -10850,6 +11390,8 @@
     - word: ふろ
       base: 風呂
       position: 11
+      tags:
+        - silent
     - word: も
       position: 14
     - word: たくさん
@@ -10869,6 +11411,8 @@
     - word: ぶろ
       base: 風呂
       position: 31
+      tags:
+        - silent
     - word: と
       position: 34
     - word: か
@@ -10911,6 +11455,8 @@
     - word: ぶろ
       base: 風呂
       position: 12
+      tags:
+        - silent
 - id: A_OnlyYesterday_0051
   deck_name: Only Yesterday
   translation: The Violet Bath...
@@ -10930,6 +11476,8 @@
     - word: ぶろ
       base: 風呂
       position: 8
+      tags:
+        - silent
 - id: A_OnlyYesterday_0055
   deck_name: Only Yesterday
   translation: What?
@@ -10989,6 +11537,8 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
     - word: も
       position: 6
     - word: ね
@@ -11006,6 +11556,8 @@
     - word: しんせき
       base: 親戚
       position: 20
+      tags:
+        - silent
     - word: の
       position: 25
     - word: うち
@@ -11030,8 +11582,12 @@
     - word: お
       base: 御
       position: 8
+      tags:
+        - silent
     - word: かじま
       position: 9
+      tags:
+        - silent
     - word: です
       position: 13
     - word: が
@@ -11063,6 +11619,8 @@
       position: 18
     - word: こ
       position: 22
+      tags:
+        - silent
     - word: ちゃん
       position: 24
     - word: に
@@ -11109,6 +11667,8 @@
     - word: わたし
       base: 私
       position: 11
+      tags:
+        - silent
     - word: から
       position: 15
     - word: って
@@ -11252,6 +11812,8 @@
     - word: わか
       base: 我が
       position: 22
+      tags:
+        - silent
     - word: く
       base: 来る
       dictionary: くる
@@ -11340,6 +11902,8 @@
     - word: いなか
       base: 田舎
       position: 7
+      tags:
+        - silent
     - word: の
       position: 11
     - word: 気分
@@ -11390,10 +11954,14 @@
     - word: かれ
       base: 彼
       position: 7
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
       position: 9
+      tags:
+        - silent
     - word: に
       position: 11
     - word: めぐり
@@ -11545,6 +12113,8 @@
     - word: ふろ
       base: 風呂
       position: 7
+      tags:
+        - silent
     - word: 行こう
       base: 行く
       dictionary: 行く
@@ -11590,6 +12160,8 @@
     - word: たいくつ
       base: 退屈
       position: 8
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -11607,6 +12179,8 @@
     - word: わたし
       base: 私
       position: 21
+      tags:
+        - silent
     - word: は
       position: 25
     - word: グリム
@@ -11629,6 +12203,8 @@
     - word: ぶろ
       base: 風呂
       position: 49
+      tags:
+        - silent
     - word: レモン
       position: 53
     - word: 風呂
@@ -11721,8 +12297,12 @@
       base: 行く
       dictionary: いく
       position: 6
+      tags:
+        - silent
     - word: ぱく
       position: 8
+      tags:
+        - silent
     - word: 旅行
       position: 11
     - word: は
@@ -11810,6 +12390,8 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
     - word: が
       position: 6
     - word: お
@@ -12115,6 +12697,8 @@
       position: 4
     - word: あま
       position: 6
+      tags:
+        - silent
     - word: く
       base: 来る
       dictionary: くる
@@ -12146,6 +12730,8 @@
     - word: けいけん
       base: 敬虔
       position: 14
+      tags:
+        - silent
     - word: する
       base: 為る
       position: 19
@@ -12334,9 +12920,13 @@
       position: 15
     - word: とう
       position: 18
+      tags:
+        - silent
     - word: らい
       base: 癩
       position: 20
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -12362,6 +12952,8 @@
       position: 37
     - word: なぎさ
       position: 39
+      tags:
+        - silent
     - word: に
       position: 43
 - id: A_OnlyYesterday_0167
@@ -12387,6 +12979,8 @@
       position: 20
     - word: かし
       position: 23
+      tags:
+        - silent
     - word: が
       position: 26
     - word: いい
@@ -12414,9 +13008,13 @@
       position: 3
     - word: しゅう
       position: 6
+      tags:
+        - silent
     - word: さい
       base: 際
       position: 9
+      tags:
+        - silent
     - word: だっ
       base: だ
       dictionary: だ
@@ -12441,9 +13039,13 @@
     - word: たから
       base: 宝
       position: 32
+      tags:
+        - silent
     - word: づか
       base: つか
       position: 35
+      tags:
+        - silent
     - word: の
       position: 38
     - word: 何
@@ -12555,6 +13157,8 @@
     - word: わたし
       base: 私
       position: 4
+      tags:
+        - silent
     - word: は
       position: 8
     - word: 当時
@@ -12716,6 +13320,8 @@
       position: 8
     - word: きら
       position: 10
+      tags:
+        - silent
     - word: いなん
       base: 否む
       dictionary: いなむ
@@ -12737,6 +13343,8 @@
       position: 2
     - word: きら
       position: 4
+      tags:
+        - silent
     - word: い
       position: 7
     - word: ばっかり
@@ -12821,6 +13429,8 @@
     - word: だいじょうぶ
       base: 大丈夫
       position: 8
+      tags:
+        - silent
     - word: な
       base: だ
       dictionary: だ
@@ -12955,6 +13565,8 @@
       position: 11
     - word: こ
       position: 13
+      tags:
+        - silent
     - word: は
       position: 15
     - word: 残し
@@ -12997,8 +13609,12 @@
       position: 5
     - word: はい
       position: 7
+      tags:
+        - silent
     - word: め
       position: 9
+      tags:
+        - silent
     - word: は
       position: 11
     - word: キツイ
@@ -13053,6 +13669,8 @@
     - word: ぜったい
       base: 絶対
       position: 27
+      tags:
+        - silent
     - word: に
       position: 32
     - word: いけ
@@ -13122,6 +13740,8 @@
     - word: あぶ
       base: 虻
       position: 2
+      tags:
+        - silent
     - word: ない
       base: 無い
       position: 5
@@ -13271,6 +13891,8 @@
     - word: たに
       base: 谷
       position: 6
+      tags:
+        - silent
     - word: さん
       position: 9
 - id: A_OnlyYesterday_0214
@@ -13481,6 +14103,8 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
     - word: は
       position: 6
     - word: この
@@ -13493,6 +14117,8 @@
     - word: ざっし
       base: 雑誌
       position: 14
+      tags:
+        - silent
     - word: で
       position: 18
     - word: ベトナム
@@ -13559,6 +14185,8 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
     - word: たち
       base: 達
       position: 6
@@ -13678,6 +14306,8 @@
       position: 38
     - word: あま
       position: 40
+      tags:
+        - silent
     - word: い
       position: 43
     - word: と
@@ -13768,6 +14398,8 @@
     - word: はさ
       base: 稲架
       position: 5
+      tags:
+        - silent
     - word: ん
       base: の
       position: 8
@@ -13834,11 +14466,15 @@
     - word: とつぜん
       base: 突然
       position: 3
+      tags:
+        - silent
     - word: 私
       position: 9
     - word: わたし
       base: 私
       position: 11
+      tags:
+        - silent
     - word: の
       position: 15
     - word: 胸
@@ -13878,6 +14514,8 @@
       position: 0
     - word: か
       position: 2
+      tags:
+        - silent
     - word: って
       position: 4
     - word: い
@@ -13930,6 +14568,8 @@
     - word: ささい
       base: 些細
       position: 11
+      tags:
+        - silent
     - word: な
       base: だ
       dictionary: だ
@@ -13967,8 +14607,12 @@
     - word: お
       base: 御
       position: 3
+      tags:
+        - silent
     - word: かじま
       position: 4
+      tags:
+        - silent
     - word: さん
       position: 8
     - word: って
@@ -14070,6 +14714,8 @@
     - word: わたし
       base: 私
       position: 7
+      tags:
+        - silent
     - word: も
       position: 11
 - id: A_OnlyYesterday_0266
@@ -14128,6 +14774,8 @@
       position: 3
     - word: よ
       position: 5
+      tags:
+        - silent
     - word: ん
       base: の
       position: 7
@@ -14197,8 +14845,12 @@
     - word: お
       base: 御
       position: 3
+      tags:
+        - silent
     - word: かじま
       position: 4
+      tags:
+        - silent
     - word: さん
       position: 8
     - word: が
@@ -14242,8 +14894,12 @@
     - word: お
       base: 御
       position: 12
+      tags:
+        - silent
     - word: かじま
       position: 13
+      tags:
+        - silent
     - word: って
       position: 17
     - word: 子
@@ -14309,6 +14965,8 @@
       position: 2
     - word: はな
       position: 4
+      tags:
+        - silent
     - word: れ
       base: れる
       dictionary: れる
@@ -14507,8 +15165,12 @@
     - word: お
       base: 御
       position: 14
+      tags:
+        - silent
     - word: かじま
       position: 15
+      tags:
+        - silent
     - word: の
       position: 19
     - word: こと
@@ -14558,11 +15220,17 @@
       position: 10
     - word: と
       position: 13
+      tags:
+        - silent
     - word: の
       position: 14
+      tags:
+        - silent
     - word: むら
       base: 村
       position: 15
+      tags:
+        - silent
     - word: くらい
       position: 18
     - word: だ
@@ -14612,11 +15280,17 @@
       position: 0
     - word: と
       position: 3
+      tags:
+        - silent
     - word: の
       position: 4
+      tags:
+        - silent
     - word: むら
       base: 村
       position: 5
+      tags:
+        - silent
     - word: 打て
       base: 打つ
       dictionary: 打つ
@@ -14662,11 +15336,17 @@
       position: 0
     - word: と
       position: 3
+      tags:
+        - silent
     - word: の
       position: 4
+      tags:
+        - silent
     - word: むら
       base: 村
       position: 5
+      tags:
+        - silent
     - word: くーん
       base: 君
       position: 8
@@ -14699,6 +15379,8 @@
     - word: おうえん
       base: 応援
       position: 13
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -14712,6 +15394,8 @@
     - word: しょうち
       base: 承知
       position: 25
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -14764,11 +15448,17 @@
       position: 10
     - word: と
       position: 13
+      tags:
+        - silent
     - word: の
       position: 14
+      tags:
+        - silent
     - word: むら
       base: 村
       position: 15
+      tags:
+        - silent
 - id: A_OnlyYesterday_0312
   deck_name: Only Yesterday
   translation: Hiro, Hiro, Hirota!
@@ -14923,6 +15613,8 @@
     - word: きんちょう
       base: 緊張
       position: 6
+      tags:
+        - silent
     - word: の
       position: 12
     - word: あまり
@@ -14933,6 +15625,8 @@
     - word: わたし
       base: 私
       position: 20
+      tags:
+        - silent
     - word: は
       position: 24
     - word: ５
@@ -15136,11 +15830,17 @@
       position: 0
     - word: と
       position: 3
+      tags:
+        - silent
     - word: の
       position: 4
+      tags:
+        - silent
     - word: むら
       base: 村
       position: 5
+      tags:
+        - silent
     - word: に
       position: 8
     - word: も
@@ -15206,8 +15906,12 @@
       position: 3
     - word: ち
       position: 5
+      tags:
+        - silent
     - word: が
       position: 6
+      tags:
+        - silent
     - word: う
       base: うー
       position: 8
@@ -15256,8 +15960,12 @@
     - word: お
       base: 御
       position: 11
+      tags:
+        - silent
     - word: かじま
       position: 12
+      tags:
+        - silent
     - word: さん
       position: 16
     - word: とこ
@@ -15306,6 +16014,8 @@
     - word: わたし
       base: 私
       position: 4
+      tags:
+        - silent
     - word: 帰る
       position: 10
     - word: ほら
@@ -15485,6 +16195,8 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
     - word: は
       position: 6
     - word: 今度
@@ -15520,6 +16232,8 @@
     - word: わたし
       base: 私
       position: 9
+      tags:
+        - silent
     - word: を
       position: 13
     - word: 連れ
@@ -15572,6 +16286,8 @@
     - word: わたし
       base: 私
       position: 18
+      tags:
+        - silent
     - word: は
       position: 22
     - word: そう
@@ -15581,6 +16297,8 @@
     - word: かんたん
       base: 簡単
       position: 30
+      tags:
+        - silent
     - word: に
       position: 35
     - word: 離
@@ -15828,6 +16546,8 @@
     - word: じゅんび
       base: 準備
       position: 20
+      tags:
+        - silent
     - word: を
       position: 25
     - word: する
@@ -15914,6 +16634,8 @@
     - word: わたし
       base: 私
       position: 24
+      tags:
+        - silent
     - word: は
       position: 28
     - word: 発育
@@ -15999,6 +16721,8 @@
       position: 6
     - word: えのもと
       position: 9
+      tags:
+        - silent
     - word: さん
       position: 14
     - word: と
@@ -16033,6 +16757,8 @@
     - word: わたし
       base: 私
       position: 8
+      tags:
+        - silent
     - word: は
       position: 12
     - word: 買う
@@ -16116,9 +16842,13 @@
     - word: ほけん
       base: 保健
       position: 11
+      tags:
+        - silent
     - word: しつ
       base: 質
       position: 14
+      tags:
+        - silent
     - word: に
       position: 17
     - word: パンツ
@@ -16495,8 +17225,12 @@
     - word: ぜん
       base: 膳
       position: 13
+      tags:
+        - silent
     - word: せい
       position: 15
+      tags:
+        - silent
     - word: 時代
       position: 18
     - word: に
@@ -16512,6 +17246,8 @@
     - word: はや
       base: 早
       position: 33
+      tags:
+        - silent
     - word: って
       position: 36
     - word: しまっ
@@ -16602,8 +17338,12 @@
       position: 0
     - word: ち
       position: 2
+      tags:
+        - silent
     - word: が
       position: 3
+      tags:
+        - silent
     - word: うわ
       position: 5
     - word: よ
@@ -16702,6 +17442,8 @@
     - word: ほけん
       base: 保健
       position: 14
+      tags:
+        - silent
     - word: の
       position: 18
     - word: 先生
@@ -16749,6 +17491,8 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
     - word: ４
       base: '4'
       dictionary: '4'
@@ -16923,6 +17667,8 @@
     - word: ないしょ
       base: 内緒
       position: 9
+      tags:
+        - silent
     - word: よっ
       base: よる
       dictionary: よる
@@ -17056,6 +17802,8 @@
       position: 0
     - word: かぜ
       position: 3
+      tags:
+        - silent
     - word: ぶり
       base: 振る
       dictionary: ふる
@@ -17169,6 +17917,8 @@
       position: 0
     - word: かぜ
       position: 3
+      tags:
+        - silent
     - word: な
       base: だ
       dictionary: だ
@@ -17204,6 +17954,8 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
     - word: 言っ
       base: 言う
       dictionary: 言う
@@ -17243,9 +17995,13 @@
     - word: れんらく
       base: 連絡
       position: 4
+      tags:
+        - silent
     - word: ちょう
       base: 鳥
       position: 8
+      tags:
+        - silent
     - word: 書い
       base: 書く
       dictionary: 書く
@@ -17319,6 +18075,8 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
     - word: も
       position: 6
     - word: 今日
@@ -17336,6 +18094,8 @@
     - word: いっしょ
       base: 一緒
       position: 18
+      tags:
+        - silent
     - word: だ
       position: 23
     - word: ね
@@ -17405,14 +18165,20 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
     - word: は
       position: 6
     - word: 違
       position: 7
     - word: ち
       position: 9
+      tags:
+        - silent
     - word: が
       position: 10
+      tags:
+        - silent
     - word: うの
       position: 12
     - word: よ
@@ -17421,6 +18187,8 @@
       position: 16
     - word: かぜ
       position: 19
+      tags:
+        - silent
     - word: な
       base: だ
       dictionary: だ
@@ -17452,6 +18220,8 @@
     - word: わたし
       base: 私
       position: 11
+      tags:
+        - silent
     - word: は
       position: 15
 - id: A_OnlyYesterday_0474
@@ -17490,6 +18260,8 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
     - word: ドッジボール
       position: 7
     - word: やれる
@@ -17527,6 +18299,8 @@
     - word: あぶ
       base: 虻
       position: 2
+      tags:
+        - silent
     - word: なかっ
       base: 無い
       dictionary: ない
@@ -17628,8 +18402,12 @@
       position: 0
     - word: ち
       position: 2
+      tags:
+        - silent
     - word: が
       position: 3
+      tags:
+        - silent
     - word: うわ
       position: 5
     - word: よ
@@ -17801,6 +18579,8 @@
     - word: ころ
       base: 頃
       position: 4
+      tags:
+        - silent
     - word: を
       position: 7
     - word: しきり
@@ -17829,6 +18609,8 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
     - word: に
       position: 6
     - word: さなぎ
@@ -17845,10 +18627,14 @@
     - word: ふた
       base: 蓋
       position: 18
+      tags:
+        - silent
     - word: た
       base: だ
       dictionary: だ
       position: 20
+      tags:
+        - silent
     - word: び
       base: びっ
       position: 22
@@ -17889,6 +18675,8 @@
     - word: たし
       base: 足し
       position: 2
+      tags:
+        - silent
     - word: か
       position: 5
     - word: に
@@ -17898,9 +18686,13 @@
     - word: しゅう
       base: 周
       position: 11
+      tags:
+        - silent
     - word: しょく
       base: 食
       position: 14
+      tags:
+        - silent
     - word: したて
       base: 仕立て
       position: 18
@@ -17926,8 +18718,12 @@
       position: 31
     - word: ち
       position: 33
+      tags:
+        - silent
     - word: が
       position: 34
+      tags:
+        - silent
     - word: って
       position: 36
     - word: いる
@@ -17944,6 +18740,8 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
     - word: たち
       base: 達
       position: 6
@@ -18007,11 +18805,17 @@
       position: 17
     - word: む
       position: 20
+      tags:
+        - silent
     - word: が
       position: 21
+      tags:
+        - silent
     - word: むちゅう
       base: 夢中
       position: 22
+      tags:
+        - silent
     - word: で
       position: 27
     - word: 羽根
@@ -18065,6 +18869,8 @@
       position: 4
     - word: ふ
       position: 6
+      tags:
+        - silent
     - word: り
       position: 8
     - word: 返っ
@@ -18103,6 +18909,8 @@
     - word: わたし
       base: 私
       position: 4
+      tags:
+        - silent
     - word: に
       position: 8
     - word: 教える
@@ -18136,6 +18944,8 @@
     - word: わたし
       base: 私
       position: 6
+      tags:
+        - silent
     - word: は
       position: 10
     - word: 残り
@@ -18166,6 +18976,8 @@
       base: 眠い
       dictionary: ねむい
       position: 32
+      tags:
+        - silent
     - word: る
       base: り
       dictionary: り
@@ -18402,9 +19214,13 @@
     - word: また
       base: 又
       position: 23
+      tags:
+        - silent
     - word: いとこ
       base: 従兄弟
       position: 25
+      tags:
+        - silent
 - id: A_OnlyYesterday_0516
   deck_name: Only Yesterday
   translation: Oh, I see...
@@ -18457,6 +19273,8 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
     - word: また
       base: 又
       position: 6
@@ -18503,6 +19321,8 @@
     - word: かくにん
       base: 確認
       position: 22
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -18536,6 +19356,8 @@
     - word: わたし
       base: 私
       position: 10
+      tags:
+        - silent
     - word: うふふ
       position: 16
     - word: そそっかしく
@@ -18652,6 +19474,8 @@
     - word: おやじ
       base: 親父
       position: 3
+      tags:
+        - silent
     - word: の
       position: 7
     - word: 車
@@ -18729,6 +19553,8 @@
       base: 狭い
       dictionary: せまい
       position: 6
+      tags:
+        - silent
     - word: いけ
       base: 行く
       dictionary: いける
@@ -18758,8 +19584,12 @@
       position: 0
     - word: め
       position: 2
+      tags:
+        - silent
     - word: ずら
       position: 3
+      tags:
+        - silent
     - word: しい
       position: 6
     - word: 音楽
@@ -18821,6 +19651,8 @@
     - word: ひゃくしょう
       base: 百姓
       position: 9
+      tags:
+        - silent
     - word: の
       position: 16
     - word: 音楽
@@ -18850,6 +19682,8 @@
     - word: ひゃくしょう
       base: 百姓
       position: 12
+      tags:
+        - silent
     - word: だ
       position: 19
     - word: から
@@ -18877,12 +19711,18 @@
       base: 居る
       dictionary: いる
       position: 6
+      tags:
+        - silent
     - word: ね
       base: ない
       dictionary: ない
       position: 7
+      tags:
+        - silent
     - word: か
       position: 8
+      tags:
+        - silent
     - word: り
       position: 10
     - word: の
@@ -18898,10 +19738,16 @@
       position: 17
     - word: さ
       position: 20
+      tags:
+        - silent
     - word: か
       position: 21
+      tags:
+        - silent
     - word: も
       position: 22
+      tags:
+        - silent
     - word: り
       position: 24
     - word: やっ
@@ -18939,6 +19785,8 @@
     - word: わか
       base: 我が
       position: 6
+      tags:
+        - silent
     - word: い
       base: いー
       position: 9
@@ -18978,6 +19826,8 @@
     - word: わか
       base: 我が
       position: 4
+      tags:
+        - silent
     - word: い
       base: いー
       position: 7
@@ -18986,6 +19836,8 @@
     - word: むすめ
       base: 娘
       position: 10
+      tags:
+        - silent
     - word: が
       position: 14
     - word: 東京
@@ -19068,9 +19920,13 @@
       position: 4
     - word: せん
       position: 7
+      tags:
+        - silent
     - word: しょく
       base: 食
       position: 9
+      tags:
+        - silent
     - word: か
       position: 13
     - word: なんか
@@ -19120,8 +19976,12 @@
       position: 9
     - word: め
       position: 11
+      tags:
+        - silent
     - word: ずら
       position: 12
+      tags:
+        - silent
     - word: しい
       base: 為る
       dictionary: する
@@ -19153,8 +20013,12 @@
       position: 11
     - word: め
       position: 13
+      tags:
+        - silent
     - word: ずら
       position: 14
+      tags:
+        - silent
     - word: しく
       base: 敷く
       position: 17
@@ -19216,6 +20080,8 @@
       position: 2
     - word: えど
       position: 5
+      tags:
+        - silent
     - word: 時代
       position: 8
     - word: は
@@ -19248,13 +20114,19 @@
     - word: べにばな
       base: 紅花
       position: 8
+      tags:
+        - silent
     - word: だいじ
       base: 大事
       position: 12
+      tags:
+        - silent
     - word: ん
       base: む
       dictionary: む
       position: 15
+      tags:
+        - silent
     - word: と
       position: 17
     - word: と
@@ -19288,6 +20160,8 @@
       position: 6
     - word: た
       position: 8
+      tags:
+        - silent
     - word: が
       position: 10
     - word: 肌
@@ -19295,6 +20169,8 @@
     - word: はだ
       base: 肌
       position: 13
+      tags:
+        - silent
     - word: ふれ
       base: ふれる
       dictionary: ふれる
@@ -19341,6 +20217,8 @@
     - word: ばしょう
       base: 芭蕉
       position: 6
+      tags:
+        - silent
     - word: の
       position: 11
     - word: 句
@@ -19348,6 +20226,8 @@
     - word: く
       base: 九
       position: 14
+      tags:
+        - silent
     - word: でしょ
       base: です
       dictionary: です
@@ -19406,11 +20286,17 @@
     - word: いち
       base: 位置
       position: 12
+      tags:
+        - silent
     - word: や
       position: 14
+      tags:
+        - silent
     - word: づ
       base: 出る
       position: 15
+      tags:
+        - silent
     - word: け
       position: 17
     - word: で
@@ -19476,12 +20362,20 @@
       position: 5
     - word: いも
       position: 7
+      tags:
+        - silent
     - word: に
       position: 9
+      tags:
+        - silent
     - word: か
       position: 10
+      tags:
+        - silent
     - word: い
       position: 11
+      tags:
+        - silent
     - word: なんか
       position: 13
     - word: やる
@@ -19507,6 +20401,8 @@
     - word: かわら
       base: 瓦
       position: 6
+      tags:
+        - silent
     - word: が
       position: 10
     - word: 人
@@ -19562,8 +20458,12 @@
     - word: げん
       base: 弦
       position: 18
+      tags:
+        - silent
     - word: たん
       position: 20
+      tags:
+        - silent
     - word: と
       position: 23
     - word: か
@@ -19626,6 +20526,8 @@
       position: 15
     - word: ほろ
       position: 17
+      tags:
+        - silent
     - word: び
       base: びっ
       position: 20
@@ -19659,6 +20561,8 @@
     - word: とつぜん
       base: 突然
       position: 40
+      tags:
+        - silent
     - word: バッタリ
       base: ばったり
       position: 45
@@ -19742,6 +20646,8 @@
     - word: へ
       base: へえ
       position: 22
+      tags:
+        - silent
     - word: って
       position: 24
     - word: る
@@ -19786,6 +20692,8 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
 - id: A_OnlyYesterday_0576
   deck_name: Only Yesterday
   translation: I could farm 24 hours a day.
@@ -19807,6 +20715,8 @@
     - word: けんめい
       base: 懸命
       position: 11
+      tags:
+        - silent
     - word: やれ
       base: 遣る
       dictionary: やれる
@@ -19885,6 +20795,8 @@
       position: 16
     - word: か
       position: 18
+      tags:
+        - silent
     - word: って
       position: 20
     - word: る
@@ -19897,8 +20809,12 @@
       position: 26
     - word: ちく
       position: 29
+      tags:
+        - silent
     - word: さん
       position: 31
+      tags:
+        - silent
     - word: じゃ
       base: だ
       dictionary: だ
@@ -19970,11 +20886,15 @@
     - word: けんめい
       base: 懸命
       position: 19
+      tags:
+        - silent
     - word: 面倒
       position: 25
     - word: めんどう
       base: 面倒
       position: 28
+      tags:
+        - silent
     - word: 見
       base: 見る
       dictionary: 見る
@@ -20087,6 +21007,8 @@
       position: 17
     - word: つと
       position: 19
+      tags:
+        - silent
     - word: め
       base: む
       dictionary: む
@@ -20110,6 +21032,8 @@
     - word: ひゃくしょう
       base: 百姓
       position: 3
+      tags:
+        - silent
     - word: と
       position: 10
     - word: し
@@ -20127,6 +21051,8 @@
       position: 17
     - word: か
       position: 19
+      tags:
+        - silent
     - word: け
       base: 蹴る
       dictionary: ける
@@ -20195,6 +21121,8 @@
     - word: せんぱい
       base: 先輩
       position: 8
+      tags:
+        - silent
     - word: に
       position: 13
     - word: 引
@@ -20207,6 +21135,8 @@
     - word: ぱ
       base: ぱっ
       position: 18
+      tags:
+        - silent
     - word: られ
       base: られる
       dictionary: られる
@@ -20259,6 +21189,8 @@
     - word: こうかい
       base: 後悔
       position: 20
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -20318,6 +21250,8 @@
     - word: じょうだん
       base: 冗談
       position: 10
+      tags:
+        - silent
     - word: で
       position: 16
     - word: うん
@@ -20341,6 +21275,8 @@
     - word: たいひ
       base: 堆肥
       position: 3
+      tags:
+        - silent
     - word: なんか
       position: 7
     - word: 使っ
@@ -20360,6 +21296,8 @@
     - word: ひりょう
       base: 肥料
       position: 22
+      tags:
+        - silent
     - word: は
       position: 27
     - word: できる
@@ -20553,6 +21491,8 @@
     - word: ちょくせつ
       base: 直接
       position: 3
+      tags:
+        - silent
     - word: 畑
       position: 10
     - word: に
@@ -20579,8 +21519,12 @@
       position: 22
     - word: た
       position: 24
+      tags:
+        - silent
     - word: の
       position: 25
+      tags:
+        - silent
     - word: まれ
       base: 稀
       position: 27
@@ -20631,6 +21575,8 @@
     - word: あさつゆ
       base: 朝露
       position: 16
+      tags:
+        - silent
     - word: で
       position: 21
     - word: トゲ
@@ -20651,6 +21597,8 @@
       base: つう
       dictionary: つう
       position: 36
+      tags:
+        - silent
     - word: む
       position: 38
     - word: ん
@@ -20671,11 +21619,15 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
     - word: 宵
       position: 7
     - word: よい
       base: 良い
       position: 9
+      tags:
+        - silent
     - word: っ
       position: 12
     - word: 張
@@ -20856,8 +21808,12 @@
       base: つう
       dictionary: つう
       position: 2
+      tags:
+        - silent
     - word: か
       position: 3
+      tags:
+        - silent
     - word: れ
       base: れる
       dictionary: れる
@@ -20892,6 +21848,8 @@
     - word: だいじょうぶ
       base: 大丈夫
       position: 4
+      tags:
+        - silent
     - word: ほら
       position: 12
     - word: 元気
@@ -20924,6 +21882,8 @@
     - word: は
       base: はあ
       position: 17
+      tags:
+        - silent
     - word: り
       position: 19
     - word: 切っ
@@ -20994,9 +21954,13 @@
     - word: わか
       base: 我が
       position: 14
+      tags:
+        - silent
     - word: づま
       base: つま
       position: 16
+      tags:
+        - silent
     - word: で
       position: 19
     - word: も
@@ -21006,6 +21970,8 @@
     - word: めった
       base: 滅多
       position: 25
+      tags:
+        - silent
     - word: く
       base: 来る
       dictionary: くる
@@ -21043,14 +22009,22 @@
     - word: ほん
       base: 其れ
       position: 17
+      tags:
+        - silent
     - word: か
       position: 19
+      tags:
+        - silent
     - word: く
       base: 九
       position: 20
+      tags:
+        - silent
     - word: てき
       base: 滴
       position: 21
+      tags:
+        - silent
     - word: だあ
       base: だ
       dictionary: だ
@@ -21095,6 +22069,8 @@
     - word: わたし
       base: 私
       position: 7
+      tags:
+        - silent
     - word: の
       position: 11
     - word: 二
@@ -21111,6 +22087,8 @@
     - word: いなか
       base: 田舎
       position: 19
+      tags:
+        - silent
     - word: 生活
       position: 23
     - word: が
@@ -21170,6 +22148,8 @@
     - word: てぶくろ
       base: 手袋
       position: 7
+      tags:
+        - silent
     - word: の
       position: 12
     - word: よう
@@ -21192,6 +22172,8 @@
     - word: むすめ
       base: 娘
       position: 24
+      tags:
+        - silent
     - word: たち
       base: 達
       position: 28
@@ -21215,6 +22197,8 @@
       base: つう
       dictionary: つう
       position: 42
+      tags:
+        - silent
     - word: み
       position: 44
     - word: トゲ
@@ -21267,8 +22251,12 @@
       base: 呉れる
       dictionary: くれる
       position: 6
+      tags:
+        - silent
     - word: ない
       position: 8
+      tags:
+        - silent
     - word: の
       position: 11
     - word: 色
@@ -21307,6 +22295,8 @@
       position: 0
     - word: はな
       position: 2
+      tags:
+        - silent
     - word: や
       position: 5
     - word: か
@@ -21323,6 +22313,8 @@
       position: 14
     - word: うら
       position: 16
+      tags:
+        - silent
     - word: み
       position: 19
     - word: の
@@ -21368,10 +22360,16 @@
     - word: ひと
       base: 人
       position: 3
+      tags:
+        - silent
     - word: に
       position: 5
+      tags:
+        - silent
     - word: ぎ
       position: 6
+      tags:
+        - silent
     - word: り
       position: 8
     - word: の
@@ -21381,8 +22379,12 @@
     - word: べ
       base: べい
       position: 12
+      tags:
+        - silent
     - word: に
       position: 13
+      tags:
+        - silent
     - word: を
       position: 15
     - word: とる
@@ -21405,6 +22407,8 @@
     - word: かん
       base: 彼
       position: 31
+      tags:
+        - silent
     - word: が
       position: 34
     - word: 必要
@@ -21429,8 +22433,12 @@
       position: 4
     - word: かが
       position: 6
+      tags:
+        - silent
     - word: や
       position: 8
+      tags:
+        - silent
     - word: く
       base: 来る
       dictionary: くる
@@ -21440,6 +22448,8 @@
     - word: じゅんすい
       base: 純粋
       position: 14
+      tags:
+        - silent
     - word: の
       position: 20
     - word: 紅
@@ -21461,6 +22471,8 @@
       position: 35
     - word: きん
       position: 37
+      tags:
+        - silent
     - word: と
       position: 40
     - word: 同じ
@@ -21492,8 +22504,12 @@
     - word: みず
       base: 水
       position: 3
+      tags:
+        - silent
     - word: あら
       position: 5
+      tags:
+        - silent
     - word: い
       base: いー
       position: 8
@@ -21511,6 +22527,8 @@
       position: 14
     - word: ふ
       position: 16
+      tags:
+        - silent
     - word: ん
       base: の
       position: 18
@@ -21549,6 +22567,8 @@
       position: 41
     - word: ふ
       position: 43
+      tags:
+        - silent
     - word: れ
       base: れる
       dictionary: れる
@@ -21579,6 +22599,8 @@
     - word: さんか
       base: 参加
       position: 10
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -21600,6 +22622,8 @@
       position: 25
     - word: ま
       position: 27
+      tags:
+        - silent
     - word: す
       base: っす
       position: 29
@@ -21632,6 +22656,8 @@
       position: 7
     - word: ね
       position: 9
+      tags:
+        - silent
     - word: か
       position: 11
     - word: せ
@@ -21652,8 +22678,12 @@
       position: 19
     - word: はっ
       position: 22
+      tags:
+        - silent
     - word: こう
       position: 24
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -21676,8 +22706,12 @@
       base: ず
       dictionary: ぬ
       position: 41
+      tags:
+        - silent
     - word: ば
       position: 42
+      tags:
+        - silent
     - word: り
       position: 44
     - word: 気
@@ -21707,8 +22741,12 @@
     - word: べ
       base: べい
       position: 5
+      tags:
+        - silent
     - word: に
       position: 6
+      tags:
+        - silent
     - word: の
       position: 8
     - word: 原料
@@ -21724,8 +22762,12 @@
       position: 16
     - word: はな
       position: 18
+      tags:
+        - silent
     - word: もち
       position: 20
+      tags:
+        - silent
     - word: が
       position: 23
     - word: でき
@@ -21755,8 +22797,12 @@
       position: 6
     - word: はい
       position: 9
+      tags:
+        - silent
     - word: えき
       position: 11
+      tags:
+        - silent
     - word: も
       position: 14
     - word: 昔
@@ -21768,6 +22814,8 @@
     - word: むだ
       base: 無駄
       position: 21
+      tags:
+        - silent
     - word: に
       position: 24
     - word: し
@@ -21797,6 +22845,8 @@
     - word: ぬの
       base: 布
       position: 6
+      tags:
+        - silent
     - word: に
       position: 9
     - word: 染
@@ -21806,6 +22856,8 @@
       base: 為る
       dictionary: する
       position: 12
+      tags:
+        - silent
     - word: み
       position: 14
     - word: 込
@@ -21827,8 +22879,12 @@
     - word: べにばな
       base: 紅花
       position: 29
+      tags:
+        - silent
     - word: ぞ
       position: 33
+      tags:
+        - silent
     - word: め
       position: 35
     - word: で
@@ -21845,6 +22901,8 @@
     - word: そ
       base: そう
       position: 2
+      tags:
+        - silent
     - word: まれ
       base: 稀
       position: 4
@@ -21854,6 +22912,8 @@
     - word: そ
       base: そう
       position: 10
+      tags:
+        - silent
     - word: まれ
       base: 稀
       position: 12
@@ -21871,8 +22931,12 @@
     - word: べにばな
       base: 紅花
       position: 4
+      tags:
+        - silent
     - word: ぞ
       position: 8
+      tags:
+        - silent
     - word: め
       position: 10
     - word: なら
@@ -21891,6 +22955,8 @@
     - word: そ
       base: そう
       position: 18
+      tags:
+        - silent
     - word: まれ
       base: 稀
       position: 20
@@ -21930,11 +22996,17 @@
     - word: べ
       base: べい
       position: 4
+      tags:
+        - silent
     - word: に
       position: 5
+      tags:
+        - silent
     - word: おしろい
       base: 白粉
       position: 6
+      tags:
+        - silent
     - word: や
       position: 11
     - word: 派手
@@ -21942,8 +23014,12 @@
     - word: は
       base: はあ
       position: 15
+      tags:
+        - silent
     - word: で
       position: 16
+      tags:
+        - silent
     - word: な
       base: だ
       dictionary: だ
@@ -21986,8 +23062,12 @@
     - word: べにばな
       base: 紅花
       position: 48
+      tags:
+        - silent
     - word: ぞ
       position: 52
+      tags:
+        - silent
     - word: め
       position: 54
     - word: を
@@ -22039,6 +23119,8 @@
     - word: そ
       base: そう
       position: 86
+      tags:
+        - silent
     - word: え
       base: 得る
       dictionary: える
@@ -22130,8 +23212,12 @@
       position: 46
     - word: は
       position: 49
+      tags:
+        - silent
     - word: なつ
       position: 50
+      tags:
+        - silent
     - word: み
       position: 53
     - word: を
@@ -22147,6 +23233,8 @@
     - word: く
       base: 九
       position: 61
+      tags:
+        - silent
     - word: り
       position: 63
     - word: 返す
@@ -22163,8 +23251,12 @@
       position: 1
     - word: はな
       position: 3
+      tags:
+        - silent
     - word: もち
       position: 5
+      tags:
+        - silent
     - word: は
       position: 8
     - word: カビ
@@ -22185,6 +23277,8 @@
       base: つう
       dictionary: つう
       position: 19
+      tags:
+        - silent
     - word: み
       position: 21
     - word: どき
@@ -22232,6 +23326,8 @@
       base: ようする
       dictionary: ようす
       position: 8
+      tags:
+        - silent
     - word: なく
       base: 無い
       dictionary: ない
@@ -22240,6 +23336,8 @@
       position: 15
     - word: ふ
       position: 17
+      tags:
+        - silent
     - word: り
       position: 19
     - word: 注ぎ
@@ -22266,8 +23364,12 @@
     - word: お
       base: 御
       position: 35
+      tags:
+        - silent
     - word: よ
       position: 36
+      tags:
+        - silent
     - word: ぶ
       position: 38
     - word: こと
@@ -22318,6 +23420,8 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
     - word: は
       position: 6
     - word: 快
@@ -22325,8 +23429,12 @@
     - word: こころ
       base: 心
       position: 9
+      tags:
+        - silent
     - word: よ
       position: 12
+      tags:
+        - silent
     - word: く
       base: 九
       position: 14
@@ -22354,6 +23462,8 @@
       base: つう
       dictionary: つう
       position: 30
+      tags:
+        - silent
     - word: み
       position: 32
     - word: 乙女
@@ -22498,11 +23608,17 @@
       position: 5
     - word: うん
       position: 7
+      tags:
+        - silent
     - word: どう
       position: 9
+      tags:
+        - silent
     - word: ぐつ
       base: 靴
       position: 11
+      tags:
+        - silent
     - word: 買っ
       base: 買う
       dictionary: 買う
@@ -22535,11 +23651,17 @@
       position: 2
     - word: うん
       position: 4
+      tags:
+        - silent
     - word: どう
       position: 6
+      tags:
+        - silent
     - word: ぐつ
       base: 靴
       position: 8
+      tags:
+        - silent
     - word: が
       position: 11
     - word: ほ
@@ -22620,6 +23742,8 @@
     - word: だれ
       base: 誰
       position: 12
+      tags:
+        - silent
     - word: も
       position: 15
     - word: はい
@@ -22650,6 +23774,8 @@
     - word: だれ
       base: 誰
       position: 7
+      tags:
+        - silent
 - id: A_OnlyYesterday_0665
   deck_name: Only Yesterday
   translation: Kako, Megu, Yachan, Nonchan.
@@ -22794,8 +23920,12 @@
     - word: たんじょう
       base: 誕生
       position: 34
+      tags:
+        - silent
     - word: び
       position: 39
+      tags:
+        - silent
     - word: で
       position: 41
     - word: も
@@ -22831,6 +23961,8 @@
       position: 13
     - word: あま
       position: 15
+      tags:
+        - silent
     - word: い
       base: 居る
       dictionary: いる
@@ -22877,6 +24009,8 @@
     - word: わたし
       base: 私
       position: 14
+      tags:
+        - silent
     - word: が
       position: 18
     - word: 姿
@@ -22884,6 +24018,8 @@
     - word: すがた
       base: 姿
       position: 21
+      tags:
+        - silent
     - word: を
       position: 25
     - word: 現
@@ -22923,6 +24059,8 @@
       position: 8
     - word: ふ
       position: 10
+      tags:
+        - silent
     - word: り
       position: 12
     - word: 袖
@@ -22930,6 +24068,8 @@
     - word: そで
       base: 袖
       position: 15
+      tags:
+        - silent
     - word: 買っ
       base: 買う
       dictionary: 買う
@@ -22994,6 +24134,8 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
     - word: たち
       base: 達
       position: 6
@@ -23070,6 +24212,8 @@
     - word: かげん
       base: 加減
       position: 5
+      tags:
+        - silent
     - word: に
       position: 9
     - word: し
@@ -23094,6 +24238,8 @@
       position: 2
     - word: きら
       position: 4
+      tags:
+        - silent
     - word: い
       position: 7
     - word: ばっかり
@@ -23147,6 +24293,8 @@
       position: 0
     - word: ふ
       position: 2
+      tags:
+        - silent
     - word: り
       position: 4
     - word: 袖
@@ -23154,6 +24302,8 @@
     - word: そで
       base: 袖
       position: 7
+      tags:
+        - silent
     - word: の
       position: 10
     - word: こと
@@ -23388,6 +24538,8 @@
     - word: わたし
       base: 私
       position: 11
+      tags:
+        - silent
     - word: あれ
       position: 15
     - word: 気
@@ -23423,6 +24575,8 @@
       position: 4
     - word: きら
       position: 6
+      tags:
+        - silent
     - word: い
       position: 9
     - word: だ
@@ -23471,6 +24625,8 @@
     - word: す
       base: 為る
       position: 8
+      tags:
+        - silent
     - word: て
       base: って
       position: 10
@@ -23508,6 +24664,8 @@
     - word: す
       base: 為る
       position: 2
+      tags:
+        - silent
     - word: て
       base: って
       position: 4
@@ -23676,6 +24834,8 @@
     - word: がまん
       base: 我慢
       position: 17
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -23703,6 +24863,8 @@
     - word: くつ
       base: 靴
       position: 11
+      tags:
+        - silent
     - word: に
       position: 14
     - word: しよー
@@ -23765,6 +24927,8 @@
     - word: わたし
       base: 私
       position: 12
+      tags:
+        - silent
     - word: の
       position: 16
     - word: ３
@@ -23819,6 +24983,8 @@
     - word: わたし
       base: 私
       position: 16
+      tags:
+        - silent
     - word: が
       position: 20
     - word: 行っ
@@ -24000,6 +25166,8 @@
       position: 17
     - word: か
       position: 19
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -24039,6 +25207,8 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
     - word: 行か
       base: 行く
       dictionary: 行く
@@ -24133,6 +25303,8 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
     - word: も
       position: 6
     - word: 行く
@@ -24148,6 +25320,8 @@
     - word: はだし
       base: 裸足
       position: 3
+      tags:
+        - silent
     - word: で
       position: 7
 - id: A_OnlyYesterday_0732
@@ -24208,6 +25382,8 @@
     - word: は
       base: はあ
       position: 7
+      tags:
+        - silent
     - word: れ
       base: れる
       dictionary: れる
@@ -24251,6 +25427,8 @@
     - word: わたし
       base: 私
       position: 6
+      tags:
+        - silent
     - word: だけ
       position: 10
     - word: が
@@ -24275,6 +25453,8 @@
     - word: わたし
       base: 私
       position: 28
+      tags:
+        - silent
     - word: は
       position: 32
     - word: もらい
@@ -24315,6 +25495,8 @@
       position: 2
     - word: ばん
       position: 4
+      tags:
+        - silent
     - word: なかなか
       base: 中々
       position: 8
@@ -24324,6 +25506,8 @@
       position: 12
     - word: ね
       position: 14
+      tags:
+        - silent
     - word: つかれ
       base: 疲れる
       dictionary: つかれる
@@ -24337,6 +25521,8 @@
     - word: ふとん
       base: 布団
       position: 26
+      tags:
+        - silent
     - word: の
       position: 30
     - word: 中
@@ -24373,6 +25559,8 @@
       position: 5
     - word: たた
       position: 7
+      tags:
+        - silent
     - word: か
       position: 10
     - word: れ
@@ -24426,6 +25614,8 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
     - word: なんか
       position: 6
     - word: 時々
@@ -24554,6 +25744,8 @@
       position: 2
     - word: きら
       position: 4
+      tags:
+        - silent
     - word: いも
       position: 7
     - word: 玉ねぎ
@@ -24591,6 +25783,8 @@
     - word: わたし
       base: 私
       position: 8
+      tags:
+        - silent
     - word: 安心
       position: 13
     - word: し
@@ -24616,6 +25810,8 @@
     - word: こま
       base: 齣
       position: 5
+      tags:
+        - silent
     - word: る
       base: り
       dictionary: り
@@ -24625,6 +25821,8 @@
     - word: こま
       base: 齣
       position: 11
+      tags:
+        - silent
     - word: る
       base: れる
       position: 14
@@ -24708,6 +25906,8 @@
       base: 小突く
       dictionary: こづく
       position: 8
+      tags:
+        - silent
     - word: い
       position: 12
     - word: 奮発
@@ -24715,6 +25915,8 @@
     - word: ふんぱつ
       base: 奮発
       position: 17
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -24780,6 +25982,8 @@
       position: 0
     - word: ざおう
       position: 3
+      tags:
+        - silent
     - word: に
       position: 7
     - word: ドライブ
@@ -24808,10 +26012,14 @@
       base: 行く
       dictionary: いく
       position: 23
+      tags:
+        - silent
     - word: ぬき
       base: 抜く
       dictionary: ぬく
       position: 25
+      tags:
+        - silent
     - word: きに
       position: 28
 - id: A_OnlyYesterday_0758
@@ -24824,6 +26032,8 @@
       position: 0
     - word: ざおう
       position: 3
+      tags:
+        - silent
     - word: うん
       position: 9
 - id: A_OnlyYesterday_0760
@@ -24868,6 +26078,8 @@
       position: 0
     - word: ざおう
       position: 3
+      tags:
+        - silent
     - word: の
       position: 7
     - word: 眺
@@ -24876,6 +26088,8 @@
       base: 長い
       dictionary: ながい
       position: 10
+      tags:
+        - silent
     - word: め
       position: 13
     - word: は
@@ -24900,12 +26114,16 @@
       position: 2
     - word: ざおう
       position: 5
+      tags:
+        - silent
     - word: は
       position: 9
     - word: 蔵王
       position: 10
     - word: ざおう
       position: 13
+      tags:
+        - silent
     - word: すっかり
       position: 18
     - word: リゾート
@@ -24947,6 +26165,8 @@
     - word: けっこん
       base: 結婚
       position: 12
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -25004,14 +26224,20 @@
     - word: じょ
       base: ぞ
       position: 10
+      tags:
+        - silent
     - word: せい
       position: 12
+      tags:
+        - silent
     - word: が
       position: 15
     - word: 増
       position: 17
     - word: ふ
       position: 19
+      tags:
+        - silent
     - word: え
       base: 得る
       dictionary: える
@@ -25033,6 +26259,8 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
     - word: の
       position: 6
     - word: 友達
@@ -25046,6 +26274,8 @@
     - word: けっこん
       base: 結婚
       position: 14
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -25178,6 +26408,8 @@
     - word: わ
       base: わあ
       position: 11
+      tags:
+        - silent
     - word: り
       position: 13
     - word: 算
@@ -25308,6 +26540,8 @@
     - word: わ
       base: わあ
       position: 5
+      tags:
+        - silent
     - word: り
       position: 7
     - word: 算
@@ -25417,6 +26651,8 @@
     - word: すなお
       base: 素直
       position: 45
+      tags:
+        - silent
     - word: に
       position: 49
     - word: 分子
@@ -25456,6 +26692,8 @@
     - word: すなお
       base: 素直
       position: 12
+      tags:
+        - silent
     - word: に
       position: 16
     - word: すくすく
@@ -25502,6 +26740,8 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
     - word: は
       position: 6
     - word: ダメ
@@ -25582,6 +26822,8 @@
       position: 9
     - word: ふ
       position: 11
+      tags:
+        - silent
     - word: き
       position: 13
     - word: 絵
@@ -25640,6 +26882,8 @@
       position: 5
     - word: ふ
       position: 7
+      tags:
+        - silent
     - word: い
       base: 居る
       dictionary: いる
@@ -25651,6 +26895,8 @@
     - word: もよう
       base: 模様
       position: 15
+      tags:
+        - silent
     - word: を
       position: 19
     - word: 作っ
@@ -25690,6 +26936,8 @@
       position: 5
     - word: ふ
       position: 7
+      tags:
+        - silent
     - word: く
       base: 来る
       dictionary: くる
@@ -25729,8 +26977,12 @@
       base: 居る
       dictionary: いる
       position: 4
+      tags:
+        - silent
     - word: た
       position: 5
+      tags:
+        - silent
     - word: く
       base: 九
       position: 7
@@ -25763,6 +27015,8 @@
       position: 27
     - word: ふ
       position: 29
+      tags:
+        - silent
     - word: い
       base: 居る
       dictionary: いる
@@ -26200,6 +27454,8 @@
     - word: ふつう
       base: 普通
       position: 6
+      tags:
+        - silent
     - word: に
       position: 10
     - word: やっ
@@ -26243,6 +27499,8 @@
     - word: ふつう
       base: 普通
       position: 6
+      tags:
+        - silent
     - word: じゃ
       base: だ
       dictionary: だ
@@ -26297,6 +27555,8 @@
       position: 0
     - word: ふ
       position: 2
+      tags:
+        - silent
     - word: き
       position: 4
     - word: 矢
@@ -26313,8 +27573,12 @@
       base: 居る
       dictionary: いる
       position: 11
+      tags:
+        - silent
     - word: た
       position: 12
+      tags:
+        - silent
     - word: かっ
       base: かう
       dictionary: かう
@@ -26341,6 +27605,8 @@
       position: 0
     - word: すわ
       position: 2
+      tags:
+        - silent
     - word: んな
       base: そんな
       position: 5
@@ -26406,8 +27672,12 @@
       position: 15
     - word: まち
       position: 17
+      tags:
+        - silent
     - word: が
       position: 19
+      tags:
+        - silent
     - word: っ
       position: 21
     - word: た
@@ -26435,6 +27705,8 @@
     - word: わ
       base: わあ
       position: 8
+      tags:
+        - silent
     - word: り
       position: 10
     - word: 算
@@ -26488,8 +27760,12 @@
       position: 9
     - word: まち
       position: 11
+      tags:
+        - silent
     - word: が
       position: 13
+      tags:
+        - silent
     - word: っ
       position: 15
     - word: た
@@ -26547,6 +27823,8 @@
       position: 4
     - word: こ
       position: 6
+      tags:
+        - silent
     - word: の
       position: 8
     - word: リンゴ
@@ -26573,6 +27851,8 @@
     - word: わ
       base: わあ
       position: 21
+      tags:
+        - silent
     - word: る
       base: れる
       position: 23
@@ -26607,6 +27887,8 @@
       position: 4
     - word: こ
       position: 6
+      tags:
+        - silent
     - word: の
       position: 8
     - word: リンゴ
@@ -26642,6 +27924,8 @@
       position: 3
     - word: こ
       position: 5
+      tags:
+        - silent
     - word: か
       position: 7
     - word: って
@@ -26716,6 +28000,8 @@
       position: 7
     - word: こ
       position: 9
+      tags:
+        - silent
 - id: A_OnlyYesterday_0841
   deck_name: Only Yesterday
   translation: How come it's less when you multiply?
@@ -26750,6 +28036,8 @@
     - word: へ
       base: へえ
       position: 20
+      tags:
+        - silent
     - word: る
       base: り
       dictionary: り
@@ -26778,6 +28066,8 @@
       position: 4
     - word: こ
       position: 6
+      tags:
+        - silent
     - word: の
       position: 8
     - word: リンゴ
@@ -26804,6 +28094,8 @@
     - word: わ
       base: わあ
       position: 21
+      tags:
+        - silent
     - word: る
       base: れる
       position: 23
@@ -26863,6 +28155,8 @@
     - word: わ
       base: わあ
       position: 11
+      tags:
+        - silent
     - word: り
       position: 13
     - word: 算
@@ -26905,9 +28199,13 @@
     - word: たから
       base: 宝
       position: 9
+      tags:
+        - silent
     - word: づか
       base: つか
       position: 12
+      tags:
+        - silent
 - id: A_OnlyYesterday_0848
   deck_name: Only Yesterday
   translation: '-She got a "D" in math. -A "D"?'
@@ -27085,6 +28383,8 @@
     - word: ふつう
       base: 普通
       position: 9
+      tags:
+        - silent
     - word: だ
       position: 13
     - word: って
@@ -27146,6 +28446,8 @@
       position: 4
     - word: ぼう
       position: 8
+      tags:
+        - silent
     - word: ん
       position: 11
     - word: 時
@@ -27238,6 +28540,8 @@
     - word: いまごろ
       base: 今頃
       position: 6
+      tags:
+        - silent
     - word: に
       position: 11
     - word: なっ
@@ -27269,6 +28573,8 @@
     - word: ぬ
       base: ず
       position: 11
+      tags:
+        - silent
     - word: け
       position: 13
     - word: て
@@ -27299,9 +28605,13 @@
     - word: じゅぎょう
       base: 授業
       position: 4
+      tags:
+        - silent
     - word: ちゅう
       base: 中
       position: 9
+      tags:
+        - silent
     - word: お
       base: 御
       position: 14
@@ -27349,6 +28659,8 @@
     - word: わ
       base: わあ
       position: 15
+      tags:
+        - silent
     - word: り
       position: 17
     - word: 算
@@ -27360,6 +28672,8 @@
     - word: かんたん
       base: 簡単
       position: 25
+      tags:
+        - silent
     - word: だ
       position: 30
     - word: もの
@@ -27404,6 +28718,8 @@
       position: 9
     - word: こ
       position: 11
+      tags:
+        - silent
     - word: の
       position: 13
     - word: リンゴ
@@ -27428,6 +28744,8 @@
     - word: わ
       base: わあ
       position: 26
+      tags:
+        - silent
     - word: る
       base: れる
       position: 28
@@ -27447,6 +28765,8 @@
     - word: そうぞう
       base: 想像
       position: 48
+      tags:
+        - silent
     - word: でき
       base: 出来る
       dictionary: できる
@@ -27492,6 +28812,8 @@
       position: 16
     - word: こ
       position: 18
+      tags:
+        - silent
     - word: の
       position: 20
     - word: リンゴ
@@ -27518,6 +28840,8 @@
     - word: わ
       base: わあ
       position: 33
+      tags:
+        - silent
     - word: る
       base: れる
       position: 35
@@ -27559,11 +28883,17 @@
       position: 13
     - word: む
       position: 15
+      tags:
+        - silent
     - word: ず
       dictionary: ぬ
       position: 16
+      tags:
+        - silent
     - word: か
       position: 17
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -27587,6 +28917,8 @@
     - word: わ
       base: わあ
       position: 30
+      tags:
+        - silent
     - word: り
       position: 32
     - word: 算
@@ -27614,6 +28946,8 @@
     - word: ひゃくしょう
       base: 百姓
       position: 12
+      tags:
+        - silent
     - word: も
       position: 19
     - word: もっと
@@ -27660,6 +28994,8 @@
       position: 5
     - word: ま
       position: 7
+      tags:
+        - silent
     - word: かれ
       base: 彼
       position: 9
@@ -27784,6 +29120,8 @@
     - word: せんぱい
       base: 先輩
       position: 8
+      tags:
+        - silent
     - word: の
       position: 13
     - word: 受け売り
@@ -27838,6 +29176,8 @@
     - word: わ
       base: わあ
       position: 11
+      tags:
+        - silent
     - word: り
       position: 13
     - word: 算
@@ -27871,6 +29211,8 @@
     - word: えら
       base: 鰓
       position: 36
+      tags:
+        - silent
     - word: いっ
       base: 行く
       dictionary: いく
@@ -27959,6 +29301,8 @@
     - word: むちゅう
       base: 夢中
       position: 26
+      tags:
+        - silent
     - word: に
       position: 31
     - word: なっ
@@ -28056,8 +29400,12 @@
     - word: しゃ
       base: 社
       position: 8
+      tags:
+        - silent
     - word: よう
       position: 10
+      tags:
+        - silent
     - word: でしょう
       base: です
       dictionary: です
@@ -28139,6 +29487,8 @@
     - word: はげ
       base: 禿げ
       position: 20
+      tags:
+        - silent
     - word: ま
       position: 23
     - word: し
@@ -28151,6 +29501,8 @@
       position: 28
     - word: ささ
       position: 30
+      tags:
+        - silent
     - word: え
       base: 得る
       dictionary: える
@@ -28313,10 +29665,16 @@
       base: 為る
       dictionary: する
       position: 20
+      tags:
+        - silent
     - word: ど
       position: 21
+      tags:
+        - silent
     - word: ういん
       position: 22
+      tags:
+        - silent
     - word: の
       position: 26
     - word: バイト
@@ -28345,10 +29703,16 @@
       base: 為る
       dictionary: する
       position: 8
+      tags:
+        - silent
     - word: ど
       position: 9
+      tags:
+        - silent
     - word: ういん
       position: 10
+      tags:
+        - silent
     - word: じゃあ
       base: で
       position: 16
@@ -28382,6 +29746,8 @@
     - word: いなか
       base: 田舎
       position: 11
+      tags:
+        - silent
     - word: な
       base: だ
       dictionary: だ
@@ -28399,6 +29765,8 @@
     - word: いなか
       base: 田舎
       position: 25
+      tags:
+        - silent
     - word: 蔵王
       position: 30
     - word: ざおう
@@ -28425,6 +29793,8 @@
     - word: いなか
       base: 田舎
       position: 3
+      tags:
+        - silent
     - word: かあ
       base: か
       position: 7
@@ -28449,11 +29819,15 @@
     - word: いなか
       base: 田舎
       position: 13
+      tags:
+        - silent
     - word: 田舎
       position: 18
     - word: いなか
       base: 田舎
       position: 21
+      tags:
+        - silent
     - word: って
       position: 25
 - id: A_OnlyYesterday_0897
@@ -28579,6 +29953,8 @@
     - word: ひゃくしょう
       base: 百姓
       position: 6
+      tags:
+        - silent
     - word: が
       position: 13
 - id: A_OnlyYesterday_0903
@@ -28670,9 +30046,13 @@
     - word: ひい
       base: 曾
       position: 39
+      tags:
+        - silent
     - word: じい
       base: 爺
       position: 41
+      tags:
+        - silent
     - word: さん
       position: 44
     - word: が
@@ -28691,6 +30071,8 @@
       position: 53
     - word: ひら
       position: 55
+      tags:
+        - silent
     - word: い
       base: 居る
       dictionary: いる
@@ -28845,12 +30227,16 @@
     - word: ひゃくしょう
       base: 百姓
       position: 3
+      tags:
+        - silent
     - word: は
       position: 10
     - word: 絶
       position: 11
     - word: た
       position: 13
+      tags:
+        - silent
     - word: え
       base: 得る
       dictionary: える
@@ -28905,6 +30291,8 @@
     - word: ひゃくしょう
       base: 百姓
       position: 3
+      tags:
+        - silent
     - word: の
       position: 10
     - word: 方
@@ -28981,6 +30369,8 @@
       position: 8
     - word: なつ
       position: 10
+      tags:
+        - silent
     - word: か
       position: 13
     - word: し
@@ -29110,6 +30500,8 @@
     - word: こし
       base: 腰
       position: 5
+      tags:
+        - silent
     - word: が
       position: 8
     - word: 痛
@@ -29118,8 +30510,12 @@
       base: 居る
       dictionary: いる
       position: 11
+      tags:
+        - silent
     - word: た
       position: 12
+      tags:
+        - silent
     - word: く
       base: 九
       position: 14
@@ -29272,9 +30668,13 @@
     - word: じょ
       base: ぞ
       position: 22
+      tags:
+        - silent
     - word: そうざい
       base: 総菜
       position: 24
+      tags:
+        - silent
     - word: 使っ
       base: 使う
       dictionary: 使う
@@ -29344,6 +30744,8 @@
       position: 0
     - word: せい
       position: 2
+      tags:
+        - silent
     - word: が
       position: 5
     - word: 出る
@@ -29417,6 +30819,8 @@
     - word: わたし
       base: 私
       position: 10
+      tags:
+        - silent
     - word: に
       position: 14
     - word: 少し
@@ -29434,6 +30838,8 @@
     - word: けいけん
       base: 敬虔
       position: 28
+      tags:
+        - silent
     - word: さ
       base: 為る
       dictionary: する
@@ -29461,6 +30867,8 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
     - word: は
       position: 6
     - word: すっかり
@@ -29470,6 +30878,8 @@
     - word: いなか
       base: 田舎
       position: 15
+      tags:
+        - silent
     - word: を
       position: 19
     - word: 知っ
@@ -29531,6 +30941,8 @@
     - word: うち
       base: 内
       position: 9
+      tags:
+        - silent
     - word: へ
       position: 12
     - word: 帰っ
@@ -29591,6 +31003,8 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
     - word: こぶとり
       base: 小太り
       position: 7
@@ -29700,8 +31114,12 @@
       base: 貸す
       dictionary: かす
       position: 14
+      tags:
+        - silent
     - word: か
       position: 16
+      tags:
+        - silent
     - word: が
       position: 18
     - word: 進ん
@@ -29729,6 +31147,8 @@
     - word: へ
       base: へえ
       position: 36
+      tags:
+        - silent
     - word: っちゃっ
       base: じゃ
       dictionary: っちゃ
@@ -29797,6 +31217,8 @@
     - word: わたし
       base: 私
       position: 8
+      tags:
+        - silent
     - word: なんか
       position: 12
     - word: いっつ
@@ -29861,9 +31283,13 @@
     - word: わ
       base: わあ
       position: 15
+      tags:
+        - silent
     - word: す
       base: っす
       position: 16
+      tags:
+        - silent
     - word: れ
       base: れる
       dictionary: れる
@@ -29996,6 +31422,8 @@
     - word: おに
       base: 鬼
       position: 9
+      tags:
+        - silent
     - word: で
       position: 12
     - word: も
@@ -30019,6 +31447,8 @@
     - word: わたし
       base: 私
       position: 5
+      tags:
+        - silent
     - word: すごく
       base: 凄い
       dictionary: すごい
@@ -30028,6 +31458,8 @@
     - word: は
       base: はあ
       position: 14
+      tags:
+        - silent
     - word: り
       position: 16
     - word: 切っ
@@ -30181,6 +31613,8 @@
     - word: うち
       base: 内
       position: 10
+      tags:
+        - silent
     - word: へ
       position: 13
     - word: 帰っ
@@ -30229,6 +31663,8 @@
       position: 9
     - word: ふ
       position: 11
+      tags:
+        - silent
     - word: や
       position: 13
     - word: し
@@ -30312,6 +31748,8 @@
     - word: ほ
       base: ほっ
       position: 9
+      tags:
+        - silent
     - word: め
       position: 11
     - word: られ
@@ -30382,6 +31820,8 @@
     - word: たし
       base: 足し
       position: 2
+      tags:
+        - silent
     - word: か
       position: 5
     - word: に
@@ -30408,6 +31848,8 @@
       position: 23
     - word: あきら
       position: 25
+      tags:
+        - silent
     - word: め
       position: 29
     - word: が
@@ -30449,6 +31891,8 @@
       base: 剽げる
       dictionary: ひょうげる
       position: 18
+      tags:
+        - silent
     - word: すれ
       base: 為る
       dictionary: する
@@ -30507,6 +31951,8 @@
     - word: うち
       base: 内
       position: 9
+      tags:
+        - silent
     - word: に
       position: 12
     - word: 帰っ
@@ -30607,6 +32053,8 @@
     - word: えんぎ
       base: 縁起
       position: 20
+      tags:
+        - silent
     - word: は
       position: 24
     - word: 評判
@@ -30614,6 +32062,8 @@
     - word: ひょうばん
       base: 評判
       position: 29
+      tags:
+        - silent
     - word: に
       position: 35
     - word: なっ
@@ -30666,8 +32116,12 @@
     - word: げき
       base: 劇
       position: 5
+      tags:
+        - silent
     - word: だん
       position: 7
+      tags:
+        - silent
     - word: に
       position: 10
     - word: 入っ
@@ -30764,6 +32218,8 @@
     - word: わたくし
       base: 私
       position: 5
+      tags:
+        - silent
     - word: の
       position: 10
     - word: 目
@@ -30787,6 +32243,8 @@
       position: 29
     - word: こ
       position: 31
+      tags:
+        - silent
     - word: ドカンチョ
       position: 34
     - word: と
@@ -30858,6 +32316,8 @@
     - word: しばい
       base: 芝居
       position: 9
+      tags:
+        - silent
     - word: に
       position: 13
     - word: 子役
@@ -30911,8 +32371,12 @@
     - word: お
       base: 御
       position: 23
+      tags:
+        - silent
     - word: かじま
       position: 24
+      tags:
+        - silent
     - word: タエ子
       position: 28
     - word: ちゃん
@@ -30924,13 +32388,19 @@
     - word: しゅ
       base: しゅっ
       position: 39
+      tags:
+        - silent
     - word: つえ
       base: つう
       dictionary: つう
       position: 41
+      tags:
+        - silent
     - word: ん
       base: の
       position: 43
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -30976,6 +32446,8 @@
     - word: じょうきょう
       base: 状況
       position: 7
+      tags:
+        - silent
     - word: の
       position: 14
     - word: 中
@@ -30986,6 +32458,8 @@
       position: 18
     - word: けいこ
       position: 21
+      tags:
+        - silent
     - word: は
       position: 25
     - word: 土曜
@@ -31016,6 +32490,8 @@
       base: 押す
       dictionary: おす
       position: 5
+      tags:
+        - silent
     - word: く
       base: 来る
       dictionary: くる
@@ -31065,6 +32541,8 @@
     - word: しばい
       base: 芝居
       position: 6
+      tags:
+        - silent
     - word: に
       position: 10
     - word: 出る
@@ -31107,6 +32585,8 @@
     - word: いっしょ
       base: 一緒
       position: 24
+      tags:
+        - silent
     - word: に
       position: 29
     - word: 出
@@ -31155,6 +32635,8 @@
     - word: わたし
       base: 私
       position: 19
+      tags:
+        - silent
     - word: の
       position: 23
     - word: 一日
@@ -31242,6 +32724,8 @@
     - word: しばい
       base: 芝居
       position: 17
+      tags:
+        - silent
     - word: に
       position: 21
     - word: 出
@@ -31355,6 +32839,8 @@
     - word: え
       base: えっ
       position: 9
+      tags:
+        - silent
     - word: は
       position: 11
     - word: ある
@@ -31420,6 +32906,8 @@
     - word: さいのう
       base: 才能
       position: 19
+      tags:
+        - silent
     - word: が
       position: 24
     - word: ある
@@ -31475,6 +32963,8 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
     - word: なんか
       position: 6
     - word: 舌
@@ -31483,10 +32973,14 @@
       base: 為る
       dictionary: する
       position: 12
+      tags:
+        - silent
     - word: たき
       base: たい
       dictionary: たし
       position: 13
+      tags:
+        - silent
     - word: 切り
       base: 切る
       dictionary: 切る
@@ -31524,6 +33018,8 @@
       base: さす
       dictionary: さす
       position: 39
+      tags:
+        - silent
     - word: い
       position: 42
     - word: なんか
@@ -31579,9 +33075,13 @@
     - word: ほん
       base: 本
       position: 13
+      tags:
+        - silent
     - word: しょく
       base: 食
       position: 15
+      tags:
+        - silent
     - word: の
       position: 19
     - word: 子役
@@ -31614,9 +33114,13 @@
     - word: たから
       base: 宝
       position: 3
+      tags:
+        - silent
     - word: づか
       base: つか
       position: 6
+      tags:
+        - silent
     - word: 入り
       base: 入る
       dictionary: 入る
@@ -31682,10 +33186,16 @@
     - word: げいのう
       base: 芸能
       position: 4
+      tags:
+        - silent
     - word: か
       position: 8
+      tags:
+        - silent
     - word: い
       position: 9
+      tags:
+        - silent
     - word: なんて
       position: 11
     - word: だめ
@@ -31708,10 +33218,16 @@
     - word: げいのう
       base: 芸能
       position: 7
+      tags:
+        - silent
     - word: か
       position: 11
+      tags:
+        - silent
     - word: い
       position: 12
+      tags:
+        - silent
     - word: なんて
       position: 14
     - word: オーバー
@@ -31768,9 +33284,13 @@
     - word: ほん
       base: 本
       position: 13
+      tags:
+        - silent
     - word: しょく
       base: 食
       position: 15
+      tags:
+        - silent
     - word: の
       position: 19
     - word: 子役
@@ -31801,6 +33321,8 @@
     - word: ふろ
       base: 風呂
       position: 4
+      tags:
+        - silent
     - word: 先
       position: 8
     - word: 入っ
@@ -31830,9 +33352,13 @@
     - word: たから
       base: 宝
       position: 3
+      tags:
+        - silent
     - word: づか
       base: つか
       position: 6
+      tags:
+        - silent
     - word: と
       position: 9
     - word: か
@@ -31853,10 +33379,16 @@
     - word: げいのう
       base: 芸能
       position: 4
+      tags:
+        - silent
     - word: か
       position: 8
+      tags:
+        - silent
     - word: い
       position: 9
+      tags:
+        - silent
     - word: と
       position: 11
     - word: か
@@ -32029,6 +33561,8 @@
     - word: は
       base: はあ
       position: 5
+      tags:
+        - silent
     - word: ず
       dictionary: ぬ
       position: 7
@@ -32138,6 +33672,8 @@
       position: 8
     - word: はな
       position: 10
+      tags:
+        - silent
     - word: れ
       base: れる
       dictionary: れる
@@ -32170,6 +33706,8 @@
     - word: わたし
       base: 私
       position: 6
+      tags:
+        - silent
     - word: の
       position: 10
     - word: 代わり
@@ -32189,6 +33727,8 @@
     - word: あおき
       base: 青木
       position: 21
+      tags:
+        - silent
     - word: さん
       position: 25
     - word: が
@@ -32236,6 +33776,8 @@
       position: 10
     - word: ふ
       position: 12
+      tags:
+        - silent
     - word: れ
       base: れる
       dictionary: れる
@@ -32286,6 +33828,8 @@
       position: 15
     - word: むか
       position: 17
+      tags:
+        - silent
     - word: え
       base: えー
       position: 20
@@ -32328,8 +33872,12 @@
       base: 来る
       dictionary: くる
       position: 18
+      tags:
+        - silent
     - word: が
       position: 19
+      tags:
+        - silent
     - word: え
       base: 得る
       dictionary: える
@@ -32447,6 +33995,8 @@
     - word: いや
       base: 否
       position: 17
+      tags:
+        - silent
     - word: な
       base: だ
       dictionary: だ
@@ -32529,6 +34079,8 @@
     - word: ぬ
       base: ず
       position: 17
+      tags:
+        - silent
     - word: い
       base: 居る
       dictionary: いる
@@ -32715,6 +34267,8 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
     - word: 高校
       position: 7
     - word: に
@@ -32736,11 +34290,17 @@
       position: 20
     - word: えん
       position: 22
+      tags:
+        - silent
     - word: げき
       base: 劇
       position: 24
+      tags:
+        - silent
     - word: ぶ
       position: 26
+      tags:
+        - silent
     - word: に
       position: 28
     - word: 入っ
@@ -32836,6 +34396,8 @@
     - word: そこ
       base: 其処
       position: 22
+      tags:
+        - silent
     - word: ねた
       position: 25
     - word: って
@@ -32883,6 +34445,8 @@
     - word: いなか
       base: 田舎
       position: 14
+      tags:
+        - silent
     - word: も
       position: 18
     - word: 同じ
@@ -32928,6 +34492,8 @@
     - word: ころ
       base: 頃
       position: 7
+      tags:
+        - silent
     - word: は
       position: 10
     - word: どう
@@ -33041,6 +34607,8 @@
       position: 0
     - word: あきら
       position: 2
+      tags:
+        - silent
     - word: め
       base: む
       dictionary: む
@@ -33100,8 +34668,12 @@
       position: 4
     - word: ち
       position: 6
+      tags:
+        - silent
     - word: が
       position: 7
+      tags:
+        - silent
     - word: い
       base: 居る
       dictionary: いる
@@ -33131,6 +34703,8 @@
     - word: そんけい
       base: 尊敬
       position: 30
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -33153,6 +34727,8 @@
     - word: ひゃくしょう
       base: 百姓
       position: 3
+      tags:
+        - silent
     - word: の
       position: 10
     - word: 先輩
@@ -33160,6 +34736,8 @@
     - word: せんぱい
       base: 先輩
       position: 14
+      tags:
+        - silent
     - word: と
       position: 19
     - word: し
@@ -33213,6 +34791,8 @@
     - word: わたし
       base: 私
       position: 8
+      tags:
+        - silent
     - word: の
       position: 12
     - word: は
@@ -33227,6 +34807,8 @@
     - word: じょうだん
       base: 冗談
       position: 21
+      tags:
+        - silent
 - id: A_OnlyYesterday_1087
   deck_name: Only Yesterday
   translation: No, it's the same, I understand.
@@ -33339,6 +34921,8 @@
     - word: わたし
       base: 私
       position: 5
+      tags:
+        - silent
     - word: の
       position: 9
     - word: あこがれ
@@ -33385,6 +34969,8 @@
     - word: ころ
       base: 頃
       position: 10
+      tags:
+        - silent
     - word: の
       position: 13
     - word: 歌
@@ -33396,6 +34982,8 @@
     - word: はげ
       base: 禿げ
       position: 21
+      tags:
+        - silent
     - word: まし
       base: 増し
       position: 24
@@ -33772,8 +35360,12 @@
     - word: けっこん
       base: 結婚
       position: 27
+      tags:
+        - silent
     - word: しき
       position: 31
+      tags:
+        - silent
     - word: の
       position: 34
     - word: 時
@@ -34092,6 +35684,8 @@
     - word: よめ
       base: 嫁
       position: 27
+      tags:
+        - silent
     - word: に
       position: 30
     - word: 来
@@ -34136,6 +35730,8 @@
       position: 9
     - word: ぼう
       position: 11
+      tags:
+        - silent
     - word: に
       position: 14
     - word: ほっ
@@ -34233,6 +35829,8 @@
     - word: じょうだん
       base: 冗談
       position: 13
+      tags:
+        - silent
     - word: です
       position: 19
     - word: よ
@@ -34253,6 +35851,8 @@
     - word: じょうだん
       base: 冗談
       position: 10
+      tags:
+        - silent
     - word: だ
       position: 16
     - word: べ
@@ -34536,6 +36136,8 @@
       position: 17
     - word: つと
       position: 19
+      tags:
+        - silent
     - word: め
       position: 22
     - word: 口
@@ -34580,6 +36182,8 @@
       position: 3
     - word: つと
       position: 5
+      tags:
+        - silent
     - word: め
       position: 8
     - word: 口
@@ -34619,6 +36223,8 @@
     - word: おこ
       base: 烏滸
       position: 8
+      tags:
+        - silent
     - word: ら
       base: 等
       position: 11
@@ -34651,6 +36257,8 @@
     - word: わか
       base: 我が
       position: 7
+      tags:
+        - silent
     - word: い
       base: いー
       position: 10
@@ -34659,6 +36267,8 @@
     - word: よめ
       base: 嫁
       position: 13
+      tags:
+        - silent
     - word: さん
       position: 16
     - word: みんな
@@ -34700,8 +36310,12 @@
       position: 6
     - word: きゅう
       position: 9
+      tags:
+        - silent
     - word: か
       position: 12
+      tags:
+        - silent
     - word: を
       position: 14
     - word: 楽し
@@ -34788,6 +36402,8 @@
     - word: こま
       base: 齣
       position: 14
+      tags:
+        - silent
     - word: る
       base: れる
       position: 17
@@ -34861,9 +36477,13 @@
     - word: げんじつ
       base: 現実
       position: 20
+      tags:
+        - silent
     - word: てき
       base: 的
       position: 24
+      tags:
+        - silent
     - word: に
       position: 27
     - word: 考えろ
@@ -35056,6 +36676,8 @@
     - word: じゅんじょ
       base: 順序
       position: 14
+      tags:
+        - silent
     - word: って
       position: 20
     - word: もの
@@ -35086,6 +36708,8 @@
     - word: よめ
       base: 嫁
       position: 5
+      tags:
+        - silent
     - word: に
       position: 8
     - word: なる
@@ -35137,6 +36761,8 @@
     - word: わたし
       base: 私
       position: 10
+      tags:
+        - silent
     - word: に
       position: 14
     - word: も
@@ -35187,6 +36813,8 @@
     - word: すなお
       base: 素直
       position: 3
+      tags:
+        - silent
     - word: に
       position: 7
     - word: そう
@@ -35247,6 +36875,8 @@
       position: 3
     - word: うわ
       position: 5
+      tags:
+        - silent
     - word: つい
       base: 付く
       dictionary: つく
@@ -35258,6 +36888,8 @@
     - word: いなか
       base: 田舎
       position: 14
+      tags:
+        - silent
     - word: 好き
       position: 18
     - word: や
@@ -35331,6 +36963,8 @@
     - word: は
       base: はあ
       position: 21
+      tags:
+        - silent
     - word: ず
       dictionary: ぬ
       position: 23
@@ -35353,6 +36987,8 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
     - word: に
       position: 6
     - word: は
@@ -35366,6 +37002,8 @@
     - word: かくご
       base: 覚悟
       position: 13
+      tags:
+        - silent
     - word: も
       position: 17
     - word: でき
@@ -35414,6 +37052,8 @@
     - word: あくしゅ
       base: 握手
       position: 7
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -35486,6 +37126,8 @@
       position: 11
     - word: たなか
       position: 14
+      tags:
+        - silent
     - word: 君
       position: 18
     - word: が
@@ -35543,6 +37185,8 @@
     - word: うち
       base: 内
       position: 24
+      tags:
+        - silent
     - word: へ
       position: 27
     - word: 持っ
@@ -35605,6 +37249,8 @@
     - word: となり
       base: 隣り
       position: 8
+      tags:
+        - silent
     - word: の
       position: 12
     - word: 席
@@ -35642,8 +37288,12 @@
       position: 8
     - word: せき
       position: 10
+      tags:
+        - silent
     - word: が
       position: 12
+      tags:
+        - silent
     - word: え
       base: えー
       position: 14
@@ -35690,6 +37340,8 @@
       base: だ
       dictionary: だ
       position: 14
+      tags:
+        - silent
     - word: べ
       base: べい
       position: 17
@@ -35725,11 +37377,15 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
     - word: 私
       position: 8
     - word: わたし
       base: 私
       position: 10
+      tags:
+        - silent
     - word: は
       position: 14
     - word: 平気
@@ -35802,11 +37458,15 @@
     - word: ぜったい
       base: 絶対
       position: 9
+      tags:
+        - silent
     - word: 内緒
       position: 14
     - word: ないしょ
       base: 内緒
       position: 17
+      tags:
+        - silent
     - word: だ
       position: 22
     - word: から
@@ -35886,6 +37546,8 @@
     - word: ぬ
       base: ず
       position: 2
+      tags:
+        - silent
     - word: れ
       base: れる
       dictionary: れる
@@ -35934,6 +37596,8 @@
     - word: みやげ
       base: 土産
       position: 4
+      tags:
+        - silent
     - word: を
       position: 8
     - word: ね
@@ -35953,6 +37617,8 @@
     - word: ふくろ
       base: 袋
       position: 3
+      tags:
+        - silent
     - word: の
       position: 7
     - word: 漬
@@ -35962,6 +37628,8 @@
       base: つう
       dictionary: つう
       position: 10
+      tags:
+        - silent
     - word: け
       position: 12
     - word: 物
@@ -36040,6 +37708,8 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
     - word: の
       position: 6
     - word: 友達
@@ -36094,6 +37764,8 @@
     - word: わたし
       base: 私
       position: 10
+      tags:
+        - silent
     - word: の
       position: 14
     - word: 隣
@@ -36102,6 +37774,8 @@
     - word: となり
       base: 隣り
       position: 17
+      tags:
+        - silent
     - word: の
       position: 21
     - word: 席
@@ -36146,6 +37820,8 @@
     - word: びんぼう
       base: 貧乏
       position: 5
+      tags:
+        - silent
     - word: らしく
       base: らしい
       dictionary: らしい
@@ -36250,6 +37926,8 @@
     - word: いや
       base: 否
       position: 25
+      tags:
+        - silent
     - word: な
       base: だ
       dictionary: だ
@@ -36309,8 +37987,12 @@
     - word: お
       base: 御
       position: 11
+      tags:
+        - silent
     - word: ど
       position: 12
+      tags:
+        - silent
     - word: る
       base: り
       dictionary: り
@@ -36367,6 +38049,8 @@
       position: 49
     - word: か
       position: 51
+      tags:
+        - silent
     - word: せ
       base: 為る
       dictionary: する
@@ -36442,6 +38126,8 @@
     - word: わたし
       base: 私
       position: 6
+      tags:
+        - silent
     - word: その
       base: 其の
       position: 11
@@ -36489,6 +38175,8 @@
       position: 12
     - word: きら
       position: 14
+      tags:
+        - silent
     - word: うの
       position: 17
     - word: は
@@ -36582,6 +38270,8 @@
     - word: あくしゅ
       base: 握手
       position: 11
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -36627,6 +38317,8 @@
     - word: いや
       base: 否
       position: 5
+      tags:
+        - silent
     - word: がっ
       base: がる
       dictionary: がる
@@ -36691,6 +38383,8 @@
     - word: すじ
       base: 筋
       position: 19
+      tags:
+        - silent
     - word: が
       position: 22
     - word: あっ
@@ -36733,6 +38427,8 @@
     - word: あくしゅ
       base: 握手
       position: 19
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -36761,6 +38457,8 @@
     - word: きんちょう
       base: 緊張
       position: 41
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -36791,8 +38489,12 @@
       position: 8
     - word: も
       position: 10
+      tags:
+        - silent
     - word: ど
       position: 11
+      tags:
+        - silent
     - word: って
       position: 13
     - word: 私
@@ -36800,6 +38502,8 @@
     - word: わたし
       base: 私
       position: 18
+      tags:
+        - silent
     - word: と
       position: 22
     - word: 握手
@@ -36842,6 +38546,8 @@
     - word: あくしゅ
       base: 握手
       position: 8
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -36883,10 +38589,16 @@
       base: 来る
       dictionary: くる
       position: 13
+      tags:
+        - silent
     - word: た
       position: 14
+      tags:
+        - silent
     - word: な
       position: 15
+      tags:
+        - silent
     - word: いっ
       base: 行く
       dictionary: いく
@@ -36912,6 +38624,8 @@
     - word: わたし
       base: 私
       position: 29
+      tags:
+        - silent
     - word: だっ
       base: だ
       dictionary: だ
@@ -36968,6 +38682,8 @@
     - word: あくしゅ
       base: 握手
       position: 6
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -37002,6 +38718,8 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
     - word: 子ども
       base: 子供
       position: 7
@@ -37012,6 +38730,8 @@
     - word: ころ
       base: 頃
       position: 13
+      tags:
+        - silent
     - word: から
       position: 16
     - word: そんな
@@ -37144,8 +38864,12 @@
       position: 0
     - word: ち
       position: 2
+      tags:
+        - silent
     - word: が
       position: 3
+      tags:
+        - silent
     - word: うの
       position: 5
     - word: 本家
@@ -37190,6 +38914,8 @@
     - word: ころ
       base: 頃
       position: 8
+      tags:
+        - silent
     - word: の
       position: 11
     - word: こと
@@ -37214,8 +38940,12 @@
       base: 無い
       dictionary: ない
       position: 25
+      tags:
+        - silent
     - word: さ
       position: 26
+      tags:
+        - silent
     - word: け
       position: 28
     - word: なくなっ
@@ -37299,6 +39029,8 @@
     - word: あくしゅ
       base: 握手
       position: 27
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -37368,6 +39100,8 @@
       position: 21
     - word: こばやし
       position: 24
+      tags:
+        - silent
     - word: さん
       position: 29
     - word: よ
@@ -37397,6 +39131,8 @@
       base: つう
       dictionary: つう
       position: 13
+      tags:
+        - silent
     - word: っ
       position: 15
     - word: 込
@@ -37404,6 +39140,8 @@
       position: 16
     - word: こ
       position: 18
+      tags:
+        - silent
     - word: ん
       base: の
       position: 20
@@ -37611,6 +39349,8 @@
     - word: あくしゅ
       base: 握手
       position: 19
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -37640,6 +39380,8 @@
     - word: わたし
       base: 私
       position: 38
+      tags:
+        - silent
     - word: だけ
       position: 42
     - word: よ
@@ -37662,6 +39404,8 @@
     - word: こま
       base: 齣
       position: 7
+      tags:
+        - silent
     - word: る
       base: れる
       position: 10
@@ -37820,6 +39564,8 @@
       position: 14
     - word: あま
       position: 16
+      tags:
+        - silent
     - word: え
       base: 得る
       dictionary: える
@@ -37860,6 +39606,8 @@
     - word: あくしゅ
       base: 握手
       position: 10
+      tags:
+        - silent
     - word: なんて
       position: 15
     - word: し
@@ -37928,6 +39676,8 @@
     - word: あくしゅ
       base: 握手
       position: 26
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -37958,8 +39708,12 @@
       base: 来る
       dictionary: くる
       position: 2
+      tags:
+        - silent
     - word: た
       position: 3
+      tags:
+        - silent
     - word: ねえ
       base: 無い
       dictionary: ない
@@ -37995,6 +39749,8 @@
     - word: まね
       base: 真似
       position: 11
+      tags:
+        - silent
     - word: を
       position: 14
     - word: し
@@ -38033,6 +39789,8 @@
     - word: いや
       base: 否
       position: 16
+      tags:
+        - silent
     - word: がっ
       base: がる
       dictionary: がる
@@ -38239,6 +39997,8 @@
       position: 18
     - word: あま
       position: 20
+      tags:
+        - silent
     - word: え
       base: 得る
       dictionary: える
@@ -38330,6 +40090,8 @@
     - word: いなか
       base: 田舎
       position: 3
+      tags:
+        - silent
     - word: の
       position: 7
     - word: 音楽
@@ -38355,6 +40117,8 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
     - word: は
       position: 6
     - word: 自分
@@ -38393,6 +40157,8 @@
     - word: わたし
       base: 私
       position: 35
+      tags:
+        - silent
     - word: の
       position: 39
     - word: こと
@@ -38454,6 +40220,8 @@
       position: 8
     - word: と
       position: 10
+      tags:
+        - silent
     - word: き
       position: 12
     - word: ほぐし
@@ -38496,6 +40264,8 @@
       position: 16
     - word: あま
       position: 18
+      tags:
+        - silent
     - word: える
       base: 得る
       position: 21
@@ -38538,6 +40308,8 @@
     - word: わたし
       base: 私
       position: 8
+      tags:
+        - silent
     - word: より
       position: 12
     - word: 年上
@@ -38561,6 +40333,8 @@
     - word: わたし
       base: 私
       position: 2
+      tags:
+        - silent
     - word: が
       position: 6
     - word: 今
@@ -38570,6 +40344,8 @@
     - word: あくしゅ
       base: 握手
       position: 12
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
@@ -38607,6 +40383,8 @@
     - word: あくしゅ
       base: 握手
       position: 3
+      tags:
+        - silent
     - word: だけ
       position: 8
 - id: A_OnlyYesterday_1270
@@ -38662,6 +40440,8 @@
     - word: わたし
       base: 私
       position: 18
+      tags:
+        - silent
     - word: は
       position: 22
     - word: 一心
@@ -38691,9 +40471,13 @@
     - word: わ
       base: わあ
       position: 2
+      tags:
+        - silent
     - word: す
       base: っす
       position: 3
+      tags:
+        - silent
     - word: れ
       base: れる
       dictionary: れる
@@ -38865,6 +40649,8 @@
     - word: ひみつ
       base: 秘密
       position: 16
+      tags:
+        - silent
 - id: A_OnlyYesterday_1282
   deck_name: Only Yesterday
   translation: Something was strange yesterday.

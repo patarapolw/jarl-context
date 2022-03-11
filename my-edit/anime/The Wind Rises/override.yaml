@@ -1,0 +1,976 @@
+- id: A_TheWindRises_0049
+  deck_name: The Wind Rises
+  translation: Interesting. Yes, this is a dream. This world is a dream.
+  sound: A_TheWindRises_1_0.9.16.890-0.9.22.100.mp3
+  sentence: フフフ　面白い　まさに夢に違(ちが)いない　この世は夢
+  words:
+    - word: フフフ
+      base: ふふふ
+      position: 0
+    - word: 面白い
+      position: 4
+    - word: まさに
+      base: 正に
+      position: 8
+    - word: 夢
+      position: 11
+    - word: に
+      position: 12
+    - word: 違
+      position: 13
+    - word: ち
+      position: 15
+      tags:
+        - silent
+    - word: が
+      position: 16
+      tags:
+        - silent
+    - word: い
+      base: 居る
+      dictionary: いる
+      position: 18
+    - word: ない
+      position: 19
+    - word: この世
+      base: 此の世
+      position: 22
+    - word: は
+      position: 25
+    - word: 夢
+      position: 26
+- id: A_TheWindRises_0110
+  deck_name: The Wind Rises
+  translation: Now, try to relax.
+  sound: A_TheWindRises_1_0.17.46.270-0.17.48.440.mp3
+  sentence: 力を抜(ぬ)いて　さ…
+  words:
+    - word: 力
+      position: 0
+    - word: を
+      position: 1
+    - word: 抜
+      base: 抜く
+      dictionary: 抜る
+      position: 2
+    - word: ぬ
+      base: ず
+      position: 4
+      tags:
+        - silent
+    - word: い
+      base: 居る
+      dictionary: いる
+      position: 6
+    - word: て
+      position: 7
+    - word: さ
+      position: 9
+- id: A_TheWindRises_0143
+  deck_name: The Wind Rises
+  translation: Is the wind still rising, Japanese boy?
+  sound: A_TheWindRises_1_0.24.20.870-0.24.24.250.mp3
+  sentence: まだ風は吹(ふ)いているか　日本の少年よ
+  words:
+    - word: まだ
+      base: 未だ
+      position: 0
+    - word: 風
+      position: 2
+    - word: は
+      position: 3
+    - word: 吹
+      base: 吹き
+      position: 4
+    - word: ふ
+      position: 6
+      tags:
+        - silent
+    - word: い
+      base: 居る
+      dictionary: いる
+      position: 8
+    - word: て
+      position: 9
+    - word: いる
+      base: 居る
+      position: 10
+    - word: か
+      position: 12
+    - word: 日本
+      position: 14
+    - word: の
+      position: 16
+    - word: 少年
+      position: 17
+    - word: よ
+      position: 19
+- id: A_TheWindRises_0144
+  deck_name: The Wind Rises
+  translation: Yes, it's a gale.
+  sound: A_TheWindRises_1_0.24.25.000-0.24.27.540.mp3
+  sentence: はい　大風が吹(ふ)いています
+  words:
+    - word: はい
+      position: 0
+    - word: 大風
+      position: 3
+    - word: が
+      position: 5
+    - word: 吹
+      base: 吹き
+      position: 6
+    - word: ふ
+      position: 8
+      tags:
+        - silent
+    - word: い
+      base: 居る
+      dictionary: いる
+      position: 10
+    - word: て
+      position: 11
+    - word: い
+      base: 居る
+      dictionary: いる
+      position: 12
+    - word: ます
+      position: 13
+- id: A_TheWindRises_0215
+  deck_name: The Wind Rises
+  translation: Another bank failure. Which one is it this time?
+  sound: A_TheWindRises_1_0.31.54.020-0.31.57.240.mp3
+  sentence: まただ　今度は亀八(かめはち)銀行ですよ
+  words:
+    - word: ま
+      base: まー
+      position: 0
+    - word: ただ
+      base: 唯
+      position: 1
+    - word: 今度
+      position: 4
+    - word: は
+      position: 6
+    - word: 亀
+      position: 7
+    - word: 八
+      base: '8'
+      position: 8
+    - word: かめ
+      position: 10
+      tags:
+        - silent
+    - word: はち
+      position: 12
+      tags:
+        - silent
+    - word: 銀行
+      position: 15
+    - word: です
+      position: 17
+    - word: よ
+      position: 19
+- id: A_TheWindRises_0221
+  deck_name: The Wind Rises
+  translation: We've been waiting for you. What took you so long?
+  sound: A_TheWindRises_1_0.32.31.230-0.32.34.560.mp3
+  sentence: この忙(いそが)しい時に　君は今日を何日だと思ってるのだ
+  words:
+    - word: この
+      base: 此の
+      position: 0
+    - word: 忙
+      position: 2
+    - word: いそ
+      base: 磯
+      position: 4
+      tags:
+        - silent
+    - word: が
+      position: 6
+      tags:
+        - silent
+    - word: しい
+      position: 8
+    - word: 時
+      position: 10
+    - word: に
+      position: 11
+    - word: 君
+      position: 13
+    - word: は
+      position: 14
+    - word: 今日
+      position: 15
+    - word: を
+      position: 17
+    - word: 何
+      position: 18
+    - word: 日
+      position: 19
+    - word: だ
+      position: 20
+    - word: と
+      position: 21
+    - word: 思っ
+      base: 思う
+      dictionary: 思う
+      position: 22
+    - word: てる
+      position: 24
+    - word: の
+      position: 26
+    - word: だ
+      position: 27
+- id: A_TheWindRises_0261
+  deck_name: The Wind Rises
+  translation: That's no fitting. Explain yourself, young man.
+  sound: A_TheWindRises_1_0.36.40.810-0.36.44.060.mp3
+  sentence: これは違(ちが)うぞ　　え？　　説明したまえ
+  words:
+    - word: これ
+      base: 此れ
+      position: 0
+    - word: は
+      position: 2
+    - word: 違
+      position: 3
+    - word: ち
+      position: 5
+      tags:
+        - silent
+    - word: が
+      position: 6
+      tags:
+        - silent
+    - word: う
+      base: うー
+      position: 8
+    - word: ぞ
+      position: 9
+    - word: え
+      base: えっ
+      position: 12
+    - word: 説明
+      position: 16
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 18
+    - word: た
+      position: 19
+    - word: まえ
+      base: 前
+      position: 20
+- id: A_TheWindRises_0291
+  deck_name: The Wind Rises
+  translation: Power dive. She's trying to break 200.
+  sound: A_TheWindRises_1_0.39.59.170-0.40.02.050.mp3
+  sentence: 動力降下です　時速400キロに挑(いど)みます
+  words:
+    - word: 動力
+      position: 0
+    - word: 降下
+      position: 2
+    - word: です
+      position: 4
+    - word: 時速
+      position: 7
+    - word: '400'
+      position: 9
+    - word: キロ
+      position: 12
+    - word: に
+      position: 14
+    - word: 挑
+      position: 15
+    - word: いど
+      base: 井戸
+      position: 17
+      tags:
+        - silent
+    - word: み
+      base: 見る
+      dictionary: みる
+      position: 20
+    - word: ます
+      position: 21
+- id: A_TheWindRises_0325
+  deck_name: The Wind Rises
+  translation: Of course not.
+  sound: A_TheWindRises_1_0.43.58.580-0.43.59.490.mp3
+  sentence: 違(ちが)う
+  words:
+    - word: 違
+      position: 0
+    - word: ち
+      position: 2
+      tags:
+        - silent
+    - word: が
+      position: 3
+      tags:
+        - silent
+    - word: う
+      base: うう
+      position: 5
+- id: A_TheWindRises_0330
+  deck_name: The Wind Rises
+  translation: Jiro, do you know what we're paying the Germans for their technology?
+  sound: A_TheWindRises_1_0.44.18.930-0.44.24.060.mp3
+  sentence: 二郎　今回の技術導入でユンカース社に　どれだけ金を払(はら)うか知ってるか
+  words:
+    - word: 二郎
+      position: 0
+    - word: 今回
+      position: 3
+    - word: の
+      position: 5
+    - word: 技術
+      position: 6
+    - word: 導入
+      position: 8
+    - word: で
+      position: 10
+    - word: ユンカース
+      position: 11
+    - word: 社
+      position: 16
+    - word: に
+      position: 17
+    - word: どれ
+      position: 19
+    - word: だけ
+      position: 21
+    - word: 金
+      position: 23
+    - word: を
+      position: 24
+    - word: 払
+      base: 払い
+      position: 25
+    - word: はら
+      position: 27
+      tags:
+        - silent
+    - word: う
+      base: うー
+      position: 30
+    - word: か
+      position: 31
+    - word: 知っ
+      base: 知る
+      dictionary: 知る
+      position: 32
+    - word: てる
+      position: 34
+    - word: か
+      position: 36
+- id: A_TheWindRises_0429
+  deck_name: The Wind Rises
+  translation: Is the wind still rising?
+  sound: A_TheWindRises_1_0.55.07.150-0.55.09.030.mp3
+  sentence: まだ風は吹(ふ)いているかね
+  words:
+    - word: まだ
+      base: 未だ
+      position: 0
+    - word: 風
+      position: 2
+    - word: は
+      position: 3
+    - word: 吹
+      base: 吹き
+      position: 4
+    - word: ふ
+      position: 6
+      tags:
+        - silent
+    - word: い
+      base: 居る
+      dictionary: いる
+      position: 8
+    - word: て
+      position: 9
+    - word: いる
+      base: 居る
+      position: 10
+    - word: か
+      position: 12
+    - word: ね
+      position: 13
+- id: A_TheWindRises_0430
+  deck_name: The Wind Rises
+  translation: Yes, it is.
+  sound: A_TheWindRises_1_0.55.10.200-0.55.11.660.mp3
+  sentence: はい　吹(ふ)いています
+  words:
+    - word: はい
+      position: 0
+    - word: 吹
+      base: 吹き
+      position: 3
+    - word: ふ
+      position: 5
+      tags:
+        - silent
+    - word: い
+      base: 居る
+      dictionary: いる
+      position: 7
+    - word: て
+      position: 8
+    - word: い
+      base: 居る
+      dictionary: いる
+      position: 9
+    - word: ます
+      position: 10
+- id: A_TheWindRises_0433
+  deck_name: The Wind Rises
+  translation: It's a big jump.
+  sound: A_TheWindRises_1_0.55.20.330-0.55.21.750.mp3
+  sentence: 思い切り跳(と)べ
+  words:
+    - word: 思い切り
+      position: 0
+    - word: 跳
+      base: 飛ぶ
+      dictionary: 跳る
+      position: 4
+    - word: と
+      position: 6
+      tags:
+        - silent
+    - word: べ
+      base: べい
+      position: 8
+- id: A_TheWindRises_0434
+  deck_name: The Wind Rises
+  translation: Jump!
+  sound: A_TheWindRises_1_0.55.26.470-0.55.28.260.mp3
+  sentence: 跳(と)べ！　　うっ
+  words:
+    - word: 跳
+      base: 飛ぶ
+      dictionary: 跳る
+      position: 0
+    - word: と
+      position: 2
+      tags:
+        - silent
+    - word: べ
+      base: べい
+      position: 4
+    - word: うっ
+      base: うう
+      position: 8
+- id: A_TheWindRises_0453
+  deck_name: The Wind Rises
+  translation: Hey, settle down. The bottom will fall out.
+  sound: A_TheWindRises_1_0.57.05.690-0.57.09.570.mp3
+  sentence: おーい　あんまり騒(さわ)ぐと　底が抜(ぬ)けるぞーっ
+  words:
+    - word: おーい
+      base: おおい
+      position: 0
+    - word: あんまり
+      base: 余り
+      position: 4
+    - word: 騒
+      base: 騒ぎ
+      position: 8
+    - word: さわ
+      position: 10
+      tags:
+        - silent
+    - word: ぐ
+      position: 13
+    - word: と
+      position: 14
+    - word: 底
+      position: 16
+    - word: が
+      position: 17
+    - word: 抜
+      base: 抜く
+      dictionary: 抜る
+      position: 18
+    - word: ぬ
+      base: ず
+      position: 20
+      tags:
+        - silent
+    - word: ける
+      base: けり
+      dictionary: けり
+      position: 22
+    - word: ぞー
+      base: ぞ
+      position: 24
+    - word: っ
+      position: 26
+- id: A_TheWindRises_0479
+  deck_name: The Wind Rises
+  translation: A plum assignment.
+  sound: A_TheWindRises_1_0.59.54.440-0.59.55.400.mp3
+  sentence: 大抜(だいばっ)てきだぞ
+  words:
+    - word: 大抜
+      position: 0
+    - word: だい
+      position: 3
+      tags:
+        - silent
+    - word: ばっ
+      position: 5
+      tags:
+        - silent
+    - word: てき
+      base: 的
+      position: 8
+    - word: だ
+      position: 10
+    - word: ぞ
+      position: 11
+- id: A_TheWindRises_0603
+  deck_name: The Wind Rises
+  translation: Not me.
+  sound: A_TheWindRises_1_1.23.57.410-1.23.58.580.mp3
+  sentence: 僕は違(ちが)います
+  words:
+    - word: 僕
+      position: 0
+    - word: は
+      position: 1
+    - word: 違
+      position: 2
+    - word: ち
+      position: 4
+      tags:
+        - silent
+    - word: が
+      position: 5
+      tags:
+        - silent
+    - word: い
+      base: 居る
+      dictionary: いる
+      position: 7
+    - word: ます
+      position: 8
+- id: A_TheWindRises_0672
+  deck_name: The Wind Rises
+  translation: Extruded aluminum alloy. Very light. What a luxury.
+  sound: A_TheWindRises_1_1.28.48.410-1.28.52.540.mp3
+  sentence: 軽いな　ジュラルミンの押(お)し出し材とは　ぜいたくなものだ
+  words:
+    - word: 軽い
+      position: 0
+    - word: な
+      position: 2
+    - word: ジュラルミン
+      position: 4
+    - word: の
+      position: 10
+    - word: 押
+      base: 押し
+      position: 11
+    - word: お
+      base: おっ
+      position: 13
+      tags:
+        - silent
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 15
+    - word: 出し
+      base: 出す
+      dictionary: 出す
+      position: 16
+    - word: 材
+      position: 18
+    - word: と
+      position: 19
+    - word: は
+      position: 20
+    - word: ぜいたく
+      base: 贅沢
+      position: 22
+    - word: な
+      base: だ
+      dictionary: だ
+      position: 26
+    - word: もの
+      base: 物
+      position: 27
+    - word: だ
+      position: 29
+- id: A_TheWindRises_0683
+  deck_name: The Wind Rises
+  translation: Such things shouldn't happen in a modern country.
+  sound: A_TheWindRises_1_1.29.28.740-1.29.31.910.mp3
+  sentence: それは冒(ぼう)とくです　近代国家にあるまじきことだ
+  words:
+    - word: それ
+      base: 其れ
+      position: 0
+    - word: は
+      position: 2
+    - word: 冒
+      position: 3
+    - word: ぼう
+      position: 5
+      tags:
+        - silent
+    - word: とく
+      position: 8
+    - word: です
+      position: 10
+    - word: 近代
+      position: 13
+    - word: 国家
+      position: 15
+    - word: に
+      position: 17
+    - word: ある
+      base: 有る
+      dictionary: あり
+      position: 18
+    - word: まじき
+      base: まじ
+      dictionary: まじ
+      position: 20
+    - word: こと
+      position: 23
+    - word: だ
+      position: 25
+- id: A_TheWindRises_0727
+  deck_name: The Wind Rises
+  translation: Is it that serious? I wish I could look after her.
+  sound: A_TheWindRises_1_1.34.49.060-1.34.52.940.mp3
+  sentence: そんなに…　僕が付き添(そ)えればいいのですが
+  words:
+    - word: そんな
+      position: 0
+    - word: に
+      base: だ
+      dictionary: だ
+      position: 3
+    - word: 僕
+      position: 6
+    - word: が
+      position: 7
+    - word: 付き
+      base: 付く
+      dictionary: 付く
+      position: 8
+    - word: 添
+      position: 10
+    - word: そ
+      base: そう
+      position: 12
+      tags:
+        - silent
+    - word: えれ
+      base: 得る
+      dictionary: える
+      position: 14
+    - word: ば
+      position: 16
+    - word: いい
+      base: 良い
+      position: 17
+    - word: の
+      position: 19
+    - word: です
+      position: 20
+    - word: が
+      position: 22
+- id: A_TheWindRises_0763
+  deck_name: The Wind Rises
+  translation: Almost had it.
+  sound: A_TheWindRises_1_1.37.29.840-1.37.30.760.mp3
+  sentence: 惜(お)しいなぁ
+  words:
+    - word: 惜
+      base: 惜しい
+      dictionary: 惜い
+      position: 0
+    - word: お
+      base: おっ
+      position: 2
+      tags:
+        - silent
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 4
+    - word: い
+      base: 居る
+      dictionary: いる
+      position: 5
+    - word: なぁ
+      base: な
+      position: 6
+- id: A_TheWindRises_0811
+  deck_name: The Wind Rises
+  translation: I can't do that. I'd have to give up my work.
+  sound: A_TheWindRises_1_1.43.17.480-1.43.21.690.mp3
+  sentence: 私が飛行機をやめて　付き添(そ)わなければなりません　それはできません
+  words:
+    - word: 私
+      position: 0
+    - word: が
+      position: 1
+    - word: 飛行
+      position: 2
+    - word: 機
+      position: 4
+    - word: を
+      position: 5
+    - word: やめ
+      base: やめる
+      dictionary: やめる
+      position: 6
+    - word: て
+      position: 8
+    - word: 付き
+      position: 10
+    - word: 添
+      position: 12
+    - word: そ
+      base: そう
+      position: 14
+      tags:
+        - silent
+    - word: わ
+      position: 16
+    - word: なけれ
+      base: 無い
+      dictionary: ない
+      position: 17
+    - word: ば
+      position: 20
+    - word: なり
+      base: 成る
+      dictionary: なる
+      position: 21
+    - word: ませ
+      base: ます
+      dictionary: ます
+      position: 23
+    - word: ん
+      base: ず
+      dictionary: ぬ
+      position: 25
+    - word: それ
+      base: 其れ
+      position: 27
+    - word: は
+      position: 29
+    - word: でき
+      base: 出来る
+      dictionary: できる
+      position: 30
+    - word: ませ
+      base: ます
+      dictionary: ます
+      position: 32
+    - word: ん
+      base: ず
+      dictionary: ぬ
+      position: 34
+- id: A_TheWindRises_0830
+  deck_name: The Wind Rises
+  translation: You must be tired.
+  sound: A_TheWindRises_1_1.46.27.210-1.46.28.330.mp3
+  sentence: 疲(つか)れたろう
+  words:
+    - word: 疲
+      position: 0
+    - word: つ
+      base: つう
+      dictionary: つう
+      position: 2
+      tags:
+        - silent
+    - word: か
+      position: 3
+      tags:
+        - silent
+    - word: れ
+      base: れる
+      dictionary: れる
+      position: 5
+    - word: たろう
+      base: た
+      dictionary: た
+      position: 6
+- id: A_TheWindRises_0872
+  deck_name: The Wind Rises
+  translation: In a one-handed slide rule contest, I'd win first prize for sure.
+  sound: A_TheWindRises_1_1.50.03.800-1.50.08.380.mp3
+  sentence: 片手で計算尺を扱(あつか)う　コンクールがあったら　僕はきっと１位になるね
+  words:
+    - word: 片手
+      position: 0
+    - word: で
+      position: 2
+    - word: 計算
+      position: 3
+    - word: 尺
+      position: 5
+    - word: を
+      position: 6
+    - word: 扱
+      base: 扱き
+      position: 7
+    - word: あ
+      base: あっ
+      position: 9
+      tags:
+        - silent
+    - word: つ
+      base: つう
+      dictionary: つう
+      position: 10
+      tags:
+        - silent
+    - word: か
+      position: 11
+      tags:
+        - silent
+    - word: う
+      base: うー
+      position: 13
+    - word: コンクール
+      position: 15
+    - word: が
+      position: 20
+    - word: あっ
+      base: 有る
+      dictionary: ある
+      position: 21
+    - word: たら
+      base: た
+      dictionary: た
+      position: 23
+    - word: 僕
+      position: 26
+    - word: は
+      position: 27
+    - word: きっと
+      position: 28
+    - word: １
+      base: '1'
+      dictionary: '1'
+      position: 31
+    - word: 位
+      position: 32
+    - word: に
+      position: 33
+    - word: なる
+      base: 成る
+      position: 34
+    - word: ね
+      position: 36
+- id: A_TheWindRises_0911
+  deck_name: The Wind Rises
+  translation: Good night.
+  sound: A_TheWindRises_1_1.52.53.300-1.52.54.340.mp3
+  sentence: お疲(つか)れさま
+  words:
+    - word: お
+      base: 御
+      position: 0
+    - word: 疲
+      position: 1
+    - word: つ
+      base: つう
+      dictionary: つう
+      position: 3
+      tags:
+        - silent
+    - word: か
+      position: 4
+      tags:
+        - silent
+    - word: れ
+      base: れる
+      dictionary: れる
+      position: 6
+    - word: さま
+      base: 様
+      position: 7
+- id: A_TheWindRises_0918
+  deck_name: The Wind Rises
+  translation: You must be tired.
+  sound: A_TheWindRises_1_1.53.37.010-1.53.38.380.mp3
+  sentence: お疲(つか)れでしょう
+  words:
+    - word: お
+      base: 御
+      position: 0
+    - word: 疲
+      position: 1
+    - word: つ
+      base: つう
+      dictionary: つう
+      position: 3
+      tags:
+        - silent
+    - word: か
+      position: 4
+      tags:
+        - silent
+    - word: れ
+      base: れる
+      dictionary: れる
+      position: 6
+    - word: でしょう
+      base: です
+      dictionary: です
+      position: 7
+- id: A_TheWindRises_0959
+  deck_name: The Wind Rises
+  translation: Not quite. In some ways, yes.
+  sound: A_TheWindRises_1_2.0.33.130-2.0.35.920.mp3
+  sentence: ちょっと違(ちが)うが　同じようなものかな…
+  words:
+    - word: ちょっと
+      base: 一寸
+      position: 0
+    - word: 違
+      position: 4
+    - word: ち
+      position: 6
+      tags:
+        - silent
+    - word: が
+      position: 7
+      tags:
+        - silent
+    - word: う
+      base: うー
+      position: 9
+    - word: が
+      position: 10
+    - word: 同じ
+      position: 12
+    - word: よう
+      base: 様
+      position: 14
+    - word: な
+      base: だ
+      dictionary: だ
+      position: 16
+    - word: もの
+      base: 物
+      position: 17
+    - word: か
+      position: 19
+    - word: な
+      position: 20

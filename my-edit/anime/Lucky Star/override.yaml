@@ -7,12 +7,18 @@
     - word: こなた
       base: 此方
       position: 1
+      tags:
+        - silent
     - word: ちゃん
       position: 4
+      tags:
+        - silent
     - word: いらっしゃい
       base: いらっしゃる
       dictionary: いらっしゃる
       position: 8
+      tags:
+        - silent
 - id: luckystar-nodup_01_0181_0.10.15.000
   deck_name: Lucky Star
   translation: She came to visit Onee-chan.
@@ -22,31 +28,53 @@
     - word: お
       base: 御
       position: 1
+      tags:
+        - silent
     - word: 姉ちゃん
       position: 2
+      tags:
+        - silent
     - word: の
       position: 6
+      tags:
+        - silent
     - word: お
       base: 御
       position: 7
+      tags:
+        - silent
     - word: 見舞い
       position: 8
+      tags:
+        - silent
     - word: に
       position: 11
+      tags:
+        - silent
     - word: 来
       base: 来る
       dictionary: 来る
       position: 12
+      tags:
+        - silent
     - word: て
       position: 13
+      tags:
+        - silent
     - word: くれ
       base: 呉れる
       dictionary: くれる
       position: 14
+      tags:
+        - silent
     - word: た
       position: 16
+      tags:
+        - silent
     - word: の
       position: 17
+      tags:
+        - silent
 - id: luckystar-nodup_01_0182_0.10.17.130
   deck_name: Lucky Star
   translation: Why, thank you for coming all the way over.
@@ -55,17 +83,27 @@
   words:
     - word: あら
       position: 1
+      tags:
+        - silent
     - word: わざわざ
       base: 態々
       position: 4
+      tags:
+        - silent
     - word: あり
       base: 有り
       position: 8
+      tags:
+        - silent
     - word: が
       position: 10
+      tags:
+        - silent
     - word: とー
       base: と
       position: 11
+      tags:
+        - silent
 - id: luckystar-nodup_01_0183_0.10.19.250
   deck_name: Lucky Star
   translation: Sorry for the intrusion.
@@ -74,20 +112,32 @@
   words:
     - word: いえ
       position: 1
+      tags:
+        - silent
     - word: お
       base: 御
       position: 4
+      tags:
+        - silent
     - word: 邪魔
       position: 5
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
       position: 7
+      tags:
+        - silent
     - word: まー
       position: 8
+      tags:
+        - silent
     - word: す
       base: っす
       position: 10
+      tags:
+        - silent
 - id: luckystar-nodup_01_0185_0.10.29.120
   deck_name: Lucky Star
   translation: What are you doing here!? Go home!!
@@ -128,18 +178,28 @@
     - word: おー
       base: おお
       position: 20
+      tags:
+        - silent
     - word: 起き
       base: 起きる
       dictionary: 起きる
       position: 23
+      tags:
+        - silent
     - word: た
       position: 25
+      tags:
+        - silent
     - word: 起き
       base: 起きる
       dictionary: 起きる
       position: 26
+      tags:
+        - silent
     - word: た
       position: 28
+      tags:
+        - silent
 - id: luckystar-nodup_01_0202_0.11.15.920
   deck_name: Lucky Star
   translation: Thanks.
@@ -149,6 +209,8 @@
     - word: ありがとう
       base: 有り難う
       position: 1
+      tags:
+        - silent
 - id: luckystar-nodup_01_0248_0.13.37.300
   deck_name: Lucky Star
   translation: >-
@@ -159,19 +221,33 @@
   words:
     - word: コンビニ
       position: 1
+      tags:
+        - silent
     - word: と
       position: 5
+      tags:
+        - silent
     - word: か
       position: 6
+      tags:
+        - silent
     - word: も
       position: 7
+      tags:
+        - silent
     - word: 行ける
       base: 行く
       position: 8
+      tags:
+        - silent
     - word: か
       position: 11
+      tags:
+        - silent
     - word: な
       position: 12
+      tags:
+        - silent
     - word: ああ
       position: 16
     - word: 何
@@ -191,6 +267,83 @@
       position: 30
     - word: エンドレス
       position: 31
+- id: luckystar-nodup_02_0501_0.05.33.980
+  deck_name: Lucky Star
+  translation: Reporting the results!
+  sound: luckystar-nodup_02_0.05.33.930-0.05.35.370.mp3
+  sentence: (成績発表！)
+  words:
+    - word: 成績
+      position: 1
+      tags:
+        - silent
+    - word: 発表
+      position: 3
+      tags:
+        - silent
+- id: luckystar-nodup_02_0503_0.05.35.460
+  deck_name: Lucky Star
+  translation: >-
+    You are Taiko first-dan! Kona-chan, you must have a really good sense of
+    rhythm. You are Taiko fifth-dan!
+  sound: luckystar-nodup_02_0.05.35.410-0.05.39.060.mp3
+  sentence: (あなたは太鼓初段　あなたは太鼓五段) こなちゃんすごいリズム感だね
+  words:
+    - word: あなた
+      base: 貴方
+      position: 1
+      tags:
+        - silent
+    - word: は
+      position: 4
+      tags:
+        - silent
+    - word: 太鼓
+      position: 5
+      tags:
+        - silent
+    - word: 初段
+      position: 7
+      tags:
+        - silent
+    - word: あなた
+      base: 貴方
+      position: 10
+      tags:
+        - silent
+    - word: は
+      position: 13
+      tags:
+        - silent
+    - word: 太鼓
+      position: 14
+      tags:
+        - silent
+    - word: 五
+      base: '5'
+      position: 16
+      tags:
+        - silent
+    - word: 段
+      position: 17
+      tags:
+        - silent
+    - word: こな
+      base: 粉
+      position: 20
+    - word: ちゃん
+      position: 22
+    - word: すごい
+      base: 凄い
+      position: 25
+    - word: リズム
+      position: 28
+    - word: 感
+      position: 31
+    - word: だ
+      position: 32
+    - word: ね
+      position: 33
 - id: luckystar-nodup_02_0687_0.15.44.080
   deck_name: Lucky Star
   translation: Fouwar hundreeed an' ninetee-ate yen desu~
@@ -199,10 +352,16 @@
   words:
     - word: '498'
       position: 1
+      tags:
+        - silent
     - word: 円
       position: 4
+      tags:
+        - silent
     - word: です
       position: 5
+      tags:
+        - silent
     - word: よん
       base: 呼ぶ
       dictionary: よぶ
@@ -233,12 +392,18 @@
   words:
     - word: 丁度
       position: 1
+      tags:
+        - silent
     - word: いただき
       base: 頂く
       dictionary: いただく
       position: 3
+      tags:
+        - silent
     - word: ます
       position: 7
+      tags:
+        - silent
     - word: ちょうじょう
       base: 頂上
       position: 11
@@ -261,16 +426,24 @@
     - word: ありがとう
       base: 有り難う
       position: 1
+      tags:
+        - silent
     - word: ござい
       base: 御座る
       dictionary: ござる
       position: 6
+      tags:
+        - silent
     - word: まし
       base: ます
       dictionary: ます
       position: 9
+      tags:
+        - silent
     - word: た
       position: 11
+      tags:
+        - silent
     - word: ぁ
       position: 14
     - word: じじっ
@@ -327,6 +500,8 @@
       base: Juno
       dictionary: Juno
       position: 25
+      tags:
+        - silent
     - word: に
       position: 30
     - word: 由来
@@ -379,40 +554,68 @@
     - word: この
       base: 此の
       position: 17
+      tags:
+        - silent
     - word: 番組
       position: 19
+      tags:
+        - silent
     - word: は
       position: 21
+      tags:
+        - silent
     - word: ご覧
       base: 御覧
       position: 23
+      tags:
+        - silent
     - word: の
       position: 25
+      tags:
+        - silent
     - word: スポンサー
       position: 26
+      tags:
+        - silent
     - word: の
       position: 31
+      tags:
+        - silent
     - word: 提供
       position: 32
+      tags:
+        - silent
     - word: で
       position: 34
+      tags:
+        - silent
     - word: お
       base: 御
       position: 35
+      tags:
+        - silent
     - word: 送り
       base: 送る
       dictionary: 送る
       position: 36
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
       position: 38
+      tags:
+        - silent
     - word: まし
       base: ます
       dictionary: ます
       position: 39
+      tags:
+        - silent
     - word: た
       position: 41
+      tags:
+        - silent
 - id: luckystar-nodup_07_2658_0.17.29.650
   deck_name: Lucky Star
   translation: '*draw draw* *draw draw*'
@@ -421,14 +624,22 @@
   words:
     - word: かき
       position: 1
+      tags:
+        - silent
     - word: かき
       position: 3
+      tags:
+        - silent
     - word: かき
       base: かく
       dictionary: かく
       position: 5
+      tags:
+        - silent
     - word: かき
       position: 7
+      tags:
+        - silent
 - id: luckystar-nodup_08_3050_0.18.47.940
   deck_name: Lucky Star
   translation: Don't touch me.
@@ -437,10 +648,16 @@
   words:
     - word: ペロ
       position: 1
+      tags:
+        - silent
     - word: ペ
       position: 4
+      tags:
+        - silent
     - word: ペロペロペロペロペロ
       position: 6
+      tags:
+        - silent
     - word: Ｄｏｎ’ｔ
       base: ドント
       dictionary: DON’T
@@ -461,6 +678,8 @@
   words:
     - word: ペロペロペッペッペッ
       position: 1
+      tags:
+        - silent
 - id: luckystar-nodup_09_3397_0.16.21.100
   deck_name: Lucky Star
   translation: >-
@@ -486,23 +705,39 @@
     - word: お前
       base: 御前
       position: 17
+      tags:
+        - silent
     - word: は
       position: 19
+      tags:
+        - silent
     - word: ドジ
       base: どじ
       position: 20
+      tags:
+        - silent
     - word: で
       base: だ
       dictionary: だ
       position: 22
+      tags:
+        - silent
     - word: のろま
       position: 23
+      tags:
+        - silent
     - word: の
       position: 26
+      tags:
+        - silent
     - word: 亀
       position: 27
+      tags:
+        - silent
     - word: か
       position: 28
+      tags:
+        - silent
 - id: luckystar-nodup_09_3438_0.18.12.570
   deck_name: Lucky Star
   translation: '*fawn* * fawn * fawn* "Looking for... happiness?"'
@@ -521,12 +756,18 @@
     - word: ばっこ
       base: 跋扈
       position: 11
+      tags:
+        - silent
     - word: ばっこ
       base: 跋扈
       position: 14
+      tags:
+        - silent
     - word: ばっこ
       base: 跋扈
       position: 17
+      tags:
+        - silent
 - id: luckystar-nodup_10_3593_0.05.33.040
   deck_name: Lucky Star
   translation: Hey, hurry it up!
@@ -536,16 +777,24 @@
     - word: おーい
       base: おおい
       position: 1
+      tags:
+        - silent
     - word: 早く
       base: 早い
       dictionary: 早い
       position: 5
+      tags:
+        - silent
     - word: しろ
       base: 為る
       dictionary: する
       position: 7
+      tags:
+        - silent
     - word: よ
       position: 9
+      tags:
+        - silent
 - id: luckystar-nodup_10_3594_0.05.35.180
   deck_name: Lucky Star
   translation: Hold on...
@@ -554,15 +803,23 @@
   words:
     - word: もう
       position: 1
+      tags:
+        - silent
     - word: ちょっと
       base: 一寸
       position: 3
+      tags:
+        - silent
     - word: 待っ
       base: 待つ
       dictionary: 待つ
       position: 7
+      tags:
+        - silent
     - word: て
       position: 9
+      tags:
+        - silent
 - id: luckystar-nodup_10_3595_0.05.36.630
   deck_name: Lucky Star
   translation: You spend too much time on the phone!
@@ -571,19 +828,31 @@
   words:
     - word: 電話
       position: 1
+      tags:
+        - silent
     - word: 長
       position: 3
+      tags:
+        - silent
     - word: すぎ
       base: 過ぎ
       position: 4
+      tags:
+        - silent
     - word: もう
       position: 8
+      tags:
+        - silent
     - word: 待て
       base: 待つ
       dictionary: 待てる
       position: 10
+      tags:
+        - silent
     - word: ない
       position: 12
+      tags:
+        - silent
 - id: luckystar-nodup_10_3596_0.05.38.530
   deck_name: Lucky Star
   translation: Ah, I'm sorry...
@@ -593,9 +862,55 @@
     - word: ごめん
       base: 御免
       position: 1
+      tags:
+        - silent
     - word: ごめん
       base: 御免
       position: 4
+      tags:
+        - silent
+- id: luckystar-nodup_10_3659_0.09.56.580
+  deck_name: Lucky Star
+  translation: It's here!
+  sound: luckystar-nodup_10_0.09.56.530-0.09.57.750.mp3
+  sentence: ｷﾀ━━━━(ﾟ∀ﾟ)━━━━!!!!!
+  words:
+    - word: ｷﾀ
+      base: キタ
+      dictionary: キタ
+      position: 0
+    - word: ━
+      position: 2
+    - word: ━
+      position: 3
+    - word: ━
+      position: 4
+    - word: ━
+      position: 5
+    - word: ﾟ
+      base: ゚
+      dictionary: ゚
+      position: 7
+      tags:
+        - silent
+    - word: ∀
+      position: 8
+      tags:
+        - silent
+    - word: ﾟ
+      base: ゚
+      dictionary: ゚
+      position: 9
+      tags:
+        - silent
+    - word: ━
+      position: 11
+    - word: ━
+      position: 12
+    - word: ━
+      position: 13
+    - word: ━
+      position: 14
 - id: luckystar-nodup_10_3750_0.14.43.890
   deck_name: Lucky Star
   translation: >-
@@ -612,6 +927,8 @@
     - word: きょう
       base: 今日
       position: 4
+      tags:
+        - silent
     - word: ちゃん
       position: 8
     - word: に
@@ -659,6 +976,8 @@
       position: 24
     - word: ホホホホ
       position: 27
+      tags:
+        - silent
 - id: luckystar-nodup_11_4040_0.09.50.430
   deck_name: Lucky Star
   translation: All right, I got it!
@@ -668,12 +987,18 @@
     - word: よーし
       base: よし
       position: 1
+      tags:
+        - silent
     - word: 解っ
       base: 分かる
       dictionary: 解る
       position: 5
+      tags:
+        - silent
     - word: た
       position: 7
+      tags:
+        - silent
 - id: luckystar-nodup_11_4041_0.09.51.940
   deck_name: Lucky Star
   translation: The culprit is that guy!
@@ -682,14 +1007,24 @@
   words:
     - word: 犯人
       position: 1
+      tags:
+        - silent
     - word: は
       position: 3
+      tags:
+        - silent
     - word: あの
       position: 4
+      tags:
+        - silent
     - word: 男
       position: 6
+      tags:
+        - silent
     - word: だ
       position: 7
+      tags:
+        - silent
 - id: luckystar-nodup_11_4042_0.09.53.690
   deck_name: Lucky Star
   translation: Wait a second, Detective.
@@ -700,18 +1035,30 @@
       base: 待つ
       dictionary: まつ
       position: 1
+      tags:
+        - silent
     - word: て
       position: 3
+      tags:
+        - silent
     - word: 下さい
       base: 下さる
       dictionary: 下さる
       position: 4
+      tags:
+        - silent
     - word: 刑事
       position: 8
+      tags:
+        - silent
     - word: さ
       position: 10
+      tags:
+        - silent
     - word: んっ
       position: 11
+      tags:
+        - silent
 - id: luckystar-nodup_11_4043_0.09.55.140
   deck_name: Lucky Star
   translation: There are still some loose ends in this case.
@@ -721,29 +1068,49 @@
     - word: この
       base: 此の
       position: 1
+      tags:
+        - silent
     - word: 事件
       position: 3
+      tags:
+        - silent
     - word: に
       position: 5
+      tags:
+        - silent
     - word: は
       position: 6
+      tags:
+        - silent
     - word: おかしな
       base: 可笑しな
       position: 7
+      tags:
+        - silent
     - word: トコロ
       base: 所
       position: 11
+      tags:
+        - silent
     - word: が
       position: 14
+      tags:
+        - silent
     - word: あり
       base: 有る
       dictionary: ある
       position: 15
+      tags:
+        - silent
     - word: ま
       base: まー
       position: 17
+      tags:
+        - silent
     - word: すっ
       position: 18
+      tags:
+        - silent
 - id: luckystar-nodup_11_4044_0.09.57.490
   deck_name: Lucky Star
   translation: There's nothing strange at all!
@@ -753,14 +1120,22 @@
     - word: おかしな
       base: 可笑しな
       position: 1
+      tags:
+        - silent
     - word: トコロ
       base: 所
       position: 5
+      tags:
+        - silent
     - word: なんて
       position: 8
+      tags:
+        - silent
     - word: ない
       base: 無い
       position: 11
+      tags:
+        - silent
 - id: luckystar-nodup_11_4045_0.09.58.900
   deck_name: Lucky Star
   translation: The mystery is solved!
@@ -770,18 +1145,30 @@
     - word: これ
       base: 此れ
       position: 1
+      tags:
+        - silent
     - word: で
       position: 3
+      tags:
+        - silent
     - word: 事件
       position: 4
+      tags:
+        - silent
     - word: は
       position: 6
+      tags:
+        - silent
     - word: 解決
       position: 7
+      tags:
+        - silent
     - word: だっ
       base: だ
       dictionary: だ
       position: 9
+      tags:
+        - silent
 - id: luckystar-nodup_11_4046_0.10.00.400
   deck_name: Lucky Star
   translation: Who do you think you are, Mr. Outsider!?
@@ -790,26 +1177,46 @@
   words:
     - word: 何
       position: 1
+      tags:
+        - silent
     - word: だ
       position: 2
+      tags:
+        - silent
     - word: ね
       position: 3
+      tags:
+        - silent
     - word: キミ
       base: 君
       position: 4
+      tags:
+        - silent
     - word: は
       position: 6
+      tags:
+        - silent
     - word: 部外
       position: 8
+      tags:
+        - silent
     - word: 者
       position: 10
+      tags:
+        - silent
     - word: の
       position: 11
+      tags:
+        - silent
     - word: くせ
       base: 癖
       position: 12
+      tags:
+        - silent
     - word: に
       position: 14
+      tags:
+        - silent
 - id: luckystar-nodup_11_4052_0.10.15.930
   deck_name: Lucky Star
   translation: I see. So you were the criminal.
@@ -818,25 +1225,43 @@
   words:
     - word: そう
       position: 1
+      tags:
+        - silent
     - word: か
       position: 3
+      tags:
+        - silent
     - word: お前
       base: 御前
       position: 5
+      tags:
+        - silent
     - word: が
       position: 7
+      tags:
+        - silent
     - word: 犯人
       position: 8
+      tags:
+        - silent
     - word: だっ
       base: だ
       dictionary: だ
       position: 10
+      tags:
+        - silent
     - word: た
       position: 12
+      tags:
+        - silent
     - word: の
       position: 13
+      tags:
+        - silent
     - word: か
       position: 14
+      tags:
+        - silent
 - id: luckystar-nodup_11_4053_0.10.18.420
   deck_name: Lucky Star
   translation: No use hiding it now.
@@ -847,18 +1272,30 @@
       base: ばれる
       dictionary: バレる
       position: 1
+      tags:
+        - silent
     - word: ちゃ
       base: て
       position: 3
+      tags:
+        - silent
     - word: しょう
       position: 5
+      tags:
+        - silent
     - word: が
       position: 8
+      tags:
+        - silent
     - word: ない
       base: 無い
       position: 9
+      tags:
+        - silent
     - word: な
       position: 11
+      tags:
+        - silent
 - id: luckystar-nodup_11_4061_0.10.39.220
   deck_name: Lucky Star
   translation: The crime doesn't happen in a conference room!
@@ -867,37 +1304,59 @@
   words:
     - word: 事件
       position: 1
+      tags:
+        - silent
     - word: は
       position: 3
+      tags:
+        - silent
     - word: 会議
       position: 4
+      tags:
+        - silent
     - word: 室
       position: 6
+      tags:
+        - silent
     - word: で
       position: 7
+      tags:
+        - silent
     - word: 起き
       base: 起きる
       dictionary: 起きる
       position: 8
+      tags:
+        - silent
     - word: て
       base: てる
       dictionary: てる
       position: 10
+      tags:
+        - silent
     - word: ん
       base: の
       position: 11
+      tags:
+        - silent
     - word: じゃ
       base: だ
       dictionary: だ
       position: 12
+      tags:
+        - silent
     - word: な
       base: 無い
       dictionary: ない
       position: 14
+      tags:
+        - silent
     - word: いっ
       base: 行く
       dictionary: いく
       position: 15
+      tags:
+        - silent
 - id: luckystar-nodup_11_4062_0.10.41.760
   deck_name: Lucky Star
   translation: It happens on the scene!
@@ -906,21 +1365,33 @@
   words:
     - word: 現場
       position: 1
+      tags:
+        - silent
     - word: で
       position: 3
+      tags:
+        - silent
     - word: 起き
       base: 起きる
       dictionary: 起きる
       position: 4
+      tags:
+        - silent
     - word: て
       base: てる
       dictionary: てる
       position: 6
+      tags:
+        - silent
     - word: ん
       base: の
       position: 7
+      tags:
+        - silent
     - word: だ
       position: 8
+      tags:
+        - silent
 - id: luckystar-nodup_12_4548_0.16.11.940
   deck_name: Lucky Star
   translation: Hi~ Happy New Year!
@@ -930,16 +1401,24 @@
     - word: はーい
       base: はい
       position: 1
+      tags:
+        - silent
     - word: Happy
       base: ハッピー
       dictionary: HAPPY
       position: 5
+      tags:
+        - silent
     - word: New
       base: ニュー
       position: 11
+      tags:
+        - silent
     - word: Year
       base: イヤー
       position: 15
+      tags:
+        - silent
 - id: luckystar-nodup_12_4549_0.16.14.920
   deck_name: Lucky Star
   translation: How about it?
@@ -949,12 +1428,20 @@
     - word: オレ
       base: 俺
       position: 1
+      tags:
+        - silent
     - word: が
       position: 3
+      tags:
+        - silent
     - word: ルー
       position: 4
+      tags:
+        - silent
     - word: だ
       position: 6
+      tags:
+        - silent
 - id: luckystar-nodup_12_4550_0.16.16.680
   deck_name: Lucky Star
   translation: Look at this view, this scenery, isn't it fantastic?
@@ -965,45 +1452,79 @@
       base: 見る
       dictionary: 見る
       position: 1
+      tags:
+        - silent
     - word: て
       position: 2
+      tags:
+        - silent
     - word: よ
       position: 3
+      tags:
+        - silent
     - word: この
       base: 此の
       position: 5
+      tags:
+        - silent
     - word: beautiful
       base: ビューティフル
       dictionary: Beautiful
       position: 8
+      tags:
+        - silent
     - word: な
       base: だ
       dictionary: だ
       position: 18
+      tags:
+        - silent
     - word: 景色
       position: 19
+      tags:
+        - silent
     - word: を
       position: 21
+      tags:
+        - silent
     - word: もう
       position: 25
+      tags:
+        - silent
     - word: great
       base: グレート
       dictionary: GREAT
       position: 28
+      tags:
+        - silent
     - word: だ
       position: 34
+      tags:
+        - silent
     - word: よ
       position: 35
+      tags:
+        - silent
     - word: ね
       position: 36
+      tags:
+        - silent
     - word: fantastic
       position: 38
+      tags:
+        - silent
     - word: だ
       position: 48
+      tags:
+        - silent
     - word: よ
       position: 49
+      tags:
+        - silent
     - word: ね
       position: 50
+      tags:
+        - silent
 - id: luckystar-nodup_12_4551_0.16.21.880
   deck_name: Lucky Star
   translation: Look at the pretty flowers blooming everywhere! "Oh!"
@@ -1012,49 +1533,83 @@
   words:
     - word: ほら
       position: 1
+      tags:
+        - silent
     - word: ココ
       position: 3
+      tags:
+        - silent
     - word: こんな
       position: 6
+      tags:
+        - silent
     - word: に
       base: だ
       dictionary: だ
       position: 9
+      tags:
+        - silent
     - word: pretty
       base: プリティー
       position: 11
+      tags:
+        - silent
     - word: な
       position: 18
+      tags:
+        - silent
     - word: flower
       base: フラワー
       dictionary: FLOWER
       position: 20
+      tags:
+        - silent
     - word: が
       position: 27
+      tags:
+        - silent
     - word: many
       base: メニー
       position: 29
+      tags:
+        - silent
     - word: many
       base: メニー
       position: 34
+      tags:
+        - silent
     - word: 咲い
       base: 咲く
       dictionary: 咲く
       position: 39
+      tags:
+        - silent
     - word: てる
       position: 41
+      tags:
+        - silent
     - word: ん
       base: の
       position: 43
+      tags:
+        - silent
     - word: だ
       position: 44
+      tags:
+        - silent
     - word: ぞぉ
       base: ぞ
       position: 45
+      tags:
+        - silent
     - word: ぉ
       position: 47
+      tags:
+        - silent
     - word: ぉ
       position: 48
+      tags:
+        - silent
 - id: luckystar-nodup_13_4763_0.07.04.050
   deck_name: Lucky Star
   translation: A Hyakunin Isshu competition is currently underway...
@@ -1063,40 +1618,66 @@
   words:
     - word: 百人一首
       position: 1
+      tags:
+        - silent
     - word: の
       position: 5
+      tags:
+        - silent
     - word: 大会
       position: 6
+      tags:
+        - silent
     - word: が
       position: 8
+      tags:
+        - silent
     - word: 行わ
       base: 行う
       dictionary: 行う
       position: 9
+      tags:
+        - silent
     - word: れ
       base: れる
       dictionary: れる
       position: 11
+      tags:
+        - silent
     - word: 大変
       position: 13
+      tags:
+        - silent
     - word: な
       base: だ
       dictionary: だ
       position: 15
+      tags:
+        - silent
     - word: 賑わい
       position: 16
+      tags:
+        - silent
     - word: を
       position: 19
+      tags:
+        - silent
     - word: みせ
       base: 見せる
       dictionary: みせる
       position: 20
+      tags:
+        - silent
     - word: まし
       base: ます
       dictionary: ます
       position: 22
+      tags:
+        - silent
     - word: た
       position: 24
+      tags:
+        - silent
 - id: luckystar-nodup_14_5131_0.07.10.450
   deck_name: Lucky Star
   translation: >-
@@ -1107,68 +1688,126 @@
   words:
     - word: 今日
       position: 1
+      tags:
+        - silent
     - word: 都内
       position: 3
+      tags:
+        - silent
     - word: で
       position: 5
+      tags:
+        - silent
     - word: 登校
       position: 6
+      tags:
+        - silent
     - word: 中
       position: 8
+      tags:
+        - silent
     - word: の
       position: 9
+      tags:
+        - silent
     - word: 小学
       position: 10
+      tags:
+        - silent
     - word: 生
       position: 12
+      tags:
+        - silent
     - word: の
       position: 13
+      tags:
+        - silent
     - word: 女の子
       position: 14
+      tags:
+        - silent
     - word: が
       position: 17
+      tags:
+        - silent
     - word: 突然
       position: 18
+      tags:
+        - silent
     - word: 何者
       position: 20
+      tags:
+        - silent
     - word: か
       position: 22
+      tags:
+        - silent
     - word: に
       position: 23
+      tags:
+        - silent
     - word: 後ろ
       position: 25
+      tags:
+        - silent
     - word: から
       position: 27
+      tags:
+        - silent
     - word: 声
       position: 29
+      tags:
+        - silent
     - word: を
       position: 30
+      tags:
+        - silent
     - word: かけ
       base: 掛ける
       dictionary: かける
       position: 31
+      tags:
+        - silent
     - word: られる
       position: 33
+      tags:
+        - silent
     - word: と
       position: 36
+      tags:
+        - silent
     - word: いう
       base: 言う
       position: 37
+      tags:
+        - silent
     - word: 事件
       position: 39
+      tags:
+        - silent
     - word: が
       position: 41
+      tags:
+        - silent
     - word: 連続
       position: 42
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
       position: 44
+      tags:
+        - silent
     - word: て
       position: 45
+      tags:
+        - silent
     - word: あり
       base: 有る
       position: 46
+      tags:
+        - silent
 - id: luckystar-nodup_14_5132_0.07.17.850
   deck_name: Lucky Star
   translation: >-
@@ -1204,40 +1843,70 @@
       position: 14
     - word: 教育
       position: 18
+      tags:
+        - silent
     - word: 委員
       position: 20
+      tags:
+        - silent
     - word: 会
       position: 22
+      tags:
+        - silent
     - word: は
       position: 23
+      tags:
+        - silent
     - word: 各
       position: 24
+      tags:
+        - silent
     - word: 小
       position: 25
+      tags:
+        - silent
     - word: 学校
       position: 26
+      tags:
+        - silent
     - word: に
       position: 28
+      tags:
+        - silent
     - word: 警戒
       position: 29
+      tags:
+        - silent
     - word: する
       base: 為る
       position: 31
+      tags:
+        - silent
     - word: よう
       base: 様
       position: 33
+      tags:
+        - silent
     - word: に
       base: だ
       dictionary: だ
       position: 35
+      tags:
+        - silent
     - word: 対処
       position: 36
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
       position: 38
+      tags:
+        - silent
     - word: た
       position: 39
+      tags:
+        - silent
 - id: luckystar-nodup_14_5153_0.08.48.730
   deck_name: Lucky Star
   translation: Don't hit any place weird! "I'm done!"
@@ -1246,19 +1915,31 @@
   words:
     - word: 変
       position: 1
+      tags:
+        - silent
     - word: な
       base: だ
       dictionary: だ
       position: 2
+      tags:
+        - silent
     - word: ところ
       base: 所
       position: 3
+      tags:
+        - silent
     - word: に
       position: 6
+      tags:
+        - silent
     - word: 当たる
       position: 7
+      tags:
+        - silent
     - word: な
       position: 10
+      tags:
+        - silent
 - id: luckystar-nodup_14_5162_0.09.21.860
   deck_name: Lucky Star
   translation: Is that your final answer?
@@ -1267,8 +1948,12 @@
   words:
     - word: ファイナル
       position: 1
+      tags:
+        - silent
     - word: アンサー
       position: 6
+      tags:
+        - silent
 - id: luckystar-nodup_14_5163_0.09.23.500
   deck_name: Lucky Star
   translation: Yes, final answer!
@@ -1277,10 +1962,16 @@
   words:
     - word: そう
       position: 1
+      tags:
+        - silent
     - word: ファイナル
       position: 4
+      tags:
+        - silent
     - word: アンサー
       position: 9
+      tags:
+        - silent
 - id: luckystar-nodup_14_5198_0.11.23.340
   deck_name: Lucky Star
   translation: Get you!
@@ -1289,10 +1980,14 @@
   words:
     - word: げ
       position: 1
+      tags:
+        - silent
     - word: っちゅー
       base: つう
       dictionary: っちゅう
       position: 2
+      tags:
+        - silent
 - id: luckystar-nodup_15_5442_0.04.15.130
   deck_name: Lucky Star
   translation: And now on to our next story.
@@ -1301,12 +1996,20 @@
   words:
     - word: 次
       position: 1
+      tags:
+        - silent
     - word: の
       position: 2
+      tags:
+        - silent
     - word: ニュース
       position: 3
+      tags:
+        - silent
     - word: です
       position: 7
+      tags:
+        - silent
 - id: luckystar-nodup_15_5443_0.04.16.450
   deck_name: Lucky Star
   translation: >-
@@ -1317,58 +2020,100 @@
   words:
     - word: 昨夜
       position: 1
+      tags:
+        - silent
     - word: １１
       base: '11'
       dictionary: '11'
       position: 3
+      tags:
+        - silent
     - word: 時
       position: 5
+      tags:
+        - silent
     - word: 過ぎ
       position: 6
+      tags:
+        - silent
     - word: コンビニエンス
       position: 8
+      tags:
+        - silent
     - word: ストア
       position: 15
+      tags:
+        - silent
     - word: に
       position: 18
+      tags:
+        - silent
     - word: 女
       position: 19
+      tags:
+        - silent
     - word: が
       position: 20
+      tags:
+        - silent
     - word: 押し
       base: 押す
       dictionary: 押す
       position: 21
+      tags:
+        - silent
     - word: 入り
       base: 入る
       dictionary: 入る
       position: 23
+      tags:
+        - silent
     - word: 店
       position: 27
+      tags:
+        - silent
     - word: の
       position: 28
+      tags:
+        - silent
     - word: 売り上げ
       position: 29
+      tags:
+        - silent
     - word: を
       position: 33
+      tags:
+        - silent
     - word: 奪おう
       base: 奪う
       dictionary: 奪う
       position: 34
+      tags:
+        - silent
     - word: と
       position: 37
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
       position: 38
+      tags:
+        - silent
     - word: まし
       base: ます
       dictionary: ます
       position: 39
+      tags:
+        - silent
     - word: た
       position: 41
+      tags:
+        - silent
     - word: が
       position: 42
+      tags:
+        - silent
 - id: luckystar-nodup_15_5444_0.04.21.760
   deck_name: Lucky Star
   translation: >-
@@ -1388,46 +2133,78 @@
       position: 5
     - word: 店員
       position: 10
+      tags:
+        - silent
     - word: が
       position: 12
+      tags:
+        - silent
     - word: 大声
       position: 13
+      tags:
+        - silent
     - word: を
       position: 15
+      tags:
+        - silent
     - word: 出し
       base: 出す
       dictionary: 出す
       position: 16
+      tags:
+        - silent
     - word: た
       position: 18
+      tags:
+        - silent
     - word: ため
       base: 為
       position: 19
+      tags:
+        - silent
     - word: 何
       position: 22
+      tags:
+        - silent
     - word: も
       position: 23
+      tags:
+        - silent
     - word: 盗ら
       base: 取る
       dictionary: 盗る
       position: 24
+      tags:
+        - silent
     - word: ず
       dictionary: ぬ
       position: 26
+      tags:
+        - silent
     - word: に
       position: 27
+      tags:
+        - silent
     - word: 逃走
       position: 28
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
       position: 30
+      tags:
+        - silent
     - word: まし
       base: ます
       dictionary: ます
       position: 31
+      tags:
+        - silent
     - word: た
       position: 33
+      tags:
+        - silent
 - id: luckystar-nodup_15_5515_0.07.20.920
   deck_name: Lucky Star
   translation: 'And now, the next question:'
@@ -1437,14 +2214,24 @@
     - word: さて
       base: 扠
       position: 1
+      tags:
+        - silent
     - word: 次
       position: 4
+      tags:
+        - silent
     - word: の
       position: 5
+      tags:
+        - silent
     - word: 問題
       position: 6
+      tags:
+        - silent
     - word: です
       position: 8
+      tags:
+        - silent
 - id: luckystar-nodup_15_5516_0.07.22.560
   deck_name: Lucky Star
   translation: What is the kenjogo form for iku, to go"?"
@@ -1453,22 +2240,38 @@
   words:
     - word: 行く
       position: 2
+      tags:
+        - silent
     - word: の
       position: 5
+      tags:
+        - silent
     - word: 謙譲
       position: 6
+      tags:
+        - silent
     - word: 語
       position: 8
+      tags:
+        - silent
     - word: は
       position: 9
+      tags:
+        - silent
     - word: 何
       position: 10
+      tags:
+        - silent
     - word: でしょう
       base: です
       dictionary: です
       position: 11
+      tags:
+        - silent
     - word: か
       position: 15
+      tags:
+        - silent
 - id: luckystar-nodup_15_5522_0.07.34.710
   deck_name: Lucky Star
   translation: The correct answer is mairu, "to visit".
@@ -1477,20 +2280,32 @@
   words:
     - word: 正解
       position: 1
+      tags:
+        - silent
     - word: は
       position: 3
+      tags:
+        - silent
     - word: 参る
       position: 5
+      tags:
+        - silent
     - word: でし
       base: です
       dictionary: です
       position: 8
+      tags:
+        - silent
     - word: たー
       base: た
       dictionary: た
       position: 10
+      tags:
+        - silent
     - word: っ
       position: 12
+      tags:
+        - silent
 - id: luckystar-nodup_15_5529_0.07.47.400
   deck_name: Lucky Star
   translation: 'Next is a multiple choice question:'
@@ -1500,17 +2315,29 @@
     - word: 三
       base: '3'
       position: 1
+      tags:
+        - silent
     - word: 択
       position: 2
+      tags:
+        - silent
     - word: クイズ
       position: 3
+      tags:
+        - silent
     - word: 第
       position: 6
+      tags:
+        - silent
     - word: 一
       base: '1'
       position: 7
+      tags:
+        - silent
     - word: 問
       position: 8
+      tags:
+        - silent
 - id: luckystar-nodup_15_5530_0.07.49.360
   deck_name: Lucky Star
   translation: Of the following, which prefecture does not border the sea?
@@ -1519,33 +2346,57 @@
   words:
     - word: 次
       position: 1
+      tags:
+        - silent
     - word: の
       position: 2
+      tags:
+        - silent
     - word: うち
       base: 内
       position: 3
+      tags:
+        - silent
     - word: 海
       position: 6
+      tags:
+        - silent
     - word: に
       position: 7
+      tags:
+        - silent
     - word: 面し
       base: 面する
       dictionary: 面する
       position: 8
+      tags:
+        - silent
     - word: て
       position: 10
+      tags:
+        - silent
     - word: い
       base: 居る
       dictionary: いる
       position: 11
+      tags:
+        - silent
     - word: ない
       position: 12
+      tags:
+        - silent
     - word: 都道府県
       position: 14
+      tags:
+        - silent
     - word: は
       position: 18
+      tags:
+        - silent
     - word: どれ
       position: 19
+      tags:
+        - silent
 - id: luckystar-nodup_15_5531_0.07.53.680
   deck_name: Lucky Star
   translation: A. Ibaraki-ken.
@@ -1556,10 +2407,16 @@
       base: a
       dictionary: a
       position: 1
+      tags:
+        - silent
     - word: 茨城
       position: 3
+      tags:
+        - silent
     - word: 県
       position: 5
+      tags:
+        - silent
 - id: luckystar-nodup_15_5532_0.07.55.790
   deck_name: Lucky Star
   translation: B. Tochigi-ken.
@@ -1570,10 +2427,16 @@
       base: b
       dictionary: b
       position: 1
+      tags:
+        - silent
     - word: 栃木
       position: 3
+      tags:
+        - silent
     - word: 県
       position: 5
+      tags:
+        - silent
 - id: luckystar-nodup_15_5533_0.07.57.860
   deck_name: Lucky Star
   translation: C. Kyoto-ku.
@@ -1584,10 +2447,16 @@
       base: c
       dictionary: c
       position: 1
+      tags:
+        - silent
     - word: 京都
       position: 3
+      tags:
+        - silent
     - word: 府
       position: 5
+      tags:
+        - silent
 - id: luckystar-nodup_15_5538_0.08.03.770
   deck_name: Lucky Star
   translation: The correct answer is B!
@@ -1596,22 +2465,34 @@
   words:
     - word: 正解
       position: 1
+      tags:
+        - silent
     - word: は
       position: 3
+      tags:
+        - silent
     - word: Ｂ
       base: b
       dictionary: b
       position: 5
+      tags:
+        - silent
     - word: でし
       base: です
       dictionary: です
       position: 7
+      tags:
+        - silent
     - word: たー
       base: た
       dictionary: た
       position: 9
+      tags:
+        - silent
     - word: っ
       position: 11
+      tags:
+        - silent
 - id: luckystar-nodup_15_5539_0.08.05.950
   deck_name: Lucky Star
   translation: 'Next question:'
@@ -1620,10 +2501,16 @@
   words:
     - word: 次
       position: 1
+      tags:
+        - silent
     - word: の
       position: 2
+      tags:
+        - silent
     - word: 問題
       position: 3
+      tags:
+        - silent
 - id: luckystar-nodup_15_5540_0.08.07.020
   deck_name: Lucky Star
   translation: >-
@@ -1634,76 +2521,134 @@
   words:
     - word: 数学
       position: 1
+      tags:
+        - silent
     - word: 界
       position: 3
+      tags:
+        - silent
     - word: の
       position: 4
+      tags:
+        - silent
     - word: 難問
       position: 5
+      tags:
+        - silent
     - word: と
       position: 7
+      tags:
+        - silent
     - word: さ
       base: 為る
       dictionary: する
       position: 8
+      tags:
+        - silent
     - word: れ
       base: れる
       dictionary: れる
       position: 9
+      tags:
+        - silent
     - word: た
       position: 10
+      tags:
+        - silent
     - word: 命題
       position: 11
+      tags:
+        - silent
     - word: で
       position: 13
+      tags:
+        - silent
     - word: １９９４
       base: '1994'
       dictionary: '1994'
       position: 15
+      tags:
+        - silent
     - word: 年
       position: 19
+      tags:
+        - silent
     - word: に
       position: 20
+      tags:
+        - silent
     - word: プリンストン
       position: 21
+      tags:
+        - silent
     - word: 大学
       position: 27
+      tags:
+        - silent
     - word: ワイルズ
       position: 30
+      tags:
+        - silent
     - word: 教授
       position: 34
+      tags:
+        - silent
     - word: に
       position: 36
+      tags:
+        - silent
     - word: よっ
       base: よる
       dictionary: よる
       position: 37
+      tags:
+        - silent
     - word: て
       position: 39
+      tags:
+        - silent
     - word: 証明
       position: 40
+      tags:
+        - silent
     - word: さ
       base: 為る
       dictionary: する
       position: 42
+      tags:
+        - silent
     - word: れ
       base: れる
       dictionary: れる
       position: 43
+      tags:
+        - silent
     - word: た
       position: 44
+      tags:
+        - silent
     - word: 有名
       position: 45
+      tags:
+        - silent
     - word: な
       base: だ
       dictionary: だ
       position: 47
+      tags:
+        - silent
     - word: 定理
       position: 48
+      tags:
+        - silent
     - word: と
       position: 50
+      tags:
+        - silent
     - word: は
       position: 51
+      tags:
+        - silent
 - id: luckystar-nodup_15_5541_0.08.17.590
   deck_name: Lucky Star
   translation: A. The Pythagorean theorem.
@@ -1714,12 +2659,20 @@
       base: a
       dictionary: a
       position: 1
+      tags:
+        - silent
     - word: ピタゴラス
       position: 3
+      tags:
+        - silent
     - word: の
       position: 8
+      tags:
+        - silent
     - word: 定理
       position: 9
+      tags:
+        - silent
 - id: luckystar-nodup_15_5542_0.08.20.290
   deck_name: Lucky Star
   translation: B. Taylor's theorem.
@@ -1730,13 +2683,21 @@
       base: b
       dictionary: b
       position: 1
+      tags:
+        - silent
     - word: テイラー
       base: テーラー
       position: 3
+      tags:
+        - silent
     - word: の
       position: 7
+      tags:
+        - silent
     - word: 定理
       position: 8
+      tags:
+        - silent
 - id: luckystar-nodup_15_5543_0.08.22.410
   deck_name: Lucky Star
   translation: C. Fermat's last theorem.
@@ -1747,12 +2708,20 @@
       base: c
       dictionary: c
       position: 1
+      tags:
+        - silent
     - word: フェルマー
       position: 3
+      tags:
+        - silent
     - word: の
       position: 8
+      tags:
+        - silent
     - word: 定理
       position: 9
+      tags:
+        - silent
 - id: luckystar-nodup_16_6027_0.13.30.820
   deck_name: Lucky Star
   translation: Do not forget we're in the middle of a spring audio/visual festival!
@@ -1773,6 +2742,8 @@
       position: 5
     - word: オーディオビジュアル
       position: 8
+      tags:
+        - silent
     - word: 祭り
       base: 祭
       position: 19
@@ -1805,49 +2776,83 @@
     - word: あなた
       base: 貴方
       position: 1
+      tags:
+        - silent
     - word: は
       position: 4
+      tags:
+        - silent
     - word: ただ
       base: 只
       position: 5
+      tags:
+        - silent
     - word: の
       position: 7
+      tags:
+        - silent
     - word: 口内
       position: 8
+      tags:
+        - silent
     - word: 炎
       position: 10
+      tags:
+        - silent
     - word: だ
       position: 11
+      tags:
+        - silent
     - word: と
       position: 12
+      tags:
+        - silent
     - word: 思っ
       base: 思う
       dictionary: 思う
       position: 13
+      tags:
+        - silent
     - word: て
       position: 15
+      tags:
+        - silent
     - word: 軽視
       position: 16
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
       position: 18
+      tags:
+        - silent
     - word: て
       position: 19
+      tags:
+        - silent
     - word: い
       base: 居る
       dictionary: いる
       position: 20
+      tags:
+        - silent
     - word: ませ
       base: ます
       dictionary: ます
       position: 21
+      tags:
+        - silent
     - word: ん
       base: ず
       dictionary: ぬ
       position: 23
+      tags:
+        - silent
     - word: か
       position: 24
+      tags:
+        - silent
 - id: luckystar-nodup_17_6127_0.00.26.640
   deck_name: Lucky Star
   translation: Thousands of manga and games were confiscated from the suspect's room.
@@ -1856,38 +2861,68 @@
   words:
     - word: 容疑
       position: 1
+      tags:
+        - silent
     - word: 者
       position: 3
+      tags:
+        - silent
     - word: の
       position: 4
+      tags:
+        - silent
     - word: 部屋
       position: 5
+      tags:
+        - silent
     - word: から
       position: 7
+      tags:
+        - silent
     - word: は
       position: 9
+      tags:
+        - silent
     - word: 漫画
       position: 10
+      tags:
+        - silent
     - word: や
       position: 12
+      tags:
+        - silent
     - word: ゲーム
       position: 13
+      tags:
+        - silent
     - word: が
       position: 16
+      tags:
+        - silent
     - word: 数千
       position: 17
+      tags:
+        - silent
     - word: 点
       position: 19
+      tags:
+        - silent
     - word: 押収
       position: 20
+      tags:
+        - silent
     - word: さ
       base: 為る
       dictionary: する
       position: 22
+      tags:
+        - silent
     - word: れ
       base: れる
       dictionary: れる
       position: 23
+      tags:
+        - silent
 - id: luckystar-nodup_17_6128_0.00.30.360
   deck_name: Lucky Star
   translation: >-
@@ -1899,38 +2934,66 @@
     - word: その
       base: 其の
       position: 1
+      tags:
+        - silent
     - word: 手口
       position: 3
+      tags:
+        - silent
     - word: から
       position: 5
+      tags:
+        - silent
     - word: 同一
       position: 8
+      tags:
+        - silent
     - word: 犯
       position: 10
+      tags:
+        - silent
     - word: と
       position: 11
+      tags:
+        - silent
     - word: の
       position: 12
+      tags:
+        - silent
     - word: 見方
       position: 13
+      tags:
+        - silent
     - word: が
       position: 15
+      tags:
+        - silent
     - word: 強く
       base: 強い
       dictionary: 強い
       position: 16
+      tags:
+        - silent
     - word: なっ
       base: 成る
       dictionary: なる
       position: 18
+      tags:
+        - silent
     - word: て
       position: 20
+      tags:
+        - silent
     - word: い
       base: 居る
       dictionary: いる
       position: 21
+      tags:
+        - silent
     - word: ます
       position: 22
+      tags:
+        - silent
     - word: また
       base: 又
       position: 26
@@ -1947,19 +3010,33 @@
   words:
     - word: 世界
       position: 1
+      tags:
+        - silent
     - word: の
       position: 3
+      tags:
+        - silent
     - word: わん
       position: 4
+      tags:
+        - silent
     - word: ちゃん
       position: 6
+      tags:
+        - silent
     - word: 特集
       position: 9
+      tags:
+        - silent
     - word: です
       position: 11
+      tags:
+        - silent
     - word: よー
       base: よ
       position: 13
+      tags:
+        - silent
 - id: luckystar-nodup_18_6542_0.04.56.510
   deck_name: Lucky Star
   translation: Here we go!
@@ -1968,11 +3045,17 @@
   words:
     - word: だっ
       position: 1
+      tags:
+        - silent
     - word: ふん
       base: 其れ
       position: 3
+      tags:
+        - silent
     - word: だ
       position: 5
+      tags:
+        - silent
 - id: luckystar-nodup_19_6831_0.02.38.690
   deck_name: Lucky Star
   translation: And now the morning news for Monday, July 2nd.
@@ -1983,39 +3066,67 @@
       base: '7'
       dictionary: '7'
       position: 1
+      tags:
+        - silent
     - word: 月
       position: 2
+      tags:
+        - silent
     - word: ２
       base: '2'
       dictionary: '2'
       position: 3
+      tags:
+        - silent
     - word: 日
       position: 4
+      tags:
+        - silent
     - word: 月曜
       position: 6
+      tags:
+        - silent
     - word: 日
       position: 8
+      tags:
+        - silent
     - word: 朝
       position: 10
+      tags:
+        - silent
     - word: の
       position: 11
+      tags:
+        - silent
     - word: ニュース
       position: 12
+      tags:
+        - silent
     - word: を
       position: 16
+      tags:
+        - silent
     - word: お
       base: 御
       position: 17
+      tags:
+        - silent
     - word: 送り
       base: 送る
       dictionary: 送る
       position: 18
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
       position: 20
+      tags:
+        - silent
     - word: ます
       position: 21
+      tags:
+        - silent
 - id: luckystar-nodup_19_6918_0.07.27.030
   deck_name: Lucky Star
   translation: >-
@@ -2026,14 +3137,24 @@
   words:
     - word: ピッチャー
       position: 1
+      tags:
+        - silent
     - word: が
       position: 6
+      tags:
+        - silent
     - word: 二塁
       position: 7
+      tags:
+        - silent
     - word: ランナー
       position: 9
+      tags:
+        - silent
     - word: を
       position: 13
+      tags:
+        - silent
     - word: 今日
       position: 17
     - word: の
@@ -2062,68 +3183,120 @@
   words:
     - word: 今回
       position: 1
+      tags:
+        - silent
     - word: も
       position: 3
+      tags:
+        - silent
     - word: パーフェクト
       position: 5
+      tags:
+        - silent
     - word: の
       position: 11
+      tags:
+        - silent
     - word: 回答
       position: 12
+      tags:
+        - silent
     - word: 者
       position: 14
+      tags:
+        - silent
     - word: が
       position: 15
+      tags:
+        - silent
     - word: 出
       base: 出る
       dictionary: 出る
       position: 16
+      tags:
+        - silent
     - word: まし
       base: ます
       dictionary: ます
       position: 17
+      tags:
+        - silent
     - word: たら
       base: た
       dictionary: た
       position: 19
+      tags:
+        - silent
     - word: ルック
       position: 25
+      tags:
+        - silent
     - word: ＪＴ
       base: JT
       dictionary: JT
       position: 28
+      tags:
+        - silent
     - word: ○
       position: 30
+      tags:
+        - silent
     - word: で
       position: 31
+      tags:
+        - silent
     - word: 行く
       position: 32
+      tags:
+        - silent
     - word: ツンドラ
       position: 35
+      tags:
+        - silent
     - word: 地帯
       position: 39
+      tags:
+        - silent
     - word: 一
       base: '1'
       position: 41
+      tags:
+        - silent
     - word: ヶ月
       base: 箇月
       position: 42
+      tags:
+        - silent
     - word: 間
       position: 44
+      tags:
+        - silent
     - word: の
       position: 45
+      tags:
+        - silent
     - word: 旅
       position: 46
+      tags:
+        - silent
     - word: を
       position: 47
+      tags:
+        - silent
     - word: プレゼント
       position: 48
+      tags:
+        - silent
     - word: 致し
       base: 致す
       dictionary: 致す
       position: 53
+      tags:
+        - silent
     - word: ます
       position: 55
+      tags:
+        - silent
 - id: luckystar-nodup_19_7122_0.19.38.860
   deck_name: Lucky Star
   translation: Don't miss the deadline. Wait!
@@ -2133,19 +3306,29 @@
     - word: あ
       base: あっ
       position: 1
+      tags:
+        - silent
     - word: ちょっと
       base: 一寸
       position: 3
+      tags:
+        - silent
     - word: 放し
       base: 放す
       dictionary: 放す
       position: 8
+      tags:
+        - silent
     - word: て
       position: 10
+      tags:
+        - silent
     - word: くれ
       base: 呉れる
       dictionary: くれる
       position: 11
+      tags:
+        - silent
     - word: デッドライン
       position: 15
     - word: 超える
@@ -2230,20 +3413,32 @@
       position: 45
     - word: 僕
       position: 49
+      tags:
+        - silent
     - word: は
       position: 50
+      tags:
+        - silent
     - word: まだ
       base: 未だ
       position: 51
+      tags:
+        - silent
     - word: やる
       base: 遣る
       position: 54
+      tags:
+        - silent
     - word: こと
       position: 56
+      tags:
+        - silent
     - word: がっ
       base: がる
       dictionary: がる
       position: 58
+      tags:
+        - silent
 - id: luckystar-nodup_19_7126_0.19.52.930
   deck_name: Lucky Star
   translation: Bye-bii.
@@ -2253,19 +3448,31 @@
     - word: いったい
       base: 一体
       position: 1
+      tags:
+        - silent
     - word: いったい
       base: 一体
       position: 6
+      tags:
+        - silent
     - word: たい
       base: 焚く
       dictionary: たく
       position: 10
+      tags:
+        - silent
     - word: たい
       position: 12
+      tags:
+        - silent
     - word: たい
       position: 14
+      tags:
+        - silent
     - word: たい
       position: 16
+      tags:
+        - silent
 - id: luckystar-nodup_19_7127_0.19.54.340
   deck_name: Lucky Star
   translation: >-
@@ -2278,16 +3485,28 @@
       base: 放す
       dictionary: 放す
       position: 1
+      tags:
+        - silent
     - word: て
       position: 3
+      tags:
+        - silent
     - word: ～
       position: 4
+      tags:
+        - silent
     - word: ～
       position: 5
+      tags:
+        - silent
     - word: ～
       position: 6
+      tags:
+        - silent
     - word: っ
       position: 7
+      tags:
+        - silent
     - word: 別
       position: 10
     - word: に
@@ -2343,20 +3562,34 @@
     - word: まさに
       base: 正に
       position: 1
+      tags:
+        - silent
     - word: スイーツ
       position: 4
+      tags:
+        - silent
     - word: の
       position: 8
+      tags:
+        - silent
     - word: ハレ
       position: 9
+      tags:
+        - silent
     - word: 晴
       base: 晴れ
       position: 11
+      tags:
+        - silent
     - word: レダンス
       position: 12
+      tags:
+        - silent
     - word: やー
       base: や
       position: 16
+      tags:
+        - silent
     - word: お
       base: 御
       position: 20
@@ -2374,26 +3607,42 @@
   words:
     - word: 一度
       position: 1
+      tags:
+        - silent
     - word: に
       position: 3
+      tags:
+        - silent
     - word: 最低
       position: 4
+      tags:
+        - silent
     - word: ５
       base: '5'
       dictionary: '5'
       position: 6
+      tags:
+        - silent
     - word: 本
       position: 7
+      tags:
+        - silent
     - word: も
       position: 8
+      tags:
+        - silent
     - word: 買い
       base: 買う
       dictionary: 買う
       position: 9
+      tags:
+        - silent
     - word: なさい
       base: 為す
       dictionary: なさる
       position: 11
+      tags:
+        - silent
 - id: luckystar-nodup_20_7489_0.20.17.440
   deck_name: Lucky Star
   translation: Piko piko. Shiraishi-kun!?
@@ -2402,6 +3651,8 @@
   words:
     - word: ピッコピッコピッコピッコ
       position: 1
+      tags:
+        - silent
 - id: luckystar-nodup_23_8282_0.08.56.030
   deck_name: Lucky Star
   translation: Today's Bow-Wow!
@@ -2411,10 +3662,16 @@
     - word: きょう
       base: 今日
       position: 1
+      tags:
+        - silent
     - word: の
       position: 4
+      tags:
+        - silent
     - word: わんわん
       position: 5
+      tags:
+        - silent
 - id: luckystar-nodup_23_8285_0.09.01.360
   deck_name: Lucky Star
   translation: First, we have... ...a Welsh Corgi, Ku-chan!
@@ -2424,31 +3681,55 @@
     - word: まず
       base: 先ず
       position: 1
+      tags:
+        - silent
     - word: ご
       base: 御
       position: 3
+      tags:
+        - silent
     - word: 紹介
       position: 4
+      tags:
+        - silent
     - word: する
       base: 為る
       position: 6
+      tags:
+        - silent
     - word: の
       position: 8
+      tags:
+        - silent
     - word: が
       position: 9
+      tags:
+        - silent
     - word: ウェルシュ
       position: 10
+      tags:
+        - silent
     - word: コーギー
       position: 16
+      tags:
+        - silent
     - word: の
       position: 20
+      tags:
+        - silent
     - word: く
       base: 九
       position: 21
+      tags:
+        - silent
     - word: ー
       position: 22
+      tags:
+        - silent
     - word: ちゃん
       position: 23
+      tags:
+        - silent
 - id: luckystar-nodup_23_8290_0.09.17.740
   deck_name: Lucky Star
   translation: Next we have a Siberian Husky, Silviana-chan.
@@ -2457,27 +3738,51 @@
   words:
     - word: 次
       position: 1
+      tags:
+        - silent
     - word: に
       position: 2
+      tags:
+        - silent
     - word: 登場
       position: 3
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
       position: 5
+      tags:
+        - silent
     - word: た
       position: 6
+      tags:
+        - silent
     - word: の
       position: 7
+      tags:
+        - silent
     - word: が
       position: 8
+      tags:
+        - silent
     - word: シベリアン
       position: 9
+      tags:
+        - silent
     - word: ハスキー
       position: 15
+      tags:
+        - silent
     - word: の
       position: 19
+      tags:
+        - silent
     - word: シルビアナ
       position: 20
+      tags:
+        - silent
     - word: ちゃん
       position: 25
+      tags:
+        - silent

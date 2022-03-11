@@ -2291,6 +2291,8 @@
     - word: １
       base: '1'
       position: 6
+      tags:
+        - silent
     - word: ─
       position: 8
     - word: ─
@@ -2671,17 +2673,29 @@
       position: 7
     - word: 白状
       position: 9
+      tags:
+        - silent
     - word: する
       base: 為る
       position: 11
+      tags:
+        - silent
     - word: の
       position: 13
+      tags:
+        - silent
     - word: も
       position: 14
+      tags:
+        - silent
     - word: 恥ずかしい
       position: 15
+      tags:
+        - silent
     - word: が
       position: 20
+      tags:
+        - silent
     - word: 変っ
       base: 変わる
       position: 22
@@ -12544,6 +12558,8 @@
     - word: ２
       base: '2'
       position: 21
+      tags:
+        - silent
     - word: 私
       position: 23
     - word: に

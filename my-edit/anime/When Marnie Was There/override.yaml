@@ -1,0 +1,146 @@
+- id: A_WhenMarnieWasThere_0230
+  deck_name: When Marnie Was There
+  translation: Can you reach?
+  sound: A_WhenMarnieWasThere_1_0.26.12.540-0.26.14.040.mp3
+  sentence: ほら届(とど)くかい？
+  words:
+    - word: ほら
+      position: 0
+    - word: 届
+      base: 届け
+      position: 2
+    - word: とど
+      position: 4
+      tags:
+        - silent
+    - word: く
+      base: 来る
+      dictionary: くる
+      position: 7
+    - word: か
+      position: 8
+    - word: い
+      position: 9
+- id: A_WhenMarnieWasThere_0246
+  deck_name: When Marnie Was There
+  translation: Leave me alone!
+  sound: A_WhenMarnieWasThere_1_0.26.49.450-0.26.50.950.mp3
+  sentence: いい加減(かげん)ほっておいてよ！
+  words:
+    - word: いい
+      base: 良い
+      position: 0
+    - word: 加減
+      position: 2
+    - word: かげん
+      base: 加減
+      position: 5
+      tags:
+        - silent
+    - word: ほっ
+      base: ほる
+      dictionary: ほる
+      position: 9
+    - word: て
+      position: 11
+    - word: おい
+      base: おく
+      dictionary: おく
+      position: 12
+    - word: て
+      position: 14
+    - word: よ
+      position: 15
+- id: A_WhenMarnieWasThere_0345
+  deck_name: When Marnie Was There
+  translation: That's right. Let's go to the other side of the marsh.
+  sound: A_WhenMarnieWasThere_1_0.38.02.700-0.38.05.540.mp3
+  sentence: そうよ　入り江の奥(おく)まで　行きましょう
+  words:
+    - word: そう
+      position: 0
+    - word: よ
+      position: 2
+    - word: 入り江
+      position: 4
+    - word: の
+      position: 7
+    - word: 奥
+      position: 8
+    - word: おく
+      position: 10
+      tags:
+        - silent
+    - word: まで
+      position: 13
+    - word: 行き
+      base: 行く
+      dictionary: 行く
+      position: 16
+    - word: ましょう
+      base: ます
+      dictionary: ます
+      position: 18
+- id: A_WhenMarnieWasThere_0516
+  deck_name: When Marnie Was There
+  translation: I see you draw, too.
+  sound: A_WhenMarnieWasThere_1_0.56.12.450-0.56.14.500.mp3
+  sentence: あなたも絵を描(か)くのね
+  words:
+    - word: あなた
+      base: 貴方
+      position: 0
+    - word: も
+      position: 3
+    - word: 絵
+      position: 4
+    - word: を
+      position: 5
+    - word: 描
+      position: 6
+    - word: か
+      position: 8
+      tags:
+        - silent
+    - word: くの
+      base: 久の
+      position: 10
+    - word: ね
+      position: 12
+- id: A_WhenMarnieWasThere_0804
+  deck_name: When Marnie Was There
+  translation: A place where you go to get better.
+  sound: A_WhenMarnieWasThere_1_1.27.39.500-1.27.42.000.mp3
+  sentence: 病気を治すための療養所(りょうようじょ)よ
+  words:
+    - word: 病気
+      position: 0
+    - word: を
+      position: 2
+    - word: 治す
+      base: 直す
+      position: 3
+    - word: ため
+      base: 為
+      position: 5
+    - word: の
+      position: 7
+    - word: 療養
+      position: 8
+    - word: 所
+      position: 10
+    - word: りょう
+      position: 12
+      tags:
+        - silent
+    - word: よう
+      position: 15
+      tags:
+        - silent
+    - word: じょ
+      base: ぞ
+      position: 17
+      tags:
+        - silent
+    - word: よ
+      position: 20

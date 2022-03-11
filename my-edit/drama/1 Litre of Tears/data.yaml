@@ -149,6 +149,8 @@
     - word: せきずい
       base: 脊髄
       position: 15
+      tags:
+        - silent
     - word: に
       position: 21
     - word: 分かれ
@@ -2511,9 +2513,13 @@
       base: ザ
       dictionary: THE
       position: 6
+      tags:
+        - silent
     - word: End
       base: エンド
       position: 10
+      tags:
+        - silent
     - word: って
       position: 14
     - word: こと
@@ -2909,13 +2915,19 @@
     - word: あさひ
       base: 朝日
       position: 6
+      tags:
+        - silent
     - word: なさん
       base: 為す
       dictionary: なさる
       position: 9
+      tags:
+        - silent
     - word: ちゅう
       base: つう
       position: 12
+      tags:
+        - silent
     - word: 受験
       position: 17
     - word: 番号
@@ -2960,11 +2972,17 @@
       position: 2
     - word: かさ
       position: 4
+      tags:
+        - silent
     - word: うら
       position: 6
+      tags:
+        - silent
     - word: ちゅう
       base: つう
       position: 8
+      tags:
+        - silent
     - word: 受験
       position: 13
     - word: 番号
@@ -3286,6 +3304,8 @@
       position: 5
     - word: かえで
       position: 7
+      tags:
+        - silent
     - word: クリニック
       position: 11
     - word: から
@@ -17304,6 +17324,8 @@
       position: 0
     - word: second opinion
       position: 10
+      tags:
+        - silent
     - word: です
       position: 26
     - word: か
@@ -52380,8 +52402,12 @@
       position: 0
     - word: gâteau
       position: 9
+      tags:
+        - silent
     - word: bonheur
       position: 16
+      tags:
+        - silent
     - word: の
       position: 25
     - word: ケーキ
@@ -75176,8 +75202,12 @@
       position: 0
     - word: えん
       position: 3
+      tags:
+        - silent
     - word: げ
       position: 5
+      tags:
+        - silent
     - word: 障害
       position: 7
     - word: が
@@ -85922,8 +85952,12 @@
     - word: Mother
       base: マザー
       position: 8
+      tags:
+        - silent
     - word: Teresa
       position: 15
+      tags:
+        - silent
     - word: か
       position: 23
     - word: よ
@@ -108852,8 +108886,12 @@
       position: 20
     - word: ララライ
       position: 23
+      tags:
+        - silent
     - word: '3'
       position: 28
+      tags:
+        - silent
 - id: 1_Litre_of_Tears_ep08_720p_x265-ER_0.28.45.756-0.28.48.558
   deck_name: 1 Litre of Tears
   translation: I thought I could help. I'm just a loudmouthed idiot.
@@ -108878,8 +108916,12 @@
       position: 12
     - word: ララライ
       position: 15
+      tags:
+        - silent
     - word: '3'
       position: 20
+      tags:
+        - silent
 - id: 1_Litre_of_Tears_ep08_720p_x265-ER_0.28.48.559-0.28.50.336
   deck_name: 1 Litre of Tears
   translation: My father was right...
@@ -108916,8 +108958,12 @@
       position: 23
     - word: ララライ
       position: 26
+      tags:
+        - silent
     - word: '3'
       position: 31
+      tags:
+        - silent
 - id: 1_Litre_of_Tears_ep08_720p_x265-ER_0.28.50.337-0.28.51.737
   deck_name: 1 Litre of Tears
   translation: My father was right...
@@ -108942,8 +108988,12 @@
       position: 12
     - word: ララライ
       position: 15
+      tags:
+        - silent
     - word: '3'
       position: 20
+      tags:
+        - silent
 - id: 1_Litre_of_Tears_ep08_720p_x265-ER_0.28.52.642-0.28.54.368
   deck_name: 1 Litre of Tears
   translation: I'm just a kid.
@@ -134725,8 +134775,12 @@
     - word: お
       base: 御
       position: 1
+      tags:
+        - silent
     - word: 花
       position: 2
+      tags:
+        - silent
     - word: いっぱい
       base: 一杯
       position: 4
@@ -145889,10 +145943,14 @@
       base: ambu
       dictionary: ambu
       position: 11
+      tags:
+        - silent
     - word: bag
       base: バッグ
       dictionary: BAG
       position: 16
+      tags:
+        - silent
     - word: はい
       position: 23
 - id: 1_Litre_of_Tears_ep11_end_720p_x265-ER_0.47.34.702-0.47.35.934
@@ -146354,6 +146412,8 @@
     - word: あなた
       base: 貴方
       position: 1
+      tags:
+        - silent
     - word: の
       position: 5
     - word: 人生

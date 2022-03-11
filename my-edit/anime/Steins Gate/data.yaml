@@ -363,8 +363,12 @@
     - word: なか
       base: 中
       position: 3
+      tags:
+        - silent
     - word: ばち
       position: 5
+      tags:
+        - silent
     - word: 博士
       position: 8
     - word: は
@@ -842,17 +846,27 @@
       position: 4
     - word: ほう
       position: 6
+      tags:
+        - silent
     - word: おうい
       base: おおい
       position: 8
+      tags:
+        - silent
     - word: ん
       position: 11
+      tags:
+        - silent
     - word: きょう
       base: 今日
       position: 12
+      tags:
+        - silent
     - word: ま
       base: まー
       position: 15
+      tags:
+        - silent
     - word: だ
       position: 17
 - id: A_SteinsGateS01_E01_0036
@@ -3488,13 +3502,19 @@
       position: 27
     - word: は
       position: 29
+      tags:
+        - silent
     - word: しだい
       base: 次第
       position: 30
+      tags:
+        - silent
     - word: たる
       base: たり
       dictionary: たり
       position: 33
+      tags:
+        - silent
 - id: A_SteinsGateS01_E01_0154
   deck_name: Steins Gate
   translation: It's "Hacker," not "Haker." Hurr.
@@ -3523,8 +3543,12 @@
       position: 15
     - word: じょう
       position: 17
+      tags:
+        - silent
     - word: こう
       position: 20
+      tags:
+        - silent
 - id: A_SteinsGateS01_E01_0155
   deck_name: Steins Gate
   translation: We three.
@@ -3657,11 +3681,17 @@
     - word: すえ
       base: 末
       position: 4
+      tags:
+        - silent
     - word: ひろ
       position: 6
+      tags:
+        - silent
     - word: ちょう
       base: 蝶
       position: 8
+      tags:
+        - silent
     - word: 駅
       position: 12
     - word: の
@@ -3676,9 +3706,13 @@
       position: 18
     - word: くらま
       position: 21
+      tags:
+        - silent
     - word: え
       base: えー
       position: 24
+      tags:
+        - silent
     - word: 通り
       position: 26
     - word: に
@@ -4301,15 +4335,23 @@
       position: 14
     - word: ちゅう
       position: 16
+      tags:
+        - silent
     - word: に
       position: 19
+      tags:
+        - silent
     - word: びょう
       base: 鋲
       position: 20
+      tags:
+        - silent
     - word: 乙
       position: 25
     - word: おつ
       position: 27
+      tags:
+        - silent
 - id: A_SteinsGateS01_E01_0182
   deck_name: Steins Gate
   translation: Silence, Super Haker!
@@ -4540,14 +4582,20 @@
       position: 9
     - word: ちよ
       position: 13
+      tags:
+        - silent
     - word: だ
       position: 15
+      tags:
+        - silent
     - word: 区
       position: 17
     - word: 秋葉原
       position: 19
     - word: あきはばら
       position: 23
+      tags:
+        - silent
     - word: に
       position: 29
     - word: 墜落
@@ -5036,6 +5084,8 @@
     - word: そご
       base: 齟齬
       position: 8
+      tags:
+        - silent
 - id: A_SteinsGateS01_E01_0203
   deck_name: Steins Gate
   translation: Is it the Organization's memory control?
@@ -6095,8 +6145,12 @@
     - word: かっこ
       base: 格好
       position: 9
+      tags:
+        - silent
     - word: かり
       position: 12
+      tags:
+        - silent
     - word: ね
       position: 16
 - id: A_SteinsGateS01_E01_0250
@@ -6547,6 +6601,8 @@
       position: 4
     - word: アールイーエヌジー
       position: 9
+      tags:
+        - silent
     - word: 電話
       position: 21
     - word: レンジ
@@ -6892,6 +6948,8 @@
       position: 18
     - word: ワン
       position: 20
+      tags:
+        - silent
     - word: が
       position: 23
     - word: 凍っ
@@ -7399,10 +7457,14 @@
       position: 14
     - word: ぜ
       position: 17
+      tags:
+        - silent
     - word: ってえ
       base: つう
       dictionary: っつう
       position: 18
+      tags:
+        - silent
     - word: 休む
       position: 22
     - word: の
@@ -8221,8 +8283,12 @@
     - word: なか
       base: 中
       position: 15
+      tags:
+        - silent
     - word: ばち
       position: 17
+      tags:
+        - silent
     - word: 博士
       position: 20
     - word: 記者
@@ -8392,12 +8458,18 @@
       position: 2
     - word: ほう
       position: 4
+      tags:
+        - silent
     - word: おうい
       base: おおい
       position: 6
+      tags:
+        - silent
     - word: ん
       base: んっ
       position: 9
+      tags:
+        - silent
 - id: A_SteinsGateS01_E020345
   deck_name: Steins Gate
   translation: Kyouma!
@@ -8411,9 +8483,13 @@
     - word: きょう
       base: 今日
       position: 3
+      tags:
+        - silent
     - word: ま
       base: まー
       position: 6
+      tags:
+        - silent
     - word: だ
       position: 8
 - id: A_SteinsGateS01_E020347
@@ -9915,6 +9991,8 @@
     - word: さみだれ
       base: 五月雨
       position: 6
+      tags:
+        - silent
     - word: は
       position: 11
     - word: る
@@ -11523,6 +11601,8 @@
       position: 11
     - word: セルン
       position: 16
+      tags:
+        - silent
     - word: に
       position: 20
     - word: よっ
@@ -14319,6 +14399,8 @@
       position: 0
     - word: あきはばら
       position: 4
+      tags:
+        - silent
     - word: の
       position: 10
     - word: どこ
@@ -14607,10 +14689,16 @@
     - word: げき
       base: 劇
       position: 7
+      tags:
+        - silent
     - word: だ
       position: 9
+      tags:
+        - silent
     - word: か
       position: 10
+      tags:
+        - silent
     - word: って
       position: 12
     - word: パターン
@@ -14808,8 +14896,12 @@
       base: あく
       dictionary: あく
       position: 11
+      tags:
+        - silent
     - word: ば
       position: 13
+      tags:
+        - silent
     - word: に
       position: 15
     - word: は
@@ -15097,8 +15189,12 @@
     - word: かっこ
       base: 格好
       position: 7
+      tags:
+        - silent
     - word: かり
       position: 10
+      tags:
+        - silent
     - word: の
       position: 14
     - word: 電磁
@@ -15348,8 +15444,12 @@
       position: 9
     - word: じょう
       position: 11
+      tags:
+        - silent
     - word: こう
       position: 14
+      tags:
+        - silent
     - word: えっ
       position: 18
     - word: あっ
@@ -15403,8 +15503,12 @@
     - word: かっこ
       base: 格好
       position: 4
+      tags:
+        - silent
     - word: かり
       position: 7
+      tags:
+        - silent
     - word: って
       position: 11
     - word: めんどい
@@ -15676,6 +15780,8 @@
       position: 2
     - word: おつ
       position: 4
+      tags:
+        - silent
 - id: A_SteinsGateS01_E020633
   deck_name: Steins Gate
   translation: Shut up! Where'd you hide it?
@@ -16059,10 +16165,14 @@
       position: 0
     - word: まき
       position: 3
+      tags:
+        - silent
     - word: せ
       base: 為る
       dictionary: す
       position: 5
+      tags:
+        - silent
     - word: 紅
       position: 9
     - word: 莉
@@ -16071,9 +16181,13 @@
       position: 11
     - word: くり
       position: 13
+      tags:
+        - silent
     - word: す
       base: 為る
       position: 15
+      tags:
+        - silent
 - id: A_SteinsGateS01_E030651
   deck_name: Steins Gate
   translation: I did knock, for what it's worth.
@@ -16126,8 +16240,12 @@
       position: 0
     - word: はし
       position: 3
+      tags:
+        - silent
     - word: だ
       position: 5
+      tags:
+        - silent
     - word: さん
       position: 7
     - word: に
@@ -17646,8 +17764,12 @@
     - word: かっこ
       base: 格好
       position: 18
+      tags:
+        - silent
     - word: かり
       position: 21
+      tags:
+        - silent
     - word: は
       position: 25
     - word: 我が
@@ -18331,12 +18453,18 @@
       position: 10
     - word: ほう
       position: 12
+      tags:
+        - silent
     - word: おうい
       base: おおい
       position: 14
+      tags:
+        - silent
     - word: ん
       base: んっ
       position: 17
+      tags:
+        - silent
     - word: 変態
       position: 19
     - word: 凶
@@ -18346,9 +18474,13 @@
     - word: きょう
       base: 今日
       position: 24
+      tags:
+        - silent
     - word: ま
       base: まー
       position: 27
+      tags:
+        - silent
 - id: A_SteinsGateS01_E030741
   deck_name: Steins Gate
   translation: What? Pervert Girl Genius!
@@ -18557,6 +18689,8 @@
       position: 15
     - word: ワン
       position: 17
+      tags:
+        - silent
     - word: ワン
       base: わん
       position: 22
@@ -20365,6 +20499,8 @@
     - word: せんこう
       base: 潜航
       position: 4
+      tags:
+        - silent
     - word: の
       position: 9
 - id: A_SteinsGateS01_E030833
@@ -20844,6 +20980,8 @@
       position: 13
     - word: セルン
       position: 18
+      tags:
+        - silent
     - word: の
       position: 22
     - word: 素
@@ -23668,9 +23806,13 @@
       position: 6
     - word: たく
       position: 8
+      tags:
+        - silent
     - word: ら
       base: 等
       position: 10
+      tags:
+        - silent
     - word: み
       position: 12
     - word: を
@@ -24160,6 +24302,8 @@
     - word: らい
       base: 癩
       position: 3
+      tags:
+        - silent
     - word: ネット
       position: 6
     - word: ソーセージ
@@ -26103,6 +26247,8 @@
       position: 21
     - word: スリーエックスエル
       position: 26
+      tags:
+        - silent
     - word: だ
       position: 36
 - id: A_SteinsGateS01_E041053
@@ -26182,17 +26328,27 @@
       position: 11
     - word: ほう
       position: 13
+      tags:
+        - silent
     - word: おうい
       base: おおい
       position: 15
+      tags:
+        - silent
     - word: ん
       position: 18
+      tags:
+        - silent
     - word: きょう
       base: 今日
       position: 19
+      tags:
+        - silent
     - word: ま
       base: まー
       position: 22
+      tags:
+        - silent
 - id: A_SteinsGateS01_E041058
   deck_name: Steins Gate
   translation: Two, that greeting is dangero—
@@ -26228,6 +26384,8 @@
       position: 5
     - word: すず
       position: 7
+      tags:
+        - silent
     - word: さん
       position: 10
 - id: A_SteinsGateS01_E041060
@@ -26324,6 +26482,8 @@
     - word: らい
       base: 癩
       position: 11
+      tags:
+        - silent
     - word: ネット
       position: 14
     - word: カード
@@ -26546,6 +26706,8 @@
     - word: なえ
       base: 苗
       position: 6
+      tags:
+        - silent
     - word: が
       position: 9
     - word: いる
@@ -31825,6 +31987,8 @@
       base: 濁る
       dictionary: にごる
       position: 9
+      tags:
+        - silent
     - word: は
       position: 13
     - word: ない
@@ -32268,10 +32432,16 @@
       base: 来る
       dictionary: くる
       position: 10
+      tags:
+        - silent
     - word: た
       position: 11
+      tags:
+        - silent
     - word: ね
       position: 12
+      tags:
+        - silent
     - word: え
       base: 得る
       dictionary: える
@@ -32550,6 +32720,8 @@
       position: 12
     - word: あきはばら
       position: 16
+      tags:
+        - silent
     - word: の
       position: 22
     - word: 神社
@@ -33086,13 +33258,19 @@
       position: 4
     - word: や
       position: 7
+      tags:
+        - silent
     - word: な
       base: だ
       dictionary: だ
       position: 8
+      tags:
+        - silent
     - word: ばやし
       base: はやし
       position: 9
+      tags:
+        - silent
     - word: 神社
       position: 13
     - word: に
@@ -34828,6 +35006,8 @@
       position: 9
     - word: おもて
       position: 11
+      tags:
+        - silent
     - word: 頼む
       position: 15
 - id: A_SteinsGateS01_E051421
@@ -35353,13 +35533,19 @@
       position: 0
     - word: や
       position: 3
+      tags:
+        - silent
     - word: な
       base: だ
       dictionary: だ
       position: 4
+      tags:
+        - silent
     - word: ばやし
       base: はやし
       position: 5
+      tags:
+        - silent
     - word: 神社
       position: 9
     - word: に
@@ -35418,6 +35604,8 @@
       position: 46
     - word: ほう
       position: 48
+      tags:
+        - silent
 - id: A_SteinsGateS01_E051441
   deck_name: Steins Gate
   translation: I said put it down!
@@ -36727,6 +36915,8 @@
       position: 0
     - word: ゆり
       position: 3
+      tags:
+        - silent
     - word: 展開
       position: 6
     - word: キター
@@ -38307,6 +38497,8 @@
       position: 2
     - word: セルン
       position: 7
+      tags:
+        - silent
     - word: の
       position: 11
     - word: 陰謀
@@ -38330,13 +38522,21 @@
       position: 2
     - word: こう
       position: 5
+      tags:
+        - silent
     - word: と
       position: 7
+      tags:
+        - silent
     - word: うむ
       base: 生む
       position: 8
+      tags:
+        - silent
     - word: けい
       position: 10
+      tags:
+        - silent
     - word: な
       base: だ
       dictionary: だ
@@ -39116,8 +39316,12 @@
       position: 3
     - word: こう
       position: 6
+      tags:
+        - silent
     - word: こつ
       position: 8
+      tags:
+        - silent
     - word: の
       position: 11
     - word: ポーズ
@@ -40290,12 +40494,18 @@
       position: 4
     - word: ほう
       position: 6
+      tags:
+        - silent
     - word: おうい
       base: おおい
       position: 8
+      tags:
+        - silent
     - word: ん
       base: んっ
       position: 11
+      tags:
+        - silent
     - word: だ
       position: 13
 - id: A_SteinsGateS01_E051641
@@ -40352,9 +40562,13 @@
     - word: きょう
       base: 今日
       position: 4
+      tags:
+        - silent
     - word: ま
       base: まー
       position: 7
+      tags:
+        - silent
     - word: と
       position: 10
     - word: 呼ぶ
@@ -40830,6 +41044,8 @@
       position: 0
     - word: ほうとう
       position: 3
+      tags:
+        - silent
     - word: 天才
       position: 8
     - word: 変態
@@ -41272,6 +41488,8 @@
       position: 3
     - word: ジェイペグ
       position: 8
+      tags:
+        - silent
     - word: か
       position: 14
     - word: よ
@@ -43071,6 +43289,8 @@
       position: 11
     - word: テン
       position: 14
+      tags:
+        - silent
 - id: A_SteinsGateS01_E051749
   deck_name: Steins Gate
   translation: 'Subject: James McCarthy.'
@@ -43138,6 +43358,8 @@
       position: 7
     - word: フォー
       position: 9
+      tags:
+        - silent
     - word: 実験
       position: 13
     - word: 結果
@@ -43463,6 +43685,8 @@
       position: 5
     - word: エイト
       position: 7
+      tags:
+        - silent
     - word: 被験
       position: 12
     - word: 者
@@ -43681,6 +43905,8 @@
       position: 5
     - word: セブン
       position: 7
+      tags:
+        - silent
     - word: 被験
       position: 12
     - word: 者
@@ -43780,15 +44006,23 @@
       position: 8
     - word: ひえ
       position: 10
+      tags:
+        - silent
     - word: いざ
       position: 12
+      tags:
+        - silent
     - word: んさん
       base: 為す
       dictionary: んさる
       position: 14
+      tags:
+        - silent
     - word: ろく
       base: 六
       position: 17
+      tags:
+        - silent
     - word: で
       position: 20
     - word: 遺体
@@ -44206,8 +44440,12 @@
       position: 13
     - word: じょう
       position: 15
+      tags:
+        - silent
     - word: こう
       position: 18
+      tags:
+        - silent
 - id: A_SteinsGateS01_E051795
   deck_name: Steins Gate
   translation: What's nasty...
@@ -44446,8 +44684,12 @@
     - word: かっこ
       base: 格好
       position: 24
+      tags:
+        - silent
     - word: かり
       position: 27
+      tags:
+        - silent
     - word: が
       position: 31
     - word: ある
@@ -44593,6 +44835,8 @@
       position: 0
     - word: あきはばら
       position: 4
+      tags:
+        - silent
     - word: の
       position: 10
     - word: ラジ
@@ -45312,6 +45556,8 @@
       position: 0
     - word: すず
       position: 2
+      tags:
+        - silent
     - word: さん
       position: 5
     - word: も
@@ -45493,9 +45739,13 @@
       position: 5
     - word: くり
       position: 7
+      tags:
+        - silent
     - word: す
       base: 為る
       position: 9
+      tags:
+        - silent
     - word: ちゃん
       position: 11
     - word: だ
@@ -46009,6 +46259,8 @@
       position: 8
     - word: セルン
       position: 13
+      tags:
+        - silent
     - word: を
       position: 17
     - word: 出し
@@ -46047,8 +46299,12 @@
     - word: かっこ
       base: 格好
       position: 7
+      tags:
+        - silent
     - word: かり
       position: 10
+      tags:
+        - silent
     - word: の
       position: 14
     - word: タイム
@@ -46501,17 +46757,27 @@
       position: 6
     - word: ほう
       position: 8
+      tags:
+        - silent
     - word: おうい
       base: おおい
       position: 10
+      tags:
+        - silent
     - word: ん
       position: 13
+      tags:
+        - silent
     - word: きょう
       base: 今日
       position: 14
+      tags:
+        - silent
     - word: ま
       base: まー
       position: 17
+      tags:
+        - silent
     - word: を
       position: 19
     - word: バカ
@@ -46891,11 +47157,17 @@
       position: 2
     - word: ちゅう
       position: 4
+      tags:
+        - silent
     - word: に
       position: 7
+      tags:
+        - silent
     - word: びょう
       base: 鋲
       position: 8
+      tags:
+        - silent
     - word: すぎ
       base: 過ぎる
       dictionary: すぎる
@@ -46910,8 +47182,12 @@
       position: 18
     - word: じょう
       position: 20
+      tags:
+        - silent
     - word: こう
       position: 23
+      tags:
+        - silent
 - id: A_SteinsGateS01_E06_1896
   deck_name: Steins Gate
   translation: We should focus on making it easy to understand.
@@ -48306,6 +48582,8 @@
       position: 10
     - word: ゆり
       position: 13
+      tags:
+        - silent
     - word: フィールド
       position: 16
     - word: を
@@ -50770,6 +51048,8 @@
     - word: とにかく
       base: 兎に角
       position: 1
+      tags:
+        - silent
     - word: 詳細
       position: 7
     - word: な
@@ -52173,13 +52453,19 @@
       position: 0
     - word: や
       position: 3
+      tags:
+        - silent
     - word: な
       base: だ
       dictionary: だ
       position: 4
+      tags:
+        - silent
     - word: ばやし
       base: はやし
       position: 5
+      tags:
+        - silent
     - word: 神社
       position: 9
     - word: だ
@@ -53033,8 +53319,12 @@
       position: 7
     - word: か
       position: 9
+      tags:
+        - silent
     - word: ね
       position: 10
+      tags:
+        - silent
     - word: は
       position: 12
     - word: ない
@@ -53526,6 +53816,8 @@
       position: 16
     - word: ワン
       position: 18
+      tags:
+        - silent
     - word: の
       position: 22
     - word: ほう
@@ -53884,6 +54176,8 @@
       position: 3
     - word: おつ
       position: 5
+      tags:
+        - silent
     - word: んっ
       position: 11
     - word: うん
@@ -54634,10 +54928,14 @@
     - word: かっこ
       base: 格好
       position: 13
+      tags:
+        - silent
     - word: わらい
       base: 笑う
       dictionary: わらう
       position: 16
+      tags:
+        - silent
     - word: って
       position: 21
     - word: やつ
@@ -54875,6 +55173,8 @@
       position: 7
     - word: シックス
       position: 9
+      tags:
+        - silent
     - word: ね
       position: 14
 - id: A_SteinsGateS01_E07_2204
@@ -56513,9 +56813,13 @@
     - word: きょう
       base: 今日
       position: 3
+      tags:
+        - silent
     - word: ま
       base: まー
       position: 6
+      tags:
+        - silent
     - word: さん
       position: 8
     - word: すみ
@@ -57120,12 +57424,18 @@
       position: 8
     - word: ほう
       position: 10
+      tags:
+        - silent
     - word: おうい
       base: おおい
       position: 12
+      tags:
+        - silent
     - word: ん
       base: んっ
       position: 15
+      tags:
+        - silent
     - word: 凶
       position: 17
     - word: 真
@@ -57701,6 +58011,8 @@
       position: 16
     - word: めえ
       position: 19
+      tags:
+        - silent
     - word: みてえ
       base: みたい
       position: 22
@@ -59550,6 +59862,8 @@
     - word: こんとん
       base: 混沌
       position: 9
+      tags:
+        - silent
     - word: だ
       position: 14
 - id: A_SteinsGateS01_E08_2411
@@ -59909,6 +60223,8 @@
       position: 9
     - word: シックス
       position: 11
+      tags:
+        - silent
     - word: が
       position: 16
     - word: どう
@@ -60117,9 +60433,13 @@
     - word: ま
       base: まー
       position: 3
+      tags:
+        - silent
     - word: がん
       base: 癌
       position: 4
+      tags:
+        - silent
     - word: リーディング
       position: 8
     - word: シュタイナー
@@ -60997,6 +61317,8 @@
       position: 0
     - word: きりゅう
       position: 3
+      tags:
+        - silent
     - word: さん
       position: 8
 - id: A_SteinsGateS01_E08_2468
@@ -61329,6 +61651,8 @@
       position: 0
     - word: すず
       position: 2
+      tags:
+        - silent
     - word: さん
       position: 5
     - word: おはよう
@@ -61889,8 +62213,12 @@
     - word: かっこ
       base: 格好
       position: 11
+      tags:
+        - silent
     - word: かり
       position: 14
+      tags:
+        - silent
     - word: 起動
       position: 18
     - word: ん
@@ -61929,9 +62257,13 @@
     - word: きょう
       base: 今日
       position: 6
+      tags:
+        - silent
     - word: ま
       base: まー
       position: 9
+      tags:
+        - silent
     - word: さん
       position: 11
     - word: に
@@ -63288,6 +63620,8 @@
     - word: さみだれ
       base: 五月雨
       position: 6
+      tags:
+        - silent
     - word: を
       position: 11
     - word: 持っ
@@ -63606,6 +63940,8 @@
       position: 4
     - word: ゆり
       position: 7
+      tags:
+        - silent
     - word: です
       position: 10
 - id: A_SteinsGateS01_E08_2581
@@ -63671,6 +64007,8 @@
     - word: らい
       base: 癩
       position: 7
+      tags:
+        - silent
     - word: ネット
       position: 10
     - word: の
@@ -67123,9 +67461,13 @@
     - word: きょう
       base: 今日
       position: 6
+      tags:
+        - silent
     - word: ま
       base: まー
       position: 9
+      tags:
+        - silent
     - word: に
       position: 11
     - word: は
@@ -68737,12 +69079,18 @@
       position: 4
     - word: ほう
       position: 6
+      tags:
+        - silent
     - word: おうい
       base: おおい
       position: 8
+      tags:
+        - silent
     - word: ん
       base: んっ
       position: 11
+      tags:
+        - silent
     - word: 凶
       position: 13
     - word: 真
@@ -69074,6 +69422,8 @@
       position: 0
     - word: セルン
       position: 5
+      tags:
+        - silent
     - word: の
       position: 9
     - word: 実験
@@ -70681,6 +71031,8 @@
       position: 2
     - word: シックス
       position: 4
+      tags:
+        - silent
     - word: を
       position: 9
     - word: 買わ
@@ -71024,13 +71376,19 @@
       position: 4
     - word: や
       position: 7
+      tags:
+        - silent
     - word: な
       base: だ
       dictionary: だ
       position: 8
+      tags:
+        - silent
     - word: ばやし
       base: はやし
       position: 9
+      tags:
+        - silent
     - word: 神社
       position: 13
     - word: に
@@ -71990,8 +72348,12 @@
       position: 18
     - word: と
       position: 20
+      tags:
+        - silent
     - word: つ
       position: 21
+      tags:
+        - silent
     - word: せ
       base: 為る
       dictionary: する
@@ -72018,8 +72380,12 @@
       position: 35
     - word: じょう
       position: 37
+      tags:
+        - silent
     - word: こう
       position: 40
+      tags:
+        - silent
 - id: A_SteinsGateS01_E09_2925
   deck_name: Steins Gate
   translation: I wanted to go and play, too!
@@ -72818,8 +73184,12 @@
     - word: ぎょう
       base: 行
       position: 7
+      tags:
+        - silent
     - word: こう
       position: 10
+      tags:
+        - silent
     - word: ハア
       base: はあ
       position: 14
@@ -73102,10 +73472,16 @@
       base: あく
       dictionary: あく
       position: 6
+      tags:
+        - silent
     - word: はる
       position: 8
+      tags:
+        - silent
     - word: みほ
       position: 10
+      tags:
+        - silent
     - word: ちゃん
       position: 13
     - word: って
@@ -73194,6 +73570,8 @@
       position: 8
     - word: も
       position: 10
+      tags:
+        - silent
     - word: え
       base: えー
       position: 12
@@ -74678,6 +75056,8 @@
       position: 7
     - word: ほうとう
       position: 10
+      tags:
+        - silent
     - word: 天才
       position: 15
     - word: 変態
@@ -74756,8 +75136,12 @@
     - word: かっこ
       base: 格好
       position: 7
+      tags:
+        - silent
     - word: かり
       position: 10
+      tags:
+        - silent
     - word: の
       position: 14
     - word: 設定
@@ -74977,6 +75361,8 @@
     - word: したて
       base: 仕立て
       position: 3
+      tags:
+        - silent
     - word: に
       position: 7
     - word: 出れ
@@ -75548,6 +75934,8 @@
       position: 7
     - word: あい
       position: 9
+      tags:
+        - silent
     - word: ソード
       position: 12
     - word: の
@@ -75565,8 +75953,12 @@
     - word: なか
       base: 中
       position: 29
+      tags:
+        - silent
     - word: の
       position: 31
+      tags:
+        - silent
     - word: に
       position: 33
     - word: 寄る
@@ -75598,6 +75990,8 @@
     - word: こうが
       base: 高雅
       position: 9
+      tags:
+        - silent
     - word: ゆい
       base: ゆう
       dictionary: ゆう
@@ -75806,6 +76200,8 @@
       position: 6
     - word: も
       position: 8
+      tags:
+        - silent
     - word: え
       base: えっ
       position: 10
@@ -75994,8 +76390,12 @@
     - word: なか
       base: 中
       position: 13
+      tags:
+        - silent
     - word: の
       position: 15
+      tags:
+        - silent
     - word: まで
       position: 17
     - word: 同人
@@ -76300,9 +76700,13 @@
       position: 0
     - word: いけ
       position: 3
+      tags:
+        - silent
     - word: ぶくろ
       base: 袋
       position: 5
+      tags:
+        - silent
     - word: で
       position: 9
     - word: 雷
@@ -76310,6 +76714,8 @@
     - word: らい
       base: 癩
       position: 13
+      tags:
+        - silent
     - word: ネット
       position: 16
     - word: の
@@ -76958,14 +77364,20 @@
       position: 9
     - word: もう
       position: 11
+      tags:
+        - silent
     - word: こ
       base: 来る
       dictionary: くる
       position: 13
+      tags:
+        - silent
     - word: はん
       base: はる
       dictionary: はる
       position: 14
+      tags:
+        - silent
     - word: を
       position: 17
     - word: 見
@@ -81824,6 +82236,8 @@
       position: 27
     - word: ごえもん
       position: 32
+      tags:
+        - silent
 - id: A_SteinsGateS01_E10_3326
   deck_name: Steins Gate
   translation: We made it so you can use a vacuum cleaner's output to warm a dryer.
@@ -82812,17 +83226,27 @@
       position: 13
     - word: ほう
       position: 15
+      tags:
+        - silent
     - word: おうい
       base: おおい
       position: 17
+      tags:
+        - silent
     - word: ん
       position: 20
+      tags:
+        - silent
     - word: きょう
       base: 今日
       position: 21
+      tags:
+        - silent
     - word: ま
       base: まー
       position: 24
+      tags:
+        - silent
     - word: が
       position: 26
     - word: 許
@@ -84220,6 +84644,8 @@
       position: 13
     - word: あきはばら
       position: 17
+      tags:
+        - silent
     - word: に
       position: 23
     - word: いる
@@ -84316,9 +84742,13 @@
       position: 2
     - word: くり
       position: 4
+      tags:
+        - silent
     - word: す
       base: 為る
       position: 6
+      tags:
+        - silent
     - word: ちゃん
       position: 8
     - word: が
@@ -85426,6 +85856,8 @@
     - word: そご
       base: 齟齬
       position: 20
+      tags:
+        - silent
     - word: が
       position: 23
     - word: 大きく
@@ -85689,12 +86121,18 @@
       position: 2
     - word: ほう
       position: 4
+      tags:
+        - silent
     - word: おうい
       base: おおい
       position: 6
+      tags:
+        - silent
     - word: ん
       base: んっ
       position: 9
+      tags:
+        - silent
     - word: じゃ
       base: だ
       dictionary: だ
@@ -85740,6 +86178,8 @@
       position: 0
     - word: セルン
       position: 5
+      tags:
+        - silent
     - word: に
       position: 9
     - word: 回線
@@ -88504,6 +88944,8 @@
       position: 7
     - word: すず
       position: 9
+      tags:
+        - silent
     - word: さん
       position: 12
     - word: と
@@ -88897,9 +89339,13 @@
     - word: きょう
       base: 今日
       position: 28
+      tags:
+        - silent
     - word: ま
       base: まー
       position: 31
+      tags:
+        - silent
     - word: しか
       position: 33
     - word: い
@@ -91337,8 +91783,12 @@
       position: 38
     - word: もえ
       position: 40
+      tags:
+        - silent
     - word: か
       position: 42
+      tags:
+        - silent
     - word: さん
       position: 44
     - word: フェリス
@@ -91356,6 +91806,8 @@
     - word: なえ
       base: 苗
       position: 66
+      tags:
+        - silent
     - word: ちゃん
       position: 69
 - id: A_SteinsGateS01_E12_4010
@@ -91520,18 +91972,28 @@
     - word: やま
       base: 山
       position: 3
+      tags:
+        - silent
     - word: の
       position: 5
+      tags:
+        - silent
     - word: て
       position: 6
+      tags:
+        - silent
     - word: 線
       position: 8
     - word: 総武
       position: 10
     - word: そう
       position: 13
+      tags:
+        - silent
     - word: ぶ
       position: 15
+      tags:
+        - silent
     - word: 線
       position: 17
 - id: A_SteinsGateS01_E12_4016
@@ -91990,6 +92452,8 @@
       position: 0
     - word: きりゅう
       position: 3
+      tags:
+        - silent
     - word: 萌
       position: 8
     - word: 郁
@@ -92239,6 +92703,8 @@
       position: 7
     - word: セルン
       position: 12
+      tags:
+        - silent
     - word: が
       position: 16
     - word: 回収
@@ -92287,28 +92753,42 @@
     - word: お
       base: 御
       position: 12
+      tags:
+        - silent
     - word: かべ
       base: 壁
       position: 13
+      tags:
+        - silent
     - word: りん
       position: 15
+      tags:
+        - silent
     - word: たろう
       base: だ
       dictionary: だ
       position: 17
+      tags:
+        - silent
     - word: 橋田
       position: 22
     - word: 至
       position: 25
     - word: は
       position: 27
+      tags:
+        - silent
     - word: しだい
       base: 次第
       position: 28
+      tags:
+        - silent
     - word: たる
       base: たり
       dictionary: たり
       position: 31
+      tags:
+        - silent
 - id: A_SteinsGateS01_E13_4058
   deck_name: Steins Gate
   translation: You three are coming with me.
@@ -92361,8 +92841,12 @@
       base: 為る
       dictionary: する
       position: 3
+      tags:
+        - silent
     - word: な
       position: 5
+      tags:
+        - silent
     - word: まゆり
       position: 7
     - word: は
@@ -93480,9 +93964,13 @@
     - word: きょう
       base: 今日
       position: 12
+      tags:
+        - silent
     - word: ま
       base: まー
       position: 15
+      tags:
+        - silent
     - word: さん
       position: 17
 - id: A_SteinsGateS01_E13_4128
@@ -94354,14 +94842,22 @@
     - word: お
       base: 御
       position: 10
+      tags:
+        - silent
     - word: ちゃ
       base: 茶
       position: 11
+      tags:
+        - silent
     - word: の
       position: 13
+      tags:
+        - silent
     - word: みず
       base: 水
       position: 14
+      tags:
+        - silent
     - word: って
       position: 17
 - id: A_SteinsGateS01_E13_4169
@@ -94487,6 +94983,8 @@
     - word: なえ
       base: 苗
       position: 2
+      tags:
+        - silent
     - word: が
       position: 5
     - word: 買い物
@@ -94771,6 +95269,8 @@
       position: 3
     - word: すず
       position: 5
+      tags:
+        - silent
     - word: さん
       position: 8
     - word: 誘っ
@@ -96825,6 +97325,8 @@
       position: 0
     - word: あきはばら
       position: 4
+      tags:
+        - silent
     - word: の
       position: 10
     - word: 駅
@@ -97025,8 +97527,12 @@
       position: 0
     - word: そう
       position: 3
+      tags:
+        - silent
     - word: ぶ
       position: 5
+      tags:
+        - silent
     - word: 線
       position: 7
     - word: が
@@ -97686,6 +98192,8 @@
       position: 5
     - word: あきはばら
       position: 9
+      tags:
+        - silent
     - word: から
       position: 15
     - word: 離れる
@@ -97979,6 +98487,8 @@
       position: 5
     - word: セルン
       position: 10
+      tags:
+        - silent
     - word: な
       base: だ
       dictionary: だ
@@ -99169,9 +99679,13 @@
     - word: きょう
       base: 今日
       position: 12
+      tags:
+        - silent
     - word: ま
       base: まー
       position: 15
+      tags:
+        - silent
     - word: さん
       position: 17
 - id: A_SteinsGateS01_E14_4394
@@ -104367,6 +104881,8 @@
       position: 10
     - word: セルン
       position: 15
+      tags:
+        - silent
     - word: に
       position: 19
     - word: 支配
@@ -104825,9 +105341,13 @@
       position: 22
     - word: くり
       position: 24
+      tags:
+        - silent
     - word: ごはん
       base: 御飯
       position: 26
+      tags:
+        - silent
     - word: と
       position: 30
     - word: カメハメ
@@ -104838,6 +105358,8 @@
     - word: は
       base: はあ
       position: 37
+      tags:
+        - silent
     - word: か
       position: 39
 - id: A_SteinsGateS01_E15_4601
@@ -104949,17 +105471,27 @@
       position: 6
     - word: ほう
       position: 8
+      tags:
+        - silent
     - word: おうい
       base: おおい
       position: 10
+      tags:
+        - silent
     - word: ん
       position: 13
+      tags:
+        - silent
     - word: きょう
       base: 今日
       position: 14
+      tags:
+        - silent
     - word: ま
       base: まー
       position: 17
+      tags:
+        - silent
     - word: と
       position: 19
     - word: いう
@@ -104969,6 +105501,8 @@
       position: 22
     - word: まな
       position: 25
+      tags:
+        - silent
     - word: で
       position: 28
 - id: A_SteinsGateS01_E15_4604
@@ -105295,8 +105829,12 @@
     - word: かた
       base: 方
       position: 12
+      tags:
+        - silent
     - word: き
       position: 14
+      tags:
+        - silent
     - word: に
       position: 16
 - id: A_SteinsGateS01_E15_4615
@@ -105581,6 +106119,8 @@
       position: 29
     - word: あきはばら
       position: 33
+      tags:
+        - silent
     - word: で
       position: 39
     - word: 作ら
@@ -106914,6 +107454,8 @@
       position: 8
     - word: すず
       position: 10
+      tags:
+        - silent
     - word: さん
       position: 13
     - word: も
@@ -108852,6 +109394,8 @@
     - word: おやじ
       base: 親父
       position: 8
+      tags:
+        - silent
     - word: さん
       position: 12
     - word: って
@@ -109941,11 +110485,17 @@
       position: 5
     - word: ちゅう
       position: 7
+      tags:
+        - silent
     - word: に
       position: 10
+      tags:
+        - silent
     - word: びょう
       base: 鋲
       position: 11
+      tags:
+        - silent
     - word: みたい
       position: 15
     - word: な
@@ -112787,6 +113337,8 @@
     - word: らい
       base: 癩
       position: 10
+      tags:
+        - silent
     - word: ネット
       position: 13
     - word: の
@@ -113225,6 +113777,8 @@
     - word: おやじ
       base: 親父
       position: 8
+      tags:
+        - silent
     - word: さん
       position: 12
     - word: が
@@ -113914,6 +114468,8 @@
       position: 4
     - word: すず
       position: 6
+      tags:
+        - silent
     - word: さん
       position: 9
     - word: て
@@ -117269,6 +117825,8 @@
       position: 0
     - word: あまね
       position: 4
+      tags:
+        - silent
     - word: さん
       position: 8
     - word: の
@@ -117363,6 +117921,8 @@
       position: 20
     - word: セルン
       position: 25
+      tags:
+        - silent
     - word: が
       position: 29
     - word: 持っ
@@ -117415,13 +117975,19 @@
       position: 3
     - word: や
       position: 6
+      tags:
+        - silent
     - word: な
       base: だ
       dictionary: だ
       position: 7
+      tags:
+        - silent
     - word: ばやし
       base: はやし
       position: 8
+      tags:
+        - silent
     - word: 神社
       position: 12
     - word: に
@@ -117539,10 +118105,14 @@
       position: 2
     - word: シックス
       position: 4
+      tags:
+        - silent
     - word: 桐生
       position: 10
     - word: きりゅう
       position: 13
+      tags:
+        - silent
     - word: さん
       position: 18
     - word: 漆原
@@ -118175,6 +118745,8 @@
     - word: らい
       base: 癩
       position: 4
+      tags:
+        - silent
     - word: ネット
       position: 7
     - word: ＡＢ
@@ -118244,8 +118816,12 @@
       position: 36
     - word: じょう
       position: 38
+      tags:
+        - silent
     - word: こう
       position: 41
+      tags:
+        - silent
 - id: A_SteinsGateS01_E17_5181
   deck_name: Steins Gate
   translation: It's a tournament of Rai-Netters, from across Japan.
@@ -118340,9 +118916,13 @@
     - word: きょう
       base: 今日
       position: 3
+      tags:
+        - silent
     - word: ま
       base: まー
       position: 6
+      tags:
+        - silent
 - id: A_SteinsGateS01_E17_5185
   deck_name: Steins Gate
   translation: Feyris? What's wrong?
@@ -118461,6 +119041,8 @@
     - word: なんぴと
       base: 何人
       position: 18
+      tags:
+        - silent
     - word: たり
       position: 23
     - word: と
@@ -118975,6 +119557,8 @@
       position: 9
     - word: も
       position: 11
+      tags:
+        - silent
     - word: え
       base: えー
       position: 13
@@ -120991,9 +121575,13 @@
       position: 1
     - word: るみ
       position: 4
+      tags:
+        - silent
     - word: ほ
       base: ほっ
       position: 6
+      tags:
+        - silent
 - id: A_SteinsGateS01_E17_5298
   deck_name: Steins Gate
   translation: An IBN 5100?
@@ -121153,6 +121741,8 @@
       position: 9
     - word: すず
       position: 11
+      tags:
+        - silent
     - word: さん
       position: 14
     - word: です
@@ -124925,8 +125515,12 @@
       position: 5
     - word: はし
       position: 8
+      tags:
+        - silent
     - word: だ
       position: 10
+      tags:
+        - silent
     - word: みたい
       position: 12
     - word: な
@@ -126264,9 +126858,13 @@
     - word: きょう
       base: 今日
       position: 9
+      tags:
+        - silent
     - word: ま
       base: まー
       position: 12
+      tags:
+        - silent
     - word: 誰
       position: 15
     - word: か
@@ -127112,12 +127710,18 @@
     - word: あ
       base: あっ
       position: 11
+      tags:
+        - silent
     - word: お
       base: 御
       position: 12
+      tags:
+        - silent
     - word: やま
       base: 山
       position: 13
+      tags:
+        - silent
     - word: だ
       position: 16
     - word: と
@@ -127128,10 +127732,16 @@
       position: 20
     - word: おもて
       position: 24
+      tags:
+        - silent
     - word: さん
       position: 27
+      tags:
+        - silent
     - word: どう
       position: 29
+      tags:
+        - silent
     - word: だ
       position: 32
     - word: と
@@ -127334,12 +127944,18 @@
       position: 19
     - word: ほう
       position: 21
+      tags:
+        - silent
     - word: おうい
       base: おおい
       position: 23
+      tags:
+        - silent
     - word: ん
       base: んっ
       position: 26
+      tags:
+        - silent
     - word: 凶
       position: 28
     - word: 真
@@ -128106,6 +128722,8 @@
       position: 7
     - word: おつ
       position: 9
+      tags:
+        - silent
 - id: A_SteinsGateS01_E18_5556
   deck_name: Steins Gate
   translation: Hey, wouldn't this be a better book to read?
@@ -130947,6 +131565,8 @@
     - word: さみだれ
       base: 五月雨
       position: 12
+      tags:
+        - silent
     - word: を
       position: 17
     - word: 持っ
@@ -131055,10 +131675,16 @@
       position: 20
     - word: よし
       position: 23
+      tags:
+        - silent
     - word: つ
       position: 25
+      tags:
+        - silent
     - word: ね
       position: 26
+      tags:
+        - silent
     - word: の
       position: 28
     - word: 時代
@@ -132941,13 +133567,21 @@
       position: 13
     - word: きりゅう
       position: 15
+      tags:
+        - silent
     - word: も
       position: 19
+      tags:
+        - silent
     - word: え
       base: えー
       position: 20
+      tags:
+        - silent
     - word: か
       position: 21
+      tags:
+        - silent
     - word: って
       position: 23
     - word: いう
@@ -133390,6 +134024,8 @@
     - word: ありあけ
       base: 有り明け
       position: 6
+      tags:
+        - silent
 - id: A_SteinsGateS01_E19_5763
   deck_name: Steins Gate
   translation: Too many people here... More than I expected.
@@ -133666,8 +134302,12 @@
       position: 5
     - word: ちよ
       position: 9
+      tags:
+        - silent
     - word: だ
       position: 11
+      tags:
+        - silent
     - word: 第
       position: 13
     - word: 三
@@ -139585,6 +140225,8 @@
       position: 2
     - word: フォー
       position: 4
+      tags:
+        - silent
     - word: の
       position: 8
     - word: 判断
@@ -140072,6 +140714,8 @@
       position: 12
     - word: セルン
       position: 17
+      tags:
+        - silent
     - word: が
       position: 21
     - word: ある
@@ -141468,8 +142112,12 @@
       position: 0
     - word: すず
       position: 3
+      tags:
+        - silent
     - word: は
       position: 5
+      tags:
+        - silent
     - word: は
       position: 7
     - word: 橋田
@@ -141478,16 +142126,24 @@
       position: 13
     - word: は
       position: 15
+      tags:
+        - silent
     - word: し
       base: 為る
       dictionary: する
       position: 16
+      tags:
+        - silent
     - word: だす
       base: 出す
       position: 17
+      tags:
+        - silent
     - word: ず
       dictionary: ぬ
       position: 19
+      tags:
+        - silent
     - word: さん
       position: 21
     - word: は
@@ -142434,9 +143090,13 @@
     - word: きょう
       base: 今日
       position: 6
+      tags:
+        - silent
     - word: ま
       base: まー
       position: 9
+      tags:
+        - silent
     - word: さん
       position: 11
 - id: A_SteinsGateS01_E20_6162
@@ -142734,6 +143394,8 @@
       position: 9
     - word: あまね
       position: 13
+      tags:
+        - silent
     - word: 氏
       position: 17
     - word: が
@@ -144214,11 +144876,17 @@
     - word: いちご
       base: 苺
       position: 5
+      tags:
+        - silent
     - word: うふ
       base: うふふ
       position: 8
+      tags:
+        - silent
     - word: たまる
       position: 10
+      tags:
+        - silent
     - word: に
       position: 14
     - word: ここ
@@ -145773,17 +146441,27 @@
       position: 38
     - word: ほう
       position: 40
+      tags:
+        - silent
     - word: おうい
       base: おおい
       position: 42
+      tags:
+        - silent
     - word: ん
       position: 45
+      tags:
+        - silent
     - word: きょう
       base: 今日
       position: 46
+      tags:
+        - silent
     - word: ま
       base: まー
       position: 49
+      tags:
+        - silent
     - word: が
       position: 51
     - word: コミマ
@@ -147099,8 +147777,12 @@
     - word: なか
       base: 中
       position: 11
+      tags:
+        - silent
     - word: ばち
       position: 13
+      tags:
+        - silent
     - word: 博士
       position: 16
     - word: の
@@ -147302,6 +147984,8 @@
       position: 0
     - word: セルン
       position: 5
+      tags:
+        - silent
     - word: に
       position: 9
     - word: 捉え
@@ -147737,8 +148421,12 @@
     - word: げん
       base: 弦
       position: 3
+      tags:
+        - silent
     - word: ぶ
       position: 5
+      tags:
+        - silent
     - word: と
       position: 7
     - word: 朱雀
@@ -147746,6 +148434,8 @@
     - word: すざく
       base: 朱雀
       position: 11
+      tags:
+        - silent
     - word: と
       position: 15
     - word: 青龍
@@ -147763,11 +148453,17 @@
     - word: び
       base: びっ
       position: 30
+      tags:
+        - silent
     - word: ゃ
       base: ヤ
       position: 31
+      tags:
+        - silent
     - word: っこ
       position: 32
+      tags:
+        - silent
     - word: だ
       position: 35
 - id: A_SteinsGateS01_E21_6381
@@ -148990,6 +149686,8 @@
       position: 3
     - word: すず
       position: 5
+      tags:
+        - silent
     - word: さん
       position: 8
 - id: A_SteinsGateS01_E21_6418
@@ -150401,8 +151099,12 @@
       position: 0
     - word: はし
       position: 3
+      tags:
+        - silent
     - word: だ
       position: 5
+      tags:
+        - silent
     - word: が
       position: 7
     - word: コミマ
@@ -155676,17 +156378,27 @@
       position: 22
     - word: ほう
       position: 24
+      tags:
+        - silent
     - word: おうい
       base: おおい
       position: 26
+      tags:
+        - silent
     - word: ん
       position: 29
+      tags:
+        - silent
     - word: きょう
       base: 今日
       position: 30
+      tags:
+        - silent
     - word: ま
       base: まー
       position: 33
+      tags:
+        - silent
     - word: は
       position: 35
     - word: 機関
@@ -155700,6 +156412,8 @@
       position: 43
     - word: セルン
       position: 48
+      tags:
+        - silent
     - word: の
       position: 52
     - word: あらゆる
@@ -155771,6 +156485,8 @@
     - word: こんとん
       base: 混沌
       position: 3
+      tags:
+        - silent
     - word: の
       position: 8
     - word: 未来
@@ -156503,9 +157219,13 @@
       position: 23
     - word: くり
       position: 25
+      tags:
+        - silent
     - word: す
       base: 為る
       position: 27
+      tags:
+        - silent
     - word: を
       position: 29
     - word: 犠牲
@@ -156748,10 +157468,14 @@
       position: 0
     - word: まき
       position: 3
+      tags:
+        - silent
     - word: せ
       base: 為る
       dictionary: す
       position: 5
+      tags:
+        - silent
     - word: 紅
       position: 7
     - word: 莉
@@ -163668,11 +164392,17 @@
       position: 6
     - word: ちゅう
       position: 8
+      tags:
+        - silent
     - word: に
       position: 11
+      tags:
+        - silent
     - word: びょう
       base: 鋲
       position: 12
+      tags:
+        - silent
     - word: 全開
       position: 16
     - word: じゃ
@@ -163769,17 +164499,27 @@
       position: 21
     - word: ほう
       position: 23
+      tags:
+        - silent
     - word: おうい
       base: おおい
       position: 25
+      tags:
+        - silent
     - word: ん
       position: 28
+      tags:
+        - silent
     - word: きょう
       base: 今日
       position: 29
+      tags:
+        - silent
     - word: ま
       base: まー
       position: 32
+      tags:
+        - silent
 - id: A_SteinsGateS01_E23_6970
   deck_name: Steins Gate
   translation: Deceiving the world is nothing to me!
@@ -164042,11 +164782,17 @@
       position: 15
     - word: まき
       position: 17
+      tags:
+        - silent
     - word: せく
       position: 19
+      tags:
+        - silent
     - word: りす
       base: 栗鼠
       position: 21
+      tags:
+        - silent
     - word: と
       position: 24
     - word: それ
@@ -164497,17 +165243,27 @@
       position: 9
     - word: ほう
       position: 11
+      tags:
+        - silent
     - word: おうい
       base: おおい
       position: 13
+      tags:
+        - silent
     - word: ん
       position: 16
+      tags:
+        - silent
     - word: きょう
       base: 今日
       position: 17
+      tags:
+        - silent
     - word: ま
       base: まー
       position: 20
+      tags:
+        - silent
     - word: 狂気
       position: 23
     - word: の
@@ -166734,8 +167490,12 @@
     - word: なか
       base: 中
       position: 15
+      tags:
+        - silent
     - word: ばち
       position: 17
+      tags:
+        - silent
     - word: 博士
       position: 20
     - word: の
@@ -166908,6 +167668,8 @@
     - word: こんとん
       base: 混沌
       position: 3
+      tags:
+        - silent
     - word: を
       position: 8
     - word: 望み

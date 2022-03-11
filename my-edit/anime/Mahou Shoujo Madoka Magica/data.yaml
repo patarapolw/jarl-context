@@ -9973,6 +9973,8 @@
       position: 16
     - word: プラス
       position: 18
+      tags:
+        - silent
     - word: 過去
       position: 22
     - word: 分詞
@@ -39571,6 +39573,8 @@
     - word: ほ
       base: ほっ
       position: 2
+      tags:
+        - silent
     - word: れ
       base: れる
       dictionary: れる
@@ -83486,6 +83490,8 @@
     - word: ほ
       base: ほっ
       position: 2
+      tags:
+        - silent
     - word: れ
       base: れる
       dictionary: れる

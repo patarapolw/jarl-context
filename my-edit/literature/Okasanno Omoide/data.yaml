@@ -599,26 +599,46 @@
     - word: これ
       base: 此れ
       position: 1
+      tags:
+        - silent
     - word: は
       position: 3
+      tags:
+        - silent
     - word: お
       base: 御
       position: 4
+      tags:
+        - silent
     - word: 母さん
       position: 5
+      tags:
+        - silent
     - word: の
       position: 8
+      tags:
+        - silent
     - word: いつも
       position: 9
+      tags:
+        - silent
     - word: の
       position: 12
+      tags:
+        - silent
     - word: 癖
       position: 13
+      tags:
+        - silent
     - word: だつ
       base: 立つ
       position: 14
+      tags:
+        - silent
     - word: た
       position: 16
+      tags:
+        - silent
 - id: Okasanno Omoide-f000026
   author_japanese: 土田 耕平
   deck_name: Okasanno Omoide

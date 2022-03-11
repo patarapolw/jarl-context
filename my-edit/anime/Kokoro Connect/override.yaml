@@ -1,0 +1,1486 @@
+- id: A_KokoroConnect_E01_0007
+  deck_name: Kokoro Connect
+  translation: Sorry, Iori.
+  sound: A_KokoroConnect_E01_1_0.00.52.545-0.00.55.881.mp3
+  sentence: ごめんね　伊織(いおり)　お母さん　また寝坊しちゃって
+  words:
+    - word: ごめん
+      base: 御免
+      position: 0
+    - word: ね
+      position: 3
+    - word: 伊織
+      position: 5
+    - word: いおり
+      base: 庵
+      position: 8
+      tags:
+        - silent
+    - word: お
+      base: 御
+      position: 13
+    - word: 母さん
+      position: 14
+    - word: また
+      base: 又
+      position: 18
+    - word: 寝坊
+      position: 20
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 22
+    - word: ちゃっ
+      base: ちゃう
+      dictionary: ちゃう
+      position: 23
+    - word: て
+      position: 26
+- id: A_KokoroConnect_E02_0483
+  deck_name: Kokoro Connect
+  translation: Oh, so this is what Aoki sees.
+  sound: A_KokoroConnect_E02_1_0.17.46.240-0.17.51.240.mp3
+  sentence: ああ　これが　青木の視点なわけか　高(たけ)えな
+  words:
+    - word: ああ
+      position: 0
+    - word: これ
+      base: 此れ
+      position: 3
+    - word: が
+      position: 5
+    - word: 青木
+      position: 7
+    - word: の
+      position: 9
+    - word: 視点
+      position: 10
+    - word: な
+      base: だ
+      dictionary: だ
+      position: 12
+    - word: わけ
+      base: 訳
+      position: 13
+    - word: か
+      position: 15
+    - word: 高
+      position: 17
+    - word: たけ
+      position: 19
+      tags:
+        - silent
+    - word: えな
+      position: 22
+- id: A_KokoroConnect_E03_0668
+  deck_name: Kokoro Connect
+  translation: I mean, I didn't notice anything  when I was Kiriyama...
+  sound: A_KokoroConnect_E03_1_0.10.45.800-0.10.50.263.mp3
+  sentence: つうか　桐山(きりやま)になっても　気づかない俺って　はぁ…
+  words:
+    - word: つう
+      position: 0
+    - word: か
+      position: 2
+    - word: 桐山
+      position: 4
+    - word: きり
+      base: 切る
+      dictionary: きる
+      position: 7
+      tags:
+        - silent
+    - word: やま
+      base: 山
+      position: 9
+      tags:
+        - silent
+    - word: に
+      position: 12
+    - word: なっ
+      base: 成る
+      dictionary: なる
+      position: 13
+    - word: て
+      position: 15
+    - word: も
+      position: 16
+    - word: 気づか
+      base: 気付く
+      dictionary: 気づく
+      position: 18
+    - word: ない
+      position: 21
+    - word: 俺
+      position: 23
+    - word: って
+      position: 24
+    - word: はぁ
+      base: はあ
+      position: 27
+- id: A_KokoroConnect_E01_0016
+  deck_name: Kokoro Connect
+  translation: You'll never get a boyfriend like that.
+  sound: A_KokoroConnect_E01_1_0.01.42.178-0.01.43.888.mp3
+  sentence: うう…　怖(こえ)ぇ〜
+  words:
+    - word: うう
+      position: 0
+    - word: 怖
+      base: 怖い
+      dictionary: 怖い
+      position: 4
+    - word: こえ
+      base: 声
+      position: 6
+      tags:
+        - silent
+    - word: ぇ
+      position: 9
+- id: A_KokoroConnect_E01_0020
+  deck_name: Kokoro Connect
+  translation: Oh. Morning!
+  sound: A_KokoroConnect_E01_1_0.01.54.899-0.01.58.694.mp3
+  sentence: あっ　おはよう　稲葉(いなば)ん！
+  words:
+    - word: あっ
+      position: 0
+    - word: おはよう
+      base: 御早う
+      position: 3
+    - word: 稲葉
+      position: 8
+    - word: いなば
+      position: 11
+      tags:
+        - silent
+    - word: ん
+      position: 15
+- id: A_KokoroConnect_E01_0023
+  deck_name: Kokoro Connect
+  translation: We just ran into each other. Oh? Yui and Aoki, morning!
+  sound: A_KokoroConnect_E01_1_0.02.06.077-0.02.08.871.mp3
+  sentence: おっ　唯と青木(あおき)も　おはよう
+  words:
+    - word: おっ
+      position: 0
+    - word: 唯
+      position: 3
+    - word: と
+      position: 4
+    - word: 青木
+      position: 5
+    - word: あおき
+      base: 青木
+      position: 8
+      tags:
+        - silent
+    - word: も
+      position: 12
+    - word: おはよう
+      base: 御早う
+      position: 14
+- id: A_KokoroConnect_E01_0028
+  deck_name: Kokoro Connect
+  translation: >-
+    At Yamaboshi Academy, the private school we attend,  every student is
+    required to join a club.
+  sound: A_KokoroConnect_E01_1_0.04.11.785-0.04.17.625.mp3
+  sentence: 俺たちが通う　私立山星(やまぼし)高校では—　生徒は必ず部活に　参加しなければならない
+  words:
+    - word: 俺
+      position: 0
+    - word: たち
+      base: 達
+      position: 1
+    - word: が
+      position: 3
+    - word: 通う
+      position: 4
+    - word: 私立
+      position: 7
+    - word: 山星
+      position: 9
+    - word: やま
+      base: 山
+      position: 12
+      tags:
+        - silent
+    - word: ぼし
+      base: 星
+      position: 14
+      tags:
+        - silent
+    - word: 高校
+      position: 17
+    - word: で
+      position: 19
+    - word: は
+      position: 20
+    - word: 生徒
+      position: 23
+    - word: は
+      position: 25
+    - word: 必ず
+      position: 26
+    - word: 部活
+      position: 28
+    - word: に
+      position: 30
+    - word: 参加
+      position: 32
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 34
+    - word: なけれ
+      base: ない
+      dictionary: ない
+      position: 35
+    - word: ば
+      position: 38
+    - word: なら
+      base: 成る
+      dictionary: なる
+      position: 39
+    - word: ない
+      position: 41
+- id: A_KokoroConnect_E01_0033
+  deck_name: Kokoro Connect
+  translation: and applied to join the Fancy Club,  which had already closed down.
+  sound: A_KokoroConnect_E01_1_0.04.39.396-0.04.42.775.mp3
+  sentence: 入部を希望した　桐山(きりやま)唯であったり
+  words:
+    - word: 入部
+      position: 0
+    - word: を
+      position: 2
+    - word: 希望
+      position: 3
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 5
+    - word: た
+      position: 6
+    - word: 桐山
+      position: 8
+    - word: きり
+      base: 切る
+      dictionary: きる
+      position: 11
+      tags:
+        - silent
+    - word: やま
+      base: 山
+      position: 13
+      tags:
+        - silent
+    - word: 唯
+      position: 16
+    - word: で
+      base: だ
+      dictionary: だ
+      position: 17
+    - word: あっ
+      base: 有る
+      dictionary: ある
+      position: 18
+    - word: たり
+      position: 20
+- id: A_KokoroConnect_E01_0035
+  deck_name: Kokoro Connect
+  translation: >-
+    For example, take Nagase Iori, who figured that choosing  one club out of so
+    many would be too hard, and that the new and exciting option  would be to
+    leave the decision to chance, so she let her homeroom  teacher pick for her.
+  sound: A_KokoroConnect_E01_1_0.04.51.992-0.05.07.466.mp3
+  sentence: >-
+    例えば　それは　これだけ　いろんな部活があると—　選ぶのも面倒だし　逆に運を天に任せたほうが—　新鮮な驚きと感動に　出会えるのではないかという理由で　部活を担任に一任した　永瀬(ながせ)伊織であったり
+  words:
+    - word: 例えば
+      position: 0
+    - word: それ
+      base: 其れ
+      position: 4
+    - word: は
+      position: 6
+    - word: これ
+      base: 此れ
+      position: 8
+    - word: だけ
+      position: 10
+    - word: いろんな
+      base: 色んな
+      position: 13
+    - word: 部活
+      position: 17
+    - word: が
+      position: 19
+    - word: ある
+      base: 有る
+      position: 20
+    - word: と
+      position: 22
+    - word: 選ぶ
+      position: 25
+    - word: の
+      position: 27
+    - word: も
+      position: 28
+    - word: 面倒
+      position: 29
+    - word: だ
+      position: 31
+    - word: し
+      position: 32
+    - word: 逆
+      position: 34
+    - word: に
+      base: だ
+      dictionary: だ
+      position: 35
+    - word: 運
+      position: 36
+    - word: を
+      position: 37
+    - word: 天
+      position: 38
+    - word: に
+      position: 39
+    - word: 任せ
+      base: 任せる
+      dictionary: 任せる
+      position: 40
+    - word: た
+      position: 42
+    - word: ほう
+      base: 方
+      position: 43
+    - word: が
+      position: 45
+    - word: 新鮮
+      position: 48
+    - word: な
+      base: だ
+      dictionary: だ
+      position: 50
+    - word: 驚き
+      position: 51
+    - word: と
+      position: 53
+    - word: 感動
+      position: 54
+    - word: に
+      position: 56
+    - word: 出
+      base: 出る
+      dictionary: 出る
+      position: 58
+    - word: 会える
+      base: 会う
+      position: 59
+    - word: の
+      position: 62
+    - word: で
+      base: だ
+      dictionary: だ
+      position: 63
+    - word: は
+      position: 64
+    - word: ない
+      base: 無い
+      position: 65
+    - word: か
+      position: 67
+    - word: と
+      position: 68
+    - word: いう
+      base: 言う
+      position: 69
+    - word: 理由
+      position: 71
+    - word: で
+      position: 73
+    - word: 部活
+      position: 75
+    - word: を
+      position: 77
+    - word: 担任
+      position: 78
+    - word: に
+      position: 80
+    - word: 一任
+      position: 81
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 83
+    - word: た
+      position: 84
+    - word: 永瀬
+      position: 86
+    - word: ながせ
+      position: 89
+      tags:
+        - silent
+    - word: 伊織
+      position: 93
+    - word: で
+      base: だ
+      dictionary: だ
+      position: 95
+    - word: あっ
+      base: 有る
+      dictionary: ある
+      position: 96
+    - word: たり
+      position: 98
+- id: A_KokoroConnect_E01_0082
+  deck_name: Kokoro Connect
+  translation: 3:55 PM
+  sound: A_KokoroConnect_E01_1_0.07.54.716-0.07.57.553.mp3
+  sentence: 15時55分　八重樫(やえがし)太一
+  words:
+    - word: '15'
+      position: 0
+    - word: 時
+      position: 2
+    - word: '55'
+      position: 3
+    - word: 分
+      position: 5
+    - word: 八重樫
+      position: 7
+    - word: やえ
+      base: 八重
+      position: 11
+      tags:
+        - silent
+    - word: が
+      position: 13
+      tags:
+        - silent
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 14
+      tags:
+        - silent
+    - word: 太一
+      position: 16
+- id: A_KokoroConnect_E01_0153
+  deck_name: Kokoro Connect
+  translation: L-Let's calm down, Fujishima. We can talk this through.
+  sound: A_KokoroConnect_E01_1_0.13.25.460-0.13.30.420.mp3
+  sentence: い…　いったん　落ち着こう　藤島(ふじしま)　話し合えば分かり合えるはずだ
+  words:
+    - word: い
+      position: 0
+    - word: いったん
+      base: 一旦
+      position: 3
+    - word: 落ち
+      base: 落ちる
+      dictionary: 落ちる
+      position: 8
+    - word: 着こう
+      base: 着く
+      dictionary: 着く
+      position: 10
+    - word: 藤島
+      position: 14
+    - word: ふじ
+      position: 17
+      tags:
+        - silent
+    - word: しま
+      position: 19
+      tags:
+        - silent
+    - word: 話し
+      base: 話す
+      dictionary: 話す
+      position: 23
+    - word: 合え
+      base: 合う
+      dictionary: 合う
+      position: 25
+    - word: ば
+      position: 27
+    - word: 分かり
+      base: 分かる
+      dictionary: 分かる
+      position: 28
+    - word: 合える
+      base: 合う
+      position: 31
+    - word: はず
+      base: 筈
+      position: 34
+    - word: だ
+      position: 36
+- id: A_KokoroConnect_E01_0226
+  deck_name: Kokoro Connect
+  translation: to get revenge for making fun of her?
+  sound: A_KokoroConnect_E01_1_0.18.16.540-0.18.20.170.mp3
+  sentence: さっき　小バカにされた復讐(ふくしゅう)も　進行させようとしているのか
+  words:
+    - word: さっき
+      position: 0
+    - word: 小
+      position: 4
+    - word: バカ
+      base: ばか
+      position: 5
+    - word: に
+      base: だ
+      dictionary: だ
+      position: 7
+    - word: さ
+      base: 為る
+      dictionary: する
+      position: 8
+    - word: れ
+      base: れる
+      dictionary: れる
+      position: 9
+    - word: た
+      position: 10
+    - word: 復讐
+      position: 11
+    - word: ふくしゅう
+      base: 復習
+      position: 14
+      tags:
+        - silent
+    - word: も
+      position: 20
+    - word: 進行
+      position: 22
+    - word: さ
+      base: 為る
+      dictionary: する
+      position: 24
+    - word: せよう
+      base: せる
+      dictionary: せる
+      position: 25
+    - word: と
+      position: 28
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 29
+    - word: て
+      position: 30
+    - word: いる
+      base: 居る
+      position: 31
+    - word: の
+      position: 33
+    - word: か
+      position: 34
+- id: A_KokoroConnect_E01_0251
+  deck_name: Kokoro Connect
+  translation: No point in making our families worry.
+  sound: A_KokoroConnect_E01_1_0.20.03.520-0.20.06.650.mp3
+  sentence: 家(うち)の人に今　言って　心配かけても何だし
+  words:
+    - word: 家
+      position: 0
+    - word: うち
+      base: 内
+      position: 2
+      tags:
+        - silent
+    - word: の
+      position: 5
+    - word: 人
+      position: 6
+    - word: に
+      position: 7
+    - word: 今
+      position: 8
+    - word: 言っ
+      base: 言う
+      dictionary: 言う
+      position: 10
+    - word: て
+      position: 12
+    - word: 心配
+      position: 14
+    - word: かけ
+      base: 掛ける
+      dictionary: かける
+      position: 16
+    - word: て
+      position: 18
+    - word: も
+      position: 19
+    - word: 何
+      position: 20
+    - word: だ
+      position: 21
+    - word: し
+      position: 22
+- id: A_KokoroConnect_E02_0274
+  deck_name: Kokoro Connect
+  translation: Nagase...
+  sound: A_KokoroConnect_E02_1_0.00.03.180-0.00.06.310.mp3
+  sentence: あっ　永瀬(ながせ)　あっ
+  words:
+    - word: あっ
+      position: 0
+    - word: 永瀬
+      position: 3
+    - word: ながせ
+      position: 6
+      tags:
+        - silent
+    - word: あっ
+      position: 11
+- id: A_KokoroConnect_E02_0280
+  deck_name: Kokoro Connect
+  translation: Maybe? Yes! I'm Kiriyama Yui!
+  sound: A_KokoroConnect_E02_1_0.00.30.370-0.00.32.250.mp3
+  sentence: そうよ　私は桐山(きりやま)唯よ
+  words:
+    - word: そう
+      position: 0
+    - word: よ
+      position: 2
+    - word: 私
+      position: 4
+    - word: は
+      position: 5
+    - word: 桐山
+      position: 6
+    - word: きり
+      base: 切る
+      dictionary: きる
+      position: 9
+      tags:
+        - silent
+    - word: やま
+      base: 山
+      position: 11
+      tags:
+        - silent
+    - word: 唯
+      position: 14
+    - word: よ
+      position: 15
+- id: A_KokoroConnect_E02_0281
+  deck_name: Kokoro Connect
+  translation: I'm Aoki Yoshifumi!
+  sound: A_KokoroConnect_E02_1_0.00.33.920-0.00.35.250.mp3
+  sentence: 私は稲葉(いなば)姫子だ
+  words:
+    - word: 私
+      position: 0
+    - word: は
+      position: 1
+    - word: 稲葉
+      position: 2
+    - word: いなば
+      position: 5
+      tags:
+        - silent
+    - word: 姫子
+      position: 9
+    - word: だ
+      position: 11
+- id: A_KokoroConnect_E02_0298
+  deck_name: Kokoro Connect
+  translation: >-
+    Oh, I'm gonna keep on eating since I'm having soba. Can't let the noodles
+    get soggy.
+  sound: A_KokoroConnect_E02_1_0.03.15.660-0.03.20.710.mp3
+  sentence: あっ　俺　飯食うぞ　蕎麦(そば)だからな　蕎麦　伸びるもん
+  words:
+    - word: あっ
+      position: 0
+    - word: 俺
+      position: 3
+    - word: 飯
+      position: 5
+    - word: 食う
+      position: 6
+    - word: ぞ
+      position: 8
+    - word: 蕎麦
+      position: 10
+    - word: そば
+      position: 13
+      tags:
+        - silent
+    - word: だ
+      position: 16
+    - word: から
+      position: 17
+    - word: な
+      position: 19
+    - word: 蕎麦
+      position: 21
+    - word: 伸びる
+      position: 24
+    - word: もん
+      position: 27
+- id: A_KokoroConnect_E02_0313
+  deck_name: Kokoro Connect
+  translation: >-
+    That's what happened. Is that the same answer Aoki and  Kiriyama will give
+    Ms. Hirata? Of course.
+  sound: A_KokoroConnect_E02_1_0.04.23.230-0.04.29.950.mp3
+  sentence: それって　今　平田(ひらた)先生に呼ばれてる—　青木と桐山に聞いても　同じ答え　返ってくる？　もちろん
+  words:
+    - word: それ
+      base: 其れ
+      position: 0
+    - word: って
+      position: 2
+    - word: 今
+      position: 5
+    - word: 平田
+      position: 7
+    - word: ひらた
+      position: 10
+      tags:
+        - silent
+    - word: 先生
+      position: 14
+    - word: に
+      position: 16
+    - word: 呼ば
+      base: 呼ぶ
+      dictionary: 呼ぶ
+      position: 17
+    - word: れ
+      base: れる
+      dictionary: れる
+      position: 19
+    - word: てる
+      position: 20
+    - word: 青木
+      position: 24
+    - word: と
+      position: 26
+    - word: 桐山
+      position: 27
+    - word: に
+      position: 29
+    - word: 聞い
+      base: 聞く
+      dictionary: 聞く
+      position: 30
+    - word: て
+      position: 32
+    - word: も
+      position: 33
+    - word: 同じ
+      position: 35
+    - word: 答え
+      position: 37
+    - word: 返っ
+      base: 返る
+      dictionary: 返る
+      position: 40
+    - word: て
+      position: 42
+    - word: くる
+      base: 来る
+      position: 43
+    - word: もちろん
+      base: 勿論
+      position: 47
+- id: A_KokoroConnect_E02_0317
+  deck_name: Kokoro Connect
+  translation: and still come across all haughty like that.
+  sound: A_KokoroConnect_E02_1_0.04.43.460-0.04.46.250.mp3
+  sentence: あそこまで傲岸不遜(ごうがんふそん)な態度を　取れるんだからな
+  words:
+    - word: あそこ
+      base: 彼処
+      position: 0
+    - word: まで
+      position: 3
+    - word: 傲岸
+      position: 5
+    - word: 不遜
+      position: 7
+    - word: ごうがん
+      base: 傲岸
+      position: 10
+      tags:
+        - silent
+    - word: ふそん
+      base: 不遜
+      position: 14
+      tags:
+        - silent
+    - word: な
+      base: だ
+      dictionary: だ
+      position: 18
+    - word: 態度
+      position: 19
+    - word: を
+      position: 21
+    - word: 取れる
+      base: 取る
+      position: 23
+    - word: ん
+      base: の
+      position: 26
+    - word: だ
+      position: 27
+    - word: から
+      position: 28
+    - word: な
+      position: 30
+- id: A_KokoroConnect_E02_0335
+  deck_name: Kokoro Connect
+  translation: Yaegashi...
+  sound: A_KokoroConnect_E02_1_0.06.06.710-0.06.08.340.mp3
+  sentence: 八重樫(やえがし)　うん？
+  words:
+    - word: 八重樫
+      position: 0
+    - word: やえ
+      base: 八重
+      position: 4
+      tags:
+        - silent
+    - word: が
+      position: 6
+      tags:
+        - silent
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 7
+      tags:
+        - silent
+    - word: うん
+      position: 10
+- id: A_KokoroConnect_E02_0342
+  deck_name: Kokoro Connect
+  translation: >-
+    What's wrong, Nagase? What happened between you and Fujishima-san while we
+    were switched?!
+  sound: A_KokoroConnect_E02_1_0.06.39.620-0.06.44.250.mp3
+  sentence: 昨日　私と入れ代わってたとき　藤島(ふじしま)さんと何があった？
+  words:
+    - word: 昨日
+      position: 0
+    - word: 私
+      position: 3
+    - word: と
+      position: 4
+    - word: 入れ
+      base: 入れる
+      dictionary: 入れる
+      position: 5
+    - word: 代わっ
+      base: 変わる
+      dictionary: 代わる
+      position: 7
+    - word: て
+      base: てる
+      dictionary: てる
+      position: 10
+    - word: た
+      position: 11
+    - word: とき
+      base: 時
+      position: 12
+    - word: 藤島
+      position: 15
+    - word: ふじ
+      position: 18
+      tags:
+        - silent
+    - word: しま
+      position: 20
+      tags:
+        - silent
+    - word: さん
+      position: 23
+    - word: と
+      position: 25
+    - word: 何
+      position: 26
+    - word: が
+      position: 27
+    - word: あっ
+      base: 有る
+      dictionary: ある
+      position: 28
+    - word: た
+      position: 30
+- id: A_KokoroConnect_E03_0541
+  deck_name: Kokoro Connect
+  translation: What was that all about, Inaba?
+  sound: A_KokoroConnect_E03_1_0.00.02.783-0.00.09.790.mp3
+  sentence: 何なんだよ　稲葉(いなば)　さっきのは？　伊織(いおり)は俺の女だ　あいつには近づかないでもらおう
+  words:
+    - word: 何
+      position: 0
+    - word: な
+      base: だ
+      dictionary: だ
+      position: 1
+    - word: ん
+      base: の
+      position: 2
+    - word: だ
+      position: 3
+    - word: よ
+      position: 4
+    - word: 稲葉
+      position: 6
+    - word: いなば
+      position: 9
+      tags:
+        - silent
+    - word: さっき
+      position: 14
+    - word: の
+      position: 17
+    - word: は
+      position: 18
+    - word: 伊織
+      position: 21
+    - word: いおり
+      base: 庵
+      position: 24
+      tags:
+        - silent
+    - word: は
+      position: 28
+    - word: 俺
+      position: 29
+    - word: の
+      position: 30
+    - word: 女
+      position: 31
+    - word: だ
+      position: 32
+    - word: あいつ
+      base: 彼奴
+      position: 34
+    - word: に
+      position: 37
+    - word: は
+      position: 38
+    - word: 近づか
+      base: 近付く
+      dictionary: 近づく
+      position: 39
+    - word: ない
+      position: 42
+    - word: で
+      position: 44
+    - word: もらおう
+      base: 貰う
+      dictionary: もらう
+      position: 45
+- id: A_KokoroConnect_E03_0543
+  deck_name: Kokoro Connect
+  translation: I made it clear that you  and Fujishima are rivals.
+  sound: A_KokoroConnect_E03_1_0.00.12.918-0.00.16.588.mp3
+  sentence: 藤島(ふじしま)との間に　明確な対立構造を作って—
+  words:
+    - word: 藤島
+      position: 0
+    - word: ふじ
+      position: 3
+      tags:
+        - silent
+    - word: しま
+      position: 5
+      tags:
+        - silent
+    - word: と
+      position: 8
+    - word: の
+      position: 9
+    - word: 間
+      position: 10
+    - word: に
+      position: 11
+    - word: 明確
+      position: 13
+    - word: な
+      base: だ
+      dictionary: だ
+      position: 15
+    - word: 対立
+      position: 16
+    - word: 構造
+      position: 18
+    - word: を
+      position: 20
+    - word: 作っ
+      base: 作る
+      dictionary: 作る
+      position: 21
+    - word: て
+      position: 23
+- id: A_KokoroConnect_E03_0550
+  deck_name: Kokoro Connect
+  translation: I-I'm in love with Nagase?
+  sound: A_KokoroConnect_E03_1_0.02.12.371-0.02.15.374.mp3
+  sentence: お…　俺が永瀬(ながせ)を好き？
+  words:
+    - word: お
+      base: おっ
+      position: 0
+    - word: 俺
+      position: 3
+    - word: が
+      position: 4
+    - word: 永瀬
+      position: 5
+    - word: ながせ
+      position: 8
+      tags:
+        - silent
+    - word: を
+      position: 12
+    - word: 好き
+      position: 13
+- id: A_KokoroConnect_E03_0612
+  deck_name: Kokoro Connect
+  translation: >-
+    because I don't want to  admit how I truly feel, but deep down... Deep down,
+    I truly love you, Aoki.
+  sound: A_KokoroConnect_E03_1_0.06.22.913-0.06.28.168.mp3
+  sentence: ホントは…　ホントは　青木(あおき)のこと　好きだから
+  words:
+    - word: ホント
+      base: 本当
+      position: 0
+    - word: は
+      position: 3
+    - word: ホント
+      base: 本当
+      position: 6
+    - word: は
+      position: 9
+    - word: 青木
+      position: 11
+    - word: あおき
+      base: 青木
+      position: 14
+      tags:
+        - silent
+    - word: の
+      position: 18
+    - word: こと
+      position: 19
+    - word: 好き
+      position: 22
+    - word: だ
+      position: 24
+    - word: から
+      position: 25
+- id: A_KokoroConnect_E03_0623
+  deck_name: Kokoro Connect
+  translation: the sharp, manly Inaba-chan  confess like a girl!
+  sound: A_KokoroConnect_E03_1_0.07.01.493-0.07.04.704.mp3
+  sentence: 女の子　女の子した　告白をするところが萌(も)えた
+  words:
+    - word: 女の子
+      position: 0
+    - word: 女の子
+      position: 4
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 7
+    - word: た
+      position: 8
+    - word: 告白
+      position: 10
+    - word: を
+      position: 12
+    - word: する
+      base: 為る
+      position: 13
+    - word: ところ
+      base: 所
+      position: 15
+    - word: が
+      position: 18
+    - word: 萌
+      position: 19
+    - word: も
+      position: 21
+      tags:
+        - silent
+    - word: え
+      base: 得る
+      dictionary: える
+      position: 23
+    - word: た
+      position: 24
+- id: A_KokoroConnect_E03_0650
+  deck_name: Kokoro Connect
+  translation: Every time I'm Yui, I start to shake whenever  there's a man around.
+  sound: A_KokoroConnect_E03_1_0.09.09.079-0.09.18.213.mp3
+  sentence: 俺が唯になってるとき　男が近くにくると—　体がビクンってなるんだけど　(足音)
+  words:
+    - word: 俺
+      position: 0
+    - word: が
+      position: 1
+    - word: 唯
+      position: 2
+    - word: に
+      position: 3
+    - word: なっ
+      base: 成る
+      dictionary: なる
+      position: 4
+    - word: てる
+      position: 6
+    - word: とき
+      base: 時
+      position: 8
+    - word: 男
+      position: 11
+    - word: が
+      position: 12
+    - word: 近く
+      position: 13
+    - word: に
+      position: 15
+    - word: くる
+      base: 来る
+      position: 16
+    - word: と
+      position: 18
+    - word: 体
+      position: 21
+    - word: が
+      position: 22
+    - word: ビクン
+      base: びくん
+      position: 23
+    - word: って
+      position: 26
+    - word: なる
+      base: 成る
+      position: 28
+    - word: ん
+      base: の
+      position: 30
+    - word: だ
+      position: 31
+    - word: けど
+      base: けれど
+      position: 32
+    - word: 足音
+      position: 36
+      tags:
+        - silent
+- id: A_KokoroConnect_E03_0674
+  deck_name: Kokoro Connect
+  translation: We're talking about the girl I love.
+  sound: A_KokoroConnect_E03_1_0.11.15.789-0.11.17.832.mp3
+  sentence: 惚(ほ)れた女のことだぜ
+  words:
+    - word: 惚
+      base: 惚け
+      position: 0
+    - word: ほ
+      base: ほっ
+      position: 2
+      tags:
+        - silent
+    - word: れ
+      base: れる
+      dictionary: れる
+      position: 4
+    - word: た
+      position: 5
+    - word: 女
+      position: 6
+    - word: の
+      position: 7
+    - word: こと
+      position: 8
+    - word: だ
+      position: 10
+    - word: ぜ
+      position: 11
+- id: A_KokoroConnect_E03_0777
+  deck_name: Kokoro Connect
+  translation: Yaegashi-kun...
+  sound: A_KokoroConnect_E03_1_0.19.30.780-0.19.32.320.mp3
+  sentence: 八重樫(やえがし)君　あっ
+  words:
+    - word: 八重樫
+      position: 0
+    - word: やえ
+      base: 八重
+      position: 4
+      tags:
+        - silent
+    - word: が
+      position: 6
+      tags:
+        - silent
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 7
+      tags:
+        - silent
+    - word: 君
+      position: 9
+    - word: あっ
+      position: 11
+- id: A_KokoroConnect_E04_0823
+  deck_name: Kokoro Connect
+  translation: If we don't walk you home, Kiriyama will give us  a hard kick tomorrow.
+  sound: A_KokoroConnect_E04_1_0.02.11.540-0.02.14.420.mp3
+  sentence: あした　桐山(きりやま)に蹴りを　食らわせられるからな
+  words:
+    - word: あした
+      base: 明日
+      position: 0
+    - word: 桐山
+      position: 4
+    - word: きり
+      base: 切る
+      dictionary: きる
+      position: 7
+      tags:
+        - silent
+    - word: やま
+      base: 山
+      position: 9
+      tags:
+        - silent
+    - word: に
+      position: 12
+    - word: 蹴り
+      position: 13
+    - word: を
+      position: 15
+    - word: 食らわせ
+      base: 食らわす
+      dictionary: 食らわせる
+      position: 17
+    - word: られる
+      position: 21
+    - word: から
+      position: 24
+    - word: な
+      position: 26
+- id: A_KokoroConnect_E04_0824
+  deck_name: Kokoro Connect
+  translation: Yup, since Yui and Aoki  wanted to tag along.
+  sound: A_KokoroConnect_E04_1_0.02.14.550-0.02.18.180.mp3
+  sentence: だよね　唯も青木(あおき)も　ついてきたがってたんだから
+  words:
+    - word: だ
+      position: 0
+    - word: よ
+      position: 1
+    - word: ね
+      position: 2
+    - word: 唯
+      position: 4
+    - word: も
+      position: 5
+    - word: 青木
+      position: 6
+    - word: あおき
+      base: 青木
+      position: 9
+      tags:
+        - silent
+    - word: も
+      position: 13
+    - word: つい
+      base: つく
+      dictionary: つく
+      position: 15
+    - word: て
+      position: 17
+    - word: き
+      base: 来る
+      dictionary: くる
+      position: 18
+    - word: たがっ
+      base: たがる
+      dictionary: たがる
+      position: 19
+    - word: て
+      base: てる
+      dictionary: てる
+      position: 22
+    - word: た
+      position: 23
+    - word: ん
+      base: の
+      position: 24
+    - word: だ
+      position: 25
+    - word: から
+      position: 26
+- id: A_KokoroConnect_E04_0840
+  deck_name: Kokoro Connect
+  translation: That's none of your business. Help me out here, Nagase.
+  sound: A_KokoroConnect_E04_1_0.03.17.860-0.03.23.070.mp3
+  sentence: ほっとけ　永瀬(ながせ)も何か言ってやってくれ　あっ　どうした？　あっ
+  words:
+    - word: ほっ
+      base: ほる
+      dictionary: ほる
+      position: 0
+    - word: とけ
+      base: とく
+      dictionary: とく
+      position: 2
+    - word: 永瀬
+      position: 5
+    - word: ながせ
+      position: 8
+      tags:
+        - silent
+    - word: も
+      position: 12
+    - word: 何
+      position: 13
+    - word: か
+      position: 14
+    - word: 言っ
+      base: 言う
+      dictionary: 言う
+      position: 15
+    - word: て
+      position: 17
+    - word: やっ
+      base: 遣る
+      dictionary: やる
+      position: 18
+    - word: て
+      position: 20
+    - word: くれ
+      base: 呉れる
+      dictionary: くれる
+      position: 21
+    - word: あっ
+      position: 24
+    - word: どう
+      position: 27
+    - word: し
+      base: 為る
+      dictionary: する
+      position: 29
+    - word: た
+      position: 30
+    - word: あっ
+      position: 33
+- id: A_KokoroConnect_E04_0854
+  deck_name: Kokoro Connect
+  translation: Plus, I have a feeling that Yui's  starting to fall for Taichi.
+  sound: A_KokoroConnect_E04_1_0.04.23.760-0.04.29.270.mp3
+  sentence: でも　あれだな　唯のヤツも　多分　太一に惚(ほ)れかけてるな　えええっ？
+  words:
+    - word: で
+      position: 0
+    - word: も
+      position: 1
+    - word: あれ
+      base: 彼れ
+      position: 3
+    - word: だ
+      position: 5
+    - word: な
+      position: 6
+    - word: 唯
+      position: 8
+    - word: の
+      position: 9
+    - word: ヤツ
+      base: 奴
+      position: 10
+    - word: も
+      position: 12
+    - word: 多分
+      position: 14
+    - word: 太一
+      position: 17
+    - word: に
+      position: 19
+    - word: 惚
+      base: 惚け
+      position: 20
+    - word: ほ
+      base: ほっ
+      position: 22
+      tags:
+        - silent
+    - word: れ
+      base: れる
+      dictionary: れる
+      position: 24
+    - word: かけ
+      base: 掛ける
+      dictionary: かける
+      position: 25
+    - word: てる
+      position: 27
+    - word: な
+      position: 29
+    - word: ええ
+      position: 31
+    - word: えっ
+      position: 33
+- id: A_KokoroConnect_E04_0961
+  deck_name: Kokoro Connect
+  translation: Not exactly...
+  sound: A_KokoroConnect_E04_1_0.12.31.410-0.12.35.960.mp3
+  sentence: そんなことないけど　何か　その言い方　卑怯(ひきょう)じゃね？
+  words:
+    - word: そんな
+      position: 0
+    - word: こと
+      position: 3
+    - word: ない
+      base: 無い
+      position: 5
+    - word: けど
+      base: けれど
+      position: 7
+    - word: 何
+      position: 10
+    - word: か
+      position: 11
+    - word: その
+      base: 其の
+      position: 13
+    - word: 言い
+      base: 言う
+      dictionary: 言う
+      position: 15
+    - word: 方
+      position: 17
+    - word: 卑怯
+      position: 19
+    - word: ひきょう
+      base: 卑怯
+      position: 22
+      tags:
+        - silent
+    - word: じゃ
+      base: で
+      position: 27
+    - word: ね
+      position: 29
