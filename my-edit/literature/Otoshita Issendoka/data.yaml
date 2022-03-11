@@ -9,16 +9,16 @@
   words:
     - word: 落とし
       base: 落とす
-      postiion: 0
+      position: 0
     - word: た
-      postiion: 3
+      position: 3
     - word: 一
       base: '1'
-      postiion: 4
+      position: 4
     - word: 銭
-      postiion: 5
+      position: 5
     - word: 銅貨
-      postiion: 6
+      position: 6
 - id: Otoshita Issendoka-f000003
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -29,26 +29,26 @@
   sentence: 雀が一銭銅貨をひろいました。
   words:
     - word: 雀
-      postiion: 0
+      position: 0
     - word: が
-      postiion: 1
+      position: 1
     - word: 一
       base: '1'
-      postiion: 2
+      position: 2
     - word: 銭
-      postiion: 3
+      position: 3
     - word: 銅貨
-      postiion: 4
+      position: 4
     - word: を
-      postiion: 6
+      position: 6
     - word: ひろい
       base: 拾う
-      postiion: 7
+      position: 7
     - word: まし
       base: ます
-      postiion: 10
+      position: 10
     - word: た
-      postiion: 12
+      position: 12
 - id: Otoshita Issendoka-f000004
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -59,28 +59,28 @@
   sentence: 雀はうれしくてうれしくてたまりません。
   words:
     - word: 雀
-      postiion: 0
+      position: 0
     - word: は
-      postiion: 1
+      position: 1
     - word: うれしく
       base: 嬉しい
-      postiion: 2
+      position: 2
     - word: て
-      postiion: 6
+      position: 6
     - word: うれしく
       base: 嬉しい
-      postiion: 7
+      position: 7
     - word: て
-      postiion: 11
+      position: 11
     - word: たまり
       base: たまる
-      postiion: 12
+      position: 12
     - word: ませ
       base: ます
-      postiion: 15
+      position: 15
     - word: ん
       base: ず
-      postiion: 17
+      position: 17
 - id: Otoshita Issendoka-f000005
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -92,18 +92,18 @@
   words:
     - word: ほか
       base: 他
-      postiion: 0
+      position: 0
     - word: の
-      postiion: 2
+      position: 2
     - word: 雀
-      postiion: 3
+      position: 3
     - word: を
-      postiion: 4
+      position: 4
     - word: みる
       base: 見る
-      postiion: 5
+      position: 5
     - word: と
-      postiion: 7
+      position: 7
 - id: Otoshita Issendoka-f000006
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -115,21 +115,21 @@
   words:
     - word: ぼく
       base: 僕
-      postiion: 1
+      position: 1
     - word: お
       base: 御
-      postiion: 3
+      position: 3
     - word: かね
-      postiion: 4
+      position: 4
     - word: を
-      postiion: 6
+      position: 6
     - word: もっ
       base: 持つ
-      postiion: 7
+      position: 7
     - word: てる
-      postiion: 9
+      position: 9
     - word: よ
-      postiion: 11
+      position: 11
 - id: Otoshita Issendoka-f000007
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -140,12 +140,12 @@
   sentence: といって、
   words:
     - word: と
-      postiion: 0
+      position: 0
     - word: いっ
       base: 言う
-      postiion: 1
+      position: 1
     - word: て
-      postiion: 3
+      position: 3
 - id: Otoshita Issendoka-f000008
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -157,49 +157,49 @@
   words:
     - word: くわえ
       base: くわえる
-      postiion: 0
+      position: 0
     - word: て
-      postiion: 3
+      position: 3
     - word: い
       base: 居る
-      postiion: 4
+      position: 4
     - word: た
-      postiion: 5
+      position: 5
     - word: 一
       base: '1'
-      postiion: 6
+      position: 6
     - word: 銭
-      postiion: 7
+      position: 7
     - word: 銅貨
-      postiion: 8
+      position: 8
     - word: を
-      postiion: 10
+      position: 10
     - word: 砂
-      postiion: 11
+      position: 11
     - word: の
-      postiion: 12
+      position: 12
     - word: 上
-      postiion: 13
+      position: 13
     - word: に
-      postiion: 14
+      position: 14
     - word: おい
       base: おく
-      postiion: 15
+      position: 15
     - word: て
-      postiion: 17
+      position: 17
     - word: みせ
       base: 見せる
-      postiion: 18
+      position: 18
     - word: て
-      postiion: 20
+      position: 20
     - word: やり
       base: 遣る
-      postiion: 21
+      position: 21
     - word: まし
       base: ます
-      postiion: 23
+      position: 23
     - word: た
-      postiion: 25
+      position: 25
 - id: Otoshita Issendoka-f000009
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -211,7 +211,7 @@
   words:
     - word: さて
       base: 扠
-      postiion: 0
+      position: 0
 - id: Otoshita Issendoka-f000010
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -223,17 +223,17 @@
   words:
     - word: 日ぐれ
       base: 日暮れ
-      postiion: 0
+      position: 0
     - word: に
-      postiion: 3
+      position: 3
     - word: なり
       base: 成る
-      postiion: 4
+      position: 4
     - word: まし
       base: ます
-      postiion: 6
+      position: 6
     - word: た
-      postiion: 8
+      position: 8
 - id: Otoshita Issendoka-f000011
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -245,23 +245,23 @@
   words:
     - word: すこし
       base: 少し
-      postiion: 0
+      position: 0
     - word: くらく
       base: 暗い
-      postiion: 3
+      position: 3
     - word: なっ
       base: 成る
-      postiion: 6
+      position: 6
     - word: て
-      postiion: 8
+      position: 8
     - word: き
       base: 来る
-      postiion: 9
+      position: 9
     - word: まし
       base: ます
-      postiion: 10
+      position: 10
     - word: た
-      postiion: 12
+      position: 12
 - id: Otoshita Issendoka-f000012
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -272,7 +272,7 @@
   sentence: 「や、
   words:
     - word: や
-      postiion: 1
+      position: 1
 - id: Otoshita Issendoka-f000013
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -284,15 +284,15 @@
   words:
     - word: 遊び
       base: 遊ぶ
-      postiion: 0
+      position: 0
     - word: すぎ
       base: 過ぎる
-      postiion: 2
+      position: 2
     - word: ちゃっ
       base: ちゃう
-      postiion: 4
+      position: 4
     - word: た
-      postiion: 7
+      position: 7
 - id: Otoshita Issendoka-f000014
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -304,14 +304,14 @@
   words:
     - word: これ
       base: 此れ
-      postiion: 0
+      position: 0
     - word: は
-      postiion: 2
+      position: 2
     - word: たいへん
       base: 大変
-      postiion: 3
+      position: 3
     - word: だ
-      postiion: 7
+      position: 7
 - id: Otoshita Issendoka-f000015
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -322,11 +322,11 @@
   sentence: と雀は、
   words:
     - word: と
-      postiion: 0
+      position: 0
     - word: 雀
-      postiion: 1
+      position: 1
     - word: は
-      postiion: 2
+      position: 2
 - id: Otoshita Issendoka-f000016
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -338,18 +338,18 @@
   words:
     - word: 一
       base: '1'
-      postiion: 0
+      position: 0
     - word: 銭
-      postiion: 1
+      position: 1
     - word: 銅貨
-      postiion: 2
+      position: 2
     - word: を
-      postiion: 4
+      position: 4
     - word: くわえ
       base: くわえる
-      postiion: 5
+      position: 5
     - word: て
-      postiion: 8
+      position: 8
 - id: Otoshita Issendoka-f000017
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -361,32 +361,32 @@
   words:
     - word: おおいそぎ
       base: 大急ぎ
-      postiion: 0
+      position: 0
     - word: で
-      postiion: 5
+      position: 5
     - word: 水車
-      postiion: 6
+      position: 6
     - word: 小屋
-      postiion: 8
+      position: 8
     - word: の
-      postiion: 10
+      position: 10
     - word: 方
-      postiion: 11
+      position: 11
     - word: へ
-      postiion: 12
+      position: 12
     - word: とん
       base: 飛ぶ
-      postiion: 13
+      position: 13
     - word: で
-      postiion: 15
+      position: 15
     - word: いき
       base: 行く
-      postiion: 16
+      position: 16
     - word: まし
       base: ます
-      postiion: 18
+      position: 18
     - word: た
-      postiion: 20
+      position: 20
 - id: Otoshita Issendoka-f000018
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -398,45 +398,45 @@
   words:
     - word: この
       base: 此の
-      postiion: 0
+      position: 0
     - word: 雀
-      postiion: 2
+      position: 2
     - word: は
-      postiion: 3
+      position: 3
     - word: 水車
-      postiion: 4
+      position: 4
     - word: 小屋
-      postiion: 6
+      position: 6
     - word: の
-      postiion: 8
+      position: 8
     - word: のきば
       base: 軒端
-      postiion: 9
+      position: 9
     - word: に
-      postiion: 12
+      position: 12
     - word: すん
       base: すむ
-      postiion: 13
+      position: 13
     - word: で
-      postiion: 15
+      position: 15
     - word: い
       base: 居る
-      postiion: 16
+      position: 16
     - word: た
-      postiion: 17
+      position: 17
     - word: の
-      postiion: 18
+      position: 18
     - word: で
       base: だ
-      postiion: 19
+      position: 19
     - word: あり
       base: 有る
-      postiion: 20
+      position: 20
     - word: まし
       base: ます
-      postiion: 22
+      position: 22
     - word: た
-      postiion: 24
+      position: 24
 - id: Otoshita Issendoka-f000019
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -448,21 +448,21 @@
   words:
     - word: まだ
       base: 未だ
-      postiion: 0
+      position: 0
     - word: 水車
-      postiion: 2
+      position: 2
     - word: 小屋
-      postiion: 4
+      position: 4
     - word: に
-      postiion: 6
+      position: 6
     - word: つか
       base: 付く
-      postiion: 7
+      position: 7
     - word: ない
-      postiion: 9
+      position: 9
     - word: まえ
       base: 前
-      postiion: 11
+      position: 11
 - id: Otoshita Issendoka-f000020
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -473,26 +473,26 @@
   sentence: はたけの上をとんでいたとき、
   words:
     - word: はたけ
-      postiion: 0
+      position: 0
     - word: の
-      postiion: 3
+      position: 3
     - word: 上
-      postiion: 4
+      position: 4
     - word: を
-      postiion: 5
+      position: 5
     - word: とん
       base: 飛ぶ
-      postiion: 6
+      position: 6
     - word: で
-      postiion: 8
+      position: 8
     - word: い
       base: 居る
-      postiion: 9
+      position: 9
     - word: た
-      postiion: 10
+      position: 10
     - word: とき
       base: 時
-      postiion: 11
+      position: 11
 - id: Otoshita Issendoka-f000021
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -504,17 +504,17 @@
   words:
     - word: あまり
       base: 余り
-      postiion: 0
+      position: 0
     - word: あわて
       base: 慌てる
-      postiion: 3
+      position: 3
     - word: た
-      postiion: 6
+      position: 6
     - word: の
-      postiion: 7
+      position: 7
     - word: で
       base: だ
-      postiion: 8
+      position: 8
 - id: Otoshita Issendoka-f000022
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -525,26 +525,26 @@
   sentence: 雀は銅貨を落としてしまいました。
   words:
     - word: 雀
-      postiion: 0
+      position: 0
     - word: は
-      postiion: 1
+      position: 1
     - word: 銅貨
-      postiion: 2
+      position: 2
     - word: を
-      postiion: 4
+      position: 4
     - word: 落とし
       base: 落とす
-      postiion: 5
+      position: 5
     - word: て
-      postiion: 8
+      position: 8
     - word: しまい
       base: 仕舞う
-      postiion: 9
+      position: 9
     - word: まし
       base: ます
-      postiion: 12
+      position: 12
     - word: た
-      postiion: 14
+      position: 14
 - id: Otoshita Issendoka-f000023
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -555,7 +555,7 @@
   sentence: 「や、
   words:
     - word: や
-      postiion: 1
+      position: 1
 - id: Otoshita Issendoka-f000024
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -567,14 +567,14 @@
   words:
     - word: これ
       base: 此れ
-      postiion: 0
+      position: 0
     - word: は
-      postiion: 2
+      position: 2
     - word: しまっ
       base: 仕舞う
-      postiion: 3
+      position: 3
     - word: た
-      postiion: 6
+      position: 6
 - id: Otoshita Issendoka-f000025
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -585,19 +585,19 @@
   sentence: けれどあたりはもう暗くて、
   words:
     - word: けれど
-      postiion: 0
+      position: 0
     - word: あたり
       base: 辺り
-      postiion: 3
+      position: 3
     - word: は
-      postiion: 6
+      position: 6
     - word: もう
-      postiion: 7
+      position: 7
     - word: 暗く
       base: 暗い
-      postiion: 9
+      position: 9
     - word: て
-      postiion: 11
+      position: 11
 - id: Otoshita Issendoka-f000026
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -608,44 +608,44 @@
   sentence: 雀の目はよくみることができなくなっていたので、
   words:
     - word: 雀
-      postiion: 0
+      position: 0
     - word: の
-      postiion: 1
+      position: 1
     - word: 目
-      postiion: 2
+      position: 2
     - word: は
-      postiion: 3
+      position: 3
     - word: よく
       base: 良く
-      postiion: 4
+      position: 4
     - word: みる
       base: 見る
-      postiion: 6
+      position: 6
     - word: こと
-      postiion: 8
+      position: 8
     - word: が
-      postiion: 10
+      position: 10
     - word: でき
       base: 出来る
-      postiion: 11
+      position: 11
     - word: なく
       base: ない
-      postiion: 13
+      position: 13
     - word: なっ
       base: 成る
-      postiion: 15
+      position: 15
     - word: て
-      postiion: 17
+      position: 17
     - word: い
       base: 居る
-      postiion: 18
+      position: 18
     - word: た
-      postiion: 19
+      position: 19
     - word: の
-      postiion: 20
+      position: 20
     - word: で
       base: だ
-      postiion: 21
+      position: 21
 - id: Otoshita Issendoka-f000027
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -657,19 +657,19 @@
   words:
     - word: あした
       base: 明日
-      postiion: 1
+      position: 1
     - word: の
-      postiion: 4
+      position: 4
     - word: 朝
-      postiion: 5
+      position: 5
     - word: さがし
       base: 探し
-      postiion: 6
+      position: 6
     - word: に
-      postiion: 9
+      position: 9
     - word: こよう
       base: 来る
-      postiion: 10
+      position: 10
 - id: Otoshita Issendoka-f000028
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -680,12 +680,12 @@
   sentence: といって、
   words:
     - word: と
-      postiion: 0
+      position: 0
     - word: いっ
       base: 言う
-      postiion: 1
+      position: 1
     - word: て
-      postiion: 3
+      position: 3
 - id: Otoshita Issendoka-f000029
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -697,28 +697,28 @@
   words:
     - word: その
       base: 其の
-      postiion: 0
+      position: 0
     - word: まま
       base: 侭
-      postiion: 2
+      position: 2
     - word: 水車
-      postiion: 4
+      position: 4
     - word: 小屋
-      postiion: 6
+      position: 6
     - word: の
-      postiion: 8
+      position: 8
     - word: 巣
-      postiion: 9
+      position: 9
     - word: に
-      postiion: 10
+      position: 10
     - word: かえり
       base: かえる
-      postiion: 11
+      position: 11
     - word: まし
       base: ます
-      postiion: 14
+      position: 14
     - word: た
-      postiion: 16
+      position: 16
 - id: Otoshita Issendoka-f000030
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -730,24 +730,24 @@
   words:
     - word: その
       base: 其の
-      postiion: 0
+      position: 0
     - word: 夜
-      postiion: 2
+      position: 2
     - word: は
-      postiion: 3
+      position: 3
     - word: たいへん
       base: 大変
-      postiion: 4
+      position: 4
     - word: 寒かっ
       base: 寒い
-      postiion: 8
+      position: 8
     - word: た
-      postiion: 11
+      position: 11
     - word: の
-      postiion: 12
+      position: 12
     - word: で
       base: だ
-      postiion: 13
+      position: 13
 - id: Otoshita Issendoka-f000031
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -758,26 +758,26 @@
   sentence: 雀はかぜをひいてしまいました。
   words:
     - word: 雀
-      postiion: 0
+      position: 0
     - word: は
-      postiion: 1
+      position: 1
     - word: かぜ
-      postiion: 2
+      position: 2
     - word: を
-      postiion: 4
+      position: 4
     - word: ひい
       base: ひく
-      postiion: 5
+      position: 5
     - word: て
-      postiion: 7
+      position: 7
     - word: しまい
       base: 仕舞う
-      postiion: 8
+      position: 8
     - word: まし
       base: ます
-      postiion: 11
+      position: 11
     - word: た
-      postiion: 13
+      position: 13
 - id: Otoshita Issendoka-f000032
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -789,15 +789,15 @@
   words:
     - word: それ
       base: 其れ
-      postiion: 0
+      position: 0
     - word: も
-      postiion: 2
+      position: 2
     - word: その
       base: 其の
-      postiion: 3
+      position: 3
     - word: はず
       base: 筈
-      postiion: 5
+      position: 5
 - id: Otoshita Issendoka-f000033
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -808,29 +808,29 @@
   sentence: 雪がどっさりふったのでありました。
   words:
     - word: 雪
-      postiion: 0
+      position: 0
     - word: が
-      postiion: 1
+      position: 1
     - word: どっさり
-      postiion: 2
+      position: 2
     - word: ふっ
       base: ふる
-      postiion: 6
+      position: 6
     - word: た
-      postiion: 8
+      position: 8
     - word: の
-      postiion: 9
+      position: 9
     - word: で
       base: だ
-      postiion: 10
+      position: 10
     - word: あり
       base: 有る
-      postiion: 11
+      position: 11
     - word: まし
       base: ます
-      postiion: 13
+      position: 13
     - word: た
-      postiion: 15
+      position: 15
 - id: Otoshita Issendoka-f000034
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -841,26 +841,26 @@
   sentence: 雀はかぜがなかなかなおらないので、
   words:
     - word: 雀
-      postiion: 0
+      position: 0
     - word: は
-      postiion: 1
+      position: 1
     - word: かぜ
-      postiion: 2
+      position: 2
     - word: が
-      postiion: 4
+      position: 4
     - word: なかなか
       base: 中々
-      postiion: 5
+      position: 5
     - word: なおら
       base: 直る
-      postiion: 9
+      position: 9
     - word: ない
-      postiion: 12
+      position: 12
     - word: の
-      postiion: 14
+      position: 14
     - word: で
       base: だ
-      postiion: 15
+      position: 15
 - id: Otoshita Issendoka-f000035
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -872,20 +872,20 @@
   words:
     - word: まいにち
       base: 毎日
-      postiion: 0
+      position: 0
     - word: 藁
-      postiion: 4
+      position: 4
     - word: の
-      postiion: 5
+      position: 5
     - word: 中
-      postiion: 6
+      position: 6
     - word: に
-      postiion: 7
+      position: 7
     - word: くるまっ
       base: 包まる
-      postiion: 8
+      position: 8
     - word: て
-      postiion: 12
+      position: 12
 - id: Otoshita Issendoka-f000036
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -897,35 +897,35 @@
   words:
     - word: 落とし
       base: 落とす
-      postiion: 0
+      position: 0
     - word: た
-      postiion: 3
+      position: 3
     - word: 一
       base: '1'
-      postiion: 4
+      position: 4
     - word: 銭
-      postiion: 5
+      position: 5
     - word: 銅貨
-      postiion: 6
+      position: 6
     - word: の
-      postiion: 8
+      position: 8
     - word: こと
-      postiion: 9
+      position: 9
     - word: を
-      postiion: 11
+      position: 11
     - word: 思っ
       base: 思う
-      postiion: 12
+      position: 12
     - word: て
-      postiion: 14
+      position: 14
     - word: い
       base: 居る
-      postiion: 15
+      position: 15
     - word: まし
       base: ます
-      postiion: 16
+      position: 16
     - word: た
-      postiion: 18
+      position: 18
 - id: Otoshita Issendoka-f000037
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -937,22 +937,22 @@
   words:
     - word: やがて
       base: 軈て
-      postiion: 0
+      position: 0
     - word: 雀
-      postiion: 3
+      position: 3
     - word: は
-      postiion: 4
+      position: 4
     - word: よく
       base: 良い
-      postiion: 5
+      position: 5
     - word: なり
       base: 成る
-      postiion: 7
+      position: 7
     - word: まし
       base: ます
-      postiion: 9
+      position: 9
     - word: た
-      postiion: 11
+      position: 11
 - id: Otoshita Issendoka-f000038
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -964,31 +964,31 @@
   words:
     - word: そこ
       base: 其処
-      postiion: 0
+      position: 0
     - word: で
-      postiion: 2
+      position: 2
     - word: 一
       base: '1'
-      postiion: 3
+      position: 3
     - word: 銭
-      postiion: 4
+      position: 4
     - word: 銅貨
-      postiion: 5
+      position: 5
     - word: を
-      postiion: 7
+      position: 7
     - word: さがし
       base: 探す
-      postiion: 8
+      position: 8
     - word: に
-      postiion: 11
+      position: 11
     - word: いき
       base: 行く
-      postiion: 12
+      position: 12
     - word: まし
       base: ます
-      postiion: 14
+      position: 14
     - word: た
-      postiion: 16
+      position: 16
 - id: Otoshita Issendoka-f000039
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1000,32 +1000,32 @@
   words:
     - word: まだ
       base: 未だ
-      postiion: 0
+      position: 0
     - word: 雪
-      postiion: 2
+      position: 2
     - word: は
-      postiion: 3
+      position: 3
     - word: はたけ
-      postiion: 4
+      position: 4
     - word: の
-      postiion: 7
+      position: 7
     - word: 上
-      postiion: 8
+      position: 8
     - word: に
-      postiion: 9
+      position: 9
     - word: つもっ
       base: 積もる
-      postiion: 10
+      position: 10
     - word: て
-      postiion: 13
+      position: 13
     - word: い
       base: 居る
-      postiion: 14
+      position: 14
     - word: まし
       base: ます
-      postiion: 15
+      position: 15
     - word: た
-      postiion: 17
+      position: 17
 - id: Otoshita Issendoka-f000040
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1037,9 +1037,9 @@
   words:
     - word: わたし
       base: 私
-      postiion: 1
+      position: 1
     - word: の
-      postiion: 4
+      position: 4
 - id: Otoshita Issendoka-f000041
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1051,16 +1051,16 @@
   words:
     - word: わたし
       base: 私
-      postiion: 0
+      position: 0
     - word: の
-      postiion: 3
+      position: 3
     - word: 一
       base: '1'
-      postiion: 4
+      position: 4
     - word: 銭
-      postiion: 5
+      position: 5
     - word: 銅貨
-      postiion: 6
+      position: 6
 - id: Otoshita Issendoka-f000042
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1072,20 +1072,20 @@
   words:
     - word: この
       base: 此の
-      postiion: 0
+      position: 0
     - word: 下
-      postiion: 2
+      position: 2
     - word: に
-      postiion: 3
+      position: 3
     - word: いる
       base: 居る
-      postiion: 4
+      position: 4
     - word: の
-      postiion: 6
+      position: 6
     - word: か
-      postiion: 7
+      position: 7
     - word: い
-      postiion: 8
+      position: 8
 - id: Otoshita Issendoka-f000043
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1096,7 +1096,7 @@
   sentence: と、
   words:
     - word: と
-      postiion: 0
+      position: 0
 - id: Otoshita Issendoka-f000044
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1107,25 +1107,25 @@
   sentence: 雀は雪の上からききました。
   words:
     - word: 雀
-      postiion: 0
+      position: 0
     - word: は
-      postiion: 1
+      position: 1
     - word: 雪
-      postiion: 2
+      position: 2
     - word: の
-      postiion: 3
+      position: 3
     - word: 上
-      postiion: 4
+      position: 4
     - word: から
-      postiion: 5
+      position: 5
     - word: きき
       base: きく
-      postiion: 7
+      position: 7
     - word: まし
       base: ます
-      postiion: 9
+      position: 9
     - word: た
-      postiion: 11
+      position: 11
 - id: Otoshita Issendoka-f000045
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1137,13 +1137,13 @@
   words:
     - word: する
       base: 為る
-      postiion: 0
+      position: 0
     - word: と
-      postiion: 2
+      position: 2
     - word: 雪の下
-      postiion: 3
+      position: 3
     - word: から
-      postiion: 6
+      position: 6
 - id: Otoshita Issendoka-f000046
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1154,9 +1154,9 @@
   sentence: 「いえいえ、
   words:
     - word: いえ
-      postiion: 1
+      position: 1
     - word: いえ
-      postiion: 3
+      position: 3
 - id: Otoshita Issendoka-f000047
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1168,20 +1168,20 @@
   words:
     - word: ここ
       base: 此処
-      postiion: 0
+      position: 0
     - word: に
-      postiion: 2
+      position: 2
     - word: は
-      postiion: 3
+      position: 3
     - word: あり
       base: 有る
-      postiion: 4
+      position: 4
     - word: ませ
       base: ます
-      postiion: 6
+      position: 6
     - word: ん
       base: ず
-      postiion: 8
+      position: 8
 - id: Otoshita Issendoka-f000048
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1192,22 +1192,22 @@
   sentence: とだれかがこたえました。
   words:
     - word: と
-      postiion: 0
+      position: 0
     - word: だれ
       base: 誰
-      postiion: 1
+      position: 1
     - word: か
-      postiion: 3
+      position: 3
     - word: が
-      postiion: 4
+      position: 4
     - word: こたえ
       base: こたえる
-      postiion: 5
+      position: 5
     - word: まし
       base: ます
-      postiion: 8
+      position: 8
     - word: た
-      postiion: 10
+      position: 10
 - id: Otoshita Issendoka-f000049
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1218,27 +1218,27 @@
   sentence: 雀はまたべつのところへいって、
   words:
     - word: 雀
-      postiion: 0
+      position: 0
     - word: は
-      postiion: 1
+      position: 1
     - word: また
       base: 又
-      postiion: 2
+      position: 2
     - word: べつ
       base: 別
-      postiion: 4
+      position: 4
     - word: の
-      postiion: 6
+      position: 6
     - word: ところ
       base: 所
-      postiion: 7
+      position: 7
     - word: へ
-      postiion: 10
+      position: 10
     - word: いっ
       base: 行く
-      postiion: 11
+      position: 11
     - word: て
-      postiion: 13
+      position: 13
 - id: Otoshita Issendoka-f000050
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1250,9 +1250,9 @@
   words:
     - word: わたし
       base: 私
-      postiion: 1
+      position: 1
     - word: の
-      postiion: 4
+      position: 4
 - id: Otoshita Issendoka-f000051
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1264,16 +1264,16 @@
   words:
     - word: わたし
       base: 私
-      postiion: 0
+      position: 0
     - word: の
-      postiion: 3
+      position: 3
     - word: 一
       base: '1'
-      postiion: 4
+      position: 4
     - word: 銭
-      postiion: 5
+      position: 5
     - word: 銅貨
-      postiion: 6
+      position: 6
 - id: Otoshita Issendoka-f000052
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1285,20 +1285,20 @@
   words:
     - word: この
       base: 此の
-      postiion: 0
+      position: 0
     - word: 下
-      postiion: 2
+      position: 2
     - word: に
-      postiion: 3
+      position: 3
     - word: いる
       base: 居る
-      postiion: 4
+      position: 4
     - word: の
-      postiion: 6
+      position: 6
     - word: か
-      postiion: 7
+      position: 7
     - word: い
-      postiion: 8
+      position: 8
 - id: Otoshita Issendoka-f000053
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1309,15 +1309,15 @@
   sentence: とききました。
   words:
     - word: と
-      postiion: 0
+      position: 0
     - word: きき
       base: きく
-      postiion: 1
+      position: 1
     - word: まし
       base: ます
-      postiion: 3
+      position: 3
     - word: た
-      postiion: 5
+      position: 5
 - id: Otoshita Issendoka-f000054
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1329,16 +1329,16 @@
   words:
     - word: する
       base: 為る
-      postiion: 0
+      position: 0
     - word: と
-      postiion: 2
+      position: 2
     - word: また
       base: 又
-      postiion: 3
+      position: 3
     - word: 雪の下
-      postiion: 5
+      position: 5
     - word: から
-      postiion: 8
+      position: 8
 - id: Otoshita Issendoka-f000055
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1349,9 +1349,9 @@
   sentence: 「いえいえ、
   words:
     - word: いえ
-      postiion: 1
+      position: 1
     - word: いえ
-      postiion: 3
+      position: 3
 - id: Otoshita Issendoka-f000056
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1363,20 +1363,20 @@
   words:
     - word: ここ
       base: 此処
-      postiion: 0
+      position: 0
     - word: に
-      postiion: 2
+      position: 2
     - word: は
-      postiion: 3
+      position: 3
     - word: あり
       base: 有る
-      postiion: 4
+      position: 4
     - word: ませ
       base: ます
-      postiion: 6
+      position: 6
     - word: ん
       base: ず
-      postiion: 8
+      position: 8
 - id: Otoshita Issendoka-f000057
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1387,15 +1387,15 @@
   sentence: とこたえました。
   words:
     - word: と
-      postiion: 0
+      position: 0
     - word: こたえ
       base: こたえる
-      postiion: 1
+      position: 1
     - word: まし
       base: ます
-      postiion: 4
+      position: 4
     - word: た
-      postiion: 6
+      position: 6
 - id: Otoshita Issendoka-f000058
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1406,27 +1406,27 @@
   sentence: 雀はあちらこちらとたずねてあるきました。
   words:
     - word: 雀
-      postiion: 0
+      position: 0
     - word: は
-      postiion: 1
+      position: 1
     - word: あちらこちら
       base: 彼方此方
-      postiion: 2
+      position: 2
     - word: と
-      postiion: 8
+      position: 8
     - word: たずね
       base: たずねる
-      postiion: 9
+      position: 9
     - word: て
-      postiion: 12
+      position: 12
     - word: あるき
       base: 歩く
-      postiion: 13
+      position: 13
     - word: まし
       base: ます
-      postiion: 16
+      position: 16
     - word: た
-      postiion: 18
+      position: 18
 - id: Otoshita Issendoka-f000059
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1438,12 +1438,12 @@
   words:
     - word: する
       base: 為る
-      postiion: 0
+      position: 0
     - word: と
-      postiion: 2
+      position: 2
     - word: とうとう
       base: 到頭
-      postiion: 3
+      position: 3
 - id: Otoshita Issendoka-f000060
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1454,9 +1454,9 @@
   sentence: 「はいはい、
   words:
     - word: はい
-      postiion: 1
+      position: 1
     - word: はい
-      postiion: 3
+      position: 3
 - id: Otoshita Issendoka-f000061
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1468,16 +1468,16 @@
   words:
     - word: ここ
       base: 此処
-      postiion: 0
+      position: 0
     - word: に
-      postiion: 2
+      position: 2
     - word: あり
       base: 有る
-      postiion: 3
+      position: 3
     - word: ます
-      postiion: 5
+      position: 5
     - word: よ
-      postiion: 7
+      position: 7
 - id: Otoshita Issendoka-f000062
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1488,24 +1488,24 @@
   sentence: 雪がとけたらおいでなさい。」
   words:
     - word: 雪
-      postiion: 0
+      position: 0
     - word: が
-      postiion: 1
+      position: 1
     - word: とけ
       base: とく
-      postiion: 2
+      position: 2
     - word: たら
       base: た
-      postiion: 4
+      position: 4
     - word: お
       base: 御
-      postiion: 6
+      position: 6
     - word: いで
       base: 出る
-      postiion: 7
+      position: 7
     - word: なさい
       base: 為す
-      postiion: 9
+      position: 9
 - id: Otoshita Issendoka-f000063
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1516,15 +1516,15 @@
   sentence: とこたえました。
   words:
     - word: と
-      postiion: 0
+      position: 0
     - word: こたえ
       base: こたえる
-      postiion: 1
+      position: 1
     - word: まし
       base: ます
-      postiion: 4
+      position: 4
     - word: た
-      postiion: 6
+      position: 6
 - id: Otoshita Issendoka-f000064
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1535,42 +1535,42 @@
   sentence: 雀は雪のとけた日にまたはたけにやっていきました。
   words:
     - word: 雀
-      postiion: 0
+      position: 0
     - word: は
-      postiion: 1
+      position: 1
     - word: 雪
-      postiion: 2
+      position: 2
     - word: の
-      postiion: 3
+      position: 3
     - word: とけ
       base: とく
-      postiion: 4
+      position: 4
     - word: た
-      postiion: 6
+      position: 6
     - word: 日
-      postiion: 7
+      position: 7
     - word: に
-      postiion: 8
+      position: 8
     - word: また
       base: 又
-      postiion: 9
+      position: 9
     - word: はたけ
-      postiion: 11
+      position: 11
     - word: に
-      postiion: 14
+      position: 14
     - word: やっ
       base: 遣る
-      postiion: 15
+      position: 15
     - word: て
-      postiion: 17
+      position: 17
     - word: いき
       base: 行く
-      postiion: 18
+      position: 18
     - word: まし
       base: ます
-      postiion: 20
+      position: 20
     - word: た
-      postiion: 22
+      position: 22
 - id: Otoshita Issendoka-f000065
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1581,19 +1581,19 @@
   sentence: 銅貨はちゃんとありました。
   words:
     - word: 銅貨
-      postiion: 0
+      position: 0
     - word: は
-      postiion: 2
+      position: 2
     - word: ちゃんと
-      postiion: 3
+      position: 3
     - word: あり
       base: 有る
-      postiion: 7
+      position: 7
     - word: まし
       base: ます
-      postiion: 9
+      position: 9
     - word: た
-      postiion: 11
+      position: 11
 - id: Otoshita Issendoka-f000066
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1605,36 +1605,36 @@
   words:
     - word: みる
       base: 見る
-      postiion: 0
+      position: 0
     - word: と
-      postiion: 2
+      position: 2
     - word: はたけ
-      postiion: 3
+      position: 3
     - word: に
-      postiion: 6
+      position: 6
     - word: は
-      postiion: 7
+      position: 7
     - word: いっぱい
       base: 一杯
-      postiion: 8
+      position: 8
     - word: ふきのとう
       base: 蕗の薹
-      postiion: 12
+      position: 12
     - word: が
-      postiion: 17
+      position: 17
     - word: で
       base: 出る
-      postiion: 18
+      position: 18
     - word: て
-      postiion: 19
+      position: 19
     - word: い
       base: 居る
-      postiion: 20
+      position: 20
     - word: まし
       base: ます
-      postiion: 21
+      position: 21
     - word: た
-      postiion: 23
+      position: 23
 - id: Otoshita Issendoka-f000067
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1645,43 +1645,43 @@
   sentence: 銅貨のあるところを雀におしえたのはこのふきのとうだったのでしょう。
   words:
     - word: 銅貨
-      postiion: 0
+      position: 0
     - word: の
-      postiion: 2
+      position: 2
     - word: ある
       base: 有る
-      postiion: 3
+      position: 3
     - word: ところ
       base: 所
-      postiion: 5
+      position: 5
     - word: を
-      postiion: 8
+      position: 8
     - word: 雀
-      postiion: 9
+      position: 9
     - word: に
-      postiion: 10
+      position: 10
     - word: おしえ
       base: 教える
-      postiion: 11
+      position: 11
     - word: た
-      postiion: 14
+      position: 14
     - word: の
-      postiion: 15
+      position: 15
     - word: は
-      postiion: 16
+      position: 16
     - word: この
       base: 此の
-      postiion: 17
+      position: 17
     - word: ふきのとう
       base: 蕗の薹
-      postiion: 19
+      position: 19
     - word: だっ
       base: だ
-      postiion: 24
+      position: 24
     - word: た
-      postiion: 26
+      position: 26
     - word: の
-      postiion: 27
+      position: 27
     - word: でしょう
       base: です
-      postiion: 28
+      position: 28

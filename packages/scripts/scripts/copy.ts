@@ -50,8 +50,8 @@ async function main() {
               word_list,
               word_base_list = [],
               word_dictionary_list = [],
-              translation_word_list,
-              translation_word_base_list,
+              translation_word_list = [],
+              translation_word_base_list = [],
               image,
               ...d
             }) => {
@@ -68,6 +68,8 @@ async function main() {
 
                     let base: string | undefined
                     let dictionary: string | undefined
+                    let translation: string | undefined
+                    let translation_base: string | undefined
 
                     if (word_base_list[i] !== word) {
                       base = word_base_list[i]
@@ -75,6 +77,17 @@ async function main() {
                     if (word_dictionary_list[i] !== word) {
                       dictionary = word_dictionary_list[i]
                     }
+                    // if (translation_word_list[i]) {
+                    //   translation = translation_word_list[i]
+                    // }
+                    // if (
+                    //   translation_word_base_list[i] &&
+                    //   (translation
+                    //     ? translation_word_base_list[i] !== translation
+                    //     : true)
+                    // ) {
+                    //   translation_base = translation_word_base_list[i]
+                    // }
 
                     const pos = sentence.indexOf(word, position)
                     if (pos !== -1) {
@@ -83,14 +96,18 @@ async function main() {
                         word,
                         base,
                         dictionary,
-                        postiion: pos
+                        translation,
+                        translation_base,
+                        position: pos
                       }
                     }
                     return {
                       word,
                       base,
                       dictionary,
-                      postiion: null
+                      translation,
+                      translation_base,
+                      position: null
                     }
                   })
                   .filter((s) => s)
