@@ -452,6 +452,7 @@
         - silent
     - word: 家
       furigana: ち
+      reading: うち
       position: 11
 - id: >-
     獣になれない私たち_第01話我慢ばかりの気遣い女vsでまかせ毒舌男720p_HDTV_x264_AAC-DoA_0.40.38.604-0.40.40.772
@@ -1382,8 +1383,11 @@
     獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.29.35.100-0.29.37.936.mp3
   sentence: 俺の時間を使うた暁には でっかい でっかい見返りが
   words:
-    - word: 使
-      reading: つこ  # TODO: where is the word boundary?
+    - word: 使うた  # TODO: where is the word boundary?
+      furigana:
+        - word: 使
+          furigana: つこ
+        - うた
       base: つくる
       position: 5
 - id: >-
@@ -1513,42 +1517,15 @@
       reading: わるい
       position: 2
 - id: >-
-    獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.50.36.794-0.50.38.962
-  deck_name: Weakest Beast
-  translation: Just so you know, I don't hate you as much as I used to.
-  sound: >-
-    獣になれない私たち_第03話謝ればいいと思うなケンカとナンパと衝撃キス720p_HDTV_x264_AAC-DoA_0.50.36.794-0.50.38.962.mp3
-  sentence: （根元）一応 言っとくけど
-  words:
-    - word: 根元
-      position: 1
-      tags:
-        - silent
-- id: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.02.32.452-0.02.33.953
   deck_name: Weakest Beast
   translation: You have a hangover?
   sound: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.02.32.452-0.02.33.953.mp3
-  sentence: （筧(かけい)）二日酔いですか？
+  sentence: （筧）二日酔いですか？
   words:
     - word: 筧
-      position: 1
-      tags:
-        - silent
-    - word: かけい
-      position: 3
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.02.44.264-0.02.45.965
-  deck_name: Weakest Beast
-  translation: Did something happen?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.02.44.264-0.02.45.965.mp3
-  sentence: （筧）なんか あったんですか？
-  words:
-    - word: 筧
+      furigana: かけい
       position: 1
       tags:
         - silent
@@ -1558,354 +1535,65 @@
   translation: Hanai, could you contact Shinkai right away?
   sound: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.02.51.071-0.02.54.474.mp3
-  sentence: （橋爪(はしづめ)）花井 深海(しんかい)&lrm;さんに連絡取って 今すぐ
+  sentence: （橋爪）花井 深海さんに連絡取って 今すぐ
   words:
     - word: 橋爪
+      furigana: はしづめ
       position: 1
       tags:
         - silent
-    - word: はし
-      position: 4
-      tags:
-        - silent
-    - word: づめ
-      base: つめ
-      position: 6
-      tags:
-        - silent
-    - word: しんかい
-      base: 深海
-      position: 16
-      tags:
-        - silent
-    - word: lrm
-      position: 22
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.02.54.374-0.02.55.642
-  deck_name: Weakest Beast
-  translation: Right now? Why?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.02.54.374-0.02.55.642.mp3
-  sentence: （花井）今？
-  words:
-    - word: 花井
-      position: 1
-      tags:
-        - silent
+    - word: 深海
+      furigana: しんかい
+      position: 7
 - id: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.02.58.846-0.03.02.282
   deck_name: Weakest Beast
   translation: The roadside station and stores collaboration in Karuizawa,
   sound: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.02.58.846-0.03.02.282.mp3
-  sentence: （橋爪）軽井沢(かるいざわ)の案件 道の駅とコラボするって話
+  sentence: （橋爪）軽井沢の案件 道の駅とコラボするって話
   words:
     - word: 橋爪
       position: 1
       tags:
         - silent
-    - word: かるい
-      base: 軽い
-      position: 8
-      tags:
-        - silent
-    - word: ざわ
-      position: 11
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.03.08.155-0.03.09.723
-  deck_name: Weakest Beast
-  translation: I was wondering if you could talk to her.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.03.08.155-0.03.09.723.mp3
-  sentence: （花井）部長！ （橋爪）ん？
-  words:
-    - word: 花井
-      position: 1
-      tags:
-        - silent
-    - word: 橋爪
-      position: 9
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.03.23.437-0.03.25.305
-  deck_name: Weakest Beast
-  translation: '-Well, now is a bit… -What? Did you two get into a fight?'
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.03.23.437-0.03.25.305.mp3
-  sentence: （筧）ケンカでもしたんですか？
-  words:
-    - word: 筧
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.03.27.574-0.03.29.809
-  deck_name: Weakest Beast
-  translation: Well, no, um…
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.03.27.574-0.03.29.809.mp3
-  sentence: （花井）あ～ いえ… あ～ はい…
-  words:
-    - word: 花井
-      position: 1
-      tags:
-        - silent
+    - word: 軽井沢
+      furigana: かるいざわ
+      position: 4
 - id: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.03.54.001-0.03.58.371
   deck_name: Weakest Beast
   translation: But you live together, right?
   sound: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.03.54.001-0.03.58.371.mp3
-  sentence: （橋爪）深海さんのお家(うち)は 花井のお家だろ
+  sentence: （橋爪）深海さんのお家は 花井のお家だろ
   words:
     - word: 橋爪
       position: 1
       tags:
         - silent
-    - word: うち
-      base: 内
-      position: 12
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.03.57.938-0.04.00.940
-  deck_name: Weakest Beast
-  translation: Oh yes, you're right.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.03.57.938-0.04.00.940.mp3
-  sentence: （筧）あ～ そうでしたね
-  words:
-    - word: 筧
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.04.08.215-0.04.11.818
-  deck_name: Weakest Beast
-  translation: Nozawa.<br>-The August sales.<br>-Yes.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.04.08.215-0.04.11.818.mp3
-  sentence: （堀田）野沢 ８月の売り上げ
-  words:
-    - word: 堀田
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.04.11.385-0.04.12.719
-  deck_name: Weakest Beast
-  translation: '-The August sales.<br>-Yes.'
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.04.11.385-0.04.12.719.mp3
-  sentence: （野沢）はい
-  words:
-    - word: 野沢
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.04.16.123-0.04.17.356
-  deck_name: Weakest Beast
-  translation: Thank you.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.04.16.123-0.04.17.356.mp3
-  sentence: （堀田）ありがとう
-  words:
-    - word: 堀田
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.05.13.680-0.05.17.417
-  deck_name: Weakest Beast
-  translation: Someone from accounting has been embezzling over 30 million for many years.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.05.13.680-0.05.17.417.mp3
-  sentence: （堀田）“経理部の人間が 何年も着服している”
-  words:
-    - word: 堀田
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.05.24.024-0.05.27.360
-  deck_name: Weakest Beast
-  translation: You want me to get rid of it and pretend I never saw it?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.05.24.024-0.05.27.360.mp3
-  sentence: （根元）俺が処分して 見なかったことにしましょうか？
-  words:
-    - word: 根元
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.05.26.927-0.05.29.095
-  deck_name: Weakest Beast
-  translation: What are you saying?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.05.26.927-0.05.29.095.mp3
-  sentence: （堀田）何言ってんだよ
-  words:
-    - word: 堀田
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.05.30.130-0.05.32.031
-  deck_name: Weakest Beast
-  translation: It's strange, isn't it?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.05.30.130-0.05.32.031.mp3
-  sentence: （根元）だって 変でしょう
-  words:
-    - word: 根元
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.05.38.138-0.05.39.772
-  deck_name: Weakest Beast
-  translation: You're right.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.05.38.138-0.05.39.772.mp3
-  sentence: （堀田）まあな
-  words:
-    - word: 堀田
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.05.39.339-0.05.40.874
-  deck_name: Weakest Beast
-  translation: So, this means?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.05.39.339-0.05.40.874.mp3
-  sentence: （野沢）どういうことですか？
-  words:
-    - word: 野沢
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.05.49.049-0.05.50.183
-  deck_name: Weakest Beast
-  translation: If the head of the accounting department really did embezzle money
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.05.49.049-0.05.50.183.mp3
-  sentence: （根元）だけど
-  words:
-    - word: 根元
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.06.09.603-0.06.10.937
-  deck_name: Weakest Beast
-  translation: Make-believe?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.06.09.603-0.06.10.937.mp3
-  sentence: （野沢）狂言？
-  words:
-    - word: 野沢
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.06.18.445-0.06.20.546
-  deck_name: Weakest Beast
-  translation: Oh yeah.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.06.18.445-0.06.20.546.mp3
-  sentence: （堀田）あったな～
-  words:
-    - word: 堀田
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.06.40.000-0.06.41.901
-  deck_name: Weakest Beast
-  translation: '-Then, I''ll leave it to you.<br>-Okay.'
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.06.40.000-0.06.41.901.mp3
-  sentence: （晶）それで お願いします
-  words:
-    - word: 晶
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.06.41.468-0.06.42.936
-  deck_name: Weakest Beast
-  translation: '-Then, I''ll leave it to you.<br>-Okay.'
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.06.41.468-0.06.42.936.mp3
-  sentence: （通知音） （社員）はい 分かりました
-  words:
-    - word: 通知
-      position: 1
-      tags:
-        - silent
-    - word: 音
-      position: 3
-      tags:
-        - silent
-    - word: 社員
-      position: 7
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.06.43.437-0.06.45.071
-  deck_name: Weakest Beast
-  translation: '-Thank you.<br>-Yes.'
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.06.43.437-0.06.45.071.mp3
-  sentence: （晶）お願いします
-  words:
-    - word: 晶
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.06.56.817-0.06.58.451
-  deck_name: Weakest Beast
-  translation: Me too.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.06.56.817-0.06.58.451.mp3
-  sentence: （晶）私もです
-  words:
-    - word: 晶
-      position: 1
-      tags:
-        - silent
+    - word: 家
+      furigana: うち
+      position: 17
 - id: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.07.27.848-0.07.29.615
   deck_name: Weakest Beast
   translation: Shinkai.
   sound: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.07.27.848-0.07.29.615.mp3
-  sentence: （上野(うえの):小声で）深海さん…
+  sentence: （上野:小声で）深海さん…
   words:
     - word: 上野
+      furigana: うえの
       position: 1
       tags:
         - silent
-    - word: うえの
+    - word: 小声
       position: 4
       tags:
         - silent
-    - word: 小声
-      position: 9
-      tags:
-        - silent
     - word: で
-      position: 11
+      position: 6
       tags:
         - silent
 - id: >-
@@ -1914,159 +1602,10 @@
   translation: Ueno, you're finally motivated, huh!
   sound: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.07.57.444-0.08.00.646.mp3
-  sentence: （夢子(ゆめこ)）上野君 ついに やる気になったんだ
+  sentence: （夢子）上野君 ついに やる気になったんだ
   words:
     - word: 夢子
-      position: 1
-      tags:
-        - silent
-    - word: ゆめ
-      base: 夢
-      position: 4
-      tags:
-        - silent
-    - word: こ
-      base: っこ
-      position: 6
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.08.34.013-0.08.37.150
-  deck_name: Weakest Beast
-  translation: Delivery! Can I get a signature?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.08.34.013-0.08.37.150.mp3
-  sentence: （宅配業者） お荷物です サインください！
-  words:
-    - word: 宅配
-      position: 1
-      tags:
-        - silent
-    - word: 業
-      position: 3
-      tags:
-        - silent
-    - word: 者
-      position: 4
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.08.38.484-0.08.40.253
-  deck_name: Weakest Beast
-  translation: There's more?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.08.38.484-0.08.40.253.mp3
-  sentence: （晶）まだあるの？
-  words:
-    - word: 晶
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.09.00.006-0.09.01.708
-  deck_name: Weakest Beast
-  translation: They're here!
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.09.00.006-0.09.01.708.mp3
-  sentence: （上野）来ました！
-  words:
-    - word: 上野
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.09.12.052-0.09.14.921
-  deck_name: Weakest Beast
-  translation: '-Thank you very much.<br>-Yes.'
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.09.12.052-0.09.14.921.mp3
-  sentence: （営業）また ご連絡させていただきますので
-  words:
-    - word: 営業
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.09.14.487-0.09.17.290
-  deck_name: Weakest Beast
-  translation: Thank you very much. Goodbye.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.09.14.487-0.09.17.290.mp3
-  sentence: （女）ありがとうございました 失礼します
-  words:
-    - word: 女
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.09.16.856-0.09.20.093
-  deck_name: Weakest Beast
-  translation: I'm not an early person.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.09.16.856-0.09.20.093.mp3
-  sentence: （朱里）朝早いのは ちょっと…
-  words:
-    - word: 朱里
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.09.19.659-0.09.22.361
-  deck_name: Weakest Beast
-  translation: I mean, it's early, but it's only 9 a.m.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.09.19.659-0.09.22.361.mp3
-  sentence: （営業） 早いって言っても ９時ですよ？
-  words:
-    - word: 営業
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.09.23.697-0.09.26.666
-  deck_name: Weakest Beast
-  translation: But being 45 minutes from home means I have to leave at 8 a.m.,
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.09.23.697-0.09.26.666.mp3
-  sentence: （朱里）でも 家から45分だと
-  words:
-    - word: 朱里
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.09.35.208-0.09.38.845
-  deck_name: Weakest Beast
-  translation: You're going to take two hours to get ready?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.09.35.208-0.09.38.845.mp3
-  sentence: （営業）あなた 準備に ２時間もかかるんですか？
-  words:
-    - word: 営業
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.10.01.368-0.10.06.105
-  deck_name: Weakest Beast
-  translation: But here it says, &quot;My own way of working.&quot;
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.10.01.368-0.10.06.105.mp3
-  sentence: （朱里） ここに“私らしい働き方”って
-  words:
-    - word: 朱里
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.10.11.277-0.10.13.646
-  deck_name: Weakest Beast
-  translation: I don't mean to be rude,
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.10.11.277-0.10.13.646.mp3
-  sentence: （営業）こう言っては 失礼ですが
-  words:
-    - word: 営業
+      furigana: ゆめこ
       position: 1
       tags:
         - silent
@@ -2078,402 +1617,84 @@
     asking too much?
   sound: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.10.15.615-0.10.19.285.mp3
-  sentence: 30歳を過ぎて 贅沢(ぜいたく)&lrm;言ってられますか？
+  sentence: 30歳を過ぎて 贅沢言ってられますか？
   words:
-    - word: ぜいたく
-      base: 贅沢
-      position: 11
-      tags:
-        - silent
-    - word: lrm
-      position: 17
-      tags:
-        - silent
+    - word: 贅沢
+      furigana: ぜいたく
+      position: 8
 - id: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.10.56.756-0.10.58.524
   deck_name: Weakest Beast
   translation: Hello. This is 5Tap.<br>Is this for a delivery?
   sound: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.10.56.756-0.10.58.524.mp3
-  sentence: （岡持(おかもち)）はい ５ｔａｐ(ファイブタップ)です！
+  sentence: （岡持）はい ５ｔａｐ(ファイブタップ)です！
   words:
     - word: 岡持
+      furigana: おかもち
       position: 1
-      tags:
-        - silent
-    - word: おか
-      position: 4
-      tags:
-        - silent
-    - word: もち
-      position: 6
       tags:
         - silent
     - word: ファイブ
-      position: 18
+      position: 12
       tags:
         - silent
+        - name
     - word: タップ
-      position: 22
+      position: 16
       tags:
         - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.11.10.003-0.11.12.138
-  deck_name: Weakest Beast
-  translation: Okay.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.11.10.003-0.11.12.138.mp3
-  sentence: （岡持）あ～ はい
-  words:
-    - word: 岡持
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.11.15.608-0.11.16.742
-  deck_name: Weakest Beast
-  translation: '-Yes.<br>-Hm?'
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.11.15.608-0.11.16.742.mp3
-  sentence: （岡持）はい
-  words:
-    - word: 岡持
-      position: 1
-      tags:
-        - silent
+        - name
 - id: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.11.25.051-0.11.26.652
   deck_name: Weakest Beast
   translation: Where's Saito?
   sound: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.11.25.051-0.11.26.652.mp3
-  sentence: （根元）斎藤(さいとう)は？
+  sentence: （根元）斎藤は？
   words:
     - word: 根元
       position: 1
       tags:
         - silent
-    - word: さいとう
-      base: 菜刀
-      position: 7
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.11.30.757-0.11.32.758
-  deck_name: Weakest Beast
-  translation: Don't touch it, you amateur.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.11.30.757-0.11.32.758.mp3
-  sentence: （根元）素人が触んなよ
-  words:
-    - word: 根元
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.11.38.031-0.11.40.499
-  deck_name: Weakest Beast
-  translation: This bar has its own style.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.11.38.031-0.11.40.499.mp3
-  sentence: （根元）ここの店の流儀があんの
-  words:
-    - word: 根元
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.12.03.256-0.12.04.824
-  deck_name: Weakest Beast
-  translation: Oh, welcome.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.12.03.256-0.12.04.824.mp3
-  sentence: （斎藤）あっ いらっしゃい
-  words:
     - word: 斎藤
-      position: 1
-      tags:
-        - silent
+      furigana: さいとう
+      position: 4
 - id: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.12.05.125-0.12.08.928
   deck_name: Weakest Beast
   translation: Sorry, Saburo.<br>Thanks for the watch.
   sound: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.12.05.125-0.12.08.928.mp3
-  sentence: ごめん ごめん！ 三郎(さぶろう)&lrm;ちゃん 留守番ありがとう
+  sentence: ごめん ごめん！ 三郎ちゃん 留守番ありがとう
   words:
-    - word: さぶろう
-      position: 12
-      tags:
-        - silent
-    - word: lrm
-      position: 18
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.12.11.464-0.12.15.101
-  deck_name: Weakest Beast
-  translation: Is the beer foam an unwanted child?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.12.11.464-0.12.15.101.mp3
-  sentence: （岡持） ビールの泡は いらない子なの？
-  words:
-    - word: 岡持
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.12.14.667-0.12.15.668
-  deck_name: Weakest Beast
-  translation: Is the beer foam an unwanted child?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.12.14.667-0.12.15.668.mp3
-  sentence: （斎藤）えっ？
-  words:
-    - word: 斎藤
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.12.51.838-0.12.53.105
-  deck_name: Weakest Beast
-  translation: Wait.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.12.51.838-0.12.53.105.mp3
-  sentence: （岡持）えっ？
-  words:
-    - word: 岡持
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.12.52.672-0.12.56.175
-  deck_name: Weakest Beast
-  translation: A smartphone?<br>I cleaned the bar, but I didn't see it.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.12.52.672-0.12.56.175.mp3
-  sentence: （斎藤）スマホか 掃除したけど 見なかったな
-  words:
-    - word: 斎藤
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.12.55.742-0.12.59.578
-  deck_name: Weakest Beast
-  translation: What?<br>Akira has a boyfriend?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.12.55.742-0.12.59.578.mp3
-  sentence: （岡持）えっ… 晶さんって 彼氏いるんすか？
-  words:
-    - word: 岡持
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.13.07.220-0.13.11.257
-  deck_name: Weakest Beast
-  translation: Just reasons!<br>One Insider Craft Hub's IPA with surplus off-flavors.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.13.07.220-0.13.11.257.mp3
-  sentence: （根元）いろいろ… 余計な雑味が含まれてる
-  words:
-    - word: 根元
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.13.16.763-0.13.20.833
-  deck_name: Weakest Beast
-  translation: '-I don''t get off-flavors!<br>-Google it!'
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.13.16.763-0.13.20.833.mp3
-  sentence: （岡持）えっ え～？ ザツミ 分かんないっす！
-  words:
-    - word: 岡持
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.13.24.137-0.13.26.973
-  deck_name: Weakest Beast
-  translation: Akira's boyfriend, was it Hanai?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.13.24.137-0.13.26.973.mp3
-  sentence: （斎藤）あっ 晶ちゃんの彼氏
-  words:
-    - word: 斎藤
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.13.28.741-0.13.32.244
-  deck_name: Weakest Beast
-  translation: He was drinking quite a bit after that.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.13.28.741-0.13.32.244.mp3
-  sentence: （斎藤）あのあと 結構 飲んでたからねえ
-  words:
-    - word: 斎藤
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.13.32.679-0.13.34.080
-  deck_name: Weakest Beast
-  translation: I see.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.13.32.679-0.13.34.080.mp3
-  sentence: （根元）へえ～
-  words:
-    - word: 根元
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.13.34.514-0.13.37.216
-  deck_name: Weakest Beast
-  translation: Kureha took him home though.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.13.34.514-0.13.37.216.mp3
-  sentence: （斎藤）帰りは 呉羽ちゃんが送ってったんだけど
-  words:
-    - word: 斎藤
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.13.38.418-0.13.39.418
-  deck_name: Weakest Beast
-  translation: Yes, they took a taxi since it was the same direction.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.13.38.418-0.13.39.418.mp3
-  sentence: （斎藤）うん
-  words:
-    - word: 斎藤
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.13.42.889-0.13.44.390
-  deck_name: Weakest Beast
-  translation: Yes.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.13.42.889-0.13.44.390.mp3
-  sentence: （斎藤）だから そうだって
-  words:
-    - word: 斎藤
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.14.28.067-0.14.31.237
-  deck_name: Weakest Beast
-  translation: I thought you were going to give me this room.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.14.28.067-0.14.31.237.mp3
-  sentence: （朱里）このまま この部屋 くれるのかと思ってた
-  words:
-    - word: 朱里
-      position: 1
-      tags:
-        - silent
+    - word: 三郎
+      furigana: さぶろう
+      position: 9
 - id: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.14.33.540-0.14.35.508
   deck_name: Weakest Beast
   translation: Someone call the house phone?
   sound: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.14.33.540-0.14.35.508.mp3
-  sentence: 家電(いえでん)&lrm;に電話なかった？
+  sentence: 家電に電話なかった？
   words:
-    - word: いえ
-      position: 3
-      tags:
-        - silent
-    - word: でん
-      position: 5
-      tags:
-        - silent
-    - word: lrm
-      position: 9
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.14.35.508-0.14.37.143
-  deck_name: Weakest Beast
-  translation: Who?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.14.35.508-0.14.37.143.mp3
-  sentence: （朱里）誰から？
-  words:
-    - word: 朱里
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.14.40.380-0.14.44.150
-  deck_name: Weakest Beast
-  translation: I don't think so.<br>Want me to call it?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.14.40.380-0.14.44.150.mp3
-  sentence: （朱里）なかったと思うけど 私の携帯から電話する？
-  words:
-    - word: 朱里
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.14.47.820-0.14.50.356
-  deck_name: Weakest Beast
-  translation: But I was told not to answer even if the house phone rings, right?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.14.47.820-0.14.50.356.mp3
-  sentence: （朱里）家電に電話あっても
-  words:
-    - word: 朱里
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.14.58.498-0.15.01.600
-  deck_name: Weakest Beast
-  translation: What? A resume?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.14.58.498-0.15.01.600.mp3
-  sentence: （花井）えっ… 履歴書？
-  words:
-    - word: 花井
-      position: 1
-      tags:
-        - silent
+    - word: 家電
+      furigana: いえでん
+      position: 0
 - id: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.15.16.683-0.15.19.418
   deck_name: Weakest Beast
   translation: What, huh? Who's Kiyoko Kawara?
   sound: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.15.16.683-0.15.19.418.mp3
-  sentence: 河原貴代子(かわはらきよこ)&lrm;って だ… 誰？
+  sentence: 河原貴代子って だ… 誰？
   words:
-    - word: かわ
-      base: かう
-      dictionary: かう
-      position: 6
+    - word: 河原貴代子
+      furigana: かわはらきよこ
+      position: 0
       tags:
-        - silent
-    - word: はら
-      base: はる
-      dictionary: はる
-      position: 8
-      tags:
-        - silent
-    - word: きよこ
-      position: 10
-      tags:
-        - silent
-    - word: lrm
-      position: 15
-      tags:
-        - silent
+        - name
 - id: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.15.23.589-0.15.25.424
   deck_name: Weakest Beast
@@ -2482,26 +1703,10 @@
     Facebook,
   sound: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.15.23.589-0.15.25.424.mp3
-  sentence: Facebook(フェイスブック)&lrm;にいて
+  sentence: Facebook(フェイスブック)にいて
   words:
     - word: フェイスブック
       position: 9
-      tags:
-        - silent
-    - word: lrm
-      position: 18
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.17.19.304-0.17.20.306
-  deck_name: Weakest Beast
-  translation: Akira?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.17.19.304-0.17.20.306.mp3
-  sentence: （岡持）晶さん？
-  words:
-    - word: 岡持
-      position: 1
       tags:
         - silent
 - id: >-
@@ -2510,458 +1715,11 @@
   translation: Kosei told me that this is the right distance to start.
   sound: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.17.29.482-0.17.31.083.mp3
-  sentence: 恒星(こうせい)&lrm;さんから
+  sentence: 恒星さんから
   words:
-    - word: こう
-      position: 3
-      tags:
-        - silent
-    - word: せい
-      base: 為る
-      dictionary: する
-      position: 5
-      tags:
-        - silent
-    - word: lrm
-      position: 9
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.17.42.862-0.17.45.497
-  deck_name: Weakest Beast
-  translation: Wow! Is it? I'm glad.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.17.42.862-0.17.45.497.mp3
-  sentence: （岡持）う～ マジすか？
-  words:
-    - word: 岡持
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.17.53.639-0.17.55.474
-  deck_name: Weakest Beast
-  translation: I thought it was weird that the messages weren't read.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.17.53.639-0.17.55.474.mp3
-  sentence: （晶）既読にならないから
-  words:
-    - word: 晶
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.18.04.317-0.18.07.453
-  deck_name: Weakest Beast
-  translation: Maybe Kureha knows.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.18.04.317-0.18.07.453.mp3
-  sentence: （斎藤） あっ… 呉羽ちゃん 知らないかな？
-  words:
-    - word: 斎藤
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.18.08.054-0.18.09.722
-  deck_name: Weakest Beast
-  translation: >-
-    Since they headed in the same direction, they went home in a taxi after
-    that.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.18.08.054-0.18.09.722.mp3
-  sentence: （斎藤）あのあと
-  words:
-    - word: 斎藤
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.18.16.195-0.18.17.529
-  deck_name: Weakest Beast
-  translation: Call her.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.18.16.195-0.18.17.529.mp3
-  sentence: （晶）電話
-  words:
-    - word: 晶
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.18.43.189-0.18.46.659
-  deck_name: Weakest Beast
-  translation: A smartphone? Yes, I have it.<br>The black one, right?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.18.43.189-0.18.46.659.mp3
-  sentence: （呉羽）あっ スマホ？ 持ってる 黒いのでしょ
-  words:
-    - word: 呉羽
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.18.51.197-0.18.52.398
-  deck_name: Weakest Beast
-  translation: What did she say?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.18.51.197-0.18.52.398.mp3
-  sentence: （晶）なんて？
-  words:
-    - word: 晶
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.18.55.368-0.18.56.935
-  deck_name: Weakest Beast
-  translation: '-Thank God.<br>-Isn''t that great?'
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.18.55.368-0.18.56.935.mp3
-  sentence: （晶）よかった
-  words:
-    - word: 晶
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.18.56.502-0.18.57.936
-  deck_name: Weakest Beast
-  translation: '-Thank God.<br>-Isn''t that great?'
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.18.56.502-0.18.57.936.mp3
-  sentence: （斎藤）よかったね
-  words:
-    - word: 斎藤
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.18.58.037-0.19.00.606
-  deck_name: Weakest Beast
-  translation: Why do you have it?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.18.58.037-0.19.00.606.mp3
-  sentence: （小声で） なんで 呉羽が持ってんの？
-  words:
-    - word: 小声
-      position: 1
-      tags:
-        - silent
-    - word: で
-      position: 3
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.19.03.776-0.19.06.879
-  deck_name: Weakest Beast
-  translation: Hey, can I talk to Kureha?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.19.03.776-0.19.06.879.mp3
-  sentence: （晶）恒星さん ちょっと貸してください
-  words:
-    - word: 晶
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.19.34.173-0.19.35.240
-  deck_name: Weakest Beast
-  translation: Hello? Oh, she hung up on me.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.19.34.173-0.19.35.240.mp3
-  sentence: （根元）もしもし？
-  words:
-    - word: 根元
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.19.34.807-0.19.37.042
-  deck_name: Weakest Beast
-  translation: Hello? Oh, she hung up on me.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.19.34.807-0.19.37.042.mp3
-  sentence: （通話が切れた音） （根元）あっ 切られた
-  words:
-    - word: 通話
-      position: 1
-      tags:
-        - silent
-    - word: が
-      position: 3
-      tags:
-        - silent
-    - word: 切れ
-      base: 切る
-      dictionary: 切れる
-      position: 4
-      tags:
-        - silent
-    - word: た
-      position: 6
-      tags:
-        - silent
-    - word: 音
-      position: 7
-      tags:
-        - silent
-    - word: 根元
-      position: 11
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.19.58.531-0.20.00.432
-  deck_name: Weakest Beast
-  translation: Not a problem. I'm the oasis in the desert, Takuramakan Saito, after all.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.19.58.531-0.20.00.432.mp3
-  sentence: （斎藤）お安いご用
-  words:
-    - word: 斎藤
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.20.13.980-0.20.16.815
-  deck_name: Weakest Beast
-  translation: You'll make up after that?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.20.13.980-0.20.16.815.mp3
-  sentence: （斎藤）それで 仲直り？
-  words:
-    - word: 斎藤
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.20.24.423-0.20.26.992
-  deck_name: Weakest Beast
-  translation: Things like yesterday happened before,
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.20.24.423-0.20.26.992.mp3
-  sentence: （晶） 昨日みたいなこと 前にもあって
-  words:
-    - word: 晶
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.20.41.140-0.20.42.141
-  deck_name: Weakest Beast
-  translation: '-See you.<br>-Have a good night.'
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.20.41.140-0.20.42.141.mp3
-  sentence: （斎藤）おやすみ
-  words:
-    - word: 斎藤
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.20.53.919-0.20.54.920
-  deck_name: Weakest Beast
-  translation: '-I get irritated just watching her.<br>-Not this again.'
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.20.53.919-0.20.54.920.mp3
-  sentence: （斎藤）また～
-  words:
-    - word: 斎藤
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.21.47.873-0.21.49.107
-  deck_name: Weakest Beast
-  translation: This one, too?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.21.47.873-0.21.49.107.mp3
-  sentence: （客）こちらは？
-  words:
-    - word: 客
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.21.48.674-0.21.52.578
-  deck_name: Weakest Beast
-  translation: This is also made with the mesh bonding.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.21.48.674-0.21.52.578.mp3
-  sentence: （呉羽）これも同様 メッシュの ボンディングで出来ていて…
-  words:
-    - word: 呉羽
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.21.52.845-0.21.56.849
-  deck_name: Weakest Beast
-  translation: Here you go.<br>-A drink for people who booked.<br>-I didn't though.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.21.52.845-0.21.56.849.mp3
-  sentence: （呉羽）どうぞ～ 予約した人に サービスドリンク
-  words:
-    - word: 呉羽
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.22.03.155-0.22.06.158
-  deck_name: Weakest Beast
-  translation: Maybe a bit more than last time.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.22.03.155-0.22.06.158.mp3
-  sentence: （呉羽）う～ん 前回より 少し多いかな？
-  words:
-    - word: 呉羽
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.22.19.805-0.22.22.040
-  deck_name: Weakest Beast
-  translation: I've quit. I decided to do everything on my own.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.22.19.805-0.22.22.040.mp3
-  sentence: （呉羽）うん もう辞めた！
-  words:
-    - word: 呉羽
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.23.49.728-0.23.52.731
-  deck_name: Weakest Beast
-  translation: >-
-    Why? I don't know how it happened, but it did.<br>-Okay, calm down for
-    now.<br>-What? Why? Oh--
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.23.49.728-0.23.52.731.mp3
-  sentence: （晶）何が どうなって… （根元）分かった 一回 落ち着こう
-  words:
-    - word: 晶
-      position: 1
-      tags:
-        - silent
-    - word: 根元
-      position: 14
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.23.52.298-0.23.54.199
-  deck_name: Weakest Beast
-  translation: '-Okay, calm down for now.<br>-What? Why? Oh--'
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.23.52.298-0.23.54.199.mp3
-  sentence: （晶）なんで なんで… （根元）一回 落ち着こう
-  words:
-    - word: 晶
-      position: 1
-      tags:
-        - silent
-    - word: 根元
-      position: 13
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.24.00.506-0.24.02.274
-  deck_name: Weakest Beast
-  translation: '-What the hell? It''s hot!<br>-My bad.'
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.24.00.506-0.24.02.274.mp3
-  sentence: （晶）なんなの？ （根元）ごめん
-  words:
-    - word: 晶
-      position: 1
-      tags:
-        - silent
-    - word: 根元
-      position: 10
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.24.45.918-0.24.47.452
-  deck_name: Weakest Beast
-  translation: '-Not that?<br>-Yeah.'
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.24.45.918-0.24.47.452.mp3
-  sentence: （晶）じゃない？ （根元）じゃない
-  words:
-    - word: 晶
-      position: 1
-      tags:
-        - silent
-    - word: 根元
-      position: 10
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.24.47.019-0.24.48.720
-  deck_name: Weakest Beast
-  translation: '-Really?<br>-Really.'
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.24.47.019-0.24.48.720.mp3
-  sentence: （晶）そう？ （根元）そう
-  words:
-    - word: 晶
-      position: 1
-      tags:
-        - silent
-    - word: 根元
-      position: 8
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.24.55.561-0.24.57.963
-  deck_name: Weakest Beast
-  translation: What the hell is going on?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.24.55.561-0.24.57.963.mp3
-  sentence: （根元）何をやってんだ？
-  words:
-    - word: 根元
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.25.13.045-0.25.15.080
-  deck_name: Weakest Beast
-  translation: '-Cheers.<br>-Don''t mess with me.'
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.25.13.045-0.25.15.080.mp3
-  sentence: （呉羽）乾杯 （根元）ふざけんな
-  words:
-    - word: 呉羽
-      position: 1
-      tags:
-        - silent
-    - word: 根元
-      position: 8
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.25.36.602-0.25.38.136
-  deck_name: Weakest Beast
-  translation: What else?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.25.36.602-0.25.38.136.mp3
-  sentence: （根元）なんだよ？
-  words:
-    - word: 根元
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.25.39.672-0.25.43.275
-  deck_name: Weakest Beast
-  translation: Stop that. Don't do that!
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.25.39.672-0.25.43.275.mp3
-  sentence: （根元）それをやめろ！ そういうことは やめろって
-  words:
-    - word: 根元
-      position: 1
+    - word: 恒星
+      furigana: こうせい
+      position: 0
       tags:
         - silent
 - id: >-
@@ -2970,66 +1728,27 @@
   translation: Like I said, I'm married to Kaiji Tachibana.
   sound: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.25.50.049-0.25.54.686.mp3
-  sentence: フフフ… だから 相手は 橘(たちばな)&lrm; カイジだって
+  sentence: フフフ… だから 相手は 橘 カイジだって
   words:
-    - word: たちばな
-      base: 橘
+    - word: 橘
+      furigana: たちばな
+      position: 13
+      tags:
+        - name
+    - word: カイジ
       position: 15
       tags:
-        - silent
-    - word: lrm
-      position: 21
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.25.55.688-0.25.58.056
-  deck_name: Weakest Beast
-  translation: You can Google him.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.25.55.688-0.25.58.056.mp3
-  sentence: （呉羽）検索すれば すぐ出るのに
-  words:
-    - word: 呉羽
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.26.09.101-0.26.10.368
-  deck_name: Weakest Beast
-  translation: '-What?<br>-You can, right?'
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.26.09.101-0.26.10.368.mp3
-  sentence: （呉羽）ねっ！
-  words:
-    - word: 呉羽
-      position: 1
-      tags:
-        - silent
+        - name
 - id: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.26.43.435-0.26.47.706
   deck_name: Weakest Beast
   translation: Akira, I still can't get in touch with Kyoya.<br>Is he perhaps with you?
   sound: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.26.43.435-0.26.47.706.mp3
-  sentence: （千春(ちはる)）晶さん？ まだ 京谷と連絡取れないんだけど
+  sentence: （千春）晶さん？ まだ 京谷と連絡取れないんだけど
   words:
     - word: 千春
-      position: 1
-      tags:
-        - silent
-    - word: ちはる
-      position: 4
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.27.01.720-0.27.03.221
-  deck_name: Weakest Beast
-  translation: When you see Kyoya, can you tell him to call me?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.27.01.720-0.27.03.221.mp3
-  sentence: （千春）京谷に会ったら
-  words:
-    - word: 千春
+      furigana: ちはる
       position: 1
       tags:
         - silent
@@ -3039,14 +1758,11 @@
   translation: What did Kyoya say?
   sound: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.27.19.872-0.27.22.808.mp3
-  sentence: （拓馬(たくま)）京谷 なんだって？
+  sentence: （拓馬）京谷 なんだって？
   words:
     - word: 拓馬
+      furigana: たくま
       position: 1
-      tags:
-        - silent
-    - word: たくま
-      position: 4
       tags:
         - silent
 - id: >-
@@ -3055,38 +1771,10 @@
   translation: I agree!
   sound: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.27.29.515-0.27.31.149.mp3
-  sentence: （凛人(りんと)）さんせ～い
+  sentence: （凛人）さんせ～い
   words:
     - word: 凛人
-      position: 1
-      tags:
-        - silent
-    - word: りんと
-      base: 凛と
-      position: 4
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.27.31.483-0.27.34.286
-  deck_name: Weakest Beast
-  translation: I agree!
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.27.31.483-0.27.34.286.mp3
-  sentence: （千春）おっ さんせ～い
-  words:
-    - word: 千春
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.27.33.852-0.27.35.987
-  deck_name: Weakest Beast
-  translation: Kyoya is in Tokyo
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.27.33.852-0.27.35.987.mp3
-  sentence: （拓馬）京谷は 東京で
-  words:
-    - word: 拓馬
+      furigana: りんと
       position: 1
       tags:
         - silent
@@ -3096,255 +1784,48 @@
   translation: We are at our limits taking care of Dad at home.
   sound: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.27.43.329-0.27.46.064.mp3
-  sentence: 親父(おやじ)&lrm;の介護を自宅でやるのは
+  sentence: 親父の介護を自宅でやるのは
   words:
-    - word: おやじ
-      base: 親父
-      position: 3
-      tags:
-        - silent
-    - word: lrm
-      position: 8
-      tags:
-        - silent
+    - word: 親父
+      furigana: おやじ
+      position: 0
 - id: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.27.48.100-0.27.50.769
   deck_name: Weakest Beast
   translation: But Takuma and Fumi haven't done a single thing.
   sound: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.27.48.100-0.27.50.769.mp3
-  sentence: 拓馬だって 文美(ふみ)さんだって
-  words:
-    - word: ふみ
-      position: 9
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.27.52.171-0.27.54.506
-  deck_name: Weakest Beast
-  translation: Cause you told us to stay away.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.27.52.171-0.27.54.506.mp3
-  sentence: （拓馬）それは 母さんが 近寄るなって言うからだろ
-  words:
-    - word: 拓馬
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.27.55.874-0.27.57.175
-  deck_name: Weakest Beast
-  translation: '-She treated him as if he''s dirty.<br>-That''s not true.'
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.27.55.874-0.27.57.175.mp3
-  sentence: （文美）誤解です
+  sentence: 拓馬だって 文美さんだって
   words:
     - word: 文美
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.28.00.979-0.28.02.814
-  deck_name: Weakest Beast
-  translation: Still talking about that?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.28.00.979-0.28.02.814.mp3
-  sentence: （拓馬） いつまで その話してんだよ
-  words:
-    - word: 拓馬
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.28.04.950-0.28.08.486
-  deck_name: Weakest Beast
-  translation: I even have a helper to do the bathing for me, so what's the problem?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.28.04.950-0.28.08.486.mp3
-  sentence: （千春）お風呂だって ヘルパーさん来てくれて
-  words:
-    - word: 千春
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.28.10.122-0.28.12.390
-  deck_name: Weakest Beast
-  translation: I'm saying this because if something happens, you can't handle it alone.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.28.10.122-0.28.12.390.mp3
-  sentence: （拓馬）もし何かあったら 母さん 一人じゃ
-  words:
-    - word: 拓馬
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.28.16.528-0.28.19.998
-  deck_name: Weakest Beast
-  translation: The three of you can stay here for as long as you want.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.28.16.528-0.28.19.998.mp3
-  sentence: （千春）３人で何泊でも 泊まってくればいいじゃない
-  words:
-    - word: 千春
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.28.22.000-0.28.26.104
-  deck_name: Weakest Beast
-  translation: I'm going to take care of Grandpa with Chiharu.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.28.22.000-0.28.26.104.mp3
-  sentence: （凛人）僕 ちーちゃんと じいじのお世話する！
-  words:
-    - word: 凛人
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.28.26.572-0.28.27.906
-  deck_name: Weakest Beast
-  translation: What?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.28.26.572-0.28.27.906.mp3
-  sentence: （千春）えっ？
-  words:
-    - word: 千春
-      position: 1
-      tags:
-        - silent
+      furigana: ふみ
+      position: 6
 - id: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.28.28.073-0.28.30.242
   deck_name: Weakest Beast
   translation: Grandpa is Katsumi,
   sound: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.28.28.073-0.28.30.242.mp3
-  sentence: じいじは 克己(かつみ)さんで
+  sentence: じいじは 克己さんで
   words:
-    - word: かつ
-      base: 且つ
-      position: 8
-      tags:
-        - silent
-    - word: み
-      position: 10
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.28.40.018-0.28.41.653
-  deck_name: Weakest Beast
-  translation: Mom.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.28.40.018-0.28.41.653.mp3
-  sentence: （拓馬）母さん
-  words:
-    - word: 拓馬
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.29.09.748-0.29.11.449
-  deck_name: Weakest Beast
-  translation: That's amazing!
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.29.09.748-0.29.11.449.mp3
-  sentence: （テレビ:リポーター）すごい！
-  words:
-    - word: テレビ
-      position: 1
-      tags:
-        - silent
-    - word: リポーター
-      base: レポーター
+    - word: 克己
+      furigana: かつみ
       position: 5
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.29.22.494-0.29.25.297
-  deck_name: Weakest Beast
-  translation: It's a ten-minute walk from the station.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.29.22.494-0.29.25.297.mp3
-  sentence: （テレビ:ナレーション） 駅から歩いて10分ほどにある⸺
-  words:
-    - word: テレビ
-      position: 1
-      tags:
-        - silent
-    - word: ナレーション
-      position: 5
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.29.51.890-0.29.55.226
-  deck_name: Weakest Beast
-  translation: Oh.<br>I have to eat them.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.29.51.890-0.29.55.226.mp3
-  sentence: （晶） ああ… 食べなきゃいけなくて
-  words:
-    - word: 晶
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.29.55.160-0.29.56.594
-  deck_name: Weakest Beast
-  translation: '-Is it for work?<br>-Yeah.'
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.29.55.160-0.29.56.594.mp3
-  sentence: （花井）仕事？
-  words:
-    - word: 花井
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.29.56.161-0.29.57.462
-  deck_name: Weakest Beast
-  translation: '-Is it for work?<br>-Yeah.'
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.29.56.161-0.29.57.462.mp3
-  sentence: （晶）うん
-  words:
-    - word: 晶
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.32.41.226-0.32.42.794
-  deck_name: Weakest Beast
-  translation: '-What''s that?<br>-Eh?'
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.32.41.226-0.32.42.794.mp3
-  sentence: （根元）それ 何？
-  words:
-    - word: 根元
-      position: 1
-      tags:
-        - silent
 - id: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.32.55.974-0.32.59.644
   deck_name: Weakest Beast
   translation: This is the newly opened tap 1.<br>It's Shonan Beer…
   sound: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.32.55.974-0.32.59.644.mp3
-  sentence: （斎藤）開栓したてのタップ･ワン 湘南(しょうなん)&lrm;酒造の…
+  sentence: （斎藤）開栓したてのタップ･ワン 湘南酒造の…
   words:
     - word: 斎藤
       position: 1
       tags:
         - silent
-    - word: しょうなん
-      position: 20
-      tags:
-        - silent
-    - word: lrm
-      position: 27
-      tags:
-        - silent
+    - word: 湘南
+      furigana: しょうなん
+      position: 17
 - id: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.33.04.383-0.33.06.417
   deck_name: Weakest Beast
@@ -3358,156 +1839,31 @@
       tags:
         - silent
 - id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.33.07.252-0.33.08.853
-  deck_name: Weakest Beast
-  translation: Wait.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.33.07.252-0.33.08.853.mp3
-  sentence: （根元）待った （斎藤）えっ？
-  words:
-    - word: 根元
-      position: 1
-      tags:
-        - silent
-    - word: 斎藤
-      position: 9
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.33.10.789-0.33.12.857
-  deck_name: Weakest Beast
-  translation: But you haven't finished.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.33.10.789-0.33.12.857.mp3
-  sentence: （斎藤）まだあるじゃない
-  words:
-    - word: 斎藤
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.33.18.196-0.33.19.397
-  deck_name: Weakest Beast
-  translation: '-Jun, could you wait a second?<br>-Okay.'
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.33.18.196-0.33.19.397.mp3
-  sentence: （客）はいはい
-  words:
-    - word: 客
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.33.20.632-0.33.22.066
-  deck_name: Weakest Beast
-  translation: '-Can I get tap 2 as well?<br>-Sure.'
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.33.20.632-0.33.22.066.mp3
-  sentence: （斎藤）はい
-  words:
-    - word: 斎藤
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.33.52.631-0.33.54.465
-  deck_name: Weakest Beast
-  translation: Well said.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.33.52.631-0.33.54.465.mp3
-  sentence: （根元）いいこと言うね
-  words:
-    - word: 根元
-      position: 1
-      tags:
-        - silent
-- id: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.33.58.370-0.34.01.205
   deck_name: Weakest Beast
   translation: Tap 3. It's Minowa's Double IPA.
   sound: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.33.58.370-0.34.01.205.mp3
-  sentence: （斎藤） タップ･スリー 箕輪(みのわ)のダブルＩＰＡ
+  sentence: （斎藤） タップ･スリー 箕輪のダブルＩＰＡ
   words:
     - word: 斎藤
       position: 1
       tags:
         - silent
-    - word: みの
-      base: 蓑
-      position: 16
-      tags:
-        - silent
-    - word: わ
-      position: 18
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.34.00.772-0.34.02.373
-  deck_name: Weakest Beast
-  translation: Thank you.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.34.00.772-0.34.02.373.mp3
-  sentence: （晶）どうも
-  words:
-    - word: 晶
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.34.19.725-0.34.21.059
-  deck_name: Weakest Beast
-  translation: The president.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.34.19.725-0.34.21.059.mp3
-  sentence: （晶）社長
-  words:
-    - word: 晶
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.34.22.461-0.34.25.530
-  deck_name: Weakest Beast
-  translation: He's on a business trip in Kanazawa.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.34.22.461-0.34.25.530.mp3
-  sentence: （晶）社長は今 出張で金沢にいる
-  words:
-    - word: 晶
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.34.50.222-0.34.51.990
-  deck_name: Weakest Beast
-  translation: That's annoying.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.34.50.222-0.34.51.990.mp3
-  sentence: （根元）めんどくさっ！
-  words:
-    - word: 根元
-      position: 1
-      tags:
-        - silent
+    - word: 箕輪
+      furigana: みのわ
+      position: 13
 - id: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.34.56.995-0.34.59.197
   deck_name: Weakest Beast
   translation: My special CCO never reads or responds.
   sound: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.34.56.995-0.34.59.197.mp3
-  sentence: （九十九(つくも)） いつまでも既読にならない
+  sentence: （九十九） いつまでも既読にならない
   words:
     - word: 九十九
+      furigana: つくも
       position: 1
-      tags:
-        - silent
-    - word: つく
-      position: 5
-      tags:
-        - silent
-    - word: も
-      position: 7
       tags:
         - silent
 - id: >-
@@ -3516,145 +1872,10 @@
   translation: You should let her have her day off.
   sound: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.35.02.634-0.35.05.637.mp3
-  sentence: （佐久間(さくま)） 休みの日は 休ませてあげなよ
+  sentence: （佐久間） 休みの日は 休ませてあげなよ
   words:
     - word: 佐久間
-      position: 1
-      tags:
-        - silent
-    - word: さくま
-      position: 5
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.35.33.698-0.35.35.266
-  deck_name: Weakest Beast
-  translation: RICE BRAN PICKLED PUFFER FISH
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.35.33.698-0.35.35.266.mp3
-  sentence: （通知音）
-  words:
-    - word: 通知
-      position: 1
-      tags:
-        - silent
-    - word: 音
-      position: 3
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.35.36.301-0.35.38.136
-  deck_name: Weakest Beast
-  translation: Damn, that's a lot.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.35.36.301-0.35.38.136.mp3
-  sentence: （根元）すごい来てるけど
-  words:
-    - word: 根元
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.35.46.812-0.35.47.879
-  deck_name: Weakest Beast
-  translation: Oops!
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.35.46.812-0.35.47.879.mp3
-  sentence: （根元）えい！
-  words:
-    - word: 根元
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.36.18.109-0.36.19.510
-  deck_name: Weakest Beast
-  translation: '-Can I have tap 4?<br>-Yes.'
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.36.18.109-0.36.19.510.mp3
-  sentence: （斎藤）は～い
-  words:
-    - word: 斎藤
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.36.19.611-0.36.21.579
-  deck_name: Weakest Beast
-  translation: Excuse me.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.36.19.611-0.36.21.579.mp3
-  sentence: （テレビ:芸人） すいません 失礼します
-  words:
-    - word: テレビ
-      position: 1
-      tags:
-        - silent
-    - word: 芸人
-      position: 5
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.37.09.961-0.37.13.397
-  deck_name: Weakest Beast
-  translation: I'm sorry. Saito will correct it.<br>There are times when I won't.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.37.09.961-0.37.13.397.mp3
-  sentence: （斎藤）あっ すいません 斎藤 訂正します
-  words:
-    - word: 斎藤
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.37.16.001-0.37.18.703
-  deck_name: Weakest Beast
-  translation: A business partner or a would-be unethical partner?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.37.16.001-0.37.18.703.mp3
-  sentence: （斎藤）う～ん 仕事相手とか
-  words:
-    - word: 斎藤
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.37.30.849-0.37.33.284
-  deck_name: Weakest Beast
-  translation: She is.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.37.30.849-0.37.33.284.mp3
-  sentence: （斎藤）そうだったね
-  words:
-    - word: 斎藤
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.37.51.836-0.37.53.538
-  deck_name: Weakest Beast
-  translation: '-Make it two.<br>-What?'
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.37.51.836-0.37.53.538.mp3
-  sentence: （根元）２つ （斎藤）えっ？
-  words:
-    - word: 根元
-      position: 1
-      tags:
-        - silent
-    - word: 斎藤
-      position: 8
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.37.54.873-0.37.56.174
-  deck_name: Weakest Beast
-  translation: Oh, okay.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.37.54.873-0.37.56.174.mp3
-  sentence: （斎藤）はい
-  words:
-    - word: 斎藤
+      furigana: さくま
       position: 1
       tags:
         - silent
@@ -3664,464 +1885,24 @@
   translation: Tap 5, Daisan G Beer's Barley Wine.
   sound: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.38.10.255-0.38.14.792.mp3
-  sentence: （斎藤）タップ･ファイブ 大三(だいさん)&lrm;Ｇビールのバーレーワイン
+  sentence: （斎藤）タップ･ファイブ 大三Ｇビールのバーレーワイン
   words:
     - word: 斎藤
       position: 1
       tags:
         - silent
-    - word: だい
-      base: 鯛
-      position: 16
+    - word: 大三
+      furigana: だいさん
+      position: 13
       tags:
-        - silent
-    - word: さん
-      position: 18
-      tags:
-        - silent
-    - word: lrm
-      position: 22
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.38.16.628-0.38.18.696
-  deck_name: Weakest Beast
-  translation: You've never had it?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.38.16.628-0.38.18.696.mp3
-  sentence: （斎藤） あれ 飲んだことなかったっけ？
-  words:
-    - word: 斎藤
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.38.49.928-0.38.52.096
-  deck_name: Weakest Beast
-  translation: Thank you.<br>Thank you very much.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.38.49.928-0.38.52.096.mp3
-  sentence: （客）ごちそうさまでした （斎藤）あ～ ありがとう
-  words:
-    - word: 客
-      position: 1
-      tags:
-        - silent
-    - word: 斎藤
-      position: 14
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.38.51.663-0.38.54.232
-  deck_name: Weakest Beast
-  translation: Thank you very much.<br>Thank you very much.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.38.51.663-0.38.54.232.mp3
-  sentence: （客）ごちそうさま （斎藤）どうもありがとう
-  words:
-    - word: 客
-      position: 1
-      tags:
-        - silent
-    - word: 斎藤
-      position: 11
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.40.13.745-0.40.15.646
-  deck_name: Weakest Beast
-  translation: Do people…
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.40.13.745-0.40.15.646.mp3
-  sentence: （晶）こういうとき…
-  words:
-    - word: 晶
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.40.21.586-0.40.23.087
-  deck_name: Weakest Beast
-  translation: You being polite?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.40.21.586-0.40.23.087.mp3
-  sentence: （根元）礼儀？
-  words:
-    - word: 根元
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.40.24.389-0.40.25.723
-  deck_name: Weakest Beast
-  translation: Yes.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.40.24.389-0.40.25.723.mp3
-  sentence: （晶）礼儀
-  words:
-    - word: 晶
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.40.29.260-0.40.31.362
-  deck_name: Weakest Beast
-  translation: We can do without it if…
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.40.29.260-0.40.31.362.mp3
-  sentence: （根元）いらないなら なしでも
-  words:
-    - word: 根元
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.40.34.999-0.40.37.535
-  deck_name: Weakest Beast
-  translation: I wonder if Kyoya did…
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.40.34.999-0.40.37.535.mp3
-  sentence: （晶）したのかな？　京谷
-  words:
-    - word: 晶
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.41.23.481-0.41.24.915
-  deck_name: Weakest Beast
-  translation: You defending him?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.41.23.481-0.41.24.915.mp3
-  sentence: （根元）かばうの？
-  words:
-    - word: 根元
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.41.27.085-0.41.29.820
-  deck_name: Weakest Beast
-  translation: It's not like that.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.41.27.085-0.41.29.820.mp3
-  sentence: （晶）そうじゃなくて…
-  words:
-    - word: 晶
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.41.33.525-0.41.36.594
-  deck_name: Weakest Beast
-  translation: That must've been it.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.41.33.525-0.41.36.594.mp3
-  sentence: （根元）フッ… あれだな
-  words:
-    - word: 根元
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.41.48.940-0.41.51.575
-  deck_name: Weakest Beast
-  translation: Isn't he taking you lightly?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.41.48.940-0.41.51.575.mp3
-  sentence: （根元）晶さんは ナメられてんじゃない？
-  words:
-    - word: 根元
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.42.12.497-0.42.14.365
-  deck_name: Weakest Beast
-  translation: So, you're aware.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.42.12.497-0.42.14.365.mp3
-  sentence: （根元）自覚あるんだ？
-  words:
-    - word: 根元
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.43.06.384-0.43.09.019
-  deck_name: Weakest Beast
-  translation: Maybe he just wanted to end it all.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.43.06.384-0.43.09.019.mp3
-  sentence: （晶） ぶち壊したくなったんじゃない？
-  words:
-    - word: 晶
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.43.31.109-0.43.33.310
-  deck_name: Weakest Beast
-  translation: You really know him well.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.43.31.109-0.43.33.310.mp3
-  sentence: （根元）よく分かるんですね
-  words:
-    - word: 根元
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.44.18.523-0.44.20.391
-  deck_name: Weakest Beast
-  translation: I'm not.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.44.18.523-0.44.20.391.mp3
-  sentence: （晶）ナメてません
-  words:
-    - word: 晶
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.44.20.925-0.44.23.994
-  deck_name: Weakest Beast
-  translation: By Kureha.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.44.20.925-0.44.23.994.mp3
-  sentence: （根元）呉羽に 俺が
-  words:
-    - word: 根元
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.45.53.117-0.45.56.086
-  deck_name: Weakest Beast
-  translation: Your beard.<br>It tickles.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.45.53.117-0.45.56.086.mp3
-  sentence: （晶）ひげ… ひげ…
-  words:
-    - word: 晶
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.47.47.732-0.47.49.133
-  deck_name: Weakest Beast
-  translation: What is it?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.47.47.732-0.47.49.133.mp3
-  sentence: （根元）何？
-  words:
-    - word: 根元
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.47.49.033-0.47.50.701
-  deck_name: Weakest Beast
-  translation: Kosei.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.47.49.033-0.47.50.701.mp3
-  sentence: （岡持）恒星さ～ん
-  words:
-    - word: 岡持
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.47.50.268-0.47.51.969
-  deck_name: Weakest Beast
-  translation: What?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.47.50.268-0.47.51.969.mp3
-  sentence: （根元）なになに なになに？
-  words:
-    - word: 根元
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.47.51.535-0.47.54.271
-  deck_name: Weakest Beast
-  translation: How long are you going to stay in bed, Kosei?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.47.51.535-0.47.54.271.mp3
-  sentence: （岡持）いつまで寝てるんですか？
-  words:
-    - word: 岡持
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.47.55.406-0.47.57.508
-  deck_name: Weakest Beast
-  translation: What? It's still early.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.47.55.406-0.47.57.508.mp3
-  sentence: （根元）なんだよ 朝から
-  words:
-    - word: 根元
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.47.57.475-0.48.00.177
-  deck_name: Weakest Beast
-  translation: It's past lunchtime.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.47.57.475-0.48.00.177.mp3
-  sentence: （岡持）もう お昼過ぎですよ～！
-  words:
-    - word: 岡持
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.49.07.878-0.49.10.781
-  deck_name: Weakest Beast
-  translation: That's not fair!
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.49.07.878-0.49.10.781.mp3
-  sentence: （岡持） ずるいっすよ～！
-  words:
-    - word: 岡持
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.49.15.286-0.49.17.254
-  deck_name: Weakest Beast
-  translation: It's not like that.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.49.15.286-0.49.17.254.mp3
-  sentence: （根元） そういうんじゃねえから
-  words:
-    - word: 根元
-      position: 1
-      tags:
-        - silent
+        - name
 - id: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.49.16.821-0.49.19.089
   deck_name: Weakest Beast
   translation: Oh, welcome. Are you by yourself?
   sound: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.49.16.821-0.49.19.089.mp3
-  sentence: （斎藤）あれ？<br>いらっしゃい １人？
-  words:
-    - word: 斎藤
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.49.20.224-0.49.23.694
-  deck_name: Weakest Beast
-  translation: I was expecting you to take me out for more than just sushi.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.49.20.224-0.49.23.694.mp3
-  sentence: （岡持）それに 今日は すしとか そういうの
-  words:
-    - word: 岡持
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.49.25.463-0.49.27.197
-  deck_name: Weakest Beast
-  translation: Here is good enough for you.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.49.25.463-0.49.27.197.mp3
-  sentence: （根元） お前には ここで十分
-  words:
-    - word: 根元
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.49.26.764-0.49.29.233
-  deck_name: Weakest Beast
-  translation: What do you mean?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.49.26.764-0.49.29.233.mp3
-  sentence: （斎藤）ハハハハ… どういう意味よ？
-  words:
-    - word: 斎藤
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.49.29.467-0.49.31.235
-  deck_name: Weakest Beast
-  translation: Um, did Akira come here last night?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.49.29.467-0.49.31.235.mp3
-  sentence: （花井）あの… ゆうべ
-  words:
-    - word: 花井
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.49.32.670-0.49.34.538
-  deck_name: Weakest Beast
-  translation: '-Last night-- -No.'
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.49.32.670-0.49.34.538.mp3
-  sentence: （斎藤）ゆうべ… （根元）来てませんよ
-  words:
-    - word: 斎藤
-      position: 1
-      tags:
-        - silent
-    - word: 根元
-      position: 10
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.49.38.442-0.49.40.744
-  deck_name: Weakest Beast
-  translation: '-Oh? You''re Hanai?<br>-What?'
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.49.38.442-0.49.40.744.mp3
-  sentence: （岡持）あれ？　花井？
-  words:
-    - word: 岡持
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.49.54.091-0.49.55.659
-  deck_name: Weakest Beast
-  translation: Bitter melon noodles?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.49.54.091-0.49.55.659.mp3
-  sentence: （斎藤）ゴーヤー麺？
-  words:
-    - word: 斎藤
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.49.55.593-0.49.56.960
-  deck_name: Weakest Beast
-  translation: I don't know how to eat it, so…
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.49.55.593-0.49.56.960.mp3
-  sentence: （根元） 食べ方 分かんないから
-  words:
-    - word: 根元
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.49.58.295-0.50.00.097
-  deck_name: Weakest Beast
-  translation: Oh.
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.49.58.295-0.50.00.097.mp3
-  sentence: （斎藤）へえ～
+  sentence: （斎藤）あれ？ いらっしゃい １人？
   words:
     - word: 斎藤
       position: 1
@@ -4133,22 +1914,12 @@
   translation: Not to the bar but to my place.
   sound: >-
     獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.50.10.708-0.50.13.944.mp3
-  sentence: ここじゃなくて 俺ん家(ち)に
+  sentence: ここじゃなくて 俺ん家に
   words:
-    - word: ち
+    - word: 家
+      furigana: ち
+      reading: うち
       position: 12
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.50.37.501-0.50.41.038
-  deck_name: Weakest Beast
-  translation: You're surprised, right?
-  sound: >-
-    獣になれない私たち_第04話まさかの裏切りに彼女ブチギレ衝撃の逆襲始まる720p_HDTV_x264_AAC-DoA_0.50.37.501-0.50.41.038.mp3
-  sentence: （チャイム）
-  words:
-    - word: チャイム
-      position: 1
       tags:
         - silent
 - id: >-
@@ -4157,87 +1928,26 @@
   translation: She actually moans lou--
   sound: >-
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.00.29.823-0.00.32.626.mp3
-  sentence: （&lrm;根元(ねもと)&lrm;）&lrm;晶(あきら)&lrm;さんって ああ見えて 結構 声でかい…
-  words:
-    - word: lrm
-      position: 2
-      tags:
-        - silent
-    - word: 根元
-      position: 6
-      tags:
-        - silent
-    - word: ねもと
-      base: 根元
-      position: 9
-      tags:
-        - silent
-    - word: lrm
-      position: 14
-      tags:
-        - silent
-    - word: あきら
-      position: 26
-      tags:
-        - silent
-    - word: lrm
-      position: 31
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.00.44.938-0.00.46.840
-  deck_name: Weakest Beast
-  translation: Ouch!
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.00.44.938-0.00.46.840.mp3
-  sentence: （根元）イッテえ！
+  sentence: （根元）晶さんって ああ見えて 結構 声でかい…
   words:
     - word: 根元
+      furigana: ねもと
       position: 1
       tags:
         - silent
+    - word: 晶
+      furigana: あきら
+      position: 4
 - id: >-
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.00.47.274-0.00.49.776
   deck_name: Weakest Beast
   translation: I'm sorry. Are you okay?
   sound: >-
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.00.47.274-0.00.49.776.mp3
-  sentence: （花井(はない)） す… すいません 大丈夫ですか？
+  sentence: （花井） す… すいません 大丈夫ですか？
   words:
     - word: 花井
-      position: 1
-      tags:
-        - silent
-    - word: は
-      position: 4
-      tags:
-        - silent
-    - word: ない
-      base: 無い
-      position: 5
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.00.52.146-0.00.53.780
-  deck_name: Weakest Beast
-  translation: I'm really sorry.
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.00.52.146-0.00.53.780.mp3
-  sentence: （花井）ホ… ホントすいません
-  words:
-    - word: 花井
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.00.56.984-0.00.59.886
-  deck_name: Weakest Beast
-  translation: Do you have any right to punch me?
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.00.56.984-0.00.59.886.mp3
-  sentence: （根元） あんたに 俺 殴る権利ある？
-  words:
-    - word: 根元
+      furigana: はない
       position: 1
       tags:
         - silent
@@ -4247,18 +1957,11 @@
   translation: Oh, shit.
   sound: >-
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.01.07.961-0.01.09.162.mp3
-  sentence: （岡持(おかもち)）あ…
+  sentence: （岡持）あ…
   words:
     - word: 岡持
+      furigana: おかもち
       position: 1
-      tags:
-        - silent
-    - word: おか
-      position: 4
-      tags:
-        - silent
-    - word: もち
-      position: 6
       tags:
         - silent
 - id: >-
@@ -4267,217 +1970,36 @@
   translation: Why did you collapse, Saito?
   sound: >-
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.01.13.100-0.01.14.834.mp3
-  sentence: （根元）なんで&lrm;斎藤(さいとう)&lrm;が参ってんの？
+  sentence: （根元）なんで斎藤が参ってんの？
   words:
     - word: 根元
       position: 1
       tags:
         - silent
-    - word: lrm
-      position: 8
-      tags:
-        - silent
-    - word: さいとう
-      base: 菜刀
-      position: 15
-      tags:
-        - silent
-    - word: lrm
-      position: 21
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.01.15.636-0.01.17.704
-  deck_name: Weakest Beast
-  translation: Are you guys okay?
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.01.15.636-0.01.17.704.mp3
-  sentence: （岡持）大丈夫っすか？
-  words:
-    - word: 岡持
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.01.18.305-0.01.20.974
-  deck_name: Weakest Beast
-  translation: I don't like rough stuff.
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.01.18.305-0.01.20.974.mp3
-  sentence: （斎藤） 俺 荒っぽいの嫌いなんだよ
-  words:
     - word: 斎藤
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.01.31.285-0.01.34.387
-  deck_name: Weakest Beast
-  translation: I'm sorry.<br>-I didn't mean to.<br>-Didn't mean to what?
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.01.31.285-0.01.34.387.mp3
-  sentence: （花井）すいませんでした つい…
-  words:
-    - word: 花井
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.01.34.455-0.01.35.889
-  deck_name: Weakest Beast
-  translation: '-I didn''t mean to.<br>-Didn''t mean to what?'
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.01.34.455-0.01.35.889.mp3
-  sentence: （根元）つい？
-  words:
-    - word: 根元
-      position: 1
-      tags:
-        - silent
+      furigana: さいとう
+      position: 7
 - id: >-
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.01.36.924-0.01.40.126
   deck_name: Weakest Beast
   translation: Didn't mean to hit me and didn't mean to fuck Kureha?
   sound: >-
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.01.36.924-0.01.40.126.mp3
-  sentence: つい殴って つい呉羽(くれは)と寝て
+  sentence: つい殴って つい呉羽と寝て
   words:
-    - word: くれ
-      base: 呉れる
-      dictionary: くれる
-      position: 11
-      tags:
-        - silent
-    - word: は
-      position: 13
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.01.42.296-0.01.45.365
-  deck_name: Weakest Beast
-  translation: What? With Kureha?<br>But you're Akira's boyfriend, right?
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.01.42.296-0.01.45.365.mp3
-  sentence: （岡持） えっ えっ えっ 呉羽さんと？
-  words:
-    - word: 岡持
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.01.48.102-0.01.49.736
-  deck_name: Weakest Beast
-  translation: What?
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.01.48.102-0.01.49.736.mp3
-  sentence: （岡持）ええ？ （花井）あ… あの…
-  words:
-    - word: 岡持
-      position: 1
-      tags:
-        - silent
-    - word: 花井
-      position: 9
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.01.49.770-0.01.53.773
-  deck_name: Weakest Beast
-  translation: How many good deeds must I do to get to do that?
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.01.49.770-0.01.53.773.mp3
-  sentence: （岡持）どんだけ… どんだけ いいこと貯金をすれば
-  words:
-    - word: 岡持
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.02.13.560-0.02.15.595
-  deck_name: Weakest Beast
-  translation: Thank you.
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.02.13.560-0.02.15.595.mp3
-  sentence: （晶）ありがとうございます
-  words:
-    - word: 晶
-      position: 1
-      tags:
-        - silent
+    - word: 呉羽
+      furigana: くれは
+      position: 8
 - id: >-
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.02.26.473-0.02.28.041
   deck_name: Weakest Beast
   translation: Hey!
   sound: >-
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.02.26.473-0.02.28.041.mp3
-  sentence: （朱里(しゅり)）おいで
+  sentence: （朱里）おいで
   words:
     - word: 朱里
-      position: 1
-      tags:
-        - silent
-    - word: しゅり
-      base: 手裏
-      position: 4
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.02.34.281-0.02.35.982
-  deck_name: Weakest Beast
-  translation: You're right.
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.02.34.281-0.02.35.982.mp3
-  sentence: （花井）おっしゃるとおり
-  words:
-    - word: 花井
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.02.53.534-0.02.55.769
-  deck_name: Weakest Beast
-  translation: Can I punch him instead?
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.02.53.534-0.02.55.769.mp3
-  sentence: （岡持） 俺が 一発殴ってもいいっすか？
-  words:
-    - word: 岡持
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.02.55.802-0.02.57.771
-  deck_name: Weakest Beast
-  translation: Nah, he'll die.
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.02.55.802-0.02.57.771.mp3
-  sentence: （根元） さすがにウェートが違うだろ
-  words:
-    - word: 根元
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.02.57.337-0.02.59.539
-  deck_name: Weakest Beast
-  translation: Just stop it already.
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.02.57.337-0.02.59.539.mp3
-  sentence: （斎藤）もう やめてよ！
-  words:
-    - word: 斎藤
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.03.03.010-0.03.05.278
-  deck_name: Weakest Beast
-  translation: I came here because…
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.03.03.010-0.03.05.278.mp3
-  sentence: （晶）ここへ来たのは…
-  words:
-    - word: 晶
+      furigana: しゅり
       position: 1
       tags:
         - silent
@@ -4487,543 +2009,127 @@
   translation: About me coming here today. Kyoya…
   sound: >-
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.03.06.380-0.03.09.683.mp3
-  sentence: 来たことは 京谷(きょうや)は…
+  sentence: 来たことは 京谷は…
   words:
-    - word: きょう
-      base: 今日
-      position: 9
-      tags:
-        - silent
-    - word: や
-      position: 12
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.05.28.155-0.05.32.325
-  deck_name: Weakest Beast
-  translation: He's Akira's boyfriend, so I can smell hypocrisy.
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.05.28.155-0.05.32.325.mp3
-  sentence: （根元） 晶の男だからな 偽善臭がすごい
-  words:
-    - word: 根元
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.05.48.408-0.05.49.442
-  deck_name: Weakest Beast
-  translation: What?
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.05.48.408-0.05.49.442.mp3
-  sentence: （根元）ん？
-  words:
-    - word: 根元
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.06.07.494-0.06.10.530
-  deck_name: Weakest Beast
-  translation: You've been together for four years.<br>Now you can't?
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.06.07.494-0.06.10.530.mp3
-  sentence: （根元）４年もつきあっといて 今更 つきあっちゃいけないって…
-  words:
-    - word: 根元
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.06.15.402-0.06.17.570
-  deck_name: Weakest Beast
-  translation: '-That''s not a nice-- -Way to say it!'
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.06.15.402-0.06.17.570.mp3
-  sentence: （岡持）かわいそうっすよ！
-  words:
-    - word: 岡持
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.06.36.623-0.06.39.692
-  deck_name: Weakest Beast
-  translation: I see.
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.06.36.623-0.06.39.692.mp3
-  sentence: （朱里）そっか～
-  words:
-    - word: 朱里
-      position: 1
-      tags:
-        - silent
+    - word: 京谷
+      furigana: きょうや
+      position: 6
 - id: >-
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.07.04.351-0.07.08.988
   deck_name: Weakest Beast
   translation: If I stay here, and if I put up with his occasional tantrum,
   sound: >-
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.07.04.351-0.07.08.988.mp3
-  sentence: ここにいれば 京(きょう)ちゃんが ときたま怒るの 我慢すれば
+  sentence: ここにいれば 京ちゃんが ときたま怒るの 我慢すれば
   words:
-    - word: きょう
-      base: 今日
-      position: 9
+    - word: 京
+      furigana: きょう
+      position: 7
       tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.07.28.575-0.07.30.310
-  deck_name: Weakest Beast
-  translation: '-Is that why you''re-- -The hell are you saying?'
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.07.28.575-0.07.30.310.mp3
-  sentence: （朱里）何言ってんの？
-  words:
-    - word: 朱里
-      position: 1
-      tags:
-        - silent
+        - name
 - id: >-
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.08.35.007-0.08.39.078
   deck_name: Weakest Beast
   translation: It's not like I'm having an easy ti--
   sound: >-
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.08.35.007-0.08.39.078.mp3
-  sentence: 私だって 楽(らく)して 楽しく働いてるわけじゃ…
+  sentence: 私だって 楽して 楽しく働いてるわけじゃ…
   words:
-    - word: らく
-      base: 楽
-      position: 7
-      tags:
-        - silent
+    - word: 楽
+      furigana: らく
+      position: 5
+    - word: 楽
+      reading: らく
+      position: 9
 - id: >-
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.08.38.645-0.08.42.314
   deck_name: Weakest Beast
   translation: The hell are you complaining about?
   sound: >-
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.08.38.645-0.08.42.314.mp3
-  sentence: はあ？　何 贅沢(ぜいたく) 言ってんの？
+  sentence: はあ？　何 贅沢言ってんの？
   words:
-    - word: ぜいたく
-      base: 贅沢
-      position: 9
-      tags:
-        - silent
+    - word: 贅沢
+      furigana: ぜいたく
+      position: 6
 - id: >-
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.08.48.455-0.08.50.823
   deck_name: Weakest Beast
   translation: And your mother-in-law likes you?
   sound: >-
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.08.48.455-0.08.50.823.mp3
-  sentence: お義母(かあ)さんにも気に入られて
+  sentence: お義母さんにも気に入られて
   words:
-    - word: かあ
-      base: か
-      position: 4
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.12.15.862-0.12.18.064
-  deck_name: Weakest Beast
-  translation: Don't use tableware for it.
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.12.15.862-0.12.18.064.mp3
-  sentence: （花井）ウサギに食器 使うなよ
-  words:
-    - word: 花井
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.13.03.710-0.13.06.979
-  deck_name: Weakest Beast
-  translation: It's not all doom and gloom, you know?
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.13.03.710-0.13.06.979.mp3
-  sentence: （斎藤）う～ん 悲しいことばっかりじゃないよ
-  words:
-    - word: 斎藤
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.13.08.782-0.13.10.716
-  deck_name: Weakest Beast
-  translation: What else is there?
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.13.08.782-0.13.10.716.mp3
-  sentence: （岡持）何があるんすか？
-  words:
-    - word: 岡持
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.13.15.722-0.13.18.324
-  deck_name: Weakest Beast
-  translation: I don't even really like alcohol that much.
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.13.15.722-0.13.18.324.mp3
-  sentence: （岡持） 俺 そんな酒 好きじゃねえし
-  words:
-    - word: 岡持
-      position: 1
-      tags:
-        - silent
+    - word: お義母さん
+      position: 0
 - id: >-
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.13.18.591-0.13.22.795
   deck_name: Weakest Beast
   translation: I don't even like IPA beer.<br>It's too bitter!
   sound: >-
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.13.18.591-0.13.22.795.mp3
-  sentence: あの アイピーなんちゃらって ビールも　すげえ苦(にげ)えし
+  sentence: あの アイピーなんちゃらって ビールも　すげえ苦えし
   words:
-    - word: にげ
-      base: 逃げる
-      dictionary: にげる
-      position: 25
-      tags:
-        - silent
+    - word: 苦え
+      furigana:
+        - word: 苦
+          furigana: にげ
+        - え
+      base: 苦い
+      reading: にがい
+      position: 23
 - id: >-
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.13.24.063-0.13.26.365
   deck_name: Weakest Beast
   translation: Oh, my bad.<br>Next time, I'll put in a barrel
   sound: >-
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.13.24.063-0.13.26.365.mp3
-  sentence: 今度 三郎(さぶろう)ちゃんのためにね
+  sentence: 今度 三郎ちゃんのためにね
   words:
-    - word: さぶろう
-      position: 6
-      tags:
-        - silent
+    - word: 三郎
+      furigana: さぶろう
+      position: 3
 - id: >-
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.13.26.332-0.13.29.735
   deck_name: Weakest Beast
   translation: of apple hops for you!
   sound: >-
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.13.26.332-0.13.29.735.mp3
-  sentence: おいしいアップルホップの樽(たる) 仕込んどくから
+  sentence: おいしいアップルホップの樽 仕込んどくから
   words:
-    - word: たる
-      base: たり
-      dictionary: たり
-      position: 14
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.13.30.303-0.13.32.071
-  deck_name: Weakest Beast
-  translation: What is that?
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.13.30.303-0.13.32.071.mp3
-  sentence: （岡持）なんすか？　それ
-  words:
-    - word: 岡持
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.13.32.071-0.13.33.239
-  deck_name: Weakest Beast
-  translation: '-An apple-flavored beer.<br>-I''ve had enough of beer!'
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.13.32.071-0.13.33.239.mp3
-  sentence: （斎藤）ビール
-  words:
-    - word: 斎藤
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.13.43.149-0.13.46.385
-  deck_name: Weakest Beast
-  translation: It started raining!<br>Kureha!
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.13.43.149-0.13.46.385.mp3
-  sentence: （カメラマン）降られた～ （メイク）呉羽ちゃ～ん！
-  words:
-    - word: カメラマン
-      position: 1
-      tags:
-        - silent
-    - word: メイク
-      base: メーク
-      position: 14
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.13.45.952-0.13.48.354
-  deck_name: Weakest Beast
-  translation: '-Arisa, a towel!<br>-Yes!'
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.13.45.952-0.13.48.354.mp3
-  sentence: （呉羽）ありさ タオル （ありさ）はい！
-  words:
-    - word: 呉羽
-      position: 1
-      tags:
-        - silent
-    - word: ありさ
-      position: 13
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.13.48.755-0.13.50.823
-  deck_name: Weakest Beast
-  translation: Here you go.<br>-Okay.<br>-Thank you.
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.13.48.755-0.13.50.823.mp3
-  sentence: （ありさ）どうぞ！ （呉羽）はい はい…
-  words:
-    - word: ありさ
-      position: 1
-      tags:
-        - silent
-    - word: 呉羽
-      position: 11
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.13.50.390-0.13.52.058
-  deck_name: Weakest Beast
-  translation: '-Okay.<br>-Thank you.<br>Thank you.'
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.13.50.390-0.13.52.058.mp3
-  sentence: （メイク）ありがとう （カメラマン）ありがとう
-  words:
-    - word: メイク
-      base: メーク
-      position: 1
-      tags:
-        - silent
-    - word: カメラマン
+    - word: 樽
+      furigana: たる
       position: 12
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.13.52.458-0.13.54.660
-  deck_name: Weakest Beast
-  translation: '-We got so wet.<br>-I''m so wet.'
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.13.52.458-0.13.54.660.mp3
-  sentence: （呉羽）ぬれた？ （メイク）ぬれた
-  words:
-    - word: 呉羽
-      position: 1
-      tags:
-        - silent
-    - word: メイク
-      base: メーク
-      position: 10
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.13.54.227-0.13.55.995
-  deck_name: Weakest Beast
-  translation: I heard about your husband, Kureha.
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.13.54.227-0.13.55.995.mp3
-  sentence: （カメラマン）聞いた （呉羽）ん？
-  words:
-    - word: カメラマン
-      position: 1
-      tags:
-        - silent
-    - word: 呉羽
-      position: 12
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.13.55.562-0.13.57.530
-  deck_name: Weakest Beast
-  translation: I heard about your husband, Kureha.
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.13.55.562-0.13.57.530.mp3
-  sentence: （カメラマン） 呉羽ちゃんの旦那さん
-  words:
-    - word: カメラマン
-      position: 1
-      tags:
-        - silent
 - id: >-
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.13.57.096-0.13.59.231
   deck_name: Weakest Beast
   translation: He's Kaiji Tachibana, huh?
   sound: >-
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.13.57.096-0.13.59.231.mp3
-  sentence: 橘(たちばな)&lrm; カイジなんだって？
+  sentence: 橘 カイジなんだって？
   words:
-    - word: たちばな
-      base: 橘
+    - word: 橘
+      furigana: たちばな
+      position: 0
+    - word: カイジ
       position: 2
       tags:
-        - silent
-    - word: lrm
-      position: 8
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.13.59.265-0.14.00.666
-  deck_name: Weakest Beast
-  translation: You knew?
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.13.59.265-0.14.00.666.mp3
-  sentence: （呉羽）バレた？
-  words:
-    - word: 呉羽
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.15.15.008-0.15.16.776
-  deck_name: Weakest Beast
-  translation: I caught a cold.
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.15.15.008-0.15.16.776.mp3
-  sentence: （根元）風邪引きました
-  words:
-    - word: 根元
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.15.28.054-0.15.29.889
-  deck_name: Weakest Beast
-  translation: No, it wasn't.
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.15.28.054-0.15.29.889.mp3
-  sentence: （根元）違いますよ
-  words:
-    - word: 根元
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.15.31.724-0.15.34.360
-  deck_name: Weakest Beast
-  translation: I was hit by a nasty creditor.
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.15.31.724-0.15.34.360.mp3
-  sentence: （根元） タチの悪い債権者にやられました
-  words:
-    - word: 根元
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.15.34.594-0.15.36.662
-  deck_name: Weakest Beast
-  translation: What kind of claim is that?
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.15.34.594-0.15.36.662.mp3
-  sentence: （堀田）なんの債権だよ
-  words:
-    - word: 堀田
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.15.37.664-0.15.40.066
-  deck_name: Weakest Beast
-  translation: Good morning, Mr. Hotta.
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.15.37.664-0.15.40.066.mp3
-  sentence: （川島） おはようございます 堀田先生
-  words:
-    - word: 川島
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.15.39.966-0.15.42.068
-  deck_name: Weakest Beast
-  translation: Morning, Accounting Head.
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.15.39.966-0.15.42.068.mp3
-  sentence: （堀田） おはようございます 経理部長
-  words:
-    - word: 堀田
-      position: 1
-      tags:
-        - silent
+        - name
 - id: >-
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.15.55.582-0.15.57.917
   deck_name: Weakest Beast
   translation: Morning, you're early.<br>Good morning.<br>Do you always come in this early?
   sound: >-
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.15.55.582-0.15.57.917.mp3
-  sentence: （晶）おはよう 早いね （上野(うえの)）おはようございます
+  sentence: （晶）おはよう 早いね （上野）おはようございます
   words:
     - word: 晶
       position: 1
       tags:
         - silent
     - word: 上野
+      furigana: うえの
       position: 13
-      tags:
-        - silent
-    - word: うえの
-      position: 16
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.15.58.284-0.15.59.985
-  deck_name: Weakest Beast
-  translation: Good morning.<br>Do you always come in this early?
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.15.58.284-0.15.59.985.mp3
-  sentence: （上野） いつも こんな早いんですか？
-  words:
-    - word: 上野
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.15.59.552-0.16.00.853
-  deck_name: Weakest Beast
-  translation: Yeah.
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.15.59.552-0.16.00.853.mp3
-  sentence: （晶）うん
-  words:
-    - word: 晶
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.16.28.948-0.16.32.751
-  deck_name: Weakest Beast
-  translation: I made it with processed ingredients from Miyako Tokusan.
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.16.28.948-0.16.32.751.mp3
-  sentence: （晶）ミヤコ特産さんの 加工食材で作ってみた
-  words:
-    - word: 晶
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.16.41.494-0.16.42.595
-  deck_name: Weakest Beast
-  translation: Here.
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.16.41.494-0.16.42.595.mp3
-  sentence: （晶）はい
-  words:
-    - word: 晶
-      position: 1
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.16.47.233-0.16.48.567
-  deck_name: Weakest Beast
-  translation: Come on.
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.16.47.233-0.16.48.567.mp3
-  sentence: （晶）まあまあ
-  words:
-    - word: 晶
-      position: 1
       tags:
         - silent
 - id: >-
@@ -5032,20 +2138,11 @@
   translation: The stomach and smiles.<br>He is so easy to read.
   sound: >-
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.17.19.866-0.17.23.102.mp3
-  sentence: （夢子(ゆめこ)）胃袋と笑顔 分かりやすい
+  sentence: （夢子）胃袋と笑顔 分かりやすい
   words:
     - word: 夢子
+      furigana: ゆめこ
       position: 1
-      tags:
-        - silent
-    - word: ゆめ
-      base: 夢
-      position: 4
-      tags:
-        - silent
-    - word: こ
-      base: っこ
-      position: 6
       tags:
         - silent
 - id: >-
@@ -5054,33 +2151,10 @@
   translation: What are you doing?<br>-Good morning.<br>-Morning.
   sound: >-
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.17.23.102-0.17.25.271.mp3
-  sentence: （九十九(つくも)）何しとんねん （夢子）おはようございます！
+  sentence: （九十九）何しとんねん （夢子）おはようございます！
   words:
     - word: 九十九
-      position: 1
-      tags:
-        - silent
-    - word: つく
-      position: 5
-      tags:
-        - silent
-    - word: も
-      position: 7
-      tags:
-        - silent
-    - word: 夢子
-      position: 18
-      tags:
-        - silent
-- id: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.17.24.837-0.17.27.673
-  deck_name: Weakest Beast
-  translation: '-Good morning.<br>-Morning.'
-  sound: >-
-    獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.17.24.837-0.17.27.673.mp3
-  sentence: （九十九）おはようさん （夢子）おはようございます
-  words:
-    - word: 九十九
+      furigana: つくも
       position: 1
       tags:
         - silent
@@ -5094,13 +2168,11 @@
   translation: Special Chief Creative Officer Shinkai!
   sound: >-
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.17.27.707-0.17.30.442.mp3
-  sentence: 特別チーフクリエイター 深海(しんかい)！
+  sentence: 特別チーフクリエイター 深海！
   words:
-    - word: しんかい
-      base: 深海
-      position: 15
-      tags:
-        - silent
+    - word: 深海
+      furigana: しんかい
+      position: 12
 - id: >-
     獣になれない私たち_第05話バカになってみた夜揺れ動く恋のけもの720p_HDTV_x264_AAC-DoA_0.18.31.137-0.18.34.340
   deck_name: Weakest Beast

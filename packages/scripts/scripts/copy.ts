@@ -55,7 +55,7 @@ async function main() {
           word_dictionary_list = [],
           translation_word_list = [],
           translation_word_base_list = [],
-          image,
+          // image,
           ...d
         }) => {
           sentence = sentence.replace(reClean, '').replace(reWordClean, '')
