@@ -6,14 +6,6 @@
   sound_begin: 7340
   sound_end: 8520
   sentence: 蟹のしょうばい
-  words:
-    - word: 蟹
-      position: 0
-    - word: の
-      position: 1
-    - word: しょうばい
-      base: 商売
-      position: 2
 - id: Kanino Shobai-f000003
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -22,22 +14,6 @@
   sound_begin: 12520
   sound_end: 16335
   sentence: 蟹がいろいろ考えたあげく、
-  words:
-    - word: 蟹
-      position: 0
-    - word: が
-      position: 1
-    - word: いろいろ
-      base: 色々
-      position: 2
-    - word: 考え
-      base: 考える
-      position: 6
-    - word: た
-      position: 8
-    - word: あげく
-      base: 挙げ句
-      position: 9
 - id: Kanino Shobai-f000004
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -46,21 +22,6 @@
   sound_begin: 16335
   sound_end: 17880
   sentence: とこやをはじめました。
-  words:
-    - word: とこ
-      position: 0
-    - word: や
-      position: 2
-    - word: を
-      position: 3
-    - word: はじめ
-      base: 始める
-      position: 4
-    - word: まし
-      base: ます
-      position: 7
-    - word: た
-      position: 9
 - id: Kanino Shobai-f000005
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -69,40 +30,6 @@
   sound_begin: 20080
   sound_end: 23400
   sentence: 蟹の考えとしてはおおできでありました。
-  words:
-    - word: 蟹
-      position: 0
-    - word: の
-      position: 1
-    - word: 考え
-      base: 考
-      position: 2
-    - word: と
-      position: 4
-    - word: し
-      base: 為る
-      position: 5
-    - word: て
-      position: 6
-    - word: は
-      position: 7
-    - word: お
-      base: 御
-      position: 8
-    - word: おでき
-      base: 御出来
-      position: 9
-    - word: で
-      base: だ
-      position: 12
-    - word: あり
-      base: 有る
-      position: 13
-    - word: まし
-      base: ます
-      position: 15
-    - word: た
-      position: 17
 - id: Kanino Shobai-f000006
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -111,12 +38,6 @@
   sound_begin: 26000
   sound_end: 27131
   sentence: ところで、
-  words:
-    - word: ところ
-      base: 所
-      position: 0
-    - word: で
-      position: 3
 - id: Kanino Shobai-f000007
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -125,11 +46,6 @@
   sound_begin: 27131
   sound_end: 29159
   sentence: 蟹は、
-  words:
-    - word: 蟹
-      position: 0
-    - word: は
-      position: 1
 - id: Kanino Shobai-f000008
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -138,21 +54,6 @@
   sound_begin: 29159
   sound_end: 31473
   sentence: 「とこやというしょうばいは、
-  words:
-    - word: とこ
-      position: 1
-    - word: や
-      position: 3
-    - word: と
-      position: 4
-    - word: いう
-      base: 言う
-      position: 5
-    - word: しょうばい
-      base: 商売
-      position: 7
-    - word: は
-      position: 12
 - id: Kanino Shobai-f000009
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -161,23 +62,6 @@
   sound_begin: 31473
   sound_end: 33360
   sentence: たいへんひまなものだな。」
-  words:
-    - word: たいへん
-      base: 大変
-      position: 0
-    - word: ひま
-      base: 暇
-      position: 4
-    - word: な
-      base: だ
-      position: 6
-    - word: もの
-      base: 物
-      position: 7
-    - word: だ
-      position: 9
-    - word: な
-      position: 10
 - id: Kanino Shobai-f000010
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -186,17 +70,6 @@
   sound_begin: 35060
   sound_end: 37335
   sentence: と思いました。
-  words:
-    - word: と
-      position: 0
-    - word: 思い
-      base: 思う
-      position: 1
-    - word: まし
-      base: ます
-      position: 3
-    - word: た
-      position: 5
 - id: Kanino Shobai-f000011
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -205,18 +78,6 @@
   sound_begin: 37335
   sound_end: 39360
   sentence: と申しますのは、
-  words:
-    - word: と
-      position: 0
-    - word: 申し
-      base: 申す
-      position: 1
-    - word: ます
-      position: 3
-    - word: の
-      position: 5
-    - word: は
-      position: 6
 - id: Kanino Shobai-f000012
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -225,36 +86,6 @@
   sound_begin: 39360
   sound_end: 42940
   sentence: ひとりもお客さんがこないからであります。
-  words:
-    - word: ひとり
-      base: 一人
-      position: 0
-    - word: も
-      position: 3
-    - word: お
-      base: 御
-      position: 4
-    - word: 客
-      position: 5
-    - word: さん
-      position: 6
-    - word: が
-      position: 8
-    - word: こ
-      base: 来る
-      position: 9
-    - word: ない
-      position: 10
-    - word: から
-      position: 12
-    - word: で
-      base: だ
-      position: 14
-    - word: あり
-      base: 有る
-      position: 15
-    - word: ます
-      position: 17
 - id: Kanino Shobai-f000013
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -263,12 +94,6 @@
   sound_begin: 45040
   sound_end: 46382
   sentence: そこで、
-  words:
-    - word: そこ
-      base: 其処
-      position: 0
-    - word: で
-      position: 2
 - id: Kanino Shobai-f000014
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -277,19 +102,6 @@
   sound_begin: 46382
   sound_end: 48249
   sentence: 蟹のとこやさんは、
-  words:
-    - word: 蟹
-      position: 0
-    - word: の
-      position: 1
-    - word: とこ
-      position: 2
-    - word: や
-      position: 4
-    - word: さん
-      position: 5
-    - word: は
-      position: 7
 - id: Kanino Shobai-f000015
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -298,37 +110,6 @@
   sound_begin: 48249
   sound_end: 52300
   sentence: はさみをもって海っぱたにやっていきました。
-  words:
-    - word: はさみ
-      position: 0
-    - word: を
-      position: 3
-    - word: もっ
-      base: 持つ
-      position: 4
-    - word: て
-      position: 6
-    - word: 海
-      position: 7
-    - word: っ
-      position: 8
-    - word: ぱた
-      position: 9
-    - word: に
-      position: 11
-    - word: やっ
-      base: 遣る
-      position: 12
-    - word: て
-      position: 14
-    - word: いき
-      base: 行く
-      position: 15
-    - word: まし
-      base: ます
-      position: 17
-    - word: た
-      position: 19
 - id: Kanino Shobai-f000016
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -337,36 +118,6 @@
   sound_begin: 54330
   sound_end: 58100
   sentence: そこにはたこがひるねをしていました。
-  words:
-    - word: そこ
-      base: 其処
-      position: 0
-    - word: に
-      position: 2
-    - word: は
-      position: 3
-    - word: たこ
-      position: 4
-    - word: が
-      position: 6
-    - word: ひるね
-      base: 昼寝
-      position: 7
-    - word: を
-      position: 10
-    - word: し
-      base: 為る
-      position: 11
-    - word: て
-      position: 12
-    - word: い
-      base: 居る
-      position: 13
-    - word: まし
-      base: ます
-      position: 14
-    - word: た
-      position: 16
 - id: Kanino Shobai-f000017
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -375,9 +126,6 @@
   sound_begin: 60200
   sound_end: 61476
   sentence: 「もしもし、
-  words:
-    - word: もしもし
-      position: 1
 - id: Kanino Shobai-f000018
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -386,11 +134,6 @@
   sound_begin: 61476
   sound_end: 63428
   sentence: たこさん。」
-  words:
-    - word: たこ
-      position: 0
-    - word: さん
-      position: 2
 - id: Kanino Shobai-f000019
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -399,24 +142,6 @@
   sound_begin: 63428
   sound_end: 65840
   sentence: と蟹はよびかけました。
-  words:
-    - word: と
-      position: 0
-    - word: 蟹
-      position: 1
-    - word: は
-      position: 2
-    - word: よび
-      base: 呼ぶ
-      position: 3
-    - word: かけ
-      base: 掛ける
-      position: 5
-    - word: まし
-      base: ます
-      position: 7
-    - word: た
-      position: 9
 - id: Kanino Shobai-f000020
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -425,19 +150,6 @@
   sound_begin: 67540
   sound_end: 69840
   sentence: たこはめをさまして、
-  words:
-    - word: たこ
-      position: 0
-    - word: はめ
-      base: 羽目
-      position: 2
-    - word: を
-      position: 4
-    - word: さまし
-      base: さます
-      position: 5
-    - word: て
-      position: 8
 - id: Kanino Shobai-f000021
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -446,12 +158,6 @@
   sound_begin: 69840
   sound_end: 71596
   sentence: 「なんだ。」
-  words:
-    - word: なん
-      base: 何
-      position: 1
-    - word: だ
-      position: 3
 - id: Kanino Shobai-f000022
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -460,17 +166,6 @@
   sound_begin: 71596
   sound_end: 73961
   sentence: といいました。
-  words:
-    - word: と
-      position: 0
-    - word: いい
-      base: 言う
-      position: 1
-    - word: まし
-      base: ます
-      position: 3
-    - word: た
-      position: 5
 - id: Kanino Shobai-f000023
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -479,15 +174,6 @@
   sound_begin: 73961
   sound_end: 75532
   sentence: 「とこやですが、
-  words:
-    - word: とこ
-      position: 1
-    - word: や
-      position: 3
-    - word: です
-      position: 4
-    - word: が
-      position: 6
 - id: Kanino Shobai-f000024
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -496,25 +182,6 @@
   sound_begin: 75532
   sound_end: 77380
   sentence: ごようはありませんか。」
-  words:
-    - word: ご
-      base: 御
-      position: 0
-    - word: よう
-      position: 1
-    - word: は
-      position: 3
-    - word: あり
-      base: 有る
-      position: 4
-    - word: ませ
-      base: ます
-      position: 6
-    - word: ん
-      base: ず
-      position: 8
-    - word: か
-      position: 9
 - id: Kanino Shobai-f000025
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -523,15 +190,6 @@
   sound_begin: 79480
   sound_end: 81560
   sentence: 「よくごらんよ。
-  words:
-    - word: よく
-      base: 良く
-      position: 1
-    - word: ごらん
-      base: 御覧
-      position: 3
-    - word: よ
-      position: 6
 - id: Kanino Shobai-f000026
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -540,29 +198,6 @@
   sound_begin: 81560
   sound_end: 84640
   sentence: わたしの頭に毛があるかどうか。」
-  words:
-    - word: わたし
-      base: 私
-      position: 0
-    - word: の
-      position: 3
-    - word: 頭
-      position: 4
-    - word: に
-      position: 5
-    - word: 毛
-      position: 6
-    - word: が
-      position: 7
-    - word: ある
-      base: 有る
-      position: 8
-    - word: か
-      position: 10
-    - word: どう
-      position: 11
-    - word: か
-      position: 13
 - id: Kanino Shobai-f000027
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -571,30 +206,6 @@
   sound_begin: 87040
   sound_end: 91547
   sentence: 蟹はたこの頭をよくみました。
-  words:
-    - word: 蟹
-      position: 0
-    - word: は
-      position: 1
-    - word: たこ
-      position: 2
-    - word: の
-      position: 4
-    - word: 頭
-      position: 5
-    - word: を
-      position: 6
-    - word: よく
-      base: 良く
-      position: 7
-    - word: み
-      base: 見る
-      position: 9
-    - word: まし
-      base: ます
-      position: 10
-    - word: た
-      position: 12
 - id: Kanino Shobai-f000028
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -603,22 +214,6 @@
   sound_begin: 91547
   sound_end: 94301
   sentence: なるほど毛はひとすじもなく、
-  words:
-    - word: なるほど
-      base: 成る程
-      position: 0
-    - word: 毛
-      position: 4
-    - word: は
-      position: 5
-    - word: ひとすじ
-      base: 一筋
-      position: 6
-    - word: も
-      position: 10
-    - word: なく
-      base: 無い
-      position: 11
 - id: Kanino Shobai-f000029
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -627,22 +222,6 @@
   sound_begin: 94301
   sound_end: 97200
   sentence: つるんこでありました。
-  words:
-    - word: つるん
-      position: 0
-    - word: こ
-      position: 3
-    - word: で
-      base: だ
-      position: 4
-    - word: あり
-      base: 有る
-      position: 5
-    - word: まし
-      base: ます
-      position: 7
-    - word: た
-      position: 9
 - id: Kanino Shobai-f000030
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -651,29 +230,6 @@
   sound_begin: 97200
   sound_end: 99893
   sentence: いくら蟹がじょうずなとこやでも、
-  words:
-    - word: いくら
-      base: 幾ら
-      position: 0
-    - word: 蟹
-      position: 3
-    - word: が
-      position: 4
-    - word: じょうず
-      base: 上手
-      position: 5
-    - word: な
-      base: だ
-      position: 9
-    - word: と
-      position: 10
-    - word: こや
-      base: 小屋
-      position: 11
-    - word: で
-      position: 13
-    - word: も
-      position: 14
 - id: Kanino Shobai-f000031
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -682,33 +238,6 @@
   sound_begin: 99893
   sound_end: 102480
   sentence: 毛のない頭をかることはできません。
-  words:
-    - word: 毛
-      position: 0
-    - word: の
-      position: 1
-    - word: ない
-      base: 無い
-      position: 2
-    - word: 頭
-      position: 4
-    - word: を
-      position: 5
-    - word: かる
-      position: 6
-    - word: こと
-      position: 8
-    - word: は
-      position: 10
-    - word: でき
-      base: 出来る
-      position: 11
-    - word: ませ
-      base: ます
-      position: 13
-    - word: ん
-      base: ず
-      position: 15
 - id: Kanino Shobai-f000032
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -717,11 +246,6 @@
   sound_begin: 105380
   sound_end: 105880
   sentence: 蟹は、
-  words:
-    - word: 蟹
-      position: 0
-    - word: は
-      position: 1
 - id: Kanino Shobai-f000033
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -730,12 +254,6 @@
   sound_begin: 105880
   sound_end: 107030
   sentence: そこで、
-  words:
-    - word: そこ
-      base: 其処
-      position: 0
-    - word: で
-      position: 2
 - id: Kanino Shobai-f000034
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -744,24 +262,6 @@
   sound_begin: 107030
   sound_end: 110360
   sentence: 山へやっていきました。
-  words:
-    - word: 山
-      position: 0
-    - word: へ
-      position: 1
-    - word: やっ
-      base: 遣る
-      position: 2
-    - word: て
-      position: 4
-    - word: いき
-      base: 行く
-      position: 5
-    - word: まし
-      base: ます
-      position: 7
-    - word: た
-      position: 9
 - id: Kanino Shobai-f000035
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -770,36 +270,6 @@
   sound_begin: 110360
   sound_end: 113740
   sentence: 山にはたぬきがひるねをしていました。
-  words:
-    - word: 山
-      position: 0
-    - word: に
-      position: 1
-    - word: は
-      position: 2
-    - word: たぬき
-      base: 狸
-      position: 3
-    - word: が
-      position: 6
-    - word: ひるね
-      base: 昼寝
-      position: 7
-    - word: を
-      position: 10
-    - word: し
-      base: 為る
-      position: 11
-    - word: て
-      position: 12
-    - word: い
-      base: 居る
-      position: 13
-    - word: まし
-      base: ます
-      position: 14
-    - word: た
-      position: 16
 - id: Kanino Shobai-f000036
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -808,9 +278,6 @@
   sound_begin: 115840
   sound_end: 116901
   sentence: 「もしもし、
-  words:
-    - word: もしもし
-      position: 1
 - id: Kanino Shobai-f000037
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -819,12 +286,6 @@
   sound_begin: 116901
   sound_end: 117640
   sentence: たぬきさん。」
-  words:
-    - word: たぬき
-      base: 狸
-      position: 0
-    - word: さん
-      position: 3
 - id: Kanino Shobai-f000038
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -833,20 +294,6 @@
   sound_begin: 119340
   sound_end: 121600
   sentence: たぬきはめをさまして、
-  words:
-    - word: たぬき
-      base: 狸
-      position: 0
-    - word: はめ
-      base: 羽目
-      position: 3
-    - word: を
-      position: 5
-    - word: さまし
-      base: さます
-      position: 6
-    - word: て
-      position: 9
 - id: Kanino Shobai-f000039
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -855,12 +302,6 @@
   sound_begin: 121600
   sound_end: 123113
   sentence: 「なんだ。」
-  words:
-    - word: なん
-      base: 何
-      position: 1
-    - word: だ
-      position: 3
 - id: Kanino Shobai-f000040
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -869,17 +310,6 @@
   sound_begin: 123113
   sound_end: 125191
   sentence: といいました。
-  words:
-    - word: と
-      position: 0
-    - word: いい
-      base: 言う
-      position: 1
-    - word: まし
-      base: ます
-      position: 3
-    - word: た
-      position: 5
 - id: Kanino Shobai-f000041
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -888,33 +318,6 @@
   sound_begin: 125191
   sound_end: 128039
   sentence: 「とこやですがごようはありませんか。」
-  words:
-    - word: とこ
-      position: 1
-    - word: や
-      position: 3
-    - word: です
-      position: 4
-    - word: が
-      position: 6
-    - word: ご
-      base: 五
-      position: 7
-    - word: よう
-      position: 8
-    - word: は
-      position: 10
-    - word: あり
-      base: 有る
-      position: 11
-    - word: ませ
-      base: ます
-      position: 13
-    - word: ん
-      base: ず
-      position: 15
-    - word: か
-      position: 16
 - id: Kanino Shobai-f000042
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -923,12 +326,6 @@
   sound_begin: 130139
   sound_end: 130759
   sentence: たぬきは、
-  words:
-    - word: たぬき
-      base: 狸
-      position: 0
-    - word: は
-      position: 3
 - id: Kanino Shobai-f000043
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -937,25 +334,6 @@
   sound_begin: 130759
   sound_end: 133240
   sentence: いたずらがすきなけものですから、
-  words:
-    - word: いたずら
-      base: 悪戯
-      position: 0
-    - word: が
-      position: 4
-    - word: すき
-      base: 好き
-      position: 5
-    - word: な
-      base: だ
-      position: 7
-    - word: けもの
-      base: 獣
-      position: 8
-    - word: です
-      position: 11
-    - word: から
-      position: 13
 - id: Kanino Shobai-f000044
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -964,25 +342,6 @@
   sound_begin: 133240
   sound_end: 135200
   sentence: よくないことを考えました。
-  words:
-    - word: よく
-      base: 良い
-      position: 0
-    - word: ない
-      base: 無い
-      position: 2
-    - word: こと
-      position: 4
-    - word: を
-      position: 6
-    - word: 考え
-      base: 考える
-      position: 7
-    - word: まし
-      base: ます
-      position: 9
-    - word: た
-      position: 11
 - id: Kanino Shobai-f000045
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -991,10 +350,6 @@
   sound_begin: 136900
   sound_end: 137937
   sentence: 「よろしい、
-  words:
-    - word: よろしい
-      base: 宜しい
-      position: 1
 - id: Kanino Shobai-f000046
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1003,13 +358,6 @@
   sound_begin: 137937
   sound_end: 139720
   sentence: かってもらおう。
-  words:
-    - word: かって
-      base: 嘗て
-      position: 0
-    - word: もらおう
-      base: 貰う
-      position: 3
 - id: Kanino Shobai-f000047
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1018,12 +366,6 @@
   sound_begin: 139720
   sound_end: 140960
   sentence: ところで、
-  words:
-    - word: ところ
-      base: 所
-      position: 0
-    - word: で
-      position: 3
 - id: Kanino Shobai-f000048
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1032,31 +374,6 @@
   sound_begin: 140960
   sound_end: 144382
   sentence: ひとつやくそくしてくれなきゃいけない。
-  words:
-    - word: ひと
-      base: 一
-      position: 0
-    - word: つ
-      position: 2
-    - word: やくそく
-      base: 約束
-      position: 3
-    - word: し
-      base: 為る
-      position: 7
-    - word: て
-      position: 8
-    - word: くれ
-      base: 呉れる
-      position: 9
-    - word: なきゃ
-      base: ない
-      position: 11
-    - word: いけ
-      base: 行く
-      position: 14
-    - word: ない
-      position: 16
 - id: Kanino Shobai-f000049
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1065,16 +382,6 @@
   sound_begin: 144382
   sound_end: 145640
   sentence: というのは、
-  words:
-    - word: と
-      position: 0
-    - word: いう
-      base: 言う
-      position: 1
-    - word: の
-      position: 3
-    - word: は
-      position: 4
 - id: Kanino Shobai-f000050
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1083,17 +390,6 @@
   sound_begin: 145640
   sound_end: 147360
   sentence: わたしのあとで、
-  words:
-    - word: わたし
-      base: 私
-      position: 0
-    - word: の
-      position: 3
-    - word: あと
-      base: 後
-      position: 4
-    - word: で
-      position: 6
 - id: Kanino Shobai-f000051
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1102,37 +398,6 @@
   sound_begin: 147360
   sound_end: 152160
   sentence: わたしのお父さんの毛もかってもらいたいのさ。」
-  words:
-    - word: わたし
-      base: 私
-      position: 0
-    - word: の
-      position: 3
-    - word: お
-      base: 御
-      position: 4
-    - word: 父さん
-      position: 5
-    - word: の
-      position: 8
-    - word: 毛
-      position: 9
-    - word: も
-      position: 10
-    - word: かっ
-      base: かう
-      position: 11
-    - word: て
-      position: 13
-    - word: もらい
-      base: 貰う
-      position: 14
-    - word: たい
-      position: 17
-    - word: の
-      position: 19
-    - word: さ
-      position: 20
 - id: Kanino Shobai-f000052
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1141,9 +406,6 @@
   sound_begin: 152160
   sound_end: 153080
   sentence: 「へい、
-  words:
-    - word: へい
-      position: 1
 - id: Kanino Shobai-f000053
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1152,17 +414,6 @@
   sound_begin: 153080
   sound_end: 155997
   sentence: おやすいことです。」
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: やすい
-      base: 安い
-      position: 1
-    - word: こと
-      position: 4
-    - word: です
-      position: 6
 - id: Kanino Shobai-f000054
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1171,12 +422,6 @@
   sound_begin: 155997
   sound_end: 157323
   sentence: そこで、
-  words:
-    - word: そこ
-      base: 其処
-      position: 0
-    - word: で
-      position: 2
 - id: Kanino Shobai-f000055
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1185,31 +430,6 @@
   sound_begin: 157323
   sound_end: 159600
   sentence: 蟹のうでをふるうときがきました。
-  words:
-    - word: 蟹
-      position: 0
-    - word: の
-      position: 1
-    - word: うで
-      base: 腕
-      position: 2
-    - word: を
-      position: 4
-    - word: ふるう
-      position: 5
-    - word: とき
-      base: 時
-      position: 8
-    - word: が
-      position: 10
-    - word: き
-      base: 来る
-      position: 11
-    - word: まし
-      base: ます
-      position: 12
-    - word: た
-      position: 14
 - id: Kanino Shobai-f000056
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1218,9 +438,6 @@
   sound_begin: 161200
   sound_end: 162467
   sentence: ちょっきん、
-  words:
-    - word: ちょっきん
-      position: 0
 - id: Kanino Shobai-f000057
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1229,9 +446,6 @@
   sound_begin: 162467
   sound_end: 163937
   sentence: ちょっきん、
-  words:
-    - word: ちょっきん
-      position: 0
 - id: Kanino Shobai-f000058
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1240,9 +454,6 @@
   sound_begin: 163937
   sound_end: 164680
   sentence: ちょっきん。
-  words:
-    - word: ちょっきん
-      position: 0
 - id: Kanino Shobai-f000059
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1251,12 +462,6 @@
   sound_begin: 168180
   sound_end: 169465
   sentence: ところが、
-  words:
-    - word: ところ
-      base: 所
-      position: 0
-    - word: が
-      position: 3
 - id: Kanino Shobai-f000060
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1265,19 +470,6 @@
   sound_begin: 169465
   sound_end: 171000
   sentence: 蟹というものは、
-  words:
-    - word: 蟹
-      position: 0
-    - word: と
-      position: 1
-    - word: いう
-      base: 言う
-      position: 2
-    - word: もの
-      base: 物
-      position: 4
-    - word: は
-      position: 6
 - id: Kanino Shobai-f000061
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1286,29 +478,6 @@
   sound_begin: 171000
   sound_end: 173040
   sentence: あまり大きなものではありません。
-  words:
-    - word: あまり
-      base: 余り
-      position: 0
-    - word: 大きな
-      position: 3
-    - word: もの
-      base: 物
-      position: 6
-    - word: で
-      base: だ
-      position: 8
-    - word: は
-      position: 9
-    - word: あり
-      base: 有る
-      position: 10
-    - word: ませ
-      base: ます
-      position: 12
-    - word: ん
-      base: ず
-      position: 14
 - id: Kanino Shobai-f000062
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1317,17 +486,6 @@
   sound_begin: 174840
   sound_end: 176371
   sentence: 蟹とくらべたら、
-  words:
-    - word: 蟹
-      position: 0
-    - word: と
-      position: 1
-    - word: くらべ
-      base: 比べる
-      position: 2
-    - word: たら
-      base: た
-      position: 5
 - id: Kanino Shobai-f000063
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1336,30 +494,6 @@
   sound_begin: 176371
   sound_end: 180206
   sentence: たぬきはとんでもなく大きなものであります。
-  words:
-    - word: たぬき
-      base: 狸
-      position: 0
-    - word: は
-      position: 3
-    - word: とんでも
-      position: 4
-    - word: なく
-      base: 無い
-      position: 8
-    - word: 大きな
-      position: 10
-    - word: もの
-      base: 物
-      position: 13
-    - word: で
-      base: だ
-      position: 15
-    - word: あり
-      base: 有る
-      position: 16
-    - word: ます
-      position: 18
 - id: Kanino Shobai-f000064
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1368,25 +502,6 @@
   sound_begin: 180206
   sound_end: 183094
   sentence: その上たぬきというものは、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 上
-      position: 2
-    - word: たぬき
-      base: 狸
-      position: 3
-    - word: と
-      position: 6
-    - word: いう
-      base: 言う
-      position: 7
-    - word: もの
-      base: 物
-      position: 9
-    - word: は
-      position: 11
 - id: Kanino Shobai-f000065
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1395,25 +510,6 @@
   sound_begin: 183094
   sound_end: 186360
   sentence: からだじゅうが毛むくじゃらであります。
-  words:
-    - word: からだ
-      base: 体
-      position: 0
-    - word: じゅう
-      base: 中
-      position: 3
-    - word: が
-      position: 6
-    - word: 毛むくじゃら
-      position: 7
-    - word: で
-      base: だ
-      position: 13
-    - word: あり
-      base: 有る
-      position: 14
-    - word: ます
-      position: 16
 - id: Kanino Shobai-f000066
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1422,27 +518,6 @@
   sound_begin: 186360
   sound_end: 189520
   sentence: ですから仕事はなかなかはかどりません。
-  words:
-    - word: です
-      position: 0
-    - word: から
-      position: 2
-    - word: 仕事
-      position: 4
-    - word: は
-      position: 6
-    - word: なかなか
-      base: 中々
-      position: 7
-    - word: はかどり
-      base: 捗る
-      position: 11
-    - word: ませ
-      base: ます
-      position: 15
-    - word: ん
-      base: ず
-      position: 17
 - id: Kanino Shobai-f000067
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1451,42 +526,6 @@
   sound_begin: 191220
   sound_end: 196960
   sentence: 蟹は口から泡をふいていっしょうけんめいはさみをつかいました。
-  words:
-    - word: 蟹
-      position: 0
-    - word: は
-      position: 1
-    - word: 口
-      position: 2
-    - word: から
-      position: 3
-    - word: 泡
-      position: 5
-    - word: を
-      position: 6
-    - word: ふい
-      base: ふく
-      position: 7
-    - word: て
-      position: 9
-    - word: いっしょう
-      base: 一生
-      position: 10
-    - word: けんめい
-      base: 懸命
-      position: 15
-    - word: はさみ
-      position: 19
-    - word: を
-      position: 22
-    - word: つかい
-      base: 使う
-      position: 23
-    - word: まし
-      base: ます
-      position: 26
-    - word: た
-      position: 28
 - id: Kanino Shobai-f000068
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1495,19 +534,6 @@
   sound_begin: 196960
   sound_end: 199400
   sentence: そして三日かかって、
-  words:
-    - word: そして
-      position: 0
-    - word: 三
-      base: '3'
-      position: 3
-    - word: 日
-      position: 4
-    - word: かかっ
-      base: 掛かる
-      position: 5
-    - word: て
-      position: 8
 - id: Kanino Shobai-f000069
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1516,26 +542,6 @@
   sound_begin: 199400
   sound_end: 202080
   sentence: やっとのこと仕事はおわりました。
-  words:
-    - word: やっと
-      base: 漸と
-      position: 0
-    - word: の
-      position: 3
-    - word: こと
-      position: 4
-    - word: 仕事
-      position: 6
-    - word: は
-      position: 8
-    - word: おわり
-      base: 終わる
-      position: 9
-    - word: まし
-      base: ます
-      position: 12
-    - word: た
-      position: 14
 - id: Kanino Shobai-f000070
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1544,10 +550,6 @@
   sound_begin: 203980
   sound_end: 205103
   sentence: 「じゃ、
-  words:
-    - word: じゃ
-      base: で
-      position: 1
 - id: Kanino Shobai-f000071
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1556,14 +558,6 @@
   sound_begin: 205103
   sound_end: 206520
   sentence: やくそくだから、
-  words:
-    - word: やくそく
-      base: 約束
-      position: 0
-    - word: だ
-      position: 4
-    - word: から
-      position: 5
 - id: Kanino Shobai-f000072
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1572,36 +566,6 @@
   sound_begin: 206520
   sound_end: 211120
   sentence: わたしのお父さんの毛もかってくれたまえ。」
-  words:
-    - word: わたし
-      base: 私
-      position: 0
-    - word: の
-      position: 3
-    - word: お
-      base: 御
-      position: 4
-    - word: 父さん
-      position: 5
-    - word: の
-      position: 8
-    - word: 毛
-      position: 9
-    - word: も
-      position: 10
-    - word: かっ
-      base: かう
-      position: 11
-    - word: て
-      position: 13
-    - word: くれ
-      base: 呉れる
-      position: 14
-    - word: た
-      position: 16
-    - word: まえ
-      base: 前
-      position: 17
 - id: Kanino Shobai-f000073
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1610,21 +574,6 @@
   sound_begin: 211120
   sound_end: 212840
   sentence: 「お父さんというのは、
-  words:
-    - word: お
-      base: 御
-      position: 1
-    - word: 父さん
-      position: 2
-    - word: と
-      position: 5
-    - word: いう
-      base: 言う
-      position: 6
-    - word: の
-      position: 8
-    - word: は
-      position: 9
 - id: Kanino Shobai-f000074
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1633,20 +582,6 @@
   sound_begin: 212840
   sound_end: 216440
   sentence: どのくらい大きなかたですか。」
-  words:
-    - word: どの
-      position: 0
-    - word: くらい
-      position: 2
-    - word: 大きな
-      position: 5
-    - word: かた
-      base: 方
-      position: 8
-    - word: です
-      position: 10
-    - word: か
-      position: 12
 - id: Kanino Shobai-f000075
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1655,21 +590,6 @@
   sound_begin: 216440
   sound_end: 218640
   sentence: 「あの山くらいあるかね。」
-  words:
-    - word: あの
-      base: 彼の
-      position: 1
-    - word: 山
-      position: 3
-    - word: くらい
-      position: 4
-    - word: ある
-      base: 有る
-      position: 7
-    - word: か
-      position: 9
-    - word: ね
-      position: 10
 - id: Kanino Shobai-f000076
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1678,19 +598,6 @@
   sound_begin: 220740
   sound_end: 223420
   sentence: 蟹はめんくらいました。
-  words:
-    - word: 蟹
-      position: 0
-    - word: は
-      position: 1
-    - word: めんくらい
-      base: 面食らう
-      position: 2
-    - word: まし
-      base: ます
-      position: 7
-    - word: た
-      position: 9
 - id: Kanino Shobai-f000077
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1699,19 +606,6 @@
   sound_begin: 223420
   sound_end: 224960
   sentence: そんなに大きくては、
-  words:
-    - word: そんな
-      position: 0
-    - word: に
-      base: だ
-      position: 3
-    - word: 大きく
-      base: 大きい
-      position: 4
-    - word: て
-      position: 7
-    - word: は
-      position: 8
 - id: Kanino Shobai-f000078
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1720,20 +614,6 @@
   sound_begin: 224960
   sound_end: 226520
   sentence: とてもじぶんひとりでは、
-  words:
-    - word: とても
-      base: 迚も
-      position: 0
-    - word: じぶん
-      base: 自分
-      position: 3
-    - word: ひとり
-      base: 一人
-      position: 6
-    - word: で
-      position: 9
-    - word: は
-      position: 10
 - id: Kanino Shobai-f000079
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1742,23 +622,6 @@
   sound_begin: 226520
   sound_end: 231560
   sentence: まにあわぬと思いました。
-  words:
-    - word: まにあわ
-      base: 間に合う
-      position: 0
-    - word: ぬ
-      base: ず
-      position: 4
-    - word: と
-      position: 5
-    - word: 思い
-      base: 思う
-      position: 6
-    - word: まし
-      base: ます
-      position: 8
-    - word: た
-      position: 10
 - id: Kanino Shobai-f000080
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1767,16 +630,6 @@
   sound_begin: 231560
   sound_end: 233320
   sentence: そこで蟹は、
-  words:
-    - word: そこ
-      base: 其処
-      position: 0
-    - word: で
-      position: 2
-    - word: 蟹
-      position: 3
-    - word: は
-      position: 4
 - id: Kanino Shobai-f000081
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1785,36 +638,6 @@
   sound_begin: 233320
   sound_end: 238240
   sentence: じぶんの子どもたちをみなとこやにしました。
-  words:
-    - word: じぶん
-      base: 自分
-      position: 0
-    - word: の
-      position: 3
-    - word: 子ども
-      base: 子供
-      position: 4
-    - word: たち
-      base: 達
-      position: 7
-    - word: を
-      position: 9
-    - word: みなと
-      base: 港
-      position: 10
-    - word: こや
-      base: 小屋
-      position: 13
-    - word: に
-      position: 15
-    - word: し
-      base: 為る
-      position: 16
-    - word: まし
-      base: ます
-      position: 17
-    - word: た
-      position: 19
 - id: Kanino Shobai-f000082
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1823,14 +646,6 @@
   sound_begin: 238240
   sound_end: 239891
   sentence: 子どもばかりか、
-  words:
-    - word: 子ども
-      base: 子供
-      position: 0
-    - word: ばかり
-      position: 3
-    - word: か
-      position: 6
 - id: Kanino Shobai-f000083
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1839,16 +654,6 @@
   sound_begin: 239891
   sound_end: 241192
   sentence: まごもひこも、
-  words:
-    - word: まご
-      base: 孫
-      position: 0
-    - word: も
-      position: 2
-    - word: ひこ
-      position: 3
-    - word: も
-      position: 5
 - id: Kanino Shobai-f000084
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1857,35 +662,6 @@
   sound_begin: 241192
   sound_end: 245480
   sentence: うまれてくる蟹はみなとこやにしました。
-  words:
-    - word: うまれ
-      base: 生まれる
-      position: 0
-    - word: て
-      position: 3
-    - word: くる
-      base: 来る
-      position: 4
-    - word: 蟹
-      position: 6
-    - word: は
-      position: 7
-    - word: みなと
-      base: 港
-      position: 8
-    - word: こや
-      base: 小屋
-      position: 11
-    - word: に
-      position: 13
-    - word: し
-      base: 為る
-      position: 14
-    - word: まし
-      base: ます
-      position: 15
-    - word: た
-      position: 17
 - id: Kanino Shobai-f000085
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1894,31 +670,6 @@
   sound_begin: 249031
   sound_end: 253760
   sentence: それでわたくしたちが道ばたにみうける、
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: で
-      position: 2
-    - word: わたくし
-      base: 私
-      position: 3
-    - word: たち
-      base: 達
-      position: 7
-    - word: が
-      position: 9
-    - word: 道ばた
-      base: 道端
-      position: 10
-    - word: に
-      position: 13
-    - word: み
-      base: 見る
-      position: 14
-    - word: うける
-      base: 受ける
-      position: 15
 - id: Kanino Shobai-f000086
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1927,21 +678,6 @@
   sound_begin: 253760
   sound_end: 256802
   sentence: ほんに小さな蟹でさえも、
-  words:
-    - word: ほんに
-      base: 本に
-      position: 0
-    - word: 小さな
-      position: 3
-    - word: 蟹
-      position: 6
-    - word: で
-      base: だ
-      position: 7
-    - word: さえ
-      position: 8
-    - word: も
-      position: 10
 - id: Kanino Shobai-f000087
   author_japanese: 新美 南吉
   deck_name: Kanino Shobai
@@ -1950,20 +686,3 @@
   sound_begin: 256802
   sound_end: 260100
   sentence: ちゃんとはさみをもっています。
-  words:
-    - word: ちゃんと
-      position: 0
-    - word: はさみ
-      position: 4
-    - word: を
-      position: 7
-    - word: もっ
-      base: 持つ
-      position: 8
-    - word: て
-      position: 10
-    - word: い
-      base: 居る
-      position: 11
-    - word: ます
-      position: 12

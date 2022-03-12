@@ -6,11 +6,6 @@
   sound_begin: 5136
   sound_end: 11280
   sentence: 赤い蝋燭
-  words:
-    - word: 赤い
-      position: 0
-    - word: 蝋燭
-      position: 2
 - id: Akai Rosoku-f000003
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -19,54 +14,6 @@
   sound_begin: 11280
   sound_end: 20560
   sentence: 山から里の方へ遊びにいった猿が一本の赤い蝋燭を拾いました。
-  words:
-    - word: 山
-      position: 0
-    - word: から
-      position: 1
-    - word: 里
-      position: 3
-    - word: の
-      position: 4
-    - word: 方
-      position: 5
-    - word: へ
-      position: 6
-    - word: 遊び
-      base: 遊ぶ
-      position: 7
-    - word: に
-      position: 9
-    - word: いっ
-      base: 行く
-      position: 10
-    - word: た
-      position: 12
-    - word: 猿
-      position: 13
-    - word: が
-      position: 14
-    - word: 一
-      base: '1'
-      position: 15
-    - word: 本
-      position: 16
-    - word: の
-      position: 17
-    - word: 赤い
-      position: 18
-    - word: 蝋燭
-      position: 20
-    - word: を
-      position: 22
-    - word: 拾い
-      base: 拾う
-      position: 23
-    - word: まし
-      base: ます
-      position: 25
-    - word: た
-      position: 27
 - id: Akai Rosoku-f000004
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -75,35 +22,6 @@
   sound_begin: 20560
   sound_end: 26440
   sentence: 赤い蝋燭は沢山あるものではありません。
-  words:
-    - word: 赤い
-      position: 0
-    - word: 蝋燭
-      position: 2
-    - word: は
-      position: 4
-    - word: 沢山
-      position: 5
-    - word: ある
-      base: 有る
-      position: 7
-    - word: もの
-      base: 物
-      position: 9
-    - word: で
-      base: だ
-      position: 11
-    - word: は
-      position: 12
-    - word: あり
-      base: 有る
-      position: 13
-    - word: ませ
-      base: ます
-      position: 15
-    - word: ん
-      base: ず
-      position: 17
 - id: Akai Rosoku-f000005
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -112,44 +30,6 @@
   sound_begin: 26440
   sound_end: 32119
   sentence: それで猿は赤い蝋燭を花火だと思い込んでしまいました。
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: で
-      position: 2
-    - word: 猿
-      position: 3
-    - word: は
-      position: 4
-    - word: 赤い
-      position: 5
-    - word: 蝋燭
-      position: 7
-    - word: を
-      position: 9
-    - word: 花火
-      position: 10
-    - word: だ
-      position: 12
-    - word: と
-      position: 13
-    - word: 思い
-      base: 思う
-      position: 14
-    - word: 込ん
-      base: 込む
-      position: 16
-    - word: で
-      position: 18
-    - word: しまい
-      base: 仕舞う
-      position: 19
-    - word: まし
-      base: ます
-      position: 22
-    - word: た
-      position: 24
 - id: Akai Rosoku-f000006
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -158,44 +38,6 @@
   sound_begin: 36720
   sound_end: 43240
   sentence: 猿は拾った赤い蝋燭を大事に山へ持って帰りました。
-  words:
-    - word: 猿
-      position: 0
-    - word: は
-      position: 1
-    - word: 拾っ
-      base: 拾う
-      position: 2
-    - word: た
-      position: 4
-    - word: 赤い
-      position: 5
-    - word: 蝋燭
-      position: 7
-    - word: を
-      position: 9
-    - word: 大事
-      position: 10
-    - word: に
-      base: だ
-      position: 12
-    - word: 山
-      position: 13
-    - word: へ
-      position: 14
-    - word: 持っ
-      base: 持つ
-      position: 15
-    - word: て
-      position: 17
-    - word: 帰り
-      base: 帰る
-      position: 18
-    - word: まし
-      base: ます
-      position: 20
-    - word: た
-      position: 22
 - id: Akai Rosoku-f000007
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -204,32 +46,6 @@
   sound_begin: 46840
   sound_end: 51320
   sentence: 山では大へんな騒になりました。
-  words:
-    - word: 山
-      position: 0
-    - word: で
-      position: 1
-    - word: は
-      position: 2
-    - word: 大へん
-      base: 大変
-      position: 3
-    - word: な
-      base: だ
-      position: 6
-    - word: 騒
-      base: 騒ぎ
-      position: 7
-    - word: に
-      position: 8
-    - word: なり
-      base: 成る
-      position: 9
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
 - id: Akai Rosoku-f000008
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -238,23 +54,6 @@
   sound_begin: 51320
   sound_end: 55160
   sentence: 何しろ花火などというものは、
-  words:
-    - word: 何しろ
-      position: 0
-    - word: 花火
-      position: 3
-    - word: など
-      position: 5
-    - word: と
-      position: 7
-    - word: いう
-      base: 言う
-      position: 8
-    - word: もの
-      base: 物
-      position: 10
-    - word: は
-      position: 12
 - id: Akai Rosoku-f000009
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -263,40 +62,6 @@
   sound_begin: 55160
   sound_end: 59665
   sentence: 鹿にしても猪にしても兎にしても、
-  words:
-    - word: 鹿
-      position: 0
-    - word: に
-      position: 1
-    - word: し
-      base: 為る
-      position: 2
-    - word: て
-      position: 3
-    - word: も
-      position: 4
-    - word: 猪
-      position: 5
-    - word: に
-      position: 6
-    - word: し
-      base: 為る
-      position: 7
-    - word: て
-      position: 8
-    - word: も
-      position: 9
-    - word: 兎
-      position: 10
-    - word: に
-      position: 11
-    - word: し
-      base: 為る
-      position: 12
-    - word: て
-      position: 13
-    - word: も
-      position: 14
 - id: Akai Rosoku-f000010
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -305,18 +70,6 @@
   sound_begin: 59665
   sound_end: 60720
   sentence: 亀にしても、
-  words:
-    - word: 亀
-      position: 0
-    - word: に
-      position: 1
-    - word: し
-      base: 為る
-      position: 2
-    - word: て
-      position: 3
-    - word: も
-      position: 4
 - id: Akai Rosoku-f000011
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -325,18 +78,6 @@
   sound_begin: 60720
   sound_end: 62749
   sentence: 鼬にしても、
-  words:
-    - word: 鼬
-      position: 0
-    - word: に
-      position: 1
-    - word: し
-      base: 為る
-      position: 2
-    - word: て
-      position: 3
-    - word: も
-      position: 4
 - id: Akai Rosoku-f000012
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -345,18 +86,6 @@
   sound_begin: 62749
   sound_end: 64080
   sentence: 狸にしても、
-  words:
-    - word: 狸
-      position: 0
-    - word: に
-      position: 1
-    - word: し
-      base: 為る
-      position: 2
-    - word: て
-      position: 3
-    - word: も
-      position: 4
 - id: Akai Rosoku-f000013
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -365,18 +94,6 @@
   sound_begin: 64080
   sound_end: 66760
   sentence: 狐にしても、
-  words:
-    - word: 狐
-      position: 0
-    - word: に
-      position: 1
-    - word: し
-      base: 為る
-      position: 2
-    - word: て
-      position: 3
-    - word: も
-      position: 4
 - id: Akai Rosoku-f000014
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -385,32 +102,6 @@
   sound_begin: 66760
   sound_end: 70508
   sentence: まだ一度も見たことがありません。
-  words:
-    - word: まだ
-      base: 未だ
-      position: 0
-    - word: 一度
-      position: 2
-    - word: も
-      position: 4
-    - word: 見
-      base: 見る
-      position: 5
-    - word: た
-      position: 6
-    - word: こと
-      position: 7
-    - word: が
-      position: 9
-    - word: あり
-      base: 有る
-      position: 10
-    - word: ませ
-      base: ます
-      position: 12
-    - word: ん
-      base: ず
-      position: 14
 - id: Akai Rosoku-f000015
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -419,43 +110,6 @@
   sound_begin: 70508
   sound_end: 75400
   sentence: その花火を猿が拾って来たというのであります。
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 花火
-      position: 2
-    - word: を
-      position: 4
-    - word: 猿
-      position: 5
-    - word: が
-      position: 6
-    - word: 拾っ
-      base: 拾う
-      position: 7
-    - word: て
-      position: 9
-    - word: 来
-      base: 来る
-      position: 10
-    - word: た
-      position: 11
-    - word: と
-      position: 12
-    - word: いう
-      base: 言う
-      position: 13
-    - word: の
-      position: 15
-    - word: で
-      base: だ
-      position: 16
-    - word: あり
-      base: 有る
-      position: 17
-    - word: ます
-      position: 19
 - id: Akai Rosoku-f000016
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -464,9 +118,6 @@
   sound_begin: 78200
   sound_end: 80000
   sentence: 「ほう、
-  words:
-    - word: ほう
-      position: 1
 - id: Akai Rosoku-f000017
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -475,10 +126,6 @@
   sound_begin: 80000
   sound_end: 81920
   sentence: すばらしい」
-  words:
-    - word: すばらしい
-      base: 素晴らしい
-      position: 0
 - id: Akai Rosoku-f000018
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -487,12 +134,6 @@
   sound_begin: 84420
   sound_end: 85440
   sentence: 「これは、
-  words:
-    - word: これ
-      base: 此れ
-      position: 1
-    - word: は
-      position: 3
 - id: Akai Rosoku-f000019
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -501,18 +142,6 @@
   sound_begin: 85440
   sound_end: 87280
   sentence: すてきなものだ」
-  words:
-    - word: すてき
-      base: 素敵
-      position: 0
-    - word: な
-      base: だ
-      position: 3
-    - word: もの
-      base: 物
-      position: 4
-    - word: だ
-      position: 6
 - id: Akai Rosoku-f000020
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -521,64 +150,6 @@
   sound_begin: 90080
   sound_end: 101960
   sentence: 鹿や猪や兎や亀や鼬や狸や狐が押合いへしあいして赤い蝋燭を覗きました。
-  words:
-    - word: 鹿
-      position: 0
-    - word: や
-      position: 1
-    - word: 猪
-      position: 2
-    - word: や
-      position: 3
-    - word: 兎
-      position: 4
-    - word: や
-      position: 5
-    - word: 亀
-      position: 6
-    - word: や
-      position: 7
-    - word: 鼬
-      position: 8
-    - word: や
-      position: 9
-    - word: 狸
-      position: 10
-    - word: や
-      position: 11
-    - word: 狐
-      position: 12
-    - word: が
-      position: 13
-    - word: 押
-      base: 押し
-      position: 14
-    - word: 合い
-      position: 15
-    - word: へ
-      position: 17
-    - word: しあい
-      base: 試合
-      position: 18
-    - word: し
-      base: 為る
-      position: 21
-    - word: て
-      position: 22
-    - word: 赤い
-      position: 23
-    - word: 蝋燭
-      position: 25
-    - word: を
-      position: 27
-    - word: 覗き
-      base: 覗く
-      position: 28
-    - word: まし
-      base: ます
-      position: 30
-    - word: た
-      position: 32
 - id: Akai Rosoku-f000021
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -587,16 +158,6 @@
   sound_begin: 103744
   sound_end: 106400
   sentence: すると猿が、
-  words:
-    - word: する
-      base: 為る
-      position: 0
-    - word: と
-      position: 2
-    - word: 猿
-      position: 3
-    - word: が
-      position: 4
 - id: Akai Rosoku-f000022
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -605,13 +166,6 @@
   sound_begin: 106400
   sound_end: 108150
   sentence: 「危い危い。
-  words:
-    - word: 危い
-      base: 危ない
-      position: 1
-    - word: 危い
-      base: 危ない
-      position: 3
 - id: Akai Rosoku-f000023
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -620,24 +174,6 @@
   sound_begin: 108150
   sound_end: 111144
   sentence: そんなに近よってはいけない。
-  words:
-    - word: そんな
-      position: 0
-    - word: に
-      base: だ
-      position: 3
-    - word: 近よっ
-      base: 近寄る
-      position: 4
-    - word: て
-      position: 7
-    - word: は
-      position: 8
-    - word: いけ
-      base: 行く
-      position: 9
-    - word: ない
-      position: 11
 - id: Akai Rosoku-f000024
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -646,24 +182,6 @@
   sound_begin: 111144
   sound_end: 116320
   sentence: 爆発するから」といいました。
-  words:
-    - word: 爆発
-      position: 0
-    - word: する
-      base: 為る
-      position: 2
-    - word: から
-      position: 4
-    - word: と
-      position: 7
-    - word: いい
-      base: 言う
-      position: 8
-    - word: まし
-      base: ます
-      position: 10
-    - word: た
-      position: 12
 - id: Akai Rosoku-f000025
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -672,30 +190,6 @@
   sound_begin: 116320
   sound_end: 120240
   sentence: みんなは驚いて後込しました。
-  words:
-    - word: みんな
-      base: 皆
-      position: 0
-    - word: は
-      position: 3
-    - word: 驚い
-      base: 驚く
-      position: 4
-    - word: て
-      position: 6
-    - word: 後
-      position: 7
-    - word: 込
-      base: 込み
-      position: 8
-    - word: し
-      base: 為る
-      position: 9
-    - word: まし
-      base: ます
-      position: 10
-    - word: た
-      position: 12
 - id: Akai Rosoku-f000026
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -704,28 +198,6 @@
   sound_begin: 123840
   sound_end: 127773
   sentence: そこで猿は花火というものが、
-  words:
-    - word: そこ
-      base: 其処
-      position: 0
-    - word: で
-      position: 2
-    - word: 猿
-      position: 3
-    - word: は
-      position: 4
-    - word: 花火
-      position: 5
-    - word: と
-      position: 7
-    - word: いう
-      base: 言う
-      position: 8
-    - word: もの
-      base: 物
-      position: 10
-    - word: が
-      position: 12
 - id: Akai Rosoku-f000027
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -734,30 +206,6 @@
   sound_begin: 127773
   sound_end: 131960
   sentence: どんなに大きな音をして飛出すか、
-  words:
-    - word: どんな
-      position: 0
-    - word: に
-      base: だ
-      position: 3
-    - word: 大きな
-      position: 4
-    - word: 音
-      position: 7
-    - word: を
-      position: 8
-    - word: し
-      base: 為る
-      position: 9
-    - word: て
-      position: 10
-    - word: 飛
-      base: 飛ぶ
-      position: 11
-    - word: 出す
-      position: 12
-    - word: か
-      position: 14
 - id: Akai Rosoku-f000028
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -766,26 +214,6 @@
   sound_begin: 131960
   sound_end: 136800
   sentence: そしてどんなに美しく空にひろがるか、
-  words:
-    - word: そして
-      position: 0
-    - word: どんな
-      position: 3
-    - word: に
-      base: だ
-      position: 6
-    - word: 美しく
-      base: 美しい
-      position: 7
-    - word: 空
-      position: 10
-    - word: に
-      position: 11
-    - word: ひろがる
-      base: 広がる
-      position: 12
-    - word: か
-      position: 16
 - id: Akai Rosoku-f000029
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -794,28 +222,6 @@
   sound_begin: 136800
   sound_end: 139340
   sentence: みんなに話して聞かせました。
-  words:
-    - word: みんな
-      base: 皆
-      position: 0
-    - word: に
-      position: 3
-    - word: 話し
-      base: 話す
-      position: 4
-    - word: て
-      position: 6
-    - word: 聞か
-      base: 聞く
-      position: 7
-    - word: せ
-      base: せる
-      position: 9
-    - word: まし
-      base: ます
-      position: 10
-    - word: た
-      position: 12
 - id: Akai Rosoku-f000030
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -824,45 +230,6 @@
   sound_begin: 141440
   sound_end: 147680
   sentence: そんなに美しいものなら見たいものだとみんなは思いました。
-  words:
-    - word: そんな
-      position: 0
-    - word: に
-      base: だ
-      position: 3
-    - word: 美しい
-      position: 4
-    - word: もの
-      base: 物
-      position: 7
-    - word: なら
-      base: だ
-      position: 9
-    - word: 見
-      base: 見る
-      position: 11
-    - word: たい
-      position: 12
-    - word: もの
-      base: 物
-      position: 14
-    - word: だ
-      position: 16
-    - word: と
-      position: 17
-    - word: みんな
-      base: 皆
-      position: 18
-    - word: は
-      position: 21
-    - word: 思い
-      base: 思う
-      position: 22
-    - word: まし
-      base: ます
-      position: 24
-    - word: た
-      position: 26
 - id: Akai Rosoku-f000031
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -871,13 +238,6 @@
   sound_begin: 150480
   sound_end: 151781
   sentence: 「それなら、
-  words:
-    - word: それ
-      base: 其れ
-      position: 1
-    - word: なら
-      base: だ
-      position: 3
 - id: Akai Rosoku-f000032
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -886,52 +246,6 @@
   sound_begin: 151781
   sound_end: 159100
   sentence: 今晩山の頂上に行ってあそこで打上げて見よう」と猿がいいました。
-  words:
-    - word: 今晩
-      position: 0
-    - word: 山
-      position: 2
-    - word: の
-      position: 3
-    - word: 頂上
-      position: 4
-    - word: に
-      position: 6
-    - word: 行っ
-      base: 行く
-      position: 7
-    - word: て
-      position: 9
-    - word: あそこ
-      base: 彼処
-      position: 10
-    - word: で
-      position: 13
-    - word: 打
-      base: 打つ
-      position: 14
-    - word: 上げ
-      base: 上げる
-      position: 15
-    - word: て
-      position: 17
-    - word: 見よう
-      base: 見る
-      position: 18
-    - word: と
-      position: 22
-    - word: 猿
-      position: 23
-    - word: が
-      position: 24
-    - word: いい
-      base: 言う
-      position: 25
-    - word: まし
-      base: ます
-      position: 27
-    - word: た
-      position: 29
 - id: Akai Rosoku-f000033
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -940,23 +254,6 @@
   sound_begin: 161121
   sound_end: 163500
   sentence: みんなは大へん喜びました。
-  words:
-    - word: みんな
-      base: 皆
-      position: 0
-    - word: は
-      position: 3
-    - word: 大へん
-      base: 大変
-      position: 4
-    - word: 喜び
-      base: 喜ぶ
-      position: 7
-    - word: まし
-      base: ます
-      position: 9
-    - word: た
-      position: 11
 - id: Akai Rosoku-f000034
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -965,67 +262,6 @@
   sound_begin: 165483
   sound_end: 175200
   sentence: 夜の空に星をふりまくようにぱあっとひろがる花火を眼に浮べてみんなはうっとりしました。
-  words:
-    - word: 夜
-      position: 0
-    - word: の
-      position: 1
-    - word: 空
-      position: 2
-    - word: に
-      position: 3
-    - word: 星
-      position: 4
-    - word: を
-      position: 5
-    - word: ふり
-      base: ふる
-      position: 6
-    - word: まく
-      position: 8
-    - word: よう
-      base: 様
-      position: 10
-    - word: に
-      base: だ
-      position: 12
-    - word: ぱあっ
-      base: ぱあ
-      position: 13
-    - word: と
-      position: 16
-    - word: ひろがる
-      base: 広がる
-      position: 17
-    - word: 花火
-      position: 21
-    - word: を
-      position: 23
-    - word: 眼
-      base: 目
-      position: 24
-    - word: に
-      position: 25
-    - word: 浮べ
-      base: 浮かべる
-      position: 26
-    - word: て
-      position: 28
-    - word: みんな
-      base: 皆
-      position: 29
-    - word: は
-      position: 32
-    - word: うっとり
-      position: 33
-    - word: し
-      base: 為る
-      position: 37
-    - word: まし
-      base: ます
-      position: 38
-    - word: た
-      position: 40
 - id: Akai Rosoku-f000035
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -1034,22 +270,6 @@
   sound_begin: 178800
   sound_end: 181660
   sentence: さて夜になりました。
-  words:
-    - word: さて
-      base: 扠
-      position: 0
-    - word: 夜
-      position: 2
-    - word: に
-      position: 3
-    - word: なり
-      base: 成る
-      position: 4
-    - word: まし
-      base: ます
-      position: 6
-    - word: た
-      position: 8
 - id: Akai Rosoku-f000036
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -1058,45 +278,6 @@
   sound_begin: 183760
   sound_end: 188720
   sentence: みんなは胸をおどらせて山の頂上にやって行きました。
-  words:
-    - word: みんな
-      base: 皆
-      position: 0
-    - word: は
-      position: 3
-    - word: 胸
-      position: 4
-    - word: を
-      position: 5
-    - word: おどら
-      base: 踊る
-      position: 6
-    - word: せ
-      base: せる
-      position: 9
-    - word: て
-      position: 10
-    - word: 山
-      position: 11
-    - word: の
-      position: 12
-    - word: 頂上
-      position: 13
-    - word: に
-      position: 15
-    - word: やっ
-      base: 遣る
-      position: 16
-    - word: て
-      position: 18
-    - word: 行き
-      base: 行く
-      position: 19
-    - word: まし
-      base: ます
-      position: 21
-    - word: た
-      position: 23
 - id: Akai Rosoku-f000037
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -1105,59 +286,6 @@
   sound_begin: 191520
   sound_end: 202040
   sentence: 猿はもう赤い蝋燭を木の枝にくくりつけてみんなの来るのを待っていました。
-  words:
-    - word: 猿
-      position: 0
-    - word: は
-      position: 1
-    - word: もう
-      position: 2
-    - word: 赤い
-      position: 4
-    - word: 蝋燭
-      position: 6
-    - word: を
-      position: 8
-    - word: 木
-      position: 9
-    - word: の
-      position: 10
-    - word: 枝
-      position: 11
-    - word: に
-      position: 12
-    - word: くくり
-      base: 括る
-      position: 13
-    - word: つけ
-      base: つける
-      position: 16
-    - word: て
-      position: 18
-    - word: みんな
-      base: 皆
-      position: 19
-    - word: の
-      position: 22
-    - word: 来る
-      position: 23
-    - word: の
-      position: 25
-    - word: を
-      position: 26
-    - word: 待っ
-      base: 待つ
-      position: 27
-    - word: て
-      position: 29
-    - word: い
-      base: 居る
-      position: 30
-    - word: まし
-      base: ます
-      position: 31
-    - word: た
-      position: 33
 - id: Akai Rosoku-f000038
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -1166,36 +294,6 @@
   sound_begin: 202040
   sound_end: 207320
   sentence: いよいよこれから花火を打上げることになりました。
-  words:
-    - word: いよいよ
-      base: 愈
-      position: 0
-    - word: これ
-      base: 此れ
-      position: 4
-    - word: から
-      position: 6
-    - word: 花火
-      position: 8
-    - word: を
-      position: 10
-    - word: 打
-      base: 打つ
-      position: 11
-    - word: 上げる
-      position: 12
-    - word: こと
-      position: 15
-    - word: に
-      position: 17
-    - word: なり
-      base: 成る
-      position: 18
-    - word: まし
-      base: ます
-      position: 20
-    - word: た
-      position: 22
 - id: Akai Rosoku-f000039
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -1204,27 +302,6 @@
   sound_begin: 207320
   sound_end: 211019
   sentence: しかし困ったことが出来ました。
-  words:
-    - word: しかし
-      base: 然し
-      position: 0
-    - word: 困っ
-      base: 困る
-      position: 3
-    - word: た
-      position: 5
-    - word: こと
-      position: 6
-    - word: が
-      position: 8
-    - word: 出来
-      base: 出来る
-      position: 9
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
 - id: Akai Rosoku-f000040
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -1233,18 +310,6 @@
   sound_begin: 211019
   sound_end: 213720
   sentence: と申しますのは、
-  words:
-    - word: と
-      position: 0
-    - word: 申し
-      base: 申す
-      position: 1
-    - word: ます
-      position: 3
-    - word: の
-      position: 5
-    - word: は
-      position: 6
 - id: Akai Rosoku-f000041
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -1253,36 +318,6 @@
   sound_begin: 213720
   sound_end: 217520
   sentence: 誰も花火に火をつけようとしなかったからです。
-  words:
-    - word: 誰
-      position: 0
-    - word: も
-      position: 1
-    - word: 花火
-      position: 2
-    - word: に
-      position: 4
-    - word: 火
-      position: 5
-    - word: を
-      position: 6
-    - word: つけよう
-      base: つける
-      position: 7
-    - word: と
-      position: 11
-    - word: し
-      base: 為る
-      position: 12
-    - word: なかっ
-      base: ない
-      position: 13
-    - word: た
-      position: 16
-    - word: から
-      position: 17
-    - word: です
-      position: 19
 - id: Akai Rosoku-f000042
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -1291,45 +326,6 @@
   sound_begin: 220320
   sound_end: 226680
   sentence: みんな花火を見ることは好きでしたが火をつけにいくことは、
-  words:
-    - word: みんな
-      base: 皆
-      position: 0
-    - word: 花火
-      position: 3
-    - word: を
-      position: 5
-    - word: 見る
-      position: 6
-    - word: こと
-      position: 8
-    - word: は
-      position: 10
-    - word: 好き
-      position: 11
-    - word: でし
-      base: です
-      position: 13
-    - word: た
-      position: 15
-    - word: が
-      position: 16
-    - word: 火
-      position: 17
-    - word: を
-      position: 18
-    - word: つけ
-      base: つける
-      position: 19
-    - word: に
-      position: 21
-    - word: いく
-      base: 行く
-      position: 22
-    - word: こと
-      position: 24
-    - word: は
-      position: 26
 - id: Akai Rosoku-f000043
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -1338,27 +334,6 @@
   sound_begin: 226680
   sound_end: 228560
   sentence: 好きでなかったのであります。
-  words:
-    - word: 好き
-      position: 0
-    - word: で
-      base: だ
-      position: 2
-    - word: なかっ
-      base: 無い
-      position: 3
-    - word: た
-      position: 6
-    - word: の
-      position: 7
-    - word: で
-      base: だ
-      position: 8
-    - word: あり
-      base: 有る
-      position: 9
-    - word: ます
-      position: 11
 - id: Akai Rosoku-f000044
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -1367,27 +342,6 @@
   sound_begin: 230560
   sound_end: 232840
   sentence: これでは花火はあがりません。
-  words:
-    - word: これ
-      base: 此れ
-      position: 0
-    - word: で
-      position: 2
-    - word: は
-      position: 3
-    - word: 花火
-      position: 4
-    - word: は
-      position: 6
-    - word: あがり
-      base: 上がる
-      position: 7
-    - word: ませ
-      base: ます
-      position: 10
-    - word: ん
-      base: ず
-      position: 12
 - id: Akai Rosoku-f000045
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -1396,22 +350,6 @@
   sound_begin: 235340
   sound_end: 238000
   sentence: そこでくじをひいて、
-  words:
-    - word: そこ
-      base: 其処
-      position: 0
-    - word: で
-      position: 2
-    - word: くじ
-      base: 籤
-      position: 3
-    - word: を
-      position: 5
-    - word: ひい
-      base: ひく
-      position: 6
-    - word: て
-      position: 8
 - id: Akai Rosoku-f000046
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -1420,37 +358,6 @@
   sound_begin: 238000
   sound_end: 241000
   sentence: 火をつけに行くものを決めることになりました。
-  words:
-    - word: 火
-      position: 0
-    - word: を
-      position: 1
-    - word: つけ
-      base: つける
-      position: 2
-    - word: に
-      position: 4
-    - word: 行く
-      position: 5
-    - word: もの
-      base: 物
-      position: 7
-    - word: を
-      position: 9
-    - word: 決める
-      position: 10
-    - word: こと
-      position: 13
-    - word: に
-      position: 15
-    - word: なり
-      base: 成る
-      position: 16
-    - word: まし
-      base: ます
-      position: 18
-    - word: た
-      position: 20
 - id: Akai Rosoku-f000047
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -1459,37 +366,6 @@
   sound_begin: 244200
   sound_end: 248280
   sentence: 第一にあたったものは亀でありました。
-  words:
-    - word: 第
-      position: 0
-    - word: 一
-      base: '1'
-      position: 1
-    - word: に
-      position: 2
-    - word: あたっ
-      base: 当たる
-      position: 3
-    - word: た
-      position: 6
-    - word: もの
-      base: 物
-      position: 7
-    - word: は
-      position: 9
-    - word: 亀
-      position: 10
-    - word: で
-      base: だ
-      position: 11
-    - word: あり
-      base: 有る
-      position: 12
-    - word: まし
-      base: ます
-      position: 14
-    - word: た
-      position: 16
 - id: Akai Rosoku-f000048
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -1498,41 +374,6 @@
   sound_begin: 251780
   sound_end: 257812
   sentence: 亀は元気を出して花火の方へやって行きました。
-  words:
-    - word: 亀
-      position: 0
-    - word: は
-      position: 1
-    - word: 元気
-      position: 2
-    - word: を
-      position: 4
-    - word: 出し
-      base: 出す
-      position: 5
-    - word: て
-      position: 7
-    - word: 花火
-      position: 8
-    - word: の
-      position: 10
-    - word: 方
-      position: 11
-    - word: へ
-      position: 12
-    - word: やっ
-      base: 遣る
-      position: 13
-    - word: て
-      position: 15
-    - word: 行き
-      base: 行く
-      position: 16
-    - word: まし
-      base: ます
-      position: 18
-    - word: た
-      position: 20
 - id: Akai Rosoku-f000049
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -1541,34 +382,6 @@
   sound_begin: 257812
   sound_end: 263520
   sentence: だがうまく火をつけることが出来たでしょうか。
-  words:
-    - word: だ
-      position: 0
-    - word: が
-      position: 1
-    - word: うまく
-      base: 旨い
-      position: 2
-    - word: 火
-      position: 5
-    - word: を
-      position: 6
-    - word: つける
-      position: 7
-    - word: こと
-      position: 10
-    - word: が
-      position: 12
-    - word: 出来
-      base: 出来る
-      position: 13
-    - word: た
-      position: 15
-    - word: でしょう
-      base: です
-      position: 16
-    - word: か
-      position: 20
 - id: Akai Rosoku-f000050
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -1577,9 +390,6 @@
   sound_begin: 263520
   sound_end: 264080
   sentence: いえ、
-  words:
-    - word: いえ
-      position: 0
 - id: Akai Rosoku-f000051
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -1588,9 +398,6 @@
   sound_begin: 264080
   sound_end: 264360
   sentence: いえ。
-  words:
-    - word: いえ
-      position: 0
 - id: Akai Rosoku-f000052
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -1599,71 +406,6 @@
   sound_begin: 266160
   sound_end: 275080
   sentence: 亀は花火のそばまで来ると首が自然に引込んでしまって出て来なかったのでありました。
-  words:
-    - word: 亀
-      position: 0
-    - word: は
-      position: 1
-    - word: 花火
-      position: 2
-    - word: の
-      position: 4
-    - word: そば
-      position: 5
-    - word: まで
-      position: 7
-    - word: 来る
-      position: 9
-    - word: と
-      position: 11
-    - word: 首
-      position: 12
-    - word: が
-      position: 13
-    - word: 自然
-      position: 14
-    - word: に
-      base: だ
-      position: 16
-    - word: 引
-      base: 引く
-      position: 17
-    - word: 込ん
-      base: 込む
-      position: 18
-    - word: で
-      position: 20
-    - word: しまっ
-      base: 仕舞う
-      position: 21
-    - word: て
-      position: 24
-    - word: 出
-      base: 出る
-      position: 25
-    - word: て
-      position: 26
-    - word: 来
-      base: 来る
-      position: 27
-    - word: なかっ
-      base: ない
-      position: 28
-    - word: た
-      position: 31
-    - word: の
-      position: 32
-    - word: で
-      base: だ
-      position: 33
-    - word: あり
-      base: 有る
-      position: 34
-    - word: まし
-      base: ます
-      position: 36
-    - word: た
-      position: 38
 - id: Akai Rosoku-f000053
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -1672,28 +414,6 @@
   sound_begin: 277880
   sound_end: 281135
   sentence: そこでくじがまたひかれて、
-  words:
-    - word: そこ
-      base: 其処
-      position: 0
-    - word: で
-      position: 2
-    - word: くじ
-      base: 籤
-      position: 3
-    - word: が
-      position: 5
-    - word: また
-      base: 又
-      position: 6
-    - word: ひか
-      base: ひく
-      position: 8
-    - word: れ
-      base: れる
-      position: 10
-    - word: て
-      position: 11
 - id: Akai Rosoku-f000054
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -1702,30 +422,6 @@
   sound_begin: 281135
   sound_end: 283640
   sentence: こんどは鼬が行くことになりました。
-  words:
-    - word: こんど
-      base: 今度
-      position: 0
-    - word: は
-      position: 3
-    - word: 鼬
-      position: 4
-    - word: が
-      position: 5
-    - word: 行く
-      position: 6
-    - word: こと
-      position: 8
-    - word: に
-      position: 10
-    - word: なり
-      base: 成る
-      position: 11
-    - word: まし
-      base: ます
-      position: 13
-    - word: た
-      position: 15
 - id: Akai Rosoku-f000055
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -1734,27 +430,6 @@
   sound_begin: 286440
   sound_end: 289160
   sentence: 鼬は亀よりは幾分ましでした。
-  words:
-    - word: 鼬
-      position: 0
-    - word: は
-      position: 1
-    - word: 亀
-      position: 2
-    - word: より
-      position: 3
-    - word: は
-      position: 5
-    - word: 幾分
-      position: 6
-    - word: まし
-      base: 増し
-      position: 8
-    - word: でし
-      base: です
-      position: 10
-    - word: た
-      position: 12
 - id: Akai Rosoku-f000056
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -1763,46 +438,6 @@
   sound_begin: 291060
   sound_end: 296440
   sentence: というのは首を引込めてしまわなかったからであります。
-  words:
-    - word: と
-      position: 0
-    - word: いう
-      base: 言う
-      position: 1
-    - word: の
-      position: 3
-    - word: は
-      position: 4
-    - word: 首
-      position: 5
-    - word: を
-      position: 6
-    - word: 引
-      base: 引く
-      position: 7
-    - word: 込め
-      base: 込む
-      position: 8
-    - word: て
-      position: 10
-    - word: しまわ
-      base: 仕舞う
-      position: 11
-    - word: なかっ
-      base: ない
-      position: 14
-    - word: た
-      position: 17
-    - word: から
-      position: 18
-    - word: で
-      base: だ
-      position: 20
-    - word: あり
-      base: 有る
-      position: 21
-    - word: ます
-      position: 23
 - id: Akai Rosoku-f000057
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -1811,30 +446,6 @@
   sound_begin: 300040
   sound_end: 303840
   sentence: しかし鼬はひどい近眼でありました。
-  words:
-    - word: しかし
-      base: 然し
-      position: 0
-    - word: 鼬
-      position: 3
-    - word: は
-      position: 4
-    - word: ひどい
-      base: 酷い
-      position: 5
-    - word: 近眼
-      position: 8
-    - word: で
-      base: だ
-      position: 10
-    - word: あり
-      base: 有る
-      position: 11
-    - word: まし
-      base: ます
-      position: 13
-    - word: た
-      position: 15
 - id: Akai Rosoku-f000058
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -1843,45 +454,6 @@
   sound_begin: 306340
   sound_end: 314124
   sentence: だから蝋燭のまわりをきょろきょろとうろついているばかりでありました。
-  words:
-    - word: だ
-      position: 0
-    - word: から
-      position: 1
-    - word: 蝋燭
-      position: 3
-    - word: の
-      position: 5
-    - word: まわり
-      base: 周り
-      position: 6
-    - word: を
-      position: 9
-    - word: きょろきょろ
-      position: 10
-    - word: と
-      position: 16
-    - word: うろつい
-      base: 彷徨く
-      position: 17
-    - word: て
-      position: 21
-    - word: いる
-      base: 居る
-      position: 22
-    - word: ばかり
-      position: 24
-    - word: で
-      base: だ
-      position: 27
-    - word: あり
-      base: 有る
-      position: 28
-    - word: まし
-      base: ます
-      position: 30
-    - word: た
-      position: 32
 - id: Akai Rosoku-f000059
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -1890,25 +462,6 @@
   sound_begin: 314124
   sound_end: 318240
   sentence: 遂々猪が飛出しました。
-  words:
-    - word: 遂々
-      base: ついつい
-      position: 0
-    - word: 猪
-      position: 2
-    - word: が
-      position: 3
-    - word: 飛
-      base: 飛ぶ
-      position: 4
-    - word: 出し
-      base: 出す
-      position: 5
-    - word: まし
-      base: ます
-      position: 7
-    - word: た
-      position: 9
 - id: Akai Rosoku-f000060
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -1917,23 +470,6 @@
   sound_begin: 318240
   sound_end: 323680
   sentence: 猪は全く勇しい獣でした。
-  words:
-    - word: 猪
-      position: 0
-    - word: は
-      position: 1
-    - word: 全く
-      position: 2
-    - word: 勇しい
-      base: 勇ましい
-      position: 4
-    - word: 獣
-      position: 7
-    - word: でし
-      base: です
-      position: 8
-    - word: た
-      position: 10
 - id: Akai Rosoku-f000061
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -1942,43 +478,6 @@
   sound_begin: 323680
   sound_end: 328760
   sentence: 猪はほんとうにやっていって火をつけてしまいました。
-  words:
-    - word: 猪
-      position: 0
-    - word: は
-      position: 1
-    - word: ほんとう
-      base: 本当
-      position: 2
-    - word: に
-      position: 6
-    - word: やっ
-      base: 遣る
-      position: 7
-    - word: て
-      position: 9
-    - word: いっ
-      base: 行く
-      position: 10
-    - word: て
-      position: 12
-    - word: 火
-      position: 13
-    - word: を
-      position: 14
-    - word: つけ
-      base: つける
-      position: 15
-    - word: て
-      position: 17
-    - word: しまい
-      base: 仕舞う
-      position: 18
-    - word: まし
-      base: ます
-      position: 21
-    - word: た
-      position: 23
 - id: Akai Rosoku-f000062
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -1987,45 +486,6 @@
   sound_begin: 331560
   sound_end: 338880
   sentence: みんなはびっくりして草むらに飛込み耳を固くふさぎました。
-  words:
-    - word: みんな
-      base: 皆
-      position: 0
-    - word: は
-      position: 3
-    - word: びっくり
-      position: 4
-    - word: し
-      base: 為る
-      position: 8
-    - word: て
-      position: 9
-    - word: 草むら
-      base: 草叢
-      position: 10
-    - word: に
-      position: 13
-    - word: 飛
-      base: 飛ぶ
-      position: 14
-    - word: 込み
-      base: 込む
-      position: 15
-    - word: 耳
-      position: 17
-    - word: を
-      position: 18
-    - word: 固く
-      base: 固い
-      position: 19
-    - word: ふさぎ
-      base: 塞ぐ
-      position: 21
-    - word: まし
-      base: ます
-      position: 24
-    - word: た
-      position: 26
 - id: Akai Rosoku-f000063
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -2034,35 +494,6 @@
   sound_begin: 338880
   sound_end: 343160
   sentence: 耳ばかりでなく眼もふさいでしまいました。
-  words:
-    - word: 耳
-      position: 0
-    - word: ばかり
-      position: 1
-    - word: で
-      base: だ
-      position: 4
-    - word: なく
-      base: 無い
-      position: 5
-    - word: 眼
-      base: 目
-      position: 7
-    - word: も
-      position: 8
-    - word: ふさい
-      base: 塞ぐ
-      position: 9
-    - word: で
-      position: 12
-    - word: しまい
-      base: 仕舞う
-      position: 13
-    - word: まし
-      base: ます
-      position: 16
-    - word: た
-      position: 18
 - id: Akai Rosoku-f000064
   author_japanese: 新美 南吉
   deck_name: Akai Rosoku
@@ -2071,44 +502,3 @@
   sound_begin: 346960
   sound_end: 355740
   sentence: しかし蝋燭はぽんともいわずに静かに燃えているばかりでした。
-  words:
-    - word: しかし
-      base: 然し
-      position: 0
-    - word: 蝋燭
-      position: 3
-    - word: は
-      position: 5
-    - word: ぽん
-      position: 6
-    - word: と
-      position: 8
-    - word: も
-      position: 9
-    - word: いわ
-      base: 言う
-      position: 10
-    - word: ず
-      position: 12
-    - word: に
-      position: 13
-    - word: 静か
-      position: 14
-    - word: に
-      base: だ
-      position: 16
-    - word: 燃え
-      base: 燃える
-      position: 17
-    - word: て
-      position: 19
-    - word: いる
-      base: 居る
-      position: 20
-    - word: ばかり
-      position: 22
-    - word: でし
-      base: です
-      position: 25
-    - word: た
-      position: 27

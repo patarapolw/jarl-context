@@ -6,13 +6,6 @@
   sound_begin: 6877
   sound_end: 12679
   sentence: 葬式の行列
-  words:
-    - word: 葬式
-      position: 0
-    - word: の
-      position: 2
-    - word: 行列
-      position: 3
 - id: Sosikino Gyoretsu-f000003
   author_japanese: 田中 貢太郎
   deck_name: Sosikino Gyoretsu
@@ -21,33 +14,6 @@
   sound_begin: 12679
   sound_end: 19502
   sentence: 鶴岡の城下に大場宇兵衛という武士があった。
-  words:
-    - word: 鶴岡
-      position: 0
-    - word: の
-      position: 2
-    - word: 城下
-      position: 3
-    - word: に
-      position: 5
-    - word: 大場
-      position: 6
-    - word: 宇兵衛
-      position: 8
-    - word: と
-      position: 11
-    - word: いう
-      base: 言う
-      position: 12
-    - word: 武士
-      position: 14
-    - word: が
-      position: 16
-    - word: あっ
-      base: 有る
-      position: 17
-    - word: た
-      position: 19
 - id: Sosikino Gyoretsu-f000004
   author_japanese: 田中 貢太郎
   deck_name: Sosikino Gyoretsu
@@ -56,34 +22,6 @@
   sound_begin: 19502
   sound_end: 23320
   sentence: 其の大場は同儕の寄合があったので、
-  words:
-    - word: 其の
-      position: 0
-    - word: 大場
-      position: 2
-    - word: は
-      position: 4
-    - word: 同
-      position: 5
-    - word: 儕
-      position: 6
-    - word: の
-      position: 7
-    - word: 寄合
-      base: 寄り合い
-      position: 8
-    - word: が
-      position: 10
-    - word: あっ
-      base: 有る
-      position: 11
-    - word: た
-      position: 13
-    - word: の
-      position: 14
-    - word: で
-      base: だ
-      position: 15
 - id: Sosikino Gyoretsu-f000005
   author_japanese: 田中 貢太郎
   deck_name: Sosikino Gyoretsu
@@ -92,38 +30,6 @@
   sound_begin: 23320
   sound_end: 29737
   sentence: それに往っていて夜半比に帰って来た。
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: に
-      position: 2
-    - word: 往っ
-      base: 行く
-      position: 3
-    - word: て
-      position: 5
-    - word: い
-      base: 居る
-      position: 6
-    - word: て
-      position: 7
-    - word: 夜半
-      position: 8
-    - word: 比
-      position: 10
-    - word: に
-      position: 11
-    - word: 帰っ
-      base: 帰る
-      position: 12
-    - word: て
-      position: 14
-    - word: 来
-      base: 来る
-      position: 15
-    - word: た
-      position: 16
 - id: Sosikino Gyoretsu-f000006
   author_japanese: 田中 貢太郎
   deck_name: Sosikino Gyoretsu
@@ -132,26 +38,6 @@
   sound_begin: 29737
   sound_end: 35680
   sentence: 北国でなくても淋しい屋敷町。
-  words:
-    - word: 北国
-      position: 0
-    - word: で
-      base: だ
-      position: 2
-    - word: なく
-      base: 無い
-      position: 3
-    - word: て
-      position: 5
-    - word: も
-      position: 6
-    - word: 淋しい
-      base: 寂しい
-      position: 7
-    - word: 屋敷
-      position: 10
-    - word: 町
-      position: 12
 - id: Sosikino Gyoretsu-f000007
   author_japanese: 田中 貢太郎
   deck_name: Sosikino Gyoretsu
@@ -160,28 +46,6 @@
   sound_begin: 35680
   sound_end: 38521
   sentence: 其の淋しい屋敷町を通っていると、
-  words:
-    - word: 其の
-      position: 0
-    - word: 淋しい
-      base: 寂しい
-      position: 2
-    - word: 屋敷
-      position: 5
-    - word: 町
-      position: 7
-    - word: を
-      position: 8
-    - word: 通っ
-      base: 通る
-      position: 9
-    - word: て
-      position: 11
-    - word: いる
-      base: 居る
-      position: 12
-    - word: と
-      position: 14
 - id: Sosikino Gyoretsu-f000008
   author_japanese: 田中 貢太郎
   deck_name: Sosikino Gyoretsu
@@ -190,24 +54,6 @@
   sound_begin: 38521
   sound_end: 45000
   sentence: 前方から葬式の行列が来た。
-  words:
-    - word: 前方
-      position: 0
-    - word: から
-      position: 2
-    - word: 葬式
-      position: 4
-    - word: の
-      position: 6
-    - word: 行列
-      position: 7
-    - word: が
-      position: 9
-    - word: 来
-      base: 来る
-      position: 10
-    - word: た
-      position: 11
 - id: Sosikino Gyoretsu-f000009
   author_japanese: 田中 貢太郎
   deck_name: Sosikino Gyoretsu
@@ -216,47 +62,6 @@
   sound_begin: 45000
   sound_end: 53000
   sentence: 夕方なら唯もかく深夜の葬式はあまり例のない事であった。
-  words:
-    - word: 夕方
-      position: 0
-    - word: なら
-      base: だ
-      position: 2
-    - word: 唯
-      position: 4
-    - word: も
-      position: 5
-    - word: かく
-      base: 斯く
-      position: 6
-    - word: 深夜
-      position: 8
-    - word: の
-      position: 10
-    - word: 葬式
-      position: 11
-    - word: は
-      position: 13
-    - word: あまり
-      base: 余り
-      position: 14
-    - word: 例
-      position: 17
-    - word: の
-      position: 18
-    - word: ない
-      base: 無い
-      position: 19
-    - word: 事
-      position: 21
-    - word: で
-      base: だ
-      position: 22
-    - word: あっ
-      base: 有る
-      position: 23
-    - word: た
-      position: 25
 - id: Sosikino Gyoretsu-f000010
   author_japanese: 田中 貢太郎
   deck_name: Sosikino Gyoretsu
@@ -265,41 +70,6 @@
   sound_begin: 53000
   sound_end: 61840
   sentence: 大場は行列の先頭が自分の前へ来ると聞いてみた。
-  words:
-    - word: 大場
-      position: 0
-    - word: は
-      position: 2
-    - word: 行列
-      position: 3
-    - word: の
-      position: 5
-    - word: 先頭
-      position: 6
-    - word: が
-      position: 8
-    - word: 自分
-      position: 9
-    - word: の
-      position: 11
-    - word: 前
-      position: 12
-    - word: へ
-      position: 13
-    - word: 来る
-      position: 14
-    - word: と
-      position: 16
-    - word: 聞い
-      base: 聞く
-      position: 17
-    - word: て
-      position: 19
-    - word: み
-      base: 見る
-      position: 20
-    - word: た
-      position: 21
 - id: Sosikino Gyoretsu-f000011
   author_japanese: 田中 貢太郎
   deck_name: Sosikino Gyoretsu
@@ -308,22 +78,6 @@
   sound_begin: 61840
   sound_end: 66640
   sentence: 「何方のお葬式でござる」
-  words:
-    - word: 何方
-      position: 1
-    - word: の
-      position: 3
-    - word: お
-      base: 御
-      position: 4
-    - word: 葬式
-      position: 5
-    - word: で
-      base: だ
-      position: 7
-    - word: ござる
-      base: 御座る
-      position: 8
 - id: Sosikino Gyoretsu-f000012
   author_japanese: 田中 貢太郎
   deck_name: Sosikino Gyoretsu
@@ -332,25 +86,6 @@
   sound_begin: 66640
   sound_end: 71939
   sentence: 対手は躊躇せずに云った。
-  words:
-    - word: 対手
-      position: 0
-    - word: は
-      position: 2
-    - word: 躊躇
-      position: 3
-    - word: せ
-      base: 為る
-      position: 5
-    - word: ず
-      position: 6
-    - word: に
-      position: 7
-    - word: 云っ
-      base: 言う
-      position: 8
-    - word: た
-      position: 10
 - id: Sosikino Gyoretsu-f000013
   author_japanese: 田中 貢太郎
   deck_name: Sosikino Gyoretsu
@@ -359,28 +94,6 @@
   sound_begin: 71939
   sound_end: 78000
   sentence: 「これは大場宇兵衛殿の葬式でござる」
-  words:
-    - word: これ
-      base: 此れ
-      position: 1
-    - word: は
-      position: 3
-    - word: 大場
-      position: 4
-    - word: 宇兵衛
-      position: 6
-    - word: 殿
-      position: 9
-    - word: の
-      position: 10
-    - word: 葬式
-      position: 11
-    - word: で
-      base: だ
-      position: 13
-    - word: ござる
-      base: 御座る
-      position: 14
 - id: Sosikino Gyoretsu-f000014
   author_japanese: 田中 貢太郎
   deck_name: Sosikino Gyoretsu
@@ -389,10 +102,6 @@
   sound_begin: 78000
   sound_end: 79080
   sentence: 「なに、
-  words:
-    - word: なに
-      base: 何
-      position: 1
 - id: Sosikino Gyoretsu-f000015
   author_japanese: 田中 貢太郎
   deck_name: Sosikino Gyoretsu
@@ -401,12 +110,6 @@
   sound_begin: 79080
   sound_end: 82560
   sentence: おおばうへえ」
-  words:
-    - word: おおば
-      position: 0
-    - word: うへえ
-      base: うへ
-      position: 3
 - id: Sosikino Gyoretsu-f000016
   author_japanese: 田中 貢太郎
   deck_name: Sosikino Gyoretsu
@@ -415,15 +118,6 @@
   sound_begin: 82560
   sound_end: 87920
   sentence: 「そうでござる」
-  words:
-    - word: そう
-      position: 1
-    - word: で
-      base: だ
-      position: 3
-    - word: ござる
-      base: 御座る
-      position: 4
 - id: Sosikino Gyoretsu-f000017
   author_japanese: 田中 貢太郎
   deck_name: Sosikino Gyoretsu
@@ -432,19 +126,6 @@
   sound_begin: 87920
   sound_end: 93920
   sentence: 行列は通りすぎた。
-  words:
-    - word: 行列
-      position: 0
-    - word: は
-      position: 2
-    - word: 通り
-      base: 通る
-      position: 3
-    - word: すぎ
-      base: 過ぎる
-      position: 5
-    - word: た
-      position: 7
 - id: Sosikino Gyoretsu-f000018
   author_japanese: 田中 貢太郎
   deck_name: Sosikino Gyoretsu
@@ -453,22 +134,6 @@
   sound_begin: 93920
   sound_end: 96518
   sentence: 宇兵衛は気が転倒した。
-  words:
-    - word: 宇兵衛
-      position: 0
-    - word: は
-      position: 3
-    - word: 気
-      position: 4
-    - word: が
-      position: 5
-    - word: 転倒
-      position: 6
-    - word: し
-      base: 為る
-      position: 8
-    - word: た
-      position: 9
 - id: Sosikino Gyoretsu-f000019
   author_japanese: 田中 貢太郎
   deck_name: Sosikino Gyoretsu
@@ -477,9 +142,6 @@
   sound_begin: 96518
   sound_end: 97520
   sentence: そして、
-  words:
-    - word: そして
-      position: 0
 - id: Sosikino Gyoretsu-f000020
   author_japanese: 田中 貢太郎
   deck_name: Sosikino Gyoretsu
@@ -488,21 +150,6 @@
   sound_begin: 97520
   sound_end: 99120
   sentence: 家へ帰ってみると、
-  words:
-    - word: 家
-      position: 0
-    - word: へ
-      position: 1
-    - word: 帰っ
-      base: 帰る
-      position: 2
-    - word: て
-      position: 4
-    - word: みる
-      base: 見る
-      position: 5
-    - word: と
-      position: 7
 - id: Sosikino Gyoretsu-f000021
   author_japanese: 田中 貢太郎
   deck_name: Sosikino Gyoretsu
@@ -511,36 +158,6 @@
   sound_begin: 99120
   sound_end: 105330
   sentence: 玄関前に焚火をしたばかりの痕があった。
-  words:
-    - word: 玄関
-      position: 0
-    - word: 前
-      position: 2
-    - word: に
-      position: 3
-    - word: 焚火
-      base: 焚き火
-      position: 4
-    - word: を
-      position: 6
-    - word: し
-      base: 為る
-      position: 7
-    - word: た
-      position: 8
-    - word: ばかり
-      position: 9
-    - word: の
-      position: 12
-    - word: 痕
-      position: 13
-    - word: が
-      position: 14
-    - word: あっ
-      base: 有る
-      position: 15
-    - word: た
-      position: 17
 - id: Sosikino Gyoretsu-f000022
   author_japanese: 田中 貢太郎
   deck_name: Sosikino Gyoretsu
@@ -549,26 +166,6 @@
   sound_begin: 105330
   sound_end: 114570
   sentence: それは葬式の送火であった。
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: は
-      position: 2
-    - word: 葬式
-      position: 3
-    - word: の
-      position: 5
-    - word: 送火
-      position: 6
-    - word: で
-      base: だ
-      position: 8
-    - word: あっ
-      base: 有る
-      position: 9
-    - word: た
-      position: 11
 - id: Sosikino Gyoretsu-f000023
   author_japanese: 田中 貢太郎
   deck_name: Sosikino Gyoretsu
@@ -577,28 +174,6 @@
   sound_begin: 114570
   sound_end: 120600
   sentence: 大場は其の晩からぶらぶら病になって、
-  words:
-    - word: 大場
-      position: 0
-    - word: は
-      position: 2
-    - word: 其の
-      position: 3
-    - word: 晩
-      position: 5
-    - word: から
-      position: 6
-    - word: ぶらぶら
-      position: 8
-    - word: 病
-      position: 12
-    - word: に
-      position: 13
-    - word: なっ
-      base: 成る
-      position: 14
-    - word: て
-      position: 16
 - id: Sosikino Gyoretsu-f000024
   author_japanese: 田中 貢太郎
   deck_name: Sosikino Gyoretsu
@@ -607,29 +182,3 @@
   sound_begin: 120600
   sound_end: 126040
   sentence: 間もなく送火を焚かれる人となった。
-  words:
-    - word: 間
-      position: 0
-    - word: も
-      position: 1
-    - word: なく
-      base: 無い
-      position: 2
-    - word: 送火
-      position: 4
-    - word: を
-      position: 6
-    - word: 焚か
-      base: 焚く
-      position: 7
-    - word: れる
-      position: 9
-    - word: 人
-      position: 11
-    - word: と
-      position: 12
-    - word: なっ
-      base: 成る
-      position: 13
-    - word: た
-      position: 15

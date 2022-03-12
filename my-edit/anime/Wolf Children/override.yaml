@@ -16,17 +16,6 @@
       position: 3
       tags:
         - silent
-    - word: はい
-      position: 8
-    - word: いらっしゃい
-      base: いらっしゃる
-      dictionary: いらっしゃる
-      position: 11
-    - word: こっち
-      base: 此方
-      position: 18
-    - word: よ
-      position: 21
 - id: A_WolfChildren_0098
   deck_name: Wolf Children
   translation: I'm hungry!
@@ -37,15 +26,6 @@
       position: 1
       tags:
         - silent
-    - word: お腹
-      base: 御腹
-      position: 6
-    - word: すい
-      base: すく
-      dictionary: すく
-      position: 8
-    - word: た
-      position: 10
 - id: A_WolfChildren_0099
   deck_name: Wolf Children
   translation: I see.
@@ -62,19 +42,6 @@
   sound: A_WolfChildren_1_0.26.37.485-0.26.41.005.mp3
   sentence: かわいいって　よかったね。 （犬の吠え声）
   words:
-    - word: かわいい
-      base: 可愛い
-      position: 0
-    - word: って
-      position: 4
-    - word: よかっ
-      base: 良い
-      dictionary: よい
-      position: 7
-    - word: た
-      position: 10
-    - word: ね
-      position: 11
     - word: 犬
       position: 15
       tags:
@@ -115,21 +82,6 @@
   sound: A_WolfChildren_1_0.27.14.005-0.27.17.492.mp3
   sentence: チッ！　躾ぐらい　ちゃんとしろ！ （ドアを激しく閉める音）
   words:
-    - word: チッ
-      base: ちっ
-      position: 0
-    - word: 躾
-      base: 仕付け
-      position: 4
-    - word: ぐらい
-      base: くらい
-      position: 5
-    - word: ちゃんと
-      position: 9
-    - word: しろ
-      base: 為る
-      dictionary: する
-      position: 13
     - word: ドア
       position: 18
       tags:
@@ -166,16 +118,6 @@
       position: 7
       tags:
         - silent
-    - word: よし
-      position: 12
-    - word: よし
-      position: 14
-    - word: 大丈夫
-      position: 17
-    - word: だ
-      position: 20
-    - word: よ
-      position: 21
 - id: A_WolfChildren_0179
   deck_name: Wolf Children
   translation: Oh, hey, Mr. Nirasaki! Be nicer this time!
@@ -186,64 +128,12 @@
       position: 1
       tags:
         - silent
-    - word: あ
-      base: あっ
-      position: 5
-    - word: 韮崎
-      position: 8
-    - word: の
-      position: 10
-    - word: お
-      base: 御
-      position: 11
-    - word: じい
-      base: 爺
-      position: 12
-    - word: ちゃ
-      base: だ
-      dictionary: だ
-      position: 14
-    - word: ～
-      position: 16
-    - word: ん
-      base: んっ
-      position: 17
-    - word: →
-      position: 18
-    - word: 今度
-      position: 20
-    - word: は
-      position: 22
-    - word: お
-      base: 御
-      position: 24
-    - word: 手柔らか
-      position: 25
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 29
-    - word: お
-      base: 御
-      position: 31
-    - word: 願い
-      position: 32
-    - word: しま
-      position: 34
-    - word: ～
-      base: から
-      position: 36
-    - word: す
-      base: 為る
-      position: 37
 - id: A_WolfChildren_0180
   deck_name: Wolf Children
   translation: Three... two...
   sound: A_WolfChildren_1_0.32.58.167-0.33.01.669.mp3
   sentence: あっ！ （床板を修理する音）
   words:
-    - word: あっ
-      position: 0
     - word: 床板
       position: 5
       tags:
@@ -275,38 +165,6 @@
       position: 1
       tags:
         - silent
-    - word: そんな
-      position: 5
-    - word: もん
-      position: 8
-    - word: もらっ
-      base: 貰う
-      dictionary: もらう
-      position: 11
-    - word: て
-      position: 14
-    - word: いい
-      base: 良い
-      position: 15
-    - word: か
-      position: 17
-    - word: なんて
-      position: 19
-    - word: 聞く
-      position: 22
-    - word: ヤツ
-      base: 奴
-      position: 24
-    - word: は
-      position: 26
-    - word: い
-      base: 居る
-      dictionary: いる
-      position: 27
-    - word: ない
-      position: 28
-    - word: よ
-      position: 30
 - id: A_WolfChildren_0292
   deck_name: Wolf Children
   translation: Man, this is awful.
@@ -330,21 +188,6 @@
       position: 6
       tags:
         - silent
-    - word: ひ
-      base: 一
-      position: 10
-    - word: ゃ
-      base: ヤ
-      position: 11
-    - word: ～
-      base: から
-      position: 12
-    - word: ひどい
-      base: 酷い
-      position: 14
-    - word: ひどい
-      base: 酷い
-      position: 18
 - id: A_WolfChildren_0346
   deck_name: Wolf Children
   translation: >-
@@ -370,43 +213,6 @@
       position: 6
       tags:
         - silent
-    - word: 炭焼き
-      position: 10
-    - word: の
-      position: 13
-    - word: 煙
-      position: 14
-    - word: から
-      position: 15
-    - word: 作る
-      position: 17
-    - word: の
-      position: 19
-    - word: よ
-      position: 20
-    - word: →
-      position: 21
-    - word: あと
-      base: 後
-      position: 23
-    - word: 鶏糞
-      position: 25
-    - word: 使い方
-      position: 28
-    - word: は
-      position: 31
-    - word: 中
-      position: 32
-    - word: に
-      position: 33
-    - word: 入っ
-      base: 入る
-      dictionary: 入る
-      position: 34
-    - word: てる
-      position: 36
-    - word: から
-      position: 38
 - id: A_WolfChildren_0349
   deck_name: Wolf Children
   translation: It's probably a lot of trouble living in such an unfamiliar place, isn't it?
@@ -430,25 +236,6 @@
       position: 6
       tags:
         - silent
-    - word: 慣れ
-      base: 慣れる
-      dictionary: 慣れる
-      position: 10
-    - word: ない
-      position: 12
-    - word: 土地
-      position: 14
-    - word: で
-      position: 16
-    - word: 苦労
-      position: 17
-    - word: する
-      base: 為る
-      position: 19
-    - word: でしょ
-      base: です
-      dictionary: です
-      position: 21
 - id: A_WolfChildren_0351
   deck_name: Wolf Children
   translation: >-
@@ -470,52 +257,6 @@
       position: 5
       tags:
         - silent
-    - word: せっかく
-      base: 折角
-      position: 9
-    - word: 都会
-      position: 13
-    - word: から
-      position: 15
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 17
-    - word: て
-      position: 18
-    - word: も
-      position: 19
-    - word: →
-      position: 20
-    - word: すぐ
-      base: 直ぐ
-      position: 22
-    - word: に
-      position: 24
-    - word: くじけ
-      base: 挫く
-      dictionary: くじける
-      position: 26
-    - word: て
-      position: 29
-    - word: 帰っ
-      base: 帰る
-      dictionary: 帰る
-      position: 31
-    - word: ちゃう
-      position: 33
-    - word: 人
-      position: 36
-    - word: が
-      position: 37
-    - word: 多く
-      base: 多い
-      dictionary: 多い
-      position: 38
-    - word: て
-      position: 40
-    - word: ね
-      position: 41
 - id: A_WolfChildren_0356
   deck_name: Wolf Children
   translation: The drainage is poor... ...and it snows a ton out here.
@@ -539,26 +280,6 @@
       position: 6
       tags:
         - silent
-    - word: 水はけ
-      base: 水捌け
-      position: 9
-    - word: は
-      position: 12
-    - word: 悪い
-      position: 13
-    - word: し
-      position: 15
-    - word: 雪
-      position: 18
-    - word: は
-      position: 19
-    - word: たくさん
-      base: 沢山
-      position: 21
-    - word: だ
-      position: 25
-    - word: し
-      position: 26
 - id: A_WolfChildren_0357
   deck_name: Wolf Children
   translation: We've got to help each other out.
@@ -582,23 +303,6 @@
       position: 6
       tags:
         - silent
-    - word: 助け
-      base: 助ける
-      dictionary: 助ける
-      position: 10
-    - word: 合っ
-      base: 合う
-      dictionary: 合う
-      position: 12
-    - word: て
-      position: 14
-    - word: 行か
-      base: 行く
-      dictionary: 行く
-      position: 15
-    - word: にゃあ
-      base: に
-      position: 17
 - id: A_WolfChildren_0359
   deck_name: Wolf Children
   translation: >-
@@ -619,56 +323,6 @@
       position: 4
       tags:
         - silent
-    - word: ここ
-      base: 此処
-      position: 9
-    - word: 若い
-      position: 12
-    - word: お
-      base: 御
-      position: 14
-    - word: 母さん
-      position: 15
-    - word: が
-      position: 18
-    - word: すごく
-      base: 凄い
-      dictionary: すごい
-      position: 20
-    - word: 少ない
-      position: 23
-    - word: から
-      position: 26
-    - word: →
-      position: 28
-    - word: 仲間
-      position: 30
-    - word: が
-      position: 32
-    - word: 増え
-      base: 増える
-      dictionary: 増える
-      position: 33
-    - word: て
-      position: 35
-    - word: 心強い
-      position: 36
-    - word: わ
-      position: 39
-    - word: 何
-      position: 41
-    - word: で
-      position: 42
-    - word: も
-      position: 43
-    - word: 聞い
-      base: 聞く
-      dictionary: 聞く
-      position: 44
-    - word: て
-      position: 46
-    - word: ね
-      position: 47
 - id: A_WolfChildren_0361
   deck_name: Wolf Children
   translation: What?! You're living off your savings?
@@ -687,24 +341,6 @@
       position: 4
       tags:
         - silent
-    - word: えっ
-      position: 9
-    - word: 貯金
-      position: 13
-    - word: で
-      position: 15
-    - word: 生活
-      position: 16
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 18
-    - word: てん
-      base: てる
-      dictionary: てる
-      position: 19
-    - word: の
-      position: 21
 - id: A_WolfChildren_0404
   deck_name: Wolf Children
   translation: Everyone wants to know.
@@ -728,21 +364,6 @@
       position: 6
       tags:
         - silent
-    - word: みんな
-      base: 皆
-      position: 10
-    - word: 知り
-      base: 知る
-      dictionary: 知る
-      position: 13
-    - word: たがっ
-      base: たがる
-      dictionary: たがる
-      position: 15
-    - word: てる
-      position: 18
-    - word: よ
-      position: 20
 - id: A_WolfChildren_0406
   deck_name: Wolf Children
   translation: She's so lively, that Yuki.
@@ -766,16 +387,6 @@
       position: 6
       tags:
         - silent
-    - word: 元気
-      position: 10
-    - word: ね
-      position: 12
-    - word: 雪
-      position: 14
-    - word: ちゃん
-      position: 15
-    - word: は
-      position: 18
 - id: A_WolfChildren_0410
   deck_name: Wolf Children
   translation: Don't mention it. It's in return for the potatoes.
@@ -799,23 +410,6 @@
       position: 6
       tags:
         - silent
-    - word: いい
-      base: 良い
-      position: 10
-    - word: の
-      position: 12
-    - word: よ
-      position: 13
-    - word: ジャガイモ
-      base: ジャガ芋
-      position: 15
-    - word: の
-      position: 20
-    - word: お
-      base: 御
-      position: 21
-    - word: 返し
-      position: 22
 - id: A_WolfChildren_0421
   deck_name: Wolf Children
   translation: He's fallen for you. He's ninety years old, you fool.
@@ -842,32 +436,6 @@
       position: 7
       tags:
         - silent
-    - word: ほれ
-      base: ほれる
-      dictionary: ほれる
-      position: 10
-    - word: てん
-      base: てる
-      dictionary: てる
-      position: 12
-    - word: の
-      position: 14
-    - word: よ
-      position: 15
-    - word: もう
-      position: 18
-    - word: ９０
-      base: '90'
-      dictionary: '90'
-      position: 20
-    - word: 歳
-      position: 22
-    - word: だ
-      position: 23
-    - word: って
-      position: 24
-    - word: の
-      position: 26
 - id: A_WolfChildren_0422
   deck_name: Wolf Children
   translation: I mean, he was the one who asked all of us to take good care of her.
@@ -894,39 +462,6 @@
       position: 7
       tags:
         - silent
-    - word: だ
-      position: 11
-    - word: って
-      position: 12
-    - word: 面倒
-      position: 15
-    - word: 見
-      base: 見る
-      dictionary: 見る
-      position: 17
-    - word: て
-      position: 18
-    - word: やれ
-      base: 遣る
-      dictionary: やる
-      position: 19
-    - word: って
-      position: 21
-    - word: みんな
-      base: 皆
-      position: 24
-    - word: を
-      position: 27
-    - word: けしかけ
-      base: 嗾ける
-      dictionary: けしかける
-      position: 28
-    - word: た
-      position: 32
-    - word: の
-      position: 33
-    - word: も
-      position: 34
 - id: A_WolfChildren_0436
   deck_name: Wolf Children
   translation: M—
@@ -971,30 +506,6 @@
       position: 3
       tags:
         - silent
-    - word: お
-      base: 御
-      position: 6
-    - word: みやげ
-      base: 土産
-      position: 7
-    - word: みっ
-      base: 三
-      position: 10
-    - word: つ
-      position: 12
-    - word: たこ
-      position: 14
-    - word: みっ
-      base: 三
-      position: 16
-    - word: つ
-      position: 18
-    - word: アハハハ
-      base: あはは
-      position: 21
-    - word: フフフ
-      base: ふふふ
-      position: 28
 - id: A_WolfChildren_0479
   deck_name: Wolf Children
   translation: Good morning, Shino!
@@ -1035,18 +546,6 @@
       position: 1
       tags:
         - silent
-    - word: じゃあ
-      base: で
-      position: 5
-    - word: この
-      base: 此の
-      position: 9
-    - word: 問題
-      position: 11
-    - word: 分かる
-      position: 14
-    - word: 人
-      position: 17
 - id: A_WolfChildren_0485
   deck_name: Wolf Children
   translation: Yuki!
@@ -1087,34 +586,12 @@
       position: 4
       tags:
         - silent
-    - word: よろしく
-      base: 宜しく
-      position: 7
-    - word: お
-      base: 御
-      position: 11
-    - word: 願い
-      base: 願う
-      dictionary: 願う
-      position: 12
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 14
-    - word: ます
-      position: 15
 - id: A_WolfChildren_0505
   deck_name: Wolf Children
   translation: Well, he is quite old.
   sound: A_WolfChildren_1_1.02.30.787-1.02.33.306.mp3
   sentence: 年ですから。 （ドアが開く音）
   words:
-    - word: 年
-      position: 0
-    - word: です
-      position: 1
-    - word: から
-      position: 3
     - word: ドア
       position: 8
       tags:
@@ -1141,19 +618,6 @@
       position: 1
       tags:
         - silent
-    - word: ああ
-      position: 5
-    - word: おや
-      position: 9
-    - word: 雨
-      position: 12
-    - word: くん
-      base: 君
-      position: 13
-    - word: 学校
-      position: 16
-    - word: 休み
-      position: 18
 - id: A_WolfChildren_0597
   deck_name: Wolf Children
   translation: Sorry we had to call you at work.
@@ -1164,29 +628,6 @@
       position: 1
       tags:
         - silent
-    - word: あっ
-      position: 5
-    - word: すい
-      base: すむ
-      dictionary: すむ
-      position: 8
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 10
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 12
-    - word: お
-      base: 御
-      position: 14
-    - word: 仕事
-      position: 15
-    - word: 中
-      position: 17
-    - word: に
-      position: 18
 - id: A_WolfChildren_0621
   deck_name: Wolf Children
   translation: But she has been acting weird lately.
@@ -1197,20 +638,6 @@
       position: 1
       tags:
         - silent
-    - word: いや
-      base: 否
-      position: 6
-    - word: 最近
-      position: 9
-    - word: 変わっ
-      base: 変わる
-      dictionary: 変わる
-      position: 11
-    - word: てる
-      position: 14
-    - word: もん
-      base: もの
-      position: 16
 - id: A_WolfChildren_0623
   deck_name: Wolf Children
   translation: It was obviously her.
@@ -1221,36 +648,12 @@
       position: 1
       tags:
         - silent
-    - word: 絶対
-      position: 6
-    - word: あいつ
-      base: 彼奴
-      position: 9
-    - word: に
-      position: 12
-    - word: 決まっ
-      base: 決まる
-      dictionary: 決まる
-      position: 13
-    - word: てる
-      position: 16
-    - word: よ
-      position: 18
 - id: A_WolfChildren_0639
   deck_name: Wolf Children
   translation: I'm so sorry!
   sound: A_WolfChildren_1_1.13.44.277-1.13.50.783.mp3
   sentence: ごめんなさい～！ （泣き声）
   words:
-    - word: ごめん
-      base: 御免
-      position: 0
-    - word: なさい
-      base: 為す
-      dictionary: なさる
-      position: 3
-    - word: ～
-      position: 6
     - word: 泣き声
       position: 10
       tags:
@@ -1286,12 +689,6 @@
       position: 9
       tags:
         - silent
-    - word: 雪
-      position: 12
-    - word: ちゃん
-      position: 13
-    - word: は
-      position: 16
 - id: A_WolfChildren_0690
   deck_name: Wolf Children
   translation: Master knows everything. Everything about the mountain.
@@ -1310,55 +707,12 @@
       position: 3
       tags:
         - silent
-    - word: 先生
-      position: 6
-    - word: は
-      position: 8
-    - word: ね
-      position: 9
-    - word: 何
-      position: 11
-    - word: で
-      position: 12
-    - word: も
-      position: 13
-    - word: 知っ
-      base: 知る
-      dictionary: 知る
-      position: 14
-    - word: てる
-      position: 16
-    - word: ん
-      base: の
-      position: 18
-    - word: だ
-      position: 19
-    - word: 山
-      position: 21
-    - word: の
-      position: 22
-    - word: こと
-      position: 23
-    - word: なら
-      base: だ
-      dictionary: だ
-      position: 25
-    - word: 何
-      position: 27
-    - word: で
-      position: 28
-    - word: も
-      position: 29
 - id: A_WolfChildren_0721
   deck_name: Wolf Children
   translation: And what's there to know?!
   sound: A_WolfChildren_1_1.23.05.210-1.23.07.145.mp3
   sentence: 何が!? （顔をたたく音）
   words:
-    - word: 何
-      position: 0
-    - word: が
-      position: 1
     - word: 顔
       position: 6
       tags:
@@ -1382,21 +736,11 @@
   sound: A_WolfChildren_1_1.23.21.143-1.23.25.230.mp3
   sentence: 何？　何の音？ （うなり声） あっ！
   words:
-    - word: 何
-      position: 0
-    - word: 何
-      position: 3
-    - word: の
-      position: 4
-    - word: 音
-      position: 5
     - word: うなり声
       base: 唸り声
       position: 9
       tags:
         - silent
-    - word: あっ
-      position: 15
 - id: A_WolfChildren_0760
   deck_name: Wolf Children
   translation: Keep this a secret, no matter what. Okay?
@@ -1407,21 +751,6 @@
       position: 1
       tags:
         - silent
-    - word: いい
-      base: 良い
-      position: 5
-    - word: 絶対
-      position: 9
-    - word: に
-      position: 11
-    - word: 秘密
-      position: 12
-    - word: だ
-      position: 14
-    - word: から
-      position: 15
-    - word: ね
-      position: 17
 - id: A_WolfChildren_0777
   deck_name: Wolf Children
   translation: All right. Take your seats, everyone.
@@ -1449,37 +778,12 @@
       position: 12
       tags:
         - silent
-    - word: はい
-      position: 16
-    - word: 座っ
-      base: 座る
-      dictionary: 座る
-      position: 19
-    - word: て
-      position: 21
-    - word: 座っ
-      base: 座る
-      dictionary: 座る
-      position: 23
-    - word: て
-      position: 25
 - id: A_WolfChildren_0798
   deck_name: Wolf Children
   translation: The Alps are ten thousand—
   sound: A_WolfChildren_1_1.33.20.063-1.33.29.573.mp3
   sentence: ♪～　アルプス　一万尺… （雷鳴）
   words:
-    - word: ♪
-      position: 0
-    - word: ～
-      position: 1
-    - word: アルプス
-      position: 3
-    - word: 一万
-      base: '10000'
-      position: 8
-    - word: 尺
-      position: 10
     - word: 雷鳴
       position: 14
       tags:
@@ -1502,28 +806,6 @@
       position: 4
       tags:
         - silent
-    - word: 遠慮
-      position: 7
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 9
-    - word: なく
-      base: ない
-      dictionary: ない
-      position: 10
-    - word: て
-      position: 12
-    - word: いい
-      base: 良い
-      position: 13
-    - word: ん
-      base: の
-      position: 15
-    - word: だ
-      position: 16
-    - word: よ
-      position: 17
 - id: A_WolfChildren_0894
   deck_name: Wolf Children
   translation: Where did you go, Ame?

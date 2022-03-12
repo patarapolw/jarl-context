@@ -7,10 +7,6 @@
   sound_end: 448040
   sentence: 潮湯治（海水浴のこと）に名古屋から来る客は、
   words:
-    - word: 潮
-      position: 0
-    - word: 湯治
-      position: 1
     - word: 海水
       position: 4
       tags:
@@ -27,15 +23,3 @@
       position: 8
       tags:
         - silent
-    - word: に
-      position: 11
-    - word: 名古屋
-      position: 12
-    - word: から
-      position: 15
-    - word: 来る
-      position: 17
-    - word: 客
-      position: 19
-    - word: は
-      position: 20

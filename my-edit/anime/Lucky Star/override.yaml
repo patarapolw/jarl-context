@@ -144,37 +144,6 @@
   sound: luckystar-nodup_01_0.10.29.070-0.10.31.550.mp3
   sentence: 何だよ！何しに来たんだよ！帰れよっ！ （おー　起きた起きた）
   words:
-    - word: 何
-      position: 0
-    - word: だ
-      position: 1
-    - word: よ
-      position: 2
-    - word: 何
-      position: 4
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 5
-    - word: に
-      position: 6
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 7
-    - word: た
-      position: 8
-    - word: ん
-      base: の
-      position: 9
-    - word: だ
-      position: 10
-    - word: よ
-      position: 11
-    - word: 帰れよっ
-      base: 帰る
-      dictionary: 帰れる
-      position: 13
     - word: おー
       base: おお
       position: 20
@@ -248,25 +217,6 @@
       position: 12
       tags:
         - silent
-    - word: ああ
-      position: 16
-    - word: 何
-      position: 19
-    - word: か
-      position: 20
-    - word: もう
-      position: 21
-    - word: ボケ
-      base: ぼけ
-      position: 23
-    - word: と
-      position: 25
-    - word: フォロー
-      position: 26
-    - word: が
-      position: 30
-    - word: エンドレス
-      position: 31
 - id: luckystar-nodup_02_0501_0.05.33.980
   deck_name: Lucky Star
   translation: Reporting the results!
@@ -328,22 +278,6 @@
       position: 17
       tags:
         - silent
-    - word: こな
-      base: 粉
-      position: 20
-    - word: ちゃん
-      position: 22
-    - word: すごい
-      base: 凄い
-      position: 25
-    - word: リズム
-      position: 28
-    - word: 感
-      position: 31
-    - word: だ
-      position: 32
-    - word: ね
-      position: 33
 - id: luckystar-nodup_02_0687_0.15.44.080
   deck_name: Lucky Star
   translation: Fouwar hundreeed an' ninetee-ate yen desu~
@@ -362,28 +296,6 @@
       position: 5
       tags:
         - silent
-    - word: よん
-      base: 呼ぶ
-      dictionary: よぶ
-      position: 9
-    - word: き
-      position: 11
-    - word: ゅ
-      base: ユ
-      position: 12
-    - word: ー
-      position: 13
-    - word: や
-      position: 14
-    - word: ちえ
-      base: つう
-      dictionary: ちう
-      position: 15
-    - word: ん
-      base: の
-      position: 17
-    - word: っす
-      position: 18
 - id: luckystar-nodup_02_0688_0.15.47.690
   deck_name: Lucky Star
   translation: Exact change.
@@ -404,19 +316,6 @@
       position: 7
       tags:
         - silent
-    - word: ちょうじょう
-      base: 頂上
-      position: 11
-    - word: じゃ
-      base: で
-      position: 17
-    - word: い
-      base: いー
-      position: 19
-    - word: まー
-      position: 20
-    - word: っす
-      position: 22
 - id: luckystar-nodup_02_0689_0.15.50.840
   deck_name: Lucky Star
   translation: Tank-yuu vry much.
@@ -444,113 +343,24 @@
       position: 11
       tags:
         - silent
-    - word: ぁ
-      position: 14
-    - word: じじっ
-      base: じじ
-      position: 15
-    - word: す
-      base: 為る
-      position: 18
-    - word: たぁ
-      base: た
-      dictionary: た
-      position: 19
-    - word: ー
-      position: 21
 - id: luckystar-nodup_03_0951_0.05.47.220
   deck_name: Lucky Star
   translation: The word June is derived from the mythical Roman goddess Juno.
   sound: luckystar-nodup_03_0.05.47.170-0.05.53.490.mp3
   sentence: 一般的に６月のＪＵＮＥは ローマ神話の女神 ユノ（ＪＵＮＯ）に由来すると言われています
   words:
-    - word: 一般
-      position: 0
-    - word: 的
-      position: 2
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 3
-    - word: ６
-      base: '6'
-      dictionary: '6'
-      position: 4
-    - word: 月
-      position: 5
-    - word: の
-      position: 6
-    - word: ＪＵＮＥ
-      base: ジュン
-      dictionary: June
-      position: 7
-    - word: は
-      position: 11
-    - word: ローマ
-      position: 13
-    - word: 神話
-      position: 16
-    - word: の
-      position: 18
-    - word: 女神
-      position: 19
-    - word: ユノ
-      position: 22
     - word: ＪＵＮＯ
       base: Juno
       dictionary: Juno
       position: 25
       tags:
         - silent
-    - word: に
-      position: 30
-    - word: 由来
-      position: 31
-    - word: する
-      base: 為る
-      position: 33
-    - word: と
-      position: 35
-    - word: 言わ
-      base: 言う
-      dictionary: 言う
-      position: 36
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 38
-    - word: て
-      position: 39
-    - word: い
-      base: 居る
-      dictionary: いる
-      position: 40
-    - word: ます
-      position: 41
 - id: luckystar-nodup_04_1492_0.10.59.630
   deck_name: Lucky Star
   translation: '****kan hasn''t been too impressive lately.'
   sound: luckystar-nodup_04_0.10.59.580-0.11.04.690.mp3
   sentence: 最近のピーは大したことないなぁ （この番組は、ご覧のスポンサーの提供でお送りしました）
   words:
-    - word: 最近
-      position: 0
-    - word: の
-      position: 2
-    - word: ピー
-      position: 3
-    - word: は
-      position: 5
-    - word: 大した
-      position: 6
-    - word: こと
-      position: 9
-    - word: ない
-      base: 無い
-      position: 11
-    - word: なぁ
-      base: な
-      position: 13
     - word: この
       base: 此の
       position: 17
@@ -658,18 +468,6 @@
       position: 6
       tags:
         - silent
-    - word: Ｄｏｎ’ｔ
-      base: ドント
-      dictionary: DON’T
-      position: 18
-    - word: ｔｏｕｃｈ
-      base: touch
-      dictionary: touch
-      position: 24
-    - word: ｍｅ
-      base: ME
-      dictionary: ME
-      position: 30
 - id: luckystar-nodup_08_3055_0.19.03.190
   deck_name: Lucky Star
   translation: '*peel* *peel* *peel*'
@@ -688,20 +486,6 @@
   sound: luckystar-nodup_09_0.16.21.050-0.16.25.860.mp3
   sentence: アッと驚く為五郎　よいしょっと （お前はドジでのろまの亀か！）
   words:
-    - word: アッ
-      base: あっ
-      position: 0
-    - word: と
-      position: 2
-    - word: 驚く
-      position: 3
-    - word: 為五郎
-      position: 5
-    - word: よいしょっ
-      base: よいしょ
-      position: 9
-    - word: と
-      position: 14
     - word: お前
       base: 御前
       position: 17
@@ -744,15 +528,6 @@
   sound: luckystar-nodup_09_0.18.12.520-0.18.14.800.mp3
   sentence: さち…うす…そう… （ばっこばっこばっこ）
   words:
-    - word: さ
-      position: 0
-    - word: ち
-      position: 1
-    - word: うす
-      base: 臼
-      position: 3
-    - word: そう
-      position: 6
     - word: ばっこ
       base: 跋扈
       position: 11
@@ -875,18 +650,6 @@
   sound: luckystar-nodup_10_0.09.56.530-0.09.57.750.mp3
   sentence: ｷﾀ━━━━(ﾟ∀ﾟ)━━━━!!!!!
   words:
-    - word: ｷﾀ
-      base: キタ
-      dictionary: キタ
-      position: 0
-    - word: ━
-      position: 2
-    - word: ━
-      position: 3
-    - word: ━
-      position: 4
-    - word: ━
-      position: 5
     - word: ﾟ
       base: ゚
       dictionary: ゚
@@ -903,14 +666,6 @@
       position: 9
       tags:
         - silent
-    - word: ━
-      position: 11
-    - word: ━
-      position: 12
-    - word: ━
-      position: 13
-    - word: ━
-      position: 14
 - id: luckystar-nodup_10_3750_0.14.43.890
   deck_name: Lucky Star
   translation: >-
@@ -919,61 +674,17 @@
   sound: luckystar-nodup_10_0.14.43.840-0.14.46.130.mp3
   sentence: この凶（きょう）ちゃんにもできるし
   words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: 凶
-      position: 2
     - word: きょう
       base: 今日
       position: 4
       tags:
         - silent
-    - word: ちゃん
-      position: 8
-    - word: に
-      position: 11
-    - word: も
-      position: 12
-    - word: できる
-      base: 出来る
-      position: 13
-    - word: し
-      position: 16
 - id: luckystar-nodup_11_4016_0.08.38.720
   deck_name: Lucky Star
   translation: It's really nice of Santa-san to give us presents...
   sound: luckystar-nodup_11_0.08.38.670-0.08.41.740.mp3
   sentence: サンタさんってさ、プレゼント配るのはいいんだけ0ど （ホホホホ）
   words:
-    - word: サンタ
-      position: 0
-    - word: さん
-      position: 3
-    - word: って
-      position: 5
-    - word: さ
-      position: 7
-    - word: プレゼント
-      position: 9
-    - word: 配る
-      position: 14
-    - word: の
-      position: 16
-    - word: は
-      position: 17
-    - word: いい
-      base: 良い
-      position: 18
-    - word: ん
-      base: の
-      position: 20
-    - word: だけ
-      position: 21
-    - word: '0'
-      position: 23
-    - word: ど
-      position: 24
     - word: ホホホホ
       position: 27
       tags:
@@ -1816,31 +1527,6 @@
   sound: luckystar-nodup_14_0.07.17.800-0.07.22.400.mp3
   sentence: 最近子供を狙った事件増えたよねー （教育委員会は各小学校に警戒するように対処した）
   words:
-    - word: 最近
-      position: 0
-    - word: 子供
-      position: 2
-    - word: を
-      position: 4
-    - word: 狙っ
-      base: 狙う
-      dictionary: 狙う
-      position: 5
-    - word: た
-      position: 7
-    - word: 事件
-      position: 8
-    - word: 増え
-      base: 増える
-      dictionary: 増える
-      position: 10
-    - word: た
-      position: 12
-    - word: よ
-      position: 13
-    - word: ねー
-      base: ね
-      position: 14
     - word: 教育
       position: 18
       tags:
@@ -2122,15 +1808,6 @@
   sound: luckystar-nodup_15_0.04.21.710-0.04.26.270.mp3
   sentence: ねぇ、ゆーちゃん （店員が大声を出したため、何も盗らずに逃走しました）
   words:
-    - word: ねぇ
-      base: ねえ
-      position: 0
-    - word: ゆー
-      base: 言う
-      dictionary: ゆう
-      position: 3
-    - word: ちゃん
-      position: 5
     - word: 店員
       position: 10
       tags:
@@ -2728,43 +2405,10 @@
   sound: luckystar-nodup_16_0.13.30.770-0.13.35.850.mp3
   sentence: 我々は春のＡＶ（オーディオビジュアル）祭り中だという事を 忘れるなっ!!
   words:
-    - word: 我々
-      position: 0
-    - word: は
-      position: 2
-    - word: 春
-      position: 3
-    - word: の
-      position: 4
-    - word: ＡＶ
-      base: AV
-      dictionary: AV
-      position: 5
     - word: オーディオビジュアル
       position: 8
       tags:
         - silent
-    - word: 祭り
-      base: 祭
-      position: 19
-    - word: 中
-      position: 21
-    - word: だ
-      position: 22
-    - word: と
-      position: 23
-    - word: いう
-      base: 言う
-      position: 24
-    - word: 事
-      position: 26
-    - word: を
-      position: 27
-    - word: 忘れる
-      position: 29
-    - word: なっ
-      base: なあ
-      position: 32
 - id: luckystar-nodup_16_6074_0.16.10.880
   deck_name: Lucky Star
   translation: >-
@@ -2994,14 +2638,6 @@
       position: 22
       tags:
         - silent
-    - word: また
-      base: 又
-      position: 26
-    - word: この
-      base: 此の
-      position: 28
-    - word: 報道
-      position: 30
 - id: luckystar-nodup_18_6541_0.04.53.990
   deck_name: Lucky Star
   translation: We've got dogs from all around the world!
@@ -3155,24 +2791,6 @@
       position: 13
       tags:
         - silent
-    - word: 今日
-      position: 17
-    - word: の
-      position: 19
-    - word: 野球
-      position: 20
-    - word: 中継
-      position: 22
-    - word: どう
-      position: 24
-    - word: なっ
-      base: 成る
-      dictionary: なる
-      position: 26
-    - word: てる
-      position: 28
-    - word: ー
-      position: 30
 - id: luckystar-nodup_19_6966_0.09.57.810
   deck_name: Lucky Star
   translation: >-
@@ -3329,17 +2947,6 @@
       position: 11
       tags:
         - silent
-    - word: デッドライン
-      position: 15
-    - word: 超える
-      base: 越える
-      position: 21
-    - word: な
-      position: 24
-    - word: よ
-      position: 25
-    - word: ～
-      position: 26
 - id: luckystar-nodup_19_7124_0.19.42.900
   deck_name: Lucky Star
   translation: >-
@@ -3348,69 +2955,6 @@
   sound: luckystar-nodup_19_0.19.42.850-0.19.45.180.mp3
   sentence: みなさーん、次回はスッッッテキなゲストを迎えて 「らっきー☆ちゃんねる」お送りしちゃいま～す！ （僕はまだ、やることがっ！）
   words:
-    - word: みな
-      base: 皆
-      position: 0
-    - word: さーん
-      base: さん
-      position: 2
-    - word: 次回
-      position: 6
-    - word: は
-      position: 8
-    - word: スッッッテキ
-      position: 9
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 15
-    - word: ゲスト
-      position: 16
-    - word: を
-      position: 19
-    - word: 迎え
-      base: 迎える
-      dictionary: 迎える
-      position: 20
-    - word: て
-      position: 22
-    - word: ら
-      base: 等
-      position: 25
-    - word: っ
-      position: 26
-    - word: き
-      position: 27
-    - word: ー
-      position: 28
-    - word: ☆
-      position: 29
-    - word: ちゃんねる
-      base: チャンネル
-      position: 30
-    - word: お
-      base: 御
-      position: 36
-    - word: 送り
-      base: 送る
-      dictionary: 送る
-      position: 37
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 39
-    - word: ちゃ
-      base: て
-      position: 40
-    - word: いま
-      base: 今
-      position: 42
-    - word: ～
-      base: から
-      position: 44
-    - word: す
-      base: 為る
-      position: 45
     - word: 僕
       position: 49
       tags:
@@ -3507,52 +3051,6 @@
       position: 7
       tags:
         - silent
-    - word: 別
-      position: 10
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 11
-    - word: 追い
-      base: 追う
-      dictionary: 追う
-      position: 12
-    - word: 出す
-      position: 14
-    - word: 口実
-      position: 16
-    - word: つくら
-      base: 作る
-      dictionary: つくる
-      position: 18
-    - word: なく
-      base: ない
-      dictionary: ない
-      position: 21
-    - word: て
-      position: 23
-    - word: も
-      position: 24
-    - word: よかっ
-      base: 良い
-      dictionary: よい
-      position: 25
-    - word: た
-      position: 28
-    - word: ん
-      base: の
-      position: 29
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 30
-    - word: ない
-      base: 無い
-      position: 32
-    - word: さっさと
-      position: 36
-    - word: チェ
-      position: 40
 - id: luckystar-nodup_20_7260_0.07.16.880
   deck_name: Lucky Star
   translation: That looks delicious!
@@ -3590,15 +3088,6 @@
       position: 16
       tags:
         - silent
-    - word: お
-      base: 御
-      position: 20
-    - word: おいし
-      base: 美味しい
-      dictionary: おいしい
-      position: 22
-    - word: そう
-      position: 25
 - id: luckystar-nodup_20_7287_0.08.57.490
   deck_name: Lucky Star
   translation: You'd better buy at least five at a time!

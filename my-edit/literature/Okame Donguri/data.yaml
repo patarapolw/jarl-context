@@ -6,16 +6,6 @@
   sound_begin: 5066
   sound_end: 10360
   sentence: おかめどんぐり
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: かめ
-      base: 噛む
-      position: 1
-    - word: どんぐり
-      base: 団栗
-      position: 3
 - id: Okame Donguri-f000003
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -24,16 +14,6 @@
   sound_begin: 10360
   sound_end: 11840
   sentence: ねえやの田舎は、
-  words:
-    - word: ねえや
-      base: 姉や
-      position: 0
-    - word: の
-      position: 3
-    - word: 田舎
-      position: 4
-    - word: は
-      position: 6
 - id: Okame Donguri-f000004
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -42,18 +22,6 @@
   sound_begin: 11840
   sound_end: 15160
   sentence: 山奥のさびしい村です。
-  words:
-    - word: 山奥
-      position: 0
-    - word: の
-      position: 2
-    - word: さびしい
-      base: 寂しい
-      position: 3
-    - word: 村
-      position: 7
-    - word: です
-      position: 8
 - id: Okame Donguri-f000005
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -62,21 +30,6 @@
   sound_begin: 15160
   sound_end: 17200
   sentence: 町がなかなか遠いので、
-  words:
-    - word: 町
-      position: 0
-    - word: が
-      position: 1
-    - word: なかなか
-      base: 中々
-      position: 2
-    - word: 遠い
-      position: 6
-    - word: の
-      position: 8
-    - word: で
-      base: だ
-      position: 9
 - id: Okame Donguri-f000006
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -85,38 +38,6 @@
   sound_begin: 17200
   sound_end: 20960
   sentence: 子供たちは本屋へいって雑誌を見るということも、
-  words:
-    - word: 子供
-      position: 0
-    - word: たち
-      base: 達
-      position: 2
-    - word: は
-      position: 4
-    - word: 本屋
-      position: 5
-    - word: へ
-      position: 7
-    - word: いっ
-      base: 行く
-      position: 8
-    - word: て
-      position: 10
-    - word: 雑誌
-      position: 11
-    - word: を
-      position: 13
-    - word: 見る
-      position: 14
-    - word: と
-      position: 16
-    - word: いう
-      base: 言う
-      position: 17
-    - word: こと
-      position: 19
-    - word: も
-      position: 21
 - id: Okame Donguri-f000007
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -125,22 +46,6 @@
   sound_begin: 20960
   sound_end: 23600
   sentence: めったにありません。
-  words:
-    - word: めった
-      base: 滅多
-      position: 0
-    - word: に
-      base: だ
-      position: 3
-    - word: あり
-      base: 有る
-      position: 4
-    - word: ませ
-      base: ます
-      position: 6
-    - word: ん
-      base: ず
-      position: 8
 - id: Okame Donguri-f000008
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -149,13 +54,6 @@
   sound_begin: 23600
   sound_end: 24800
   sentence: 三郎さんは、
-  words:
-    - word: 三郎
-      position: 0
-    - word: さん
-      position: 2
-    - word: は
-      position: 4
 - id: Okame Donguri-f000009
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -164,31 +62,6 @@
   sound_begin: 24800
   sound_end: 27600
   sentence: 自分の見た雑誌をねえやの弟さんに、
-  words:
-    - word: 自分
-      position: 0
-    - word: の
-      position: 2
-    - word: 見
-      base: 見る
-      position: 3
-    - word: た
-      position: 4
-    - word: 雑誌
-      position: 5
-    - word: を
-      position: 7
-    - word: ねえや
-      base: 姉や
-      position: 8
-    - word: の
-      position: 11
-    - word: 弟
-      position: 12
-    - word: さん
-      position: 13
-    - word: に
-      position: 15
 - id: Okame Donguri-f000010
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -197,20 +70,6 @@
   sound_begin: 27600
   sound_end: 30410
   sentence: 送ってやりました。
-  words:
-    - word: 送っ
-      base: 送る
-      position: 0
-    - word: て
-      position: 2
-    - word: やり
-      base: 遣る
-      position: 3
-    - word: まし
-      base: ます
-      position: 5
-    - word: た
-      position: 7
 - id: Okame Donguri-f000011
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -219,11 +78,6 @@
   sound_begin: 30410
   sound_end: 31360
   sentence: 「坊ちゃん、
-  words:
-    - word: 坊
-      position: 1
-    - word: ちゃん
-      position: 2
 - id: Okame Donguri-f000012
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -232,15 +86,6 @@
   sound_begin: 31360
   sound_end: 33352
   sentence: ありがとうございます。
-  words:
-    - word: ありがとう
-      base: 有り難う
-      position: 0
-    - word: ござい
-      base: 御座る
-      position: 5
-    - word: ます
-      position: 8
 - id: Okame Donguri-f000013
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -249,11 +94,6 @@
   sound_begin: 33352
   sound_end: 34080
   sentence: 弟は、
-  words:
-    - word: 弟
-      position: 0
-    - word: は
-      position: 1
 - id: Okame Donguri-f000014
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -262,25 +102,6 @@
   sound_begin: 34080
   sound_end: 36876
   sentence: どんなに喜ぶかしれません。
-  words:
-    - word: どんな
-      position: 0
-    - word: に
-      base: だ
-      position: 3
-    - word: 喜ぶ
-      position: 4
-    - word: か
-      position: 6
-    - word: しれ
-      base: 知る
-      position: 7
-    - word: ませ
-      base: ます
-      position: 9
-    - word: ん
-      base: ず
-      position: 11
 - id: Okame Donguri-f000015
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -289,9 +110,6 @@
   sound_begin: 36876
   sound_end: 37600
   sentence: 」と、
-  words:
-    - word: と
-      position: 1
 - id: Okame Donguri-f000016
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -300,12 +118,6 @@
   sound_begin: 37600
   sound_end: 38120
   sentence: ねえやは、
-  words:
-    - word: ねえや
-      base: 姉や
-      position: 0
-    - word: は
-      position: 3
 - id: Okame Donguri-f000017
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -314,19 +126,6 @@
   sound_begin: 38120
   sound_end: 38880
   sentence: 目をうるませて、
-  words:
-    - word: 目
-      position: 0
-    - word: を
-      position: 1
-    - word: うるま
-      base: 潤む
-      position: 2
-    - word: せ
-      base: せる
-      position: 5
-    - word: て
-      position: 6
 - id: Okame Donguri-f000018
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -335,15 +134,6 @@
   sound_begin: 38880
   sound_end: 41880
   sentence: いいました。
-  words:
-    - word: いい
-      base: 言う
-      position: 0
-    - word: まし
-      base: ます
-      position: 2
-    - word: た
-      position: 4
 - id: Okame Donguri-f000019
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -352,12 +142,6 @@
   sound_begin: 41880
   sound_end: 42240
   sentence: すると、
-  words:
-    - word: する
-      base: 為る
-      position: 0
-    - word: と
-      position: 2
 - id: Okame Donguri-f000020
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -366,16 +150,6 @@
   sound_begin: 42240
   sound_end: 43640
   sentence: ある日のこと、
-  words:
-    - word: ある
-      base: 或る
-      position: 0
-    - word: 日
-      position: 2
-    - word: の
-      position: 3
-    - word: こと
-      position: 4
 - id: Okame Donguri-f000021
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -384,18 +158,6 @@
   sound_begin: 43640
   sound_end: 45160
   sentence: 弟の孝二くんから、
-  words:
-    - word: 弟
-      position: 0
-    - word: の
-      position: 1
-    - word: 孝二
-      position: 2
-    - word: くん
-      base: 君
-      position: 4
-    - word: から
-      position: 6
 - id: Okame Donguri-f000022
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -404,15 +166,6 @@
   sound_begin: 45160
   sound_end: 46320
   sentence: たいそうよろこんで、
-  words:
-    - word: たいそう
-      base: 大層
-      position: 0
-    - word: よろこん
-      base: 喜ぶ
-      position: 4
-    - word: で
-      position: 8
 - id: Okame Donguri-f000023
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -421,19 +174,6 @@
   sound_begin: 46320
   sound_end: 48760
   sentence: 手紙がまいりました。
-  words:
-    - word: 手紙
-      position: 0
-    - word: が
-      position: 2
-    - word: まいり
-      base: 参る
-      position: 3
-    - word: まし
-      base: ます
-      position: 6
-    - word: た
-      position: 8
 - id: Okame Donguri-f000024
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -442,9 +182,6 @@
   sound_begin: 48760
   sound_end: 49680
   sentence: そして、
-  words:
-    - word: そして
-      position: 0
 - id: Okame Donguri-f000025
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -453,16 +190,6 @@
   sound_begin: 49680
   sound_end: 50400
   sentence: 山で拾った、
-  words:
-    - word: 山
-      position: 0
-    - word: で
-      position: 1
-    - word: 拾っ
-      base: 拾う
-      position: 2
-    - word: た
-      position: 4
 - id: Okame Donguri-f000026
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -471,10 +198,6 @@
   sound_begin: 50400
   sound_end: 51160
   sentence: くりや、
-  words:
-    - word: くりや
-      base: 厨
-      position: 0
 - id: Okame Donguri-f000027
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -483,29 +206,6 @@
   sound_begin: 51160
   sound_end: 56080
   sentence: どんぐりを送ると書いてありました。
-  words:
-    - word: どんぐり
-      base: 団栗
-      position: 0
-    - word: を
-      position: 4
-    - word: 送る
-      position: 5
-    - word: と
-      position: 7
-    - word: 書い
-      base: 書く
-      position: 8
-    - word: て
-      position: 10
-    - word: あり
-      base: 有る
-      position: 11
-    - word: まし
-      base: ます
-      position: 13
-    - word: た
-      position: 15
 - id: Okame Donguri-f000028
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -514,17 +214,6 @@
   sound_begin: 56080
   sound_end: 57640
   sentence: 「町が遠いのに、
-  words:
-    - word: 町
-      position: 1
-    - word: が
-      position: 2
-    - word: 遠い
-      position: 3
-    - word: の
-      position: 5
-    - word: に
-      position: 6
 - id: Okame Donguri-f000029
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -533,13 +222,6 @@
   sound_begin: 57640
   sound_end: 58680
   sentence: 弟さんは、
-  words:
-    - word: 弟
-      position: 0
-    - word: さん
-      position: 1
-    - word: は
-      position: 3
 - id: Okame Donguri-f000030
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -548,29 +230,6 @@
   sound_begin: 58680
   sound_end: 61339
   sentence: 小包を出しにいったんだね。
-  words:
-    - word: 小包
-      base: 小包み
-      position: 0
-    - word: を
-      position: 2
-    - word: 出し
-      base: 出す
-      position: 3
-    - word: に
-      position: 5
-    - word: いっ
-      base: 行く
-      position: 6
-    - word: た
-      position: 8
-    - word: ん
-      base: の
-      position: 9
-    - word: だ
-      position: 10
-    - word: ね
-      position: 11
 - id: Okame Donguri-f000031
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -579,9 +238,6 @@
   sound_begin: 61339
   sound_end: 62000
   sentence: 」と、
-  words:
-    - word: と
-      position: 1
 - id: Okame Donguri-f000032
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -590,21 +246,6 @@
   sound_begin: 62000
   sound_end: 65160
   sentence: 三郎さんはききました。
-  words:
-    - word: 三郎
-      position: 0
-    - word: さん
-      position: 2
-    - word: は
-      position: 4
-    - word: きき
-      base: きく
-      position: 5
-    - word: まし
-      base: ます
-      position: 7
-    - word: た
-      position: 9
 - id: Okame Donguri-f000033
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -613,9 +254,6 @@
   sound_begin: 65160
   sound_end: 66040
   sentence: 「いえ、
-  words:
-    - word: いえ
-      position: 1
 - id: Okame Donguri-f000034
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -624,13 +262,6 @@
   sound_begin: 66040
   sound_end: 66680
   sentence: 町へは、
-  words:
-    - word: 町
-      position: 0
-    - word: へ
-      position: 1
-    - word: は
-      position: 2
 - id: Okame Donguri-f000035
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -639,9 +270,6 @@
   sound_begin: 66680
   sound_end: 67600
   sentence: 毎日、
-  words:
-    - word: 毎日
-      position: 0
 - id: Okame Donguri-f000036
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -650,11 +278,6 @@
   sound_begin: 67600
   sound_end: 68080
   sentence: 村から、
-  words:
-    - word: 村
-      position: 0
-    - word: から
-      position: 1
 - id: Okame Donguri-f000037
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -663,24 +286,6 @@
   sound_begin: 68080
   sound_end: 70605
   sentence: だれかついでがありますから。
-  words:
-    - word: だれ
-      base: 誰
-      position: 0
-    - word: か
-      position: 2
-    - word: ついで
-      base: 序で
-      position: 3
-    - word: が
-      position: 6
-    - word: あり
-      base: 有る
-      position: 7
-    - word: ます
-      position: 9
-    - word: から
-      position: 11
 - id: Okame Donguri-f000038
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -689,9 +294,6 @@
   sound_begin: 70605
   sound_end: 71320
   sentence: 」と、
-  words:
-    - word: と
-      position: 1
 - id: Okame Donguri-f000039
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -700,12 +302,6 @@
   sound_begin: 71320
   sound_end: 71920
   sentence: ねえやは、
-  words:
-    - word: ねえや
-      base: 姉や
-      position: 0
-    - word: は
-      position: 3
 - id: Okame Donguri-f000040
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -714,15 +310,6 @@
   sound_begin: 71920
   sound_end: 75240
   sentence: 答えました。
-  words:
-    - word: 答え
-      base: 答える
-      position: 0
-    - word: まし
-      base: ます
-      position: 2
-    - word: た
-      position: 4
 - id: Okame Donguri-f000041
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -731,16 +318,6 @@
   sound_begin: 75240
   sound_end: 76560
   sentence: 手紙のあとから、
-  words:
-    - word: 手紙
-      position: 0
-    - word: の
-      position: 2
-    - word: あと
-      base: 後
-      position: 3
-    - word: から
-      position: 5
 - id: Okame Donguri-f000042
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -749,20 +326,6 @@
   sound_begin: 76560
   sound_end: 80040
   sentence: 小包がとどきました。
-  words:
-    - word: 小包
-      base: 小包み
-      position: 0
-    - word: が
-      position: 2
-    - word: とどき
-      base: 届く
-      position: 3
-    - word: まし
-      base: ます
-      position: 6
-    - word: た
-      position: 8
 - id: Okame Donguri-f000043
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -771,11 +334,6 @@
   sound_begin: 80040
   sound_end: 81200
   sentence: あけると、
-  words:
-    - word: あける
-      position: 0
-    - word: と
-      position: 3
 - id: Okame Donguri-f000044
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -784,16 +342,6 @@
   sound_begin: 81200
   sound_end: 82760
   sentence: 紫色のくりや、
-  words:
-    - word: 紫
-      position: 0
-    - word: 色
-      position: 1
-    - word: の
-      position: 2
-    - word: くりや
-      base: 厨
-      position: 3
 - id: Okame Donguri-f000045
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -802,15 +350,6 @@
   sound_begin: 82760
   sound_end: 84040
   sentence: まるいどんぐりや、
-  words:
-    - word: まるい
-      base: 丸い
-      position: 0
-    - word: どんぐり
-      base: 団栗
-      position: 3
-    - word: や
-      position: 7
 - id: Okame Donguri-f000046
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -819,10 +358,6 @@
   sound_begin: 84040
   sound_end: 84360
   sentence: また、
-  words:
-    - word: また
-      base: 又
-      position: 0
 - id: Okame Donguri-f000047
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -831,14 +366,6 @@
   sound_begin: 84360
   sound_end: 85360
   sentence: ぎんなんなどが、
-  words:
-    - word: ぎんなん
-      base: 銀杏
-      position: 0
-    - word: など
-      position: 4
-    - word: が
-      position: 6
 - id: Okame Donguri-f000048
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -847,20 +374,6 @@
   sound_begin: 85360
   sound_end: 87600
   sentence: はいっていました。
-  words:
-    - word: はいっ
-      base: 入る
-      position: 0
-    - word: て
-      position: 3
-    - word: い
-      base: 居る
-      position: 4
-    - word: まし
-      base: ます
-      position: 5
-    - word: た
-      position: 7
 - id: Okame Donguri-f000049
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -869,13 +382,6 @@
   sound_begin: 87600
   sound_end: 88840
   sentence: そして山から、
-  words:
-    - word: そして
-      position: 0
-    - word: 山
-      position: 3
-    - word: から
-      position: 4
 - id: Okame Donguri-f000050
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -884,22 +390,6 @@
   sound_begin: 88840
   sound_end: 90040
   sentence: いっしょについてきた、
-  words:
-    - word: いっしょ
-      base: 一緒
-      position: 0
-    - word: に
-      position: 4
-    - word: つい
-      base: つく
-      position: 5
-    - word: て
-      position: 7
-    - word: き
-      base: 来る
-      position: 8
-    - word: た
-      position: 9
 - id: Okame Donguri-f000051
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -908,24 +398,6 @@
   sound_begin: 90040
   sound_end: 93857
   sentence: 木の葉もまじっていました。
-  words:
-    - word: 木の葉
-      position: 0
-    - word: も
-      position: 3
-    - word: まじっ
-      base: 混じる
-      position: 4
-    - word: て
-      position: 7
-    - word: い
-      base: 居る
-      position: 8
-    - word: まし
-      base: ます
-      position: 9
-    - word: た
-      position: 11
 - id: Okame Donguri-f000052
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -934,16 +406,6 @@
   sound_begin: 93857
   sound_end: 94800
   sentence: これを見ると、
-  words:
-    - word: これ
-      base: 此れ
-      position: 0
-    - word: を
-      position: 2
-    - word: 見る
-      position: 3
-    - word: と
-      position: 5
 - id: Okame Donguri-f000053
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -952,12 +414,6 @@
   sound_begin: 94800
   sound_end: 95520
   sentence: ねえやは、
-  words:
-    - word: ねえや
-      base: 姉や
-      position: 0
-    - word: は
-      position: 3
 - id: Okame Donguri-f000054
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -966,27 +422,6 @@
   sound_begin: 95520
   sound_end: 97960
   sentence: 子供の時分のことを思い出して、
-  words:
-    - word: 子供
-      position: 0
-    - word: の
-      position: 2
-    - word: 時分
-      position: 3
-    - word: の
-      position: 5
-    - word: こと
-      position: 6
-    - word: を
-      position: 8
-    - word: 思い
-      base: 思う
-      position: 9
-    - word: 出し
-      base: 出す
-      position: 11
-    - word: て
-      position: 13
 - id: Okame Donguri-f000055
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -995,28 +430,6 @@
   sound_begin: 97960
   sound_end: 101361
   sentence: なつかしそうにながめていました。
-  words:
-    - word: なつかし
-      base: 懐かしい
-      position: 0
-    - word: そう
-      position: 4
-    - word: に
-      base: だ
-      position: 6
-    - word: ながめ
-      base: 眺める
-      position: 7
-    - word: て
-      position: 10
-    - word: い
-      base: 居る
-      position: 11
-    - word: まし
-      base: ます
-      position: 12
-    - word: た
-      position: 14
 - id: Okame Donguri-f000056
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1025,13 +438,6 @@
   sound_begin: 101361
   sound_end: 102400
   sentence: 「こんなのが、
-  words:
-    - word: こんな
-      position: 1
-    - word: の
-      position: 4
-    - word: が
-      position: 5
 - id: Okame Donguri-f000057
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1040,24 +446,6 @@
   sound_begin: 102400
   sound_end: 105280
   sentence: 山にたくさんなっているの？」
-  words:
-    - word: 山
-      position: 0
-    - word: に
-      position: 1
-    - word: たくさん
-      base: 沢山
-      position: 2
-    - word: なっ
-      base: 成る
-      position: 6
-    - word: て
-      position: 8
-    - word: いる
-      base: 居る
-      position: 9
-    - word: の
-      position: 11
 - id: Okame Donguri-f000058
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1066,9 +454,6 @@
   sound_begin: 105280
   sound_end: 105640
   sentence: 「はい、
-  words:
-    - word: はい
-      position: 1
 - id: Okame Donguri-f000059
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1077,10 +462,6 @@
   sound_begin: 105640
   sound_end: 106840
   sentence: たくさん、
-  words:
-    - word: たくさん
-      base: 沢山
-      position: 0
 - id: Okame Donguri-f000060
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1089,17 +470,6 @@
   sound_begin: 106840
   sound_end: 108240
   sentence: なっています。」
-  words:
-    - word: なっ
-      base: 成る
-      position: 0
-    - word: て
-      position: 2
-    - word: い
-      base: 居る
-      position: 3
-    - word: ます
-      position: 4
 - id: Okame Donguri-f000061
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1108,20 +478,6 @@
   sound_begin: 108240
   sound_end: 110659
   sentence: 「いってみたいなあ。
-  words:
-    - word: いっ
-      base: 行く
-      position: 1
-    - word: て
-      position: 3
-    - word: み
-      base: 見る
-      position: 4
-    - word: たい
-      position: 5
-    - word: なあ
-      base: な
-      position: 7
 - id: Okame Donguri-f000062
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1130,9 +486,6 @@
   sound_begin: 110659
   sound_end: 111440
   sentence: 」と、
-  words:
-    - word: と
-      position: 1
 - id: Okame Donguri-f000063
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1141,13 +494,6 @@
   sound_begin: 111440
   sound_end: 112600
   sentence: 三郎さんは、
-  words:
-    - word: 三郎
-      position: 0
-    - word: さん
-      position: 2
-    - word: は
-      position: 4
 - id: Okame Donguri-f000064
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1156,27 +502,6 @@
   sound_begin: 112600
   sound_end: 117040
   sentence: 田舎の秋の景色を思いました。
-  words:
-    - word: 田舎
-      position: 0
-    - word: の
-      position: 2
-    - word: 秋
-      position: 3
-    - word: の
-      position: 4
-    - word: 景色
-      position: 5
-    - word: を
-      position: 7
-    - word: 思い
-      base: 思う
-      position: 8
-    - word: まし
-      base: ます
-      position: 10
-    - word: た
-      position: 12
 - id: Okame Donguri-f000065
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1185,13 +510,6 @@
   sound_begin: 117040
   sound_end: 118280
   sentence: 三郎さんは、
-  words:
-    - word: 三郎
-      position: 0
-    - word: さん
-      position: 2
-    - word: は
-      position: 4
 - id: Okame Donguri-f000066
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1200,10 +518,6 @@
   sound_begin: 118280
   sound_end: 118760
   sentence: さっそく、
-  words:
-    - word: さっそく
-      base: 早速
-      position: 0
 - id: Okame Donguri-f000067
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1212,14 +526,6 @@
   sound_begin: 118760
   sound_end: 119440
   sentence: 孝二くんに、
-  words:
-    - word: 孝二
-      position: 0
-    - word: くん
-      base: 君
-      position: 2
-    - word: に
-      position: 4
 - id: Okame Donguri-f000068
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1228,24 +534,6 @@
   sound_begin: 119440
   sound_end: 121800
   sentence: 礼をいってやりました。
-  words:
-    - word: 礼
-      position: 0
-    - word: を
-      position: 1
-    - word: いっ
-      base: 言う
-      position: 2
-    - word: て
-      position: 4
-    - word: やり
-      base: 遣る
-      position: 5
-    - word: まし
-      base: ます
-      position: 7
-    - word: た
-      position: 9
 - id: Okame Donguri-f000069
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1254,12 +542,6 @@
   sound_begin: 121800
   sound_end: 122680
   sentence: それから、
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: から
-      position: 2
 - id: Okame Donguri-f000070
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1268,15 +550,6 @@
   sound_begin: 122680
   sound_end: 123640
   sentence: そのうちに、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: うち
-      base: 内
-      position: 2
-    - word: に
-      position: 4
 - id: Okame Donguri-f000071
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1285,28 +558,6 @@
   sound_begin: 123640
   sound_end: 128499
   sentence: また雑誌を送るからと書きました。
-  words:
-    - word: また
-      base: 又
-      position: 0
-    - word: 雑誌
-      position: 2
-    - word: を
-      position: 4
-    - word: 送る
-      position: 5
-    - word: から
-      position: 7
-    - word: と
-      position: 9
-    - word: 書き
-      base: 書く
-      position: 10
-    - word: まし
-      base: ます
-      position: 12
-    - word: た
-      position: 14
 - id: Okame Donguri-f000072
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1315,14 +566,6 @@
   sound_begin: 128499
   sound_end: 130039
   sentence: しばらくたつと、
-  words:
-    - word: しばらく
-      base: 暫く
-      position: 0
-    - word: たつ
-      position: 4
-    - word: と
-      position: 6
 - id: Okame Donguri-f000073
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1331,33 +574,6 @@
   sound_begin: 130039
   sound_end: 133840
   sentence: 孝二くんから手紙がきたのであります。
-  words:
-    - word: 孝二
-      position: 0
-    - word: くん
-      base: 君
-      position: 2
-    - word: から
-      position: 4
-    - word: 手紙
-      position: 6
-    - word: が
-      position: 8
-    - word: き
-      base: 来る
-      position: 9
-    - word: た
-      position: 10
-    - word: の
-      position: 11
-    - word: で
-      base: だ
-      position: 12
-    - word: あり
-      base: 有る
-      position: 13
-    - word: ます
-      position: 15
 - id: Okame Donguri-f000074
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1366,17 +582,6 @@
   sound_begin: 133840
   sound_end: 134360
   sentence: 「なんといって、
-  words:
-    - word: なん
-      base: 何
-      position: 1
-    - word: と
-      position: 3
-    - word: いっ
-      base: 言う
-      position: 4
-    - word: て
-      position: 6
 - id: Okame Donguri-f000075
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1385,20 +590,6 @@
   sound_begin: 134360
   sound_end: 137293
   sentence: きたんだろうな。」
-  words:
-    - word: き
-      base: 来る
-      position: 0
-    - word: た
-      position: 1
-    - word: ん
-      base: の
-      position: 2
-    - word: だろう
-      base: だ
-      position: 3
-    - word: な
-      position: 6
 - id: Okame Donguri-f000076
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1407,13 +598,6 @@
   sound_begin: 137293
   sound_end: 138640
   sentence: 三郎さんは、
-  words:
-    - word: 三郎
-      position: 0
-    - word: さん
-      position: 2
-    - word: は
-      position: 4
 - id: Okame Donguri-f000077
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1422,22 +606,6 @@
   sound_begin: 138640
   sound_end: 142080
   sentence: あけてよんでみると、
-  words:
-    - word: あけ
-      base: あける
-      position: 0
-    - word: て
-      position: 2
-    - word: よん
-      base: 呼ぶ
-      position: 3
-    - word: で
-      position: 5
-    - word: みる
-      base: 見る
-      position: 6
-    - word: と
-      position: 8
 - id: Okame Donguri-f000078
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1446,17 +614,6 @@
   sound_begin: 142080
   sound_end: 143240
   sentence: 「送っていただいた、
-  words:
-    - word: 送っ
-      base: 送る
-      position: 1
-    - word: て
-      position: 3
-    - word: いただい
-      base: 頂く
-      position: 4
-    - word: た
-      position: 8
 - id: Okame Donguri-f000079
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1465,22 +622,6 @@
   sound_begin: 143240
   sound_end: 146120
   sentence: 美しい雑誌を友だちに見せると、
-  words:
-    - word: 美しい
-      position: 0
-    - word: 雑誌
-      position: 3
-    - word: を
-      position: 5
-    - word: 友だち
-      base: 友達
-      position: 6
-    - word: に
-      position: 9
-    - word: 見せる
-      position: 10
-    - word: と
-      position: 13
 - id: Okame Donguri-f000080
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1489,12 +630,6 @@
   sound_begin: 146120
   sound_end: 146680
   sentence: みんなが、
-  words:
-    - word: みんな
-      base: 皆
-      position: 0
-    - word: が
-      position: 3
 - id: Okame Donguri-f000081
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1503,15 +638,6 @@
   sound_begin: 146680
   sound_end: 147560
   sentence: 奪い合って、
-  words:
-    - word: 奪い
-      base: 奪う
-      position: 0
-    - word: 合っ
-      base: 合う
-      position: 2
-    - word: て
-      position: 4
 - id: Okame Donguri-f000082
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1520,10 +646,6 @@
   sound_begin: 147560
   sound_end: 148200
   sentence: たちまち、
-  words:
-    - word: たちまち
-      base: 忽ち
-      position: 0
 - id: Okame Donguri-f000083
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1532,23 +654,6 @@
   sound_begin: 148200
   sound_end: 150586
   sentence: 汚くしてしまいました。
-  words:
-    - word: 汚く
-      base: 汚い
-      position: 0
-    - word: し
-      base: 為る
-      position: 2
-    - word: て
-      position: 3
-    - word: しまい
-      base: 仕舞う
-      position: 4
-    - word: まし
-      base: ます
-      position: 7
-    - word: た
-      position: 9
 - id: Okame Donguri-f000084
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1557,21 +662,6 @@
   sound_begin: 150586
   sound_end: 153520
   sentence: 残念でなりません。
-  words:
-    - word: 残念
-      position: 0
-    - word: で
-      base: だ
-      position: 2
-    - word: なり
-      base: 成る
-      position: 3
-    - word: ませ
-      base: ます
-      position: 5
-    - word: ん
-      base: ず
-      position: 7
 - id: Okame Donguri-f000085
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1580,10 +670,6 @@
   sound_begin: 153520
   sound_end: 154200
   sentence: また、
-  words:
-    - word: また
-      base: 又
-      position: 0
 - id: Okame Donguri-f000086
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1592,17 +678,6 @@
   sound_begin: 154200
   sound_end: 155160
   sentence: 送っていただいて、
-  words:
-    - word: 送っ
-      base: 送る
-      position: 0
-    - word: て
-      position: 2
-    - word: いただい
-      base: 頂く
-      position: 3
-    - word: て
-      position: 7
 - id: Okame Donguri-f000087
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1611,18 +686,6 @@
   sound_begin: 155160
   sound_end: 156560
   sentence: 破るといけないから、
-  words:
-    - word: 破る
-      position: 0
-    - word: と
-      position: 2
-    - word: いけ
-      base: 行く
-      position: 3
-    - word: ない
-      position: 5
-    - word: から
-      position: 7
 - id: Okame Donguri-f000088
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1631,11 +694,6 @@
   sound_begin: 156560
   sound_end: 157560
   sentence: どうか、
-  words:
-    - word: どう
-      position: 0
-    - word: か
-      position: 2
 - id: Okame Donguri-f000089
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1644,19 +702,6 @@
   sound_begin: 157560
   sound_end: 159160
   sentence: もう送らないでください。
-  words:
-    - word: もう
-      position: 0
-    - word: 送ら
-      base: 送る
-      position: 2
-    - word: ない
-      position: 4
-    - word: で
-      position: 6
-    - word: ください
-      base: 下さる
-      position: 7
 - id: Okame Donguri-f000090
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1665,9 +710,6 @@
   sound_begin: 159160
   sound_end: 159800
   sentence: 」と、
-  words:
-    - word: と
-      position: 1
 - id: Okame Donguri-f000091
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1676,20 +718,6 @@
   sound_begin: 159800
   sound_end: 160720
   sentence: 書いてありました。
-  words:
-    - word: 書い
-      base: 書く
-      position: 0
-    - word: て
-      position: 2
-    - word: あり
-      base: 有る
-      position: 3
-    - word: まし
-      base: ます
-      position: 5
-    - word: た
-      position: 7
 - id: Okame Donguri-f000092
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1698,12 +726,6 @@
   sound_begin: 160720
   sound_end: 163440
   sentence: 「そんなに、
-  words:
-    - word: そんな
-      position: 1
-    - word: に
-      base: だ
-      position: 4
 - id: Okame Donguri-f000093
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1712,23 +734,6 @@
   sound_begin: 163440
   sound_end: 168600
   sentence: あんな雑誌がめずらしいのかなあ。」
-  words:
-    - word: あんな
-      position: 0
-    - word: 雑誌
-      position: 3
-    - word: が
-      position: 5
-    - word: めずらしい
-      base: 珍しい
-      position: 6
-    - word: の
-      position: 11
-    - word: か
-      position: 12
-    - word: なあ
-      base: な
-      position: 13
 - id: Okame Donguri-f000094
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1737,13 +742,6 @@
   sound_begin: 168600
   sound_end: 169560
   sentence: 三郎さんは、
-  words:
-    - word: 三郎
-      position: 0
-    - word: さん
-      position: 2
-    - word: は
-      position: 4
 - id: Okame Donguri-f000095
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1752,16 +750,6 @@
   sound_begin: 169560
   sound_end: 171480
   sentence: 活動もなければ、
-  words:
-    - word: 活動
-      position: 0
-    - word: も
-      position: 2
-    - word: なけれ
-      base: 無い
-      position: 3
-    - word: ば
-      position: 6
 - id: Okame Donguri-f000096
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1770,20 +758,6 @@
   sound_begin: 171480
   sound_end: 173400
   sentence: りっぱな店もない、
-  words:
-    - word: りっぱ
-      base: 立派
-      position: 0
-    - word: な
-      base: だ
-      position: 3
-    - word: 店
-      position: 4
-    - word: も
-      position: 5
-    - word: ない
-      base: 無い
-      position: 6
 - id: Okame Donguri-f000097
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1792,16 +766,6 @@
   sound_begin: 173400
   sound_end: 174560
   sentence: 電車もなければ、
-  words:
-    - word: 電車
-      position: 0
-    - word: も
-      position: 2
-    - word: なけれ
-      base: 無い
-      position: 3
-    - word: ば
-      position: 6
 - id: Okame Donguri-f000098
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1810,16 +774,6 @@
   sound_begin: 174560
   sound_end: 176240
   sentence: 自動車も通らない、
-  words:
-    - word: 自動車
-      position: 0
-    - word: も
-      position: 3
-    - word: 通ら
-      base: 通る
-      position: 4
-    - word: ない
-      position: 6
 - id: Okame Donguri-f000099
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1828,18 +782,6 @@
   sound_begin: 176240
   sound_end: 177240
   sentence: にぎやかなものは、
-  words:
-    - word: にぎやか
-      base: 賑やか
-      position: 0
-    - word: な
-      base: だ
-      position: 4
-    - word: もの
-      base: 物
-      position: 5
-    - word: は
-      position: 7
 - id: Okame Donguri-f000100
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1848,20 +790,6 @@
   sound_begin: 177240
   sound_end: 178400
   sentence: なに一つもない、
-  words:
-    - word: なに
-      base: 何
-      position: 0
-    - word: 一
-      base: '1'
-      position: 2
-    - word: つ
-      position: 3
-    - word: も
-      position: 4
-    - word: ない
-      base: 無い
-      position: 5
 - id: Okame Donguri-f000101
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1870,24 +798,6 @@
   sound_begin: 178400
   sound_end: 180800
   sentence: 田舎の景色を目にえがいて、
-  words:
-    - word: 田舎
-      position: 0
-    - word: の
-      position: 2
-    - word: 景色
-      position: 3
-    - word: を
-      position: 5
-    - word: 目
-      position: 6
-    - word: に
-      position: 7
-    - word: えがい
-      base: 描く
-      position: 8
-    - word: て
-      position: 11
 - id: Okame Donguri-f000102
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1896,29 +806,6 @@
   sound_begin: 180800
   sound_end: 185320
   sentence: そこに遊ぶ子供の姿を想像した。
-  words:
-    - word: そこ
-      base: 其処
-      position: 0
-    - word: に
-      position: 2
-    - word: 遊ぶ
-      position: 3
-    - word: 子供
-      position: 5
-    - word: の
-      position: 7
-    - word: 姿
-      position: 8
-    - word: を
-      position: 9
-    - word: 想像
-      position: 10
-    - word: し
-      base: 為る
-      position: 12
-    - word: た
-      position: 13
 - id: Okame Donguri-f000103
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1927,12 +814,6 @@
   sound_begin: 185320
   sound_end: 186560
   sentence: そのかわり、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: かわり
-      position: 2
 - id: Okame Donguri-f000104
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1941,21 +822,6 @@
   sound_begin: 186560
   sound_end: 188400
   sentence: 林が茂っていれば、
-  words:
-    - word: 林
-      position: 0
-    - word: が
-      position: 1
-    - word: 茂っ
-      base: 茂る
-      position: 2
-    - word: て
-      position: 4
-    - word: いれ
-      base: 居る
-      position: 5
-    - word: ば
-      position: 7
 - id: Okame Donguri-f000105
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1964,23 +830,6 @@
   sound_begin: 188400
   sound_end: 193360
   sentence: 美しい小川も流れています。
-  words:
-    - word: 美しい
-      position: 0
-    - word: 小川
-      position: 3
-    - word: も
-      position: 5
-    - word: 流れ
-      base: 流れる
-      position: 6
-    - word: て
-      position: 8
-    - word: い
-      base: 居る
-      position: 9
-    - word: ます
-      position: 10
 - id: Okame Donguri-f000106
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -1989,16 +838,6 @@
   sound_begin: 193360
   sound_end: 194760
   sentence: 「僕たちだって、
-  words:
-    - word: 僕
-      position: 1
-    - word: たち
-      base: 達
-      position: 2
-    - word: だ
-      position: 4
-    - word: って
-      position: 5
 - id: Okame Donguri-f000107
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2007,12 +846,6 @@
   sound_begin: 194760
   sound_end: 195480
   sentence: そのかわり、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: かわり
-      position: 2
 - id: Okame Donguri-f000108
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2021,10 +854,6 @@
   sound_begin: 195480
   sound_end: 196240
   sentence: くりや、
-  words:
-    - word: くりや
-      base: 厨
-      position: 0
 - id: Okame Donguri-f000109
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2033,12 +862,6 @@
   sound_begin: 196240
   sound_end: 196840
   sentence: どんぐりを、
-  words:
-    - word: どんぐり
-      base: 団栗
-      position: 0
-    - word: を
-      position: 4
 - id: Okame Donguri-f000110
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2047,24 +870,6 @@
   sound_begin: 196840
   sound_end: 198800
   sentence: 拾うことができないのだから、
-  words:
-    - word: 拾う
-      position: 0
-    - word: こと
-      position: 2
-    - word: が
-      position: 4
-    - word: でき
-      base: 出来る
-      position: 5
-    - word: ない
-      position: 7
-    - word: の
-      position: 9
-    - word: だ
-      position: 10
-    - word: から
-      position: 11
 - id: Okame Donguri-f000111
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2073,15 +878,6 @@
   sound_begin: 198800
   sound_end: 199680
   sentence: おんなじこった。
-  words:
-    - word: おんなじ
-      base: 同じ
-      position: 0
-    - word: こっ
-      base: こる
-      position: 4
-    - word: た
-      position: 6
 - id: Okame Donguri-f000112
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2090,9 +886,6 @@
   sound_begin: 199680
   sound_end: 200880
   sentence: 」と、
-  words:
-    - word: と
-      position: 1
 - id: Okame Donguri-f000113
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2101,21 +894,6 @@
   sound_begin: 200880
   sound_end: 205560
   sentence: 三郎さんは思いました。
-  words:
-    - word: 三郎
-      position: 0
-    - word: さん
-      position: 2
-    - word: は
-      position: 4
-    - word: 思い
-      base: 思う
-      position: 5
-    - word: まし
-      base: ます
-      position: 7
-    - word: た
-      position: 9
 - id: Okame Donguri-f000114
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2124,13 +902,6 @@
   sound_begin: 205560
   sound_end: 206720
   sentence: 三郎さんが、
-  words:
-    - word: 三郎
-      position: 0
-    - word: さん
-      position: 2
-    - word: が
-      position: 4
 - id: Okame Donguri-f000115
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2139,24 +910,6 @@
   sound_begin: 206720
   sound_end: 208240
   sentence: 孝二くんの送ってくれた、
-  words:
-    - word: 孝二
-      position: 0
-    - word: くん
-      base: 君
-      position: 2
-    - word: の
-      position: 4
-    - word: 送っ
-      base: 送る
-      position: 5
-    - word: て
-      position: 7
-    - word: くれ
-      base: 呉れる
-      position: 8
-    - word: た
-      position: 10
 - id: Okame Donguri-f000116
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2165,12 +918,6 @@
   sound_begin: 208240
   sound_end: 209000
   sentence: どんぐりを、
-  words:
-    - word: どんぐり
-      base: 団栗
-      position: 0
-    - word: を
-      position: 4
 - id: Okame Donguri-f000117
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2179,21 +926,6 @@
   sound_begin: 209000
   sound_end: 210880
   sentence: 学校へ持ってゆくと、
-  words:
-    - word: 学校
-      position: 0
-    - word: へ
-      position: 2
-    - word: 持っ
-      base: 持つ
-      position: 3
-    - word: て
-      position: 5
-    - word: ゆく
-      base: 行く
-      position: 6
-    - word: と
-      position: 8
 - id: Okame Donguri-f000118
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2202,17 +934,6 @@
   sound_begin: 210880
   sound_end: 213480
   sentence: さあたいへんでした。
-  words:
-    - word: さあ
-      position: 0
-    - word: たいへん
-      base: 大変
-      position: 2
-    - word: でし
-      base: です
-      position: 6
-    - word: た
-      position: 8
 - id: Okame Donguri-f000119
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2221,12 +942,6 @@
   sound_begin: 213480
   sound_end: 214160
   sentence: みんなは、
-  words:
-    - word: みんな
-      base: 皆
-      position: 0
-    - word: は
-      position: 3
 - id: Okame Donguri-f000120
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2235,15 +950,6 @@
   sound_begin: 214160
   sound_end: 215960
   sentence: 珍しがって、
-  words:
-    - word: 珍し
-      base: 珍しい
-      position: 0
-    - word: がっ
-      base: がる
-      position: 2
-    - word: て
-      position: 4
 - id: Okame Donguri-f000121
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2252,18 +958,6 @@
   sound_begin: 215960
   sound_end: 217392
   sentence: 「見せておくれ。
-  words:
-    - word: 見せ
-      base: 見せる
-      position: 1
-    - word: て
-      position: 3
-    - word: お
-      base: 御
-      position: 4
-    - word: くれ
-      base: 呉れる
-      position: 5
 - id: Okame Donguri-f000122
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2272,9 +966,6 @@
   sound_begin: 217392
   sound_end: 217920
   sentence: 」と、
-  words:
-    - word: と
-      position: 1
 - id: Okame Donguri-f000123
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2283,24 +974,6 @@
   sound_begin: 217920
   sound_end: 220920
   sentence: そばへ寄ってきました。
-  words:
-    - word: そば
-      position: 0
-    - word: へ
-      position: 2
-    - word: 寄っ
-      base: 寄る
-      position: 3
-    - word: て
-      position: 5
-    - word: き
-      base: 来る
-      position: 6
-    - word: まし
-      base: ます
-      position: 7
-    - word: た
-      position: 9
 - id: Okame Donguri-f000124
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2309,9 +982,6 @@
   sound_begin: 220920
   sound_end: 221200
   sentence: 「君、
-  words:
-    - word: 君
-      position: 1
 - id: Okame Donguri-f000125
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2320,21 +990,6 @@
   sound_begin: 221200
   sound_end: 222360
   sentence: このおかめどんぐりを、
-  words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: お
-      base: 御
-      position: 2
-    - word: かめ
-      base: 噛む
-      position: 3
-    - word: どんぐり
-      base: 団栗
-      position: 5
-    - word: を
-      position: 9
 - id: Okame Donguri-f000126
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2343,28 +998,6 @@
   sound_begin: 222360
   sound_end: 224760
   sentence: どこから拾ってきたんだい。」
-  words:
-    - word: どこ
-      position: 0
-    - word: から
-      position: 2
-    - word: 拾っ
-      base: 拾う
-      position: 4
-    - word: て
-      position: 6
-    - word: き
-      base: 来る
-      position: 7
-    - word: た
-      position: 8
-    - word: ん
-      base: の
-      position: 9
-    - word: だ
-      position: 10
-    - word: い
-      position: 11
 - id: Okame Donguri-f000127
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2373,12 +1006,6 @@
   sound_begin: 224760
   sound_end: 225280
   sentence: 「一個、
-  words:
-    - word: 一
-      base: '1'
-      position: 1
-    - word: 個
-      position: 2
 - id: Okame Donguri-f000128
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2387,15 +1014,6 @@
   sound_begin: 225280
   sound_end: 226480
   sentence: おくれよ。」
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: くれ
-      base: 呉れる
-      position: 1
-    - word: よ
-      position: 3
 - id: Okame Donguri-f000129
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2404,15 +1022,6 @@
   sound_begin: 226480
   sound_end: 228960
   sentence: 「僕にもね。」
-  words:
-    - word: 僕
-      position: 1
-    - word: に
-      position: 2
-    - word: も
-      position: 3
-    - word: ね
-      position: 4
 - id: Okame Donguri-f000130
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2421,12 +1030,6 @@
   sound_begin: 228960
   sound_end: 229680
   sentence: みんなは、
-  words:
-    - word: みんな
-      base: 皆
-      position: 0
-    - word: は
-      position: 3
 - id: Okame Donguri-f000131
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2435,23 +1038,6 @@
   sound_begin: 229680
   sound_end: 231370
   sentence: 三郎さんのまわりにたかって、
-  words:
-    - word: 三郎
-      position: 0
-    - word: さん
-      position: 2
-    - word: の
-      position: 4
-    - word: まわり
-      base: 周り
-      position: 5
-    - word: に
-      position: 8
-    - word: たかっ
-      base: 集る
-      position: 9
-    - word: て
-      position: 12
 - id: Okame Donguri-f000132
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2460,21 +1046,6 @@
   sound_begin: 231370
   sound_end: 234120
   sentence: はなれないのでした。
-  words:
-    - word: は
-      position: 0
-    - word: なれ
-      base: なれる
-      position: 1
-    - word: ない
-      position: 3
-    - word: の
-      position: 5
-    - word: でし
-      base: です
-      position: 6
-    - word: た
-      position: 8
 - id: Okame Donguri-f000133
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2483,13 +1054,6 @@
   sound_begin: 234120
   sound_end: 235040
   sentence: そのうち、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: うち
-      base: 内
-      position: 2
 - id: Okame Donguri-f000134
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2498,11 +1062,6 @@
   sound_begin: 235040
   sound_end: 235880
   sentence: 奪い合いから、
-  words:
-    - word: 奪い合い
-      position: 0
-    - word: から
-      position: 4
 - id: Okame Donguri-f000135
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2511,27 +1070,6 @@
   sound_begin: 235880
   sound_end: 240480
   sentence: けんかをはじめたのであります。
-  words:
-    - word: けんか
-      base: 喧嘩
-      position: 0
-    - word: を
-      position: 3
-    - word: はじめ
-      base: 始める
-      position: 4
-    - word: た
-      position: 7
-    - word: の
-      position: 8
-    - word: で
-      base: だ
-      position: 9
-    - word: あり
-      base: 有る
-      position: 10
-    - word: ます
-      position: 12
 - id: Okame Donguri-f000136
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2540,12 +1078,6 @@
   sound_begin: 240480
   sound_end: 241200
   sentence: その晩、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 晩
-      position: 2
 - id: Okame Donguri-f000137
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2554,13 +1086,6 @@
   sound_begin: 241200
   sound_end: 242080
   sentence: 三郎さんは、
-  words:
-    - word: 三郎
-      position: 0
-    - word: さん
-      position: 2
-    - word: は
-      position: 4
 - id: Okame Donguri-f000138
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2569,15 +1094,6 @@
   sound_begin: 242080
   sound_end: 245320
   sentence: 考えました。
-  words:
-    - word: 考え
-      base: 考える
-      position: 0
-    - word: まし
-      base: ます
-      position: 2
-    - word: た
-      position: 4
 - id: Okame Donguri-f000139
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2586,15 +1102,6 @@
   sound_begin: 245320
   sound_end: 246480
   sentence: 「田舎の子は、
-  words:
-    - word: 田舎
-      position: 1
-    - word: の
-      position: 3
-    - word: 子
-      position: 4
-    - word: は
-      position: 5
 - id: Okame Donguri-f000140
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2603,20 +1110,6 @@
   sound_begin: 246480
   sound_end: 249320
   sentence: 雑誌を見たいのだ。
-  words:
-    - word: 雑誌
-      position: 0
-    - word: を
-      position: 2
-    - word: 見
-      base: 見る
-      position: 3
-    - word: たい
-      position: 4
-    - word: の
-      position: 6
-    - word: だ
-      position: 7
 - id: Okame Donguri-f000141
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2625,20 +1118,6 @@
   sound_begin: 249320
   sound_end: 250920
   sentence: 僕たち街の子は、
-  words:
-    - word: 僕
-      position: 0
-    - word: たち
-      base: 達
-      position: 1
-    - word: 街
-      position: 3
-    - word: の
-      position: 4
-    - word: 子
-      position: 5
-    - word: は
-      position: 6
 - id: Okame Donguri-f000142
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2647,25 +1126,6 @@
   sound_begin: 250920
   sound_end: 254260
   sentence: おかめどんぐりがほしいのだ。
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: かめ
-      base: 噛む
-      position: 1
-    - word: どんぐり
-      base: 団栗
-      position: 3
-    - word: が
-      position: 7
-    - word: ほしい
-      base: 欲しい
-      position: 8
-    - word: の
-      position: 11
-    - word: だ
-      position: 12
 - id: Okame Donguri-f000143
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2674,28 +1134,6 @@
   sound_begin: 254260
   sound_end: 259160
   sentence: かえっこすればいいじゃないか。」
-  words:
-    - word: かえ
-      base: 替え
-      position: 0
-    - word: っこ
-      position: 2
-    - word: すれ
-      base: 為る
-      position: 4
-    - word: ば
-      position: 6
-    - word: いい
-      base: 良い
-      position: 7
-    - word: じゃ
-      base: だ
-      position: 9
-    - word: ない
-      base: 無い
-      position: 11
-    - word: か
-      position: 13
 - id: Okame Donguri-f000144
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2704,10 +1142,6 @@
   sound_begin: 259160
   sound_end: 260160
   sentence: あくる日、
-  words:
-    - word: あくる日
-      base: 翌る日
-      position: 0
 - id: Okame Donguri-f000145
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2716,13 +1150,6 @@
   sound_begin: 260160
   sound_end: 261079
   sentence: 三郎さんは、
-  words:
-    - word: 三郎
-      position: 0
-    - word: さん
-      position: 2
-    - word: は
-      position: 4
 - id: Okame Donguri-f000146
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2731,16 +1158,6 @@
   sound_begin: 261079
   sound_end: 262040
   sentence: 学校へいって、
-  words:
-    - word: 学校
-      position: 0
-    - word: へ
-      position: 2
-    - word: いっ
-      base: 行く
-      position: 3
-    - word: て
-      position: 5
 - id: Okame Donguri-f000147
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2749,32 +1166,6 @@
   sound_begin: 262040
   sound_end: 265960
   sentence: 「君たちのよんだ雑誌を田舎の子供へ、
-  words:
-    - word: 君
-      position: 1
-    - word: たち
-      base: 達
-      position: 2
-    - word: の
-      position: 4
-    - word: よん
-      base: 呼ぶ
-      position: 5
-    - word: だ
-      base: た
-      position: 7
-    - word: 雑誌
-      position: 8
-    - word: を
-      position: 10
-    - word: 田舎
-      position: 11
-    - word: の
-      position: 13
-    - word: 子供
-      position: 14
-    - word: へ
-      position: 16
 - id: Okame Donguri-f000148
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2783,17 +1174,6 @@
   sound_begin: 265960
   sound_end: 267200
   sentence: 送ってやって、
-  words:
-    - word: 送っ
-      base: 送る
-      position: 0
-    - word: て
-      position: 2
-    - word: やっ
-      base: 遣る
-      position: 3
-    - word: て
-      position: 5
 - id: Okame Donguri-f000149
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2802,18 +1182,6 @@
   sound_begin: 267200
   sound_end: 268680
   sentence: 田舎の子供たちから、
-  words:
-    - word: 田舎
-      position: 0
-    - word: の
-      position: 2
-    - word: 子供
-      position: 3
-    - word: たち
-      base: 達
-      position: 5
-    - word: から
-      position: 7
 - id: Okame Donguri-f000150
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2822,28 +1190,6 @@
   sound_begin: 268680
   sound_end: 271141
   sentence: おかめどんぐりを送ってもらおうよ。
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: かめ
-      base: 噛む
-      position: 1
-    - word: どんぐり
-      base: 団栗
-      position: 3
-    - word: を
-      position: 7
-    - word: 送っ
-      base: 送る
-      position: 8
-    - word: て
-      position: 10
-    - word: もらおう
-      base: 貰う
-      position: 11
-    - word: よ
-      position: 15
 - id: Okame Donguri-f000151
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2852,9 +1198,6 @@
   sound_begin: 271141
   sound_end: 271298
   sentence: 」と、
-  words:
-    - word: と
-      position: 1
 - id: Okame Donguri-f000152
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2863,17 +1206,6 @@
   sound_begin: 271298
   sound_end: 273400
   sentence: 相談しました。
-  words:
-    - word: 相談
-      position: 0
-    - word: し
-      base: 為る
-      position: 2
-    - word: まし
-      base: ます
-      position: 3
-    - word: た
-      position: 5
 - id: Okame Donguri-f000153
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2882,9 +1214,6 @@
   sound_begin: 273400
   sound_end: 274400
   sentence: 「賛成、
-  words:
-    - word: 賛成
-      position: 1
 - id: Okame Donguri-f000154
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2893,9 +1222,6 @@
   sound_begin: 274400
   sound_end: 277560
   sentence: 賛成！」
-  words:
-    - word: 賛成
-      position: 0
 - id: Okame Donguri-f000155
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2904,14 +1230,6 @@
   sound_begin: 277560
   sound_end: 278560
   sentence: そのことを、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: こと
-      position: 2
-    - word: を
-      position: 4
 - id: Okame Donguri-f000156
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2920,13 +1238,6 @@
   sound_begin: 278560
   sound_end: 279480
   sentence: 三郎さんから、
-  words:
-    - word: 三郎
-      position: 0
-    - word: さん
-      position: 2
-    - word: から
-      position: 4
 - id: Okame Donguri-f000157
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2935,24 +1246,6 @@
   sound_begin: 279480
   sound_end: 281160
   sentence: 孝二くんにいってやると、
-  words:
-    - word: 孝二
-      position: 0
-    - word: くん
-      base: 君
-      position: 2
-    - word: に
-      position: 4
-    - word: いっ
-      base: 行く
-      position: 5
-    - word: て
-      position: 7
-    - word: やる
-      base: 遣る
-      position: 8
-    - word: と
-      position: 10
 - id: Okame Donguri-f000158
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2961,21 +1254,6 @@
   sound_begin: 281160
   sound_end: 283440
   sentence: すぐに返事がきて、
-  words:
-    - word: すぐ
-      base: 直ぐ
-      position: 0
-    - word: に
-      position: 2
-    - word: 返事
-      position: 3
-    - word: が
-      position: 5
-    - word: き
-      base: 来る
-      position: 6
-    - word: て
-      position: 7
 - id: Okame Donguri-f000159
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -2984,34 +1262,6 @@
   sound_begin: 283440
   sound_end: 288440
   sentence: 田舎の子供たちも大喜びだというのでした。
-  words:
-    - word: 田舎
-      position: 0
-    - word: の
-      position: 2
-    - word: 子供
-      position: 3
-    - word: たち
-      base: 達
-      position: 5
-    - word: も
-      position: 7
-    - word: 大喜び
-      position: 8
-    - word: だ
-      position: 11
-    - word: と
-      position: 12
-    - word: いう
-      base: 言う
-      position: 13
-    - word: の
-      position: 15
-    - word: でし
-      base: です
-      position: 16
-    - word: た
-      position: 18
 - id: Okame Donguri-f000160
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -3020,9 +1270,6 @@
   sound_begin: 288440
   sound_end: 289520
   sentence: そして、
-  words:
-    - word: そして
-      position: 0
 - id: Okame Donguri-f000161
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -3031,24 +1278,6 @@
   sound_begin: 289520
   sound_end: 292320
   sentence: 雑誌やおかめどんぐりよりも、
-  words:
-    - word: 雑誌
-      position: 0
-    - word: や
-      position: 2
-    - word: お
-      base: 御
-      position: 3
-    - word: かめ
-      base: 噛む
-      position: 4
-    - word: どんぐり
-      base: 団栗
-      position: 6
-    - word: より
-      position: 10
-    - word: も
-      position: 12
 - id: Okame Donguri-f000162
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -3057,15 +1286,6 @@
   sound_begin: 292320
   sound_end: 293240
   sentence: まだ知らない、
-  words:
-    - word: まだ
-      base: 未だ
-      position: 0
-    - word: 知ら
-      base: 知る
-      position: 2
-    - word: ない
-      position: 4
 - id: Okame Donguri-f000163
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -3074,13 +1294,6 @@
   sound_begin: 293240
   sound_end: 294160
   sentence: 遠い田舎と、
-  words:
-    - word: 遠い
-      position: 0
-    - word: 田舎
-      position: 2
-    - word: と
-      position: 4
 - id: Okame Donguri-f000164
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -3089,14 +1302,6 @@
   sound_begin: 294160
   sound_end: 295440
   sentence: 街とで、
-  words:
-    - word: 街
-      position: 0
-    - word: と
-      position: 1
-    - word: で
-      base: だ
-      position: 2
 - id: Okame Donguri-f000165
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -3105,15 +1310,6 @@
   sound_begin: 295440
   sound_end: 296080
   sentence: おたがいに、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: たがい
-      base: 互い
-      position: 1
-    - word: に
-      position: 4
 - id: Okame Donguri-f000166
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -3122,16 +1318,6 @@
   sound_begin: 296080
   sound_end: 297200
   sentence: 交際するのが、
-  words:
-    - word: 交際
-      position: 0
-    - word: する
-      base: 為る
-      position: 2
-    - word: の
-      position: 4
-    - word: が
-      position: 5
 - id: Okame Donguri-f000167
   author_japanese: 小川 未明
   deck_name: Okame Donguri
@@ -3140,22 +1326,3 @@
   sound_begin: 297200
   sound_end: 302080
   sentence: とてもうれしかったのであります。
-  words:
-    - word: とても
-      base: 迚も
-      position: 0
-    - word: うれしかっ
-      base: 嬉しい
-      position: 3
-    - word: た
-      position: 8
-    - word: の
-      position: 9
-    - word: で
-      base: だ
-      position: 10
-    - word: あり
-      base: 有る
-      position: 11
-    - word: ます
-      position: 13

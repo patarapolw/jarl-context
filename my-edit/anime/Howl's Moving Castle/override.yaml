@@ -8,63 +8,16 @@
       position: 1
       tags:
         - silent
-    - word: は
-      position: 5
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 6
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 7
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 9
-    - word: 魔王
-      position: 11
-    - word: に
-      position: 13
-    - word: も
-      position: 14
-    - word: なり
-      base: 成る
-      dictionary: なる
-      position: 15
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 17
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 19
 - id: A_Howl'sMovingCastle_683
   deck_name: Howl's Moving Castle
   translation: Did you make it with your magic?
   sound: Anime-Howl'sMovingCastle_1_1.20.52.033-1.20.54.518.mp3
   sentence: ここも(ハウル)の魔法なの？
   words:
-    - word: ここ
-      base: 此処
-      position: 0
-    - word: も
-      position: 2
     - word: ハウル
       position: 4
       tags:
         - silent
-    - word: の
-      position: 8
-    - word: 魔法
-      position: 9
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 11
-    - word: の
-      position: 12
 - id: A_Howl'sMovingCastle_685
   deck_name: Howl's Moving Castle
   translation: Thank you, Howl! It's like I'm dreaming.
@@ -75,13 +28,6 @@
       position: 1
       tags:
         - silent
-    - word: ありがとう
-      base: 有り難う
-      position: 6
-    - word: 夢
-      position: 13
-    - word: みたい
-      position: 14
 - id: A_Howl'sMovingCastle_686
   deck_name: Howl's Moving Castle
   translation: Sophie.
@@ -102,79 +48,16 @@
       position: 1
       tags:
         - silent
-    - word: なら
-      base: だ
-      dictionary: だ
-      position: 6
-    - word: 好き
-      position: 8
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 10
-    - word: 使っ
-      base: 使う
-      dictionary: 使う
-      position: 11
-    - word: て
-      position: 13
-    - word: いい
-      base: 良い
-      position: 14
-    - word: よ
-      position: 16
 - id: A_Howl'sMovingCastle_698
   deck_name: Howl's Moving Castle
   translation: I'm afraid you'll go off and disappear somewhere once I'm inside.
   sound: Anime-Howl'sMovingCastle_1_1.22.24.525-1.22.28.025.mp3
   sentence: 小屋へ行ったら　(ハウル)がどこかへ　行っちゃうような気がするの。
   words:
-    - word: 小屋
-      position: 0
-    - word: へ
-      position: 2
-    - word: 行っ
-      base: 行く
-      dictionary: 行く
-      position: 3
-    - word: たら
-      base: た
-      dictionary: た
-      position: 5
     - word: ハウル
       position: 9
       tags:
         - silent
-    - word: が
-      position: 13
-    - word: どこ
-      position: 14
-    - word: か
-      position: 16
-    - word: へ
-      position: 17
-    - word: 行っ
-      base: 行く
-      dictionary: 行く
-      position: 19
-    - word: ちゃう
-      position: 21
-    - word: よう
-      base: 様
-      position: 24
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 26
-    - word: 気
-      position: 27
-    - word: が
-      position: 28
-    - word: する
-      base: 為る
-      position: 29
-    - word: の
-      position: 31
 - id: A_Howl'sMovingCastle_699
   deck_name: Howl's Moving Castle
   translation: Howl, tell me the truth.
@@ -185,174 +68,56 @@
       position: 1
       tags:
         - silent
-    - word: 本当
-      position: 6
-    - word: の
-      position: 8
-    - word: こと
-      position: 9
-    - word: 言っ
-      base: 言う
-      dictionary: 言う
-      position: 11
-    - word: て
-      position: 13
 - id: A_Howl'sMovingCastle_700
   deck_name: Howl's Moving Castle
   translation: I don't mind if you're a monster.
   sound: Anime-Howl'sMovingCastle_1_1.22.32.600-1.22.36.100.mp3
   sentence: 私　(ハウル)が怪物だって平気よ。
   words:
-    - word: 私
-      position: 0
     - word: ハウル
       position: 3
       tags:
         - silent
-    - word: が
-      position: 7
-    - word: 怪物
-      position: 8
-    - word: だ
-      position: 10
-    - word: って
-      position: 11
-    - word: 平気
-      position: 13
-    - word: よ
-      position: 15
 - id: A_Howl'sMovingCastle_701
   deck_name: Howl's Moving Castle
   translation: I want to make sure that you'll all live comfortably.
   sound: Anime-Howl'sMovingCastle_1_1.22.40.508-1.22.44.528.mp3
   sentence: 僕は(ソフィー)達が安心して　暮らせるようにしたいんだよ。
   words:
-    - word: 僕
-      position: 0
-    - word: は
-      position: 1
     - word: ソフィー
       position: 3
       tags:
         - silent
-    - word: 達
-      position: 8
-    - word: が
-      position: 9
-    - word: 安心
-      position: 10
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 12
-    - word: て
-      position: 13
-    - word: 暮らせる
-      base: 暮らす
-      position: 15
-    - word: よう
-      base: 様
-      position: 19
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 21
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 22
-    - word: たい
-      position: 23
-    - word: ん
-      base: の
-      position: 25
-    - word: だ
-      position: 26
-    - word: よ
-      position: 27
 - id: A_Howl'sMovingCastle_703
   deck_name: Howl's Moving Castle
   translation: You'd be good at it, Sophie.
   sound: Anime-Howl'sMovingCastle_1_1.22.49.033-1.22.52.019.mp3
   sentence: ねっ！　(ソフィー)なら　うまくやれるよ。
   words:
-    - word: ねっ
-      base: ねえ
-      position: 0
     - word: ソフィー
       position: 5
       tags:
         - silent
-    - word: なら
-      base: だ
-      dictionary: だ
-      position: 10
-    - word: うまく
-      base: 旨い
-      dictionary: うまい
-      position: 13
-    - word: やれる
-      base: 遣る
-      position: 16
-    - word: よ
-      position: 19
 - id: A_Howl'sMovingCastle_704
   deck_name: Howl's Moving Castle
   translation: And then, you'd go away?
   sound: Anime-Howl'sMovingCastle_1_1.22.52.019-1.22.54.519.mp3
   sentence: そしたら(ハウル)は行っちゃうの？
   words:
-    - word: そ
-      base: そう
-      position: 0
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 1
-    - word: たら
-      base: た
-      dictionary: た
-      position: 2
     - word: ハウル
       position: 5
       tags:
         - silent
-    - word: は
-      position: 9
-    - word: 行っ
-      base: 行く
-      dictionary: 行く
-      position: 10
-    - word: ちゃう
-      position: 12
-    - word: の
-      position: 15
 - id: A_Howl'sMovingCastle_705
   deck_name: Howl's Moving Castle
   translation: I want to help you, Howl.
   sound: Anime-Howl'sMovingCastle_1_1.22.55.539-1.22.59.110.mp3
   sentence: 私　(ハウル)の力になりたいの。
   words:
-    - word: 私
-      position: 0
     - word: ハウル
       position: 3
       tags:
         - silent
-    - word: の
-      position: 7
-    - word: 力
-      position: 8
-    - word: に
-      position: 9
-    - word: なり
-      base: 成る
-      dictionary: なる
-      position: 10
-    - word: たい
-      position: 12
-    - word: の
-      position: 14
 - id: A_Howl'sMovingCastle_707
   deck_name: Howl's Moving Castle
   translation: Sophie, you are beautiful.
@@ -367,45 +132,16 @@
       position: 9
       tags:
         - silent
-    - word: は
-      position: 14
-    - word: キレイ
-      base: 奇麗
-      position: 15
-    - word: だ
-      position: 18
-    - word: よ
-      position: 19
 - id: A_Howl'sMovingCastle_714
   deck_name: Howl's Moving Castle
   translation: It stopped. Did you do that?
   sound: Anime-Howl'sMovingCastle_1_1.24.15.519-1.24.18.522.mp3
   sentence: 止まっちゃった　(ハウル)が　やったの？
   words:
-    - word: 止まっ
-      base: 止まる
-      dictionary: 止まる
-      position: 0
-    - word: ちゃっ
-      base: ちゃう
-      dictionary: ちゃう
-      position: 3
-    - word: た
-      position: 6
     - word: ハウル
       position: 9
       tags:
         - silent
-    - word: が
-      position: 13
-    - word: やっ
-      base: 遣る
-      dictionary: やる
-      position: 15
-    - word: た
-      position: 17
-    - word: の
-      position: 18
 - id: A_Howl'sMovingCastle_719
   deck_name: Howl's Moving Castle
   translation: What happened, Sophie?
@@ -416,16 +152,6 @@
       position: 1
       tags:
         - silent
-    - word: どう
-      position: 7
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 9
-    - word: た
-      position: 10
-    - word: の
-      position: 11
 - id: A_Howl'sMovingCastle_721
   deck_name: Howl's Moving Castle
   translation: Good night, Sophie. Good night.
@@ -436,10 +162,6 @@
       position: 1
       tags:
         - silent
-    - word: おやすみ
-      position: 7
-    - word: おやすみ
-      position: 13
 - id: A_Howl'sMovingCastle_722
   deck_name: Howl's Moving Castle
   translation: Don't worry about Master Howl, Sophie. Sometimes, he's gone for days on end.
@@ -454,58 +176,12 @@
       position: 8
       tags:
         - silent
-    - word: さん
-      position: 12
-    - word: なら
-      base: だ
-      dictionary: だ
-      position: 14
-    - word: 心配
-      position: 16
-    - word: いら
-      base: いる
-      dictionary: いる
-      position: 18
-    - word: ない
-      position: 20
-    - word: よ
-      position: 22
-    - word: 前
-      position: 25
-    - word: も
-      position: 26
-    - word: 何
-      position: 27
-    - word: 日
-      position: 28
-    - word: も
-      position: 29
-    - word: い
-      base: 居る
-      dictionary: いる
-      position: 30
-    - word: なかっ
-      base: ない
-      dictionary: ない
-      position: 31
-    - word: た
-      position: 34
-    - word: こと
-      position: 35
-    - word: ある
-      base: 有る
-      position: 38
-    - word: から
-      position: 40
 - id: A_Howl'sMovingCastle_723
   deck_name: Howl's Moving Castle
   translation: Thank you, Markl.
   sound: Anime-Howl'sMovingCastle_1_1.25.35.516-1.25.37.568.mp3
   sentence: ありがとう　(マルクル)。
   words:
-    - word: ありがとう
-      base: 有り難う
-      position: 0
     - word: マルクル
       position: 7
       tags:
@@ -516,48 +192,10 @@
   sound: Anime-Howl'sMovingCastle_1_1.26.35.042-1.26.41.042.mp3
   sentence: そこら中で　(ハウル)の手先が　この家を捜し回っているよ。
   words:
-    - word: そこ
-      base: 其処
-      position: 0
-    - word: ら
-      base: 等
-      position: 2
-    - word: 中
-      position: 3
-    - word: で
-      position: 4
     - word: ハウル
       position: 7
       tags:
         - silent
-    - word: の
-      position: 11
-    - word: 手先
-      position: 12
-    - word: が
-      position: 14
-    - word: この
-      base: 此の
-      position: 16
-    - word: 家
-      position: 18
-    - word: を
-      position: 19
-    - word: 捜し
-      base: 探す
-      dictionary: 捜す
-      position: 20
-    - word: 回っ
-      base: 回る
-      dictionary: 回る
-      position: 22
-    - word: て
-      position: 24
-    - word: いる
-      base: 居る
-      position: 25
-    - word: よ
-      position: 27
 - id: A_Howl'sMovingCastle_741
   deck_name: Howl's Moving Castle
   translation: Sophie, a stranger got in!
@@ -568,43 +206,12 @@
       position: 1
       tags:
         - silent
-    - word: 変
-      position: 8
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 9
-    - word: 人
-      position: 10
-    - word: が
-      position: 11
-    - word: 入っ
-      base: 入る
-      dictionary: 入る
-      position: 12
-    - word: て
-      position: 14
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 15
-    - word: ちゃっ
-      base: ちゃう
-      dictionary: ちゃう
-      position: 16
-    - word: た
-      position: 19
 - id: A_Howl'sMovingCastle_746
   deck_name: Howl's Moving Castle
   translation: I'm so sorry, Sophie!
   sound: Anime-Howl'sMovingCastle_1_1.27.49.032-1.27.52.035.mp3
   sentence: ごめんね　(ソフィー)。
   words:
-    - word: ごめん
-      base: 御免
-      position: 0
-    - word: ね
-      position: 3
     - word: ソフィー
       position: 6
       tags:
@@ -615,27 +222,10 @@
   sound: Anime-Howl'sMovingCastle_1_1.28.02.596-1.28.06.517.mp3
   sentence: あぁ　(ソフィー)　私　再婚したの！　えっ！
   words:
-    - word: あぁ
-      base: ああ
-      position: 0
     - word: ソフィー
       position: 4
       tags:
         - silent
-    - word: 私
-      position: 10
-    - word: 再婚
-      position: 12
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 14
-    - word: た
-      position: 15
-    - word: の
-      position: 16
-    - word: えっ
-      position: 19
 - id: A_Howl'sMovingCastle_757
   deck_name: Howl's Moving Castle
   translation: I'm so glad I found you again.
@@ -646,113 +236,42 @@
       position: 1
       tags:
         - silent
-    - word: 会え
-      base: 会う
-      dictionary: 会える
-      position: 7
-    - word: て
-      position: 9
-    - word: ホント
-      base: 本当
-      position: 10
-    - word: に
-      position: 13
-    - word: よかっ
-      base: 良い
-      dictionary: よい
-      position: 14
-    - word: た
-      position: 17
-    - word: わ
-      position: 18
 - id: A_Howl'sMovingCastle_758
   deck_name: Howl's Moving Castle
   translation: A peeping-bug, eh? The oldest trick in the book, Suliman.
   sound: Anime-Howl'sMovingCastle_1_1.28.41.018-1.28.45.105.mp3
   sentence: のぞき虫かい　(ハウル)も古いてを使うね。
   words:
-    - word: のぞき
-      base: のぞく
-      dictionary: のぞく
-      position: 0
-    - word: 虫
-      position: 3
-    - word: か
-      position: 4
-    - word: い
-      position: 5
     - word: ハウル
       position: 8
       tags:
         - silent
-    - word: も
-      position: 12
-    - word: 古い
-      position: 13
-    - word: て
-      position: 15
-    - word: を
-      position: 16
-    - word: 使う
-      position: 17
-    - word: ね
-      position: 19
 - id: A_Howl'sMovingCastle_761
   deck_name: Howl's Moving Castle
   translation: Thank you. You too, Sophie.
   sound: Anime-Howl'sMovingCastle_1_1.28.58.535-1.29.01.535.mp3
   sentence: ありがとう　(ソフィー)もね。
   words:
-    - word: ありがとう
-      base: 有り難う
-      position: 0
     - word: ソフィー
       position: 7
       tags:
         - silent
-    - word: も
-      position: 12
-    - word: ね
-      position: 13
 - id: A_Howl'sMovingCastle_763
   deck_name: Howl's Moving Castle
   translation: Yes, I'm sure Madam Suliman will be pleased.
   sound: Anime-Howl'sMovingCastle_1_1.29.08.529-1.29.12.049.mp3
   sentence: はい　(ハウル)先生も　さぞ　お喜びでしょう。
   words:
-    - word: はい
-      position: 0
     - word: ハウル
       position: 4
       tags:
         - silent
-    - word: 先生
-      position: 8
-    - word: も
-      position: 10
-    - word: さぞ
-      base: 嘸
-      position: 12
-    - word: お
-      base: 御
-      position: 15
-    - word: 喜び
-      position: 16
-    - word: でしょう
-      base: です
-      dictionary: です
-      position: 18
 - id: A_Howl'sMovingCastle_764
   deck_name: Howl's Moving Castle
   translation: Forgive me, Sophie...
   sound: Anime-Howl'sMovingCastle_1_1.29.13.534-1.29.16.034.mp3
   sentence: ごめんね　(ソフィー)。
   words:
-    - word: ごめん
-      base: 御免
-      position: 0
-    - word: ね
-      position: 3
     - word: ソフィー
       position: 6
       tags:
@@ -767,21 +286,6 @@
       position: 1
       tags:
         - silent
-    - word: も
-      position: 6
-    - word: 行き
-      base: 行く
-      dictionary: 行く
-      position: 7
-    - word: たい
-      position: 9
-    - word: ん
-      base: の
-      position: 11
-    - word: か
-      position: 12
-    - word: えっ
-      position: 15
 - id: A_Howl'sMovingCastle_770
   deck_name: Howl's Moving Castle
   translation: Don't go, Sophie!
@@ -792,67 +296,26 @@
       position: 1
       tags:
         - silent
-    - word: 行か
-      base: 行く
-      dictionary: 行く
-      position: 7
-    - word: ない
-      position: 9
-    - word: で
-      position: 11
 - id: A_Howl'sMovingCastle_771
   deck_name: Howl's Moving Castle
   translation: I love you, Sophie. Please stay.
   sound: Anime-Howl'sMovingCastle_1_1.29.37.508-1.29.41.008.mp3
   sentence: 僕　(ソフィー)が好きだ　ここにいて。
   words:
-    - word: 僕
-      position: 0
     - word: ソフィー
       position: 3
       tags:
         - silent
-    - word: が
-      position: 8
-    - word: 好き
-      position: 9
-    - word: だ
-      position: 11
-    - word: ここ
-      base: 此処
-      position: 13
-    - word: に
-      position: 15
-    - word: い
-      base: 居る
-      dictionary: いる
-      position: 16
-    - word: て
-      position: 17
 - id: A_Howl'sMovingCastle_772
   deck_name: Howl's Moving Castle
   translation: I love you, too, Markl. Don't worry, I won't go.
   sound: Anime-Howl'sMovingCastle_1_1.29.42.045-1.29.45.616.mp3
   sentence: 私もよ　(マルクル)　大丈夫　行かない。
   words:
-    - word: 私
-      position: 0
-    - word: も
-      position: 1
-    - word: よ
-      position: 2
     - word: マルクル
       position: 5
       tags:
         - silent
-    - word: 大丈夫
-      position: 11
-    - word: 行か
-      base: 行く
-      dictionary: 行く
-      position: 15
-    - word: ない
-      position: 17
 - id: A_Howl'sMovingCastle_777
   deck_name: Howl's Moving Castle
   translation: I'll never let Suliman get a hold of Howl.
@@ -863,70 +326,30 @@
       position: 1
       tags:
         - silent
-    - word: なんか
-      position: 5
-    - word: に
-      position: 8
     - word: ハウル
       position: 11
       tags:
         - silent
-    - word: は
-      position: 15
-    - word: 渡さ
-      base: 渡す
-      dictionary: 渡す
-      position: 16
-    - word: ない
-      position: 18
-    - word: よ
-      position: 20
 - id: A_Howl'sMovingCastle_780
   deck_name: Howl's Moving Castle
   translation: How strange, I can't get Calcifer going.
   sound: Anime-Howl'sMovingCastle_1_1.30.27.024-1.30.30.945.mp3
   sentence: おかしいわ　(カルシファー)が　ちっとも燃えない。
   words:
-    - word: おかしい
-      base: 可笑しい
-      position: 0
-    - word: わ
-      position: 4
     - word: カルシファー
       position: 7
       tags:
         - silent
-    - word: が
-      position: 14
-    - word: ちっとも
-      base: 些とも
-      position: 16
-    - word: 燃え
-      base: 燃える
-      dictionary: 燃える
-      position: 20
-    - word: ない
-      position: 22
 - id: A_Howl'sMovingCastle_784
   deck_name: Howl's Moving Castle
   translation: Open the window, Markl.
   sound: Anime-Howl'sMovingCastle_1_1.30.38.453-1.30.41.456.mp3
   sentence: 窓開けて　(マルクル)。　うん。
   words:
-    - word: 窓
-      position: 0
-    - word: 開け
-      base: 開く
-      dictionary: 開ける
-      position: 1
-    - word: て
-      position: 3
     - word: マルクル
       position: 6
       tags:
         - silent
-    - word: うん
-      position: 13
 - id: A_Howl'sMovingCastle_788
   deck_name: Howl's Moving Castle
   translation: Look after Grandma, Markl. I'll check on the shop.
@@ -937,36 +360,6 @@
       position: 1
       tags:
         - silent
-    - word: お
-      base: 御
-      position: 7
-    - word: ばあ
-      base: 婆
-      position: 8
-    - word: ちゃん
-      position: 10
-    - word: を
-      position: 13
-    - word: お
-      base: 御
-      position: 14
-    - word: 願い
-      position: 15
-    - word: お
-      base: 御
-      position: 18
-    - word: 店
-      position: 19
-    - word: 見
-      base: 見る
-      dictionary: 見る
-      position: 21
-    - word: て
-      position: 22
-    - word: 来る
-      position: 23
-    - word: うん
-      position: 27
 - id: A_Howl'sMovingCastle_791
   deck_name: Howl's Moving Castle
   translation: Calcifer, be strong.
@@ -977,59 +370,26 @@
       position: 1
       tags:
         - silent
-    - word: しっかり
-      base: 確り
-      position: 9
-    - word: しろ
-      base: 為る
-      dictionary: する
-      position: 13
 - id: A_Howl'sMovingCastle_792
   deck_name: Howl's Moving Castle
   translation: Madam, was that a gift from Suliman?
   sound: Anime-Howl'sMovingCastle_1_1.33.12.473-1.33.17.044.mp3
   sentence: マダム　それは　(ハウル)先生のプレゼントですね。
   words:
-    - word: マダム
-      position: 0
-    - word: それ
-      base: 其れ
-      position: 4
-    - word: は
-      position: 6
     - word: ハウル
       position: 9
       tags:
         - silent
-    - word: 先生
-      position: 13
-    - word: の
-      position: 15
-    - word: プレゼント
-      position: 16
-    - word: です
-      position: 21
-    - word: ね
-      position: 23
 - id: A_Howl'sMovingCastle_794
   deck_name: Howl's Moving Castle
   translation: Why, if it isn't Howl.
   sound: Anime-Howl'sMovingCastle_1_1.33.20.464-1.33.23.451.mp3
   sentence: あら　(ハウル)じゃない？
   words:
-    - word: あら
-      position: 0
     - word: ハウル
       position: 4
       tags:
         - silent
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 8
-    - word: ない
-      base: 無い
-      position: 10
 - id: A_Howl'sMovingCastle_799
   deck_name: Howl's Moving Castle
   translation: Stay here, Sophie. Calcifer will protect you.
@@ -1040,122 +400,40 @@
       position: 1
       tags:
         - silent
-    - word: は
-      position: 6
-    - word: ここ
-      base: 此処
-      position: 8
-    - word: に
-      position: 10
-    - word: いろ
-      base: 居る
-      dictionary: いる
-      position: 11
     - word: カルシファー
       position: 15
       tags:
         - silent
-    - word: が
-      position: 22
-    - word: 守っ
-      base: 守る
-      dictionary: 守る
-      position: 23
-    - word: て
-      position: 25
-    - word: くれる
-      base: 呉れる
-      position: 26
 - id: A_Howl'sMovingCastle_801
   deck_name: Howl's Moving Castle
   translation: Wait, Howl! Don't go! Please stay.
   sound: Anime-Howl'sMovingCastle_1_1.33.45.956-1.33.50.461.mp3
   sentence: 待って！　(ハウル)　行ってはダメ！　ここにいて！
   words:
-    - word: 待っ
-      base: 待つ
-      dictionary: 待つ
-      position: 0
-    - word: て
-      position: 2
     - word: ハウル
       position: 6
       tags:
         - silent
-    - word: 行っ
-      base: 行く
-      dictionary: 行く
-      position: 11
-    - word: て
-      position: 13
-    - word: は
-      position: 14
-    - word: ダメ
-      base: 駄目
-      position: 15
-    - word: ここ
-      base: 此処
-      position: 19
-    - word: に
-      position: 21
-    - word: い
-      base: 居る
-      dictionary: いる
-      position: 22
-    - word: て
-      position: 23
 - id: A_Howl'sMovingCastle_802
   deck_name: Howl's Moving Castle
   translation: Another round of bombs is coming. Even Calcifer can't stop those.
   sound: Anime-Howl'sMovingCastle_1_1.33.50.461-1.33.54.448.mp3
   sentence: 次の空襲が来る　(カルシファー)も爆弾は防げない。
   words:
-    - word: 次
-      position: 0
-    - word: の
-      position: 1
-    - word: 空襲
-      position: 2
-    - word: が
-      position: 4
-    - word: 来る
-      position: 5
     - word: カルシファー
       position: 9
       tags:
         - silent
-    - word: も
-      position: 16
-    - word: 爆弾
-      position: 17
-    - word: は
-      position: 19
-    - word: 防げ
-      base: 防ぐ
-      dictionary: 防げる
-      position: 20
-    - word: ない
-      position: 22
 - id: A_Howl'sMovingCastle_808
   deck_name: Howl's Moving Castle
   translation: There's Howl.
   sound: Anime-Howl'sMovingCastle_1_1.35.40.471-1.35.42.471.mp3
   sentence: あそこに(ハウル)がいる。
   words:
-    - word: あそこ
-      base: 彼処
-      position: 0
-    - word: に
-      position: 3
     - word: ハウル
       position: 5
       tags:
         - silent
-    - word: が
-      position: 9
-    - word: いる
-      base: 居る
-      position: 10
 - id: A_Howl'sMovingCastle_809
   deck_name: Howl's Moving Castle
   translation: Markl, come inside!
@@ -1166,79 +444,26 @@
       position: 1
       tags:
         - silent
-    - word: こっち
-      base: 此方
-      position: 7
-    - word: へ
-      position: 10
-    - word: 来よう
-      base: 来る
-      dictionary: 来る
-      position: 11
-    - word: えっ
-      position: 16
 - id: A_Howl'sMovingCastle_811
   deck_name: Howl's Moving Castle
   translation: No, as long as we stay here, Howl will keep fighting.
   sound: Anime-Howl'sMovingCastle_1_1.36.13.471-1.36.16.957.mp3
   sentence: ダメ　私達がここにいる限り　(ハウル)は戦うわ。
   words:
-    - word: ダメ
-      base: 駄目
-      position: 0
-    - word: 私
-      position: 3
-    - word: 達
-      position: 4
-    - word: が
-      position: 5
-    - word: ここ
-      base: 此処
-      position: 6
-    - word: に
-      position: 8
-    - word: いる
-      base: 居る
-      position: 9
-    - word: 限り
-      position: 11
     - word: ハウル
       position: 15
       tags:
         - silent
-    - word: は
-      position: 19
-    - word: 戦う
-      position: 20
-    - word: わ
-      position: 22
 - id: A_Howl'sMovingCastle_814
   deck_name: Howl's Moving Castle
   translation: Suliman will find us right away.
   sound: Anime-Howl'sMovingCastle_1_1.36.22.480-1.36.24.448.mp3
   sentence: だって(ハウル)に　すぐ見つかっちゃうよ！
   words:
-    - word: だ
-      position: 0
-    - word: って
-      position: 1
     - word: ハウル
       position: 4
       tags:
         - silent
-    - word: に
-      position: 8
-    - word: すぐ
-      base: 直ぐ
-      position: 10
-    - word: 見つかっ
-      base: 見付かる
-      dictionary: 見つかる
-      position: 12
-    - word: ちゃう
-      position: 16
-    - word: よ
-      position: 19
 - id: A_Howl'sMovingCastle_816
   deck_name: Howl's Moving Castle
   translation: Sophie! The castle's falling apart.
@@ -1249,23 +474,6 @@
       position: 1
       tags:
         - silent
-    - word: お
-      base: 御
-      position: 8
-    - word: 城
-      position: 9
-    - word: ボロボロ
-      base: ぼろぼろ
-      position: 10
-    - word: だ
-      position: 14
-    - word: よ
-      position: 15
-    - word: いい
-      base: 良い
-      position: 18
-    - word: の
-      position: 20
 - id: A_Howl'sMovingCastle_817
   deck_name: Howl's Moving Castle
   translation: That's all right Markl, take Grandma. Sure.
@@ -1276,23 +484,6 @@
       position: 1
       tags:
         - silent
-    - word: お
-      base: 御
-      position: 7
-    - word: ばあ
-      base: 婆
-      position: 8
-    - word: ちゃん
-      position: 10
-    - word: を
-      position: 13
-    - word: お
-      base: 御
-      position: 14
-    - word: 願い
-      position: 15
-    - word: うん
-      position: 19
 - id: A_Howl'sMovingCastle_830
   deck_name: Howl's Moving Castle
   translation: Look after Grandma, Markl. Turnip, find us a way in.
@@ -1303,43 +494,10 @@
       position: 1
       tags:
         - silent
-    - word: お
-      base: 御
-      position: 7
-    - word: ばあ
-      base: 婆
-      position: 8
-    - word: ちゃん
-      position: 10
-    - word: を
-      position: 13
-    - word: お
-      base: 御
-      position: 14
-    - word: 願い
-      base: 願う
-      dictionary: 願う
-      position: 15
-    - word: ね
-      position: 17
     - word: カブ
       position: 20
       tags:
         - silent
-    - word: 中
-      position: 24
-    - word: に
-      position: 25
-    - word: 入れる
-      position: 26
-    - word: とこ
-      position: 29
-    - word: 探し
-      base: 探す
-      dictionary: 探す
-      position: 31
-    - word: て
-      position: 33
 - id: A_Howl'sMovingCastle_832
   deck_name: Howl's Moving Castle
   translation: Markl, we can get in here.
@@ -1350,13 +508,6 @@
       position: 1
       tags:
         - silent
-    - word: ここ
-      base: 此処
-      position: 7
-    - word: から
-      position: 9
-    - word: 入れる
-      position: 11
 - id: A_Howl'sMovingCastle_838
   deck_name: Howl's Moving Castle
   translation: Bring Grandma here, Markl
@@ -1367,63 +518,16 @@
       position: 1
       tags:
         - silent
-    - word: お
-      base: 御
-      position: 8
-    - word: ばあ
-      base: 婆
-      position: 9
-    - word: ちゃん
-      position: 11
-    - word: ここ
-      base: 此処
-      position: 15
-    - word: へ
-      position: 17
 - id: A_Howl'sMovingCastle_840
   deck_name: Howl's Moving Castle
   translation: I told you, if we'd stayed put, Howl and I could've handled it.
   sound: Anime-Howl'sMovingCastle_1_1.38.29.473-1.38.33.973.mp3
   sentence: だから　あっちにいれば　オイラと(ハウル)で守れたんだよ。
   words:
-    - word: だ
-      position: 0
-    - word: から
-      position: 1
-    - word: あっち
-      base: 彼方
-      position: 4
-    - word: に
-      position: 7
-    - word: いれ
-      base: 居る
-      dictionary: いる
-      position: 8
-    - word: ば
-      position: 10
-    - word: オイラ
-      position: 12
-    - word: と
-      position: 15
     - word: ハウル
       position: 17
       tags:
         - silent
-    - word: で
-      position: 21
-    - word: 守れ
-      base: 守る
-      dictionary: 守れる
-      position: 22
-    - word: た
-      position: 24
-    - word: ん
-      base: の
-      position: 25
-    - word: だ
-      position: 26
-    - word: よ
-      position: 27
 - id: A_Howl'sMovingCastle_841
   deck_name: Howl's Moving Castle
   translation: Calcifer, please. You're my last hope.
@@ -1434,26 +538,6 @@
       position: 1
       tags:
         - silent
-    - word: お
-      base: 御
-      position: 9
-    - word: 願い
-      position: 10
-    - word: あなた
-      base: 貴方
-      position: 13
-    - word: に
-      position: 16
-    - word: しか
-      position: 17
-    - word: でき
-      base: 出来る
-      dictionary: できる
-      position: 19
-    - word: ない
-      position: 21
-    - word: の
-      position: 23
 - id: A_Howl'sMovingCastle_842
   deck_name: Howl's Moving Castle
   translation: I want to go to Howl. Move the castle.
@@ -1464,120 +548,36 @@
       position: 1
       tags:
         - silent
-    - word: の
-      position: 5
-    - word: 所
-      position: 6
-    - word: へ
-      position: 7
-    - word: 行き
-      base: 行く
-      dictionary: 行く
-      position: 8
-    - word: たい
-      position: 10
-    - word: の
-      position: 12
-    - word: お
-      base: 御
-      position: 14
-    - word: 城
-      position: 15
-    - word: を
-      position: 16
-    - word: 動かし
-      base: 動かす
-      dictionary: 動かす
-      position: 17
-    - word: て
-      position: 20
-    - word: ええっ
-      base: ええ
-      position: 23
 - id: A_Howl'sMovingCastle_848
   deck_name: Howl's Moving Castle
   translation: Then, give me something of yours, Sophie.
   sound: Anime-Howl'sMovingCastle_1_1.39.04.458-1.39.07.444.mp3
   sentence: じゃあ　(ソフィー)の何かを　くれるかい？
   words:
-    - word: じゃあ
-      base: で
-      position: 0
     - word: ソフィー
       position: 5
       tags:
         - silent
-    - word: の
-      position: 10
-    - word: 何
-      position: 11
-    - word: か
-      position: 12
-    - word: を
-      position: 13
-    - word: くれる
-      base: 呉れる
-      position: 15
-    - word: か
-      position: 18
-    - word: い
-      position: 19
 - id: A_Howl'sMovingCastle_852
   deck_name: Howl's Moving Castle
   translation: Amazing, Calcifer! You are the best!
   sound: Anime-Howl'sMovingCastle_1_1.40.19.483-1.40.22.469.mp3
   sentence: すごいわ　(カルシファー)！　あなたは一流よ！
   words:
-    - word: すごい
-      base: 凄い
-      position: 0
-    - word: わ
-      position: 3
     - word: カルシファー
       position: 6
       tags:
         - silent
-    - word: あなた
-      base: 貴方
-      position: 15
-    - word: は
-      position: 18
-    - word: 一流
-      position: 19
-    - word: よ
-      position: 21
 - id: A_Howl'sMovingCastle_856
   deck_name: Howl's Moving Castle
   translation: There's Howl. He's trapped.
   sound: Anime-Howl'sMovingCastle_1_1.40.45.459-1.40.48.462.mp3
   sentence: あそこに(ハウル)がいる　囲まれてるわ！
   words:
-    - word: あそこ
-      base: 彼処
-      position: 0
-    - word: に
-      position: 3
     - word: ハウル
       position: 5
       tags:
         - silent
-    - word: が
-      position: 9
-    - word: いる
-      base: 居る
-      position: 10
-    - word: 囲ま
-      base: 囲む
-      dictionary: 囲む
-      position: 13
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 15
-    - word: てる
-      position: 16
-    - word: わ
-      position: 18
 - id: A_Howl'sMovingCastle_857
   deck_name: Howl's Moving Castle
   translation: Hurry, Calcifer!
@@ -1588,12 +588,6 @@
       position: 1
       tags:
         - silent
-    - word: 早く
-      base: 早い
-      dictionary: 早い
-      position: 9
-    - word: あっ
-      position: 13
 - id: A_Howl'sMovingCastle_861
   deck_name: Howl's Moving Castle
   translation: Howl's heart!
@@ -1604,14 +598,6 @@
       position: 1
       tags:
         - silent
-    - word: の
-      position: 5
-    - word: 心臓
-      position: 6
-    - word: だ
-      position: 8
-    - word: よ
-      position: 9
 - id: A_Howl'sMovingCastle_867
   deck_name: Howl's Moving Castle
   translation: She's so mean. That's mine.
@@ -1622,21 +608,6 @@
       position: 1
       tags:
         - silent
-    - word: が
-      position: 6
-    - word: いじめ
-      base: 苛める
-      dictionary: いじめる
-      position: 8
-    - word: た
-      position: 11
-    - word: あたい
-      base: 私
-      position: 14
-    - word: の
-      position: 17
-    - word: だ
-      position: 18
 - id: A_Howl'sMovingCastle_868
   deck_name: Howl's Moving Castle
   translation: Oh, no, Heen, look what I've done. I poured water on Calcifer.
@@ -1647,44 +618,10 @@
       position: 1
       tags:
         - silent
-    - word: 大変
-      position: 5
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 7
-    - word: こと
-      position: 8
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 10
-    - word: ちゃっ
-      base: ちゃう
-      dictionary: ちゃう
-      position: 11
-    - word: た
-      position: 14
     - word: カルシファー
       position: 19
       tags:
         - silent
-    - word: に
-      position: 26
-    - word: 水
-      position: 27
-    - word: を
-      position: 28
-    - word: かけ
-      base: 掛ける
-      dictionary: かける
-      position: 29
-    - word: ちゃっ
-      base: ちゃう
-      dictionary: ちゃう
-      position: 31
-    - word: た
-      position: 34
 - id: A_Howl'sMovingCastle_869
   deck_name: Howl's Moving Castle
   translation: What if I've killed Howl, too...
@@ -1695,48 +632,16 @@
       position: 1
       tags:
         - silent
-    - word: が
-      position: 5
-    - word: 死ん
-      base: 死ぬ
-      dictionary: 死ぬ
-      position: 6
-    - word: だら
-      base: た
-      dictionary: だ
-      position: 8
-    - word: どう
-      position: 10
-    - word: しよう
-      base: 為る
-      dictionary: する
-      position: 12
 - id: A_Howl'sMovingCastle_870
   deck_name: Howl's Moving Castle
   translation: It's moving... Is Howl alive?
   sound: Anime-Howl'sMovingCastle_1_1.43.14.958-1.43.17.961.mp3
   sentence: 動いてる…　(ハウル)は生きてるの？
   words:
-    - word: 動い
-      base: 動く
-      dictionary: 動く
-      position: 0
-    - word: てる
-      position: 2
     - word: ハウル
       position: 7
       tags:
         - silent
-    - word: は
-      position: 11
-    - word: 生き
-      base: 生きる
-      dictionary: 生きる
-      position: 12
-    - word: てる
-      position: 14
-    - word: の
-      position: 16
 - id: A_Howl'sMovingCastle_871
   deck_name: Howl's Moving Castle
   translation: Show me where he is.
@@ -1747,103 +652,36 @@
       position: 1
       tags:
         - silent
-    - word: の
-      position: 5
-    - word: 居
-      position: 6
-    - word: 場所
-      position: 7
-    - word: を
-      position: 9
-    - word: 教え
-      base: 教える
-      dictionary: 教える
-      position: 10
-    - word: て
-      position: 12
 - id: A_Howl'sMovingCastle_873
   deck_name: Howl's Moving Castle
   translation: This must be Howl's childhood...
   sound: Anime-Howl'sMovingCastle_1_1.45.57.471-1.46.00.474.mp3
   sentence: 私　今　(ハウル)の子供時代に　いるんだ。
   words:
-    - word: 私
-      position: 0
-    - word: 今
-      position: 2
     - word: ハウル
       position: 5
       tags:
         - silent
-    - word: の
-      position: 9
-    - word: 子供
-      position: 10
-    - word: 時代
-      position: 12
-    - word: に
-      position: 14
-    - word: いる
-      base: 居る
-      position: 16
-    - word: ん
-      base: の
-      position: 18
-    - word: だ
-      position: 19
 - id: A_Howl'sMovingCastle_874
   deck_name: Howl's Moving Castle
   translation: It's Sophie! Wait for me! I promise I'll come back for you.
   sound: Anime-Howl'sMovingCastle_1_1.47.21.955-1.47.27.961.mp3
   sentence: え？　私は(ソフィー)！　待ってて！　私　きっと行くから！
   words:
-    - word: え
-      base: えっ
-      position: 0
-    - word: 私
-      position: 3
-    - word: は
-      position: 4
     - word: ソフィー
       position: 6
       tags:
         - silent
-    - word: 待っ
-      base: 待つ
-      dictionary: 待つ
-      position: 13
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 15
-    - word: て
-      position: 16
-    - word: 私
-      position: 19
-    - word: きっと
-      position: 21
-    - word: 行く
-      position: 24
-    - word: から
-      position: 26
 - id: A_Howl'sMovingCastle_876
   deck_name: Howl's Moving Castle
   translation: I'll walk there. Heen, I'll walk.
   sound: Anime-Howl'sMovingCastle_1_1.48.02.963-1.48.05.966.mp3
   sentence: 歩くよ…　(ヒン)　歩くから。
   words:
-    - word: 歩く
-      position: 0
-    - word: よ
-      position: 2
     - word: ヒン
       position: 6
       tags:
         - silent
-    - word: 歩く
-      position: 10
-    - word: から
-      position: 12
 - id: A_Howl'sMovingCastle_879
   deck_name: Howl's Moving Castle
   translation: You've been waiting all this time.
@@ -1854,62 +692,16 @@
       position: 1
       tags:
         - silent
-    - word: は
-      position: 5
-    - word: ずっと
-      position: 7
-    - word: 待っ
-      base: 待つ
-      dictionary: 待つ
-      position: 11
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 13
-    - word: て
-      position: 14
-    - word: くれ
-      base: 呉れる
-      dictionary: くれる
-      position: 15
-    - word: た
-      position: 17
-    - word: の
-      position: 18
-    - word: に
-      position: 19
 - id: A_Howl'sMovingCastle_880
   deck_name: Howl's Moving Castle
   translation: Take me to Calcifer.
   sound: Anime-Howl'sMovingCastle_1_1.48.51.074-1.48.53.993.mp3
   sentence: 私を(カルシファー)の所へ　連れて行って。
   words:
-    - word: 私
-      position: 0
-    - word: を
-      position: 1
     - word: カルシファー
       position: 3
       tags:
         - silent
-    - word: の
-      position: 10
-    - word: 所
-      position: 11
-    - word: へ
-      position: 12
-    - word: 連れ
-      base: 連れる
-      dictionary: 連れる
-      position: 14
-    - word: て
-      position: 16
-    - word: 行っ
-      base: 行く
-      dictionary: 行く
-      position: 17
-    - word: て
-      position: 19
 - id: A_Howl'sMovingCastle_891
   deck_name: Howl's Moving Castle
   translation: Sophie... I'm all worn out.
@@ -1920,50 +712,16 @@
       position: 1
       tags:
         - silent
-    - word: くたくた
-      position: 7
-    - word: だ
-      position: 11
-    - word: よ
-      position: 12
 - id: A_Howl'sMovingCastle_892
   deck_name: Howl's Moving Castle
   translation: If I give Howl's heart back, will it kill you?
   sound: Anime-Howl'sMovingCastle_1_1.50.52.979-1.50.56.499.mp3
   sentence: 心臓を(ハウル)に返したら　あなたは死んじゃうの？
   words:
-    - word: 心臓
-      position: 0
-    - word: を
-      position: 2
     - word: ハウル
       position: 4
       tags:
         - silent
-    - word: に
-      position: 8
-    - word: 返し
-      base: 返す
-      dictionary: 返す
-      position: 9
-    - word: たら
-      base: た
-      dictionary: た
-      position: 11
-    - word: あなた
-      base: 貴方
-      position: 14
-    - word: は
-      position: 17
-    - word: 死ん
-      base: 死ぬ
-      dictionary: 死ぬ
-      position: 18
-    - word: じゃう
-      base: ちゃう
-      position: 20
-    - word: の
-      position: 23
 - id: A_Howl'sMovingCastle_893
   deck_name: Howl's Moving Castle
   translation: Probably not if you do it, Sophie.
@@ -1974,116 +732,30 @@
       position: 1
       tags:
         - silent
-    - word: なら
-      base: だ
-      dictionary: だ
-      position: 6
-    - word: 平気
-      position: 8
-    - word: だ
-      position: 10
-    - word: よ
-      position: 11
-    - word: 多分
-      position: 13
 - id: A_Howl'sMovingCastle_894
   deck_name: Howl's Moving Castle
   translation: After all, we both survived the water you dumped on me.
   sound: Anime-Howl'sMovingCastle_1_1.50.59.485-1.51.04.057.mp3
   sentence: オイラに水をかけても　オイラも(ハウル)も　死ななかったから。
   words:
-    - word: オイラ
-      position: 0
-    - word: に
-      position: 3
-    - word: 水
-      position: 4
-    - word: を
-      position: 5
-    - word: かけ
-      base: 掛ける
-      dictionary: かける
-      position: 6
-    - word: て
-      position: 8
-    - word: も
-      position: 9
-    - word: オイラ
-      position: 11
-    - word: も
-      position: 14
     - word: ハウル
       position: 16
       tags:
         - silent
-    - word: も
-      position: 20
-    - word: 死な
-      base: 死ぬ
-      dictionary: 死ぬ
-      position: 22
-    - word: なかっ
-      base: ない
-      dictionary: ない
-      position: 24
-    - word: た
-      position: 27
-    - word: から
-      position: 28
 - id: A_Howl'sMovingCastle_898
   deck_name: Howl's Moving Castle
   translation: May Calcifer live a thousand years, and may Howl recover his heart...
   sound: Anime-Howl'sMovingCastle_1_1.51.15.001-1.51.27.991.mp3
   sentence: どうか　(カルシファー)が千年も生き　(ハウル)が心を取り戻しますように。
   words:
-    - word: どう
-      position: 0
-    - word: か
-      position: 2
     - word: カルシファー
       position: 5
       tags:
         - silent
-    - word: が
-      position: 12
-    - word: 千
-      base: '1000'
-      position: 13
-    - word: 年
-      position: 14
-    - word: も
-      position: 15
-    - word: 生き
-      base: 生きる
-      dictionary: 生きる
-      position: 16
     - word: ハウル
       position: 20
       tags:
         - silent
-    - word: が
-      position: 24
-    - word: 心
-      position: 25
-    - word: を
-      position: 26
-    - word: 取り
-      base: 取る
-      dictionary: 取る
-      position: 27
-    - word: 戻し
-      base: 戻す
-      dictionary: 戻す
-      position: 29
-    - word: ます
-      position: 31
-    - word: よう
-      base: 様
-      position: 33
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 35
 - id: A_Howl'sMovingCastle_902
   deck_name: Howl's Moving Castle
   translation: You broke Calcifer's spell!
@@ -2094,23 +766,6 @@
       position: 1
       tags:
         - silent
-    - word: の
-      position: 8
-    - word: 魔法
-      position: 9
-    - word: が
-      position: 11
-    - word: 解け
-      base: 解く
-      dictionary: 解ける
-      position: 13
-    - word: た
-      position: 15
-    - word: ん
-      base: の
-      position: 16
-    - word: だ
-      position: 17
 - id: A_Howl'sMovingCastle_903
   deck_name: Howl's Moving Castle
   translation: Turnip, are you okay? I'll get you a new stick, right away.
@@ -2121,28 +776,6 @@
       position: 1
       tags:
         - silent
-    - word: 大丈夫
-      position: 5
-    - word: すぐ
-      base: 直ぐ
-      position: 10
-    - word: 新しい
-      position: 12
-    - word: 棒
-      position: 15
-    - word: を
-      position: 16
-    - word: 見つけ
-      base: 見付ける
-      dictionary: 見つける
-      position: 18
-    - word: て
-      position: 21
-    - word: あげる
-      base: 上げる
-      position: 22
-    - word: ね
-      position: 25
 - id: A_Howl'sMovingCastle_904
   deck_name: Howl's Moving Castle
   translation: Thank you, Turnip.
@@ -2153,18 +786,12 @@
       position: 1
       tags:
         - silent
-    - word: ありがとう
-      base: 有り難う
-      position: 5
 - id: A_Howl'sMovingCastle_905
   deck_name: Howl's Moving Castle
   translation: Thank you, Sophie.
   sound: Anime-Howl'sMovingCastle_1_1.52.35.565-1.52.37.984.mp3
   sentence: ありがとう　(ソフィー)。
   words:
-    - word: ありがとう
-      base: 有り難う
-      position: 0
     - word: ソフィー
       position: 7
       tags:
@@ -2177,140 +804,30 @@
   sound: Anime-Howl'sMovingCastle_1_1.52.37.984-1.52.43.473.mp3
   sentence: 私は隣の国の王子です　呪いで(カブ)頭にされていたのです。
   words:
-    - word: 私
-      position: 0
-    - word: は
-      position: 1
-    - word: 隣
-      base: 隣り
-      position: 2
-    - word: の
-      position: 3
-    - word: 国
-      position: 4
-    - word: の
-      position: 5
-    - word: 王子
-      position: 6
-    - word: です
-      position: 8
-    - word: 呪い
-      position: 11
-    - word: で
-      position: 13
     - word: カブ
       position: 15
       tags:
         - silent
-    - word: 頭
-      position: 18
-    - word: に
-      position: 19
-    - word: さ
-      base: 為る
-      dictionary: する
-      position: 20
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 21
-    - word: て
-      position: 22
-    - word: い
-      base: 居る
-      dictionary: いる
-      position: 23
-    - word: た
-      position: 24
-    - word: の
-      position: 25
-    - word: です
-      position: 26
 - id: A_Howl'sMovingCastle_908
   deck_name: Howl's Moving Castle
   translation: Exactly. And if Sophie hadn't saved me, I would have died.
   sound: Anime-Howl'sMovingCastle_1_1.52.46.476-1.52.51.998.mp3
   sentence: その通り！　(ソフィー)が　助けてくれなければ　私は死んでいたでしょう。
   words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 通り
-      position: 2
     - word: ソフィー
       position: 7
       tags:
         - silent
-    - word: が
-      position: 12
-    - word: 助け
-      base: 助ける
-      dictionary: 助ける
-      position: 14
-    - word: て
-      position: 16
-    - word: くれ
-      base: 呉れる
-      dictionary: くれる
-      position: 17
-    - word: なけれ
-      base: ない
-      dictionary: ない
-      position: 19
-    - word: ば
-      position: 22
-    - word: 私
-      position: 24
-    - word: は
-      position: 25
-    - word: 死ん
-      base: 死ぬ
-      dictionary: 死ぬ
-      position: 26
-    - word: で
-      position: 28
-    - word: い
-      base: 居る
-      dictionary: いる
-      position: 29
-    - word: た
-      position: 30
-    - word: でしょう
-      base: です
-      dictionary: です
-      position: 31
 - id: A_Howl'sMovingCastle_913
   deck_name: Howl's Moving Castle
   translation: Oh, Sophie, your hair is just like starlight.
   sound: Anime-Howl'sMovingCastle_1_1.53.02.992-1.53.06.562.mp3
   sentence: あっ！　(ソフィー)の髪の毛　星の光に染まってるね。
   words:
-    - word: あっ
-      position: 0
     - word: ソフィー
       position: 5
       tags:
         - silent
-    - word: の
-      position: 10
-    - word: 髪の毛
-      position: 11
-    - word: 星
-      position: 15
-    - word: の
-      position: 16
-    - word: 光
-      position: 17
-    - word: に
-      position: 18
-    - word: 染まっ
-      base: 染まる
-      dictionary: 染まる
-      position: 19
-    - word: てる
-      position: 22
-    - word: ね
-      position: 24
 - id: A_Howl'sMovingCastle_915
   deck_name: Howl's Moving Castle
   translation: I love you, Howl! How wonderful.
@@ -2321,18 +838,6 @@
       position: 1
       tags:
         - silent
-    - word: 大好き
-      position: 5
-    - word: よかっ
-      base: 良い
-      dictionary: よい
-      position: 10
-    - word: た
-      position: 13
-    - word: 痛
-      position: 16
-    - word: っ
-      position: 17
 - id: A_Howl'sMovingCastle_916
   deck_name: Howl's Moving Castle
   translation: So, now you see how Sophie feels.
@@ -2343,23 +848,6 @@
       position: 1
       tags:
         - silent
-    - word: の
-      position: 6
-    - word: 気持
-      base: 気持ち
-      position: 7
-    - word: は
-      position: 9
-    - word: 分かっ
-      base: 分かる
-      dictionary: 分かる
-      position: 11
-    - word: た
-      position: 14
-    - word: でしょ
-      base: です
-      dictionary: です
-      position: 15
 - id: A_Howl'sMovingCastle_928
   deck_name: Howl's Moving Castle
   translation: It's Calcifer!
@@ -2370,17 +858,12 @@
       position: 1
       tags:
         - silent
-    - word: だ
-      position: 8
 - id: A_Howl'sMovingCastle_931
   deck_name: Howl's Moving Castle
   translation: Thank you, Calcifer.
   sound: Anime-Howl'sMovingCastle_1_1.54.20.987-1.54.24.023.mp3
   sentence: ありがとう　(カルシファー)。
   words:
-    - word: ありがとう
-      base: 有り難う
-      position: 0
     - word: カルシファー
       position: 7
       tags:
@@ -2395,23 +878,6 @@
       position: 1
       tags:
         - silent
-    - word: さん
-      position: 6
-    - word: お
-      base: 御
-      position: 9
-    - word: 店
-      position: 10
-    - word: 閉め
-      base: 閉める
-      dictionary: 閉める
-      position: 12
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 14
-    - word: た
-      position: 16
 - id: A_Howl'sMovingCastle_002
   deck_name: Howl's Moving Castle
   translation: You should come too, Sophie.
@@ -2422,95 +888,26 @@
       position: 1
       tags:
         - silent
-    - word: さん
-      position: 6
-    - word: も
-      position: 8
-    - word: 行け
-      base: 行く
-      dictionary: 行く
-      position: 9
-    - word: ば
-      position: 11
-    - word: いい
-      base: 良い
-      position: 12
-    - word: の
-      position: 14
-    - word: に
-      position: 15
 - id: A_Howl'sMovingCastle_006
   deck_name: Howl's Moving Castle
   translation: Look, it's Howl's castle.
   sound: Anime-Howl'sMovingCastle_1_0.01.54.780-0.01.57.300.mp3
   sentence: これ　おかしくない？　ねぇ　見て！　(ハウル)の城が来てる。
   words:
-    - word: これ
-      base: 此れ
-      position: 0
-    - word: おかしく
-      base: 可笑しい
-      dictionary: おかしい
-      position: 3
-    - word: ない
-      base: 無い
-      position: 7
-    - word: ねぇ
-      base: ね
-      position: 11
-    - word: 見
-      base: 見る
-      dictionary: 見る
-      position: 14
-    - word: て
-      position: 15
     - word: ハウル
       position: 19
       tags:
         - silent
-    - word: の
-      position: 23
-    - word: 城
-      position: 24
-    - word: が
-      position: 25
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 26
-    - word: てる
-      position: 27
 - id: A_Howl'sMovingCastle_008
   deck_name: Howl's Moving Castle
   translation: Oh, no. I wonder if Howl's in town...
   sound: Anime-Howl'sMovingCastle_1_0.02.01.287-0.02.05.287.mp3
   sentence: やあねぇ　(ハウル)　町に来てるのかしら？
   words:
-    - word: やあ
-      base: や
-      dictionary: や
-      position: 0
-    - word: ねぇ
-      base: ね
-      position: 2
     - word: ハウル
       position: 6
       tags:
         - silent
-    - word: 町
-      position: 11
-    - word: に
-      position: 12
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 13
-    - word: てる
-      position: 14
-    - word: の
-      position: 16
-    - word: かしら
-      position: 17
 - id: A_Howl'sMovingCastle_011
   deck_name: Howl's Moving Castle
   translation: >-
@@ -2519,79 +916,20 @@
   sound: Anime-Howl'sMovingCastle_1_0.02.17.270-0.02.22.291.mp3
   sentence: ねぇ　聞いた？　南町のマーサってコ　(ハウル)に心臓　取られちゃったんだってね
   words:
-    - word: ねぇ
-      base: ねえ
-      position: 0
-    - word: 聞い
-      base: 聞く
-      dictionary: 聞く
-      position: 3
-    - word: た
-      position: 5
-    - word: 南町
-      position: 8
-    - word: の
-      position: 10
-    - word: マーサ
-      position: 11
-    - word: って
-      position: 14
-    - word: コ
-      base: こ
-      position: 16
     - word: ハウル
       position: 19
       tags:
         - silent
-    - word: に
-      position: 23
-    - word: 心臓
-      position: 24
-    - word: 取ら
-      base: 取る
-      dictionary: 取る
-      position: 27
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 29
-    - word: ちゃっ
-      base: ちゃう
-      dictionary: ちゃう
-      position: 30
-    - word: た
-      position: 33
-    - word: ん
-      base: の
-      position: 34
-    - word: だ
-      position: 35
-    - word: って
-      position: 36
-    - word: ね
-      position: 38
 - id: A_Howl'sMovingCastle_041
   deck_name: Howl's Moving Castle
   translation: Any Letties chocolate?
   sound: Anime-Howl'sMovingCastle_1_0.07.14.283-0.07.16.268.mp3
   sentence: ありがとう。　(レティー)っていうチョコは？
   words:
-    - word: ありがとう
-      base: 有り難う
-      position: 0
     - word: レティー
       position: 8
       tags:
         - silent
-    - word: って
-      position: 13
-    - word: いう
-      base: 言う
-      position: 15
-    - word: チョコ
-      position: 17
-    - word: は
-      position: 20
 - id: A_Howl'sMovingCastle_044
   deck_name: Howl's Moving Castle
   translation: Come back soon, Lettie.
@@ -2602,28 +940,6 @@
       position: 1
       tags:
         - silent
-    - word: 早く
-      base: 早い
-      dictionary: 早い
-      position: 7
-    - word: 戻っ
-      base: 戻る
-      dictionary: 戻る
-      position: 9
-    - word: て
-      position: 11
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 12
-    - word: て
-      position: 13
-    - word: くれ
-      base: 呉れる
-      dictionary: くれる
-      position: 14
-    - word: よ
-      position: 16
 - id: A_Howl'sMovingCastle_046
   deck_name: Howl's Moving Castle
   translation: Lettie! How? did you land on the veranda like that?
@@ -2634,16 +950,6 @@
       position: 1
       tags:
         - silent
-    - word: どう
-      position: 8
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 10
-    - word: た
-      position: 11
-    - word: の
-      position: 12
 - id: A_Howl'sMovingCastle_049
   deck_name: Howl's Moving Castle
   translation: Lettie, why not use the office?
@@ -2654,97 +960,26 @@
       position: 1
       tags:
         - silent
-    - word: オフィス
-      position: 7
-    - word: を
-      position: 11
-    - word: 使い
-      base: 使う
-      dictionary: 使う
-      position: 12
-    - word: な
-      position: 14
-    - word: よ
-      position: 15
 - id: A_Howl'sMovingCastle_055
   deck_name: Howl's Moving Castle
   translation: If that was the wizard Howl, he'd have eaten it right up!
   sound: Anime-Howl'sMovingCastle_1_0.07.56.292-0.08.01.263.mp3
   sentence: その魔法使いが(ハウル)だったら　お姉ちゃん　心臓　食べられちゃってるよ。
   words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 魔法
-      position: 2
-    - word: 使い
-      position: 4
-    - word: が
-      position: 6
     - word: ハウル
       position: 8
       tags:
         - silent
-    - word: だっ
-      base: だ
-      dictionary: だ
-      position: 12
-    - word: たら
-      base: た
-      dictionary: た
-      position: 14
-    - word: お
-      base: 御
-      position: 17
-    - word: 姉ちゃん
-      position: 18
-    - word: 心臓
-      position: 23
-    - word: 食べ
-      base: 食べる
-      dictionary: 食べる
-      position: 26
-    - word: られ
-      base: られる
-      dictionary: られる
-      position: 28
-    - word: ちゃっ
-      base: ちゃう
-      dictionary: ちゃう
-      position: 30
-    - word: てる
-      position: 33
-    - word: よ
-      position: 35
 - id: A_Howl'sMovingCastle_056
   deck_name: Howl's Moving Castle
   translation: Don't worry, Howl's only after beauties.
   sound: Anime-Howl'sMovingCastle_1_0.08.01.263-0.08.04.783.mp3
   sentence: 大丈夫よ　(ハウル)は美人しか狙わないもの。
   words:
-    - word: 大丈夫
-      position: 0
-    - word: よ
-      position: 3
     - word: ハウル
       position: 6
       tags:
         - silent
-    - word: は
-      position: 10
-    - word: 美人
-      position: 11
-    - word: しか
-      position: 13
-    - word: 狙わ
-      base: 狙う
-      dictionary: 狙う
-      position: 15
-    - word: ない
-      position: 17
-    - word: もの
-      base: 物
-      position: 19
 - id: A_Howl'sMovingCastle_062
   deck_name: Howl's Moving Castle
   translation: Lettie, the madeleines are done.
@@ -2755,18 +990,6 @@
       position: 1
       tags:
         - silent
-    - word: マドレーヌ
-      position: 7
-    - word: が
-      position: 12
-    - word: 上がっ
-      base: 上がる
-      dictionary: 上がる
-      position: 13
-    - word: た
-      position: 16
-    - word: よ
-      position: 17
 - id: A_Howl'sMovingCastle_065
   deck_name: Howl's Moving Castle
   translation: It's a relief to know you're doing well.
@@ -2777,59 +1000,16 @@
       position: 1
       tags:
         - silent
-    - word: の
-      position: 6
-    - word: 元気
-      position: 7
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 9
-    - word: 顔
-      position: 10
-    - word: を
-      position: 11
-    - word: 見
-      base: 見る
-      dictionary: 見る
-      position: 12
-    - word: たら
-      base: た
-      dictionary: た
-      position: 13
-    - word: 安心
-      position: 16
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 18
-    - word: た
-      position: 19
-    - word: から
-      position: 20
 - id: A_Howl'sMovingCastle_066
   deck_name: Howl's Moving Castle
   translation: Hello, Lettie. Nice to see you.
   sound: Anime-Howl'sMovingCastle_1_0.08.34.863-0.08.37.783.mp3
   sentence: やぁ　(レティー)。　ご苦労さま。
   words:
-    - word: や
-      base: やあ
-      position: 0
-    - word: ぁ
-      position: 1
     - word: レティー
       position: 4
       tags:
         - silent
-    - word: ご
-      base: 御
-      position: 11
-    - word: 苦労
-      position: 12
-    - word: さま
-      base: 様
-      position: 14
 - id: A_Howl'sMovingCastle_071
   deck_name: Howl's Moving Castle
   translation: Bye, Lettie.
@@ -2840,11 +1020,6 @@
       position: 1
       tags:
         - silent
-    - word: また
-      base: 又
-      position: 7
-    - word: ね
-      position: 9
 - id: A_Howl'sMovingCastle_084
   deck_name: Howl's Moving Castle
   translation: My regards to Howl.
@@ -2855,36 +1030,12 @@
       position: 1
       tags:
         - silent
-    - word: に
-      position: 5
-    - word: よろしく
-      base: 宜しく
-      position: 6
-    - word: ね
-      position: 10
-    - word: フフフ
-      base: ふふふ
-      position: 12
 - id: A_Howl'sMovingCastle_088
   deck_name: Howl's Moving Castle
   translation: It's no use panicking, Sophie.
   sound: Anime-Howl'sMovingCastle_1_0.12.06.775-0.12.10.796.mp3
   sentence: 慌てると　ろくなことないよ　(ソフィー)…。
   words:
-    - word: 慌てる
-      position: 0
-    - word: と
-      position: 3
-    - word: ろくな
-      base: 碌な
-      position: 5
-    - word: こと
-      position: 8
-    - word: ない
-      base: 無い
-      position: 10
-    - word: よ
-      position: 12
     - word: ソフィー
       position: 15
       tags:
@@ -2895,24 +1046,6 @@
   sound: Anime-Howl'sMovingCastle_1_0.12.32.948-0.12.37.953.mp3
   sentence: 奥様　お帰りなさい！　どう？　これ　(キングスベリー)で　流行り始めたのよ。
   words:
-    - word: 奥様
-      position: 0
-    - word: お
-      base: 御
-      position: 3
-    - word: 帰り
-      base: 帰る
-      dictionary: 帰る
-      position: 4
-    - word: なさい
-      base: 為す
-      dictionary: なさる
-      position: 6
-    - word: どう
-      position: 11
-    - word: これ
-      base: 此れ
-      position: 15
     - word: キングス
       base: キング
       position: 19
@@ -2922,22 +1055,6 @@
       position: 23
       tags:
         - silent
-    - word: で
-      position: 27
-    - word: 流行り
-      base: 流行る
-      dictionary: 流行る
-      position: 29
-    - word: 始め
-      base: 始める
-      dictionary: 始める
-      position: 32
-    - word: た
-      position: 34
-    - word: の
-      position: 35
-    - word: よ
-      position: 36
 - id: A_Howl'sMovingCastle_095
   deck_name: Howl's Moving Castle
   translation: Sophie! Sophie!
@@ -2952,52 +1069,16 @@
       position: 9
       tags:
         - silent
-    - word: あら
-      position: 16
 - id: A_Howl'sMovingCastle_096
   deck_name: Howl's Moving Castle
   translation: Mrs. Hatter, Sophie hasn't come down to work yet.
   sound: Anime-Howl'sMovingCastle_1_0.12.44.944-0.12.47.947.mp3
   sentence: 奥様　(ソフィー)さんは　今日は下りて来ていません
   words:
-    - word: 奥様
-      position: 0
     - word: ソフィー
       position: 4
       tags:
         - silent
-    - word: さん
-      position: 9
-    - word: は
-      position: 11
-    - word: 今日
-      position: 13
-    - word: は
-      position: 15
-    - word: 下り
-      base: 下りる
-      dictionary: 下りる
-      position: 16
-    - word: て
-      position: 18
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 19
-    - word: て
-      position: 20
-    - word: い
-      base: 居る
-      dictionary: いる
-      position: 21
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 22
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 24
 - id: A_Howl'sMovingCastle_123
   deck_name: Howl's Moving Castle
   translation: Never underestimate Grandma Sophie.
@@ -3008,69 +1089,26 @@
       position: 1
       tags:
         - silent
-    - word: ばあ
-      base: 婆
-      position: 6
-    - word: ちゃん
-      position: 8
-    - word: を
-      position: 11
-    - word: 甘く
-      base: 甘い
-      dictionary: 甘い
-      position: 13
-    - word: 見
-      base: 見る
-      dictionary: 見る
-      position: 15
-    - word: ない
-      position: 16
-    - word: で
-      position: 18
 - id: A_Howl'sMovingCastle_127
   deck_name: Howl's Moving Castle
   translation: Your head's a turnip.
   sound: Anime-Howl'sMovingCastle_1_0.16.15.471-0.16.17.506.mp3
   sentence: 頭が(カブ)ね。
   words:
-    - word: 頭
-      position: 0
-    - word: が
-      position: 1
     - word: カブ
       position: 3
       tags:
         - silent
-    - word: ね
-      position: 6
 - id: A_Howl'sMovingCastle_128
   deck_name: Howl's Moving Castle
   translation: I've always hated turnips.
   sound: Anime-Howl'sMovingCastle_1_0.16.17.506-0.16.20.926.mp3
   sentence: 私　小さい時から　(カブ)は嫌いなの。
   words:
-    - word: 私
-      position: 0
-    - word: 小さい
-      position: 2
-    - word: 時
-      position: 5
-    - word: から
-      position: 6
     - word: カブ
       position: 10
       tags:
         - silent
-    - word: は
-      position: 13
-    - word: 嫌い
-      position: 14
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 16
-    - word: の
-      position: 17
 - id: A_Howl'sMovingCastle_143
   deck_name: Howl's Moving Castle
   translation: Turnip-head, isn't that Howl's Castle?
@@ -3081,26 +1119,10 @@
       position: 1
       tags:
         - silent
-    - word: 頭
-      position: 4
-    - word: あれ
-      base: 彼れ
-      position: 6
     - word: ハウル
       position: 10
       tags:
         - silent
-    - word: の
-      position: 14
-    - word: 城
-      position: 15
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 16
-    - word: ない
-      base: 無い
-      position: 18
 - id: A_Howl'sMovingCastle_151
   deck_name: Howl's Moving Castle
   translation: It seems warm enough inside, Turnip. I'm going in. Thank you.
@@ -3111,265 +1133,70 @@
       position: 1
       tags:
         - silent
-    - word: 中
-      position: 5
-    - word: は
-      position: 6
-    - word: 暖か
-      base: 温かい
-      dictionary: 暖かい
-      position: 7
-    - word: そう
-      position: 9
-    - word: だ
-      position: 11
-    - word: から
-      position: 12
-    - word: とにかく
-      base: 兎に角
-      position: 15
-    - word: 入ら
-      base: 入る
-      dictionary: 入る
-      position: 19
-    - word: せ
-      base: せる
-      dictionary: せる
-      position: 21
-    - word: て
-      position: 22
-    - word: もらう
-      base: 貰う
-      position: 23
-    - word: わ
-      position: 26
-    - word: ありがと
-      base: 有り難う
-      position: 28
 - id: A_Howl'sMovingCastle_152
   deck_name: Howl's Moving Castle
   translation: Even Howl wouldn't want an ancient heart like mine.
   sound: Anime-Howl'sMovingCastle_1_0.19.58.427-0.20.02.929.mp3
   sentence: いくら(ハウル)でも　こんな　おばあちゃんの心臓は　食べないでしょ。
   words:
-    - word: いくら
-      base: 幾ら
-      position: 0
     - word: ハウル
       position: 4
       tags:
         - silent
-    - word: で
-      position: 8
-    - word: も
-      position: 9
-    - word: こんな
-      position: 11
-    - word: お
-      base: 御
-      position: 15
-    - word: ばあ
-      base: 婆
-      position: 16
-    - word: ちゃん
-      position: 18
-    - word: の
-      position: 21
-    - word: 心臓
-      position: 22
-    - word: は
-      position: 24
-    - word: 食べ
-      base: 食べる
-      dictionary: 食べる
-      position: 26
-    - word: ない
-      position: 28
-    - word: でしょ
-      base: です
-      dictionary: です
-      position: 30
 - id: A_Howl'sMovingCastle_154
   deck_name: Howl's Moving Castle
   translation: You may be a turnip, but you're a good turnip. May you find happiness.
   sound: Anime-Howl'sMovingCastle_1_0.20.07.436-0.20.11.936.mp3
   sentence: あんたは(カブ)だけど　いい(カブ)だったよ！　幸せにね！
   words:
-    - word: あんた
-      base: 貴方
-      position: 0
-    - word: は
-      position: 3
     - word: カブ
       position: 5
       tags:
         - silent
-    - word: だ
-      position: 8
-    - word: けど
-      base: けれど
-      position: 9
-    - word: いい
-      base: 良い
-      position: 12
     - word: カブ
       position: 15
       tags:
         - silent
-    - word: だっ
-      base: だ
-      dictionary: だ
-      position: 18
-    - word: た
-      position: 20
-    - word: よ
-      position: 21
-    - word: 幸せ
-      position: 24
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 26
-    - word: ね
-      position: 27
 - id: A_Howl'sMovingCastle_161
   deck_name: Howl's Moving Castle
   translation: You're Howl? Wrong.
   sound: Anime-Howl'sMovingCastle_1_0.21.38.427-0.21.41.430.mp3
   sentence: あんたが(ハウル)？　違うね。
   words:
-    - word: あんた
-      base: 貴方
-      position: 0
-    - word: が
-      position: 3
     - word: ハウル
       position: 5
       tags:
         - silent
-    - word: 違う
-      position: 11
-    - word: ね
-      position: 13
 - id: A_Howl'sMovingCastle_162
   deck_name: Howl's Moving Castle
   translation: I'm the fire demon, Calcifer!
   sound: Anime-Howl'sMovingCastle_1_0.21.41.430-0.21.45.450.mp3
   sentence: オイラは火の悪魔　(カルシファー)！っていうんだ。
   words:
-    - word: オイラ
-      position: 0
-    - word: は
-      position: 3
-    - word: 火
-      position: 4
-    - word: の
-      position: 5
-    - word: 悪魔
-      position: 6
     - word: カルシファー
       position: 10
       tags:
         - silent
-    - word: って
-      position: 18
-    - word: いう
-      base: 言う
-      position: 20
-    - word: ん
-      base: の
-      position: 22
-    - word: だ
-      position: 23
 - id: A_Howl'sMovingCastle_163
   deck_name: Howl's Moving Castle
   translation: Well, then, Calcifer, can you break the spell I'm under?
   sound: Anime-Howl'sMovingCastle_1_0.21.45.450-0.21.49.972.mp3
   sentence: じゃあ　(カルシファー)　あんた　私にかけられた呪いを解けるの？
   words:
-    - word: じゃあ
-      base: で
-      position: 0
     - word: カルシファー
       position: 5
       tags:
         - silent
-    - word: あんた
-      base: 貴方
-      position: 13
-    - word: 私
-      position: 17
-    - word: に
-      position: 18
-    - word: かけ
-      base: 掛ける
-      dictionary: かける
-      position: 19
-    - word: られ
-      base: られる
-      dictionary: られる
-      position: 21
-    - word: た
-      position: 23
-    - word: 呪い
-      position: 24
-    - word: を
-      position: 26
-    - word: 解ける
-      base: 解く
-      position: 27
-    - word: の
-      position: 30
 - id: A_Howl'sMovingCastle_171
   deck_name: Howl's Moving Castle
   translation: I'm chained here by a contract with Howl, who works me to death.
   sound: Anime-Howl'sMovingCastle_1_0.22.11.009-0.22.14.429.mp3
   sentence: 契約に縛られて　ここで(ハウル)に　こき使われてるんだ！
   words:
-    - word: 契約
-      position: 0
-    - word: に
-      position: 2
-    - word: 縛ら
-      base: 縛る
-      dictionary: 縛る
-      position: 3
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 5
-    - word: て
-      position: 6
-    - word: ここ
-      base: 此処
-      position: 8
-    - word: で
-      position: 10
     - word: ハウル
       position: 12
       tags:
         - silent
-    - word: に
-      position: 16
-    - word: こき
-      base: こく
-      dictionary: こく
-      position: 18
-    - word: 使わ
-      base: 使う
-      dictionary: 使う
-      position: 20
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 22
-    - word: てる
-      position: 23
-    - word: ん
-      base: の
-      position: 25
-    - word: だ
-      position: 26
 - id: A_Howl'sMovingCastle_174
   deck_name: Howl's Moving Castle
   translation: >-
@@ -3382,120 +1209,16 @@
       position: 1
       tags:
         - silent
-    - word: と
-      position: 5
-    - word: オイラ
-      position: 6
-    - word: の
-      position: 9
-    - word: 契約
-      position: 10
-    - word: の
-      position: 12
-    - word: 秘密
-      position: 13
-    - word: を
-      position: 15
-    - word: 見
-      base: 見る
-      dictionary: 見る
-      position: 17
-    - word: 破っ
-      base: 破る
-      dictionary: 破る
-      position: 18
-    - word: て
-      position: 20
-    - word: くれ
-      base: 呉れる
-      dictionary: くれる
-      position: 21
-    - word: たら
-      base: た
-      dictionary: た
-      position: 23
-    - word: 呪い
-      position: 26
-    - word: は
-      position: 28
-    - word: 解ける
-      base: 解く
-      position: 29
-    - word: ん
-      base: の
-      position: 32
-    - word: だ
-      position: 33
-    - word: そ
-      base: そう
-      position: 36
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 37
-    - word: たら
-      base: た
-      dictionary: た
-      position: 38
-    - word: あんた
-      base: 貴方
-      position: 41
-    - word: の
-      position: 44
-    - word: 呪い
-      position: 45
-    - word: も
-      position: 47
-    - word: 解い
-      base: 解く
-      dictionary: 解く
-      position: 48
-    - word: て
-      position: 50
-    - word: やる
-      base: 遣る
-      position: 51
-    - word: よ
-      position: 53
 - id: A_Howl'sMovingCastle_182
   deck_name: Howl's Moving Castle
   translation: The sun is already high. Is Master Jenkins at home?
   sound: Anime-Howl'sMovingCastle_1_0.24.02.792-0.24.06.796.mp3
   sentence: 日はすっかり昇りましたぞ　(ジェンキンス)殿は　ご在宅か？
   words:
-    - word: 日
-      position: 0
-    - word: は
-      position: 1
-    - word: すっかり
-      position: 2
-    - word: 昇り
-      base: 上る
-      dictionary: 昇る
-      position: 6
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 8
-    - word: た
-      position: 10
-    - word: ぞ
-      position: 11
     - word: ジェンキンス
       position: 14
       tags:
         - silent
-    - word: 殿
-      position: 21
-    - word: は
-      position: 22
-    - word: ご
-      base: 御
-      position: 24
-    - word: 在宅
-      position: 25
-    - word: か
-      position: 27
 - id: A_Howl'sMovingCastle_188
   deck_name: Howl's Moving Castle
   translation: Calcifer let me in.
@@ -3506,21 +1229,6 @@
       position: 1
       tags:
         - silent
-    - word: が
-      position: 8
-    - word: 入れ
-      base: 入れる
-      dictionary: 入れる
-      position: 9
-    - word: た
-      position: 11
-    - word: ん
-      base: の
-      position: 12
-    - word: だ
-      position: 13
-    - word: よ
-      position: 14
 - id: A_Howl'sMovingCastle_209
   deck_name: Howl's Moving Castle
   translation: The Kingsbury door.
@@ -3536,42 +1244,16 @@
       position: 5
       tags:
         - silent
-    - word: の
-      position: 9
-    - word: 扉
-      position: 10
 - id: A_Howl'sMovingCastle_211
   deck_name: Howl's Moving Castle
   translation: Is this the residence of Wizard Pendragon?
   sound: Anime-Howl'sMovingCastle_1_0.26.02.812-0.26.06.282.mp3
   sentence: 魔法使い(ペンドラゴン)師の　お住まいは　こちらか？
   words:
-    - word: 魔法
-      position: 0
-    - word: 使い
-      base: 使う
-      dictionary: 使う
-      position: 2
     - word: ペンドラゴン
       position: 5
       tags:
         - silent
-    - word: 師
-      position: 12
-    - word: の
-      position: 13
-    - word: お
-      base: 御
-      position: 15
-    - word: 住まい
-      position: 16
-    - word: は
-      position: 19
-    - word: こちら
-      base: 此方
-      position: 21
-    - word: か
-      position: 24
 - id: A_Howl'sMovingCastle_214
   deck_name: Howl's Moving Castle
   translation: Please inform Master Pendragon that he is required at the Palace.
@@ -3582,42 +1264,6 @@
       position: 1
       tags:
         - silent
-    - word: 師
-      position: 8
-    - word: に
-      position: 9
-    - word: は
-      position: 10
-    - word: 必ず
-      position: 12
-    - word: 宮殿
-      position: 14
-    - word: へ
-      position: 16
-    - word: 参上
-      position: 18
-    - word: さ
-      base: 為る
-      dictionary: する
-      position: 20
-    - word: れる
-      position: 21
-    - word: よう
-      base: 様
-      position: 23
-    - word: お
-      base: 御
-      position: 26
-    - word: 伝え
-      base: 伝える
-      dictionary: 伝える
-      position: 27
-    - word: 願い
-      base: 願う
-      dictionary: 願う
-      position: 29
-    - word: たい
-      position: 31
 - id: A_Howl'sMovingCastle_222
   deck_name: Howl's Moving Castle
   translation: Only Master Howl knows.
@@ -3628,22 +1274,6 @@
       position: 1
       tags:
         - silent
-    - word: さん
-      position: 5
-    - word: しか
-      position: 7
-    - word: 知り
-      base: 知る
-      dictionary: 知る
-      position: 9
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 11
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 13
 - id: A_Howl'sMovingCastle_225
   deck_name: Howl's Moving Castle
   translation: We can't use the fire when Master Howl's away.
@@ -3654,140 +1284,40 @@
       position: 1
       tags:
         - silent
-    - word: さん
-      position: 5
-    - word: が
-      position: 7
-    - word: い
-      base: 居る
-      dictionary: いる
-      position: 8
-    - word: なけれ
-      base: ない
-      dictionary: ない
-      position: 9
-    - word: ば
-      position: 12
-    - word: 火
-      position: 14
-    - word: は
-      position: 15
-    - word: 使え
-      base: 使う
-      dictionary: 使える
-      position: 16
-    - word: ない
-      position: 18
-    - word: ん
-      base: の
-      position: 20
-    - word: です
-      position: 21
 - id: A_Howl'sMovingCastle_227
   deck_name: Howl's Moving Castle
   translation: But you can't. Calcifer only obeys Master Howl.
   sound: Anime-Howl'sMovingCastle_1_0.27.56.793-0.28.01.297.mp3
   sentence: 無理ですよ！　(カルシファー)は　(ハウル)さんの言うことしか　聞かないんです。
   words:
-    - word: 無理
-      position: 0
-    - word: です
-      position: 2
-    - word: よ
-      position: 4
     - word: カルシファー
       position: 8
       tags:
         - silent
-    - word: は
-      position: 15
     - word: ハウル
       position: 18
       tags:
         - silent
-    - word: さん
-      position: 22
-    - word: の
-      position: 24
-    - word: 言う
-      position: 25
-    - word: こと
-      position: 27
-    - word: しか
-      position: 29
-    - word: 聞か
-      base: 聞く
-      dictionary: 聞く
-      position: 32
-    - word: ない
-      position: 34
-    - word: ん
-      base: の
-      position: 36
-    - word: です
-      position: 37
 - id: A_Howl'sMovingCastle_230
   deck_name: Howl's Moving Castle
   translation: All right, Calcifer. Be a good fire, now.
   sound: Anime-Howl'sMovingCastle_1_0.28.10.373-0.28.13.793.mp3
   sentence: さぁ　(カルシファー)　お願いしますよ。
   words:
-    - word: さぁ
-      base: さ
-      position: 0
     - word: カルシファー
       position: 4
       tags:
         - silent
-    - word: お
-      base: 御
-      position: 12
-    - word: 願い
-      base: 願う
-      dictionary: 願う
-      position: 13
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 15
-    - word: ます
-      position: 16
-    - word: よ
-      position: 18
 - id: A_Howl'sMovingCastle_233
   deck_name: Howl's Moving Castle
   translation: Or would you rather I told Howl about our bargain?
   sound: Anime-Howl'sMovingCastle_1_0.28.22.285-0.28.25.805.mp3
   sentence: それとも取引のことを　(ハウル)にバラそうか？
   words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: と
-      position: 2
-    - word: も
-      position: 3
-    - word: 取引
-      base: 取り引き
-      position: 4
-    - word: の
-      position: 6
-    - word: こと
-      position: 7
-    - word: を
-      position: 9
     - word: ハウル
       position: 12
       tags:
         - silent
-    - word: に
-      position: 16
-    - word: バラそう
-      base: ばらす
-      dictionary: バラす
-      position: 17
-    - word: か
-      position: 21
 - id: A_Howl'sMovingCastle_238
   deck_name: Howl's Moving Castle
   translation: Calcifer's doing what she says.
@@ -3798,20 +1328,6 @@
       position: 1
       tags:
         - silent
-    - word: が
-      position: 8
-    - word: 言う
-      position: 10
-    - word: こと
-      position: 12
-    - word: を
-      position: 14
-    - word: 聞い
-      base: 聞く
-      dictionary: 聞く
-      position: 15
-    - word: た
-      position: 17
 - id: A_Howl'sMovingCastle_241
   deck_name: Howl's Moving Castle
   translation: Welcome home, Master Howl. You have letters from the king.
@@ -3822,32 +1338,6 @@
       position: 1
       tags:
         - silent
-    - word: さん
-      position: 5
-    - word: おかえりなさい
-      position: 8
-    - word: 王
-      position: 16
-    - word: 様
-      position: 17
-    - word: から
-      position: 18
-    - word: 手紙
-      position: 20
-    - word: が
-      position: 22
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 23
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 24
-    - word: ます
-      position: 25
-    - word: よ
-      position: 27
 - id: A_Howl'sMovingCastle_242
   deck_name: Howl's Moving Castle
   translation: To Jenkins and to Pendragon.
@@ -3858,18 +1348,10 @@
       position: 1
       tags:
         - silent
-    - word: に
-      position: 8
-    - word: も
-      position: 9
     - word: ペンドラゴン
       position: 12
       tags:
         - silent
-    - word: に
-      position: 19
-    - word: も
-      position: 20
 - id: A_Howl'sMovingCastle_243
   deck_name: Howl's Moving Castle
   translation: Calcifer, you're so obedient.
@@ -3880,63 +1362,26 @@
       position: 1
       tags:
         - silent
-    - word: よく
-      base: 良く
-      position: 9
-    - word: 言う
-      position: 11
-    - word: こと
-      position: 13
-    - word: を
-      position: 15
-    - word: 聞い
-      base: 聞く
-      dictionary: 聞く
-      position: 16
-    - word: てる
-      position: 18
-    - word: ね
-      position: 20
 - id: A_Howl'sMovingCastle_247
   deck_name: Howl's Moving Castle
   translation: I'm Grandma Sophie.
   sound: Anime-Howl'sMovingCastle_1_0.29.28.801-0.29.31.287.mp3
   sentence: あっ…　私は(ソフィー)ばあさんだよ。
   words:
-    - word: あっ
-      position: 0
-    - word: 私
-      position: 4
-    - word: は
-      position: 5
     - word: ソフィー
       position: 7
       tags:
         - silent
-    - word: ばあ
-      base: 婆
-      position: 12
-    - word: さん
-      position: 14
-    - word: だ
-      position: 16
-    - word: よ
-      position: 17
 - id: A_Howl'sMovingCastle_255
   deck_name: Howl's Moving Castle
   translation: Hmm... Markl, plates.
   sound: Anime-Howl'sMovingCastle_1_0.30.21.304-0.30.24.804.mp3
   sentence: フン…　(マルクル)　皿！
   words:
-    - word: フン
-      base: ふん
-      position: 0
     - word: マルクル
       position: 5
       tags:
         - silent
-    - word: 皿
-      position: 11
 - id: A_Howl'sMovingCastle_257
   deck_name: Howl's Moving Castle
   translation: Please join us, Sophie.
@@ -3947,12 +1392,6 @@
       position: 1
       tags:
         - silent
-    - word: さん
-      position: 6
-    - word: も
-      position: 8
-    - word: どうぞ
-      position: 10
 - id: A_Howl'sMovingCastle_261
   deck_name: Howl's Moving Castle
   translation: Markl? Yes?
@@ -3963,8 +1402,6 @@
       position: 1
       tags:
         - silent
-    - word: はい
-      position: 8
 - id: A_Howl'sMovingCastle_262
   deck_name: Howl's Moving Castle
   translation: Sophie. Thank you.
@@ -3975,41 +1412,16 @@
       position: 1
       tags:
         - silent
-    - word: さん
-      position: 6
-    - word: あ
-      base: あっ
-      position: 10
-    - word: ありがとう
-      base: 有り難う
-      position: 13
 - id: A_Howl'sMovingCastle_270
   deck_name: Howl's Moving Castle
   translation: It's scorched into the table. Master Howl, this is...
   sound: Anime-Howl'sMovingCastle_1_0.31.53.296-0.31.56.799.mp3
   sentence: あっ　焼きついた！　(ハウル)さん　これ…！
   words:
-    - word: あっ
-      position: 0
-    - word: 焼き
-      base: 焼く
-      dictionary: 焼く
-      position: 3
-    - word: つい
-      base: 付く
-      dictionary: つく
-      position: 5
-    - word: た
-      position: 7
     - word: ハウル
       position: 11
       tags:
         - silent
-    - word: さん
-      position: 15
-    - word: これ
-      base: 此れ
-      position: 18
 - id: A_Howl'sMovingCastle_278
   deck_name: Howl's Moving Castle
   translation: Calcifer, move the castle 100 kilometers...
@@ -4020,38 +1432,6 @@
       position: 1
       tags:
         - silent
-    - word: 城
-      position: 9
-    - word: を
-      position: 10
-    - word: １００
-      base: '100'
-      dictionary: '100'
-      position: 11
-    - word: ｋｍ
-      base: km
-      dictionary: km
-      position: 14
-    - word: ほど
-      position: 16
-    - word: 動かし
-      base: 動かす
-      dictionary: 動かす
-      position: 18
-    - word: て
-      position: 21
-    - word: くれ
-      base: 呉れる
-      dictionary: くれる
-      position: 22
-    - word: うめ
-      position: 26
-    - word: ぇ
-      position: 28
-    - word: うめ
-      position: 30
-    - word: ぇ
-      position: 32
 - id: A_Howl'sMovingCastle_281
   deck_name: Howl's Moving Castle
   translation: Do you work for the Witch of the Waste?
@@ -4062,28 +1442,6 @@
       position: 1
       tags:
         - silent
-    - word: さん
-      position: 6
-    - word: て
-      base: って
-      position: 8
-    - word: 荒地
-      base: 荒れ地
-      position: 10
-    - word: の
-      position: 12
-    - word: 魔女
-      position: 13
-    - word: の
-      position: 15
-    - word: 手下
-      position: 16
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 18
-    - word: の
-      position: 19
 - id: A_Howl'sMovingCastle_289
   deck_name: Howl's Moving Castle
   translation: Sophie, I'm going out.
@@ -4094,32 +1452,16 @@
       position: 1
       tags:
         - silent
-    - word: 消え
-      base: 消える
-      dictionary: 消える
-      position: 8
-    - word: ちゃう
-      position: 10
-    - word: よ
-      position: 13
 - id: A_Howl'sMovingCastle_298
   deck_name: Howl's Moving Castle
   translation: Hurry, Sophie.
   sound: Anime-Howl'sMovingCastle_1_0.34.20.787-0.34.25.208.mp3
   sentence: 落ちる…　危ない…　(ソフィー)　早く！
   words:
-    - word: 落ちる
-      position: 0
-    - word: 危ない
-      position: 5
     - word: ソフィー
       position: 11
       tags:
         - silent
-    - word: 早く
-      base: 早い
-      dictionary: 早い
-      position: 17
 - id: A_Howl'sMovingCastle_300
   deck_name: Howl's Moving Castle
   translation: Master Howl, are you going out?
@@ -4130,15 +1472,6 @@
       position: 1
       tags:
         - silent
-    - word: さん
-      position: 5
-    - word: お出かけ
-      base: お出掛け
-      position: 8
-    - word: です
-      position: 12
-    - word: か
-      position: 14
 - id: A_Howl'sMovingCastle_301
   deck_name: Howl's Moving Castle
   translation: Markl, tell our cleaning lady not to get too carried away.
@@ -4149,43 +1482,6 @@
       position: 1
       tags:
         - silent
-    - word: 掃除
-      position: 7
-    - word: も
-      position: 9
-    - word: たいがい
-      base: 大概
-      position: 11
-    - word: に
-      position: 15
-    - word: する
-      base: 為る
-      position: 16
-    - word: よう
-      base: 様
-      position: 18
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 20
-    - word: 掃除
-      position: 22
-    - word: 婦
-      position: 24
-    - word: さん
-      position: 25
-    - word: に
-      position: 27
-    - word: 言っ
-      base: 言う
-      dictionary: 言う
-      position: 28
-    - word: とい
-      base: とく
-      dictionary: とく
-      position: 30
-    - word: て
-      position: 32
 - id: A_Howl'sMovingCastle_302
   deck_name: Howl's Moving Castle
   translation: What'd you do, Sophie?
@@ -4196,64 +1492,22 @@
       position: 1
       tags:
         - silent
-    - word: 何
-      position: 7
-    - word: か
-      position: 8
-    - word: やっ
-      base: 遣る
-      dictionary: やる
-      position: 10
-    - word: た
-      position: 12
-    - word: の
-      position: 13
 - id: A_Howl'sMovingCastle_304
   deck_name: Howl's Moving Castle
   translation: If I die, Howl goes with me.
   sound: Anime-Howl'sMovingCastle_1_0.35.13.723-0.35.16.709.mp3
   sentence: オイラが死んだら　(ハウル)だって死ぬんだぞ！
   words:
-    - word: オイラ
-      position: 0
-    - word: が
-      position: 3
-    - word: 死ん
-      base: 死ぬ
-      dictionary: 死ぬ
-      position: 4
-    - word: だら
-      base: た
-      dictionary: だ
-      position: 6
     - word: ハウル
       position: 10
       tags:
         - silent
-    - word: だ
-      position: 14
-    - word: って
-      position: 15
-    - word: 死ぬ
-      position: 17
-    - word: ん
-      base: の
-      position: 19
-    - word: だ
-      position: 20
-    - word: ぞ
-      position: 21
 - id: A_Howl'sMovingCastle_314
   deck_name: Howl's Moving Castle
   translation: You're incredible, Calcifer!
   sound: Anime-Howl'sMovingCastle_1_0.36.29.265-0.36.31.300.mp3
   sentence: すごいよ　(カルシファー)！
   words:
-    - word: すごい
-      base: 凄い
-      position: 0
-    - word: よ
-      position: 3
     - word: カルシファー
       position: 6
       tags:
@@ -4264,23 +1518,10 @@
   sound: Anime-Howl'sMovingCastle_1_0.37.32.211-0.37.34.697.mp3
   sentence: あらあら…　(マルクル)　手を貸して。
   words:
-    - word: あらあら
-      base: 粗々
-      position: 0
     - word: マルクル
       position: 7
       tags:
         - silent
-    - word: 手
-      position: 13
-    - word: を
-      position: 14
-    - word: 貸し
-      base: 貸す
-      dictionary: 貸す
-      position: 15
-    - word: て
-      position: 17
 - id: A_Howl'sMovingCastle_326
   deck_name: Howl's Moving Castle
   translation: He's called Turnip, the Turnip-head.
@@ -4291,21 +1532,10 @@
       position: 1
       tags:
         - silent
-    - word: 頭
-      position: 4
-    - word: の
-      position: 5
     - word: カブ
       position: 7
       tags:
         - silent
-    - word: って
-      position: 10
-    - word: いう
-      base: 言う
-      position: 12
-    - word: の
-      position: 14
 - id: A_Howl'sMovingCastle_329
   deck_name: Howl's Moving Castle
   translation: Are you sure you're not a witch, Sophie?
@@ -4316,24 +1546,6 @@
       position: 1
       tags:
         - silent
-    - word: って
-      position: 6
-    - word: ホント
-      base: 本当
-      position: 9
-    - word: に
-      position: 12
-    - word: 魔女
-      position: 13
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 15
-    - word: ない
-      base: 無い
-      position: 17
-    - word: の
-      position: 19
 - id: A_Howl'sMovingCastle_331
   deck_name: Howl's Moving Castle
   translation: Turnip, don't pull it so tight.
@@ -4344,20 +1556,6 @@
       position: 1
       tags:
         - silent
-    - word: 引っ
-      base: 引く
-      dictionary: 引く
-      position: 6
-    - word: 張り
-      base: 張る
-      dictionary: 張る
-      position: 8
-    - word: 過ぎ
-      position: 10
-    - word: だ
-      position: 12
-    - word: よ
-      position: 13
 - id: A_Howl'sMovingCastle_334
   deck_name: Howl's Moving Castle
   translation: Turnip must belong to the demons. Calcifer doesn't seem to mind him.
@@ -4368,40 +1566,10 @@
       position: 1
       tags:
         - silent
-    - word: って
-      position: 4
-    - word: 悪魔
-      position: 6
-    - word: の
-      position: 8
-    - word: 一族
-      position: 9
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 11
-    - word: ない
-      base: 無い
-      position: 13
-    - word: か
-      position: 15
-    - word: な
-      position: 16
     - word: カルシファー
       position: 19
       tags:
         - silent
-    - word: が
-      position: 26
-    - word: 怒ら
-      base: 怒る
-      dictionary: 怒る
-      position: 27
-    - word: ない
-      position: 29
-    - word: もの
-      base: 物
-      position: 31
 - id: A_Howl'sMovingCastle_337
   deck_name: Howl's Moving Castle
   translation: I've put away all the laundry, Sophie.
@@ -4412,58 +1580,16 @@
       position: 1
       tags:
         - silent
-    - word: 洗濯
-      position: 7
-    - word: 物
-      position: 9
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 10
-    - word: まっ
-      base: ます
-      dictionary: ます
-      position: 11
-    - word: た
-      position: 13
-    - word: よ
-      position: 14
 - id: A_Howl'sMovingCastle_342
   deck_name: Howl's Moving Castle
   translation: Isn't it great! Sophie did this for me.
   sound: Anime-Howl'sMovingCastle_1_0.41.54.206-0.41.57.706.mp3
   sentence: すごいだろ　(ソフィー)が置いてくれたんだ。
   words:
-    - word: すごい
-      base: 凄い
-      position: 0
-    - word: だろ
-      base: だ
-      dictionary: だ
-      position: 3
     - word: ソフィー
       position: 7
       tags:
         - silent
-    - word: が
-      position: 12
-    - word: 置い
-      base: 置く
-      dictionary: 置く
-      position: 13
-    - word: て
-      position: 15
-    - word: くれ
-      base: 呉れる
-      dictionary: くれる
-      position: 16
-    - word: た
-      position: 18
-    - word: ん
-      base: の
-      position: 19
-    - word: だ
-      position: 20
 - id: A_Howl'sMovingCastle_351
   deck_name: Howl's Moving Castle
   translation: Aren't you supposed to report to the king yourself?
@@ -4474,33 +1600,6 @@
       position: 1
       tags:
         - silent
-    - word: も
-      position: 5
-    - word: 国王
-      position: 7
-    - word: に
-      position: 9
-    - word: 呼び
-      base: 呼ぶ
-      dictionary: 呼ぶ
-      position: 10
-    - word: 出さ
-      base: 出す
-      dictionary: 出す
-      position: 12
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 14
-    - word: てる
-      position: 15
-    - word: ん
-      base: の
-      position: 17
-    - word: だろ
-      base: だ
-      dictionary: だ
-      position: 18
 - id: A_Howl'sMovingCastle_354
   deck_name: Howl's Moving Castle
   translation: Is that Howl? Yeah, wasting my hot water again.
@@ -4511,25 +1610,6 @@
       position: 1
       tags:
         - silent
-    - word: そう
-      position: 7
-    - word: お
-      base: 御
-      position: 10
-    - word: 湯
-      position: 11
-    - word: の
-      position: 12
-    - word: 使い
-      base: 使う
-      dictionary: 使う
-      position: 13
-    - word: 過ぎ
-      position: 15
-    - word: だ
-      position: 17
-    - word: よ
-      position: 18
 - id: A_Howl'sMovingCastle_355
   deck_name: Howl's Moving Castle
   translation: I'm sure Howl won't eat any breakfast.
@@ -4540,22 +1620,6 @@
       position: 1
       tags:
         - silent
-    - word: さん
-      position: 5
-    - word: 絶対
-      position: 8
-    - word: 食べ
-      base: 食べる
-      dictionary: 食べる
-      position: 11
-    - word: ない
-      position: 13
-    - word: と
-      position: 15
-    - word: 思う
-      position: 16
-    - word: よ
-      position: 18
 - id: A_Howl'sMovingCastle_368
   deck_name: Howl's Moving Castle
   translation: Sophie, let's go get a closer look.
@@ -4566,24 +1630,6 @@
       position: 1
       tags:
         - silent
-    - word: もっと
-      position: 7
-    - word: 近く
-      position: 10
-    - word: に
-      position: 12
-    - word: 行っ
-      base: 行く
-      dictionary: 行く
-      position: 13
-    - word: て
-      position: 15
-    - word: みよう
-      base: 見る
-      dictionary: みる
-      position: 16
-    - word: よ
-      position: 19
 - id: A_Howl'sMovingCastle_370
   deck_name: Howl's Moving Castle
   translation: Markl, there are Blob Men nearby.
@@ -4594,17 +1640,6 @@
       position: 1
       tags:
         - silent
-    - word: ゴム
-      position: 7
-    - word: 人間
-      position: 9
-    - word: が
-      position: 11
-    - word: いる
-      base: 居る
-      position: 12
-    - word: えっ
-      position: 16
 - id: A_Howl'sMovingCastle_374
   deck_name: Howl's Moving Castle
   translation: An enemy airship, Sophie.
@@ -4615,21 +1650,6 @@
       position: 1
       tags:
         - silent
-    - word: あれ
-      base: 彼れ
-      position: 8
-    - word: 敵
-      position: 11
-    - word: の
-      position: 12
-    - word: 飛行
-      position: 13
-    - word: 軍艦
-      position: 15
-    - word: だ
-      position: 17
-    - word: よ
-      position: 18
 - id: A_Howl'sMovingCastle_375
   deck_name: Howl's Moving Castle
   translation: Sophie, flyers.
@@ -4640,12 +1660,6 @@
       position: 1
       tags:
         - silent
-    - word: ビラ
-      position: 7
-    - word: だ
-      position: 9
-    - word: よ
-      position: 10
     - word: ソフィー
       position: 14
       tags:
@@ -4660,8 +1674,6 @@
       position: 1
       tags:
         - silent
-    - word: 大丈夫
-      position: 7
 - id: A_Howl'sMovingCastle_379
   deck_name: Howl's Moving Castle
   translation: Sophie, What did you do to the bathroom shelves? Look!
@@ -4672,18 +1684,6 @@
       position: 1
       tags:
         - silent
-    - word: 風呂場
-      position: 8
-    - word: の
-      position: 11
-    - word: 棚
-      position: 12
-    - word: いじっ
-      base: 弄る
-      dictionary: いじる
-      position: 13
-    - word: た
-      position: 16
 - id: A_Howl'sMovingCastle_382
   deck_name: Howl's Moving Castle
   translation: >-
@@ -4692,155 +1692,50 @@
   sound: Anime-Howl'sMovingCastle_1_0.46.03.756-0.46.08.711.mp3
   sentence: よく見て！！　(ソフィー)が棚をいじくって　まじないを　メチャクチャにしちゃったんだ！！
   words:
-    - word: よく
-      base: 良く
-      position: 0
-    - word: 見
-      base: 見る
-      dictionary: 見る
-      position: 2
-    - word: て
-      position: 3
     - word: ソフィー
       position: 8
       tags:
         - silent
-    - word: が
-      position: 13
-    - word: 棚
-      position: 14
-    - word: を
-      position: 15
-    - word: いじくっ
-      base: 弄くる
-      dictionary: いじくる
-      position: 16
-    - word: て
-      position: 20
-    - word: まじない
-      base: 呪い
-      position: 22
-    - word: を
-      position: 26
-    - word: メチャクチャ
-      base: 目茶苦茶
-      position: 28
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 34
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 35
-    - word: ちゃっ
-      base: ちゃう
-      dictionary: ちゃう
-      position: 36
-    - word: た
-      position: 39
-    - word: ん
-      base: の
-      position: 40
-    - word: だ
-      position: 41
 - id: A_Howl'sMovingCastle_390
   deck_name: Howl's Moving Castle
   translation: Stop, Howl! Cut it out!
   sound: Anime-Howl'sMovingCastle_1_0.46.53.706-0.46.56.709.mp3
   sentence: やめろ…　(ハウル)　やめて！
   words:
-    - word: やめろ
-      base: やめる
-      dictionary: やめる
-      position: 0
     - word: ハウル
       position: 6
       tags:
         - silent
-    - word: やめ
-      base: やめる
-      dictionary: やめる
-      position: 11
-    - word: て
-      position: 13
 - id: A_Howl'sMovingCastle_393
   deck_name: Howl's Moving Castle
   translation: Please, Howl, that's enough.
   sound: Anime-Howl'sMovingCastle_1_0.47.04.717-0.47.07.720.mp3
   sentence: さぁ　(ハウル)　もうやめましょ。
   words:
-    - word: さぁ
-      base: さ
-      position: 0
     - word: ハウル
       position: 4
       tags:
         - silent
-    - word: もう
-      position: 9
-    - word: やめ
-      base: やめる
-      dictionary: やめる
-      position: 11
-    - word: ましょ
-      base: ます
-      dictionary: ます
-      position: 13
 - id: A_Howl'sMovingCastle_395
   deck_name: Howl's Moving Castle
   translation: I've had enough of you, Howl!
   sound: Anime-Howl'sMovingCastle_1_0.47.21.216-0.47.24.219.mp3
   sentence: もう！　(ハウル)なんか　好きにすればいい！
   words:
-    - word: もう
-      position: 0
     - word: ハウル
       position: 5
       tags:
         - silent
-    - word: なんか
-      position: 9
-    - word: 好き
-      position: 13
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 15
-    - word: すれ
-      base: 為る
-      dictionary: する
-      position: 16
-    - word: ば
-      position: 18
-    - word: いい
-      base: 良い
-      position: 19
 - id: A_Howl'sMovingCastle_398
   deck_name: Howl's Moving Castle
   translation: Thank you, Turnip. You're a kind scarecrow.
   sound: Anime-Howl'sMovingCastle_1_0.48.10.215-0.48.13.685.mp3
   sentence: ありがとう　(カブ)　あなたは優しいカカシね。
   words:
-    - word: ありがとう
-      base: 有り難う
-      position: 0
     - word: カブ
       position: 7
       tags:
         - silent
-    - word: あなた
-      base: 貴方
-      position: 11
-    - word: は
-      position: 14
-    - word: 優しい
-      position: 15
-    - word: カカシ
-      base: 案山子
-      position: 18
-    - word: ね
-      position: 21
 - id: A_Howl'sMovingCastle_399
   deck_name: Howl's Moving Castle
   translation: Please come back, Sophie. Howl's in trouble!
@@ -4851,42 +1746,10 @@
       position: 1
       tags:
         - silent
-    - word: お
-      base: 御
-      position: 7
-    - word: 願い
-      position: 8
-    - word: 戻っ
-      base: 戻る
-      dictionary: 戻る
-      position: 11
-    - word: て
-      position: 13
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 14
-    - word: て
-      position: 15
     - word: ハウル
       position: 19
       tags:
         - silent
-    - word: さん
-      position: 23
-    - word: が
-      position: 25
-    - word: 大変
-      position: 26
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 28
-    - word: ん
-      base: の
-      position: 29
-    - word: だ
-      position: 30
 - id: A_Howl'sMovingCastle_400
   deck_name: Howl's Moving Castle
   translation: Cut it out, Howl. I'm going out.
@@ -4897,18 +1760,6 @@
       position: 1
       tags:
         - silent
-    - word: やめろ
-      base: やめる
-      dictionary: やめる
-      position: 6
-    - word: 消え
-      base: 消える
-      dictionary: 消える
-      position: 11
-    - word: ちゃう
-      position: 13
-    - word: よ
-      position: 16
 - id: A_Howl'sMovingCastle_404
   deck_name: Howl's Moving Castle
   translation: Help me, Markl.
@@ -4919,14 +1770,6 @@
       position: 1
       tags:
         - silent
-    - word: 手伝っ
-      base: 手伝う
-      dictionary: 手伝う
-      position: 7
-    - word: て
-      position: 10
-    - word: うん
-      position: 13
 - id: A_Howl'sMovingCastle_405
   deck_name: Howl's Moving Castle
   translation: Get that hot water running, Markl.
@@ -4937,19 +1780,6 @@
       position: 1
       tags:
         - silent
-    - word: お
-      base: 御
-      position: 7
-    - word: 湯
-      position: 8
-    - word: を
-      position: 9
-    - word: たっぷり
-      position: 10
-    - word: ね
-      position: 14
-    - word: うん
-      position: 17
 - id: A_Howl'sMovingCastle_407
   deck_name: Howl's Moving Castle
   translation: You look after him now, Markl. Sure.
@@ -4960,34 +1790,12 @@
       position: 1
       tags:
         - silent
-    - word: あと
-      base: 後
-      position: 7
-    - word: お
-      base: 御
-      position: 10
-    - word: 願い
-      base: 願う
-      dictionary: 願う
-      position: 11
-    - word: ね
-      position: 13
-    - word: うん
-      position: 16
 - id: A_Howl'sMovingCastle_412
   deck_name: Howl's Moving Castle
   translation: Don't leave me, Sophie.
   sound: Anime-Howl'sMovingCastle_1_0.49.49.081-0.49.52.081.mp3
   sentence: 行かないで　(ソフィー)。
   words:
-    - word: 行か
-      base: 行く
-      dictionary: 行く
-      position: 0
-    - word: ない
-      position: 2
-    - word: で
-      position: 4
     - word: ソフィー
       position: 7
       tags:
@@ -4998,44 +1806,10 @@
   sound: Anime-Howl'sMovingCastle_1_0.50.28.570-0.50.33.108.mp3
   sentence: ねぇ　(ハウル)は　どうして　荒地の魔女に狙われてるの？
   words:
-    - word: ねぇ
-      base: ねえ
-      position: 0
     - word: ハウル
       position: 4
       tags:
         - silent
-    - word: は
-      position: 8
-    - word: どう
-      position: 10
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 12
-    - word: て
-      position: 13
-    - word: 荒地
-      base: 荒れ地
-      position: 15
-    - word: の
-      position: 17
-    - word: 魔女
-      position: 18
-    - word: に
-      position: 20
-    - word: 狙わ
-      base: 狙う
-      dictionary: 狙う
-      position: 21
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 23
-    - word: てる
-      position: 24
-    - word: の
-      position: 26
 - id: A_Howl'sMovingCastle_423
   deck_name: Howl's Moving Castle
   translation: As Jenkins and as Pendragon...
@@ -5046,18 +1820,10 @@
       position: 1
       tags:
         - silent
-    - word: に
-      position: 8
-    - word: も
-      position: 9
     - word: ペンドラゴン
       position: 12
       tags:
         - silent
-    - word: に
-      position: 19
-    - word: も
-      position: 20
 - id: A_Howl'sMovingCastle_424
   deck_name: Howl's Moving Castle
   translation: How many names do you use, Howl?
@@ -5068,134 +1834,36 @@
       position: 1
       tags:
         - silent
-    - word: って
-      position: 5
-    - word: 一体
-      position: 8
-    - word: いく
-      base: 幾
-      position: 10
-    - word: つ
-      position: 12
-    - word: 名前
-      position: 14
-    - word: が
-      position: 16
-    - word: ある
-      base: 有る
-      position: 17
-    - word: の
-      position: 19
 - id: A_Howl'sMovingCastle_428
   deck_name: Howl's Moving Castle
   translation: Say, Howl, why not visit the king?
   sound: Anime-Howl'sMovingCastle_1_0.51.06.575-0.51.10.095.mp3
   sentence: ねぇ　(ハウル)　王様に会いに行きなさいよ。
   words:
-    - word: ねぇ
-      base: ねえ
-      position: 0
     - word: ハウル
       position: 4
       tags:
         - silent
-    - word: 王
-      position: 9
-    - word: 様
-      position: 10
-    - word: に
-      position: 11
-    - word: 会い
-      base: 会う
-      dictionary: 会う
-      position: 12
-    - word: に
-      position: 14
-    - word: 行き
-      base: 行く
-      dictionary: 行く
-      position: 15
-    - word: なさい
-      base: 為す
-      dictionary: なさる
-      position: 17
-    - word: よ
-      position: 20
 - id: A_Howl'sMovingCastle_431
   deck_name: Howl's Moving Castle
   translation: Sophie, you don't know what they're like.
   sound: Anime-Howl'sMovingCastle_1_0.51.17.652-0.51.22.574.mp3
   sentence: ハァ　(ソフィー)は　あの人達を知らないんだ。
   words:
-    - word: ハァ
-      base: はあ
-      position: 0
     - word: ソフィー
       position: 4
       tags:
         - silent
-    - word: は
-      position: 9
-    - word: あの
-      base: 彼の
-      position: 11
-    - word: 人
-      position: 13
-    - word: 達
-      position: 14
-    - word: を
-      position: 15
-    - word: 知ら
-      base: 知る
-      dictionary: 知る
-      position: 16
-    - word: ない
-      position: 18
-    - word: ん
-      base: の
-      position: 20
-    - word: だ
-      position: 21
 - id: A_Howl'sMovingCastle_433
   deck_name: Howl's Moving Castle
   translation: I know! You'll go in my place, Sophie!
   sound: Anime-Howl'sMovingCastle_1_0.51.28.580-0.51.32.601.mp3
   sentence: そうか！！　(ソフィー)が代わりに　行ってくれればいいんだ！
   words:
-    - word: そう
-      position: 0
-    - word: か
-      position: 2
     - word: ソフィー
       position: 7
       tags:
         - silent
-    - word: が
-      position: 12
-    - word: 代わり
-      position: 13
-    - word: に
-      position: 16
-    - word: 行っ
-      base: 行く
-      dictionary: 行く
-      position: 18
-    - word: て
-      position: 20
-    - word: くれれ
-      base: 呉れる
-      dictionary: くれる
-      position: 21
-    - word: ば
-      position: 24
-    - word: いい
-      base: 良い
-      position: 25
-    - word: ん
-      base: の
-      position: 27
-    - word: だ
-      position: 28
 - id: A_Howl'sMovingCastle_434
   deck_name: Howl's Moving Castle
   translation: Pretend you're Pendragon's mother.
@@ -5206,67 +1874,22 @@
       position: 1
       tags:
         - silent
-    - word: の
-      position: 8
-    - word: お
-      base: 御
-      position: 9
-    - word: 母さん
-      position: 10
-    - word: と
-      position: 14
-    - word: いう
-      base: 言う
-      position: 15
-    - word: こと
-      position: 17
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 19
-    - word: さ
-      position: 20
 - id: A_Howl'sMovingCastle_436
   deck_name: Howl's Moving Castle
   translation: Maybe Madam Suliman will even give up on me.
   sound: Anime-Howl'sMovingCastle_1_0.51.40.659-0.51.43.578.mp3
   sentence: マダム・(ハウル)も　諦めてくれるかもしれない！
   words:
-    - word: マダム
-      position: 0
     - word: ハウル
       position: 5
       tags:
         - silent
-    - word: も
-      position: 9
-    - word: 諦め
-      base: 諦める
-      dictionary: 諦める
-      position: 11
-    - word: て
-      position: 13
-    - word: くれる
-      base: 呉れる
-      position: 14
-    - word: か
-      position: 17
-    - word: も
-      position: 18
-    - word: しれ
-      base: 知る
-      dictionary: しれる
-      position: 19
-    - word: ない
-      position: 21
 - id: A_Howl'sMovingCastle_437
   deck_name: Howl's Moving Castle
   translation: Madam Suliman?
   sound: Anime-Howl'sMovingCastle_1_0.51.43.578-0.51.45.578.mp3
   sentence: マダム・(ハウル)？
   words:
-    - word: マダム
-      position: 0
     - word: ハウル
       position: 5
       tags:
@@ -5281,29 +1904,6 @@
       position: 1
       tags:
         - silent
-    - word: なら
-      base: だ
-      dictionary: だ
-      position: 5
-    - word: もっと
-      position: 8
-    - word: 派手
-      position: 11
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 13
-    - word: もの
-      base: 物
-      position: 14
-    - word: に
-      position: 16
-    - word: 化ける
-      position: 17
-    - word: わ
-      position: 20
-    - word: ね
-      position: 21
 - id: A_Howl'sMovingCastle_450
   deck_name: Howl's Moving Castle
   translation: Howl? Don't tell me you're Howl.
@@ -5314,28 +1914,10 @@
       position: 1
       tags:
         - silent
-    - word: あんた
-      base: 貴方
-      position: 7
-    - word: まさか
-      position: 11
     - word: ハウル
       position: 16
       tags:
         - silent
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 20
-    - word: ない
-      base: 無い
-      position: 22
-    - word: でしょう
-      base: です
-      dictionary: です
-      position: 24
-    - word: ね
-      position: 28
 - id: A_Howl'sMovingCastle_455
   deck_name: Howl's Moving Castle
   translation: Thank you so much for delivering my note to Howl.
@@ -5346,25 +1928,6 @@
       position: 1
       tags:
         - silent
-    - word: に
-      position: 5
-    - word: 手紙
-      position: 6
-    - word: 届け
-      base: 届ける
-      dictionary: 届ける
-      position: 8
-    - word: て
-      position: 10
-    - word: くれ
-      base: 呉れる
-      dictionary: くれる
-      position: 11
-    - word: て
-      position: 13
-    - word: ありがとう
-      base: 有り難う
-      position: 15
 - id: A_Howl'sMovingCastle_456
   deck_name: Howl's Moving Castle
   translation: How's Howl doing?
@@ -5375,35 +1938,16 @@
       position: 1
       tags:
         - silent
-    - word: 元気
-      position: 6
-    - word: かしら
-      position: 8
 - id: A_Howl'sMovingCastle_461
   deck_name: Howl's Moving Castle
   translation: Job hunting. I'm sick of working for Howl.
   sound: Anime-Howl'sMovingCastle_1_0.54.34.065-0.54.37.068.mp3
   sentence: 就職活動！　(ハウル)の所は　もうウンザリ！
   words:
-    - word: 就職
-      position: 0
-    - word: 活動
-      position: 2
     - word: ハウル
       position: 7
       tags:
         - silent
-    - word: の
-      position: 11
-    - word: 所
-      position: 12
-    - word: は
-      position: 13
-    - word: もう
-      position: 15
-    - word: ウンザリ
-      base: うんざり
-      position: 17
 - id: A_Howl'sMovingCastle_464
   deck_name: Howl's Moving Castle
   translation: It seems that idiot, Suliman, finally needs my power.
@@ -5414,40 +1958,6 @@
       position: 1
       tags:
         - silent
-    - word: の
-      position: 5
-    - word: バカ
-      base: ばか
-      position: 6
-    - word: も
-      position: 8
-    - word: いよいよ
-      base: 愈
-      position: 10
-    - word: 私
-      position: 15
-    - word: の
-      position: 16
-    - word: 力
-      position: 17
-    - word: が
-      position: 18
-    - word: 必要
-      position: 19
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 21
-    - word: なっ
-      base: 成る
-      dictionary: なる
-      position: 22
-    - word: た
-      position: 24
-    - word: みたい
-      position: 25
-    - word: よ
-      position: 28
 - id: A_Howl'sMovingCastle_474
   deck_name: Howl's Moving Castle
   translation: That Suliman. Using magic to force me to climb these stairs.
@@ -5458,59 +1968,16 @@
       position: 1
       tags:
         - silent
-    - word: め
-      position: 5
-    - word: 魔
-      position: 8
-    - word: 方陣
-      position: 9
-    - word: など
-      position: 11
-    - word: 仕掛け
-      base: 仕掛ける
-      dictionary: 仕掛ける
-      position: 13
-    - word: て
-      position: 16
-    - word: 私
-      position: 18
-    - word: に
-      position: 19
-    - word: 階段
-      position: 20
-    - word: を
-      position: 22
-    - word: 上ら
-      base: 上る
-      dictionary: 上る
-      position: 23
-    - word: せる
-      position: 25
-    - word: 気
-      position: 27
-    - word: か
-      position: 28
-    - word: い
-      position: 29
 - id: A_Howl'sMovingCastle_487
   deck_name: Howl's Moving Castle
   translation: Come, Howl.
   sound: Anime-Howl'sMovingCastle_1_0.57.32.610-0.57.35.663.mp3
   sentence: おいで　(ハウル)…　もう！
   words:
-    - word: お
-      base: 御
-      position: 0
-    - word: いで
-      base: 出る
-      dictionary: いでる
-      position: 1
     - word: ハウル
       position: 5
       tags:
         - silent
-    - word: もう
-      position: 11
 - id: A_Howl'sMovingCastle_499
   deck_name: Howl's Moving Castle
   translation: Madam Pendragon and the Witch of the Waste!
@@ -5521,17 +1988,6 @@
       position: 1
       tags:
         - silent
-    - word: 夫人
-      position: 8
-    - word: 荒地
-      base: 荒れ地
-      position: 12
-    - word: の
-      position: 14
-    - word: 魔女
-      position: 15
-    - word: 様
-      position: 17
 - id: A_Howl'sMovingCastle_501
   deck_name: Howl's Moving Castle
   translation: Madam Pendragon and the Witch of the Waste!
@@ -5542,17 +1998,6 @@
       position: 1
       tags:
         - silent
-    - word: 夫人
-      position: 8
-    - word: 荒地
-      base: 荒れ地
-      position: 12
-    - word: の
-      position: 14
-    - word: 魔女
-      position: 15
-    - word: 様
-      position: 17
 - id: A_Howl'sMovingCastle_502
   deck_name: Howl's Moving Castle
   translation: Pendragon... That name sounds familiar.
@@ -5563,23 +2008,6 @@
       position: 1
       tags:
         - silent
-    - word: 聞い
-      base: 聞く
-      dictionary: 聞く
-      position: 10
-    - word: た
-      position: 12
-    - word: こと
-      position: 13
-    - word: ある
-      base: 有る
-      position: 15
-    - word: 名
-      position: 17
-    - word: だ
-      position: 18
-    - word: ね
-      position: 19
 - id: A_Howl'sMovingCastle_508
   deck_name: Howl's Moving Castle
   translation: Howl, get back here.
@@ -5590,16 +2018,6 @@
       position: 1
       tags:
         - silent
-    - word: こっち
-      base: 此方
-      position: 6
-    - word: お
-      base: 御
-      position: 9
-    - word: いで
-      base: 出る
-      dictionary: いでる
-      position: 10
 - id: A_Howl'sMovingCastle_510
   deck_name: Howl's Moving Castle
   translation: I understand you're Howl's mother.
@@ -5610,67 +2028,26 @@
       position: 1
       tags:
         - silent
-    - word: の
-      position: 5
-    - word: お
-      base: 御
-      position: 6
-    - word: 母様
-      position: 7
-    - word: だ
-      position: 9
-    - word: そう
-      position: 10
-    - word: です
-      position: 12
-    - word: ね
-      position: 14
 - id: A_Howl'sMovingCastle_511
   deck_name: Howl's Moving Castle
   translation: Yes. My name is Pendragon.
   sound: Anime-Howl'sMovingCastle_1_1.00.36.323-1.00.39.376.mp3
   sentence: はい　(ペンドラゴン)と申します。
   words:
-    - word: はい
-      position: 0
     - word: ペンドラゴン
       position: 4
       tags:
         - silent
-    - word: と
-      position: 11
-    - word: 申し
-      base: 申す
-      dictionary: 申す
-      position: 12
-    - word: ます
-      position: 14
 - id: A_Howl'sMovingCastle_514
   deck_name: Howl's Moving Castle
   translation: I am Madam Suliman, His Majesty's witch.
   sound: Anime-Howl'sMovingCastle_1_1.00.53.290-1.00.57.290.mp3
   sentence: 私は王室付き魔法使いの　(ハウル)です。
   words:
-    - word: 私
-      position: 0
-    - word: は
-      position: 1
-    - word: 王室
-      position: 2
-    - word: 付き
-      position: 4
-    - word: 魔法
-      position: 6
-    - word: 使い
-      position: 8
-    - word: の
-      position: 10
     - word: ハウル
       position: 13
       tags:
         - silent
-    - word: です
-      position: 17
 - id: A_Howl'sMovingCastle_516
   deck_name: Howl's Moving Castle
   translation: Ah, you mean Heen?
@@ -5681,84 +2058,26 @@
       position: 1
       tags:
         - silent
-    - word: の
-      position: 4
-    - word: こと
-      position: 5
 - id: A_Howl'sMovingCastle_518
   deck_name: Howl's Moving Castle
   translation: Howl won't join us, then?
   sound: Anime-Howl'sMovingCastle_1_1.01.13.794-1.01.17.331.mp3
   sentence: つまり　(ハウル)は来ないのですね。
   words:
-    - word: つまり
-      base: 詰まり
-      position: 0
     - word: ハウル
       position: 5
       tags:
         - silent
-    - word: は
-      position: 9
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 10
-    - word: ない
-      position: 11
-    - word: の
-      position: 13
-    - word: です
-      position: 14
-    - word: ね
-      position: 16
 - id: A_Howl'sMovingCastle_530
   deck_name: Howl's Moving Castle
   translation: If he follows that path he'll wind up like the Witch of the Waste.
   sound: Anime-Howl'sMovingCastle_1_1.02.02.776-1.02.07.281.mp3
   sentence: このままでは　(ハウル)は　荒地の魔女のようになってしまう。
   words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: まま
-      base: 侭
-      position: 2
-    - word: で
-      position: 4
-    - word: は
-      position: 5
     - word: ハウル
       position: 8
       tags:
         - silent
-    - word: は
-      position: 12
-    - word: 荒地
-      base: 荒れ地
-      position: 14
-    - word: の
-      position: 16
-    - word: 魔女
-      position: 17
-    - word: の
-      position: 19
-    - word: よう
-      base: 様
-      position: 20
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 22
-    - word: なっ
-      base: 成る
-      dictionary: なる
-      position: 23
-    - word: て
-      position: 25
-    - word: しまう
-      base: 仕舞う
-      position: 26
 - id: A_Howl'sMovingCastle_537
   deck_name: Howl's Moving Castle
   translation: >-
@@ -5771,69 +2090,12 @@
       position: 1
       tags:
         - silent
-    - word: が
-      position: 5
-    - word: ここ
-      base: 此処
-      position: 7
-    - word: へ
-      position: 9
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 10
-    - word: て
-      position: 11
-    - word: 王国
-      position: 13
-    - word: の
-      position: 15
-    - word: ため
-      base: 為
-      position: 16
-    - word: に
-      position: 18
-    - word: 尽くす
-      position: 19
-    - word: なら
-      base: だ
-      dictionary: だ
-      position: 22
-    - word: 悪魔
-      position: 25
-    - word: と
-      position: 27
-    - word: 手
-      position: 28
-    - word: を
-      position: 29
-    - word: 切る
-      position: 30
-    - word: 方法
-      position: 32
-    - word: を
-      position: 34
-    - word: 教え
-      base: 教える
-      dictionary: 教える
-      position: 35
-    - word: ます
-      position: 37
 - id: A_Howl'sMovingCastle_539
   deck_name: Howl's Moving Castle
   translation: Now just a minute.
   sound: Anime-Howl'sMovingCastle_1_1.02.51.808-1.02.54.811.mp3
   sentence: お言葉ですが…。　(ヒン)！
   words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 言葉
-      position: 1
-    - word: です
-      position: 3
-    - word: が
-      position: 5
     - word: ヒン
       position: 10
       tags:
@@ -5848,40 +2110,6 @@
       position: 1
       tags:
         - silent
-    - word: が
-      position: 5
-    - word: なぜ
-      base: 何故
-      position: 7
-    - word: ここ
-      base: 此処
-      position: 10
-    - word: へ
-      position: 12
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 14
-    - word: たがら
-      base: たがる
-      dictionary: たがる
-      position: 15
-    - word: ない
-      position: 18
-    - word: の
-      position: 20
-    - word: か
-      position: 21
-    - word: 分かり
-      base: 分かる
-      dictionary: 分かる
-      position: 22
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 25
-    - word: た
-      position: 27
 - id: A_Howl'sMovingCastle_543
   deck_name: Howl's Moving Castle
   translation: You call Howl heartless!
@@ -5892,51 +2120,16 @@
       position: 1
       tags:
         - silent
-    - word: に
-      position: 5
-    - word: 心
-      position: 6
-    - word: が
-      position: 7
-    - word: ない
-      base: 無い
-      position: 8
-    - word: です
-      position: 10
-    - word: って
-      position: 12
 - id: A_Howl'sMovingCastle_549
   deck_name: Howl's Moving Castle
   translation: Pendragon... You're in love with Howl.
   sound: Anime-Howl'sMovingCastle_1_1.03.24.291-1.03.27.811.mp3
   sentence: おかあ様　(ハウル)に恋してるのね。
   words:
-    - word: お
-      base: 御
-      position: 0
-    - word: かあ
-      base: 母
-      position: 1
-    - word: 様
-      position: 3
     - word: ハウル
       position: 6
       tags:
         - silent
-    - word: に
-      position: 10
-    - word: 恋
-      position: 11
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 12
-    - word: てる
-      position: 13
-    - word: の
-      position: 15
-    - word: ね
-      position: 16
 - id: A_Howl'sMovingCastle_550
   deck_name: Howl's Moving Castle
   translation: Howl... Howl's coming?
@@ -5951,79 +2144,26 @@
       position: 8
       tags:
         - silent
-    - word: が
-      position: 12
-    - word: 来る
-      position: 13
-    - word: の
-      position: 15
-    - word: か
-      position: 16
-    - word: い
-      position: 17
 - id: A_Howl'sMovingCastle_551
   deck_name: Howl's Moving Castle
   translation: I want Howl's heart, I want it.
   sound: Anime-Howl'sMovingCastle_1_1.03.31.281-1.03.34.801.mp3
   sentence: 欲しいよ　(ハウル)の心臓　欲しいよ…。
   words:
-    - word: 欲しい
-      position: 0
-    - word: よ
-      position: 3
     - word: ハウル
       position: 6
       tags:
         - silent
-    - word: の
-      position: 10
-    - word: 心臓
-      position: 11
-    - word: 欲しい
-      position: 14
-    - word: よ
-      position: 17
 - id: A_Howl'sMovingCastle_552
   deck_name: Howl's Moving Castle
   translation: That's enough from you. Howl's not coming.
   sound: Anime-Howl'sMovingCastle_1_1.03.34.801-1.03.38.801.mp3
   sentence: あんた　いいかげんにしなさい　(ハウル)は来ないのよ。
   words:
-    - word: あんた
-      base: 貴方
-      position: 0
-    - word: いい
-      base: 良い
-      position: 4
-    - word: かげん
-      base: 加減
-      position: 6
-    - word: に
-      position: 9
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 10
-    - word: なさい
-      base: 為す
-      dictionary: なさる
-      position: 11
     - word: ハウル
       position: 16
       tags:
         - silent
-    - word: は
-      position: 20
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 21
-    - word: ない
-      position: 22
-    - word: の
-      position: 24
-    - word: よ
-      position: 25
 - id: A_Howl'sMovingCastle_553
   deck_name: Howl's Moving Castle
   translation: Howl will most certainly come.
@@ -6034,16 +2174,6 @@
       position: 1
       tags:
         - silent
-    - word: は
-      position: 5
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 6
-    - word: ます
-      position: 7
-    - word: よ
-      position: 9
 - id: A_Howl'sMovingCastle_554
   deck_name: Howl's Moving Castle
   translation: Now, I've found his weakness.
@@ -6054,117 +2184,32 @@
       position: 1
       tags:
         - silent
-    - word: の
-      position: 5
-    - word: 弱点
-      position: 6
-    - word: が
-      position: 8
-    - word: 見つかっ
-      base: 見付かる
-      dictionary: 見つかる
-      position: 9
-    - word: た
-      position: 13
-    - word: わ
-      position: 14
 - id: A_Howl'sMovingCastle_559
   deck_name: Howl's Moving Castle
   translation: This is Wizard Howl's mother. I see.
   sound: Anime-Howl'sMovingCastle_1_1.04.04.798-1.04.09.298.mp3
   sentence: 魔法使い(ハウル)の母君です。　おう。
   words:
-    - word: 魔法
-      position: 0
-    - word: 使い
-      base: 使う
-      dictionary: 使う
-      position: 2
     - word: ハウル
       position: 5
       tags:
         - silent
-    - word: の
-      position: 9
-    - word: 母
-      position: 10
-    - word: 君
-      position: 11
-    - word: です
-      position: 12
-    - word: おう
-      base: おお
-      position: 16
 - id: A_Howl'sMovingCastle_561
   deck_name: Howl's Moving Castle
   translation: It's true that Suliman's powers shield our palace from bombs.
   sound: Anime-Howl'sMovingCastle_1_1.04.17.794-1.04.22.883.mp3
   sentence: 確かに　この王宮には　(ハウル)の　力で敵の爆弾は当たらない。
   words:
-    - word: 確か
-      position: 0
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 2
-    - word: この
-      base: 此の
-      position: 4
-    - word: 王宮
-      position: 6
-    - word: に
-      position: 8
-    - word: は
-      position: 9
     - word: ハウル
       position: 12
       tags:
         - silent
-    - word: の
-      position: 16
-    - word: 力
-      position: 18
-    - word: で
-      position: 19
-    - word: 敵
-      position: 20
-    - word: の
-      position: 21
-    - word: 爆弾
-      position: 22
-    - word: は
-      position: 24
-    - word: 当たら
-      base: 当たる
-      dictionary: 当たる
-      position: 25
-    - word: ない
-      position: 28
 - id: A_Howl'sMovingCastle_563
   deck_name: Howl's Moving Castle
   translation: That's how magic works. Right, Suliman?
   sound: Anime-Howl'sMovingCastle_1_1.04.25.285-1.04.28.288.mp3
   sentence: 魔法とは　そういうものだ　なぁ　(ハウル)。
   words:
-    - word: 魔法
-      position: 0
-    - word: と
-      position: 2
-    - word: は
-      position: 3
-    - word: そう
-      position: 5
-    - word: いう
-      base: 言う
-      position: 7
-    - word: もの
-      base: 物
-      position: 9
-    - word: だ
-      position: 11
-    - word: なぁ
-      base: な
-      position: 13
     - word: ハウル
       position: 17
       tags:
@@ -6181,46 +2226,6 @@
       position: 1
       tags:
         - silent
-    - word: 今度
-      position: 6
-    - word: の
-      position: 8
-    - word: 影武者
-      position: 9
-    - word: は
-      position: 12
-    - word: よく
-      base: 良く
-      position: 14
-    - word: 出来
-      base: 出来る
-      dictionary: 出来る
-      position: 16
-    - word: てる
-      position: 18
-    - word: な
-      position: 20
-    - word: よい
-      base: 良い
-      position: 23
-    - word: 知らせ
-      position: 25
-    - word: を
-      position: 28
-    - word: 待て
-      base: 待つ
-      dictionary: 待つ
-      position: 29
-    - word: おそれ
-      base: 恐れる
-      dictionary: おそれる
-      position: 33
-    - word: いり
-      base: いる
-      dictionary: いる
-      position: 36
-    - word: ます
-      position: 38
 - id: A_Howl'sMovingCastle_568
   deck_name: Howl's Moving Castle
   translation: It's been a while, Howl.
@@ -6231,11 +2236,6 @@
       position: 1
       tags:
         - silent
-    - word: 久しぶり
-      base: 久し振り
-      position: 6
-    - word: ね
-      position: 10
 - id: A_Howl'sMovingCastle_576
   deck_name: Howl's Moving Castle
   translation: Howl, don't! It's a trap!
@@ -6246,13 +2246,6 @@
       position: 1
       tags:
         - silent
-    - word: ダメ
-      base: 駄目
-      position: 6
-    - word: 罠
-      position: 10
-    - word: よ
-      position: 11
 - id: A_Howl'sMovingCastle_578
   deck_name: Howl's Moving Castle
   translation: Sophie, sit up front.
@@ -6263,59 +2256,22 @@
       position: 1
       tags:
         - silent
-    - word: 前
-      position: 7
-    - word: へ
-      position: 8
-    - word: 移れ
-      base: 移る
-      dictionary: 移る
-      position: 9
 - id: A_Howl'sMovingCastle_579
   deck_name: Howl's Moving Castle
   translation: Oh, no, Sophie, you brought the whole gang along.
   sound: Anime-Howl'sMovingCastle_1_1.06.59.789-1.07.04.294.mp3
   sentence: ああ…　(ソフィー)は　みんな連れて来ちゃったな。
   words:
-    - word: ああ
-      position: 0
     - word: ソフィー
       position: 5
       tags:
         - silent
-    - word: は
-      position: 10
-    - word: みんな
-      base: 皆
-      position: 12
-    - word: 連れ
-      base: 連れる
-      dictionary: 連れる
-      position: 15
-    - word: て
-      position: 17
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 18
-    - word: ちゃっ
-      base: ちゃう
-      dictionary: ちゃう
-      position: 19
-    - word: た
-      position: 22
-    - word: な
-      position: 23
 - id: A_Howl'sMovingCastle_580
   deck_name: Howl's Moving Castle
   translation: Nice doggie.
   sound: Anime-Howl'sMovingCastle_1_1.07.04.294-1.07.06.780.mp3
   sentence: ワンちゃん。　(ヒン)！
   words:
-    - word: ワン
-      position: 0
-    - word: ちゃん
-      position: 2
     - word: ヒン
       position: 8
       tags:
@@ -6326,26 +2282,10 @@
   sound: Anime-Howl'sMovingCastle_1_1.07.06.780-1.07.09.783.mp3
   sentence: フン！　あなたは　(ハウル)の回し者でしょ。
   words:
-    - word: フン
-      base: ふん
-      position: 0
-    - word: あなた
-      base: 貴方
-      position: 4
-    - word: は
-      position: 7
     - word: ハウル
       position: 10
       tags:
         - silent
-    - word: の
-      position: 14
-    - word: 回し者
-      position: 15
-    - word: でしょ
-      base: です
-      dictionary: です
-      position: 18
 - id: A_Howl'sMovingCastle_583
   deck_name: Howl's Moving Castle
   translation: Sophie, you steer.
@@ -6356,59 +2296,16 @@
       position: 1
       tags:
         - silent
-    - word: 舵
-      position: 7
-    - word: を
-      position: 8
-    - word: とれ
-      base: 取る
-      dictionary: とる
-      position: 9
 - id: A_Howl'sMovingCastle_586
   deck_name: Howl's Moving Castle
   translation: I'll tackle them. Fly straight to the castle in the Wastes.
   sound: Anime-Howl'sMovingCastle_1_1.07.23.280-1.07.27.267.mp3
   sentence: 僕が相手をする。　(ソフィー)は　このまま　荒地の城まで飛ぶんだ。
   words:
-    - word: 僕
-      position: 0
-    - word: が
-      position: 1
-    - word: 相手
-      position: 2
-    - word: を
-      position: 4
-    - word: する
-      base: 為る
-      position: 5
     - word: ソフィー
       position: 10
       tags:
         - silent
-    - word: は
-      position: 15
-    - word: この
-      base: 此の
-      position: 17
-    - word: まま
-      base: 侭
-      position: 19
-    - word: 荒地
-      base: 荒れ地
-      position: 22
-    - word: の
-      position: 24
-    - word: 城
-      position: 25
-    - word: まで
-      position: 26
-    - word: 飛ぶ
-      position: 28
-    - word: ん
-      base: の
-      position: 30
-    - word: だ
-      position: 31
 - id: A_Howl'sMovingCastle_589
   deck_name: Howl's Moving Castle
   translation: Summon Calcifer with your heart.
@@ -6419,63 +2316,16 @@
       position: 1
       tags:
         - silent
-    - word: を
-      position: 8
-    - word: 心
-      position: 10
-    - word: の
-      position: 11
-    - word: 中
-      position: 12
-    - word: で
-      position: 13
-    - word: 呼ん
-      base: 呼ぶ
-      dictionary: 呼ぶ
-      position: 14
-    - word: で
-      position: 16
-    - word: ごらん
-      base: 御覧
-      position: 17
 - id: A_Howl'sMovingCastle_592
   deck_name: Howl's Moving Castle
   translation: Why send me to Suliman if you were coming yourself?
   sound: Anime-Howl'sMovingCastle_1_1.07.45.268-1.07.48.788.mp3
   sentence: もう！　(ハウル)が来るなら　私が来ることなかったのよ！
   words:
-    - word: もう
-      position: 0
     - word: ハウル
       position: 5
       tags:
         - silent
-    - word: が
-      position: 9
-    - word: 来る
-      position: 10
-    - word: なら
-      base: だ
-      dictionary: だ
-      position: 12
-    - word: 私
-      position: 15
-    - word: が
-      position: 16
-    - word: 来る
-      position: 17
-    - word: こと
-      position: 19
-    - word: なかっ
-      base: 無い
-      dictionary: ない
-      position: 21
-    - word: た
-      position: 24
-    - word: の
-      position: 25
-    - word: よ
-      position: 26
 - id: A_Howl'sMovingCastle_593
   deck_name: Howl's Moving Castle
   translation: Your presence gave me the courage for it.
@@ -6486,28 +2336,6 @@
       position: 1
       tags:
         - silent
-    - word: が
-      position: 6
-    - word: いる
-      base: 居る
-      position: 7
-    - word: と
-      position: 9
-    - word: 思う
-      position: 10
-    - word: から
-      position: 12
-    - word: 行け
-      base: 行く
-      dictionary: 行ける
-      position: 15
-    - word: た
-      position: 17
-    - word: ん
-      base: の
-      position: 18
-    - word: だ
-      position: 19
 - id: A_Howl'sMovingCastle_602
   deck_name: Howl's Moving Castle
   translation: I supposed Howl thinks he's escaped...
@@ -6518,57 +2346,12 @@
       position: 1
       tags:
         - silent
-    - word: は
-      position: 5
-    - word: 逃げ
-      base: 逃げる
-      dictionary: 逃げる
-      position: 7
-    - word: た
-      position: 9
-    - word: つもり
-      base: 積もり
-      position: 10
-    - word: でしょう
-      base: です
-      dictionary: です
-      position: 13
-    - word: けど
-      base: けれど
-      position: 17
 - id: A_Howl'sMovingCastle_606
   deck_name: Howl's Moving Castle
   translation: The castle. They've come to meet us.
   sound: Anime-Howl'sMovingCastle_1_1.10.10.780-1.10.13.780.mp3
   sentence: お城だわ　迎えに来てくれた！　(ヒン)！
   words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 城
-      position: 1
-    - word: だ
-      position: 2
-    - word: わ
-      position: 3
-    - word: 迎え
-      base: 迎える
-      dictionary: 迎える
-      position: 5
-    - word: に
-      position: 7
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 8
-    - word: て
-      position: 9
-    - word: くれ
-      base: 呉れる
-      dictionary: くれる
-      position: 10
-    - word: た
-      position: 12
     - word: ヒン
       position: 16
       tags:
@@ -6583,24 +2366,6 @@
       position: 1
       tags:
         - silent
-    - word: 大変
-      position: 7
-    - word: 私
-      position: 11
-    - word: 止め
-      base: 止める
-      dictionary: 止める
-      position: 13
-    - word: 方
-      position: 15
-    - word: 知ら
-      base: 知る
-      dictionary: 知る
-      position: 17
-    - word: ない
-      position: 19
-    - word: の
-      position: 21
 - id: A_Howl'sMovingCastle_610
   deck_name: Howl's Moving Castle
   translation: Sophie, are you hurt?
@@ -6611,17 +2376,6 @@
       position: 1
       tags:
         - silent
-    - word: ケガ
-      base: 怪我
-      position: 7
-    - word: は
-      position: 9
-    - word: ない
-      base: 無い
-      position: 10
-    - word: おっとっと
-      base: おっと
-      position: 14
 - id: A_Howl'sMovingCastle_613
   deck_name: Howl's Moving Castle
   translation: I wonder if Howl's back.
@@ -6632,18 +2386,6 @@
       position: 1
       tags:
         - silent
-    - word: が
-      position: 5
-    - word: 戻っ
-      base: 戻る
-      dictionary: 戻る
-      position: 6
-    - word: た
-      position: 8
-    - word: の
-      position: 9
-    - word: かしら
-      position: 10
 - id: A_Howl'sMovingCastle_614
   deck_name: Howl's Moving Castle
   translation: Howl? Is that you?
@@ -6658,8 +2400,6 @@
       position: 8
       tags:
         - silent
-    - word: ね
-      position: 12
 - id: A_Howl'sMovingCastle_622
   deck_name: Howl's Moving Castle
   translation: Howl must be back.
@@ -6670,22 +2410,6 @@
       position: 1
       tags:
         - silent
-    - word: 帰っ
-      base: 帰る
-      dictionary: 帰る
-      position: 6
-    - word: て
-      position: 8
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 9
-    - word: た
-      position: 10
-    - word: の
-      position: 11
-    - word: ね
-      position: 12
 - id: A_Howl'sMovingCastle_623
   deck_name: Howl's Moving Castle
   translation: Sophie, you'd better figure out how to break my spell quick.
@@ -6696,40 +2420,10 @@
       position: 1
       tags:
         - silent
-    - word: 早く
-      base: 早い
-      dictionary: 早い
-      position: 7
-    - word: オイラ
-      position: 9
-    - word: と
-      position: 12
     - word: ハウル
       position: 14
       tags:
         - silent
-    - word: の
-      position: 18
-    - word: 契約
-      position: 20
-    - word: の
-      position: 22
-    - word: 秘密
-      position: 23
-    - word: を
-      position: 25
-    - word: 暴い
-      base: 暴く
-      dictionary: 暴く
-      position: 26
-    - word: て
-      position: 28
-    - word: くれ
-      base: 呉れる
-      dictionary: くれる
-      position: 29
-    - word: よ
-      position: 31
 - id: A_Howl'sMovingCastle_625
   deck_name: Howl's Moving Castle
   translation: Meaning Howl will turn into a monster? Is it true?
@@ -6740,27 +2434,6 @@
       position: 1
       tags:
         - silent
-    - word: が
-      position: 5
-    - word: 魔王
-      position: 6
-    - word: に
-      position: 8
-    - word: なる
-      base: 成る
-      position: 9
-    - word: って
-      position: 11
-    - word: こと
-      position: 13
-    - word: そう
-      position: 17
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 19
-    - word: の
-      position: 20
 - id: A_Howl'sMovingCastle_627
   deck_name: Howl's Moving Castle
   translation: Calcifer, Suliman told me that Howl has given you something very precious.
@@ -6775,120 +2448,26 @@
       position: 10
       tags:
         - silent
-    - word: が
-      position: 14
-    - word: 言っ
-      base: 言う
-      dictionary: 言う
-      position: 15
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 17
-    - word: た
-      position: 18
-    - word: わ
-      position: 19
-    - word: ハウル
-      position: 22
-    - word: は
-      position: 26
-    - word: 大切
-      position: 27
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 29
-    - word: もの
-      base: 物
-      position: 30
-    - word: を
-      position: 32
-    - word: あなた
-      base: 貴方
-      position: 34
-    - word: に
-      position: 37
-    - word: 渡し
-      base: 渡す
-      dictionary: 渡す
-      position: 38
-    - word: た
-      position: 40
-    - word: って
-      position: 41
 - id: A_Howl'sMovingCastle_631
   deck_name: Howl's Moving Castle
   translation: How dare you! Howl will die with me.
   sound: Anime-Howl'sMovingCastle_1_1.14.57.635-1.15.00.635.mp3
   sentence: 何てこと言うんだ！　そしたら(ハウル)も死ぬぞ！
   words:
-    - word: 何
-      position: 0
-    - word: てこ
-      base: てく
-      dictionary: てく
-      position: 1
-    - word: と
-      position: 3
-    - word: 言う
-      position: 4
-    - word: ん
-      base: の
-      position: 6
-    - word: だ
-      position: 7
-    - word: そ
-      base: そう
-      position: 10
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 11
-    - word: たら
-      base: た
-      dictionary: た
-      position: 12
     - word: ハウル
       position: 15
       tags:
         - silent
-    - word: も
-      position: 19
-    - word: 死ぬ
-      position: 20
-    - word: ぞ
-      position: 22
 - id: A_Howl'sMovingCastle_632
   deck_name: Howl's Moving Castle
   translation: Good morning, Turnip. We've got to be brave.
   sound: Anime-Howl'sMovingCastle_1_1.15.20.124-1.15.24.124.mp3
   sentence: おはよう　(カブ)　勇気を出さなくちゃね。
   words:
-    - word: おはよう
-      base: 御早う
-      position: 0
     - word: カブ
       position: 6
       tags:
         - silent
-    - word: 勇気
-      position: 10
-    - word: を
-      position: 12
-    - word: 出さ
-      base: 出す
-      dictionary: 出す
-      position: 13
-    - word: なく
-      base: ない
-      dictionary: ない
-      position: 15
-    - word: ちゃ
-      base: て
-      position: 17
-    - word: ね
-      position: 19
 - id: A_Howl'sMovingCastle_633
   deck_name: Howl's Moving Castle
   translation: Ready, Sophie!
@@ -6899,33 +2478,16 @@
       position: 1
       tags:
         - silent
-    - word: いい
-      base: 良い
-      position: 7
-    - word: よ
-      position: 9
 - id: A_Howl'sMovingCastle_634
   deck_name: Howl's Moving Castle
   translation: Okay! Open wider, Calcifer.
   sound: Anime-Howl'sMovingCastle_1_1.15.29.700-1.15.33.637.mp3
   sentence: はい！　(カルシファー)　もっと口開けて！
   words:
-    - word: はい
-      position: 0
     - word: カルシファー
       position: 5
       tags:
         - silent
-    - word: もっと
-      position: 13
-    - word: 口
-      position: 16
-    - word: 開け
-      base: 開く
-      dictionary: 開ける
-      position: 17
-    - word: て
-      position: 19
 - id: A_Howl'sMovingCastle_641
   deck_name: Howl's Moving Castle
   translation: But, Sophie, she's the Witch of the Waste.
@@ -6936,24 +2498,6 @@
       position: 1
       tags:
         - silent
-    - word: イヤ
-      base: 嫌
-      position: 7
-    - word: だ
-      position: 9
-    - word: よ
-      position: 10
-    - word: 荒地
-      base: 荒れ地
-      position: 12
-    - word: の
-      position: 14
-    - word: 魔女
-      position: 15
-    - word: だ
-      position: 17
-    - word: ぜ
-      position: 18
 - id: A_Howl'sMovingCastle_645
   deck_name: Howl's Moving Castle
   translation: Howl. Hello, everyone.
@@ -6964,13 +2508,6 @@
       position: 1
       tags:
         - silent
-    - word: や
-      position: 7
-    - word: ぁ
-      position: 8
-    - word: みんな
-      base: 皆
-      position: 10
 - id: A_Howl'sMovingCastle_647
   deck_name: Howl's Moving Castle
   translation: Master Howl, can we keep this puppy?
@@ -6981,60 +2518,16 @@
       position: 1
       tags:
         - silent
-    - word: さん
-      position: 5
-    - word: この
-      base: 此の
-      position: 8
-    - word: 犬
-      position: 10
-    - word: 飼っ
-      base: 飼う
-      dictionary: 飼う
-      position: 12
-    - word: て
-      position: 14
-    - word: いい
-      base: 良い
-      position: 15
-    - word: でしょ
-      base: です
-      dictionary: です
-      position: 17
 - id: A_Howl'sMovingCastle_648
   deck_name: Howl's Moving Castle
   translation: An old Witch and Madam Suliman's dog.
   sound: Anime-Howl'sMovingCastle_1_1.16.50.614-1.16.53.617.mp3
   sentence: 魔女のおばあちゃんに　(ハウル)先生の犬とは。
   words:
-    - word: 魔女
-      position: 0
-    - word: の
-      position: 2
-    - word: お
-      base: 御
-      position: 3
-    - word: ばあ
-      base: 婆
-      position: 4
-    - word: ちゃん
-      position: 6
-    - word: に
-      position: 9
     - word: ハウル
       position: 12
       tags:
         - silent
-    - word: 先生
-      position: 16
-    - word: の
-      position: 18
-    - word: 犬
-      position: 19
-    - word: と
-      position: 20
-    - word: は
-      position: 21
 - id: A_Howl'sMovingCastle_649
   deck_name: Howl's Moving Castle
   translation: Why'd you let them in, Calcifer?
@@ -7045,146 +2538,36 @@
       position: 1
       tags:
         - silent
-    - word: よく
-      base: 良く
-      position: 9
-    - word: 城
-      position: 11
-    - word: の
-      position: 12
-    - word: 中
-      position: 13
-    - word: に
-      position: 14
-    - word: 入れ
-      base: 入れる
-      dictionary: 入れる
-      position: 15
-    - word: た
-      position: 17
-    - word: ね
-      position: 18
 - id: A_Howl'sMovingCastle_650
   deck_name: Howl's Moving Castle
   translation: Don't look at me! They blew in with Sophie.
   sound: Anime-Howl'sMovingCastle_1_1.16.56.620-1.17.03.127.mp3
   sentence: 冗談じゃないよ　(ソフィー)が丸ごと　飛び込んで来ちゃったんだ！　ハハハハハ！　フン。
   words:
-    - word: 冗談
-      position: 0
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 2
-    - word: ない
-      base: 無い
-      position: 4
-    - word: よ
-      position: 6
     - word: ソフィー
       position: 9
       tags:
         - silent
-    - word: が
-      position: 14
-    - word: 丸
-      position: 15
-    - word: ごと
-      base: 毎
-      position: 16
-    - word: 飛び
-      base: 飛ぶ
-      dictionary: 飛ぶ
-      position: 19
-    - word: 込ん
-      base: 込む
-      dictionary: 込む
-      position: 21
-    - word: で
-      position: 23
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 24
-    - word: ちゃっ
-      base: ちゃう
-      dictionary: ちゃう
-      position: 25
-    - word: た
-      position: 28
-    - word: ん
-      base: の
-      position: 29
-    - word: だ
-      position: 30
-    - word: ハハハハハ
-      position: 33
-    - word: フン
-      base: ふん
-      position: 40
 - id: A_Howl'sMovingCastle_652
   deck_name: Howl's Moving Castle
   translation: So you're Turnip.
   sound: Anime-Howl'sMovingCastle_1_1.17.05.646-1.17.08.146.mp3
   sentence: やぁ　君が(カブ)だね。
   words:
-    - word: や
-      base: やあ
-      position: 0
-    - word: ぁ
-      position: 1
-    - word: 君
-      position: 3
-    - word: が
-      position: 4
     - word: カブ
       position: 6
       tags:
         - silent
-    - word: だ
-      position: 9
-    - word: ね
-      position: 10
 - id: A_Howl'sMovingCastle_659
   deck_name: Howl's Moving Castle
   translation: Madam Suliman can track us down here in no time.
   sound: Anime-Howl'sMovingCastle_1_1.17.26.617-1.17.30.187.mp3
   sentence: ここにいたら　すぐ(ハウル)先生に　見つかっちゃうからね。
   words:
-    - word: ここ
-      base: 此処
-      position: 0
-    - word: に
-      position: 2
-    - word: い
-      base: 居る
-      dictionary: いる
-      position: 3
-    - word: たら
-      base: た
-      dictionary: た
-      position: 4
-    - word: すぐ
-      base: 直ぐ
-      position: 7
     - word: ハウル
       position: 10
       tags:
         - silent
-    - word: 先生
-      position: 14
-    - word: に
-      position: 16
-    - word: 見つかっ
-      base: 見付かる
-      dictionary: 見つかる
-      position: 18
-    - word: ちゃう
-      position: 22
-    - word: から
-      position: 25
-    - word: ね
-      position: 27
 - id: A_Howl'sMovingCastle_670
   deck_name: Howl's Moving Castle
   translation: Sophie, come here! Sophie!
@@ -7195,17 +2578,6 @@
       position: 1
       tags:
         - silent
-    - word: こっち
-      base: 此方
-      position: 7
-    - word: へ
-      position: 10
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 11
-    - word: て
-      position: 12
     - word: ソフィー
       position: 16
       tags:
@@ -7220,31 +2592,6 @@
       position: 1
       tags:
         - silent
-    - word: の
-      position: 6
-    - word: 部屋
-      position: 7
-    - word: に
-      position: 9
-    - word: どう
-      position: 11
-    - word: か
-      position: 13
-    - word: なぁ
-      base: な
-      position: 14
-    - word: って
-      position: 16
-    - word: 気
-      position: 20
-    - word: に
-      position: 21
-    - word: 入っ
-      base: 入る
-      dictionary: 入る
-      position: 22
-    - word: た
-      position: 24
 - id: A_Howl'sMovingCastle_676
   deck_name: Howl's Moving Castle
   translation: Sophie! Come here! Quick!
@@ -7255,21 +2602,6 @@
       position: 1
       tags:
         - silent
-    - word: こっち
-      base: 此方
-      position: 7
-    - word: に
-      position: 10
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 11
-    - word: て
-      position: 12
-    - word: 早く
-      base: 早い
-      dictionary: 早い
-      position: 15
 - id: A_Howl'sMovingCastle_678
   deck_name: Howl's Moving Castle
   translation: Let's go, Heen!
@@ -7280,10 +2612,6 @@
       position: 1
       tags:
         - silent
-    - word: 行こう
-      base: 行く
-      dictionary: 行く
-      position: 6
     - word: ソフィー
       position: 12
       tags:
@@ -7298,11 +2626,3 @@
       position: 1
       tags:
         - silent
-    - word: へ
-      position: 6
-    - word: の
-      position: 7
-    - word: プレゼント
-      position: 8
-    - word: どうぞ
-      position: 14

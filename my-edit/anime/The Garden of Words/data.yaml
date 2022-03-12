@@ -3,268 +3,46 @@
   translation: Until I entered high school two months ago,  didn't know...
   sound: A_GardenOfWords_1_0.00.47.220-0.00.52.540.mp3
   sentence: こういうことを2力月前　高校に入るまで俺は知らなかった
-  words:
-    - word: こう
-      position: 0
-    - word: いう
-      base: 言う
-      position: 2
-    - word: こと
-      position: 4
-    - word: を
-      position: 6
-    - word: '2'
-      position: 7
-    - word: 力
-      position: 8
-    - word: 月
-      position: 9
-    - word: 前
-      position: 10
-    - word: 高校
-      position: 12
-    - word: に
-      position: 14
-    - word: 入る
-      position: 15
-    - word: まで
-      position: 17
-    - word: 俺
-      position: 19
-    - word: は
-      position: 20
-    - word: 知ら
-      base: 知る
-      dictionary: 知る
-      position: 21
-    - word: なかっ
-      base: ない
-      dictionary: ない
-      position: 23
-    - word: た
-      position: 26
 - id: A_GardenOfWords_0002
   deck_name: The Garden of Words
   translation: The dampness of my uniform's hem, soaked by someone else's umbrella...
   sound: A_GardenOfWords_1_0.00.55.220-0.00.57.700.mp3
   sentence: 制服の裾を濡らす他人の傘
-  words:
-    - word: 制服
-      position: 0
-    - word: の
-      position: 2
-    - word: 裾
-      position: 3
-    - word: を
-      position: 4
-    - word: 濡らす
-      position: 5
-    - word: 他人
-      position: 8
-    - word: の
-      position: 10
-    - word: 傘
-      position: 11
 - id: A_GardenOfWords_0003
   deck_name: The Garden of Words
   translation: The smell of naphthalene, clinging to someone's suit...
   sound: A_GardenOfWords_1_0.00.58.220-0.01.01.220.mp3
   sentence: 誰かのスーツに染みついた　ナフ夕リンの臭い
-  words:
-    - word: 誰
-      position: 0
-    - word: か
-      position: 1
-    - word: の
-      position: 2
-    - word: スーツ
-      position: 3
-    - word: に
-      position: 6
-    - word: 染み
-      base: 染みる
-      dictionary: 染みる
-      position: 7
-    - word: つい
-      base: 付く
-      dictionary: つく
-      position: 9
-    - word: た
-      position: 11
-    - word: ナフ
-      position: 13
-    - word: 夕
-      position: 15
-    - word: リン
-      base: 燐
-      position: 16
-    - word: の
-      position: 18
-    - word: 臭い
-      base: 匂い
-      position: 19
 - id: A_GardenOfWords_0004
   deck_name: The Garden of Words
   translation: The warm body pushed up against my back...
   sound: A_GardenOfWords_1_0.01.01.540-0.01.03.900.mp3
   sentence: 背中に押し　つけられる体温
-  words:
-    - word: 背中
-      position: 0
-    - word: に
-      position: 2
-    - word: 押し
-      position: 3
-    - word: つけ
-      base: つける
-      dictionary: つける
-      position: 6
-    - word: られる
-      position: 8
-    - word: 体温
-      position: 11
 - id: A_GardenOfWords_0005
   deck_name: The Garden of Words
   translation: The chill breeze of the air conditioner against my face...
   sound: A_GardenOfWords_1_0.01.04.060-0.01.06.820.mp3
   sentence: 顔を吹きつける　エアコンの不快な風
-  words:
-    - word: 顔
-      position: 0
-    - word: を
-      position: 1
-    - word: 吹き
-      base: 吹く
-      dictionary: 吹く
-      position: 2
-    - word: つける
-      position: 4
-    - word: エアコン
-      position: 8
-    - word: の
-      position: 12
-    - word: 不快
-      position: 13
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 15
-    - word: 風
-      position: 16
 - id: A_GardenOfWords_0006
   deck_name: The Garden of Words
   translation: Shinjuku... Shinjuku station...
   sound: A_GardenOfWords_1_0.01.07.020-0.01.09.140.mp3
   sentence: 新宿新宿です
-  words:
-    - word: 新宿
-      position: 0
-    - word: 新宿
-      position: 2
-    - word: です
-      position: 4
 - id: A_GardenOfWords_0007
   deck_name: The Garden of Words
   translation: Thank you for riding with us.
   sound: A_GardenOfWords_1_0.01.09.260-0.01.13.220.mp3
   sentence: 新宿に到着です　ご乗車ありがとうございました
-  words:
-    - word: 新宿
-      position: 0
-    - word: に
-      position: 2
-    - word: 到着
-      position: 3
-    - word: です
-      position: 5
-    - word: ご
-      base: 御
-      position: 8
-    - word: 乗車
-      position: 9
-    - word: ありがとう
-      base: 有り難う
-      position: 11
-    - word: ござい
-      base: 御座る
-      dictionary: ござる
-      position: 16
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 19
-    - word: た
-      position: 21
 - id: A_GardenOfWords_0008
   deck_name: The Garden of Words
   translation: When I was little the sky was closer... So much closer.
   sound: A_GardenOfWords_1_0.01.14.660-0.01.19.220.mp3
   sentence: 子どもの頃空はもっと　ずっと近かった
-  words:
-    - word: 子ども
-      base: 子供
-      position: 0
-    - word: の
-      position: 3
-    - word: 頃
-      position: 4
-    - word: 空
-      position: 5
-    - word: は
-      position: 6
-    - word: もっと
-      position: 7
-    - word: ずっと
-      position: 11
-    - word: 近かっ
-      base: 近い
-      dictionary: 近い
-      position: 14
-    - word: た
-      position: 17
 - id: A_GardenOfWords_0009
   deck_name: The Garden of Words
   translation: That's why I like the rain, as with it comes the smell of the sky.
   sound: A_GardenOfWords_1_0.01.21.060-0.01.25.060.mp3
   sentence: だから空の匂いを　連れてきてくれる雨は好きで
-  words:
-    - word: だ
-      position: 0
-    - word: から
-      position: 1
-    - word: 空
-      position: 3
-    - word: の
-      position: 4
-    - word: 匂い
-      position: 5
-    - word: を
-      position: 7
-    - word: 連れ
-      base: 連れる
-      dictionary: 連れる
-      position: 9
-    - word: て
-      position: 11
-    - word: き
-      base: 来る
-      dictionary: くる
-      position: 12
-    - word: て
-      position: 13
-    - word: くれる
-      base: 呉れる
-      position: 14
-    - word: 雨
-      position: 17
-    - word: は
-      position: 18
-    - word: 好き
-      position: 19
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 21
 - id: A_GardenOfWords_0010
   deck_name: The Garden of Words
   translation: >-
@@ -272,271 +50,71 @@
     out the station gates.
   sound: A_GardenOfWords_1_0.01.25.340-0.01.29.820.mp3
   sentence: 雨の朝はよく地下鉄には　乗り換えずに改札を出る
-  words:
-    - word: 雨
-      position: 0
-    - word: の
-      position: 1
-    - word: 朝
-      position: 2
-    - word: は
-      position: 3
-    - word: よく
-      base: 良く
-      position: 4
-    - word: 地下鉄
-      position: 6
-    - word: に
-      position: 9
-    - word: は
-      position: 10
-    - word: 乗り
-      base: 乗る
-      dictionary: 乗る
-      position: 12
-    - word: 換え
-      base: 変える
-      dictionary: 換える
-      position: 14
-    - word: ず
-      dictionary: ぬ
-      position: 16
-    - word: に
-      position: 17
-    - word: 改札
-      position: 18
-    - word: を
-      position: 20
-    - word: 出る
-      position: 21
 - id: A_GardenOfWords_0011
   deck_name: The Garden of Words
   translation: Chocolate, and... beer?
   sound: A_GardenOfWords_1_0.03.30.460-0.03.32.820.mp3
   sentence: チョコレ一卜とピールって…
-  words:
-    - word: チョコレ
-      position: 0
-    - word: 一
-      base: '1'
-      position: 4
-    - word: 卜
-      base: 占い
-      position: 5
-    - word: と
-      position: 6
-    - word: ピール
-      position: 7
-    - word: って
-      position: 10
 - id: A_GardenOfWords_0012
   deck_name: The Garden of Words
   translation: But, I think I've seen her somewhere...
   sound: A_GardenOfWords_1_0.03.34.620-0.03.37.460.mp3
   sentence: でもこの人どこかで…
-  words:
-    - word: で
-      position: 0
-    - word: も
-      position: 1
-    - word: この
-      base: 此の
-      position: 2
-    - word: 人
-      position: 4
-    - word: どこ
-      position: 5
-    - word: か
-      position: 7
-    - word: で
-      position: 8
 - id: A_GardenOfWords_0013
   deck_name: The Garden of Words
   translation: Here.
   sound: A_GardenOfWords_1_0.03.42.620-0.03.43.620.mp3
   sentence: どうぞ
-  words:
-    - word: どうぞ
-      position: 0
 - id: A_GardenOfWords_0014
   deck_name: The Garden of Words
   translation: Thank you.
   sound: A_GardenOfWords_1_0.03.43.740-0.03.45.060.mp3
   sentence: すみません
-  words:
-    - word: すみ
-      base: すむ
-      dictionary: すむ
-      position: 0
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 2
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 4
 - id: A_GardenOfWords_0015
   deck_name: The Garden of Words
   translation: U-Um... Have we met before?
   sound: A_GardenOfWords_1_0.03.54.740-0.03.57.860.mp3
   sentence: あの…どこかで　お会いしましたっけ？
-  words:
-    - word: あの
-      base: 彼の
-      position: 0
-    - word: どこ
-      position: 3
-    - word: か
-      position: 5
-    - word: で
-      position: 6
-    - word: お
-      base: 御
-      position: 8
-    - word: 会い
-      base: 会う
-      dictionary: 会う
-      position: 9
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 11
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 12
-    - word: た
-      position: 14
-    - word: っけ
-      base: け
-      position: 15
 - id: A_GardenOfWords_0016
   deck_name: The Garden of Words
   translation: N-No.
   sound: A_GardenOfWords_1_0.03.57.980-0.03.59.580.mp3
   sentence: え？　いいえ
-  words:
-    - word: え
-      base: えっ
-      position: 0
-    - word: いいえ
-      position: 3
 - id: A_GardenOfWords_0017
   deck_name: The Garden of Words
   translation: I'm sorry, my mistake.
   sound: A_GardenOfWords_1_0.03.59.740-0.04.01.780.mp3
   sentence: すみません人違いです
-  words:
-    - word: すみ
-      base: すむ
-      dictionary: すむ
-      position: 0
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 2
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 4
-    - word: 人違い
-      position: 5
-    - word: です
-      position: 8
 - id: A_GardenOfWords_0018
   deck_name: The Garden of Words
   translation: It's okay.
   sound: A_GardenOfWords_1_0.04.01.900-0.04.02.820.mp3
   sentence: いいえ
-  words:
-    - word: いいえ
-      position: 0
 - id: A_GardenOfWords_0019
   deck_name: The Garden of Words
   translation: Maybe it's fitting...
   sound: A_GardenOfWords_1_0.04.23.260-0.04.24.460.mp3
   sentence: 会ってるかも
-  words:
-    - word: 会っ
-      base: 会う
-      dictionary: 会う
-      position: 0
-    - word: てる
-      position: 2
-    - word: か
-      position: 4
-    - word: も
-      position: 5
 - id: A_GardenOfWords_0020
   deck_name: The Garden of Words
   translation: A faint clap of thunder
   sound: A_GardenOfWords_1_0.04.28.340-0.04.29.780.mp3
   sentence: 鳴る神の
-  words:
-    - word: 鳴る神
-      base: 鳴神
-      position: 0
-    - word: の
-      position: 3
 - id: A_GardenOfWords_0021
   deck_name: The Garden of Words
   translation: Clouded skies
   sound: A_GardenOfWords_1_0.04.31.500-0.04.34.940.mp3
   sentence: 少し響みてさし曇り
-  words:
-    - word: 少し
-      position: 0
-    - word: 響
-      base: 響き
-      position: 2
-    - word: み
-      base: 見る
-      dictionary: みる
-      position: 3
-    - word: て
-      position: 4
-    - word: さし
-      base: さす
-      dictionary: さす
-      position: 5
-    - word: 曇り
-      position: 7
 - id: A_GardenOfWords_0022
   deck_name: The Garden of Words
   translation: Perhaps rain comes
   sound: A_GardenOfWords_1_0.04.35.140-0.04.36.660.mp3
   sentence: 雨も降らぬか
-  words:
-    - word: 雨
-      position: 0
-    - word: も
-      position: 1
-    - word: 降ら
-      base: 降る
-      dictionary: 降る
-      position: 2
-    - word: ぬ
-      base: ず
-      position: 4
-    - word: か
-      position: 5
 - id: A_GardenOfWords_0023
   deck_name: The Garden of Words
   translation: If so, will you stay here with me?
   sound: A_GardenOfWords_1_0.04.36.860-0.04.38.540.mp3
   sentence: きみを留めむ
-  words:
-    - word: きみ
-      position: 0
-    - word: を
-      position: 2
-    - word: 留め
-      base: 止める
-      dictionary: 留める
-      position: 3
-    - word: む
-      position: 5
 - id: A_GardenOfWords_0024
   deck_name: The Garden of Words
   translation: >-
@@ -544,788 +122,186 @@
     5 days earlier than average.
   sound: A_GardenOfWords_1_0.05.14.860-0.05.22.500.mp3
   sentence: 気象庁は今朝例年より5日早く 九州中国四国地方の 梅雨入りを発表しました
-  words:
-    - word: 気象
-      position: 0
-    - word: 庁
-      position: 2
-    - word: は
-      position: 3
-    - word: 今朝
-      position: 4
-    - word: 例年
-      position: 6
-    - word: より
-      position: 8
-    - word: '5'
-      position: 10
-    - word: 日
-      position: 11
-    - word: 早く
-      position: 12
-    - word: 九州
-      position: 15
-    - word: 中国
-      position: 17
-    - word: 四国
-      position: 19
-    - word: 地方
-      position: 21
-    - word: の
-      position: 23
-    - word: 梅雨入り
-      position: 25
-    - word: を
-      position: 29
-    - word: 発表
-      position: 30
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 32
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 33
-    - word: た
-      position: 35
 - id: A_GardenOfWords_0025
   deck_name: The Garden of Words
   translation: Nagasaki, Saga, Kumamoto, and Kagoshima prefectures
   sound: A_GardenOfWords_1_0.05.22.660-0.05.28.380.mp3
   sentence: 活発な梅雨前線の影響で　長崎佐賀熊本鹿児島県といった——
-  words:
-    - word: 活発
-      position: 0
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 2
-    - word: 梅雨
-      position: 3
-    - word: 前線
-      position: 5
-    - word: の
-      position: 7
-    - word: 影響
-      position: 8
-    - word: で
-      position: 10
-    - word: 長崎
-      position: 12
-    - word: 佐賀
-      position: 14
-    - word: 熊本
-      position: 16
-    - word: 鹿児島
-      position: 18
-    - word: 県
-      position: 21
-    - word: と
-      position: 22
-    - word: いっ
-      base: 言う
-      dictionary: いう
-      position: 23
-    - word: た
-      position: 25
 - id: A_GardenOfWords_0026
   deck_name: The Garden of Words
   translation: expect strong rains over a wide area.
   sound: A_GardenOfWords_1_0.05.28.500-0.05.33.180.mp3
   sentence: 広い範囲で雨が強まり　現在各地で大雨もしくは洪水…
-  words:
-    - word: 広い
-      position: 0
-    - word: 範囲
-      position: 2
-    - word: で
-      position: 4
-    - word: 雨
-      position: 5
-    - word: が
-      position: 6
-    - word: 強まり
-      base: 強まる
-      dictionary: 強まる
-      position: 7
-    - word: 現在
-      position: 11
-    - word: 各地
-      position: 13
-    - word: で
-      position: 15
-    - word: 大雨
-      position: 16
-    - word: もしくは
-      base: 若しくは
-      position: 18
-    - word: 洪水
-      position: 22
 - id: A_GardenOfWords_0027
   deck_name: The Garden of Words
   translation: I'm home.
   sound: A_GardenOfWords_1_0.05.38.540-0.05.39.500.mp3
   sentence: ただいま
-  words:
-    - word: ただいま
-      base: 只今
-      position: 0
 - id: A_GardenOfWords_0028
   deck_name: The Garden of Words
   translation: Welcome home.
   sound: A_GardenOfWords_1_0.05.39.660-0.05.40.580.mp3
   sentence: おかえり
-  words:
-    - word: おかえり
-      position: 0
 - id: A_GardenOfWords_0029
   deck_name: The Garden of Words
   translation: I bought croquettes.
   sound: A_GardenOfWords_1_0.05.40.700-0.05.42.140.mp3
   sentence: コロッケ買ってきたぜ
-  words:
-    - word: コロッケ
-      position: 0
-    - word: 買っ
-      base: 買う
-      dictionary: 買う
-      position: 4
-    - word: て
-      position: 6
-    - word: き
-      base: 来る
-      dictionary: くる
-      position: 7
-    - word: た
-      position: 8
-    - word: ぜ
-      position: 9
 - id: A_GardenOfWords_0030
   deck_name: The Garden of Words
   translation: Great. Dinner will be ready soon.
   sound: A_GardenOfWords_1_0.05.42.260-0.05.44.580.mp3
   sentence: ありがと　メシすぐだから
-  words:
-    - word: ありがと
-      base: 有り難う
-      position: 0
-    - word: メシ
-      base: 飯
-      position: 5
-    - word: すぐ
-      base: 直ぐ
-      position: 7
-    - word: だ
-      position: 9
-    - word: から
-      position: 10
 - id: A_GardenOfWords_0031
   deck_name: The Garden of Words
   translation: Thank you.
   sound: A_GardenOfWords_1_0.05.45.500-0.05.46.660.mp3
   sentence: サンキュー
-  words:
-    - word: サンキュー
-      position: 0
 - id: A_GardenOfWords_0032
   deck_name: The Garden of Words
   translation: Where's Ma?
   sound: A_GardenOfWords_1_0.05.48.500-0.05.49.940.mp3
   sentence: おふくろは？
-  words:
-    - word: おふくろ
-      base: 御袋
-      position: 0
-    - word: は
-      position: 4
 - id: A_GardenOfWords_0033
   deck_name: The Garden of Words
   translation: Ran out.
   sound: A_GardenOfWords_1_0.05.50.900-0.05.52.020.mp3
   sentence: 家出
-  words:
-    - word: 家出
-      position: 0
 - id: A_GardenOfWords_0034
   deck_name: The Garden of Words
   translation: Lucky us, we get all the croquettes to ourselves.
   sound: A_GardenOfWords_1_0.05.52.940-0.05.55.700.mp3
   sentence: ラッキ一コロッケ山分けだな
-  words:
-    - word: ラッキ
-      position: 0
-    - word: 一
-      base: '1'
-      position: 3
-    - word: コロッケ
-      position: 4
-    - word: 山分け
-      position: 8
-    - word: だ
-      position: 11
-    - word: な
-      position: 12
 - id: A_GardenOfWords_0035
   deck_name: The Garden of Words
   translation: She left a letter saying not to go looking for her.
   sound: A_GardenOfWords_1_0.05.56.220-0.05.58.820.mp3
   sentence: 捜さないでくださいって　手紙にあったけど
-  words:
-    - word: 捜さ
-      base: 探す
-      dictionary: 捜す
-      position: 0
-    - word: ない
-      position: 2
-    - word: で
-      position: 4
-    - word: ください
-      base: 下さる
-      dictionary: くださる
-      position: 5
-    - word: って
-      position: 9
-    - word: 手紙
-      position: 12
-    - word: に
-      position: 14
-    - word: あっ
-      base: 有る
-      dictionary: ある
-      position: 15
-    - word: た
-      position: 17
-    - word: けど
-      base: けれど
-      position: 18
 - id: A_GardenOfWords_0036
   deck_name: The Garden of Words
   translation: But maybe...
   sound: A_GardenOfWords_1_0.05.58.940-0.06.00.500.mp3
   sentence: 本当にいいのかな？
-  words:
-    - word: 本当
-      position: 0
-    - word: に
-      position: 2
-    - word: いい
-      base: 良い
-      position: 3
-    - word: の
-      position: 5
-    - word: か
-      position: 6
-    - word: な
-      position: 7
 - id: A_GardenOfWords_0037
   deck_name: The Garden of Words
   translation: Leave her be.
   sound: A_GardenOfWords_1_0.06.00.940-0.06.02.300.mp3
   sentence: 放っとけよ
-  words:
-    - word: 放っ
-      base: 放る
-      dictionary: 放る
-      position: 0
-    - word: とけ
-      base: とく
-      dictionary: とく
-      position: 2
-    - word: よ
-      position: 4
 - id: A_GardenOfWords_0038
   deck_name: The Garden of Words
   translation: I'm sure she'll be back after fighting with her boyfriend.
   sound: A_GardenOfWords_1_0.06.02.420-0.06.05.020.mp3
   sentence: どうせ彼氏とケン力して　帰ってくるだろ
-  words:
-    - word: どうせ
-      position: 0
-    - word: 彼氏
-      position: 3
-    - word: と
-      position: 5
-    - word: ケン
-      position: 6
-    - word: 力
-      position: 8
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 9
-    - word: て
-      position: 10
-    - word: 帰っ
-      base: 帰る
-      dictionary: 帰る
-      position: 12
-    - word: て
-      position: 14
-    - word: くる
-      base: 来る
-      position: 15
-    - word: だろ
-      base: だ
-      dictionary: だ
-      position: 17
 - id: A_GardenOfWords_0039
   deck_name: The Garden of Words
   translation: I've picked out a place. 'll be leaving next month.
   sound: A_GardenOfWords_1_0.06.07.340-0.06.10.020.mp3
   sentence: 部屋決めてきた　来月出てくから
-  words:
-    - word: 部屋
-      position: 0
-    - word: 決め
-      base: 決める
-      dictionary: 決める
-      position: 2
-    - word: て
-      position: 4
-    - word: き
-      base: 来る
-      dictionary: くる
-      position: 5
-    - word: た
-      position: 6
-    - word: 来月
-      position: 8
-    - word: 出
-      base: 出る
-      dictionary: 出る
-      position: 10
-    - word: てく
-      position: 11
-    - word: から
-      position: 13
 - id: A_GardenOfWords_0040
   deck_name: The Garden of Words
   translation: Living alone?
   sound: A_GardenOfWords_1_0.06.10.380-0.06.11.860.mp3
   sentence: 一人暮らし？
-  words:
-    - word: 一人暮らし
-      base: 独り暮らし
-      position: 0
 - id: A_GardenOfWords_0041
   deck_name: The Garden of Words
   translation: With my girlfriend.
   sound: A_GardenOfWords_1_0.06.11.980-0.06.13.180.mp3
   sentence: 彼女と住む
-  words:
-    - word: 彼女
-      position: 0
-    - word: と
-      position: 2
-    - word: 住む
-      position: 3
 - id: A_GardenOfWords_0042
   deck_name: The Garden of Words
   translation: Don't you think that's why mom ran out?
   sound: A_GardenOfWords_1_0.06.13.820-0.06.16.380.mp3
   sentence: それが家出の原因なんじゃないの　母さんの
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: が
-      position: 2
-    - word: 家出
-      position: 3
-    - word: の
-      position: 5
-    - word: 原因
-      position: 6
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 8
-    - word: ん
-      base: の
-      position: 9
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 10
-    - word: ない
-      base: 無い
-      position: 12
-    - word: の
-      position: 14
-    - word: 母さん
-      position: 16
-    - word: の
-      position: 19
 - id: A_GardenOfWords_0043
   deck_name: The Garden of Words
   translation: You told her yesterday, right?
   sound: A_GardenOfWords_1_0.06.16.540-0.06.17.700.mp3
   sentence: 昨日話したの？
-  words:
-    - word: 昨日
-      position: 0
-    - word: 話し
-      base: 話す
-      dictionary: 話す
-      position: 2
-    - word: た
-      position: 4
-    - word: の
-      position: 5
 - id: A_GardenOfWords_0044
   deck_name: The Garden of Words
   translation: I wish she could just let her children go, you know?
   sound: A_GardenOfWords_1_0.06.17.860-0.06.20.660.mp3
   sentence: ああいい加減　子離れしてほしいぜ
-  words:
-    - word: ああ
-      position: 0
-    - word: いい
-      base: 良い
-      position: 2
-    - word: 加減
-      position: 4
-    - word: 子離れ
-      position: 7
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 10
-    - word: て
-      position: 11
-    - word: ほしい
-      base: 欲しい
-      position: 12
-    - word: ぜ
-      position: 15
 - id: A_GardenOfWords_0045
   deck_name: The Garden of Words
   translation: She's the one who's making the rounds dating younger men, damn it.
   sound: A_GardenOfWords_1_0.06.20.780-0.06.23.540.mp3
   sentence: 自分は一回りも下の男と　付き合ってるくせに
-  words:
-    - word: 自分
-      position: 0
-    - word: は
-      position: 2
-    - word: 一
-      base: '1'
-      position: 3
-    - word: 回り
-      position: 4
-    - word: も
-      position: 6
-    - word: 下
-      position: 7
-    - word: の
-      position: 8
-    - word: 男
-      position: 9
-    - word: と
-      position: 10
-    - word: 付き
-      base: 付く
-      dictionary: 付く
-      position: 12
-    - word: 合っ
-      base: 合う
-      dictionary: 合う
-      position: 14
-    - word: てる
-      position: 16
-    - word: くせ
-      base: 癖
-      position: 18
-    - word: に
-      position: 20
 - id: A_GardenOfWords_0046
   deck_name: The Garden of Words
   translation: Oh, yeah? Well then, I'm gonna go live with my boyfriend!
   sound: A_GardenOfWords_1_0.06.24.260-0.06.27.380.mp3
   sentence: いいわよ！　じゃあ私も彼氏と住むもん
-  words:
-    - word: いい
-      base: 良い
-      position: 0
-    - word: わ
-      position: 2
-    - word: よ
-      position: 3
-    - word: じゃあ
-      base: で
-      position: 6
-    - word: 私
-      position: 9
-    - word: も
-      position: 10
-    - word: 彼氏
-      position: 11
-    - word: と
-      position: 13
-    - word: 住む
-      position: 14
-    - word: もん
-      position: 16
 - id: A_GardenOfWords_0047
   deck_name: The Garden of Words
   translation: She's got those youthful looks, after all.
   sound: A_GardenOfWords_1_0.06.28.380-0.06.31.540.mp3
   sentence: フフッあの人若く見えるからね
-  words:
-    - word: フフッ
-      base: ふふ
-      position: 0
-    - word: あの
-      position: 3
-    - word: 人
-      position: 5
-    - word: 若く
-      base: 若い
-      dictionary: 若い
-      position: 6
-    - word: 見える
-      position: 8
-    - word: から
-      position: 11
-    - word: ね
-      position: 13
 - id: A_GardenOfWords_0048
   deck_name: The Garden of Words
   translation: That's 'cause she's never worked hard her entire life.
   sound: A_GardenOfWords_1_0.06.31.820-0.06.33.900.mp3
   sentence: 苦労してないから若いんだよ
-  words:
-    - word: 苦労
-      position: 0
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 2
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 3
-    - word: ない
-      position: 4
-    - word: から
-      position: 6
-    - word: 若い
-      position: 8
-    - word: ん
-      base: の
-      position: 10
-    - word: だ
-      position: 11
-    - word: よ
-      position: 12
 - id: A_GardenOfWords_0049
   deck_name: The Garden of Words
   translation: You're the one who's been piling on the years.
   sound: A_GardenOfWords_1_0.06.34.380-0.06.36.740.mp3
   sentence: その分お前か'老けてくな
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 分
-      position: 2
-    - word: お前
-      base: 御前
-      position: 3
-    - word: か
-      position: 5
-    - word: 老け
-      base: 老ける
-      dictionary: 老ける
-      position: 7
-    - word: てく
-      position: 9
-    - word: な
-      position: 11
 - id: A_GardenOfWords_0050
   deck_name: The Garden of Words
   translation: All done.
   sound: A_GardenOfWords_1_0.06.38.980-0.06.40.220.mp3
   sentence: ごちそうさま
-  words:
-    - word: ごちそう
-      base: 御馳走
-      position: 0
-    - word: さま
-      base: 様
-      position: 4
 - id: A_GardenOfWords_0051
   deck_name: The Garden of Words
   translation: You do the dishes. I've aged enough.
   sound: A_GardenOfWords_1_0.06.41.100-0.06.43.220.mp3
   sentence: 俺が老けないように　洗い物よろしく
-  words:
-    - word: 俺
-      position: 0
-    - word: が
-      position: 1
-    - word: 老け
-      base: 老ける
-      dictionary: 老ける
-      position: 2
-    - word: ない
-      position: 4
-    - word: よう
-      base: 様
-      position: 6
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 8
-    - word: 洗い物
-      position: 10
-    - word: よろしく
-      base: 宜しく
-      position: 13
 - id: A_GardenOfWords_0052
   deck_name: The Garden of Words
   translation: Won't you be glad to have more space?
   sound: A_GardenOfWords_1_0.06.52.500-0.06.54.340.mp3
   sentence: 部屋が広くなって嬉しいだろ
-  words:
-    - word: 部屋
-      position: 0
-    - word: が
-      position: 2
-    - word: 広く
-      base: 広い
-      dictionary: 広い
-      position: 3
-    - word: なっ
-      base: 成る
-      dictionary: なる
-      position: 5
-    - word: て
-      position: 7
-    - word: 嬉しい
-      position: 8
-    - word: だろ
-      base: だ
-      dictionary: だ
-      position: 11
 - id: A_GardenOfWords_0053
   deck_name: The Garden of Words
   translation: I guess so.
   sound: A_GardenOfWords_1_0.06.54.500-0.06.55.580.mp3
   sentence: まあね
-  words:
-    - word: まあ
-      position: 0
-    - word: ね
-      position: 2
 - id: A_GardenOfWords_0054
   deck_name: The Garden of Words
   translation: Help me move, 'kay?
   sound: A_GardenOfWords_1_0.06.56.060-0.06.57.420.mp3
   sentence: 引っ越し手伝えよ
-  words:
-    - word: 引っ越し
-      position: 0
-    - word: 手伝えよ
-      base: 手伝う
-      dictionary: 手伝える
-      position: 4
 - id: A_GardenOfWords_0055
   deck_name: The Garden of Words
   translation: Sure.
   sound: A_GardenOfWords_1_0.06.57.620-0.06.58.580.mp3
   sentence: うん
-  words:
-    - word: うん
-      position: 0
 - id: A_GardenOfWords_0056
   deck_name: The Garden of Words
   translation: Hey, have you heard of this?
   sound: A_GardenOfWords_1_0.07.00.340-0.07.02.740.mp3
   sentence: ああ兄貴これ分かる?
-  words:
-    - word: ああ
-      position: 0
-    - word: 兄貴
-      position: 2
-    - word: これ
-      base: 此れ
-      position: 4
-    - word: 分かる
-      position: 6
 - id: A_GardenOfWords_0057
   deck_name: The Garden of Words
   translation: What is this, a haiku?
   sound: A_GardenOfWords_1_0.07.04.620-0.07.06.820.mp3
   sentence: 何？俳句？
-  words:
-    - word: 何
-      position: 0
-    - word: 俳句
-      position: 2
 - id: A_GardenOfWords_0058
   deck_name: The Garden of Words
   translation: It's a tanka.
   sound: A_GardenOfWords_1_0.07.06.980-0.07.08.100.mp3
   sentence: 短歌だよ
-  words:
-    - word: 短歌
-      position: 0
-    - word: だ
-      position: 2
-    - word: よ
-      position: 3
 - id: A_GardenOfWords_0059
   deck_name: The Garden of Words
   translation: As if.
   sound: A_GardenOfWords_1_0.07.08.260-0.07.09.700.mp3
   sentence: 知るわけないだろ
-  words:
-    - word: 知る
-      position: 0
-    - word: わけ
-      base: 訳
-      position: 2
-    - word: ない
-      base: 無い
-      position: 4
-    - word: だろ
-      base: だ
-      dictionary: だ
-      position: 6
 - id: A_GardenOfWords_0060
   deck_name: The Garden of Words
   translation: Ask Ma when she gets back.
   sound: A_GardenOfWords_1_0.07.09.820-0.07.12.100.mp3
   sentence: こういうのは　おふくろが帰ったら聞けよ
-  words:
-    - word: こう
-      position: 0
-    - word: いう
-      base: 言う
-      position: 2
-    - word: の
-      position: 4
-    - word: は
-      position: 5
-    - word: おふくろ
-      base: 御袋
-      position: 7
-    - word: が
-      position: 11
-    - word: 帰っ
-      base: 帰る
-      dictionary: 帰る
-      position: 12
-    - word: たら
-      base: た
-      dictionary: た
-      position: 14
-    - word: 聞けよ
-      base: 聞く
-      dictionary: 聞ける
-      position: 16
 - id: A_GardenOfWords_0061
   deck_name: The Garden of Words
   translation: >-
@@ -1333,2132 +309,426 @@
     to.
   sound: A_GardenOfWords_1_0.07.27.340-0.07.31.620.mp3
   sentence: 晴れた朝は　ちゃんと地下鉄に乗り換えて　ここに来る
-  words:
-    - word: 晴れ
-      base: 晴れる
-      dictionary: 晴れる
-      position: 0
-    - word: た
-      position: 2
-    - word: 朝
-      position: 3
-    - word: は
-      position: 4
-    - word: ちゃんと
-      position: 6
-    - word: 地下鉄
-      position: 10
-    - word: に
-      position: 13
-    - word: 乗り
-      base: 乗る
-      dictionary: 乗る
-      position: 14
-    - word: 換え
-      base: 変える
-      dictionary: 換える
-      position: 16
-    - word: て
-      position: 18
-    - word: ここ
-      base: 此処
-      position: 20
-    - word: に
-      position: 22
-    - word: 来る
-      position: 23
 - id: A_GardenOfWords_0062
   deck_name: The Garden of Words
   translation: But I think to myself "This is not what I should be doing now."
   sound: A_GardenOfWords_1_0.07.32.300-0.07.36.700.mp3
   sentence: でもこんなことをしている　場合じゃないって思う
-  words:
-    - word: で
-      position: 0
-    - word: も
-      position: 1
-    - word: こんな
-      position: 2
-    - word: こと
-      position: 5
-    - word: を
-      position: 7
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 8
-    - word: て
-      position: 9
-    - word: いる
-      base: 居る
-      position: 10
-    - word: 場合
-      position: 13
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 15
-    - word: ない
-      base: 無い
-      position: 17
-    - word: って
-      position: 19
-    - word: 思う
-      position: 21
 - id: A_GardenOfWords_0063
   deck_name: The Garden of Words
   translation: Rain...
   sound: A_GardenOfWords_1_0.07.47.180-0.07.48.300.mp3
   sentence: 雨だ
-  words:
-    - word: 雨
-      position: 0
-    - word: だ
-      position: 1
 - id: A_GardenOfWords_0064
   deck_name: The Garden of Words
   translation: Hello.
   sound: A_GardenOfWords_1_0.08.07.660-0.08.08.780.mp3
   sentence: こんにちは
-  words:
-    - word: こんにちは
-      base: 今日は
-      position: 0
 - id: A_GardenOfWords_0065
   deck_name: The Garden of Words
   translation: Hello.
   sound: A_GardenOfWords_1_0.08.10.020-0.08.11.140.mp3
   sentence: どうも
-  words:
-    - word: どう
-      position: 0
-    - word: も
-      position: 2
 - id: A_GardenOfWords_0066
   deck_name: The Garden of Words
   translation: Hey...
   sound: A_GardenOfWords_1_0.08.43.340-0.08.44.220.mp3
   sentence: ねえ
-  words:
-    - word: ねえ
-      position: 0
 - id: A_GardenOfWords_0067
   deck_name: The Garden of Words
   translation: No school today?
   sound: A_GardenOfWords_1_0.08.46.620-0.08.48.180.mp3
   sentence: 学校はお休み？
-  words:
-    - word: 学校
-      position: 0
-    - word: は
-      position: 2
-    - word: お
-      base: 御
-      position: 3
-    - word: 休み
-      position: 4
 - id: A_GardenOfWords_0068
   deck_name: The Garden of Words
   translation: And your office... Is it closed today?
   sound: A_GardenOfWords_1_0.08.49.100-0.08.52.460.mp3
   sentence: 会社は休みですか？　フフッ
-  words:
-    - word: 会社
-      position: 0
-    - word: は
-      position: 2
-    - word: 休み
-      position: 3
-    - word: です
-      position: 5
-    - word: か
-      position: 7
-    - word: フフッ
-      base: ふふ
-      position: 10
 - id: A_GardenOfWords_0069
   deck_name: The Garden of Words
   translation: I'm skipping work again...
   sound: A_GardenOfWords_1_0.08.52.900-0.08.54.860.mp3
   sentence: またサボっちゃった
-  words:
-    - word: また
-      base: 又
-      position: 0
-    - word: サボっ
-      base: サボる
-      dictionary: サボる
-      position: 2
-    - word: ちゃっ
-      base: ちゃう
-      dictionary: ちゃう
-      position: 5
-    - word: た
-      position: 8
 - id: A_GardenOfWords_0070
   deck_name: The Garden of Words
   translation: And drinking beer in the park in the morning.
   sound: A_GardenOfWords_1_0.08.57.460-0.09.00.460.mp3
   sentence: で朝から公園でビールを飲んでる
-  words:
-    - word: で
-      position: 0
-    - word: 朝
-      position: 1
-    - word: から
-      position: 2
-    - word: 公園
-      position: 4
-    - word: で
-      position: 6
-    - word: ビール
-      position: 7
-    - word: を
-      position: 10
-    - word: 飲ん
-      base: 飲む
-      dictionary: 飲む
-      position: 11
-    - word: でる
-      base: てる
-      position: 13
 - id: A_GardenOfWords_0071
   deck_name: The Garden of Words
   translation: Drinking beer alone isn't good for your health.
   sound: A_GardenOfWords_1_0.09.02.300-0.09.05.660.mp3
   sentence: 酒だけって　あんまり体によくないですよ
-  words:
-    - word: 酒
-      position: 0
-    - word: だけ
-      position: 1
-    - word: って
-      position: 3
-    - word: あんまり
-      base: 余り
-      position: 6
-    - word: 体
-      position: 10
-    - word: に
-      position: 11
-    - word: よく
-      base: 良い
-      dictionary: よい
-      position: 12
-    - word: ない
-      base: 無い
-      position: 14
-    - word: です
-      position: 16
-    - word: よ
-      position: 18
 - id: A_GardenOfWords_0072
   deck_name: The Garden of Words
   translation: You need to eat something with it.
   sound: A_GardenOfWords_1_0.09.05.780-0.09.07.180.mp3
   sentence: 何か食べないと
-  words:
-    - word: 何
-      position: 0
-    - word: か
-      position: 1
-    - word: 食べ
-      base: 食べる
-      dictionary: 食べる
-      position: 2
-    - word: ない
-      position: 4
-    - word: と
-      position: 6
 - id: A_GardenOfWords_0073
   deck_name: The Garden of Words
   translation: You know a lot for a high school kid.
   sound: A_GardenOfWords_1_0.09.07.300-0.09.08.860.mp3
   sentence: 高校生が詳しいのね
-  words:
-    - word: 高校
-      position: 0
-    - word: 生
-      position: 2
-    - word: が
-      position: 3
-    - word: 詳しい
-      position: 4
-    - word: の
-      position: 7
-    - word: ね
-      position: 8
 - id: A_GardenOfWords_0074
   deck_name: The Garden of Words
   translation: It's not me. My mom's the drinker.
   sound: A_GardenOfWords_1_0.09.09.060-0.09.12.460.mp3
   sentence: あ俺じゃなくて母が飲む人だから
-  words:
-    - word: あ
-      base: あー
-      position: 0
-    - word: 俺
-      position: 1
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 2
-    - word: なく
-      base: 無い
-      dictionary: ない
-      position: 4
-    - word: て
-      position: 6
-    - word: 母
-      position: 7
-    - word: が
-      position: 8
-    - word: 飲む
-      position: 9
-    - word: 人
-      position: 11
-    - word: だ
-      position: 12
-    - word: から
-      position: 13
 - id: A_GardenOfWords_0075
   deck_name: The Garden of Words
   translation: I've got snack food.
   sound: A_GardenOfWords_1_0.09.12.580-0.09.14.780.mp3
   sentence: あるよ　おつまみも
-  words:
-    - word: ある
-      base: 有る
-      position: 0
-    - word: よ
-      position: 2
-    - word: お
-      base: 御
-      position: 4
-    - word: つまみ
-      base: 摘み
-      position: 5
-    - word: も
-      position: 8
 - id: A_GardenOfWords_0076
   deck_name: The Garden of Words
   translation: Want some?
   sound: A_GardenOfWords_1_0.09.17.780-0.09.18.820.mp3
   sentence: 食べる？
-  words:
-    - word: 食べる
-      position: 0
 - id: A_GardenOfWords_0077
   deck_name: The Garden of Words
   translation: You just thought to yourself "This woman's a freak," didn't you?
   sound: A_GardenOfWords_1_0.09.20.940-0.09.23.060.mp3
   sentence: 今ヤバイ女だって思ったでしょ？
-  words:
-    - word: 今
-      position: 0
-    - word: ヤバイ
-      base: やばい
-      position: 1
-    - word: 女
-      position: 4
-    - word: だ
-      position: 5
-    - word: って
-      position: 6
-    - word: 思っ
-      base: 思う
-      dictionary: 思う
-      position: 8
-    - word: た
-      position: 10
-    - word: でしょ
-      base: です
-      dictionary: です
-      position: 11
 - id: A_GardenOfWords_0078
   deck_name: The Garden of Words
   translation: No, I...
   sound: A_GardenOfWords_1_0.09.23.220-0.09.24.020.mp3
   sentence: いや…
-  words:
-    - word: いや
-      base: 否
-      position: 0
 - id: A_GardenOfWords_0079
   deck_name: The Garden of Words
   translation: It's okay. We're human, after all. We've all got our little quirks.
   sound: A_GardenOfWords_1_0.09.24.140-0.09.29.660.mp3
   sentence: いいのどうせ人間なんて　みんなどっかちょっとずつ　おかしいんだから
-  words:
-    - word: いい
-      base: 良い
-      position: 0
-    - word: の
-      position: 2
-    - word: どうせ
-      position: 3
-    - word: 人間
-      position: 6
-    - word: なんて
-      position: 8
-    - word: みんな
-      base: 皆
-      position: 12
-    - word: どっ
-      position: 15
-    - word: か
-      position: 17
-    - word: ちょっと
-      base: 一寸
-      position: 18
-    - word: ずつ
-      position: 22
-    - word: おかしい
-      base: 可笑しい
-      position: 25
-    - word: ん
-      base: の
-      position: 29
-    - word: だ
-      position: 30
-    - word: から
-      position: 31
 - id: A_GardenOfWords_0080
   deck_name: The Garden of Words
   translation: Maybe...
   sound: A_GardenOfWords_1_0.09.31.380-0.09.32.660.mp3
   sentence: そうかな
-  words:
-    - word: そう
-      position: 0
-    - word: か
-      position: 2
-    - word: な
-      position: 3
 - id: A_GardenOfWords_0081
   deck_name: The Garden of Words
   translation: Definitely.
   sound: A_GardenOfWords_1_0.09.32.820-0.09.33.900.mp3
   sentence: そうよ
-  words:
-    - word: そう
-      position: 0
-    - word: よ
-      position: 2
 - id: A_GardenOfWords_0082
   deck_name: The Garden of Words
   translation: Okay, it's about time for me to go.
   sound: A_GardenOfWords_1_0.09.47.260-0.09.49.020.mp3
   sentence: じゃあそろそろ行きます
-  words:
-    - word: じゃあ
-      base: で
-      position: 0
-    - word: そろそろ
-      position: 3
-    - word: 行き
-      base: 行く
-      dictionary: 行く
-      position: 7
-    - word: ます
-      position: 9
 - id: A_GardenOfWords_0083
   deck_name: The Garden of Words
   translation: Heading to school now?
   sound: A_GardenOfWords_1_0.09.49.180-0.09.50.260.mp3
   sentence: これから学校？
-  words:
-    - word: これ
-      base: 此れ
-      position: 0
-    - word: から
-      position: 2
-    - word: 学校
-      position: 4
 - id: A_GardenOfWords_0084
   deck_name: The Garden of Words
   translation: I've decided to only skip school on rainy mornings.
   sound: A_GardenOfWords_1_0.09.50.420-0.09.54.860.mp3
   sentence: さすがにサボるのは　雨の午前中だけにしようって　決めてるんです
-  words:
-    - word: さすが
-      base: 流石
-      position: 0
-    - word: に
-      position: 3
-    - word: サボる
-      position: 4
-    - word: の
-      position: 7
-    - word: は
-      position: 8
-    - word: 雨
-      position: 10
-    - word: の
-      position: 11
-    - word: 午前
-      position: 12
-    - word: 中
-      position: 14
-    - word: だけ
-      position: 15
-    - word: に
-      position: 17
-    - word: しよう
-      base: 為る
-      dictionary: する
-      position: 18
-    - word: って
-      position: 21
-    - word: 決め
-      base: 決める
-      dictionary: 決める
-      position: 24
-    - word: てる
-      position: 26
-    - word: ん
-      base: の
-      position: 28
-    - word: です
-      position: 29
 - id: A_GardenOfWords_0085
   deck_name: The Garden of Words
   translation: Then, maybe we'll see each other again.
   sound: A_GardenOfWords_1_0.09.56.420-0.09.58.060.mp3
   sentence: じゃあまた会うかもね
-  words:
-    - word: じゃあ
-      base: で
-      position: 0
-    - word: また
-      base: 又
-      position: 3
-    - word: 会う
-      position: 5
-    - word: か
-      position: 7
-    - word: も
-      position: 8
-    - word: ね
-      position: 9
 - id: A_GardenOfWords_0086
   deck_name: The Garden of Words
   translation: Perhaps, when it's raining.
   sound: A_GardenOfWords_1_0.09.58.940-0.10.02.100.mp3
   sentence: もしかしたら雨が降ったら
-  words:
-    - word: もし
-      base: 若し
-      position: 0
-    - word: か
-      position: 2
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 3
-    - word: たら
-      base: た
-      dictionary: た
-      position: 4
-    - word: 雨
-      position: 6
-    - word: が
-      position: 7
-    - word: 降っ
-      base: 降る
-      dictionary: 降る
-      position: 8
-    - word: たら
-      base: た
-      dictionary: た
-      position: 10
 - id: A_GardenOfWords_0087
   deck_name: The Garden of Words
   translation: It was the first day of Kanto's rainy season.
   sound: A_GardenOfWords_1_0.10.03.140-0.10.06.940.mp3
   sentence: その日が　関東の梅雨入りだった
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 日
-      position: 2
-    - word: が
-      position: 3
-    - word: 関東
-      position: 5
-    - word: の
-      position: 7
-    - word: 梅雨入り
-      position: 8
-    - word: だっ
-      base: だ
-      dictionary: だ
-      position: 12
-    - word: た
-      position: 14
 - id: A_GardenOfWords_0088
   deck_name: The Garden of Words
   translation: A shoemaker?
   sound: A_GardenOfWords_1_0.11.02.660-0.11.03.980.mp3
   sentence: 靴職人？
-  words:
-    - word: 靴
-      position: 0
-    - word: 職人
-      position: 1
 - id: A_GardenOfWords_0089
   deck_name: The Garden of Words
   translation: I know it seems out of touch, but I enjoy creating designs and making shoes.
   sound: A_GardenOfWords_1_0.11.04.660-0.11.12.180.mp3
   sentence: 現実味がないことは分かっているけど　ただ靴の形を考えたり　作ったりすることが好きなんです
-  words:
-    - word: 現実
-      position: 0
-    - word: 味
-      position: 2
-    - word: が
-      position: 3
-    - word: ない
-      base: 無い
-      position: 4
-    - word: こと
-      position: 6
-    - word: は
-      position: 8
-    - word: 分かっ
-      base: 分かる
-      dictionary: 分かる
-      position: 9
-    - word: て
-      position: 12
-    - word: いる
-      base: 居る
-      position: 13
-    - word: けど
-      base: けれど
-      position: 15
-    - word: ただ
-      base: 唯
-      position: 18
-    - word: 靴
-      position: 20
-    - word: の
-      position: 21
-    - word: 形
-      position: 22
-    - word: を
-      position: 23
-    - word: 考え
-      base: 考える
-      dictionary: 考える
-      position: 24
-    - word: たり
-      position: 26
-    - word: 作っ
-      base: 作る
-      dictionary: 作る
-      position: 29
-    - word: たり
-      position: 31
-    - word: する
-      base: 為る
-      position: 33
-    - word: こと
-      position: 35
-    - word: が
-      position: 37
-    - word: 好き
-      position: 38
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 40
-    - word: ん
-      base: の
-      position: 41
-    - word: です
-      position: 42
 - id: A_GardenOfWords_0090
   deck_name: The Garden of Words
   translation: Of course, I'm still terrible at it.
   sound: A_GardenOfWords_1_0.11.12.540-0.11.15.580.mp3
   sentence: もちろんまだ　全然へタクソだけど
-  words:
-    - word: もちろん
-      base: 勿論
-      position: 0
-    - word: まだ
-      base: 未だ
-      position: 4
-    - word: 全然
-      position: 7
-    - word: へ
-      base: 経る
-      dictionary: へる
-      position: 9
-    - word: タクソ
-      position: 10
-    - word: だ
-      position: 13
-    - word: けど
-      base: けれど
-      position: 14
 - id: A_GardenOfWords_0091
   deck_name: The Garden of Words
   translation: Of course...
   sound: A_GardenOfWords_1_0.11.15.860-0.11.17.820.mp3
   sentence: 当たり前ですけど
-  words:
-    - word: 当たり前
-      position: 0
-    - word: です
-      position: 4
-    - word: けど
-      base: けれど
-      position: 6
 - id: A_GardenOfWords_0092
   deck_name: The Garden of Words
   translation: But despite it all,  want to make it my career... if I can.
   sound: A_GardenOfWords_1_0.11.18.580-0.11.22.620.mp3
   sentence: それでもできることなら　それを仕事にしたい
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: で
-      position: 2
-    - word: も
-      position: 3
-    - word: できる
-      base: 出来る
-      position: 4
-    - word: こと
-      position: 7
-    - word: なら
-      base: だ
-      dictionary: だ
-      position: 9
-    - word: それ
-      base: 其れ
-      position: 12
-    - word: を
-      position: 14
-    - word: 仕事
-      position: 15
-    - word: に
-      position: 17
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 18
-    - word: たい
-      position: 19
 - id: A_GardenOfWords_0093
   deck_name: The Garden of Words
   translation: I've never told this to anyone before.
   sound: A_GardenOfWords_1_0.11.23.100-0.11.26.100.mp3
   sentence: そう誰かに言ったのは初めて
-  words:
-    - word: そう
-      position: 0
-    - word: 誰
-      position: 2
-    - word: か
-      position: 3
-    - word: に
-      position: 4
-    - word: 言っ
-      base: 言う
-      dictionary: 言う
-      position: 5
-    - word: た
-      position: 7
-    - word: の
-      position: 8
-    - word: は
-      position: 9
-    - word: 初めて
-      position: 10
 - id: A_GardenOfWords_0094
   deck_name: The Garden of Words
   translation: Do you have any idea how late you are?
   sound: A_GardenOfWords_1_0.11.32.740-0.11.35.060.mp3
   sentence: お前何時だと思ってんだよ
-  words:
-    - word: お前
-      base: 御前
-      position: 0
-    - word: 何時
-      position: 2
-    - word: だ
-      position: 4
-    - word: と
-      position: 5
-    - word: 思っ
-      base: 思う
-      dictionary: 思う
-      position: 6
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 8
-    - word: ん
-      base: の
-      position: 9
-    - word: だ
-      position: 10
-    - word: よ
-      position: 11
 - id: A_GardenOfWords_0095
   deck_name: The Garden of Words
   translation: You know why I've called you here, right?
   sound: A_GardenOfWords_1_0.11.35.420-0.11.37.580.mp3
   sentence: 呼び出された理由は　分かってんだろうな
-  words:
-    - word: 呼び
-      base: 呼ぶ
-      dictionary: 呼ぶ
-      position: 0
-    - word: 出さ
-      base: 出す
-      dictionary: 出す
-      position: 2
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 4
-    - word: た
-      position: 5
-    - word: 理由
-      position: 6
-    - word: は
-      position: 8
-    - word: 分かっ
-      base: 分かる
-      dictionary: 分かる
-      position: 10
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 13
-    - word: ん
-      base: の
-      position: 14
-    - word: だろう
-      base: だ
-      dictionary: だ
-      position: 15
-    - word: な
-      position: 18
 - id: A_GardenOfWords_0096
   deck_name: The Garden of Words
   translation: Hey, bro...
   sound: A_GardenOfWords_1_0.11.42.060-0.11.43.460.mp3
   sentence: あっちょっと兄貴
-  words:
-    - word: あっ
-      position: 0
-    - word: ちょっと
-      base: 一寸
-      position: 2
-    - word: 兄貴
-      position: 6
 - id: A_GardenOfWords_0097
   deck_name: The Garden of Words
   translation: Evenings, before I went to sleep...
   sound: A_GardenOfWords_1_0.11.59.100-0.12.01.300.mp3
   sentence: 夜眠る前
-  words:
-    - word: 夜
-      position: 0
-    - word: 眠る
-      position: 1
-    - word: 前
-      position: 3
 - id: A_GardenOfWords_0098
   deck_name: The Garden of Words
   translation: Mornings, from the moment I woke up...
   sound: A_GardenOfWords_1_0.12.02.060-0.12.04.300.mp3
   sentence: 朝目を開く瞬間
-  words:
-    - word: 朝
-      position: 0
-    - word: 目
-      position: 1
-    - word: を
-      position: 2
-    - word: 開く
-      position: 3
-    - word: 瞬間
-      position: 5
 - id: A_GardenOfWords_0099
   deck_name: The Garden of Words
   translation: I realized I was praying for rain.
   sound: A_GardenOfWords_1_0.12.05.020-0.12.07.140.mp3
   sentence: 気づけば雨を祈っている
-  words:
-    - word: 気づけ
-      base: 気付く
-      dictionary: 気づく
-      position: 0
-    - word: ば
-      position: 3
-    - word: 雨
-      position: 4
-    - word: を
-      position: 5
-    - word: 祈っ
-      base: 祈る
-      dictionary: 祈る
-      position: 6
-    - word: て
-      position: 8
-    - word: いる
-      base: 居る
-      position: 9
 - id: A_GardenOfWords_0100
   deck_name: The Garden of Words
   translation: I realized that on sunny days,  was in a terrible, childish place.
   sound: A_GardenOfWords_1_0.12.14.100-0.12.18.700.mp3
   sentence: 晴れの日には　自分がひどく子どもじみた場所に　いるような気がして
-  words:
-    - word: 晴れ
-      position: 0
-    - word: の
-      position: 2
-    - word: 日
-      position: 3
-    - word: に
-      position: 4
-    - word: は
-      position: 5
-    - word: 自分
-      position: 7
-    - word: が
-      position: 9
-    - word: ひどく
-      base: 酷い
-      dictionary: ひどい
-      position: 10
-    - word: 子ども
-      base: 子供
-      position: 13
-    - word: じみ
-      base: 染みる
-      dictionary: じみる
-      position: 16
-    - word: た
-      position: 18
-    - word: 場所
-      position: 19
-    - word: に
-      position: 21
-    - word: いる
-      base: 居る
-      position: 23
-    - word: よう
-      base: 様
-      position: 25
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 27
-    - word: 気
-      position: 28
-    - word: が
-      position: 29
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 30
-    - word: て
-      position: 31
 - id: A_GardenOfWords_0101
   deck_name: The Garden of Words
   translation: With nothing but impatience.
   sound: A_GardenOfWords_1_0.12.18.900-0.12.20.500.mp3
   sentence: ただ焦る
-  words:
-    - word: ただ
-      base: 唯
-      position: 0
-    - word: 焦る
-      position: 2
 - id: A_GardenOfWords_0102
   deck_name: The Garden of Words
   translation: She exists in a world of working adults, so very far away from me...
   sound: A_GardenOfWords_1_0.12.21.900-0.12.27.740.mp3
   sentence: 仕事とか社会とか　あの人が普段いるのであろう世界は　俺にはとても遠い
-  words:
-    - word: 仕事
-      position: 0
-    - word: と
-      position: 2
-    - word: か
-      position: 3
-    - word: 社会
-      position: 4
-    - word: と
-      position: 6
-    - word: か
-      position: 7
-    - word: あの
-      base: 彼の
-      position: 9
-    - word: 人
-      position: 11
-    - word: が
-      position: 12
-    - word: 普段
-      position: 13
-    - word: いる
-      base: 居る
-      position: 15
-    - word: の
-      position: 17
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 18
-    - word: あろう
-      base: 有る
-      dictionary: ある
-      position: 19
-    - word: 世界
-      position: 22
-    - word: は
-      position: 24
-    - word: 俺
-      position: 26
-    - word: に
-      position: 27
-    - word: は
-      position: 28
-    - word: とても
-      base: 迚も
-      position: 29
-    - word: 遠い
-      position: 32
 - id: A_GardenOfWords_0103
   deck_name: The Garden of Words
   translation: To me she represents nothing less than the very secrets of the world.
   sound: A_GardenOfWords_1_0.12.27.900-0.12.33.540.mp3
   sentence: まるで一　世界の秘密そのものみたいに　彼女は見える
-  words:
-    - word: まるで
-      base: 丸で
-      position: 0
-    - word: 一
-      base: '1'
-      position: 3
-    - word: 世界
-      position: 5
-    - word: の
-      position: 7
-    - word: 秘密
-      position: 8
-    - word: その
-      base: 其の
-      position: 10
-    - word: もの
-      base: 物
-      position: 12
-    - word: みたい
-      position: 14
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 17
-    - word: 彼女
-      position: 19
-    - word: は
-      position: 21
-    - word: 見える
-      position: 22
 - id: A_GardenOfWords_0104
   deck_name: The Garden of Words
   translation: Honestly, there are only two things  know for sure.
   sound: A_GardenOfWords_1_0.12.34.900-0.12.37.500.mp3
   sentence: はっきりと分かっていることは　2つだけ
-  words:
-    - word: はっきり
-      position: 0
-    - word: と
-      position: 4
-    - word: 分かっ
-      base: 分かる
-      dictionary: 分かる
-      position: 5
-    - word: て
-      position: 8
-    - word: いる
-      base: 居る
-      position: 9
-    - word: こと
-      position: 11
-    - word: は
-      position: 13
-    - word: '2'
-      position: 15
-    - word: つ
-      position: 16
-    - word: だけ
-      position: 17
 - id: A_GardenOfWords_0105
   deck_name: The Garden of Words
   translation: 'One: she must think of me as just some 15 year old kid.'
   sound: A_GardenOfWords_1_0.12.38.220-0.12.43.340.mp3
   sentence: あの人にとって15の俺はきっと　ただのガキだということ
-  words:
-    - word: あの
-      base: 彼の
-      position: 0
-    - word: 人
-      position: 2
-    - word: に
-      position: 3
-    - word: とっ
-      base: 取る
-      dictionary: とる
-      position: 4
-    - word: て
-      position: 6
-    - word: '15'
-      position: 7
-    - word: の
-      position: 9
-    - word: 俺
-      position: 10
-    - word: は
-      position: 11
-    - word: きっと
-      position: 12
-    - word: ただ
-      base: 只
-      position: 16
-    - word: の
-      position: 18
-    - word: ガキ
-      position: 19
-    - word: だ
-      position: 21
-    - word: と
-      position: 22
-    - word: いう
-      base: 言う
-      position: 23
-    - word: こと
-      position: 25
 - id: A_GardenOfWords_0106
   deck_name: The Garden of Words
   translation: 'And two: making shoes is the only thing that will lead me out of this place.'
   sound: A_GardenOfWords_1_0.12.44.580-0.12.52.940.mp3
   sentence: そして靴を作ることだけが　俺を違う場所に　連れていってくれるはずだということ
-  words:
-    - word: そして
-      position: 0
-    - word: 靴
-      position: 3
-    - word: を
-      position: 4
-    - word: 作る
-      position: 5
-    - word: こと
-      position: 7
-    - word: だけ
-      position: 9
-    - word: が
-      position: 11
-    - word: 俺
-      position: 13
-    - word: を
-      position: 14
-    - word: 違う
-      position: 15
-    - word: 場所
-      position: 17
-    - word: に
-      position: 19
-    - word: 連れ
-      base: 連れる
-      dictionary: 連れる
-      position: 21
-    - word: て
-      position: 23
-    - word: いっ
-      base: 行く
-      dictionary: いく
-      position: 24
-    - word: て
-      position: 26
-    - word: くれる
-      base: 呉れる
-      position: 27
-    - word: はず
-      base: 筈
-      position: 30
-    - word: だ
-      position: 32
-    - word: と
-      position: 33
-    - word: いう
-      base: 言う
-      position: 34
-    - word: こと
-      position: 36
 - id: A_GardenOfWords_0107
   deck_name: The Garden of Words
   translation: For your safety, please stay  behind the yellow line.
   sound: A_GardenOfWords_1_0.13.08.980-0.13.13.300.mp3
   sentence: 危ないですから　黄色い線までお下がりください
-  words:
-    - word: 危ない
-      position: 0
-    - word: です
-      position: 3
-    - word: から
-      position: 5
-    - word: 黄色い
-      position: 8
-    - word: 線
-      position: 11
-    - word: まで
-      position: 12
-    - word: お
-      base: 御
-      position: 14
-    - word: 下がり
-      base: 下がる
-      dictionary: 下がる
-      position: 15
-    - word: ください
-      base: 下さる
-      dictionary: くださる
-      position: 18
 - id: A_GardenOfWords_0108
   deck_name: The Garden of Words
   translation: Please be careful of the closing doors.
   sound: A_GardenOfWords_1_0.13.22.100-0.13.26.580.mp3
   sentence: —番線ドアか'閉まります　ご注意ください
-  words:
-    - word: 番線
-      position: 1
-    - word: ドア
-      position: 3
-    - word: か
-      position: 5
-    - word: 閉まり
-      base: 締まる
-      dictionary: 閉まる
-      position: 7
-    - word: ます
-      position: 10
-    - word: ご
-      base: 御
-      position: 13
-    - word: 注意
-      position: 14
-    - word: ください
-      base: 下さる
-      dictionary: くださる
-      position: 16
 - id: A_GardenOfWords_0109
   deck_name: The Garden of Words
   translation: Good morning.
   sound: A_GardenOfWords_1_0.13.51.500-0.13.52.860.mp3
   sentence: おはようございます
-  words:
-    - word: おはよう
-      base: 御早う
-      position: 0
-    - word: ござい
-      base: 御座る
-      dictionary: ござる
-      position: 4
-    - word: ます
-      position: 7
 - id: A_GardenOfWords_0110
   deck_name: The Garden of Words
   translation: I thought you might not come today.
   sound: A_GardenOfWords_1_0.13.53.820-0.13.55.820.mp3
   sentence: 今日は来ないかと思ったけど
-  words:
-    - word: 今日
-      position: 0
-    - word: は
-      position: 2
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 3
-    - word: ない
-      position: 4
-    - word: か
-      position: 6
-    - word: と
-      position: 7
-    - word: 思っ
-      base: 思う
-      dictionary: 思う
-      position: 8
-    - word: た
-      position: 10
-    - word: けど
-      base: けれど
-      position: 11
 - id: A_GardenOfWords_0111
   deck_name: The Garden of Words
   translation: It's a miracle you haven't been fired yet.
   sound: A_GardenOfWords_1_0.13.55.980-0.13.58.540.mp3
   sentence: よくクビになりませんよね仕事
-  words:
-    - word: よく
-      base: 良く
-      position: 0
-    - word: クビ
-      base: 首
-      position: 2
-    - word: に
-      position: 4
-    - word: なり
-      base: 成る
-      dictionary: なる
-      position: 5
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 7
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 9
-    - word: よ
-      position: 10
-    - word: ね
-      position: 11
-    - word: 仕事
-      position: 12
 - id: A_GardenOfWords_0112
   deck_name: The Garden of Words
   translation: Wow! Is that a shoe design?
   sound: A_GardenOfWords_1_0.14.06.260-0.14.08.140.mp3
   sentence: すごい靴のデザイン？
-  words:
-    - word: すごい
-      base: 凄い
-      position: 0
-    - word: 靴
-      position: 3
-    - word: の
-      position: 4
-    - word: デザイン
-      position: 5
 - id: A_GardenOfWords_0113
   deck_name: The Garden of Words
   translation: Hey!
   sound: A_GardenOfWords_1_0.14.08.260-0.14.09.540.mp3
   sentence: ああっちょっと/
-  words:
-    - word: ああっ
-      base: ああ
-      position: 0
-    - word: ちょっと
-      base: 一寸
-      position: 3
 - id: A_GardenOfWords_0114
   deck_name: The Garden of Words
   translation: I can't see?
   sound: A_GardenOfWords_1_0.14.09.740-0.14.10.660.mp3
   sentence: だめ？
-  words:
-    - word: だめ
-      base: 駄目
-      position: 0
 - id: A_GardenOfWords_0115
   deck_name: The Garden of Words
   translation: It's not something worth showing.
   sound: A_GardenOfWords_1_0.14.10.860-0.14.12.460.mp3
   sentence: 人に見せるもんじゃないから
-  words:
-    - word: 人
-      position: 0
-    - word: に
-      position: 1
-    - word: 見せる
-      position: 2
-    - word: もん
-      position: 5
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 7
-    - word: ない
-      base: 無い
-      position: 9
-    - word: から
-      position: 11
 - id: A_GardenOfWords_0116
   deck_name: The Garden of Words
   translation: Really? Yes, really.
   sound: A_GardenOfWords_1_0.14.12.580-0.14.14.340.mp3
   sentence: ―そうかな?　―そうです?
-  words:
-    - word: そう
-      position: 1
-    - word: か
-      position: 3
-    - word: な
-      position: 4
-    - word: そう
-      position: 8
-    - word: です
-      position: 10
 - id: A_GardenOfWords_0117
   deck_name: The Garden of Words
   translation: Come on, sit down over there.
   sound: A_GardenOfWords_1_0.14.14.500-0.14.16.780.mp3
   sentence: ほら　あっち座ってください
-  words:
-    - word: ほら
-      position: 0
-    - word: あっち
-      base: 彼方
-      position: 3
-    - word: 座っ
-      base: 座る
-      dictionary: 座る
-      position: 6
-    - word: て
-      position: 8
-    - word: ください
-      base: 下さる
-      dictionary: くださる
-      position: 9
 - id: A_GardenOfWords_0118
   deck_name: The Garden of Words
   translation: I'm going to eat breakfast. Would you like to join me?
   sound: A_GardenOfWords_1_0.14.23.700-0.14.26.980.mp3
   sentence: 俺朝飯食べますけど　一緒にどうです？
-  words:
-    - word: 俺
-      position: 0
-    - word: 朝飯
-      position: 1
-    - word: 食べ
-      base: 食べる
-      dictionary: 食べる
-      position: 3
-    - word: ます
-      position: 5
-    - word: けど
-      base: けれど
-      position: 7
-    - word: 一緒
-      position: 10
-    - word: に
-      position: 12
-    - word: どう
-      position: 13
-    - word: です
-      position: 15
 - id: A_GardenOfWords_0119
   deck_name: The Garden of Words
   translation: Thank you, but I've brought my own.
   sound: A_GardenOfWords_1_0.14.27.180-0.14.30.860.mp3
   sentence: ありがと　でも私今日は自分の分　持ってきたの
-  words:
-    - word: ありがと
-      base: 有り難う
-      position: 0
-    - word: で
-      position: 5
-    - word: も
-      position: 6
-    - word: 私
-      position: 7
-    - word: 今日
-      position: 8
-    - word: は
-      position: 10
-    - word: 自分
-      position: 11
-    - word: の
-      position: 13
-    - word: 分
-      position: 14
-    - word: 持っ
-      base: 持つ
-      dictionary: 持つ
-      position: 16
-    - word: て
-      position: 18
-    - word: き
-      base: 来る
-      dictionary: くる
-      position: 19
-    - word: た
-      position: 20
-    - word: の
-      position: 21
 - id: A_GardenOfWords_0120
   deck_name: The Garden of Words
   translation: You made it yourself?
   sound: A_GardenOfWords_1_0.14.31.020-0.14.32.460.mp3
   sentence: え？自分で作って？
-  words:
-    - word: え
-      base: えっ
-      position: 0
-    - word: 自分
-      position: 2
-    - word: で
-      position: 4
-    - word: 作っ
-      base: 作る
-      dictionary: 作る
-      position: 5
-    - word: て
-      position: 7
 - id: A_GardenOfWords_0121
   deck_name: The Garden of Words
   translation: What? I cook sometimes, you know.
   sound: A_GardenOfWords_1_0.14.32.620-0.14.34.620.mp3
   sentence: なによ時々作るのよ
-  words:
-    - word: なに
-      base: 何
-      position: 0
-    - word: よ
-      position: 2
-    - word: 時々
-      position: 3
-    - word: 作る
-      position: 5
-    - word: の
-      position: 7
-    - word: よ
-      position: 8
 - id: A_GardenOfWords_0122
   deck_name: The Garden of Words
   translation: Oh?
   sound: A_GardenOfWords_1_0.14.34.740-0.14.35.780.mp3
   sentence: へえ
-  words:
-    - word: へえ
-      position: 0
 - id: A_GardenOfWords_0123
   deck_name: The Garden of Words
   translation: Then let's make a trade.
   sound: A_GardenOfWords_1_0.14.36.020-0.14.38.340.mp3
   sentence: じゃあおかず交換しましょう
-  words:
-    - word: じゃあ
-      base: で
-      position: 0
-    - word: おかず
-      base: 御数
-      position: 3
-    - word: 交換
-      position: 6
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 8
-    - word: ましょう
-      base: ます
-      dictionary: ます
-      position: 9
 - id: A_GardenOfWords_0124
   deck_name: The Garden of Words
   translation: Wait, I'm not really that good a...
   sound: A_GardenOfWords_1_0.14.38.940-0.14.41.220.mp3
   sentence: えっちょっと私あんまり…
-  words:
-    - word: えっ
-      position: 0
-    - word: ちょっと
-      base: 一寸
-      position: 2
-    - word: 私
-      position: 6
-    - word: あんまり
-      base: 余り
-      position: 7
 - id: A_GardenOfWords_0125
   deck_name: The Garden of Words
   translation: ...cook, you know.
   sound: A_GardenOfWords_1_0.14.46.140-0.14.48.540.mp3
   sentence: 自信ないから料理…
-  words:
-    - word: 自信
-      position: 0
-    - word: ない
-      base: 無い
-      position: 2
-    - word: から
-      position: 4
-    - word: 料理
-      position: 6
 - id: A_GardenOfWords_0126
   deck_name: The Garden of Words
   translation: It's your own fault.
   sound: A_GardenOfWords_1_0.14.49.780-0.14.50.980.mp3
   sentence: 白業白得よ
-  words:
-    - word: 白
-      position: 0
-    - word: 業
-      position: 1
-    - word: 白
-      position: 2
-    - word: 得よ
-      base: 得る
-      dictionary: 得る
-      position: 3
 - id: A_GardenOfWords_0127
   deck_name: The Garden of Words
   translation: That's a side of you I didn't expect.
   sound: A_GardenOfWords_1_0.14.56.060-0.14.57.900.mp3
   sentence: 意外に不器用なんですね
-  words:
-    - word: 意外
-      position: 0
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 2
-    - word: 不
-      position: 3
-    - word: 器用
-      position: 4
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 6
-    - word: ん
-      base: の
-      position: 7
-    - word: です
-      position: 8
-    - word: ね
-      position: 10
 - id: A_GardenOfWords_0128
   deck_name: The Garden of Words
   translation: What?
   sound: A_GardenOfWords_1_0.14.58.060-0.14.59.020.mp3
   sentence: 何よ
-  words:
-    - word: 何
-      position: 0
-    - word: よ
-      position: 1
 - id: A_GardenOfWords_0129
   deck_name: The Garden of Words
   translation: Sorry. But it's tasty in its own way.
   sound: A_GardenOfWords_1_0.14.59.140-0.15.02.660.mp3
   sentence: ごめんなさい　でも　うん　これはこれでうまいですよ
-  words:
-    - word: ごめん
-      base: 御免
-      position: 0
-    - word: なさい
-      base: 為す
-      dictionary: なさる
-      position: 3
-    - word: で
-      position: 7
-    - word: も
-      position: 8
-    - word: うん
-      position: 10
-    - word: これ
-      base: 此れ
-      position: 13
-    - word: は
-      position: 15
-    - word: これ
-      base: 此れ
-      position: 16
-    - word: で
-      position: 18
-    - word: うまい
-      base: 旨い
-      position: 19
-    - word: です
-      position: 22
-    - word: よ
-      position: 24
 - id: A_GardenOfWords_0130
   deck_name: The Garden of Words
   translation: It's got... bite.
   sound: A_GardenOfWords_1_0.15.02.780-0.15.03.740.mp3
   sentence: 歯応えもあるし
-  words:
-    - word: 歯応え
-      position: 0
-    - word: も
-      position: 3
-    - word: ある
-      base: 有る
-      position: 4
-    - word: し
-      position: 6
 - id: A_GardenOfWords_0131
   deck_name: The Garden of Words
   translation: Don't patronize me.
   sound: A_GardenOfWords_1_0.15.03.860-0.15.05.460.mp3
   sentence: バカにしてるでしょ
-  words:
-    - word: バカ
-      base: ばか
-      position: 0
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 2
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 3
-    - word: てる
-      position: 4
-    - word: でしょ
-      base: です
-      dictionary: です
-      position: 6
 - id: A_GardenOfWords_0132
   deck_name: The Garden of Words
   translation: Can I have another?
   sound: A_GardenOfWords_1_0.15.05.900-0.15.07.180.mp3
   sentence: もう1つもらっていいですか？
-  words:
-    - word: もう
-      position: 0
-    - word: '1'
-      position: 2
-    - word: つ
-      position: 3
-    - word: もらっ
-      base: 貰う
-      dictionary: もらう
-      position: 4
-    - word: て
-      position: 7
-    - word: いい
-      base: 良い
-      position: 8
-    - word: です
-      position: 10
-    - word: か
-      position: 12
 - id: A_GardenOfWords_0133
   deck_name: The Garden of Words
   translation: Hurry up!
   sound: A_GardenOfWords_1_0.15.19.340-0.15.20.580.mp3
   sentence: 早く来いよ
-  words:
-    - word: 早く
-      base: 早い
-      dictionary: 早い
-      position: 0
-    - word: 来い
-      base: 来る
-      dictionary: 来る
-      position: 2
-    - word: よ
-      position: 4
 - id: A_GardenOfWords_0134
   deck_name: The Garden of Words
   translation: Wait, bro!
   sound: A_GardenOfWords_1_0.15.20.740-0.15.22.260.mp3
   sentence: 待ってよお兄ちゃん
-  words:
-    - word: 待っ
-      base: 待つ
-      dictionary: 待つ
-      position: 0
-    - word: て
-      position: 2
-    - word: よ
-      position: 3
-    - word: お
-      base: 御
-      position: 4
-    - word: 兄ちゃん
-      position: 5
 - id: A_GardenOfWords_0135
   deck_name: The Garden of Words
   translation: Takao, be careful.
   sound: A_GardenOfWords_1_0.15.22.420-0.15.24.420.mp3
   sentence: タカオ気をつけて
-  words:
-    - word: タカオ
-      position: 0
-    - word: 気
-      position: 3
-    - word: を
-      position: 4
-    - word: つけ
-      base: つける
-      dictionary: つける
-      position: 5
-    - word: て
-      position: 7
 - id: A_GardenOfWords_0136
   deck_name: The Garden of Words
   translation: Happy birthday, Mom!
   sound: A_GardenOfWords_1_0.15.24.580-0.15.26.660.mp3
   sentence: お誕生日おめでとうお母さん
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 誕生
-      position: 1
-    - word: 日
-      position: 3
-    - word: おめでとう
-      position: 4
-    - word: お
-      base: 御
-      position: 9
-    - word: 母さん
-      position: 10
 - id: A_GardenOfWords_0137
   deck_name: The Garden of Words
   translation: Thank you. What could the three of you have gotten me?
   sound: A_GardenOfWords_1_0.15.27.260-0.15.31.100.mp3
   sentence: ありがとう　3人で何選んでくれたのかな
-  words:
-    - word: ありがとう
-      base: 有り難う
-      position: 0
-    - word: '3'
-      position: 6
-    - word: 人
-      position: 7
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 8
-    - word: 何
-      position: 9
-    - word: 選ん
-      base: 選ぶ
-      dictionary: 選ぶ
-      position: 10
-    - word: で
-      position: 12
-    - word: くれ
-      base: 呉れる
-      dictionary: くれる
-      position: 13
-    - word: た
-      position: 15
-    - word: の
-      position: 16
-    - word: か
-      position: 17
-    - word: な
-      position: 18
 - id: A_GardenOfWords_0138
   deck_name: The Garden of Words
   translation: Hey... Do you think it's too late for me?
   sound: A_GardenOfWords_1_0.15.59.540-0.16.05.300.mp3
   sentence: ねえ　私　まだ大丈夫なのかな?
-  words:
-    - word: ねえ
-      base: 姉
-      position: 0
-    - word: 私
-      position: 3
-    - word: まだ
-      base: 未だ
-      position: 5
-    - word: 大丈夫
-      position: 7
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 10
-    - word: の
-      position: 11
-    - word: か
-      position: 12
-    - word: な
-      position: 13
 - id: A_GardenOfWords_0139
   deck_name: The Garden of Words
   translation: And you know what?  could actually taste the food.
   sound: A_GardenOfWords_1_0.16.26.180-0.16.30.380.mp3
   sentence: それでね　ちゃんと味がするの　その人のお弁当
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: で
-      position: 2
-    - word: ね
-      position: 3
-    - word: ちゃんと
-      position: 5
-    - word: 味
-      position: 9
-    - word: が
-      position: 10
-    - word: する
-      base: 為る
-      position: 11
-    - word: の
-      position: 13
-    - word: その
-      base: 其の
-      position: 15
-    - word: 人
-      position: 17
-    - word: の
-      position: 18
-    - word: お
-      base: 御
-      position: 19
-    - word: 弁当
-      position: 20
 - id: A_GardenOfWords_0140
   deck_name: The Garden of Words
   translation: So your taste disorder has improved?
   sound: A_GardenOfWords_1_0.16.30.820-0.16.33.940.mp3
   sentence: よくなってきたんだな味覚障害
-  words:
-    - word: よく
-      base: 良い
-      dictionary: よい
-      position: 0
-    - word: なっ
-      base: 成る
-      dictionary: なる
-      position: 2
-    - word: て
-      position: 4
-    - word: き
-      base: 来る
-      dictionary: くる
-      position: 5
-    - word: た
-      position: 6
-    - word: ん
-      base: の
-      position: 7
-    - word: だ
-      position: 8
-    - word: な
-      position: 9
-    - word: 味覚
-      position: 10
-    - word: 障害
-      position: 12
 - id: A_GardenOfWords_0141
   deck_name: The Garden of Words
   translation: I wouldn't go that far.
   sound: A_GardenOfWords_1_0.16.34.060-0.16.36.820.mp3
   sentence: そんなに大げさなものでもないけど
-  words:
-    - word: そんな
-      position: 0
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 3
-    - word: 大げさ
-      base: 大袈裟
-      position: 4
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 7
-    - word: もの
-      base: 物
-      position: 8
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 10
-    - word: も
-      position: 11
-    - word: ない
-      base: 無い
-      position: 12
-    - word: けど
-      base: けれど
-      position: 14
 - id: A_GardenOfWords_0142
   deck_name: The Garden of Words
   translation: But just a little while ago, all I could taste was alcohol and chocolate.
   sound: A_GardenOfWords_1_0.16.36.980-0.16.41.980.mp3
   sentence: でもねちょっと前までは　本当にチョコレ一卜と　アル]—ルくらいしか　味がしなかったから
-  words:
-    - word: で
-      position: 0
-    - word: も
-      position: 1
-    - word: ね
-      position: 2
-    - word: ちょっと
-      base: 一寸
-      position: 3
-    - word: 前
-      position: 7
-    - word: まで
-      position: 8
-    - word: は
-      position: 10
-    - word: 本当
-      position: 12
-    - word: に
-      position: 14
-    - word: チョコレ
-      position: 15
-    - word: 一
-      base: '1'
-      position: 19
-    - word: 卜
-      base: 占い
-      position: 20
-    - word: と
-      position: 21
-    - word: アル
-      position: 23
-    - word: ル
-      position: 27
-    - word: くらい
-      position: 28
-    - word: しか
-      position: 31
-    - word: 味
-      position: 34
-    - word: が
-      position: 35
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 36
-    - word: なかっ
-      base: ない
-      dictionary: ない
-      position: 37
-    - word: た
-      position: 40
-    - word: から
-      position: 41
 - id: A_GardenOfWords_0143
   deck_name: The Garden of Words
   translation: I think you deciding to just quit was really for the best.
   sound: A_GardenOfWords_1_0.16.42.140-0.16.45.820.mp3
   sentence: やっぱり思いきって仕事　辞めることにしてよかったじゃないか
-  words:
-    - word: やっぱり
-      base: 矢張り
-      position: 0
-    - word: 思い
-      base: 思う
-      dictionary: 思う
-      position: 4
-    - word: きっ
-      base: 切る
-      dictionary: きる
-      position: 6
-    - word: て
-      position: 8
-    - word: 仕事
-      position: 9
-    - word: 辞める
-      position: 12
-    - word: こと
-      position: 15
-    - word: に
-      position: 17
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 18
-    - word: て
-      position: 19
-    - word: よかっ
-      base: 良い
-      dictionary: よい
-      position: 20
-    - word: た
-      position: 23
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 24
-    - word: ない
-      base: 無い
-      position: 26
-    - word: か
-      position: 28
 - id: A_GardenOfWords_0144
   deck_name: The Garden of Words
   translation: Maybe so.
   sound: A_GardenOfWords_1_0.16.46.020-0.16.47.900.mp3
   sentence: うん　そうかもね
-  words:
-    - word: うん
-      position: 0
-    - word: そう
-      position: 3
-    - word: か
-      position: 5
-    - word: も
-      position: 6
-    - word: ね
-      position: 7
 - id: A_GardenOfWords_0145
   deck_name: The Garden of Words
   translation: You speak to me so gently, like you're touching something fragile.
   sound: A_GardenOfWords_1_0.16.49.540-0.16.56.260.mp3
   sentence: この人はいかにも優しそうに話す　まるで壊れ物に触れるみたいに
-  words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: 人
-      position: 2
-    - word: は
-      position: 3
-    - word: いかに
-      base: 如何に
-      position: 4
-    - word: も
-      position: 7
-    - word: 優し
-      base: 優しい
-      dictionary: 優しい
-      position: 8
-    - word: そう
-      position: 10
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 12
-    - word: 話す
-      position: 13
-    - word: まるで
-      base: 丸で
-      position: 16
-    - word: 壊れ物
-      position: 19
-    - word: に
-      position: 22
-    - word: 触れる
-      position: 23
-    - word: みたい
-      position: 26
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 29
 - id: A_GardenOfWords_0146
   deck_name: The Garden of Words
   translation: >-
@@ -3466,82 +736,6 @@
     You only listened to the voices around you.
   sound: A_GardenOfWords_1_0.16.57.100-0.17.06.940.mp3
   sentence: でも息をするのもつらかったあの頃　あなたは　周りの声ばかりを聞いていて　私を信じてはくれなかった
-  words:
-    - word: で
-      position: 0
-    - word: も
-      position: 1
-    - word: 息
-      position: 2
-    - word: を
-      position: 3
-    - word: する
-      base: 為る
-      position: 4
-    - word: の
-      position: 6
-    - word: も
-      position: 7
-    - word: つらかっ
-      base: 辛い
-      dictionary: つらい
-      position: 8
-    - word: た
-      position: 12
-    - word: あの
-      base: 彼の
-      position: 13
-    - word: 頃
-      position: 15
-    - word: あなた
-      base: 貴方
-      position: 17
-    - word: は
-      position: 20
-    - word: 周り
-      position: 22
-    - word: の
-      position: 24
-    - word: 声
-      position: 25
-    - word: ばかり
-      position: 26
-    - word: を
-      position: 29
-    - word: 聞い
-      base: 聞く
-      dictionary: 聞く
-      position: 30
-    - word: て
-      position: 32
-    - word: い
-      base: 居る
-      dictionary: いる
-      position: 33
-    - word: て
-      position: 34
-    - word: 私
-      position: 36
-    - word: を
-      position: 37
-    - word: 信じ
-      base: 信ずる
-      dictionary: 信ずる
-      position: 38
-    - word: て
-      position: 40
-    - word: は
-      position: 41
-    - word: くれ
-      base: 呉れる
-      dictionary: くれる
-      position: 42
-    - word: なかっ
-      base: ない
-      dictionary: ない
-      position: 44
-    - word: た
-      position: 47
 - id: A_GardenOfWords_0147
   deck_name: The Garden of Words
   translation: >-
@@ -3549,118 +743,21 @@
     notify the higher-ups.
   sound: A_GardenOfWords_1_0.17.07.140-0.17.11.540.mp3
   sentence: じゃあ　退職手続きは休み明けに　上には俺から伝えとくよ
-  words:
-    - word: じゃあ
-      base: で
-      position: 0
-    - word: 退職
-      position: 4
-    - word: 手続き
-      position: 6
-    - word: は
-      position: 9
-    - word: 休み明け
-      position: 10
-    - word: に
-      position: 14
-    - word: 上
-      position: 16
-    - word: に
-      position: 17
-    - word: は
-      position: 18
-    - word: 俺
-      position: 19
-    - word: から
-      position: 20
-    - word: 伝え
-      base: 伝える
-      dictionary: 伝える
-      position: 22
-    - word: とく
-      position: 24
-    - word: よ
-      position: 26
 - id: A_GardenOfWords_0148
   deck_name: The Garden of Words
   translation: Okay. Sorry to cause you all this trouble even after we split up.
   sound: A_GardenOfWords_1_0.17.11.700-0.17.15.500.mp3
   sentence: うん　別れた後まで面倒かけて　ごめんね
-  words:
-    - word: うん
-      position: 0
-    - word: 別れ
-      base: 別れる
-      dictionary: 別れる
-      position: 3
-    - word: た
-      position: 5
-    - word: 後
-      position: 6
-    - word: まで
-      position: 7
-    - word: 面倒
-      position: 9
-    - word: かけ
-      base: 掛ける
-      dictionary: かける
-      position: 11
-    - word: て
-      position: 13
-    - word: ごめん
-      base: 御免
-      position: 15
-    - word: ね
-      position: 18
 - id: A_GardenOfWords_0149
   deck_name: The Garden of Words
   translation: I'm glad, really...
   sound: A_GardenOfWords_1_0.17.15.860-0.17.18.260.mp3
   sentence: よかったな　ほんとに　え？
-  words:
-    - word: よかっ
-      base: 良い
-      dictionary: よい
-      position: 0
-    - word: た
-      position: 3
-    - word: な
-      position: 4
-    - word: ほんと
-      base: 本当
-      position: 6
-    - word: に
-      position: 9
-    - word: え
-      base: えっ
-      position: 11
 - id: A_GardenOfWords_0150
   deck_name: The Garden of Words
   translation: About that old woman you met.
   sound: A_GardenOfWords_1_0.17.18.700-0.17.20.540.mp3
   sentence: そのおばあちゃんに会えてさ
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: お
-      base: 御
-      position: 2
-    - word: ばあ
-      base: 婆
-      position: 3
-    - word: ちゃん
-      position: 5
-    - word: に
-      position: 8
-    - word: 会え
-      base: 会う
-      dictionary: 会える
-      position: 9
-    - word: て
-      position: 11
-    - word: さ
-      position: 12
 - id: A_GardenOfWords_0151
   deck_name: The Garden of Words
   translation: >-
@@ -3668,159 +765,36 @@
     park.
   sound: A_GardenOfWords_1_0.17.21.500-0.17.26.700.mp3
   sentence: 誰ってほら公園の　その弁当を　持ってきてくれるっていう人
-  words:
-    - word: 誰
-      position: 0
-    - word: って
-      position: 1
-    - word: ほら
-      position: 3
-    - word: 公園
-      position: 5
-    - word: の
-      position: 7
-    - word: その
-      base: 其の
-      position: 9
-    - word: 弁当
-      position: 11
-    - word: を
-      position: 13
-    - word: 持っ
-      base: 持つ
-      dictionary: 持つ
-      position: 15
-    - word: て
-      position: 17
-    - word: き
-      base: 来る
-      dictionary: くる
-      position: 18
-    - word: て
-      position: 19
-    - word: くれる
-      base: 呉れる
-      position: 20
-    - word: って
-      position: 23
-    - word: いう
-      base: 言う
-      position: 25
-    - word: 人
-      position: 27
 - id: A_GardenOfWords_0152
   deck_name: The Garden of Words
   translation: It seems like you've really struck a chord.
   sound: A_GardenOfWords_1_0.17.27.140-0.17.28.940.mp3
   sentence: お互い　いい気晴らしだろ？
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 互い
-      position: 1
-    - word: いい
-      base: 良い
-      position: 4
-    - word: 気晴らし
-      position: 6
-    - word: だろ
-      base: だ
-      dictionary: だ
-      position: 10
 - id: A_GardenOfWords_0153
   deck_name: The Garden of Words
   translation: Yeah, get some rest.
   sound: A_GardenOfWords_1_0.17.31.740-0.17.33.780.mp3
   sentence: ああ　ゆっくり休めよ
-  words:
-    - word: ああ
-      position: 0
-    - word: ゆっくり
-      position: 3
-    - word: 休めよ
-      base: 休む
-      dictionary: 休める
-      position: 7
 - id: A_GardenOfWords_0154
   deck_name: The Garden of Words
   translation: Ever since then...
   sound: A_GardenOfWords_1_0.17.41.620-0.17.44.540.mp3
   sentence: あれ以来　私ー
-  words:
-    - word: あれ
-      base: 彼れ
-      position: 0
-    - word: 以来
-      position: 2
-    - word: 私
-      position: 5
-    - word: ー
-      position: 6
 - id: A_GardenOfWords_0155
   deck_name: The Garden of Words
   translation: ...I've been nothing but lies.
   sound: A_GardenOfWords_1_0.17.45.540-0.17.47.380.mp3
   sentence: ウソばっかりだ
-  words:
-    - word: ウソ
-      base: うそ
-      position: 0
-    - word: ばっかり
-      base: ばかり
-      position: 2
-    - word: だ
-      position: 6
 - id: A_GardenOfWords_0156
   deck_name: The Garden of Words
   translation: Rain...
   sound: A_GardenOfWords_1_0.18.04.580-0.18.05.660.mp3
   sentence: 雨だ
-  words:
-    - word: 雨
-      position: 0
-    - word: だ
-      position: 1
 - id: A_GardenOfWords_0157
   deck_name: The Garden of Words
   translation: It's raining again today in Kanto.
   sound: A_GardenOfWords_1_0.18.05.660-0.18.08.180.mp3
   sentence: 関東は今日も一日雨です　　関東は今日も一日雨です
-  words:
-    - word: 関東
-      position: 0
-    - word: は
-      position: 2
-    - word: 今日
-      position: 3
-    - word: も
-      position: 5
-    - word: 一
-      base: '1'
-      position: 6
-    - word: 日
-      position: 7
-    - word: 雨
-      position: 8
-    - word: です
-      position: 9
-    - word: 関東
-      position: 13
-    - word: は
-      position: 15
-    - word: 今日
-      position: 16
-    - word: も
-      position: 18
-    - word: 一
-      base: '1'
-      position: 19
-    - word: 日
-      position: 20
-    - word: 雨
-      position: 21
-    - word: です
-      position: 22
 - id: A_GardenOfWords_0158
   deck_name: The Garden of Words
   translation: >-
@@ -3828,475 +802,96 @@
     their hands.
   sound: A_GardenOfWords_1_0.18.08.420-0.18.12.180.mp3
   sentence: ここ新宿南口でも　通勤の皆さんは傘を手に…
-  words:
-    - word: ここ
-      base: 此処
-      position: 0
-    - word: 新宿
-      position: 2
-    - word: 南口
-      position: 4
-    - word: で
-      position: 6
-    - word: も
-      position: 7
-    - word: 通勤
-      position: 9
-    - word: の
-      position: 11
-    - word: 皆
-      position: 12
-    - word: さん
-      position: 13
-    - word: は
-      position: 15
-    - word: 傘
-      position: 16
-    - word: を
-      position: 17
-    - word: 手
-      position: 18
-    - word: に
-      position: 19
 - id: A_GardenOfWords_0159
   deck_name: The Garden of Words
   translation: Here, this is for you.
   sound: A_GardenOfWords_1_0.18.33.940-0.18.35.660.mp3
   sentence: ねえ　これ　お礼
-  words:
-    - word: ねえ
-      base: 姉
-      position: 0
-    - word: これ
-      base: 此れ
-      position: 3
-    - word: お
-      base: 御
-      position: 6
-    - word: 礼
-      position: 7
 - id: A_GardenOfWords_0160
   deck_name: The Garden of Words
   translation: For me?
   sound: A_GardenOfWords_1_0.18.35.980-0.18.36.780.mp3
   sentence: お礼？
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 礼
-      position: 1
 - id: A_GardenOfWords_0161
   deck_name: The Garden of Words
   translation: I always end up eating your food, see...
   sound: A_GardenOfWords_1_0.18.37.180-0.18.40.420.mp3
   sentence: 結局君のお弁当ばっかり　いただいちゃってるから
-  words:
-    - word: 結局
-      position: 0
-    - word: 君
-      position: 2
-    - word: の
-      position: 3
-    - word: お
-      base: 御
-      position: 4
-    - word: 弁当
-      position: 5
-    - word: ばっかり
-      base: ばかり
-      position: 7
-    - word: いただい
-      base: 頂く
-      dictionary: いただく
-      position: 12
-    - word: ちゃっ
-      base: ちゃう
-      dictionary: ちゃう
-      position: 16
-    - word: てる
-      position: 19
-    - word: から
-      position: 21
 - id: A_GardenOfWords_0162
   deck_name: The Garden of Words
   translation: And you said you wanted it, right?
   sound: A_GardenOfWords_1_0.18.40.540-0.18.42.380.mp3
   sentence: 欲しいって言ってたでしよ？
-  words:
-    - word: 欲しい
-      position: 0
-    - word: って
-      position: 3
-    - word: 言っ
-      base: 言う
-      dictionary: 言う
-      position: 5
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 7
-    - word: た
-      position: 8
-    - word: でし
-      dictionary: です
-      position: 9
-    - word: よ
-      position: 11
 - id: A_GardenOfWords_0163
   deck_name: The Garden of Words
   translation: This book isn't cheap...
   sound: A_GardenOfWords_1_0.18.43.940-0.18.45.260.mp3
   sentence: こんなに局い本
-  words:
-    - word: こんな
-      position: 0
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 3
-    - word: 局
-      position: 4
-    - word: い
-      base: いー
-      position: 5
-    - word: 本
-      position: 6
 - id: A_GardenOfWords_0164
   deck_name: The Garden of Words
   translation: Thank you... very much.
   sound: A_GardenOfWords_1_0.18.45.820-0.18.47.340.mp3
   sentence: ありがとう…ございます
-  words:
-    - word: ありがとう
-      base: 有り難う
-      position: 0
-    - word: ござい
-      base: 御座る
-      dictionary: ござる
-      position: 6
-    - word: ます
-      position: 9
 - id: A_GardenOfWords_0165
   deck_name: The Garden of Words
   translation: It's my pleasure.
   sound: A_GardenOfWords_1_0.18.47.460-0.18.48.980.mp3
   sentence: どういたしまして
-  words:
-    - word: どう
-      position: 0
-    - word: いたし
-      base: 致す
-      dictionary: いたす
-      position: 2
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 5
-    - word: て
-      position: 7
 - id: A_GardenOfWords_0166
   deck_name: The Garden of Words
   translation: Um...
   sound: A_GardenOfWords_1_0.18.57.300-0.18.58.860.mp3
   sentence: あの　俺…
-  words:
-    - word: あの
-      base: 彼の
-      position: 0
-    - word: 俺
-      position: 3
 - id: A_GardenOfWords_0167
   deck_name: The Garden of Words
   translation: I'm actually making a pair of shoes right now.
   sound: A_GardenOfWords_1_0.18.59.260-0.19.02.620.mp3
   sentence: 今　ちようど　靴を　1足　作ってるんですけど
-  words:
-    - word: 今
-      position: 0
-    - word: ちようど
-      base: 丁度
-      position: 2
-    - word: 靴
-      position: 7
-    - word: を
-      position: 8
-    - word: '1'
-      position: 10
-    - word: 足
-      position: 11
-    - word: 作っ
-      base: 作る
-      dictionary: 作る
-      position: 13
-    - word: てる
-      position: 15
-    - word: ん
-      base: の
-      position: 17
-    - word: です
-      position: 18
-    - word: けど
-      base: けれど
-      position: 20
 - id: A_GardenOfWords_0168
   deck_name: The Garden of Words
   translation: Wow... A pair for yourself?
   sound: A_GardenOfWords_1_0.19.02.820-0.19.05.100.mp3
   sentence: すごいね自分の靴？
-  words:
-    - word: すごい
-      base: 凄い
-      position: 0
-    - word: ね
-      position: 3
-    - word: 自分
-      position: 4
-    - word: の
-      position: 6
-    - word: 靴
-      position: 7
 - id: A_GardenOfWords_0169
   deck_name: The Garden of Words
   translation: I haven't decided whose shoes yet... They're women's shoes.
   sound: A_GardenOfWords_1_0.19.05.380-0.19.09.540.mp3
   sentence: 誰のかは決めてないけど　女性の靴です…
-  words:
-    - word: 誰
-      position: 0
-    - word: の
-      position: 1
-    - word: か
-      position: 2
-    - word: は
-      position: 3
-    - word: 決め
-      base: 決める
-      dictionary: 決める
-      position: 4
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 6
-    - word: ない
-      position: 7
-    - word: けど
-      base: けれど
-      position: 9
-    - word: 女性
-      position: 12
-    - word: の
-      position: 14
-    - word: 靴
-      position: 15
-    - word: です
-      position: 16
 - id: A_GardenOfWords_0170
   deck_name: The Garden of Words
   translation: But, I haven't been able to get them right, and...
   sound: A_GardenOfWords_1_0.19.10.380-0.19.14.780.mp3
   sentence: でも　どうもうまくいかなくて　それで…
-  words:
-    - word: で
-      position: 0
-    - word: も
-      position: 1
-    - word: どう
-      position: 3
-    - word: も
-      position: 5
-    - word: うまく
-      base: 旨い
-      dictionary: うまい
-      position: 6
-    - word: いか
-      base: 行く
-      dictionary: いく
-      position: 9
-    - word: なく
-      base: ない
-      dictionary: ない
-      position: 11
-    - word: て
-      position: 13
-    - word: それ
-      base: 其れ
-      position: 15
-    - word: で
-      position: 17
 - id: A_GardenOfWords_0171
   deck_name: The Garden of Words
   translation: You know... Before I knew it, I wasn't able to walk properly anymore.
   sound: A_GardenOfWords_1_0.20.24.300-0.20.31.740.mp3
   sentence: 私ね　うまく歩けなくなっちゃったの　いつの間にか
-  words:
-    - word: 私
-      position: 0
-    - word: ね
-      position: 1
-    - word: うまく
-      base: 旨い
-      dictionary: うまい
-      position: 3
-    - word: 歩け
-      base: 歩く
-      dictionary: 歩ける
-      position: 6
-    - word: なく
-      base: ない
-      dictionary: ない
-      position: 8
-    - word: なっ
-      base: 成る
-      dictionary: なる
-      position: 10
-    - word: ちゃっ
-      base: ちゃう
-      dictionary: ちゃう
-      position: 12
-    - word: た
-      position: 15
-    - word: の
-      position: 16
-    - word: いつ
-      position: 18
-    - word: の
-      position: 20
-    - word: 間
-      position: 21
-    - word: に
-      position: 22
-    - word: か
-      position: 23
 - id: A_GardenOfWords_0172
   deck_name: The Garden of Words
   translation: Are you talking about your job?
   sound: A_GardenOfWords_1_0.20.33.220-0.20.35.980.mp3
   sentence: それって仕事のこと？
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: って
-      position: 2
-    - word: 仕事
-      position: 4
-    - word: の
-      position: 6
-    - word: こと
-      position: 7
 - id: A_GardenOfWords_0173
   deck_name: The Garden of Words
   translation: Yeah... About a lot of things.
   sound: A_GardenOfWords_1_0.20.36.100-0.20.38.700.mp3
   sentence: うん…いろいろ
-  words:
-    - word: うん
-      position: 0
-    - word: いろいろ
-      base: 色々
-      position: 3
 - id: A_GardenOfWords_0174
   deck_name: The Garden of Words
   translation: I don't know anything about her.
   sound: A_GardenOfWords_1_0.20.43.220-0.20.46.340.mp3
   sentence: この人のことをまだ何も知らない
-  words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: 人
-      position: 2
-    - word: の
-      position: 3
-    - word: こと
-      position: 4
-    - word: を
-      position: 6
-    - word: まだ
-      base: 未だ
-      position: 7
-    - word: 何
-      position: 9
-    - word: も
-      position: 10
-    - word: 知ら
-      base: 知る
-      dictionary: 知る
-      position: 11
-    - word: ない
-      position: 13
 - id: A_GardenOfWords_0175
   deck_name: The Garden of Words
   translation: Her job, her age... What worries she carries... Even her name...
   sound: A_GardenOfWords_1_0.20.46.980-0.20.51.420.mp3
   sentence: 仕事も年も抱えた悩みも　名前さえも
-  words:
-    - word: 仕事
-      position: 0
-    - word: も
-      position: 2
-    - word: 年
-      position: 3
-    - word: も
-      position: 4
-    - word: 抱え
-      base: 抱える
-      dictionary: 抱える
-      position: 5
-    - word: た
-      position: 7
-    - word: 悩み
-      position: 8
-    - word: も
-      position: 10
-    - word: 名前
-      position: 12
-    - word: さえ
-      position: 14
-    - word: も
-      position: 16
 - id: A_GardenOfWords_0176
   deck_name: The Garden of Words
   translation: And yet I can't help but be charmed by her.
   sound: A_GardenOfWords_1_0.20.52.420-0.20.57.740.mp3
   sentence: それなのに　どうしようもなく惹かれていく
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 2
-    - word: の
-      position: 3
-    - word: に
-      position: 4
-    - word: どう
-      position: 6
-    - word: しよう
-      base: 仕様
-      position: 8
-    - word: も
-      position: 11
-    - word: なく
-      base: 無い
-      dictionary: ない
-      position: 12
-    - word: 惹か
-      base: 引く
-      dictionary: 惹く
-      position: 14
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 16
-    - word: て
-      position: 17
-    - word: いく
-      base: 行く
-      position: 18
 - id: A_GardenOfWords_0177
   deck_name: The Garden of Words
   translation: >-
@@ -4304,131 +899,16 @@
     region.
   sound: A_GardenOfWords_1_0.21.14.380-0.21.20.820.mp3
   sentence: 例年より10日遅く　本日　関東甲信の　梅雨明け宣言が出されました
-  words:
-    - word: 例年
-      position: 0
-    - word: より
-      position: 2
-    - word: '10'
-      position: 4
-    - word: 日
-      position: 6
-    - word: 遅く
-      base: 遅い
-      dictionary: 遅い
-      position: 7
-    - word: 本日
-      position: 10
-    - word: 関東
-      position: 13
-    - word: 甲信
-      position: 15
-    - word: の
-      position: 17
-    - word: 梅雨
-      position: 19
-    - word: 明け
-      position: 21
-    - word: 宣言
-      position: 23
-    - word: が
-      position: 25
-    - word: 出さ
-      base: 出す
-      dictionary: 出す
-      position: 26
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 28
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 29
-    - word: た
-      position: 31
 - id: A_GardenOfWords_0178
   deck_name: The Garden of Words
   translation: The current temperature in the city s 26 degrees.
   sound: A_GardenOfWords_1_0.21.21.020-0.21.24.020.mp3
   sentence: 都心の現在の気温は26度
-  words:
-    - word: 都心
-      position: 0
-    - word: の
-      position: 2
-    - word: 現在
-      position: 3
-    - word: の
-      position: 5
-    - word: 気温
-      position: 6
-    - word: は
-      position: 8
-    - word: '26'
-      position: 9
-    - word: 度
-      position: 11
 - id: A_GardenOfWords_0179
   deck_name: The Garden of Words
   translation: Like someone just flicked a switch, the sunny days came one after another.
   sound: A_GardenOfWords_1_0.21.24.140-0.21.30.020.mp3
   sentence: まるで誰かがスイッチを　切り替えたみたいに　晴れの日ばかりが続くようになった
-  words:
-    - word: まるで
-      base: 丸で
-      position: 0
-    - word: 誰
-      position: 3
-    - word: か
-      position: 4
-    - word: が
-      position: 5
-    - word: スイッチ
-      position: 6
-    - word: を
-      position: 10
-    - word: 切り
-      base: 切る
-      dictionary: 切る
-      position: 12
-    - word: 替え
-      base: 変える
-      dictionary: 替える
-      position: 14
-    - word: た
-      position: 16
-    - word: みたい
-      position: 17
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 20
-    - word: 晴れ
-      position: 22
-    - word: の
-      position: 24
-    - word: 日
-      position: 25
-    - word: ばかり
-      position: 26
-    - word: が
-      position: 29
-    - word: 続く
-      position: 30
-    - word: よう
-      base: 様
-      position: 32
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 34
-    - word: なっ
-      base: 成る
-      dictionary: なる
-      position: 35
-    - word: た
-      position: 37
 - id: A_GardenOfWords_0180
   deck_name: The Garden of Words
   translation: >-
@@ -4436,375 +916,76 @@
     anymore"...
   sound: A_GardenOfWords_1_0.21.30.780-0.21.37.260.mp3
   sentence: あの子か'授業をサボる口実が減ってよかった　なんて　今さらみたいに　考えたりはするけれど
-  words:
-    - word: あの
-      base: 彼の
-      position: 0
-    - word: 子
-      position: 2
-    - word: か
-      position: 3
-    - word: 授業
-      position: 5
-    - word: を
-      position: 7
-    - word: サボる
-      position: 8
-    - word: 口実
-      position: 11
-    - word: が
-      position: 13
-    - word: 減っ
-      base: 減る
-      dictionary: 減る
-      position: 14
-    - word: て
-      position: 16
-    - word: よかっ
-      base: 良い
-      dictionary: よい
-      position: 17
-    - word: た
-      position: 20
-    - word: なんて
-      position: 22
-    - word: 今さら
-      base: 今更
-      position: 26
-    - word: みたい
-      position: 29
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 32
-    - word: 考え
-      base: 考える
-      dictionary: 考える
-      position: 34
-    - word: たり
-      position: 36
-    - word: は
-      position: 38
-    - word: する
-      base: 為る
-      position: 39
-    - word: けれど
-      position: 41
 - id: A_GardenOfWords_0181
   deck_name: The Garden of Words
   translation: But in reality...
   sound: A_GardenOfWords_1_0.21.37.820-0.21.40.700.mp3
   sentence: でも本当は　梅雨が
-  words:
-    - word: で
-      position: 0
-    - word: も
-      position: 1
-    - word: 本当
-      position: 2
-    - word: は
-      position: 4
-    - word: 梅雨
-      position: 6
-    - word: が
-      position: 8
 - id: A_GardenOfWords_0182
   deck_name: The Garden of Words
   translation: ...I wish the rainy season had never ended.
   sound: A_GardenOfWords_1_0.21.42.780-0.21.44.700.mp3
   sentence: 明けてほしくなかった
-  words:
-    - word: 明け
-      base: 明ける
-      dictionary: 明ける
-      position: 0
-    - word: て
-      position: 2
-    - word: ほしく
-      base: 欲しい
-      dictionary: ほしい
-      position: 3
-    - word: なかっ
-      base: 無い
-      dictionary: ない
-      position: 6
-    - word: た
-      position: 9
 - id: A_GardenOfWords_0183
   deck_name: The Garden of Words
   translation: This park sure is big.
   sound: A_GardenOfWords_1_0.21.57.460-0.21.58.660.mp3
   sentence: 広い公菌だね
-  words:
-    - word: 広い
-      position: 0
-    - word: 公
-      position: 2
-    - word: 菌
-      position: 3
-    - word: だ
-      position: 4
-    - word: ね
-      position: 5
 - id: A_GardenOfWords_0184
   deck_name: The Garden of Words
   translation: I can't believe we're in Shinjuku.
   sound: A_GardenOfWords_1_0.21.58.820-0.22.00.900.mp3
   sentence: 新宿とは思えないな
-  words:
-    - word: 新宿
-      position: 0
-    - word: と
-      position: 2
-    - word: は
-      position: 3
-    - word: 思え
-      base: 思う
-      dictionary: 思える
-      position: 4
-    - word: ない
-      position: 6
-    - word: な
-      position: 8
 - id: A_GardenOfWords_0185
   deck_name: The Garden of Words
   translation: Oh, pardon us.
   sound: A_GardenOfWords_1_0.22.01.060-0.22.02.300.mp3
   sentence: あっすいません
-  words:
-    - word: あっ
-      position: 0
-    - word: すい
-      base: すむ
-      dictionary: すむ
-      position: 2
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 4
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 6
 - id: A_GardenOfWords_0186
   deck_name: The Garden of Words
   translation: Go ahead.
   sound: A_GardenOfWords_1_0.22.02.460-0.22.03.620.mp3
   sentence: いいえ
-  words:
-    - word: いいえ
-      position: 0
 - id: A_GardenOfWords_0187
   deck_name: The Garden of Words
   translation: These are the Japanese gardens, right? Where should we go next?
   sound: A_GardenOfWords_1_0.22.08.780-0.22.11.500.mp3
   sentence: ここが日本庭園でしょ？　次　どこ行こうか？
-  words:
-    - word: ここ
-      base: 此処
-      position: 0
-    - word: が
-      position: 2
-    - word: 日本
-      position: 3
-    - word: 庭園
-      position: 5
-    - word: でしょ
-      base: です
-      dictionary: です
-      position: 7
-    - word: 次
-      position: 12
-    - word: どこ
-      position: 14
-    - word: 行こう
-      base: 行く
-      dictionary: 行く
-      position: 16
-    - word: か
-      position: 19
 - id: A_GardenOfWords_0188
   deck_name: The Garden of Words
   translation: Isn't there a greenhouse? Let's check it out.
   sound: A_GardenOfWords_1_0.22.11.660-0.22.14.340.mp3
   sentence: 温室があるんだろ？　行ってみない？　見たい　見たい
-  words:
-    - word: 温室
-      position: 0
-    - word: が
-      position: 2
-    - word: ある
-      base: 有る
-      position: 3
-    - word: ん
-      base: の
-      position: 5
-    - word: だろ
-      base: だ
-      dictionary: だ
-      position: 6
-    - word: 行っ
-      base: 行く
-      dictionary: 行く
-      position: 10
-    - word: て
-      position: 12
-    - word: み
-      base: 見る
-      dictionary: みる
-      position: 13
-    - word: ない
-      position: 14
-    - word: 見
-      base: 見る
-      dictionary: 見る
-      position: 18
-    - word: たい
-      position: 19
-    - word: 見
-      base: 見る
-      dictionary: 見る
-      position: 22
-    - word: たい
-      position: 23
 - id: A_GardenOfWords_0189
   deck_name: The Garden of Words
   translation: It's like a totally different place on sunny days.
   sound: A_GardenOfWords_1_0.22.14.500-0.22.17.900.mp3
   sentence: 晴れの日のここは　知らない場所みたい
-  words:
-    - word: 晴れ
-      position: 0
-    - word: の
-      position: 2
-    - word: 日
-      position: 3
-    - word: の
-      position: 4
-    - word: ここ
-      base: 此処
-      position: 5
-    - word: は
-      position: 7
-    - word: 知ら
-      base: 知る
-      dictionary: 知る
-      position: 9
-    - word: ない
-      position: 11
-    - word: 場所
-      position: 13
-    - word: みたい
-      position: 15
 - id: A_GardenOfWords_0190
   deck_name: The Garden of Words
   translation: Thanks for the help.
   sound: A_GardenOfWords_1_0.22.21.980-0.22.23.180.mp3
   sentence: お疲れさま
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 疲れ
-      position: 1
-    - word: さま
-      base: 様
-      position: 3
 - id: A_GardenOfWords_0191
   deck_name: The Garden of Words
   translation: Hey, why don't you eat dinner with us, Takao?
   sound: A_GardenOfWords_1_0.22.23.700-0.22.25.980.mp3
   sentence: ねえタカオくんも　一緒に食事行かない？
-  words:
-    - word: ねえ
-      base: 姉
-      position: 0
-    - word: タカオ
-      position: 2
-    - word: くん
-      base: 君
-      position: 5
-    - word: も
-      position: 7
-    - word: 一緒
-      position: 9
-    - word: に
-      position: 11
-    - word: 食事
-      position: 12
-    - word: 行か
-      base: 行く
-      dictionary: 行く
-      position: 14
-    - word: ない
-      position: 16
 - id: A_GardenOfWords_0192
   deck_name: The Garden of Words
   translation: Sorry, but I've got my part-time job today.
   sound: A_GardenOfWords_1_0.22.26.100-0.22.27.820.mp3
   sentence: すみません　今日バイ卜なんです
-  words:
-    - word: すみ
-      base: すむ
-      dictionary: すむ
-      position: 0
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 2
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 4
-    - word: 今日
-      position: 6
-    - word: バイ
-      position: 8
-    - word: 卜
-      base: 占い
-      position: 10
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 11
-    - word: ん
-      base: の
-      position: 12
-    - word: です
-      position: 13
 - id: A_GardenOfWords_0193
   deck_name: The Garden of Words
   translation: This late?
   sound: A_GardenOfWords_1_0.22.28.020-0.22.29.260.mp3
   sentence: これから？
-  words:
-    - word: これ
-      base: 此れ
-      position: 0
-    - word: から
-      position: 2
 - id: A_GardenOfWords_0194
   deck_name: The Garden of Words
   translation: And I don't want to impose.
   sound: A_GardenOfWords_1_0.22.29.380-0.22.30.500.mp3
   sentence: お邪魔しちゃ悪いし
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 邪魔
-      position: 1
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 3
-    - word: ちゃ
-      base: て
-      position: 4
-    - word: 悪い
-      position: 6
-    - word: し
-      position: 8
 - id: A_GardenOfWords_0195
   deck_name: The Garden of Words
   translation: >-
@@ -4812,554 +993,101 @@
     once...
   sound: A_GardenOfWords_1_0.22.30.660-0.22.34.660.mp3
   sentence: 逆よ　私これからずっと　あの人と二人なんだから今日くらい
-  words:
-    - word: 逆
-      position: 0
-    - word: よ
-      position: 1
-    - word: 私
-      position: 3
-    - word: これ
-      base: 此れ
-      position: 4
-    - word: から
-      position: 6
-    - word: ずっと
-      position: 8
-    - word: あの
-      base: 彼の
-      position: 12
-    - word: 人
-      position: 14
-    - word: と
-      position: 15
-    - word: 二人
-      position: 16
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 18
-    - word: ん
-      base: の
-      position: 19
-    - word: だ
-      position: 20
-    - word: から
-      position: 21
-    - word: 今日
-      position: 23
-    - word: くらい
-      position: 25
 - id: A_GardenOfWords_0196
   deck_name: The Garden of Words
   translation: I can hear you.
   sound: A_GardenOfWords_1_0.22.34.860-0.22.36.460.mp3
   sentence: おい　聞こえてるぞ
-  words:
-    - word: おい
-      position: 0
-    - word: 聞こえ
-      base: 聞こえる
-      dictionary: 聞こえる
-      position: 3
-    - word: てる
-      position: 6
-    - word: ぞ
-      position: 8
 - id: A_GardenOfWords_0197
   deck_name: The Garden of Words
   translation: Well then, see you later.
   sound: A_GardenOfWords_1_0.22.38.180-0.22.39.700.mp3
   sentence: それじゃ　また
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: じゃ
-      base: で
-      position: 2
-    - word: また
-      base: 又
-      position: 5
 - id: A_GardenOfWords_0198
   deck_name: The Garden of Words
   translation: He's a cute kid.
   sound: A_GardenOfWords_1_0.22.41.780-0.22.43.580.mp3
   sentence: かわいい子だよね
-  words:
-    - word: かわいい
-      base: 可愛い
-      position: 0
-    - word: 子
-      position: 4
-    - word: だ
-      position: 5
-    - word: よ
-      position: 6
-    - word: ね
-      position: 7
 - id: A_GardenOfWords_0199
   deck_name: The Garden of Words
   translation: Did you notice his shoes?
   sound: A_GardenOfWords_1_0.22.43.700-0.22.45.620.mp3
   sentence: 気づいた？あいつの靴
-  words:
-    - word: 気づい
-      base: 気付く
-      dictionary: 気づく
-      position: 0
-    - word: た
-      position: 3
-    - word: あいつ
-      base: 彼奴
-      position: 5
-    - word: の
-      position: 8
-    - word: 靴
-      position: 9
 - id: A_GardenOfWords_0200
   deck_name: The Garden of Words
   translation: They're handmade.
   sound: A_GardenOfWords_1_0.22.45.860-0.22.46.820.mp3
   sentence: あれ手作りだぜ
-  words:
-    - word: あれ
-      position: 0
-    - word: 手作り
-      position: 2
-    - word: だ
-      position: 5
-    - word: ぜ
-      position: 6
 - id: A_GardenOfWords_0201
   deck_name: The Garden of Words
   translation: What? Seriously?
   sound: A_GardenOfWords_1_0.22.46.940-0.22.48.260.mp3
   sentence: えっ　ウソ！
-  words:
-    - word: えっ
-      position: 0
-    - word: ウソ
-      base: うそ
-      position: 3
 - id: A_GardenOfWords_0202
   deck_name: The Garden of Words
   translation: Just some ugly moccasins, though.
   sound: A_GardenOfWords_1_0.22.48.700-0.22.50.580.mp3
   sentence: 不格好なモカシンだけどな
-  words:
-    - word: 不
-      position: 0
-    - word: 格好
-      position: 1
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 3
-    - word: モカシン
-      position: 4
-    - word: だ
-      position: 8
-    - word: けど
-      base: けれど
-      position: 9
-    - word: な
-      position: 11
 - id: A_GardenOfWords_0203
   deck_name: The Garden of Words
   translation: He's got a bright future, doesn't he? I wonder if he'd make shoes for me?
   sound: A_GardenOfWords_1_0.22.50.740-0.22.54.780.mp3
   sentence: 将来楽しみじゃない？　私の靴も作ってくれないかな
-  words:
-    - word: 将来
-      position: 0
-    - word: 楽し
-      base: 楽しい
-      dictionary: 楽しい
-      position: 2
-    - word: み
-      base: 味
-      position: 4
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 5
-    - word: ない
-      base: 無い
-      position: 7
-    - word: 私
-      position: 11
-    - word: の
-      position: 12
-    - word: 靴
-      position: 13
-    - word: も
-      position: 14
-    - word: 作っ
-      base: 作る
-      dictionary: 作る
-      position: 15
-    - word: て
-      position: 17
-    - word: くれ
-      base: 呉れる
-      dictionary: くれる
-      position: 18
-    - word: ない
-      position: 20
-    - word: か
-      position: 22
-    - word: な
-      position: 23
 - id: A_GardenOfWords_0204
   deck_name: The Garden of Words
   translation: Who knows? Teenagers' interests change on a whim...
   sound: A_GardenOfWords_1_0.22.54.900-0.22.57.380.mp3
   sentence: どうかな　10代の目標なんて3日で変わるから
-  words:
-    - word: どう
-      position: 0
-    - word: か
-      position: 2
-    - word: な
-      position: 3
-    - word: '10'
-      position: 5
-    - word: 代
-      position: 7
-    - word: の
-      position: 8
-    - word: 目標
-      position: 9
-    - word: なんて
-      position: 11
-    - word: '3'
-      position: 14
-    - word: 日
-      position: 15
-    - word: で
-      position: 16
-    - word: 変わる
-      position: 17
-    - word: から
-      position: 20
 - id: A_GardenOfWords_0205
   deck_name: The Garden of Words
   translation: My brother moved out, and the rainless days continued.
   sound: A_GardenOfWords_1_0.22.57.540-0.23.01.700.mp3
   sentence: 兄が家を出て　雨が降らない日ばかりが続き
-  words:
-    - word: 兄
-      position: 0
-    - word: が
-      position: 1
-    - word: 家
-      position: 2
-    - word: を
-      position: 3
-    - word: 出
-      base: 出る
-      dictionary: 出る
-      position: 4
-    - word: て
-      position: 5
-    - word: 雨
-      position: 7
-    - word: が
-      position: 8
-    - word: 降ら
-      base: 降る
-      dictionary: 降る
-      position: 9
-    - word: ない
-      position: 11
-    - word: 日
-      position: 13
-    - word: ばかり
-      position: 14
-    - word: が
-      position: 17
-    - word: 続き
-      base: 続く
-      dictionary: 続く
-      position: 18
 - id: A_GardenOfWords_0206
   deck_name: The Garden of Words
   translation: I had no excuse to head to that place. And then, it was summer vacation.
   sound: A_GardenOfWords_1_0.23.01.860-0.23.06.300.mp3
   sentence: あの場所に行く口実ができないまま　夏休みが来た
-  words:
-    - word: あの
-      base: 彼の
-      position: 0
-    - word: 場所
-      position: 2
-    - word: に
-      position: 4
-    - word: 行く
-      position: 5
-    - word: 口実
-      position: 7
-    - word: が
-      position: 9
-    - word: でき
-      base: 出来る
-      dictionary: できる
-      position: 10
-    - word: ない
-      position: 12
-    - word: まま
-      base: 侭
-      position: 14
-    - word: 夏休み
-      position: 17
-    - word: が
-      position: 20
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 21
-    - word: た
-      position: 22
 - id: A_GardenOfWords_0207
   deck_name: The Garden of Words
   translation: I worked part-time almost every day over the summer.
   sound: A_GardenOfWords_1_0.23.31.260-0.23.34.540.mp3
   sentence: 夏休みにはほとんど每日バイ卜を入れた
-  words:
-    - word: 夏休み
-      position: 0
-    - word: に
-      position: 3
-    - word: は
-      position: 4
-    - word: ほとんど
-      base: 殆ど
-      position: 5
-    - word: 每
-      base: 毎
-      position: 9
-    - word: 日
-      position: 10
-    - word: バイ
-      position: 11
-    - word: 卜
-      base: 占い
-      position: 13
-    - word: を
-      position: 14
-    - word: 入れ
-      base: 入れる
-      dictionary: 入れる
-      position: 15
-    - word: た
-      position: 17
 - id: A_GardenOfWords_0208
   deck_name: The Garden of Words
   translation: Hmm, maybe chicken with cashew nuts?
   sound: A_GardenOfWords_1_0.23.34.660-0.23.36.580.mp3
   sentence: じゃあ　鶏肉のカシュ一ナッツ炒めとか
-  words:
-    - word: じゃあ
-      base: で
-      position: 0
-    - word: 鶏肉
-      position: 4
-    - word: の
-      position: 6
-    - word: カシュ
-      position: 7
-    - word: 一
-      base: '1'
-      position: 10
-    - word: ナッツ
-      position: 11
-    - word: 炒め
-      position: 14
-    - word: と
-      position: 16
-    - word: か
-      position: 17
 - id: A_GardenOfWords_0209
   deck_name: The Garden of Words
   translation: Looks good to me.
   sound: A_GardenOfWords_1_0.23.36.740-0.23.38.300.mp3
   sentence: ―　おいしそう　―　おいしそうね
-  words:
-    - word: おいし
-      base: 美味しい
-      dictionary: おいしい
-      position: 2
-    - word: そう
-      position: 5
-    - word: おいし
-      base: 美味しい
-      dictionary: おいしい
-      position: 10
-    - word: そう
-      position: 13
-    - word: ね
-      position: 15
 - id: A_GardenOfWords_0210
   deck_name: The Garden of Words
   translation: Indeed. We'll order it.
   sound: A_GardenOfWords_1_0.23.38.420-0.23.39.260.mp3
   sentence: じゃそれもらおう
-  words:
-    - word: じゃ
-      base: で
-      position: 0
-    - word: それ
-      base: 其れ
-      position: 2
-    - word: もらおう
-      base: 貰う
-      dictionary: もらう
-      position: 4
 - id: A_GardenOfWords_0211
   deck_name: The Garden of Words
   translation: I wanted to earn what I could for tuition to a vocational school.
   sound: A_GardenOfWords_1_0.23.39.420-0.23.43.180.mp3
   sentence: 専門に行くための学費を　少しでも貯めておきたかったし
-  words:
-    - word: 専門
-      position: 0
-    - word: に
-      position: 2
-    - word: 行く
-      position: 3
-    - word: ため
-      base: 為
-      position: 5
-    - word: の
-      position: 7
-    - word: 学費
-      position: 8
-    - word: を
-      position: 10
-    - word: 少し
-      position: 12
-    - word: で
-      position: 14
-    - word: も
-      position: 15
-    - word: 貯め
-      base: 溜める
-      dictionary: 貯める
-      position: 16
-    - word: て
-      position: 18
-    - word: おき
-      base: おく
-      dictionary: おく
-      position: 19
-    - word: たかっ
-      base: たい
-      dictionary: たい
-      position: 21
-    - word: た
-      position: 24
-    - word: し
-      position: 25
 - id: A_GardenOfWords_0212
   deck_name: The Garden of Words
   translation: Tools and leather cost money, too.
   sound: A_GardenOfWords_1_0.23.43.420-0.23.46.380.mp3
   sentence: 道具にも革にも金はかかる
-  words:
-    - word: 道具
-      position: 0
-    - word: に
-      position: 2
-    - word: も
-      position: 3
-    - word: 革
-      position: 4
-    - word: に
-      position: 5
-    - word: も
-      position: 6
-    - word: 金
-      position: 7
-    - word: は
-      position: 8
-    - word: かかる
-      base: 掛かる
-      position: 9
 - id: A_GardenOfWords_0213
   deck_name: The Garden of Words
   translation: Sure, I missed her, but...
   sound: A_GardenOfWords_1_0.23.50.420-0.23.52.180.mp3
   sentence: あの人に会いたいと思うけれど
-  words:
-    - word: あの
-      base: 彼の
-      position: 0
-    - word: 人
-      position: 2
-    - word: に
-      position: 3
-    - word: 会い
-      base: 会う
-      dictionary: 会う
-      position: 4
-    - word: たい
-      position: 6
-    - word: と
-      position: 8
-    - word: 思う
-      position: 9
-    - word: けれど
-      position: 11
 - id: A_GardenOfWords_0214
   deck_name: The Garden of Words
   translation: I think it's clinging to those feelings that is keeping me a little kid.
   sound: A_GardenOfWords_1_0.23.52.580-0.23.58.020.mp3
   sentence: その気持ちを　抱え込んでいるだけでは　きっといつまでもガキのままだ
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 気持ち
-      position: 2
-    - word: を
-      position: 5
-    - word: 抱え
-      base: 抱える
-      dictionary: 抱える
-      position: 7
-    - word: 込ん
-      base: 込む
-      dictionary: 込む
-      position: 9
-    - word: で
-      position: 11
-    - word: いる
-      base: 居る
-      position: 12
-    - word: だけ
-      position: 14
-    - word: で
-      position: 16
-    - word: は
-      position: 17
-    - word: きっと
-      position: 19
-    - word: いつ
-      position: 22
-    - word: まで
-      position: 24
-    - word: も
-      position: 26
-    - word: ガキ
-      position: 27
-    - word: の
-      position: 29
-    - word: まま
-      base: 侭
-      position: 30
-    - word: だ
-      position: 32
 - id: A_GardenOfWords_0215
   deck_name: The Garden of Words
   translation: >-
@@ -5367,405 +1095,81 @@
     walk.
   sound: A_GardenOfWords_1_0.24.04.780-0.24.11.940.mp3
   sentence: だから何よりも俺は　あの人がたくさん歩きたくなるような　靴を作ろうと　そう決めた
-  words:
-    - word: だ
-      position: 0
-    - word: から
-      position: 1
-    - word: 何
-      position: 3
-    - word: より
-      position: 4
-    - word: も
-      position: 6
-    - word: 俺
-      position: 7
-    - word: は
-      position: 8
-    - word: あの
-      base: 彼の
-      position: 10
-    - word: 人
-      position: 12
-    - word: が
-      position: 13
-    - word: たくさん
-      base: 沢山
-      position: 14
-    - word: 歩き
-      base: 歩く
-      dictionary: 歩く
-      position: 18
-    - word: たく
-      base: たい
-      dictionary: たい
-      position: 20
-    - word: なる
-      base: 成る
-      position: 22
-    - word: よう
-      base: 様
-      position: 24
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 26
-    - word: 靴
-      position: 28
-    - word: を
-      position: 29
-    - word: 作ろう
-      base: 作る
-      dictionary: 作る
-      position: 30
-    - word: と
-      position: 33
-    - word: そう
-      position: 35
-    - word: 決め
-      base: 決める
-      dictionary: 決める
-      position: 37
-    - word: た
-      position: 39
 - id: A_GardenOfWords_0216
   deck_name: The Garden of Words
   translation: What~ will the weather~ be tomorrow~?
   sound: A_GardenOfWords_1_0.24.13.020-0.24.16.700.mp3
   sentence: 明日天気にな一れ
-  words:
-    - word: 明日
-      position: 0
-    - word: 天気
-      position: 2
-    - word: に
-      position: 4
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 5
-    - word: 一
-      base: '1'
-      position: 6
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 7
 - id: A_GardenOfWords_0217
   deck_name: The Garden of Words
   translation: I'm not even a bit smarter at the age of 27 than I was at the age of 15.
   sound: A_GardenOfWords_1_0.24.23.020-0.24.29.300.mp3
   sentence: 27歳の私は　15歳の頃の私より少しも賢くない
-  words:
-    - word: '27'
-      position: 0
-    - word: 歳
-      position: 2
-    - word: の
-      position: 3
-    - word: 私
-      position: 4
-    - word: は
-      position: 5
-    - word: '15'
-      position: 7
-    - word: 歳
-      position: 9
-    - word: の
-      position: 10
-    - word: 頃
-      position: 11
-    - word: の
-      position: 12
-    - word: 私
-      position: 13
-    - word: より
-      position: 14
-    - word: 少し
-      position: 16
-    - word: も
-      position: 18
-    - word: 賢く
-      base: 賢い
-      dictionary: 賢い
-      position: 19
-    - word: ない
-      base: 無い
-      position: 21
 - id: A_GardenOfWords_0218
   deck_name: The Garden of Words
   translation: I've always been here, stuck in the same place.
   sound: A_GardenOfWords_1_0.24.31.020-0.24.36.220.mp3
   sentence: 私ばっかりずっと同じ場所にいる
-  words:
-    - word: 私
-      position: 0
-    - word: ばっかり
-      base: ばかり
-      position: 1
-    - word: ずっと
-      position: 5
-    - word: 同じ
-      position: 8
-    - word: 場所
-      position: 10
-    - word: に
-      position: 12
-    - word: いる
-      base: 居る
-      position: 13
 - id: A_GardenOfWords_0219
   deck_name: The Garden of Words
   translation: It's just like Tsukishima...
   sound: A_GardenOfWords_1_0.25.22.780-0.25.26.020.mp3
   sentence: 困っちゃってさ　ほんとツキシマらしいよな
-  words:
-    - word: 困っ
-      base: 困る
-      dictionary: 困る
-      position: 0
-    - word: ちゃっ
-      base: ちゃう
-      dictionary: ちゃう
-      position: 2
-    - word: て
-      position: 5
-    - word: さ
-      position: 6
-    - word: ほんと
-      base: 本当
-      position: 8
-    - word: ツキシマ
-      position: 11
-    - word: らしい
-      position: 15
-    - word: よ
-      position: 18
-    - word: な
-      position: 19
 - id: A_GardenOfWords_0220
   deck_name: The Garden of Words
   translation: to have got that confused for a week!
   sound: A_GardenOfWords_1_0.25.26.180-0.25.27.540.mp3
   sentence: 1週間も勘違いだぜ
-  words:
-    - word: '1'
-      position: 0
-    - word: 週間
-      position: 1
-    - word: も
-      position: 3
-    - word: 勘違い
-      position: 4
-    - word: だ
-      position: 7
-    - word: ぜ
-      position: 8
 - id: A_GardenOfWords_0221
   deck_name: The Garden of Words
   translation: English class is no big deal.
   sound: A_GardenOfWords_1_0.25.27.940-0.25.29.620.mp3
   sentence: 英語の課題は平気だよ
-  words:
-    - word: 英語
-      position: 0
-    - word: の
-      position: 2
-    - word: 課題
-      position: 3
-    - word: は
-      position: 5
-    - word: 平気
-      position: 6
-    - word: だ
-      position: 8
-    - word: よ
-      position: 9
 - id: A_GardenOfWords_0222
   deck_name: The Garden of Words
   translation: That's 'cause Kiso's a pushover.
   sound: A_GardenOfWords_1_0.25.29.740-0.25.31.580.mp3
   sentence: キソセン甘いからな
-  words:
-    - word: キソセン
-      position: 0
-    - word: 甘い
-      position: 4
-    - word: から
-      position: 6
-    - word: な
-      position: 8
 - id: A_GardenOfWords_0223
   deck_name: The Garden of Words
   translation: Akizuki!
   sound: A_GardenOfWords_1_0.25.36.180-0.25.37.460.mp3
   sentence: 秋月くん
-  words:
-    - word: 秋月
-      position: 0
-    - word: くん
-      base: 君
-      position: 2
 - id: A_GardenOfWords_0224
   deck_name: The Garden of Words
   translation: Hey, long time no see. Looks like you guys got a tan.
   sound: A_GardenOfWords_1_0.25.37.860-0.25.41.180.mp3
   sentence: よお　久しぶり　お前たち焼けたな
-  words:
-    - word: よお
-      base: よう
-      position: 0
-    - word: 久しぶり
-      base: 久し振り
-      position: 3
-    - word: お前
-      base: 御前
-      position: 8
-    - word: たち
-      base: 達
-      position: 10
-    - word: 焼け
-      base: 焼く
-      dictionary: 焼ける
-      position: 12
-    - word: た
-      position: 14
-    - word: な
-      position: 15
 - id: A_GardenOfWords_0225
   deck_name: The Garden of Words
   translation: Yeah, we went to the beach a bunch.
   sound: A_GardenOfWords_1_0.25.41.380-0.25.43.380.mp3
   sentence: エへ結構　海に行ったからね
-  words:
-    - word: エ
-      position: 0
-    - word: へ
-      position: 1
-    - word: 結構
-      position: 2
-    - word: 海
-      position: 5
-    - word: に
-      position: 6
-    - word: 行っ
-      base: 行く
-      dictionary: 行く
-      position: 7
-    - word: た
-      position: 9
-    - word: から
-      position: 10
-    - word: ね
-      position: 12
 - id: A_GardenOfWords_0226
   deck_name: The Garden of Words
   translation: You're still as pale as ever. What'd you do over summer break?
   sound: A_GardenOfWords_1_0.25.43.540-0.25.46.620.mp3
   sentence: お前は相変わらず白いな　夏休みどうしてた？
-  words:
-    - word: お前
-      base: 御前
-      position: 0
-    - word: は
-      position: 2
-    - word: 相
-      position: 3
-    - word: 変わら
-      base: 変わる
-      dictionary: 変わる
-      position: 4
-    - word: ず
-      dictionary: ぬ
-      position: 7
-    - word: 白い
-      position: 8
-    - word: な
-      position: 10
-    - word: 夏休み
-      position: 12
-    - word: どう
-      position: 15
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 17
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 18
-    - word: た
-      position: 19
 - id: A_GardenOfWords_0227
   deck_name: The Garden of Words
   translation: Worked the whole time. The whole time?
   sound: A_GardenOfWords_1_0.25.46.740-0.25.49.100.mp3
   sentence: ―ずっとバイト　―ずっと？
-  words:
-    - word: ずっと
-      position: 1
-    - word: バイト
-      position: 4
-    - word: ずっと
-      position: 9
 - id: A_GardenOfWords_0228
   deck_name: The Garden of Words
   translation: That's a lonely way to spend your high school days.
   sound: A_GardenOfWords_1_0.25.54.060-0.25.56.060.mp3
   sentence: 寂しい高校生活だな
-  words:
-    - word: 寂しい
-      position: 0
-    - word: 高校
-      position: 3
-    - word: 生活
-      position: 5
-    - word: だ
-      position: 7
-    - word: な
-      position: 8
 - id: A_GardenOfWords_0229
   deck_name: The Garden of Words
   translation: School, part-time job, housework. School, part-time job, housework.
   sound: A_GardenOfWords_1_0.25.56.220-0.25.58.540.mp3
   sentence: 学校バイ卜家事　学校バイ卜家事
-  words:
-    - word: 学校
-      position: 0
-    - word: バイ
-      position: 2
-    - word: 卜
-      base: 占い
-      position: 4
-    - word: 家事
-      position: 5
-    - word: 学校
-      position: 8
-    - word: バイ
-      position: 10
-    - word: 卜
-      base: 占い
-      position: 12
-    - word: 家事
-      position: 13
 - id: A_GardenOfWords_0230
   deck_name: The Garden of Words
   translation: I skip school sometimes!
   sound: A_GardenOfWords_1_0.25.58.700-0.26.00.060.mp3
   sentence: 適当にサボってるよ
-  words:
-    - word: 適当
-      position: 0
-    - word: に
-      position: 2
-    - word: サボっ
-      base: サボる
-      dictionary: サボる
-      position: 3
-    - word: てる
-      position: 6
-    - word: よ
-      position: 8
 - id: A_GardenOfWords_0231
   deck_name: The Garden of Words
   translation: Now that you mention it, you are late a lot, Akizuki.
@@ -5776,422 +1180,86 @@
       position: 1
       tags:
         - silent
-    - word: そう
-      position: 5
-    - word: いえ
-      base: 言う
-      dictionary: いう
-      position: 7
-    - word: ば
-      position: 9
-    - word: よく
-      base: 良く
-      position: 10
-    - word: 遅刻
-      position: 12
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 14
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 15
-    - word: た
-      position: 16
-    - word: よ
-      position: 17
-    - word: ね
-      position: 18
-    - word: 秋月
-      position: 20
-    - word: くん
-      base: 君
-      position: 22
 - id: A_GardenOfWords_0232
   deck_name: The Garden of Words
   translation: Yup, this guy never shows up for 1st period when it rains.
   sound: A_GardenOfWords_1_0.26.03.220-0.26.05.740.mp3
   sentence: そ！こいつ雨の1限は来ない
-  words:
-    - word: そ
-      base: そう
-      position: 0
-    - word: こいつ
-      base: 此奴
-      position: 2
-    - word: 雨
-      position: 5
-    - word: の
-      position: 6
-    - word: '1'
-      position: 7
-    - word: 限
-      position: 8
-    - word: は
-      position: 9
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 10
-    - word: ない
-      position: 11
 - id: A_GardenOfWords_0233
   deck_name: The Garden of Words
   translation: I've got a condition where I can't ride the subway on rainy mornings.
   sound: A_GardenOfWords_1_0.26.05.900-0.26.08.540.mp3
   sentence: 雨の朝は地下鉄に　乗れなくなる病なんだ
-  words:
-    - word: 雨
-      position: 0
-    - word: の
-      position: 1
-    - word: 朝
-      position: 2
-    - word: は
-      position: 3
-    - word: 地下鉄
-      position: 4
-    - word: に
-      position: 7
-    - word: 乗れ
-      base: 乗る
-      dictionary: 乗れる
-      position: 9
-    - word: なく
-      base: ない
-      dictionary: ない
-      position: 11
-    - word: なる
-      base: 成る
-      position: 13
-    - word: 病
-      position: 15
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 16
-    - word: ん
-      base: の
-      position: 17
-    - word: だ
-      position: 18
 - id: A_GardenOfWords_0234
   deck_name: The Garden of Words
   translation: Whatever, weirdo.
   sound: A_GardenOfWords_1_0.26.08.740-0.26.10.220.mp3
   sentence: ふざけんなよ
-  words:
-    - word: ふざけん
-      base: ふざける
-      dictionary: ふざける
-      position: 0
-    - word: な
-      position: 4
-    - word: よ
-      position: 5
 - id: A_GardenOfWords_0235
   deck_name: The Garden of Words
   translation: Miss Yukino?
   sound: A_GardenOfWords_1_0.26.17.740-0.26.19.860.mp3
   sentence: えっ　ユキノ先生？
-  words:
-    - word: えっ
-      position: 0
-    - word: ユキノ
-      position: 3
-    - word: 先生
-      position: 6
 - id: A_GardenOfWords_0236
   deck_name: The Garden of Words
   translation: Miss Yukino!
   sound: A_GardenOfWords_1_0.26.21.660-0.26.22.980.mp3
   sentence: 先生
-  words:
-    - word: 先生
-      position: 0
 - id: A_GardenOfWords_0237
   deck_name: The Garden of Words
   translation: Sato... Miss Yukino...
   sound: A_GardenOfWords_1_0.26.26.060-0.26.27.420.mp3
   sentence: 佐藤さん
-  words:
-    - word: 佐藤
-      position: 0
-    - word: さん
-      position: 2
 - id: A_GardenOfWords_0238
   deck_name: The Garden of Words
   translation: Sato, save it for later. Miss Yukino!
   sound: A_GardenOfWords_1_0.26.27.660-0.26.29.340.mp3
   sentence: 佐藤後にしてくれ　先生　ユキノ先生
-  words:
-    - word: 佐藤
-      position: 0
-    - word: 後
-      position: 2
-    - word: に
-      position: 3
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 4
-    - word: て
-      position: 5
-    - word: くれ
-      base: 呉れる
-      dictionary: くれる
-      position: 6
-    - word: 先生
-      position: 9
-    - word: ユキノ
-      position: 12
-    - word: 先生
-      position: 15
 - id: A_GardenOfWords_0239
   deck_name: The Garden of Words
   translation: Same goes for the rest of you.
   sound: A_GardenOfWords_1_0.26.29.460-0.26.30.260.mp3
   sentence: ほらお前たちも
-  words:
-    - word: ほら
-      position: 0
-    - word: お前
-      base: 御前
-      position: 2
-    - word: たち
-      base: 達
-      position: 4
-    - word: も
-      position: 6
 - id: A_GardenOfWords_0240
   deck_name: The Garden of Words
   translation: I'm sorry, everyone.
   sound: A_GardenOfWords_1_0.26.30.420-0.26.31.740.mp3
   sentence: ごめんねみんな
-  words:
-    - word: ごめん
-      base: 御免
-      position: 0
-    - word: ね
-      position: 3
-    - word: みんな
-      base: 皆
-      position: 4
 - id: A_GardenOfWords_0241
   deck_name: The Garden of Words
   translation: I'll be here until after 5th period. After that, I'd be happy to.
   sound: A_GardenOfWords_1_0.26.31.900-0.26.35.260.mp3
   sentence: 5限の後まではいるから　よかったら後で
-  words:
-    - word: '5'
-      position: 0
-    - word: 限
-      position: 1
-    - word: の
-      position: 2
-    - word: 後
-      position: 3
-    - word: まで
-      position: 4
-    - word: は
-      position: 6
-    - word: いる
-      base: 居る
-      position: 7
-    - word: から
-      position: 9
-    - word: よかっ
-      base: 良い
-      dictionary: よい
-      position: 12
-    - word: たら
-      base: た
-      dictionary: た
-      position: 15
-    - word: 後
-      position: 17
-    - word: で
-      position: 18
 - id: A_GardenOfWords_0242
   deck_name: The Garden of Words
   translation: Yukino came to school?
   sound: A_GardenOfWords_1_0.26.39.100-0.26.42.020.mp3
   sentence: ユキノちゃん　学校に来たんだな
-  words:
-    - word: ユキノ
-      position: 0
-    - word: ちゃん
-      position: 3
-    - word: 学校
-      position: 7
-    - word: に
-      position: 9
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 10
-    - word: た
-      position: 11
-    - word: ん
-      base: の
-      position: 12
-    - word: だ
-      position: 13
-    - word: な
-      position: 14
 - id: A_GardenOfWords_0243
   deck_name: The Garden of Words
   translation: You didn't hear about Yukino quittin'?
   sound: A_GardenOfWords_1_0.26.47.260-0.26.50.020.mp3
   sentence: ユキノちゃんが学校辞めるって話　知らない？
-  words:
-    - word: ユキノ
-      position: 0
-    - word: ちゃん
-      position: 3
-    - word: が
-      position: 6
-    - word: 学校
-      position: 7
-    - word: 辞める
-      position: 9
-    - word: って
-      position: 12
-    - word: 話
-      position: 14
-    - word: 知ら
-      base: 知る
-      dictionary: 知る
-      position: 16
-    - word: ない
-      position: 18
 - id: A_GardenOfWords_0244
   deck_name: The Garden of Words
   translation: No. I didn't even know who she is.
   sound: A_GardenOfWords_1_0.26.50.140-0.26.53.540.mp3
   sentence: 知らない　誰かも知らない
-  words:
-    - word: 知ら
-      base: 知る
-      dictionary: 知る
-      position: 0
-    - word: ない
-      position: 2
-    - word: 誰
-      position: 5
-    - word: か
-      position: 6
-    - word: も
-      position: 7
-    - word: 知ら
-      base: 知る
-      dictionary: 知る
-      position: 8
-    - word: ない
-      position: 10
 - id: A_GardenOfWords_0245
   deck_name: The Garden of Words
   translation: You have old man Takehara for lit, right?
   sound: A_GardenOfWords_1_0.26.54.540-0.26.58.020.mp3
   sentence: お前のクラスの古典　竹原ジイだったか
-  words:
-    - word: お前
-      base: 御前
-      position: 0
-    - word: の
-      position: 2
-    - word: クラス
-      position: 3
-    - word: の
-      position: 6
-    - word: 古典
-      position: 7
-    - word: 竹原
-      position: 10
-    - word: ジイ
-      base: 爺
-      position: 12
-    - word: だっ
-      base: だ
-      dictionary: だ
-      position: 14
-    - word: た
-      position: 16
-    - word: か
-      position: 17
 - id: A_GardenOfWords_0246
   deck_name: The Garden of Words
   translation: Yukino was always having trouble with the 3rd year girls.
   sound: A_GardenOfWords_1_0.26.58.340-0.27.02.020.mp3
   sentence: ユキノちゃん3年の女子たちと　ずっとモメてたらしいぜ
-  words:
-    - word: ユキノ
-      position: 0
-    - word: ちゃん
-      position: 3
-    - word: '3'
-      position: 6
-    - word: 年
-      position: 7
-    - word: の
-      position: 8
-    - word: 女子
-      position: 9
-    - word: たち
-      base: 達
-      position: 11
-    - word: と
-      position: 13
-    - word: ずっと
-      position: 15
-    - word: モメ
-      base: 揉む
-      dictionary: モメる
-      position: 18
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 20
-    - word: た
-      position: 21
-    - word: らしい
-      position: 22
-    - word: ぜ
-      position: 25
 - id: A_GardenOfWords_0247
   deck_name: The Garden of Words
   translation: Yeah, but Miss Yukino didn't do anything wrong.
   sound: A_GardenOfWords_1_0.27.06.540-0.27.09.540.mp3
   sentence: ていうかユキノ先生は　全然悪くないのよ
-  words:
-    - word: て
-      base: って
-      position: 0
-    - word: いう
-      base: 言う
-      position: 1
-    - word: か
-      position: 3
-    - word: ユキノ
-      position: 4
-    - word: 先生
-      position: 7
-    - word: は
-      position: 9
-    - word: 全然
-      position: 11
-    - word: 悪く
-      base: 悪い
-      dictionary: 悪い
-      position: 13
-    - word: ない
-      base: 無い
-      position: 15
-    - word: の
-      position: 17
-    - word: よ
-      position: 18
 - id: A_GardenOfWords_0248
   deck_name: The Garden of Words
   translation: >-
@@ -6204,1403 +1272,276 @@
       position: 1
       tags:
         - silent
-    - word: 誰
-      position: 5
-    - word: か
-      position: 6
-    - word: の
-      position: 7
-    - word: 彼氏
-      position: 8
-    - word: が
-      position: 10
-    - word: ユキノ
-      position: 11
-    - word: 先生
-      position: 14
-    - word: に
-      position: 16
-    - word: 惚れ
-      base: 惚れる
-      dictionary: 惚れる
-      position: 18
-    - word: ちゃっ
-      base: ちゃう
-      dictionary: ちゃう
-      position: 20
-    - word: た
-      position: 23
-    - word: と
-      position: 24
-    - word: か
-      position: 25
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 26
-    - word: さ
-      position: 27
-    - word: 逆恨み
-      position: 29
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 32
-    - word: て
-      position: 33
-    - word: クラス
-      position: 34
-    - word: 全員
-      position: 37
-    - word: で
-      position: 39
-    - word: 散々
-      position: 41
-    - word: 先生
-      position: 43
-    - word: に
-      position: 45
-    - word: 嫌がらせ
-      position: 46
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 50
-    - word: て
-      position: 51
 - id: A_GardenOfWords_0249
   deck_name: The Garden of Words
   translation: They spread so many rumors even her parents heard about them.
   sound: A_GardenOfWords_1_0.27.17.060-0.27.19.220.mp3
   sentence: 親にまでデタラヌな噂　ばらまいて
-  words:
-    - word: 親
-      position: 0
-    - word: に
-      position: 1
-    - word: まで
-      position: 2
-    - word: デタラヌ
-      position: 4
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 8
-    - word: 噂
-      position: 9
-    - word: ばらまい
-      base: 散蒔く
-      dictionary: ばらまく
-      position: 11
-    - word: て
-      position: 15
 - id: A_GardenOfWords_0250
   deck_name: The Garden of Words
   translation: It went so far she couldn't come to school any more.
   sound: A_GardenOfWords_1_0.27.19.340-0.27.21.940.mp3
   sentence: 学校に来れなくなるまで　追い込んで
-  words:
-    - word: 学校
-      position: 0
-    - word: に
-      position: 2
-    - word: 来れ
-      base: 来る
-      dictionary: 来れる
-      position: 3
-    - word: なく
-      base: ない
-      dictionary: ない
-      position: 5
-    - word: なる
-      base: 成る
-      position: 7
-    - word: まで
-      position: 9
-    - word: 追い
-      base: 追う
-      dictionary: 追う
-      position: 12
-    - word: 込ん
-      base: 込む
-      dictionary: 込む
-      position: 14
-    - word: で
-      position: 16
 - id: A_GardenOfWords_0251
   deck_name: The Garden of Words
   translation: Yukino's just too kind. She should have brought it right to the police.
   sound: A_GardenOfWords_1_0.27.24.460-0.27.30.180.mp3
   sentence: ユキノちゃん優しすぎるんだよ　あそこまでされたら　いっそ警察に届け出りゃよかったんだ
-  words:
-    - word: ユキノ
-      position: 0
-    - word: ちゃん
-      position: 3
-    - word: 優し
-      base: 優しい
-      dictionary: 優しい
-      position: 6
-    - word: すぎる
-      base: 過ぎる
-      position: 8
-    - word: ん
-      base: の
-      position: 11
-    - word: だ
-      position: 12
-    - word: よ
-      position: 13
-    - word: あそこ
-      base: 彼処
-      position: 15
-    - word: まで
-      position: 18
-    - word: さ
-      base: 為る
-      dictionary: する
-      position: 20
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 21
-    - word: たら
-      base: た
-      dictionary: た
-      position: 22
-    - word: いっそ
-      position: 25
-    - word: 警察
-      position: 28
-    - word: に
-      position: 30
-    - word: 届け
-      base: 届ける
-      dictionary: 届ける
-      position: 31
-    - word: 出りゃ
-      base: 出る
-      dictionary: 出る
-      position: 33
-    - word: よかっ
-      base: 良い
-      dictionary: よい
-      position: 36
-    - word: た
-      position: 39
-    - word: ん
-      base: の
-      position: 40
-    - word: だ
-      position: 41
 - id: A_GardenOfWords_0252
   deck_name: The Garden of Words
   translation: We told Mr. Itou again and again!
   sound: A_GardenOfWords_1_0.27.30.460-0.27.33.300.mp3
   sentence: 私たち伊藤先生とかに　何度もそう言ったのよ
-  words:
-    - word: 私
-      position: 0
-    - word: たち
-      base: 達
-      position: 1
-    - word: 伊藤
-      position: 3
-    - word: 先生
-      position: 5
-    - word: と
-      position: 7
-    - word: か
-      position: 8
-    - word: に
-      position: 9
-    - word: 何
-      position: 11
-    - word: 度
-      position: 12
-    - word: も
-      position: 13
-    - word: そう
-      position: 14
-    - word: 言っ
-      base: 言う
-      dictionary: 言う
-      position: 16
-    - word: た
-      position: 18
-    - word: の
-      position: 19
-    - word: よ
-      position: 20
 - id: A_GardenOfWords_0253
   deck_name: The Garden of Words
   translation: But he didn't want to make trouble for the school in public.
   sound: A_GardenOfWords_1_0.27.33.460-0.27.36.740.mp3
   sentence: でも結局学校だって　大ごとにしたくないから…
-  words:
-    - word: で
-      position: 0
-    - word: も
-      position: 1
-    - word: 結局
-      position: 2
-    - word: 学校
-      position: 4
-    - word: だ
-      position: 6
-    - word: って
-      position: 7
-    - word: 大ごと
-      base: 大事
-      position: 10
-    - word: に
-      position: 13
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 14
-    - word: たく
-      base: たい
-      dictionary: たい
-      position: 15
-    - word: ない
-      base: 無い
-      position: 17
-    - word: から
-      position: 19
 - id: A_GardenOfWords_0254
   deck_name: The Garden of Words
   translation: Hey, what's the matter?
   sound: A_GardenOfWords_1_0.27.40.180-0.27.41.900.mp3
   sentence: おい　どうした？
-  words:
-    - word: おい
-      position: 0
-    - word: どう
-      position: 3
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 5
-    - word: た
-      position: 6
 - id: A_GardenOfWords_0255
   deck_name: The Garden of Words
   translation: Those upperclassmen...
   sound: A_GardenOfWords_1_0.27.43.060-0.27.45.700.mp3
   sentence: その先輩たち…　え？
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 先輩
-      position: 2
-    - word: たち
-      base: 達
-      position: 4
-    - word: え
-      base: えっ
-      position: 8
 - id: A_GardenOfWords_0256
   deck_name: The Garden of Words
   translation: Do you know their names?
   sound: A_GardenOfWords_1_0.27.47.500-0.27.49.300.mp3
   sentence: 名前分かる？
-  words:
-    - word: 名前
-      position: 0
-    - word: 分かる
-      position: 2
 - id: A_GardenOfWords_0257
   deck_name: The Garden of Words
   translation: Miss Yukino!
   sound: A_GardenOfWords_1_0.27.57.820-0.28.00.300.mp3
   sentence: ―先生　―ユキノ先生
-  words:
-    - word: 先生
-      position: 1
-    - word: ユキノ
-      position: 5
-    - word: 先生
-      position: 8
 - id: A_GardenOfWords_0258
   deck_name: The Garden of Words
   translation: He totally sucks at it.
   sound: A_GardenOfWords_1_0.28.07.780-0.28.09.420.mp3
   sentence: で　そいつがぺタクソでさ
-  words:
-    - word: で
-      position: 0
-    - word: そいつ
-      base: 其奴
-      position: 2
-    - word: が
-      position: 5
-    - word: ぺ
-      base: っぺ
-      position: 6
-    - word: タクソ
-      position: 7
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 10
-    - word: さ
-      position: 11
 - id: A_GardenOfWords_0259
   deck_name: The Garden of Words
   translation: You're so cruel.
   sound: A_GardenOfWords_1_0.28.09.540-0.28.10.820.mp3
   sentence: ひでえな　お前
-  words:
-    - word: ひでえ
-      base: 酷い
-      dictionary: ひどい
-      position: 0
-    - word: な
-      position: 3
-    - word: お前
-      base: 御前
-      position: 5
 - id: A_GardenOfWords_0260
   deck_name: The Garden of Words
   translation: But man, you sure go through 'em.
   sound: A_GardenOfWords_1_0.28.10.940-0.28.13.940.mp3
   sentence: ていうか　ショウコ変わり身早いよね
-  words:
-    - word: て
-      base: って
-      position: 0
-    - word: いう
-      base: 言う
-      position: 1
-    - word: か
-      position: 3
-    - word: ショウコ
-      position: 5
-    - word: 変わり身
-      position: 9
-    - word: 早い
-      position: 13
-    - word: よ
-      position: 15
-    - word: ね
-      position: 16
 - id: A_GardenOfWords_0261
   deck_name: The Garden of Words
   translation: What do you want, frosh?
   sound: A_GardenOfWords_1_0.28.22.540-0.28.23.700.mp3
   sentence: 何だ　1年
-  words:
-    - word: 何
-      position: 0
-    - word: だ
-      position: 1
-    - word: '1'
-      position: 3
-    - word: 年
-      position: 4
 - id: A_GardenOfWords_0262
   deck_name: The Garden of Words
   translation: Are you Aizawa?
   sound: A_GardenOfWords_1_0.28.23.860-0.28.25.020.mp3
   sentence: 相沢先輩って
-  words:
-    - word: 相沢
-      position: 0
-    - word: 先輩
-      position: 2
-    - word: って
-      position: 4
 - id: A_GardenOfWords_0263
   deck_name: The Garden of Words
   translation: An admirer?
   sound: A_GardenOfWords_1_0.28.25.180-0.28.26.460.mp3
   sentence: 告白か？
-  words:
-    - word: 告白
-      position: 0
-    - word: か
-      position: 2
 - id: A_GardenOfWords_0264
   deck_name: The Garden of Words
   translation: Who the hell are you?
   sound: A_GardenOfWords_1_0.28.27.500-0.28.28.940.mp3
   sentence: 誰？あんた
-  words:
-    - word: 誰
-      position: 0
-    - word: あんた
-      base: 貴方
-      position: 2
 - id: A_GardenOfWords_0265
   deck_name: The Garden of Words
   translation: It seems like Miss Yukino is quitting.
   sound: A_GardenOfWords_1_0.28.30.620-0.28.32.820.mp3
   sentence: ユキノ先生辞めるそうですね
-  words:
-    - word: ユキノ
-      position: 0
-    - word: 先生
-      position: 3
-    - word: 辞める
-      position: 5
-    - word: そう
-      position: 8
-    - word: です
-      position: 10
-    - word: ね
-      position: 12
 - id: A_GardenOfWords_0266
   deck_name: The Garden of Words
   translation: Huh?
   sound: A_GardenOfWords_1_0.28.32.940-0.28.33.820.mp3
   sentence: はあ？
-  words:
-    - word: はあ
-      position: 0
 - id: A_GardenOfWords_0267
   deck_name: The Garden of Words
   translation: Like I care about what happens to that slutty hag.
   sound: A_GardenOfWords_1_0.28.34.060-0.28.36.980.mp3
   sentence: 関係ないんだけど　あんな淫乱ババア
-  words:
-    - word: 関係
-      position: 0
-    - word: ない
-      base: 無い
-      position: 2
-    - word: ん
-      base: の
-      position: 4
-    - word: だ
-      position: 5
-    - word: けど
-      base: けれど
-      position: 6
-    - word: あんな
-      position: 9
-    - word: 淫乱
-      position: 12
-    - word: ババア
-      base: 婆
-      position: 14
 - id: A_GardenOfWords_0268
   deck_name: The Garden of Words
   translation: Who does this guy think he is?
   sound: A_GardenOfWords_1_0.28.39.220-0.28.40.820.mp3
   sentence: 何すんだこいつ
-  words:
-    - word: 何
-      position: 0
-    - word: すん
-      base: すむ
-      dictionary: すむ
-      position: 1
-    - word: だ
-      base: た
-      position: 3
-    - word: こいつ
-      base: 此奴
-      position: 4
 - id: A_GardenOfWords_0269
   deck_name: The Garden of Words
   translation: Huh? What's this?
   sound: A_GardenOfWords_1_0.28.41.460-0.28.42.980.mp3
   sentence: え？何　何？
-  words:
-    - word: え
-      base: えっ
-      position: 0
-    - word: 何
-      position: 2
-    - word: 何
-      position: 4
 - id: A_GardenOfWords_0270
   deck_name: The Garden of Words
   translation: What's your deal?
   sound: A_GardenOfWords_1_0.28.44.980-0.28.46.380.mp3
   sentence: 何だ　お前
-  words:
-    - word: 何
-      position: 0
-    - word: だ
-      position: 1
-    - word: お前
-      base: 御前
-      position: 3
 - id: A_GardenOfWords_0271
   deck_name: The Garden of Words
   translation: Let's go tell a teacher...
   sound: A_GardenOfWords_1_0.28.51.980-0.28.53.380.mp3
   sentence: 先生のところ知らせに行こう
-  words:
-    - word: 先生
-      position: 0
-    - word: の
-      position: 2
-    - word: ところ
-      base: 所
-      position: 3
-    - word: 知ら
-      base: 知る
-      dictionary: 知る
-      position: 6
-    - word: せ
-      base: せる
-      dictionary: せる
-      position: 8
-    - word: に
-      position: 9
-    - word: 行こう
-      base: 行く
-      dictionary: 行く
-      position: 10
 - id: A_GardenOfWords_0272
   deck_name: The Garden of Words
   translation: Never seen this kid before.
   sound: A_GardenOfWords_1_0.28.53.540-0.28.55.180.mp3
   sentence: ショウコ知らない子だよね
-  words:
-    - word: ショウコ
-      position: 0
-    - word: 知ら
-      base: 知る
-      dictionary: 知る
-      position: 4
-    - word: ない
-      position: 6
-    - word: 子
-      position: 8
-    - word: だ
-      position: 9
-    - word: よ
-      position: 10
-    - word: ね
-      position: 11
 - id: A_GardenOfWords_0273
   deck_name: The Garden of Words
   translation: Who are you? Fallen for that old hag?
   sound: A_GardenOfWords_1_0.28.55.300-0.28.58.180.mp3
   sentence: お前　何なの　あのババアに惚れてんの？
-  words:
-    - word: お前
-      base: 御前
-      position: 0
-    - word: 何
-      position: 3
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 4
-    - word: の
-      position: 5
-    - word: あの
-      base: 彼の
-      position: 7
-    - word: ババア
-      base: 婆
-      position: 9
-    - word: に
-      position: 12
-    - word: 惚れ
-      base: 惚れる
-      dictionary: 惚れる
-      position: 13
-    - word: てん
-      base: てる
-      dictionary: てる
-      position: 15
-    - word: の
-      position: 17
 - id: A_GardenOfWords_0274
   deck_name: The Garden of Words
   translation: What a creep! Does he even know how old she is?
   sound: A_GardenOfWords_1_0.28.58.300-0.29.01.340.mp3
   sentence: キモくない？　ユキノ歳いくつか知ってんの？
-  words:
-    - word: キモく
-      base: きもい
-      dictionary: キモい
-      position: 0
-    - word: ない
-      base: 無い
-      position: 3
-    - word: ユキノ
-      position: 7
-    - word: 歳
-      base: 年
-      position: 10
-    - word: いく
-      base: 幾
-      position: 11
-    - word: つ
-      position: 13
-    - word: か
-      position: 14
-    - word: 知っ
-      base: 知る
-      dictionary: 知る
-      position: 15
-    - word: てん
-      base: てる
-      dictionary: てる
-      position: 17
-    - word: の
-      position: 19
 - id: A_GardenOfWords_0275
   deck_name: The Garden of Words
   translation: Poor guy, she must have tricked him.
   sound: A_GardenOfWords_1_0.29.01.500-0.29.03.980.mp3
   sentence: かわいそうに　だまされちゃったんじゃない？
-  words:
-    - word: かわいそう
-      base: 可哀想
-      position: 0
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 5
-    - word: だまさ
-      base: 騙す
-      dictionary: だます
-      position: 7
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 10
-    - word: ちゃっ
-      base: ちゃう
-      dictionary: ちゃう
-      position: 11
-    - word: た
-      position: 14
-    - word: ん
-      base: の
-      position: 15
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 16
-    - word: ない
-      base: 無い
-      position: 18
 - id: A_GardenOfWords_0276
   deck_name: The Garden of Words
   translation: She might go for him now, though.
   sound: A_GardenOfWords_1_0.29.04.100-0.29.06.580.mp3
   sentence: でも今度は　振り向いてもらえるかもな
-  words:
-    - word: で
-      position: 0
-    - word: も
-      position: 1
-    - word: 今度
-      position: 2
-    - word: は
-      position: 4
-    - word: 振り
-      base: 振る
-      dictionary: 振る
-      position: 6
-    - word: 向い
-      base: 向く
-      dictionary: 向く
-      position: 8
-    - word: て
-      position: 10
-    - word: もらえる
-      base: 貰う
-      position: 11
-    - word: か
-      position: 15
-    - word: も
-      position: 16
-    - word: な
-      position: 17
 - id: A_GardenOfWords_0277
   deck_name: The Garden of Words
   translation: Since she ain't a teacher no more.
   sound: A_GardenOfWords_1_0.29.06.740-0.29.08.900.mp3
   sentence: もうユキノ　教師じゃねえんだから
-  words:
-    - word: もう
-      position: 0
-    - word: ユキノ
-      position: 2
-    - word: 教師
-      position: 6
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 8
-    - word: ねえ
-      base: 無い
-      dictionary: ない
-      position: 10
-    - word: ん
-      base: の
-      position: 12
-    - word: だ
-      position: 13
-    - word: から
-      position: 14
 - id: A_GardenOfWords_0278
   deck_name: The Garden of Words
   translation: Damn straight.
   sound: A_GardenOfWords_1_0.29.09.060-0.29.09.900.mp3
   sentence: いえてる
-  words:
-    - word: いえ
-      base: いえる
-      dictionary: いえる
-      position: 0
-    - word: てる
-      position: 2
 - id: A_GardenOfWords_0279
   deck_name: The Garden of Words
   translation: You should thank us.
   sound: A_GardenOfWords_1_0.29.10.060-0.29.11.740.mp3
   sentence: じゃあ感謝してほしいね
-  words:
-    - word: じゃあ
-      base: で
-      position: 0
-    - word: 感謝
-      position: 3
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 5
-    - word: て
-      position: 6
-    - word: ほしい
-      base: 欲しい
-      position: 7
-    - word: ね
-      position: 10
 - id: A_GardenOfWords_0280
   deck_name: The Garden of Words
   translation: I'm waiting for the rain.
   sound: A_GardenOfWords_1_0.29.38.780-0.29.41.140.mp3
   sentence: 雨を待っている
-  words:
-    - word: 雨
-      position: 0
-    - word: を
-      position: 1
-    - word: 待っ
-      base: 待つ
-      dictionary: 待つ
-      position: 2
-    - word: て
-      position: 4
-    - word: いる
-      base: 居る
-      position: 5
 - id: A_GardenOfWords_0281
   deck_name: The Garden of Words
   translation: A faint clap of thunder Even if rain comes not
   sound: A_GardenOfWords_1_0.30.27.820-0.30.33.660.mp3
   sentence: 鳴る神の　少し響みて降らずとも
-  words:
-    - word: 鳴る神
-      base: 鳴神
-      position: 0
-    - word: の
-      position: 3
-    - word: 少し
-      position: 5
-    - word: 響
-      base: 響き
-      position: 7
-    - word: み
-      base: 見る
-      dictionary: みる
-      position: 8
-    - word: て
-      position: 9
-    - word: 降ら
-      base: 降る
-      dictionary: 降る
-      position: 10
-    - word: ず
-      dictionary: ぬ
-      position: 12
-    - word: とも
-      position: 13
 - id: A_GardenOfWords_0282
   deck_name: The Garden of Words
   translation: I will stay here Together with you
   sound: A_GardenOfWords_1_0.30.34.340-0.30.37.060.mp3
   sentence: 吾は留まらむ妹し留めば
-  words:
-    - word: 吾
-      base: 我
-      position: 0
-    - word: は
-      position: 1
-    - word: 留まら
-      base: 留まる
-      dictionary: 留まる
-      position: 2
-    - word: む
-      position: 5
-    - word: 妹
-      position: 6
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 7
-    - word: 留め
-      base: 止める
-      dictionary: 留める
-      position: 8
-    - word: ば
-      position: 10
 - id: A_GardenOfWords_0283
   deck_name: The Garden of Words
   translation: Yes, that's the correct answer.
   sound: A_GardenOfWords_1_0.30.41.740-0.30.44.900.mp3
   sentence: そう　それが正解
-  words:
-    - word: そう
-      position: 0
-    - word: それ
-      base: 其れ
-      position: 3
-    - word: が
-      position: 5
-    - word: 正解
-      position: 6
 - id: A_GardenOfWords_0284
   deck_name: The Garden of Words
   translation: That's the right response to the tanka  told you when we first met.
   sound: A_GardenOfWords_1_0.30.45.700-0.30.49.260.mp3
   sentence: 私が最初に君に言った歌の返し歌
-  words:
-    - word: 私
-      position: 0
-    - word: が
-      position: 1
-    - word: 最初
-      position: 2
-    - word: に
-      position: 4
-    - word: 君
-      position: 5
-    - word: に
-      position: 6
-    - word: 言っ
-      base: 言う
-      dictionary: 言う
-      position: 7
-    - word: た
-      position: 9
-    - word: 歌
-      position: 10
-    - word: の
-      position: 11
-    - word: 返し歌
-      position: 12
 - id: A_GardenOfWords_0285
   deck_name: The Garden of Words
   translation: If it rains, I wonder if you will be staying here?
   sound: A_GardenOfWords_1_0.30.50.860-0.30.54.660.mp3
   sentence: 雨が降ったら君はここに　留まってくれるだろうか？
-  words:
-    - word: 雨
-      position: 0
-    - word: が
-      position: 1
-    - word: 降っ
-      base: 降る
-      dictionary: 降る
-      position: 2
-    - word: たら
-      base: た
-      dictionary: た
-      position: 4
-    - word: 君
-      position: 6
-    - word: は
-      position: 7
-    - word: ここ
-      base: 此処
-      position: 8
-    - word: に
-      position: 10
-    - word: 留まっ
-      base: 止まる
-      dictionary: 留まる
-      position: 12
-    - word: て
-      position: 15
-    - word: くれる
-      base: 呉れる
-      position: 16
-    - word: だろう
-      base: だ
-      dictionary: だ
-      position: 19
-    - word: か
-      position: 22
 - id: A_GardenOfWords_0286
   deck_name: The Garden of Words
   translation: In response to that verse, I answer...
   sound: A_GardenOfWords_1_0.30.55.020-0.30.56.700.mp3
   sentence: そういう歌に対して
-  words:
-    - word: そう
-      position: 0
-    - word: いう
-      base: 言う
-      position: 2
-    - word: 歌
-      position: 4
-    - word: に
-      position: 5
-    - word: 対し
-      base: 対する
-      dictionary: 対する
-      position: 6
-    - word: て
-      position: 8
 - id: A_GardenOfWords_0287
   deck_name: The Garden of Words
   translation: Even if it doesn't rain, I will be here.
   sound: A_GardenOfWords_1_0.30.56.860-0.31.00.260.mp3
   sentence: 雨なんか降らなくても　ここにいるよって答えてる
-  words:
-    - word: 雨
-      position: 0
-    - word: なんか
-      position: 1
-    - word: 降ら
-      base: 降る
-      dictionary: 降る
-      position: 4
-    - word: なく
-      base: ない
-      dictionary: ない
-      position: 6
-    - word: て
-      position: 8
-    - word: も
-      position: 9
-    - word: ここ
-      base: 此処
-      position: 11
-    - word: に
-      position: 13
-    - word: いる
-      base: 居る
-      position: 14
-    - word: よ
-      position: 16
-    - word: って
-      position: 17
-    - word: 答え
-      base: 答える
-      dictionary: 答える
-      position: 19
-    - word: てる
-      position: 21
 - id: A_GardenOfWords_0288
   deck_name: The Garden of Words
   translation: It was in the classic Japanese literature textbook.
   sound: A_GardenOfWords_1_0.31.00.940-0.31.04.300.mp3
   sentence: 万葉集教科書に載ってました
-  words:
-    - word: 万葉
-      position: 0
-    - word: 集
-      position: 2
-    - word: 教科
-      position: 3
-    - word: 書
-      position: 5
-    - word: に
-      position: 6
-    - word: 載っ
-      base: 乗る
-      dictionary: 載る
-      position: 7
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 9
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 10
-    - word: た
-      position: 12
 - id: A_GardenOfWords_0289
   deck_name: The Garden of Words
   translation: Miss Yukino...
   sound: A_GardenOfWords_1_0.31.07.260-0.31.09.300.mp3
   sentence: ユキノ…先生
-  words:
-    - word: ユキノ
-      position: 0
-    - word: 先生
-      position: 4
 - id: A_GardenOfWords_0290
   deck_name: The Garden of Words
   translation: I'm sorry...
   sound: A_GardenOfWords_1_0.31.12.460-0.31.13.700.mp3
   sentence: ごめんなさい
-  words:
-    - word: ごめん
-      base: 御免
-      position: 0
-    - word: なさい
-      base: 為す
-      dictionary: なさる
-      position: 3
 - id: A_GardenOfWords_0291
   deck_name: The Garden of Words
   translation: I thought you would realize  was a classic literature teacher.
   sound: A_GardenOfWords_1_0.31.14.100-0.31.18.460.mp3
   sentence: 古典の教師だって気づいて　もらえるかなと思ったんだけどな
-  words:
-    - word: 古典
-      position: 0
-    - word: の
-      position: 2
-    - word: 教師
-      position: 3
-    - word: だ
-      position: 5
-    - word: って
-      position: 6
-    - word: 気づい
-      base: 気付く
-      dictionary: 気づく
-      position: 8
-    - word: て
-      position: 11
-    - word: もらえる
-      base: 貰う
-      position: 13
-    - word: か
-      position: 17
-    - word: な
-      position: 18
-    - word: と
-      position: 19
-    - word: 思っ
-      base: 思う
-      dictionary: 思う
-      position: 20
-    - word: た
-      position: 22
-    - word: ん
-      base: の
-      position: 23
-    - word: だ
-      position: 24
-    - word: けど
-      base: けれど
-      position: 25
-    - word: な
-      position: 27
 - id: A_GardenOfWords_0292
   deck_name: The Garden of Words
   translation: I mean, everyone at school knows about me.
   sound: A_GardenOfWords_1_0.31.18.700-0.31.22.980.mp3
   sentence: それに私　学校中の人に　知られちゃってると思ってたから
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: に
-      position: 2
-    - word: 私
-      position: 3
-    - word: 学校
-      position: 5
-    - word: 中
-      position: 7
-    - word: の
-      position: 8
-    - word: 人
-      position: 9
-    - word: に
-      position: 10
-    - word: 知ら
-      base: 知る
-      dictionary: 知る
-      position: 12
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 14
-    - word: ちゃっ
-      base: ちゃう
-      dictionary: ちゃう
-      position: 15
-    - word: てる
-      position: 18
-    - word: と
-      position: 20
-    - word: 思っ
-      base: 思う
-      dictionary: 思う
-      position: 21
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 23
-    - word: た
-      position: 24
-    - word: から
-      position: 25
 - id: A_GardenOfWords_0293
   deck_name: The Garden of Words
   translation: But you're always off in your own little world, aren't you?
   sound: A_GardenOfWords_1_0.31.23.220-0.31.26.660.mp3
   sentence: でも君は　違う世界ばっかり見てたのね
-  words:
-    - word: で
-      position: 0
-    - word: も
-      position: 1
-    - word: 君
-      position: 2
-    - word: は
-      position: 3
-    - word: 違う
-      position: 5
-    - word: 世界
-      position: 7
-    - word: ばっかり
-      base: ばかり
-      position: 9
-    - word: 見
-      base: 見る
-      dictionary: 見る
-      position: 13
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 14
-    - word: た
-      position: 15
-    - word: の
-      position: 16
-    - word: ね
-      position: 17
 - id: A_GardenOfWords_0294
   deck_name: The Garden of Words
   translation: Hey, what happened to your face?
   sound: A_GardenOfWords_1_0.31.28.180-0.31.30.780.mp3
   sentence: ねえ　その顔　どうしたの？
-  words:
-    - word: ねえ
-      base: 姉
-      position: 0
-    - word: その
-      base: 其の
-      position: 3
-    - word: 顔
-      position: 5
-    - word: どう
-      position: 7
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 9
-    - word: た
-      position: 10
-    - word: の
-      position: 11
 - id: A_GardenOfWords_0295
   deck_name: The Garden of Words
   translation: I was acting like you and drank too much beer.
   sound: A_GardenOfWords_1_0.31.30.940-0.31.32.900.mp3
   sentence: 先生のマネしてビールを飲んで
-  words:
-    - word: 先生
-      position: 0
-    - word: の
-      position: 2
-    - word: マネ
-      position: 3
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 5
-    - word: て
-      position: 6
-    - word: ビール
-      position: 7
-    - word: を
-      position: 10
-    - word: 飲ん
-      base: 飲む
-      dictionary: 飲む
-      position: 11
-    - word: で
-      position: 13
 - id: A_GardenOfWords_0296
   deck_name: The Garden of Words
   translation: Then I tripped and fell on the Yamanote line platform.
   sound: A_GardenOfWords_1_0.31.33.060-0.31.35.500.mp3
   sentence: 酔っ払って　山手線のホ一ムから落ちました
-  words:
-    - word: 酔っ
-      base: 酔う
-      dictionary: 酔う
-      position: 0
-    - word: 払っ
-      base: 払う
-      dictionary: 払う
-      position: 2
-    - word: て
-      position: 4
-    - word: 山手
-      position: 6
-    - word: 線
-      position: 8
-    - word: の
-      position: 9
-    - word: ホ
-      position: 10
-    - word: 一
-      position: 11
-    - word: ム
-      base: む
-      position: 12
-    - word: から
-      position: 13
-    - word: 落ち
-      base: 落ちる
-      dictionary: 落ちる
-      position: 15
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 17
-    - word: た
-      position: 19
 - id: A_GardenOfWords_0297
   deck_name: The Garden of Words
   translation: Oh, my!
   sound: A_GardenOfWords_1_0.31.35.620-0.31.36.460.mp3
   sentence: ウソ！
-  words:
-    - word: ウソ
-      base: うそ
-      position: 0
 - id: A_GardenOfWords_0298
   deck_name: The Garden of Words
   translation: Just kidding. I got in a fight, that's all.
   sound: A_GardenOfWords_1_0.31.36.820-0.31.40.380.mp3
   sentence: ウソです　ケン力くらいします
-  words:
-    - word: ウソ
-      base: うそ
-      position: 0
-    - word: です
-      position: 2
-    - word: ケン
-      position: 5
-    - word: 力
-      position: 7
-    - word: くらい
-      position: 8
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 11
-    - word: ます
-      position: 12
 - id: A_GardenOfWords_0299
   deck_name: The Garden of Words
   translation: Look... It looks like we just swam across the river.
   sound: A_GardenOfWords_1_0.32.24.180-0.32.28.780.mp3
   sentence: 私たち　泳いで川を渡ってきたみたいね　フフフ…
-  words:
-    - word: 私
-      position: 0
-    - word: たち
-      base: 達
-      position: 1
-    - word: 泳い
-      base: 泳ぐ
-      dictionary: 泳ぐ
-      position: 4
-    - word: で
-      position: 6
-    - word: 川
-      position: 7
-    - word: を
-      position: 8
-    - word: 渡っ
-      base: 渡る
-      dictionary: 渡る
-      position: 9
-    - word: て
-      position: 11
-    - word: き
-      base: 来る
-      dictionary: くる
-      position: 12
-    - word: た
-      position: 13
-    - word: みたい
-      position: 14
-    - word: ね
-      position: 17
-    - word: フフフ
-      base: ふふふ
-      position: 19
 - id: A_GardenOfWords_0300
   deck_name: The Garden of Words
   translation: I think this might...
   sound: A_GardenOfWords_1_0.34.14.380-0.34.15.860.mp3
   sentence: 今まで生きてきて
-  words:
-    - word: 今
-      position: 0
-    - word: まで
-      position: 1
-    - word: 生き
-      base: 生きる
-      dictionary: 生きる
-      position: 3
-    - word: て
-      position: 5
-    - word: き
-      base: 来る
-      dictionary: くる
-      position: 6
-    - word: て
-      position: 7
 - id: A_GardenOfWords_0301
   deck_name: The Garden of Words
   translation: ...this might be...
   sound: A_GardenOfWords_1_0.34.17.460-0.34.18.540.mp3
   sentence: 今が
-  words:
-    - word: 今
-      position: 0
-    - word: が
-      position: 1
 - id: A_GardenOfWords_0302
   deck_name: The Garden of Words
   translation: ...the happiest...
   sound: A_GardenOfWords_1_0.34.19.940-0.34.21.620.mp3
   sentence: 今が一番
-  words:
-    - word: 今
-      position: 0
-    - word: が
-      position: 1
-    - word: 一番
-      position: 2
 - id: A_GardenOfWords_0303
   deck_name: The Garden of Words
   translation: ...time of my life.
@@ -7613,143 +1554,36 @@
       position: 1
       tags:
         - silent
-    - word: 幸せ
-      position: 4
-    - word: か
-      position: 6
-    - word: も
-      position: 7
-    - word: しれ
-      base: 知る
-      dictionary: しれる
-      position: 8
-    - word: ない
-      position: 10
 - id: A_GardenOfWords_0304
   deck_name: The Garden of Words
   translation: Yukino...
   sound: A_GardenOfWords_1_0.34.33.300-0.34.34.300.mp3
   sentence: ユキノさん
-  words:
-    - word: ユキノ
-      position: 0
-    - word: さん
-      position: 3
 - id: A_GardenOfWords_0305
   deck_name: The Garden of Words
   translation: Yes?
   sound: A_GardenOfWords_1_0.34.34.420-0.34.35.500.mp3
   sentence: うん？
-  words:
-    - word: うん
-      position: 0
 - id: A_GardenOfWords_0306
   deck_name: The Garden of Words
   translation: I think I've fallen in love with you.
   sound: A_GardenOfWords_1_0.34.37.180-0.34.40.740.mp3
   sentence: 俺　ユキノさんが好きなんだと思う
-  words:
-    - word: 俺
-      position: 0
-    - word: ユキノ
-      position: 2
-    - word: さん
-      position: 5
-    - word: が
-      position: 7
-    - word: 好き
-      position: 8
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 10
-    - word: ん
-      base: の
-      position: 11
-    - word: だ
-      position: 12
-    - word: と
-      position: 13
-    - word: 思う
-      position: 14
 - id: A_GardenOfWords_0307
   deck_name: The Garden of Words
   translation: Not Yukino... Miss Yukino, remember?
   sound: A_GardenOfWords_1_0.35.02.100-0.35.06.780.mp3
   sentence: 〝ユキノさん″じゃなくて　〝先生″でしょ
-  words:
-    - word: ユキノ
-      position: 1
-    - word: さん
-      position: 4
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 7
-    - word: なく
-      base: 無い
-      dictionary: ない
-      position: 9
-    - word: て
-      position: 11
-    - word: 先生
-      position: 14
-    - word: でしょ
-      base: です
-      dictionary: です
-      position: 17
 - id: A_GardenOfWords_0308
   deck_name: The Garden of Words
   translation: I'm going to be moving next week. Back to my hometown in Shikoku.
   sound: A_GardenOfWords_1_0.35.15.780-0.35.19.940.mp3
   sentence: 先生は来週　引っ越すの　四国の実家に帰るの
-  words:
-    - word: 先生
-      position: 0
-    - word: は
-      position: 2
-    - word: 来週
-      position: 3
-    - word: 引っ越す
-      position: 6
-    - word: の
-      position: 10
-    - word: 四国
-      position: 12
-    - word: の
-      position: 14
-    - word: 実家
-      position: 15
-    - word: に
-      position: 17
-    - word: 帰る
-      position: 18
-    - word: の
-      position: 20
 - id: A_GardenOfWords_0309
   deck_name: The Garden of Words
   translation: I made the decision a while back.
   sound: A_GardenOfWords_1_0.35.20.780-0.35.22.860.mp3
   sentence: ずっと前から決めてたの
-  words:
-    - word: ずっと
-      position: 0
-    - word: 前
-      position: 3
-    - word: から
-      position: 4
-    - word: 決め
-      base: 決める
-      dictionary: 決める
-      position: 6
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 8
-    - word: た
-      position: 9
-    - word: の
-      position: 10
 - id: A_GardenOfWords_0310
   deck_name: The Garden of Words
   translation: >-
@@ -7757,580 +1591,111 @@
     barefoot...
   sound: A_GardenOfWords_1_0.35.26.100-0.35.35.100.mp3
   sentence: 私はね　あの場所で　1人で歩けるようになる　練習をしてたの靴がなくても
-  words:
-    - word: 私
-      position: 0
-    - word: は
-      position: 1
-    - word: ね
-      position: 2
-    - word: あの
-      base: 彼の
-      position: 4
-    - word: 場所
-      position: 6
-    - word: で
-      position: 8
-    - word: 1人
-      base: 一人
-      position: 10
-    - word: で
-      position: 12
-    - word: 歩ける
-      base: 歩く
-      position: 13
-    - word: よう
-      base: 様
-      position: 16
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 18
-    - word: なる
-      base: 成る
-      position: 19
-    - word: 練習
-      position: 22
-    - word: を
-      position: 24
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 25
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 26
-    - word: た
-      position: 27
-    - word: の
-      position: 28
-    - word: 靴
-      position: 29
-    - word: が
-      position: 30
-    - word: なく
-      base: 無い
-      dictionary: ない
-      position: 31
-    - word: て
-      position: 33
-    - word: も
-      position: 34
 - id: A_GardenOfWords_0311
   deck_name: The Garden of Words
   translation: So then...
   sound: A_GardenOfWords_1_0.35.38.700-0.35.40.060.mp3
   sentence: だから？
-  words:
-    - word: だ
-      position: 0
-    - word: から
-      position: 1
 - id: A_GardenOfWords_0312
   deck_name: The Garden of Words
   translation: So I want to thank you for everything, Akizuki.
   sound: A_GardenOfWords_1_0.35.41.860-0.35.46.460.mp3
   sentence: だから　今までありがとう秋月くん
-  words:
-    - word: だ
-      position: 0
-    - word: から
-      position: 1
-    - word: 今
-      position: 4
-    - word: まで
-      position: 5
-    - word: ありがとう
-      base: 有り難う
-      position: 7
-    - word: 秋月
-      position: 12
-    - word: くん
-      base: 君
-      position: 14
 - id: A_GardenOfWords_0313
   deck_name: The Garden of Words
   translation: Um, thank you for lending me these clothes.
   sound: A_GardenOfWords_1_0.35.57.660-0.36.01.460.mp3
   sentence: あの…この服　ありがとうございました
-  words:
-    - word: あの
-      base: 彼の
-      position: 0
-    - word: この
-      base: 此の
-      position: 3
-    - word: 服
-      position: 5
-    - word: ありがとう
-      base: 有り難う
-      position: 7
-    - word: ござい
-      base: 御座る
-      dictionary: ござる
-      position: 12
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 15
-    - word: た
-      position: 17
 - id: A_GardenOfWords_0314
   deck_name: The Garden of Words
   translation: I'll get changed now.
   sound: A_GardenOfWords_1_0.36.01.740-0.36.02.620.mp3
   sentence: 着替えます
-  words:
-    - word: 着
-      base: 着る
-      dictionary: 着る
-      position: 0
-    - word: 替え
-      base: 替える
-      dictionary: 替える
-      position: 1
-    - word: ます
-      position: 3
 - id: A_GardenOfWords_0315
   deck_name: The Garden of Words
   translation: But yours aren't...
   sound: A_GardenOfWords_1_0.36.03.220-0.36.04.660.mp3
   sentence: まだ車乞いて…
-  words:
-    - word: まだ
-      base: 未だ
-      position: 0
-    - word: 車
-      position: 2
-    - word: 乞い
-      base: 請う
-      dictionary: 乞う
-      position: 3
-    - word: て
-      position: 5
 - id: A_GardenOfWords_0316
   deck_name: The Garden of Words
   translation: Excuse me... I'm going home.
   sound: A_GardenOfWords_1_0.36.32.780-0.36.35.780.mp3
   sentence: あの　俺　帰ります
-  words:
-    - word: あの
-      base: 彼の
-      position: 0
-    - word: 俺
-      position: 3
-    - word: 帰り
-      base: 帰る
-      dictionary: 帰る
-      position: 5
-    - word: ます
-      position: 7
 - id: A_GardenOfWords_0317
   deck_name: The Garden of Words
   translation: Thank you for your hospitality.
   sound: A_GardenOfWords_1_0.36.36.500-0.36.38.860.mp3
   sentence: いろいろ　ありがとうございました
-  words:
-    - word: いろいろ
-      base: 色々
-      position: 0
-    - word: ありがとう
-      base: 有り難う
-      position: 5
-    - word: ござい
-      base: 御座る
-      dictionary: ござる
-      position: 10
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 13
-    - word: た
-      position: 15
 - id: A_GardenOfWords_0318
   deck_name: The Garden of Words
   translation: I made this lunch for myself, but I made too much. So if you'd like...
   sound: A_GardenOfWords_1_0.37.13.940-0.37.19.220.mp3
   sentence: これ自分の弁当なんですけど　多めに作っちゃったから　よかったら
-  words:
-    - word: これ
-      base: 此れ
-      position: 0
-    - word: 自分
-      position: 2
-    - word: の
-      position: 4
-    - word: 弁当
-      position: 5
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 7
-    - word: ん
-      base: の
-      position: 8
-    - word: です
-      position: 9
-    - word: けど
-      base: けれど
-      position: 11
-    - word: 多
-      base: 多い
-      dictionary: 多い
-      position: 14
-    - word: め
-      position: 15
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 16
-    - word: 作っ
-      base: 作る
-      dictionary: 作る
-      position: 17
-    - word: ちゃっ
-      base: ちゃう
-      dictionary: ちゃう
-      position: 19
-    - word: た
-      position: 22
-    - word: から
-      position: 23
-    - word: よかっ
-      base: 良い
-      dictionary: よい
-      position: 26
-    - word: たら
-      base: た
-      dictionary: た
-      position: 29
 - id: A_GardenOfWords_0319
   deck_name: The Garden of Words
   translation: I haven't decided whose shoes yet...
   sound: A_GardenOfWords_1_0.37.19.380-0.37.21.380.mp3
   sentence: 誰のかは決めてないけど
-  words:
-    - word: 誰
-      position: 0
-    - word: の
-      position: 1
-    - word: か
-      position: 2
-    - word: は
-      position: 3
-    - word: 決め
-      base: 決める
-      dictionary: 決める
-      position: 4
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 6
-    - word: ない
-      position: 7
-    - word: けど
-      base: けれど
-      position: 9
 - id: A_GardenOfWords_0320
   deck_name: The Garden of Words
   translation: They're women's shoes.
   sound: A_GardenOfWords_1_0.37.21.700-0.37.22.580.mp3
   sentence: 女性の靴です…
-  words:
-    - word: 女性
-      position: 0
-    - word: の
-      position: 2
-    - word: 靴
-      position: 3
-    - word: です
-      position: 4
 - id: A_GardenOfWords_0321
   deck_name: The Garden of Words
   translation: I was acting like you and drank too much beer
   sound: A_GardenOfWords_1_0.37.22.740-0.37.24.580.mp3
   sentence: 先生のマネしてビ一ルを飲んで
-  words:
-    - word: 先生
-      position: 0
-    - word: の
-      position: 2
-    - word: マネ
-      position: 3
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 5
-    - word: て
-      position: 6
-    - word: ビ
-      position: 7
-    - word: 一
-      base: '1'
-      position: 8
-    - word: ル
-      position: 9
-    - word: を
-      position: 10
-    - word: 飲ん
-      base: 飲む
-      dictionary: 飲む
-      position: 11
-    - word: で
-      position: 13
 - id: A_GardenOfWords_0322
   deck_name: The Garden of Words
   translation: Then I tripped and fell on the Yamanote line platform.
   sound: A_GardenOfWords_1_0.37.24.740-0.37.27.220.mp3
   sentence: 酔っ払フて　山手線のホームから落ちました
-  words:
-    - word: 酔っ
-      base: 酔う
-      dictionary: 酔う
-      position: 0
-    - word: 払
-      base: 払い
-      position: 2
-    - word: フ
-      position: 3
-    - word: て
-      base: って
-      position: 4
-    - word: 山手
-      position: 6
-    - word: 線
-      position: 8
-    - word: の
-      position: 9
-    - word: ホーム
-      position: 10
-    - word: から
-      position: 13
-    - word: 落ち
-      base: 落ちる
-      dictionary: 落ちる
-      position: 15
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 17
-    - word: た
-      position: 19
 - id: A_GardenOfWords_0323
   deck_name: The Garden of Words
   translation: A faint clap of thunder
   sound: A_GardenOfWords_1_0.37.27.420-0.37.28.740.mp3
   sentence: 鳴る神の
-  words:
-    - word: 鳴る神
-      base: 鳴神
-      position: 0
-    - word: の
-      position: 3
 - id: A_GardenOfWords_0324
   deck_name: The Garden of Words
   translation: Even if rain comes not
   sound: A_GardenOfWords_1_0.37.29.500-0.37.31.660.mp3
   sentence: 少し響みて降らずとも
-  words:
-    - word: 少し
-      position: 0
-    - word: 響
-      base: 響き
-      position: 2
-    - word: み
-      base: 見る
-      dictionary: みる
-      position: 3
-    - word: て
-      position: 4
-    - word: 降ら
-      base: 降る
-      dictionary: 降る
-      position: 5
-    - word: ず
-      dictionary: ぬ
-      position: 7
-    - word: とも
-      position: 8
 - id: A_GardenOfWords_0325
   deck_name: The Garden of Words
   translation: I will stay here Together with you
   sound: A_GardenOfWords_1_0.37.32.780-0.37.35.700.mp3
   sentence: 吾は留まらむ　妹し留めば
-  words:
-    - word: 吾
-      base: 我
-      position: 0
-    - word: は
-      position: 1
-    - word: 留まら
-      base: 留まる
-      dictionary: 留まる
-      position: 2
-    - word: む
-      position: 5
-    - word: 妹
-      position: 7
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 8
-    - word: 留め
-      base: 止める
-      dictionary: 留める
-      position: 9
-    - word: ば
-      position: 11
 - id: A_GardenOfWords_0326
   deck_name: The Garden of Words
   translation: Um...
   sound: A_GardenOfWords_1_0.38.30.220-0.38.31.300.mp3
   sentence: あの…
-  words:
-    - word: あの
-      base: 彼の
-      position: 0
 - id: A_GardenOfWords_0327
   deck_name: The Garden of Words
   translation: Yukino, please forget what I said earlier.
   sound: A_GardenOfWords_1_0.38.31.460-0.38.36.540.mp3
   sentence: ユキノさん　さっきのは忘れてください
-  words:
-    - word: ユキノ
-      position: 0
-    - word: さん
-      position: 3
-    - word: さっき
-      position: 6
-    - word: の
-      position: 9
-    - word: は
-      position: 10
-    - word: 忘れ
-      base: 忘れる
-      dictionary: 忘れる
-      position: 11
-    - word: て
-      position: 13
-    - word: ください
-      base: 下さる
-      dictionary: くださる
-      position: 14
 - id: A_GardenOfWords_0328
   deck_name: The Garden of Words
   translation: I was wrong... I hate you after all.
   sound: A_GardenOfWords_1_0.38.37.020-0.38.41.020.mp3
   sentence: 俺　やっぱりあなたのこと　嫌いです
-  words:
-    - word: 俺
-      position: 0
-    - word: やっぱり
-      base: 矢張り
-      position: 2
-    - word: あなた
-      base: 貴方
-      position: 6
-    - word: の
-      position: 9
-    - word: こと
-      position: 10
-    - word: 嫌い
-      position: 13
-    - word: です
-      position: 15
 - id: A_GardenOfWords_0329
   deck_name: The Garden of Words
   translation: Ever since we first met, you struck me...
   sound: A_GardenOfWords_1_0.38.44.580-0.38.47.260.mp3
   sentence: 最初から　あなたは何だか…
-  words:
-    - word: 最初
-      position: 0
-    - word: から
-      position: 2
-    - word: あなた
-      base: 貴方
-      position: 5
-    - word: は
-      position: 8
-    - word: 何
-      position: 9
-    - word: だ
-      position: 10
-    - word: か
-      position: 11
 - id: A_GardenOfWords_0330
   deck_name: The Garden of Words
   translation: ...like a person I should avoid.
   sound: A_GardenOfWords_1_0.38.48.860-0.38.50.180.mp3
   sentence: イヤな人でした
-  words:
-    - word: イヤ
-      base: 嫌
-      position: 0
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 2
-    - word: 人
-      position: 3
-    - word: でし
-      base: です
-      dictionary: です
-      position: 4
-    - word: た
-      position: 6
 - id: A_GardenOfWords_0331
   deck_name: The Garden of Words
   translation: Drinking beer in the morning, spouting off some random tanka at me...
   sound: A_GardenOfWords_1_0.38.51.860-0.38.55.820.mp3
   sentence: 朝っぱらからビール飲んで　わけの分からない　短歌なんかふっかけてきて…
-  words:
-    - word: 朝っぱら
-      position: 0
-    - word: から
-      position: 4
-    - word: ビール
-      position: 6
-    - word: 飲ん
-      base: 飲む
-      dictionary: 飲む
-      position: 9
-    - word: で
-      position: 11
-    - word: わけ
-      base: 訳
-      position: 13
-    - word: の
-      position: 15
-    - word: 分から
-      base: 分かる
-      dictionary: 分かる
-      position: 16
-    - word: ない
-      position: 19
-    - word: 短歌
-      position: 22
-    - word: なんか
-      position: 24
-    - word: ふっ
-      base: 吹く
-      dictionary: ふく
-      position: 27
-    - word: かけ
-      base: 掛ける
-      dictionary: かける
-      position: 29
-    - word: て
-      position: 31
-    - word: き
-      base: 来る
-      dictionary: くる
-      position: 32
-    - word: て
-      position: 33
 - id: A_GardenOfWords_0332
   deck_name: The Garden of Words
   translation: >-
@@ -8338,279 +1703,36 @@
     yourself...
   sound: A_GardenOfWords_1_0.38.57.820-0.39.01.740.mp3
   sentence: 自分のことは何も話さないくせに　人の話ばっか聞きだして
-  words:
-    - word: 自分
-      position: 0
-    - word: の
-      position: 2
-    - word: こと
-      position: 3
-    - word: は
-      position: 5
-    - word: 何
-      position: 6
-    - word: も
-      position: 7
-    - word: 話さ
-      base: 話す
-      dictionary: 話す
-      position: 8
-    - word: ない
-      position: 10
-    - word: くせ
-      base: 癖
-      position: 12
-    - word: に
-      position: 14
-    - word: 人
-      position: 16
-    - word: の
-      position: 17
-    - word: 話
-      position: 18
-    - word: ばっか
-      base: ばかり
-      position: 19
-    - word: 聞き
-      base: 聞く
-      dictionary: 聞く
-      position: 22
-    - word: だし
-      base: 出す
-      dictionary: だす
-      position: 24
-    - word: て
-      position: 26
 - id: A_GardenOfWords_0333
   deck_name: The Garden of Words
   translation: You knew I was a student, didn't you?
   sound: A_GardenOfWords_1_0.39.01.860-0.39.04.340.mp3
   sentence: 俺のこと　生徒だって　知ってたんですよね？
-  words:
-    - word: 俺
-      position: 0
-    - word: の
-      position: 1
-    - word: こと
-      position: 2
-    - word: 生徒
-      position: 5
-    - word: だ
-      position: 7
-    - word: って
-      position: 8
-    - word: 知っ
-      base: 知る
-      dictionary: 知る
-      position: 11
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 13
-    - word: た
-      position: 14
-    - word: ん
-      base: の
-      position: 15
-    - word: です
-      position: 16
-    - word: よ
-      position: 18
-    - word: ね
-      position: 19
 - id: A_GardenOfWords_0334
   deck_name: The Garden of Words
   translation: That's just unfair!
   sound: A_GardenOfWords_1_0.39.04.500-0.39.06.460.mp3
   sentence: 汚いですよ　そんなのって
-  words:
-    - word: 汚い
-      position: 0
-    - word: です
-      position: 2
-    - word: よ
-      position: 4
-    - word: そんな
-      position: 6
-    - word: の
-      position: 9
-    - word: って
-      position: 10
 - id: A_GardenOfWords_0335
   deck_name: The Garden of Words
   translation: If I'd known you were a teacher,  would have never told you about the shoes.
   sound: A_GardenOfWords_1_0.39.07.580-0.39.11.900.mp3
   sentence: あんたが教師だって知ってたら　俺は靴のことなんてしゃべらなかった
-  words:
-    - word: あんた
-      base: 貴方
-      position: 0
-    - word: が
-      position: 3
-    - word: 教師
-      position: 4
-    - word: だ
-      position: 6
-    - word: って
-      position: 7
-    - word: 知っ
-      base: 知る
-      dictionary: 知る
-      position: 9
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 11
-    - word: たら
-      base: た
-      dictionary: た
-      position: 12
-    - word: 俺
-      position: 15
-    - word: は
-      position: 16
-    - word: 靴
-      position: 17
-    - word: の
-      position: 18
-    - word: こと
-      position: 19
-    - word: なんて
-      position: 21
-    - word: しゃべら
-      base: 喋る
-      dictionary: しゃべる
-      position: 24
-    - word: なかっ
-      base: ない
-      dictionary: ない
-      position: 28
-    - word: た
-      position: 31
 - id: A_GardenOfWords_0336
   deck_name: The Garden of Words
   translation: After all, you think 'll never amount to anything!
   sound: A_GardenOfWords_1_0.39.12.060-0.39.15.420.mp3
   sentence: どうせできっこない　叶いっこないって思われるから
-  words:
-    - word: どうせ
-      position: 0
-    - word: でき
-      base: 出来る
-      dictionary: できる
-      position: 3
-    - word: っこ
-      position: 5
-    - word: ない
-      base: 無い
-      position: 7
-    - word: 叶い
-      base: 叶う
-      dictionary: 叶う
-      position: 10
-    - word: っこ
-      position: 12
-    - word: ない
-      base: 無い
-      position: 14
-    - word: って
-      position: 16
-    - word: 思わ
-      base: 思う
-      dictionary: 思う
-      position: 18
-    - word: れる
-      position: 20
-    - word: から
-      position: 22
 - id: A_GardenOfWords_0337
   deck_name: The Garden of Words
   translation: So why didn't you say anything to me?
   sound: A_GardenOfWords_1_0.39.15.900-0.39.18.340.mp3
   sentence: どうしてあんたは　そう言わなかったんですか
-  words:
-    - word: どう
-      position: 0
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 2
-    - word: て
-      position: 3
-    - word: あんた
-      base: 貴方
-      position: 4
-    - word: は
-      position: 7
-    - word: そう
-      position: 9
-    - word: 言わ
-      base: 言う
-      dictionary: 言う
-      position: 11
-    - word: なかっ
-      base: ない
-      dictionary: ない
-      position: 13
-    - word: た
-      position: 16
-    - word: ん
-      base: の
-      position: 17
-    - word: です
-      position: 18
-    - word: か
-      position: 20
 - id: A_GardenOfWords_0338
   deck_name: The Garden of Words
   translation: You thought maybe you'd humor the little kid's fantasies for a while?
   sound: A_GardenOfWords_1_0.39.18.500-0.39.22.980.mp3
   sentence: 子どもの言うことだって　適当に付き合えばいいって思ってた？
-  words:
-    - word: 子ども
-      base: 子供
-      position: 0
-    - word: の
-      position: 3
-    - word: 言う
-      position: 4
-    - word: こと
-      position: 6
-    - word: だ
-      position: 8
-    - word: って
-      position: 9
-    - word: 適当
-      position: 12
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 14
-    - word: 付き
-      base: 付く
-      dictionary: 付く
-      position: 15
-    - word: 合え
-      base: 合う
-      dictionary: 合う
-      position: 17
-    - word: ば
-      position: 19
-    - word: いい
-      base: 良い
-      position: 20
-    - word: って
-      position: 22
-    - word: 思っ
-      base: 思う
-      dictionary: 思う
-      position: 24
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 26
-    - word: た
-      position: 27
 - id: A_GardenOfWords_0339
   deck_name: The Garden of Words
   translation: >-
@@ -8618,112 +1740,16 @@
     to my dreams!
   sound: A_GardenOfWords_1_0.39.23.580-0.39.28.340.mp3
   sentence: 俺が何かに　誰かに憧れたって　そんなの届きっこない
-  words:
-    - word: 俺
-      position: 0
-    - word: が
-      position: 1
-    - word: 何
-      position: 2
-    - word: か
-      position: 3
-    - word: に
-      position: 4
-    - word: 誰
-      position: 6
-    - word: か
-      position: 7
-    - word: に
-      position: 8
-    - word: 憧れ
-      base: 憧れる
-      dictionary: 憧れる
-      position: 9
-    - word: た
-      position: 11
-    - word: って
-      position: 12
-    - word: そんな
-      position: 15
-    - word: の
-      position: 18
-    - word: 届き
-      base: 届く
-      dictionary: 届く
-      position: 19
-    - word: っこ
-      position: 21
-    - word: ない
-      base: 無い
-      position: 23
 - id: A_GardenOfWords_0340
   deck_name: The Garden of Words
   translation: You knew from the very beginning!
   sound: A_GardenOfWords_1_0.39.28.540-0.39.32.540.mp3
   sentence: 叶うわけないって　あんたは最初から分かってたんだ
-  words:
-    - word: 叶う
-      position: 0
-    - word: わけ
-      base: 訳
-      position: 2
-    - word: ない
-      base: 無い
-      position: 4
-    - word: って
-      position: 6
-    - word: あんた
-      base: 貴方
-      position: 9
-    - word: は
-      position: 12
-    - word: 最初
-      position: 13
-    - word: から
-      position: 15
-    - word: 分かっ
-      base: 分かる
-      dictionary: 分かる
-      position: 17
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 20
-    - word: た
-      position: 21
-    - word: ん
-      base: の
-      position: 22
-    - word: だ
-      position: 23
 - id: A_GardenOfWords_0341
   deck_name: The Garden of Words
   translation: So tell me, god damn it!
   sound: A_GardenOfWords_1_0.39.32.700-0.39.34.540.mp3
   sentence: だったら　ちゃんと言ってくれよ
-  words:
-    - word: だっ
-      base: だ
-      dictionary: だ
-      position: 0
-    - word: たら
-      base: た
-      dictionary: た
-      position: 2
-    - word: ちゃんと
-      position: 5
-    - word: 言っ
-      base: 言う
-      dictionary: 言う
-      position: 9
-    - word: て
-      position: 11
-    - word: くれ
-      base: 呉れる
-      dictionary: くれる
-      position: 12
-    - word: よ
-      position: 14
 - id: A_GardenOfWords_0342
   deck_name: The Garden of Words
   translation: >-
@@ -8731,403 +1757,76 @@
     school!
   sound: A_GardenOfWords_1_0.39.34.700-0.39.37.380.mp3
   sentence: 邪魔だって　ガキは学校に行けって
-  words:
-    - word: 邪魔
-      position: 0
-    - word: だ
-      position: 2
-    - word: って
-      position: 3
-    - word: ガキ
-      position: 6
-    - word: は
-      position: 8
-    - word: 学校
-      position: 9
-    - word: に
-      position: 11
-    - word: 行け
-      base: 行く
-      dictionary: 行く
-      position: 12
-    - word: って
-      position: 14
 - id: A_GardenOfWords_0343
   deck_name: The Garden of Words
   translation: Tell me that you hate me!
   sound: A_GardenOfWords_1_0.39.37.540-0.39.39.540.mp3
   sentence: 俺のこと　嫌いだって
-  words:
-    - word: 俺
-      position: 0
-    - word: の
-      position: 1
-    - word: こと
-      position: 2
-    - word: 嫌い
-      position: 5
-    - word: だ
-      position: 7
-    - word: って
-      position: 8
 - id: A_GardenOfWords_0344
   deck_name: The Garden of Words
   translation: You...
   sound: A_GardenOfWords_1_0.39.40.380-0.39.41.060.mp3
   sentence: あんたは…
-  words:
-    - word: あんた
-      base: 貴方
-      position: 0
-    - word: は
-      position: 3
 - id: A_GardenOfWords_0345
   deck_name: The Garden of Words
   translation: It's because you act like that!
   sound: A_GardenOfWords_1_0.39.41.740-0.39.43.620.mp3
   sentence: あんたは一生　ずっとそうやって
-  words:
-    - word: あんた
-      base: 貴方
-      position: 0
-    - word: は
-      position: 3
-    - word: 一生
-      position: 4
-    - word: ずっと
-      position: 7
-    - word: そう
-      position: 10
-    - word: やっ
-      base: 遣る
-      dictionary: やる
-      position: 12
-    - word: て
-      position: 14
 - id: A_GardenOfWords_0346
   deck_name: The Garden of Words
   translation: You never say what's important! You pretend it's none of your business!
   sound: A_GardenOfWords_1_0.39.44.100-0.39.48.020.mp3
   sentence: 大事な言葉は絶対に言わないで　自分は関係ないって顔して
-  words:
-    - word: 大事
-      position: 0
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 2
-    - word: 言葉
-      position: 3
-    - word: は
-      position: 5
-    - word: 絶対
-      position: 6
-    - word: に
-      position: 8
-    - word: 言わ
-      base: 言う
-      dictionary: 言う
-      position: 9
-    - word: ない
-      position: 11
-    - word: で
-      position: 13
-    - word: 自分
-      position: 15
-    - word: は
-      position: 17
-    - word: 関係
-      position: 18
-    - word: ない
-      base: 無い
-      position: 20
-    - word: って
-      position: 22
-    - word: 顔
-      position: 24
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 25
-    - word: て
-      position: 26
 - id: A_GardenOfWords_0347
   deck_name: The Garden of Words
   translation: You've been living your whole life alone!!
   sound: A_GardenOfWords_1_0.39.48.220-0.39.50.900.mp3
   sentence: ずっと1人で一　生きていくんだ
-  words:
-    - word: ずっと
-      position: 0
-    - word: 1人
-      base: 一人
-      position: 3
-    - word: で
-      position: 5
-    - word: 一
-      base: '1'
-      position: 6
-    - word: 生き
-      base: 生きる
-      dictionary: 生きる
-      position: 8
-    - word: て
-      position: 10
-    - word: いく
-      base: 行く
-      position: 11
-    - word: ん
-      base: の
-      position: 13
-    - word: だ
-      position: 14
 - id: A_GardenOfWords_0348
   deck_name: The Garden of Words
   translation: Every morning!
   sound: A_GardenOfWords_1_0.40.04.220-0.40.05.580.mp3
   sentence: 毎朝…
-  words:
-    - word: 毎朝
-      position: 0
 - id: A_GardenOfWords_0349
   deck_name: The Garden of Words
   translation: Every morning I put on my suit to go to school...
   sound: A_GardenOfWords_1_0.40.07.740-0.40.11.980.mp3
   sentence: 每朝ちゃんとスーツ着て　学校に行こうとしてたの
-  words:
-    - word: 每
-      base: 毎
-      position: 0
-    - word: 朝
-      position: 1
-    - word: ちゃんと
-      position: 2
-    - word: スーツ
-      position: 6
-    - word: 着
-      base: 着る
-      dictionary: 着る
-      position: 9
-    - word: て
-      position: 10
-    - word: 学校
-      position: 12
-    - word: に
-      position: 14
-    - word: 行こう
-      base: 行く
-      dictionary: 行く
-      position: 15
-    - word: と
-      position: 18
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 19
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 20
-    - word: た
-      position: 21
-    - word: の
-      position: 22
 - id: A_GardenOfWords_0350
   deck_name: The Garden of Words
   translation: But I was... scared... I just couldn't go...
   sound: A_GardenOfWords_1_0.40.13.060-0.40.17.820.mp3
   sentence: でも怖くって　どうしても行けなくて
-  words:
-    - word: で
-      position: 0
-    - word: も
-      position: 1
-    - word: 怖く
-      base: 怖い
-      dictionary: 怖い
-      position: 2
-    - word: って
-      position: 4
-    - word: どう
-      position: 7
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 9
-    - word: て
-      position: 10
-    - word: も
-      position: 11
-    - word: 行け
-      base: 行く
-      dictionary: 行ける
-      position: 12
-    - word: なく
-      base: ない
-      dictionary: ない
-      position: 14
-    - word: て
-      position: 16
 - id: A_GardenOfWords_0351
   deck_name: The Garden of Words
   translation: In that place... You...
   sound: A_GardenOfWords_1_0.40.19.900-0.40.22.540.mp3
   sentence: あの場所で　私
-  words:
-    - word: あの
-      base: 彼の
-      position: 0
-    - word: 場所
-      position: 2
-    - word: で
-      position: 4
-    - word: 私
-      position: 6
 - id: A_GardenOfWords_0352
   deck_name: The Garden of Words
   translation: You... saved me!
   sound: A_GardenOfWords_1_0.40.23.660-0.40.27.580.mp3
   sentence: あなたに　救われてたの
-  words:
-    - word: あなた
-      base: 貴方
-      position: 0
-    - word: に
-      position: 3
-    - word: 救わ
-      base: 救う
-      dictionary: 救う
-      position: 5
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 7
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 8
-    - word: た
-      position: 9
-    - word: の
-      position: 10
 - id: A_GardenOfWords_0353
   deck_name: The Garden of Words
   translation: Summer ended, and the time came to switch to our winter uniforms...
   sound: A_GardenOfWords_1_0.41.42.580-0.41.46.980.mp3
   sentence: 夏が終わり　やがて　冬服の季節が来て
-  words:
-    - word: 夏
-      position: 0
-    - word: が
-      position: 1
-    - word: 終わり
-      base: 終わる
-      dictionary: 終わる
-      position: 2
-    - word: やがて
-      base: 軈て
-      position: 6
-    - word: 冬服
-      position: 10
-    - word: の
-      position: 12
-    - word: 季節
-      position: 13
-    - word: が
-      position: 15
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 16
-    - word: て
-      position: 17
 - id: A_GardenOfWords_0354
   deck_name: The Garden of Words
   translation: I got terrible marks on my final exams...
   sound: A_GardenOfWords_1_0.41.47.580-0.41.50.140.mp3
   sentence: 期末試験では案の定ひどい点を取り
-  words:
-    - word: 期末
-      position: 0
-    - word: 試験
-      position: 2
-    - word: で
-      position: 4
-    - word: は
-      position: 5
-    - word: 案の定
-      position: 6
-    - word: ひどい
-      base: 酷い
-      position: 9
-    - word: 点
-      position: 12
-    - word: を
-      position: 13
-    - word: 取り
-      base: 取る
-      dictionary: 取る
-      position: 14
 - id: A_GardenOfWords_0355
   deck_name: The Garden of Words
   translation: I wasted who knows how many pieces of expensive leather...
   sound: A_GardenOfWords_1_0.41.50.580-0.41.52.820.mp3
   sentence: 高価な革を何枚も無駄にし
-  words:
-    - word: 高価
-      position: 0
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 2
-    - word: 革
-      position: 3
-    - word: を
-      position: 4
-    - word: 何
-      position: 5
-    - word: 枚
-      position: 6
-    - word: も
-      position: 7
-    - word: 無駄
-      position: 8
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 10
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 11
 - id: A_GardenOfWords_0356
   deck_name: The Garden of Words
   translation: I worked part-time over winter break as well...
   sound: A_GardenOfWords_1_0.41.53.860-0.41.56.300.mp3
   sentence: 冬休みには　またバイ卜をして
-  words:
-    - word: 冬休み
-      position: 0
-    - word: に
-      position: 3
-    - word: は
-      position: 4
-    - word: また
-      base: 又
-      position: 6
-    - word: バイ
-      position: 8
-    - word: 卜
-      base: 占い
-      position: 10
-    - word: を
-      position: 11
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 12
-    - word: て
-      position: 13
 - id: A_GardenOfWords_0357
   deck_name: The Garden of Words
   translation: >-
@@ -9135,156 +1834,18 @@
     is she doing?"
   sound: A_GardenOfWords_1_0.41.56.620-0.42.02.660.mp3
   sentence: 外出の服が1枚ずつ厚くなるたびに　あの人は　どうしているだろうかと思う
-  words:
-    - word: 外出
-      position: 0
-    - word: の
-      position: 2
-    - word: 服
-      position: 3
-    - word: が
-      position: 4
-    - word: '1'
-      position: 5
-    - word: 枚
-      position: 6
-    - word: ずつ
-      position: 7
-    - word: 厚く
-      base: 厚い
-      dictionary: 厚い
-      position: 9
-    - word: なる
-      base: 成る
-      position: 11
-    - word: たび
-      base: 度
-      position: 13
-    - word: に
-      position: 15
-    - word: あの
-      base: 彼の
-      position: 17
-    - word: 人
-      position: 19
-    - word: は
-      position: 20
-    - word: どう
-      position: 22
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 24
-    - word: て
-      position: 25
-    - word: いる
-      base: 居る
-      position: 26
-    - word: だろう
-      base: だ
-      dictionary: だ
-      position: 28
-    - word: か
-      position: 31
-    - word: と
-      position: 32
-    - word: 思う
-      position: 33
 - id: A_GardenOfWords_0358
   deck_name: The Garden of Words
   translation: I was practicing how to walk, too.  believe that now.
   sound: A_GardenOfWords_1_0.45.30.260-0.45.35.540.mp3
   sentence: 歩く練習をしていたのは　きっと俺も同じだと今は思う
-  words:
-    - word: 歩く
-      position: 0
-    - word: 練習
-      position: 2
-    - word: を
-      position: 4
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 5
-    - word: て
-      position: 6
-    - word: い
-      base: 居る
-      dictionary: いる
-      position: 7
-    - word: た
-      position: 8
-    - word: の
-      position: 9
-    - word: は
-      position: 10
-    - word: きっと
-      position: 12
-    - word: 俺
-      position: 15
-    - word: も
-      position: 16
-    - word: 同じ
-      position: 17
-    - word: だ
-      position: 19
-    - word: と
-      position: 20
-    - word: 今
-      position: 21
-    - word: は
-      position: 22
-    - word: 思う
-      position: 23
 - id: A_GardenOfWords_0359
   deck_name: The Garden of Words
   translation: One day, when I can walk much farther on my own...
   sound: A_GardenOfWords_1_0.45.36.900-0.45.41.020.mp3
   sentence: いつかもっと　もっと遠くまで　歩けるようになったら
-  words:
-    - word: いつ
-      position: 0
-    - word: か
-      position: 2
-    - word: もっと
-      position: 3
-    - word: もっと
-      position: 7
-    - word: 遠く
-      position: 10
-    - word: まで
-      position: 12
-    - word: 歩ける
-      base: 歩く
-      position: 15
-    - word: よう
-      base: 様
-      position: 18
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 20
-    - word: なっ
-      base: 成る
-      dictionary: なる
-      position: 21
-    - word: たら
-      base: た
-      dictionary: た
-      position: 23
 - id: A_GardenOfWords_0360
   deck_name: The Garden of Words
   translation: ...I will go see her.
   sound: A_GardenOfWords_1_0.45.43.220-0.45.44.660.mp3
   sentence: 会いに行こう
-  words:
-    - word: 会い
-      base: 会う
-      dictionary: 会う
-      position: 0
-    - word: に
-      position: 2
-    - word: 行こう
-      base: 行く
-      dictionary: 行く
-      position: 3

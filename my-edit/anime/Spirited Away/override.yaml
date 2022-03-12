@@ -8,14 +8,6 @@
       position: 1
       tags:
         - silent
-    - word: 新しい
-      position: 5
-    - word: 学校
-      position: 8
-    - word: だ
-      position: 10
-    - word: よ
-      position: 11
 - id: A_SpiritedAway_0031
   deck_name: Spirited Away
   translation: Sit down, Chihiro.
@@ -26,52 +18,16 @@
       position: 1
       tags:
         - silent
-    - word: 座っ
-      base: 座る
-      dictionary: 座る
-      position: 5
-    - word: て
-      position: 7
-    - word: なさい
-      base: 為す
-      dictionary: なさる
-      position: 8
 - id: A_SpiritedAway_0043
   deck_name: Spirited Away
   translation: No need to be scared. Just a little farther, ok?
   sound: Anime-SpiritedAway_1_0.3.52.800-0.3.56.960.mp3
   sentence: 何だ　怖がりだな　(千尋)は。 ねっ　ちょっとだけ。
   words:
-    - word: 何
-      position: 0
-    - word: だ
-      position: 1
-    - word: 怖
-      base: 怖い
-      dictionary: 怖い
-      position: 3
-    - word: がり
-      base: がる
-      dictionary: がる
-      position: 4
-    - word: だ
-      position: 6
-    - word: な
-      position: 7
     - word: 千尋
       position: 10
       tags:
         - silent
-    - word: は
-      position: 13
-    - word: ねっ
-      base: ねえ
-      position: 16
-    - word: ちょっと
-      base: 一寸
-      position: 19
-    - word: だけ
-      position: 23
 - id: A_SpiritedAway_0051
   deck_name: Spirited Away
   translation: Chihiro, you wait in the car.
@@ -82,26 +38,6 @@
       position: 1
       tags:
         - silent
-    - word: は
-      position: 4
-    - word: 車
-      position: 5
-    - word: の
-      position: 6
-    - word: 中
-      position: 7
-    - word: で
-      position: 8
-    - word: 待っ
-      base: 待つ
-      dictionary: 待つ
-      position: 9
-    - word: て
-      position: 11
-    - word: なさい
-      base: 為す
-      dictionary: なさる
-      position: 12
 - id: A_SpiritedAway_0055
   deck_name: Spirited Away
   translation: You'll make me trip, Chihiro, clinging like that.
@@ -112,31 +48,6 @@
       position: 1
       tags:
         - silent
-    - word: そんな
-      position: 5
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 8
-    - word: くっつか
-      base: くっ付く
-      dictionary: くっつく
-      position: 10
-    - word: ない
-      position: 14
-    - word: で
-      position: 16
-    - word: よ
-      position: 17
-    - word: 歩き
-      base: 歩く
-      dictionary: 歩く
-      position: 19
-    - word: にくい
-      base: 難い
-      position: 21
-    - word: わ
-      position: 24
 - id: A_SpiritedAway_0075
   deck_name: Spirited Away
   translation: Chihiro, hurry up。.
@@ -147,18 +58,6 @@
       position: 1
       tags:
         - silent
-    - word: 早く
-      base: 早い
-      dictionary: 早い
-      position: 5
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 7
-    - word: なさい
-      base: 為す
-      dictionary: なさる
-      position: 8
 - id: A_SpiritedAway_0085
   deck_name: Spirited Away
   translation: Come in, Chihiro, it looks delicious.
@@ -169,45 +68,16 @@
       position: 1
       tags:
         - silent
-    - word: も
-      position: 4
-    - word: お
-      base: 御
-      position: 5
-    - word: いで
-      base: 出る
-      dictionary: いでる
-      position: 6
-    - word: おいし
-      base: 美味しい
-      dictionary: おいしい
-      position: 9
-    - word: そう
-      position: 12
-    - word: よ
-      position: 14
 - id: A_SpiritedAway_0090
   deck_name: Spirited Away
   translation: Delicious! Chihiro, taste it.
   sound: Anime-SpiritedAway_1_0.8.51.440-0.8.54.364.mp3
   sentence: おいしい！ (千尋)　すっごくおいしいよ。
   words:
-    - word: おいしい
-      base: 美味しい
-      position: 0
     - word: 千尋
       position: 7
       tags:
         - silent
-    - word: すっごく
-      base: 凄い
-      dictionary: すっごい
-      position: 11
-    - word: おいしい
-      base: 美味しい
-      position: 15
-    - word: よ
-      position: 19
 - id: A_SpiritedAway_0095
   deck_name: Spirited Away
   translation: Take some, Chihiro, it's so tender.
@@ -218,23 +88,6 @@
       position: 1
       tags:
         - silent
-    - word: も
-      position: 4
-    - word: 食べ
-      base: 食べる
-      dictionary: 食べる
-      position: 5
-    - word: な
-      position: 7
-    - word: 骨
-      position: 9
-    - word: まで
-      position: 10
-    - word: やわらかい
-      base: 軟らかい
-      position: 13
-    - word: よ
-      position: 18
 - id: A_SpiritedAway_0152
   deck_name: Spirited Away
   translation: Master Haku!
@@ -245,8 +98,6 @@
       position: 1
       tags:
         - silent
-    - word: 様
-      position: 4
 - id: A_SpiritedAway_0156
   deck_name: Spirited Away
   translation: Master Haku, master Haku!
@@ -257,157 +108,50 @@
       position: 1
       tags:
         - silent
-    - word: 様
-      position: 4
     - word: ハク
       position: 7
       tags:
         - silent
-    - word: 様
-      position: 10
 - id: A_SpiritedAway_0160
   deck_name: Spirited Away
   translation: No, Chihiro, you did very well.
   sound: Anime-SpiritedAway_1_0.18.45.000-0.18.47.162.mp3
   sentence: いや　(千尋)は　よく頑張った。
   words:
-    - word: いや
-      base: 否
-      position: 0
     - word: 千尋
       position: 4
       tags:
         - silent
-    - word: は
-      position: 7
-    - word: よく
-      base: 良く
-      position: 9
-    - word: 頑張っ
-      base: 頑張る
-      dictionary: 頑張る
-      position: 11
-    - word: た
-      position: 14
 - id: A_SpiritedAway_0163
   deck_name: Spirited Away
   translation: I'll distract them. In the meantime, you escape.
   sound: Anime-SpiritedAway_1_0.18.52.320-0.18.55.760.mp3
   sentence: 私が行って　ごまかすから、そのすきに(千尋)は　ここを抜け出して…。
   words:
-    - word: 私
-      position: 0
-    - word: が
-      position: 1
-    - word: 行っ
-      base: 行く
-      dictionary: 行く
-      position: 2
-    - word: て
-      position: 4
-    - word: ごまかす
-      position: 6
-    - word: から
-      position: 10
-    - word: その
-      base: 其の
-      position: 13
-    - word: すき
-      base: 好き
-      position: 15
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 17
     - word: 千尋
       position: 19
       tags:
         - silent
-    - word: は
-      position: 22
-    - word: ここ
-      base: 此処
-      position: 24
-    - word: を
-      position: 26
-    - word: 抜け
-      base: 抜く
-      dictionary: 抜ける
-      position: 27
-    - word: 出し
-      base: 出す
-      dictionary: 出す
-      position: 29
-    - word: て
-      position: 31
 - id: A_SpiritedAway_0173
   deck_name: Spirited Away
   translation: Kamaji's there, so look for him.
   sound: Anime-SpiritedAway_1_0.19.20.360-0.19.23.682.mp3
   sentence: 中に(カマジイ)という人がいるから (カマジイ)に会うんだ。
   words:
-    - word: 中
-      position: 0
-    - word: に
-      position: 1
     - word: カマジイ
       position: 3
       tags:
         - silent
-    - word: と
-      position: 8
-    - word: いう
-      base: 言う
-      position: 9
-    - word: 人
-      position: 11
-    - word: が
-      position: 12
-    - word: いる
-      base: 居る
-      position: 13
-    - word: から
-      position: 15
     - word: カマジイ
       position: 19
       tags:
         - silent
-    - word: に
-      position: 24
-    - word: 会う
-      position: 25
-    - word: ん
-      base: の
-      position: 27
-    - word: だ
-      position: 28
 - id: A_SpiritedAway_0176
   deck_name: Spirited Away
   translation: If you don't work, Yubaba will turn you into an animal.
   sound: Anime-SpiritedAway_1_0.19.31.000-0.19.34.447.mp3
   sentence: ここでは　仕事を持たない者は (湯バーバ)に動物にされてしまう。
   words:
-    - word: ここ
-      base: 此処
-      position: 0
-    - word: で
-      position: 2
-    - word: は
-      position: 3
-    - word: 仕事
-      position: 5
-    - word: を
-      position: 7
-    - word: 持た
-      base: 持つ
-      dictionary: 持つ
-      position: 8
-    - word: ない
-      position: 10
-    - word: 者
-      position: 12
-    - word: は
-      position: 13
     - word: 湯
       position: 16
       tags:
@@ -416,25 +160,6 @@
       position: 17
       tags:
         - silent
-    - word: に
-      position: 21
-    - word: 動物
-      position: 22
-    - word: に
-      position: 24
-    - word: さ
-      base: 為る
-      dictionary: する
-      position: 25
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 26
-    - word: て
-      position: 27
-    - word: しまう
-      base: 仕舞う
-      position: 28
 - id: A_SpiritedAway_0177
   deck_name: Spirited Away
   translation: Yubaba?
@@ -449,8 +174,6 @@
       position: 2
       tags:
         - silent
-    - word: って
-      position: 6
 - id: A_SpiritedAway_0181
   deck_name: Spirited Away
   translation: >-
@@ -459,41 +182,6 @@
   sound: Anime-SpiritedAway_1_0.19.44.520-0.19.49.162.mp3
   sentence: つらくても耐えて機会を待つんだよ。 そうすれば(湯バーバ)も手が出せない。
   words:
-    - word: つらく
-      base: 辛い
-      dictionary: つらい
-      position: 0
-    - word: て
-      position: 3
-    - word: も
-      position: 4
-    - word: 耐え
-      base: 耐える
-      dictionary: 耐える
-      position: 5
-    - word: て
-      position: 7
-    - word: 機会
-      position: 8
-    - word: を
-      position: 10
-    - word: 待つ
-      position: 11
-    - word: ん
-      base: の
-      position: 13
-    - word: だ
-      position: 14
-    - word: よ
-      position: 15
-    - word: そう
-      position: 18
-    - word: すれ
-      base: 為る
-      dictionary: する
-      position: 20
-    - word: ば
-      position: 22
     - word: 湯
       position: 24
       tags:
@@ -502,18 +190,6 @@
       position: 25
       tags:
         - silent
-    - word: も
-      position: 29
-    - word: 手
-      position: 30
-    - word: が
-      position: 31
-    - word: 出せ
-      base: 出す
-      dictionary: 出せる
-      position: 32
-    - word: ない
-      position: 34
 - id: A_SpiritedAway_0182
   deck_name: Spirited Away
   translation: Master Haku, master Haku!
@@ -524,66 +200,30 @@
       position: 1
       tags:
         - silent
-    - word: 様
-      position: 4
     - word: ハク
       position: 7
       tags:
         - silent
-    - word: 様
-      position: 10
 - id: A_SpiritedAway_0184
   deck_name: Spirited Away
   translation: Remember, Chihiro, I'm your friend.
   sound: Anime-SpiritedAway_1_0.19.54.720-0.19.58.964.mp3
   sentence: 忘れないで　私は(千尋)の味方だからね。
   words:
-    - word: 忘れ
-      base: 忘れる
-      dictionary: 忘れる
-      position: 0
-    - word: ない
-      position: 2
-    - word: で
-      position: 4
-    - word: 私
-      position: 6
-    - word: は
-      position: 7
     - word: 千尋
       position: 9
       tags:
         - silent
-    - word: の
-      position: 12
-    - word: 味方
-      position: 13
-    - word: だ
-      position: 15
-    - word: から
-      position: 16
-    - word: ね
-      position: 18
 - id: A_SpiritedAway_0187
   deck_name: Spirited Away
   translation: My name is Haku.
   sound: Anime-SpiritedAway_1_0.20.01.760-0.20.03.728.mp3
   sentence: 私の名は　(ハク)だ。
   words:
-    - word: 私
-      position: 0
-    - word: の
-      position: 1
-    - word: 名
-      position: 2
-    - word: は
-      position: 3
     - word: ハク
       position: 6
       tags:
         - silent
-    - word: だ
-      position: 9
 - id: A_SpiritedAway_0188
   deck_name: Spirited Away
   translation: Here I am!
@@ -594,18 +234,6 @@
       position: 1
       tags:
         - silent
-    - word: は
-      position: 4
-    - word: ここ
-      base: 此処
-      position: 6
-    - word: に
-      position: 8
-    - word: いる
-      base: 居る
-      position: 9
-    - word: ぞ
-      position: 11
 - id: A_SpiritedAway_0189
   deck_name: Spirited Away
   translation: Master Haku, Yubaba wants you
@@ -616,8 +244,6 @@
       position: 1
       tags:
         - silent
-    - word: 様
-      position: 4
     - word: 湯
       position: 7
       tags:
@@ -626,140 +252,42 @@
       position: 8
       tags:
         - silent
-    - word: 様
-      position: 12
-    - word: が
-      position: 13
 - id: A_SpiritedAway_0194
   deck_name: Spirited Away
   translation: Um, are you Kamaji?
   sound: Anime-SpiritedAway_1_0.24.42.880-0.24.45.247.mp3
   sentence: あの　(カマジイ)さんですか？
   words:
-    - word: あの
-      base: 彼の
-      position: 0
     - word: カマジイ
       position: 4
       tags:
         - silent
-    - word: さん
-      position: 9
-    - word: です
-      position: 11
-    - word: か
-      position: 13
 - id: A_SpiritedAway_0195
   deck_name: Spirited Away
   translation: Um, Haku sent me here. Please let me work here.
   sound: Anime-SpiritedAway_1_0.24.53.040-0.24.56.726.mp3
   sentence: あの　(ハク)という人に言われて来ました。 ここで働かせてください。
   words:
-    - word: あの
-      base: 彼の
-      position: 0
     - word: ハク
       position: 4
       tags:
         - silent
-    - word: と
-      position: 7
-    - word: いう
-      base: 言う
-      position: 8
-    - word: 人
-      position: 10
-    - word: に
-      position: 11
-    - word: 言わ
-      base: 言う
-      dictionary: 言う
-      position: 12
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 14
-    - word: て
-      position: 15
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 16
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 17
-    - word: た
-      position: 19
-    - word: ここ
-      base: 此処
-      position: 22
-    - word: で
-      position: 24
-    - word: 働か
-      base: 働く
-      dictionary: 働く
-      position: 25
-    - word: せ
-      base: せる
-      dictionary: せる
-      position: 27
-    - word: て
-      position: 28
-    - word: ください
-      base: 下さる
-      dictionary: くださる
-      position: 29
 - id: A_SpiritedAway_0198
   deck_name: Spirited Away
   translation: I'm... Kamaji. Slave to the boilers that heat the baths.
   sound: Anime-SpiritedAway_1_0.25.09.040-0.25.14.040.mp3
   sentence: わしゃあ　(カマジイ)だ。 風呂釜にこき使われとるジジイだ。
   words:
-    - word: わしゃ
-      base: わし
-      position: 0
-    - word: あ
-      base: あー
-      position: 3
     - word: カマジイ
       position: 6
       tags:
         - silent
-    - word: だ
-      position: 11
-    - word: 風呂釜
-      position: 14
-    - word: に
-      position: 17
-    - word: こき
-      base: こく
-      dictionary: こく
-      position: 18
-    - word: 使わ
-      base: 使う
-      dictionary: 使う
-      position: 20
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 22
-    - word: とる
-      position: 23
-    - word: ジジイ
-      base: 爺
-      position: 25
-    - word: だ
-      position: 28
 - id: A_SpiritedAway_0225
   deck_name: Spirited Away
   translation: Would you take her to Yubaba?
   sound: Anime-SpiritedAway_1_0.29.21.320-0.29.24.960.mp3
   sentence: おめぇ　(湯バーバ)のとこへ 連れてってくれねえか。
   words:
-    - word: おめぇ
-      base: 御前
-      position: 0
     - word: 湯
       position: 5
       tags:
@@ -768,47 +296,12 @@
       position: 6
       tags:
         - silent
-    - word: の
-      position: 10
-    - word: とこ
-      position: 11
-    - word: へ
-      position: 13
-    - word: 連れ
-      base: 連れる
-      dictionary: 連れる
-      position: 15
-    - word: てっ
-      base: てく
-      dictionary: てく
-      position: 17
-    - word: て
-      position: 19
-    - word: くれ
-      base: 呉れる
-      dictionary: くれる
-      position: 20
-    - word: ねえ
-      base: ない
-      dictionary: ない
-      position: 22
-    - word: か
-      position: 24
 - id: A_SpiritedAway_0229
   deck_name: Spirited Away
   translation: If you want to work, you'll have to make a deal with Yubaba.
   sound: Anime-SpiritedAway_1_0.29.36.360-0.29.40.440.mp3
   sentence: どのみち働くには (湯バーバ)と契約せにゃならん。
   words:
-    - word: どのみち
-      base: どの道
-      position: 0
-    - word: 働く
-      position: 4
-    - word: に
-      position: 6
-    - word: は
-      position: 7
     - word: 湯
       position: 10
       tags:
@@ -817,71 +310,16 @@
       position: 11
       tags:
         - silent
-    - word: と
-      position: 15
-    - word: 契約
-      position: 16
-    - word: せ
-      base: 為る
-      dictionary: する
-      position: 18
-    - word: にゃ
-      base: ず
-      dictionary: ぬ
-      position: 19
-    - word: なら
-      base: 成る
-      dictionary: なる
-      position: 21
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 23
 - id: A_SpiritedAway_0238
   deck_name: Spirited Away
   translation: Did you even thank Kamaji? He's looking out for you.
   sound: Anime-SpiritedAway_1_0.30.11.920-0.30.16.005.mp3
   sentence: あんた　(カマジイ)にお礼言ったの？ 世話になったんだろ？
   words:
-    - word: あんた
-      base: 貴方
-      position: 0
     - word: カマジイ
       position: 5
       tags:
         - silent
-    - word: に
-      position: 10
-    - word: お
-      base: 御
-      position: 11
-    - word: 礼
-      position: 12
-    - word: 言っ
-      base: 言う
-      dictionary: 言う
-      position: 13
-    - word: た
-      position: 15
-    - word: の
-      position: 16
-    - word: 世話
-      position: 19
-    - word: に
-      position: 21
-    - word: なっ
-      base: 成る
-      dictionary: なる
-      position: 22
-    - word: た
-      position: 24
-    - word: ん
-      base: の
-      position: 25
-    - word: だろ
-      base: だ
-      dictionary: だ
-      position: 26
 - id: A_SpiritedAway_0241
   deck_name: Spirited Away
   translation: Yubaba lives way up at the top, in the back.
@@ -896,32 +334,6 @@
       position: 2
       tags:
         - silent
-    - word: は
-      position: 6
-    - word: 建物
-      position: 8
-    - word: の
-      position: 10
-    - word: テッペン
-      base: 天辺
-      position: 11
-    - word: の
-      position: 15
-    - word: その
-      base: 其の
-      position: 17
-    - word: 奥
-      position: 19
-    - word: に
-      position: 20
-    - word: いる
-      base: 居る
-      position: 21
-    - word: ん
-      base: の
-      position: 23
-    - word: だ
-      position: 24
 - id: A_SpiritedAway_0251
   deck_name: Spirited Away
   translation: Lin? Yes!
@@ -933,8 +345,6 @@
       position: 1
       tags:
         - silent
-    - word: はい
-      position: 6
 - id: A_SpiritedAway_0316
   deck_name: Spirited Away
   translation: You're Chihiro, huh? Yes.
@@ -945,91 +355,32 @@
       position: 1
       tags:
         - silent
-    - word: と
-      position: 4
-    - word: いう
-      base: 言う
-      position: 5
-    - word: の
-      position: 7
-    - word: か
-      position: 8
-    - word: い
-      position: 9
-    - word: はい
-      position: 12
 - id: A_SpiritedAway_0318
   deck_name: Spirited Away
   translation: From now on, you'll be Sen.
   sound: Anime-SpiritedAway_1_0.40.22.920-0.40.25.685.mp3
   sentence: 今から　お前の名前は(千)だ。
   words:
-    - word: 今
-      position: 0
-    - word: から
-      position: 1
-    - word: お前
-      base: 御前
-      position: 4
-    - word: の
-      position: 6
-    - word: 名前
-      position: 7
-    - word: は
-      position: 9
     - word: 千
       position: 11
       tags:
         - silent
-    - word: だ
-      position: 13
 - id: A_SpiritedAway_0319
   deck_name: Spirited Away
   translation: You got that? You're Sen.
   sound: Anime-SpiritedAway_1_0.40.26.120-0.40.28.080.mp3
   sentence: いいかい　(千)だよ
   words:
-    - word: いい
-      base: 良い
-      position: 0
-    - word: か
-      position: 2
-    - word: い
-      position: 3
     - word: 千
       position: 6
       tags:
         - silent
-    - word: だ
-      position: 8
-    - word: よ
-      position: 9
 - id: A_SpiritedAway_0320
   deck_name: Spirited Away
   translation: Answer me, Sen!
   sound: Anime-SpiritedAway_1_0.40.28.080-0.40.30.686.mp3
   sentence: 分かったら返事をするんだ　(千)！
   words:
-    - word: 分かっ
-      base: 分かる
-      dictionary: 分かる
-      position: 0
-    - word: たら
-      base: た
-      dictionary: た
-      position: 3
-    - word: 返事
-      position: 5
-    - word: を
-      position: 7
-    - word: する
-      base: 為る
-      position: 8
-    - word: ん
-      base: の
-      position: 10
-    - word: だ
-      position: 11
     - word: 千
       position: 14
       tags:
@@ -1040,39 +391,20 @@
   sound: Anime-SpiritedAway_1_0.40.44.000-0.40.46.685.mp3
   sentence: ち…　あっ…　(千)です。
   words:
-    - word: ち
-      base: ちっ
-      position: 0
-    - word: あっ
-      position: 3
     - word: 千
       position: 8
       tags:
         - silent
-    - word: です
-      position: 10
 - id: A_SpiritedAway_0326
   deck_name: Spirited Away
   translation: Follow me, then, Sen.
   sound: Anime-SpiritedAway_1_0.40.47.000-0.40.49.162.mp3
   sentence: では　(千)　来なさい。
   words:
-    - word: で
-      position: 0
-    - word: は
-      position: 1
     - word: 千
       position: 4
       tags:
         - silent
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 7
-    - word: なさい
-      base: 為す
-      dictionary: なさる
-      position: 8
 - id: A_SpiritedAway_0327
   deck_name: Spirited Away
   translation: Haku... Um...
@@ -1083,44 +415,22 @@
       position: 1
       tags:
         - silent
-    - word: あの
-      base: 彼の
-      position: 6
 - id: A_SpiritedAway_0329
   deck_name: Spirited Away
   translation: Call me master Haku.
   sound: Anime-SpiritedAway_1_0.41.01.120-0.41.03.487.mp3
   sentence: 私のことは(ハク)様と呼べ。
   words:
-    - word: 私
-      position: 0
-    - word: の
-      position: 1
-    - word: こと
-      position: 2
-    - word: は
-      position: 4
     - word: ハク
       position: 6
       tags:
         - silent
-    - word: 様
-      position: 9
-    - word: と
-      position: 10
-    - word: 呼べ
-      base: 呼ぶ
-      dictionary: 呼ぶ
-      position: 11
 - id: A_SpiritedAway_0330
   deck_name: Spirited Away
   translation: Even on Yubaba's orders...
   sound: Anime-SpiritedAway_1_0.41.19.160-0.41.22.480.mp3
   sentence: いくら(湯バーバ)様の おっしゃりでも　それは…。
   words:
-    - word: いくら
-      base: 幾ら
-      position: 0
     - word: 湯
       position: 4
       tags:
@@ -1129,73 +439,28 @@
       position: 5
       tags:
         - silent
-    - word: 様
-      position: 9
-    - word: の
-      position: 10
-    - word: おっしゃり
-      base: 仰る
-      dictionary: おっしゃる
-      position: 12
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 17
-    - word: も
-      position: 18
-    - word: それ
-      base: 其れ
-      position: 20
-    - word: は
-      position: 22
 - id: A_SpiritedAway_0337
   deck_name: Spirited Away
   translation: Back to work! Where's Lin?
   sound: Anime-SpiritedAway_1_0.41.42.040-0.41.44.400.mp3
   sentence: 仕事に戻れ　(リン)はどこだ？
   words:
-    - word: 仕事
-      position: 0
-    - word: に
-      position: 2
-    - word: 戻れ
-      base: 戻る
-      dictionary: 戻る
-      position: 3
     - word: リン
       base: 燐
       position: 7
       tags:
         - silent
-    - word: は
-      position: 10
-    - word: どこ
-      position: 11
-    - word: だ
-      position: 13
 - id: A_SpiritedAway_0340
   deck_name: Spirited Away
   translation: That's right, Lin's just perfect.
   sound: Anime-SpiritedAway_1_0.41.48.720-0.41.51.644.mp3
   sentence: そうそう　(リン)が適役だぞ。
   words:
-    - word: そう
-      position: 0
-    - word: そう
-      position: 2
     - word: リン
       base: 燐
       position: 6
       tags:
         - silent
-    - word: が
-      position: 9
-    - word: 適役
-      position: 10
-    - word: だ
-      position: 12
-    - word: ぞ
-      position: 13
 - id: A_SpiritedAway_0341
   deck_name: Spirited Away
   translation: Go, Sen.
@@ -1206,10 +471,6 @@
       position: 1
       tags:
         - silent
-    - word: 行け
-      base: 行く
-      dictionary: 行く
-      position: 4
 - id: A_SpiritedAway_0357
   deck_name: Spirited Away
   translation: Um, Lin...
@@ -1221,51 +482,22 @@
       position: 1
       tags:
         - silent
-    - word: さん
-      position: 4
-    - word: あの
-      base: 彼の
-      position: 7
 - id: A_SpiritedAway_0359
   deck_name: Spirited Away
   translation: Are there two Hakus here?
   sound: Anime-SpiritedAway_1_0.42.53.960-0.42.56.200.mp3
   sentence: ここに(ハク)っていう人 二人いるの？
   words:
-    - word: ここ
-      base: 此処
-      position: 0
-    - word: に
-      position: 2
     - word: ハク
       position: 4
       tags:
         - silent
-    - word: って
-      position: 7
-    - word: いう
-      base: 言う
-      position: 9
-    - word: 人
-      position: 11
-    - word: 二人
-      position: 13
-    - word: いる
-      base: 居る
-      position: 15
-    - word: の
-      position: 17
 - id: A_SpiritedAway_0362
   deck_name: Spirited Away
   translation: He's Yubaba's henchman. Watch out for him.
   sound: Anime-SpiritedAway_1_0.43.01.400-0.43.04.165.mp3
   sentence: あいつは(湯バーバ)の手先だから 気をつけな。
   words:
-    - word: あいつ
-      base: 彼奴
-      position: 0
-    - word: は
-      position: 3
     - word: 湯
       position: 5
       tags:
@@ -1274,41 +506,12 @@
       position: 6
       tags:
         - silent
-    - word: の
-      position: 10
-    - word: 手先
-      position: 11
-    - word: だ
-      position: 13
-    - word: から
-      position: 14
-    - word: 気
-      position: 17
-    - word: を
-      position: 18
-    - word: つけ
-      base: つける
-      dictionary: つける
-      position: 19
-    - word: な
-      position: 21
 - id: A_SpiritedAway_0366
   deck_name: Spirited Away
   translation: What's all the fuss, Lin?
   sound: Anime-SpiritedAway_1_0.43.18.960-0.43.21.440.mp3
   sentence: うるさいな　何だよ　(リン)。
   words:
-    - word: うるさい
-      base: 煩い
-      position: 0
-    - word: な
-      position: 4
-    - word: 何
-      position: 6
-    - word: だ
-      position: 7
-    - word: よ
-      position: 8
     - word: リン
       base: 燐
       position: 11
@@ -1320,16 +523,10 @@
   sound: Anime-SpiritedAway_1_0.47.57.480-0.47.58.811.mp3
   sentence: せ…　(千)よ。
   words:
-    - word: せ
-      base: せる
-      dictionary: せる
-      position: 0
     - word: 千
       position: 4
       tags:
         - silent
-    - word: よ
-      position: 6
 - id: A_SpiritedAway_0385
   deck_name: Spirited Away
   translation: Chihiro... That's my name.
@@ -1340,18 +537,6 @@
       position: 1
       tags:
         - silent
-    - word: って
-      position: 5
-    - word: 私
-      position: 9
-    - word: の
-      position: 10
-    - word: 名
-      position: 11
-    - word: だ
-      position: 12
-    - word: わ
-      position: 13
 - id: A_SpiritedAway_0386
   deck_name: Spirited Away
   translation: Yubaba rules others by stealing their names.
@@ -1366,133 +551,26 @@
       position: 2
       tags:
         - silent
-    - word: は
-      position: 6
-    - word: 相手
-      position: 8
-    - word: の
-      position: 10
-    - word: 名
-      position: 11
-    - word: を
-      position: 12
-    - word: 奪っ
-      base: 奪う
-      dictionary: 奪う
-      position: 13
-    - word: て
-      position: 15
-    - word: 支配
-      position: 17
-    - word: する
-      base: 為る
-      position: 19
-    - word: ん
-      base: の
-      position: 21
-    - word: だ
-      position: 22
 - id: A_SpiritedAway_0387
   deck_name: Spirited Away
   translation: You're Sen here, but keep your real name a secret.
   sound: Anime-SpiritedAway_1_0.49.00.440-0.49.04.525.mp3
   sentence: いつもは　(千)でいて　本当の名前は しっかり隠しておくんだよ。
   words:
-    - word: いつも
-      position: 0
-    - word: は
-      position: 3
     - word: 千
       position: 6
       tags:
         - silent
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 8
-    - word: い
-      base: 居る
-      dictionary: いる
-      position: 9
-    - word: て
-      position: 10
-    - word: 本当
-      position: 12
-    - word: の
-      position: 14
-    - word: 名前
-      position: 15
-    - word: は
-      position: 17
-    - word: しっかり
-      base: 確り
-      position: 19
-    - word: 隠し
-      base: 隠す
-      dictionary: 隠す
-      position: 23
-    - word: て
-      position: 25
-    - word: おく
-      position: 26
-    - word: ん
-      base: の
-      position: 28
-    - word: だ
-      position: 29
-    - word: よ
-      position: 30
 - id: A_SpiritedAway_0388
   deck_name: Spirited Away
   translation: She almost got mine. I'd nearly turned into Sen.
   sound: Anime-SpiritedAway_1_0.49.04.800-0.49.07.963.mp3
   sentence: 私　もう取られかけてた (千)に　なりかけてたもん。
   words:
-    - word: 私
-      position: 0
-    - word: もう
-      position: 2
-    - word: 取ら
-      base: 取る
-      dictionary: 取る
-      position: 4
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 6
-    - word: かけ
-      base: 掛ける
-      dictionary: かける
-      position: 7
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 9
-    - word: た
-      position: 10
     - word: 千
       position: 13
       tags:
         - silent
-    - word: に
-      position: 15
-    - word: なり
-      base: 成る
-      dictionary: なる
-      position: 17
-    - word: かけ
-      base: かける
-      dictionary: かける
-      position: 19
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 21
-    - word: た
-      position: 22
-    - word: もん
-      base: もの
-      position: 23
 - id: A_SpiritedAway_0391
   deck_name: Spirited Away
   translation: Your real name?
@@ -1503,52 +581,16 @@
       position: 1
       tags:
         - silent
-    - word: の
-      position: 4
-    - word: 本当
-      position: 5
-    - word: の
-      position: 7
-    - word: 名前
-      position: 8
 - id: A_SpiritedAway_0392
   deck_name: Spirited Away
   translation: But it's strange. I remembered yours.
   sound: Anime-SpiritedAway_1_0.49.17.680-0.49.21.002.mp3
   sentence: でも　不思議だね (千尋)のことは覚えていた。
   words:
-    - word: で
-      position: 0
-    - word: も
-      position: 1
-    - word: 不思議
-      position: 3
-    - word: だ
-      position: 6
-    - word: ね
-      position: 7
     - word: 千尋
       position: 10
       tags:
         - silent
-    - word: の
-      position: 13
-    - word: こと
-      position: 14
-    - word: は
-      position: 16
-    - word: 覚え
-      base: 覚える
-      dictionary: 覚える
-      position: 17
-    - word: て
-      position: 19
-    - word: い
-      base: 居る
-      dictionary: いる
-      position: 20
-    - word: た
-      position: 21
 - id: A_SpiritedAway_0395
   deck_name: Spirited Away
   translation: I put a spell on it to give you back your strength, eat it.
@@ -1559,71 +601,16 @@
       position: 1
       tags:
         - silent
-    - word: の
-      position: 4
-    - word: 元気
-      position: 5
-    - word: が
-      position: 7
-    - word: 出る
-      position: 8
-    - word: よう
-      base: 様
-      position: 10
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 12
-    - word: まじない
-      base: 呪い
-      position: 13
-    - word: を
-      position: 17
-    - word: かけ
-      base: 掛ける
-      dictionary: かける
-      position: 18
-    - word: て
-      position: 20
-    - word: 作っ
-      base: 作る
-      dictionary: 作る
-      position: 21
-    - word: た
-      position: 23
-    - word: ん
-      base: の
-      position: 24
-    - word: だ
-      position: 25
-    - word: お
-      base: 御
-      position: 27
-    - word: 食べ
-      base: 食べる
-      dictionary: 食べる
-      position: 28
 - id: A_SpiritedAway_0398
   deck_name: Spirited Away
   translation: Yes, Haku, thank you. I'll work very hard.
   sound: Anime-SpiritedAway_1_0.50.27.480-0.50.30.161.mp3
   sentence: うん　(ハク)ありがとう 私　頑張るね。
   words:
-    - word: うん
-      position: 0
     - word: ハク
       position: 4
       tags:
         - silent
-    - word: ありがとう
-      base: 有り難う
-      position: 7
-    - word: 私
-      position: 13
-    - word: 頑張る
-      position: 15
-    - word: ね
-      position: 18
 - id: A_SpiritedAway_0402
   deck_name: Spirited Away
   translation: That the best you can do?
@@ -1634,18 +621,6 @@
       position: 1
       tags:
         - silent
-    - word: もっと
-      position: 4
-    - word: 力
-      position: 7
-    - word: 入ん
-      base: 入る
-      dictionary: 入る
-      position: 9
-    - word: ない
-      position: 11
-    - word: の
-      position: 13
 - id: A_SpiritedAway_0403
   deck_name: Spirited Away
   translation: You and Sen get the big tub as of today.
@@ -1657,22 +632,10 @@
       position: 1
       tags:
         - silent
-    - word: と
-      position: 4
     - word: 千
       position: 6
       tags:
         - silent
-    - word: 今日
-      position: 9
-    - word: から
-      position: 11
-    - word: 大湯
-      position: 13
-    - word: 番
-      position: 15
-    - word: だ
-      position: 16
 - id: A_SpiritedAway_0407
   deck_name: Spirited Away
   translation: Hurry up, sen!
@@ -1683,16 +646,6 @@
       position: 1
       tags:
         - silent
-    - word: 早く
-      base: 早い
-      dictionary: 早い
-      position: 4
-    - word: しろ
-      base: 為る
-      dictionary: する
-      position: 6
-    - word: よ
-      position: 8
 - id: A_SpiritedAway_0410
   deck_name: Spirited Away
   translation: On the big tub, lin? Lay off me.
@@ -1704,20 +657,6 @@
       position: 1
       tags:
         - silent
-    - word: 大湯
-      position: 5
-    - word: だ
-      position: 7
-    - word: って
-      position: 8
-    - word: ほっ
-      base: ほる
-      dictionary: ほる
-      position: 12
-    - word: とけ
-      base: とく
-      dictionary: とく
-      position: 14
 - id: A_SpiritedAway_0414
   deck_name: Spirited Away
   translation: Lin, Sen, first customers are here.
@@ -1733,73 +672,16 @@
       position: 6
       tags:
         - silent
-    - word: 一番
-      position: 9
-    - word: 客
-      position: 11
-    - word: が
-      position: 12
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 13
-    - word: ちまう
-      position: 14
-    - word: ぞ
-      position: 17
 - id: A_SpiritedAway_0417
   deck_name: Spirited Away
   translation: This tub needs a herbal soak. Get a tag from the foreman.
   sound: Anime-SpiritedAway_1_0.54.18.000-0.54.21.240.mp3
   sentence: 一回　薬湯入れなきゃダメだ (千)　番台へ行って　札もらって来な。
   words:
-    - word: 一
-      position: 0
-    - word: 回
-      position: 1
-    - word: 薬湯
-      position: 3
-    - word: 入れ
-      base: 入れる
-      dictionary: 入れる
-      position: 5
-    - word: なきゃ
-      base: ない
-      dictionary: ない
-      position: 7
-    - word: ダメ
-      base: 駄目
-      position: 10
-    - word: だ
-      position: 12
     - word: 千
       position: 15
       tags:
         - silent
-    - word: 番台
-      position: 18
-    - word: へ
-      position: 20
-    - word: 行っ
-      base: 行く
-      dictionary: 行く
-      position: 21
-    - word: て
-      position: 23
-    - word: 札
-      position: 25
-    - word: もらっ
-      base: 貰う
-      dictionary: もらう
-      position: 26
-    - word: て
-      position: 29
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 30
-    - word: な
-      position: 31
 - id: A_SpiritedAway_0421
   deck_name: Spirited Away
   translation: Lin, what's a foreman?
@@ -1811,82 +693,26 @@
       position: 1
       tags:
         - silent
-    - word: さん
-      position: 4
-    - word: 番台
-      position: 7
-    - word: って
-      position: 9
-    - word: 何
-      position: 11
 - id: A_SpiritedAway_0445
   deck_name: Spirited Away
   translation: You figure it out. Haku's out today.
   sound: Anime-SpiritedAway_1_0.56.06.920-0.56.09.924.mp3
   sentence: それを調べるんだ 今日は　(ハク)がいないからね。
   words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: を
-      position: 2
-    - word: 調べる
-      position: 3
-    - word: ん
-      base: の
-      position: 6
-    - word: だ
-      position: 7
-    - word: 今日
-      position: 9
-    - word: は
-      position: 11
     - word: ハク
       position: 14
       tags:
         - silent
-    - word: が
-      position: 17
-    - word: い
-      base: 居る
-      dictionary: いる
-      position: 18
-    - word: ない
-      position: 19
-    - word: から
-      position: 21
-    - word: ね
-      position: 23
 - id: A_SpiritedAway_0447
   deck_name: Spirited Away
   translation: This goes to Kamaji.
   sound: Anime-SpiritedAway_1_0.56.12.520-0.56.15.091.mp3
   sentence: これがさ (カマジイ)のとこへ行くんだ。
   words:
-    - word: これ
-      base: 此れ
-      position: 0
-    - word: が
-      position: 2
-    - word: さ
-      position: 3
     - word: カマジイ
       position: 6
       tags:
         - silent
-    - word: の
-      position: 11
-    - word: とこ
-      position: 12
-    - word: へ
-      position: 14
-    - word: 行く
-      position: 15
-    - word: ん
-      base: の
-      position: 17
-    - word: だ
-      position: 18
 - id: A_SpiritedAway_0450
   deck_name: Spirited Away
   translation: You're such a klutz.
@@ -1897,18 +723,6 @@
       position: 1
       tags:
         - silent
-    - word: って
-      position: 3
-    - word: ホント
-      base: 本当
-      position: 6
-    - word: ドジ
-      base: どじ
-      position: 10
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 12
 - id: A_SpiritedAway_0473
   deck_name: Spirited Away
   translation: Lin and Sen, Yubaba's calling.
@@ -1920,29 +734,10 @@
       position: 1
       tags:
         - silent
-    - word: と
-      position: 4
     - word: 千
       position: 6
       tags:
         - silent
-    - word: 湯
-      position: 10
-    - word: バーバ
-      position: 11
-    - word: 様
-      position: 15
-    - word: が
-      position: 16
-    - word: お
-      base: 御
-      position: 18
-    - word: 呼び
-      base: 呼ぶ
-      dictionary: 呼ぶ
-      position: 19
-    - word: だ
-      position: 21
 - id: A_SpiritedAway_0494
   deck_name: Spirited Away
   translation: Did you give Sen new tags?
@@ -1953,24 +748,6 @@
       position: 1
       tags:
         - silent
-    - word: に
-      position: 3
-    - word: 新しい
-      position: 4
-    - word: 札
-      position: 7
-    - word: あげ
-      base: 上げる
-      dictionary: あげる
-      position: 9
-    - word: た
-      position: 11
-    - word: の
-      position: 12
-    - word: か
-      position: 13
-    - word: い
-      position: 14
 - id: A_SpiritedAway_0498
   deck_name: Spirited Away
   translation: Lin! You ok?
@@ -1982,12 +759,6 @@
       position: 1
       tags:
         - silent
-    - word: さん
-      position: 4
-    - word: 大丈夫
-      position: 8
-    - word: か
-      position: 11
 - id: A_SpiritedAway_0499
   deck_name: Spirited Away
   translation: I asked Kamaji to give us all the water he's got!
@@ -1998,39 +769,6 @@
       position: 1
       tags:
         - silent
-    - word: に
-      position: 6
-    - word: ありったけ
-      base: 有り丈
-      position: 8
-    - word: の
-      position: 13
-    - word: お
-      base: 御
-      position: 14
-    - word: 湯
-      position: 15
-    - word: 出す
-      position: 17
-    - word: よう
-      base: 様
-      position: 19
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 21
-    - word: 頼ん
-      base: 頼む
-      dictionary: 頼む
-      position: 22
-    - word: で
-      position: 24
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 25
-    - word: た
-      position: 26
 - id: A_SpiritedAway_0507
   deck_name: Spirited Away
   translation: Sen and Lin!
@@ -2041,8 +779,6 @@
       position: 1
       tags:
         - silent
-    - word: と
-      position: 3
     - word: リン
       base: 燐
       position: 5
@@ -2058,30 +794,6 @@
       position: 1
       tags:
         - silent
-    - word: お
-      base: 御
-      position: 4
-    - word: 客
-      position: 5
-    - word: 様
-      position: 6
-    - word: の
-      position: 7
-    - word: 邪魔
-      position: 8
-    - word: だ
-      position: 10
-    - word: そこ
-      base: 其処
-      position: 12
-    - word: を
-      position: 14
-    - word: 下り
-      base: 下りる
-      dictionary: 下りる
-      position: 15
-    - word: な
-      position: 17
 - id: A_SpiritedAway_0526
   deck_name: Spirited Away
   translation: Sen! You did great! You made us a bundle!
@@ -2092,50 +804,16 @@
       position: 1
       tags:
         - silent
-    - word: よく
-      base: 良く
-      position: 5
-    - word: やっ
-      base: 遣る
-      dictionary: やる
-      position: 7
-    - word: た
-      position: 9
-    - word: ね
-      position: 10
-    - word: 大儲け
-      position: 12
-    - word: だ
-      position: 15
-    - word: よ
-      position: 16
 - id: A_SpiritedAway_0528
   deck_name: Spirited Away
   translation: You can all learn from Sen.
   sound: Anime-SpiritedAway_1_1.6.23.120-1.6.24.770.mp3
   sentence: みんなも(千)を見習いな。
   words:
-    - word: みんな
-      base: 皆
-      position: 0
-    - word: も
-      position: 3
     - word: 千
       position: 5
       tags:
         - silent
-    - word: を
-      position: 7
-    - word: 見
-      base: 見る
-      dictionary: 見る
-      position: 8
-    - word: 習い
-      base: 習う
-      dictionary: 習う
-      position: 9
-    - word: な
-      position: 11
 - id: A_SpiritedAway_0534
   deck_name: Spirited Away
   translation: I didn't see Haku.
@@ -2146,48 +824,22 @@
       position: 1
       tags:
         - silent
-    - word: い
-      base: 居る
-      dictionary: いる
-      position: 5
-    - word: なかっ
-      base: ない
-      dictionary: ない
-      position: 6
-    - word: た
-      position: 9
-    - word: ね
-      position: 10
 - id: A_SpiritedAway_0535
   deck_name: Spirited Away
   translation: Not Haku again.
   sound: Anime-SpiritedAway_1_1.6.54.440-1.6.56.329.mp3
   sentence: また(ハク)かよ。
   words:
-    - word: また
-      base: 又
-      position: 0
     - word: ハク
       position: 3
       tags:
         - silent
-    - word: か
-      position: 6
-    - word: よ
-      position: 7
 - id: A_SpiritedAway_0537
   deck_name: Spirited Away
   translation: They say Yubaba makes him do bad stuff.
   sound: Anime-SpiritedAway_1_1.7.00.040-1.7.03.920.mp3
   sentence: うわさじゃさ　(湯バーバ)に やばいこと　やらされてんだって。
   words:
-    - word: うわさ
-      base: 噂
-      position: 0
-    - word: じゃ
-      position: 3
-    - word: さ
-      position: 5
     - word: 湯
       position: 8
       tags:
@@ -2196,31 +848,6 @@
       position: 9
       tags:
         - silent
-    - word: に
-      position: 13
-    - word: やばい
-      position: 15
-    - word: こと
-      position: 18
-    - word: やらさ
-      base: 遣る
-      dictionary: やらす
-      position: 21
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 24
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 25
-    - word: ん
-      base: の
-      position: 26
-    - word: だ
-      position: 27
-    - word: って
-      position: 28
 - id: A_SpiritedAway_0539
   deck_name: Spirited Away
   translation: Lights out, Lin.
@@ -2232,10 +859,6 @@
       position: 1
       tags:
         - silent
-    - word: 消す
-      position: 5
-    - word: よ
-      position: 7
 - id: A_SpiritedAway_0567
   deck_name: Spirited Away
   translation: Kamaji's already lit the fires?
@@ -2246,20 +869,6 @@
       position: 1
       tags:
         - silent
-    - word: が
-      position: 6
-    - word: もう
-      position: 8
-    - word: 火
-      position: 10
-    - word: を
-      position: 11
-    - word: たい
-      base: 焚く
-      dictionary: たく
-      position: 12
-    - word: てる
-      position: 14
 - id: A_SpiritedAway_0571
   deck_name: Spirited Away
   translation: Lin!
@@ -2271,8 +880,6 @@
       position: 1
       tags:
         - silent
-    - word: さん
-      position: 4
 - id: A_SpiritedAway_0577
   deck_name: Spirited Away
   translation: Come, Sen. Yubaba's still asleep. Now's your chance.
@@ -2283,12 +890,6 @@
       position: 1
       tags:
         - silent
-    - word: も
-      position: 3
-    - word: 来い
-      base: 来る
-      dictionary: 来る
-      position: 4
     - word: 湯
       position: 8
       tags:
@@ -2297,79 +898,26 @@
       position: 9
       tags:
         - silent
-    - word: まだ
-      base: 未だ
-      position: 14
-    - word: 寝
-      base: 寝る
-      dictionary: 寝る
-      position: 16
-    - word: てる
-      position: 17
-    - word: から
-      position: 19
-    - word: チャンス
-      position: 21
-    - word: だ
-      position: 25
-    - word: ぞ
-      position: 26
 - id: A_SpiritedAway_0578
   deck_name: Spirited Away
   translation: I'm going to see Kamaji.
   sound: Anime-SpiritedAway_1_1.11.35.360-1.11.37.249.mp3
   sentence: 私　(カマジイ)のとこ行かなきゃ。
   words:
-    - word: 私
-      position: 0
     - word: カマジイ
       position: 3
       tags:
         - silent
-    - word: の
-      position: 8
-    - word: とこ
-      position: 9
-    - word: 行か
-      base: 行く
-      dictionary: 行く
-      position: 11
-    - word: なきゃ
-      base: ない
-      dictionary: ない
-      position: 13
 - id: A_SpiritedAway_0579
   deck_name: Spirited Away
   translation: I wouldn't go right now.
   sound: Anime-SpiritedAway_1_1.11.37.880-1.11.40.120.mp3
   sentence: 今　(カマジイ)のとこ 行かないほうがいいぞ。
   words:
-    - word: 今
-      position: 0
     - word: カマジイ
       position: 3
       tags:
         - silent
-    - word: の
-      position: 8
-    - word: とこ
-      position: 9
-    - word: 行か
-      base: 行く
-      dictionary: 行く
-      position: 12
-    - word: ない
-      position: 14
-    - word: ほう
-      base: 方
-      position: 16
-    - word: が
-      position: 18
-    - word: いい
-      base: 良い
-      position: 19
-    - word: ぞ
-      position: 21
 - id: A_SpiritedAway_0581
   deck_name: Spirited Away
   translation: Let's go back for more, Lin.
@@ -2381,18 +929,6 @@
       position: 1
       tags:
         - silent
-    - word: もう
-      position: 5
-    - word: 一
-      position: 7
-    - word: 回
-      position: 8
-    - word: 行こう
-      base: 行く
-      dictionary: 行く
-      position: 10
-    - word: ああ
-      position: 15
 - id: A_SpiritedAway_0587
   deck_name: Spirited Away
   translation: Fight back, Haku! This way.
@@ -2403,14 +939,6 @@
       position: 1
       tags:
         - silent
-    - word: しっかり
-      base: 確り
-      position: 6
-    - word: こっち
-      base: 此方
-      position: 12
-    - word: よ
-      position: 15
 - id: A_SpiritedAway_0589
   deck_name: Spirited Away
   translation: Haku? That is you, right?
@@ -2421,16 +949,10 @@
       position: 1
       tags:
         - silent
-    - word: ね
-      position: 4
     - word: ハク
       position: 8
       tags:
         - silent
-    - word: でしょ
-      base: です
-      dictionary: です
-      position: 11
 - id: A_SpiritedAway_0592
   deck_name: Spirited Away
   translation: He's going to Yubaba...
@@ -2445,69 +967,26 @@
       position: 2
       tags:
         - silent
-    - word: の
-      position: 6
-    - word: とこ
-      position: 7
-    - word: へ
-      position: 9
-    - word: 行く
-      position: 10
-    - word: ん
-      base: の
-      position: 12
-    - word: だ
-      position: 13
 - id: A_SpiritedAway_0593
   deck_name: Spirited Away
   translation: Oh, no! He'll die!
   sound: Anime-SpiritedAway_1_1.14.26.880-1.14.29.326.mp3
   sentence: どうしよう！　(ハク)が死んじゃう！
   words:
-    - word: どう
-      position: 0
-    - word: しよう
-      base: 為る
-      dictionary: する
-      position: 2
     - word: ハク
       position: 8
       tags:
         - silent
-    - word: が
-      position: 11
-    - word: 死ん
-      base: 死ぬ
-      dictionary: 死ぬ
-      position: 12
-    - word: じゃう
-      base: ちゃう
-      position: 14
 - id: A_SpiritedAway_0623
   deck_name: Spirited Away
   translation: Get Haku out of here.
   sound: Anime-SpiritedAway_1_1.19.32.800-1.19.35.200.mp3
   sentence: お前達　(ハク)を片付けな。 えっ！
   words:
-    - word: お前
-      base: 御前
-      position: 0
-    - word: 達
-      position: 2
     - word: ハク
       position: 5
       tags:
         - silent
-    - word: を
-      position: 8
-    - word: 片付け
-      base: 片付く
-      dictionary: 片付ける
-      position: 9
-    - word: な
-      position: 12
-    - word: えっ
-      position: 15
 - id: A_SpiritedAway_0627
   deck_name: Spirited Away
   translation: Baba still has work to do.
@@ -2518,85 +997,16 @@
       position: 1
       tags:
         - silent
-    - word: は
-      position: 5
-    - word: まだ
-      base: 未だ
-      position: 7
-    - word: お
-      base: 御
-      position: 9
-    - word: 仕事
-      position: 10
-    - word: が
-      position: 12
-    - word: ある
-      base: 有る
-      position: 13
-    - word: の
-      position: 15
 - id: A_SpiritedAway_0643
   deck_name: Spirited Away
   translation: If you go, I'll start crying. If I cry, Baba will come and kill you.
   sound: Anime-SpiritedAway_1_1.21.24.840-1.21.30.120.mp3
   sentence: 行ったら泣いちゃうぞ。　坊が泣いたら すぐ(バーバ)が来て　お前なんか殺しちゃうぞ。
   words:
-    - word: 行っ
-      base: 行く
-      dictionary: 行く
-      position: 0
-    - word: たら
-      base: た
-      dictionary: た
-      position: 2
-    - word: 泣い
-      base: 泣く
-      dictionary: 泣く
-      position: 4
-    - word: ちゃう
-      position: 6
-    - word: ぞ
-      position: 9
-    - word: 坊
-      position: 12
-    - word: が
-      position: 13
-    - word: 泣い
-      base: 泣く
-      dictionary: 泣く
-      position: 14
-    - word: たら
-      base: た
-      dictionary: た
-      position: 16
-    - word: すぐ
-      base: 直ぐ
-      position: 19
     - word: バーバ
       position: 22
       tags:
         - silent
-    - word: が
-      position: 26
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 27
-    - word: て
-      position: 28
-    - word: お前
-      base: 御前
-      position: 30
-    - word: なんか
-      position: 32
-    - word: 殺し
-      base: 殺す
-      dictionary: 殺す
-      position: 35
-    - word: ちゃう
-      position: 37
-    - word: ぞ
-      position: 40
 - id: A_SpiritedAway_0650
   deck_name: Spirited Away
   translation: Haku! It is you, right?!
@@ -2611,8 +1021,6 @@
       position: 7
       tags:
         - silent
-    - word: ね
-      position: 10
 - id: A_SpiritedAway_0668
   deck_name: Spirited Away
   translation: Yubaba's twin sister.
@@ -2627,16 +1035,6 @@
       position: 2
       tags:
         - silent
-    - word: の
-      position: 6
-    - word: 双子
-      position: 7
-    - word: の
-      position: 9
-    - word: 姉
-      position: 10
-    - word: さ
-      position: 11
 - id: A_SpiritedAway_0671
   deck_name: Spirited Away
   translation: What do you want with Haku? He's badly hurt.
@@ -2647,27 +1045,6 @@
       position: 1
       tags:
         - silent
-    - word: を
-      position: 4
-    - word: どう
-      position: 5
-    - word: する
-      base: 為る
-      position: 7
-    - word: の
-      position: 9
-    - word: ひどい
-      base: 酷い
-      position: 12
-    - word: ケガ
-      base: 怪我
-      position: 15
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 17
-    - word: の
-      position: 18
 - id: A_SpiritedAway_0674
   deck_name: Spirited Away
   translation: Haku would never! He's so kind.
@@ -2678,30 +1055,6 @@
       position: 1
       tags:
         - silent
-    - word: が
-      position: 4
-    - word: そんな
-      position: 6
-    - word: こと
-      position: 9
-    - word: する
-      base: 為る
-      position: 11
-    - word: はず
-      base: 筈
-      position: 13
-    - word: ない
-      base: 無い
-      position: 15
-    - word: 優しい
-      position: 19
-    - word: 人
-      position: 22
-    - word: だ
-      position: 23
-    - word: もん
-      base: もの
-      position: 24
 - id: A_SpiritedAway_0686
   deck_name: Spirited Away
   translation: Haku! Oh, no!
@@ -2712,24 +1065,12 @@
       position: 1
       tags:
         - silent
-    - word: あっ
-      position: 5
-    - word: ダメ
-      base: 駄目
-      position: 8
 - id: A_SpiritedAway_0687
   deck_name: Spirited Away
   translation: What on earth is this!
   sound: Anime-SpiritedAway_1_1.25.46.760-1.25.48.520.mp3
   sentence: 何ごとじゃい！ (ハク)！
   words:
-    - word: 何ごと
-      base: 何事
-      position: 0
-    - word: じゃ
-      position: 3
-    - word: い
-      position: 5
     - word: ハク
       position: 9
       tags:
@@ -2744,34 +1085,16 @@
       position: 1
       tags:
         - silent
-    - word: しっかり
-      base: 確り
-      position: 5
 - id: A_SpiritedAway_0692
   deck_name: Spirited Away
   translation: Oh, no, he's going to die!
   sound: Anime-SpiritedAway_1_1.26.08.400-1.26.10.209.mp3
   sentence: どうしよう　(ハク)が死んじゃう！
   words:
-    - word: どう
-      position: 0
-    - word: しよう
-      base: 為る
-      dictionary: する
-      position: 2
     - word: ハク
       position: 7
       tags:
         - silent
-    - word: が
-      position: 10
-    - word: 死ん
-      base: 死ぬ
-      dictionary: 死ぬ
-      position: 11
-    - word: じゃう
-      base: ちゃう
-      position: 13
 - id: A_SpiritedAway_0696
   deck_name: Spirited Away
   translation: Haku, the river god gave me this.
@@ -2782,31 +1105,6 @@
       position: 1
       tags:
         - silent
-    - word: これ
-      base: 此れ
-      position: 5
-    - word: 河
-      position: 8
-    - word: の
-      position: 9
-    - word: 神
-      position: 10
-    - word: 様
-      position: 11
-    - word: が
-      position: 12
-    - word: くれ
-      base: 呉れる
-      dictionary: くれる
-      position: 13
-    - word: た
-      position: 15
-    - word: お
-      base: 御
-      position: 17
-    - word: ダンゴ
-      base: 団子
-      position: 18
 - id: A_SpiritedAway_0698
   deck_name: Spirited Away
   translation: Haku, open your mouth!
@@ -2817,16 +1115,6 @@
       position: 1
       tags:
         - silent
-    - word: 口
-      position: 5
-    - word: を
-      position: 6
-    - word: 開け
-      base: 開く
-      dictionary: 開ける
-      position: 7
-    - word: て
-      position: 9
 - id: A_SpiritedAway_0699
   deck_name: Spirited Away
   translation: Please, Haku, eat it!
@@ -2837,47 +1125,22 @@
       position: 1
       tags:
         - silent
-    - word: お
-      base: 御
-      position: 5
-    - word: 願い
-      position: 6
-    - word: 食べ
-      base: 食べる
-      dictionary: 食べる
-      position: 9
-    - word: て
-      position: 11
 - id: A_SpiritedAway_0708
   deck_name: Spirited Away
   translation: Gross, gross, sen! Totally gross.
   sound: Anime-SpiritedAway_1_1.27.43.040-1.27.45.725.mp3
   sentence: エンガチョ！　(千)　エンガチョ！
   words:
-    - word: エンガチョ
-      base: えんがちょ
-      position: 0
     - word: 千
       position: 8
       tags:
         - silent
-    - word: エンガチョ
-      base: えんがちょ
-      position: 11
 - id: A_SpiritedAway_0710
   deck_name: Spirited Away
   translation: Haku took this from Yubaba's sister, Kamaji.
   sound: Anime-SpiritedAway_1_1.27.50.920-1.27.53.730.mp3
   sentence: おじさん　これ (湯バーバ)のお姉さんのハンコなの。
   words:
-    - word: おじ
-      base: 伯父
-      position: 0
-    - word: さん
-      position: 2
-    - word: これ
-      base: 此れ
-      position: 5
     - word: 湯
       position: 9
       tags:
@@ -2886,24 +1149,6 @@
       position: 10
       tags:
         - silent
-    - word: の
-      position: 14
-    - word: お
-      base: 御
-      position: 15
-    - word: 姉さん
-      position: 16
-    - word: の
-      position: 19
-    - word: ハンコ
-      base: 判子
-      position: 20
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 23
-    - word: の
-      position: 24
 - id: A_SpiritedAway_0711
   deck_name: Spirited Away
   translation: From Zeniba? A witch's seal!
@@ -2914,79 +1159,36 @@
       position: 1
       tags:
         - silent
-    - word: の
-      position: 6
-    - word: 魔女
-      position: 9
-    - word: の
-      position: 11
-    - word: 契約
-      position: 12
-    - word: 印
-      position: 14
-    - word: か
-      position: 15
 - id: A_SpiritedAway_0713
   deck_name: Spirited Away
   translation: Oh... I knew it was Haku!
   sound: Anime-SpiritedAway_1_1.28.02.760-1.28.03.920.mp3
   sentence: ああ…　やっぱり(ハク)だ
   words:
-    - word: ああ
-      position: 0
-    - word: やっぱり
-      base: 矢張り
-      position: 4
     - word: ハク
       position: 9
       tags:
         - silent
-    - word: だ
-      position: 12
 - id: A_SpiritedAway_0714
   deck_name: Spirited Away
   translation: Look, Kamaji, it's Haku!
   sound: Anime-SpiritedAway_1_1.28.03.920-1.28.05.490.mp3
   sentence: おじさん　(ハク)よ。
   words:
-    - word: おじ
-      base: 伯父
-      position: 0
-    - word: さん
-      position: 2
     - word: ハク
       position: 6
       tags:
         - silent
-    - word: よ
-      position: 9
 - id: A_SpiritedAway_0715
   deck_name: Spirited Away
   translation: Kamaji! He's not breathing.
   sound: Anime-SpiritedAway_1_1.28.12.680-1.28.14.760.mp3
   sentence: おじさん！　(ハク)　息してない！
   words:
-    - word: おじ
-      base: 伯父
-      position: 0
-    - word: さん
-      position: 2
     - word: ハク
       position: 7
       tags:
         - silent
-    - word: 息
-      position: 11
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 12
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 13
-    - word: ない
-      position: 14
 - id: A_SpiritedAway_0718
   deck_name: Spirited Away
   translation: Haku turned up one day here, just like you.
@@ -2997,53 +1199,16 @@
       position: 1
       tags:
         - silent
-    - word: はな
-      position: 4
     - word: 千
       position: 8
       tags:
         - silent
-    - word: と
-      position: 10
-    - word: 同じ
-      position: 11
-    - word: よう
-      base: 様
-      position: 13
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 15
-    - word: 突然
-      position: 17
-    - word: ここ
-      base: 此処
-      position: 19
-    - word: に
-      position: 21
-    - word: やっ
-      base: 遣る
-      dictionary: やる
-      position: 23
-    - word: て
-      position: 25
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 26
-    - word: て
-      position: 27
-    - word: な
-      position: 28
 - id: A_SpiritedAway_0724
   deck_name: Spirited Away
   translation: Signed up to be Yubaba's apprentice.
   sound: Anime-SpiritedAway_1_1.28.51.880-1.28.55.407.mp3
   sentence: とうとう (湯バーバ)の弟子になっちまった。
   words:
-    - word: とうとう
-      base: 到頭
-      position: 0
     - word: 湯
       position: 6
       tags:
@@ -3052,22 +1217,6 @@
       position: 7
       tags:
         - silent
-    - word: の
-      position: 11
-    - word: 弟子
-      position: 12
-    - word: に
-      position: 14
-    - word: なっ
-      base: 成る
-      dictionary: なる
-      position: 15
-    - word: ちまっ
-      base: ちまう
-      dictionary: ちまう
-      position: 17
-    - word: た
-      position: 20
 - id: A_SpiritedAway_0726
   deck_name: Spirited Away
   translation: Kamaji, I'm going to give this back to Yubaba's sister…
@@ -3078,13 +1227,6 @@
       position: 1
       tags:
         - silent
-    - word: さん
-      position: 6
-    - word: 私
-      position: 9
-    - word: これ
-      base: 此れ
-      position: 11
     - word: 湯
       position: 15
       tags:
@@ -3093,72 +1235,16 @@
       position: 16
       tags:
         - silent
-    - word: の
-      position: 20
-    - word: お
-      base: 御
-      position: 21
-    - word: 姉さん
-      position: 22
-    - word: に
-      position: 25
-    - word: 返し
-      base: 返す
-      dictionary: 返す
-      position: 26
-    - word: て
-      position: 28
-    - word: 来る
-      position: 29
 - id: A_SpiritedAway_0727
   deck_name: Spirited Away
   translation: ...Give it back, apologize, and ask her to help Haku.
   sound: Anime-SpiritedAway_1_1.29.08.200-1.29.12.040.mp3
   sentence: 返して　謝って　(ハク)を 助けてくれるように頼んでみる。
   words:
-    - word: 返し
-      base: 返す
-      dictionary: 返す
-      position: 0
-    - word: て
-      position: 2
-    - word: 謝っ
-      base: 謝る
-      dictionary: 謝る
-      position: 4
-    - word: て
-      position: 6
     - word: ハク
       position: 9
       tags:
         - silent
-    - word: を
-      position: 12
-    - word: 助け
-      base: 助ける
-      dictionary: 助ける
-      position: 14
-    - word: て
-      position: 16
-    - word: くれる
-      base: 呉れる
-      position: 17
-    - word: よう
-      base: 様
-      position: 20
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 22
-    - word: 頼ん
-      base: 頼む
-      dictionary: 頼む
-      position: 23
-    - word: で
-      position: 25
-    - word: みる
-      base: 見る
-      position: 26
 - id: A_SpiritedAway_0729
   deck_name: Spirited Away
   translation: Go to Zeniba's?
@@ -3169,14 +1255,6 @@
       position: 1
       tags:
         - silent
-    - word: の
-      position: 6
-    - word: 所
-      position: 7
-    - word: へ
-      position: 8
-    - word: か
-      position: 9
 - id: A_SpiritedAway_0732
   deck_name: Spirited Away
   translation: Haku helped me. Now I want to help him.
@@ -3187,40 +1265,10 @@
       position: 1
       tags:
         - silent
-    - word: は
-      position: 4
-    - word: 私
-      position: 6
-    - word: を
-      position: 7
-    - word: 助け
-      base: 助ける
-      dictionary: 助ける
-      position: 8
-    - word: て
-      position: 10
-    - word: くれ
-      base: 呉れる
-      dictionary: くれる
-      position: 11
-    - word: た
-      position: 13
-    - word: の
-      position: 14
-    - word: 私
-      position: 17
     - word: ハク
       position: 20
       tags:
         - silent
-    - word: を
-      position: 23
-    - word: 助け
-      base: 助ける
-      dictionary: 助ける
-      position: 24
-    - word: たい
-      position: 26
 - id: A_SpiritedAway_0738
   deck_name: Spirited Away
   translation: Sen! I hunted for you everywhere!
@@ -3231,22 +1279,6 @@
       position: 1
       tags:
         - silent
-    - word: ずいぶん
-      base: 随分
-      position: 5
-    - word: 捜し
-      base: 探す
-      dictionary: 捜す
-      position: 9
-    - word: た
-      position: 11
-    - word: ん
-      base: の
-      position: 12
-    - word: だ
-      position: 13
-    - word: ぞ
-      position: 14
 - id: A_SpiritedAway_0739
   deck_name: Spirited Away
   translation: Lin.
@@ -3258,8 +1290,6 @@
       position: 1
       tags:
         - silent
-    - word: さん
-      position: 4
 - id: A_SpiritedAway_0740
   deck_name: Spirited Away
   translation: That's Haku, what happened here...
@@ -3270,25 +1300,6 @@
       position: 1
       tags:
         - silent
-    - word: じゃん
-      position: 4
-    - word: 何
-      position: 8
-    - word: か
-      position: 9
-    - word: あっ
-      base: 有る
-      dictionary: ある
-      position: 10
-    - word: た
-      position: 12
-    - word: の
-      position: 13
-    - word: か
-      position: 14
-    - word: ここ
-      base: 此処
-      position: 17
 - id: A_SpiritedAway_0743
   deck_name: Spirited Away
   translation: Yubaba's tearing the place apart looking for you.
@@ -3303,34 +1314,6 @@
       position: 2
       tags:
         - silent
-    - word: が
-      position: 6
-    - word: カンカン
-      base: かんかん
-      position: 7
-    - word: に
-      position: 11
-    - word: なっ
-      base: 成る
-      dictionary: なる
-      position: 12
-    - word: て
-      position: 14
-    - word: お前
-      base: 御前
-      position: 16
-    - word: の
-      position: 18
-    - word: こと
-      position: 19
-    - word: 捜し
-      base: 探す
-      dictionary: 捜す
-      position: 21
-    - word: てる
-      position: 23
-    - word: ぞ
-      position: 25
 - id: A_SpiritedAway_0745
   deck_name: Spirited Away
   translation: Yubaba says you led him here.
@@ -3345,62 +1328,20 @@
       position: 2
       tags:
         - silent
-    - word: は
-      position: 6
     - word: 千
       position: 9
       tags:
         - silent
-    - word: が
-      position: 11
-    - word: 引き
-      base: 引く
-      dictionary: 引く
-      position: 12
-    - word: 入れ
-      base: 入れる
-      dictionary: 入れる
-      position: 14
-    - word: た
-      position: 16
-    - word: って
-      position: 17
-    - word: 言う
-      position: 19
-    - word: ん
-      base: の
-      position: 21
-    - word: だ
-      position: 22
 - id: A_SpiritedAway_0750
   deck_name: Spirited Away
   translation: Found it! Here it is, sen!
   sound: Anime-SpiritedAway_1_1.30.28.120-1.30.31.124.mp3
   sentence: あった　これだ！　(千)　あったぞ！
   words:
-    - word: あっ
-      base: 有る
-      dictionary: ある
-      position: 0
-    - word: た
-      position: 2
-    - word: これ
-      base: 此れ
-      position: 4
-    - word: だ
-      position: 6
     - word: 千
       position: 10
       tags:
         - silent
-    - word: あっ
-      base: 有る
-      dictionary: ある
-      position: 13
-    - word: た
-      position: 15
-    - word: ぞ
-      position: 16
 - id: A_SpiritedAway_0763
   deck_name: Spirited Away
   translation: But what about Yubaba?
@@ -3415,21 +1356,6 @@
       position: 2
       tags:
         - silent
-    - word: は
-      position: 6
-    - word: どう
-      position: 8
-    - word: す
-      base: 為る
-      dictionary: する
-      position: 10
-    - word: ん
-      base: の
-      position: 11
-    - word: だ
-      position: 12
-    - word: よ
-      position: 13
 - id: A_SpiritedAway_0765
   deck_name: Spirited Away
   translation: I promise I'll be back, Haku. You can't die.
@@ -3440,32 +1366,6 @@
       position: 1
       tags:
         - silent
-    - word: きっと
-      position: 5
-    - word: 戻っ
-      base: 戻る
-      dictionary: 戻る
-      position: 8
-    - word: て
-      position: 10
-    - word: 来る
-      position: 11
-    - word: から
-      position: 13
-    - word: 死ん
-      base: 死ぬ
-      dictionary: 死ぬ
-      position: 16
-    - word: じゃ
-      base: て
-      position: 18
-    - word: ダメ
-      base: 駄目
-      position: 20
-    - word: だ
-      position: 22
-    - word: よ
-      position: 23
 - id: A_SpiritedAway_0770
   deck_name: Spirited Away
   translation: Thank goodness, Sen!
@@ -3476,14 +1376,6 @@
       position: 1
       tags:
         - silent
-    - word: か
-      position: 3
-    - word: よかっ
-      base: 良い
-      dictionary: よい
-      position: 5
-    - word: た
-      position: 8
 - id: A_SpiritedAway_0771
   deck_name: Spirited Away
   translation: Yubaba can't control him.
@@ -3498,68 +1390,16 @@
       position: 2
       tags:
         - silent
-    - word: 様
-      position: 6
-    - word: で
-      position: 7
-    - word: は
-      position: 8
-    - word: もう
-      position: 10
-    - word: おさえ
-      base: 押さえる
-      dictionary: おさえる
-      position: 13
-    - word: られん
-      base: られる
-      dictionary: られる
-      position: 16
-    - word: の
-      position: 19
-    - word: だ
-      position: 20
 - id: A_SpiritedAway_0772
   deck_name: Spirited Away
   translation: There's no need to get upset, I'm sure Sen will turn up.
   sound: Anime-SpiritedAway_1_1.31.43.520-1.31.47.366.mp3
   sentence: 何も　そんなに暴れなくても (千)は来ますよ
   words:
-    - word: 何
-      position: 0
-    - word: も
-      position: 1
-    - word: そんな
-      position: 3
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 6
-    - word: 暴れ
-      base: 暴れる
-      dictionary: 暴れる
-      position: 7
-    - word: なく
-      base: ない
-      dictionary: ない
-      position: 9
-    - word: て
-      position: 11
-    - word: も
-      position: 12
     - word: 千
       position: 15
       tags:
         - silent
-    - word: は
-      position: 17
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 18
-    - word: ます
-      position: 19
-    - word: よ
-      position: 21
 - id: A_SpiritedAway_0773
   deck_name: Spirited Away
   translation: Where's Sen! I want Sen!
@@ -3570,22 +1410,10 @@
       position: 1
       tags:
         - silent
-    - word: は
-      position: 3
-    - word: どこ
-      position: 4
-    - word: だ
-      position: 6
     - word: 千
       position: 9
       tags:
         - silent
-    - word: を
-      position: 11
-    - word: 出せ
-      base: 出す
-      dictionary: 出す
-      position: 12
 - id: A_SpiritedAway_0775
   deck_name: Spirited Away
   translation: Yubaba, it's Sen.
@@ -3600,64 +1428,20 @@
       position: 2
       tags:
         - silent
-    - word: 様
-      position: 6
     - word: 千
       position: 9
       tags:
         - silent
-    - word: です
-      position: 11
 - id: A_SpiritedAway_0777
   deck_name: Spirited Away
   translation: Sen has come, dear guest. We'll be right with you.
   sound: Anime-SpiritedAway_1_1.32.01.160-1.32.05.563.mp3
   sentence: お客様　(千)が来ましたよ ほんのちょっとお待ちくださいね。
   words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 客
-      position: 1
-    - word: 様
-      position: 2
     - word: 千
       position: 5
       tags:
         - silent
-    - word: が
-      position: 7
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 8
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 9
-    - word: た
-      position: 11
-    - word: よ
-      position: 12
-    - word: ほんの
-      base: 本の
-      position: 14
-    - word: ちょっと
-      base: 一寸
-      position: 17
-    - word: お
-      base: 御
-      position: 21
-    - word: 待ち
-      base: 待つ
-      dictionary: 待つ
-      position: 22
-    - word: ください
-      base: 下さる
-      dictionary: くださる
-      position: 24
-    - word: ね
-      position: 28
 - id: A_SpiritedAway_0785
   deck_name: Spirited Away
   translation: Is she all right in there by herself?
@@ -3668,18 +1452,6 @@
       position: 1
       tags:
         - silent
-    - word: 一人
-      position: 4
-    - word: で
-      position: 6
-    - word: 大丈夫
-      position: 8
-    - word: でしょう
-      base: です
-      dictionary: です
-      position: 11
-    - word: か
-      position: 15
 - id: A_SpiritedAway_0789
   deck_name: Spirited Away
   translation: I'm not giving it to anybody else.
@@ -3690,41 +1462,6 @@
       position: 1
       tags:
         - silent
-    - word: の
-      position: 3
-    - word: 他
-      position: 4
-    - word: に
-      position: 5
-    - word: は
-      position: 6
-    - word: 出し
-      base: 出す
-      dictionary: 出す
-      position: 8
-    - word: て
-      position: 10
-    - word: やら
-      base: 遣る
-      dictionary: やる
-      position: 11
-    - word: ない
-      position: 13
-    - word: こと
-      position: 15
-    - word: に
-      position: 17
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 18
-    - word: た
-      position: 19
-    - word: ん
-      base: の
-      position: 20
-    - word: だ
-      position: 21
 - id: A_SpiritedAway_0791
   deck_name: Spirited Away
   translation: What is it you want? You can tell me.
@@ -3735,28 +1472,6 @@
       position: 1
       tags:
         - silent
-    - word: は
-      position: 3
-    - word: 何
-      position: 4
-    - word: が
-      position: 5
-    - word: 欲しい
-      position: 6
-    - word: ん
-      base: の
-      position: 9
-    - word: だ
-      position: 10
-    - word: 言っ
-      base: 言う
-      dictionary: 言う
-      position: 13
-    - word: て
-      position: 15
-    - word: ごらん
-      base: 御覧
-      position: 16
 - id: A_SpiritedAway_0800
   deck_name: Spirited Away
   translation: I want sen, want Sen.
@@ -3767,138 +1482,54 @@
       position: 1
       tags:
         - silent
-    - word: 欲しい
-      position: 4
     - word: 千
       position: 10
       tags:
         - silent
-    - word: 欲しい
-      position: 13
 - id: A_SpiritedAway_0836
   deck_name: Spirited Away
   translation: Oh, Haku... You're awake.
   sound: Anime-SpiritedAway_1_1.41.32.320-1.41.35.040.mp3
   sentence: おっ　(ハク)　気がついたか。
   words:
-    - word: おっ
-      position: 0
     - word: ハク
       position: 4
       tags:
         - silent
-    - word: 気
-      position: 8
-    - word: が
-      position: 9
-    - word: つい
-      base: 付く
-      dictionary: つく
-      position: 10
-    - word: た
-      position: 12
-    - word: か
-      position: 13
 - id: A_SpiritedAway_0837
   deck_name: Spirited Away
   translation: Kamaji, where's sen?
   sound: Anime-SpiritedAway_1_1.41.35.040-1.41.36.610.mp3
   sentence: おじいさん　(千)はどこです？
   words:
-    - word: お
-      base: 御
-      position: 0
-    - word: じい
-      base: 爺
-      position: 1
-    - word: さん
-      position: 3
     - word: 千
       position: 7
       tags:
         - silent
-    - word: は
-      position: 9
-    - word: どこ
-      position: 10
-    - word: です
-      position: 12
 - id: A_SpiritedAway_0841
   deck_name: Spirited Away
   translation: Chihiro kept calling my name in the darkness.
   sound: Anime-SpiritedAway_1_1.41.45.600-1.41.48.683.mp3
   sentence: 闇の中で(千尋)が 何度も私を呼びました。
   words:
-    - word: 闇
-      position: 0
-    - word: の
-      position: 1
-    - word: 中
-      position: 2
-    - word: で
-      position: 3
     - word: 千尋
       position: 5
       tags:
         - silent
-    - word: が
-      position: 8
-    - word: 何
-      position: 10
-    - word: 度
-      position: 11
-    - word: も
-      position: 12
-    - word: 私
-      position: 13
-    - word: を
-      position: 14
-    - word: 呼び
-      base: 呼ぶ
-      dictionary: 呼ぶ
-      position: 15
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 17
-    - word: た
-      position: 19
 - id: A_SpiritedAway_0843
   deck_name: Spirited Away
   translation: Chihiro, huh… Her real name's Chihiro?
   sound: Anime-SpiritedAway_1_1.41.53.360-1.41.58.241.mp3
   sentence: そうか　(千尋)か あの子は(千尋)というのか。
   words:
-    - word: そう
-      position: 0
-    - word: か
-      position: 2
     - word: 千尋
       position: 5
       tags:
         - silent
-    - word: か
-      position: 8
-    - word: あの
-      base: 彼の
-      position: 10
-    - word: 子
-      position: 12
-    - word: は
-      position: 13
     - word: 千尋
       position: 15
       tags:
         - silent
-    - word: と
-      position: 18
-    - word: いう
-      base: 言う
-      position: 19
-    - word: の
-      position: 21
-    - word: か
-      position: 22
 - id: A_SpiritedAway_0846
   deck_name: Spirited Away
   translation: That fool, Sen!... ...She just cost me a fortune.
@@ -3909,76 +1540,16 @@
       position: 1
       tags:
         - silent
-    - word: の
-      position: 3
-    - word: バカ
-      base: ばか
-      position: 4
-    - word: が
-      position: 6
-    - word: せっかく
-      base: 折角
-      position: 8
-    - word: の
-      position: 12
-    - word: 儲け
-      position: 13
-    - word: を
-      position: 15
-    - word: フイ
-      base: ふい
-      position: 17
-    - word: に
-      position: 19
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 20
-    - word: ちまっ
-      base: ちまう
-      dictionary: ちまう
-      position: 21
-    - word: て
-      position: 24
 - id: A_SpiritedAway_0847
   deck_name: Spirited Away
   translation: But, Sen did save us, after all.
   sound: Anime-SpiritedAway_1_1.42.12.680-1.42.16.520.mp3
   sentence: で…　でも　(千)のおかげで オレ達　助かったんです。
   words:
-    - word: で
-      position: 0
-    - word: で
-      position: 3
-    - word: も
-      position: 4
     - word: 千
       position: 7
       tags:
         - silent
-    - word: の
-      position: 9
-    - word: おかげ
-      base: 御陰
-      position: 10
-    - word: で
-      position: 13
-    - word: オレ
-      base: 俺
-      position: 15
-    - word: 達
-      position: 17
-    - word: 助かっ
-      base: 助かる
-      dictionary: 助かる
-      position: 19
-    - word: た
-      position: 22
-    - word: ん
-      base: の
-      position: 23
-    - word: です
-      position: 24
 - id: A_SpiritedAway_0854
   deck_name: Spirited Away
   translation: Master Haku!
@@ -3989,8 +1560,6 @@
       position: 1
       tags:
         - silent
-    - word: 様
-      position: 4
 - id: A_SpiritedAway_0870
   deck_name: Spirited Away
   translation: He's with Zeniba.
@@ -4001,57 +1570,16 @@
       position: 1
       tags:
         - silent
-    - word: の
-      position: 6
-    - word: 所
-      position: 7
-    - word: です
-      position: 8
 - id: A_SpiritedAway_0875
   deck_name: Spirited Away
   translation: But in exchange, return Sen and her parents to the human world.
   sound: Anime-SpiritedAway_1_1.45.06.160-1.45.10.560.mp3
   sentence: その代わり　(千)と両親を人間の 世界へ戻してやってください。
   words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 代わり
-      position: 2
     - word: 千
       position: 7
       tags:
         - silent
-    - word: と
-      position: 9
-    - word: 両親
-      position: 10
-    - word: を
-      position: 12
-    - word: 人間
-      position: 13
-    - word: の
-      position: 15
-    - word: 世界
-      position: 17
-    - word: へ
-      position: 19
-    - word: 戻し
-      base: 戻す
-      dictionary: 戻す
-      position: 20
-    - word: て
-      position: 22
-    - word: やっ
-      base: 遣る
-      dictionary: やる
-      position: 23
-    - word: て
-      position: 25
-    - word: ください
-      base: 下さる
-      dictionary: くださる
-      position: 26
 - id: A_SpiritedAway_0888
   deck_name: Spirited Away
   translation: Zeniba, Haku stole this from you. I brought it back.
@@ -4062,46 +1590,10 @@
       position: 1
       tags:
         - silent
-    - word: さん
-      position: 6
-    - word: これ
-      base: 此れ
-      position: 9
     - word: ハク
       position: 13
       tags:
         - silent
-    - word: が
-      position: 16
-    - word: 盗ん
-      base: 盗む
-      dictionary: 盗む
-      position: 17
-    - word: だ
-      base: た
-      position: 19
-    - word: もの
-      base: 物
-      position: 20
-    - word: です
-      position: 22
-    - word: お
-      base: 御
-      position: 26
-    - word: 返し
-      position: 27
-    - word: に
-      position: 29
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 30
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 31
-    - word: た
-      position: 33
 - id: A_SpiritedAway_0891
   deck_name: Spirited Away
   translation: I'm here to apologize for Haku. I'm sorry.
@@ -4112,35 +1604,6 @@
       position: 1
       tags:
         - silent
-    - word: の
-      position: 4
-    - word: 代わり
-      position: 5
-    - word: に
-      position: 8
-    - word: 謝り
-      base: 謝る
-      dictionary: 謝る
-      position: 9
-    - word: に
-      position: 11
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 12
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 13
-    - word: た
-      position: 15
-    - word: ごめん
-      base: 御免
-      position: 18
-    - word: なさい
-      base: 為す
-      dictionary: なさる
-      position: 21
 - id: A_SpiritedAway_0912
   deck_name: Spirited Away
   translation: I feel like Haku and I met, a long time ago.
@@ -4151,113 +1614,26 @@
       position: 1
       tags:
         - silent
-    - word: と
-      position: 4
-    - word: 私
-      position: 5
-    - word: ずっと
-      position: 7
-    - word: 前
-      position: 10
-    - word: に
-      position: 11
-    - word: 会っ
-      base: 会う
-      dictionary: 会う
-      position: 13
-    - word: た
-      position: 15
-    - word: こと
-      position: 16
-    - word: が
-      position: 18
-    - word: ある
-      base: 有る
-      position: 19
-    - word: みたい
-      position: 21
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 24
-    - word: ん
-      base: の
-      position: 25
-    - word: です
-      position: 26
 - id: A_SpiritedAway_0924
   deck_name: Spirited Away
   translation: Haku could die while I'm just sitting here...
   sound: Anime-SpiritedAway_1_1.50.51.840-1.50.55.322.mp3
   sentence: だって　こうしてる間に (ハク)が死んじゃうかもしれない。
   words:
-    - word: だ
-      position: 0
-    - word: って
-      position: 1
-    - word: こう
-      position: 4
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 6
-    - word: てる
-      position: 7
-    - word: 間
-      position: 9
-    - word: に
-      position: 10
     - word: ハク
       position: 13
       tags:
         - silent
-    - word: が
-      position: 16
-    - word: 死ん
-      base: 死ぬ
-      dictionary: 死ぬ
-      position: 17
-    - word: じゃう
-      base: ちゃう
-      position: 19
-    - word: か
-      position: 22
-    - word: も
-      position: 23
-    - word: しれ
-      base: 知る
-      dictionary: しれる
-      position: 24
-    - word: ない
-      position: 26
 - id: A_SpiritedAway_0938
   deck_name: Spirited Away
   translation: Look, granny, Haku's alive.
   sound: Anime-SpiritedAway_1_1.52.03.840-1.52.06.320.mp3
   sentence: おばあちゃん　(ハク)生きてた。
   words:
-    - word: お
-      base: 御
-      position: 0
-    - word: ばあ
-      base: 婆
-      position: 1
-    - word: ちゃん
-      position: 3
     - word: ハク
       position: 8
       tags:
         - silent
-    - word: 生き
-      base: 生きる
-      dictionary: 生きる
-      position: 11
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 13
-    - word: た
-      position: 14
 - id: A_SpiritedAway_0939
   deck_name: Spirited Away
   translation: Haku, I no longer blame you for what you did.
@@ -4268,69 +1644,16 @@
       position: 1
       tags:
         - silent
-    - word: 竜
-      position: 4
-    - word: あなた
-      base: 貴方
-      position: 6
-    - word: の
-      position: 9
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 10
-    - word: た
-      position: 11
-    - word: こと
-      position: 12
-    - word: は
-      position: 14
-    - word: もう
-      position: 16
-    - word: とがめ
-      base: 咎める
-      dictionary: とがめる
-      position: 19
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 22
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 24
 - id: A_SpiritedAway_0947
   deck_name: Spirited Away
   translation: My real name is Chihiro.
   sound: Anime-SpiritedAway_1_1.52.34.640-1.52.37.960.mp3
   sentence: 私の本当の名前は (千尋)っていうんです。
   words:
-    - word: 私
-      position: 0
-    - word: の
-      position: 1
-    - word: 本当
-      position: 2
-    - word: の
-      position: 4
-    - word: 名前
-      position: 5
-    - word: は
-      position: 7
     - word: 千尋
       position: 10
       tags:
         - silent
-    - word: って
-      position: 13
-    - word: いう
-      base: 言う
-      position: 15
-    - word: ん
-      base: の
-      position: 17
-    - word: です
-      position: 18
 - id: A_SpiritedAway_0948
   deck_name: Spirited Away
   translation: Chihiro... What a nice name.
@@ -4341,15 +1664,6 @@
       position: 1
       tags:
         - silent
-    - word: いい
-      base: 良い
-      position: 6
-    - word: 名
-      position: 8
-    - word: だ
-      position: 9
-    - word: ね
-      position: 10
 - id: A_SpiritedAway_0953
   deck_name: Spirited Away
   translation: Listen, Haku.
@@ -4360,71 +1674,28 @@
       position: 1
       tags:
         - silent
-    - word: 聞い
-      base: 聞く
-      dictionary: 聞く
-      position: 5
-    - word: て
-      position: 7
 - id: A_SpiritedAway_0958
   deck_name: Spirited Away
   translation: The river was called... Its name was The koHaku river.
   sound: Anime-SpiritedAway_1_1.53.56.200-1.54.01.404.mp3
   sentence: その川の名は　その川はね　(コハク)川。
   words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 川
-      position: 2
-    - word: の
-      position: 3
-    - word: 名
-      position: 4
-    - word: は
-      position: 5
-    - word: その
-      base: 其の
-      position: 7
-    - word: 川
-      position: 9
-    - word: は
-      position: 10
-    - word: ね
-      position: 11
     - word: コハク
       base: 琥珀
       position: 14
       tags:
         - silent
-    - word: 川
-      position: 18
 - id: A_SpiritedAway_0959
   deck_name: Spirited Away
   translation: Your real name is koHaku.
   sound: Anime-SpiritedAway_1_1.54.02.040-1.54.05.044.mp3
   sentence: あなたの本当の名は(コハク)川。
   words:
-    - word: あなた
-      base: 貴方
-      position: 0
-    - word: の
-      position: 3
-    - word: 本当
-      position: 4
-    - word: の
-      position: 6
-    - word: 名
-      position: 7
-    - word: は
-      position: 8
     - word: コハク
       base: 琥珀
       position: 10
       tags:
         - silent
-    - word: 川
-      position: 14
 - id: A_SpiritedAway_0960
   deck_name: Spirited Away
   translation: Chihiro, thank you.
@@ -4435,27 +1706,12 @@
       position: 1
       tags:
         - silent
-    - word: ありがとう
-      base: 有り難う
-      position: 5
 - id: A_SpiritedAway_0961
   deck_name: Spirited Away
   translation: My real name is nigihayami koHaku nushi.
   sound: Anime-SpiritedAway_1_1.54.28.240-1.54.31.483.mp3
   sentence: 私の本当の名は　(ニギハヤミ　コハクヌシ)だ。
   words:
-    - word: 私
-      position: 0
-    - word: の
-      position: 1
-    - word: 本当
-      position: 2
-    - word: の
-      position: 4
-    - word: 名
-      position: 5
-    - word: は
-      position: 6
     - word: ニギハヤミ
       position: 9
       tags:
@@ -4464,8 +1720,6 @@
       position: 15
       tags:
         - silent
-    - word: だ
-      position: 21
 - id: A_SpiritedAway_0964
   deck_name: Spirited Away
   translation: You fell into me as a child.
@@ -4476,69 +1730,17 @@
       position: 1
       tags:
         - silent
-    - word: が
-      position: 4
-    - word: 私
-      position: 5
-    - word: の
-      position: 6
-    - word: 中
-      position: 7
-    - word: に
-      position: 8
-    - word: 落ち
-      base: 落ちる
-      dictionary: 落ちる
-      position: 9
-    - word: た
-      position: 11
-    - word: 時
-      position: 12
-    - word: の
-      position: 13
-    - word: こと
-      position: 14
-    - word: を
-      position: 16
 - id: A_SpiritedAway_0966
   deck_name: Spirited Away
   translation: Yes, you carried me to shallow water, koHaku.
   sound: Anime-SpiritedAway_1_1.54.44.800-1.54.49.124.mp3
   sentence: そう…　(コハク)が私を 浅瀬に運んでくれたのね。
   words:
-    - word: そう
-      position: 0
     - word: コハク
       base: 琥珀
       position: 5
       tags:
         - silent
-    - word: が
-      position: 9
-    - word: 私
-      position: 10
-    - word: を
-      position: 11
-    - word: 浅瀬
-      position: 13
-    - word: に
-      position: 15
-    - word: 運ん
-      base: 運ぶ
-      dictionary: 運ぶ
-      position: 16
-    - word: で
-      position: 18
-    - word: くれ
-      base: 呉れる
-      dictionary: くれる
-      position: 19
-    - word: た
-      position: 21
-    - word: の
-      position: 22
-    - word: ね
-      position: 23
 - id: A_SpiritedAway_0972
   deck_name: Spirited Away
   translation: Yubaba, you promised.
@@ -4553,12 +1755,6 @@
       position: 2
       tags:
         - silent
-    - word: 様
-      position: 6
-    - word: 約束
-      position: 8
-    - word: です
-      position: 10
 - id: A_SpiritedAway_0973
   deck_name: Spirited Away
   translation: Please return Chihiro's family to the human world.
@@ -4569,30 +1765,6 @@
       position: 1
       tags:
         - silent
-    - word: と
-      position: 4
-    - word: 両親
-      position: 5
-    - word: を
-      position: 7
-    - word: 人間
-      position: 9
-    - word: の
-      position: 11
-    - word: 世界
-      position: 12
-    - word: に
-      position: 14
-    - word: 戻し
-      base: 戻す
-      dictionary: 戻す
-      position: 15
-    - word: て
-      position: 17
-    - word: ください
-      base: 下さる
-      dictionary: くださる
-      position: 18
 - id: A_SpiritedAway_0977
   deck_name: Spirited Away
   translation: Baba, what a miser. Just can it.
@@ -4603,21 +1775,6 @@
       position: 1
       tags:
         - silent
-    - word: の
-      position: 5
-    - word: ケチ
-      base: けち
-      position: 6
-    - word: もう
-      position: 9
-    - word: やめ
-      base: やめる
-      dictionary: やめる
-      position: 11
-    - word: な
-      position: 13
-    - word: よ
-      position: 14
 - id: A_SpiritedAway_0981
   deck_name: Spirited Away
   translation: If you make Sen cry, I won't like you anymore, baba.
@@ -4628,66 +1785,20 @@
       position: 1
       tags:
         - silent
-    - word: を
-      position: 3
-    - word: 泣かし
-      base: 泣く
-      dictionary: 泣かす
-      position: 4
-    - word: たら
-      base: た
-      dictionary: た
-      position: 7
     - word: バーバ
       position: 11
       tags:
         - silent
-    - word: 嫌い
-      position: 16
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 18
-    - word: なっ
-      base: 成る
-      dictionary: なる
-      position: 19
-    - word: ちゃう
-      position: 21
-    - word: から
-      position: 24
-    - word: ね
-      position: 26
 - id: A_SpiritedAway_0986
   deck_name: Spirited Away
   translation: Haku told me all about the rule.
   sound: Anime-SpiritedAway_1_1.56.40.880-1.56.43.120.mp3
   sentence: 掟のことは　(ハク)から聞きました。
   words:
-    - word: 掟
-      position: 0
-    - word: の
-      position: 1
-    - word: こと
-      position: 2
-    - word: は
-      position: 4
     - word: ハク
       position: 7
       tags:
         - silent
-    - word: から
-      position: 10
-    - word: 聞き
-      base: 聞く
-      dictionary: 聞く
-      position: 12
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 14
-    - word: た
-      position: 16
 - id: A_SpiritedAway_1005
   deck_name: Spirited Away
   translation: Haku. Let's go.
@@ -4698,10 +1809,6 @@
       position: 1
       tags:
         - silent
-    - word: 行こう
-      base: 行く
-      dictionary: 行く
-      position: 6
 - id: A_SpiritedAway_1010
   deck_name: Spirited Away
   translation: Go back the way you came, Chihiro.
@@ -4712,34 +1819,6 @@
       position: 1
       tags:
         - silent
-    - word: は
-      position: 4
-    - word: もと
-      position: 6
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 8
-    - word: た
-      position: 9
-    - word: 道
-      position: 10
-    - word: を
-      position: 11
-    - word: たどれ
-      base: 辿る
-      dictionary: たどる
-      position: 13
-    - word: ば
-      position: 16
-    - word: いい
-      base: 良い
-      position: 17
-    - word: ん
-      base: の
-      position: 19
-    - word: だ
-      position: 20
 - id: A_SpiritedAway_1012
   deck_name: Spirited Away
   translation: What about you, Haku?
@@ -4750,31 +1829,16 @@
       position: 1
       tags:
         - silent
-    - word: は
-      position: 4
     - word: ハク
       position: 8
       tags:
         - silent
-    - word: は
-      position: 11
-    - word: どう
-      position: 12
-    - word: する
-      base: 為る
-      position: 14
-    - word: の
-      position: 16
 - id: A_SpiritedAway_1013
   deck_name: Spirited Away
   translation: I'll speak to Yubaba. Quit my apprenticeship.
   sound: Anime-SpiritedAway_1_1.58.26.040-1.58.28.960.mp3
   sentence: 私は(湯(バーバ))と話をつけて 弟子をやめる。
   words:
-    - word: 私
-      position: 0
-    - word: は
-      position: 1
     - word: 湯
       position: 3
       tags:
@@ -4783,24 +1847,6 @@
       position: 5
       tags:
         - silent
-    - word: と
-      position: 10
-    - word: 話
-      position: 11
-    - word: を
-      position: 12
-    - word: つけ
-      base: つける
-      dictionary: つける
-      position: 13
-    - word: て
-      position: 15
-    - word: 弟子
-      position: 17
-    - word: を
-      position: 19
-    - word: やめる
-      position: 20
 - id: A_SpiritedAway_1026
   deck_name: Spirited Away
   translation: Hurry along, Chihiro.
@@ -4811,17 +1857,6 @@
       position: 1
       tags:
         - silent
-    - word: 早く
-      base: 早い
-      dictionary: 早い
-      position: 5
-    - word: お
-      base: 御
-      position: 7
-    - word: いで
-      base: 出る
-      dictionary: いでる
-      position: 8
 - id: A_SpiritedAway_1028
   deck_name: Spirited Away
   translation: You'll make me trip, Chihiro clinging like that.
@@ -4832,31 +1867,6 @@
       position: 1
       tags:
         - silent
-    - word: そんな
-      position: 5
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 8
-    - word: くっつか
-      base: くっ付く
-      dictionary: くっつく
-      position: 10
-    - word: ない
-      position: 14
-    - word: で
-      position: 16
-    - word: よ
-      position: 17
-    - word: 歩き
-      base: 歩く
-      dictionary: 歩く
-      position: 19
-    - word: にくい
-      base: 難い
-      position: 21
-    - word: わ
-      position: 24
 - id: A_SpiritedAway_1037
   deck_name: Spirited Away
   translation: We're off, Chihiro
@@ -4867,10 +1877,6 @@
       position: 1
       tags:
         - silent
-    - word: 行く
-      position: 5
-    - word: よ
-      position: 7
 - id: A_SpiritedAway_1038
   deck_name: Spirited Away
   translation: Hurry up, Chihiro!
@@ -4881,15 +1887,3 @@
       position: 1
       tags:
         - silent
-    - word: 早く
-      base: 早い
-      dictionary: 早い
-      position: 5
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 7
-    - word: なさい
-      base: 為す
-      dictionary: なさる
-      position: 8

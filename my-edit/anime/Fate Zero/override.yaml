@@ -4,14 +4,6 @@
   sound: Fate_Zero_01_0.15.54.760-0.15.58.000.mp3
   sentence: ケイネス　エルメロイ アーチボルト（Kayneth El-Melloi Archibald）
   words:
-    - word: ケイネス
-      position: 0
-    - word: エルメロイ
-      position: 5
-    - word: アーチ
-      position: 11
-    - word: ボルト
-      position: 14
     - word: Kayneth
       base: kayneth
       dictionary: kayneth
@@ -41,10 +33,6 @@
   sound: Fate_Zero_01_0.17.21.210-0.17.23.710.mp3
   sentence: ウェイバー　ベルベット（Waver Velvet）君
   words:
-    - word: ウェイバー
-      position: 0
-    - word: ベルベット
-      position: 6
     - word: Waver
       base: waver
       dictionary: waver
@@ -57,16 +45,12 @@
       position: 18
       tags:
         - silent
-    - word: 君
-      position: 25
 - id: Fate_Zero_01_0230_0.20.00.110
   deck_name: Fate Zero
   translation: Archer.
   sound: Fate_Zero_01_0.19.59.860-0.20.00.790.mp3
   sentence: アーチャー　（Archer）
   words:
-    - word: アーチャー
-      position: 0
     - word: Archer
       base: archer
       dictionary: archer
@@ -79,8 +63,6 @@
   sound: Fate_Zero_01_0.20.01.010-0.20.02.220.mp3
   sentence: セイバー　（Saber）
   words:
-    - word: セイバー
-      position: 0
     - word: Saber
       base: セイバー
       dictionary: saber
@@ -93,8 +75,6 @@
   sound: Fate_Zero_01_0.20.02.110-0.20.03.300.mp3
   sentence: ランサー　（Lancer）
   words:
-    - word: ランサー
-      position: 0
     - word: Lancer
       base: ランサー
       dictionary: lancer
@@ -107,8 +87,6 @@
   sound: Fate_Zero_01_0.20.03.210-0.20.04.320.mp3
   sentence: ライダー　（Rider）
   words:
-    - word: ライダー
-      position: 0
     - word: Rider
       base: rider
       dictionary: rider
@@ -121,8 +99,6 @@
   sound: Fate_Zero_01_0.20.04.310-0.20.05.440.mp3
   sentence: アサシン　（Assassin）
   words:
-    - word: アサシン
-      position: 0
     - word: Assassin
       base: アサシン
       dictionary: assassin
@@ -135,8 +111,6 @@
   sound: Fate_Zero_01_0.20.05.410-0.20.06.640.mp3
   sentence: キャスター　（Caster）
   words:
-    - word: キャスター
-      position: 0
     - word: Caster
       base: caster
       dictionary: caster
@@ -149,8 +123,6 @@
   sound: Fate_Zero_01_0.20.06.460-0.20.07.740.mp3
   sentence: バーサーカー　（Berserker）
   words:
-    - word: バーサーカー
-      position: 0
     - word: Berserker
       base: berserker
       dictionary: berserker
@@ -163,62 +135,18 @@
   sound: Fate_Zero_01_0.42.12.790-0.42.16.240.mp3
   sentence: 閉じよ(みたせ) 閉じよ 閉じよ 閉じよ 閉じよ
   words:
-    - word: 閉じよ
-      base: 閉じる
-      dictionary: 閉じる
-      position: 0
     - word: みたせ
       base: 満たす
       dictionary: みたす
       position: 4
       tags:
         - silent
-    - word: 閉じよ
-      base: 閉じる
-      dictionary: 閉じる
-      position: 9
-    - word: 閉じよ
-      base: 閉じる
-      dictionary: 閉じる
-      position: 13
-    - word: 閉じよ
-      base: 閉じる
-      dictionary: 閉じる
-      position: 17
-    - word: 閉じよ
-      base: 閉じる
-      dictionary: 閉じる
-      position: 21
 - id: Fate_Zero_12_3153_0.09.10.270
   deck_name: Fate Zero
   translation: I'm surprised you have such harsh words to say about your own Master.
   sound: Fate_Zero_12_0.09.10.020-0.09.15.330.mp3
   sentence: 自らのマスターに対し　よくもそこまで憚(はばか)りなく言えたものだ
   words:
-    - word: 自ら
-      position: 0
-    - word: の
-      position: 2
-    - word: マスター
-      position: 3
-    - word: に
-      position: 7
-    - word: 対し
-      base: 対する
-      dictionary: 対する
-      position: 8
-    - word: よく
-      base: 良く
-      position: 11
-    - word: も
-      position: 13
-    - word: そこ
-      base: 其処
-      position: 14
-    - word: まで
-      position: 16
-    - word: 憚
-      position: 18
     - word: は
       position: 20
       tags:
@@ -227,43 +155,12 @@
       position: 21
       tags:
         - silent
-    - word: り
-      position: 24
-    - word: なく
-      base: 無い
-      dictionary: ない
-      position: 25
-    - word: 言え
-      base: 言う
-      dictionary: 言える
-      position: 27
-    - word: た
-      position: 29
-    - word: もの
-      base: 物
-      position: 30
-    - word: だ
-      position: 32
 - id: Fate_Zero_13_3555_0.17.40.450
   deck_name: Fate Zero
   translation: Glory lies beyond the horizon, after all.
   sound: Fate_Zero_13_0.17.40.200-0.17.43.270.mp3
   sentence: 「彼方にこそ栄え在り（ト·フィロティモ）」といってな
   words:
-    - word: 彼方
-      position: 1
-    - word: に
-      position: 3
-    - word: こそ
-      position: 4
-    - word: 栄え
-      base: 栄える
-      dictionary: 栄える
-      position: 6
-    - word: 在り
-      base: 有る
-      dictionary: 在る
-      position: 8
     - word: ト
       position: 11
       tags:
@@ -272,55 +169,27 @@
       position: 13
       tags:
         - silent
-    - word: と
-      position: 21
-    - word: いっ
-      base: 言う
-      dictionary: いう
-      position: 22
-    - word: て
-      position: 24
-    - word: な
-      position: 25
 - id: Fate_Zero_24_5819_0.05.55.030
   deck_name: Fate Zero
   translation: I've lost my Calico.
   sound: Fate_Zero_24_0.05.54.780-0.05.56.780.mp3
   sentence: キャリコ（Calico）は喪失
   words:
-    - word: キャリコ
-      position: 0
     - word: Calico
       base: calico
       dictionary: calico
       position: 5
       tags:
         - silent
-    - word: は
-      position: 12
-    - word: 喪失
-      position: 13
 - id: Fate_Zero_24_5820_0.05.56.770
   deck_name: Fate Zero
   translation: The Contender needs reloading.
   sound: Fate_Zero_24_0.05.56.520-0.05.59.150.mp3
   sentence: コンテンダー（Contender）は再装填が必要
   words:
-    - word: コンテンダー
-      position: 0
     - word: Contender
       base: コンテンダー
       dictionary: contender
       position: 7
       tags:
         - silent
-    - word: は
-      position: 17
-    - word: 再
-      position: 18
-    - word: 装填
-      position: 19
-    - word: が
-      position: 21
-    - word: 必要
-      position: 22

@@ -6,13 +6,6 @@
   sound_begin: 4960
   sound_end: 6080
   sentence: いちょうの実
-  words:
-    - word: いちょう
-      position: 0
-    - word: の
-      position: 4
-    - word: 実
-      position: 5
 - id: Ichono Mi-f000003
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -21,49 +14,6 @@
   sound_begin: 8880
   sound_end: 16140
   sentence: そらのてっぺんなんかつめたくてつめたくてまるでカチカチのやきをかけた鋼です。
-  words:
-    - word: そら
-      base: 其れ
-      position: 0
-    - word: の
-      position: 2
-    - word: てっぺん
-      base: 天辺
-      position: 3
-    - word: なんか
-      position: 7
-    - word: つめたく
-      base: 冷たい
-      position: 10
-    - word: て
-      position: 14
-    - word: つめたく
-      base: 冷たい
-      position: 15
-    - word: て
-      position: 19
-    - word: まるで
-      base: 丸で
-      position: 20
-    - word: カチカチ
-      base: かちかち
-      position: 23
-    - word: の
-      position: 27
-    - word: やき
-      base: 焼き
-      position: 28
-    - word: を
-      position: 30
-    - word: かけ
-      base: 掛ける
-      position: 31
-    - word: た
-      position: 33
-    - word: 鋼
-      position: 34
-    - word: です
-      position: 35
 - id: Ichono Mi-f000004
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -72,18 +22,6 @@
   sound_begin: 16140
   sound_end: 19440
   sentence: そして星がいっぱいです。
-  words:
-    - word: そして
-      position: 0
-    - word: 星
-      position: 3
-    - word: が
-      position: 4
-    - word: いっぱい
-      base: 一杯
-      position: 5
-    - word: です
-      position: 9
 - id: Ichono Mi-f000005
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -92,55 +30,6 @@
   sound_begin: 21340
   sound_end: 29211
   sentence: けれども東の空はもうやさしいききょうの花びらのようにあやしい底光りをはじめました。
-  words:
-    - word: けれど
-      position: 0
-    - word: も
-      position: 3
-    - word: 東
-      position: 4
-    - word: の
-      position: 5
-    - word: 空
-      position: 6
-    - word: は
-      position: 7
-    - word: もう
-      position: 8
-    - word: やさしい
-      base: 優しい
-      position: 10
-    - word: ききょう
-      base: 桔梗
-      position: 14
-    - word: の
-      position: 18
-    - word: 花びら
-      base: 花弁
-      position: 19
-    - word: の
-      position: 22
-    - word: よう
-      base: 様
-      position: 23
-    - word: に
-      base: だ
-      position: 25
-    - word: あやしい
-      base: 怪しい
-      position: 26
-    - word: 底光り
-      position: 30
-    - word: を
-      position: 33
-    - word: はじめ
-      base: 始める
-      position: 34
-    - word: まし
-      base: ます
-      position: 37
-    - word: た
-      position: 39
 - id: Ichono Mi-f000006
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -149,20 +38,6 @@
   sound_begin: 30780
   sound_end: 32960
   sentence: その明け方の空の下、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 明け方
-      position: 2
-    - word: の
-      position: 5
-    - word: 空
-      position: 6
-    - word: の
-      position: 7
-    - word: 下
-      position: 8
 - id: Ichono Mi-f000007
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -171,82 +46,6 @@
   sound_begin: 32960
   sound_end: 44080
   sentence: ひるの鳥でもゆかない高いところをするどい霜のかけらが風に流されてサラサラサラサラ南のほうへとんでゆきました。
-  words:
-    - word: ひる
-      base: 昼
-      position: 0
-    - word: の
-      position: 2
-    - word: 鳥
-      position: 3
-    - word: で
-      position: 4
-    - word: も
-      position: 5
-    - word: ゆか
-      base: 行く
-      position: 6
-    - word: ない
-      position: 8
-    - word: 高い
-      position: 10
-    - word: ところ
-      base: 所
-      position: 12
-    - word: を
-      position: 15
-    - word: するどい
-      base: 鋭い
-      position: 16
-    - word: 霜
-      position: 20
-    - word: の
-      position: 21
-    - word: かけら
-      base: 欠片
-      position: 22
-    - word: が
-      position: 25
-    - word: 風
-      position: 26
-    - word: に
-      position: 27
-    - word: 流さ
-      base: 流す
-      position: 28
-    - word: れ
-      base: れる
-      position: 30
-    - word: て
-      position: 31
-    - word: サラサラ
-      base: さらさら
-      position: 32
-    - word: サラサラ
-      base: さらさら
-      position: 36
-    - word: 南
-      position: 40
-    - word: の
-      position: 41
-    - word: ほう
-      base: 方
-      position: 42
-    - word: へ
-      position: 44
-    - word: とん
-      base: 飛ぶ
-      position: 45
-    - word: で
-      position: 47
-    - word: ゆき
-      base: 行く
-      position: 48
-    - word: まし
-      base: ます
-      position: 50
-    - word: た
-      position: 52
 - id: Ichono Mi-f000008
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -255,62 +54,6 @@
   sound_begin: 44080
   sound_end: 52080
   sentence: じつにそのかすかな音が丘の上の一本いちょうの木に聞こえるくらいすみきった明け方です。
-  words:
-    - word: じつ
-      base: 実
-      position: 0
-    - word: に
-      position: 2
-    - word: その
-      base: 其の
-      position: 3
-    - word: かすか
-      base: 微か
-      position: 5
-    - word: な
-      base: だ
-      position: 8
-    - word: 音
-      position: 9
-    - word: が
-      position: 10
-    - word: 丘
-      position: 11
-    - word: の
-      position: 12
-    - word: 上
-      position: 13
-    - word: の
-      position: 14
-    - word: 一
-      base: '1'
-      position: 15
-    - word: 本
-      position: 16
-    - word: いちょう
-      position: 17
-    - word: の
-      position: 21
-    - word: 木
-      position: 22
-    - word: に
-      position: 23
-    - word: 聞こえる
-      position: 24
-    - word: くらい
-      position: 28
-    - word: すみ
-      base: すむ
-      position: 31
-    - word: きっ
-      base: 切る
-      position: 33
-    - word: た
-      position: 35
-    - word: 明け方
-      position: 36
-    - word: です
-      position: 39
 - id: Ichono Mi-f000009
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -319,37 +62,6 @@
   sound_begin: 54880
   sound_end: 58480
   sentence: いちょうの実はみんないちどに目をさましました。
-  words:
-    - word: いちょう
-      position: 0
-    - word: の
-      position: 4
-    - word: 実
-      position: 5
-    - word: は
-      position: 6
-    - word: みんな
-      base: 皆
-      position: 7
-    - word: いち
-      base: 一
-      position: 10
-    - word: ど
-      position: 12
-    - word: に
-      position: 13
-    - word: 目
-      position: 14
-    - word: を
-      position: 15
-    - word: さまし
-      base: さます
-      position: 16
-    - word: まし
-      base: ます
-      position: 19
-    - word: た
-      position: 21
 - id: Ichono Mi-f000010
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -358,23 +70,6 @@
   sound_begin: 58480
   sound_end: 60912
   sentence: そしてドキッとしたのです。
-  words:
-    - word: そして
-      position: 0
-    - word: ドキッ
-      base: どき
-      position: 3
-    - word: と
-      position: 6
-    - word: し
-      base: 為る
-      position: 7
-    - word: た
-      position: 8
-    - word: の
-      position: 9
-    - word: です
-      position: 10
 - id: Ichono Mi-f000011
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -383,32 +78,6 @@
   sound_begin: 60912
   sound_end: 65440
   sentence: きょうこそはたしかに旅だちの日でした。
-  words:
-    - word: きょう
-      base: 今日
-      position: 0
-    - word: こそ
-      position: 3
-    - word: は
-      position: 5
-    - word: たしか
-      base: 確か
-      position: 6
-    - word: に
-      base: だ
-      position: 9
-    - word: 旅だち
-      base: 旅立つ
-      position: 10
-    - word: の
-      position: 13
-    - word: 日
-      position: 14
-    - word: でし
-      base: です
-      position: 15
-    - word: た
-      position: 17
 - id: Ichono Mi-f000012
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -417,33 +86,6 @@
   sound_begin: 65440
   sound_end: 67982
   sentence: みんなも前からそう思っていましたし、
-  words:
-    - word: みんな
-      base: 皆
-      position: 0
-    - word: も
-      position: 3
-    - word: 前
-      position: 4
-    - word: から
-      position: 5
-    - word: そう
-      position: 7
-    - word: 思っ
-      base: 思う
-      position: 9
-    - word: て
-      position: 11
-    - word: い
-      base: 居る
-      position: 12
-    - word: まし
-      base: ます
-      position: 13
-    - word: た
-      position: 15
-    - word: し
-      position: 16
 - id: Ichono Mi-f000013
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -452,46 +94,6 @@
   sound_begin: 67982
   sound_end: 74473
   sentence: きのうの夕方やってきた二わのカラスもそういいました。
-  words:
-    - word: きのう
-      base: 昨日
-      position: 0
-    - word: の
-      position: 3
-    - word: 夕方
-      position: 4
-    - word: やっ
-      base: 遣る
-      position: 6
-    - word: て
-      position: 8
-    - word: き
-      base: 来る
-      position: 9
-    - word: た
-      position: 10
-    - word: 二
-      base: '2'
-      position: 11
-    - word: わ
-      position: 12
-    - word: の
-      position: 13
-    - word: カラス
-      base: 烏
-      position: 14
-    - word: も
-      position: 17
-    - word: そう
-      position: 18
-    - word: いい
-      base: 言う
-      position: 20
-    - word: まし
-      base: ます
-      position: 22
-    - word: た
-      position: 24
 - id: Ichono Mi-f000014
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -500,33 +102,6 @@
   sound_begin: 74473
   sound_end: 78320
   sentence: 「ぼくなんか落ちるとちゅうで目がまわらないだろうか。
-  words:
-    - word: ぼく
-      base: 僕
-      position: 1
-    - word: なんか
-      position: 3
-    - word: 落ちる
-      position: 6
-    - word: とちゅう
-      base: 途中
-      position: 9
-    - word: で
-      position: 13
-    - word: 目
-      position: 14
-    - word: が
-      position: 15
-    - word: まわら
-      base: 回る
-      position: 16
-    - word: ない
-      position: 19
-    - word: だろう
-      base: だ
-      position: 21
-    - word: か
-      position: 24
 - id: Ichono Mi-f000015
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -535,26 +110,6 @@
   sound_begin: 78320
   sound_end: 80680
   sentence: 」一つの実がいいました。
-  words:
-    - word: 一
-      base: '1'
-      position: 1
-    - word: つ
-      position: 2
-    - word: の
-      position: 3
-    - word: 実
-      position: 4
-    - word: が
-      position: 5
-    - word: いい
-      base: 言う
-      position: 6
-    - word: まし
-      base: ます
-      position: 8
-    - word: た
-      position: 10
 - id: Ichono Mi-f000016
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -563,29 +118,6 @@
   sound_begin: 80680
   sound_end: 83160
   sentence: 「よく目をつぶっていけばいいさ。
-  words:
-    - word: よく
-      base: 良く
-      position: 1
-    - word: 目
-      position: 3
-    - word: を
-      position: 4
-    - word: つぶっ
-      base: 瞑る
-      position: 5
-    - word: て
-      position: 8
-    - word: いけ
-      base: 行く
-      position: 9
-    - word: ば
-      position: 11
-    - word: いい
-      base: 良い
-      position: 12
-    - word: さ
-      position: 14
 - id: Ichono Mi-f000017
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -594,24 +126,6 @@
   sound_begin: 83160
   sound_end: 85680
   sentence: 」も一つが答えました。
-  words:
-    - word: も
-      position: 1
-    - word: 一
-      base: '1'
-      position: 2
-    - word: つ
-      position: 3
-    - word: が
-      position: 4
-    - word: 答え
-      base: 答える
-      position: 5
-    - word: まし
-      base: ます
-      position: 7
-    - word: た
-      position: 9
 - id: Ichono Mi-f000018
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -620,11 +134,6 @@
   sound_begin: 85680
   sound_end: 86800
   sentence: 「そうだ。
-  words:
-    - word: そう
-      position: 1
-    - word: だ
-      position: 3
 - id: Ichono Mi-f000019
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -633,17 +142,6 @@
   sound_begin: 86800
   sound_end: 88000
   sentence: わすれていた。
-  words:
-    - word: わすれ
-      base: 忘れる
-      position: 0
-    - word: て
-      position: 3
-    - word: い
-      base: 居る
-      position: 4
-    - word: た
-      position: 5
 - id: Ichono Mi-f000020
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -652,34 +150,6 @@
   sound_begin: 88000
   sound_end: 91080
   sentence: ぼく水とうに水をつめておくんだった。」
-  words:
-    - word: ぼく
-      base: 僕
-      position: 0
-    - word: 水とう
-      base: 水筒
-      position: 2
-    - word: に
-      position: 5
-    - word: 水
-      position: 6
-    - word: を
-      position: 7
-    - word: つめ
-      base: つめる
-      position: 8
-    - word: て
-      position: 10
-    - word: おく
-      position: 11
-    - word: ん
-      base: の
-      position: 13
-    - word: だっ
-      base: だ
-      position: 14
-    - word: た
-      position: 16
 - id: Ichono Mi-f000021
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -688,14 +158,6 @@
   sound_begin: 91080
   sound_end: 92080
   sentence: 「ぼくはね、
-  words:
-    - word: ぼく
-      base: 僕
-      position: 1
-    - word: は
-      position: 3
-    - word: ね
-      position: 4
 - id: Ichono Mi-f000022
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -704,33 +166,6 @@
   sound_begin: 92080
   sound_end: 94280
   sentence: 水とうのほかにはっか水を用意したよ。
-  words:
-    - word: 水とう
-      base: 水筒
-      position: 0
-    - word: の
-      position: 3
-    - word: ほか
-      base: 他
-      position: 4
-    - word: に
-      position: 6
-    - word: はっか
-      base: 薄荷
-      position: 7
-    - word: 水
-      position: 10
-    - word: を
-      position: 11
-    - word: 用意
-      position: 12
-    - word: し
-      base: 為る
-      position: 14
-    - word: た
-      position: 15
-    - word: よ
-      position: 16
 - id: Ichono Mi-f000023
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -739,15 +174,6 @@
   sound_begin: 94280
   sound_end: 95760
   sentence: すこしやろうか。
-  words:
-    - word: すこし
-      base: 少し
-      position: 0
-    - word: やろう
-      base: 遣る
-      position: 3
-    - word: か
-      position: 6
 - id: Ichono Mi-f000024
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -756,58 +182,6 @@
   sound_begin: 95760
   sound_end: 103462
   sentence: 旅へ出てあんまり心持ちのわるいときはちょっと飲むといいっておっかさんがいったぜ。」
-  words:
-    - word: 旅
-      position: 0
-    - word: へ
-      position: 1
-    - word: 出
-      base: 出る
-      position: 2
-    - word: て
-      position: 3
-    - word: あんまり
-      base: 余り
-      position: 4
-    - word: 心持ち
-      position: 8
-    - word: の
-      position: 11
-    - word: わるい
-      base: 悪い
-      position: 12
-    - word: とき
-      base: 時
-      position: 15
-    - word: は
-      position: 17
-    - word: ちょっと
-      base: 一寸
-      position: 18
-    - word: 飲む
-      position: 22
-    - word: と
-      position: 24
-    - word: いい
-      base: 良い
-      position: 25
-    - word: って
-      position: 27
-    - word: おっ
-      base: 御
-      position: 29
-    - word: かさん
-      base: 嵩む
-      position: 31
-    - word: が
-      position: 34
-    - word: いっ
-      base: 行く
-      position: 35
-    - word: た
-      position: 37
-    - word: ぜ
-      position: 38
 - id: Ichono Mi-f000025
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -816,36 +190,6 @@
   sound_begin: 103462
   sound_end: 105800
   sentence: 「なぜおっかさんはぼくへはくれないんだろう。」
-  words:
-    - word: なぜ
-      base: 何故
-      position: 1
-    - word: おっ
-      base: 御
-      position: 3
-    - word: かさん
-      base: 嵩む
-      position: 5
-    - word: は
-      position: 8
-    - word: ぼく
-      base: 僕
-      position: 9
-    - word: へ
-      position: 11
-    - word: は
-      position: 12
-    - word: くれ
-      base: 呉れる
-      position: 13
-    - word: ない
-      position: 15
-    - word: ん
-      base: の
-      position: 17
-    - word: だろう
-      base: だ
-      position: 18
 - id: Ichono Mi-f000026
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -854,11 +198,6 @@
   sound_begin: 105800
   sound_end: 107840
   sentence: 「だから、
-  words:
-    - word: だ
-      position: 1
-    - word: から
-      position: 2
 - id: Ichono Mi-f000027
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -867,15 +206,6 @@
   sound_begin: 107840
   sound_end: 109920
   sentence: ぼくあげるよ。
-  words:
-    - word: ぼく
-      base: 僕
-      position: 0
-    - word: あげる
-      base: 上げる
-      position: 2
-    - word: よ
-      position: 5
 - id: Ichono Mi-f000028
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -884,32 +214,6 @@
   sound_begin: 109920
   sound_end: 112620
   sentence: おっかさんをわるく思っちゃすまないよ。」
-  words:
-    - word: おっ
-      base: 伯父
-      position: 0
-    - word: か
-      position: 2
-    - word: さん
-      position: 3
-    - word: を
-      position: 5
-    - word: わるく
-      base: 悪い
-      position: 6
-    - word: 思っ
-      base: 思う
-      position: 9
-    - word: ちゃ
-      base: て
-      position: 11
-    - word: すま
-      base: すむ
-      position: 13
-    - word: ない
-      position: 15
-    - word: よ
-      position: 17
 - id: Ichono Mi-f000029
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -918,11 +222,6 @@
   sound_begin: 114720
   sound_end: 115839
   sentence: そうです。
-  words:
-    - word: そう
-      position: 0
-    - word: です
-      position: 2
 - id: Ichono Mi-f000030
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -931,28 +230,6 @@
   sound_begin: 115839
   sound_end: 118735
   sentence: このいちょうの木はおかあさんでした。
-  words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: いちょう
-      position: 2
-    - word: の
-      position: 6
-    - word: 木
-      position: 7
-    - word: は
-      position: 8
-    - word: お
-      base: 御
-      position: 9
-    - word: かあさん
-      position: 10
-    - word: でし
-      base: です
-      position: 14
-    - word: た
-      position: 16
 - id: Ichono Mi-f000031
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -961,39 +238,6 @@
   sound_begin: 118735
   sound_end: 123200
   sentence: ことしは千人の黄金色の子どもが生まれたのです。
-  words:
-    - word: ことし
-      base: 今年
-      position: 0
-    - word: は
-      position: 3
-    - word: 千
-      base: '1000'
-      position: 4
-    - word: 人
-      position: 5
-    - word: の
-      position: 6
-    - word: 黄金
-      position: 7
-    - word: 色
-      position: 9
-    - word: の
-      position: 10
-    - word: 子ども
-      base: 子供
-      position: 11
-    - word: が
-      position: 14
-    - word: 生まれ
-      base: 生まれる
-      position: 15
-    - word: た
-      position: 18
-    - word: の
-      position: 19
-    - word: です
-      position: 20
 - id: Ichono Mi-f000032
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -1002,40 +246,6 @@
   sound_begin: 123200
   sound_end: 127700
   sentence: そしてきょうこそ子どもらがみんないっしょに旅にたつのです。
-  words:
-    - word: そして
-      position: 0
-    - word: きょう
-      base: 今日
-      position: 3
-    - word: こそ
-      position: 6
-    - word: 子ども
-      base: 子供
-      position: 8
-    - word: ら
-      base: 等
-      position: 11
-    - word: が
-      position: 12
-    - word: みんな
-      base: 皆
-      position: 13
-    - word: いっしょ
-      base: 一緒
-      position: 16
-    - word: に
-      position: 20
-    - word: 旅
-      position: 21
-    - word: に
-      position: 22
-    - word: たつ
-      position: 23
-    - word: の
-      position: 25
-    - word: です
-      position: 26
 - id: Ichono Mi-f000033
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -1044,63 +254,6 @@
   sound_begin: 129800
   sound_end: 138160
   sentence: おかあさんはそれをあんまり悲しんでおうぎ形の黄金の髪の毛をきのうまでにみんな落としてしまいました。
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: かあさん
-      position: 1
-    - word: は
-      position: 5
-    - word: それ
-      base: 其れ
-      position: 6
-    - word: を
-      position: 8
-    - word: あんまり
-      base: 余り
-      position: 9
-    - word: 悲しん
-      base: 悲しむ
-      position: 13
-    - word: で
-      position: 16
-    - word: おうぎ形
-      base: 扇形
-      position: 17
-    - word: の
-      position: 21
-    - word: 黄金
-      position: 22
-    - word: の
-      position: 24
-    - word: 髪の毛
-      position: 25
-    - word: を
-      position: 28
-    - word: きのう
-      base: 昨日
-      position: 29
-    - word: まで
-      position: 32
-    - word: に
-      position: 34
-    - word: みんな
-      base: 皆
-      position: 35
-    - word: 落とし
-      base: 落とす
-      position: 38
-    - word: て
-      position: 41
-    - word: しまい
-      base: 仕舞う
-      position: 42
-    - word: まし
-      base: ます
-      position: 45
-    - word: た
-      position: 47
 - id: Ichono Mi-f000034
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -1109,9 +262,6 @@
   sound_begin: 140960
   sound_end: 142440
   sentence: 「ね、
-  words:
-    - word: ね
-      position: 1
 - id: Ichono Mi-f000035
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -1120,23 +270,6 @@
   sound_begin: 142440
   sound_end: 145720
   sentence: あたしどんなとこへいくのかしら。
-  words:
-    - word: あたし
-      base: 私
-      position: 0
-    - word: どんな
-      position: 3
-    - word: とこ
-      position: 6
-    - word: へ
-      position: 8
-    - word: いく
-      base: 行く
-      position: 9
-    - word: の
-      position: 11
-    - word: かしら
-      position: 12
 - id: Ichono Mi-f000036
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -1145,49 +278,6 @@
   sound_begin: 145720
   sound_end: 151960
   sentence: 」ひとりのいちょうの女の子が空を見あげてつぶやくようにいいました。
-  words:
-    - word: ひとり
-      base: 一人
-      position: 1
-    - word: の
-      position: 4
-    - word: いちょう
-      position: 5
-    - word: の
-      position: 9
-    - word: 女の子
-      position: 10
-    - word: が
-      position: 13
-    - word: 空
-      position: 14
-    - word: を
-      position: 15
-    - word: 見
-      base: 見る
-      position: 16
-    - word: あげ
-      base: 上げる
-      position: 17
-    - word: て
-      position: 19
-    - word: つぶやく
-      base: 呟く
-      position: 20
-    - word: よう
-      base: 様
-      position: 24
-    - word: に
-      base: だ
-      position: 26
-    - word: いい
-      base: 言う
-      position: 27
-    - word: まし
-      base: ます
-      position: 29
-    - word: た
-      position: 31
 - id: Ichono Mi-f000037
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -1196,21 +286,6 @@
   sound_begin: 151960
   sound_end: 154960
   sentence: 「あたしだってわからないわ、
-  words:
-    - word: あたし
-      base: 私
-      position: 1
-    - word: だ
-      position: 4
-    - word: って
-      position: 5
-    - word: わから
-      base: 分かる
-      position: 7
-    - word: ない
-      position: 10
-    - word: わ
-      position: 12
 - id: Ichono Mi-f000038
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -1219,26 +294,6 @@
   sound_begin: 154960
   sound_end: 158000
   sentence: どこへもいきたくないわね。
-  words:
-    - word: どこ
-      position: 0
-    - word: へ
-      position: 2
-    - word: も
-      position: 3
-    - word: いき
-      base: 行く
-      position: 4
-    - word: たく
-      base: たい
-      position: 6
-    - word: ない
-      base: 無い
-      position: 8
-    - word: わ
-      position: 10
-    - word: ね
-      position: 11
 - id: Ichono Mi-f000039
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -1247,22 +302,6 @@
   sound_begin: 158000
   sound_end: 162240
   sentence: 」もひとりがいいました。
-  words:
-    - word: も
-      position: 1
-    - word: ひとり
-      base: 一人
-      position: 2
-    - word: が
-      position: 5
-    - word: いい
-      base: 言う
-      position: 6
-    - word: まし
-      base: ます
-      position: 8
-    - word: た
-      position: 10
 - id: Ichono Mi-f000040
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -1271,28 +310,6 @@
   sound_begin: 162240
   sound_end: 164440
   sentence: 「あたしどんなめにあってもいいから、
-  words:
-    - word: あたし
-      base: 私
-      position: 1
-    - word: どんな
-      position: 4
-    - word: め
-      position: 7
-    - word: に
-      position: 8
-    - word: あっ
-      base: 有る
-      position: 9
-    - word: て
-      position: 11
-    - word: も
-      position: 12
-    - word: いい
-      base: 良い
-      position: 13
-    - word: から
-      position: 15
 - id: Ichono Mi-f000041
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -1301,22 +318,6 @@
   sound_begin: 164440
   sound_end: 166698
   sentence: おっかさんとこにいたいわ。」
-  words:
-    - word: おっ
-      position: 0
-    - word: かさん
-      position: 2
-    - word: とこ
-      position: 5
-    - word: に
-      position: 7
-    - word: い
-      base: 居る
-      position: 8
-    - word: たい
-      position: 9
-    - word: わ
-      position: 11
 - id: Ichono Mi-f000042
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -1325,23 +326,6 @@
   sound_begin: 166698
   sound_end: 168654
   sentence: 「だっていけないんですって。
-  words:
-    - word: だ
-      position: 1
-    - word: って
-      position: 2
-    - word: いけ
-      base: 行く
-      position: 4
-    - word: ない
-      position: 6
-    - word: ん
-      base: の
-      position: 8
-    - word: です
-      position: 9
-    - word: って
-      position: 11
 - id: Ichono Mi-f000043
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -1350,22 +334,6 @@
   sound_begin: 168654
   sound_end: 172440
   sentence: 風が毎日そういったわ。」
-  words:
-    - word: 風
-      position: 0
-    - word: が
-      position: 1
-    - word: 毎日
-      position: 2
-    - word: そう
-      position: 4
-    - word: いっ
-      base: 言う
-      position: 6
-    - word: た
-      position: 8
-    - word: わ
-      position: 9
 - id: Ichono Mi-f000044
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -1374,16 +342,6 @@
   sound_begin: 172440
   sound_end: 174920
   sentence: 「いやだわね。」
-  words:
-    - word: いや
-      base: 嫌
-      position: 1
-    - word: だ
-      position: 3
-    - word: わ
-      position: 4
-    - word: ね
-      position: 5
 - id: Ichono Mi-f000045
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -1392,39 +350,6 @@
   sound_begin: 174920
   sound_end: 179920
   sentence: 「そしてあたしたちもみんなばらばらにわかれてしまうんでしょう。」
-  words:
-    - word: そして
-      position: 1
-    - word: あたし
-      base: 私
-      position: 4
-    - word: たち
-      base: 達
-      position: 7
-    - word: も
-      position: 9
-    - word: みんな
-      base: 皆
-      position: 10
-    - word: ばらばら
-      position: 13
-    - word: に
-      base: だ
-      position: 17
-    - word: わかれ
-      base: わかれる
-      position: 18
-    - word: て
-      position: 21
-    - word: しまう
-      base: 仕舞う
-      position: 22
-    - word: ん
-      base: の
-      position: 25
-    - word: でしょう
-      base: です
-      position: 26
 - id: Ichono Mi-f000046
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -1433,9 +358,6 @@
   sound_begin: 179920
   sound_end: 180760
   sentence: 「ええ、
-  words:
-    - word: ええ
-      position: 1
 - id: Ichono Mi-f000047
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -1444,11 +366,6 @@
   sound_begin: 180760
   sound_end: 182600
   sentence: そうよ。
-  words:
-    - word: そう
-      position: 0
-    - word: よ
-      position: 2
 - id: Ichono Mi-f000048
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -1457,24 +374,6 @@
   sound_begin: 182600
   sound_end: 186000
   sentence: もうあたしなんにもいらないわ。」
-  words:
-    - word: もう
-      position: 0
-    - word: あたし
-      base: 私
-      position: 2
-    - word: なんに
-      base: 何
-      position: 5
-    - word: も
-      position: 8
-    - word: いら
-      base: いる
-      position: 9
-    - word: ない
-      position: 11
-    - word: わ
-      position: 13
 - id: Ichono Mi-f000049
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -1483,14 +382,6 @@
   sound_begin: 186000
   sound_end: 188920
   sentence: 「あたしもよ。
-  words:
-    - word: あたし
-      base: 私
-      position: 1
-    - word: も
-      position: 4
-    - word: よ
-      position: 5
 - id: Ichono Mi-f000050
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -1499,35 +390,6 @@
   sound_begin: 188920
   sound_end: 194200
   sentence: 今までいろいろわがままばっかしいってゆるしてくださいね。」
-  words:
-    - word: 今
-      position: 0
-    - word: まで
-      position: 1
-    - word: いろいろ
-      base: 色々
-      position: 3
-    - word: わがまま
-      base: 我が儘
-      position: 7
-    - word: ばっかし
-      base: ばかり
-      position: 11
-    - word: いっ
-      base: 言う
-      position: 15
-    - word: て
-      position: 17
-    - word: ゆるし
-      base: 許す
-      position: 18
-    - word: て
-      position: 21
-    - word: ください
-      base: 下さる
-      position: 22
-    - word: ね
-      position: 26
 - id: Ichono Mi-f000051
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -1536,9 +398,6 @@
   sound_begin: 194200
   sound_end: 195760
   sentence: 「あら、
-  words:
-    - word: あら
-      position: 1
 - id: Ichono Mi-f000052
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -1547,12 +406,6 @@
   sound_begin: 195760
   sound_end: 197280
   sentence: あたしこそ。
-  words:
-    - word: あたし
-      base: 私
-      position: 0
-    - word: こそ
-      position: 3
 - id: Ichono Mi-f000053
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -1561,16 +414,6 @@
   sound_begin: 197280
   sound_end: 199760
   sentence: あたしこそだわ。
-  words:
-    - word: あたし
-      base: 私
-      position: 0
-    - word: こそ
-      position: 3
-    - word: だ
-      position: 5
-    - word: わ
-      position: 6
 - id: Ichono Mi-f000054
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -1579,15 +422,6 @@
   sound_begin: 199760
   sound_end: 201640
   sentence: ゆるしてちょうだい。」
-  words:
-    - word: ゆるし
-      base: 許す
-      position: 0
-    - word: て
-      position: 3
-    - word: ちょうだい
-      base: 頂戴
-      position: 4
 - id: Ichono Mi-f000055
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -1596,49 +430,6 @@
   sound_begin: 204440
   sound_end: 210640
   sentence: 東の空のききょうの花びらはもういつかしぼんだように力なくなり、
-  words:
-    - word: 東
-      position: 0
-    - word: の
-      position: 1
-    - word: 空
-      position: 2
-    - word: の
-      position: 3
-    - word: ききょう
-      base: 桔梗
-      position: 4
-    - word: の
-      position: 8
-    - word: 花びら
-      base: 花弁
-      position: 9
-    - word: は
-      position: 12
-    - word: もう
-      position: 13
-    - word: いつ
-      position: 15
-    - word: か
-      position: 17
-    - word: しぼん
-      base: 萎む
-      position: 18
-    - word: だ
-      base: た
-      position: 21
-    - word: よう
-      base: 様
-      position: 22
-    - word: に
-      base: だ
-      position: 24
-    - word: 力なく
-      base: 力無い
-      position: 25
-    - word: なり
-      base: 成る
-      position: 28
 - id: Ichono Mi-f000056
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -1647,29 +438,6 @@
   sound_begin: 210640
   sound_end: 215120
   sentence: 朝の白光りがあらわれはじめました。
-  words:
-    - word: 朝
-      position: 0
-    - word: の
-      position: 1
-    - word: 白
-      position: 2
-    - word: 光り
-      base: 光
-      position: 3
-    - word: が
-      position: 5
-    - word: あらわれ
-      base: 現れる
-      position: 6
-    - word: はじめ
-      base: 始める
-      position: 10
-    - word: まし
-      base: ます
-      position: 13
-    - word: た
-      position: 15
 - id: Ichono Mi-f000057
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -1678,28 +446,6 @@
   sound_begin: 215120
   sound_end: 217240
   sentence: 星が一つずつきえてゆきます。
-  words:
-    - word: 星
-      position: 0
-    - word: が
-      position: 1
-    - word: 一
-      base: '1'
-      position: 2
-    - word: つ
-      position: 3
-    - word: ずつ
-      position: 4
-    - word: きえ
-      base: 消える
-      position: 6
-    - word: て
-      position: 8
-    - word: ゆき
-      base: 行く
-      position: 9
-    - word: ます
-      position: 11
 - id: Ichono Mi-f000058
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -1708,50 +454,6 @@
   sound_begin: 220040
   sound_end: 225720
   sentence: 木のいちばんいちばん高いところにいたふたりのいちょうの男の子がいいました。
-  words:
-    - word: 木
-      position: 0
-    - word: の
-      position: 1
-    - word: いちばん
-      base: 一番
-      position: 2
-    - word: いちばん
-      base: 一番
-      position: 6
-    - word: 高い
-      position: 10
-    - word: ところ
-      base: 所
-      position: 12
-    - word: に
-      position: 15
-    - word: い
-      base: 居る
-      position: 16
-    - word: た
-      position: 17
-    - word: ふたり
-      base: 二人
-      position: 18
-    - word: の
-      position: 21
-    - word: いちょう
-      position: 22
-    - word: の
-      position: 26
-    - word: 男の子
-      position: 27
-    - word: が
-      position: 30
-    - word: いい
-      base: 言う
-      position: 31
-    - word: まし
-      base: ます
-      position: 33
-    - word: た
-      position: 35
 - id: Ichono Mi-f000059
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -1760,9 +462,6 @@
   sound_begin: 225720
   sound_end: 226560
   sentence: 「そら、
-  words:
-    - word: そら
-      position: 1
 - id: Ichono Mi-f000060
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -1771,19 +470,6 @@
   sound_begin: 226560
   sound_end: 228280
   sentence: もう明るくなったぞ。
-  words:
-    - word: もう
-      position: 0
-    - word: 明るく
-      base: 明るい
-      position: 2
-    - word: なっ
-      base: 成る
-      position: 5
-    - word: た
-      position: 7
-    - word: ぞ
-      position: 8
 - id: Ichono Mi-f000061
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -1792,13 +478,6 @@
   sound_begin: 228280
   sound_end: 229911
   sentence: うれしいなあ。
-  words:
-    - word: うれしい
-      base: 嬉しい
-      position: 0
-    - word: なあ
-      base: な
-      position: 4
 - id: Ichono Mi-f000062
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -1807,40 +486,6 @@
   sound_begin: 229911
   sound_end: 234520
   sentence: ぼくはきっと黄金色のお星さまになるんだよ。」
-  words:
-    - word: ぼく
-      base: 僕
-      position: 0
-    - word: は
-      position: 2
-    - word: きっと
-      position: 3
-    - word: 黄金
-      position: 6
-    - word: 色
-      position: 8
-    - word: の
-      position: 9
-    - word: お
-      base: 御
-      position: 10
-    - word: 星
-      position: 11
-    - word: さま
-      base: 様
-      position: 12
-    - word: に
-      position: 14
-    - word: なる
-      base: 成る
-      position: 15
-    - word: ん
-      base: の
-      position: 17
-    - word: だ
-      position: 18
-    - word: よ
-      position: 19
 - id: Ichono Mi-f000063
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -1849,17 +494,6 @@
   sound_begin: 234520
   sound_end: 236425
   sentence: 「ぼくもなるよ。
-  words:
-    - word: ぼく
-      base: 僕
-      position: 1
-    - word: も
-      position: 3
-    - word: なる
-      base: 成る
-      position: 4
-    - word: よ
-      position: 6
 - id: Ichono Mi-f000064
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -1868,46 +502,6 @@
   sound_begin: 236425
   sound_end: 241040
   sentence: きっとここから落ちればすぐ北風が空へつれてってくれるだろうね。」
-  words:
-    - word: きっと
-      position: 0
-    - word: ここ
-      base: 此処
-      position: 3
-    - word: から
-      position: 5
-    - word: 落ちれ
-      base: 落ちる
-      position: 7
-    - word: ば
-      position: 10
-    - word: すぐ
-      base: 直ぐ
-      position: 11
-    - word: 北風
-      position: 13
-    - word: が
-      position: 15
-    - word: 空
-      position: 16
-    - word: へ
-      position: 17
-    - word: つれ
-      base: つれる
-      position: 18
-    - word: てっ
-      base: てく
-      position: 20
-    - word: て
-      position: 22
-    - word: くれる
-      base: 呉れる
-      position: 23
-    - word: だろう
-      base: だ
-      position: 26
-    - word: ね
-      position: 29
 - id: Ichono Mi-f000065
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -1916,31 +510,6 @@
   sound_begin: 242840
   sound_end: 245339
   sentence: 「ぼくは北風じゃないと思うんだよ。
-  words:
-    - word: ぼく
-      base: 僕
-      position: 1
-    - word: は
-      position: 3
-    - word: 北風
-      position: 4
-    - word: じゃ
-      base: だ
-      position: 6
-    - word: ない
-      base: 無い
-      position: 8
-    - word: と
-      position: 10
-    - word: 思う
-      position: 11
-    - word: ん
-      base: の
-      position: 13
-    - word: だ
-      position: 14
-    - word: よ
-      position: 15
 - id: Ichono Mi-f000066
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -1949,27 +518,6 @@
   sound_begin: 245339
   sound_end: 248480
   sentence: 北風はしんせつじゃないんだよ。
-  words:
-    - word: 北風
-      position: 0
-    - word: は
-      position: 2
-    - word: しんせつ
-      base: 親切
-      position: 3
-    - word: じゃ
-      base: だ
-      position: 7
-    - word: ない
-      base: 無い
-      position: 9
-    - word: ん
-      base: の
-      position: 11
-    - word: だ
-      position: 12
-    - word: よ
-      position: 13
 - id: Ichono Mi-f000067
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -1978,28 +526,6 @@
   sound_begin: 248480
   sound_end: 252600
   sentence: ぼくはきっとからすさんだろうと思うね。」
-  words:
-    - word: ぼく
-      base: 僕
-      position: 0
-    - word: は
-      position: 2
-    - word: きっと
-      position: 3
-    - word: からす
-      base: 烏
-      position: 6
-    - word: さん
-      position: 9
-    - word: だろう
-      base: だ
-      position: 11
-    - word: と
-      position: 14
-    - word: 思う
-      position: 15
-    - word: ね
-      position: 17
 - id: Ichono Mi-f000068
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -2008,11 +534,6 @@
   sound_begin: 252600
   sound_end: 253080
   sentence: 「そうだ。
-  words:
-    - word: そう
-      position: 1
-    - word: だ
-      position: 3
 - id: Ichono Mi-f000069
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -2021,16 +542,6 @@
   sound_begin: 253080
   sound_end: 254732
   sentence: きっとからすさんだ。
-  words:
-    - word: きっと
-      position: 0
-    - word: からす
-      base: 烏
-      position: 3
-    - word: さん
-      position: 6
-    - word: だ
-      position: 8
 - id: Ichono Mi-f000070
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -2039,24 +550,6 @@
   sound_begin: 254732
   sound_end: 256720
   sentence: からすさんはえらいんだよ。
-  words:
-    - word: からす
-      base: 烏
-      position: 0
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
-    - word: えらい
-      base: 偉い
-      position: 6
-    - word: ん
-      base: の
-      position: 9
-    - word: だ
-      position: 10
-    - word: よ
-      position: 11
 - id: Ichono Mi-f000071
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -2065,53 +558,6 @@
   sound_begin: 256720
   sound_end: 262257
   sentence: ここから遠くてまるで見えなくなるまでひと息に飛んでゆくんだからね。
-  words:
-    - word: ここ
-      base: 此処
-      position: 0
-    - word: から
-      position: 2
-    - word: 遠く
-      base: 遠い
-      position: 4
-    - word: て
-      position: 6
-    - word: まるで
-      base: 丸で
-      position: 7
-    - word: 見え
-      base: 見える
-      position: 10
-    - word: なく
-      base: ない
-      position: 12
-    - word: なる
-      base: 成る
-      position: 14
-    - word: まで
-      position: 16
-    - word: ひと息
-      base: 一息
-      position: 18
-    - word: に
-      position: 21
-    - word: 飛ん
-      base: 飛ぶ
-      position: 22
-    - word: で
-      position: 24
-    - word: ゆく
-      base: 行く
-      position: 25
-    - word: ん
-      base: の
-      position: 27
-    - word: だ
-      position: 28
-    - word: から
-      position: 29
-    - word: ね
-      position: 31
 - id: Ichono Mi-f000072
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -2120,13 +566,6 @@
   sound_begin: 262257
   sound_end: 263960
   sentence: たのんだら、
-  words:
-    - word: たのん
-      base: 頼む
-      position: 0
-    - word: だら
-      base: た
-      position: 3
 - id: Ichono Mi-f000073
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -2135,46 +574,6 @@
   sound_begin: 263960
   sound_end: 269327
   sentence: ぼくらふたりぐらいきっといっぺんに青ぞらまでつれていってくれるぜ。」
-  words:
-    - word: ぼく
-      base: 僕
-      position: 0
-    - word: ら
-      base: 等
-      position: 2
-    - word: ふたり
-      base: 二人
-      position: 3
-    - word: ぐらい
-      base: くらい
-      position: 6
-    - word: きっと
-      position: 9
-    - word: いっぺん
-      base: 一遍
-      position: 12
-    - word: に
-      position: 16
-    - word: 青ぞら
-      base: 青空
-      position: 17
-    - word: まで
-      position: 20
-    - word: つれ
-      base: つれる
-      position: 22
-    - word: て
-      position: 24
-    - word: いっ
-      base: 行く
-      position: 25
-    - word: て
-      position: 27
-    - word: くれる
-      base: 呉れる
-      position: 28
-    - word: ぜ
-      position: 31
 - id: Ichono Mi-f000074
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -2183,17 +582,6 @@
   sound_begin: 269327
   sound_end: 271640
   sentence: 「たのんでみようか。
-  words:
-    - word: たのん
-      base: 頼む
-      position: 1
-    - word: で
-      position: 4
-    - word: みよう
-      base: 見る
-      position: 5
-    - word: か
-      position: 8
 - id: Ichono Mi-f000075
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -2202,19 +590,6 @@
   sound_begin: 271640
   sound_end: 274760
   sentence: はやく来るといいな。」
-  words:
-    - word: はやく
-      base: 早い
-      position: 0
-    - word: 来る
-      position: 3
-    - word: と
-      position: 5
-    - word: いい
-      base: 良い
-      position: 6
-    - word: な
-      position: 8
 - id: Ichono Mi-f000076
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -2223,32 +598,6 @@
   sound_begin: 274760
   sound_end: 277480
   sentence: そのすこし下でもうふたりがいいました。
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: すこし
-      base: 少し
-      position: 2
-    - word: 下
-      position: 5
-    - word: で
-      position: 6
-    - word: もう
-      position: 7
-    - word: ふたり
-      base: 二人
-      position: 9
-    - word: が
-      position: 12
-    - word: いい
-      base: 言う
-      position: 13
-    - word: まし
-      base: ます
-      position: 15
-    - word: た
-      position: 17
 - id: Ichono Mi-f000077
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -2257,41 +606,6 @@
   sound_begin: 279680
   sound_end: 284221
   sentence: 「ぼくはいちばんはじめにあんずの王様のお城をたずねるよ。
-  words:
-    - word: ぼく
-      base: 僕
-      position: 1
-    - word: は
-      position: 3
-    - word: いちばん
-      base: 一番
-      position: 4
-    - word: はじめ
-      position: 8
-    - word: に
-      position: 11
-    - word: あんず
-      base: 杏子
-      position: 12
-    - word: の
-      position: 15
-    - word: 王
-      position: 16
-    - word: 様
-      position: 17
-    - word: の
-      position: 18
-    - word: お
-      base: 御
-      position: 19
-    - word: 城
-      position: 20
-    - word: を
-      position: 21
-    - word: たずねる
-      position: 22
-    - word: よ
-      position: 26
 - id: Ichono Mi-f000078
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -2300,44 +614,6 @@
   sound_begin: 284221
   sound_end: 288640
   sentence: そしておひめ様をさらっていったばけものを退治するんだ。
-  words:
-    - word: そして
-      position: 0
-    - word: お
-      base: 御
-      position: 3
-    - word: ひめ
-      base: 秘める
-      position: 4
-    - word: 様
-      position: 6
-    - word: を
-      position: 7
-    - word: さらっ
-      base: さらう
-      position: 8
-    - word: て
-      position: 11
-    - word: いっ
-      base: 行く
-      position: 12
-    - word: た
-      position: 14
-    - word: ばけもの
-      base: 化け物
-      position: 15
-    - word: を
-      position: 19
-    - word: 退治
-      position: 20
-    - word: する
-      base: 為る
-      position: 22
-    - word: ん
-      base: の
-      position: 24
-    - word: だ
-      position: 25
 - id: Ichono Mi-f000079
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -2346,27 +622,6 @@
   sound_begin: 288640
   sound_end: 292640
   sentence: そんなばけものがきっとどこかにあるね。」
-  words:
-    - word: そんな
-      position: 0
-    - word: ばけもの
-      base: 化け物
-      position: 3
-    - word: が
-      position: 7
-    - word: きっと
-      position: 8
-    - word: どこ
-      position: 11
-    - word: か
-      position: 13
-    - word: に
-      position: 14
-    - word: ある
-      base: 有る
-      position: 15
-    - word: ね
-      position: 17
 - id: Ichono Mi-f000080
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -2375,9 +630,6 @@
   sound_begin: 292640
   sound_end: 293469
   sentence: 「うん。
-  words:
-    - word: うん
-      position: 1
 - id: Ichono Mi-f000081
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -2386,13 +638,6 @@
   sound_begin: 293469
   sound_end: 295440
   sentence: あるだろう。
-  words:
-    - word: ある
-      base: 有る
-      position: 0
-    - word: だろう
-      base: だ
-      position: 2
 - id: Ichono Mi-f000082
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -2401,22 +646,6 @@
   sound_begin: 295440
   sound_end: 298640
   sentence: けれどもあぶないじゃないか。
-  words:
-    - word: けれど
-      position: 0
-    - word: も
-      position: 3
-    - word: あぶない
-      base: 危ない
-      position: 4
-    - word: じゃ
-      base: だ
-      position: 8
-    - word: ない
-      base: 無い
-      position: 10
-    - word: か
-      position: 12
 - id: Ichono Mi-f000083
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -2425,21 +654,6 @@
   sound_begin: 298640
   sound_end: 300560
   sentence: ばけものは大きいんだよ。
-  words:
-    - word: ばけもの
-      base: 化け物
-      position: 0
-    - word: は
-      position: 4
-    - word: 大きい
-      position: 5
-    - word: ん
-      base: の
-      position: 8
-    - word: だ
-      position: 9
-    - word: よ
-      position: 10
 - id: Ichono Mi-f000084
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -2448,15 +662,6 @@
   sound_begin: 300560
   sound_end: 301640
   sentence: ぼくたちなんか、
-  words:
-    - word: ぼく
-      base: 僕
-      position: 0
-    - word: たち
-      base: 達
-      position: 2
-    - word: なんか
-      position: 4
 - id: Ichono Mi-f000085
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -2465,24 +670,6 @@
   sound_begin: 301640
   sound_end: 304720
   sentence: 鼻でふきとばされちまうよ。」
-  words:
-    - word: 鼻
-      position: 0
-    - word: で
-      position: 1
-    - word: ふき
-      base: ふく
-      position: 2
-    - word: とばさ
-      base: 飛ばす
-      position: 4
-    - word: れ
-      base: れる
-      position: 7
-    - word: ちまう
-      position: 8
-    - word: よ
-      position: 11
 - id: Ichono Mi-f000086
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -2491,12 +678,6 @@
   sound_begin: 304720
   sound_end: 305840
   sentence: 「ぼくね、
-  words:
-    - word: ぼく
-      base: 僕
-      position: 1
-    - word: ね
-      position: 3
 - id: Ichono Mi-f000087
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -2505,28 +686,6 @@
   sound_begin: 305840
   sound_end: 307880
   sentence: いいもの持っているんだよ。
-  words:
-    - word: いい
-      base: 良い
-      position: 0
-    - word: もの
-      base: 物
-      position: 2
-    - word: 持っ
-      base: 持つ
-      position: 4
-    - word: て
-      position: 6
-    - word: いる
-      base: 居る
-      position: 7
-    - word: ん
-      base: の
-      position: 9
-    - word: だ
-      position: 10
-    - word: よ
-      position: 11
 - id: Ichono Mi-f000088
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -2535,16 +694,6 @@
   sound_begin: 307880
   sound_end: 309440
   sentence: だからだいじょうぶさ。
-  words:
-    - word: だ
-      position: 0
-    - word: から
-      position: 1
-    - word: だいじょうぶ
-      base: 大丈夫
-      position: 3
-    - word: さ
-      position: 9
 - id: Ichono Mi-f000089
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -2553,12 +702,6 @@
   sound_begin: 309440
   sound_end: 310848
   sentence: 見せようか。
-  words:
-    - word: 見せよう
-      base: 見せる
-      position: 0
-    - word: か
-      position: 4
 - id: Ichono Mi-f000090
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -2567,10 +710,6 @@
   sound_begin: 310848
   sound_end: 313877
   sentence: そら、
-  words:
-    - word: そら
-      base: 其れ
-      position: 0
 - id: Ichono Mi-f000091
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -2579,9 +718,6 @@
   sound_begin: 313877
   sound_end: 314611
   sentence: ね。」
-  words:
-    - word: ね
-      position: 0
 - id: Ichono Mi-f000092
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -2590,38 +726,6 @@
   sound_begin: 314611
   sound_end: 318000
   sentence: 「これおっかさんの髪でこさえた網じゃないの。」
-  words:
-    - word: これ
-      base: 此れ
-      position: 1
-    - word: おっ
-      base: 御
-      position: 3
-    - word: か
-      position: 5
-    - word: さん
-      position: 6
-    - word: の
-      position: 8
-    - word: 髪
-      position: 9
-    - word: で
-      position: 10
-    - word: こさえ
-      base: 拵える
-      position: 11
-    - word: た
-      position: 14
-    - word: 網
-      position: 15
-    - word: じゃ
-      base: だ
-      position: 16
-    - word: ない
-      base: 無い
-      position: 18
-    - word: の
-      position: 20
 - id: Ichono Mi-f000093
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -2630,13 +734,6 @@
   sound_begin: 318000
   sound_end: 319320
   sentence: 「そうだよ。
-  words:
-    - word: そう
-      position: 1
-    - word: だ
-      position: 3
-    - word: よ
-      position: 4
 - id: Ichono Mi-f000094
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -2645,27 +742,6 @@
   sound_begin: 319320
   sound_end: 321520
   sentence: おっかさんがくだすったんだよ。
-  words:
-    - word: おっ
-      base: 御
-      position: 0
-    - word: かさん
-      base: 嵩む
-      position: 2
-    - word: が
-      position: 5
-    - word: くだすっ
-      base: 下さる
-      position: 6
-    - word: た
-      position: 10
-    - word: ん
-      base: の
-      position: 11
-    - word: だ
-      position: 12
-    - word: よ
-      position: 13
 - id: Ichono Mi-f000095
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -2674,47 +750,6 @@
   sound_begin: 321520
   sound_end: 326960
   sentence: なにかおそろしいことのあったときはこのなかにかくれるんだって。
-  words:
-    - word: なに
-      base: 何
-      position: 0
-    - word: か
-      position: 2
-    - word: おそろしい
-      base: 恐ろしい
-      position: 3
-    - word: こと
-      position: 8
-    - word: の
-      position: 10
-    - word: あっ
-      base: 有る
-      position: 11
-    - word: た
-      position: 13
-    - word: とき
-      base: 時
-      position: 14
-    - word: は
-      position: 16
-    - word: この
-      base: 此の
-      position: 17
-    - word: なか
-      base: 中
-      position: 19
-    - word: に
-      position: 21
-    - word: かくれる
-      base: 隠れる
-      position: 22
-    - word: ん
-      base: の
-      position: 26
-    - word: だ
-      position: 27
-    - word: って
-      position: 28
 - id: Ichono Mi-f000096
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -2723,12 +758,6 @@
   sound_begin: 326960
   sound_end: 328016
   sentence: ぼくね、
-  words:
-    - word: ぼく
-      base: 僕
-      position: 0
-    - word: ね
-      position: 2
 - id: Ichono Mi-f000097
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -2737,36 +766,6 @@
   sound_begin: 328016
   sound_end: 332640
   sentence: この網をふところにいれてばけものに行ってね。
-  words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: 網
-      position: 2
-    - word: を
-      position: 3
-    - word: ふところ
-      base: 懐
-      position: 4
-    - word: に
-      position: 8
-    - word: いれ
-      base: 入れる
-      position: 9
-    - word: て
-      position: 11
-    - word: ばけもの
-      base: 化け物
-      position: 12
-    - word: に
-      position: 16
-    - word: 行っ
-      base: 行く
-      position: 17
-    - word: て
-      position: 19
-    - word: ね
-      position: 20
 - id: Ichono Mi-f000098
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -2775,9 +774,6 @@
   sound_begin: 332640
   sound_end: 333400
   sentence: もしもし。
-  words:
-    - word: もしもし
-      position: 0
 - id: Ichono Mi-f000099
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -2786,10 +782,6 @@
   sound_begin: 333400
   sound_end: 334896
   sentence: こんにちは、
-  words:
-    - word: こんにちは
-      base: 今日は
-      position: 0
 - id: Ichono Mi-f000100
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -2798,27 +790,6 @@
   sound_begin: 334896
   sound_end: 337886
   sentence: ぼくをのめますかのめないでしょう。
-  words:
-    - word: ぼく
-      base: 僕
-      position: 0
-    - word: を
-      position: 2
-    - word: のめ
-      base: 飲む
-      position: 3
-    - word: ます
-      position: 5
-    - word: か
-      position: 7
-    - word: のめ
-      base: 飲む
-      position: 8
-    - word: ない
-      position: 10
-    - word: でしょう
-      base: です
-      position: 12
 - id: Ichono Mi-f000101
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -2827,21 +798,6 @@
   sound_begin: 337886
   sound_end: 339960
   sentence: とこういうんだよ。
-  words:
-    - word: と
-      position: 0
-    - word: こう
-      position: 1
-    - word: いう
-      base: 言う
-      position: 3
-    - word: ん
-      base: の
-      position: 5
-    - word: だ
-      position: 6
-    - word: よ
-      position: 7
 - id: Ichono Mi-f000102
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -2850,26 +806,6 @@
   sound_begin: 339960
   sound_end: 342960
   sentence: ばけものはおこってすぐのむだろう。
-  words:
-    - word: ばけもの
-      base: 化け物
-      position: 0
-    - word: は
-      position: 4
-    - word: おこっ
-      base: おこる
-      position: 5
-    - word: て
-      position: 8
-    - word: すぐ
-      base: 直ぐ
-      position: 9
-    - word: のむ
-      base: 飲む
-      position: 11
-    - word: だろう
-      base: だ
-      position: 13
 - id: Ichono Mi-f000103
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -2878,49 +814,6 @@
   sound_begin: 342960
   sound_end: 347600
   sentence: ぼくはそのときばけものの胃ぶくろのなかでこの網をだしてね、
-  words:
-    - word: ぼく
-      base: 僕
-      position: 0
-    - word: は
-      position: 2
-    - word: その
-      base: 其の
-      position: 3
-    - word: とき
-      base: 時
-      position: 5
-    - word: ばけもの
-      base: 化け物
-      position: 7
-    - word: の
-      position: 11
-    - word: 胃
-      position: 12
-    - word: ぶくろ
-      base: 袋
-      position: 13
-    - word: の
-      position: 16
-    - word: なか
-      base: 中
-      position: 17
-    - word: で
-      position: 19
-    - word: この
-      base: 此の
-      position: 20
-    - word: 網
-      position: 22
-    - word: を
-      position: 23
-    - word: だし
-      base: 出す
-      position: 24
-    - word: て
-      position: 26
-    - word: ね
-      position: 27
 - id: Ichono Mi-f000104
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -2929,19 +822,6 @@
   sound_begin: 347600
   sound_end: 349840
   sentence: すっかりかぶっちまうんだ。
-  words:
-    - word: すっかり
-      position: 0
-    - word: かぶっ
-      base: 被る
-      position: 4
-    - word: ちまう
-      position: 7
-    - word: ん
-      base: の
-      position: 10
-    - word: だ
-      position: 11
 - id: Ichono Mi-f000105
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -2950,37 +830,6 @@
   sound_begin: 349840
   sound_end: 354000
   sentence: それからおなかじゅうをめっちゃめちゃにこわしちまうんだよ。
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: から
-      position: 2
-    - word: おなか
-      base: 御腹
-      position: 4
-    - word: じゅう
-      base: 中
-      position: 7
-    - word: を
-      position: 10
-    - word: めっちゃめちゃ
-      base: 目茶目茶
-      position: 11
-    - word: に
-      position: 18
-    - word: こわし
-      base: 壊す
-      position: 19
-    - word: ちまう
-      position: 22
-    - word: ん
-      base: の
-      position: 25
-    - word: だ
-      position: 26
-    - word: よ
-      position: 27
 - id: Ichono Mi-f000106
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -2989,10 +838,6 @@
   sound_begin: 354000
   sound_end: 354720
   sentence: そら、
-  words:
-    - word: そら
-      base: 其れ
-      position: 0
 - id: Ichono Mi-f000107
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3001,27 +846,6 @@
   sound_begin: 354720
   sound_end: 357472
   sentence: ばけものはチブスになって死ぬだろう。
-  words:
-    - word: ばけもの
-      base: 化け物
-      position: 0
-    - word: は
-      position: 4
-    - word: チブス
-      base: チフス
-      position: 5
-    - word: に
-      position: 8
-    - word: なっ
-      base: 成る
-      position: 9
-    - word: て
-      position: 11
-    - word: 死ぬ
-      position: 12
-    - word: だろう
-      base: だ
-      position: 14
 - id: Ichono Mi-f000108
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3030,61 +854,6 @@
   sound_begin: 357472
   sound_end: 362985
   sentence: そこでぼくはでてきてあんずのおひめ様をつれてお城に帰るんだ。
-  words:
-    - word: そこ
-      base: 其処
-      position: 0
-    - word: で
-      position: 2
-    - word: ぼく
-      base: 僕
-      position: 3
-    - word: は
-      position: 5
-    - word: で
-      base: 出る
-      position: 6
-    - word: て
-      position: 7
-    - word: き
-      base: 来る
-      position: 8
-    - word: て
-      position: 9
-    - word: あんず
-      base: 杏子
-      position: 10
-    - word: の
-      position: 13
-    - word: お
-      base: 御
-      position: 14
-    - word: ひめ
-      base: 秘める
-      position: 15
-    - word: 様
-      position: 17
-    - word: を
-      position: 18
-    - word: つれ
-      base: つれる
-      position: 19
-    - word: て
-      position: 21
-    - word: お
-      base: 御
-      position: 22
-    - word: 城
-      position: 23
-    - word: に
-      position: 24
-    - word: 帰る
-      position: 25
-    - word: ん
-      base: の
-      position: 27
-    - word: だ
-      position: 28
 - id: Ichono Mi-f000109
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3093,29 +862,6 @@
   sound_begin: 362985
   sound_end: 366920
   sentence: そしておひめ様をもらうんだよ。」
-  words:
-    - word: そして
-      position: 0
-    - word: お
-      base: 御
-      position: 3
-    - word: ひめ
-      base: 秘める
-      position: 4
-    - word: 様
-      position: 6
-    - word: を
-      position: 7
-    - word: もらう
-      base: 貰う
-      position: 8
-    - word: ん
-      base: の
-      position: 11
-    - word: だ
-      position: 12
-    - word: よ
-      position: 13
 - id: Ichono Mi-f000110
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3124,17 +870,6 @@
   sound_begin: 366920
   sound_end: 368920
   sentence: 「ほんとうにいいね。
-  words:
-    - word: ほんとう
-      base: 本当
-      position: 1
-    - word: に
-      position: 5
-    - word: いい
-      base: 良い
-      position: 6
-    - word: ね
-      position: 8
 - id: Ichono Mi-f000111
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3143,51 +878,6 @@
   sound_begin: 368920
   sound_end: 374480
   sentence: そんならそのときぼくはお客様になっていってもいいだろう。」
-  words:
-    - word: そん
-      base: 其れ
-      position: 0
-    - word: なら
-      base: だ
-      position: 2
-    - word: その
-      base: 其の
-      position: 4
-    - word: とき
-      base: 時
-      position: 6
-    - word: ぼく
-      base: 僕
-      position: 8
-    - word: は
-      position: 10
-    - word: お
-      base: 御
-      position: 11
-    - word: 客
-      position: 12
-    - word: 様
-      position: 13
-    - word: に
-      position: 14
-    - word: なっ
-      base: 成る
-      position: 15
-    - word: て
-      position: 17
-    - word: いっ
-      base: 行く
-      position: 18
-    - word: て
-      position: 20
-    - word: も
-      position: 21
-    - word: いい
-      base: 良い
-      position: 22
-    - word: だろう
-      base: だ
-      position: 24
 - id: Ichono Mi-f000112
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3196,14 +886,6 @@
   sound_begin: 374480
   sound_end: 376000
   sentence: 「いいともさ。
-  words:
-    - word: いい
-      base: 良い
-      position: 1
-    - word: とも
-      position: 3
-    - word: さ
-      position: 5
 - id: Ichono Mi-f000113
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3212,10 +894,6 @@
   sound_begin: 376000
   sound_end: 376480
   sentence: ぼく、
-  words:
-    - word: ぼく
-      base: 僕
-      position: 0
 - id: Ichono Mi-f000114
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3224,21 +902,6 @@
   sound_begin: 376480
   sound_end: 379202
   sentence: 国を半分わけてあげるよ。
-  words:
-    - word: 国
-      position: 0
-    - word: を
-      position: 1
-    - word: 半分
-      position: 2
-    - word: わけて
-      base: 別けて
-      position: 4
-    - word: あげる
-      base: 上げる
-      position: 7
-    - word: よ
-      position: 10
 - id: Ichono Mi-f000115
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3247,43 +910,6 @@
   sound_begin: 379202
   sound_end: 385720
   sentence: それからおっかさんへは毎日おかしやなんかたくさんあげるんだ。」
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: から
-      position: 2
-    - word: おっ
-      base: 伯父
-      position: 4
-    - word: か
-      position: 6
-    - word: さん
-      position: 7
-    - word: へ
-      position: 9
-    - word: は
-      position: 10
-    - word: 毎日
-      position: 11
-    - word: おかし
-      base: 可笑しい
-      position: 13
-    - word: や
-      position: 16
-    - word: なんか
-      position: 17
-    - word: たくさん
-      base: 沢山
-      position: 20
-    - word: あげる
-      base: 上げる
-      position: 24
-    - word: ん
-      base: の
-      position: 27
-    - word: だ
-      position: 28
 - id: Ichono Mi-f000116
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3292,21 +918,6 @@
   sound_begin: 385720
   sound_end: 388320
   sentence: 星がすっかりきえました。
-  words:
-    - word: 星
-      position: 0
-    - word: が
-      position: 1
-    - word: すっかり
-      position: 2
-    - word: きえ
-      base: 消える
-      position: 6
-    - word: まし
-      base: ます
-      position: 8
-    - word: た
-      position: 10
 - id: Ichono Mi-f000117
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3315,31 +926,6 @@
   sound_begin: 388320
   sound_end: 391718
   sentence: 東の空は白くもえているようです。
-  words:
-    - word: 東
-      position: 0
-    - word: の
-      position: 1
-    - word: 空
-      position: 2
-    - word: は
-      position: 3
-    - word: 白く
-      base: 白い
-      position: 4
-    - word: もえ
-      base: もえる
-      position: 6
-    - word: て
-      position: 8
-    - word: いる
-      base: 居る
-      position: 9
-    - word: よう
-      base: 様
-      position: 11
-    - word: です
-      position: 13
 - id: Ichono Mi-f000118
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3348,27 +934,6 @@
   sound_begin: 391718
   sound_end: 394320
   sentence: 木がにわかにざわざわしました。
-  words:
-    - word: 木
-      position: 0
-    - word: が
-      position: 1
-    - word: にわか
-      base: 俄か
-      position: 2
-    - word: に
-      base: だ
-      position: 5
-    - word: ざわざわ
-      position: 6
-    - word: し
-      base: 為る
-      position: 10
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
 - id: Ichono Mi-f000119
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3377,24 +942,6 @@
   sound_begin: 394320
   sound_end: 396365
   sentence: もう出発に間もないのです。
-  words:
-    - word: もう
-      position: 0
-    - word: 出発
-      position: 2
-    - word: に
-      position: 4
-    - word: 間
-      position: 5
-    - word: も
-      position: 6
-    - word: ない
-      base: 無い
-      position: 7
-    - word: の
-      position: 9
-    - word: です
-      position: 10
 - id: Ichono Mi-f000120
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3403,10 +950,6 @@
   sound_begin: 398280
   sound_end: 398560
   sentence: 「ぼく、
-  words:
-    - word: ぼく
-      base: 僕
-      position: 1
 - id: Ichono Mi-f000121
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3415,16 +958,6 @@
   sound_begin: 398560
   sound_end: 399840
   sentence: くつが小さいや。
-  words:
-    - word: くつ
-      base: 靴
-      position: 0
-    - word: が
-      position: 2
-    - word: 小さい
-      position: 3
-    - word: や
-      position: 6
 - id: Ichono Mi-f000122
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3433,13 +966,6 @@
   sound_begin: 399840
   sound_end: 400640
   sentence: めんどうくさい。
-  words:
-    - word: めんどう
-      base: 面倒
-      position: 0
-    - word: くさい
-      base: 臭い
-      position: 4
 - id: Ichono Mi-f000123
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3448,15 +974,6 @@
   sound_begin: 400640
   sound_end: 402160
   sentence: はだしでいこう。」
-  words:
-    - word: はだし
-      base: 裸足
-      position: 0
-    - word: で
-      position: 3
-    - word: いこう
-      base: 行く
-      position: 4
 - id: Ichono Mi-f000124
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3465,28 +982,6 @@
   sound_begin: 402160
   sound_end: 403901
   sentence: 「そんならぼくのとかえよう。
-  words:
-    - word: そん
-      base: 其れ
-      position: 1
-    - word: なら
-      base: だ
-      position: 3
-    - word: ぼく
-      base: 僕
-      position: 5
-    - word: の
-      position: 7
-    - word: と
-      position: 8
-    - word: か
-      position: 9
-    - word: え
-      base: えー
-      position: 10
-    - word: よう
-      base: 良く
-      position: 11
 - id: Ichono Mi-f000125
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3495,26 +990,6 @@
   sound_begin: 403901
   sound_end: 406413
   sentence: ぼくのはすこし大きいんだよ。」
-  words:
-    - word: ぼく
-      base: 僕
-      position: 0
-    - word: の
-      position: 2
-    - word: は
-      position: 3
-    - word: すこし
-      base: 少し
-      position: 4
-    - word: 大きい
-      position: 7
-    - word: ん
-      base: の
-      position: 10
-    - word: だ
-      position: 11
-    - word: よ
-      position: 12
 - id: Ichono Mi-f000126
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3523,10 +998,6 @@
   sound_begin: 406413
   sound_end: 407520
   sentence: 「かえよう。
-  words:
-    - word: かえよう
-      base: かえる
-      position: 1
 - id: Ichono Mi-f000127
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3535,10 +1006,6 @@
   sound_begin: 407520
   sound_end: 407895
   sentence: あ、
-  words:
-    - word: あ
-      base: あっ
-      position: 0
 - id: Ichono Mi-f000128
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3547,15 +1014,6 @@
   sound_begin: 407895
   sound_end: 409040
   sentence: ちょうどいいぜ。
-  words:
-    - word: ちょうど
-      base: 丁度
-      position: 0
-    - word: いい
-      base: 良い
-      position: 4
-    - word: ぜ
-      position: 6
 - id: Ichono Mi-f000129
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3564,10 +1022,6 @@
   sound_begin: 409040
   sound_end: 409740
   sentence: ありがとう。」
-  words:
-    - word: ありがとう
-      base: 有り難う
-      position: 0
 - id: Ichono Mi-f000130
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3576,20 +1030,6 @@
   sound_begin: 411840
   sound_end: 414205
   sentence: 「わたしこまってしまうわ、
-  words:
-    - word: わたし
-      base: 私
-      position: 1
-    - word: こまっ
-      base: 困る
-      position: 4
-    - word: て
-      position: 7
-    - word: しまう
-      base: 仕舞う
-      position: 8
-    - word: わ
-      position: 11
 - id: Ichono Mi-f000131
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3598,38 +1038,6 @@
   sound_begin: 414205
   sound_end: 418640
   sentence: おっかさんにもらった新しい外套が見えないんですもの。」
-  words:
-    - word: おっ
-      base: 御
-      position: 0
-    - word: かさん
-      base: 嵩む
-      position: 2
-    - word: に
-      position: 5
-    - word: もらっ
-      base: 貰う
-      position: 6
-    - word: た
-      position: 9
-    - word: 新しい
-      position: 10
-    - word: 外套
-      position: 13
-    - word: が
-      position: 15
-    - word: 見え
-      base: 見える
-      position: 16
-    - word: ない
-      position: 18
-    - word: ん
-      base: の
-      position: 20
-    - word: です
-      position: 21
-    - word: もの
-      position: 23
 - id: Ichono Mi-f000132
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3638,21 +1046,6 @@
   sound_begin: 418640
   sound_end: 420930
   sentence: 「はやくおさがしなさいよ。
-  words:
-    - word: はやく
-      base: 早い
-      position: 1
-    - word: お
-      base: 御
-      position: 4
-    - word: さがし
-      base: 探す
-      position: 5
-    - word: なさい
-      base: 為す
-      position: 8
-    - word: よ
-      position: 11
 - id: Ichono Mi-f000133
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3661,21 +1054,6 @@
   sound_begin: 420930
   sound_end: 423720
   sentence: どのえだにおいたの。」
-  words:
-    - word: どの
-      position: 0
-    - word: えだ
-      base: 枝
-      position: 2
-    - word: に
-      position: 4
-    - word: おい
-      base: おく
-      position: 5
-    - word: た
-      position: 7
-    - word: の
-      position: 8
 - id: Ichono Mi-f000134
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3684,19 +1062,6 @@
   sound_begin: 423720
   sound_end: 424840
   sentence: 「わすれてしまったわ。」
-  words:
-    - word: わすれ
-      base: 忘れる
-      position: 1
-    - word: て
-      position: 4
-    - word: しまっ
-      base: 仕舞う
-      position: 5
-    - word: た
-      position: 8
-    - word: わ
-      position: 9
 - id: Ichono Mi-f000135
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3705,16 +1070,6 @@
   sound_begin: 426540
   sound_end: 428277
   sentence: 「こまったわね。
-  words:
-    - word: こまっ
-      base: 困る
-      position: 1
-    - word: た
-      position: 4
-    - word: わ
-      position: 5
-    - word: ね
-      position: 6
 - id: Ichono Mi-f000136
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3723,26 +1078,6 @@
   sound_begin: 428277
   sound_end: 430760
   sentence: これからひじょうに寒いんでしょう。
-  words:
-    - word: これ
-      base: 此れ
-      position: 0
-    - word: から
-      position: 2
-    - word: ひじょう
-      base: 非常
-      position: 4
-    - word: に
-      base: だ
-      position: 8
-    - word: 寒い
-      position: 9
-    - word: ん
-      base: の
-      position: 11
-    - word: でしょう
-      base: です
-      position: 12
 - id: Ichono Mi-f000137
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3751,33 +1086,6 @@
   sound_begin: 430760
   sound_end: 434800
   sentence: どうしても見つけないといけなくってよ。」
-  words:
-    - word: どう
-      position: 0
-    - word: し
-      base: 為る
-      position: 2
-    - word: て
-      position: 3
-    - word: も
-      position: 4
-    - word: 見つけ
-      base: 見付ける
-      position: 5
-    - word: ない
-      position: 8
-    - word: と
-      position: 10
-    - word: いけ
-      base: 行く
-      position: 11
-    - word: なくっ
-      base: ない
-      position: 13
-    - word: て
-      position: 16
-    - word: よ
-      position: 17
 - id: Ichono Mi-f000138
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3786,9 +1094,6 @@
   sound_begin: 434800
   sound_end: 435600
   sentence: 「そら、
-  words:
-    - word: そら
-      position: 1
 - id: Ichono Mi-f000139
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3797,9 +1102,6 @@
   sound_begin: 435600
   sound_end: 436391
   sentence: ね。
-  words:
-    - word: ね
-      position: 0
 - id: Ichono Mi-f000140
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3808,15 +1110,6 @@
   sound_begin: 436391
   sound_end: 437581
   sentence: いいぱんだろう。
-  words:
-    - word: いい
-      base: 良い
-      position: 0
-    - word: ぱん
-      position: 2
-    - word: だろう
-      base: だ
-      position: 4
 - id: Ichono Mi-f000141
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3825,30 +1118,6 @@
   sound_begin: 437581
   sound_end: 440648
   sentence: ほしぶどうがちょっと顔をだしてるだろう。
-  words:
-    - word: ほし
-      base: 星
-      position: 0
-    - word: ぶどう
-      base: 葡萄
-      position: 2
-    - word: が
-      position: 5
-    - word: ちょっと
-      base: 一寸
-      position: 6
-    - word: 顔
-      position: 10
-    - word: を
-      position: 11
-    - word: だし
-      base: 出す
-      position: 12
-    - word: てる
-      position: 14
-    - word: だろう
-      base: だ
-      position: 16
 - id: Ichono Mi-f000142
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3857,23 +1126,6 @@
   sound_begin: 440648
   sound_end: 442840
   sentence: はやくかばんへ入れたまえ。
-  words:
-    - word: はやく
-      base: 早い
-      position: 0
-    - word: かばん
-      base: 鞄
-      position: 3
-    - word: へ
-      position: 6
-    - word: 入れ
-      base: 入れる
-      position: 7
-    - word: た
-      position: 9
-    - word: まえ
-      base: 前
-      position: 10
 - id: Ichono Mi-f000143
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3882,35 +1134,6 @@
   sound_begin: 442840
   sound_end: 446120
   sentence: もうお日さまがおでましになるよ。」
-  words:
-    - word: もう
-      position: 0
-    - word: お
-      base: 御
-      position: 2
-    - word: 日
-      position: 3
-    - word: さま
-      base: 様
-      position: 4
-    - word: が
-      position: 6
-    - word: お
-      base: 御
-      position: 7
-    - word: で
-      base: 出る
-      position: 8
-    - word: まし
-      base: ます
-      position: 9
-    - word: に
-      position: 11
-    - word: なる
-      base: 成る
-      position: 12
-    - word: よ
-      position: 14
 - id: Ichono Mi-f000144
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3919,10 +1142,6 @@
   sound_begin: 446120
   sound_end: 446680
   sentence: 「ありがとう。
-  words:
-    - word: ありがとう
-      base: 有り難う
-      position: 1
 - id: Ichono Mi-f000145
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3931,15 +1150,6 @@
   sound_begin: 446680
   sound_end: 448400
   sentence: じゃもらうよ。
-  words:
-    - word: じゃ
-      base: で
-      position: 0
-    - word: もらう
-      base: 貰う
-      position: 2
-    - word: よ
-      position: 5
 - id: Ichono Mi-f000146
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3948,10 +1158,6 @@
   sound_begin: 448400
   sound_end: 449640
   sentence: ありがとう。
-  words:
-    - word: ありがとう
-      base: 有り難う
-      position: 0
 - id: Ichono Mi-f000147
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3960,17 +1166,6 @@
   sound_begin: 449640
   sound_end: 450480
   sentence: いっしょにいこうね。」
-  words:
-    - word: いっしょ
-      base: 一緒
-      position: 0
-    - word: に
-      position: 4
-    - word: いこう
-      base: 行く
-      position: 5
-    - word: ね
-      position: 8
 - id: Ichono Mi-f000148
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3979,14 +1174,6 @@
   sound_begin: 452280
   sound_end: 453976
   sentence: 「こまったわ、
-  words:
-    - word: こまっ
-      base: 困る
-      position: 1
-    - word: た
-      position: 4
-    - word: わ
-      position: 5
 - id: Ichono Mi-f000149
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -3995,10 +1182,6 @@
   sound_begin: 453976
   sound_end: 455440
   sentence: わたし、
-  words:
-    - word: わたし
-      base: 私
-      position: 0
 - id: Ichono Mi-f000150
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -4007,21 +1190,6 @@
   sound_begin: 455440
   sound_end: 457240
   sentence: どうしてもないわ。
-  words:
-    - word: どう
-      position: 0
-    - word: し
-      base: 為る
-      position: 2
-    - word: て
-      position: 3
-    - word: も
-      position: 4
-    - word: ない
-      base: 無い
-      position: 5
-    - word: わ
-      position: 7
 - id: Ichono Mi-f000151
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -4030,23 +1198,6 @@
   sound_begin: 457240
   sound_end: 460240
   sentence: ほんとうにわたしどうしましょう。」
-  words:
-    - word: ほんとう
-      base: 本当
-      position: 0
-    - word: に
-      position: 4
-    - word: わたし
-      base: 私
-      position: 5
-    - word: どう
-      position: 8
-    - word: し
-      base: 為る
-      position: 10
-    - word: ましょう
-      base: ます
-      position: 11
 - id: Ichono Mi-f000152
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -4055,25 +1206,6 @@
   sound_begin: 460240
   sound_end: 462680
   sentence: 「わたしとふたりでいきましょうよ。
-  words:
-    - word: わたし
-      base: 私
-      position: 1
-    - word: と
-      position: 4
-    - word: ふたり
-      base: 二人
-      position: 5
-    - word: で
-      position: 8
-    - word: いき
-      base: 行く
-      position: 9
-    - word: ましょう
-      base: ます
-      position: 11
-    - word: よ
-      position: 15
 - id: Ichono Mi-f000153
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -4082,29 +1214,6 @@
   sound_begin: 462680
   sound_end: 465747
   sentence: わたしのをときどきかしてあげるわ。
-  words:
-    - word: わたし
-      base: 私
-      position: 0
-    - word: の
-      position: 3
-    - word: を
-      position: 4
-    - word: ときどき
-      base: 時々
-      position: 5
-    - word: か
-      position: 9
-    - word: し
-      base: 為る
-      position: 10
-    - word: て
-      position: 11
-    - word: あげる
-      base: 上げる
-      position: 12
-    - word: わ
-      position: 15
 - id: Ichono Mi-f000154
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -4113,26 +1222,6 @@
   sound_begin: 465747
   sound_end: 469480
   sentence: こごえたらいっしょに死にましょうよ。」
-  words:
-    - word: こごえ
-      base: 凍える
-      position: 0
-    - word: たら
-      base: た
-      position: 3
-    - word: いっしょ
-      base: 一緒
-      position: 5
-    - word: に
-      position: 9
-    - word: 死に
-      base: 死ぬ
-      position: 10
-    - word: ましょう
-      base: ます
-      position: 12
-    - word: よ
-      position: 16
 - id: Ichono Mi-f000155
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -4141,21 +1230,6 @@
   sound_begin: 472280
   sound_end: 474520
   sentence: 東の空が白くもえ、
-  words:
-    - word: 東
-      position: 0
-    - word: の
-      position: 1
-    - word: 空
-      position: 2
-    - word: が
-      position: 3
-    - word: 白く
-      base: 白い
-      position: 4
-    - word: もえ
-      base: もえる
-      position: 6
 - id: Ichono Mi-f000156
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -4164,26 +1238,6 @@
   sound_begin: 474520
   sound_end: 478000
   sentence: ユラリユラリとゆれはじめました。
-  words:
-    - word: ユラリ
-      base: ゆらり
-      position: 0
-    - word: ユラリ
-      base: ゆらり
-      position: 3
-    - word: と
-      position: 6
-    - word: ゆれ
-      base: 揺れる
-      position: 7
-    - word: はじめ
-      base: 始める
-      position: 9
-    - word: まし
-      base: ます
-      position: 12
-    - word: た
-      position: 14
 - id: Ichono Mi-f000157
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -4192,49 +1246,6 @@
   sound_begin: 478000
   sound_end: 481560
   sentence: おっかさんの木はまるで死んだようになってじっと立っています。
-  words:
-    - word: おっ
-      position: 0
-    - word: かさん
-      position: 2
-    - word: の
-      position: 5
-    - word: 木
-      position: 6
-    - word: は
-      position: 7
-    - word: まるで
-      base: 丸で
-      position: 8
-    - word: 死ん
-      base: 死ぬ
-      position: 11
-    - word: だ
-      base: た
-      position: 13
-    - word: よう
-      base: 様
-      position: 14
-    - word: に
-      base: だ
-      position: 16
-    - word: なっ
-      base: 成る
-      position: 17
-    - word: て
-      position: 19
-    - word: じっと
-      position: 20
-    - word: 立っ
-      base: 立つ
-      position: 23
-    - word: て
-      position: 25
-    - word: い
-      base: 居る
-      position: 26
-    - word: ます
-      position: 27
 - id: Ichono Mi-f000158
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -4243,50 +1254,6 @@
   sound_begin: 483660
   sound_end: 488378
   sentence: とつぜん光のたばが黄金の矢のように一度にとんできました。
-  words:
-    - word: とつぜん
-      base: 突然
-      position: 0
-    - word: 光
-      position: 4
-    - word: の
-      position: 5
-    - word: たば
-      base: 束
-      position: 6
-    - word: が
-      position: 8
-    - word: 黄金
-      position: 9
-    - word: の
-      position: 11
-    - word: 矢
-      position: 12
-    - word: の
-      position: 13
-    - word: よう
-      base: 様
-      position: 14
-    - word: に
-      base: だ
-      position: 16
-    - word: 一度
-      position: 17
-    - word: に
-      position: 19
-    - word: とん
-      base: 飛ぶ
-      position: 20
-    - word: で
-      position: 22
-    - word: き
-      base: 来る
-      position: 23
-    - word: まし
-      base: ます
-      position: 24
-    - word: た
-      position: 26
 - id: Ichono Mi-f000159
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -4295,34 +1262,6 @@
   sound_begin: 488378
   sound_end: 492380
   sentence: 子どもらはまるでとびあがるくらいかがやきました。
-  words:
-    - word: 子ども
-      base: 子供
-      position: 0
-    - word: ら
-      base: 等
-      position: 3
-    - word: は
-      position: 4
-    - word: まるで
-      base: 丸で
-      position: 5
-    - word: とび
-      base: 飛ぶ
-      position: 8
-    - word: あがる
-      base: 上がる
-      position: 10
-    - word: くらい
-      position: 13
-    - word: かがやき
-      base: 輝く
-      position: 16
-    - word: まし
-      base: ます
-      position: 20
-    - word: た
-      position: 22
 - id: Ichono Mi-f000160
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -4331,54 +1270,6 @@
   sound_begin: 492380
   sound_end: 498060
   sentence: 北から氷のようにつめたいすきとおった風がゴーッとふいてきました。
-  words:
-    - word: 北
-      position: 0
-    - word: から
-      position: 1
-    - word: 氷
-      position: 3
-    - word: の
-      position: 4
-    - word: よう
-      base: 様
-      position: 5
-    - word: に
-      base: だ
-      position: 7
-    - word: つめたい
-      base: 冷たい
-      position: 8
-    - word: すき
-      base: すく
-      position: 12
-    - word: とおっ
-      base: 通る
-      position: 14
-    - word: た
-      position: 17
-    - word: 風
-      position: 18
-    - word: が
-      position: 19
-    - word: ゴーッ
-      base: ごう
-      position: 20
-    - word: と
-      position: 23
-    - word: ふい
-      base: ふく
-      position: 24
-    - word: て
-      position: 26
-    - word: き
-      base: 来る
-      position: 27
-    - word: まし
-      base: ます
-      position: 28
-    - word: た
-      position: 30
 - id: Ichono Mi-f000161
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -4387,10 +1278,6 @@
   sound_begin: 500160
   sound_end: 501160
   sentence: 「さよなら、
-  words:
-    - word: さよなら
-      base: さようなら
-      position: 1
 - id: Ichono Mi-f000162
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -4399,11 +1286,6 @@
   sound_begin: 501160
   sound_end: 502600
   sentence: おっかさん。
-  words:
-    - word: おっ
-      position: 0
-    - word: かさん
-      position: 2
 - id: Ichono Mi-f000163
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -4412,10 +1294,6 @@
   sound_begin: 502600
   sound_end: 503973
   sentence: 」「さよなら、
-  words:
-    - word: さよなら
-      base: さようなら
-      position: 2
 - id: Ichono Mi-f000164
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -4424,11 +1302,6 @@
   sound_begin: 503973
   sound_end: 506196
   sentence: おっかさん。
-  words:
-    - word: おっ
-      position: 0
-    - word: かさん
-      position: 2
 - id: Ichono Mi-f000165
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -4437,50 +1310,6 @@
   sound_begin: 506196
   sound_end: 510109
   sentence: 」子どもらはみんな一度に雨のようにえだからとびおりました。
-  words:
-    - word: 子ども
-      base: 子供
-      position: 1
-    - word: ら
-      base: 等
-      position: 4
-    - word: は
-      position: 5
-    - word: みんな
-      base: 皆
-      position: 6
-    - word: 一度
-      position: 9
-    - word: に
-      position: 11
-    - word: 雨
-      position: 12
-    - word: の
-      position: 13
-    - word: よう
-      base: 様
-      position: 14
-    - word: に
-      base: だ
-      position: 16
-    - word: え
-      base: えー
-      position: 17
-    - word: だ
-      position: 18
-    - word: から
-      position: 19
-    - word: とび
-      base: 飛ぶ
-      position: 21
-    - word: おり
-      base: 下りる
-      position: 23
-    - word: まし
-      base: ます
-      position: 25
-    - word: た
-      position: 27
 - id: Ichono Mi-f000166
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -4489,16 +1318,6 @@
   sound_begin: 512080
   sound_end: 514244
   sentence: 北風がわらって、
-  words:
-    - word: 北風
-      position: 0
-    - word: が
-      position: 2
-    - word: わらっ
-      base: 笑う
-      position: 3
-    - word: て
-      position: 6
 - id: Ichono Mi-f000167
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -4507,36 +1326,6 @@
   sound_begin: 514244
   sound_end: 519990
   sentence: 「ことしもこれでまずさよならさよならっていうわけだ。
-  words:
-    - word: ことし
-      base: 今年
-      position: 1
-    - word: も
-      position: 4
-    - word: これ
-      base: 此れ
-      position: 5
-    - word: で
-      position: 7
-    - word: まず
-      base: 先ず
-      position: 8
-    - word: さよなら
-      base: さようなら
-      position: 10
-    - word: さよなら
-      base: さようなら
-      position: 14
-    - word: って
-      position: 18
-    - word: いう
-      base: 言う
-      position: 20
-    - word: わけ
-      base: 訳
-      position: 22
-    - word: だ
-      position: 24
 - id: Ichono Mi-f000168
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -4545,48 +1334,6 @@
   sound_begin: 519990
   sound_end: 529694
   sentence: 」といいながらつめたいガラスのマントをひらめかしてむこうへいってしまいました。
-  words:
-    - word: と
-      position: 1
-    - word: いい
-      base: 言う
-      position: 2
-    - word: ながら
-      position: 4
-    - word: つめたい
-      base: 冷たい
-      position: 7
-    - word: ガラス
-      position: 11
-    - word: の
-      position: 14
-    - word: マント
-      position: 15
-    - word: を
-      position: 18
-    - word: ひらめかし
-      base: 閃かす
-      position: 19
-    - word: て
-      position: 24
-    - word: むこう
-      base: 向こう
-      position: 25
-    - word: へ
-      position: 28
-    - word: いっ
-      base: 行く
-      position: 29
-    - word: て
-      position: 31
-    - word: しまい
-      base: 仕舞う
-      position: 32
-    - word: まし
-      base: ます
-      position: 35
-    - word: た
-      position: 37
 - id: Ichono Mi-f000169
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -4595,39 +1342,6 @@
   sound_begin: 529694
   sound_end: 534418
   sentence: お日様はもえる宝石のように東の空にかかり、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 日
-      position: 1
-    - word: 様
-      position: 2
-    - word: は
-      position: 3
-    - word: もえる
-      position: 4
-    - word: 宝石
-      position: 7
-    - word: の
-      position: 9
-    - word: よう
-      base: 様
-      position: 10
-    - word: に
-      base: だ
-      position: 12
-    - word: 東
-      position: 13
-    - word: の
-      position: 14
-    - word: 空
-      position: 15
-    - word: に
-      position: 16
-    - word: かかり
-      base: 掛かる
-      position: 17
 - id: Ichono Mi-f000170
   author_japanese: 宮沢 賢治
   deck_name: Ichono Mi
@@ -4636,68 +1350,3 @@
   sound_begin: 534418
   sound_end: 544280
   sentence: あらんかぎりのかがやきを悲しむ母親の木と旅にでた子どもらとに投げておやりなさいました。
-  words:
-    - word: あら
-      base: 有る
-      position: 0
-    - word: ん
-      base: ず
-      position: 2
-    - word: かぎり
-      base: 限り
-      position: 3
-    - word: の
-      position: 6
-    - word: かがやき
-      base: 輝き
-      position: 7
-    - word: を
-      position: 11
-    - word: 悲しむ
-      position: 12
-    - word: 母親
-      position: 15
-    - word: の
-      position: 17
-    - word: 木
-      position: 18
-    - word: と
-      position: 19
-    - word: 旅
-      position: 20
-    - word: に
-      position: 21
-    - word: で
-      base: 出る
-      position: 22
-    - word: た
-      position: 23
-    - word: 子ども
-      base: 子供
-      position: 24
-    - word: ら
-      base: 等
-      position: 27
-    - word: と
-      position: 28
-    - word: に
-      position: 29
-    - word: 投げ
-      base: 投げる
-      position: 30
-    - word: て
-      position: 32
-    - word: お
-      base: 御
-      position: 33
-    - word: やり
-      base: 遣る
-      position: 34
-    - word: なさい
-      base: 為す
-      position: 36
-    - word: まし
-      base: ます
-      position: 39
-    - word: た
-      position: 41

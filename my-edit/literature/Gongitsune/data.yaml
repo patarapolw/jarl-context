@@ -6,11 +6,6 @@
   sound_begin: 6917
   sound_end: 10195
   sentence: ごん狐
-  words:
-    - word: ごん
-      position: 0
-    - word: 狐
-      position: 2
 - id: Gongitsune-f000004
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -19,12 +14,6 @@
   sound_begin: 11067
   sound_end: 12796
   sentence: これは、
-  words:
-    - word: これ
-      base: 此れ
-      position: 0
-    - word: は
-      position: 2
 - id: Gongitsune-f000005
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -33,18 +22,6 @@
   sound_begin: 12796
   sound_end: 14360
   sentence: 私が小さいときに、
-  words:
-    - word: 私
-      position: 0
-    - word: が
-      position: 1
-    - word: 小さい
-      position: 2
-    - word: とき
-      base: 時
-      position: 5
-    - word: に
-      position: 7
 - id: Gongitsune-f000006
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -53,40 +30,6 @@
   sound_begin: 14360
   sound_end: 20200
   sentence: 村の茂平というおじいさんからきいたお話です。
-  words:
-    - word: 村
-      position: 0
-    - word: の
-      position: 1
-    - word: 茂平
-      position: 2
-    - word: と
-      position: 4
-    - word: いう
-      base: 言う
-      position: 5
-    - word: お
-      base: 御
-      position: 7
-    - word: じい
-      base: 爺
-      position: 8
-    - word: さん
-      position: 10
-    - word: から
-      position: 12
-    - word: きい
-      base: きく
-      position: 14
-    - word: た
-      position: 16
-    - word: お
-      base: 御
-      position: 17
-    - word: 話
-      position: 18
-    - word: です
-      position: 19
 - id: Gongitsune-f000007
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -95,12 +38,6 @@
   sound_begin: 20200
   sound_end: 21160
   sentence: むかしは、
-  words:
-    - word: むかし
-      base: 昔
-      position: 0
-    - word: は
-      position: 3
 - id: Gongitsune-f000008
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -109,23 +46,6 @@
   sound_begin: 21160
   sound_end: 23240
   sentence: 私たちの村のちかくの、
-  words:
-    - word: 私
-      position: 0
-    - word: たち
-      base: 達
-      position: 1
-    - word: の
-      position: 3
-    - word: 村
-      position: 4
-    - word: の
-      position: 5
-    - word: ちかく
-      base: 近い
-      position: 6
-    - word: の
-      position: 9
 - id: Gongitsune-f000009
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -134,33 +54,6 @@
   sound_begin: 23240
   sound_end: 26720
   sentence: 中山というところに小さなお城があって、
-  words:
-    - word: 中山
-      position: 0
-    - word: と
-      position: 2
-    - word: いう
-      base: 言う
-      position: 3
-    - word: ところ
-      base: 所
-      position: 5
-    - word: に
-      position: 8
-    - word: 小さな
-      position: 9
-    - word: お
-      base: 御
-      position: 12
-    - word: 城
-      position: 13
-    - word: が
-      position: 14
-    - word: あっ
-      base: 有る
-      position: 15
-    - word: て
-      position: 17
 - id: Gongitsune-f000010
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -169,27 +62,6 @@
   sound_begin: 26720
   sound_end: 28920
   sentence: 中山さまというおとのさまが、
-  words:
-    - word: 中山
-      position: 0
-    - word: さま
-      base: 様
-      position: 2
-    - word: と
-      position: 4
-    - word: いう
-      base: 言う
-      position: 5
-    - word: おと
-      base: 音
-      position: 7
-    - word: の
-      position: 9
-    - word: さま
-      base: 様
-      position: 10
-    - word: が
-      position: 12
 - id: Gongitsune-f000011
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -198,19 +70,6 @@
   sound_begin: 28920
   sound_end: 32000
   sentence: おられたそうです。
-  words:
-    - word: おら
-      base: 居る
-      position: 0
-    - word: れ
-      base: れる
-      position: 2
-    - word: た
-      position: 3
-    - word: そう
-      position: 4
-    - word: です
-      position: 6
 - id: Gongitsune-f000012
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -219,14 +78,6 @@
   sound_begin: 32000
   sound_end: 33480
   sentence: その中山から、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 中山
-      position: 2
-    - word: から
-      position: 4
 - id: Gongitsune-f000013
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -235,22 +86,6 @@
   sound_begin: 33480
   sound_end: 36400
   sentence: 少しはなれた山の中に、
-  words:
-    - word: 少し
-      position: 0
-    - word: はなれ
-      base: 離れる
-      position: 2
-    - word: た
-      position: 5
-    - word: 山
-      position: 6
-    - word: の
-      position: 7
-    - word: 中
-      position: 8
-    - word: に
-      position: 9
 - id: Gongitsune-f000014
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -259,28 +94,6 @@
   sound_begin: 36400
   sound_end: 40808
   sentence: 「ごん狐」という狐がいました。
-  words:
-    - word: ごん
-      position: 1
-    - word: 狐
-      position: 3
-    - word: と
-      position: 5
-    - word: いう
-      base: 言う
-      position: 6
-    - word: 狐
-      position: 8
-    - word: が
-      position: 9
-    - word: い
-      base: 居る
-      position: 10
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
 - id: Gongitsune-f000015
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -289,11 +102,6 @@
   sound_begin: 40808
   sound_end: 41763
   sentence: ごんは、
-  words:
-    - word: ごん
-      position: 0
-    - word: は
-      position: 2
 - id: Gongitsune-f000016
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -302,19 +110,6 @@
   sound_begin: 41763
   sound_end: 43960
   sentence: 一人ぼっちの小狐で、
-  words:
-    - word: 一人ぼっち
-      base: 独りぼっち
-      position: 0
-    - word: の
-      position: 5
-    - word: 小
-      position: 6
-    - word: 狐
-      position: 7
-    - word: で
-      base: だ
-      position: 8
 - id: Gongitsune-f000017
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -323,50 +118,6 @@
   sound_begin: 43960
   sound_end: 50560
   sentence: しだの一ぱいしげった森の中に穴をほって住んでいました。
-  words:
-    - word: しだ
-      base: 羊歯
-      position: 0
-    - word: の
-      position: 2
-    - word: 一ぱい
-      base: 一杯
-      position: 3
-    - word: しげっ
-      base: 茂る
-      position: 6
-    - word: た
-      position: 9
-    - word: 森
-      position: 10
-    - word: の
-      position: 11
-    - word: 中
-      position: 12
-    - word: に
-      position: 13
-    - word: 穴
-      position: 14
-    - word: を
-      position: 15
-    - word: ほっ
-      base: ほる
-      position: 16
-    - word: て
-      position: 18
-    - word: 住ん
-      base: 住む
-      position: 19
-    - word: で
-      position: 21
-    - word: い
-      base: 居る
-      position: 22
-    - word: まし
-      base: ます
-      position: 23
-    - word: た
-      position: 25
 - id: Gongitsune-f000018
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -375,9 +126,6 @@
   sound_begin: 50560
   sound_end: 51040
   sentence: そして、
-  words:
-    - word: そして
-      position: 0
 - id: Gongitsune-f000019
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -386,19 +134,6 @@
   sound_begin: 51040
   sound_end: 53080
   sentence: 夜でも昼でも、
-  words:
-    - word: 夜
-      position: 0
-    - word: で
-      position: 1
-    - word: も
-      position: 2
-    - word: 昼
-      position: 3
-    - word: で
-      position: 4
-    - word: も
-      position: 5
 - id: Gongitsune-f000020
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -407,26 +142,6 @@
   sound_begin: 53080
   sound_end: 54920
   sentence: あたりの村へ出てきて、
-  words:
-    - word: あたり
-      base: 辺り
-      position: 0
-    - word: の
-      position: 3
-    - word: 村
-      position: 4
-    - word: へ
-      position: 5
-    - word: 出
-      base: 出る
-      position: 6
-    - word: て
-      position: 7
-    - word: き
-      base: 来る
-      position: 8
-    - word: て
-      position: 9
 - id: Gongitsune-f000021
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -435,20 +150,6 @@
   sound_begin: 54920
   sound_end: 60400
   sentence: いたずらばかりしました。
-  words:
-    - word: いたずら
-      base: 悪戯
-      position: 0
-    - word: ばかり
-      position: 4
-    - word: し
-      base: 為る
-      position: 7
-    - word: まし
-      base: ます
-      position: 8
-    - word: た
-      position: 10
 - id: Gongitsune-f000022
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -457,29 +158,6 @@
   sound_begin: 60400
   sound_end: 63440
   sentence: はたけへ入って芋をほりちらしたり、
-  words:
-    - word: はたけ
-      position: 0
-    - word: へ
-      position: 3
-    - word: 入っ
-      base: 入る
-      position: 4
-    - word: て
-      position: 6
-    - word: 芋
-      base: 薯
-      position: 7
-    - word: を
-      position: 8
-    - word: ほり
-      base: ほる
-      position: 9
-    - word: ちらし
-      base: 散る
-      position: 11
-    - word: たり
-      position: 14
 - id: Gongitsune-f000023
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -488,13 +166,6 @@
   sound_begin: 63440
   sound_end: 64360
   sentence: 菜種がらの、
-  words:
-    - word: 菜種
-      position: 0
-    - word: がら
-      position: 2
-    - word: の
-      position: 4
 - id: Gongitsune-f000024
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -503,28 +174,6 @@
   sound_begin: 64360
   sound_end: 67200
   sentence: ほしてあるのへ火をつけたり、
-  words:
-    - word: ほし
-      base: 干す
-      position: 0
-    - word: て
-      position: 2
-    - word: ある
-      base: 有る
-      position: 3
-    - word: の
-      position: 5
-    - word: へ
-      position: 6
-    - word: 火
-      position: 7
-    - word: を
-      position: 8
-    - word: つけ
-      base: つける
-      position: 9
-    - word: たり
-      position: 11
 - id: Gongitsune-f000025
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -533,38 +182,6 @@
   sound_begin: 67200
   sound_end: 70720
   sentence: 百姓家の裏手につるしてあるとんがらしをむしりとって、
-  words:
-    - word: 百姓
-      position: 0
-    - word: 家
-      position: 2
-    - word: の
-      position: 3
-    - word: 裏手
-      position: 4
-    - word: に
-      position: 6
-    - word: つるし
-      base: 吊るす
-      position: 7
-    - word: て
-      position: 10
-    - word: ある
-      base: 有る
-      position: 11
-    - word: とんがらし
-      base: 唐辛子
-      position: 13
-    - word: を
-      position: 18
-    - word: むしり
-      base: 毟る
-      position: 19
-    - word: とっ
-      base: 取る
-      position: 22
-    - word: て
-      position: 24
 - id: Gongitsune-f000026
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -573,12 +190,6 @@
   sound_begin: 70720
   sound_end: 71520
   sentence: いったり、
-  words:
-    - word: いっ
-      base: 行く
-      position: 0
-    - word: たり
-      position: 2
 - id: Gongitsune-f000027
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -587,22 +198,6 @@
   sound_begin: 71520
   sound_end: 76200
   sentence: いろんなことをしました。
-  words:
-    - word: いろんな
-      base: 色んな
-      position: 0
-    - word: こと
-      position: 4
-    - word: を
-      position: 6
-    - word: し
-      base: 為る
-      position: 7
-    - word: まし
-      base: ます
-      position: 8
-    - word: た
-      position: 10
 - id: Gongitsune-f000028
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -611,21 +206,6 @@
   sound_begin: 76200
   sound_end: 79120
   sentence: 或秋のことでした。
-  words:
-    - word: 或
-      base: 或る
-      position: 0
-    - word: 秋
-      position: 1
-    - word: の
-      position: 2
-    - word: こと
-      position: 3
-    - word: でし
-      base: です
-      position: 5
-    - word: た
-      position: 7
 - id: Gongitsune-f000029
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -634,10 +214,6 @@
   sound_begin: 79120
   sound_end: 79680
   sentence: 二、
-  words:
-    - word: 二
-      base: '2'
-      position: 0
 - id: Gongitsune-f000030
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -646,29 +222,6 @@
   sound_begin: 79680
   sound_end: 82160
   sentence: 三日雨がふりつづいたその間、
-  words:
-    - word: 三
-      base: '3'
-      position: 0
-    - word: 日
-      position: 1
-    - word: 雨
-      position: 2
-    - word: が
-      position: 3
-    - word: ふり
-      base: ふる
-      position: 4
-    - word: つづい
-      base: 続く
-      position: 6
-    - word: た
-      position: 9
-    - word: その
-      base: 其の
-      position: 10
-    - word: 間
-      position: 12
 - id: Gongitsune-f000031
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -677,11 +230,6 @@
   sound_begin: 82160
   sound_end: 82600
   sentence: ごんは、
-  words:
-    - word: ごん
-      position: 0
-    - word: は
-      position: 2
 - id: Gongitsune-f000032
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -690,45 +238,6 @@
   sound_begin: 82600
   sound_end: 88160
   sentence: 外へも出られなくて穴の中にしゃがんでいました。
-  words:
-    - word: 外
-      position: 0
-    - word: へ
-      position: 1
-    - word: も
-      position: 2
-    - word: 出
-      base: 出る
-      position: 3
-    - word: られ
-      base: られる
-      position: 4
-    - word: なく
-      base: ない
-      position: 6
-    - word: て
-      position: 8
-    - word: 穴
-      position: 9
-    - word: の
-      position: 10
-    - word: 中
-      position: 11
-    - word: に
-      position: 12
-    - word: しゃがん
-      base: しゃがむ
-      position: 13
-    - word: で
-      position: 17
-    - word: い
-      base: 居る
-      position: 18
-    - word: まし
-      base: ます
-      position: 19
-    - word: た
-      position: 21
 - id: Gongitsune-f000033
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -737,16 +246,6 @@
   sound_begin: 88160
   sound_end: 89440
   sentence: 雨があがると、
-  words:
-    - word: 雨
-      position: 0
-    - word: が
-      position: 1
-    - word: あがる
-      base: 上がる
-      position: 2
-    - word: と
-      position: 5
 - id: Gongitsune-f000034
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -755,11 +254,6 @@
   sound_begin: 89440
   sound_end: 89960
   sentence: ごんは、
-  words:
-    - word: ごん
-      position: 0
-    - word: は
-      position: 2
 - id: Gongitsune-f000035
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -768,29 +262,6 @@
   sound_begin: 89960
   sound_end: 93631
   sentence: ほっとして穴からはい出ました。
-  words:
-    - word: ほっと
-      position: 0
-    - word: し
-      base: 為る
-      position: 3
-    - word: て
-      position: 4
-    - word: 穴
-      position: 5
-    - word: から
-      position: 6
-    - word: はい
-      base: 這う
-      position: 8
-    - word: 出
-      base: 出る
-      position: 10
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
 - id: Gongitsune-f000036
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -799,26 +270,6 @@
   sound_begin: 93631
   sound_end: 95760
   sentence: 空はからっと晴れていて、
-  words:
-    - word: 空
-      position: 0
-    - word: は
-      position: 1
-    - word: からっ
-      base: から
-      position: 2
-    - word: と
-      position: 5
-    - word: 晴れ
-      base: 晴れる
-      position: 6
-    - word: て
-      position: 8
-    - word: い
-      base: 居る
-      position: 9
-    - word: て
-      position: 10
 - id: Gongitsune-f000037
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -827,18 +278,6 @@
   sound_begin: 95760
   sound_end: 97360
   sentence: 百舌鳥の声がきんきん、
-  words:
-    - word: 百舌鳥
-      base: 百舌
-      position: 0
-    - word: の
-      position: 3
-    - word: 声
-      position: 4
-    - word: が
-      position: 5
-    - word: きんきん
-      position: 6
 - id: Gongitsune-f000038
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -847,20 +286,6 @@
   sound_begin: 97360
   sound_end: 100120
   sentence: ひびいていました。
-  words:
-    - word: ひびい
-      base: 響く
-      position: 0
-    - word: て
-      position: 3
-    - word: い
-      base: 居る
-      position: 4
-    - word: まし
-      base: ます
-      position: 5
-    - word: た
-      position: 7
 - id: Gongitsune-f000039
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -869,11 +294,6 @@
   sound_begin: 100120
   sound_end: 100960
   sentence: ごんは、
-  words:
-    - word: ごん
-      position: 0
-    - word: は
-      position: 2
 - id: Gongitsune-f000040
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -882,32 +302,6 @@
   sound_begin: 100960
   sound_end: 104800
   sentence: 村の小川の堤まで出て来ました。
-  words:
-    - word: 村
-      position: 0
-    - word: の
-      position: 1
-    - word: 小川
-      position: 2
-    - word: の
-      position: 4
-    - word: 堤
-      position: 5
-    - word: まで
-      position: 6
-    - word: 出
-      base: 出る
-      position: 8
-    - word: て
-      position: 9
-    - word: 来
-      base: 来る
-      position: 10
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
 - id: Gongitsune-f000041
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -916,12 +310,6 @@
   sound_begin: 104800
   sound_end: 105640
   sentence: あたりの、
-  words:
-    - word: あたり
-      base: 辺り
-      position: 0
-    - word: の
-      position: 3
 - id: Gongitsune-f000042
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -930,18 +318,6 @@
   sound_begin: 105640
   sound_end: 107160
   sentence: すすきの穂には、
-  words:
-    - word: すすき
-      base: 薄
-      position: 0
-    - word: の
-      position: 3
-    - word: 穂
-      position: 4
-    - word: に
-      position: 5
-    - word: は
-      position: 6
 - id: Gongitsune-f000043
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -950,32 +326,6 @@
   sound_begin: 107160
   sound_end: 111667
   sentence: まだ雨のしずくが光っていました。
-  words:
-    - word: まだ
-      base: 未だ
-      position: 0
-    - word: 雨
-      position: 2
-    - word: の
-      position: 3
-    - word: しずく
-      base: 滴
-      position: 4
-    - word: が
-      position: 7
-    - word: 光っ
-      base: 光る
-      position: 8
-    - word: て
-      position: 10
-    - word: い
-      base: 居る
-      position: 11
-    - word: まし
-      base: ます
-      position: 12
-    - word: た
-      position: 14
 - id: Gongitsune-f000044
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -984,11 +334,6 @@
   sound_begin: 111667
   sound_end: 112560
   sentence: 川は、
-  words:
-    - word: 川
-      position: 0
-    - word: は
-      position: 1
 - id: Gongitsune-f000045
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -997,24 +342,6 @@
   sound_begin: 112560
   sound_end: 115040
   sentence: いつもは水が少いのですが、
-  words:
-    - word: いつも
-      position: 0
-    - word: は
-      position: 3
-    - word: 水
-      position: 4
-    - word: が
-      position: 5
-    - word: 少い
-      base: 若い
-      position: 6
-    - word: の
-      position: 8
-    - word: です
-      position: 9
-    - word: が
-      position: 11
 - id: Gongitsune-f000046
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1023,21 +350,6 @@
   sound_begin: 115040
   sound_end: 116440
   sentence: 三日もの雨で、
-  words:
-    - word: 三
-      base: '3'
-      position: 0
-    - word: 日
-      position: 1
-    - word: も
-      position: 2
-    - word: の
-      position: 3
-    - word: 雨
-      position: 4
-    - word: で
-      base: だ
-      position: 5
 - id: Gongitsune-f000047
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1046,11 +358,6 @@
   sound_begin: 116440
   sound_end: 116920
   sentence: 水が、
-  words:
-    - word: 水
-      position: 0
-    - word: が
-      position: 1
 - id: Gongitsune-f000048
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1059,25 +366,6 @@
   sound_begin: 116920
   sound_end: 120846
   sentence: どっとましていました。
-  words:
-    - word: どっと
-      position: 0
-    - word: ま
-      base: まー
-      position: 3
-    - word: し
-      base: 為る
-      position: 4
-    - word: て
-      position: 5
-    - word: い
-      base: 居る
-      position: 6
-    - word: まし
-      base: ます
-      position: 7
-    - word: た
-      position: 9
 - id: Gongitsune-f000049
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1086,31 +374,6 @@
   sound_begin: 120846
   sound_end: 123598
   sentence: ただのときは水につかることのない、
-  words:
-    - word: ただ
-      base: 只
-      position: 0
-    - word: の
-      position: 2
-    - word: とき
-      base: 時
-      position: 3
-    - word: は
-      position: 5
-    - word: 水
-      position: 6
-    - word: に
-      position: 7
-    - word: つかる
-      base: 浸かる
-      position: 8
-    - word: こと
-      position: 11
-    - word: の
-      position: 13
-    - word: ない
-      base: 無い
-      position: 14
 - id: Gongitsune-f000050
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1119,17 +382,6 @@
   sound_begin: 123598
   sound_end: 125000
   sentence: 川べりのすすきや、
-  words:
-    - word: 川べり
-      base: 川縁
-      position: 0
-    - word: の
-      position: 3
-    - word: すすき
-      base: 薄
-      position: 4
-    - word: や
-      position: 7
 - id: Gongitsune-f000051
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1138,15 +390,6 @@
   sound_begin: 125000
   sound_end: 126312
   sentence: 萩の株が、
-  words:
-    - word: 萩
-      position: 0
-    - word: の
-      position: 1
-    - word: 株
-      position: 2
-    - word: が
-      position: 3
 - id: Gongitsune-f000052
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1155,29 +398,6 @@
   sound_begin: 126312
   sound_end: 128840
   sentence: 黄いろくにごった水に横だおしになって、
-  words:
-    - word: 黄いろく
-      base: 黄色い
-      position: 0
-    - word: にごっ
-      base: 濁る
-      position: 4
-    - word: た
-      position: 7
-    - word: 水
-      position: 8
-    - word: に
-      position: 9
-    - word: 横だおし
-      base: 横倒し
-      position: 10
-    - word: に
-      position: 14
-    - word: なっ
-      base: 成る
-      position: 15
-    - word: て
-      position: 17
 - id: Gongitsune-f000053
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1186,20 +406,6 @@
   sound_begin: 128840
   sound_end: 131988
   sentence: もまれています。
-  words:
-    - word: もま
-      base: 揉む
-      position: 0
-    - word: れ
-      base: れる
-      position: 2
-    - word: て
-      position: 3
-    - word: い
-      base: 居る
-      position: 4
-    - word: ます
-      position: 5
 - id: Gongitsune-f000054
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1208,21 +414,6 @@
   sound_begin: 131988
   sound_end: 134560
   sentence: ごんは川下の方へと、
-  words:
-    - word: ごん
-      position: 0
-    - word: は
-      position: 2
-    - word: 川下
-      position: 3
-    - word: の
-      position: 5
-    - word: 方
-      position: 6
-    - word: へ
-      position: 7
-    - word: と
-      position: 8
 - id: Gongitsune-f000055
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1231,27 +422,6 @@
   sound_begin: 134560
   sound_end: 140010
   sentence: ぬかるみみちを歩いていきました。
-  words:
-    - word: ぬかるみ
-      position: 0
-    - word: みち
-      base: 道
-      position: 4
-    - word: を
-      position: 6
-    - word: 歩い
-      base: 歩く
-      position: 7
-    - word: て
-      position: 9
-    - word: いき
-      base: 行く
-      position: 10
-    - word: まし
-      base: ます
-      position: 12
-    - word: た
-      position: 14
 - id: Gongitsune-f000056
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1260,13 +430,6 @@
   sound_begin: 140010
   sound_end: 141153
   sentence: ふと見ると、
-  words:
-    - word: ふと
-      position: 0
-    - word: 見る
-      position: 2
-    - word: と
-      position: 4
 - id: Gongitsune-f000057
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1275,24 +438,6 @@
   sound_begin: 141153
   sound_end: 143040
   sentence: 川の中に人がいて、
-  words:
-    - word: 川
-      position: 0
-    - word: の
-      position: 1
-    - word: 中
-      position: 2
-    - word: に
-      position: 3
-    - word: 人
-      position: 4
-    - word: が
-      position: 5
-    - word: い
-      base: 居る
-      position: 6
-    - word: て
-      position: 7
 - id: Gongitsune-f000058
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1301,21 +446,6 @@
   sound_begin: 143040
   sound_end: 146040
   sentence: 何かやっています。
-  words:
-    - word: 何
-      position: 0
-    - word: か
-      position: 1
-    - word: やっ
-      base: 遣る
-      position: 2
-    - word: て
-      position: 4
-    - word: い
-      base: 居る
-      position: 5
-    - word: ます
-      position: 6
 - id: Gongitsune-f000059
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1324,11 +454,6 @@
   sound_begin: 146040
   sound_end: 146440
   sentence: ごんは、
-  words:
-    - word: ごん
-      position: 0
-    - word: は
-      position: 2
 - id: Gongitsune-f000060
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1337,18 +462,6 @@
   sound_begin: 146440
   sound_end: 147979
   sentence: 見つからないように、
-  words:
-    - word: 見つから
-      base: 見付かる
-      position: 0
-    - word: ない
-      position: 4
-    - word: よう
-      base: 様
-      position: 6
-    - word: に
-      base: だ
-      position: 8
 - id: Gongitsune-f000061
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1357,29 +470,6 @@
   sound_begin: 147979
   sound_end: 152046
   sentence: そうっと草の深いところへ歩きよって、
-  words:
-    - word: そうっと
-      base: そっと
-      position: 0
-    - word: 草
-      position: 4
-    - word: の
-      position: 5
-    - word: 深い
-      position: 6
-    - word: ところ
-      base: 所
-      position: 8
-    - word: へ
-      position: 11
-    - word: 歩き
-      base: 歩く
-      position: 12
-    - word: よっ
-      base: よる
-      position: 14
-    - word: て
-      position: 16
 - id: Gongitsune-f000062
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1388,27 +478,6 @@
   sound_begin: 152046
   sound_end: 156926
   sentence: そこからじっとのぞいてみました。
-  words:
-    - word: そこ
-      base: 其処
-      position: 0
-    - word: から
-      position: 2
-    - word: じっと
-      position: 4
-    - word: のぞい
-      base: のぞく
-      position: 7
-    - word: て
-      position: 10
-    - word: み
-      base: 見る
-      position: 11
-    - word: まし
-      base: ます
-      position: 12
-    - word: た
-      position: 14
 - id: Gongitsune-f000063
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1417,15 +486,6 @@
   sound_begin: 156926
   sound_end: 158925
   sentence: 「兵十だな」と、
-  words:
-    - word: 兵十
-      position: 1
-    - word: だ
-      position: 3
-    - word: な
-      position: 4
-    - word: と
-      position: 6
 - id: Gongitsune-f000064
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1434,19 +494,6 @@
   sound_begin: 158925
   sound_end: 161579
   sentence: ごんは思いました。
-  words:
-    - word: ごん
-      position: 0
-    - word: は
-      position: 2
-    - word: 思い
-      base: 思う
-      position: 3
-    - word: まし
-      base: ます
-      position: 5
-    - word: た
-      position: 7
 - id: Gongitsune-f000065
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1455,30 +502,6 @@
   sound_begin: 161579
   sound_end: 165556
   sentence: 兵十はぼろぼろの黒いきものをまくし上げて、
-  words:
-    - word: 兵十
-      position: 0
-    - word: は
-      position: 2
-    - word: ぼろぼろ
-      position: 3
-    - word: の
-      position: 7
-    - word: 黒い
-      position: 8
-    - word: きもの
-      base: 着物
-      position: 10
-    - word: を
-      position: 13
-    - word: まくし
-      base: 捲し
-      position: 14
-    - word: 上げ
-      base: 上げる
-      position: 17
-    - word: て
-      position: 19
 - id: Gongitsune-f000066
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1487,25 +510,6 @@
   sound_begin: 165556
   sound_end: 168616
   sentence: 腰のところまで水にひたりながら、
-  words:
-    - word: 腰
-      position: 0
-    - word: の
-      position: 1
-    - word: ところ
-      base: 所
-      position: 2
-    - word: まで
-      position: 5
-    - word: 水
-      position: 7
-    - word: に
-      position: 8
-    - word: ひたり
-      base: 浸る
-      position: 9
-    - word: ながら
-      position: 12
 - id: Gongitsune-f000067
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1514,14 +518,6 @@
   sound_begin: 168616
   sound_end: 169880
   sentence: 魚をとる、
-  words:
-    - word: 魚
-      position: 0
-    - word: を
-      position: 1
-    - word: とる
-      base: 取る
-      position: 2
 - id: Gongitsune-f000068
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1530,15 +526,6 @@
   sound_begin: 169880
   sound_end: 170800
   sentence: はりきりという、
-  words:
-    - word: はりきり
-      base: 張り切り
-      position: 0
-    - word: と
-      position: 4
-    - word: いう
-      base: 言う
-      position: 5
 - id: Gongitsune-f000069
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1547,24 +534,6 @@
   sound_begin: 170800
   sound_end: 175200
   sentence: 網をゆすぶっていました。
-  words:
-    - word: 網
-      position: 0
-    - word: を
-      position: 1
-    - word: ゆすぶっ
-      base: 揺さぶる
-      position: 2
-    - word: て
-      position: 6
-    - word: い
-      base: 居る
-      position: 7
-    - word: まし
-      base: ます
-      position: 8
-    - word: た
-      position: 10
 - id: Gongitsune-f000070
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1573,26 +542,6 @@
   sound_begin: 175200
   sound_end: 177840
   sentence: はちまきをした顔の横っちょうに、
-  words:
-    - word: はちまき
-      base: 鉢巻き
-      position: 0
-    - word: を
-      position: 4
-    - word: し
-      base: 為る
-      position: 5
-    - word: た
-      position: 6
-    - word: 顔
-      position: 7
-    - word: の
-      position: 8
-    - word: 横っちょう
-      base: 横っちょ
-      position: 9
-    - word: に
-      position: 14
 - id: Gongitsune-f000071
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1601,24 +550,6 @@
   sound_begin: 177840
   sound_end: 180360
   sentence: まるい萩の葉が一まい、
-  words:
-    - word: まるい
-      base: 丸い
-      position: 0
-    - word: 萩
-      position: 3
-    - word: の
-      position: 4
-    - word: 葉
-      position: 5
-    - word: が
-      position: 6
-    - word: 一
-      base: '1'
-      position: 7
-    - word: まい
-      base: 枚
-      position: 8
 - id: Gongitsune-f000072
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1627,32 +558,6 @@
   sound_begin: 180360
   sound_end: 185600
   sentence: 大きな黒子みたいにへばりついていました。
-  words:
-    - word: 大きな
-      position: 0
-    - word: 黒子
-      position: 3
-    - word: みたい
-      position: 5
-    - word: に
-      base: だ
-      position: 8
-    - word: へばり
-      base: へばる
-      position: 9
-    - word: つい
-      base: 付く
-      position: 12
-    - word: て
-      position: 14
-    - word: い
-      base: 居る
-      position: 15
-    - word: まし
-      base: ます
-      position: 16
-    - word: た
-      position: 18
 - id: Gongitsune-f000073
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1661,15 +566,6 @@
   sound_begin: 185600
   sound_end: 186960
   sentence: しばらくすると、
-  words:
-    - word: しばらく
-      base: 暫く
-      position: 0
-    - word: する
-      base: 為る
-      position: 4
-    - word: と
-      position: 6
 - id: Gongitsune-f000074
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1678,11 +574,6 @@
   sound_begin: 186960
   sound_end: 188080
   sentence: 兵十は、
-  words:
-    - word: 兵十
-      position: 0
-    - word: は
-      position: 2
 - id: Gongitsune-f000075
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1691,22 +582,6 @@
   sound_begin: 188080
   sound_end: 190400
   sentence: はりきり網の一ばんうしろの、
-  words:
-    - word: はりきり
-      base: 張り切り
-      position: 0
-    - word: 網
-      position: 4
-    - word: の
-      position: 5
-    - word: 一ばん
-      base: 一番
-      position: 6
-    - word: うしろ
-      base: 後ろ
-      position: 9
-    - word: の
-      position: 12
 - id: Gongitsune-f000076
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1715,27 +590,6 @@
   sound_begin: 190400
   sound_end: 192240
   sentence: 袋のようになったところを、
-  words:
-    - word: 袋
-      position: 0
-    - word: の
-      position: 1
-    - word: よう
-      base: 様
-      position: 2
-    - word: に
-      base: だ
-      position: 4
-    - word: なっ
-      base: 成る
-      position: 5
-    - word: た
-      position: 7
-    - word: ところ
-      base: 所
-      position: 8
-    - word: を
-      position: 11
 - id: Gongitsune-f000077
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1744,26 +598,6 @@
   sound_begin: 192240
   sound_end: 196840
   sentence: 水の中からもちあげました。
-  words:
-    - word: 水
-      position: 0
-    - word: の
-      position: 1
-    - word: 中
-      position: 2
-    - word: から
-      position: 3
-    - word: もち
-      base: 持つ
-      position: 5
-    - word: あげ
-      base: 上げる
-      position: 7
-    - word: まし
-      base: ます
-      position: 9
-    - word: た
-      position: 11
 - id: Gongitsune-f000078
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1772,16 +606,6 @@
   sound_begin: 196840
   sound_end: 198120
   sentence: その中には、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 中
-      position: 2
-    - word: に
-      position: 3
-    - word: は
-      position: 4
 - id: Gongitsune-f000079
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1790,15 +614,6 @@
   sound_begin: 198120
   sound_end: 199320
   sentence: 芝の根や、
-  words:
-    - word: 芝
-      position: 0
-    - word: の
-      position: 1
-    - word: 根
-      position: 2
-    - word: や
-      position: 3
 - id: Gongitsune-f000080
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1807,15 +622,6 @@
   sound_begin: 199320
   sound_end: 200373
   sentence: 草の葉や、
-  words:
-    - word: 草
-      position: 0
-    - word: の
-      position: 1
-    - word: 葉
-      position: 2
-    - word: や
-      position: 3
 - id: Gongitsune-f000081
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1824,19 +630,6 @@
   sound_begin: 200373
   sound_end: 201720
   sentence: くさった木ぎれなどが、
-  words:
-    - word: くさっ
-      base: 腐る
-      position: 0
-    - word: た
-      position: 3
-    - word: 木ぎれ
-      base: 木切れ
-      position: 4
-    - word: など
-      position: 7
-    - word: が
-      position: 9
 - id: Gongitsune-f000082
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1845,24 +638,6 @@
   sound_begin: 201720
   sound_end: 204160
   sentence: ごちゃごちゃはいっていましたが、
-  words:
-    - word: ごちゃごちゃ
-      position: 0
-    - word: はいっ
-      base: 入る
-      position: 6
-    - word: て
-      position: 9
-    - word: い
-      base: 居る
-      position: 10
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
-    - word: が
-      position: 14
 - id: Gongitsune-f000083
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1871,14 +646,6 @@
   sound_begin: 204160
   sound_end: 205480
   sentence: でもところどころ、
-  words:
-    - word: で
-      position: 0
-    - word: も
-      position: 1
-    - word: ところどころ
-      base: 所々
-      position: 2
 - id: Gongitsune-f000084
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1887,26 +654,6 @@
   sound_begin: 205480
   sound_end: 209560
   sentence: 白いものがきらきら光っています。
-  words:
-    - word: 白い
-      position: 0
-    - word: もの
-      base: 物
-      position: 2
-    - word: が
-      position: 4
-    - word: きらきら
-      position: 5
-    - word: 光っ
-      base: 光る
-      position: 9
-    - word: て
-      position: 11
-    - word: い
-      base: 居る
-      position: 12
-    - word: ます
-      position: 13
 - id: Gongitsune-f000085
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1915,12 +662,6 @@
   sound_begin: 209560
   sound_end: 210360
   sentence: それは、
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: は
-      position: 2
 - id: Gongitsune-f000086
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1929,19 +670,6 @@
   sound_begin: 210360
   sound_end: 212120
   sentence: ふというなぎの腹や、
-  words:
-    - word: ふとい
-      base: 太い
-      position: 0
-    - word: うなぎ
-      base: 鰻
-      position: 3
-    - word: の
-      position: 6
-    - word: 腹
-      position: 7
-    - word: や
-      position: 8
 - id: Gongitsune-f000087
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1950,21 +678,6 @@
   sound_begin: 212120
   sound_end: 216048
   sentence: 大きなきすの腹でした。
-  words:
-    - word: 大きな
-      position: 0
-    - word: きす
-      base: 鱚
-      position: 3
-    - word: の
-      position: 5
-    - word: 腹
-      position: 6
-    - word: でし
-      base: です
-      position: 7
-    - word: た
-      position: 9
 - id: Gongitsune-f000088
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1973,11 +686,6 @@
   sound_begin: 216048
   sound_end: 216840
   sentence: 兵十は、
-  words:
-    - word: 兵十
-      position: 0
-    - word: は
-      position: 2
 - id: Gongitsune-f000089
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -1986,16 +694,6 @@
   sound_begin: 216840
   sound_end: 218080
   sentence: びくの中へ、
-  words:
-    - word: びく
-      base: 魚籠
-      position: 0
-    - word: の
-      position: 2
-    - word: 中
-      position: 3
-    - word: へ
-      position: 4
 - id: Gongitsune-f000090
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2004,20 +702,6 @@
   sound_begin: 218080
   sound_end: 219560
   sentence: そのうなぎやきすを、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: うなぎ
-      base: 鰻
-      position: 2
-    - word: や
-      position: 5
-    - word: きす
-      base: 鱚
-      position: 6
-    - word: を
-      position: 8
 - id: Gongitsune-f000091
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2026,28 +710,6 @@
   sound_begin: 219560
   sound_end: 222680
   sentence: ごみと一しょにぶちこみました。
-  words:
-    - word: ごみ
-      base: 塵
-      position: 0
-    - word: と
-      position: 2
-    - word: 一しょ
-      base: 一緒
-      position: 3
-    - word: に
-      position: 6
-    - word: ぶち
-      base: 打つ
-      position: 7
-    - word: こみ
-      base: 込む
-      position: 9
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
 - id: Gongitsune-f000092
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2056,9 +718,6 @@
   sound_begin: 222680
   sound_end: 223160
   sentence: そして、
-  words:
-    - word: そして
-      position: 0
 - id: Gongitsune-f000093
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2067,10 +726,6 @@
   sound_begin: 223160
   sound_end: 223920
   sentence: また、
-  words:
-    - word: また
-      base: 又
-      position: 0
 - id: Gongitsune-f000094
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2079,20 +734,6 @@
   sound_begin: 223920
   sound_end: 225680
   sentence: 袋の口をしばって、
-  words:
-    - word: 袋
-      position: 0
-    - word: の
-      position: 1
-    - word: 口
-      position: 2
-    - word: を
-      position: 3
-    - word: しばっ
-      base: 縛る
-      position: 4
-    - word: て
-      position: 7
 - id: Gongitsune-f000095
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2101,23 +742,6 @@
   sound_begin: 225680
   sound_end: 229385
   sentence: 水の中へ入れました。
-  words:
-    - word: 水
-      position: 0
-    - word: の
-      position: 1
-    - word: 中
-      position: 2
-    - word: へ
-      position: 3
-    - word: 入れ
-      base: 入れる
-      position: 4
-    - word: まし
-      base: ます
-      position: 6
-    - word: た
-      position: 8
 - id: Gongitsune-f000096
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2126,16 +750,6 @@
   sound_begin: 229385
   sound_end: 230919
   sentence: 兵十はそれから、
-  words:
-    - word: 兵十
-      position: 0
-    - word: は
-      position: 2
-    - word: それ
-      base: 其れ
-      position: 3
-    - word: から
-      position: 5
 - id: Gongitsune-f000097
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2144,40 +758,6 @@
   sound_begin: 230919
   sound_end: 235040
   sentence: びくをもって川から上りびくを土手においといて、
-  words:
-    - word: びく
-      base: 魚籠
-      position: 0
-    - word: を
-      position: 2
-    - word: もっ
-      base: 持つ
-      position: 3
-    - word: て
-      position: 5
-    - word: 川
-      position: 6
-    - word: から
-      position: 7
-    - word: 上り
-      position: 9
-    - word: びく
-      base: 魚籠
-      position: 11
-    - word: を
-      position: 13
-    - word: 土手
-      position: 14
-    - word: に
-      position: 16
-    - word: おい
-      base: おく
-      position: 17
-    - word: とい
-      base: とく
-      position: 19
-    - word: て
-      position: 21
 - id: Gongitsune-f000098
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2186,18 +766,6 @@
   sound_begin: 235040
   sound_end: 236200
   sentence: 何をさがしにか、
-  words:
-    - word: 何
-      position: 0
-    - word: を
-      position: 1
-    - word: さがし
-      base: 探す
-      position: 2
-    - word: に
-      position: 5
-    - word: か
-      position: 6
 - id: Gongitsune-f000099
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2206,28 +774,6 @@
   sound_begin: 236200
   sound_end: 241360
   sentence: 川上の方へかけていきました。
-  words:
-    - word: 川上
-      position: 0
-    - word: の
-      position: 2
-    - word: 方
-      position: 3
-    - word: へ
-      position: 4
-    - word: かけ
-      base: 掛ける
-      position: 5
-    - word: て
-      position: 7
-    - word: いき
-      base: 行く
-      position: 8
-    - word: まし
-      base: ます
-      position: 10
-    - word: た
-      position: 12
 - id: Gongitsune-f000100
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2236,22 +782,6 @@
   sound_begin: 241360
   sound_end: 243120
   sentence: 兵十がいなくなると、
-  words:
-    - word: 兵十
-      position: 0
-    - word: が
-      position: 2
-    - word: い
-      base: 居る
-      position: 3
-    - word: なく
-      base: ない
-      position: 4
-    - word: なる
-      base: 成る
-      position: 6
-    - word: と
-      position: 8
 - id: Gongitsune-f000101
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2260,11 +790,6 @@
   sound_begin: 243120
   sound_end: 244211
   sentence: ごんは、
-  words:
-    - word: ごん
-      position: 0
-    - word: は
-      position: 2
 - id: Gongitsune-f000102
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2273,27 +798,6 @@
   sound_begin: 244203
   sound_end: 246624
   sentence: ぴょいと草の中からとび出して、
-  words:
-    - word: ぴょい
-      position: 0
-    - word: と
-      position: 3
-    - word: 草
-      position: 4
-    - word: の
-      position: 5
-    - word: 中
-      position: 6
-    - word: から
-      position: 7
-    - word: とび
-      base: 飛ぶ
-      position: 9
-    - word: 出し
-      base: 出す
-      position: 11
-    - word: て
-      position: 13
 - id: Gongitsune-f000103
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2302,27 +806,6 @@
   sound_begin: 246624
   sound_end: 249737
   sentence: びくのそばへかけつけました。
-  words:
-    - word: びく
-      base: 魚籠
-      position: 0
-    - word: の
-      position: 2
-    - word: そば
-      position: 3
-    - word: へ
-      position: 5
-    - word: かけ
-      base: かける
-      position: 6
-    - word: つけ
-      base: つける
-      position: 8
-    - word: まし
-      base: ます
-      position: 10
-    - word: た
-      position: 12
 - id: Gongitsune-f000104
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2331,10 +814,6 @@
   sound_begin: 249737
   sound_end: 250195
   sentence: ちょいと、
-  words:
-    - word: ちょいと
-      base: 一寸
-      position: 0
 - id: Gongitsune-f000105
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2343,27 +822,6 @@
   sound_begin: 250195
   sound_end: 254180
   sentence: いたずらがしたくなったのです。
-  words:
-    - word: いたずら
-      base: 悪戯
-      position: 0
-    - word: が
-      position: 4
-    - word: し
-      base: 為る
-      position: 5
-    - word: たく
-      base: たい
-      position: 6
-    - word: なっ
-      base: 成る
-      position: 8
-    - word: た
-      position: 10
-    - word: の
-      position: 11
-    - word: です
-      position: 12
 - id: Gongitsune-f000106
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2372,34 +830,6 @@
   sound_begin: 254180
   sound_end: 257519
   sentence: ごんはびくの中の魚をつかみ出しては、
-  words:
-    - word: ごん
-      position: 0
-    - word: は
-      position: 2
-    - word: びく
-      base: 魚籠
-      position: 3
-    - word: の
-      position: 5
-    - word: 中
-      position: 6
-    - word: の
-      position: 7
-    - word: 魚
-      position: 8
-    - word: を
-      position: 9
-    - word: つかみ
-      base: 掴む
-      position: 10
-    - word: 出し
-      base: 出す
-      position: 13
-    - word: て
-      position: 15
-    - word: は
-      position: 16
 - id: Gongitsune-f000107
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2408,44 +838,6 @@
   sound_begin: 257519
   sound_end: 262450
   sentence: はりきり網のかかっているところより下手の川の中を目がけて、
-  words:
-    - word: はりきり
-      base: 張り切り
-      position: 0
-    - word: 網
-      position: 4
-    - word: の
-      position: 5
-    - word: かかっ
-      base: 掛かる
-      position: 6
-    - word: て
-      position: 9
-    - word: いる
-      base: 居る
-      position: 10
-    - word: ところ
-      base: 所
-      position: 12
-    - word: より
-      position: 15
-    - word: 下手
-      position: 17
-    - word: の
-      position: 19
-    - word: 川
-      position: 20
-    - word: の
-      position: 21
-    - word: 中
-      position: 22
-    - word: を
-      position: 23
-    - word: 目がけ
-      base: 目掛ける
-      position: 24
-    - word: て
-      position: 27
 - id: Gongitsune-f000108
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2454,20 +846,6 @@
   sound_begin: 262450
   sound_end: 265720
   sentence: ぽんぽんなげこみました。
-  words:
-    - word: ぽんぽん
-      position: 0
-    - word: なげ
-      base: 投げる
-      position: 4
-    - word: こみ
-      base: 込む
-      position: 6
-    - word: まし
-      base: ます
-      position: 8
-    - word: た
-      position: 10
 - id: Gongitsune-f000109
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2476,13 +854,6 @@
   sound_begin: 265720
   sound_end: 266833
   sentence: どの魚も、
-  words:
-    - word: どの
-      position: 0
-    - word: 魚
-      position: 2
-    - word: も
-      position: 3
 - id: Gongitsune-f000110
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2491,20 +862,6 @@
   sound_begin: 266833
   sound_end: 268880
   sentence: 「とぼん」と音を立てながら、
-  words:
-    - word: とぼん
-      position: 1
-    - word: と
-      position: 5
-    - word: 音
-      position: 6
-    - word: を
-      position: 7
-    - word: 立て
-      base: 立つ
-      position: 8
-    - word: ながら
-      position: 10
 - id: Gongitsune-f000111
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2513,31 +870,6 @@
   sound_begin: 268880
   sound_end: 275080
   sentence: にごった水の中へもぐりこみました。
-  words:
-    - word: にごっ
-      base: 濁る
-      position: 0
-    - word: た
-      position: 3
-    - word: 水
-      position: 4
-    - word: の
-      position: 5
-    - word: 中
-      position: 6
-    - word: へ
-      position: 7
-    - word: もぐり
-      base: 潜る
-      position: 8
-    - word: こみ
-      base: 込む
-      position: 11
-    - word: まし
-      base: ます
-      position: 13
-    - word: た
-      position: 15
 - id: Gongitsune-f000112
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2546,15 +878,6 @@
   sound_begin: 275080
   sound_end: 276509
   sentence: 一ばんしまいに、
-  words:
-    - word: 一ばん
-      base: 一番
-      position: 0
-    - word: しまい
-      base: 仕舞い
-      position: 3
-    - word: に
-      position: 6
 - id: Gongitsune-f000113
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2563,29 +886,6 @@
   sound_begin: 276509
   sound_end: 279480
   sentence: 太いうなぎをつかみにかかりましたが、
-  words:
-    - word: 太い
-      position: 0
-    - word: うなぎ
-      base: 鰻
-      position: 2
-    - word: を
-      position: 5
-    - word: つかみ
-      base: 掴む
-      position: 6
-    - word: に
-      position: 9
-    - word: かかり
-      base: 掛かる
-      position: 10
-    - word: まし
-      base: ます
-      position: 13
-    - word: た
-      position: 15
-    - word: が
-      position: 16
 - id: Gongitsune-f000114
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2594,24 +894,6 @@
   sound_begin: 279480
   sound_end: 281760
   sentence: 何しろぬるぬるとすべりぬけるので、
-  words:
-    - word: 何しろ
-      position: 0
-    - word: ぬるぬる
-      position: 3
-    - word: と
-      position: 7
-    - word: すべり
-      base: 滑る
-      position: 8
-    - word: ぬける
-      base: 抜く
-      position: 11
-    - word: の
-      position: 14
-    - word: で
-      base: だ
-      position: 15
 - id: Gongitsune-f000115
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2620,22 +902,6 @@
   sound_begin: 281760
   sound_end: 285433
   sentence: 手ではつかめません。
-  words:
-    - word: 手
-      position: 0
-    - word: で
-      position: 1
-    - word: は
-      position: 2
-    - word: つかめ
-      base: 掴む
-      position: 3
-    - word: ませ
-      base: ます
-      position: 6
-    - word: ん
-      base: ず
-      position: 8
 - id: Gongitsune-f000116
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2644,19 +910,6 @@
   sound_begin: 285433
   sound_end: 287160
   sentence: ごんはじれったくなって、
-  words:
-    - word: ごん
-      position: 0
-    - word: は
-      position: 2
-    - word: じれったく
-      base: 焦れったい
-      position: 3
-    - word: なっ
-      base: 成る
-      position: 8
-    - word: て
-      position: 10
 - id: Gongitsune-f000117
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2665,29 +918,6 @@
   sound_begin: 287160
   sound_end: 289600
   sentence: 頭をびくの中につッこんで、
-  words:
-    - word: 頭
-      position: 0
-    - word: を
-      position: 1
-    - word: びく
-      base: 魚籠
-      position: 2
-    - word: の
-      position: 4
-    - word: 中
-      position: 5
-    - word: につ
-      base: にっ
-      position: 6
-    - word: ッ
-      base: つ
-      position: 8
-    - word: こん
-      base: 此れ
-      position: 9
-    - word: で
-      position: 11
 - id: Gongitsune-f000118
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2696,28 +926,6 @@
   sound_begin: 289600
   sound_end: 293720
   sentence: うなぎの頭を口にくわえました。
-  words:
-    - word: うなぎ
-      base: 鰻
-      position: 0
-    - word: の
-      position: 3
-    - word: 頭
-      position: 4
-    - word: を
-      position: 5
-    - word: 口
-      position: 6
-    - word: に
-      position: 7
-    - word: くわえ
-      base: くわえる
-      position: 8
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
 - id: Gongitsune-f000119
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2726,12 +934,6 @@
   sound_begin: 293720
   sound_end: 294240
   sentence: うなぎは、
-  words:
-    - word: うなぎ
-      base: 鰻
-      position: 0
-    - word: は
-      position: 3
 - id: Gongitsune-f000120
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2740,36 +942,6 @@
   sound_begin: 294240
   sound_end: 297973
   sentence: キュッと言ってごんの首へまきつきました。
-  words:
-    - word: キュッ
-      base: きゅっ
-      position: 0
-    - word: と
-      position: 3
-    - word: 言っ
-      base: 言う
-      position: 4
-    - word: て
-      position: 6
-    - word: ごん
-      position: 7
-    - word: の
-      position: 9
-    - word: 首
-      position: 10
-    - word: へ
-      position: 11
-    - word: まき
-      base: まく
-      position: 12
-    - word: つき
-      base: 付く
-      position: 14
-    - word: まし
-      base: ます
-      position: 16
-    - word: た
-      position: 18
 - id: Gongitsune-f000121
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2778,19 +950,6 @@
   sound_begin: 297973
   sound_end: 300000
   sentence: そのとたんに兵十が、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: とたん
-      base: 途端
-      position: 2
-    - word: に
-      position: 5
-    - word: 兵十
-      position: 6
-    - word: が
-      position: 8
 - id: Gongitsune-f000122
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2799,12 +958,6 @@
   sound_begin: 300000
   sound_end: 301680
   sentence: 向うから、
-  words:
-    - word: 向う
-      base: 向こう
-      position: 0
-    - word: から
-      position: 2
 - id: Gongitsune-f000123
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2813,22 +966,6 @@
   sound_begin: 301680
   sound_end: 303363
   sentence: 「うわアぬすと狐め」と、
-  words:
-    - word: うわ
-      position: 1
-    - word: ア
-      position: 3
-    - word: ぬ
-      base: 寝る
-      position: 4
-    - word: すと
-      position: 5
-    - word: 狐
-      position: 7
-    - word: め
-      position: 8
-    - word: と
-      position: 10
 - id: Gongitsune-f000124
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2837,18 +974,6 @@
   sound_begin: 303363
   sound_end: 306431
   sentence: どなりたてました。
-  words:
-    - word: どなり
-      base: 怒鳴る
-      position: 0
-    - word: たて
-      base: たてる
-      position: 3
-    - word: まし
-      base: ます
-      position: 5
-    - word: た
-      position: 7
 - id: Gongitsune-f000125
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2857,11 +982,6 @@
   sound_begin: 306431
   sound_end: 306880
   sentence: ごんは、
-  words:
-    - word: ごん
-      position: 0
-    - word: は
-      position: 2
 - id: Gongitsune-f000126
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2870,25 +990,6 @@
   sound_begin: 306880
   sound_end: 309160
   sentence: びっくりしてとびあがりました。
-  words:
-    - word: びっくり
-      position: 0
-    - word: し
-      base: 為る
-      position: 4
-    - word: て
-      position: 5
-    - word: とび
-      base: 飛ぶ
-      position: 6
-    - word: あがり
-      base: 上がる
-      position: 8
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
 - id: Gongitsune-f000127
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2897,35 +998,6 @@
   sound_begin: 309160
   sound_end: 311800
   sentence: うなぎをふりすててにげようとしましたが、
-  words:
-    - word: うなぎ
-      base: 鰻
-      position: 0
-    - word: を
-      position: 3
-    - word: ふり
-      base: ふる
-      position: 4
-    - word: すて
-      base: 捨てる
-      position: 6
-    - word: て
-      position: 8
-    - word: にげよう
-      base: 逃げる
-      position: 9
-    - word: と
-      position: 13
-    - word: し
-      base: 為る
-      position: 14
-    - word: まし
-      base: ます
-      position: 15
-    - word: た
-      position: 17
-    - word: が
-      position: 18
 - id: Gongitsune-f000128
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2934,12 +1006,6 @@
   sound_begin: 311800
   sound_end: 312360
   sentence: うなぎは、
-  words:
-    - word: うなぎ
-      base: 鰻
-      position: 0
-    - word: は
-      position: 3
 - id: Gongitsune-f000129
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2948,37 +1014,6 @@
   sound_begin: 312360
   sound_end: 316000
   sentence: ごんの首にまきついたままはなれません。
-  words:
-    - word: ごん
-      position: 0
-    - word: の
-      position: 2
-    - word: 首
-      position: 3
-    - word: に
-      position: 4
-    - word: まき
-      base: まく
-      position: 5
-    - word: つい
-      base: 付く
-      position: 7
-    - word: た
-      position: 9
-    - word: まま
-      base: 侭
-      position: 10
-    - word: は
-      position: 12
-    - word: なれ
-      base: なれる
-      position: 13
-    - word: ませ
-      base: ます
-      position: 15
-    - word: ん
-      base: ず
-      position: 17
 - id: Gongitsune-f000130
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -2987,42 +1022,6 @@
   sound_begin: 316000
   sound_end: 319840
   sentence: ごんはそのまま横っとびにとび出して一しょうけんめいに、
-  words:
-    - word: ごん
-      position: 0
-    - word: は
-      position: 2
-    - word: その
-      base: 其の
-      position: 3
-    - word: まま
-      base: 侭
-      position: 5
-    - word: 横っとび
-      base: 横飛び
-      position: 7
-    - word: に
-      position: 11
-    - word: とび
-      base: 飛ぶ
-      position: 12
-    - word: 出し
-      base: 出す
-      position: 14
-    - word: て
-      position: 16
-    - word: 一しょ
-      base: 一緒
-      position: 17
-    - word: う
-      base: うー
-      position: 20
-    - word: けんめい
-      base: 懸命
-      position: 21
-    - word: に
-      base: だ
-      position: 25
 - id: Gongitsune-f000131
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3031,20 +1030,6 @@
   sound_begin: 319840
   sound_end: 322720
   sentence: にげていきました。
-  words:
-    - word: にげ
-      base: 逃げる
-      position: 0
-    - word: て
-      position: 2
-    - word: いき
-      base: 行く
-      position: 3
-    - word: まし
-      base: ます
-      position: 5
-    - word: た
-      position: 7
 - id: Gongitsune-f000132
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3053,16 +1038,6 @@
   sound_begin: 322720
   sound_end: 324280
   sentence: ほら穴の近くの、
-  words:
-    - word: ほら穴
-      base: 洞穴
-      position: 0
-    - word: の
-      position: 3
-    - word: 近く
-      position: 4
-    - word: の
-      position: 6
 - id: Gongitsune-f000133
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3071,34 +1046,6 @@
   sound_begin: 324280
   sound_end: 327280
   sentence: はんの木の下でふりかえって見ましたが、
-  words:
-    - word: はんの木
-      base: 榛の木
-      position: 0
-    - word: の
-      position: 4
-    - word: 下
-      position: 5
-    - word: で
-      position: 6
-    - word: ふり
-      base: ふる
-      position: 7
-    - word: かえっ
-      base: かえる
-      position: 9
-    - word: て
-      position: 12
-    - word: 見
-      base: 見る
-      position: 13
-    - word: まし
-      base: ます
-      position: 14
-    - word: た
-      position: 16
-    - word: が
-      position: 17
 - id: Gongitsune-f000134
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3107,35 +1054,6 @@
   sound_begin: 327280
   sound_end: 331760
   sentence: 兵十は追っかけては来ませんでした。
-  words:
-    - word: 兵十
-      position: 0
-    - word: は
-      position: 2
-    - word: 追っ
-      base: 追う
-      position: 3
-    - word: かけ
-      base: 掛ける
-      position: 5
-    - word: て
-      position: 7
-    - word: は
-      position: 8
-    - word: 来
-      base: 来る
-      position: 9
-    - word: ませ
-      base: ます
-      position: 10
-    - word: ん
-      base: ず
-      position: 12
-    - word: でし
-      base: です
-      position: 13
-    - word: た
-      position: 15
 - id: Gongitsune-f000135
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3144,11 +1062,6 @@
   sound_begin: 331760
   sound_end: 332840
   sentence: ごんは、
-  words:
-    - word: ごん
-      position: 0
-    - word: は
-      position: 2
 - id: Gongitsune-f000136
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3157,14 +1070,6 @@
   sound_begin: 332840
   sound_end: 334586
   sentence: ほっとして、
-  words:
-    - word: ほっと
-      position: 0
-    - word: し
-      base: 為る
-      position: 3
-    - word: て
-      position: 4
 - id: Gongitsune-f000137
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3173,22 +1078,6 @@
   sound_begin: 334586
   sound_end: 336800
   sentence: うなぎの頭をかみくだき、
-  words:
-    - word: うなぎ
-      base: 鰻
-      position: 0
-    - word: の
-      position: 3
-    - word: 頭
-      position: 4
-    - word: を
-      position: 5
-    - word: かみ
-      base: かむ
-      position: 6
-    - word: くだき
-      base: 砕く
-      position: 8
 - id: Gongitsune-f000138
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3197,24 +1086,6 @@
   sound_begin: 336800
   sound_end: 339280
   sentence: やっとはずして穴のそとの、
-  words:
-    - word: やっと
-      base: 漸と
-      position: 0
-    - word: はずし
-      base: 外す
-      position: 3
-    - word: て
-      position: 6
-    - word: 穴
-      position: 7
-    - word: の
-      position: 8
-    - word: そと
-      base: 外
-      position: 9
-    - word: の
-      position: 11
 - id: Gongitsune-f000139
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3223,32 +1094,6 @@
   sound_begin: 339280
   sound_end: 345811
   sentence: 草の葉の上にのせておきました。
-  words:
-    - word: 草
-      position: 0
-    - word: の
-      position: 1
-    - word: 葉
-      position: 2
-    - word: の
-      position: 3
-    - word: 上
-      position: 4
-    - word: に
-      position: 5
-    - word: のせ
-      base: 乗せる
-      position: 6
-    - word: て
-      position: 8
-    - word: おき
-      base: おく
-      position: 9
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
 - id: Gongitsune-f000141
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3257,19 +1102,6 @@
   sound_begin: 346149
   sound_end: 347638
   sentence: 十日ほどたって、
-  words:
-    - word: 十
-      base: '10'
-      position: 0
-    - word: 日
-      position: 1
-    - word: ほど
-      position: 2
-    - word: たっ
-      base: たつ
-      position: 4
-    - word: て
-      position: 6
 - id: Gongitsune-f000142
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3278,11 +1110,6 @@
   sound_begin: 347638
   sound_end: 348119
   sentence: ごんが、
-  words:
-    - word: ごん
-      position: 0
-    - word: が
-      position: 2
 - id: Gongitsune-f000143
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3291,39 +1118,6 @@
   sound_begin: 348120
   sound_end: 352194
   sentence: 弥助というお百姓の家の裏を通りかかりますと、
-  words:
-    - word: 弥助
-      position: 0
-    - word: と
-      position: 2
-    - word: いう
-      base: 言う
-      position: 3
-    - word: お
-      base: 御
-      position: 5
-    - word: 百姓
-      position: 6
-    - word: の
-      position: 8
-    - word: 家
-      position: 9
-    - word: の
-      position: 10
-    - word: 裏
-      position: 11
-    - word: を
-      position: 12
-    - word: 通り
-      base: 通る
-      position: 13
-    - word: かかり
-      base: 掛かる
-      position: 15
-    - word: ます
-      position: 18
-    - word: と
-      position: 20
 - id: Gongitsune-f000144
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3332,12 +1126,6 @@
   sound_begin: 352194
   sound_end: 352920
   sentence: そこの、
-  words:
-    - word: そこ
-      base: 其処
-      position: 0
-    - word: の
-      position: 2
 - id: Gongitsune-f000145
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3346,21 +1134,6 @@
   sound_begin: 352920
   sound_end: 354640
   sentence: いちじくの木のかげで、
-  words:
-    - word: いちじく
-      base: イチジク
-      position: 0
-    - word: の
-      position: 4
-    - word: 木
-      position: 5
-    - word: の
-      position: 6
-    - word: かげ
-      position: 7
-    - word: で
-      base: だ
-      position: 9
 - id: Gongitsune-f000146
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3369,15 +1142,6 @@
   sound_begin: 354640
   sound_end: 356120
   sentence: 弥助の家内が、
-  words:
-    - word: 弥助
-      position: 0
-    - word: の
-      position: 2
-    - word: 家内
-      position: 3
-    - word: が
-      position: 5
 - id: Gongitsune-f000147
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3386,28 +1150,6 @@
   sound_begin: 356120
   sound_end: 360012
   sentence: おはぐろをつけていました。
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: はぐろ
-      base: 歯黒
-      position: 1
-    - word: を
-      position: 4
-    - word: つけ
-      base: つける
-      position: 5
-    - word: て
-      position: 7
-    - word: い
-      base: 居る
-      position: 8
-    - word: まし
-      base: ます
-      position: 9
-    - word: た
-      position: 11
 - id: Gongitsune-f000148
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3416,27 +1158,6 @@
   sound_begin: 360012
   sound_end: 363120
   sentence: 鍛冶屋の新兵衛の家のうらを通ると、
-  words:
-    - word: 鍛冶屋
-      position: 0
-    - word: の
-      position: 3
-    - word: 新兵衛
-      position: 4
-    - word: の
-      position: 7
-    - word: 家
-      position: 8
-    - word: の
-      position: 9
-    - word: うら
-      position: 10
-    - word: を
-      position: 12
-    - word: 通る
-      position: 13
-    - word: と
-      position: 15
 - id: Gongitsune-f000149
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3445,32 +1166,6 @@
   sound_begin: 363120
   sound_end: 367320
   sentence: 新兵衛の家内が髪をすいていました。
-  words:
-    - word: 新兵衛
-      position: 0
-    - word: の
-      position: 3
-    - word: 家内
-      position: 4
-    - word: が
-      position: 6
-    - word: 髪
-      position: 7
-    - word: を
-      position: 8
-    - word: すい
-      base: すく
-      position: 9
-    - word: て
-      position: 11
-    - word: い
-      base: 居る
-      position: 12
-    - word: まし
-      base: ます
-      position: 13
-    - word: た
-      position: 15
 - id: Gongitsune-f000150
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3479,11 +1174,6 @@
   sound_begin: 367314
   sound_end: 368425
   sentence: ごんは、
-  words:
-    - word: ごん
-      position: 0
-    - word: は
-      position: 2
 - id: Gongitsune-f000151
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3492,9 +1182,6 @@
   sound_begin: 368425
   sound_end: 369400
   sentence: 「ふふん、
-  words:
-    - word: ふふん
-      position: 1
 - id: Gongitsune-f000152
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3503,27 +1190,6 @@
   sound_begin: 369400
   sound_end: 371760
   sentence: 村に何かあるんだな」と、
-  words:
-    - word: 村
-      position: 0
-    - word: に
-      position: 1
-    - word: 何
-      position: 2
-    - word: か
-      position: 3
-    - word: ある
-      base: 有る
-      position: 4
-    - word: ん
-      base: の
-      position: 6
-    - word: だ
-      position: 7
-    - word: な
-      position: 8
-    - word: と
-      position: 10
 - id: Gongitsune-f000153
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3532,15 +1198,6 @@
   sound_begin: 371760
   sound_end: 374320
   sentence: 思いました。
-  words:
-    - word: 思い
-      base: 思う
-      position: 0
-    - word: まし
-      base: ます
-      position: 2
-    - word: た
-      position: 4
 - id: Gongitsune-f000154
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3549,12 +1206,6 @@
   sound_begin: 374320
   sound_end: 375840
   sentence: 「何だろう、
-  words:
-    - word: 何
-      position: 1
-    - word: だろう
-      base: だ
-      position: 2
 - id: Gongitsune-f000155
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3563,15 +1214,6 @@
   sound_begin: 375840
   sound_end: 377960
   sentence: 秋祭かな。
-  words:
-    - word: 秋
-      position: 0
-    - word: 祭
-      position: 1
-    - word: か
-      position: 2
-    - word: な
-      position: 3
 - id: Gongitsune-f000156
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3580,12 +1222,6 @@
   sound_begin: 377960
   sound_end: 378680
   sentence: 祭なら、
-  words:
-    - word: 祭
-      position: 0
-    - word: なら
-      base: だ
-      position: 1
 - id: Gongitsune-f000157
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3594,32 +1230,6 @@
   sound_begin: 378680
   sound_end: 382320
   sentence: 太鼓や笛の音がしそうなものだ。
-  words:
-    - word: 太鼓
-      position: 0
-    - word: や
-      position: 2
-    - word: 笛
-      position: 3
-    - word: の
-      position: 4
-    - word: 音
-      position: 5
-    - word: が
-      position: 6
-    - word: し
-      base: 為る
-      position: 7
-    - word: そう
-      position: 8
-    - word: な
-      base: だ
-      position: 10
-    - word: もの
-      base: 物
-      position: 11
-    - word: だ
-      position: 13
 - id: Gongitsune-f000158
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3628,17 +1238,6 @@
   sound_begin: 382320
   sound_end: 383760
   sentence: それに第一、
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: に
-      position: 2
-    - word: 第
-      position: 3
-    - word: 一
-      base: '1'
-      position: 4
 - id: Gongitsune-f000159
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3647,27 +1246,6 @@
   sound_begin: 383760
   sound_end: 388356
   sentence: お宮にのぼりが立つはずだが」
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 宮
-      position: 1
-    - word: に
-      position: 2
-    - word: のぼり
-      position: 3
-    - word: が
-      position: 6
-    - word: 立つ
-      position: 7
-    - word: はず
-      base: 筈
-      position: 9
-    - word: だ
-      position: 11
-    - word: が
-      position: 12
 - id: Gongitsune-f000160
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3676,30 +1254,6 @@
   sound_begin: 388356
   sound_end: 391360
   sentence: こんなことを考えながらやって来ますと、
-  words:
-    - word: こんな
-      position: 0
-    - word: こと
-      position: 3
-    - word: を
-      position: 5
-    - word: 考え
-      base: 考える
-      position: 6
-    - word: ながら
-      position: 8
-    - word: やっ
-      base: 遣る
-      position: 11
-    - word: て
-      position: 13
-    - word: 来
-      base: 来る
-      position: 14
-    - word: ます
-      position: 15
-    - word: と
-      position: 17
 - id: Gongitsune-f000161
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3708,17 +1262,6 @@
   sound_begin: 391360
   sound_end: 392440
   sentence: いつの間にか、
-  words:
-    - word: いつ
-      position: 0
-    - word: の
-      position: 2
-    - word: 間
-      position: 3
-    - word: に
-      position: 4
-    - word: か
-      position: 5
 - id: Gongitsune-f000162
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3727,20 +1270,6 @@
   sound_begin: 392440
   sound_end: 394640
   sentence: 表に赤い井戸のある、
-  words:
-    - word: 表
-      position: 0
-    - word: に
-      position: 1
-    - word: 赤い
-      position: 2
-    - word: 井戸
-      position: 4
-    - word: の
-      position: 6
-    - word: ある
-      base: 有る
-      position: 7
 - id: Gongitsune-f000163
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3749,27 +1278,6 @@
   sound_begin: 394640
   sound_end: 398077
   sentence: 兵十の家の前へ来ました。
-  words:
-    - word: 兵十
-      position: 0
-    - word: の
-      position: 2
-    - word: 家
-      position: 3
-    - word: の
-      position: 4
-    - word: 前
-      position: 5
-    - word: へ
-      position: 6
-    - word: 来
-      base: 来る
-      position: 7
-    - word: まし
-      base: ます
-      position: 8
-    - word: た
-      position: 10
 - id: Gongitsune-f000164
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3778,12 +1286,6 @@
   sound_begin: 398077
   sound_end: 399160
   sentence: その小さな、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 小さな
-      position: 2
 - id: Gongitsune-f000165
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3792,25 +1294,6 @@
   sound_begin: 399160
   sound_end: 402080
   sentence: こわれかけた家の中には、
-  words:
-    - word: こわれ
-      base: 壊れる
-      position: 0
-    - word: かけ
-      base: 掛ける
-      position: 3
-    - word: た
-      position: 5
-    - word: 家
-      position: 6
-    - word: の
-      position: 7
-    - word: 中
-      position: 8
-    - word: に
-      position: 9
-    - word: は
-      position: 10
 - id: Gongitsune-f000166
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3819,28 +1302,6 @@
   sound_begin: 402080
   sound_end: 406880
   sentence: 大勢の人があつまっていました。
-  words:
-    - word: 大勢
-      position: 0
-    - word: の
-      position: 2
-    - word: 人
-      position: 3
-    - word: が
-      position: 4
-    - word: あつまっ
-      base: 集まる
-      position: 5
-    - word: て
-      position: 9
-    - word: い
-      base: 居る
-      position: 10
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
 - id: Gongitsune-f000167
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3849,21 +1310,6 @@
   sound_begin: 406880
   sound_end: 408400
   sentence: よそいきの着物を着て、
-  words:
-    - word: よそいき
-      base: 余所行き
-      position: 0
-    - word: の
-      position: 4
-    - word: 着物
-      position: 5
-    - word: を
-      position: 7
-    - word: 着
-      base: 着る
-      position: 8
-    - word: て
-      position: 9
 - id: Gongitsune-f000168
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3872,33 +1318,6 @@
   sound_begin: 408400
   sound_end: 411840
   sentence: 腰に手拭をさげたりした女たちが、
-  words:
-    - word: 腰
-      position: 0
-    - word: に
-      position: 1
-    - word: 手拭
-      base: 手拭い
-      position: 2
-    - word: を
-      position: 4
-    - word: さげ
-      base: 下げる
-      position: 5
-    - word: たり
-      position: 7
-    - word: し
-      base: 為る
-      position: 9
-    - word: た
-      position: 10
-    - word: 女
-      position: 11
-    - word: たち
-      base: 達
-      position: 12
-    - word: が
-      position: 14
 - id: Gongitsune-f000169
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3907,30 +1326,6 @@
   sound_begin: 411840
   sound_end: 415720
   sentence: 表のかまどで火をたいています。
-  words:
-    - word: 表
-      position: 0
-    - word: の
-      position: 1
-    - word: かまど
-      base: 竃
-      position: 2
-    - word: で
-      position: 5
-    - word: 火
-      position: 6
-    - word: を
-      position: 7
-    - word: たい
-      base: 焚く
-      position: 8
-    - word: て
-      position: 10
-    - word: い
-      base: 居る
-      position: 11
-    - word: ます
-      position: 12
 - id: Gongitsune-f000170
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3939,19 +1334,6 @@
   sound_begin: 415720
   sound_end: 417600
   sentence: 大きな鍋の中では、
-  words:
-    - word: 大きな
-      position: 0
-    - word: 鍋
-      position: 3
-    - word: の
-      position: 4
-    - word: 中
-      position: 5
-    - word: で
-      position: 6
-    - word: は
-      position: 7
 - id: Gongitsune-f000171
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3960,26 +1342,6 @@
   sound_begin: 417600
   sound_end: 422217
   sentence: 何かぐずぐず煮えていました。
-  words:
-    - word: 何
-      position: 0
-    - word: か
-      position: 1
-    - word: ぐずぐず
-      position: 2
-    - word: 煮え
-      base: 煮える
-      position: 6
-    - word: て
-      position: 8
-    - word: い
-      base: 居る
-      position: 9
-    - word: まし
-      base: ます
-      position: 10
-    - word: た
-      position: 12
 - id: Gongitsune-f000172
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3988,9 +1350,6 @@
   sound_begin: 422217
   sound_end: 423160
   sentence: 「ああ、
-  words:
-    - word: ああ
-      position: 1
 - id: Gongitsune-f000173
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -3999,13 +1358,6 @@
   sound_begin: 423160
   sound_end: 424640
   sentence: 葬式だ」と、
-  words:
-    - word: 葬式
-      position: 0
-    - word: だ
-      position: 2
-    - word: と
-      position: 4
 - id: Gongitsune-f000174
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4014,19 +1366,6 @@
   sound_begin: 424640
   sound_end: 427640
   sentence: ごんは思いました。
-  words:
-    - word: ごん
-      position: 0
-    - word: は
-      position: 2
-    - word: 思い
-      base: 思う
-      position: 3
-    - word: まし
-      base: ます
-      position: 5
-    - word: た
-      position: 7
 - id: Gongitsune-f000175
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4035,32 +1374,6 @@
   sound_begin: 427640
   sound_end: 434720
   sentence: 「兵十の家のだれが死んだんだろう」
-  words:
-    - word: 兵十
-      position: 1
-    - word: の
-      position: 3
-    - word: 家
-      position: 4
-    - word: の
-      position: 5
-    - word: だれ
-      base: 誰
-      position: 6
-    - word: が
-      position: 8
-    - word: 死ん
-      base: 死ぬ
-      position: 9
-    - word: だ
-      base: た
-      position: 11
-    - word: ん
-      base: の
-      position: 12
-    - word: だろう
-      base: だ
-      position: 13
 - id: Gongitsune-f000176
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4069,19 +1382,6 @@
   sound_begin: 434720
   sound_end: 436360
   sentence: お午がすぎると、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 午
-      position: 1
-    - word: が
-      position: 2
-    - word: すぎる
-      base: 過ぎる
-      position: 3
-    - word: と
-      position: 6
 - id: Gongitsune-f000177
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4090,11 +1390,6 @@
   sound_begin: 436360
   sound_end: 436800
   sentence: ごんは、
-  words:
-    - word: ごん
-      position: 0
-    - word: は
-      position: 2
 - id: Gongitsune-f000178
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4103,20 +1398,6 @@
   sound_begin: 436800
   sound_end: 438720
   sentence: 村の墓地へ行って、
-  words:
-    - word: 村
-      position: 0
-    - word: の
-      position: 1
-    - word: 墓地
-      position: 2
-    - word: へ
-      position: 4
-    - word: 行っ
-      base: 行く
-      position: 5
-    - word: て
-      position: 7
 - id: Gongitsune-f000179
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4125,30 +1406,6 @@
   sound_begin: 438720
   sound_end: 442832
   sentence: 六地蔵さんのかげにかくれていました。
-  words:
-    - word: 六地蔵
-      position: 0
-    - word: さん
-      position: 3
-    - word: の
-      position: 5
-    - word: かげ
-      position: 6
-    - word: に
-      position: 8
-    - word: かくれ
-      base: 隠れる
-      position: 9
-    - word: て
-      position: 12
-    - word: い
-      base: 居る
-      position: 13
-    - word: まし
-      base: ます
-      position: 14
-    - word: た
-      position: 16
 - id: Gongitsune-f000180
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4157,17 +1414,6 @@
   sound_begin: 442832
   sound_end: 444336
   sentence: いいお天気で、
-  words:
-    - word: いい
-      base: 良い
-      position: 0
-    - word: お
-      base: 御
-      position: 2
-    - word: 天気
-      position: 3
-    - word: で
-      position: 5
 - id: Gongitsune-f000181
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4176,17 +1422,6 @@
   sound_begin: 444336
   sound_end: 445840
   sentence: 遠く向うには、
-  words:
-    - word: 遠く
-      base: 遠い
-      position: 0
-    - word: 向う
-      base: 向こう
-      position: 2
-    - word: に
-      position: 4
-    - word: は
-      position: 5
 - id: Gongitsune-f000182
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4195,28 +1430,6 @@
   sound_begin: 445840
   sound_end: 450520
   sentence: お城の屋根瓦が光っています。
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 城
-      position: 1
-    - word: の
-      position: 2
-    - word: 屋根瓦
-      position: 3
-    - word: が
-      position: 6
-    - word: 光っ
-      base: 光る
-      position: 7
-    - word: て
-      position: 9
-    - word: い
-      base: 居る
-      position: 10
-    - word: ます
-      position: 11
 - id: Gongitsune-f000183
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4225,13 +1438,6 @@
   sound_begin: 450520
   sound_end: 451560
   sentence: 墓地には、
-  words:
-    - word: 墓地
-      position: 0
-    - word: に
-      position: 2
-    - word: は
-      position: 3
 - id: Gongitsune-f000184
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4240,14 +1446,6 @@
   sound_begin: 451560
   sound_end: 452520
   sentence: ひがん花が、
-  words:
-    - word: ひがん
-      base: 彼岸
-      position: 0
-    - word: 花
-      position: 3
-    - word: が
-      position: 4
 - id: Gongitsune-f000185
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4256,35 +1454,6 @@
   sound_begin: 452520
   sound_end: 455680
   sentence: 赤い布のようにさきつづいていました。
-  words:
-    - word: 赤い
-      position: 0
-    - word: 布
-      position: 2
-    - word: の
-      position: 3
-    - word: よう
-      base: 様
-      position: 4
-    - word: に
-      base: だ
-      position: 6
-    - word: さき
-      base: さく
-      position: 7
-    - word: つづい
-      base: 続く
-      position: 9
-    - word: て
-      position: 12
-    - word: い
-      base: 居る
-      position: 13
-    - word: まし
-      base: ます
-      position: 14
-    - word: た
-      position: 16
 - id: Gongitsune-f000186
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4293,9 +1462,6 @@
   sound_begin: 455680
   sound_end: 456470
   sentence: と、
-  words:
-    - word: と
-      position: 0
 - id: Gongitsune-f000187
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4304,15 +1470,6 @@
   sound_begin: 456470
   sound_end: 458154
   sentence: 村の方から、
-  words:
-    - word: 村
-      position: 0
-    - word: の
-      position: 1
-    - word: 方
-      position: 2
-    - word: から
-      position: 3
 - id: Gongitsune-f000188
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4321,9 +1478,6 @@
   sound_begin: 458154
   sound_end: 459928
   sentence: カーン、
-  words:
-    - word: カーン
-      position: 0
 - id: Gongitsune-f000189
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4332,9 +1486,6 @@
   sound_begin: 459928
   sound_end: 461492
   sentence: カーン、
-  words:
-    - word: カーン
-      position: 0
 - id: Gongitsune-f000190
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4343,9 +1494,6 @@
   sound_begin: 461492
   sound_end: 461720
   sentence: と、
-  words:
-    - word: と
-      position: 0
 - id: Gongitsune-f000191
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4354,24 +1502,6 @@
   sound_begin: 461720
   sound_end: 464642
   sentence: 鐘が鳴って来ました。
-  words:
-    - word: 鐘
-      position: 0
-    - word: が
-      position: 1
-    - word: 鳴っ
-      base: 鳴る
-      position: 2
-    - word: て
-      position: 4
-    - word: 来
-      base: 来る
-      position: 5
-    - word: まし
-      base: ます
-      position: 6
-    - word: た
-      position: 8
 - id: Gongitsune-f000192
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4380,17 +1510,6 @@
   sound_begin: 464642
   sound_end: 468960
   sentence: 葬式の出る合図です。
-  words:
-    - word: 葬式
-      position: 0
-    - word: の
-      position: 2
-    - word: 出る
-      position: 3
-    - word: 合図
-      position: 5
-    - word: です
-      position: 7
 - id: Gongitsune-f000193
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4399,10 +1518,6 @@
   sound_begin: 468960
   sound_end: 470000
   sentence: やがて、
-  words:
-    - word: やがて
-      base: 軈て
-      position: 0
 - id: Gongitsune-f000194
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4411,54 +1526,6 @@
   sound_begin: 470000
   sound_end: 476960
   sentence: 白い着物を着た葬列のものたちがやって来るのがちらちら見えはじめました。
-  words:
-    - word: 白い
-      position: 0
-    - word: 着物
-      position: 2
-    - word: を
-      position: 4
-    - word: 着
-      base: 着る
-      position: 5
-    - word: た
-      position: 6
-    - word: 葬列
-      position: 7
-    - word: の
-      position: 9
-    - word: もの
-      base: 物
-      position: 10
-    - word: たち
-      base: 達
-      position: 12
-    - word: が
-      position: 14
-    - word: やっ
-      base: 遣る
-      position: 15
-    - word: て
-      position: 17
-    - word: 来る
-      position: 18
-    - word: の
-      position: 20
-    - word: が
-      position: 21
-    - word: ちらちら
-      position: 22
-    - word: 見え
-      base: 見える
-      position: 26
-    - word: はじめ
-      base: 始める
-      position: 28
-    - word: まし
-      base: ます
-      position: 31
-    - word: た
-      position: 33
 - id: Gongitsune-f000195
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4467,22 +1534,6 @@
   sound_begin: 476960
   sound_end: 480941
   sentence: 話声も近くなりました。
-  words:
-    - word: 話声
-      position: 0
-    - word: も
-      position: 2
-    - word: 近く
-      base: 近い
-      position: 3
-    - word: なり
-      base: 成る
-      position: 5
-    - word: まし
-      base: ます
-      position: 7
-    - word: た
-      position: 9
 - id: Gongitsune-f000196
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4491,28 +1542,6 @@
   sound_begin: 480941
   sound_end: 485720
   sentence: 葬列は墓地へはいって来ました。
-  words:
-    - word: 葬列
-      position: 0
-    - word: は
-      position: 2
-    - word: 墓地
-      position: 3
-    - word: へ
-      position: 5
-    - word: はいっ
-      base: 入る
-      position: 6
-    - word: て
-      position: 9
-    - word: 来
-      base: 来る
-      position: 10
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
 - id: Gongitsune-f000197
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4521,23 +1550,6 @@
   sound_begin: 485720
   sound_end: 488120
   sentence: 人々が通ったあとには、
-  words:
-    - word: 人々
-      position: 0
-    - word: が
-      position: 2
-    - word: 通っ
-      base: 通う
-      position: 3
-    - word: た
-      position: 5
-    - word: あと
-      base: 後
-      position: 6
-    - word: に
-      position: 8
-    - word: は
-      position: 9
 - id: Gongitsune-f000198
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4546,14 +1558,6 @@
   sound_begin: 488120
   sound_end: 489489
   sentence: ひがん花が、
-  words:
-    - word: ひがん
-      base: 彼岸
-      position: 0
-    - word: 花
-      position: 3
-    - word: が
-      position: 4
 - id: Gongitsune-f000199
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4562,26 +1566,6 @@
   sound_begin: 489489
   sound_end: 492925
   sentence: ふみおられていました。
-  words:
-    - word: ふみ
-      base: 踏む
-      position: 0
-    - word: おら
-      base: 居る
-      position: 2
-    - word: れ
-      base: れる
-      position: 4
-    - word: て
-      position: 5
-    - word: い
-      base: 居る
-      position: 6
-    - word: まし
-      base: ます
-      position: 7
-    - word: た
-      position: 9
 - id: Gongitsune-f000200
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4590,27 +1574,6 @@
   sound_begin: 492925
   sound_end: 495480
   sentence: ごんはのびあがって見ました。
-  words:
-    - word: ごん
-      position: 0
-    - word: は
-      position: 2
-    - word: のび
-      base: 伸びる
-      position: 3
-    - word: あがっ
-      base: 上がる
-      position: 5
-    - word: て
-      position: 8
-    - word: 見
-      base: 見る
-      position: 9
-    - word: まし
-      base: ます
-      position: 10
-    - word: た
-      position: 12
 - id: Gongitsune-f000201
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4619,11 +1582,6 @@
   sound_begin: 495480
   sound_end: 496692
   sentence: 兵十が、
-  words:
-    - word: 兵十
-      position: 0
-    - word: が
-      position: 2
 - id: Gongitsune-f000202
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4632,19 +1590,6 @@
   sound_begin: 496692
   sound_end: 499240
   sentence: 白いかみしもをつけて、
-  words:
-    - word: 白い
-      position: 0
-    - word: かみしも
-      base: 上下
-      position: 2
-    - word: を
-      position: 6
-    - word: つけ
-      base: つける
-      position: 7
-    - word: て
-      position: 9
 - id: Gongitsune-f000203
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4653,21 +1598,6 @@
   sound_begin: 499240
   sound_end: 503000
   sentence: 位牌をささげています。
-  words:
-    - word: 位牌
-      position: 0
-    - word: を
-      position: 2
-    - word: ささげ
-      base: 捧げる
-      position: 3
-    - word: て
-      position: 6
-    - word: い
-      base: 居る
-      position: 7
-    - word: ます
-      position: 8
 - id: Gongitsune-f000204
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4676,11 +1606,6 @@
   sound_begin: 503000
   sound_end: 504000
   sentence: いつもは、
-  words:
-    - word: いつも
-      position: 0
-    - word: は
-      position: 3
 - id: Gongitsune-f000205
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4689,28 +1614,6 @@
   sound_begin: 504000
   sound_end: 507646
   sentence: 赤いさつま芋みたいな元気のいい顔が、
-  words:
-    - word: 赤い
-      position: 0
-    - word: さつま芋
-      base: 薩摩芋
-      position: 2
-    - word: みたい
-      position: 6
-    - word: な
-      base: だ
-      position: 9
-    - word: 元気
-      position: 10
-    - word: の
-      position: 12
-    - word: いい
-      base: 良い
-      position: 13
-    - word: 顔
-      position: 15
-    - word: が
-      position: 16
 - id: Gongitsune-f000206
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4719,31 +1622,6 @@
   sound_begin: 507646
   sound_end: 512020
   sentence: きょうは何だかしおれていました。
-  words:
-    - word: きょう
-      base: 今日
-      position: 0
-    - word: は
-      position: 3
-    - word: 何
-      position: 4
-    - word: だ
-      position: 5
-    - word: か
-      position: 6
-    - word: しおれ
-      base: 萎れる
-      position: 7
-    - word: て
-      position: 10
-    - word: い
-      base: 居る
-      position: 11
-    - word: まし
-      base: ます
-      position: 12
-    - word: た
-      position: 14
 - id: Gongitsune-f000207
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4752,9 +1630,6 @@
   sound_begin: 512020
   sound_end: 512720
   sentence: 「ははん、
-  words:
-    - word: ははん
-      position: 1
 - id: Gongitsune-f000208
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4763,28 +1638,6 @@
   sound_begin: 512720
   sound_end: 517320
   sentence: 死んだのは兵十のおっ母だ」
-  words:
-    - word: 死ん
-      base: 死ぬ
-      position: 0
-    - word: だ
-      base: た
-      position: 2
-    - word: の
-      position: 3
-    - word: は
-      position: 4
-    - word: 兵十
-      position: 5
-    - word: の
-      position: 7
-    - word: おっ
-      base: 御
-      position: 8
-    - word: 母
-      position: 10
-    - word: だ
-      position: 11
 - id: Gongitsune-f000209
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4793,18 +1646,6 @@
   sound_begin: 517320
   sound_end: 519080
   sentence: ごんはそう思いながら、
-  words:
-    - word: ごん
-      position: 0
-    - word: は
-      position: 2
-    - word: そう
-      position: 3
-    - word: 思い
-      base: 思う
-      position: 5
-    - word: ながら
-      position: 7
 - id: Gongitsune-f000210
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4813,22 +1654,6 @@
   sound_begin: 519080
   sound_end: 522320
   sentence: 頭をひっこめました。
-  words:
-    - word: 頭
-      position: 0
-    - word: を
-      position: 1
-    - word: ひっ
-      base: 引く
-      position: 2
-    - word: こめ
-      base: 込む
-      position: 4
-    - word: まし
-      base: ます
-      position: 6
-    - word: た
-      position: 8
 - id: Gongitsune-f000211
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4837,12 +1662,6 @@
   sound_begin: 522320
   sound_end: 523280
   sentence: その晩、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 晩
-      position: 2
 - id: Gongitsune-f000212
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4851,11 +1670,6 @@
   sound_begin: 523280
   sound_end: 524320
   sentence: ごんは、
-  words:
-    - word: ごん
-      position: 0
-    - word: は
-      position: 2
 - id: Gongitsune-f000213
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4864,23 +1678,6 @@
   sound_begin: 524320
   sound_end: 528794
   sentence: 穴の中で考えました。
-  words:
-    - word: 穴
-      position: 0
-    - word: の
-      position: 1
-    - word: 中
-      position: 2
-    - word: で
-      position: 3
-    - word: 考え
-      base: 考える
-      position: 4
-    - word: まし
-      base: ます
-      position: 6
-    - word: た
-      position: 8
 - id: Gongitsune-f000214
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4889,18 +1686,6 @@
   sound_begin: 528794
   sound_end: 530080
   sentence: 「兵十のおっ母は、
-  words:
-    - word: 兵十
-      position: 1
-    - word: の
-      position: 3
-    - word: おっ
-      base: 御
-      position: 4
-    - word: 母
-      position: 6
-    - word: は
-      position: 7
 - id: Gongitsune-f000215
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4909,21 +1694,6 @@
   sound_begin: 530080
   sound_end: 532320
   sentence: 床についていて、
-  words:
-    - word: 床
-      position: 0
-    - word: に
-      position: 1
-    - word: つい
-      base: つく
-      position: 2
-    - word: て
-      position: 4
-    - word: い
-      base: 居る
-      position: 5
-    - word: て
-      position: 6
 - id: Gongitsune-f000216
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4932,32 +1702,6 @@
   sound_begin: 532320
   sound_end: 535840
   sentence: うなぎが食べたいと言ったにちがいない。
-  words:
-    - word: うなぎ
-      base: 鰻
-      position: 0
-    - word: が
-      position: 3
-    - word: 食べ
-      base: 食べる
-      position: 4
-    - word: たい
-      position: 6
-    - word: と
-      position: 8
-    - word: 言っ
-      base: 言う
-      position: 9
-    - word: た
-      position: 11
-    - word: に
-      position: 12
-    - word: ちがい
-      base: 違い
-      position: 13
-    - word: ない
-      base: 無い
-      position: 16
 - id: Gongitsune-f000217
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -4966,39 +1710,6 @@
   sound_begin: 535840
   sound_end: 539703
   sentence: それで兵十がはりきり網をもち出したんだ。
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: で
-      position: 2
-    - word: 兵十
-      position: 3
-    - word: が
-      position: 5
-    - word: はり
-      base: 張る
-      position: 6
-    - word: きり
-      base: 切る
-      position: 8
-    - word: 網
-      position: 10
-    - word: を
-      position: 11
-    - word: もち
-      base: 持つ
-      position: 12
-    - word: 出し
-      base: 出す
-      position: 14
-    - word: た
-      position: 16
-    - word: ん
-      base: の
-      position: 17
-    - word: だ
-      position: 18
 - id: Gongitsune-f000218
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5007,12 +1718,6 @@
   sound_begin: 539703
   sound_end: 540720
   sentence: ところが、
-  words:
-    - word: ところ
-      base: 所
-      position: 0
-    - word: が
-      position: 3
 - id: Gongitsune-f000219
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5021,21 +1726,6 @@
   sound_begin: 540720
   sound_end: 542240
   sentence: わしがいたずらをして、
-  words:
-    - word: わし
-      position: 0
-    - word: が
-      position: 2
-    - word: いたずら
-      base: 悪戯
-      position: 3
-    - word: を
-      position: 7
-    - word: し
-      base: 為る
-      position: 8
-    - word: て
-      position: 9
 - id: Gongitsune-f000220
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5044,27 +1734,6 @@
   sound_begin: 542240
   sound_end: 545280
   sentence: うなぎをとって来てしまった。
-  words:
-    - word: うなぎ
-      base: 鰻
-      position: 0
-    - word: を
-      position: 3
-    - word: とっ
-      base: 取る
-      position: 4
-    - word: て
-      position: 6
-    - word: 来
-      base: 来る
-      position: 7
-    - word: て
-      position: 8
-    - word: しまっ
-      base: 仕舞う
-      position: 9
-    - word: た
-      position: 12
 - id: Gongitsune-f000221
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5073,15 +1742,6 @@
   sound_begin: 545280
   sound_end: 546657
   sentence: だから兵十は、
-  words:
-    - word: だ
-      position: 0
-    - word: から
-      position: 1
-    - word: 兵十
-      position: 3
-    - word: は
-      position: 5
 - id: Gongitsune-f000222
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5090,36 +1750,6 @@
   sound_begin: 546657
   sound_end: 551120
   sentence: おっ母にうなぎを食べさせることができなかった。
-  words:
-    - word: おっ
-      base: 御
-      position: 0
-    - word: 母
-      position: 2
-    - word: に
-      position: 3
-    - word: うなぎ
-      base: 鰻
-      position: 4
-    - word: を
-      position: 7
-    - word: 食べ
-      base: 食べる
-      position: 8
-    - word: させる
-      position: 10
-    - word: こと
-      position: 13
-    - word: が
-      position: 15
-    - word: でき
-      base: 出来る
-      position: 16
-    - word: なかっ
-      base: ない
-      position: 18
-    - word: た
-      position: 21
 - id: Gongitsune-f000223
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5128,20 +1758,6 @@
   sound_begin: 551120
   sound_end: 552440
   sentence: そのままおっ母は、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: まま
-      base: 侭
-      position: 2
-    - word: おっ
-      base: 御
-      position: 4
-    - word: 母
-      position: 6
-    - word: は
-      position: 7
 - id: Gongitsune-f000224
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5150,23 +1766,6 @@
   sound_begin: 552440
   sound_end: 555560
   sentence: 死んじゃったにちがいない。
-  words:
-    - word: 死ん
-      base: 死ぬ
-      position: 0
-    - word: じゃっ
-      base: ちゃう
-      position: 2
-    - word: た
-      position: 5
-    - word: に
-      position: 6
-    - word: ちがい
-      base: 違い
-      position: 7
-    - word: ない
-      base: 無い
-      position: 10
 - id: Gongitsune-f000225
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5175,9 +1774,6 @@
   sound_begin: 555560
   sound_end: 556480
   sentence: ああ、
-  words:
-    - word: ああ
-      position: 0
 - id: Gongitsune-f000226
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5186,17 +1782,6 @@
   sound_begin: 556480
   sound_end: 558160
   sentence: うなぎが食べたい、
-  words:
-    - word: うなぎ
-      base: 鰻
-      position: 0
-    - word: が
-      position: 3
-    - word: 食べ
-      base: 食べる
-      position: 4
-    - word: たい
-      position: 6
 - id: Gongitsune-f000227
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5205,24 +1790,6 @@
   sound_begin: 558160
   sound_end: 560310
   sentence: うなぎが食べたいとおもいながら、
-  words:
-    - word: うなぎ
-      base: 鰻
-      position: 0
-    - word: が
-      position: 3
-    - word: 食べ
-      base: 食べる
-      position: 4
-    - word: たい
-      position: 6
-    - word: と
-      position: 8
-    - word: おもい
-      base: 思う
-      position: 9
-    - word: ながら
-      position: 12
 - id: Gongitsune-f000228
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5231,19 +1798,6 @@
   sound_begin: 560310
   sound_end: 562626
   sentence: 死んだんだろう。
-  words:
-    - word: 死ん
-      base: 死ぬ
-      position: 0
-    - word: だ
-      base: た
-      position: 2
-    - word: ん
-      base: の
-      position: 3
-    - word: だろう
-      base: だ
-      position: 4
 - id: Gongitsune-f000229
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5252,13 +1806,6 @@
   sound_begin: 562626
   sound_end: 563800
   sentence: ちょッ、
-  words:
-    - word: ちょ
-      base: 一寸
-      position: 0
-    - word: ッ
-      base: つ
-      position: 2
 - id: Gongitsune-f000230
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5267,25 +1814,6 @@
   sound_begin: 563800
   sound_end: 570422
   sentence: あんないたずらをしなけりゃよかった。」
-  words:
-    - word: あんな
-      position: 0
-    - word: いたずら
-      base: 悪戯
-      position: 3
-    - word: を
-      position: 7
-    - word: し
-      base: 為る
-      position: 8
-    - word: なけりゃ
-      base: ない
-      position: 9
-    - word: よかっ
-      base: 良い
-      position: 13
-    - word: た
-      position: 16
 - id: Gongitsune-f000232
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5294,11 +1822,6 @@
   sound_begin: 570850
   sound_end: 571880
   sentence: 兵十が、
-  words:
-    - word: 兵十
-      position: 0
-    - word: が
-      position: 2
 - id: Gongitsune-f000233
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5307,18 +1830,6 @@
   sound_begin: 571880
   sound_end: 573520
   sentence: 赤い井戸のところで、
-  words:
-    - word: 赤い
-      position: 0
-    - word: 井戸
-      position: 2
-    - word: の
-      position: 4
-    - word: ところ
-      base: 所
-      position: 5
-    - word: で
-      position: 8
 - id: Gongitsune-f000234
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5327,24 +1838,6 @@
   sound_begin: 573520
   sound_end: 576960
   sentence: 麦をといでいました。
-  words:
-    - word: 麦
-      position: 0
-    - word: を
-      position: 1
-    - word: とい
-      base: 研ぐ
-      position: 2
-    - word: で
-      position: 4
-    - word: い
-      base: 居る
-      position: 5
-    - word: まし
-      base: ます
-      position: 6
-    - word: た
-      position: 8
 - id: Gongitsune-f000235
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5353,15 +1846,6 @@
   sound_begin: 576960
   sound_end: 578400
   sentence: 兵十は今まで、
-  words:
-    - word: 兵十
-      position: 0
-    - word: は
-      position: 2
-    - word: 今
-      position: 3
-    - word: まで
-      position: 4
 - id: Gongitsune-f000236
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5370,21 +1854,6 @@
   sound_begin: 578400
   sound_end: 579640
   sentence: おっ母と二人きりで、
-  words:
-    - word: おっ
-      base: 御
-      position: 0
-    - word: 母
-      position: 2
-    - word: と
-      position: 3
-    - word: 二人
-      position: 4
-    - word: きり
-      position: 6
-    - word: で
-      base: だ
-      position: 8
 - id: Gongitsune-f000237
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5393,30 +1862,6 @@
   sound_begin: 579640
   sound_end: 582436
   sentence: 貧しいくらしをしていたもので、
-  words:
-    - word: 貧しい
-      position: 0
-    - word: くらし
-      base: 暮らし
-      position: 3
-    - word: を
-      position: 6
-    - word: し
-      base: 為る
-      position: 7
-    - word: て
-      position: 8
-    - word: い
-      base: 居る
-      position: 9
-    - word: た
-      position: 10
-    - word: もの
-      base: 物
-      position: 11
-    - word: で
-      base: だ
-      position: 13
 - id: Gongitsune-f000238
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5425,26 +1870,6 @@
   sound_begin: 582436
   sound_end: 584480
   sentence: おっ母が死んでしまっては、
-  words:
-    - word: おっ
-      base: 御
-      position: 0
-    - word: 母
-      position: 2
-    - word: が
-      position: 3
-    - word: 死ん
-      base: 死ぬ
-      position: 4
-    - word: で
-      position: 6
-    - word: しまっ
-      base: 仕舞う
-      position: 7
-    - word: て
-      position: 10
-    - word: は
-      position: 11
 - id: Gongitsune-f000239
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5453,17 +1878,6 @@
   sound_begin: 584480
   sound_end: 588480
   sentence: もう一人ぼっちでした。
-  words:
-    - word: もう
-      position: 0
-    - word: 一人ぼっち
-      base: 独りぼっち
-      position: 2
-    - word: でし
-      base: です
-      position: 7
-    - word: た
-      position: 9
 - id: Gongitsune-f000240
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5472,23 +1886,6 @@
   sound_begin: 588480
   sound_end: 590720
   sentence: 「おれと同じ一人ぼっちの兵十か」
-  words:
-    - word: おれ
-      base: 俺
-      position: 1
-    - word: と
-      position: 3
-    - word: 同じ
-      position: 4
-    - word: 一人ぼっち
-      base: 独りぼっち
-      position: 6
-    - word: の
-      position: 11
-    - word: 兵十
-      position: 12
-    - word: か
-      position: 14
 - id: Gongitsune-f000241
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5497,34 +1894,6 @@
   sound_begin: 590720
   sound_end: 595886
   sentence: こちらの物置の後から見ていたごんは、
-  words:
-    - word: こちら
-      base: 此方
-      position: 0
-    - word: の
-      position: 3
-    - word: 物置
-      position: 4
-    - word: の
-      position: 6
-    - word: 後
-      position: 7
-    - word: から
-      position: 8
-    - word: 見
-      base: 見る
-      position: 10
-    - word: て
-      position: 11
-    - word: い
-      base: 居る
-      position: 12
-    - word: た
-      position: 13
-    - word: ごん
-      position: 14
-    - word: は
-      position: 16
 - id: Gongitsune-f000242
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5533,17 +1902,6 @@
   sound_begin: 595886
   sound_end: 599028
   sentence: そう思いました。
-  words:
-    - word: そう
-      position: 0
-    - word: 思い
-      base: 思う
-      position: 2
-    - word: まし
-      base: ます
-      position: 4
-    - word: た
-      position: 6
 - id: Gongitsune-f000243
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5552,24 +1910,6 @@
   sound_begin: 599028
   sound_end: 601480
   sentence: ごんは物置のそばをはなれて、
-  words:
-    - word: ごん
-      position: 0
-    - word: は
-      position: 2
-    - word: 物置
-      position: 3
-    - word: の
-      position: 5
-    - word: そば
-      position: 6
-    - word: を
-      position: 8
-    - word: はなれ
-      base: 離れる
-      position: 9
-    - word: て
-      position: 12
 - id: Gongitsune-f000244
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5578,22 +1918,6 @@
   sound_begin: 601480
   sound_end: 603920
   sentence: 向うへいきかけますと、
-  words:
-    - word: 向う
-      base: 向こう
-      position: 0
-    - word: へ
-      position: 2
-    - word: いき
-      base: 行く
-      position: 3
-    - word: かけ
-      base: 掛ける
-      position: 5
-    - word: ます
-      position: 7
-    - word: と
-      position: 9
 - id: Gongitsune-f000245
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5602,13 +1926,6 @@
   sound_begin: 603920
   sound_end: 604920
   sentence: どこかで、
-  words:
-    - word: どこ
-      position: 0
-    - word: か
-      position: 2
-    - word: で
-      position: 3
 - id: Gongitsune-f000246
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5617,23 +1934,6 @@
   sound_begin: 604920
   sound_end: 609640
   sentence: いわしを売る声がします。
-  words:
-    - word: いわし
-      base: 鰯
-      position: 0
-    - word: を
-      position: 3
-    - word: 売る
-      position: 4
-    - word: 声
-      position: 6
-    - word: が
-      position: 7
-    - word: し
-      base: 為る
-      position: 8
-    - word: ます
-      position: 9
 - id: Gongitsune-f000247
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5642,23 +1942,6 @@
   sound_begin: 609640
   sound_end: 612080
   sentence: 「いわしのやすうりだアい。
-  words:
-    - word: いわし
-      base: 鰯
-      position: 1
-    - word: の
-      position: 4
-    - word: やす
-      position: 5
-    - word: うり
-      base: 売り
-      position: 7
-    - word: だ
-      position: 9
-    - word: ア
-      position: 10
-    - word: い
-      position: 11
 - id: Gongitsune-f000248
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5667,23 +1950,6 @@
   sound_begin: 612080
   sound_end: 615360
   sentence: いきのいいいわしだアい」
-  words:
-    - word: いき
-      position: 0
-    - word: の
-      position: 2
-    - word: いい
-      base: 良い
-      position: 3
-    - word: いわし
-      base: 鰯
-      position: 5
-    - word: だ
-      position: 8
-    - word: ア
-      position: 9
-    - word: い
-      position: 10
 - id: Gongitsune-f000249
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5692,11 +1958,6 @@
   sound_begin: 615360
   sound_end: 615840
   sentence: ごんは、
-  words:
-    - word: ごん
-      position: 0
-    - word: は
-      position: 2
 - id: Gongitsune-f000250
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5705,10 +1966,6 @@
   sound_begin: 615840
   sound_end: 616720
   sentence: その、
-  words:
-    - word: その
-      base: 其の
-      position: 0
 - id: Gongitsune-f000251
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5717,39 +1974,6 @@
   sound_begin: 616720
   sound_end: 620312
   sentence: いせいのいい声のする方へ走っていきました。
-  words:
-    - word: いせい
-      base: 威勢
-      position: 0
-    - word: の
-      position: 3
-    - word: いい
-      base: 良い
-      position: 4
-    - word: 声
-      position: 6
-    - word: の
-      position: 7
-    - word: する
-      base: 為る
-      position: 8
-    - word: 方
-      position: 10
-    - word: へ
-      position: 11
-    - word: 走っ
-      base: 走る
-      position: 12
-    - word: て
-      position: 14
-    - word: いき
-      base: 行く
-      position: 15
-    - word: まし
-      base: ます
-      position: 17
-    - word: た
-      position: 19
 - id: Gongitsune-f000252
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5758,9 +1982,6 @@
   sound_begin: 620312
   sound_end: 621200
   sentence: と、
-  words:
-    - word: と
-      position: 0
 - id: Gongitsune-f000253
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5769,18 +1990,6 @@
   sound_begin: 621200
   sound_end: 622560
   sentence: 弥助のおかみさんが、
-  words:
-    - word: 弥助
-      position: 0
-    - word: の
-      position: 2
-    - word: おかみ
-      base: 女将
-      position: 3
-    - word: さん
-      position: 6
-    - word: が
-      position: 8
 - id: Gongitsune-f000254
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5789,13 +1998,6 @@
   sound_begin: 622560
   sound_end: 624000
   sentence: 裏戸口から、
-  words:
-    - word: 裏戸
-      position: 0
-    - word: 口
-      position: 2
-    - word: から
-      position: 3
 - id: Gongitsune-f000255
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5804,18 +2006,6 @@
   sound_begin: 624000
   sound_end: 625342
   sentence: 「いわしをおくれ。
-  words:
-    - word: いわし
-      base: 鰯
-      position: 1
-    - word: を
-      position: 4
-    - word: お
-      base: 御
-      position: 5
-    - word: くれ
-      base: 呉れる
-      position: 6
 - id: Gongitsune-f000256
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5824,17 +2014,6 @@
   sound_begin: 625342
   sound_end: 627800
   sentence: 」と言いました。
-  words:
-    - word: と
-      position: 1
-    - word: 言い
-      base: 言う
-      position: 2
-    - word: まし
-      base: ます
-      position: 4
-    - word: た
-      position: 6
 - id: Gongitsune-f000257
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5843,15 +2022,6 @@
   sound_begin: 627800
   sound_end: 628920
   sentence: いわし売は、
-  words:
-    - word: いわし
-      base: 鰯
-      position: 0
-    - word: 売
-      base: 売り
-      position: 3
-    - word: は
-      position: 4
 - id: Gongitsune-f000258
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5860,26 +2030,6 @@
   sound_begin: 628920
   sound_end: 630920
   sentence: いわしのかごをつんだ車を、
-  words:
-    - word: いわし
-      base: 鰯
-      position: 0
-    - word: の
-      position: 3
-    - word: かご
-      position: 4
-    - word: を
-      position: 6
-    - word: つん
-      base: つむ
-      position: 7
-    - word: だ
-      base: た
-      position: 9
-    - word: 車
-      position: 10
-    - word: を
-      position: 11
 - id: Gongitsune-f000259
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5888,17 +2038,6 @@
   sound_begin: 630920
   sound_end: 632409
   sentence: 道ばたにおいて、
-  words:
-    - word: 道ばた
-      base: 道端
-      position: 0
-    - word: に
-      position: 3
-    - word: おい
-      base: おく
-      position: 4
-    - word: て
-      position: 6
 - id: Gongitsune-f000260
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5907,25 +2046,6 @@
   sound_begin: 632409
   sound_end: 635480
   sentence: ぴかぴか光るいわしを両手でつかんで、
-  words:
-    - word: ぴかぴか
-      position: 0
-    - word: 光る
-      position: 4
-    - word: いわし
-      base: 鰯
-      position: 6
-    - word: を
-      position: 9
-    - word: 両手
-      position: 10
-    - word: で
-      position: 12
-    - word: つかん
-      base: 掴む
-      position: 13
-    - word: で
-      position: 16
 - id: Gongitsune-f000261
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5934,32 +2054,6 @@
   sound_begin: 635480
   sound_end: 639363
   sentence: 弥助の家の中へもってはいりました。
-  words:
-    - word: 弥助
-      position: 0
-    - word: の
-      position: 2
-    - word: 家
-      position: 3
-    - word: の
-      position: 4
-    - word: 中
-      position: 5
-    - word: へ
-      position: 6
-    - word: もっ
-      base: 持つ
-      position: 7
-    - word: て
-      position: 9
-    - word: はいり
-      base: 入る
-      position: 10
-    - word: まし
-      base: ます
-      position: 13
-    - word: た
-      position: 15
 - id: Gongitsune-f000262
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5968,19 +2062,6 @@
   sound_begin: 639363
   sound_end: 640829
   sentence: ごんはそのすきまに、
-  words:
-    - word: ごん
-      position: 0
-    - word: は
-      position: 2
-    - word: その
-      base: 其の
-      position: 3
-    - word: すきま
-      base: 隙間
-      position: 5
-    - word: に
-      position: 8
 - id: Gongitsune-f000263
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -5989,15 +2070,6 @@
   sound_begin: 640829
   sound_end: 641949
   sentence: かごの中から、
-  words:
-    - word: かご
-      position: 0
-    - word: の
-      position: 2
-    - word: 中
-      position: 3
-    - word: から
-      position: 4
 - id: Gongitsune-f000264
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6006,10 +2078,6 @@
   sound_begin: 641949
   sound_end: 642520
   sentence: 五、
-  words:
-    - word: 五
-      base: '5'
-      position: 0
 - id: Gongitsune-f000265
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6018,28 +2086,6 @@
   sound_begin: 642520
   sound_end: 644480
   sentence: 六ぴきのいわしをつかみ出して、
-  words:
-    - word: 六
-      base: '6'
-      position: 0
-    - word: ぴき
-      base: 匹
-      position: 1
-    - word: の
-      position: 3
-    - word: いわし
-      base: 鰯
-      position: 4
-    - word: を
-      position: 7
-    - word: つかみ
-      base: 掴む
-      position: 8
-    - word: 出し
-      base: 出す
-      position: 11
-    - word: て
-      position: 13
 - id: Gongitsune-f000266
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6048,29 +2094,6 @@
   sound_begin: 644480
   sound_end: 648137
   sentence: もと来た方へかけだしました。
-  words:
-    - word: もと
-      position: 0
-    - word: 来
-      base: 来る
-      position: 2
-    - word: た
-      position: 3
-    - word: 方
-      position: 4
-    - word: へ
-      position: 5
-    - word: かけ
-      base: かける
-      position: 6
-    - word: だし
-      base: 出す
-      position: 8
-    - word: まし
-      base: ます
-      position: 10
-    - word: た
-      position: 12
 - id: Gongitsune-f000267
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6079,9 +2102,6 @@
   sound_begin: 648137
   sound_end: 649080
   sentence: そして、
-  words:
-    - word: そして
-      position: 0
 - id: Gongitsune-f000268
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6090,19 +2110,6 @@
   sound_begin: 649080
   sound_end: 651320
   sentence: 兵十の家の裏口から、
-  words:
-    - word: 兵十
-      position: 0
-    - word: の
-      position: 2
-    - word: 家
-      position: 3
-    - word: の
-      position: 4
-    - word: 裏口
-      position: 5
-    - word: から
-      position: 7
 - id: Gongitsune-f000269
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6111,28 +2118,6 @@
   sound_begin: 651320
   sound_end: 653440
   sentence: 家の中へいわしを投げこんで、
-  words:
-    - word: 家
-      position: 0
-    - word: の
-      position: 1
-    - word: 中
-      position: 2
-    - word: へ
-      position: 3
-    - word: いわし
-      base: 鰯
-      position: 4
-    - word: を
-      position: 7
-    - word: 投げ
-      base: 投げる
-      position: 8
-    - word: こん
-      base: 込む
-      position: 10
-    - word: で
-      position: 12
 - id: Gongitsune-f000270
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6141,27 +2126,6 @@
   sound_begin: 653440
   sound_end: 657038
   sentence: 穴へ向ってかけもどりました。
-  words:
-    - word: 穴
-      position: 0
-    - word: へ
-      position: 1
-    - word: 向っ
-      base: 向かう
-      position: 2
-    - word: て
-      position: 4
-    - word: かけ
-      base: かける
-      position: 5
-    - word: もどり
-      base: 戻る
-      position: 7
-    - word: まし
-      base: ます
-      position: 10
-    - word: た
-      position: 12
 - id: Gongitsune-f000271
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6170,34 +2134,6 @@
   sound_begin: 657038
   sound_end: 660120
   sentence: 途中の坂の上でふりかえって見ますと、
-  words:
-    - word: 途中
-      position: 0
-    - word: の
-      position: 2
-    - word: 坂
-      position: 3
-    - word: の
-      position: 4
-    - word: 上
-      position: 5
-    - word: で
-      position: 6
-    - word: ふり
-      base: ふる
-      position: 7
-    - word: かえっ
-      base: かえる
-      position: 9
-    - word: て
-      position: 12
-    - word: 見
-      base: 見る
-      position: 13
-    - word: ます
-      position: 14
-    - word: と
-      position: 16
 - id: Gongitsune-f000272
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6206,14 +2142,6 @@
   sound_begin: 660120
   sound_end: 661480
   sentence: 兵十がまだ、
-  words:
-    - word: 兵十
-      position: 0
-    - word: が
-      position: 2
-    - word: まだ
-      base: 未だ
-      position: 3
 - id: Gongitsune-f000273
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6222,43 +2150,6 @@
   sound_begin: 661480
   sound_end: 667040
   sentence: 井戸のところで麦をといでいるのが小さく見えました。
-  words:
-    - word: 井戸
-      position: 0
-    - word: の
-      position: 2
-    - word: ところ
-      base: 所
-      position: 3
-    - word: で
-      position: 6
-    - word: 麦
-      position: 7
-    - word: を
-      position: 8
-    - word: とい
-      base: 研ぐ
-      position: 9
-    - word: で
-      position: 11
-    - word: いる
-      base: 居る
-      position: 12
-    - word: の
-      position: 14
-    - word: が
-      position: 15
-    - word: 小さく
-      base: 小さい
-      position: 16
-    - word: 見え
-      base: 見える
-      position: 19
-    - word: まし
-      base: ます
-      position: 21
-    - word: た
-      position: 23
 - id: Gongitsune-f000274
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6267,11 +2158,6 @@
   sound_begin: 667040
   sound_end: 668040
   sentence: ごんは、
-  words:
-    - word: ごん
-      position: 0
-    - word: は
-      position: 2
 - id: Gongitsune-f000275
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6280,17 +2166,6 @@
   sound_begin: 668040
   sound_end: 669800
   sentence: うなぎのつぐないに、
-  words:
-    - word: うなぎ
-      base: 鰻
-      position: 0
-    - word: の
-      position: 3
-    - word: つぐない
-      base: 償い
-      position: 4
-    - word: に
-      position: 8
 - id: Gongitsune-f000276
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6299,15 +2174,6 @@
   sound_begin: 669800
   sound_end: 671165
   sentence: まず一つ、
-  words:
-    - word: まず
-      base: 先ず
-      position: 0
-    - word: 一
-      base: '1'
-      position: 2
-    - word: つ
-      position: 3
 - id: Gongitsune-f000277
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6316,29 +2182,6 @@
   sound_begin: 671165
   sound_end: 677277
   sentence: いいことをしたと思いました。
-  words:
-    - word: いい
-      base: 良い
-      position: 0
-    - word: こと
-      position: 2
-    - word: を
-      position: 4
-    - word: し
-      base: 為る
-      position: 5
-    - word: た
-      position: 6
-    - word: と
-      position: 7
-    - word: 思い
-      base: 思う
-      position: 8
-    - word: まし
-      base: ます
-      position: 10
-    - word: た
-      position: 12
 - id: Gongitsune-f000278
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6347,18 +2190,6 @@
   sound_begin: 677277
   sound_end: 678638
   sentence: つぎの日には、
-  words:
-    - word: つぎ
-      base: 次
-      position: 0
-    - word: の
-      position: 2
-    - word: 日
-      position: 3
-    - word: に
-      position: 4
-    - word: は
-      position: 5
 - id: Gongitsune-f000279
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6367,26 +2198,6 @@
   sound_begin: 678638
   sound_end: 681600
   sentence: ごんは山で栗をどっさりひろって、
-  words:
-    - word: ごん
-      position: 0
-    - word: は
-      position: 2
-    - word: 山
-      position: 3
-    - word: で
-      position: 4
-    - word: 栗
-      position: 5
-    - word: を
-      position: 6
-    - word: どっさり
-      position: 7
-    - word: ひろっ
-      base: 拾う
-      position: 11
-    - word: て
-      position: 14
 - id: Gongitsune-f000280
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6395,17 +2206,6 @@
   sound_begin: 681600
   sound_end: 682840
   sentence: それをかかえて、
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: を
-      position: 2
-    - word: かかえ
-      base: 抱える
-      position: 3
-    - word: て
-      position: 6
 - id: Gongitsune-f000281
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6414,23 +2214,6 @@
   sound_begin: 682840
   sound_end: 686640
   sentence: 兵十の家へいきました。
-  words:
-    - word: 兵十
-      position: 0
-    - word: の
-      position: 2
-    - word: 家
-      position: 3
-    - word: へ
-      position: 4
-    - word: いき
-      base: 行く
-      position: 5
-    - word: まし
-      base: ます
-      position: 7
-    - word: た
-      position: 9
 - id: Gongitsune-f000282
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6439,23 +2222,6 @@
   sound_begin: 686640
   sound_end: 688880
   sentence: 裏口からのぞいて見ますと、
-  words:
-    - word: 裏口
-      position: 0
-    - word: から
-      position: 2
-    - word: のぞい
-      base: のぞく
-      position: 4
-    - word: て
-      position: 7
-    - word: 見
-      base: 見る
-      position: 8
-    - word: ます
-      position: 9
-    - word: と
-      position: 11
 - id: Gongitsune-f000283
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6464,11 +2230,6 @@
   sound_begin: 688880
   sound_end: 689680
   sentence: 兵十は、
-  words:
-    - word: 兵十
-      position: 0
-    - word: は
-      position: 2
 - id: Gongitsune-f000284
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6477,20 +2238,6 @@
   sound_begin: 689680
   sound_end: 691298
   sentence: 午飯をたべかけて、
-  words:
-    - word: 午飯
-      base: 御飯
-      position: 0
-    - word: を
-      position: 2
-    - word: たべ
-      base: 食べる
-      position: 3
-    - word: かけ
-      base: 掛ける
-      position: 5
-    - word: て
-      position: 7
 - id: Gongitsune-f000285
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6499,20 +2246,6 @@
   sound_begin: 691298
   sound_end: 693200
   sentence: 茶椀をもったまま、
-  words:
-    - word: 茶椀
-      base: 茶碗
-      position: 0
-    - word: を
-      position: 2
-    - word: もっ
-      base: 持つ
-      position: 3
-    - word: た
-      position: 5
-    - word: まま
-      base: 侭
-      position: 6
 - id: Gongitsune-f000286
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6521,27 +2254,6 @@
   sound_begin: 693200
   sound_end: 696922
   sentence: ぼんやりと考えこんでいました。
-  words:
-    - word: ぼんやり
-      position: 0
-    - word: と
-      position: 4
-    - word: 考え
-      base: 考える
-      position: 5
-    - word: こん
-      base: 込む
-      position: 7
-    - word: で
-      position: 9
-    - word: い
-      base: 居る
-      position: 10
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
 - id: Gongitsune-f000287
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6550,29 +2262,6 @@
   sound_begin: 696922
   sound_end: 699899
   sentence: へんなことには兵十の頬ぺたに、
-  words:
-    - word: へん
-      base: 変
-      position: 0
-    - word: な
-      base: だ
-      position: 2
-    - word: こと
-      position: 3
-    - word: に
-      position: 5
-    - word: は
-      position: 6
-    - word: 兵十
-      position: 7
-    - word: の
-      position: 9
-    - word: 頬
-      position: 10
-    - word: ぺた
-      position: 11
-    - word: に
-      position: 13
 - id: Gongitsune-f000288
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6581,22 +2270,6 @@
   sound_begin: 699899
   sound_end: 703640
   sentence: かすり傷がついています。
-  words:
-    - word: かすり傷
-      base: 掠り傷
-      position: 0
-    - word: が
-      position: 4
-    - word: つい
-      base: 付く
-      position: 5
-    - word: て
-      position: 7
-    - word: い
-      base: 居る
-      position: 8
-    - word: ます
-      position: 9
 - id: Gongitsune-f000289
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6605,22 +2278,6 @@
   sound_begin: 703640
   sound_end: 705160
   sentence: どうしたんだろうと、
-  words:
-    - word: どう
-      position: 0
-    - word: し
-      base: 為る
-      position: 2
-    - word: た
-      position: 3
-    - word: ん
-      base: の
-      position: 4
-    - word: だろう
-      base: だ
-      position: 5
-    - word: と
-      position: 8
 - id: Gongitsune-f000290
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6629,23 +2286,6 @@
   sound_begin: 705160
   sound_end: 707040
   sentence: ごんが思っていますと、
-  words:
-    - word: ごん
-      position: 0
-    - word: が
-      position: 2
-    - word: 思っ
-      base: 思う
-      position: 3
-    - word: て
-      position: 5
-    - word: い
-      base: 居る
-      position: 6
-    - word: ます
-      position: 7
-    - word: と
-      position: 9
 - id: Gongitsune-f000291
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6654,24 +2294,6 @@
   sound_begin: 707040
   sound_end: 711640
   sentence: 兵十がひとりごとをいいました。
-  words:
-    - word: 兵十
-      position: 0
-    - word: が
-      position: 2
-    - word: ひとりごと
-      base: 独り言
-      position: 3
-    - word: を
-      position: 8
-    - word: いい
-      base: 言う
-      position: 9
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
 - id: Gongitsune-f000292
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6680,18 +2302,6 @@
   sound_begin: 711640
   sound_end: 713040
   sentence: 「一たいだれが、
-  words:
-    - word: 一
-      base: '1'
-      position: 1
-    - word: たい
-      base: 隊
-      position: 2
-    - word: だれ
-      base: 誰
-      position: 4
-    - word: が
-      position: 6
 - id: Gongitsune-f000293
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6700,42 +2310,6 @@
   sound_begin: 713040
   sound_end: 717240
   sentence: いわしなんかをおれの家へほうりこんでいったんだろう。
-  words:
-    - word: いわし
-      base: 鰯
-      position: 0
-    - word: なんか
-      position: 3
-    - word: を
-      position: 6
-    - word: おれ
-      base: 俺
-      position: 7
-    - word: の
-      position: 9
-    - word: 家
-      position: 10
-    - word: へ
-      position: 11
-    - word: ほうり
-      base: 放る
-      position: 12
-    - word: こん
-      base: 込む
-      position: 15
-    - word: で
-      position: 17
-    - word: いっ
-      base: 行く
-      position: 18
-    - word: た
-      position: 20
-    - word: ん
-      base: の
-      position: 21
-    - word: だろう
-      base: だ
-      position: 22
 - id: Gongitsune-f000294
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6744,17 +2318,6 @@
   sound_begin: 717240
   sound_end: 718400
   sentence: おかげでおれは、
-  words:
-    - word: おかげ
-      base: 御陰
-      position: 0
-    - word: で
-      position: 3
-    - word: おれ
-      base: 俺
-      position: 4
-    - word: は
-      position: 6
 - id: Gongitsune-f000295
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6763,19 +2326,6 @@
   sound_begin: 718400
   sound_end: 720240
   sentence: 盗人と思われて、
-  words:
-    - word: 盗人
-      position: 0
-    - word: と
-      position: 2
-    - word: 思わ
-      base: 思う
-      position: 3
-    - word: れ
-      base: れる
-      position: 5
-    - word: て
-      position: 6
 - id: Gongitsune-f000296
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6784,17 +2334,6 @@
   sound_begin: 720240
   sound_end: 721360
   sentence: いわし屋のやつに、
-  words:
-    - word: いわし屋
-      base: 鰯屋
-      position: 0
-    - word: の
-      position: 4
-    - word: やつ
-      base: 奴
-      position: 5
-    - word: に
-      position: 7
 - id: Gongitsune-f000297
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6803,24 +2342,6 @@
   sound_begin: 721360
   sound_end: 724002
   sentence: ひどい目にあわされた」と、
-  words:
-    - word: ひどい
-      base: 酷い
-      position: 0
-    - word: 目
-      position: 3
-    - word: に
-      position: 4
-    - word: あわさ
-      base: 会う
-      position: 5
-    - word: れ
-      base: れる
-      position: 8
-    - word: た
-      position: 9
-    - word: と
-      position: 11
 - id: Gongitsune-f000298
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6829,19 +2350,6 @@
   sound_begin: 724002
   sound_end: 727438
   sentence: ぶつぶつ言っています。
-  words:
-    - word: ぶつぶつ
-      position: 0
-    - word: 言っ
-      base: 言う
-      position: 4
-    - word: て
-      position: 6
-    - word: い
-      base: 居る
-      position: 7
-    - word: ます
-      position: 8
 - id: Gongitsune-f000299
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6850,11 +2358,6 @@
   sound_begin: 727438
   sound_end: 728550
   sentence: ごんは、
-  words:
-    - word: ごん
-      position: 0
-    - word: は
-      position: 2
 - id: Gongitsune-f000300
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6863,27 +2366,6 @@
   sound_begin: 728550
   sound_end: 732122
   sentence: これはしまったと思いました。
-  words:
-    - word: これ
-      base: 此れ
-      position: 0
-    - word: は
-      position: 2
-    - word: しまっ
-      base: 仕舞う
-      position: 3
-    - word: た
-      position: 6
-    - word: と
-      position: 7
-    - word: 思い
-      base: 思う
-      position: 8
-    - word: まし
-      base: ます
-      position: 10
-    - word: た
-      position: 12
 - id: Gongitsune-f000301
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6892,17 +2374,6 @@
   sound_begin: 732122
   sound_end: 734080
   sentence: かわいそうに兵十は、
-  words:
-    - word: かわいそう
-      base: 可哀想
-      position: 0
-    - word: に
-      base: だ
-      position: 5
-    - word: 兵十
-      position: 6
-    - word: は
-      position: 8
 - id: Gongitsune-f000302
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6911,23 +2382,6 @@
   sound_begin: 734080
   sound_end: 736120
   sentence: いわし屋にぶんなぐられて、
-  words:
-    - word: いわし屋
-      base: 鰯屋
-      position: 0
-    - word: に
-      position: 4
-    - word: ぶん
-      base: 打つ
-      position: 5
-    - word: なぐら
-      base: 殴る
-      position: 7
-    - word: れ
-      base: れる
-      position: 10
-    - word: て
-      position: 11
 - id: Gongitsune-f000303
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6936,25 +2390,6 @@
   sound_begin: 736120
   sound_end: 740080
   sentence: あんな傷までつけられたのか。
-  words:
-    - word: あんな
-      position: 0
-    - word: 傷
-      position: 3
-    - word: まで
-      position: 4
-    - word: つけ
-      base: つける
-      position: 6
-    - word: られ
-      base: られる
-      position: 8
-    - word: た
-      position: 10
-    - word: の
-      position: 11
-    - word: か
-      position: 12
 - id: Gongitsune-f000304
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6963,18 +2398,6 @@
   sound_begin: 740080
   sound_end: 741760
   sentence: ごんはこうおもいながら、
-  words:
-    - word: ごん
-      position: 0
-    - word: は
-      position: 2
-    - word: こう
-      position: 3
-    - word: おもい
-      base: 思う
-      position: 5
-    - word: ながら
-      position: 8
 - id: Gongitsune-f000305
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -6983,30 +2406,6 @@
   sound_begin: 741760
   sound_end: 745000
   sentence: そっと物置の方へまわってその入口に、
-  words:
-    - word: そっと
-      position: 0
-    - word: 物置
-      position: 3
-    - word: の
-      position: 5
-    - word: 方
-      position: 6
-    - word: へ
-      position: 7
-    - word: まわっ
-      base: 回る
-      position: 8
-    - word: て
-      position: 11
-    - word: その
-      base: 其の
-      position: 12
-    - word: 入口
-      base: 入り口
-      position: 14
-    - word: に
-      position: 16
 - id: Gongitsune-f000306
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7015,24 +2414,6 @@
   sound_begin: 745000
   sound_end: 749699
   sentence: 栗をおいてかえりました。
-  words:
-    - word: 栗
-      position: 0
-    - word: を
-      position: 1
-    - word: おい
-      base: おく
-      position: 2
-    - word: て
-      position: 4
-    - word: かえり
-      base: かえる
-      position: 5
-    - word: まし
-      base: ます
-      position: 8
-    - word: た
-      position: 10
 - id: Gongitsune-f000307
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7041,16 +2422,6 @@
   sound_begin: 749699
   sound_end: 752240
   sentence: つぎの日も、
-  words:
-    - word: つぎ
-      base: 次
-      position: 0
-    - word: の
-      position: 2
-    - word: 日
-      position: 3
-    - word: も
-      position: 4
 - id: Gongitsune-f000308
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7059,23 +2430,6 @@
   sound_begin: 752240
   sound_end: 752744
   sentence: そのつぎの日もごんは、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: つぎ
-      base: 次
-      position: 2
-    - word: の
-      position: 4
-    - word: 日
-      position: 5
-    - word: も
-      position: 6
-    - word: ごん
-      position: 7
-    - word: は
-      position: 9
 - id: Gongitsune-f000309
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7084,18 +2438,6 @@
   sound_begin: 752744
   sound_end: 754007
   sentence: 栗をひろっては、
-  words:
-    - word: 栗
-      position: 0
-    - word: を
-      position: 1
-    - word: ひろっ
-      base: 拾う
-      position: 2
-    - word: て
-      position: 5
-    - word: は
-      position: 6
 - id: Gongitsune-f000310
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7104,33 +2446,6 @@
   sound_begin: 754007
   sound_end: 758119
   sentence: 兵十の家へもって来てやりました。
-  words:
-    - word: 兵十
-      position: 0
-    - word: の
-      position: 2
-    - word: 家
-      position: 3
-    - word: へ
-      position: 4
-    - word: もっ
-      base: 持つ
-      position: 5
-    - word: て
-      position: 7
-    - word: 来
-      base: 来る
-      position: 8
-    - word: て
-      position: 9
-    - word: やり
-      base: 遣る
-      position: 10
-    - word: まし
-      base: ます
-      position: 12
-    - word: た
-      position: 14
 - id: Gongitsune-f000311
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7139,21 +2454,6 @@
   sound_begin: 758119
   sound_end: 759503
   sentence: そのつぎの日には、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: つぎ
-      base: 次
-      position: 2
-    - word: の
-      position: 4
-    - word: 日
-      position: 5
-    - word: に
-      position: 6
-    - word: は
-      position: 7
 - id: Gongitsune-f000312
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7162,17 +2462,6 @@
   sound_begin: 759503
   sound_end: 760880
   sentence: 栗ばかりでなく、
-  words:
-    - word: 栗
-      position: 0
-    - word: ばかり
-      position: 1
-    - word: で
-      base: だ
-      position: 4
-    - word: なく
-      base: 無い
-      position: 5
 - id: Gongitsune-f000313
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7181,15 +2470,6 @@
   sound_begin: 760880
   sound_end: 761640
   sentence: まつたけも二、
-  words:
-    - word: まつたけ
-      base: 松茸
-      position: 0
-    - word: も
-      position: 4
-    - word: 二
-      base: '2'
-      position: 5
 - id: Gongitsune-f000314
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7198,26 +2478,6 @@
   sound_begin: 761640
   sound_end: 763201
   sentence: 三ぼんもっていきました。
-  words:
-    - word: 三
-      base: '3'
-      position: 0
-    - word: ぼん
-      base: 本
-      position: 1
-    - word: もっ
-      base: 持つ
-      position: 3
-    - word: て
-      position: 5
-    - word: いき
-      base: 行く
-      position: 6
-    - word: まし
-      base: ます
-      position: 8
-    - word: た
-      position: 10
 - id: Gongitsune-f000316
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7226,21 +2486,6 @@
   sound_begin: 767367
   sound_end: 770080
   sentence: 月のいい晩でした。
-  words:
-    - word: 月
-      position: 0
-    - word: の
-      position: 1
-    - word: いい
-      base: 良い
-      position: 2
-    - word: 晩
-      position: 4
-    - word: でし
-      base: です
-      position: 5
-    - word: た
-      position: 7
 - id: Gongitsune-f000317
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7249,11 +2494,6 @@
   sound_begin: 770080
   sound_end: 770560
   sentence: ごんは、
-  words:
-    - word: ごん
-      position: 0
-    - word: は
-      position: 2
 - id: Gongitsune-f000318
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7262,25 +2502,6 @@
   sound_begin: 770560
   sound_end: 773960
   sentence: ぶらぶらあそびに出かけました。
-  words:
-    - word: ぶらぶら
-      position: 0
-    - word: あそび
-      base: 遊び
-      position: 4
-    - word: に
-      position: 7
-    - word: 出
-      base: 出る
-      position: 8
-    - word: かけ
-      base: 掛ける
-      position: 9
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
 - id: Gongitsune-f000319
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7289,38 +2510,6 @@
   sound_begin: 773960
   sound_end: 777720
   sentence: 中山さまのお城の下を通ってすこしいくと、
-  words:
-    - word: 中山
-      position: 0
-    - word: さま
-      base: 様
-      position: 2
-    - word: の
-      position: 4
-    - word: お
-      base: 御
-      position: 5
-    - word: 城
-      position: 6
-    - word: の
-      position: 7
-    - word: 下
-      position: 8
-    - word: を
-      position: 9
-    - word: 通っ
-      base: 通る
-      position: 10
-    - word: て
-      position: 12
-    - word: すこし
-      base: 少し
-      position: 13
-    - word: いく
-      base: 行く
-      position: 16
-    - word: と
-      position: 18
 - id: Gongitsune-f000320
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7329,18 +2518,6 @@
   sound_begin: 777720
   sound_end: 779080
   sentence: 細い道の向うから、
-  words:
-    - word: 細い
-      position: 0
-    - word: 道
-      position: 2
-    - word: の
-      position: 3
-    - word: 向う
-      base: 向こう
-      position: 4
-    - word: から
-      position: 6
 - id: Gongitsune-f000321
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7349,19 +2526,6 @@
   sound_begin: 779080
   sound_end: 781760
   sentence: だれか来るようです。
-  words:
-    - word: だれ
-      base: 誰
-      position: 0
-    - word: か
-      position: 2
-    - word: 来る
-      position: 3
-    - word: よう
-      base: 様
-      position: 5
-    - word: です
-      position: 7
 - id: Gongitsune-f000322
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7370,16 +2534,6 @@
   sound_begin: 781760
   sound_end: 784960
   sentence: 話声が聞えます。
-  words:
-    - word: 話声
-      position: 0
-    - word: が
-      position: 2
-    - word: 聞え
-      base: 聞こえる
-      position: 3
-    - word: ます
-      position: 5
 - id: Gongitsune-f000323
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7388,10 +2542,6 @@
   sound_begin: 784960
   sound_end: 786184
   sentence: チンチロリン、
-  words:
-    - word: チンチロリン
-      base: ちんちろりん
-      position: 0
 - id: Gongitsune-f000324
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7400,26 +2550,6 @@
   sound_begin: 786184
   sound_end: 791040
   sentence: チンチロリンと松虫が鳴いています。
-  words:
-    - word: チンチロリン
-      base: ちんちろりん
-      position: 0
-    - word: と
-      position: 6
-    - word: 松虫
-      position: 7
-    - word: が
-      position: 9
-    - word: 鳴い
-      base: 鳴く
-      position: 10
-    - word: て
-      position: 12
-    - word: い
-      base: 居る
-      position: 13
-    - word: ます
-      position: 14
 - id: Gongitsune-f000325
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7428,11 +2558,6 @@
   sound_begin: 791040
   sound_end: 791800
   sentence: ごんは、
-  words:
-    - word: ごん
-      position: 0
-    - word: は
-      position: 2
 - id: Gongitsune-f000326
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7441,22 +2566,6 @@
   sound_begin: 791800
   sound_end: 793800
   sentence: 道の片がわにかくれて、
-  words:
-    - word: 道
-      position: 0
-    - word: の
-      position: 1
-    - word: 片
-      position: 2
-    - word: がわ
-      position: 3
-    - word: に
-      position: 5
-    - word: かくれ
-      base: 隠れる
-      position: 6
-    - word: て
-      position: 9
 - id: Gongitsune-f000327
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7465,22 +2574,6 @@
   sound_begin: 793800
   sound_end: 797600
   sentence: じっとしていました。
-  words:
-    - word: じっと
-      position: 0
-    - word: し
-      base: 為る
-      position: 3
-    - word: て
-      position: 4
-    - word: い
-      base: 居る
-      position: 5
-    - word: まし
-      base: ます
-      position: 6
-    - word: た
-      position: 8
 - id: Gongitsune-f000328
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7489,25 +2582,6 @@
   sound_begin: 797600
   sound_end: 800394
   sentence: 話声はだんだん近くなりました。
-  words:
-    - word: 話声
-      position: 0
-    - word: は
-      position: 2
-    - word: だんだん
-      base: 段々
-      position: 3
-    - word: 近く
-      base: 近い
-      position: 7
-    - word: なり
-      base: 成る
-      position: 9
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
 - id: Gongitsune-f000329
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7516,12 +2590,6 @@
   sound_begin: 800394
   sound_end: 801520
   sentence: それは、
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: は
-      position: 2
 - id: Gongitsune-f000330
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7530,28 +2598,6 @@
   sound_begin: 801520
   sound_end: 806040
   sentence: 兵十と加助というお百姓でした。
-  words:
-    - word: 兵十
-      position: 0
-    - word: と
-      position: 2
-    - word: 加助
-      position: 3
-    - word: と
-      position: 5
-    - word: いう
-      base: 言う
-      position: 6
-    - word: お
-      base: 御
-      position: 8
-    - word: 百姓
-      position: 9
-    - word: でし
-      base: です
-      position: 11
-    - word: た
-      position: 13
 - id: Gongitsune-f000331
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7560,10 +2606,6 @@
   sound_begin: 806040
   sound_end: 807200
   sentence: 「そうそう、
-  words:
-    - word: そうそう
-      base: 然う然う
-      position: 1
 - id: Gongitsune-f000332
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7572,13 +2614,6 @@
   sound_begin: 807200
   sound_end: 808480
   sentence: なあ加助」と、
-  words:
-    - word: なあ
-      position: 0
-    - word: 加助
-      position: 2
-    - word: と
-      position: 5
 - id: Gongitsune-f000333
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7587,19 +2622,6 @@
   sound_begin: 808480
   sound_end: 810880
   sentence: 兵十がいいました。
-  words:
-    - word: 兵十
-      position: 0
-    - word: が
-      position: 2
-    - word: いい
-      base: 言う
-      position: 3
-    - word: まし
-      base: ます
-      position: 5
-    - word: た
-      position: 7
 - id: Gongitsune-f000334
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7608,9 +2630,6 @@
   sound_begin: 810880
   sound_end: 813200
   sentence: 「ああん？」
-  words:
-    - word: ああん
-      position: 1
 - id: Gongitsune-f000335
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7619,10 +2638,6 @@
   sound_begin: 813200
   sound_end: 813680
   sentence: 「おれあ、
-  words:
-    - word: おれあ
-      base: 俺
-      position: 1
 - id: Gongitsune-f000336
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7631,10 +2646,6 @@
   sound_begin: 813680
   sound_end: 814400
   sentence: このごろ、
-  words:
-    - word: このごろ
-      base: 此の頃
-      position: 0
 - id: Gongitsune-f000337
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7643,28 +2654,6 @@
   sound_begin: 814400
   sound_end: 817440
   sentence: とてもふしぎなことがあるんだ」
-  words:
-    - word: とても
-      base: 迚も
-      position: 0
-    - word: ふしぎ
-      base: 不思議
-      position: 3
-    - word: な
-      base: だ
-      position: 6
-    - word: こと
-      position: 7
-    - word: が
-      position: 9
-    - word: ある
-      base: 有る
-      position: 10
-    - word: ん
-      base: の
-      position: 12
-    - word: だ
-      position: 13
 - id: Gongitsune-f000338
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7673,11 +2662,6 @@
   sound_begin: 817440
   sound_end: 819437
   sentence: 「何が？」
-  words:
-    - word: 何
-      position: 1
-    - word: が
-      position: 2
 - id: Gongitsune-f000339
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7686,23 +2670,6 @@
   sound_begin: 819437
   sound_end: 821480
   sentence: 「おっ母が死んでからは、
-  words:
-    - word: おっ
-      base: 御
-      position: 1
-    - word: 母
-      position: 3
-    - word: が
-      position: 4
-    - word: 死ん
-      base: 死ぬ
-      position: 5
-    - word: で
-      position: 7
-    - word: から
-      position: 8
-    - word: は
-      position: 10
 - id: Gongitsune-f000340
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7711,22 +2678,6 @@
   sound_begin: 821480
   sound_end: 823000
   sentence: だれだか知らんが、
-  words:
-    - word: だれ
-      base: 誰
-      position: 0
-    - word: だ
-      position: 2
-    - word: か
-      position: 3
-    - word: 知ら
-      base: 知る
-      position: 4
-    - word: ん
-      base: ず
-      position: 6
-    - word: が
-      position: 7
 - id: Gongitsune-f000341
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7735,23 +2686,6 @@
   sound_begin: 823000
   sound_end: 825320
   sentence: おれに栗やまつたけなんかを、
-  words:
-    - word: おれ
-      base: 俺
-      position: 0
-    - word: に
-      position: 2
-    - word: 栗
-      position: 3
-    - word: や
-      position: 4
-    - word: まつたけ
-      base: 松茸
-      position: 5
-    - word: なんか
-      position: 9
-    - word: を
-      position: 12
 - id: Gongitsune-f000342
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7760,23 +2694,6 @@
   sound_begin: 825320
   sound_end: 828560
   sentence: まいにちまいにちくれるんだよ」
-  words:
-    - word: まいにち
-      base: 毎日
-      position: 0
-    - word: まいにち
-      base: 毎日
-      position: 4
-    - word: くれる
-      base: 呉れる
-      position: 8
-    - word: ん
-      base: の
-      position: 11
-    - word: だ
-      position: 12
-    - word: よ
-      position: 13
 - id: Gongitsune-f000343
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7785,10 +2702,6 @@
   sound_begin: 828560
   sound_end: 829880
   sentence: 「ふうん、
-  words:
-    - word: ふうん
-      base: ふん
-      position: 1
 - id: Gongitsune-f000344
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7797,12 +2710,6 @@
   sound_begin: 829880
   sound_end: 832080
   sentence: だれが？」
-  words:
-    - word: だれ
-      base: 誰
-      position: 0
-    - word: が
-      position: 2
 - id: Gongitsune-f000345
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7811,24 +2718,6 @@
   sound_begin: 832080
   sound_end: 834240
   sentence: 「それがわからんのだよ。
-  words:
-    - word: それ
-      base: 其れ
-      position: 1
-    - word: が
-      position: 3
-    - word: わから
-      base: 分かる
-      position: 4
-    - word: ん
-      base: ず
-      position: 7
-    - word: の
-      position: 8
-    - word: だ
-      position: 9
-    - word: よ
-      position: 10
 - id: Gongitsune-f000346
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7837,23 +2726,6 @@
   sound_begin: 834240
   sound_end: 835640
   sentence: おれの知らんうちに、
-  words:
-    - word: おれ
-      base: 俺
-      position: 0
-    - word: の
-      position: 2
-    - word: 知ら
-      base: 知る
-      position: 3
-    - word: ん
-      base: ず
-      position: 5
-    - word: うち
-      base: 内
-      position: 6
-    - word: に
-      position: 8
 - id: Gongitsune-f000347
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7862,20 +2734,6 @@
   sound_begin: 835640
   sound_end: 838120
   sentence: おいていくんだ」
-  words:
-    - word: おい
-      base: おく
-      position: 0
-    - word: て
-      position: 2
-    - word: いく
-      base: 行く
-      position: 3
-    - word: ん
-      base: の
-      position: 5
-    - word: だ
-      position: 6
 - id: Gongitsune-f000348
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7884,11 +2742,6 @@
   sound_begin: 838120
   sound_end: 839160
   sentence: ごんは、
-  words:
-    - word: ごん
-      position: 0
-    - word: は
-      position: 2
 - id: Gongitsune-f000349
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7897,30 +2750,6 @@
   sound_begin: 839160
   sound_end: 843502
   sentence: ふたりのあとをつけていきました。
-  words:
-    - word: ふたり
-      base: 二人
-      position: 0
-    - word: の
-      position: 3
-    - word: あと
-      base: 後
-      position: 4
-    - word: を
-      position: 6
-    - word: つけ
-      base: つける
-      position: 7
-    - word: て
-      position: 9
-    - word: いき
-      base: 行く
-      position: 10
-    - word: まし
-      base: ます
-      position: 12
-    - word: た
-      position: 14
 - id: Gongitsune-f000350
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7929,14 +2758,6 @@
   sound_begin: 843502
   sound_end: 845520
   sentence: 「ほんとかい？」
-  words:
-    - word: ほんと
-      base: 本当
-      position: 1
-    - word: か
-      position: 4
-    - word: い
-      position: 5
 - id: Gongitsune-f000351
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7945,14 +2766,6 @@
   sound_begin: 845520
   sound_end: 847080
   sentence: 「ほんとだとも。
-  words:
-    - word: ほんと
-      base: 本当
-      position: 1
-    - word: だ
-      position: 4
-    - word: とも
-      position: 5
 - id: Gongitsune-f000352
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7961,16 +2774,6 @@
   sound_begin: 847080
   sound_end: 848360
   sentence: うそと思うなら、
-  words:
-    - word: うそ
-      position: 0
-    - word: と
-      position: 2
-    - word: 思う
-      position: 3
-    - word: なら
-      base: だ
-      position: 5
 - id: Gongitsune-f000353
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -7979,20 +2782,6 @@
   sound_begin: 848360
   sound_end: 850160
   sentence: あした見に来いよ。
-  words:
-    - word: あした
-      base: 明日
-      position: 0
-    - word: 見
-      base: 見る
-      position: 3
-    - word: に
-      position: 4
-    - word: 来い
-      base: 来る
-      position: 5
-    - word: よ
-      position: 7
 - id: Gongitsune-f000354
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8001,24 +2790,6 @@
   sound_begin: 850160
   sound_end: 852800
   sentence: その栗を見せてやるよ」
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 栗
-      position: 2
-    - word: を
-      position: 3
-    - word: 見せ
-      base: 見せる
-      position: 4
-    - word: て
-      position: 6
-    - word: やる
-      base: 遣る
-      position: 7
-    - word: よ
-      position: 9
 - id: Gongitsune-f000355
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8027,9 +2798,6 @@
   sound_begin: 852800
   sound_end: 854560
   sentence: 「へえ、
-  words:
-    - word: へえ
-      position: 1
 - id: Gongitsune-f000356
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8038,27 +2806,6 @@
   sound_begin: 854560
   sound_end: 858524
   sentence: へんなこともあるもんだなア」
-  words:
-    - word: へん
-      base: 変
-      position: 0
-    - word: な
-      base: だ
-      position: 2
-    - word: こと
-      position: 3
-    - word: も
-      position: 5
-    - word: ある
-      base: 有る
-      position: 6
-    - word: もん
-      position: 8
-    - word: だ
-      position: 10
-    - word: なア
-      base: な
-      position: 11
 - id: Gongitsune-f000357
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8067,12 +2814,6 @@
   sound_begin: 858524
   sound_end: 859720
   sentence: それなり、
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: なり
-      position: 2
 - id: Gongitsune-f000358
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8081,29 +2822,6 @@
   sound_begin: 859720
   sound_end: 863628
   sentence: 二人はだまって歩いていきました。
-  words:
-    - word: 二人
-      position: 0
-    - word: は
-      position: 2
-    - word: だまっ
-      base: 黙る
-      position: 3
-    - word: て
-      position: 6
-    - word: 歩い
-      base: 歩く
-      position: 7
-    - word: て
-      position: 9
-    - word: いき
-      base: 行く
-      position: 10
-    - word: まし
-      base: ます
-      position: 12
-    - word: た
-      position: 14
 - id: Gongitsune-f000359
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8112,15 +2830,6 @@
   sound_begin: 863628
   sound_end: 864741
   sentence: 加助がひょいと、
-  words:
-    - word: 加助
-      position: 0
-    - word: が
-      position: 2
-    - word: ひょい
-      position: 3
-    - word: と
-      position: 6
 - id: Gongitsune-f000360
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8129,19 +2838,6 @@
   sound_begin: 864741
   sound_end: 866891
   sentence: 後を見ました。
-  words:
-    - word: 後
-      position: 0
-    - word: を
-      position: 1
-    - word: 見
-      base: 見る
-      position: 2
-    - word: まし
-      base: ます
-      position: 3
-    - word: た
-      position: 5
 - id: Gongitsune-f000361
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8150,21 +2846,6 @@
   sound_begin: 866891
   sound_end: 868600
   sentence: ごんはびくっとして、
-  words:
-    - word: ごん
-      position: 0
-    - word: は
-      position: 2
-    - word: びくっ
-      base: びく
-      position: 3
-    - word: と
-      position: 6
-    - word: し
-      base: 為る
-      position: 7
-    - word: て
-      position: 8
 - id: Gongitsune-f000362
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8173,26 +2854,6 @@
   sound_begin: 868600
   sound_end: 872455
   sentence: 小さくなってたちどまりました。
-  words:
-    - word: 小さく
-      base: 小さい
-      position: 0
-    - word: なっ
-      base: 成る
-      position: 3
-    - word: て
-      position: 5
-    - word: たち
-      base: たつ
-      position: 6
-    - word: どまり
-      base: 止まる
-      position: 8
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
 - id: Gongitsune-f000363
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8201,11 +2862,6 @@
   sound_begin: 872455
   sound_end: 873720
   sentence: 加助は、
-  words:
-    - word: 加助
-      position: 0
-    - word: は
-      position: 2
 - id: Gongitsune-f000364
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8214,24 +2870,6 @@
   sound_begin: 873720
   sound_end: 875480
   sentence: ごんには気がつかないで、
-  words:
-    - word: ごん
-      position: 0
-    - word: に
-      position: 2
-    - word: は
-      position: 3
-    - word: 気
-      position: 4
-    - word: が
-      position: 5
-    - word: つか
-      base: 付く
-      position: 6
-    - word: ない
-      position: 8
-    - word: で
-      position: 10
 - id: Gongitsune-f000365
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8240,23 +2878,6 @@
   sound_begin: 875480
   sound_end: 879454
   sentence: そのままさっさとあるきました。
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: まま
-      base: 侭
-      position: 2
-    - word: さっさと
-      position: 4
-    - word: あるき
-      base: 歩く
-      position: 8
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
 - id: Gongitsune-f000366
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8265,29 +2886,6 @@
   sound_begin: 879454
   sound_end: 882552
   sentence: 吉兵衛というお百姓の家まで来ると、
-  words:
-    - word: 吉兵衛
-      position: 0
-    - word: と
-      position: 3
-    - word: いう
-      base: 言う
-      position: 4
-    - word: お
-      base: 御
-      position: 6
-    - word: 百姓
-      position: 7
-    - word: の
-      position: 9
-    - word: 家
-      position: 10
-    - word: まで
-      position: 11
-    - word: 来る
-      position: 13
-    - word: と
-      position: 15
 - id: Gongitsune-f000367
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8296,29 +2894,6 @@
   sound_begin: 882552
   sound_end: 886476
   sentence: 二人はそこへはいっていきました。
-  words:
-    - word: 二人
-      position: 0
-    - word: は
-      position: 2
-    - word: そこ
-      base: 其処
-      position: 3
-    - word: へ
-      position: 5
-    - word: はいっ
-      base: 入る
-      position: 6
-    - word: て
-      position: 9
-    - word: いき
-      base: 行く
-      position: 10
-    - word: まし
-      base: ます
-      position: 12
-    - word: た
-      position: 14
 - id: Gongitsune-f000368
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8327,31 +2902,6 @@
   sound_begin: 886476
   sound_end: 894560
   sentence: ポンポンポンポンと木魚の音がしています。
-  words:
-    - word: ポンポン
-      position: 0
-    - word: ポンポン
-      position: 4
-    - word: と
-      position: 8
-    - word: 木魚
-      position: 9
-    - word: の
-      position: 11
-    - word: 音
-      position: 12
-    - word: が
-      position: 13
-    - word: し
-      base: 為る
-      position: 14
-    - word: て
-      position: 15
-    - word: い
-      base: 居る
-      position: 16
-    - word: ます
-      position: 17
 - id: Gongitsune-f000369
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8360,30 +2910,6 @@
   sound_begin: 894560
   sound_end: 897618
   sentence: 窓の障子にあかりがさしていて、
-  words:
-    - word: 窓
-      position: 0
-    - word: の
-      position: 1
-    - word: 障子
-      position: 2
-    - word: に
-      position: 4
-    - word: あかり
-      base: 明かり
-      position: 5
-    - word: が
-      position: 8
-    - word: さし
-      base: さす
-      position: 9
-    - word: て
-      position: 11
-    - word: い
-      base: 居る
-      position: 12
-    - word: て
-      position: 13
 - id: Gongitsune-f000370
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8392,33 +2918,6 @@
   sound_begin: 897618
   sound_end: 902008
   sentence: 大きな坊主頭がうつって動いていました。
-  words:
-    - word: 大きな
-      position: 0
-    - word: 坊主
-      position: 3
-    - word: 頭
-      position: 5
-    - word: が
-      position: 6
-    - word: うつっ
-      base: うつる
-      position: 7
-    - word: て
-      position: 10
-    - word: 動い
-      base: 動く
-      position: 11
-    - word: て
-      position: 13
-    - word: い
-      base: 居る
-      position: 14
-    - word: まし
-      base: ます
-      position: 15
-    - word: た
-      position: 17
 - id: Gongitsune-f000371
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8427,11 +2926,6 @@
   sound_begin: 902008
   sound_end: 903560
   sentence: ごんは、
-  words:
-    - word: ごん
-      position: 0
-    - word: は
-      position: 2
 - id: Gongitsune-f000372
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8440,53 +2934,6 @@
   sound_begin: 903560
   sound_end: 911440
   sentence: 「おねんぶつがあるんだな」と思いながら井戸のそばにしゃがんでいました。
-  words:
-    - word: お
-      base: 御
-      position: 1
-    - word: ねんぶつ
-      base: 念仏
-      position: 2
-    - word: が
-      position: 6
-    - word: ある
-      base: 有る
-      position: 7
-    - word: ん
-      base: の
-      position: 9
-    - word: だ
-      position: 10
-    - word: な
-      position: 11
-    - word: と
-      position: 13
-    - word: 思い
-      base: 思う
-      position: 14
-    - word: ながら
-      position: 16
-    - word: 井戸
-      position: 19
-    - word: の
-      position: 21
-    - word: そば
-      position: 22
-    - word: に
-      position: 24
-    - word: しゃがん
-      base: しゃがむ
-      position: 25
-    - word: で
-      position: 29
-    - word: い
-      base: 居る
-      position: 30
-    - word: まし
-      base: ます
-      position: 31
-    - word: た
-      position: 33
 - id: Gongitsune-f000373
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8495,15 +2942,6 @@
   sound_begin: 911440
   sound_end: 912800
   sentence: しばらくすると、
-  words:
-    - word: しばらく
-      base: 暫く
-      position: 0
-    - word: する
-      base: 為る
-      position: 4
-    - word: と
-      position: 6
 - id: Gongitsune-f000374
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8512,17 +2950,6 @@
   sound_begin: 912800
   sound_end: 913960
   sentence: また三人ほど、
-  words:
-    - word: また
-      base: 又
-      position: 0
-    - word: 三
-      base: '3'
-      position: 2
-    - word: 人
-      position: 3
-    - word: ほど
-      position: 4
 - id: Gongitsune-f000375
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8531,40 +2958,6 @@
   sound_begin: 913960
   sound_end: 919800
   sentence: 人がつれだって吉兵衛の家へはいっていきました。
-  words:
-    - word: 人
-      position: 0
-    - word: が
-      position: 1
-    - word: つれ
-      base: つれる
-      position: 2
-    - word: だっ
-      base: 立つ
-      position: 4
-    - word: て
-      position: 6
-    - word: 吉兵衛
-      position: 7
-    - word: の
-      position: 10
-    - word: 家
-      position: 11
-    - word: へ
-      position: 12
-    - word: はいっ
-      base: 入る
-      position: 13
-    - word: て
-      position: 16
-    - word: いき
-      base: 行く
-      position: 17
-    - word: まし
-      base: ます
-      position: 19
-    - word: た
-      position: 21
 - id: Gongitsune-f000376
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8573,33 +2966,6 @@
   sound_begin: 919416
   sound_end: 925796
   sentence: お経を読む声がきこえて来ました。
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 経
-      position: 1
-    - word: を
-      position: 2
-    - word: 読む
-      position: 3
-    - word: 声
-      position: 5
-    - word: が
-      position: 6
-    - word: きこえ
-      base: 聞こえる
-      position: 7
-    - word: て
-      position: 10
-    - word: 来
-      base: 来る
-      position: 11
-    - word: まし
-      base: ます
-      position: 12
-    - word: た
-      position: 14
 - id: Gongitsune-f000378
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8608,11 +2974,6 @@
   sound_begin: 926427
   sound_end: 927400
   sentence: ごんは、
-  words:
-    - word: ごん
-      position: 0
-    - word: は
-      position: 2
 - id: Gongitsune-f000379
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8621,19 +2982,6 @@
   sound_begin: 927400
   sound_end: 929320
   sentence: おねんぶつがすむまで、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: ねんぶつ
-      base: 念仏
-      position: 1
-    - word: が
-      position: 5
-    - word: すむ
-      position: 6
-    - word: まで
-      position: 8
 - id: Gongitsune-f000380
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8642,28 +2990,6 @@
   sound_begin: 929320
   sound_end: 933360
   sentence: 井戸のそばにしゃがんでいました。
-  words:
-    - word: 井戸
-      position: 0
-    - word: の
-      position: 2
-    - word: そば
-      position: 3
-    - word: に
-      position: 5
-    - word: しゃがん
-      base: しゃがむ
-      position: 6
-    - word: で
-      position: 10
-    - word: い
-      base: 居る
-      position: 11
-    - word: まし
-      base: ます
-      position: 12
-    - word: た
-      position: 14
 - id: Gongitsune-f000381
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8672,15 +2998,6 @@
   sound_begin: 933360
   sound_end: 934800
   sentence: 兵十と加助は、
-  words:
-    - word: 兵十
-      position: 0
-    - word: と
-      position: 2
-    - word: 加助
-      position: 3
-    - word: は
-      position: 5
 - id: Gongitsune-f000382
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8689,25 +3006,6 @@
   sound_begin: 934800
   sound_end: 938160
   sentence: また一しょにかえっていきます。
-  words:
-    - word: また
-      base: 又
-      position: 0
-    - word: 一しょ
-      base: 一緒
-      position: 2
-    - word: に
-      position: 5
-    - word: かえっ
-      base: かえる
-      position: 6
-    - word: て
-      position: 9
-    - word: いき
-      base: 行く
-      position: 10
-    - word: ます
-      position: 12
 - id: Gongitsune-f000383
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8716,11 +3014,6 @@
   sound_begin: 938160
   sound_end: 939120
   sentence: ごんは、
-  words:
-    - word: ごん
-      position: 0
-    - word: は
-      position: 2
 - id: Gongitsune-f000384
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8729,25 +3022,6 @@
   sound_begin: 939120
   sound_end: 941268
   sentence: 二人の話をきこうと思って、
-  words:
-    - word: 二人
-      position: 0
-    - word: の
-      position: 2
-    - word: 話
-      position: 3
-    - word: を
-      position: 4
-    - word: きこう
-      base: きく
-      position: 5
-    - word: と
-      position: 8
-    - word: 思っ
-      base: 思う
-      position: 9
-    - word: て
-      position: 11
 - id: Gongitsune-f000385
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8756,20 +3030,6 @@
   sound_begin: 941268
   sound_end: 944493
   sentence: ついていきました。
-  words:
-    - word: つい
-      base: 付く
-      position: 0
-    - word: て
-      position: 2
-    - word: いき
-      base: 行く
-      position: 3
-    - word: まし
-      base: ます
-      position: 5
-    - word: た
-      position: 7
 - id: Gongitsune-f000386
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8778,31 +3038,6 @@
   sound_begin: 944493
   sound_end: 950200
   sentence: 兵十の影法師をふみふみいきました。
-  words:
-    - word: 兵十
-      position: 0
-    - word: の
-      position: 2
-    - word: 影
-      position: 3
-    - word: 法師
-      position: 4
-    - word: を
-      position: 6
-    - word: ふみ
-      base: 踏む
-      position: 7
-    - word: ふみ
-      base: 踏む
-      position: 9
-    - word: いき
-      base: 行く
-      position: 11
-    - word: まし
-      base: ます
-      position: 13
-    - word: た
-      position: 15
 - id: Gongitsune-f000387
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8811,26 +3046,6 @@
   sound_begin: 950200
   sound_end: 951720
   sentence: お城の前まで来たとき、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 城
-      position: 1
-    - word: の
-      position: 2
-    - word: 前
-      position: 3
-    - word: まで
-      position: 4
-    - word: 来
-      base: 来る
-      position: 6
-    - word: た
-      position: 7
-    - word: とき
-      base: 時
-      position: 8
 - id: Gongitsune-f000388
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8839,22 +3054,6 @@
   sound_begin: 951720
   sound_end: 955720
   sentence: 加助が言い出しました。
-  words:
-    - word: 加助
-      position: 0
-    - word: が
-      position: 2
-    - word: 言い
-      base: 言う
-      position: 3
-    - word: 出し
-      base: 出す
-      position: 5
-    - word: まし
-      base: ます
-      position: 7
-    - word: た
-      position: 9
 - id: Gongitsune-f000389
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8863,15 +3062,6 @@
   sound_begin: 955720
   sound_end: 956920
   sentence: 「さっきの話は、
-  words:
-    - word: さっき
-      position: 1
-    - word: の
-      position: 4
-    - word: 話
-      position: 5
-    - word: は
-      position: 6
 - id: Gongitsune-f000390
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8880,9 +3070,6 @@
   sound_begin: 956920
   sound_end: 958240
   sentence: きっと、
-  words:
-    - word: きっと
-      position: 0
 - id: Gongitsune-f000391
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8891,10 +3078,6 @@
   sound_begin: 958240
   sound_end: 958680
   sentence: そりゃあ、
-  words:
-    - word: そりゃあ
-      base: 其れ
-      position: 0
 - id: Gongitsune-f000392
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8903,21 +3086,6 @@
   sound_begin: 958680
   sound_end: 961244
   sentence: 神さまのしわざだぞ」
-  words:
-    - word: 神
-      position: 0
-    - word: さま
-      base: 様
-      position: 1
-    - word: の
-      position: 3
-    - word: しわざ
-      base: 仕業
-      position: 4
-    - word: だ
-      position: 7
-    - word: ぞ
-      position: 8
 - id: Gongitsune-f000393
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8926,9 +3094,6 @@
   sound_begin: 961244
   sound_end: 962138
   sentence: 「えっ？
-  words:
-    - word: えっ
-      position: 1
 - id: Gongitsune-f000394
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8937,9 +3102,6 @@
   sound_begin: 962138
   sound_end: 962520
   sentence: 」と、
-  words:
-    - word: と
-      position: 1
 - id: Gongitsune-f000395
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8948,18 +3110,6 @@
   sound_begin: 962520
   sound_end: 964221
   sentence: 兵十はびっくりして、
-  words:
-    - word: 兵十
-      position: 0
-    - word: は
-      position: 2
-    - word: びっくり
-      position: 3
-    - word: し
-      base: 為る
-      position: 7
-    - word: て
-      position: 8
 - id: Gongitsune-f000396
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8968,23 +3118,6 @@
   sound_begin: 964221
   sound_end: 968040
   sentence: 加助の顔を見ました。
-  words:
-    - word: 加助
-      position: 0
-    - word: の
-      position: 2
-    - word: 顔
-      position: 3
-    - word: を
-      position: 4
-    - word: 見
-      base: 見る
-      position: 5
-    - word: まし
-      base: ます
-      position: 6
-    - word: た
-      position: 8
 - id: Gongitsune-f000397
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -8993,12 +3126,6 @@
   sound_begin: 968040
   sound_end: 968880
   sentence: 「おれは、
-  words:
-    - word: おれ
-      base: 俺
-      position: 1
-    - word: は
-      position: 3
 - id: Gongitsune-f000398
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9007,26 +3134,6 @@
   sound_begin: 968880
   sound_end: 971400
   sentence: あれからずっと考えていたが、
-  words:
-    - word: あれ
-      base: 彼れ
-      position: 0
-    - word: から
-      position: 2
-    - word: ずっと
-      position: 4
-    - word: 考え
-      base: 考える
-      position: 7
-    - word: て
-      position: 9
-    - word: い
-      base: 居る
-      position: 10
-    - word: た
-      position: 11
-    - word: が
-      position: 12
 - id: Gongitsune-f000399
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9035,11 +3142,6 @@
   sound_begin: 971400
   sound_end: 971960
   sentence: どうも、
-  words:
-    - word: どう
-      position: 0
-    - word: も
-      position: 2
 - id: Gongitsune-f000400
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9048,10 +3150,6 @@
   sound_begin: 971960
   sound_end: 972600
   sentence: そりゃ、
-  words:
-    - word: そりゃ
-      base: 其れ
-      position: 0
 - id: Gongitsune-f000401
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9060,15 +3158,6 @@
   sound_begin: 972600
   sound_end: 973200
   sentence: 人間じゃない、
-  words:
-    - word: 人間
-      position: 0
-    - word: じゃ
-      base: だ
-      position: 2
-    - word: ない
-      base: 無い
-      position: 4
 - id: Gongitsune-f000402
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9077,14 +3166,6 @@
   sound_begin: 973200
   sound_end: 974694
   sentence: 神さまだ、
-  words:
-    - word: 神
-      position: 0
-    - word: さま
-      base: 様
-      position: 1
-    - word: だ
-      position: 3
 - id: Gongitsune-f000403
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9093,14 +3174,6 @@
   sound_begin: 974694
   sound_end: 975720
   sentence: 神さまが、
-  words:
-    - word: 神
-      position: 0
-    - word: さま
-      base: 様
-      position: 1
-    - word: が
-      position: 3
 - id: Gongitsune-f000404
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9109,42 +3182,6 @@
   sound_begin: 975720
   sound_end: 979360
   sentence: お前がたった一人になったのをあわれに思わっしゃって、
-  words:
-    - word: お前
-      base: 御前
-      position: 0
-    - word: が
-      position: 2
-    - word: たった
-      base: 唯
-      position: 3
-    - word: 一人
-      position: 6
-    - word: に
-      position: 8
-    - word: なっ
-      base: 成る
-      position: 9
-    - word: た
-      position: 11
-    - word: の
-      position: 12
-    - word: を
-      position: 13
-    - word: あわれ
-      base: 哀れ
-      position: 14
-    - word: に
-      base: だ
-      position: 17
-    - word: 思わ
-      base: 思う
-      position: 18
-    - word: っしゃっ
-      base: しゃる
-      position: 20
-    - word: て
-      position: 24
 - id: Gongitsune-f000405
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9153,29 +3190,6 @@
   sound_begin: 979360
   sound_end: 983240
   sentence: いろんなものをめぐんで下さるんだよ」
-  words:
-    - word: いろんな
-      base: 色んな
-      position: 0
-    - word: もの
-      base: 物
-      position: 4
-    - word: を
-      position: 6
-    - word: めぐん
-      base: めぐむ
-      position: 7
-    - word: で
-      position: 10
-    - word: 下さる
-      position: 11
-    - word: ん
-      base: の
-      position: 14
-    - word: だ
-      position: 15
-    - word: よ
-      position: 16
 - id: Gongitsune-f000406
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9184,14 +3198,6 @@
   sound_begin: 983240
   sound_end: 985640
   sentence: 「そうかなあ」
-  words:
-    - word: そう
-      position: 1
-    - word: か
-      position: 3
-    - word: なあ
-      base: な
-      position: 4
 - id: Gongitsune-f000407
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9200,13 +3206,6 @@
   sound_begin: 985640
   sound_end: 987120
   sentence: 「そうだとも。
-  words:
-    - word: そう
-      position: 1
-    - word: だ
-      position: 3
-    - word: とも
-      position: 4
 - id: Gongitsune-f000408
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9215,11 +3214,6 @@
   sound_begin: 987120
   sound_end: 988080
   sentence: だから、
-  words:
-    - word: だ
-      position: 0
-    - word: から
-      position: 1
 - id: Gongitsune-f000409
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9228,33 +3222,6 @@
   sound_begin: 988080
   sound_end: 991737
   sentence: まいにち神さまにお礼を言うがいいよ」
-  words:
-    - word: まいにち
-      base: 毎日
-      position: 0
-    - word: 神
-      position: 4
-    - word: さま
-      base: 様
-      position: 5
-    - word: に
-      position: 7
-    - word: お
-      base: 御
-      position: 8
-    - word: 礼
-      position: 9
-    - word: を
-      position: 10
-    - word: 言う
-      position: 11
-    - word: が
-      position: 13
-    - word: いい
-      base: 良い
-      position: 14
-    - word: よ
-      position: 16
 - id: Gongitsune-f000410
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9263,9 +3230,6 @@
   sound_begin: 991737
   sound_end: 994360
   sentence: 「うん」
-  words:
-    - word: うん
-      position: 1
 - id: Gongitsune-f000411
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9274,11 +3238,6 @@
   sound_begin: 994360
   sound_end: 995444
   sentence: ごんは、
-  words:
-    - word: ごん
-      position: 0
-    - word: は
-      position: 2
 - id: Gongitsune-f000412
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9287,9 +3246,6 @@
   sound_begin: 995444
   sound_end: 996200
   sentence: へえ、
-  words:
-    - word: へえ
-      position: 0
 - id: Gongitsune-f000413
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9298,29 +3254,6 @@
   sound_begin: 996200
   sound_end: 1000962
   sentence: こいつはつまらないなと思いました。
-  words:
-    - word: こいつ
-      base: 此奴
-      position: 0
-    - word: は
-      position: 3
-    - word: つまら
-      base: 詰まる
-      position: 4
-    - word: ない
-      position: 7
-    - word: な
-      position: 9
-    - word: と
-      position: 10
-    - word: 思い
-      base: 思う
-      position: 11
-    - word: まし
-      base: ます
-      position: 13
-    - word: た
-      position: 15
 - id: Gongitsune-f000414
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9329,12 +3262,6 @@
   sound_begin: 1000962
   sound_end: 1001600
   sentence: おれが、
-  words:
-    - word: おれ
-      base: 俺
-      position: 0
-    - word: が
-      position: 2
 - id: Gongitsune-f000415
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9343,33 +3270,6 @@
   sound_begin: 1001600
   sound_end: 1004320
   sentence: 栗や松たけを持っていってやるのに、
-  words:
-    - word: 栗
-      position: 0
-    - word: や
-      position: 1
-    - word: 松たけ
-      base: 松茸
-      position: 2
-    - word: を
-      position: 5
-    - word: 持っ
-      base: 持つ
-      position: 6
-    - word: て
-      position: 8
-    - word: いっ
-      base: 行く
-      position: 9
-    - word: て
-      position: 11
-    - word: やる
-      base: 遣る
-      position: 12
-    - word: の
-      position: 14
-    - word: に
-      position: 15
 - id: Gongitsune-f000416
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9378,31 +3278,6 @@
   sound_begin: 1004320
   sound_end: 1006653
   sentence: そのおれにはお礼をいわないで、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: おれ
-      base: 俺
-      position: 2
-    - word: に
-      position: 4
-    - word: は
-      position: 5
-    - word: お
-      base: 御
-      position: 6
-    - word: 礼
-      position: 7
-    - word: を
-      position: 8
-    - word: いわ
-      base: 言う
-      position: 9
-    - word: ない
-      position: 11
-    - word: で
-      position: 13
 - id: Gongitsune-f000417
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9411,30 +3286,6 @@
   sound_begin: 1006653
   sound_end: 1009120
   sentence: 神さまにお礼をいうんじゃア、
-  words:
-    - word: 神
-      position: 0
-    - word: さま
-      base: 様
-      position: 1
-    - word: に
-      position: 3
-    - word: お
-      base: 御
-      position: 4
-    - word: 礼
-      position: 5
-    - word: を
-      position: 6
-    - word: いう
-      base: 言う
-      position: 7
-    - word: ん
-      base: の
-      position: 9
-    - word: じゃア
-      base: で
-      position: 10
 - id: Gongitsune-f000418
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9443,12 +3294,6 @@
   sound_begin: 1009120
   sound_end: 1009640
   sentence: おれは、
-  words:
-    - word: おれ
-      base: 俺
-      position: 0
-    - word: は
-      position: 2
 - id: Gongitsune-f000419
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9457,18 +3302,6 @@
   sound_begin: 1009640
   sound_end: 1014622
   sentence: 引き合わないなあ。
-  words:
-    - word: 引き
-      base: 引く
-      position: 0
-    - word: 合わ
-      base: 合う
-      position: 2
-    - word: ない
-      position: 4
-    - word: なあ
-      base: な
-      position: 6
 - id: Gongitsune-f000421
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9477,19 +3310,6 @@
   sound_begin: 1015472
   sound_end: 1017502
   sentence: そのあくる日もごんは、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: あくる日
-      base: 翌る日
-      position: 2
-    - word: も
-      position: 6
-    - word: ごん
-      position: 7
-    - word: は
-      position: 9
 - id: Gongitsune-f000422
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9498,16 +3318,6 @@
   sound_begin: 1017502
   sound_end: 1018637
   sentence: 栗をもって、
-  words:
-    - word: 栗
-      position: 0
-    - word: を
-      position: 1
-    - word: もっ
-      base: 持つ
-      position: 2
-    - word: て
-      position: 4
 - id: Gongitsune-f000423
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9516,26 +3326,6 @@
   sound_begin: 1018637
   sound_end: 1022719
   sentence: 兵十の家へ出かけました。
-  words:
-    - word: 兵十
-      position: 0
-    - word: の
-      position: 2
-    - word: 家
-      position: 3
-    - word: へ
-      position: 4
-    - word: 出
-      base: 出る
-      position: 5
-    - word: かけ
-      base: 掛ける
-      position: 6
-    - word: まし
-      base: ます
-      position: 8
-    - word: た
-      position: 10
 - id: Gongitsune-f000424
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9544,32 +3334,6 @@
   sound_begin: 1022719
   sound_end: 1027200
   sentence: 兵十は物置で縄をなっていました。
-  words:
-    - word: 兵十
-      position: 0
-    - word: は
-      position: 2
-    - word: 物置
-      position: 3
-    - word: で
-      position: 5
-    - word: 縄
-      position: 6
-    - word: を
-      position: 7
-    - word: なっ
-      base: 成る
-      position: 8
-    - word: て
-      position: 10
-    - word: い
-      base: 居る
-      position: 11
-    - word: まし
-      base: ます
-      position: 12
-    - word: た
-      position: 14
 - id: Gongitsune-f000425
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9578,24 +3342,6 @@
   sound_begin: 1027200
   sound_end: 1030003
   sentence: それでごんは家の裏口から、
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: で
-      position: 2
-    - word: ごん
-      position: 3
-    - word: は
-      position: 5
-    - word: 家
-      position: 6
-    - word: の
-      position: 7
-    - word: 裏口
-      position: 8
-    - word: から
-      position: 10
 - id: Gongitsune-f000426
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9604,21 +3350,6 @@
   sound_begin: 1030003
   sound_end: 1033846
   sentence: こっそり中へはいりました。
-  words:
-    - word: こっそり
-      position: 0
-    - word: 中
-      position: 4
-    - word: へ
-      position: 5
-    - word: はいり
-      base: 入る
-      position: 6
-    - word: まし
-      base: ます
-      position: 9
-    - word: た
-      position: 11
 - id: Gongitsune-f000427
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9627,17 +3358,6 @@
   sound_begin: 1033846
   sound_end: 1035640
   sentence: そのとき兵十は、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: とき
-      base: 時
-      position: 2
-    - word: 兵十
-      position: 4
-    - word: は
-      position: 6
 - id: Gongitsune-f000428
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9646,21 +3366,6 @@
   sound_begin: 1035640
   sound_end: 1037402
   sentence: ふと顔をあげました。
-  words:
-    - word: ふと
-      position: 0
-    - word: 顔
-      position: 2
-    - word: を
-      position: 3
-    - word: あげ
-      base: 上げる
-      position: 4
-    - word: まし
-      base: ます
-      position: 6
-    - word: た
-      position: 8
 - id: Gongitsune-f000429
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9669,42 +3374,6 @@
   sound_begin: 1037402
   sound_end: 1041988
   sentence: と狐が家の中へはいったではありませんか。
-  words:
-    - word: と
-      position: 0
-    - word: 狐
-      position: 1
-    - word: が
-      position: 2
-    - word: 家
-      position: 3
-    - word: の
-      position: 4
-    - word: 中
-      position: 5
-    - word: へ
-      position: 6
-    - word: はいっ
-      base: 入る
-      position: 7
-    - word: た
-      position: 10
-    - word: で
-      base: だ
-      position: 11
-    - word: は
-      position: 12
-    - word: あり
-      base: 有る
-      position: 13
-    - word: ませ
-      base: ます
-      position: 15
-    - word: ん
-      base: ず
-      position: 17
-    - word: か
-      position: 18
 - id: Gongitsune-f000430
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9713,33 +3382,6 @@
   sound_begin: 1041988
   sound_end: 1045400
   sentence: こないだうなぎをぬすみやがったあのごん狐めが、
-  words:
-    - word: こないだ
-      base: 此の間
-      position: 0
-    - word: うなぎ
-      base: 鰻
-      position: 4
-    - word: を
-      position: 7
-    - word: ぬすみ
-      base: 盗む
-      position: 8
-    - word: やがっ
-      base: やがる
-      position: 11
-    - word: た
-      position: 14
-    - word: あの
-      position: 15
-    - word: ごん
-      position: 17
-    - word: 狐
-      position: 19
-    - word: め
-      position: 20
-    - word: が
-      position: 21
 - id: Gongitsune-f000431
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9748,27 +3390,6 @@
   sound_begin: 1045400
   sound_end: 1048499
   sentence: またいたずらをしに来たな。
-  words:
-    - word: また
-      base: 又
-      position: 0
-    - word: いたずら
-      base: 悪戯
-      position: 2
-    - word: を
-      position: 6
-    - word: し
-      base: 為る
-      position: 7
-    - word: に
-      position: 8
-    - word: 来
-      base: 来る
-      position: 9
-    - word: た
-      position: 10
-    - word: な
-      position: 11
 - id: Gongitsune-f000432
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9777,10 +3398,6 @@
   sound_begin: 1048499
   sound_end: 1050875
   sentence: 「ようし。」
-  words:
-    - word: ようし
-      base: よし
-      position: 1
 - id: Gongitsune-f000433
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9789,19 +3406,6 @@
   sound_begin: 1050875
   sound_end: 1052720
   sentence: 兵十は立ちあがって、
-  words:
-    - word: 兵十
-      position: 0
-    - word: は
-      position: 2
-    - word: 立ち
-      base: 立つ
-      position: 3
-    - word: あがっ
-      base: 上がる
-      position: 5
-    - word: て
-      position: 8
 - id: Gongitsune-f000434
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9810,30 +3414,6 @@
   sound_begin: 1052720
   sound_end: 1055288
   sentence: 納屋にかけてある火縄銃をとって、
-  words:
-    - word: 納屋
-      position: 0
-    - word: に
-      position: 2
-    - word: かけ
-      base: 掛ける
-      position: 3
-    - word: て
-      position: 5
-    - word: ある
-      base: 有る
-      position: 6
-    - word: 火縄
-      position: 8
-    - word: 銃
-      position: 10
-    - word: を
-      position: 11
-    - word: とっ
-      base: 取る
-      position: 12
-    - word: て
-      position: 14
 - id: Gongitsune-f000435
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9842,19 +3422,6 @@
   sound_begin: 1055288
   sound_end: 1057739
   sentence: 火薬をつめました。
-  words:
-    - word: 火薬
-      position: 0
-    - word: を
-      position: 2
-    - word: つめ
-      base: つめる
-      position: 3
-    - word: まし
-      base: ます
-      position: 5
-    - word: た
-      position: 7
 - id: Gongitsune-f000436
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9863,26 +3430,6 @@
   sound_begin: 1057739
   sound_end: 1061926
   sentence: そして足音をしのばせてちかよって、
-  words:
-    - word: そして
-      position: 0
-    - word: 足音
-      position: 3
-    - word: を
-      position: 5
-    - word: しのば
-      base: しのぶ
-      position: 6
-    - word: せ
-      base: せる
-      position: 9
-    - word: て
-      position: 10
-    - word: ちかよっ
-      base: 近寄る
-      position: 11
-    - word: て
-      position: 15
 - id: Gongitsune-f000437
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9891,25 +3438,6 @@
   sound_begin: 1061926
   sound_end: 1064680
   sentence: 今戸口を出ようとするごんを、
-  words:
-    - word: 今
-      position: 0
-    - word: 戸口
-      position: 1
-    - word: を
-      position: 3
-    - word: 出よう
-      base: 出る
-      position: 4
-    - word: と
-      position: 7
-    - word: する
-      base: 為る
-      position: 8
-    - word: ごん
-      position: 10
-    - word: を
-      position: 12
 - id: Gongitsune-f000438
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9918,12 +3446,6 @@
   sound_begin: 1064680
   sound_end: 1065680
   sentence: ドンと、
-  words:
-    - word: ドン
-      base: どん
-      position: 0
-    - word: と
-      position: 2
 - id: Gongitsune-f000439
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9932,15 +3454,6 @@
   sound_begin: 1065680
   sound_end: 1068880
   sentence: うちました。
-  words:
-    - word: うち
-      base: 内
-      position: 0
-    - word: まし
-      base: ます
-      position: 2
-    - word: た
-      position: 4
 - id: Gongitsune-f000440
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9949,11 +3462,6 @@
   sound_begin: 1068880
   sound_end: 1069240
   sentence: ごんは、
-  words:
-    - word: ごん
-      position: 0
-    - word: は
-      position: 2
 - id: Gongitsune-f000441
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9962,19 +3470,6 @@
   sound_begin: 1069240
   sound_end: 1071369
   sentence: ばたりとたおれました。
-  words:
-    - word: ばたり
-      position: 0
-    - word: と
-      position: 3
-    - word: たおれ
-      base: 倒れる
-      position: 4
-    - word: まし
-      base: ます
-      position: 7
-    - word: た
-      position: 9
 - id: Gongitsune-f000442
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -9983,24 +3478,6 @@
   sound_begin: 1071369
   sound_end: 1074639
   sentence: 兵十はかけよって来ました。
-  words:
-    - word: 兵十
-      position: 0
-    - word: は
-      position: 2
-    - word: かけよっ
-      base: 掛ける
-      position: 3
-    - word: て
-      position: 7
-    - word: 来
-      base: 来る
-      position: 8
-    - word: まし
-      base: ます
-      position: 9
-    - word: た
-      position: 11
 - id: Gongitsune-f000443
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -10009,19 +3486,6 @@
   sound_begin: 1074639
   sound_end: 1076680
   sentence: 家の中を見ると、
-  words:
-    - word: 家
-      position: 0
-    - word: の
-      position: 1
-    - word: 中
-      position: 2
-    - word: を
-      position: 3
-    - word: 見る
-      position: 4
-    - word: と
-      position: 6
 - id: Gongitsune-f000444
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -10030,15 +3494,6 @@
   sound_begin: 1076680
   sound_end: 1077600
   sentence: 土間に栗が、
-  words:
-    - word: 土間
-      position: 0
-    - word: に
-      position: 2
-    - word: 栗
-      position: 3
-    - word: が
-      position: 4
 - id: Gongitsune-f000445
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -10047,36 +3502,6 @@
   sound_begin: 1077600
   sound_end: 1083120
   sentence: かためておいてあるのが目につきました。
-  words:
-    - word: かため
-      base: 固める
-      position: 0
-    - word: て
-      position: 3
-    - word: おい
-      base: おく
-      position: 4
-    - word: て
-      position: 6
-    - word: ある
-      base: 有る
-      position: 7
-    - word: の
-      position: 9
-    - word: が
-      position: 10
-    - word: 目
-      position: 11
-    - word: に
-      position: 12
-    - word: つき
-      base: つく
-      position: 13
-    - word: まし
-      base: ます
-      position: 15
-    - word: た
-      position: 17
 - id: Gongitsune-f000446
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -10085,15 +3510,6 @@
   sound_begin: 1083120
   sound_end: 1085120
   sentence: 「おや」と兵十は、
-  words:
-    - word: おや
-      position: 1
-    - word: と
-      position: 4
-    - word: 兵十
-      position: 5
-    - word: は
-      position: 7
 - id: Gongitsune-f000447
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -10102,30 +3518,6 @@
   sound_begin: 1085120
   sound_end: 1091320
   sentence: びっくりしてごんに目を落しました。
-  words:
-    - word: びっくり
-      position: 0
-    - word: し
-      base: 為る
-      position: 4
-    - word: て
-      position: 5
-    - word: ごん
-      position: 6
-    - word: に
-      position: 8
-    - word: 目
-      position: 9
-    - word: を
-      position: 10
-    - word: 落し
-      base: 落とす
-      position: 11
-    - word: まし
-      base: ます
-      position: 13
-    - word: た
-      position: 15
 - id: Gongitsune-f000448
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -10134,9 +3526,6 @@
   sound_begin: 1091320
   sound_end: 1092480
   sentence: 「ごん、
-  words:
-    - word: ごん
-      position: 1
 - id: Gongitsune-f000449
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -10145,19 +3534,6 @@
   sound_begin: 1092480
   sound_end: 1094240
   sentence: お前だったのか。
-  words:
-    - word: お前
-      base: 御前
-      position: 0
-    - word: だっ
-      base: だ
-      position: 2
-    - word: た
-      position: 4
-    - word: の
-      position: 5
-    - word: か
-      position: 6
 - id: Gongitsune-f000450
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -10166,22 +3542,6 @@
   sound_begin: 1094240
   sound_end: 1099400
   sentence: いつも栗をくれたのは」
-  words:
-    - word: いつも
-      position: 0
-    - word: 栗
-      position: 3
-    - word: を
-      position: 4
-    - word: くれ
-      base: 呉れる
-      position: 5
-    - word: た
-      position: 7
-    - word: の
-      position: 8
-    - word: は
-      position: 9
 - id: Gongitsune-f000451
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -10190,11 +3550,6 @@
   sound_begin: 1099400
   sound_end: 1100863
   sentence: ごんは、
-  words:
-    - word: ごん
-      position: 0
-    - word: は
-      position: 2
 - id: Gongitsune-f000452
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -10203,23 +3558,6 @@
   sound_begin: 1100863
   sound_end: 1103441
   sentence: ぐったりと目をつぶったまま、
-  words:
-    - word: ぐったり
-      position: 0
-    - word: と
-      position: 4
-    - word: 目
-      position: 5
-    - word: を
-      position: 6
-    - word: つぶっ
-      base: 瞑る
-      position: 7
-    - word: た
-      position: 10
-    - word: まま
-      base: 侭
-      position: 11
 - id: Gongitsune-f000453
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -10228,15 +3566,6 @@
   sound_begin: 1103441
   sound_end: 1107787
   sentence: うなずきました。
-  words:
-    - word: うなずき
-      base: 頷く
-      position: 0
-    - word: まし
-      base: ます
-      position: 4
-    - word: た
-      position: 6
 - id: Gongitsune-f000454
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -10245,21 +3574,6 @@
   sound_begin: 1107787
   sound_end: 1110480
   sentence: 兵十は火縄銃をばたりと、
-  words:
-    - word: 兵十
-      position: 0
-    - word: は
-      position: 2
-    - word: 火縄
-      position: 3
-    - word: 銃
-      position: 5
-    - word: を
-      position: 6
-    - word: ばたり
-      position: 7
-    - word: と
-      position: 10
 - id: Gongitsune-f000455
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -10268,18 +3582,6 @@
   sound_begin: 1110480
   sound_end: 1114240
   sentence: とり落しました。
-  words:
-    - word: とり
-      base: 取る
-      position: 0
-    - word: 落し
-      base: 落とす
-      position: 2
-    - word: まし
-      base: ます
-      position: 4
-    - word: た
-      position: 6
 - id: Gongitsune-f000456
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -10288,13 +3590,6 @@
   sound_begin: 1114240
   sound_end: 1116040
   sentence: 青い煙が、
-  words:
-    - word: 青い
-      position: 0
-    - word: 煙
-      position: 2
-    - word: が
-      position: 3
 - id: Gongitsune-f000457
   author_japanese: 新美 南吉
   deck_name: Gongitsune
@@ -10303,27 +3598,3 @@
   sound_begin: 1116040
   sound_end: 1122080
   sentence: まだ筒口から細く出ていました。
-  words:
-    - word: まだ
-      base: 未だ
-      position: 0
-    - word: 筒口
-      position: 2
-    - word: から
-      position: 4
-    - word: 細く
-      base: 細い
-      position: 6
-    - word: 出
-      base: 出る
-      position: 8
-    - word: て
-      position: 9
-    - word: い
-      base: 居る
-      position: 10
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13

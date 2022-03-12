@@ -6,20 +6,6 @@
   sound_begin: 5696
   sound_end: 11040
   sentence: 君死にたまふことなかれ
-  words:
-    - word: 君
-      position: 0
-    - word: 死に
-      base: 死ぬ
-      position: 1
-    - word: たまふ
-      base: 給う
-      position: 3
-    - word: こと
-      position: 6
-    - word: なかれ
-      base: 無い
-      position: 8
 - id: Kimisinitamoukoto-f000003
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -83,9 +69,6 @@
   sound_begin: 20352
   sound_end: 21309
   sentence: ああ、
-  words:
-    - word: ああ
-      position: 0
 - id: Kimisinitamoukoto-f000005
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -94,11 +77,6 @@
   sound_begin: 21309
   sound_end: 22857
   sentence: 弟よ、
-  words:
-    - word: 弟
-      position: 0
-    - word: よ
-      position: 1
 - id: Kimisinitamoukoto-f000006
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -107,13 +85,6 @@
   sound_begin: 22857
   sound_end: 26152
   sentence: 君を泣く、
-  words:
-    - word: 君
-      position: 0
-    - word: を
-      position: 1
-    - word: 泣く
-      position: 2
 - id: Kimisinitamoukoto-f000007
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -122,20 +93,6 @@
   sound_begin: 26152
   sound_end: 32202
   sentence: 君死にたまふことなかれ。
-  words:
-    - word: 君
-      position: 0
-    - word: 死に
-      base: 死ぬ
-      position: 1
-    - word: たまふ
-      base: 給う
-      position: 3
-    - word: こと
-      position: 6
-    - word: なかれ
-      base: 無い
-      position: 8
 - id: Kimisinitamoukoto-f000008
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -144,24 +101,6 @@
   sound_begin: 32202
   sound_end: 35247
   sentence: 末に生れし君なれば
-  words:
-    - word: 末
-      position: 0
-    - word: に
-      position: 1
-    - word: 生れ
-      base: 生まれる
-      position: 2
-    - word: し
-      base: 為る
-      position: 4
-    - word: 君
-      position: 5
-    - word: なれ
-      base: なり
-      position: 6
-    - word: ば
-      position: 8
 - id: Kimisinitamoukoto-f000009
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -170,20 +109,6 @@
   sound_begin: 35247
   sound_end: 39240
   sentence: 親のなさけは勝りしも、
-  words:
-    - word: 親
-      position: 0
-    - word: の
-      position: 1
-    - word: なさけ
-      base: 情け
-      position: 2
-    - word: は
-      position: 5
-    - word: 勝り
-      position: 6
-    - word: しも
-      position: 8
 - id: Kimisinitamoukoto-f000010
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -192,24 +117,6 @@
   sound_begin: 39240
   sound_end: 41858
   sentence: 親は刄をにぎらせて
-  words:
-    - word: 親
-      position: 0
-    - word: は
-      position: 1
-    - word: 刄
-      base: 刃
-      position: 2
-    - word: を
-      position: 3
-    - word: にぎら
-      base: 握る
-      position: 4
-    - word: せ
-      base: せる
-      position: 7
-    - word: て
-      position: 8
 - id: Kimisinitamoukoto-f000011
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -218,24 +125,6 @@
   sound_begin: 41858
   sound_end: 45725
   sentence: 人を殺せと教へしや、
-  words:
-    - word: 人
-      position: 0
-    - word: を
-      position: 1
-    - word: 殺せ
-      base: 殺す
-      position: 2
-    - word: と
-      position: 4
-    - word: 教へ
-      base: 教える
-      position: 5
-    - word: し
-      base: き
-      position: 7
-    - word: や
-      position: 8
 - id: Kimisinitamoukoto-f000012
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -244,21 +133,6 @@
   sound_begin: 45725
   sound_end: 48960
   sentence: 人を殺して死ねよとて
-  words:
-    - word: 人
-      position: 0
-    - word: を
-      position: 1
-    - word: 殺し
-      base: 殺す
-      position: 2
-    - word: て
-      position: 4
-    - word: 死ねよ
-      base: 死ぬ
-      position: 5
-    - word: とて
-      position: 8
 - id: Kimisinitamoukoto-f000013
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -267,25 +141,6 @@
   sound_begin: 48960
   sound_end: 55200
   sentence: 廿四までを育てしや。
-  words:
-    - word: 廿
-      base: 二十
-      position: 0
-    - word: 四
-      base: '4'
-      position: 1
-    - word: まで
-      position: 2
-    - word: を
-      position: 4
-    - word: 育て
-      base: 育つ
-      position: 5
-    - word: し
-      base: き
-      position: 7
-    - word: や
-      position: 8
 - id: Kimisinitamoukoto-f000014
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -294,20 +149,6 @@
   sound_begin: 55200
   sound_end: 58040
   sentence: 堺の街のあきびとの
-  words:
-    - word: 堺
-      position: 0
-    - word: の
-      position: 1
-    - word: 街
-      position: 2
-    - word: の
-      position: 3
-    - word: あきびと
-      base: 商人
-      position: 4
-    - word: の
-      position: 8
 - id: Kimisinitamoukoto-f000015
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -316,18 +157,6 @@
   sound_begin: 58040
   sound_end: 62120
   sentence: 老舗を誇るあるじにて、
-  words:
-    - word: 老舗
-      position: 0
-    - word: を
-      position: 2
-    - word: 誇る
-      position: 3
-    - word: あるじ
-      base: 主
-      position: 5
-    - word: にて
-      position: 8
 - id: Kimisinitamoukoto-f000016
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -336,24 +165,6 @@
   sound_begin: 62120
   sound_end: 65558
   sentence: 親の名を継ぐ君なれば、
-  words:
-    - word: 親
-      position: 0
-    - word: の
-      position: 1
-    - word: 名
-      position: 2
-    - word: を
-      position: 3
-    - word: 継ぐ
-      position: 4
-    - word: 君
-      position: 6
-    - word: なれ
-      base: なり
-      position: 7
-    - word: ば
-      position: 9
 - id: Kimisinitamoukoto-f000017
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -362,20 +173,6 @@
   sound_begin: 65558
   sound_end: 71659
   sentence: 君死にたまふことなかれ。
-  words:
-    - word: 君
-      position: 0
-    - word: 死に
-      base: 死ぬ
-      position: 1
-    - word: たまふ
-      base: 給う
-      position: 3
-    - word: こと
-      position: 6
-    - word: なかれ
-      base: 無い
-      position: 8
 - id: Kimisinitamoukoto-f000018
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -384,20 +181,6 @@
   sound_begin: 71659
   sound_end: 74720
   sentence: 旅順の城はほろぶとも、
-  words:
-    - word: 旅順
-      position: 0
-    - word: の
-      position: 2
-    - word: 城
-      position: 3
-    - word: は
-      position: 4
-    - word: ほろぶ
-      base: 滅ぶ
-      position: 5
-    - word: とも
-      position: 8
 - id: Kimisinitamoukoto-f000019
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -406,15 +189,6 @@
   sound_begin: 74720
   sound_end: 76120
   sentence: ほろびずとても、
-  words:
-    - word: ほろび
-      base: 滅ぶ
-      position: 0
-    - word: ず
-      position: 3
-    - word: とても
-      base: 迚も
-      position: 4
 - id: Kimisinitamoukoto-f000020
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -423,11 +197,6 @@
   sound_begin: 76120
   sound_end: 78987
   sentence: 何事ぞ、
-  words:
-    - word: 何事
-      position: 0
-    - word: ぞ
-      position: 2
 - id: Kimisinitamoukoto-f000021
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -436,18 +205,6 @@
   sound_begin: 78987
   sound_end: 80360
   sentence: 君は知らじな、
-  words:
-    - word: 君
-      position: 0
-    - word: は
-      position: 1
-    - word: 知ら
-      base: 知る
-      position: 2
-    - word: じ
-      position: 4
-    - word: な
-      position: 5
 - id: Kimisinitamoukoto-f000022
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -456,12 +213,6 @@
   sound_begin: 80360
   sound_end: 81950
   sentence: あきびとの
-  words:
-    - word: あきびと
-      base: 商人
-      position: 0
-    - word: の
-      position: 4
 - id: Kimisinitamoukoto-f000023
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -470,23 +221,6 @@
   sound_begin: 81950
   sound_end: 87615
   sentence: 家の習ひに無きことを。
-  words:
-    - word: 家
-      position: 0
-    - word: の
-      position: 1
-    - word: 習ひ
-      base: 習う
-      position: 2
-    - word: に
-      position: 4
-    - word: 無き
-      base: 無い
-      position: 5
-    - word: こと
-      position: 7
-    - word: を
-      position: 9
 - id: Kimisinitamoukoto-f000024
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -495,20 +229,6 @@
   sound_begin: 87615
   sound_end: 93165
   sentence: 君死にたまふことなかれ。
-  words:
-    - word: 君
-      position: 0
-    - word: 死に
-      base: 死ぬ
-      position: 1
-    - word: たまふ
-      base: 給う
-      position: 3
-    - word: こと
-      position: 6
-    - word: なかれ
-      base: 無い
-      position: 8
 - id: Kimisinitamoukoto-f000025
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -517,12 +237,6 @@
   sound_begin: 93165
   sound_end: 94423
   sentence: すめらみことは、
-  words:
-    - word: すめらみこと
-      base: 天皇
-      position: 0
-    - word: は
-      position: 6
 - id: Kimisinitamoukoto-f000026
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -531,12 +245,6 @@
   sound_begin: 94423
   sound_end: 96003
   sentence: 戦ひに
-  words:
-    - word: 戦ひ
-      base: 戦う
-      position: 0
-    - word: に
-      position: 2
 - id: Kimisinitamoukoto-f000027
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -545,25 +253,6 @@
   sound_begin: 96003
   sound_end: 100057
   sentence: おほみづからは出でまさね、
-  words:
-    - word: お
-      base: おー
-      position: 0
-    - word: ほ
-      position: 1
-    - word: みづから
-      base: 自ら
-      position: 2
-    - word: は
-      position: 6
-    - word: 出で
-      base: 出る
-      position: 7
-    - word: まさ
-      base: ます
-      position: 9
-    - word: ね
-      position: 11
 - id: Kimisinitamoukoto-f000028
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -572,23 +261,6 @@
   sound_begin: 100057
   sound_end: 102832
   sentence: 互に人の血を流し、
-  words:
-    - word: 互
-      base: 互い
-      position: 0
-    - word: に
-      position: 1
-    - word: 人
-      position: 2
-    - word: の
-      position: 3
-    - word: 血
-      position: 4
-    - word: を
-      position: 5
-    - word: 流し
-      base: 流す
-      position: 6
 - id: Kimisinitamoukoto-f000029
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -597,22 +269,6 @@
   sound_begin: 102832
   sound_end: 105846
   sentence: 獣の道に死ねよとは、
-  words:
-    - word: 獣
-      position: 0
-    - word: の
-      position: 1
-    - word: 道
-      position: 2
-    - word: に
-      position: 3
-    - word: 死ねよ
-      base: 死ぬ
-      position: 4
-    - word: と
-      position: 7
-    - word: は
-      position: 8
 - id: Kimisinitamoukoto-f000030
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -621,25 +277,6 @@
   sound_begin: 105846
   sound_end: 110240
   sentence: 死ぬるを人の誉れとは、
-  words:
-    - word: 死ぬ
-      position: 0
-    - word: る
-      base: り
-      position: 2
-    - word: を
-      position: 3
-    - word: 人
-      position: 4
-    - word: の
-      position: 5
-    - word: 誉れ
-      base: 誉
-      position: 6
-    - word: と
-      position: 8
-    - word: は
-      position: 9
 - id: Kimisinitamoukoto-f000031
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -648,24 +285,6 @@
   sound_begin: 110240
   sound_end: 113120
   sentence: おほみこころの深ければ、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: ほ
-      position: 1
-    - word: み
-      position: 2
-    - word: こころ
-      base: 心
-      position: 3
-    - word: の
-      position: 6
-    - word: 深けれ
-      base: 深い
-      position: 7
-    - word: ば
-      position: 10
 - id: Kimisinitamoukoto-f000032
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -674,21 +293,6 @@
   sound_begin: 113120
   sound_end: 120596
   sentence: もとより如何で思されん。
-  words:
-    - word: もとより
-      base: 固より
-      position: 0
-    - word: 如何で
-      position: 4
-    - word: 思さ
-      base: 思う
-      position: 7
-    - word: れ
-      base: れる
-      position: 9
-    - word: ん
-      base: ず
-      position: 10
 - id: Kimisinitamoukoto-f000033
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -697,9 +301,6 @@
   sound_begin: 120596
   sound_end: 121600
   sentence: ああ、
-  words:
-    - word: ああ
-      position: 0
 - id: Kimisinitamoukoto-f000034
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -708,11 +309,6 @@
   sound_begin: 121600
   sound_end: 123132
   sentence: 弟よ、
-  words:
-    - word: 弟
-      position: 0
-    - word: よ
-      position: 1
 - id: Kimisinitamoukoto-f000035
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -721,12 +317,6 @@
   sound_begin: 123132
   sound_end: 125055
   sentence: 戦ひに
-  words:
-    - word: 戦ひ
-      base: 戦う
-      position: 0
-    - word: に
-      position: 2
 - id: Kimisinitamoukoto-f000036
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -735,20 +325,6 @@
   sound_begin: 125055
   sound_end: 131280
   sentence: 君死にたまふことなかれ。
-  words:
-    - word: 君
-      position: 0
-    - word: 死に
-      base: 死ぬ
-      position: 1
-    - word: たまふ
-      base: 給う
-      position: 3
-    - word: こと
-      position: 6
-    - word: なかれ
-      base: 無い
-      position: 8
 - id: Kimisinitamoukoto-f000037
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -757,25 +333,6 @@
   sound_begin: 131280
   sound_end: 134566
   sentence: 過ぎにし秋を父君に
-  words:
-    - word: 過ぎ
-      position: 0
-    - word: に
-      base: だ
-      position: 2
-    - word: し
-      base: 為る
-      position: 3
-    - word: 秋
-      position: 4
-    - word: を
-      position: 5
-    - word: 父
-      position: 6
-    - word: 君
-      position: 7
-    - word: に
-      position: 8
 - id: Kimisinitamoukoto-f000038
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -784,25 +341,6 @@
   sound_begin: 134566
   sound_end: 138578
   sentence: おくれたまへる母君は、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: くれ
-      base: 呉れる
-      position: 1
-    - word: たまへ
-      base: 給う
-      position: 3
-    - word: る
-      base: り
-      position: 6
-    - word: 母
-      position: 7
-    - word: 君
-      position: 8
-    - word: は
-      position: 9
 - id: Kimisinitamoukoto-f000039
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -811,17 +349,6 @@
   sound_begin: 138578
   sound_end: 140000
   sentence: 歎きのなかに、
-  words:
-    - word: 歎き
-      base: 嘆き
-      position: 0
-    - word: の
-      position: 2
-    - word: なか
-      base: 中
-      position: 3
-    - word: に
-      position: 5
 - id: Kimisinitamoukoto-f000040
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -830,10 +357,6 @@
   sound_begin: 140000
   sound_end: 143040
   sentence: いたましく、
-  words:
-    - word: いたましく
-      base: 痛ましい
-      position: 0
 - id: Kimisinitamoukoto-f000041
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -842,20 +365,6 @@
   sound_begin: 143040
   sound_end: 145160
   sentence: 我子を召され、
-  words:
-    - word: 我
-      base: 我が
-      position: 0
-    - word: 子
-      position: 1
-    - word: を
-      position: 2
-    - word: 召さ
-      base: 召す
-      position: 3
-    - word: れ
-      base: れる
-      position: 5
 - id: Kimisinitamoukoto-f000042
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -864,14 +373,6 @@
   sound_begin: 145160
   sound_end: 148320
   sentence: 家を守り、
-  words:
-    - word: 家
-      position: 0
-    - word: を
-      position: 1
-    - word: 守り
-      base: 守る
-      position: 2
 - id: Kimisinitamoukoto-f000043
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -880,21 +381,6 @@
   sound_begin: 148320
   sound_end: 151560
   sentence: 安しと聞ける大御代も
-  words:
-    - word: 安し
-      base: 安い
-      position: 0
-    - word: と
-      position: 2
-    - word: 聞ける
-      base: 聞く
-      position: 3
-    - word: 大
-      position: 6
-    - word: 御代
-      position: 7
-    - word: も
-      position: 9
 - id: Kimisinitamoukoto-f000044
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -903,21 +389,6 @@
   sound_begin: 151560
   sound_end: 158440
   sentence: 母の白髪は増さりゆく。
-  words:
-    - word: 母
-      position: 0
-    - word: の
-      position: 1
-    - word: 白髪
-      position: 2
-    - word: は
-      position: 4
-    - word: 増さり
-      base: 増さる
-      position: 5
-    - word: ゆく
-      base: 行く
-      position: 8
 - id: Kimisinitamoukoto-f000045
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -926,22 +397,6 @@
   sound_begin: 158440
   sound_end: 162413
   sentence: 暖簾のかげに伏して泣く
-  words:
-    - word: 暖簾
-      position: 0
-    - word: の
-      position: 2
-    - word: かげ
-      position: 3
-    - word: に
-      position: 5
-    - word: 伏し
-      base: 伏す
-      position: 6
-    - word: て
-      position: 8
-    - word: 泣く
-      position: 9
 - id: Kimisinitamoukoto-f000046
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -950,19 +405,6 @@
   sound_begin: 162413
   sound_end: 165313
   sentence: あえかに若き新妻を
-  words:
-    - word: あえか
-      position: 0
-    - word: に
-      base: だ
-      position: 3
-    - word: 若き
-      base: 若い
-      position: 4
-    - word: 新妻
-      position: 6
-    - word: を
-      position: 8
 - id: Kimisinitamoukoto-f000047
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -971,14 +413,6 @@
   sound_begin: 165313
   sound_end: 167776
   sentence: 君忘るるや、
-  words:
-    - word: 君
-      position: 0
-    - word: 忘るる
-      base: 忘れる
-      position: 1
-    - word: や
-      position: 4
 - id: Kimisinitamoukoto-f000048
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -987,12 +421,6 @@
   sound_begin: 167776
   sound_end: 171030
   sentence: 思へるや。
-  words:
-    - word: 思へる
-      base: 思う
-      position: 0
-    - word: や
-      position: 3
 - id: Kimisinitamoukoto-f000049
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -1001,26 +429,6 @@
   sound_begin: 171030
   sound_end: 174107
   sentence: 十月も添はで別れたる
-  words:
-    - word: 十
-      base: '10'
-      position: 0
-    - word: 月
-      position: 1
-    - word: も
-      position: 2
-    - word: 添
-      position: 3
-    - word: は
-      position: 4
-    - word: で
-      position: 5
-    - word: 別れ
-      base: 別れる
-      position: 6
-    - word: たる
-      base: たり
-      position: 8
 - id: Kimisinitamoukoto-f000050
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -1029,22 +437,6 @@
   sound_begin: 174107
   sound_end: 179231
   sentence: 少女ごころを思ひみよ。
-  words:
-    - word: 少女
-      position: 0
-    - word: ごころ
-      base: 心
-      position: 2
-    - word: を
-      position: 5
-    - word: 思ひ
-      base: 思う
-      position: 6
-    - word: み
-      base: 見る
-      position: 8
-    - word: よ
-      position: 9
 - id: Kimisinitamoukoto-f000051
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -1053,22 +445,6 @@
   sound_begin: 179231
   sound_end: 182391
   sentence: この世ひとりの君ならで
-  words:
-    - word: この世
-      base: 此の世
-      position: 0
-    - word: ひとり
-      base: 一人
-      position: 3
-    - word: の
-      position: 6
-    - word: 君
-      position: 7
-    - word: なら
-      base: なり
-      position: 8
-    - word: で
-      position: 10
 - id: Kimisinitamoukoto-f000052
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -1077,22 +453,6 @@
   sound_begin: 182391
   sound_end: 188440
   sentence: ああまた誰を頼むべき。
-  words:
-    - word: あ
-      base: あー
-      position: 0
-    - word: あまた
-      base: 数多
-      position: 1
-    - word: 誰
-      position: 4
-    - word: を
-      position: 5
-    - word: 頼む
-      position: 6
-    - word: べき
-      base: べし
-      position: 8
 - id: Kimisinitamoukoto-f000053
   author_japanese: 与謝野 晶子
   deck_name: Kimisinitamoukoto
@@ -1101,17 +461,3 @@
   sound_begin: 188440
   sound_end: 192214
   sentence: 君死にたまふことなかれ。
-  words:
-    - word: 君
-      position: 0
-    - word: 死に
-      base: 死ぬ
-      position: 1
-    - word: たまふ
-      base: 給う
-      position: 3
-    - word: こと
-      position: 6
-    - word: なかれ
-      base: 無い
-      position: 8

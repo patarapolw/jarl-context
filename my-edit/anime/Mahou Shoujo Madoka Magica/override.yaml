@@ -6,46 +6,10 @@
   sound: A_Mahou_Shoujo_Madoka_Magica_S01_E02_1_0.11.03.788-0.11.08.000.mp3
   sentence: そういう受動態の形は “be動詞＋(プラス)過去分詞”となります
   words:
-    - word: そう
-      position: 0
-    - word: いう
-      base: 言う
-      position: 2
-    - word: 受動
-      position: 4
-    - word: 態
-      position: 6
-    - word: の
-      position: 7
-    - word: 形
-      position: 8
-    - word: は
-      position: 9
-    - word: be
-      base: BE
-      dictionary: Be
-      position: 12
-    - word: 動詞
-      position: 14
-    - word: ＋
-      base: +
-      position: 16
     - word: プラス
       position: 18
       tags:
         - silent
-    - word: 過去
-      position: 22
-    - word: 分詞
-      position: 24
-    - word: と
-      position: 27
-    - word: なり
-      base: 成る
-      dictionary: なる
-      position: 28
-    - word: ます
-      position: 30
 - id: A_Mahou_Shoujo_Madoka_Magica_S01_E06_1435
   deck_name: Mahou Shoujo Madoka Magica
   translation: >-
@@ -54,114 +18,19 @@
   sound: A_Mahou_Shoujo_Madoka_Magica_S01_E06_1_0.16.29.446-0.16.33.784.mp3
   sentence: 惚(ほ)れた男を ものにするなら— もっと さえた手があるじゃない
   words:
-    - word: 惚
-      base: 惚け
-      position: 0
     - word: ほ
       base: ほっ
       position: 2
       tags:
         - silent
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 4
-    - word: た
-      position: 5
-    - word: 男
-      position: 6
-    - word: を
-      position: 7
-    - word: もの
-      base: 物
-      position: 9
-    - word: に
-      position: 11
-    - word: する
-      base: 為る
-      position: 12
-    - word: なら
-      base: だ
-      dictionary: だ
-      position: 14
-    - word: もっと
-      position: 18
-    - word: さえ
-      base: 冴える
-      dictionary: さえる
-      position: 22
-    - word: た
-      position: 24
-    - word: 手
-      position: 25
-    - word: が
-      position: 26
-    - word: ある
-      base: 有る
-      position: 27
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 29
-    - word: ない
-      base: 無い
-      position: 31
 - id: A_Mahou_Shoujo_Madoka_Magica_S01_E12_2937
   deck_name: Mahou Shoujo Madoka Magica
   translation: She didn't have to let herself vanish just for some boy she liked..!
   sound: A_Mahou_Shoujo_Madoka_Magica_S01_E12_1_0.16.10.803-0.16.15.265.mp3
   sentence: 惚(ほ)れた男のためだからって— 自分が消えちまって どうするんだよ
   words:
-    - word: 惚
-      base: 惚け
-      position: 0
     - word: ほ
       base: ほっ
       position: 2
       tags:
         - silent
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 4
-    - word: た
-      position: 5
-    - word: 男
-      position: 6
-    - word: の
-      position: 7
-    - word: ため
-      base: 為
-      position: 8
-    - word: だ
-      position: 10
-    - word: から
-      position: 11
-    - word: って
-      position: 13
-    - word: 自分
-      position: 17
-    - word: が
-      position: 19
-    - word: 消え
-      base: 消える
-      dictionary: 消える
-      position: 20
-    - word: ちまっ
-      base: ちまう
-      dictionary: ちまう
-      position: 22
-    - word: て
-      position: 25
-    - word: どう
-      position: 27
-    - word: する
-      base: 為る
-      position: 29
-    - word: ん
-      base: の
-      position: 31
-    - word: だ
-      position: 32
-    - word: よ
-      position: 33

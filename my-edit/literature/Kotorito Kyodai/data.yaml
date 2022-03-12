@@ -6,14 +6,6 @@
   sound_begin: 5144
   sound_end: 10120
   sentence: 小鳥と兄妹
-  words:
-    - word: 小鳥
-      position: 0
-    - word: と
-      position: 2
-    - word: 兄妹
-      base: 兄弟
-      position: 3
 - id: Kotorito Kyodai-f000003
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -22,16 +14,6 @@
   sound_begin: 10120
   sound_end: 11240
   sentence: 町からはなれて、
-  words:
-    - word: 町
-      position: 0
-    - word: から
-      position: 1
-    - word: はなれ
-      base: 離れる
-      position: 3
-    - word: て
-      position: 6
 - id: Kotorito Kyodai-f000004
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -40,16 +22,6 @@
   sound_begin: 11240
   sound_end: 13120
   sentence: 静かな村に、
-  words:
-    - word: 静か
-      position: 0
-    - word: な
-      base: だ
-      position: 2
-    - word: 村
-      position: 3
-    - word: に
-      position: 4
 - id: Kotorito Kyodai-f000005
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -58,32 +30,6 @@
   sound_begin: 13120
   sound_end: 17160
   sentence: 仲のいい兄妹が住んでいました。
-  words:
-    - word: 仲
-      position: 0
-    - word: の
-      position: 1
-    - word: いい
-      base: 良い
-      position: 2
-    - word: 兄妹
-      base: 兄弟
-      position: 4
-    - word: が
-      position: 6
-    - word: 住ん
-      base: 住む
-      position: 7
-    - word: で
-      position: 9
-    - word: い
-      base: 居る
-      position: 10
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
 - id: Kotorito Kyodai-f000006
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -92,18 +38,6 @@
   sound_begin: 17160
   sound_end: 19040
   sentence: 兄を太郎といい、
-  words:
-    - word: 兄
-      position: 0
-    - word: を
-      position: 1
-    - word: 太郎
-      position: 2
-    - word: と
-      position: 4
-    - word: いい
-      base: 言う
-      position: 5
 - id: Kotorito Kyodai-f000007
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -112,23 +46,6 @@
   sound_begin: 19040
   sound_end: 22680
   sentence: 妹を雪子といいました。
-  words:
-    - word: 妹
-      position: 0
-    - word: を
-      position: 1
-    - word: 雪子
-      position: 2
-    - word: と
-      position: 4
-    - word: いい
-      base: 言う
-      position: 5
-    - word: まし
-      base: ます
-      position: 7
-    - word: た
-      position: 9
 - id: Kotorito Kyodai-f000008
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -137,11 +54,6 @@
   sound_begin: 22680
   sound_end: 23960
   sentence: 二人は、
-  words:
-    - word: 二人
-      position: 0
-    - word: は
-      position: 2
 - id: Kotorito Kyodai-f000009
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -150,9 +62,6 @@
   sound_begin: 23960
   sound_end: 24400
   sentence: 毎月、
-  words:
-    - word: 毎月
-      position: 0
 - id: Kotorito Kyodai-f000010
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -161,30 +70,6 @@
   sound_begin: 24400
   sound_end: 27520
   sentence: 町へくる新しい雑誌を買ってきて、
-  words:
-    - word: 町
-      position: 0
-    - word: へ
-      position: 1
-    - word: くる
-      base: 来る
-      position: 2
-    - word: 新しい
-      position: 4
-    - word: 雑誌
-      position: 7
-    - word: を
-      position: 9
-    - word: 買っ
-      base: 買う
-      position: 10
-    - word: て
-      position: 12
-    - word: き
-      base: 来る
-      position: 13
-    - word: て
-      position: 14
 - id: Kotorito Kyodai-f000011
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -193,46 +78,6 @@
   sound_begin: 27520
   sound_end: 33480
   sentence: いっしょに読むのをなによりの楽しみとしていました。
-  words:
-    - word: いっしょ
-      base: 一緒
-      position: 0
-    - word: に
-      position: 4
-    - word: 読む
-      position: 5
-    - word: の
-      position: 7
-    - word: を
-      position: 8
-    - word: なに
-      base: 何
-      position: 9
-    - word: より
-      position: 11
-    - word: の
-      position: 13
-    - word: 楽し
-      base: 楽しい
-      position: 14
-    - word: み
-      base: 味
-      position: 16
-    - word: と
-      position: 17
-    - word: し
-      base: 為る
-      position: 18
-    - word: て
-      position: 19
-    - word: い
-      base: 居る
-      position: 20
-    - word: まし
-      base: ます
-      position: 21
-    - word: た
-      position: 23
 - id: Kotorito Kyodai-f000012
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -241,16 +86,6 @@
   sound_begin: 33480
   sound_end: 35263
   sentence: ある日のこと、
-  words:
-    - word: ある
-      base: 或る
-      position: 0
-    - word: 日
-      position: 2
-    - word: の
-      position: 3
-    - word: こと
-      position: 4
 - id: Kotorito Kyodai-f000013
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -259,11 +94,6 @@
   sound_begin: 35263
   sound_end: 35840
   sentence: 二人は、
-  words:
-    - word: 二人
-      position: 0
-    - word: は
-      position: 2
 - id: Kotorito Kyodai-f000014
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -272,28 +102,6 @@
   sound_begin: 35840
   sound_end: 38240
   sentence: 雑誌を開いて見ていますと、
-  words:
-    - word: 雑誌
-      position: 0
-    - word: を
-      position: 2
-    - word: 開い
-      base: 開く
-      position: 3
-    - word: て
-      position: 5
-    - word: 見
-      base: 見る
-      position: 6
-    - word: て
-      position: 7
-    - word: い
-      base: 居る
-      position: 8
-    - word: ます
-      position: 9
-    - word: と
-      position: 11
 - id: Kotorito Kyodai-f000015
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -302,18 +110,6 @@
   sound_begin: 38240
   sound_end: 39800
   sentence: その月のには、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 月
-      position: 2
-    - word: の
-      position: 3
-    - word: に
-      position: 4
-    - word: は
-      position: 5
 - id: Kotorito Kyodai-f000016
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -322,40 +118,6 @@
   sound_begin: 39800
   sound_end: 46200
   sentence: 美しい花や鳥の写真がたくさんに載っていました。
-  words:
-    - word: 美しい
-      position: 0
-    - word: 花
-      position: 3
-    - word: や
-      position: 4
-    - word: 鳥
-      position: 5
-    - word: の
-      position: 6
-    - word: 写真
-      position: 7
-    - word: が
-      position: 9
-    - word: たくさん
-      base: 沢山
-      position: 10
-    - word: に
-      base: だ
-      position: 14
-    - word: 載っ
-      base: 乗る
-      position: 15
-    - word: て
-      position: 17
-    - word: い
-      base: 居る
-      position: 18
-    - word: まし
-      base: ます
-      position: 19
-    - word: た
-      position: 21
 - id: Kotorito Kyodai-f000017
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -364,9 +126,6 @@
   sound_begin: 46200
   sound_end: 46680
   sentence: 「まあ、
-  words:
-    - word: まあ
-      position: 1
 - id: Kotorito Kyodai-f000018
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -375,14 +134,6 @@
   sound_begin: 46680
   sound_end: 48520
   sentence: きれいだこと、
-  words:
-    - word: きれい
-      base: 奇麗
-      position: 0
-    - word: だ
-      position: 3
-    - word: こと
-      position: 4
 - id: Kotorito Kyodai-f000019
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -391,9 +142,6 @@
   sound_begin: 48520
   sound_end: 49691
   sentence: 兄さん、
-  words:
-    - word: 兄さん
-      position: 0
 - id: Kotorito Kyodai-f000020
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -402,14 +150,6 @@
   sound_begin: 49691
   sound_end: 50560
   sentence: この鳥は、
-  words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: 鳥
-      position: 2
-    - word: は
-      position: 3
 - id: Kotorito Kyodai-f000021
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -418,28 +158,6 @@
   sound_begin: 50560
   sound_end: 53261
   sentence: よく見る鳥じゃありませんか。
-  words:
-    - word: よく
-      base: 良く
-      position: 0
-    - word: 見る
-      position: 2
-    - word: 鳥
-      position: 4
-    - word: じゃ
-      base: だ
-      position: 5
-    - word: あり
-      base: 有る
-      position: 7
-    - word: ませ
-      base: ます
-      position: 9
-    - word: ん
-      base: ず
-      position: 11
-    - word: か
-      position: 12
 - id: Kotorito Kyodai-f000022
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -448,9 +166,6 @@
   sound_begin: 53261
   sound_end: 53394
   sentence: 」と、
-  words:
-    - word: と
-      position: 1
 - id: Kotorito Kyodai-f000023
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -459,19 +174,6 @@
   sound_begin: 53394
   sound_end: 56552
   sentence: 雪子はいいました。
-  words:
-    - word: 雪子
-      position: 0
-    - word: は
-      position: 2
-    - word: いい
-      base: 言う
-      position: 3
-    - word: まし
-      base: ます
-      position: 5
-    - word: た
-      position: 7
 - id: Kotorito Kyodai-f000024
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -480,14 +182,6 @@
   sound_begin: 56552
   sound_end: 57840
   sentence: その鳥は、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 鳥
-      position: 2
-    - word: は
-      position: 3
 - id: Kotorito Kyodai-f000025
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -496,22 +190,6 @@
   sound_begin: 57840
   sound_end: 59240
   sentence: すずめほどの大きさで、
-  words:
-    - word: すずめ
-      base: 雀
-      position: 0
-    - word: ほど
-      position: 3
-    - word: の
-      position: 5
-    - word: 大き
-      base: 大きい
-      position: 6
-    - word: さ
-      position: 8
-    - word: で
-      base: だ
-      position: 9
 - id: Kotorito Kyodai-f000026
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -520,20 +198,6 @@
   sound_begin: 59240
   sound_end: 61640
   sentence: くびのまわりが紅く、
-  words:
-    - word: くび
-      base: 首
-      position: 0
-    - word: の
-      position: 2
-    - word: まわり
-      base: 周り
-      position: 3
-    - word: が
-      position: 6
-    - word: 紅く
-      base: 赤い
-      position: 7
 - id: Kotorito Kyodai-f000027
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -542,27 +206,6 @@
   sound_begin: 61640
   sound_end: 66200
   sentence: まことに美しかったのであります。
-  words:
-    - word: まこと
-      base: 真
-      position: 0
-    - word: に
-      position: 3
-    - word: 美しかっ
-      base: 美しい
-      position: 4
-    - word: た
-      position: 8
-    - word: の
-      position: 9
-    - word: で
-      base: だ
-      position: 10
-    - word: あり
-      base: 有る
-      position: 11
-    - word: ます
-      position: 13
 - id: Kotorito Kyodai-f000028
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -571,9 +214,6 @@
   sound_begin: 66200
   sound_end: 66917
   sentence: 「ああ、
-  words:
-    - word: ああ
-      position: 1
 - id: Kotorito Kyodai-f000029
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -582,14 +222,6 @@
   sound_begin: 66917
   sound_end: 67800
   sentence: この鳥は、
-  words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: 鳥
-      position: 2
-    - word: は
-      position: 3
 - id: Kotorito Kyodai-f000030
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -598,37 +230,6 @@
   sound_begin: 67800
   sound_end: 72240
   sentence: よく庭の木にやってくるうそという鳥だ。
-  words:
-    - word: よく
-      base: 良く
-      position: 0
-    - word: 庭
-      position: 2
-    - word: の
-      position: 3
-    - word: 木
-      position: 4
-    - word: に
-      position: 5
-    - word: やっ
-      base: 遣る
-      position: 6
-    - word: て
-      position: 8
-    - word: くる
-      base: 来る
-      position: 9
-    - word: うそ
-      position: 11
-    - word: と
-      position: 13
-    - word: いう
-      base: 言う
-      position: 14
-    - word: 鳥
-      position: 16
-    - word: だ
-      position: 17
 - id: Kotorito Kyodai-f000031
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -637,34 +238,6 @@
   sound_begin: 72240
   sound_end: 75833
   sentence: こちらにはたくさんいて珍しい鳥でないけれど、
-  words:
-    - word: こちら
-      base: 此方
-      position: 0
-    - word: に
-      position: 3
-    - word: は
-      position: 4
-    - word: たくさん
-      base: 沢山
-      position: 5
-    - word: い
-      base: 居る
-      position: 9
-    - word: て
-      position: 10
-    - word: 珍しい
-      position: 11
-    - word: 鳥
-      position: 14
-    - word: で
-      base: だ
-      position: 15
-    - word: ない
-      base: 無い
-      position: 16
-    - word: けれど
-      position: 18
 - id: Kotorito Kyodai-f000032
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -673,16 +246,6 @@
   sound_begin: 75833
   sound_end: 76880
   sentence: 東京へゆくと、
-  words:
-    - word: 東京
-      position: 0
-    - word: へ
-      position: 2
-    - word: ゆく
-      base: 行く
-      position: 3
-    - word: と
-      position: 5
 - id: Kotorito Kyodai-f000033
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -691,23 +254,6 @@
   sound_begin: 76880
   sound_end: 78760
   sentence: この鳥は少ないとみえて、
-  words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: 鳥
-      position: 2
-    - word: は
-      position: 3
-    - word: 少ない
-      position: 4
-    - word: と
-      position: 7
-    - word: みえ
-      base: 見える
-      position: 8
-    - word: て
-      position: 10
 - id: Kotorito Kyodai-f000034
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -716,24 +262,6 @@
   sound_begin: 78760
   sound_end: 80720
   sentence: たいせつに飼われるのだね。
-  words:
-    - word: たいせつ
-      base: 大切
-      position: 0
-    - word: に
-      base: だ
-      position: 4
-    - word: 飼わ
-      base: 飼う
-      position: 5
-    - word: れる
-      position: 7
-    - word: の
-      position: 9
-    - word: だ
-      position: 10
-    - word: ね
-      position: 11
 - id: Kotorito Kyodai-f000035
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -742,9 +270,6 @@
   sound_begin: 80720
   sound_end: 81920
   sentence: 」と、
-  words:
-    - word: と
-      position: 1
 - id: Kotorito Kyodai-f000036
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -753,16 +278,6 @@
   sound_begin: 81920
   sound_end: 83480
   sentence: 兄はいって、
-  words:
-    - word: 兄
-      position: 0
-    - word: は
-      position: 1
-    - word: いっ
-      base: 言う
-      position: 2
-    - word: て
-      position: 4
 - id: Kotorito Kyodai-f000037
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -771,44 +286,6 @@
   sound_begin: 83480
   sound_end: 90035
   sentence: 雑誌に書いてあることを妹に読んで聞かせたのです。
-  words:
-    - word: 雑誌
-      position: 0
-    - word: に
-      position: 2
-    - word: 書い
-      base: 書く
-      position: 3
-    - word: て
-      position: 5
-    - word: ある
-      base: 有る
-      position: 6
-    - word: こと
-      position: 8
-    - word: を
-      position: 10
-    - word: 妹
-      position: 11
-    - word: に
-      position: 12
-    - word: 読ん
-      base: 読む
-      position: 13
-    - word: で
-      position: 15
-    - word: 聞か
-      base: 聞く
-      position: 16
-    - word: せ
-      base: せる
-      position: 18
-    - word: た
-      position: 19
-    - word: の
-      position: 20
-    - word: です
-      position: 21
 - id: Kotorito Kyodai-f000038
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -817,13 +294,6 @@
   sound_begin: 90035
   sound_end: 91440
   sentence: このとき、
-  words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: とき
-      base: 時
-      position: 2
 - id: Kotorito Kyodai-f000039
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -832,11 +302,6 @@
   sound_begin: 91440
   sound_end: 91880
   sentence: うそが、
-  words:
-    - word: うそ
-      position: 0
-    - word: が
-      position: 2
 - id: Kotorito Kyodai-f000040
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -845,36 +310,6 @@
   sound_begin: 91880
   sound_end: 96560
   sentence: ちょうど庭の木にきてとまっていました。
-  words:
-    - word: ちょうど
-      base: 丁度
-      position: 0
-    - word: 庭
-      position: 4
-    - word: の
-      position: 5
-    - word: 木
-      position: 6
-    - word: に
-      position: 7
-    - word: き
-      base: 来る
-      position: 8
-    - word: て
-      position: 9
-    - word: とまっ
-      base: とまる
-      position: 10
-    - word: て
-      position: 13
-    - word: い
-      base: 居る
-      position: 14
-    - word: まし
-      base: ます
-      position: 15
-    - word: た
-      position: 17
 - id: Kotorito Kyodai-f000041
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -883,15 +318,6 @@
   sound_begin: 96560
   sound_end: 97880
   sentence: 兄と妹が、
-  words:
-    - word: 兄
-      position: 0
-    - word: と
-      position: 1
-    - word: 妹
-      position: 2
-    - word: が
-      position: 3
 - id: Kotorito Kyodai-f000042
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -900,16 +326,6 @@
   sound_begin: 97880
   sound_end: 98800
   sentence: 雑誌を開いて、
-  words:
-    - word: 雑誌
-      position: 0
-    - word: を
-      position: 2
-    - word: 開い
-      base: 開く
-      position: 3
-    - word: て
-      position: 5
 - id: Kotorito Kyodai-f000043
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -918,20 +334,6 @@
   sound_begin: 98800
   sound_end: 100720
   sentence: 自分の写真を指さしながら、
-  words:
-    - word: 自分
-      position: 0
-    - word: の
-      position: 2
-    - word: 写真
-      position: 3
-    - word: を
-      position: 5
-    - word: 指さし
-      base: 指差す
-      position: 6
-    - word: ながら
-      position: 9
 - id: Kotorito Kyodai-f000044
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -940,38 +342,6 @@
   sound_begin: 100720
   sound_end: 106173
   sentence: 話をしているのをじっとながめていました。
-  words:
-    - word: 話
-      position: 0
-    - word: を
-      position: 1
-    - word: し
-      base: 為る
-      position: 2
-    - word: て
-      position: 3
-    - word: いる
-      base: 居る
-      position: 4
-    - word: の
-      position: 6
-    - word: を
-      position: 7
-    - word: じっと
-      position: 8
-    - word: ながめ
-      base: 眺める
-      position: 11
-    - word: て
-      position: 14
-    - word: い
-      base: 居る
-      position: 15
-    - word: まし
-      base: ます
-      position: 16
-    - word: た
-      position: 18
 - id: Kotorito Kyodai-f000045
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -980,35 +350,6 @@
   sound_begin: 106173
   sound_end: 109560
   sentence: 鳥というものは耳ざといものでありますから、
-  words:
-    - word: 鳥
-      position: 0
-    - word: と
-      position: 1
-    - word: いう
-      base: 言う
-      position: 2
-    - word: もの
-      base: 物
-      position: 4
-    - word: は
-      position: 6
-    - word: 耳ざとい
-      base: 耳聡い
-      position: 7
-    - word: もの
-      base: 物
-      position: 11
-    - word: で
-      base: だ
-      position: 13
-    - word: あり
-      base: 有る
-      position: 14
-    - word: ます
-      position: 16
-    - word: から
-      position: 18
 - id: Kotorito Kyodai-f000046
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1017,33 +358,6 @@
   sound_begin: 109560
   sound_end: 113522
   sentence: 二人の話はなんでもよくわかりました。
-  words:
-    - word: 二人
-      position: 0
-    - word: の
-      position: 2
-    - word: 話
-      position: 3
-    - word: は
-      position: 4
-    - word: なん
-      base: 何
-      position: 5
-    - word: で
-      position: 7
-    - word: も
-      position: 8
-    - word: よく
-      base: 良く
-      position: 9
-    - word: わかり
-      base: 分かる
-      position: 11
-    - word: まし
-      base: ます
-      position: 14
-    - word: た
-      position: 16
 - id: Kotorito Kyodai-f000047
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1052,9 +366,6 @@
   sound_begin: 113522
   sound_end: 114640
   sentence: そして、
-  words:
-    - word: そして
-      position: 0
 - id: Kotorito Kyodai-f000048
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1063,24 +374,6 @@
   sound_begin: 114640
   sound_end: 116880
   sentence: 目もよくききましたから、
-  words:
-    - word: 目
-      position: 0
-    - word: も
-      position: 1
-    - word: よく
-      base: 良く
-      position: 2
-    - word: きき
-      base: きく
-      position: 4
-    - word: まし
-      base: ます
-      position: 6
-    - word: た
-      position: 8
-    - word: から
-      position: 9
 - id: Kotorito Kyodai-f000049
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1089,11 +382,6 @@
   sound_begin: 116880
   sound_end: 117360
   sentence: 二人が、
-  words:
-    - word: 二人
-      position: 0
-    - word: が
-      position: 2
 - id: Kotorito Kyodai-f000050
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1102,39 +390,6 @@
   sound_begin: 117360
   sound_end: 123560
   sentence: 窓の下で見ている雑誌の絵もわかりました。
-  words:
-    - word: 窓
-      position: 0
-    - word: の
-      position: 1
-    - word: 下
-      position: 2
-    - word: で
-      position: 3
-    - word: 見
-      base: 見る
-      position: 4
-    - word: て
-      position: 5
-    - word: いる
-      base: 居る
-      position: 6
-    - word: 雑誌
-      position: 8
-    - word: の
-      position: 10
-    - word: 絵
-      position: 11
-    - word: も
-      position: 12
-    - word: わかり
-      base: 分かる
-      position: 13
-    - word: まし
-      base: ます
-      position: 16
-    - word: た
-      position: 18
 - id: Kotorito Kyodai-f000051
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1143,10 +398,6 @@
   sound_begin: 123560
   sound_end: 123800
   sentence: 「いま、
-  words:
-    - word: いま
-      base: 今
-      position: 1
 - id: Kotorito Kyodai-f000052
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1155,35 +406,6 @@
   sound_begin: 123800
   sound_end: 127080
   sentence: あの子供さんたちがいっているのを聞くと、
-  words:
-    - word: あの
-      base: 彼の
-      position: 0
-    - word: 子供
-      position: 2
-    - word: さん
-      position: 4
-    - word: たち
-      base: 達
-      position: 6
-    - word: が
-      position: 8
-    - word: いっ
-      base: 言う
-      position: 9
-    - word: て
-      position: 11
-    - word: いる
-      base: 居る
-      position: 12
-    - word: の
-      position: 14
-    - word: を
-      position: 15
-    - word: 聞く
-      position: 16
-    - word: と
-      position: 18
 - id: Kotorito Kyodai-f000053
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1192,21 +414,6 @@
   sound_begin: 127080
   sound_end: 128880
   sentence: ほかの国へゆけば、
-  words:
-    - word: ほか
-      base: 他
-      position: 0
-    - word: の
-      position: 2
-    - word: 国
-      position: 3
-    - word: へ
-      position: 4
-    - word: ゆけ
-      base: 行く
-      position: 5
-    - word: ば
-      position: 7
 - id: Kotorito Kyodai-f000054
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1215,36 +422,6 @@
   sound_begin: 128880
   sound_end: 132120
   sentence: 自分は大事にされるということであるが、
-  words:
-    - word: 自分
-      position: 0
-    - word: は
-      position: 2
-    - word: 大事
-      position: 3
-    - word: に
-      base: だ
-      position: 5
-    - word: さ
-      base: 為る
-      position: 6
-    - word: れる
-      position: 7
-    - word: と
-      position: 9
-    - word: いう
-      base: 言う
-      position: 10
-    - word: こと
-      position: 12
-    - word: で
-      base: だ
-      position: 14
-    - word: ある
-      base: 有る
-      position: 15
-    - word: が
-      position: 17
 - id: Kotorito Kyodai-f000055
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1253,15 +430,6 @@
   sound_begin: 132120
   sound_end: 135480
   sentence: いったいどこだろう……。
-  words:
-    - word: いったい
-      base: 一体
-      position: 0
-    - word: どこ
-      position: 4
-    - word: だろう
-      base: だ
-      position: 6
 - id: Kotorito Kyodai-f000056
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1270,14 +438,6 @@
   sound_begin: 135480
   sound_end: 136120
   sentence: ああして、
-  words:
-    - word: ああ
-      position: 0
-    - word: し
-      base: 為る
-      position: 2
-    - word: て
-      position: 3
 - id: Kotorito Kyodai-f000057
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1286,43 +446,6 @@
   sound_begin: 136120
   sound_end: 139600
   sentence: 絵にまで自分の姿をかいて出してあるのを見れば、
-  words:
-    - word: 絵
-      position: 0
-    - word: に
-      position: 1
-    - word: まで
-      position: 2
-    - word: 自分
-      position: 4
-    - word: の
-      position: 6
-    - word: 姿
-      position: 7
-    - word: を
-      position: 8
-    - word: かい
-      base: かく
-      position: 9
-    - word: て
-      position: 11
-    - word: 出し
-      base: 出す
-      position: 12
-    - word: て
-      position: 14
-    - word: ある
-      base: 有る
-      position: 15
-    - word: の
-      position: 17
-    - word: を
-      position: 18
-    - word: 見れ
-      base: 見る
-      position: 19
-    - word: ば
-      position: 21
 - id: Kotorito Kyodai-f000058
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1331,25 +454,6 @@
   sound_begin: 139600
   sound_end: 142936
   sentence: まんざらうそのことではない。
-  words:
-    - word: まんざら
-      base: 満更
-      position: 0
-    - word: う
-      base: うー
-      position: 4
-    - word: その
-      base: 其の
-      position: 5
-    - word: こと
-      position: 7
-    - word: で
-      position: 9
-    - word: は
-      position: 10
-    - word: ない
-      base: 無い
-      position: 11
 - id: Kotorito Kyodai-f000059
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1358,9 +462,6 @@
   sound_begin: 142936
   sound_end: 143116
   sentence: 」と、
-  words:
-    - word: と
-      position: 1
 - id: Kotorito Kyodai-f000060
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1369,19 +470,6 @@
   sound_begin: 143116
   sound_end: 146477
   sentence: うそは思いました。
-  words:
-    - word: うそ
-      position: 0
-    - word: は
-      position: 2
-    - word: 思い
-      base: 思う
-      position: 3
-    - word: まし
-      base: ます
-      position: 5
-    - word: た
-      position: 7
 - id: Kotorito Kyodai-f000061
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1390,14 +478,6 @@
   sound_begin: 146477
   sound_end: 147865
   sentence: この小鳥は、
-  words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: 小鳥
-      position: 2
-    - word: は
-      position: 4
 - id: Kotorito Kyodai-f000062
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1406,9 +486,6 @@
   sound_begin: 147865
   sound_end: 148480
   sentence: 寒い、
-  words:
-    - word: 寒い
-      position: 0
 - id: Kotorito Kyodai-f000063
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1417,9 +494,6 @@
   sound_begin: 148480
   sound_end: 149473
   sentence: 寒い、
-  words:
-    - word: 寒い
-      position: 0
 - id: Kotorito Kyodai-f000064
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1428,27 +502,6 @@
   sound_begin: 149473
   sound_end: 153821
   sentence: 北の国に産まれたのでした。
-  words:
-    - word: 北
-      position: 0
-    - word: の
-      position: 1
-    - word: 国
-      position: 2
-    - word: に
-      position: 3
-    - word: 産まれ
-      base: 生まれる
-      position: 4
-    - word: た
-      position: 7
-    - word: の
-      position: 8
-    - word: でし
-      base: です
-      position: 9
-    - word: た
-      position: 11
 - id: Kotorito Kyodai-f000065
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1457,33 +510,6 @@
   sound_begin: 153821
   sound_end: 157440
   sentence: もう夏もやがてくるので仲間といっしょに、
-  words:
-    - word: もう
-      position: 0
-    - word: 夏
-      position: 2
-    - word: も
-      position: 3
-    - word: やがて
-      base: 軈て
-      position: 4
-    - word: くる
-      base: 来る
-      position: 7
-    - word: の
-      position: 9
-    - word: で
-      base: だ
-      position: 10
-    - word: 仲間
-      position: 11
-    - word: と
-      position: 13
-    - word: いっしょ
-      base: 一緒
-      position: 14
-    - word: に
-      position: 18
 - id: Kotorito Kyodai-f000066
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1492,35 +518,6 @@
   sound_begin: 157440
   sound_end: 162389
   sentence: ふたたび故郷へ帰る約束をしたのであります。
-  words:
-    - word: ふたたび
-      base: 再び
-      position: 0
-    - word: 故郷
-      position: 4
-    - word: へ
-      position: 6
-    - word: 帰る
-      position: 7
-    - word: 約束
-      position: 9
-    - word: を
-      position: 11
-    - word: し
-      base: 為る
-      position: 12
-    - word: た
-      position: 13
-    - word: の
-      position: 14
-    - word: で
-      base: だ
-      position: 15
-    - word: あり
-      base: 有る
-      position: 16
-    - word: ます
-      position: 18
 - id: Kotorito Kyodai-f000067
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1529,18 +526,6 @@
   sound_begin: 162389
   sound_end: 163240
   sentence: 天気のいい日を、
-  words:
-    - word: 天気
-      position: 0
-    - word: の
-      position: 2
-    - word: いい
-      base: 良い
-      position: 3
-    - word: 日
-      position: 5
-    - word: を
-      position: 6
 - id: Kotorito Kyodai-f000068
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1549,15 +534,6 @@
   sound_begin: 163240
   sound_end: 164815
   sentence: 見はからって、
-  words:
-    - word: 見
-      base: 見る
-      position: 0
-    - word: はからっ
-      base: 計らう
-      position: 1
-    - word: て
-      position: 5
 - id: Kotorito Kyodai-f000069
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1566,33 +542,6 @@
   sound_begin: 164815
   sound_end: 169880
   sentence: 彼らは旅立つことになっていました。
-  words:
-    - word: 彼
-      position: 0
-    - word: ら
-      base: 等
-      position: 1
-    - word: は
-      position: 2
-    - word: 旅立つ
-      position: 3
-    - word: こと
-      position: 6
-    - word: に
-      position: 8
-    - word: なっ
-      base: 成る
-      position: 9
-    - word: て
-      position: 11
-    - word: い
-      base: 居る
-      position: 12
-    - word: まし
-      base: ます
-      position: 13
-    - word: た
-      position: 15
 - id: Kotorito Kyodai-f000070
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1601,11 +550,6 @@
   sound_begin: 169880
   sound_end: 170560
   sentence: うそは、
-  words:
-    - word: うそ
-      position: 0
-    - word: は
-      position: 2
 - id: Kotorito Kyodai-f000071
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1614,31 +558,6 @@
   sound_begin: 170560
   sound_end: 174520
   sentence: 友だちとした約束を忘れなかったけれど、
-  words:
-    - word: 友だち
-      base: 友達
-      position: 0
-    - word: と
-      position: 3
-    - word: し
-      base: 為る
-      position: 4
-    - word: た
-      position: 5
-    - word: 約束
-      position: 6
-    - word: を
-      position: 8
-    - word: 忘れ
-      base: 忘れる
-      position: 9
-    - word: なかっ
-      base: ない
-      position: 11
-    - word: た
-      position: 14
-    - word: けれど
-      position: 15
 - id: Kotorito Kyodai-f000072
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1647,11 +566,6 @@
   sound_begin: 174520
   sound_end: 175320
   sentence: 「どうか、
-  words:
-    - word: どう
-      position: 1
-    - word: か
-      position: 3
 - id: Kotorito Kyodai-f000073
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1660,22 +574,6 @@
   sound_begin: 175320
   sound_end: 176840
   sentence: 自分をかわいがってくれる、
-  words:
-    - word: 自分
-      position: 0
-    - word: を
-      position: 2
-    - word: かわい
-      base: 可愛い
-      position: 3
-    - word: がっ
-      base: がる
-      position: 6
-    - word: て
-      position: 8
-    - word: くれる
-      base: 呉れる
-      position: 9
 - id: Kotorito Kyodai-f000074
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1684,34 +582,6 @@
   sound_begin: 176840
   sound_end: 179769
   sentence: その知らない土地へいってみたいものだ。
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 知ら
-      base: 知る
-      position: 2
-    - word: ない
-      position: 4
-    - word: 土地
-      position: 6
-    - word: へ
-      position: 8
-    - word: いっ
-      base: 行く
-      position: 9
-    - word: て
-      position: 11
-    - word: み
-      base: 見る
-      position: 12
-    - word: たい
-      position: 13
-    - word: もの
-      base: 物
-      position: 15
-    - word: だ
-      position: 17
 - id: Kotorito Kyodai-f000075
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1720,17 +590,6 @@
   sound_begin: 179769
   sound_end: 184088
   sentence: 」と思いました。
-  words:
-    - word: と
-      position: 1
-    - word: 思い
-      base: 思う
-      position: 2
-    - word: まし
-      base: ます
-      position: 4
-    - word: た
-      position: 6
 - id: Kotorito Kyodai-f000076
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1739,11 +598,6 @@
   sound_begin: 184088
   sound_end: 184800
   sentence: 彼は、
-  words:
-    - word: 彼
-      position: 0
-    - word: は
-      position: 1
 - id: Kotorito Kyodai-f000077
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1752,18 +606,6 @@
   sound_begin: 184800
   sound_end: 186800
   sentence: 木から飛びたつと、
-  words:
-    - word: 木
-      position: 0
-    - word: から
-      position: 1
-    - word: 飛び
-      base: 飛ぶ
-      position: 3
-    - word: たつ
-      position: 5
-    - word: と
-      position: 7
 - id: Kotorito Kyodai-f000078
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1772,28 +614,6 @@
   sound_begin: 186800
   sound_end: 190880
   sentence: はるかあちらへ飛んでゆきました。
-  words:
-    - word: はるか
-      base: 遥か
-      position: 0
-    - word: あちら
-      base: 彼方
-      position: 3
-    - word: へ
-      position: 6
-    - word: 飛ん
-      base: 飛ぶ
-      position: 7
-    - word: で
-      position: 9
-    - word: ゆき
-      base: 行く
-      position: 10
-    - word: まし
-      base: ます
-      position: 12
-    - word: た
-      position: 14
 - id: Kotorito Kyodai-f000079
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1802,9 +622,6 @@
   sound_begin: 190880
   sound_end: 191440
   sentence: そして、
-  words:
-    - word: そして
-      position: 0
 - id: Kotorito Kyodai-f000080
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1813,16 +630,6 @@
   sound_begin: 191440
   sound_end: 193000
   sentence: 街道にあった、
-  words:
-    - word: 街道
-      position: 0
-    - word: に
-      position: 2
-    - word: あっ
-      base: 有る
-      position: 3
-    - word: た
-      position: 5
 - id: Kotorito Kyodai-f000081
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1831,34 +638,6 @@
   sound_begin: 193000
   sound_end: 198000
   sentence: 一本の電信柱にきて止まったのです。
-  words:
-    - word: 一
-      base: '1'
-      position: 0
-    - word: 本
-      position: 1
-    - word: の
-      position: 2
-    - word: 電信
-      position: 3
-    - word: 柱
-      position: 5
-    - word: に
-      position: 6
-    - word: き
-      base: 来る
-      position: 7
-    - word: て
-      position: 8
-    - word: 止まっ
-      base: 止まる
-      position: 9
-    - word: た
-      position: 12
-    - word: の
-      position: 13
-    - word: です
-      position: 14
 - id: Kotorito Kyodai-f000082
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1867,19 +646,6 @@
   sound_begin: 198000
   sound_end: 199413
   sentence: いつであったか、
-  words:
-    - word: いつ
-      position: 0
-    - word: で
-      base: だ
-      position: 2
-    - word: あっ
-      base: 有る
-      position: 3
-    - word: た
-      position: 5
-    - word: か
-      position: 6
 - id: Kotorito Kyodai-f000083
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1888,13 +654,6 @@
   sound_begin: 199413
   sound_end: 201320
   sentence: 電信柱が、
-  words:
-    - word: 電信
-      position: 0
-    - word: 柱
-      position: 2
-    - word: が
-      position: 3
 - id: Kotorito Kyodai-f000084
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1903,23 +662,6 @@
   sound_begin: 201320
   sound_end: 203163
   sentence: なんでも自分に聞けば、
-  words:
-    - word: なん
-      base: 何
-      position: 0
-    - word: で
-      position: 2
-    - word: も
-      position: 3
-    - word: 自分
-      position: 4
-    - word: に
-      position: 6
-    - word: 聞け
-      base: 聞く
-      position: 7
-    - word: ば
-      position: 9
 - id: Kotorito Kyodai-f000085
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1928,19 +670,6 @@
   sound_begin: 203163
   sound_end: 204320
   sentence: この世の中のことで、
-  words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: 世の中
-      position: 2
-    - word: の
-      position: 5
-    - word: こと
-      position: 6
-    - word: で
-      base: だ
-      position: 8
 - id: Kotorito Kyodai-f000086
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1949,27 +678,6 @@
   sound_begin: 204320
   sound_end: 206320
   sentence: 知らないものはないといった、
-  words:
-    - word: 知ら
-      base: 知る
-      position: 0
-    - word: ない
-      position: 2
-    - word: もの
-      base: 物
-      position: 4
-    - word: は
-      position: 6
-    - word: ない
-      base: 無い
-      position: 7
-    - word: と
-      position: 9
-    - word: いっ
-      base: 言う
-      position: 10
-    - word: た
-      position: 12
 - id: Kotorito Kyodai-f000087
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -1978,29 +686,6 @@
   sound_begin: 206320
   sound_end: 212040
   sentence: そのことを思い出したからでした。
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: こと
-      position: 2
-    - word: を
-      position: 4
-    - word: 思い
-      base: 思う
-      position: 5
-    - word: 出し
-      base: 出す
-      position: 7
-    - word: た
-      position: 9
-    - word: から
-      position: 10
-    - word: でし
-      base: です
-      position: 12
-    - word: た
-      position: 14
 - id: Kotorito Kyodai-f000088
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2009,15 +694,6 @@
   sound_begin: 212040
   sound_end: 212880
   sentence: 青く晴れた、
-  words:
-    - word: 青く
-      base: 青い
-      position: 0
-    - word: 晴れ
-      base: 晴れる
-      position: 2
-    - word: た
-      position: 4
 - id: Kotorito Kyodai-f000089
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2026,15 +702,6 @@
   sound_begin: 212880
   sound_end: 214480
   sentence: 空の下で、
-  words:
-    - word: 空
-      position: 0
-    - word: の
-      position: 1
-    - word: 下
-      position: 2
-    - word: で
-      position: 3
 - id: Kotorito Kyodai-f000090
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2043,30 +710,6 @@
   sound_begin: 214480
   sound_end: 219040
   sentence: 電信柱は居眠りをしていました。
-  words:
-    - word: 電信
-      position: 0
-    - word: 柱
-      position: 2
-    - word: は
-      position: 3
-    - word: 居眠り
-      position: 4
-    - word: を
-      position: 7
-    - word: し
-      base: 為る
-      position: 8
-    - word: て
-      position: 9
-    - word: い
-      base: 居る
-      position: 10
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
 - id: Kotorito Kyodai-f000091
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2075,22 +718,6 @@
   sound_begin: 219040
   sound_end: 221263
   sentence: その頭の上に止まると、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 頭
-      position: 2
-    - word: の
-      position: 3
-    - word: 上
-      position: 4
-    - word: に
-      position: 5
-    - word: 止まる
-      position: 6
-    - word: と
-      position: 9
 - id: Kotorito Kyodai-f000092
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2099,11 +726,6 @@
   sound_begin: 221263
   sound_end: 221920
   sentence: 小鳥は、
-  words:
-    - word: 小鳥
-      position: 0
-    - word: は
-      position: 2
 - id: Kotorito Kyodai-f000093
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2112,17 +734,6 @@
   sound_begin: 221920
   sound_end: 224000
   sentence: 黒いくちばしでコツ、
-  words:
-    - word: 黒い
-      position: 0
-    - word: くちばし
-      base: 嘴
-      position: 2
-    - word: で
-      position: 6
-    - word: コツ
-      base: こつ
-      position: 7
 - id: Kotorito Kyodai-f000094
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2131,17 +742,6 @@
   sound_begin: 224000
   sound_end: 225768
   sentence: コツとつついて、
-  words:
-    - word: コツ
-      base: こつ
-      position: 0
-    - word: と
-      position: 2
-    - word: つつい
-      base: 突く
-      position: 3
-    - word: て
-      position: 6
 - id: Kotorito Kyodai-f000095
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2150,20 +750,6 @@
   sound_begin: 225768
   sound_end: 231240
   sentence: 彼の眠りをさました。
-  words:
-    - word: 彼
-      position: 0
-    - word: の
-      position: 1
-    - word: 眠り
-      position: 2
-    - word: を
-      position: 4
-    - word: さまし
-      base: さます
-      position: 5
-    - word: た
-      position: 8
 - id: Kotorito Kyodai-f000096
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2172,9 +758,6 @@
   sound_begin: 231240
   sound_end: 232200
   sentence: 「ああ、
-  words:
-    - word: ああ
-      position: 1
 - id: Kotorito Kyodai-f000097
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2183,13 +766,6 @@
   sound_begin: 232200
   sound_end: 234360
   sentence: 眠いことだ。
-  words:
-    - word: 眠い
-      position: 0
-    - word: こと
-      position: 2
-    - word: だ
-      position: 4
 - id: Kotorito Kyodai-f000098
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2198,14 +774,6 @@
   sound_begin: 234360
   sound_end: 235120
   sentence: いい風が、
-  words:
-    - word: いい
-      base: 良い
-      position: 0
-    - word: 風
-      position: 2
-    - word: が
-      position: 3
 - id: Kotorito Kyodai-f000099
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2214,18 +782,6 @@
   sound_begin: 235120
   sound_end: 236360
   sentence: そよそよと吹くので、
-  words:
-    - word: そよそよ
-      position: 0
-    - word: と
-      position: 4
-    - word: 吹く
-      position: 5
-    - word: の
-      position: 7
-    - word: で
-      base: だ
-      position: 8
 - id: Kotorito Kyodai-f000100
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2234,21 +790,6 @@
   sound_begin: 236360
   sound_end: 238880
   sentence: ぐっすり眠ってしまったが、
-  words:
-    - word: ぐっすり
-      position: 0
-    - word: 眠っ
-      base: 眠る
-      position: 4
-    - word: て
-      position: 6
-    - word: しまっ
-      base: 仕舞う
-      position: 7
-    - word: た
-      position: 10
-    - word: が
-      position: 11
 - id: Kotorito Kyodai-f000101
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2257,20 +798,6 @@
   sound_begin: 238880
   sound_end: 240400
   sentence: 俺を起こしたのは、
-  words:
-    - word: 俺
-      position: 0
-    - word: を
-      position: 1
-    - word: 起こし
-      base: 起こす
-      position: 2
-    - word: た
-      position: 5
-    - word: の
-      position: 6
-    - word: は
-      position: 7
 - id: Kotorito Kyodai-f000102
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2279,11 +806,6 @@
   sound_begin: 240400
   sound_end: 242347
   sentence: 何者だ？
-  words:
-    - word: 何者
-      position: 0
-    - word: だ
-      position: 2
 - id: Kotorito Kyodai-f000103
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2292,9 +814,6 @@
   sound_begin: 242347
   sound_end: 242508
   sentence: 」と、
-  words:
-    - word: と
-      position: 1
 - id: Kotorito Kyodai-f000104
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2303,13 +822,6 @@
   sound_begin: 242508
   sound_end: 243878
   sentence: 電信柱は、
-  words:
-    - word: 電信
-      position: 0
-    - word: 柱
-      position: 2
-    - word: は
-      position: 3
 - id: Kotorito Kyodai-f000105
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2318,20 +830,6 @@
   sound_begin: 243878
   sound_end: 245040
   sentence: 不平をいわずには、
-  words:
-    - word: 不平
-      position: 0
-    - word: を
-      position: 2
-    - word: いわ
-      base: 言う
-      position: 3
-    - word: ず
-      position: 5
-    - word: に
-      position: 6
-    - word: は
-      position: 7
 - id: Kotorito Kyodai-f000106
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2340,22 +838,6 @@
   sound_begin: 245040
   sound_end: 248440
   sentence: いられなかったのです。
-  words:
-    - word: い
-      base: 居る
-      position: 0
-    - word: られ
-      base: られる
-      position: 1
-    - word: なかっ
-      base: ない
-      position: 3
-    - word: た
-      position: 6
-    - word: の
-      position: 7
-    - word: です
-      position: 8
 - id: Kotorito Kyodai-f000107
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2364,13 +846,6 @@
   sound_begin: 248440
   sound_end: 250240
   sentence: 「私ですよ。
-  words:
-    - word: 私
-      position: 1
-    - word: です
-      position: 2
-    - word: よ
-      position: 4
 - id: Kotorito Kyodai-f000108
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2379,11 +854,6 @@
   sound_begin: 250240
   sound_end: 250560
   sentence: いつか、
-  words:
-    - word: いつ
-      position: 0
-    - word: か
-      position: 2
 - id: Kotorito Kyodai-f000109
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2392,12 +862,6 @@
   sound_begin: 250560
   sound_end: 251760
   sentence: あなたから、
-  words:
-    - word: あなた
-      base: 貴方
-      position: 0
-    - word: から
-      position: 3
 - id: Kotorito Kyodai-f000110
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2406,34 +870,6 @@
   sound_begin: 251760
   sound_end: 254826
   sentence: おもしろい話を聞かせていただいたことのある、
-  words:
-    - word: おもしろい
-      base: 面白い
-      position: 0
-    - word: 話
-      position: 5
-    - word: を
-      position: 6
-    - word: 聞か
-      base: 聞く
-      position: 7
-    - word: せ
-      base: せる
-      position: 9
-    - word: て
-      position: 10
-    - word: いただい
-      base: 頂く
-      position: 11
-    - word: た
-      position: 15
-    - word: こと
-      position: 16
-    - word: の
-      position: 18
-    - word: ある
-      base: 有る
-      position: 19
 - id: Kotorito Kyodai-f000111
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2442,15 +878,6 @@
   sound_begin: 254826
   sound_end: 257920
   sentence: 旅の小鳥です。」
-  words:
-    - word: 旅
-      position: 0
-    - word: の
-      position: 1
-    - word: 小鳥
-      position: 2
-    - word: です
-      position: 4
 - id: Kotorito Kyodai-f000112
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2459,9 +886,6 @@
   sound_begin: 257920
   sound_end: 258560
   sentence: 「ああ、
-  words:
-    - word: ああ
-      position: 1
 - id: Kotorito Kyodai-f000113
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2470,16 +894,6 @@
   sound_begin: 258560
   sound_end: 260560
   sentence: そうでしたか。
-  words:
-    - word: そう
-      position: 0
-    - word: でし
-      base: です
-      position: 2
-    - word: た
-      position: 4
-    - word: か
-      position: 5
 - id: Kotorito Kyodai-f000114
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2488,20 +902,6 @@
   sound_begin: 260560
   sound_end: 261839
   sentence: まだおまえさんたちは、
-  words:
-    - word: まだ
-      base: 未だ
-      position: 0
-    - word: おまえ
-      base: 御前
-      position: 2
-    - word: さん
-      position: 5
-    - word: たち
-      base: 達
-      position: 7
-    - word: は
-      position: 9
 - id: Kotorito Kyodai-f000115
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2510,26 +910,6 @@
   sound_begin: 261839
   sound_end: 265600
   sentence: 北の国へ帰らないのですか。
-  words:
-    - word: 北
-      position: 0
-    - word: の
-      position: 1
-    - word: 国
-      position: 2
-    - word: へ
-      position: 3
-    - word: 帰ら
-      base: 帰る
-      position: 4
-    - word: ない
-      position: 6
-    - word: の
-      position: 8
-    - word: です
-      position: 9
-    - word: か
-      position: 11
 - id: Kotorito Kyodai-f000116
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2538,20 +918,6 @@
   sound_begin: 265600
   sound_end: 267900
   sentence: あの雲をごらんなさい。
-  words:
-    - word: あの
-      base: 彼の
-      position: 0
-    - word: 雲
-      position: 2
-    - word: を
-      position: 3
-    - word: ごらん
-      base: 御覧
-      position: 4
-    - word: なさい
-      base: 為す
-      position: 7
 - id: Kotorito Kyodai-f000117
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2560,14 +926,6 @@
   sound_begin: 267900
   sound_end: 269040
   sentence: これからは、
-  words:
-    - word: これ
-      base: 此れ
-      position: 0
-    - word: から
-      position: 2
-    - word: は
-      position: 4
 - id: Kotorito Kyodai-f000118
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2576,18 +934,6 @@
   sound_begin: 269040
   sound_end: 271440
   sentence: だんだん暑くなります。
-  words:
-    - word: だんだん
-      base: 段々
-      position: 0
-    - word: 暑く
-      base: 暑い
-      position: 4
-    - word: なり
-      base: 成る
-      position: 6
-    - word: ます
-      position: 8
 - id: Kotorito Kyodai-f000119
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2596,9 +942,6 @@
   sound_begin: 271440
   sound_end: 272440
   sentence: そして、
-  words:
-    - word: そして
-      position: 0
 - id: Kotorito Kyodai-f000120
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2607,27 +950,6 @@
   sound_begin: 272440
   sound_end: 275644
   sentence: 日中の旅が困難になりますよ。
-  words:
-    - word: 日中
-      position: 0
-    - word: の
-      position: 2
-    - word: 旅
-      position: 3
-    - word: が
-      position: 4
-    - word: 困難
-      position: 5
-    - word: に
-      base: だ
-      position: 7
-    - word: なり
-      base: 成る
-      position: 8
-    - word: ます
-      position: 10
-    - word: よ
-      position: 12
 - id: Kotorito Kyodai-f000121
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2636,9 +958,6 @@
   sound_begin: 275644
   sound_end: 275807
   sentence: 」と、
-  words:
-    - word: と
-      position: 1
 - id: Kotorito Kyodai-f000122
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2647,21 +966,6 @@
   sound_begin: 275807
   sound_end: 279640
   sentence: 電信柱がいいました。
-  words:
-    - word: 電信
-      position: 0
-    - word: 柱
-      position: 2
-    - word: が
-      position: 3
-    - word: いい
-      base: 言う
-      position: 4
-    - word: まし
-      base: ます
-      position: 6
-    - word: た
-      position: 8
 - id: Kotorito Kyodai-f000123
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2670,13 +974,6 @@
   sound_begin: 279640
   sound_end: 280720
   sentence: 「私だけは、
-  words:
-    - word: 私
-      position: 1
-    - word: だけ
-      position: 2
-    - word: は
-      position: 4
 - id: Kotorito Kyodai-f000124
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2685,24 +982,6 @@
   sound_begin: 280720
   sound_end: 283880
   sentence: 故郷へ帰らないと思うのです。
-  words:
-    - word: 故郷
-      position: 0
-    - word: へ
-      position: 2
-    - word: 帰ら
-      base: 帰る
-      position: 3
-    - word: ない
-      position: 5
-    - word: と
-      position: 7
-    - word: 思う
-      position: 8
-    - word: の
-      position: 10
-    - word: です
-      position: 11
 - id: Kotorito Kyodai-f000125
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2711,12 +990,6 @@
   sound_begin: 283880
   sound_end: 284800
   sentence: それで、
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: で
-      position: 2
 - id: Kotorito Kyodai-f000126
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2725,33 +998,6 @@
   sound_begin: 284800
   sound_end: 287640
   sentence: あなたにお聞きしたいと思うのですが、
-  words:
-    - word: あなた
-      base: 貴方
-      position: 0
-    - word: に
-      position: 3
-    - word: お
-      base: 御
-      position: 4
-    - word: 聞き
-      base: 聞く
-      position: 5
-    - word: し
-      base: 為る
-      position: 7
-    - word: たい
-      position: 8
-    - word: と
-      position: 10
-    - word: 思う
-      position: 11
-    - word: の
-      position: 13
-    - word: です
-      position: 14
-    - word: が
-      position: 16
 - id: Kotorito Kyodai-f000127
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2760,18 +1006,6 @@
   sound_begin: 287640
   sound_end: 289080
   sentence: どこかの国で、
-  words:
-    - word: どこ
-      position: 0
-    - word: か
-      position: 2
-    - word: の
-      position: 3
-    - word: 国
-      position: 4
-    - word: で
-      base: だ
-      position: 5
 - id: Kotorito Kyodai-f000128
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2780,29 +1014,6 @@
   sound_begin: 289080
   sound_end: 291600
   sentence: 自分たちを大事にして飼って、
-  words:
-    - word: 自分
-      position: 0
-    - word: たち
-      base: 達
-      position: 2
-    - word: を
-      position: 4
-    - word: 大事
-      position: 5
-    - word: に
-      base: だ
-      position: 7
-    - word: し
-      base: 為る
-      position: 8
-    - word: て
-      position: 9
-    - word: 飼っ
-      base: 飼う
-      position: 10
-    - word: て
-      position: 12
 - id: Kotorito Kyodai-f000129
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2811,34 +1022,6 @@
   sound_begin: 291600
   sound_end: 294280
   sentence: もてなしてくれるところがあるということですが、
-  words:
-    - word: もてなし
-      base: 持て成す
-      position: 0
-    - word: て
-      position: 4
-    - word: くれる
-      base: 呉れる
-      position: 5
-    - word: ところ
-      base: 所
-      position: 8
-    - word: が
-      position: 11
-    - word: ある
-      base: 有る
-      position: 12
-    - word: と
-      position: 14
-    - word: いう
-      base: 言う
-      position: 15
-    - word: こと
-      position: 17
-    - word: です
-      position: 19
-    - word: が
-      position: 21
 - id: Kotorito Kyodai-f000130
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2847,15 +1030,6 @@
   sound_begin: 294280
   sound_end: 296130
   sentence: ほんとうでしょうか。
-  words:
-    - word: ほんとう
-      base: 本当
-      position: 0
-    - word: でしょう
-      base: です
-      position: 4
-    - word: か
-      position: 8
 - id: Kotorito Kyodai-f000131
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2864,9 +1038,6 @@
   sound_begin: 296130
   sound_end: 296361
   sentence: 」と、
-  words:
-    - word: と
-      position: 1
 - id: Kotorito Kyodai-f000132
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2875,19 +1046,6 @@
   sound_begin: 296361
   sound_end: 299160
   sentence: うそはたずねました。
-  words:
-    - word: うそ
-      position: 0
-    - word: は
-      position: 2
-    - word: たずね
-      base: たずねる
-      position: 3
-    - word: まし
-      base: ます
-      position: 6
-    - word: た
-      position: 8
 - id: Kotorito Kyodai-f000133
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2896,12 +1054,6 @@
   sound_begin: 299160
   sound_end: 300280
   sentence: すると、
-  words:
-    - word: する
-      base: 為る
-      position: 0
-    - word: と
-      position: 2
 - id: Kotorito Kyodai-f000134
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2910,13 +1062,6 @@
   sound_begin: 300280
   sound_end: 301160
   sentence: 電信柱は、
-  words:
-    - word: 電信
-      position: 0
-    - word: 柱
-      position: 2
-    - word: は
-      position: 3
 - id: Kotorito Kyodai-f000135
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2925,18 +1070,6 @@
   sound_begin: 301160
   sound_end: 303280
   sentence: 脊伸びをしながら、
-  words:
-    - word: 脊
-      position: 0
-    - word: 伸び
-      position: 1
-    - word: を
-      position: 3
-    - word: し
-      base: 為る
-      position: 4
-    - word: ながら
-      position: 5
 - id: Kotorito Kyodai-f000136
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2945,12 +1078,6 @@
   sound_begin: 303280
   sound_end: 304000
   sentence: 「それは、
-  words:
-    - word: それ
-      base: 其れ
-      position: 1
-    - word: は
-      position: 3
 - id: Kotorito Kyodai-f000137
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2959,16 +1086,6 @@
   sound_begin: 304000
   sound_end: 306160
   sentence: ほんとうのことらしい。
-  words:
-    - word: ほんとう
-      base: 本当
-      position: 0
-    - word: の
-      position: 4
-    - word: こと
-      position: 5
-    - word: らしい
-      position: 7
 - id: Kotorito Kyodai-f000138
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2977,11 +1094,6 @@
   sound_begin: 306160
   sound_end: 307000
   sentence: いつか、
-  words:
-    - word: いつ
-      position: 0
-    - word: か
-      position: 2
 - id: Kotorito Kyodai-f000139
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -2990,21 +1102,6 @@
   sound_begin: 307000
   sound_end: 309520
   sentence: 下の街道を通る旅人が、
-  words:
-    - word: 下
-      position: 0
-    - word: の
-      position: 1
-    - word: 街道
-      position: 2
-    - word: を
-      position: 4
-    - word: 通る
-      position: 5
-    - word: 旅人
-      position: 7
-    - word: が
-      position: 9
 - id: Kotorito Kyodai-f000140
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3013,23 +1110,6 @@
   sound_begin: 309520
   sound_end: 311160
   sentence: いろいろ小鳥の名をいって、
-  words:
-    - word: いろいろ
-      base: 色々
-      position: 0
-    - word: 小鳥
-      position: 4
-    - word: の
-      position: 6
-    - word: 名
-      position: 7
-    - word: を
-      position: 8
-    - word: いっ
-      base: 言う
-      position: 9
-    - word: て
-      position: 11
 - id: Kotorito Kyodai-f000141
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3038,30 +1118,6 @@
   sound_begin: 311160
   sound_end: 313644
   sentence: 金になるなどといっていたが、
-  words:
-    - word: 金
-      position: 0
-    - word: に
-      position: 1
-    - word: なる
-      base: 成る
-      position: 2
-    - word: など
-      position: 4
-    - word: と
-      position: 6
-    - word: いっ
-      base: 言う
-      position: 7
-    - word: て
-      position: 9
-    - word: い
-      base: 居る
-      position: 10
-    - word: た
-      position: 11
-    - word: が
-      position: 12
 - id: Kotorito Kyodai-f000142
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3070,37 +1126,6 @@
   sound_begin: 313644
   sound_end: 317347
   sentence: たしかその中におまえさんの名もあったと思う。
-  words:
-    - word: たしか
-      base: 確か
-      position: 0
-    - word: その
-      base: 其の
-      position: 3
-    - word: 中
-      position: 5
-    - word: に
-      position: 6
-    - word: おまえ
-      base: 御前
-      position: 7
-    - word: さん
-      position: 10
-    - word: の
-      position: 12
-    - word: 名
-      position: 13
-    - word: も
-      position: 14
-    - word: あっ
-      base: 有る
-      position: 15
-    - word: た
-      position: 17
-    - word: と
-      position: 18
-    - word: 思う
-      position: 19
 - id: Kotorito Kyodai-f000143
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3109,17 +1134,6 @@
   sound_begin: 317347
   sound_end: 319720
   sentence: 」と答えました。
-  words:
-    - word: と
-      position: 1
-    - word: 答え
-      base: 答える
-      position: 2
-    - word: まし
-      base: ます
-      position: 4
-    - word: た
-      position: 6
 - id: Kotorito Kyodai-f000144
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3128,11 +1142,6 @@
   sound_begin: 319720
   sound_end: 320621
   sentence: うそは、
-  words:
-    - word: うそ
-      position: 0
-    - word: は
-      position: 2
 - id: Kotorito Kyodai-f000145
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3141,17 +1150,6 @@
   sound_begin: 320621
   sound_end: 322160
   sentence: 体じゅうが熱く、
-  words:
-    - word: 体
-      position: 0
-    - word: じゅう
-      base: 中
-      position: 1
-    - word: が
-      position: 4
-    - word: 熱く
-      base: 熱い
-      position: 5
 - id: Kotorito Kyodai-f000146
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3160,29 +1158,6 @@
   sound_begin: 322160
   sound_end: 326280
   sentence: 赤くなったように感じました。
-  words:
-    - word: 赤く
-      base: 赤い
-      position: 0
-    - word: なっ
-      base: 成る
-      position: 2
-    - word: た
-      position: 4
-    - word: よう
-      base: 様
-      position: 5
-    - word: に
-      base: だ
-      position: 7
-    - word: 感じ
-      base: 感ずる
-      position: 8
-    - word: まし
-      base: ます
-      position: 10
-    - word: た
-      position: 12
 - id: Kotorito Kyodai-f000147
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3191,13 +1166,6 @@
   sound_begin: 326280
   sound_end: 327840
   sentence: 「電信柱さん、
-  words:
-    - word: 電信
-      position: 1
-    - word: 柱
-      position: 3
-    - word: さん
-      position: 4
 - id: Kotorito Kyodai-f000148
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3206,26 +1174,6 @@
   sound_begin: 327840
   sound_end: 330160
   sentence: そこへはどうしてゆけるか、
-  words:
-    - word: そこ
-      base: 其処
-      position: 0
-    - word: へ
-      position: 2
-    - word: は
-      position: 3
-    - word: どう
-      position: 4
-    - word: し
-      base: 為る
-      position: 6
-    - word: て
-      position: 7
-    - word: ゆける
-      base: 行く
-      position: 8
-    - word: か
-      position: 11
 - id: Kotorito Kyodai-f000149
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3234,15 +1182,6 @@
   sound_begin: 330160
   sound_end: 332376
   sentence: 教えてください。
-  words:
-    - word: 教え
-      base: 教える
-      position: 0
-    - word: て
-      position: 2
-    - word: ください
-      base: 下さる
-      position: 3
 - id: Kotorito Kyodai-f000150
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3251,9 +1190,6 @@
   sound_begin: 332376
   sound_end: 332560
   sentence: 」と、
-  words:
-    - word: と
-      position: 1
 - id: Kotorito Kyodai-f000151
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3262,17 +1198,6 @@
   sound_begin: 332560
   sound_end: 335200
   sentence: 小鳥は頼んだ。
-  words:
-    - word: 小鳥
-      position: 0
-    - word: は
-      position: 2
-    - word: 頼ん
-      base: 頼む
-      position: 3
-    - word: だ
-      base: た
-      position: 5
 - id: Kotorito Kyodai-f000152
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3281,9 +1206,6 @@
   sound_begin: 335200
   sound_end: 336200
   sentence: 「さあ、
-  words:
-    - word: さあ
-      position: 1
 - id: Kotorito Kyodai-f000153
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3292,20 +1214,6 @@
   sound_begin: 336200
   sound_end: 338040
   sentence: なんというところか、
-  words:
-    - word: なん
-      base: 何
-      position: 0
-    - word: と
-      position: 2
-    - word: いう
-      base: 言う
-      position: 3
-    - word: ところ
-      base: 所
-      position: 5
-    - word: か
-      position: 8
 - id: Kotorito Kyodai-f000154
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3314,16 +1222,6 @@
   sound_begin: 338040
   sound_end: 339656
   sentence: 場所さえわかれば、
-  words:
-    - word: 場所
-      position: 0
-    - word: さえ
-      position: 2
-    - word: わかれ
-      base: 分かる
-      position: 4
-    - word: ば
-      position: 7
 - id: Kotorito Kyodai-f000155
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3332,21 +1230,6 @@
   sound_begin: 339656
   sound_end: 341496
   sentence: 汽車に乗ってゆくとも、
-  words:
-    - word: 汽車
-      position: 0
-    - word: に
-      position: 2
-    - word: 乗っ
-      base: 乗る
-      position: 3
-    - word: て
-      position: 5
-    - word: ゆく
-      base: 行く
-      position: 6
-    - word: とも
-      position: 8
 - id: Kotorito Kyodai-f000156
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3355,10 +1238,6 @@
   sound_begin: 341496
   sound_end: 341880
   sentence: また、
-  words:
-    - word: また
-      base: 又
-      position: 0
 - id: Kotorito Kyodai-f000157
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3367,32 +1246,6 @@
   sound_begin: 341880
   sound_end: 345000
   sentence: あちらの港からたつ汽船に乗ってゆくとも、
-  words:
-    - word: あちら
-      base: 彼方
-      position: 0
-    - word: の
-      position: 3
-    - word: 港
-      position: 4
-    - word: から
-      position: 5
-    - word: たつ
-      position: 7
-    - word: 汽船
-      position: 9
-    - word: に
-      position: 11
-    - word: 乗っ
-      base: 乗る
-      position: 12
-    - word: て
-      position: 14
-    - word: ゆく
-      base: 行く
-      position: 15
-    - word: とも
-      position: 17
 - id: Kotorito Kyodai-f000158
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3401,24 +1254,6 @@
   sound_begin: 345000
   sound_end: 347560
   sentence: また方法はいくらもあるが、
-  words:
-    - word: また
-      base: 又
-      position: 0
-    - word: 方法
-      position: 2
-    - word: は
-      position: 4
-    - word: いくら
-      base: 幾ら
-      position: 5
-    - word: も
-      position: 8
-    - word: ある
-      base: 有る
-      position: 9
-    - word: が
-      position: 11
 - id: Kotorito Kyodai-f000159
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3427,18 +1262,6 @@
   sound_begin: 347560
   sound_end: 348960
   sentence: その町の名は、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 町
-      position: 2
-    - word: の
-      position: 3
-    - word: 名
-      position: 4
-    - word: は
-      position: 5
 - id: Kotorito Kyodai-f000160
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3447,22 +1270,6 @@
   sound_begin: 348960
   sound_end: 351457
   sentence: 私にもわかりません……。
-  words:
-    - word: 私
-      position: 0
-    - word: に
-      position: 1
-    - word: も
-      position: 2
-    - word: わかり
-      base: 分かる
-      position: 3
-    - word: ませ
-      base: ます
-      position: 6
-    - word: ん
-      base: ず
-      position: 8
 - id: Kotorito Kyodai-f000161
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3471,9 +1278,6 @@
   sound_begin: 351457
   sound_end: 351680
   sentence: 」と、
-  words:
-    - word: と
-      position: 1
 - id: Kotorito Kyodai-f000162
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3482,21 +1286,6 @@
   sound_begin: 351680
   sound_end: 355920
   sentence: 電信柱はいいました。
-  words:
-    - word: 電信
-      position: 0
-    - word: 柱
-      position: 2
-    - word: は
-      position: 3
-    - word: いい
-      base: 言う
-      position: 4
-    - word: まし
-      base: ます
-      position: 6
-    - word: た
-      position: 8
 - id: Kotorito Kyodai-f000163
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3505,17 +1294,6 @@
   sound_begin: 355920
   sound_end: 357320
   sentence: あわれな小鳥は、
-  words:
-    - word: あわれ
-      base: 哀れ
-      position: 0
-    - word: な
-      base: だ
-      position: 3
-    - word: 小鳥
-      position: 4
-    - word: は
-      position: 6
 - id: Kotorito Kyodai-f000164
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3524,19 +1302,6 @@
   sound_begin: 357320
   sound_end: 359280
   sentence: そこから飛び立つと、
-  words:
-    - word: そこ
-      base: 其処
-      position: 0
-    - word: から
-      position: 2
-    - word: 飛び
-      base: 飛ぶ
-      position: 4
-    - word: 立つ
-      position: 6
-    - word: と
-      position: 8
 - id: Kotorito Kyodai-f000165
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3545,11 +1310,6 @@
   sound_begin: 359280
   sound_end: 360240
   sentence: もう一度、
-  words:
-    - word: もう
-      position: 0
-    - word: 一度
-      position: 2
 - id: Kotorito Kyodai-f000166
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3558,71 +1318,6 @@
   sound_begin: 360240
   sound_end: 367800
   sentence: あの兄と妹が雑誌を開いて話をしていた窓の前にあった木にきて止まりました。
-  words:
-    - word: あの
-      base: 彼の
-      position: 0
-    - word: 兄
-      position: 2
-    - word: と
-      position: 3
-    - word: 妹
-      position: 4
-    - word: が
-      position: 5
-    - word: 雑誌
-      position: 6
-    - word: を
-      position: 8
-    - word: 開い
-      base: 開く
-      position: 9
-    - word: て
-      position: 11
-    - word: 話
-      position: 12
-    - word: を
-      position: 13
-    - word: し
-      base: 為る
-      position: 14
-    - word: て
-      position: 15
-    - word: い
-      base: 居る
-      position: 16
-    - word: た
-      position: 17
-    - word: 窓
-      position: 18
-    - word: の
-      position: 19
-    - word: 前
-      position: 20
-    - word: に
-      position: 21
-    - word: あっ
-      base: 有る
-      position: 22
-    - word: た
-      position: 24
-    - word: 木
-      position: 25
-    - word: に
-      position: 26
-    - word: き
-      base: 来る
-      position: 27
-    - word: て
-      position: 28
-    - word: 止まり
-      base: 止まる
-      position: 29
-    - word: まし
-      base: ます
-      position: 32
-    - word: た
-      position: 34
 - id: Kotorito Kyodai-f000167
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3631,9 +1326,6 @@
   sound_begin: 367800
   sound_end: 368840
   sentence: そして、
-  words:
-    - word: そして
-      position: 0
 - id: Kotorito Kyodai-f000168
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3642,48 +1334,6 @@
   sound_begin: 368840
   sound_end: 374880
   sentence: 自分たちをかわいがってくれる町の名を知りたいと思いました。
-  words:
-    - word: 自分
-      position: 0
-    - word: たち
-      base: 達
-      position: 2
-    - word: を
-      position: 4
-    - word: かわい
-      base: 可愛い
-      position: 5
-    - word: がっ
-      base: がる
-      position: 8
-    - word: て
-      position: 10
-    - word: くれる
-      base: 呉れる
-      position: 11
-    - word: 町
-      position: 14
-    - word: の
-      position: 15
-    - word: 名
-      position: 16
-    - word: を
-      position: 17
-    - word: 知り
-      base: 知る
-      position: 18
-    - word: たい
-      position: 20
-    - word: と
-      position: 22
-    - word: 思い
-      base: 思う
-      position: 23
-    - word: まし
-      base: ます
-      position: 25
-    - word: た
-      position: 27
 - id: Kotorito Kyodai-f000169
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3692,20 +1342,6 @@
   sound_begin: 374880
   sound_end: 376560
   sentence: しかしきてみると、
-  words:
-    - word: しかし
-      base: 然し
-      position: 0
-    - word: き
-      base: 来る
-      position: 3
-    - word: て
-      position: 4
-    - word: みる
-      base: 見る
-      position: 5
-    - word: と
-      position: 7
 - id: Kotorito Kyodai-f000170
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3714,14 +1350,6 @@
   sound_begin: 376560
   sound_end: 377240
   sentence: その窓は、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 窓
-      position: 2
-    - word: は
-      position: 3
 - id: Kotorito Kyodai-f000171
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3730,12 +1358,6 @@
   sound_begin: 377240
   sound_end: 378640
   sentence: 閉まって、
-  words:
-    - word: 閉まっ
-      base: 締まる
-      position: 0
-    - word: て
-      position: 3
 - id: Kotorito Kyodai-f000172
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3744,38 +1366,6 @@
   sound_begin: 378640
   sound_end: 384120
   sentence: 仲のいい兄と妹の姿は見えなかったのです。
-  words:
-    - word: 仲
-      position: 0
-    - word: の
-      position: 1
-    - word: いい
-      base: 良い
-      position: 2
-    - word: 兄
-      position: 4
-    - word: と
-      position: 5
-    - word: 妹
-      position: 6
-    - word: の
-      position: 7
-    - word: 姿
-      position: 8
-    - word: は
-      position: 9
-    - word: 見え
-      base: 見える
-      position: 10
-    - word: なかっ
-      base: ない
-      position: 12
-    - word: た
-      position: 15
-    - word: の
-      position: 16
-    - word: です
-      position: 17
 - id: Kotorito Kyodai-f000173
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3784,11 +1374,6 @@
   sound_begin: 384120
   sound_end: 385120
   sentence: うそは、
-  words:
-    - word: うそ
-      position: 0
-    - word: は
-      position: 2
 - id: Kotorito Kyodai-f000174
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3797,27 +1382,6 @@
   sound_begin: 385120
   sound_end: 388226
   sentence: いい声を出して鳴きました。
-  words:
-    - word: いい
-      base: 良い
-      position: 0
-    - word: 声
-      position: 2
-    - word: を
-      position: 3
-    - word: 出し
-      base: 出す
-      position: 4
-    - word: て
-      position: 6
-    - word: 鳴き
-      base: 鳴く
-      position: 7
-    - word: まし
-      base: ます
-      position: 9
-    - word: た
-      position: 11
 - id: Kotorito Kyodai-f000175
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3826,9 +1390,6 @@
   sound_begin: 388226
   sound_end: 389387
   sentence: けれど、
-  words:
-    - word: けれど
-      position: 0
 - id: Kotorito Kyodai-f000176
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3837,32 +1398,6 @@
   sound_begin: 389387
   sound_end: 395200
   sentence: ついに窓の障子は開きませんでした。
-  words:
-    - word: ついに
-      base: 遂に
-      position: 0
-    - word: 窓
-      position: 3
-    - word: の
-      position: 4
-    - word: 障子
-      position: 5
-    - word: は
-      position: 7
-    - word: 開き
-      base: 開く
-      position: 8
-    - word: ませ
-      base: ます
-      position: 10
-    - word: ん
-      base: ず
-      position: 12
-    - word: でし
-      base: です
-      position: 13
-    - word: た
-      position: 15
 - id: Kotorito Kyodai-f000177
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3871,11 +1406,6 @@
   sound_begin: 395200
   sound_end: 395640
   sentence: うそは、
-  words:
-    - word: うそ
-      position: 0
-    - word: は
-      position: 2
 - id: Kotorito Kyodai-f000178
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3884,13 +1414,6 @@
   sound_begin: 395640
   sound_end: 397040
   sentence: このとき、
-  words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: とき
-      base: 時
-      position: 2
 - id: Kotorito Kyodai-f000179
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3899,17 +1422,6 @@
   sound_begin: 397040
   sound_end: 399320
   sentence: はかない希望を捨て、
-  words:
-    - word: はかない
-      base: 儚い
-      position: 0
-    - word: 希望
-      position: 4
-    - word: を
-      position: 6
-    - word: 捨て
-      base: 捨てる
-      position: 7
 - id: Kotorito Kyodai-f000180
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3918,37 +1430,6 @@
   sound_begin: 399320
   sound_end: 404225
   sentence: みんなといっしょに故郷へ旅立つことを決心しました。
-  words:
-    - word: みんな
-      base: 皆
-      position: 0
-    - word: と
-      position: 3
-    - word: いっしょ
-      base: 一緒
-      position: 4
-    - word: に
-      position: 8
-    - word: 故郷
-      position: 9
-    - word: へ
-      position: 11
-    - word: 旅立つ
-      position: 12
-    - word: こと
-      position: 15
-    - word: を
-      position: 17
-    - word: 決心
-      position: 18
-    - word: し
-      base: 為る
-      position: 20
-    - word: まし
-      base: ます
-      position: 21
-    - word: た
-      position: 23
 - id: Kotorito Kyodai-f000181
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3957,9 +1438,6 @@
   sound_begin: 404225
   sound_end: 405560
   sentence: そして、
-  words:
-    - word: そして
-      position: 0
 - id: Kotorito Kyodai-f000182
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3968,13 +1446,6 @@
   sound_begin: 405560
   sound_end: 406480
   sentence: 青い空を、
-  words:
-    - word: 青い
-      position: 0
-    - word: 空
-      position: 2
-    - word: を
-      position: 3
 - id: Kotorito Kyodai-f000183
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -3983,17 +1454,6 @@
   sound_begin: 406480
   sound_end: 408440
   sentence: あちらに駆けて、
-  words:
-    - word: あちら
-      base: 彼方
-      position: 0
-    - word: に
-      position: 3
-    - word: 駆け
-      base: 駆ける
-      position: 4
-    - word: て
-      position: 6
 - id: Kotorito Kyodai-f000184
   author_japanese: 小川 未明
   deck_name: Kotorito Kyodai
@@ -4002,43 +1462,3 @@
   sound_begin: 408440
   sound_end: 416040
   sentence: 自分を待っている友だちのいる方へ去ったのであります。
-  words:
-    - word: 自分
-      position: 0
-    - word: を
-      position: 2
-    - word: 待っ
-      base: 待つ
-      position: 3
-    - word: て
-      position: 5
-    - word: いる
-      base: 居る
-      position: 6
-    - word: 友だち
-      base: 友達
-      position: 8
-    - word: の
-      position: 11
-    - word: いる
-      base: 居る
-      position: 12
-    - word: 方
-      position: 14
-    - word: へ
-      position: 15
-    - word: 去っ
-      base: 去る
-      position: 16
-    - word: た
-      position: 18
-    - word: の
-      position: 19
-    - word: で
-      base: だ
-      position: 20
-    - word: あり
-      base: 有る
-      position: 21
-    - word: ます
-      position: 23

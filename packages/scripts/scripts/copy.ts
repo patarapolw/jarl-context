@@ -19,8 +19,9 @@ const sDataJSON = S.shape({
 async function main() {
   const src = `../../submodules/immersion-kit-api/resources`
   const dst = `../../my-edit`
-  const outputFilename = 'override.gen.yaml'
-  const isFull = false
+  const outputFilename = 'data.yaml'
+  const isFull = true
+  console.log(outputFilename, isFull)
 
   const reClean = /(^[\p{Z}]+|[\p{Z}]+$)/gu
   const reWordClean = /([\u{202a}\u{202c}])/gu
@@ -31,9 +32,8 @@ async function main() {
   })
 
   files.map((p, i) => {
-    console.log(`[${i + 1}/${files.length}] ${p}`)
-
     const folder = p.replace(/\/data\.json$/, '')
+    console.log(`[${i + 1}/${files.length}] ${folder}`)
 
     try {
       fs.mkdirSync(`${dst}/${folder}`, {
@@ -76,7 +76,7 @@ async function main() {
             if (!bracketed.length) return null
           }
 
-          let words: any[] | undefined
+          let words: any[] = []
           if (word_list) {
             let position = 0
             words = word_list
@@ -107,27 +107,21 @@ async function main() {
                       tags = ['silent']
                     }
                   })
-
-                  return {
-                    word,
-                    base,
-                    dictionary,
-                    position: from,
-                    tags
-                  }
+                } else {
+                  bracketed.map((b) => {
+                    if (b.item.includes(word)) {
+                      tags = ['silent']
+                    }
+                  })
                 }
 
-                bracketed.map((b) => {
-                  if (b.item.includes(word)) {
-                    tags = ['silent']
-                  }
-                })
+                if (!tags) return null
 
                 return {
                   word,
                   base,
                   dictionary,
-                  position: null,
+                  position: from === -1 ? undefined : from,
                   tags
                 }
               })
@@ -137,7 +131,7 @@ async function main() {
           return {
             ...d,
             sentence: sentence.replace(reClean, ''),
-            words
+            words: words.length ? words : undefined
           }
         }
       )

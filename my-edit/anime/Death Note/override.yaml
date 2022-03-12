@@ -52,22 +52,6 @@
       position: 12
       tags:
         - silent
-    - word: あぁ
-      base: ああ
-      position: 15
-    - word: ちょっと
-      base: 一寸
-      position: 18
-    - word: 本部
-      position: 22
-    - word: から
-      position: 24
-    - word: 連絡
-      position: 26
-    - word: が
-      position: 28
-    - word: な
-      position: 29
 - id: A_DeathNote_04_0814
   deck_name: Death Note
   translation: Probably...
@@ -109,16 +93,6 @@
       position: 10
       tags:
         - silent
-    - word: じゃあ
-      base: で
-      position: 13
-    - word: いよいよ
-      base: 愈
-      position: 16
-    - word: 本番
-      position: 20
-    - word: だ
-      position: 22
 - id: A_DeathNote_11_2554
   deck_name: Death Note
   translation: >-
@@ -127,75 +101,11 @@
   sound: A_DeathNote_03_0.05.31.330-0.05.39.180.mp3
   sentence: 私に同意できなくとも、　メディアに乗せ、公(おおやけ)にしたりしなければ、　殺したりはしません
   words:
-    - word: 私
-      position: 0
-    - word: に
-      position: 1
-    - word: 同意
-      position: 2
-    - word: でき
-      base: 出来る
-      dictionary: できる
-      position: 4
-    - word: なく
-      base: ない
-      dictionary: ない
-      position: 6
-    - word: とも
-      position: 8
-    - word: メディア
-      position: 12
-    - word: に
-      position: 16
-    - word: 乗せ
-      base: 乗せる
-      dictionary: 乗せる
-      position: 17
-    - word: 公
-      position: 20
     - word: おおやけ
       base: 公
       position: 22
       tags:
         - silent
-    - word: に
-      position: 27
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 28
-    - word: たり
-      position: 29
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 31
-    - word: なけれ
-      base: ない
-      dictionary: ない
-      position: 32
-    - word: ば
-      position: 35
-    - word: 殺し
-      base: 殺す
-      dictionary: 殺す
-      position: 38
-    - word: たり
-      position: 40
-    - word: は
-      position: 42
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 43
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 44
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 46
 - id: A_DeathNote_14_3326
   deck_name: Death Note
   translation: Scary...
@@ -234,32 +144,12 @@
       position: 12
       tags:
         - silent
-    - word: こえ
-      base: 声
-      position: 15
-    - word: ～
-      base: から
-      position: 17
 - id: A_DeathNote_21_5249
   deck_name: Death Note
   translation: Yes, I'll give it my best!  All right!
   sound: A_DeathNote_14_0.05.07.890-0.05.10.650.mp3
   sentence: 押忍！：気合の入った（体育会系の）挨拶。　はい！頑張ります！押忍！
   words:
-    - word: 押忍
-      base: おす
-      position: 0
-    - word: 気合
-      base: 気合い
-      position: 4
-    - word: の
-      position: 6
-    - word: 入っ
-      base: 入る
-      dictionary: 入る
-      position: 7
-    - word: た
-      position: 9
     - word: 体育
       position: 11
       tags:
@@ -276,16 +166,3 @@
       position: 15
       tags:
         - silent
-    - word: 挨拶
-      position: 17
-    - word: はい
-      position: 21
-    - word: 頑張り
-      base: 頑張る
-      dictionary: 頑張る
-      position: 24
-    - word: ます
-      position: 27
-    - word: 押忍
-      base: おす
-      position: 30

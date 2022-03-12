@@ -6,21 +6,6 @@
   sound_begin: 5880
   sound_end: 8240
   sentence: 桜の樹の下には
-  words:
-    - word: 桜
-      position: 0
-    - word: の
-      position: 1
-    - word: 樹
-      position: 2
-    - word: の
-      position: 3
-    - word: 下
-      position: 4
-    - word: に
-      position: 5
-    - word: は
-      position: 6
 - id: Sakurano Kino Shita-f000003
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -29,34 +14,6 @@
   sound_begin: 11840
   sound_end: 17051
   sentence: 桜の樹の下には屍体が埋まっている！
-  words:
-    - word: 桜
-      position: 0
-    - word: の
-      position: 1
-    - word: 樹
-      position: 2
-    - word: の
-      position: 3
-    - word: 下
-      position: 4
-    - word: に
-      position: 5
-    - word: は
-      position: 6
-    - word: 屍体
-      base: 死体
-      position: 7
-    - word: が
-      position: 9
-    - word: 埋まっ
-      base: 埋まる
-      position: 10
-    - word: て
-      position: 13
-    - word: いる
-      base: 居る
-      position: 14
 - id: Sakurano Kino Shita-f000004
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -65,32 +22,6 @@
   sound_begin: 17051
   sound_end: 21800
   sentence: これは信じていいことなんだよ。
-  words:
-    - word: これ
-      base: 此れ
-      position: 0
-    - word: は
-      position: 2
-    - word: 信じ
-      base: 信ずる
-      position: 3
-    - word: て
-      position: 5
-    - word: いい
-      base: 良い
-      position: 6
-    - word: こと
-      position: 8
-    - word: な
-      base: だ
-      position: 10
-    - word: ん
-      base: の
-      position: 11
-    - word: だ
-      position: 12
-    - word: よ
-      position: 13
 - id: Sakurano Kino Shita-f000005
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -99,11 +30,6 @@
   sound_begin: 21800
   sound_end: 23480
   sentence: 何故って、
-  words:
-    - word: 何故
-      position: 0
-    - word: って
-      position: 2
 - id: Sakurano Kino Shita-f000006
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -112,49 +38,6 @@
   sound_begin: 23480
   sound_end: 30600
   sentence: 桜の花があんなにも見事に咲くなんて信じられないことじゃないか。
-  words:
-    - word: 桜
-      position: 0
-    - word: の
-      position: 1
-    - word: 花
-      position: 2
-    - word: が
-      position: 3
-    - word: あんな
-      position: 4
-    - word: に
-      base: だ
-      position: 7
-    - word: も
-      position: 8
-    - word: 見事
-      position: 9
-    - word: に
-      base: だ
-      position: 11
-    - word: 咲く
-      position: 12
-    - word: なんて
-      position: 14
-    - word: 信じ
-      base: 信ずる
-      position: 17
-    - word: られ
-      base: られる
-      position: 19
-    - word: ない
-      position: 21
-    - word: こと
-      position: 23
-    - word: じゃ
-      base: だ
-      position: 25
-    - word: ない
-      base: 無い
-      position: 27
-    - word: か
-      position: 29
 - id: Sakurano Kino Shita-f000007
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -163,34 +46,6 @@
   sound_begin: 30600
   sound_end: 33600
   sentence: 俺はあの美しさが信じられないので、
-  words:
-    - word: 俺
-      position: 0
-    - word: は
-      position: 1
-    - word: あの
-      base: 彼の
-      position: 2
-    - word: 美し
-      base: 美しい
-      position: 4
-    - word: さ
-      position: 6
-    - word: が
-      position: 7
-    - word: 信じ
-      base: 信ずる
-      position: 8
-    - word: られ
-      base: られる
-      position: 10
-    - word: ない
-      position: 12
-    - word: の
-      position: 14
-    - word: で
-      base: だ
-      position: 15
 - id: Sakurano Kino Shita-f000008
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -199,22 +54,6 @@
   sound_begin: 33600
   sound_end: 36856
   sentence: この二三日不安だった。
-  words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: 二三
-      base: '23'
-      position: 2
-    - word: 日
-      position: 4
-    - word: 不安
-      position: 5
-    - word: だっ
-      base: だ
-      position: 7
-    - word: た
-      position: 9
 - id: Sakurano Kino Shita-f000009
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -223,13 +62,6 @@
   sound_begin: 36856
   sound_end: 38454
   sentence: しかしいま、
-  words:
-    - word: しかし
-      base: 然し
-      position: 0
-    - word: いま
-      base: 今
-      position: 3
 - id: Sakurano Kino Shita-f000010
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -238,23 +70,6 @@
   sound_begin: 38454
   sound_end: 40200
   sentence: やっとわかるときが来た。
-  words:
-    - word: やっと
-      base: 漸と
-      position: 0
-    - word: わかる
-      base: 分かる
-      position: 3
-    - word: とき
-      base: 時
-      position: 6
-    - word: が
-      position: 8
-    - word: 来
-      base: 来る
-      position: 9
-    - word: た
-      position: 10
 - id: Sakurano Kino Shita-f000011
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -263,34 +78,6 @@
   sound_begin: 42300
   sound_end: 46500
   sentence: 桜の樹の下には屍体が埋まっている。
-  words:
-    - word: 桜
-      position: 0
-    - word: の
-      position: 1
-    - word: 樹
-      position: 2
-    - word: の
-      position: 3
-    - word: 下
-      position: 4
-    - word: に
-      position: 5
-    - word: は
-      position: 6
-    - word: 屍体
-      base: 死体
-      position: 7
-    - word: が
-      position: 9
-    - word: 埋まっ
-      base: 埋まる
-      position: 10
-    - word: て
-      position: 13
-    - word: いる
-      base: 居る
-      position: 14
 - id: Sakurano Kino Shita-f000012
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -299,24 +86,6 @@
   sound_begin: 46500
   sound_end: 51080
   sentence: これは信じていいことだ。
-  words:
-    - word: これ
-      base: 此れ
-      position: 0
-    - word: は
-      position: 2
-    - word: 信じ
-      base: 信ずる
-      position: 3
-    - word: て
-      position: 5
-    - word: いい
-      base: 良い
-      position: 6
-    - word: こと
-      position: 8
-    - word: だ
-      position: 10
 - id: Sakurano Kino Shita-f000013
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -325,36 +94,6 @@
   sound_begin: 51080
   sound_end: 54840
   sentence: どうして俺が毎晩家へ帰って来る道で、
-  words:
-    - word: どう
-      position: 0
-    - word: し
-      base: 為る
-      position: 2
-    - word: て
-      position: 3
-    - word: 俺
-      position: 4
-    - word: が
-      position: 5
-    - word: 毎晩
-      position: 6
-    - word: 家
-      position: 8
-    - word: へ
-      position: 9
-    - word: 帰っ
-      base: 帰る
-      position: 10
-    - word: て
-      position: 12
-    - word: 来る
-      position: 13
-    - word: 道
-      position: 15
-    - word: で
-      base: だ
-      position: 16
 - id: Sakurano Kino Shita-f000014
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -363,29 +102,6 @@
   sound_begin: 54840
   sound_end: 57424
   sentence: 俺の部屋の数ある道具のうちの、
-  words:
-    - word: 俺
-      position: 0
-    - word: の
-      position: 1
-    - word: 部屋
-      position: 2
-    - word: の
-      position: 4
-    - word: 数
-      position: 5
-    - word: ある
-      base: 有る
-      position: 6
-    - word: 道具
-      position: 8
-    - word: の
-      position: 10
-    - word: うち
-      base: 内
-      position: 11
-    - word: の
-      position: 13
 - id: Sakurano Kino Shita-f000015
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -394,26 +110,6 @@
   sound_begin: 57424
   sound_end: 61200
   sentence: 選りに選ってちっぽけな薄っぺらいもの、
-  words:
-    - word: 選り
-      position: 0
-    - word: に
-      position: 2
-    - word: 選っ
-      base: 選る
-      position: 3
-    - word: て
-      position: 5
-    - word: ちっぽけ
-      position: 6
-    - word: な
-      base: だ
-      position: 10
-    - word: 薄っぺらい
-      position: 11
-    - word: もの
-      base: 物
-      position: 16
 - id: Sakurano Kino Shita-f000016
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -422,19 +118,6 @@
   sound_begin: 61200
   sound_end: 63480
   sentence: 安全剃刀の刃なんぞが、
-  words:
-    - word: 安全
-      position: 0
-    - word: 剃刀
-      position: 2
-    - word: の
-      position: 4
-    - word: 刃
-      position: 5
-    - word: なんぞ
-      position: 6
-    - word: が
-      position: 9
 - id: Sakurano Kino Shita-f000017
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -444,127 +127,6 @@
   sound_end: 79920
   sentence: >-
     千里眼のように思い浮かんで来るのか──おまえはそれがわからないと言ったが──そして俺にもやはりそれがわからないのだが──それもこれもやっぱり同じようなことにちがいない。
-  words:
-    - word: 千里
-      position: 0
-    - word: 眼
-      position: 2
-    - word: の
-      position: 3
-    - word: よう
-      base: 様
-      position: 4
-    - word: に
-      base: だ
-      position: 6
-    - word: 思い
-      base: 思う
-      position: 7
-    - word: 浮かん
-      base: 浮かぶ
-      position: 9
-    - word: で
-      position: 12
-    - word: 来る
-      position: 13
-    - word: の
-      position: 15
-    - word: か
-      position: 16
-    - word: ─
-      position: 17
-    - word: ─
-      position: 18
-    - word: おまえ
-      base: 御前
-      position: 19
-    - word: は
-      position: 22
-    - word: それ
-      base: 其れ
-      position: 23
-    - word: が
-      position: 25
-    - word: わから
-      base: 分かる
-      position: 26
-    - word: ない
-      position: 29
-    - word: と
-      position: 31
-    - word: 言っ
-      base: 言う
-      position: 32
-    - word: た
-      position: 34
-    - word: が
-      position: 35
-    - word: ─
-      position: 36
-    - word: ─
-      position: 37
-    - word: そして
-      position: 38
-    - word: 俺
-      position: 41
-    - word: に
-      position: 42
-    - word: も
-      position: 43
-    - word: やはり
-      base: 矢張り
-      position: 44
-    - word: それ
-      base: 其れ
-      position: 47
-    - word: が
-      position: 49
-    - word: わから
-      base: 分かる
-      position: 50
-    - word: ない
-      position: 53
-    - word: の
-      position: 55
-    - word: だ
-      position: 56
-    - word: が
-      position: 57
-    - word: ─
-      position: 58
-    - word: ─
-      position: 59
-    - word: それ
-      base: 其れ
-      position: 60
-    - word: も
-      position: 62
-    - word: これ
-      base: 此れ
-      position: 63
-    - word: も
-      position: 65
-    - word: やっぱり
-      base: 矢張り
-      position: 66
-    - word: 同じ
-      position: 70
-    - word: よう
-      base: 様
-      position: 72
-    - word: な
-      base: だ
-      position: 74
-    - word: こと
-      position: 75
-    - word: に
-      position: 77
-    - word: ちがい
-      base: 違い
-      position: 78
-    - word: ない
-      base: 無い
-      position: 81
 - id: Sakurano Kino Shita-f000018
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -573,22 +135,6 @@
   sound_begin: 82720
   sound_end: 84800
   sentence: いったいどんな樹の花でも、
-  words:
-    - word: いったい
-      base: 一体
-      position: 0
-    - word: どんな
-      position: 4
-    - word: 樹
-      position: 7
-    - word: の
-      position: 8
-    - word: 花
-      position: 9
-    - word: で
-      position: 10
-    - word: も
-      position: 11
 - id: Sakurano Kino Shita-f000019
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -597,25 +143,6 @@
   sound_begin: 84800
   sound_end: 88240
   sentence: いわゆる真っ盛りという状態に達すると、
-  words:
-    - word: いわゆる
-      base: 所謂
-      position: 0
-    - word: 真っ盛り
-      position: 4
-    - word: と
-      position: 8
-    - word: いう
-      base: 言う
-      position: 9
-    - word: 状態
-      position: 11
-    - word: に
-      position: 13
-    - word: 達する
-      position: 14
-    - word: と
-      position: 17
 - id: Sakurano Kino Shita-f000020
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -624,43 +151,6 @@
   sound_begin: 88240
   sound_end: 95160
   sentence: あたりの空気のなかへ一種神秘な雰囲気を撒き散らすものだ。
-  words:
-    - word: あたり
-      base: 辺り
-      position: 0
-    - word: の
-      position: 3
-    - word: 空気
-      position: 4
-    - word: の
-      position: 6
-    - word: なか
-      base: 中
-      position: 7
-    - word: へ
-      position: 9
-    - word: 一種
-      position: 10
-    - word: 神秘
-      position: 12
-    - word: な
-      base: だ
-      position: 14
-    - word: 雰囲気
-      position: 15
-    - word: を
-      position: 18
-    - word: 撒き
-      base: 撒く
-      position: 19
-    - word: 散らす
-      base: 散る
-      position: 21
-    - word: もの
-      base: 物
-      position: 24
-    - word: だ
-      position: 26
 - id: Sakurano Kino Shita-f000021
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -669,12 +159,6 @@
   sound_begin: 95160
   sound_end: 95920
   sentence: それは、
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: は
-      position: 2
 - id: Sakurano Kino Shita-f000022
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -683,36 +167,6 @@
   sound_begin: 95920
   sound_end: 100840
   sentence: よく廻った独楽が完全な静止に澄むように、
-  words:
-    - word: よく
-      base: 良く
-      position: 0
-    - word: 廻っ
-      base: 回る
-      position: 2
-    - word: た
-      position: 4
-    - word: 独楽
-      position: 5
-    - word: が
-      position: 7
-    - word: 完全
-      position: 8
-    - word: な
-      base: だ
-      position: 10
-    - word: 静止
-      position: 11
-    - word: に
-      position: 13
-    - word: 澄む
-      position: 14
-    - word: よう
-      base: 様
-      position: 16
-    - word: に
-      base: だ
-      position: 18
 - id: Sakurano Kino Shita-f000023
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -721,10 +175,6 @@
   sound_begin: 100840
   sound_end: 101560
   sentence: また、
-  words:
-    - word: また
-      base: 又
-      position: 0
 - id: Sakurano Kino Shita-f000024
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -733,44 +183,6 @@
   sound_begin: 101560
   sound_end: 106961
   sentence: 音楽の上手な演奏がきまってなにかの幻覚を伴うように、
-  words:
-    - word: 音楽
-      position: 0
-    - word: の
-      position: 2
-    - word: 上手
-      position: 3
-    - word: な
-      base: だ
-      position: 5
-    - word: 演奏
-      position: 6
-    - word: が
-      position: 8
-    - word: きまっ
-      base: 決まる
-      position: 9
-    - word: て
-      position: 12
-    - word: なに
-      base: 何
-      position: 13
-    - word: か
-      position: 15
-    - word: の
-      position: 16
-    - word: 幻覚
-      position: 17
-    - word: を
-      position: 19
-    - word: 伴う
-      position: 20
-    - word: よう
-      base: 様
-      position: 22
-    - word: に
-      base: だ
-      position: 24
 - id: Sakurano Kino Shita-f000025
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -779,40 +191,6 @@
   sound_begin: 106961
   sound_end: 113000
   sentence: 灼熱した生殖の幻覚させる後光のようなものだ。
-  words:
-    - word: 灼熱
-      position: 0
-    - word: し
-      base: 為る
-      position: 2
-    - word: た
-      position: 3
-    - word: 生殖
-      position: 4
-    - word: の
-      position: 6
-    - word: 幻覚
-      position: 7
-    - word: さ
-      base: 為る
-      position: 9
-    - word: せる
-      position: 10
-    - word: 後光
-      position: 12
-    - word: の
-      position: 14
-    - word: よう
-      base: 様
-      position: 15
-    - word: な
-      base: だ
-      position: 17
-    - word: もの
-      base: 物
-      position: 18
-    - word: だ
-      position: 20
 - id: Sakurano Kino Shita-f000026
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -821,35 +199,6 @@
   sound_begin: 113000
   sound_end: 116520
   sentence: それは人の心を撲たずにはおかない、
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: は
-      position: 2
-    - word: 人
-      position: 3
-    - word: の
-      position: 4
-    - word: 心
-      position: 5
-    - word: を
-      position: 6
-    - word: 撲た
-      base: 打つ
-      position: 7
-    - word: ず
-      position: 9
-    - word: に
-      position: 10
-    - word: は
-      position: 11
-    - word: お
-      base: 御
-      position: 12
-    - word: かない
-      base: かなう
-      position: 13
 - id: Sakurano Kino Shita-f000027
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -858,12 +207,6 @@
   sound_begin: 116520
   sound_end: 117520
   sentence: 不思議な、
-  words:
-    - word: 不思議
-      position: 0
-    - word: な
-      base: だ
-      position: 3
 - id: Sakurano Kino Shita-f000028
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -872,16 +215,6 @@
   sound_begin: 117520
   sound_end: 118680
   sentence: 生き生きとした、
-  words:
-    - word: 生き生き
-      position: 0
-    - word: と
-      position: 4
-    - word: し
-      base: 為る
-      position: 5
-    - word: た
-      position: 6
 - id: Sakurano Kino Shita-f000029
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -890,14 +223,6 @@
   sound_begin: 118680
   sound_end: 121360
   sentence: 美しさだ。
-  words:
-    - word: 美し
-      base: 美しい
-      position: 0
-    - word: さ
-      position: 2
-    - word: だ
-      position: 3
 - id: Sakurano Kino Shita-f000030
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -906,10 +231,6 @@
   sound_begin: 121360
   sound_end: 121960
   sentence: しかし、
-  words:
-    - word: しかし
-      base: 然し
-      position: 0
 - id: Sakurano Kino Shita-f000031
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -918,9 +239,6 @@
   sound_begin: 121960
   sound_end: 122920
   sentence: 昨日、
-  words:
-    - word: 昨日
-      position: 0
 - id: Sakurano Kino Shita-f000032
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -929,11 +247,6 @@
   sound_begin: 122920
   sound_end: 123920
   sentence: 一昨日、
-  words:
-    - word: 一昨
-      position: 0
-    - word: 日
-      position: 2
 - id: Sakurano Kino Shita-f000033
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -942,43 +255,6 @@
   sound_begin: 123920
   sound_end: 129080
   sentence: 俺の心をひどく陰気にしたものもそれなのだ。
-  words:
-    - word: 俺
-      position: 0
-    - word: の
-      position: 1
-    - word: 心
-      position: 2
-    - word: を
-      position: 3
-    - word: ひどく
-      base: 酷い
-      position: 4
-    - word: 陰気
-      position: 7
-    - word: に
-      base: だ
-      position: 9
-    - word: し
-      base: 為る
-      position: 10
-    - word: た
-      position: 11
-    - word: もの
-      base: 物
-      position: 12
-    - word: も
-      position: 14
-    - word: それ
-      base: 其れ
-      position: 15
-    - word: な
-      base: だ
-      position: 17
-    - word: の
-      position: 18
-    - word: だ
-      position: 19
 - id: Sakurano Kino Shita-f000034
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -987,56 +263,6 @@
   sound_begin: 129080
   sound_end: 135080
   sentence: 俺にはその美しさがなにか信じられないもののような気がした。
-  words:
-    - word: 俺
-      position: 0
-    - word: に
-      position: 1
-    - word: は
-      position: 2
-    - word: その
-      base: 其の
-      position: 3
-    - word: 美し
-      base: 美しい
-      position: 5
-    - word: さ
-      position: 7
-    - word: が
-      position: 8
-    - word: なに
-      base: 何
-      position: 9
-    - word: か
-      position: 11
-    - word: 信じ
-      base: 信ずる
-      position: 12
-    - word: られ
-      base: られる
-      position: 14
-    - word: ない
-      position: 16
-    - word: もの
-      base: 物
-      position: 18
-    - word: の
-      position: 20
-    - word: よう
-      base: 様
-      position: 21
-    - word: な
-      base: だ
-      position: 23
-    - word: 気
-      position: 24
-    - word: が
-      position: 25
-    - word: し
-      base: 為る
-      position: 26
-    - word: た
-      position: 27
 - id: Sakurano Kino Shita-f000035
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -1045,23 +271,6 @@
   sound_begin: 135080
   sound_end: 137458
   sentence: 俺は反対に不安になり、
-  words:
-    - word: 俺
-      position: 0
-    - word: は
-      position: 1
-    - word: 反対
-      position: 2
-    - word: に
-      position: 4
-    - word: 不安
-      position: 5
-    - word: に
-      base: だ
-      position: 7
-    - word: なり
-      base: 成る
-      position: 8
 - id: Sakurano Kino Shita-f000036
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -1070,15 +279,6 @@
   sound_begin: 137458
   sound_end: 138968
   sentence: 憂鬱になり、
-  words:
-    - word: 憂鬱
-      position: 0
-    - word: に
-      base: だ
-      position: 2
-    - word: なり
-      base: 成る
-      position: 3
 - id: Sakurano Kino Shita-f000037
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -1087,22 +287,6 @@
   sound_begin: 138968
   sound_end: 142440
   sentence: 空虚な気持になった。
-  words:
-    - word: 空虚
-      position: 0
-    - word: な
-      base: だ
-      position: 2
-    - word: 気持
-      base: 気持ち
-      position: 3
-    - word: に
-      position: 5
-    - word: なっ
-      base: 成る
-      position: 6
-    - word: た
-      position: 8
 - id: Sakurano Kino Shita-f000038
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -1111,10 +295,6 @@
   sound_begin: 142440
   sound_end: 143360
   sentence: しかし、
-  words:
-    - word: しかし
-      base: 然し
-      position: 0
 - id: Sakurano Kino Shita-f000039
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -1123,22 +303,6 @@
   sound_begin: 143360
   sound_end: 145340
   sentence: 俺はいまやっとわかった。
-  words:
-    - word: 俺
-      position: 0
-    - word: は
-      position: 1
-    - word: いま
-      base: 今
-      position: 2
-    - word: やっと
-      base: 漸と
-      position: 4
-    - word: わかっ
-      base: 分かる
-      position: 7
-    - word: た
-      position: 10
 - id: Sakurano Kino Shita-f000040
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -1147,10 +311,6 @@
   sound_begin: 147440
   sound_end: 147960
   sentence: おまえ、
-  words:
-    - word: おまえ
-      base: 御前
-      position: 0
 - id: Sakurano Kino Shita-f000041
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -1159,37 +319,6 @@
   sound_begin: 147960
   sound_end: 152360
   sentence: この爛漫と咲き乱れている桜の樹の下へ、
-  words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: 爛漫
-      position: 2
-    - word: と
-      position: 4
-    - word: 咲き
-      base: 咲く
-      position: 5
-    - word: 乱れ
-      base: 乱れる
-      position: 7
-    - word: て
-      position: 9
-    - word: いる
-      base: 居る
-      position: 10
-    - word: 桜
-      position: 12
-    - word: の
-      position: 13
-    - word: 樹
-      position: 14
-    - word: の
-      position: 15
-    - word: 下
-      position: 16
-    - word: へ
-      position: 17
 - id: Sakurano Kino Shita-f000042
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -1198,47 +327,6 @@
   sound_begin: 152360
   sound_end: 157680
   sentence: 一つ一つ屍体が埋まっていると想像してみるがいい。
-  words:
-    - word: 一
-      base: '1'
-      position: 0
-    - word: つ
-      position: 1
-    - word: 一
-      base: '1'
-      position: 2
-    - word: つ
-      position: 3
-    - word: 屍体
-      base: 死体
-      position: 4
-    - word: が
-      position: 6
-    - word: 埋まっ
-      base: 埋まる
-      position: 7
-    - word: て
-      position: 10
-    - word: いる
-      base: 居る
-      position: 11
-    - word: と
-      position: 13
-    - word: 想像
-      position: 14
-    - word: し
-      base: 為る
-      position: 16
-    - word: て
-      position: 17
-    - word: みる
-      base: 見る
-      position: 18
-    - word: が
-      position: 20
-    - word: いい
-      base: 良い
-      position: 21
 - id: Sakurano Kino Shita-f000043
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -1247,56 +335,6 @@
   sound_begin: 157680
   sound_end: 164600
   sentence: 何が俺をそんなに不安にしていたかがおまえには納得がいくだろう。
-  words:
-    - word: 何
-      position: 0
-    - word: が
-      position: 1
-    - word: 俺
-      position: 2
-    - word: を
-      position: 3
-    - word: そんな
-      position: 4
-    - word: に
-      base: だ
-      position: 7
-    - word: 不安
-      position: 8
-    - word: に
-      base: だ
-      position: 10
-    - word: し
-      base: 為る
-      position: 11
-    - word: て
-      position: 12
-    - word: い
-      base: 居る
-      position: 13
-    - word: た
-      position: 14
-    - word: か
-      position: 15
-    - word: が
-      position: 16
-    - word: おまえ
-      base: 御前
-      position: 17
-    - word: に
-      position: 20
-    - word: は
-      position: 21
-    - word: 納得
-      position: 22
-    - word: が
-      position: 24
-    - word: いく
-      base: 行く
-      position: 25
-    - word: だろう
-      base: だ
-      position: 27
 - id: Sakurano Kino Shita-f000044
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -1305,20 +343,6 @@
   sound_begin: 164600
   sound_end: 166400
   sentence: 馬のような屍体、
-  words:
-    - word: 馬
-      position: 0
-    - word: の
-      position: 1
-    - word: よう
-      base: 様
-      position: 2
-    - word: な
-      base: だ
-      position: 4
-    - word: 屍体
-      base: 死体
-      position: 5
 - id: Sakurano Kino Shita-f000045
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -1327,20 +351,6 @@
   sound_begin: 166400
   sound_end: 168640
   sentence: 犬猫のような屍体、
-  words:
-    - word: 犬猫
-      position: 0
-    - word: の
-      position: 2
-    - word: よう
-      base: 様
-      position: 3
-    - word: な
-      base: だ
-      position: 5
-    - word: 屍体
-      base: 死体
-      position: 6
 - id: Sakurano Kino Shita-f000046
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -1349,22 +359,6 @@
   sound_begin: 168640
   sound_end: 172560
   sentence: そして人間のような屍体、
-  words:
-    - word: そして
-      position: 0
-    - word: 人間
-      position: 3
-    - word: の
-      position: 5
-    - word: よう
-      base: 様
-      position: 6
-    - word: な
-      base: だ
-      position: 8
-    - word: 屍体
-      base: 死体
-      position: 9
 - id: Sakurano Kino Shita-f000047
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -1373,30 +367,6 @@
   sound_begin: 172560
   sound_end: 175160
   sentence: 屍体はみな腐爛して蛆が湧き、
-  words:
-    - word: 屍体
-      base: 死体
-      position: 0
-    - word: は
-      position: 2
-    - word: みな
-      base: 皆
-      position: 3
-    - word: 腐爛
-      base: 腐乱
-      position: 5
-    - word: し
-      base: 為る
-      position: 7
-    - word: て
-      position: 8
-    - word: 蛆
-      position: 9
-    - word: が
-      position: 10
-    - word: 湧き
-      base: 湧く
-      position: 11
 - id: Sakurano Kino Shita-f000048
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -1405,15 +375,6 @@
   sound_begin: 175160
   sound_end: 177440
   sentence: 堪らなく臭い。
-  words:
-    - word: 堪ら
-      base: 堪る
-      position: 0
-    - word: なく
-      base: ない
-      position: 2
-    - word: 臭い
-      position: 4
 - id: Sakurano Kino Shita-f000049
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -1422,44 +383,6 @@
   sound_begin: 177440
   sound_end: 183280
   sentence: それでいて水晶のような液をたらたらとたらしている。
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: で
-      base: だ
-      position: 2
-    - word: い
-      base: 居る
-      position: 3
-    - word: て
-      position: 4
-    - word: 水晶
-      position: 5
-    - word: の
-      position: 7
-    - word: よう
-      base: 様
-      position: 8
-    - word: な
-      base: だ
-      position: 10
-    - word: 液
-      position: 11
-    - word: を
-      position: 12
-    - word: たらたら
-      position: 13
-    - word: と
-      position: 17
-    - word: たらし
-      base: たらす
-      position: 18
-    - word: て
-      position: 21
-    - word: いる
-      base: 居る
-      position: 22
 - id: Sakurano Kino Shita-f000050
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -1468,30 +391,6 @@
   sound_begin: 183280
   sound_end: 186360
   sentence: 桜の根は貪婪な蛸のように、
-  words:
-    - word: 桜
-      position: 0
-    - word: の
-      position: 1
-    - word: 根
-      position: 2
-    - word: は
-      position: 3
-    - word: 貪婪
-      position: 4
-    - word: な
-      base: だ
-      position: 6
-    - word: 蛸
-      position: 7
-    - word: の
-      position: 8
-    - word: よう
-      base: 様
-      position: 9
-    - word: に
-      base: だ
-      position: 11
 - id: Sakurano Kino Shita-f000051
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -1500,18 +399,6 @@
   sound_begin: 186360
   sound_end: 188120
   sentence: それを抱きかかえ、
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: を
-      position: 2
-    - word: 抱き
-      base: 抱く
-      position: 3
-    - word: かかえ
-      base: 抱える
-      position: 5
 - id: Sakurano Kino Shita-f000052
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -1520,33 +407,6 @@
   sound_begin: 188120
   sound_end: 191440
   sentence: いそぎんちゃくの食糸のような毛根を聚めて、
-  words:
-    - word: いそぎんちゃく
-      base: 磯巾着
-      position: 0
-    - word: の
-      position: 7
-    - word: 食
-      position: 8
-    - word: 糸
-      position: 9
-    - word: の
-      position: 10
-    - word: よう
-      base: 様
-      position: 11
-    - word: な
-      base: だ
-      position: 13
-    - word: 毛根
-      position: 14
-    - word: を
-      position: 16
-    - word: 聚め
-      base: 集める
-      position: 17
-    - word: て
-      position: 19
 - id: Sakurano Kino Shita-f000053
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -1555,22 +415,6 @@
   sound_begin: 191440
   sound_end: 193300
   sentence: その液体を吸っている。
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 液体
-      position: 2
-    - word: を
-      position: 4
-    - word: 吸っ
-      base: 吸う
-      position: 5
-    - word: て
-      position: 7
-    - word: いる
-      base: 居る
-      position: 8
 - id: Sakurano Kino Shita-f000054
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -1579,20 +423,6 @@
   sound_begin: 195400
   sound_end: 197520
   sentence: 何があんな花弁を作り、
-  words:
-    - word: 何
-      position: 0
-    - word: が
-      position: 1
-    - word: あんな
-      position: 2
-    - word: 花弁
-      position: 5
-    - word: を
-      position: 7
-    - word: 作り
-      base: 作る
-      position: 8
 - id: Sakurano Kino Shita-f000055
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -1601,29 +431,6 @@
   sound_begin: 197520
   sound_end: 200494
   sentence: 何があんな蕊を作っているのか、
-  words:
-    - word: 何
-      position: 0
-    - word: が
-      position: 1
-    - word: あんな
-      position: 2
-    - word: 蕊
-      position: 5
-    - word: を
-      position: 6
-    - word: 作っ
-      base: 作る
-      position: 7
-    - word: て
-      position: 9
-    - word: いる
-      base: 居る
-      position: 10
-    - word: の
-      position: 12
-    - word: か
-      position: 13
 - id: Sakurano Kino Shita-f000056
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -1632,35 +439,6 @@
   sound_begin: 200494
   sound_end: 203880
   sentence: 俺は毛根の吸いあげる水晶のような液が、
-  words:
-    - word: 俺
-      position: 0
-    - word: は
-      position: 1
-    - word: 毛根
-      position: 2
-    - word: の
-      position: 4
-    - word: 吸い
-      base: 吸う
-      position: 5
-    - word: あげる
-      base: 上げる
-      position: 7
-    - word: 水晶
-      position: 10
-    - word: の
-      position: 12
-    - word: よう
-      base: 様
-      position: 13
-    - word: な
-      base: だ
-      position: 15
-    - word: 液
-      position: 16
-    - word: が
-      position: 17
 - id: Sakurano Kino Shita-f000057
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -1669,21 +447,6 @@
   sound_begin: 203880
   sound_end: 206160
   sentence: 静かな行列を作って、
-  words:
-    - word: 静か
-      position: 0
-    - word: な
-      base: だ
-      position: 2
-    - word: 行列
-      position: 3
-    - word: を
-      position: 5
-    - word: 作っ
-      base: 作る
-      position: 6
-    - word: て
-      position: 8
 - id: Sakurano Kino Shita-f000058
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -1692,47 +455,6 @@
   sound_begin: 206160
   sound_end: 210640
   sentence: 維管束のなかを夢のようにあがってゆくのが見えるようだ。
-  words:
-    - word: 維管
-      position: 0
-    - word: 束
-      position: 2
-    - word: の
-      position: 3
-    - word: なか
-      base: 中
-      position: 4
-    - word: を
-      position: 6
-    - word: 夢
-      position: 7
-    - word: の
-      position: 8
-    - word: よう
-      base: 様
-      position: 9
-    - word: に
-      base: だ
-      position: 11
-    - word: あがっ
-      base: 上がる
-      position: 12
-    - word: て
-      position: 15
-    - word: ゆく
-      base: 行く
-      position: 16
-    - word: の
-      position: 18
-    - word: が
-      position: 19
-    - word: 見える
-      position: 20
-    - word: よう
-      base: 様
-      position: 23
-    - word: だ
-      position: 25
 - id: Sakurano Kino Shita-f000059
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -1741,46 +463,6 @@
   sound_begin: 213940
   sound_end: 218440
   sentence: ──おまえは何をそう苦しそうな顔をしているのだ。
-  words:
-    - word: ─
-      position: 0
-    - word: ─
-      position: 1
-    - word: おまえ
-      base: 御前
-      position: 2
-    - word: は
-      position: 5
-    - word: 何
-      position: 6
-    - word: を
-      position: 7
-    - word: そう
-      position: 8
-    - word: 苦し
-      base: 苦しい
-      position: 10
-    - word: そう
-      position: 12
-    - word: な
-      base: だ
-      position: 14
-    - word: 顔
-      position: 15
-    - word: を
-      position: 16
-    - word: し
-      base: 為る
-      position: 17
-    - word: て
-      position: 18
-    - word: いる
-      base: 居る
-      position: 19
-    - word: の
-      position: 21
-    - word: だ
-      position: 22
 - id: Sakurano Kino Shita-f000060
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -1789,21 +471,6 @@
   sound_begin: 218440
   sound_end: 221960
   sentence: 美しい透視術じゃないか。
-  words:
-    - word: 美しい
-      position: 0
-    - word: 透視
-      position: 3
-    - word: 術
-      position: 5
-    - word: じゃ
-      base: だ
-      position: 6
-    - word: ない
-      base: 無い
-      position: 8
-    - word: か
-      position: 10
 - id: Sakurano Kino Shita-f000061
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -1812,54 +479,6 @@
   sound_begin: 221960
   sound_end: 229002
   sentence: 俺はいまようやく瞳を据えて桜の花が見られるようになったのだ。
-  words:
-    - word: 俺
-      position: 0
-    - word: は
-      position: 1
-    - word: いま
-      base: 今
-      position: 2
-    - word: ようやく
-      base: 漸く
-      position: 4
-    - word: 瞳
-      position: 8
-    - word: を
-      position: 9
-    - word: 据え
-      base: 据える
-      position: 10
-    - word: て
-      position: 12
-    - word: 桜
-      position: 13
-    - word: の
-      position: 14
-    - word: 花
-      position: 15
-    - word: が
-      position: 16
-    - word: 見
-      base: 見る
-      position: 17
-    - word: られる
-      position: 18
-    - word: よう
-      base: 様
-      position: 21
-    - word: に
-      base: だ
-      position: 23
-    - word: なっ
-      base: 成る
-      position: 24
-    - word: た
-      position: 26
-    - word: の
-      position: 27
-    - word: だ
-      position: 28
 - id: Sakurano Kino Shita-f000062
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -1868,9 +487,6 @@
   sound_begin: 229002
   sound_end: 229680
   sentence: 昨日、
-  words:
-    - word: 昨日
-      position: 0
 - id: Sakurano Kino Shita-f000063
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -1879,11 +495,6 @@
   sound_begin: 229680
   sound_end: 230400
   sentence: 一昨日、
-  words:
-    - word: 一昨
-      position: 0
-    - word: 日
-      position: 2
 - id: Sakurano Kino Shita-f000064
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -1892,39 +503,6 @@
   sound_begin: 230400
   sound_end: 237520
   sentence: 俺を不安がらせた神秘から自由になったのだ。
-  words:
-    - word: 俺
-      position: 0
-    - word: を
-      position: 1
-    - word: 不安
-      position: 2
-    - word: がら
-      base: がる
-      position: 4
-    - word: せ
-      base: せる
-      position: 6
-    - word: た
-      position: 7
-    - word: 神秘
-      position: 8
-    - word: から
-      position: 10
-    - word: 自由
-      position: 12
-    - word: に
-      base: だ
-      position: 14
-    - word: なっ
-      base: 成る
-      position: 15
-    - word: た
-      position: 17
-    - word: の
-      position: 18
-    - word: だ
-      position: 19
 - id: Sakurano Kino Shita-f000065
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -1933,14 +511,6 @@
   sound_begin: 237520
   sound_end: 239160
   sentence: 二三日前、
-  words:
-    - word: 二三
-      base: '23'
-      position: 0
-    - word: 日
-      position: 2
-    - word: 前
-      position: 3
 - id: Sakurano Kino Shita-f000066
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -1949,11 +519,6 @@
   sound_begin: 239160
   sound_end: 239600
   sentence: 俺は、
-  words:
-    - word: 俺
-      position: 0
-    - word: は
-      position: 1
 - id: Sakurano Kino Shita-f000067
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -1962,21 +527,6 @@
   sound_begin: 239600
   sound_end: 241720
   sentence: ここの溪へ下りて、
-  words:
-    - word: ここ
-      base: 此処
-      position: 0
-    - word: の
-      position: 2
-    - word: 溪
-      position: 3
-    - word: へ
-      position: 4
-    - word: 下り
-      base: 下りる
-      position: 5
-    - word: て
-      position: 7
 - id: Sakurano Kino Shita-f000068
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -1985,31 +535,6 @@
   sound_begin: 241720
   sound_end: 245440
   sentence: 石の上を伝い歩きしていた。
-  words:
-    - word: 石
-      position: 0
-    - word: の
-      position: 1
-    - word: 上
-      position: 2
-    - word: を
-      position: 3
-    - word: 伝い
-      base: 伝う
-      position: 4
-    - word: 歩き
-      base: 歩く
-      position: 6
-    - word: し
-      base: 為る
-      position: 8
-    - word: て
-      position: 9
-    - word: い
-      base: 居る
-      position: 10
-    - word: た
-      position: 11
 - id: Sakurano Kino Shita-f000069
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -2018,23 +543,6 @@
   sound_begin: 245440
   sound_end: 247560
   sentence: 水のしぶきのなかからは、
-  words:
-    - word: 水
-      position: 0
-    - word: の
-      position: 1
-    - word: しぶき
-      base: 飛沫
-      position: 2
-    - word: の
-      position: 5
-    - word: なか
-      base: 中
-      position: 6
-    - word: から
-      position: 8
-    - word: は
-      position: 10
 - id: Sakurano Kino Shita-f000070
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -2043,21 +551,6 @@
   sound_begin: 247560
   sound_end: 249720
   sentence: あちらからもこちらからも、
-  words:
-    - word: あちら
-      base: 彼方
-      position: 0
-    - word: から
-      position: 3
-    - word: も
-      position: 5
-    - word: こちら
-      base: 此方
-      position: 6
-    - word: から
-      position: 9
-    - word: も
-      position: 11
 - id: Sakurano Kino Shita-f000071
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -2066,33 +559,6 @@
   sound_begin: 249720
   sound_end: 253680
   sentence: 薄羽かげろうがアフロディットのように生まれて来て、
-  words:
-    - word: 薄羽
-      position: 0
-    - word: かげろう
-      position: 2
-    - word: が
-      position: 6
-    - word: アフロディット
-      position: 7
-    - word: の
-      position: 14
-    - word: よう
-      base: 様
-      position: 15
-    - word: に
-      base: だ
-      position: 17
-    - word: 生まれ
-      base: 生まれる
-      position: 18
-    - word: て
-      position: 21
-    - word: 来
-      base: 来る
-      position: 22
-    - word: て
-      position: 23
 - id: Sakurano Kino Shita-f000072
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -2101,40 +567,6 @@
   sound_begin: 253680
   sound_end: 259000
   sentence: 溪の空をめがけて舞い上がってゆくのが見えた。
-  words:
-    - word: 溪
-      position: 0
-    - word: の
-      position: 1
-    - word: 空
-      position: 2
-    - word: を
-      position: 3
-    - word: めがけ
-      base: 目掛ける
-      position: 4
-    - word: て
-      position: 7
-    - word: 舞い
-      base: 舞う
-      position: 8
-    - word: 上がっ
-      base: 上がる
-      position: 10
-    - word: て
-      position: 13
-    - word: ゆく
-      base: 行く
-      position: 14
-    - word: の
-      position: 16
-    - word: が
-      position: 17
-    - word: 見え
-      base: 見える
-      position: 18
-    - word: た
-      position: 20
 - id: Sakurano Kino Shita-f000073
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -2143,23 +575,6 @@
   sound_begin: 259000
   sound_end: 260560
   sentence: おまえも知っているとおり、
-  words:
-    - word: おまえ
-      base: 御前
-      position: 0
-    - word: も
-      position: 3
-    - word: 知っ
-      base: 知る
-      position: 4
-    - word: て
-      position: 6
-    - word: いる
-      base: 居る
-      position: 7
-    - word: とおり
-      base: 通り
-      position: 9
 - id: Sakurano Kino Shita-f000074
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -2168,32 +583,6 @@
   sound_begin: 260560
   sound_end: 267360
   sentence: 彼らはそこで美しい結婚をするのだ。
-  words:
-    - word: 彼
-      position: 0
-    - word: ら
-      base: 等
-      position: 1
-    - word: は
-      position: 2
-    - word: そこ
-      base: 其処
-      position: 3
-    - word: で
-      position: 5
-    - word: 美しい
-      position: 6
-    - word: 結婚
-      position: 9
-    - word: を
-      position: 11
-    - word: する
-      base: 為る
-      position: 12
-    - word: の
-      position: 14
-    - word: だ
-      position: 15
 - id: Sakurano Kino Shita-f000075
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -2202,20 +591,6 @@
   sound_begin: 267360
   sound_end: 269320
   sentence: しばらく歩いていると、
-  words:
-    - word: しばらく
-      base: 暫く
-      position: 0
-    - word: 歩い
-      base: 歩く
-      position: 4
-    - word: て
-      position: 6
-    - word: いる
-      base: 居る
-      position: 7
-    - word: と
-      position: 9
 - id: Sakurano Kino Shita-f000076
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -2224,26 +599,6 @@
   sound_begin: 269320
   sound_end: 272120
   sentence: 俺は変なものに出喰わした。
-  words:
-    - word: 俺
-      position: 0
-    - word: は
-      position: 1
-    - word: 変
-      position: 2
-    - word: な
-      base: だ
-      position: 3
-    - word: もの
-      base: 物
-      position: 4
-    - word: に
-      position: 6
-    - word: 出喰わし
-      base: 出会す
-      position: 7
-    - word: た
-      position: 11
 - id: Sakurano Kino Shita-f000077
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -2252,30 +607,6 @@
   sound_begin: 272120
   sound_end: 275360
   sentence: それは溪の水が乾いた磧へ、
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: は
-      position: 2
-    - word: 溪
-      position: 3
-    - word: の
-      position: 4
-    - word: 水
-      position: 5
-    - word: が
-      position: 6
-    - word: 乾い
-      base: 乾く
-      position: 7
-    - word: た
-      position: 9
-    - word: 磧
-      base: 川原
-      position: 10
-    - word: へ
-      position: 11
 - id: Sakurano Kino Shita-f000078
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -2284,22 +615,6 @@
   sound_begin: 275360
   sound_end: 278120
   sentence: 小さい水溜を残している、
-  words:
-    - word: 小さい
-      position: 0
-    - word: 水溜
-      base: 水溜まり
-      position: 3
-    - word: を
-      position: 5
-    - word: 残し
-      base: 残す
-      position: 6
-    - word: て
-      position: 8
-    - word: いる
-      base: 居る
-      position: 9
 - id: Sakurano Kino Shita-f000079
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -2308,22 +623,6 @@
   sound_begin: 278120
   sound_end: 280960
   sentence: その水のなかだった。
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 水
-      position: 2
-    - word: の
-      position: 3
-    - word: なか
-      base: 中
-      position: 4
-    - word: だっ
-      base: だ
-      position: 6
-    - word: た
-      position: 8
 - id: Sakurano Kino Shita-f000080
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -2332,34 +631,6 @@
   sound_begin: 280960
   sound_end: 284880
   sentence: 思いがけない石油を流したような光彩が、
-  words:
-    - word: 思い
-      base: 思う
-      position: 0
-    - word: がけ
-      base: 掛ける
-      position: 2
-    - word: ない
-      position: 4
-    - word: 石油
-      position: 6
-    - word: を
-      position: 8
-    - word: 流し
-      base: 流す
-      position: 9
-    - word: た
-      position: 11
-    - word: よう
-      base: 様
-      position: 12
-    - word: な
-      base: だ
-      position: 14
-    - word: 光彩
-      position: 15
-    - word: が
-      position: 17
 - id: Sakurano Kino Shita-f000081
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -2368,23 +639,6 @@
   sound_begin: 284880
   sound_end: 288320
   sentence: 一面に浮いているのだ。
-  words:
-    - word: 一面
-      position: 0
-    - word: に
-      position: 2
-    - word: 浮い
-      base: 浮く
-      position: 3
-    - word: て
-      position: 5
-    - word: いる
-      base: 居る
-      position: 6
-    - word: の
-      position: 8
-    - word: だ
-      position: 9
 - id: Sakurano Kino Shita-f000082
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -2393,28 +647,6 @@
   sound_begin: 288320
   sound_end: 292440
   sentence: おまえはそれを何だったと思う。
-  words:
-    - word: おまえ
-      base: 御前
-      position: 0
-    - word: は
-      position: 3
-    - word: それ
-      base: 其れ
-      position: 4
-    - word: を
-      position: 6
-    - word: 何
-      position: 7
-    - word: だっ
-      base: だ
-      position: 8
-    - word: た
-      position: 10
-    - word: と
-      position: 11
-    - word: 思う
-      position: 12
 - id: Sakurano Kino Shita-f000083
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -2423,28 +655,6 @@
   sound_begin: 292440
   sound_end: 296280
   sentence: それは何万匹とも数の知れない、
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: は
-      position: 2
-    - word: 何万
-      position: 3
-    - word: 匹
-      position: 5
-    - word: とも
-      base: 共
-      position: 6
-    - word: 数
-      position: 8
-    - word: の
-      position: 9
-    - word: 知れ
-      base: 知る
-      position: 10
-    - word: ない
-      position: 12
 - id: Sakurano Kino Shita-f000084
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -2453,25 +663,6 @@
   sound_begin: 296280
   sound_end: 299840
   sentence: 薄羽かげろうの屍体だったのだ。
-  words:
-    - word: 薄羽
-      position: 0
-    - word: かげろう
-      position: 2
-    - word: の
-      position: 6
-    - word: 屍体
-      base: 死体
-      position: 7
-    - word: だっ
-      base: だ
-      position: 9
-    - word: た
-      position: 11
-    - word: の
-      position: 12
-    - word: だ
-      position: 13
 - id: Sakurano Kino Shita-f000085
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -2480,28 +671,6 @@
   sound_begin: 299840
   sound_end: 302400
   sentence: 隙間なく水の面を被っている、
-  words:
-    - word: 隙間
-      position: 0
-    - word: なく
-      base: 無い
-      position: 2
-    - word: 水
-      position: 4
-    - word: の
-      position: 5
-    - word: 面
-      position: 6
-    - word: を
-      position: 7
-    - word: 被っ
-      base: 被る
-      position: 8
-    - word: て
-      position: 10
-    - word: いる
-      base: 居る
-      position: 11
 - id: Sakurano Kino Shita-f000086
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -2510,27 +679,6 @@
   sound_begin: 302400
   sound_end: 305160
   sentence: 彼らのかさなりあった翅が、
-  words:
-    - word: 彼
-      position: 0
-    - word: ら
-      base: 等
-      position: 1
-    - word: の
-      position: 2
-    - word: かさなり
-      base: 重なる
-      position: 3
-    - word: あっ
-      base: あう
-      position: 7
-    - word: た
-      position: 9
-    - word: 翅
-      base: 羽根
-      position: 10
-    - word: が
-      position: 11
 - id: Sakurano Kino Shita-f000087
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -2539,42 +687,6 @@
   sound_begin: 305160
   sound_end: 310640
   sentence: 光にちぢれて油のような光彩を流しているのだ。
-  words:
-    - word: 光
-      position: 0
-    - word: に
-      position: 1
-    - word: ちぢれ
-      base: 縮れる
-      position: 2
-    - word: て
-      position: 5
-    - word: 油
-      position: 6
-    - word: の
-      position: 7
-    - word: よう
-      base: 様
-      position: 8
-    - word: な
-      base: だ
-      position: 10
-    - word: 光彩
-      position: 11
-    - word: を
-      position: 13
-    - word: 流し
-      base: 流す
-      position: 14
-    - word: て
-      position: 16
-    - word: いる
-      base: 居る
-      position: 17
-    - word: の
-      position: 19
-    - word: だ
-      position: 20
 - id: Sakurano Kino Shita-f000088
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -2583,12 +695,6 @@
   sound_begin: 310640
   sound_end: 311680
   sentence: そこが、
-  words:
-    - word: そこ
-      base: 其処
-      position: 0
-    - word: が
-      position: 2
 - id: Sakurano Kino Shita-f000089
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -2597,34 +703,6 @@
   sound_begin: 311680
   sound_end: 317920
   sentence: 産卵を終わった彼らの墓場だったのだ。
-  words:
-    - word: 産卵
-      position: 0
-    - word: を
-      position: 2
-    - word: 終わっ
-      base: 終わる
-      position: 3
-    - word: た
-      position: 6
-    - word: 彼
-      position: 7
-    - word: ら
-      base: 等
-      position: 8
-    - word: の
-      position: 9
-    - word: 墓場
-      position: 10
-    - word: だっ
-      base: だ
-      position: 12
-    - word: た
-      position: 14
-    - word: の
-      position: 15
-    - word: だ
-      position: 16
 - id: Sakurano Kino Shita-f000090
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -2633,24 +711,6 @@
   sound_begin: 317920
   sound_end: 319880
   sentence: 俺はそれを見たとき、
-  words:
-    - word: 俺
-      position: 0
-    - word: は
-      position: 1
-    - word: それ
-      base: 其れ
-      position: 2
-    - word: を
-      position: 4
-    - word: 見
-      base: 見る
-      position: 5
-    - word: た
-      position: 6
-    - word: とき
-      base: 時
-      position: 7
 - id: Sakurano Kino Shita-f000091
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -2659,31 +719,6 @@
   sound_begin: 319880
   sound_end: 324120
   sentence: 胸が衝かれるような気がした。
-  words:
-    - word: 胸
-      position: 0
-    - word: が
-      position: 1
-    - word: 衝か
-      base: 突く
-      position: 2
-    - word: れる
-      position: 4
-    - word: よう
-      base: 様
-      position: 6
-    - word: な
-      base: だ
-      position: 8
-    - word: 気
-      position: 9
-    - word: が
-      position: 10
-    - word: し
-      base: 為る
-      position: 11
-    - word: た
-      position: 12
 - id: Sakurano Kino Shita-f000092
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -2692,54 +727,6 @@
   sound_begin: 324120
   sound_end: 333308
   sentence: 墓場を発いて屍体を嗜む変質者のような残忍なよろこびを俺は味わった。
-  words:
-    - word: 墓場
-      position: 0
-    - word: を
-      position: 2
-    - word: 発い
-      base: 暴く
-      position: 3
-    - word: て
-      position: 5
-    - word: 屍体
-      base: 死体
-      position: 6
-    - word: を
-      position: 8
-    - word: 嗜む
-      position: 9
-    - word: 変質
-      position: 11
-    - word: 者
-      position: 13
-    - word: の
-      position: 14
-    - word: よう
-      base: 様
-      position: 15
-    - word: な
-      base: だ
-      position: 17
-    - word: 残忍
-      position: 18
-    - word: な
-      base: だ
-      position: 20
-    - word: よろこび
-      base: 喜び
-      position: 21
-    - word: を
-      position: 25
-    - word: 俺
-      position: 26
-    - word: は
-      position: 27
-    - word: 味わっ
-      base: 味わう
-      position: 28
-    - word: た
-      position: 31
 - id: Sakurano Kino Shita-f000093
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -2748,39 +735,6 @@
   sound_begin: 333308
   sound_end: 337964
   sentence: この溪間ではなにも俺をよろこばすものはない。
-  words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: 溪間
-      position: 2
-    - word: で
-      position: 4
-    - word: は
-      position: 5
-    - word: なに
-      base: 何
-      position: 6
-    - word: も
-      position: 8
-    - word: 俺
-      position: 9
-    - word: を
-      position: 10
-    - word: よろこば
-      base: 喜ぶ
-      position: 11
-    - word: す
-      base: せる
-      position: 15
-    - word: もの
-      base: 物
-      position: 16
-    - word: は
-      position: 18
-    - word: ない
-      base: 無い
-      position: 19
 - id: Sakurano Kino Shita-f000094
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -2789,15 +743,6 @@
   sound_begin: 337961
   sound_end: 339920
   sentence: 鶯や四十雀も、
-  words:
-    - word: 鶯
-      position: 0
-    - word: や
-      position: 1
-    - word: 四十雀
-      position: 2
-    - word: も
-      position: 5
 - id: Sakurano Kino Shita-f000095
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -2806,37 +751,6 @@
   sound_begin: 339920
   sound_end: 344613
   sentence: 白い日光をさ青に煙らせている木の若芽も、
-  words:
-    - word: 白い
-      position: 0
-    - word: 日光
-      position: 2
-    - word: を
-      position: 4
-    - word: さ青
-      position: 5
-    - word: に
-      base: だ
-      position: 7
-    - word: 煙ら
-      base: 煙る
-      position: 8
-    - word: せ
-      base: せる
-      position: 10
-    - word: て
-      position: 11
-    - word: いる
-      base: 居る
-      position: 12
-    - word: 木
-      position: 14
-    - word: の
-      position: 15
-    - word: 若芽
-      position: 16
-    - word: も
-      position: 18
 - id: Sakurano Kino Shita-f000096
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -2845,19 +759,6 @@
   sound_begin: 344613
   sound_end: 346360
   sentence: ただそれだけでは、
-  words:
-    - word: ただ
-      base: 唯
-      position: 0
-    - word: それ
-      base: 其れ
-      position: 2
-    - word: だけ
-      position: 4
-    - word: で
-      position: 6
-    - word: は
-      position: 7
 - id: Sakurano Kino Shita-f000097
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -2866,26 +767,6 @@
   sound_begin: 346360
   sound_end: 350040
   sentence: もうろうとした心象に過ぎない。
-  words:
-    - word: もうろう
-      base: 朦朧
-      position: 0
-    - word: と
-      position: 4
-    - word: し
-      base: 為る
-      position: 5
-    - word: た
-      position: 6
-    - word: 心象
-      position: 7
-    - word: に
-      position: 9
-    - word: 過ぎ
-      base: 過ぎる
-      position: 10
-    - word: ない
-      position: 12
 - id: Sakurano Kino Shita-f000098
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -2894,27 +775,6 @@
   sound_begin: 350040
   sound_end: 353360
   sentence: 俺には惨劇が必要なんだ。
-  words:
-    - word: 俺
-      position: 0
-    - word: に
-      position: 1
-    - word: は
-      position: 2
-    - word: 惨劇
-      position: 3
-    - word: が
-      position: 5
-    - word: 必要
-      position: 6
-    - word: な
-      base: だ
-      position: 8
-    - word: ん
-      base: の
-      position: 9
-    - word: だ
-      position: 10
 - id: Sakurano Kino Shita-f000099
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -2923,19 +783,6 @@
   sound_begin: 353360
   sound_end: 355160
   sentence: その平衡があって、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 平衡
-      position: 2
-    - word: が
-      position: 4
-    - word: あっ
-      base: 有る
-      position: 5
-    - word: て
-      position: 7
 - id: Sakurano Kino Shita-f000100
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -2944,30 +791,6 @@
   sound_begin: 355160
   sound_end: 359880
   sentence: はじめて俺の心象は明確になって来る。
-  words:
-    - word: はじめて
-      base: 初めて
-      position: 0
-    - word: 俺
-      position: 4
-    - word: の
-      position: 5
-    - word: 心象
-      position: 6
-    - word: は
-      position: 8
-    - word: 明確
-      position: 9
-    - word: に
-      base: だ
-      position: 11
-    - word: なっ
-      base: 成る
-      position: 12
-    - word: て
-      position: 14
-    - word: 来る
-      position: 15
 - id: Sakurano Kino Shita-f000101
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -2976,38 +799,6 @@
   sound_begin: 359880
   sound_end: 364840
   sentence: 俺の心は悪鬼のように憂鬱に渇いている。
-  words:
-    - word: 俺
-      position: 0
-    - word: の
-      position: 1
-    - word: 心
-      position: 2
-    - word: は
-      position: 3
-    - word: 悪鬼
-      position: 4
-    - word: の
-      position: 6
-    - word: よう
-      base: 様
-      position: 7
-    - word: に
-      base: だ
-      position: 9
-    - word: 憂鬱
-      position: 10
-    - word: に
-      base: だ
-      position: 12
-    - word: 渇い
-      base: 乾く
-      position: 13
-    - word: て
-      position: 15
-    - word: いる
-      base: 居る
-      position: 16
 - id: Sakurano Kino Shita-f000102
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -3016,31 +807,6 @@
   sound_begin: 364840
   sound_end: 368960
   sentence: 俺の心に憂鬱が完成するときにばかり、
-  words:
-    - word: 俺
-      position: 0
-    - word: の
-      position: 1
-    - word: 心
-      position: 2
-    - word: に
-      position: 3
-    - word: 憂鬱
-      position: 4
-    - word: が
-      position: 6
-    - word: 完成
-      position: 7
-    - word: する
-      base: 為る
-      position: 9
-    - word: とき
-      base: 時
-      position: 11
-    - word: に
-      position: 13
-    - word: ばかり
-      position: 14
 - id: Sakurano Kino Shita-f000103
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -3049,23 +815,6 @@
   sound_begin: 368960
   sound_end: 370880
   sentence: 俺の心は和んでくる。
-  words:
-    - word: 俺
-      position: 0
-    - word: の
-      position: 1
-    - word: 心
-      position: 2
-    - word: は
-      position: 3
-    - word: 和ん
-      base: 和む
-      position: 4
-    - word: で
-      position: 6
-    - word: くる
-      base: 来る
-      position: 7
 - id: Sakurano Kino Shita-f000104
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -3074,31 +823,6 @@
   sound_begin: 374680
   sound_end: 378640
   sentence: ──おまえは腋の下を拭いているね。
-  words:
-    - word: ─
-      position: 0
-    - word: ─
-      position: 1
-    - word: おまえ
-      base: 御前
-      position: 2
-    - word: は
-      position: 5
-    - word: 腋の下
-      base: 脇の下
-      position: 6
-    - word: を
-      position: 9
-    - word: 拭い
-      base: 拭く
-      position: 10
-    - word: て
-      position: 12
-    - word: いる
-      base: 居る
-      position: 13
-    - word: ね
-      position: 15
 - id: Sakurano Kino Shita-f000105
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -3107,17 +831,6 @@
   sound_begin: 378640
   sound_end: 381080
   sentence: 冷汗が出るのか。
-  words:
-    - word: 冷汗
-      position: 0
-    - word: が
-      position: 2
-    - word: 出る
-      position: 3
-    - word: の
-      position: 5
-    - word: か
-      position: 6
 - id: Sakurano Kino Shita-f000106
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -3126,22 +839,6 @@
   sound_begin: 381080
   sound_end: 384800
   sentence: それは俺も同じことだ。
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: は
-      position: 2
-    - word: 俺
-      position: 3
-    - word: も
-      position: 4
-    - word: 同じ
-      position: 5
-    - word: こと
-      position: 7
-    - word: だ
-      position: 9
 - id: Sakurano Kino Shita-f000107
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -3150,29 +847,6 @@
   sound_begin: 384800
   sound_end: 387360
   sentence: 何もそれを不愉快がることはない。
-  words:
-    - word: 何
-      position: 0
-    - word: も
-      position: 1
-    - word: それ
-      base: 其れ
-      position: 2
-    - word: を
-      position: 4
-    - word: 不
-      position: 5
-    - word: 愉快
-      position: 6
-    - word: がる
-      position: 8
-    - word: こと
-      position: 10
-    - word: は
-      position: 12
-    - word: ない
-      base: 無い
-      position: 13
 - id: Sakurano Kino Shita-f000108
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -3181,33 +855,6 @@
   sound_begin: 389060
   sound_end: 394080
   sentence: べたべたとまるで精液のようだと思ってごらん。
-  words:
-    - word: べたべた
-      position: 0
-    - word: と
-      position: 4
-    - word: まるで
-      base: 丸で
-      position: 5
-    - word: 精液
-      position: 8
-    - word: の
-      position: 10
-    - word: よう
-      base: 様
-      position: 11
-    - word: だ
-      position: 13
-    - word: と
-      position: 14
-    - word: 思っ
-      base: 思う
-      position: 15
-    - word: て
-      position: 17
-    - word: ごらん
-      base: 御覧
-      position: 18
 - id: Sakurano Kino Shita-f000109
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -3216,31 +863,6 @@
   sound_begin: 394080
   sound_end: 400880
   sentence: それで俺達の憂鬱は完成するのだ。
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: で
-      position: 2
-    - word: 俺
-      position: 3
-    - word: 達
-      position: 4
-    - word: の
-      position: 5
-    - word: 憂鬱
-      position: 6
-    - word: は
-      position: 8
-    - word: 完成
-      position: 9
-    - word: する
-      base: 為る
-      position: 11
-    - word: の
-      position: 13
-    - word: だ
-      position: 14
 - id: Sakurano Kino Shita-f000110
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -3249,9 +871,6 @@
   sound_begin: 400880
   sound_end: 402000
   sentence: ああ、
-  words:
-    - word: ああ
-      position: 0
 - id: Sakurano Kino Shita-f000111
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -3260,34 +879,6 @@
   sound_begin: 402000
   sound_end: 405580
   sentence: 桜の樹の下には屍体が埋まっている！
-  words:
-    - word: 桜
-      position: 0
-    - word: の
-      position: 1
-    - word: 樹
-      position: 2
-    - word: の
-      position: 3
-    - word: 下
-      position: 4
-    - word: に
-      position: 5
-    - word: は
-      position: 6
-    - word: 屍体
-      base: 死体
-      position: 7
-    - word: が
-      position: 9
-    - word: 埋まっ
-      base: 埋まる
-      position: 10
-    - word: て
-      position: 13
-    - word: いる
-      base: 居る
-      position: 14
 - id: Sakurano Kino Shita-f000112
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -3296,44 +887,6 @@
   sound_begin: 407680
   sound_end: 413880
   sentence: いったいどこから浮かんで来た空想かさっぱり見当のつかない屍体が、
-  words:
-    - word: いったい
-      base: 一体
-      position: 0
-    - word: どこ
-      position: 4
-    - word: から
-      position: 6
-    - word: 浮かん
-      base: 浮かぶ
-      position: 8
-    - word: で
-      position: 11
-    - word: 来
-      base: 来る
-      position: 12
-    - word: た
-      position: 13
-    - word: 空想
-      position: 14
-    - word: か
-      position: 16
-    - word: さっぱり
-      position: 17
-    - word: 見当
-      position: 21
-    - word: の
-      position: 23
-    - word: つか
-      base: 付く
-      position: 24
-    - word: ない
-      position: 26
-    - word: 屍体
-      base: 死体
-      position: 28
-    - word: が
-      position: 30
 - id: Sakurano Kino Shita-f000113
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -3342,35 +895,6 @@
   sound_begin: 413880
   sound_end: 417200
   sentence: いまはまるで桜の樹と一つになって、
-  words:
-    - word: いま
-      base: 今
-      position: 0
-    - word: は
-      position: 2
-    - word: まるで
-      base: 丸で
-      position: 3
-    - word: 桜
-      position: 6
-    - word: の
-      position: 7
-    - word: 樹
-      position: 8
-    - word: と
-      position: 9
-    - word: 一
-      base: '1'
-      position: 10
-    - word: つ
-      position: 11
-    - word: に
-      position: 12
-    - word: なっ
-      base: 成る
-      position: 13
-    - word: て
-      position: 15
 - id: Sakurano Kino Shita-f000114
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -3379,40 +903,6 @@
   sound_begin: 417200
   sound_end: 422200
   sentence: どんなに頭を振っても離れてゆこうとはしない。
-  words:
-    - word: どんな
-      position: 0
-    - word: に
-      base: だ
-      position: 3
-    - word: 頭
-      position: 4
-    - word: を
-      position: 5
-    - word: 振っ
-      base: 振る
-      position: 6
-    - word: て
-      position: 8
-    - word: も
-      position: 9
-    - word: 離れ
-      base: 離れる
-      position: 10
-    - word: て
-      position: 12
-    - word: ゆこう
-      base: 行く
-      position: 13
-    - word: と
-      position: 16
-    - word: は
-      position: 17
-    - word: し
-      base: 為る
-      position: 18
-    - word: ない
-      position: 19
 - id: Sakurano Kino Shita-f000115
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -3421,15 +911,6 @@
   sound_begin: 422200
   sound_end: 424480
   sentence: 今こそ俺は、
-  words:
-    - word: 今
-      position: 0
-    - word: こそ
-      position: 1
-    - word: 俺
-      position: 3
-    - word: は
-      position: 4
 - id: Sakurano Kino Shita-f000116
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -3438,47 +919,6 @@
   sound_begin: 424480
   sound_end: 430473
   sentence: あの桜の樹の下で酒宴をひらいている村人たちと同じ権利で、
-  words:
-    - word: あの
-      base: 彼の
-      position: 0
-    - word: 桜
-      position: 2
-    - word: の
-      position: 3
-    - word: 樹
-      position: 4
-    - word: の
-      position: 5
-    - word: 下
-      position: 6
-    - word: で
-      position: 7
-    - word: 酒宴
-      position: 8
-    - word: を
-      position: 10
-    - word: ひらい
-      base: 開く
-      position: 11
-    - word: て
-      position: 14
-    - word: いる
-      base: 居る
-      position: 15
-    - word: 村人
-      position: 17
-    - word: たち
-      base: 達
-      position: 19
-    - word: と
-      position: 21
-    - word: 同じ
-      position: 22
-    - word: 権利
-      position: 24
-    - word: で
-      position: 26
 - id: Sakurano Kino Shita-f000117
   author_japanese: 梶井 基次郎
   deck_name: Sakurano Kino Shita
@@ -3487,27 +927,3 @@
   sound_begin: 430473
   sound_end: 434280
   sentence: 花見の酒が呑めそうな気がする。
-  words:
-    - word: 花見
-      position: 0
-    - word: の
-      position: 2
-    - word: 酒
-      position: 3
-    - word: が
-      position: 4
-    - word: 呑め
-      base: 飲む
-      position: 5
-    - word: そう
-      position: 7
-    - word: な
-      base: だ
-      position: 9
-    - word: 気
-      position: 10
-    - word: が
-      position: 11
-    - word: する
-      base: 為る
-      position: 12

@@ -6,11 +6,6 @@
   sound_begin: 4640
   sound_end: 7280
   sentence: 瓜子姫子
-  words:
-    - word: 瓜子姫
-      position: 0
-    - word: 子
-      position: 3
 - id: Urikohimeko-f000003
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -19,10 +14,6 @@
   sound_begin: 7280
   sound_end: 10120
   sentence: 一
-  words:
-    - word: 一
-      base: '1'
-      position: 0
 - id: Urikohimeko-f000004
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -31,10 +22,6 @@
   sound_begin: 10120
   sound_end: 10920
   sentence: むかし、
-  words:
-    - word: むかし
-      base: 昔
-      position: 0
 - id: Urikohimeko-f000005
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -43,10 +30,6 @@
   sound_begin: 10920
   sound_end: 12000
   sentence: むかし、
-  words:
-    - word: むかし
-      base: 昔
-      position: 0
 - id: Urikohimeko-f000006
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -55,35 +38,6 @@
   sound_begin: 12000
   sound_end: 15600
   sentence: おじいさんとおばあさんがありました。
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: じい
-      base: 爺
-      position: 1
-    - word: さん
-      position: 3
-    - word: と
-      position: 5
-    - word: お
-      base: 御
-      position: 6
-    - word: ばあ
-      base: 婆
-      position: 7
-    - word: さん
-      position: 9
-    - word: が
-      position: 11
-    - word: あり
-      base: 有る
-      position: 12
-    - word: まし
-      base: ます
-      position: 14
-    - word: た
-      position: 16
 - id: Urikohimeko-f000007
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -92,43 +46,6 @@
   sound_begin: 15600
   sound_end: 20200
   sentence: ある日おじいさんは山へしば刈りに行きました。
-  words:
-    - word: ある
-      base: 或る
-      position: 0
-    - word: 日
-      position: 2
-    - word: お
-      base: 御
-      position: 3
-    - word: じい
-      base: 爺
-      position: 4
-    - word: さん
-      position: 6
-    - word: は
-      position: 8
-    - word: 山
-      position: 9
-    - word: へ
-      position: 10
-    - word: し
-      base: 為る
-      position: 11
-    - word: ば
-      position: 12
-    - word: 刈り
-      position: 13
-    - word: に
-      position: 15
-    - word: 行き
-      base: 行く
-      position: 16
-    - word: まし
-      base: ます
-      position: 18
-    - word: た
-      position: 20
 - id: Urikohimeko-f000008
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -137,33 +54,6 @@
   sound_begin: 20200
   sound_end: 25320
   sentence: おばあさんは川へ洗濯に行きました。
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: ばあ
-      base: 婆
-      position: 1
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
-    - word: 川
-      position: 6
-    - word: へ
-      position: 7
-    - word: 洗濯
-      position: 8
-    - word: に
-      position: 10
-    - word: 行き
-      base: 行く
-      position: 11
-    - word: まし
-      base: ます
-      position: 13
-    - word: た
-      position: 15
 - id: Urikohimeko-f000009
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -172,39 +62,6 @@
   sound_begin: 25320
   sound_end: 30320
   sentence: おばあさんが川でぼちゃぼちゃ洗濯をしていますと、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: ばあ
-      base: 婆
-      position: 1
-    - word: さん
-      position: 3
-    - word: が
-      position: 5
-    - word: 川
-      position: 6
-    - word: で
-      position: 7
-    - word: ぼちゃぼちゃ
-      position: 8
-    - word: 洗濯
-      position: 14
-    - word: を
-      position: 16
-    - word: し
-      base: 為る
-      position: 17
-    - word: て
-      position: 18
-    - word: い
-      base: 居る
-      position: 19
-    - word: ます
-      position: 20
-    - word: と
-      position: 22
 - id: Urikohimeko-f000010
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -213,22 +70,6 @@
   sound_begin: 30320
   sound_end: 33520
   sentence: 向こうから大きな瓜が一つ、
-  words:
-    - word: 向こう
-      position: 0
-    - word: から
-      position: 3
-    - word: 大きな
-      position: 5
-    - word: 瓜
-      position: 8
-    - word: が
-      position: 9
-    - word: 一
-      base: '1'
-      position: 10
-    - word: つ
-      position: 11
 - id: Urikohimeko-f000011
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -237,9 +78,6 @@
   sound_begin: 33520
   sound_end: 35080
   sentence: ぽっかり、
-  words:
-    - word: ぽっかり
-      position: 0
 - id: Urikohimeko-f000012
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -248,9 +86,6 @@
   sound_begin: 35080
   sound_end: 35849
   sentence: ぽっかり、
-  words:
-    - word: ぽっかり
-      position: 0
 - id: Urikohimeko-f000013
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -259,20 +94,6 @@
   sound_begin: 35849
   sound_end: 38840
   sentence: 流れて来ました。
-  words:
-    - word: 流れ
-      base: 流れる
-      position: 0
-    - word: て
-      position: 2
-    - word: 来
-      base: 来る
-      position: 3
-    - word: まし
-      base: ます
-      position: 4
-    - word: た
-      position: 6
 - id: Urikohimeko-f000014
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -281,27 +102,6 @@
   sound_begin: 38840
   sound_end: 41880
   sentence: おばあさんはそれを見て、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: ばあ
-      base: 婆
-      position: 1
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
-    - word: それ
-      base: 其れ
-      position: 6
-    - word: を
-      position: 8
-    - word: 見
-      base: 見る
-      position: 9
-    - word: て
-      position: 10
 - id: Urikohimeko-f000015
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -310,13 +110,6 @@
   sound_begin: 41880
   sound_end: 42840
   sentence: 「おやおや、
-  words:
-    - word: お
-      base: 御
-      position: 1
-    - word: やおや
-      base: 八百屋
-      position: 2
 - id: Urikohimeko-f000016
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -325,9 +118,6 @@
   sound_begin: 42840
   sound_end: 43680
   sentence: まあ。
-  words:
-    - word: まあ
-      position: 0
 - id: Urikohimeko-f000017
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -336,18 +126,6 @@
   sound_begin: 43680
   sound_end: 47040
   sentence: めずらしい大きな瓜だこと、
-  words:
-    - word: めずらしい
-      base: 珍しい
-      position: 0
-    - word: 大きな
-      position: 5
-    - word: 瓜
-      position: 8
-    - word: だ
-      position: 9
-    - word: こと
-      position: 10
 - id: Urikohimeko-f000018
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -356,16 +134,6 @@
   sound_begin: 47040
   sound_end: 49160
   sentence: さぞおいしいでしょう。
-  words:
-    - word: さぞ
-      base: 嘸
-      position: 0
-    - word: おいしい
-      base: 美味しい
-      position: 2
-    - word: でしょう
-      base: です
-      position: 6
 - id: Urikohimeko-f000019
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -374,22 +142,6 @@
   sound_begin: 49160
   sound_end: 50760
   sentence: うちへ持って帰って、
-  words:
-    - word: うち
-      base: 内
-      position: 0
-    - word: へ
-      position: 2
-    - word: 持っ
-      base: 持つ
-      position: 3
-    - word: て
-      position: 5
-    - word: 帰っ
-      base: 帰る
-      position: 6
-    - word: て
-      position: 8
 - id: Urikohimeko-f000020
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -398,27 +150,6 @@
   sound_begin: 50760
   sound_end: 53520
   sentence: おじいさんと二人で食べましょう。」
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: じい
-      base: 爺
-      position: 1
-    - word: さん
-      position: 3
-    - word: と
-      position: 5
-    - word: 二人
-      position: 6
-    - word: で
-      position: 8
-    - word: 食べ
-      base: 食べる
-      position: 9
-    - word: ましょう
-      base: ます
-      position: 11
 - id: Urikohimeko-f000021
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -427,15 +158,6 @@
   sound_begin: 53520
   sound_end: 55400
   sentence: といいいい、
-  words:
-    - word: と
-      position: 0
-    - word: いい
-      base: 言う
-      position: 1
-    - word: いい
-      base: 言う
-      position: 3
 - id: Urikohimeko-f000022
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -444,28 +166,6 @@
   sound_begin: 55400
   sound_end: 58840
   sentence: つえの先で瓜をかき寄せて、
-  words:
-    - word: つえ
-      base: 杖
-      position: 0
-    - word: の
-      position: 2
-    - word: 先
-      position: 3
-    - word: で
-      position: 4
-    - word: 瓜
-      position: 5
-    - word: を
-      position: 6
-    - word: かき
-      base: かく
-      position: 7
-    - word: 寄せ
-      base: 寄せる
-      position: 9
-    - word: て
-      position: 11
 - id: Urikohimeko-f000023
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -474,15 +174,6 @@
   sound_begin: 58840
   sound_end: 60440
   sentence: 拾い上げて、
-  words:
-    - word: 拾い
-      base: 拾う
-      position: 0
-    - word: 上げ
-      base: 上げる
-      position: 2
-    - word: て
-      position: 4
 - id: Urikohimeko-f000024
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -491,25 +182,6 @@
   sound_begin: 60440
   sound_end: 65239
   sentence: うちへ持って帰りました。
-  words:
-    - word: うち
-      base: 内
-      position: 0
-    - word: へ
-      position: 2
-    - word: 持っ
-      base: 持つ
-      position: 3
-    - word: て
-      position: 5
-    - word: 帰り
-      base: 帰る
-      position: 6
-    - word: まし
-      base: ます
-      position: 8
-    - word: た
-      position: 10
 - id: Urikohimeko-f000025
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -518,16 +190,6 @@
   sound_begin: 65239
   sound_end: 67040
   sentence: 夕方になると、
-  words:
-    - word: 夕方
-      position: 0
-    - word: に
-      position: 2
-    - word: なる
-      base: 成る
-      position: 3
-    - word: と
-      position: 5
 - id: Urikohimeko-f000026
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -536,24 +198,6 @@
   sound_begin: 67040
   sound_end: 69560
   sentence: おじいさんはいつものとおり、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: じい
-      base: 爺
-      position: 1
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
-    - word: いつも
-      position: 6
-    - word: の
-      position: 9
-    - word: とおり
-      base: 通り
-      position: 10
 - id: Urikohimeko-f000027
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -562,33 +206,6 @@
   sound_begin: 69560
   sound_end: 73210
   sentence: しばをしょって山から帰って来ました。
-  words:
-    - word: しば
-      position: 0
-    - word: を
-      position: 2
-    - word: しょっ
-      base: 背負う
-      position: 3
-    - word: て
-      position: 6
-    - word: 山
-      position: 7
-    - word: から
-      position: 8
-    - word: 帰っ
-      base: 帰る
-      position: 10
-    - word: て
-      position: 12
-    - word: 来
-      base: 来る
-      position: 13
-    - word: まし
-      base: ます
-      position: 14
-    - word: た
-      position: 16
 - id: Urikohimeko-f000028
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -597,32 +214,6 @@
   sound_begin: 73210
   sound_end: 77160
   sentence: おばあさんはにこにこしながら出迎えて、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: ばあ
-      base: 婆
-      position: 1
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
-    - word: にこにこ
-      position: 6
-    - word: し
-      base: 為る
-      position: 10
-    - word: ながら
-      position: 11
-    - word: 出
-      base: 出る
-      position: 14
-    - word: 迎え
-      base: 迎える
-      position: 15
-    - word: て
-      position: 17
 - id: Urikohimeko-f000029
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -631,13 +222,6 @@
   sound_begin: 77160
   sound_end: 77920
   sentence: 「おやおや、
-  words:
-    - word: お
-      base: 御
-      position: 1
-    - word: やおや
-      base: 八百屋
-      position: 2
 - id: Urikohimeko-f000030
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -646,15 +230,6 @@
   sound_begin: 77920
   sound_end: 78760
   sentence: おじいさん、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: じい
-      base: 爺
-      position: 1
-    - word: さん
-      position: 3
 - id: Urikohimeko-f000031
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -663,16 +238,6 @@
   sound_begin: 78760
   sound_end: 80040
   sentence: お帰りかえ。
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 帰り
-      position: 1
-    - word: か
-      position: 3
-    - word: え
-      position: 4
 - id: Urikohimeko-f000032
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -681,30 +246,6 @@
   sound_begin: 80040
   sound_end: 82265
   sentence: きょうはおじいさんのお好きな、
-  words:
-    - word: きょう
-      base: 今日
-      position: 0
-    - word: は
-      position: 3
-    - word: お
-      base: 御
-      position: 4
-    - word: じい
-      base: 爺
-      position: 5
-    - word: さん
-      position: 7
-    - word: の
-      position: 9
-    - word: お
-      base: 御
-      position: 10
-    - word: 好き
-      position: 11
-    - word: な
-      base: だ
-      position: 13
 - id: Urikohimeko-f000033
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -713,34 +254,6 @@
   sound_begin: 82265
   sound_end: 85680
   sentence: いいものを川で拾って来ましたから、
-  words:
-    - word: いい
-      base: 良い
-      position: 0
-    - word: もの
-      base: 物
-      position: 2
-    - word: を
-      position: 4
-    - word: 川
-      position: 5
-    - word: で
-      position: 6
-    - word: 拾っ
-      base: 拾う
-      position: 7
-    - word: て
-      position: 9
-    - word: 来
-      base: 来る
-      position: 10
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
-    - word: から
-      position: 14
 - id: Urikohimeko-f000034
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -749,34 +262,6 @@
   sound_begin: 85680
   sound_end: 88880
   sentence: おじいさんと二人で食べましょうと思って、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: じい
-      base: 爺
-      position: 1
-    - word: さん
-      position: 3
-    - word: と
-      position: 5
-    - word: 二人
-      position: 6
-    - word: で
-      position: 8
-    - word: 食べ
-      base: 食べる
-      position: 9
-    - word: ましょう
-      base: ます
-      position: 11
-    - word: と
-      position: 15
-    - word: 思っ
-      base: 思う
-      position: 16
-    - word: て
-      position: 18
 - id: Urikohimeko-f000035
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -785,27 +270,6 @@
   sound_begin: 88880
   sound_end: 91160
   sentence: さっきから待っていたのですよ。」
-  words:
-    - word: さっき
-      position: 0
-    - word: から
-      position: 3
-    - word: 待っ
-      base: 待つ
-      position: 5
-    - word: て
-      position: 7
-    - word: い
-      base: 居る
-      position: 8
-    - word: た
-      position: 9
-    - word: の
-      position: 10
-    - word: です
-      position: 11
-    - word: よ
-      position: 13
 - id: Urikohimeko-f000036
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -814,14 +278,6 @@
   sound_begin: 91160
   sound_end: 93560
   sentence: といって、
-  words:
-    - word: と
-      position: 0
-    - word: いっ
-      base: 言う
-      position: 1
-    - word: て
-      position: 3
 - id: Urikohimeko-f000037
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -830,34 +286,6 @@
   sound_begin: 93560
   sound_end: 97760
   sentence: 拾って来た瓜を出して見せました。
-  words:
-    - word: 拾っ
-      base: 拾う
-      position: 0
-    - word: て
-      position: 2
-    - word: 来
-      base: 来る
-      position: 3
-    - word: た
-      position: 4
-    - word: 瓜
-      position: 5
-    - word: を
-      position: 6
-    - word: 出し
-      base: 出す
-      position: 7
-    - word: て
-      position: 9
-    - word: 見せ
-      base: 見せる
-      position: 10
-    - word: まし
-      base: ます
-      position: 12
-    - word: た
-      position: 14
 - id: Urikohimeko-f000038
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -866,9 +294,6 @@
   sound_begin: 97760
   sound_end: 98284
   sentence: 「ほう、
-  words:
-    - word: ほう
-      position: 1
 - id: Urikohimeko-f000039
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -877,9 +302,6 @@
   sound_begin: 98284
   sound_end: 98880
   sentence: ほう、
-  words:
-    - word: ほう
-      position: 0
 - id: Urikohimeko-f000040
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -888,21 +310,6 @@
   sound_begin: 98880
   sound_end: 102120
   sentence: これはめずらしい大きな瓜だ。
-  words:
-    - word: これ
-      base: 此れ
-      position: 0
-    - word: は
-      position: 2
-    - word: めずらしい
-      base: 珍しい
-      position: 3
-    - word: 大きな
-      position: 8
-    - word: 瓜
-      position: 11
-    - word: だ
-      position: 12
 - id: Urikohimeko-f000041
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -911,16 +318,6 @@
   sound_begin: 102120
   sound_end: 104400
   sentence: さぞおいしいだろう。
-  words:
-    - word: さぞ
-      base: 嘸
-      position: 0
-    - word: おいしい
-      base: 美味しい
-      position: 2
-    - word: だろう
-      base: だ
-      position: 6
 - id: Urikohimeko-f000042
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -929,18 +326,6 @@
   sound_begin: 104400
   sound_end: 106360
   sentence: 早く食べたいなあ。」
-  words:
-    - word: 早く
-      base: 早い
-      position: 0
-    - word: 食べ
-      base: 食べる
-      position: 2
-    - word: たい
-      position: 4
-    - word: なあ
-      base: な
-      position: 6
 - id: Urikohimeko-f000043
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -949,9 +334,6 @@
   sound_begin: 106360
   sound_end: 107680
   sentence: と、
-  words:
-    - word: と
-      position: 0
 - id: Urikohimeko-f000044
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -960,25 +342,6 @@
   sound_begin: 107680
   sound_end: 110158
   sentence: おじいさんはいいました。
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: じい
-      base: 爺
-      position: 1
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
-    - word: いい
-      base: 言う
-      position: 6
-    - word: まし
-      base: ます
-      position: 8
-    - word: た
-      position: 10
 - id: Urikohimeko-f000045
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -987,22 +350,6 @@
   sound_begin: 110158
   sound_end: 111680
   sentence: そこでおばあさんは、
-  words:
-    - word: そこ
-      base: 其処
-      position: 0
-    - word: で
-      position: 2
-    - word: お
-      base: 御
-      position: 3
-    - word: ばあ
-      base: 婆
-      position: 4
-    - word: さん
-      position: 6
-    - word: は
-      position: 8
 - id: Urikohimeko-f000046
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1011,26 +358,6 @@
   sound_begin: 111680
   sound_end: 115600
   sentence: 台所から庖丁を持って来て、
-  words:
-    - word: 台所
-      position: 0
-    - word: から
-      position: 2
-    - word: 庖丁
-      base: 包丁
-      position: 4
-    - word: を
-      position: 6
-    - word: 持っ
-      base: 持つ
-      position: 7
-    - word: て
-      position: 9
-    - word: 来
-      base: 来る
-      position: 10
-    - word: て
-      position: 11
 - id: Urikohimeko-f000047
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1039,30 +366,6 @@
   sound_begin: 115600
   sound_end: 118240
   sentence: 瓜を二つに割ろうとしますと、
-  words:
-    - word: 瓜
-      position: 0
-    - word: を
-      position: 1
-    - word: 二
-      base: '2'
-      position: 2
-    - word: つ
-      position: 3
-    - word: に
-      position: 4
-    - word: 割ろう
-      base: 割る
-      position: 5
-    - word: と
-      position: 8
-    - word: し
-      base: 為る
-      position: 9
-    - word: ます
-      position: 10
-    - word: と
-      position: 12
 - id: Urikohimeko-f000048
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1071,27 +374,6 @@
   sound_begin: 118240
   sound_end: 121600
   sentence: 瓜はひとりでに中からぽんと割れて、
-  words:
-    - word: 瓜
-      position: 0
-    - word: は
-      position: 1
-    - word: ひとりでに
-      base: 独りでに
-      position: 2
-    - word: 中
-      position: 7
-    - word: から
-      position: 8
-    - word: ぽん
-      position: 10
-    - word: と
-      position: 12
-    - word: 割れ
-      base: 割る
-      position: 13
-    - word: て
-      position: 15
 - id: Urikohimeko-f000049
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1100,25 +382,6 @@
   sound_begin: 121600
   sound_end: 127760
   sentence: かわいらしい女の子がとび出しました。
-  words:
-    - word: かわいらしい
-      base: 可愛らしい
-      position: 0
-    - word: 女の子
-      position: 6
-    - word: が
-      position: 9
-    - word: とび
-      base: 飛ぶ
-      position: 10
-    - word: 出し
-      base: 出す
-      position: 12
-    - word: まし
-      base: ます
-      position: 14
-    - word: た
-      position: 16
 - id: Urikohimeko-f000050
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1127,13 +390,6 @@
   sound_begin: 127760
   sound_end: 128731
   sentence: 「おやおや、
-  words:
-    - word: お
-      base: 御
-      position: 1
-    - word: やおや
-      base: 八百屋
-      position: 2
 - id: Urikohimeko-f000051
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1142,9 +398,6 @@
   sound_begin: 128731
   sound_end: 129199
   sentence: まあ」
-  words:
-    - word: まあ
-      position: 0
 - id: Urikohimeko-f000052
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1153,17 +406,6 @@
   sound_begin: 129199
   sound_end: 132040
   sentence: といったまま、
-  words:
-    - word: と
-      position: 0
-    - word: いっ
-      base: 言う
-      position: 1
-    - word: た
-      position: 3
-    - word: まま
-      base: 侭
-      position: 4
 - id: Urikohimeko-f000053
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1172,27 +414,6 @@
   sound_begin: 132040
   sound_end: 133680
   sentence: おじいさんもおばあさんも、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: じい
-      base: 爺
-      position: 1
-    - word: さん
-      position: 3
-    - word: も
-      position: 5
-    - word: お
-      base: 御
-      position: 6
-    - word: ばあ
-      base: 婆
-      position: 7
-    - word: さん
-      position: 9
-    - word: も
-      position: 11
 - id: Urikohimeko-f000054
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1201,31 +422,6 @@
   sound_begin: 133680
   sound_end: 139160
   sentence: びっくりして腰を抜かしてしまいました。
-  words:
-    - word: びっくり
-      position: 0
-    - word: し
-      base: 為る
-      position: 4
-    - word: て
-      position: 5
-    - word: 腰
-      position: 6
-    - word: を
-      position: 7
-    - word: 抜かし
-      base: 抜かす
-      position: 8
-    - word: て
-      position: 11
-    - word: しまい
-      base: 仕舞う
-      position: 12
-    - word: まし
-      base: ます
-      position: 15
-    - word: た
-      position: 17
 - id: Urikohimeko-f000055
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1234,25 +430,6 @@
   sound_begin: 139160
   sound_end: 140960
   sentence: しばらくしておじいさんが、
-  words:
-    - word: しばらく
-      base: 暫く
-      position: 0
-    - word: し
-      base: 為る
-      position: 4
-    - word: て
-      position: 5
-    - word: お
-      base: 御
-      position: 6
-    - word: じい
-      base: 爺
-      position: 7
-    - word: さん
-      position: 9
-    - word: が
-      position: 11
 - id: Urikohimeko-f000056
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1261,14 +438,6 @@
   sound_begin: 140960
   sound_end: 144480
   sentence: 「これはきっと、
-  words:
-    - word: これ
-      base: 此れ
-      position: 1
-    - word: は
-      position: 3
-    - word: きっと
-      position: 4
 - id: Urikohimeko-f000057
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1277,36 +446,6 @@
   sound_begin: 144480
   sound_end: 148520
   sentence: わたしたちに子供の無いのをかわいそうに思って、
-  words:
-    - word: わたし
-      base: 私
-      position: 0
-    - word: たち
-      base: 達
-      position: 3
-    - word: に
-      position: 5
-    - word: 子供
-      position: 6
-    - word: の
-      position: 8
-    - word: 無い
-      position: 9
-    - word: の
-      position: 11
-    - word: を
-      position: 12
-    - word: かわいそう
-      base: 可哀想
-      position: 13
-    - word: に
-      base: だ
-      position: 18
-    - word: 思っ
-      base: 思う
-      position: 19
-    - word: て
-      position: 21
 - id: Urikohimeko-f000058
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1315,35 +454,6 @@
   sound_begin: 148520
   sound_end: 152760
   sentence: 神さまがさずけて下さったものにちがいない。
-  words:
-    - word: 神
-      position: 0
-    - word: さま
-      base: 様
-      position: 1
-    - word: が
-      position: 3
-    - word: さずけ
-      base: 授ける
-      position: 4
-    - word: て
-      position: 7
-    - word: 下さっ
-      base: 下さる
-      position: 8
-    - word: た
-      position: 11
-    - word: もの
-      base: 物
-      position: 12
-    - word: に
-      position: 14
-    - word: ちがい
-      base: 違い
-      position: 15
-    - word: ない
-      base: 無い
-      position: 18
 - id: Urikohimeko-f000059
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1352,24 +462,6 @@
   sound_begin: 152760
   sound_end: 156240
   sentence: だいじに育ててやりましょう。」
-  words:
-    - word: だいじ
-      base: 大事
-      position: 0
-    - word: に
-      base: だ
-      position: 3
-    - word: 育て
-      base: 育つ
-      position: 4
-    - word: て
-      position: 6
-    - word: やり
-      base: 遣る
-      position: 7
-    - word: ましょう
-      base: ます
-      position: 9
 - id: Urikohimeko-f000060
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1378,13 +470,6 @@
   sound_begin: 157840
   sound_end: 159080
   sentence: 「そうですとも。
-  words:
-    - word: そう
-      position: 1
-    - word: です
-      position: 3
-    - word: とも
-      position: 5
 - id: Urikohimeko-f000061
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1393,13 +478,6 @@
   sound_begin: 159080
   sound_end: 160400
   sentence: ごらんなさい。
-  words:
-    - word: ごらん
-      base: 御覧
-      position: 0
-    - word: なさい
-      base: 為す
-      position: 3
 - id: Urikohimeko-f000062
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1408,9 +486,6 @@
   sound_begin: 160400
   sound_end: 160920
   sentence: まあ、
-  words:
-    - word: まあ
-      position: 0
 - id: Urikohimeko-f000063
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1419,19 +494,6 @@
   sound_begin: 160920
   sound_end: 163280
   sentence: かわいらしい顔をして、
-  words:
-    - word: かわいらしい
-      base: 可愛らしい
-      position: 0
-    - word: 顔
-      position: 6
-    - word: を
-      position: 7
-    - word: し
-      base: 為る
-      position: 8
-    - word: て
-      position: 9
 - id: Urikohimeko-f000064
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1440,21 +502,6 @@
   sound_begin: 163280
   sound_end: 165400
   sentence: にこにこ笑っていますよ。」
-  words:
-    - word: にこにこ
-      position: 0
-    - word: 笑っ
-      base: 笑う
-      position: 4
-    - word: て
-      position: 6
-    - word: い
-      base: 居る
-      position: 7
-    - word: ます
-      position: 8
-    - word: よ
-      position: 10
 - id: Urikohimeko-f000065
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1463,9 +510,6 @@
   sound_begin: 165400
   sound_end: 167400
   sentence: と、
-  words:
-    - word: と
-      position: 0
 - id: Urikohimeko-f000066
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1474,25 +518,6 @@
   sound_begin: 167400
   sound_end: 168760
   sentence: おばあさんはいいました。
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: ばあ
-      base: 婆
-      position: 1
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
-    - word: いい
-      base: 言う
-      position: 6
-    - word: まし
-      base: ます
-      position: 8
-    - word: た
-      position: 10
 - id: Urikohimeko-f000067
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1501,32 +526,6 @@
   sound_begin: 170560
   sound_end: 173800
   sentence: そこでおじいさんとおばあさんは、
-  words:
-    - word: そこ
-      base: 其処
-      position: 0
-    - word: で
-      position: 2
-    - word: お
-      base: 御
-      position: 3
-    - word: じい
-      base: 爺
-      position: 4
-    - word: さん
-      position: 6
-    - word: と
-      position: 8
-    - word: お
-      base: 御
-      position: 9
-    - word: ばあ
-      base: 婆
-      position: 10
-    - word: さん
-      position: 12
-    - word: は
-      position: 14
 - id: Urikohimeko-f000068
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1535,24 +534,6 @@
   sound_begin: 173800
   sound_end: 176560
   sentence: あわててお湯をわかして、
-  words:
-    - word: あわて
-      base: 慌てる
-      position: 0
-    - word: て
-      position: 3
-    - word: お
-      base: 御
-      position: 4
-    - word: 湯
-      position: 5
-    - word: を
-      position: 6
-    - word: わかし
-      base: わく
-      position: 7
-    - word: て
-      position: 10
 - id: Urikohimeko-f000069
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1561,26 +542,6 @@
   sound_begin: 176560
   sound_end: 179640
   sentence: 赤ちゃんにお湯をつかわせて、
-  words:
-    - word: 赤ちゃん
-      position: 0
-    - word: に
-      position: 4
-    - word: お
-      base: 御
-      position: 5
-    - word: 湯
-      position: 6
-    - word: を
-      position: 7
-    - word: つかわ
-      base: 使う
-      position: 8
-    - word: せ
-      base: せる
-      position: 11
-    - word: て
-      position: 12
 - id: Urikohimeko-f000070
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1589,26 +550,6 @@
   sound_begin: 179640
   sound_end: 181960
   sentence: 温い着物の中にくるんで、
-  words:
-    - word: 温い
-      position: 0
-    - word: 着物
-      position: 2
-    - word: の
-      position: 4
-    - word: 中
-      position: 5
-    - word: に
-      position: 6
-    - word: くる
-      base: 来る
-      position: 7
-    - word: ん
-      base: の
-      position: 9
-    - word: で
-      base: だ
-      position: 10
 - id: Urikohimeko-f000071
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1617,23 +558,6 @@
   sound_begin: 181960
   sound_end: 186640
   sentence: かわいがって育てました。
-  words:
-    - word: かわい
-      base: 可愛い
-      position: 0
-    - word: がっ
-      base: がる
-      position: 3
-    - word: て
-      position: 5
-    - word: 育て
-      base: 育つ
-      position: 6
-    - word: まし
-      base: ます
-      position: 8
-    - word: た
-      position: 10
 - id: Urikohimeko-f000072
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1642,41 +566,6 @@
   sound_begin: 186640
   sound_end: 190280
   sentence: 瓜の中から生まれてきた子だからというので、
-  words:
-    - word: 瓜
-      position: 0
-    - word: の
-      position: 1
-    - word: 中
-      position: 2
-    - word: から
-      position: 3
-    - word: 生まれ
-      base: 生まれる
-      position: 5
-    - word: て
-      position: 8
-    - word: き
-      base: 来る
-      position: 9
-    - word: た
-      position: 10
-    - word: 子
-      position: 11
-    - word: だ
-      position: 12
-    - word: から
-      position: 13
-    - word: と
-      position: 15
-    - word: いう
-      base: 言う
-      position: 16
-    - word: の
-      position: 18
-    - word: で
-      base: だ
-      position: 19
 - id: Urikohimeko-f000073
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1685,28 +574,6 @@
   sound_begin: 190280
   sound_end: 194760
   sentence: 瓜子姫子という名前をつけました。
-  words:
-    - word: 瓜子姫
-      position: 0
-    - word: 子
-      position: 3
-    - word: と
-      position: 4
-    - word: いう
-      base: 言う
-      position: 5
-    - word: 名前
-      position: 7
-    - word: を
-      position: 9
-    - word: つけ
-      base: つける
-      position: 10
-    - word: まし
-      base: ます
-      position: 12
-    - word: た
-      position: 14
 - id: Urikohimeko-f000074
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1715,13 +582,6 @@
   sound_begin: 194760
   sound_end: 196320
   sentence: 瓜子姫子は、
-  words:
-    - word: 瓜子姫
-      position: 0
-    - word: 子
-      position: 3
-    - word: は
-      position: 4
 - id: Urikohimeko-f000075
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1730,25 +590,6 @@
   sound_begin: 196320
   sound_end: 201120
   sentence: いつまでもかわいらしい小さな女の子でした。
-  words:
-    - word: いつ
-      position: 0
-    - word: まで
-      position: 2
-    - word: も
-      position: 4
-    - word: かわいらしい
-      base: 可愛らしい
-      position: 5
-    - word: 小さな
-      position: 11
-    - word: 女の子
-      position: 14
-    - word: でし
-      base: です
-      position: 17
-    - word: た
-      position: 19
 - id: Urikohimeko-f000076
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1757,27 +598,6 @@
   sound_begin: 201120
   sound_end: 203840
   sentence: でも機を織ることが大すきで、
-  words:
-    - word: で
-      position: 0
-    - word: も
-      position: 1
-    - word: 機
-      position: 2
-    - word: を
-      position: 3
-    - word: 織る
-      position: 4
-    - word: こと
-      position: 6
-    - word: が
-      position: 8
-    - word: 大すき
-      base: 大好き
-      position: 9
-    - word: で
-      base: だ
-      position: 12
 - id: Urikohimeko-f000077
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1786,34 +606,6 @@
   sound_begin: 203840
   sound_end: 208138
   sentence: かわいらしい機をおじいさんにこしらえてもらって、
-  words:
-    - word: かわいらしい
-      base: 可愛らしい
-      position: 0
-    - word: 機
-      position: 6
-    - word: を
-      position: 7
-    - word: お
-      base: 御
-      position: 8
-    - word: じい
-      base: 爺
-      position: 9
-    - word: さん
-      position: 11
-    - word: に
-      position: 13
-    - word: こしらえ
-      base: 拵える
-      position: 14
-    - word: て
-      position: 18
-    - word: もらっ
-      base: 貰う
-      position: 19
-    - word: て
-      position: 22
 - id: Urikohimeko-f000078
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1822,9 +614,6 @@
   sound_begin: 208138
   sound_end: 209040
   sentence: 毎日、
-  words:
-    - word: 毎日
-      position: 0
 - id: Urikohimeko-f000079
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1833,9 +622,6 @@
   sound_begin: 209040
   sound_end: 210367
   sentence: 毎日、
-  words:
-    - word: 毎日
-      position: 0
 - id: Urikohimeko-f000080
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1844,14 +630,6 @@
   sound_begin: 210367
   sound_end: 211360
   sentence: とんからりこ、
-  words:
-    - word: とん
-      position: 0
-    - word: からり
-      position: 2
-    - word: こ
-      base: 来る
-      position: 5
 - id: Urikohimeko-f000081
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1860,14 +638,6 @@
   sound_begin: 211360
   sound_end: 213520
   sentence: とんからりこ、
-  words:
-    - word: とん
-      position: 0
-    - word: からり
-      position: 2
-    - word: こ
-      base: 来る
-      position: 5
 - id: Urikohimeko-f000082
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1876,11 +646,6 @@
   sound_begin: 213520
   sound_end: 215280
   sentence: ぎいぎいばったん、
-  words:
-    - word: ぎいぎい
-      position: 0
-    - word: ばったん
-      position: 4
 - id: Urikohimeko-f000083
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1889,11 +654,6 @@
   sound_begin: 215280
   sound_end: 217560
   sentence: ぎいばったん、
-  words:
-    - word: ぎい
-      position: 0
-    - word: ばったん
-      position: 2
 - id: Urikohimeko-f000084
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1902,24 +662,6 @@
   sound_begin: 217560
   sound_end: 220040
   sentence: 機を織っていました。
-  words:
-    - word: 機
-      position: 0
-    - word: を
-      position: 1
-    - word: 織っ
-      base: 織る
-      position: 2
-    - word: て
-      position: 4
-    - word: い
-      base: 居る
-      position: 5
-    - word: まし
-      base: ます
-      position: 6
-    - word: た
-      position: 8
 - id: Urikohimeko-f000085
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1928,24 +670,6 @@
   sound_begin: 220040
   sound_end: 222160
   sentence: おじいさんはいつものとおり、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: じい
-      base: 爺
-      position: 1
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
-    - word: いつも
-      position: 6
-    - word: の
-      position: 9
-    - word: とおり
-      base: 通り
-      position: 10
 - id: Urikohimeko-f000086
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1954,28 +678,6 @@
   sound_begin: 222160
   sound_end: 224800
   sentence: 山へしば刈りに出かけます。
-  words:
-    - word: 山
-      position: 0
-    - word: へ
-      position: 1
-    - word: し
-      base: 為る
-      position: 2
-    - word: ば
-      position: 3
-    - word: 刈り
-      position: 4
-    - word: に
-      position: 6
-    - word: 出
-      base: 出る
-      position: 7
-    - word: かけ
-      base: 掛ける
-      position: 8
-    - word: ます
-      position: 10
 - id: Urikohimeko-f000087
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -1984,33 +686,6 @@
   sound_begin: 224800
   sound_end: 228520
   sentence: おばあさんは川へ洗濯に出かけます。
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: ばあ
-      base: 婆
-      position: 1
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
-    - word: 川
-      position: 6
-    - word: へ
-      position: 7
-    - word: 洗濯
-      position: 8
-    - word: に
-      position: 10
-    - word: 出
-      base: 出る
-      position: 11
-    - word: かけ
-      base: 掛ける
-      position: 12
-    - word: ます
-      position: 14
 - id: Urikohimeko-f000088
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2019,20 +694,6 @@
   sound_begin: 228520
   sound_end: 231480
   sentence: 瓜子姫子はあとに一人、
-  words:
-    - word: 瓜子姫
-      position: 0
-    - word: 子
-      position: 3
-    - word: は
-      position: 4
-    - word: あと
-      base: 後
-      position: 5
-    - word: に
-      position: 7
-    - word: 一人
-      position: 8
 - id: Urikohimeko-f000089
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2041,24 +702,6 @@
   sound_begin: 231480
   sound_end: 233880
   sentence: おとなしくお留守番をして、
-  words:
-    - word: おとなしく
-      base: 大人しい
-      position: 0
-    - word: お
-      base: 御
-      position: 5
-    - word: 留守
-      position: 6
-    - word: 番
-      position: 8
-    - word: を
-      position: 9
-    - word: し
-      base: 為る
-      position: 10
-    - word: て
-      position: 11
 - id: Urikohimeko-f000090
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2067,9 +710,6 @@
   sound_begin: 233880
   sound_end: 234760
   sentence: あいかわらず、
-  words:
-    - word: あいかわらず
-      position: 0
 - id: Urikohimeko-f000091
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2078,14 +718,6 @@
   sound_begin: 234760
   sound_end: 236280
   sentence: とんからりこ、
-  words:
-    - word: とん
-      position: 0
-    - word: からり
-      position: 2
-    - word: こ
-      base: 来る
-      position: 5
 - id: Urikohimeko-f000092
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2094,14 +726,6 @@
   sound_begin: 236280
   sound_end: 238160
   sentence: とんからりこ、
-  words:
-    - word: とん
-      position: 0
-    - word: からり
-      position: 2
-    - word: こ
-      base: 来る
-      position: 5
 - id: Urikohimeko-f000093
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2110,11 +734,6 @@
   sound_begin: 238160
   sound_end: 239280
   sentence: ぎいぎいばったん、
-  words:
-    - word: ぎいぎい
-      position: 0
-    - word: ばったん
-      position: 4
 - id: Urikohimeko-f000094
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2123,24 +742,6 @@
   sound_begin: 239280
   sound_end: 244240
   sentence: 機を織っていました。
-  words:
-    - word: 機
-      position: 0
-    - word: を
-      position: 1
-    - word: 織っ
-      base: 織る
-      position: 2
-    - word: て
-      position: 4
-    - word: い
-      base: 居る
-      position: 5
-    - word: まし
-      base: ます
-      position: 6
-    - word: た
-      position: 8
 - id: Urikohimeko-f000095
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2149,27 +750,6 @@
   sound_begin: 244240
   sound_end: 246480
   sentence: おじいさんとおばあさんは、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: じい
-      base: 爺
-      position: 1
-    - word: さん
-      position: 3
-    - word: と
-      position: 5
-    - word: お
-      base: 御
-      position: 6
-    - word: ばあ
-      base: 婆
-      position: 7
-    - word: さん
-      position: 9
-    - word: は
-      position: 11
 - id: Urikohimeko-f000096
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2178,25 +758,6 @@
   sound_begin: 246480
   sound_end: 249800
   sentence: いつも出がけに瓜子姫子に向かって、
-  words:
-    - word: いつも
-      position: 0
-    - word: 出がけ
-      base: 出掛け
-      position: 3
-    - word: に
-      position: 6
-    - word: 瓜子姫
-      position: 7
-    - word: 子
-      position: 10
-    - word: に
-      position: 11
-    - word: 向かっ
-      base: 向かう
-      position: 12
-    - word: て
-      position: 15
 - id: Urikohimeko-f000097
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2205,20 +766,6 @@
   sound_begin: 249800
   sound_end: 253400
   sentence: 「この山の上には、
-  words:
-    - word: この
-      base: 此の
-      position: 1
-    - word: 山
-      position: 3
-    - word: の
-      position: 4
-    - word: 上
-      position: 5
-    - word: に
-      position: 6
-    - word: は
-      position: 7
 - id: Urikohimeko-f000098
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2227,37 +774,6 @@
   sound_begin: 253400
   sound_end: 257079
   sentence: あまんじゃくというわるものが住んでいる。
-  words:
-    - word: あ
-      base: あー
-      position: 0
-    - word: ま
-      base: まー
-      position: 1
-    - word: んじゃ
-      base: で
-      position: 2
-    - word: く
-      base: 九
-      position: 5
-    - word: と
-      position: 6
-    - word: いう
-      base: 言う
-      position: 7
-    - word: わるもの
-      base: 悪者
-      position: 9
-    - word: が
-      position: 13
-    - word: 住ん
-      base: 住む
-      position: 14
-    - word: で
-      position: 16
-    - word: いる
-      base: 居る
-      position: 17
 - id: Urikohimeko-f000099
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2266,34 +782,6 @@
   sound_begin: 257079
   sound_end: 260000
   sentence: 留守にお前をとりに来るかも知れないから、
-  words:
-    - word: 留守
-      position: 0
-    - word: に
-      position: 2
-    - word: お前
-      base: 御前
-      position: 3
-    - word: を
-      position: 5
-    - word: とり
-      base: 取る
-      position: 6
-    - word: に
-      position: 8
-    - word: 来る
-      position: 9
-    - word: か
-      position: 11
-    - word: も
-      position: 12
-    - word: 知れ
-      base: 知る
-      position: 13
-    - word: ない
-      position: 15
-    - word: から
-      position: 17
 - id: Urikohimeko-f000100
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2302,28 +790,6 @@
   sound_begin: 260000
   sound_end: 263600
   sentence: けっして戸をあけてはいけないよ。」
-  words:
-    - word: けっして
-      base: 決して
-      position: 0
-    - word: 戸
-      position: 4
-    - word: を
-      position: 5
-    - word: あけ
-      base: あける
-      position: 6
-    - word: て
-      position: 8
-    - word: は
-      position: 9
-    - word: いけ
-      base: 行く
-      position: 10
-    - word: ない
-      position: 12
-    - word: よ
-      position: 14
 - id: Urikohimeko-f000101
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2332,14 +798,6 @@
   sound_begin: 263600
   sound_end: 266360
   sentence: といって、
-  words:
-    - word: と
-      position: 0
-    - word: いっ
-      base: 言う
-      position: 1
-    - word: て
-      position: 3
 - id: Urikohimeko-f000102
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2348,32 +806,6 @@
   sound_begin: 266360
   sound_end: 271400
   sentence: しっかり戸をしめて出て行きました。
-  words:
-    - word: しっかり
-      base: 確り
-      position: 0
-    - word: 戸
-      position: 4
-    - word: を
-      position: 5
-    - word: しめ
-      base: しめる
-      position: 6
-    - word: て
-      position: 8
-    - word: 出
-      base: 出る
-      position: 9
-    - word: て
-      position: 10
-    - word: 行き
-      base: 行く
-      position: 11
-    - word: まし
-      base: ます
-      position: 13
-    - word: た
-      position: 15
 - id: Urikohimeko-f000103
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2382,10 +814,6 @@
   sound_begin: 271395
   sound_end: 273215
   sentence: 二
-  words:
-    - word: 二
-      base: '2'
-      position: 0
 - id: Urikohimeko-f000104
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2394,21 +822,6 @@
   sound_begin: 274080
   sound_end: 276320
   sentence: するとある日のこと、
-  words:
-    - word: する
-      base: 為る
-      position: 0
-    - word: と
-      position: 2
-    - word: ある
-      base: 有る
-      position: 3
-    - word: 日
-      position: 5
-    - word: の
-      position: 6
-    - word: こと
-      position: 7
 - id: Urikohimeko-f000105
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2417,17 +830,6 @@
   sound_begin: 276320
   sound_end: 278160
   sentence: 瓜子姫子が一人で、
-  words:
-    - word: 瓜子姫
-      position: 0
-    - word: 子
-      position: 3
-    - word: が
-      position: 4
-    - word: 一人
-      position: 5
-    - word: で
-      position: 7
 - id: Urikohimeko-f000106
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2436,14 +838,6 @@
   sound_begin: 278160
   sound_end: 279400
   sentence: とんからりこ、
-  words:
-    - word: とん
-      position: 0
-    - word: からり
-      position: 2
-    - word: こ
-      base: 来る
-      position: 5
 - id: Urikohimeko-f000107
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2452,14 +846,6 @@
   sound_begin: 279400
   sound_end: 281640
   sentence: とんからりこ、
-  words:
-    - word: とん
-      position: 0
-    - word: からり
-      position: 2
-    - word: こ
-      base: 来る
-      position: 5
 - id: Urikohimeko-f000108
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2468,11 +854,6 @@
   sound_begin: 281640
   sound_end: 283400
   sentence: ぎいぎいばったん、
-  words:
-    - word: ぎいぎい
-      position: 0
-    - word: ばったん
-      position: 4
 - id: Urikohimeko-f000109
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2481,23 +862,6 @@
   sound_begin: 283400
   sound_end: 286160
   sentence: 機を織っておりますと、
-  words:
-    - word: 機
-      position: 0
-    - word: を
-      position: 1
-    - word: 織っ
-      base: 織る
-      position: 2
-    - word: て
-      position: 4
-    - word: おり
-      base: おる
-      position: 5
-    - word: ます
-      position: 7
-    - word: と
-      position: 9
 - id: Urikohimeko-f000110
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2506,37 +870,6 @@
   sound_begin: 286160
   sound_end: 288800
   sentence: とうとうあまんじゃくがやって来ました。
-  words:
-    - word: とうとう
-      base: 到頭
-      position: 0
-    - word: あ
-      base: あー
-      position: 4
-    - word: ま
-      base: まー
-      position: 5
-    - word: んじゃ
-      base: で
-      position: 6
-    - word: く
-      base: 九
-      position: 9
-    - word: が
-      position: 10
-    - word: やっ
-      base: 遣る
-      position: 11
-    - word: て
-      position: 13
-    - word: 来
-      base: 来る
-      position: 14
-    - word: まし
-      base: ます
-      position: 15
-    - word: た
-      position: 17
 - id: Urikohimeko-f000111
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2545,24 +878,6 @@
   sound_begin: 288800
   sound_end: 294480
   sentence: そしてやさしい猫なで声をつくって、
-  words:
-    - word: そして
-      position: 0
-    - word: やさしい
-      base: 優しい
-      position: 3
-    - word: 猫なで
-      base: 猫撫で
-      position: 7
-    - word: 声
-      position: 10
-    - word: を
-      position: 11
-    - word: つくっ
-      base: 作る
-      position: 12
-    - word: て
-      position: 15
 - id: Urikohimeko-f000112
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2571,9 +886,6 @@
   sound_begin: 294480
   sound_end: 295560
   sentence: 「もしもし、
-  words:
-    - word: もしもし
-      position: 1
 - id: Urikohimeko-f000113
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2582,11 +894,6 @@
   sound_begin: 295560
   sound_end: 296560
   sentence: 瓜子姫子、
-  words:
-    - word: 瓜子姫
-      position: 0
-    - word: 子
-      position: 3
 - id: Urikohimeko-f000114
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2595,27 +902,6 @@
   sound_begin: 296560
   sound_end: 298760
   sentence: この戸をあけておくれな。
-  words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: 戸
-      position: 2
-    - word: を
-      position: 3
-    - word: あけ
-      base: あける
-      position: 4
-    - word: て
-      position: 6
-    - word: お
-      base: 御
-      position: 7
-    - word: くれ
-      base: 呉れる
-      position: 8
-    - word: な
-      position: 10
 - id: Urikohimeko-f000115
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2624,19 +910,6 @@
   sound_begin: 298760
   sound_end: 300880
   sentence: 二人で仲よく遊ぼうよ。」
-  words:
-    - word: 二人
-      position: 0
-    - word: で
-      position: 2
-    - word: 仲よく
-      base: 仲良く
-      position: 3
-    - word: 遊ぼう
-      base: 遊ぶ
-      position: 6
-    - word: よ
-      position: 9
 - id: Urikohimeko-f000116
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2645,17 +918,6 @@
   sound_begin: 300880
   sound_end: 303680
   sentence: といいました。
-  words:
-    - word: と
-      position: 0
-    - word: いい
-      base: 言う
-      position: 1
-    - word: まし
-      base: ます
-      position: 3
-    - word: た
-      position: 5
 - id: Urikohimeko-f000117
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2664,9 +926,6 @@
   sound_begin: 303680
   sound_end: 304600
   sentence: 「いいえ、
-  words:
-    - word: いいえ
-      position: 1
 - id: Urikohimeko-f000118
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2675,19 +934,6 @@
   sound_begin: 304600
   sound_end: 306628
   sentence: あけられません。」
-  words:
-    - word: あけ
-      base: あける
-      position: 0
-    - word: られ
-      base: られる
-      position: 2
-    - word: ませ
-      base: ます
-      position: 4
-    - word: ん
-      base: ず
-      position: 6
 - id: Urikohimeko-f000119
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2696,9 +942,6 @@
   sound_begin: 306628
   sound_end: 307240
   sentence: と、
-  words:
-    - word: と
-      position: 0
 - id: Urikohimeko-f000120
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2707,21 +950,6 @@
   sound_begin: 307240
   sound_end: 309640
   sentence: 瓜子姫子はいいました。
-  words:
-    - word: 瓜子姫
-      position: 0
-    - word: 子
-      position: 3
-    - word: は
-      position: 4
-    - word: いい
-      base: 言う
-      position: 5
-    - word: まし
-      base: ます
-      position: 7
-    - word: た
-      position: 9
 - id: Urikohimeko-f000121
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2730,11 +958,6 @@
   sound_begin: 309640
   sound_end: 310960
   sentence: 「瓜子姫子、
-  words:
-    - word: 瓜子姫
-      position: 1
-    - word: 子
-      position: 4
 - id: Urikohimeko-f000122
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2743,24 +966,6 @@
   sound_begin: 310960
   sound_end: 313778
   sentence: 少しでいいからあけておくれ、
-  words:
-    - word: 少し
-      position: 0
-    - word: で
-      position: 2
-    - word: いい
-      base: 良い
-      position: 3
-    - word: から
-      position: 5
-    - word: あけ
-      base: あける
-      position: 7
-    - word: て
-      position: 9
-    - word: おくれ
-      base: 遅れる
-      position: 10
 - id: Urikohimeko-f000123
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2769,26 +974,6 @@
   sound_begin: 313778
   sound_end: 315680
   sentence: 指の入るだけあけておくれ。」
-  words:
-    - word: 指
-      position: 0
-    - word: の
-      position: 1
-    - word: 入る
-      position: 2
-    - word: だけ
-      position: 4
-    - word: あけ
-      base: あける
-      position: 6
-    - word: て
-      position: 8
-    - word: お
-      base: 御
-      position: 9
-    - word: くれ
-      base: 呉れる
-      position: 10
 - id: Urikohimeko-f000124
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2797,13 +982,6 @@
   sound_begin: 317580
   sound_end: 318640
   sentence: 「そんなら、
-  words:
-    - word: そん
-      base: 其れ
-      position: 1
-    - word: なら
-      base: だ
-      position: 3
 - id: Urikohimeko-f000125
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2812,18 +990,6 @@
   sound_begin: 318640
   sound_end: 321880
   sentence: それだけあけましょう。」
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: だけ
-      position: 2
-    - word: あけ
-      base: あける
-      position: 4
-    - word: ましょう
-      base: ます
-      position: 6
 - id: Urikohimeko-f000126
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2832,19 +998,6 @@
   sound_begin: 321880
   sound_end: 323880
   sentence: 「もう少しあけておくれ、
-  words:
-    - word: もう
-      position: 1
-    - word: 少し
-      position: 3
-    - word: あけ
-      base: あける
-      position: 5
-    - word: て
-      position: 7
-    - word: おくれ
-      base: 遅れる
-      position: 8
 - id: Urikohimeko-f000127
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2853,11 +1006,6 @@
   sound_begin: 323880
   sound_end: 325200
   sentence: 瓜子姫子。
-  words:
-    - word: 瓜子姫
-      position: 0
-    - word: 子
-      position: 3
 - id: Urikohimeko-f000128
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2866,20 +1014,6 @@
   sound_begin: 325200
   sound_end: 327400
   sentence: せめてこの手が入るだけ。」
-  words:
-    - word: せめて
-      position: 0
-    - word: この
-      base: 此の
-      position: 3
-    - word: 手
-      position: 5
-    - word: が
-      position: 6
-    - word: 入る
-      position: 7
-    - word: だけ
-      position: 9
 - id: Urikohimeko-f000129
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2888,13 +1022,6 @@
   sound_begin: 329500
   sound_end: 330814
   sentence: 「そんなら、
-  words:
-    - word: そん
-      base: 其れ
-      position: 1
-    - word: なら
-      base: だ
-      position: 3
 - id: Urikohimeko-f000130
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2903,18 +1030,6 @@
   sound_begin: 330814
   sound_end: 334160
   sentence: それだけあけましょう。」
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: だけ
-      position: 2
-    - word: あけ
-      base: あける
-      position: 4
-    - word: ましょう
-      base: ます
-      position: 6
 - id: Urikohimeko-f000131
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2923,11 +1038,6 @@
   sound_begin: 334160
   sound_end: 335560
   sentence: 「瓜子姫子、
-  words:
-    - word: 瓜子姫
-      position: 1
-    - word: 子
-      position: 4
 - id: Urikohimeko-f000132
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2936,13 +1046,6 @@
   sound_begin: 335560
   sound_end: 337320
   sentence: もう少しだ。
-  words:
-    - word: もう
-      position: 0
-    - word: 少し
-      position: 2
-    - word: だ
-      position: 4
 - id: Urikohimeko-f000133
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2951,18 +1054,6 @@
   sound_begin: 337320
   sound_end: 338600
   sentence: あけておくれ。
-  words:
-    - word: あけ
-      base: あける
-      position: 0
-    - word: て
-      position: 2
-    - word: お
-      base: 御
-      position: 3
-    - word: くれ
-      base: 呉れる
-      position: 4
 - id: Urikohimeko-f000134
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2971,17 +1062,6 @@
   sound_begin: 338600
   sound_end: 343600
   sentence: せめて頭の入るだけ。」
-  words:
-    - word: せめて
-      position: 0
-    - word: 頭
-      position: 3
-    - word: の
-      position: 4
-    - word: 入る
-      position: 5
-    - word: だけ
-      position: 7
 - id: Urikohimeko-f000135
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -2990,20 +1070,6 @@
   sound_begin: 343600
   sound_end: 345320
   sentence: しかたがないので、
-  words:
-    - word: しかた
-      base: 仕方
-      position: 0
-    - word: が
-      position: 3
-    - word: ない
-      base: 無い
-      position: 4
-    - word: の
-      position: 6
-    - word: で
-      base: だ
-      position: 7
 - id: Urikohimeko-f000136
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -3012,33 +1078,6 @@
   sound_begin: 345320
   sound_end: 350400
   sentence: 瓜子姫子は頭の入るだけあけてやりますと、
-  words:
-    - word: 瓜子姫
-      position: 0
-    - word: 子
-      position: 3
-    - word: は
-      position: 4
-    - word: 頭
-      position: 5
-    - word: の
-      position: 6
-    - word: 入る
-      position: 7
-    - word: だけ
-      position: 9
-    - word: あけ
-      base: あける
-      position: 11
-    - word: て
-      position: 13
-    - word: やり
-      base: 遣る
-      position: 14
-    - word: ます
-      position: 16
-    - word: と
-      position: 18
 - id: Urikohimeko-f000137
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -3047,51 +1086,6 @@
   sound_begin: 350400
   sound_end: 355560
   sentence: あまんじゃくはするするとうちの中へ入って来ました。
-  words:
-    - word: あ
-      base: あー
-      position: 0
-    - word: ま
-      base: まー
-      position: 1
-    - word: んじゃ
-      base: で
-      position: 2
-    - word: く
-      base: 九
-      position: 5
-    - word: は
-      position: 6
-    - word: する
-      base: 為る
-      position: 7
-    - word: する
-      base: 為る
-      position: 9
-    - word: と
-      position: 11
-    - word: うち
-      base: 内
-      position: 12
-    - word: の
-      position: 14
-    - word: 中
-      position: 15
-    - word: へ
-      position: 16
-    - word: 入っ
-      base: 入る
-      position: 17
-    - word: て
-      position: 19
-    - word: 来
-      base: 来る
-      position: 20
-    - word: まし
-      base: ます
-      position: 21
-    - word: た
-      position: 23
 - id: Urikohimeko-f000138
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -3100,11 +1094,6 @@
   sound_begin: 355560
   sound_end: 356760
   sentence: 「瓜子姫子、
-  words:
-    - word: 瓜子姫
-      position: 1
-    - word: 子
-      position: 4
 - id: Urikohimeko-f000139
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -3113,29 +1102,6 @@
   sound_begin: 356760
   sound_end: 360057
   sentence: 裏の山へ柿を取りに行こうか。」
-  words:
-    - word: 裏
-      position: 0
-    - word: の
-      position: 1
-    - word: 山
-      position: 2
-    - word: へ
-      position: 3
-    - word: 柿
-      position: 4
-    - word: を
-      position: 5
-    - word: 取り
-      base: 取る
-      position: 6
-    - word: に
-      position: 8
-    - word: 行こう
-      base: 行く
-      position: 9
-    - word: か
-      position: 12
 - id: Urikohimeko-f000140
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -3144,9 +1110,6 @@
   sound_begin: 360057
   sound_end: 360760
   sentence: と、
-  words:
-    - word: と
-      position: 0
 - id: Urikohimeko-f000141
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -3155,29 +1118,6 @@
   sound_begin: 360760
   sound_end: 362000
   sentence: あまんじゃくがいいました。
-  words:
-    - word: あ
-      base: あー
-      position: 0
-    - word: ま
-      base: まー
-      position: 1
-    - word: んじゃ
-      base: で
-      position: 2
-    - word: く
-      base: 九
-      position: 5
-    - word: が
-      position: 6
-    - word: いい
-      base: 言う
-      position: 7
-    - word: まし
-      base: ます
-      position: 9
-    - word: た
-      position: 11
 - id: Urikohimeko-f000142
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -3186,25 +1126,6 @@
   sound_begin: 362000
   sound_end: 365360
   sentence: 「柿を取りに行くのはいや。
-  words:
-    - word: 柿
-      position: 1
-    - word: を
-      position: 2
-    - word: 取り
-      base: 取る
-      position: 3
-    - word: に
-      position: 5
-    - word: 行く
-      position: 6
-    - word: の
-      position: 8
-    - word: は
-      position: 9
-    - word: いや
-      base: 否
-      position: 10
 - id: Urikohimeko-f000143
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -3213,24 +1134,6 @@
   sound_begin: 365360
   sound_end: 367787
   sentence: おじいさんにしかられるから。」
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: じい
-      base: 爺
-      position: 1
-    - word: さん
-      position: 3
-    - word: に
-      position: 5
-    - word: しから
-      base: 叱る
-      position: 6
-    - word: れる
-      position: 9
-    - word: から
-      position: 11
 - id: Urikohimeko-f000144
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -3239,9 +1142,6 @@
   sound_begin: 367787
   sound_end: 368440
   sentence: と、
-  words:
-    - word: と
-      position: 0
 - id: Urikohimeko-f000145
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -3250,21 +1150,6 @@
   sound_begin: 368440
   sound_end: 370920
   sentence: 瓜子姫子がいいました。
-  words:
-    - word: 瓜子姫
-      position: 0
-    - word: 子
-      position: 3
-    - word: が
-      position: 4
-    - word: いい
-      base: 言う
-      position: 5
-    - word: まし
-      base: ます
-      position: 7
-    - word: た
-      position: 9
 - id: Urikohimeko-f000146
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -3273,23 +1158,6 @@
   sound_begin: 370920
   sound_end: 372120
   sentence: するとあまんじゃくが、
-  words:
-    - word: する
-      base: 為る
-      position: 0
-    - word: と
-      position: 2
-    - word: あ
-      base: あー
-      position: 3
-    - word: ま
-      base: まー
-      position: 4
-    - word: んじゃ
-      base: で
-      position: 5
-    - word: くが
-      position: 8
 - id: Urikohimeko-f000147
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -3298,36 +1166,6 @@
   sound_begin: 372120
   sound_end: 378080
   sentence: こわい目をして瓜子姫子をにらめつけました。
-  words:
-    - word: こわい
-      base: 怖い
-      position: 0
-    - word: 目
-      position: 3
-    - word: を
-      position: 4
-    - word: し
-      base: 為る
-      position: 5
-    - word: て
-      position: 6
-    - word: 瓜子姫
-      position: 7
-    - word: 子
-      position: 10
-    - word: を
-      position: 11
-    - word: にらめ
-      base: 睨む
-      position: 12
-    - word: つけ
-      base: つける
-      position: 15
-    - word: まし
-      base: ます
-      position: 17
-    - word: た
-      position: 19
 - id: Urikohimeko-f000148
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -3336,21 +1174,6 @@
   sound_begin: 378080
   sound_end: 380680
   sentence: 瓜子姫子はこわくなって、
-  words:
-    - word: 瓜子姫
-      position: 0
-    - word: 子
-      position: 3
-    - word: は
-      position: 4
-    - word: こわく
-      base: 怖い
-      position: 5
-    - word: なっ
-      base: 成る
-      position: 8
-    - word: て
-      position: 10
 - id: Urikohimeko-f000149
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -3359,33 +1182,6 @@
   sound_begin: 380680
   sound_end: 386480
   sentence: しかたなしに裏の山までついて行きました。
-  words:
-    - word: しかたなし
-      base: 仕方無い
-      position: 0
-    - word: に
-      position: 5
-    - word: 裏
-      position: 6
-    - word: の
-      position: 7
-    - word: 山
-      position: 8
-    - word: まで
-      position: 9
-    - word: つい
-      base: 付く
-      position: 11
-    - word: て
-      position: 13
-    - word: 行き
-      base: 行く
-      position: 14
-    - word: まし
-      base: ます
-      position: 16
-    - word: た
-      position: 18
 - id: Urikohimeko-f000150
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -3394,19 +1190,6 @@
   sound_begin: 386480
   sound_end: 388480
   sentence: 裏の山へ行くと、
-  words:
-    - word: 裏
-      position: 0
-    - word: の
-      position: 1
-    - word: 山
-      position: 2
-    - word: へ
-      position: 3
-    - word: 行く
-      position: 4
-    - word: と
-      position: 6
 - id: Urikohimeko-f000151
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -3415,41 +1198,6 @@
   sound_begin: 388480
   sound_end: 391977
   sentence: あまんじゃくはするすると柿の木によじ登って、
-  words:
-    - word: あ
-      base: あー
-      position: 0
-    - word: ま
-      base: まー
-      position: 1
-    - word: んじゃ
-      base: で
-      position: 2
-    - word: く
-      base: 九
-      position: 5
-    - word: は
-      position: 6
-    - word: する
-      base: 為る
-      position: 7
-    - word: する
-      base: 為る
-      position: 9
-    - word: と
-      position: 11
-    - word: 柿の木
-      position: 12
-    - word: に
-      position: 15
-    - word: よじ
-      base: 捩る
-      position: 16
-    - word: 登っ
-      base: 上る
-      position: 18
-    - word: て
-      position: 20
 - id: Urikohimeko-f000152
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -3458,21 +1206,6 @@
   sound_begin: 391977
   sound_end: 394520
   sentence: 真っ赤になった柿を、
-  words:
-    - word: 真っ赤
-      position: 0
-    - word: に
-      base: だ
-      position: 3
-    - word: なっ
-      base: 成る
-      position: 4
-    - word: た
-      position: 6
-    - word: 柿
-      position: 7
-    - word: を
-      position: 8
 - id: Urikohimeko-f000153
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -3481,25 +1214,6 @@
   sound_begin: 394520
   sound_end: 396680
   sentence: おいしそうに取っては食べ、
-  words:
-    - word: おいし
-      base: 美味しい
-      position: 0
-    - word: そう
-      position: 3
-    - word: に
-      base: だ
-      position: 5
-    - word: 取っ
-      base: 取る
-      position: 6
-    - word: て
-      position: 8
-    - word: は
-      position: 9
-    - word: 食べ
-      base: 食べる
-      position: 10
 - id: Urikohimeko-f000154
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -3508,25 +1222,6 @@
   sound_begin: 396680
   sound_end: 399400
   sentence: 取っては食べしました。
-  words:
-    - word: 取っ
-      base: 取る
-      position: 0
-    - word: て
-      position: 2
-    - word: は
-      position: 3
-    - word: 食べ
-      base: 食べる
-      position: 4
-    - word: し
-      base: 為る
-      position: 6
-    - word: まし
-      base: ます
-      position: 7
-    - word: た
-      position: 9
 - id: Urikohimeko-f000155
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -3535,24 +1230,6 @@
   sound_begin: 399400
   sound_end: 402440
   sentence: そして下にいる瓜子姫子には、
-  words:
-    - word: そして
-      position: 0
-    - word: 下
-      position: 3
-    - word: に
-      position: 4
-    - word: いる
-      base: 居る
-      position: 5
-    - word: 瓜子姫
-      position: 7
-    - word: 子
-      position: 10
-    - word: に
-      position: 11
-    - word: は
-      position: 12
 - id: Urikohimeko-f000156
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -3561,11 +1238,6 @@
   sound_begin: 402440
   sound_end: 404000
   sentence: 種や、
-  words:
-    - word: 種
-      position: 0
-    - word: や
-      position: 1
 - id: Urikohimeko-f000157
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -3574,20 +1246,6 @@
   sound_begin: 404000
   sound_end: 405560
   sentence: へたばかり投げつけて、
-  words:
-    - word: へた
-      base: 蔕
-      position: 0
-    - word: ばかり
-      position: 2
-    - word: 投げ
-      base: 投げる
-      position: 5
-    - word: つけ
-      base: つける
-      position: 7
-    - word: て
-      position: 9
 - id: Urikohimeko-f000158
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -3596,28 +1254,6 @@
   sound_begin: 405560
   sound_end: 408600
   sentence: 一つも落としてはくれません。
-  words:
-    - word: 一
-      base: '1'
-      position: 0
-    - word: つ
-      position: 1
-    - word: も
-      position: 2
-    - word: 落とし
-      base: 落とす
-      position: 3
-    - word: ては
-      position: 6
-    - word: くれ
-      base: 呉れる
-      position: 8
-    - word: ませ
-      base: ます
-      position: 10
-    - word: ん
-      base: ず
-      position: 12
 - id: Urikohimeko-f000159
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -3626,21 +1262,6 @@
   sound_begin: 408600
   sound_end: 412160
   sentence: 瓜子姫子はうらやましくなって、
-  words:
-    - word: 瓜子姫
-      position: 0
-    - word: 子
-      position: 3
-    - word: は
-      position: 4
-    - word: うらやましく
-      base: 羨ましい
-      position: 5
-    - word: なっ
-      base: 成る
-      position: 11
-    - word: て
-      position: 13
 - id: Urikohimeko-f000160
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -3649,22 +1270,6 @@
   sound_begin: 412160
   sound_end: 414763
   sentence: 「わたしにも一つ下さい。」
-  words:
-    - word: わたし
-      base: 私
-      position: 1
-    - word: に
-      position: 4
-    - word: も
-      position: 5
-    - word: 一
-      base: '1'
-      position: 6
-    - word: つ
-      position: 7
-    - word: 下さい
-      base: 下さる
-      position: 8
 - id: Urikohimeko-f000161
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -3673,16 +1278,6 @@
   sound_begin: 414763
   sound_end: 416200
   sentence: といいますと、
-  words:
-    - word: と
-      position: 0
-    - word: いい
-      base: 言う
-      position: 1
-    - word: ます
-      position: 3
-    - word: と
-      position: 5
 - id: Urikohimeko-f000162
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -3691,21 +1286,6 @@
   sound_begin: 416200
   sound_end: 417600
   sentence: あまんじゃくは、
-  words:
-    - word: あ
-      base: あー
-      position: 0
-    - word: ま
-      base: まー
-      position: 1
-    - word: んじゃ
-      base: で
-      position: 2
-    - word: く
-      base: 九
-      position: 5
-    - word: は
-      position: 6
 - id: Urikohimeko-f000163
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -3714,17 +1294,6 @@
   sound_begin: 417600
   sound_end: 418600
   sentence: 「お前も上がって、
-  words:
-    - word: お前
-      base: 御前
-      position: 1
-    - word: も
-      position: 3
-    - word: 上がっ
-      base: 上がる
-      position: 4
-    - word: て
-      position: 7
 - id: Urikohimeko-f000164
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -3733,19 +1302,6 @@
   sound_begin: 418600
   sound_end: 420499
   sentence: 取って食べるがいい。」
-  words:
-    - word: 取っ
-      base: 取る
-      position: 0
-    - word: て
-      position: 2
-    - word: 食べる
-      position: 3
-    - word: が
-      position: 6
-    - word: いい
-      base: 良い
-      position: 7
 - id: Urikohimeko-f000165
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -3754,14 +1310,6 @@
   sound_begin: 420499
   sound_end: 421640
   sentence: といいながら、
-  words:
-    - word: と
-      position: 0
-    - word: いい
-      base: 言う
-      position: 1
-    - word: ながら
-      position: 3
 - id: Urikohimeko-f000166
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -3770,21 +1318,6 @@
   sound_begin: 421640
   sound_end: 423161
   sentence: 下へおりて来て、
-  words:
-    - word: 下
-      position: 0
-    - word: へ
-      position: 1
-    - word: おり
-      base: 下りる
-      position: 2
-    - word: て
-      position: 4
-    - word: 来
-      base: 来る
-      position: 5
-    - word: て
-      position: 6
 - id: Urikohimeko-f000167
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -3793,38 +1326,6 @@
   sound_begin: 423161
   sound_end: 428880
   sentence: こんどは代わりに瓜子姫子を木の上にのせました。
-  words:
-    - word: こんど
-      base: 今度
-      position: 0
-    - word: は
-      position: 3
-    - word: 代わり
-      position: 4
-    - word: に
-      position: 7
-    - word: 瓜子姫
-      position: 8
-    - word: 子
-      position: 11
-    - word: を
-      position: 12
-    - word: 木
-      position: 13
-    - word: の
-      position: 14
-    - word: 上
-      position: 15
-    - word: に
-      position: 16
-    - word: のせ
-      base: 乗せる
-      position: 17
-    - word: まし
-      base: ます
-      position: 19
-    - word: た
-      position: 21
 - id: Urikohimeko-f000168
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -3833,15 +1334,6 @@
   sound_begin: 428880
   sound_end: 430640
   sentence: のせるときに、
-  words:
-    - word: のせる
-      base: 乗せる
-      position: 0
-    - word: とき
-      base: 時
-      position: 3
-    - word: に
-      position: 5
 - id: Urikohimeko-f000169
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -3850,28 +1342,6 @@
   sound_begin: 430640
   sound_end: 433920
   sentence: 「そんな着物を着て登るとよごれるから。」
-  words:
-    - word: そんな
-      position: 1
-    - word: 着物
-      position: 4
-    - word: を
-      position: 6
-    - word: 着
-      base: 着る
-      position: 7
-    - word: て
-      position: 8
-    - word: 登る
-      base: 上る
-      position: 9
-    - word: と
-      position: 11
-    - word: よごれる
-      base: 汚す
-      position: 12
-    - word: から
-      position: 16
 - id: Urikohimeko-f000170
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -3880,14 +1350,6 @@
   sound_begin: 433920
   sound_end: 435920
   sentence: といって、
-  words:
-    - word: と
-      position: 0
-    - word: いっ
-      base: 言う
-      position: 1
-    - word: て
-      position: 3
 - id: Urikohimeko-f000171
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -3896,37 +1358,6 @@
   sound_begin: 435920
   sound_end: 441800
   sentence: 自分の着物ととりかえて着かえさせました。
-  words:
-    - word: 自分
-      position: 0
-    - word: の
-      position: 2
-    - word: 着物
-      position: 3
-    - word: と
-      position: 5
-    - word: とり
-      base: 取る
-      position: 6
-    - word: かえ
-      base: かえる
-      position: 8
-    - word: て
-      position: 10
-    - word: 着
-      base: 着る
-      position: 11
-    - word: かえ
-      base: かえる
-      position: 12
-    - word: させ
-      base: させる
-      position: 14
-    - word: まし
-      base: ます
-      position: 16
-    - word: た
-      position: 18
 - id: Urikohimeko-f000172
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -3935,41 +1366,6 @@
   sound_begin: 441800
   sound_end: 447960
   sentence: 瓜子姫子がやっと柿の木に登って柿を取ろうとしますと、
-  words:
-    - word: 瓜子姫
-      position: 0
-    - word: 子
-      position: 3
-    - word: が
-      position: 4
-    - word: やっと
-      base: 漸と
-      position: 5
-    - word: 柿の木
-      position: 8
-    - word: に
-      position: 11
-    - word: 登っ
-      base: 上る
-      position: 12
-    - word: て
-      position: 14
-    - word: 柿
-      position: 15
-    - word: を
-      position: 16
-    - word: 取ろう
-      base: 取る
-      position: 17
-    - word: と
-      position: 20
-    - word: し
-      base: 為る
-      position: 21
-    - word: ます
-      position: 22
-    - word: と
-      position: 24
 - id: Urikohimeko-f000173
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -3978,21 +1374,6 @@
   sound_begin: 447960
   sound_end: 449160
   sentence: あまんじゃくは、
-  words:
-    - word: あ
-      base: あー
-      position: 0
-    - word: ま
-      base: まー
-      position: 1
-    - word: んじゃ
-      base: で
-      position: 2
-    - word: く
-      base: 九
-      position: 5
-    - word: は
-      position: 6
 - id: Urikohimeko-f000174
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -4001,23 +1382,6 @@
   sound_begin: 449160
   sound_end: 451240
   sentence: どこから取って来たか、
-  words:
-    - word: どこ
-      position: 0
-    - word: から
-      position: 2
-    - word: 取っ
-      base: 取る
-      position: 4
-    - word: て
-      position: 6
-    - word: 来
-      base: 来る
-      position: 7
-    - word: た
-      position: 8
-    - word: か
-      position: 9
 - id: Urikohimeko-f000175
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -4026,22 +1390,6 @@
   sound_begin: 451240
   sound_end: 453080
   sentence: 藤づるを持って来て、
-  words:
-    - word: 藤づる
-      base: 藤蔓
-      position: 0
-    - word: を
-      position: 3
-    - word: 持っ
-      base: 持つ
-      position: 4
-    - word: て
-      position: 6
-    - word: 来
-      base: 来る
-      position: 7
-    - word: て
-      position: 8
 - id: Urikohimeko-f000176
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -4050,33 +1398,6 @@
   sound_begin: 453080
   sound_end: 457800
   sentence: 瓜子姫子を柿の木にしばりつけてしまいました。
-  words:
-    - word: 瓜子姫
-      position: 0
-    - word: 子
-      position: 3
-    - word: を
-      position: 4
-    - word: 柿の木
-      position: 5
-    - word: に
-      position: 8
-    - word: しばり
-      base: 縛る
-      position: 9
-    - word: つけ
-      base: つける
-      position: 12
-    - word: て
-      position: 14
-    - word: しまい
-      base: 仕舞う
-      position: 15
-    - word: まし
-      base: ます
-      position: 18
-    - word: た
-      position: 20
 - id: Urikohimeko-f000177
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -4085,28 +1406,6 @@
   sound_begin: 457800
   sound_end: 461730
   sentence: そして自分は瓜子姫子の着物を着て、
-  words:
-    - word: そして
-      position: 0
-    - word: 自分
-      position: 3
-    - word: は
-      position: 5
-    - word: 瓜子姫
-      position: 6
-    - word: 子
-      position: 9
-    - word: の
-      position: 10
-    - word: 着物
-      position: 11
-    - word: を
-      position: 13
-    - word: 着
-      base: 着る
-      position: 14
-    - word: て
-      position: 15
 - id: Urikohimeko-f000178
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -4115,18 +1414,6 @@
   sound_begin: 461730
   sound_end: 464000
   sentence: 瓜子姫子に化けて、
-  words:
-    - word: 瓜子姫
-      position: 0
-    - word: 子
-      position: 3
-    - word: に
-      position: 4
-    - word: 化け
-      base: 化ける
-      position: 5
-    - word: て
-      position: 7
 - id: Urikohimeko-f000179
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -4135,21 +1422,6 @@
   sound_begin: 464000
   sound_end: 465640
   sentence: うちの中に入って、
-  words:
-    - word: うち
-      base: 内
-      position: 0
-    - word: の
-      position: 2
-    - word: 中
-      position: 3
-    - word: に
-      position: 4
-    - word: 入っ
-      base: 入る
-      position: 5
-    - word: て
-      position: 7
 - id: Urikohimeko-f000180
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -4158,21 +1430,6 @@
   sound_begin: 465640
   sound_end: 467680
   sentence: すました顔をして、
-  words:
-    - word: すまし
-      base: すます
-      position: 0
-    - word: た
-      position: 3
-    - word: 顔
-      position: 4
-    - word: を
-      position: 5
-    - word: し
-      base: 為る
-      position: 6
-    - word: て
-      position: 7
 - id: Urikohimeko-f000181
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -4181,17 +1438,6 @@
   sound_begin: 467680
   sound_end: 469480
   sentence: またとんからりこ、
-  words:
-    - word: また
-      base: 又
-      position: 0
-    - word: とん
-      position: 2
-    - word: からり
-      position: 4
-    - word: こ
-      base: 来る
-      position: 7
 - id: Urikohimeko-f000182
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -4200,14 +1446,6 @@
   sound_begin: 469480
   sound_end: 471120
   sentence: とんからりこ、
-  words:
-    - word: とん
-      position: 0
-    - word: からり
-      position: 2
-    - word: こ
-      base: 来る
-      position: 5
 - id: Urikohimeko-f000183
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -4216,11 +1454,6 @@
   sound_begin: 471120
   sound_end: 472946
   sentence: ぎいぎいばったん、
-  words:
-    - word: ぎいぎい
-      position: 0
-    - word: ばったん
-      position: 4
 - id: Urikohimeko-f000184
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -4229,24 +1462,6 @@
   sound_begin: 472946
   sound_end: 474440
   sentence: 機を織っていました。
-  words:
-    - word: 機
-      position: 0
-    - word: を
-      position: 1
-    - word: 織っ
-      base: 織る
-      position: 2
-    - word: て
-      position: 4
-    - word: い
-      base: 居る
-      position: 5
-    - word: まし
-      base: ます
-      position: 6
-    - word: た
-      position: 8
 - id: Urikohimeko-f000185
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -4255,10 +1470,6 @@
   sound_begin: 476540
   sound_end: 476880
   sentence: 三
-  words:
-    - word: 三
-      base: '3'
-      position: 0
 - id: Urikohimeko-f000186
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -4267,15 +1478,6 @@
   sound_begin: 478580
   sound_end: 480120
   sentence: しばらくすると、
-  words:
-    - word: しばらく
-      base: 暫く
-      position: 0
-    - word: する
-      base: 為る
-      position: 4
-    - word: と
-      position: 6
 - id: Urikohimeko-f000187
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -4284,42 +1486,6 @@
   sound_begin: 480120
   sound_end: 483320
   sentence: おじいさんとおばあさんは帰って来ましたが、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: じい
-      base: 爺
-      position: 1
-    - word: さん
-      position: 3
-    - word: と
-      position: 5
-    - word: お
-      base: 御
-      position: 6
-    - word: ばあ
-      base: 婆
-      position: 7
-    - word: さん
-      position: 9
-    - word: は
-      position: 11
-    - word: 帰っ
-      base: 帰る
-      position: 12
-    - word: て
-      position: 14
-    - word: 来
-      base: 来る
-      position: 15
-    - word: まし
-      base: ます
-      position: 16
-    - word: た
-      position: 18
-    - word: が
-      position: 19
 - id: Urikohimeko-f000188
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -4328,24 +1494,6 @@
   sound_begin: 483320
   sound_end: 486480
   sentence: なんにも知らないものですから、
-  words:
-    - word: なんに
-      base: 何
-      position: 0
-    - word: も
-      position: 3
-    - word: 知ら
-      base: 知る
-      position: 4
-    - word: ない
-      position: 6
-    - word: もの
-      base: 物
-      position: 8
-    - word: です
-      position: 10
-    - word: から
-      position: 12
 - id: Urikohimeko-f000189
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -4354,11 +1502,6 @@
   sound_begin: 486480
   sound_end: 487680
   sentence: 「瓜子姫子、
-  words:
-    - word: 瓜子姫
-      position: 1
-    - word: 子
-      position: 4
 - id: Urikohimeko-f000190
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -4367,31 +1510,6 @@
   sound_begin: 487680
   sound_end: 490480
   sentence: よくお留守番をしていたね。
-  words:
-    - word: よく
-      base: 良く
-      position: 0
-    - word: お
-      base: 御
-      position: 2
-    - word: 留守
-      position: 3
-    - word: 番
-      position: 5
-    - word: を
-      position: 6
-    - word: し
-      base: 為る
-      position: 7
-    - word: て
-      position: 8
-    - word: い
-      base: 居る
-      position: 9
-    - word: た
-      position: 10
-    - word: ね
-      position: 11
 - id: Urikohimeko-f000191
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -4400,16 +1518,6 @@
   sound_begin: 490480
   sound_end: 492440
   sentence: さぞさびしかったろう。」
-  words:
-    - word: さぞ
-      base: 嘸
-      position: 0
-    - word: さびしかっ
-      base: 寂しい
-      position: 2
-    - word: たろう
-      base: た
-      position: 7
 - id: Urikohimeko-f000192
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -4418,14 +1526,6 @@
   sound_begin: 492440
   sound_end: 494040
   sentence: といって、
-  words:
-    - word: と
-      position: 0
-    - word: いっ
-      base: 言う
-      position: 1
-    - word: て
-      position: 3
 - id: Urikohimeko-f000193
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -4434,23 +1534,6 @@
   sound_begin: 494040
   sound_end: 496360
   sentence: 頭をさすってやりますと、
-  words:
-    - word: 頭
-      position: 0
-    - word: を
-      position: 1
-    - word: さすっ
-      base: 摩る
-      position: 2
-    - word: て
-      position: 5
-    - word: やり
-      base: 遣る
-      position: 6
-    - word: ます
-      position: 8
-    - word: と
-      position: 10
 - id: Urikohimeko-f000194
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -4459,21 +1542,6 @@
   sound_begin: 496360
   sound_end: 497880
   sentence: あまんじゃくは、
-  words:
-    - word: あ
-      base: あー
-      position: 0
-    - word: ま
-      base: まー
-      position: 1
-    - word: んじゃ
-      base: で
-      position: 2
-    - word: く
-      base: 九
-      position: 5
-    - word: は
-      position: 6
 - id: Urikohimeko-f000195
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -4482,9 +1550,6 @@
   sound_begin: 497880
   sound_end: 498720
   sentence: 「ああ、
-  words:
-    - word: ああ
-      position: 1
 - id: Urikohimeko-f000196
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -4493,9 +1558,6 @@
   sound_begin: 498720
   sound_end: 499080
   sentence: ああ。」
-  words:
-    - word: ああ
-      position: 0
 - id: Urikohimeko-f000197
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -4504,14 +1566,6 @@
   sound_begin: 499080
   sound_end: 501040
   sentence: といいながら、
-  words:
-    - word: と
-      position: 0
-    - word: いい
-      base: 言う
-      position: 1
-    - word: ながら
-      position: 3
 - id: Urikohimeko-f000198
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -4520,21 +1574,6 @@
   sound_begin: 501040
   sound_end: 503903
   sentence: 舌をそっと出しました。
-  words:
-    - word: 舌
-      position: 0
-    - word: を
-      position: 1
-    - word: そっと
-      position: 2
-    - word: 出し
-      base: 出す
-      position: 5
-    - word: まし
-      base: ます
-      position: 7
-    - word: た
-      position: 9
 - id: Urikohimeko-f000199
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -4543,20 +1582,6 @@
   sound_begin: 503903
   sound_end: 506240
   sentence: するとおもての方が、
-  words:
-    - word: する
-      base: 為る
-      position: 0
-    - word: と
-      position: 2
-    - word: おもて
-      position: 3
-    - word: の
-      position: 6
-    - word: 方
-      position: 7
-    - word: が
-      position: 8
 - id: Urikohimeko-f000200
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -4565,22 +1590,6 @@
   sound_begin: 506240
   sound_end: 509360
   sentence: 急にがやがやそうぞうしくなって、
-  words:
-    - word: 急
-      position: 0
-    - word: に
-      base: だ
-      position: 1
-    - word: がやがや
-      position: 2
-    - word: そうぞうしく
-      base: 騒々しい
-      position: 6
-    - word: なっ
-      base: 成る
-      position: 12
-    - word: て
-      position: 14
 - id: Urikohimeko-f000201
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -4589,32 +1598,6 @@
   sound_begin: 509360
   sound_end: 512360
   sentence: りっぱななりをしたお侍が大ぜい、
-  words:
-    - word: りっぱ
-      base: 立派
-      position: 0
-    - word: な
-      base: だ
-      position: 3
-    - word: なり
-      position: 4
-    - word: を
-      position: 6
-    - word: し
-      base: 為る
-      position: 7
-    - word: た
-      position: 8
-    - word: お
-      base: 御
-      position: 9
-    - word: 侍
-      position: 10
-    - word: が
-      position: 11
-    - word: 大ぜい
-      base: 大勢
-      position: 12
 - id: Urikohimeko-f000202
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -4623,17 +1606,6 @@
   sound_begin: 512360
   sound_end: 514480
   sentence: ぴかぴかぬり立てた、
-  words:
-    - word: ぴかぴか
-      position: 0
-    - word: ぬり
-      base: 塗る
-      position: 4
-    - word: 立て
-      base: 立つ
-      position: 6
-    - word: た
-      position: 8
 - id: Urikohimeko-f000203
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -4642,35 +1614,6 @@
   sound_begin: 514480
   sound_end: 517760
   sentence: きれいなおかごをかついでやって来て、
-  words:
-    - word: きれい
-      base: 奇麗
-      position: 0
-    - word: な
-      base: だ
-      position: 3
-    - word: お
-      base: 御
-      position: 4
-    - word: かご
-      position: 5
-    - word: を
-      position: 7
-    - word: かつい
-      base: 担ぐ
-      position: 8
-    - word: で
-      position: 11
-    - word: やっ
-      base: 遣る
-      position: 12
-    - word: て
-      position: 14
-    - word: 来
-      base: 来る
-      position: 15
-    - word: て
-      position: 16
 - id: Urikohimeko-f000204
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -4679,44 +1622,6 @@
   sound_begin: 517760
   sound_end: 521840
   sentence: おじいさんとおばあさんのうちの前にとまりました。
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: じい
-      base: 爺
-      position: 1
-    - word: さん
-      position: 3
-    - word: と
-      position: 5
-    - word: お
-      base: 御
-      position: 6
-    - word: ばあ
-      base: 婆
-      position: 7
-    - word: さん
-      position: 9
-    - word: の
-      position: 11
-    - word: うち
-      base: 内
-      position: 12
-    - word: の
-      position: 14
-    - word: 前
-      position: 15
-    - word: に
-      position: 16
-    - word: とまり
-      base: とまる
-      position: 17
-    - word: まし
-      base: ます
-      position: 20
-    - word: た
-      position: 22
 - id: Urikohimeko-f000205
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -4725,27 +1630,6 @@
   sound_begin: 521840
   sound_end: 523840
   sentence: おじいさんとおばあさんは、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: じい
-      base: 爺
-      position: 1
-    - word: さん
-      position: 3
-    - word: と
-      position: 5
-    - word: お
-      base: 御
-      position: 6
-    - word: ばあ
-      base: 婆
-      position: 7
-    - word: さん
-      position: 9
-    - word: は
-      position: 11
 - id: Urikohimeko-f000206
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -4754,27 +1638,6 @@
   sound_begin: 523840
   sound_end: 526160
   sentence: 何事がはじまったのかと思って、
-  words:
-    - word: 何事
-      position: 0
-    - word: が
-      position: 2
-    - word: はじまっ
-      base: 始まる
-      position: 3
-    - word: た
-      position: 7
-    - word: の
-      position: 8
-    - word: か
-      position: 9
-    - word: と
-      position: 10
-    - word: 思っ
-      base: 思う
-      position: 11
-    - word: て
-      position: 13
 - id: Urikohimeko-f000207
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -4783,21 +1646,6 @@
   sound_begin: 526160
   sound_end: 528120
   sentence: びくびくしていますと、
-  words:
-    - word: びくびく
-      position: 0
-    - word: し
-      base: 為る
-      position: 4
-    - word: て
-      position: 5
-    - word: い
-      base: 居る
-      position: 6
-    - word: ます
-      position: 7
-    - word: と
-      position: 9
 - id: Urikohimeko-f000208
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -4806,19 +1654,6 @@
   sound_begin: 528120
   sound_end: 529960
   sentence: お侍はその時、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 侍
-      position: 1
-    - word: は
-      position: 2
-    - word: その
-      base: 其の
-      position: 3
-    - word: 時
-      position: 5
 - id: Urikohimeko-f000209
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -4827,32 +1662,6 @@
   sound_begin: 529960
   sound_end: 533329
   sentence: おじいさんとおばあさんに向かって、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: じい
-      base: 爺
-      position: 1
-    - word: さん
-      position: 3
-    - word: と
-      position: 5
-    - word: お
-      base: 御
-      position: 6
-    - word: ばあ
-      base: 婆
-      position: 7
-    - word: さん
-      position: 9
-    - word: に
-      position: 11
-    - word: 向かっ
-      base: 向かう
-      position: 12
-    - word: て
-      position: 15
 - id: Urikohimeko-f000210
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -4861,36 +1670,6 @@
   sound_begin: 533329
   sound_end: 538320
   sentence: 「お前の娘は大そう美しい織物を織るという評判だ。
-  words:
-    - word: お前
-      base: 御前
-      position: 1
-    - word: の
-      position: 3
-    - word: 娘
-      position: 4
-    - word: は
-      position: 5
-    - word: 大そう
-      base: 大層
-      position: 6
-    - word: 美しい
-      position: 9
-    - word: 織物
-      position: 12
-    - word: を
-      position: 14
-    - word: 織る
-      position: 15
-    - word: と
-      position: 17
-    - word: いう
-      base: 言う
-      position: 18
-    - word: 評判
-      position: 20
-    - word: だ
-      position: 22
 - id: Urikohimeko-f000211
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -4899,25 +1678,6 @@
   sound_begin: 538320
   sound_end: 540880
   sentence: お城の殿さまと奥方が、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 城
-      position: 1
-    - word: の
-      position: 2
-    - word: 殿
-      position: 3
-    - word: さま
-      base: 様
-      position: 4
-    - word: と
-      position: 6
-    - word: 奥方
-      position: 7
-    - word: が
-      position: 9
 - id: Urikohimeko-f000212
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -4926,43 +1686,6 @@
   sound_begin: 540880
   sound_end: 545240
   sentence: お前の娘の機を織るところが見たいという仰せだから、
-  words:
-    - word: お前
-      base: 御前
-      position: 0
-    - word: の
-      position: 2
-    - word: 娘
-      position: 3
-    - word: の
-      position: 4
-    - word: 機
-      position: 5
-    - word: を
-      position: 6
-    - word: 織る
-      position: 7
-    - word: ところ
-      base: 所
-      position: 9
-    - word: が
-      position: 12
-    - word: 見
-      base: 見る
-      position: 13
-    - word: たい
-      position: 14
-    - word: と
-      position: 16
-    - word: いう
-      base: 言う
-      position: 17
-    - word: 仰せ
-      position: 19
-    - word: だ
-      position: 21
-    - word: から
-      position: 22
 - id: Urikohimeko-f000213
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -4971,29 +1694,6 @@
   sound_begin: 545240
   sound_end: 547440
   sentence: このかごに乗って来てもらいたい。」
-  words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: かご
-      position: 2
-    - word: に
-      position: 4
-    - word: 乗っ
-      base: 乗る
-      position: 5
-    - word: て
-      position: 7
-    - word: 来
-      base: 来る
-      position: 8
-    - word: て
-      position: 9
-    - word: もらい
-      base: 貰う
-      position: 10
-    - word: たい
-      position: 13
 - id: Urikohimeko-f000214
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -5002,17 +1702,6 @@
   sound_begin: 547440
   sound_end: 550240
   sentence: といいました。
-  words:
-    - word: と
-      position: 0
-    - word: いい
-      base: 言う
-      position: 1
-    - word: まし
-      base: ます
-      position: 3
-    - word: た
-      position: 5
 - id: Urikohimeko-f000215
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -5021,35 +1710,6 @@
   sound_begin: 550240
   sound_end: 554280
   sentence: おじいさんとおばあさんは大そうよろこんで、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: じい
-      base: 爺
-      position: 1
-    - word: さん
-      position: 3
-    - word: と
-      position: 5
-    - word: お
-      base: 御
-      position: 6
-    - word: ばあ
-      base: 婆
-      position: 7
-    - word: さん
-      position: 9
-    - word: は
-      position: 11
-    - word: 大そう
-      base: 大層
-      position: 12
-    - word: よろこん
-      base: 喜ぶ
-      position: 15
-    - word: で
-      position: 19
 - id: Urikohimeko-f000216
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -5058,43 +1718,6 @@
   sound_begin: 554280
   sound_end: 560200
   sentence: 瓜子姫子に化けたあまんじゃくをおかごに乗せました。
-  words:
-    - word: 瓜子姫
-      position: 0
-    - word: 子
-      position: 3
-    - word: に
-      position: 4
-    - word: 化け
-      base: 化ける
-      position: 5
-    - word: た
-      position: 7
-    - word: あまん
-      position: 8
-    - word: じゃ
-      base: で
-      position: 11
-    - word: く
-      base: 九
-      position: 13
-    - word: を
-      position: 14
-    - word: お
-      base: 御
-      position: 15
-    - word: かご
-      position: 16
-    - word: に
-      position: 18
-    - word: 乗せ
-      base: 乗せる
-      position: 19
-    - word: まし
-      base: ます
-      position: 21
-    - word: た
-      position: 23
 - id: Urikohimeko-f000217
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -5103,36 +1726,6 @@
   sound_begin: 560200
   sound_end: 563320
   sentence: お侍たちがあまんじゃくを乗せて、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 侍
-      position: 1
-    - word: たち
-      base: 達
-      position: 2
-    - word: が
-      position: 4
-    - word: あ
-      base: あー
-      position: 5
-    - word: ま
-      base: まー
-      position: 6
-    - word: んじゃ
-      base: で
-      position: 7
-    - word: く
-      base: 九
-      position: 10
-    - word: を
-      position: 11
-    - word: 乗せ
-      base: 乗せる
-      position: 12
-    - word: て
-      position: 14
 - id: Urikohimeko-f000218
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -5141,25 +1734,6 @@
   sound_begin: 563320
   sound_end: 565440
   sentence: 裏の山を通りかかりますと、
-  words:
-    - word: 裏
-      position: 0
-    - word: の
-      position: 1
-    - word: 山
-      position: 2
-    - word: を
-      position: 3
-    - word: 通り
-      base: 通る
-      position: 4
-    - word: かかり
-      base: 掛かる
-      position: 6
-    - word: ます
-      position: 9
-    - word: と
-      position: 11
 - id: Urikohimeko-f000219
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -5168,15 +1742,6 @@
   sound_begin: 565440
   sound_end: 568480
   sentence: 柿の木の上で、
-  words:
-    - word: 柿の木
-      position: 0
-    - word: の
-      position: 3
-    - word: 上
-      position: 4
-    - word: で
-      position: 5
 - id: Urikohimeko-f000220
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -5185,9 +1750,6 @@
   sound_begin: 568480
   sound_end: 569200
   sentence: 「ああん、
-  words:
-    - word: ああん
-      position: 1
 - id: Urikohimeko-f000221
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -5196,9 +1758,6 @@
   sound_begin: 569200
   sound_end: 570120
   sentence: ああん、
-  words:
-    - word: ああん
-      position: 0
 - id: Urikohimeko-f000222
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -5207,19 +1766,6 @@
   sound_begin: 570120
   sound_end: 572280
   sentence: 瓜子姫子の乗るかごに、
-  words:
-    - word: 瓜子姫
-      position: 0
-    - word: 子
-      position: 3
-    - word: の
-      position: 4
-    - word: 乗る
-      position: 5
-    - word: かご
-      position: 7
-    - word: に
-      position: 9
 - id: Urikohimeko-f000223
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -5228,28 +1774,6 @@
   sound_begin: 572280
   sound_end: 574400
   sentence: あまんじゃくが乗って行く。
-  words:
-    - word: あ
-      base: あー
-      position: 0
-    - word: ま
-      base: まー
-      position: 1
-    - word: んじゃ
-      base: で
-      position: 2
-    - word: く
-      base: 九
-      position: 5
-    - word: が
-      position: 6
-    - word: 乗っ
-      base: 乗る
-      position: 7
-    - word: て
-      position: 9
-    - word: 行く
-      position: 10
 - id: Urikohimeko-f000224
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -5258,19 +1782,6 @@
   sound_begin: 574400
   sound_end: 576440
   sentence: 瓜子姫子の乗るかごに、
-  words:
-    - word: 瓜子姫
-      position: 0
-    - word: 子
-      position: 3
-    - word: の
-      position: 4
-    - word: 乗る
-      position: 5
-    - word: かご
-      position: 7
-    - word: に
-      position: 9
 - id: Urikohimeko-f000225
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -5279,28 +1790,6 @@
   sound_begin: 576440
   sound_end: 578979
   sentence: あまんじゃくが乗って行く。」
-  words:
-    - word: あ
-      base: あー
-      position: 0
-    - word: ま
-      base: まー
-      position: 1
-    - word: んじゃ
-      base: で
-      position: 2
-    - word: く
-      base: 九
-      position: 5
-    - word: が
-      position: 6
-    - word: 乗っ
-      base: 乗る
-      position: 7
-    - word: て
-      position: 9
-    - word: 行く
-      position: 10
 - id: Urikohimeko-f000226
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -5309,24 +1798,6 @@
   sound_begin: 578979
   sound_end: 582160
   sentence: という声がしました。
-  words:
-    - word: と
-      position: 0
-    - word: いう
-      base: 言う
-      position: 1
-    - word: 声
-      position: 3
-    - word: が
-      position: 4
-    - word: し
-      base: 為る
-      position: 5
-    - word: まし
-      base: ます
-      position: 6
-    - word: た
-      position: 8
 - id: Urikohimeko-f000227
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -5335,9 +1806,6 @@
   sound_begin: 582160
   sound_end: 582559
   sentence: 「おや、
-  words:
-    - word: おや
-      position: 1
 - id: Urikohimeko-f000228
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -5346,11 +1814,6 @@
   sound_begin: 582559
   sound_end: 582960
   sentence: へんだ。」
-  words:
-    - word: へん
-      position: 0
-    - word: だ
-      position: 2
 - id: Urikohimeko-f000229
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -5359,14 +1822,6 @@
   sound_begin: 582960
   sound_end: 583560
   sentence: と思って、
-  words:
-    - word: と
-      position: 0
-    - word: 思っ
-      base: 思う
-      position: 1
-    - word: て
-      position: 3
 - id: Urikohimeko-f000230
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -5375,23 +1830,6 @@
   sound_begin: 583560
   sound_end: 585160
   sentence: そばへ寄ってみますと、
-  words:
-    - word: そば
-      position: 0
-    - word: へ
-      position: 2
-    - word: 寄っ
-      base: 寄る
-      position: 3
-    - word: て
-      position: 5
-    - word: み
-      base: 見る
-      position: 6
-    - word: ます
-      position: 7
-    - word: と
-      position: 9
 - id: Urikohimeko-f000231
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -5400,19 +1838,6 @@
   sound_begin: 585160
   sound_end: 588120
   sentence: かわいそうに瓜子姫子は、
-  words:
-    - word: かわいそう
-      base: 可哀想
-      position: 0
-    - word: に
-      base: だ
-      position: 5
-    - word: 瓜子姫
-      position: 6
-    - word: 子
-      position: 9
-    - word: は
-      position: 10
 - id: Urikohimeko-f000232
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -5421,36 +1846,6 @@
   sound_begin: 588120
   sound_end: 591080
   sentence: あまんじゃくのきたない着物を着せられて、
-  words:
-    - word: あ
-      base: あー
-      position: 0
-    - word: ま
-      base: まー
-      position: 1
-    - word: んじゃ
-      base: で
-      position: 2
-    - word: く
-      base: 九
-      position: 5
-    - word: の
-      position: 6
-    - word: きたない
-      base: 汚い
-      position: 7
-    - word: 着物
-      position: 11
-    - word: を
-      position: 13
-    - word: 着せ
-      base: 着る
-      position: 14
-    - word: られ
-      base: られる
-      position: 16
-    - word: て
-      position: 18
 - id: Urikohimeko-f000233
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -5459,34 +1854,6 @@
   sound_begin: 591080
   sound_end: 594480
   sentence: 木の上にしばりつけられていました。
-  words:
-    - word: 木
-      position: 0
-    - word: の
-      position: 1
-    - word: 上
-      position: 2
-    - word: に
-      position: 3
-    - word: しばり
-      base: 縛る
-      position: 4
-    - word: つけ
-      base: つける
-      position: 7
-    - word: られ
-      base: られる
-      position: 9
-    - word: て
-      position: 11
-    - word: い
-      base: 居る
-      position: 12
-    - word: まし
-      base: ます
-      position: 13
-    - word: た
-      position: 15
 - id: Urikohimeko-f000234
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -5495,28 +1862,6 @@
   sound_begin: 594480
   sound_end: 596920
   sentence: おじいさんは瓜子姫子を見つけると、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: じい
-      base: 爺
-      position: 1
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
-    - word: 瓜子姫
-      position: 6
-    - word: 子
-      position: 9
-    - word: を
-      position: 10
-    - word: 見つける
-      base: 見付ける
-      position: 11
-    - word: と
-      position: 15
 - id: Urikohimeko-f000235
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -5525,17 +1870,6 @@
   sound_begin: 596920
   sound_end: 598080
   sentence: 急いで行って、
-  words:
-    - word: 急い
-      base: 急ぐ
-      position: 0
-    - word: で
-      position: 2
-    - word: 行っ
-      base: 行く
-      position: 3
-    - word: て
-      position: 5
 - id: Urikohimeko-f000236
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -5544,24 +1878,6 @@
   sound_begin: 598080
   sound_end: 600680
   sentence: 木から下ろしてやりました。
-  words:
-    - word: 木
-      position: 0
-    - word: から
-      position: 1
-    - word: 下ろし
-      base: 下ろす
-      position: 3
-    - word: て
-      position: 6
-    - word: やり
-      base: 遣る
-      position: 7
-    - word: まし
-      base: ます
-      position: 9
-    - word: た
-      position: 11
 - id: Urikohimeko-f000237
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -5570,25 +1886,6 @@
   sound_begin: 600680
   sound_end: 603720
   sentence: お侍たちも大そうおこって、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 侍
-      position: 1
-    - word: たち
-      base: 達
-      position: 2
-    - word: も
-      position: 4
-    - word: 大そう
-      base: 大層
-      position: 5
-    - word: おこっ
-      base: おこる
-      position: 8
-    - word: て
-      position: 11
 - id: Urikohimeko-f000238
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -5597,39 +1894,6 @@
   sound_begin: 603720
   sound_end: 607120
   sentence: あまんじゃくをおかごから引きずり出して、
-  words:
-    - word: あ
-      base: あー
-      position: 0
-    - word: ま
-      base: まー
-      position: 1
-    - word: んじゃ
-      base: で
-      position: 2
-    - word: く
-      base: 九
-      position: 5
-    - word: を
-      position: 6
-    - word: お
-      base: 御
-      position: 7
-    - word: かご
-      position: 8
-    - word: から
-      position: 10
-    - word: 引き
-      base: 引く
-      position: 12
-    - word: ずり
-      base: ずる
-      position: 14
-    - word: 出し
-      base: 出す
-      position: 16
-    - word: て
-      position: 18
 - id: Urikohimeko-f000239
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -5638,43 +1902,6 @@
   sound_begin: 607120
   sound_end: 613080
   sentence: その代わり瓜子姫子を乗せてお城に連れて行きました。
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 代わり
-      position: 2
-    - word: 瓜子姫
-      position: 5
-    - word: 子
-      position: 8
-    - word: を
-      position: 9
-    - word: 乗せ
-      base: 乗せる
-      position: 10
-    - word: て
-      position: 12
-    - word: お
-      base: 御
-      position: 13
-    - word: 城
-      position: 14
-    - word: に
-      position: 15
-    - word: 連れ
-      base: 連れる
-      position: 16
-    - word: て
-      position: 18
-    - word: 行き
-      base: 行く
-      position: 19
-    - word: まし
-      base: ます
-      position: 21
-    - word: た
-      position: 23
 - id: Urikohimeko-f000240
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -5683,35 +1910,6 @@
   sound_begin: 613080
   sound_end: 616480
   sentence: そしてあまんじゃくの首を斬り落として、
-  words:
-    - word: そして
-      position: 0
-    - word: あ
-      base: あー
-      position: 3
-    - word: ま
-      base: まー
-      position: 4
-    - word: んじゃ
-      base: で
-      position: 5
-    - word: く
-      base: 九
-      position: 8
-    - word: の
-      position: 9
-    - word: 首
-      position: 10
-    - word: を
-      position: 11
-    - word: 斬り
-      base: 切る
-      position: 12
-    - word: 落とし
-      base: 落とす
-      position: 14
-    - word: て
-      position: 17
 - id: Urikohimeko-f000241
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -5720,23 +1918,6 @@
   sound_begin: 616480
   sound_end: 618240
   sentence: 畑の隅に捨てました。
-  words:
-    - word: 畑
-      position: 0
-    - word: の
-      position: 1
-    - word: 隅
-      position: 2
-    - word: に
-      position: 3
-    - word: 捨て
-      base: 捨てる
-      position: 4
-    - word: まし
-      base: ます
-      position: 6
-    - word: た
-      position: 8
 - id: Urikohimeko-f000242
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -5745,26 +1926,6 @@
   sound_begin: 618240
   sound_end: 621200
   sentence: その首から流れ出した血が、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 首
-      position: 2
-    - word: から
-      position: 3
-    - word: 流れ
-      base: 流れる
-      position: 5
-    - word: 出し
-      base: 出す
-      position: 7
-    - word: た
-      position: 9
-    - word: 血
-      position: 10
-    - word: が
-      position: 11
 - id: Urikohimeko-f000243
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -5773,19 +1934,6 @@
   sound_begin: 621200
   sound_end: 622760
   sentence: きび殻にそまって、
-  words:
-    - word: きび
-      base: 黍
-      position: 0
-    - word: 殻
-      position: 2
-    - word: に
-      position: 3
-    - word: そまっ
-      base: 染まる
-      position: 4
-    - word: て
-      position: 7
 - id: Urikohimeko-f000244
   author_japanese: 楠山 正雄
   deck_name: Urikohimeko
@@ -5794,34 +1942,3 @@
   sound_begin: 622760
   sound_end: 628280
   sentence: きびの色がその時から赤くなり出しました。
-  words:
-    - word: きび
-      base: 黍
-      position: 0
-    - word: の
-      position: 2
-    - word: 色
-      position: 3
-    - word: が
-      position: 4
-    - word: その
-      base: 其の
-      position: 5
-    - word: 時
-      position: 7
-    - word: から
-      position: 8
-    - word: 赤く
-      base: 赤い
-      position: 10
-    - word: なり
-      base: 成る
-      position: 12
-    - word: 出し
-      base: 出す
-      position: 14
-    - word: まし
-      base: ます
-      position: 16
-    - word: た
-      position: 18

@@ -10,38 +10,6 @@
       position: 1
       tags:
         - silent
-    - word: ２
-      base: '2'
-      dictionary: '2'
-      position: 6
-    - word: ３
-      base: '3'
-      dictionary: '3'
-      position: 8
-    - word: ４
-      base: '4'
-      dictionary: '4'
-      position: 10
-    - word: ５
-      base: '5'
-      dictionary: '5'
-      position: 12
-    - word: ６
-      base: '6'
-      dictionary: '6'
-      position: 14
-    - word: ７
-      base: '7'
-      dictionary: '7'
-      position: 16
-    - word: '75'
-      position: 18
-    - word: '100'
-      position: 21
-    - word: '200'
-      position: 25
-    - word: '270'
-      position: 29
 - id: Quartet_Episode_01_0.01.15.460-0.01.18.130
   deck_name: Quartet
   translation: You're Suzume-san?
@@ -53,17 +21,6 @@
       position: 1
       tags:
         - silent
-    - word: すずめ
-      base: 雀
-      position: 4
-    - word: さん
-      position: 7
-    - word: です
-      position: 9
-    - word: よ
-      position: 11
-    - word: ね
-      position: 12
 - id: Quartet_Episode_01_0.02.13.000-0.02.16.260
   deck_name: Quartet
   translation: '- Hello.<br>- Hello.'
@@ -75,18 +32,10 @@
       position: 1
       tags:
         - silent
-    - word: どう
-      position: 4
-    - word: も
-      position: 6
     - word: 真紀
       position: 9
       tags:
         - silent
-    - word: どう
-      position: 12
-    - word: も
-      position: 14
 - id: Quartet_Episode_01_0.03.51.040-0.03.56.030
   deck_name: Quartet
   translation: What's more, the four of us are all instrumental performers.
@@ -94,41 +43,10 @@
   episode: 1
   sentence: ≪(別府)しかも その４人が ４人とも奏者で➡
   words:
-    - word: ≪
-      position: 0
     - word: 別府
       position: 2
       tags:
         - silent
-    - word: しかも
-      base: 然も
-      position: 5
-    - word: その
-      base: 其の
-      position: 9
-    - word: ４
-      base: '4'
-      dictionary: '4'
-      position: 11
-    - word: 人
-      position: 12
-    - word: が
-      position: 13
-    - word: ４
-      base: '4'
-      dictionary: '4'
-      position: 15
-    - word: 人
-      position: 16
-    - word: とも
-      base: 共
-      position: 17
-    - word: 奏者
-      position: 19
-    - word: で
-      position: 21
-    - word: ➡
-      position: 22
 - id: Quartet_Episode_01_0.04.31.780-0.04.32.800
   deck_name: Quartet
   translation: Bye-bye!
@@ -136,14 +54,10 @@
   episode: 1
   sentence: ≪(家森)バイバイ
   words:
-    - word: ≪
-      position: 0
     - word: 家森
       position: 2
       tags:
         - silent
-    - word: バイバイ
-      position: 5
 - id: Quartet_Episode_01_0.05.08.980-0.05.13.770
   deck_name: Quartet
   translation: '- Or first name?<br>- Well, her name is Maki Maki so it''s the same...'
@@ -151,50 +65,10 @@
   episode: 1
   sentence: 下の名前で呼んでるの？<br>≪(別府)巻真紀さんだから同じ…
   words:
-    - word: 下
-      position: 0
-    - word: の
-      position: 1
-    - word: 名前
-      position: 2
-    - word: で
-      position: 4
-    - word: 呼ん
-      base: 呼ぶ
-      dictionary: 呼ぶ
-      position: 5
-    - word: でる
-      base: てる
-      position: 7
-    - word: の
-      position: 9
-    - word: <
-      base: ＜
-      position: 11
-    - word: br
-      base: BR
-      position: 12
-    - word: '>'
-      base: ＞
-      position: 14
-    - word: ≪
-      position: 15
     - word: 別府
       position: 17
       tags:
         - silent
-    - word: 巻
-      position: 20
-    - word: 真紀
-      position: 21
-    - word: さん
-      position: 23
-    - word: だ
-      position: 25
-    - word: から
-      position: 26
-    - word: 同じ
-      position: 28
 - id: Quartet_Episode_01_0.05.46.770-0.05.49.700
   deck_name: Quartet
   translation: It's slippery so watch out.
@@ -202,35 +76,10 @@
   episode: 1
   sentence: ≪(別府)滑るんで 気をつけてください
   words:
-    - word: ≪
-      position: 0
     - word: 別府
       position: 2
       tags:
         - silent
-    - word: 滑る
-      position: 5
-    - word: ん
-      base: の
-      position: 7
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 8
-    - word: 気
-      position: 10
-    - word: を
-      position: 11
-    - word: つけ
-      base: つける
-      dictionary: つける
-      position: 12
-    - word: て
-      position: 14
-    - word: ください
-      base: 下さる
-      dictionary: くださる
-      position: 15
 - id: Quartet_Episode_01_0.10.21.090-0.10.23.760
   deck_name: Quartet
   translation: Looking forward to working with you.
@@ -242,22 +91,6 @@
       position: 1
       tags:
         - silent
-    - word: よろしく
-      base: 宜しく
-      position: 4
-    - word: お
-      base: 御
-      position: 8
-    - word: 願い
-      base: 願う
-      dictionary: 願う
-      position: 9
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 11
-    - word: ます
-      position: 12
 - id: Quartet_Episode_01_0.13.21.350-0.13.24.640
   deck_name: Quartet
   translation: I'm digging in.
@@ -274,12 +107,6 @@
       position: 5
       tags:
         - silent
-    - word: いただき
-      base: 頂く
-      dictionary: いただく
-      position: 7
-    - word: ます
-      position: 11
 - id: Quartet_Episode_01_0.15.23.020-0.15.25.860
   deck_name: Quartet
   translation: '- Beppu-kun.<br>- Yes?'
@@ -291,12 +118,6 @@
       position: 1
       tags:
         - silent
-    - word: 別府
-      position: 4
-    - word: 君
-      position: 6
-    - word: はい
-      position: 8
 - id: Quartet_Episode_01_0.16.00.980-0.16.03.720
   deck_name: Quartet
   translation: '- Yamori-san.<br>- It''s Iemori.'
@@ -304,21 +125,10 @@
   episode: 1
   sentence: ≪(大谷)ヤモリさん イエモリです
   words:
-    - word: ≪
-      position: 0
     - word: 大谷
       position: 2
       tags:
         - silent
-    - word: ヤモリ
-      base: 守宮
-      position: 5
-    - word: さん
-      position: 8
-    - word: イエモリ
-      position: 11
-    - word: です
-      position: 15
 - id: Quartet_Episode_01_0.16.03.220-0.16.06.860
   deck_name: Quartet
   translation: '- Shampoo.<br>- Yes. Excuse me.'
@@ -330,18 +140,6 @@
       position: 1
       tags:
         - silent
-    - word: シャンプー
-      position: 4
-    - word: はい
-      position: 10
-    - word: 失礼
-      position: 13
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 15
-    - word: ます
-      position: 16
 - id: Quartet_Episode_01_0.16.38.500-0.16.41.490
   deck_name: Quartet
   translation: Breaking news.
@@ -349,44 +147,10 @@
   episode: 1
   sentence: '[ｽﾋﾟｰｶ](ラジオ)ここで 今入った ニュースをお伝えします'
   words:
-    - word: ｽﾋﾟｰｶ
-      base: スピーカー
-      dictionary: スピーカ
-      position: 1
     - word: ラジオ
       position: 8
       tags:
         - silent
-    - word: ここ
-      base: 此処
-      position: 12
-    - word: で
-      position: 14
-    - word: 今
-      position: 16
-    - word: 入っ
-      base: 入る
-      dictionary: 入る
-      position: 17
-    - word: た
-      position: 19
-    - word: ニュース
-      position: 21
-    - word: を
-      position: 25
-    - word: お
-      base: 御
-      position: 26
-    - word: 伝え
-      base: 伝える
-      dictionary: 伝える
-      position: 27
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 29
-    - word: ます
-      position: 30
 - id: Quartet_Episode_01_0.19.27.470-0.19.30.140
   deck_name: Quartet
   translation: '- We bought some.<br>- Bought what?'
@@ -394,32 +158,10 @@
   episode: 1
   sentence: ≪(別府)買いましたよ 何をですか？
   words:
-    - word: ≪
-      position: 0
     - word: 別府
       position: 2
       tags:
         - silent
-    - word: 買い
-      base: 買う
-      dictionary: 買う
-      position: 5
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 7
-    - word: た
-      position: 9
-    - word: よ
-      position: 10
-    - word: 何
-      position: 12
-    - word: を
-      position: 13
-    - word: です
-      position: 14
-    - word: か
-      position: 16
 - id: Quartet_Episode_01_0.19.39.220-0.19.44.520
   deck_name: Quartet
   translation: Hey, are you guys perhaps performers?<br>A quartet?
@@ -431,25 +173,6 @@
       position: 1
       tags:
         - silent
-    - word: ねえ
-      base: ね
-      position: 4
-    - word: 君
-      position: 7
-    - word: 達
-      position: 8
-    - word: ひょっと
-      position: 10
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 14
-    - word: て
-      position: 15
-    - word: プレーヤー
-      position: 17
-    - word: カルテット
-      position: 24
 - id: Quartet_Episode_01_0.20.12.990-0.20.15.500
   deck_name: Quartet
   translation: Yay! &quot;The pianist with 9 months left to live!&quot;
@@ -457,15 +180,10 @@
   episode: 1
   sentence: ≪(別府)イエーイ！
   words:
-    - word: ≪
-      position: 0
     - word: 別府
       position: 2
       tags:
         - silent
-    - word: イエーイ
-      base: イエイ
-      position: 5
 - id: Quartet_Episode_01_0.22.15.870-0.22.17.660
   deck_name: Quartet
   translation: The person in charge is not here so...
@@ -473,31 +191,10 @@
   episode: 1
   sentence: ≪(谷村)責任者出てるんで➡
   words:
-    - word: ≪
-      position: 0
     - word: 谷村
       position: 2
       tags:
         - silent
-    - word: 責任
-      position: 5
-    - word: 者
-      position: 7
-    - word: 出
-      base: 出る
-      dictionary: 出る
-      position: 8
-    - word: てる
-      position: 9
-    - word: ん
-      base: の
-      position: 11
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 12
-    - word: ➡
-      position: 13
 - id: Quartet_Episode_01_0.22.57.150-0.23.01.270
   deck_name: Quartet
   translation: '- We''re back.<br>-We''re back!'
@@ -513,22 +210,10 @@
       position: 3
       tags:
         - silent
-    - word: ただいま
-      base: 只今
-      position: 5
-    - word: ～
-      base: から
-      position: 9
     - word: 有朱
       position: 12
       tags:
         - silent
-    - word: ただいま
-      base: 只今
-      position: 15
-    - word: ～
-      base: から
-      position: 19
 - id: Quartet_Episode_01_0.23.31.730-0.23.33.450
   deck_name: Quartet
   translation: You've gotta be kidding...
@@ -540,11 +225,6 @@
       position: 1
       tags:
         - silent
-    - word: マジ
-      base: まじ
-      position: 4
-    - word: か
-      position: 6
 - id: Quartet_Episode_01_0.23.35.500-0.23.40.540
   deck_name: Quartet
   translation: (♬ &quot;La Vie en Rose&quot;)
@@ -583,24 +263,14 @@
   episode: 1
   sentence: ≪(瀧田)カンパイ ≪(別府)カンパイ
   words:
-    - word: ≪
-      position: 0
     - word: 瀧田
       position: 2
       tags:
         - silent
-    - word: カンパイ
-      base: 乾杯
-      position: 5
-    - word: ≪
-      position: 10
     - word: 別府
       position: 12
       tags:
         - silent
-    - word: カンパイ
-      base: 乾杯
-      position: 15
 - id: Quartet_Episode_01_0.28.47.050-0.28.52.930
   deck_name: Quartet
   translation: (♬ &quot;Futari no Natsu Monogatari&quot;)
@@ -644,16 +314,6 @@
       position: 1
       tags:
         - silent
-    - word: 見つけ
-      base: 見付ける
-      dictionary: 見つける
-      position: 4
-    - word: ちゃっ
-      base: ちゃう
-      dictionary: ちゃう
-      position: 7
-    - word: た
-      position: 10
 - id: Quartet_Episode_01_0.29.11.240-0.29.14.920
   deck_name: Quartet
   translation: I'll be scolded for making the world-famous Beppu's grandson help me.
@@ -665,43 +325,6 @@
       position: 1
       tags:
         - silent
-    - word: 世界
-      position: 4
-    - word: の
-      position: 6
-    - word: 別府
-      position: 7
-    - word: の
-      position: 9
-    - word: 孫
-      position: 10
-    - word: に
-      position: 11
-    - word: 手伝わ
-      base: 手伝う
-      dictionary: 手伝う
-      position: 13
-    - word: せ
-      base: せる
-      dictionary: せる
-      position: 16
-    - word: たら
-      base: た
-      dictionary: た
-      position: 17
-    - word: 怒ら
-      base: 怒る
-      dictionary: 怒る
-      position: 19
-    - word: れる
-      position: 21
-    - word: ん
-      base: の
-      position: 23
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 24
 - id: Quartet_Episode_01_0.33.21.790-0.33.24.480
   deck_name: Quartet
   translation: Then can we have your first performance tonight?
@@ -709,8 +332,6 @@
   episode: 1
   sentence: ≪(多可美)じゃあ まず今晩 演奏してみてもらえる？
   words:
-    - word: ≪
-      position: 0
     - word: 多可
       position: 2
       tags:
@@ -719,31 +340,6 @@
       position: 4
       tags:
         - silent
-    - word: じゃあ
-      base: で
-      position: 6
-    - word: まず
-      base: 先ず
-      position: 10
-    - word: 今晩
-      position: 12
-    - word: 演奏
-      position: 15
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 17
-    - word: て
-      position: 18
-    - word: み
-      base: 見る
-      dictionary: みる
-      position: 19
-    - word: て
-      position: 20
-    - word: もらえる
-      base: 貰う
-      position: 21
 - id: Quartet_Episode_01_0.48.56.100-0.49.02.150
   deck_name: Quartet
   translation: (♬&quot;The Moldau&quot;)
@@ -799,34 +395,6 @@
       position: 1
       tags:
         - silent
-    - word: 旧軽
-      position: 5
-    - word: に
-      position: 7
-    - word: 餃子
-      base: ギョーザ
-      position: 9
-    - word: 専門
-      position: 11
-    - word: 店
-      position: 13
-    - word: で
-      position: 14
-    - word: き
-      base: 来る
-      dictionary: くる
-      position: 15
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 16
-    - word: た
-      position: 17
-    - word: ん
-      base: の
-      position: 18
-    - word: です
-      position: 19
 - id: Quartet_Episode_02_0.00.05.200-0.00.08.970
   deck_name: Quartet
   translation: '- Eh?<br>- You like gyoza, Maki-san?'
@@ -838,38 +406,10 @@
       position: 1
       tags:
         - silent
-    - word: えッ
-      base: えっ
-      position: 4
-    - word: <
-      base: ＜
-      position: 7
-    - word: br
-      base: BR
-      position: 8
-    - word: '>'
-      base: ＞
-      position: 10
     - word: 別府
       position: 12
       tags:
         - silent
-    - word: 餃子
-      base: ギョーザ
-      position: 15
-    - word: 好き
-      position: 18
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 20
-    - word: ん
-      base: の
-      position: 21
-    - word: です
-      position: 22
-    - word: か
-      position: 24
 - id: Quartet_Episode_02_0.00.13.980-0.00.19.060
   deck_name: Quartet
   translation: >-
@@ -883,52 +423,6 @@
       position: 1
       tags:
         - silent
-    - word: ﾌﾞｲﾔﾍﾞｰｽ
-      base: ブイヤベース
-      dictionary: ブイヤベース
-      position: 4
-    - word: 作っ
-      base: 作る
-      dictionary: 作る
-      position: 12
-    - word: た
-      position: 14
-    - word: ん
-      base: の
-      position: 15
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 16
-    - word: 餃子
-      base: ギョーザ
-      position: 18
-    - word: の
-      position: 20
-    - word: 話
-      position: 21
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 23
-    - word: ながら
-      position: 24
-    - word: 食べる
-      position: 27
-    - word: の
-      position: 30
-    - word: やめ
-      base: やめる
-      dictionary: やめる
-      position: 31
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 33
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 35
 - id: Quartet_Episode_02_0.00.39.840-0.00.42.670
   deck_name: Quartet
   translation: Yes...
@@ -946,8 +440,6 @@
       position: 2
       tags:
         - silent
-    - word: はい
-      position: 4
 - id: Quartet_Episode_02_0.00.57.610-0.01.01.000
   deck_name: Quartet
   translation: Sounds like you're having fun.
@@ -959,16 +451,6 @@
       position: 1
       tags:
         - silent
-    - word: 楽し
-      base: 楽しい
-      dictionary: 楽しい
-      position: 4
-    - word: そう
-      position: 6
-    - word: です
-      position: 8
-    - word: ね
-      position: 10
 - id: Quartet_Episode_02_0.03.28.860-0.03.32.840
   deck_name: Quartet
   translation: >-
@@ -982,40 +464,6 @@
       position: 1
       tags:
         - silent
-    - word: 美容
-      position: 4
-    - word: 室
-      position: 6
-    - word: の
-      position: 7
-    - word: 予約
-      position: 8
-    - word: 何
-      position: 11
-    - word: 回
-      position: 12
-    - word: も
-      position: 13
-    - word: 忘れ
-      base: 忘れる
-      dictionary: 忘れる
-      position: 14
-    - word: て
-      position: 16
-    - word: 出禁
-      position: 18
-    - word: なっ
-      base: 成る
-      dictionary: なる
-      position: 20
-    - word: ちゃっ
-      base: ちゃう
-      dictionary: ちゃう
-      position: 22
-    - word: て
-      position: 25
-    - word: ～
-      position: 26
 - id: Quartet_Episode_02_0.04.23.800-0.04.27.020
   deck_name: Quartet
   translation: (♬ Tune For a Found Harmonium)
@@ -1068,20 +516,6 @@
       position: 1
       tags:
         - silent
-    - word: 別府
-      position: 7
-    - word: さん
-      position: 9
-    - word: サイン
-      position: 12
-    - word: いただけ
-      base: 頂く
-      dictionary: いただける
-      position: 15
-    - word: ます
-      position: 19
-    - word: か
-      position: 21
 - id: Quartet_Episode_02_0.05.21.260-0.05.28.450
   deck_name: Quartet
   translation: (♬ SPEED - White Love)
@@ -1093,26 +527,6 @@
       position: 1
       tags:
         - silent
-    - word: ♬
-      position: 4
-    - word: ～
-      position: 5
-    - word: ちゃんと
-      position: 6
-    - word: いつも
-      position: 11
-    - word: つかまえ
-      base: 捕まえる
-      dictionary: つかまえる
-      position: 15
-    - word: て
-      position: 19
-    - word: い
-      base: 居る
-      dictionary: いる
-      position: 20
-    - word: て
-      position: 21
 - id: Quartet_Episode_02_0.08.16.740-0.08.19.990
   deck_name: Quartet
   translation: '- Between the lines.<br>- Between the lines?'
@@ -1120,16 +534,12 @@
   episode: 2
   sentence: 行間 (２人)行間？
   words:
-    - word: 行間
-      position: 0
     - word: ２人
       base: 二人
       dictionary: 2人
       position: 4
       tags:
         - silent
-    - word: 行間
-      position: 7
 - id: Quartet_Episode_02_0.15.59.820-0.16.06.590
   deck_name: Quartet
   translation: (♬ Ave Maria)
@@ -1165,12 +575,6 @@
       position: 1
       tags:
         - silent
-    - word: 九條
-      position: 4
-    - word: さん
-      position: 6
-    - word: おめでとう
-      position: 9
 - id: Quartet_Episode_02_0.17.09.920-0.17.14.310
   deck_name: Quartet
   translation: Hello. Thank you for coming to perform.
@@ -1186,25 +590,6 @@
       position: 3
       tags:
         - silent
-    - word: こんにちは
-      base: 今日は
-      position: 5
-    - word: よろしく
-      base: 宜しく
-      position: 11
-    - word: お
-      base: 御
-      position: 15
-    - word: 願い
-      position: 16
-    - word: しま
-      position: 18
-    - word: ～
-      base: から
-      position: 20
-    - word: す
-      base: 為る
-      position: 21
 - id: Quartet_Episode_02_0.17.33.330-0.17.36.740
   deck_name: Quartet
   translation: >-
@@ -1218,30 +603,6 @@
       position: 1
       tags:
         - silent
-    - word: デコポン
-      base: でこポン
-      position: 4
-    - word: 食べる
-      position: 8
-    - word: <
-      base: ＜
-      position: 12
-    - word: br
-      base: BR
-      position: 13
-    - word: '>'
-      base: ＞
-      position: 15
-    - word: あッ
-      base: 有る
-      dictionary: ある
-      position: 16
-    - word: いただき
-      base: 頂く
-      dictionary: いただく
-      position: 19
-    - word: ます
-      position: 23
 - id: Quartet_Episode_02_0.18.41.410-0.18.44.360
   deck_name: Quartet
   translation: Iemori-san, are you saying you don't look at her cleavage?
@@ -1253,43 +614,6 @@
       position: 1
       tags:
         - silent
-    - word: 家森
-      position: 4
-    - word: さん
-      position: 6
-    - word: だ
-      position: 8
-    - word: って
-      position: 9
-    - word: そこ
-      base: 其処
-      position: 12
-    - word: に
-      position: 14
-    - word: 谷間
-      position: 16
-    - word: あっ
-      base: 有る
-      dictionary: ある
-      position: 18
-    - word: たら
-      base: た
-      dictionary: た
-      position: 20
-    - word: 見
-      base: 見る
-      dictionary: 見る
-      position: 23
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 24
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 26
-    - word: か
-      position: 27
 - id: Quartet_Episode_02_0.18.47.570-0.18.50.850
   deck_name: Quartet
   translation: I'm not burning up.
@@ -1297,26 +621,10 @@
   episode: 2
   sentence: ≪(別府)ほてってないですよ
   words:
-    - word: ≪
-      position: 0
     - word: 別府
       position: 2
       tags:
         - silent
-    - word: ほてっ
-      base: 火照る
-      dictionary: ほてる
-      position: 5
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 8
-    - word: ない
-      position: 9
-    - word: です
-      position: 11
-    - word: よ
-      position: 13
 - id: Quartet_Episode_02_0.19.11.260-0.19.15.680
   deck_name: Quartet
   translation: (♬ Futari no Natsu Monogatari)
@@ -1360,13 +668,6 @@
       position: 1
       tags:
         - silent
-    - word: 寒
-      base: 寒い
-      dictionary: 寒い
-      position: 4
-    - word: ッ
-      base: つ
-      position: 5
 - id: Quartet_Episode_02_0.26.43.100-0.26.47.660
   deck_name: Quartet
   translation: Could you smile a bit more? Great, ready?
@@ -1380,42 +681,6 @@
       position: 1
       tags:
         - silent
-    - word: もう
-      position: 7
-    - word: 少し
-      position: 9
-    - word: 笑顔
-      position: 11
-    - word: いただい
-      base: 頂く
-      dictionary: いただく
-      position: 13
-    - word: て
-      position: 17
-    - word: も
-      position: 18
-    - word: いい
-      base: 良い
-      position: 20
-    - word: です
-      position: 22
-    - word: か
-      position: 24
-    - word: はい
-      position: 27
-    - word: 撮り
-      base: 取る
-      dictionary: 撮る
-      position: 30
-    - word: ま
-      position: 32
-    - word: ～
-      base: から
-      position: 33
-    - word: す
-      position: 34
-    - word: ➡
-      position: 35
 - id: Quartet_Episode_02_0.27.56.200-0.28.00.260
   deck_name: Quartet
   translation: Ah, Beppu-kun. No shoes.<br>Take off your shoes.
@@ -1423,30 +688,10 @@
   episode: 2
   sentence: ≪(結衣)あッ 別府君 土足 靴 脱いで
   words:
-    - word: ≪
-      position: 0
     - word: 結衣
       position: 2
       tags:
         - silent
-    - word: あッ
-      base: 有る
-      dictionary: ある
-      position: 5
-    - word: 別府
-      position: 8
-    - word: 君
-      position: 10
-    - word: 土足
-      position: 12
-    - word: 靴
-      position: 15
-    - word: 脱い
-      base: 脱ぐ
-      dictionary: 脱ぐ
-      position: 17
-    - word: で
-      position: 19
 - id: Quartet_Episode_02_0.29.48.090-0.29.52.250
   deck_name: Quartet
   translation: I'm digging in~
@@ -1462,18 +707,6 @@
       position: 4
       tags:
         - silent
-    - word: いただき
-      base: 頂く
-      dictionary: いただく
-      position: 7
-    - word: ま
-      base: まー
-      position: 11
-    - word: ～
-      position: 12
-    - word: す
-      base: っす
-      position: 13
 - id: Quartet_Episode_02_0.29.59.300-0.30.01.760
   deck_name: Quartet
   translation: Yum.
@@ -1489,9 +722,6 @@
       position: 3
       tags:
         - silent
-    - word: うまい
-      base: 旨い
-      position: 5
 - id: Quartet_Episode_02_0.33.01.800-0.33.06.670
   deck_name: Quartet
   translation: >-
@@ -1501,54 +731,10 @@
   episode: 2
   sentence: ≪(別府)大切な人が結婚します その人のために演奏がしたいです
   words:
-    - word: ≪
-      position: 0
     - word: 別府
       position: 2
       tags:
         - silent
-    - word: 大切
-      position: 5
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 7
-    - word: 人
-      position: 8
-    - word: が
-      position: 9
-    - word: 結婚
-      position: 10
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 12
-    - word: ます
-      position: 13
-    - word: その
-      base: 其の
-      position: 16
-    - word: 人
-      position: 18
-    - word: の
-      position: 19
-    - word: ため
-      base: 為
-      position: 20
-    - word: に
-      position: 22
-    - word: 演奏
-      position: 23
-    - word: が
-      position: 25
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 26
-    - word: たい
-      position: 27
-    - word: です
-      position: 29
 - id: Quartet_Episode_02_0.33.25.560-0.33.30.000
   deck_name: Quartet
   translation: (♬ Ave Maria)
@@ -1580,36 +766,10 @@
   episode: 2
   sentence: ≪(神父)You may now kiss your beautiful bride.
   words:
-    - word: ≪
-      position: 0
     - word: 神父
       position: 2
       tags:
         - silent
-    - word: You
-      base: ユー
-      dictionary: YOU
-      position: 5
-    - word: may
-      position: 9
-    - word: now
-      base: ナウ
-      dictionary: Now
-      position: 13
-    - word: kiss
-      base: Kiss
-      dictionary: Kiss
-      position: 17
-    - word: your
-      base: ユア
-      dictionary: Your
-      position: 22
-    - word: beautiful
-      base: ビューティフル
-      dictionary: Beautiful
-      position: 27
-    - word: bride
-      position: 37
 - id: Quartet_Episode_02_0.34.17.210-0.34.23.710
   deck_name: Quartet
   translation: The bride and groom are now leaving.
@@ -1621,14 +781,6 @@
       position: 1
       tags:
         - silent
-    - word: 新郎
-      position: 4
-    - word: 新婦
-      position: 6
-    - word: 退場
-      position: 9
-    - word: です
-      position: 11
 - id: Quartet_Episode_02_0.34.36.250-0.34.42.700
   deck_name: Quartet
   translation: (♬ Ave Maria)
@@ -1686,27 +838,6 @@
   episode: 2
   sentence: ♬～紅に染まったこの俺を (３人)Ｘ！
   words:
-    - word: ♬
-      position: 0
-    - word: ～
-      position: 1
-    - word: 紅
-      position: 2
-    - word: に
-      position: 3
-    - word: 染まっ
-      base: 染まる
-      dictionary: 染まる
-      position: 4
-    - word: た
-      position: 7
-    - word: この
-      base: 此の
-      position: 8
-    - word: 俺
-      position: 10
-    - word: を
-      position: 11
     - word: ３
       base: '3'
       dictionary: '3'
@@ -1717,10 +848,6 @@
       position: 15
       tags:
         - silent
-    - word: Ｘ
-      base: x
-      dictionary: x
-      position: 17
 - id: Quartet_Episode_03_0.00.22.650-0.00.25.000
   deck_name: Quartet
   translation: Woah!
@@ -1732,14 +859,6 @@
       position: 1
       tags:
         - silent
-    - word: お
-      base: 御
-      position: 3
-    - word: ～
-      position: 4
-    - word: ッ
-      base: つ
-      position: 5
 - id: Quartet_Episode_03_0.00.25.860-0.00.30.260
   deck_name: Quartet
   translation: When do you think she's coming?
@@ -1755,21 +874,6 @@
       position: 2
       tags:
         - silent
-    - word: あいつ
-      base: 彼奴
-      position: 4
-    - word: いつ
-      position: 8
-    - word: 来ん
-      base: 来る
-      dictionary: 来る
-      position: 10
-    - word: の
-      position: 12
-    - word: か
-      position: 13
-    - word: な
-      position: 14
 - id: Quartet_Episode_03_0.00.30.350-0.00.33.490
   deck_name: Quartet
   translation: I wonder.
@@ -1781,12 +885,6 @@
       position: 1
       tags:
         - silent
-    - word: そう
-      position: 4
-    - word: ね
-      position: 6
-    - word: ～
-      position: 7
 - id: Quartet_Episode_03_0.00.40.560-0.00.44.560
   deck_name: Quartet
   translation: I'm sure he wants to see his daughter one last time,
@@ -1794,40 +892,10 @@
   episode: 3
   sentence: ≪(寛子)最後に娘と 一目 会いたいんだろうけど➡
   words:
-    - word: ≪
-      position: 0
     - word: 寛子
       position: 2
       tags:
         - silent
-    - word: 最後
-      position: 5
-    - word: に
-      position: 7
-    - word: 娘
-      position: 8
-    - word: と
-      position: 9
-    - word: 一目
-      position: 11
-    - word: 会い
-      base: 会う
-      dictionary: 会う
-      position: 14
-    - word: たい
-      position: 16
-    - word: ん
-      base: の
-      position: 18
-    - word: だろう
-      base: だ
-      dictionary: だ
-      position: 19
-    - word: けど
-      base: けれど
-      position: 22
-    - word: ➡
-      position: 24
 - id: Quartet_Episode_03_0.00.47.560-0.00.50.320
   deck_name: Quartet
   translation: I wonder if she's on Facebook.
@@ -1835,33 +903,10 @@
   episode: 3
   sentence: ≪(純)その子 Facebookやってないかな？
   words:
-    - word: ≪
-      position: 0
     - word: 純
       position: 2
       tags:
         - silent
-    - word: その
-      base: 其の
-      position: 4
-    - word: 子
-      position: 6
-    - word: Facebook
-      position: 8
-    - word: やっ
-      base: 遣る
-      dictionary: やる
-      position: 16
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 18
-    - word: ない
-      position: 19
-    - word: か
-      position: 21
-    - word: な
-      position: 22
 - id: Quartet_Episode_03_0.00.57.410-0.01.01.380
   deck_name: Quartet
   translation: >-
@@ -1871,42 +916,10 @@
   episode: 3
   sentence: ≪(寛子)色んな親戚に 預けられてた子なの➡
   words:
-    - word: ≪
-      position: 0
     - word: 寛子
       position: 2
       tags:
         - silent
-    - word: 色んな
-      position: 5
-    - word: 親戚
-      position: 8
-    - word: に
-      position: 10
-    - word: 預け
-      base: 預ける
-      dictionary: 預ける
-      position: 12
-    - word: られ
-      base: られる
-      dictionary: られる
-      position: 14
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 16
-    - word: た
-      position: 17
-    - word: 子
-      position: 18
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 19
-    - word: の
-      position: 20
-    - word: ➡
-      position: 21
 - id: Quartet_Episode_03_0.01.49.530-0.01.52.620
   deck_name: Quartet
   translation: Alright everyone! Are you ready?
@@ -1914,36 +927,10 @@
   episode: 3
   sentence: '[TV](司会)それでは皆さん 準備はよろしいでしょうか？'
   words:
-    - word: TV
-      position: 1
     - word: 司会
       position: 5
       tags:
         - silent
-    - word: それ
-      base: 其れ
-      position: 8
-    - word: で
-      position: 10
-    - word: は
-      position: 11
-    - word: 皆
-      position: 12
-    - word: さん
-      position: 13
-    - word: 準備
-      position: 16
-    - word: は
-      position: 18
-    - word: よろしい
-      base: 宜しい
-      position: 19
-    - word: でしょう
-      base: です
-      dictionary: です
-      position: 23
-    - word: か
-      position: 27
 - id: Quartet_Episode_03_0.02.02.090-0.02.04.560
   deck_name: Quartet
   translation: Nine of spades.
@@ -1951,21 +938,11 @@
   episode: 3
   sentence: '[TV](すずめ)スペードの９'
   words:
-    - word: TV
-      position: 1
     - word: すずめ
       base: 雀
       position: 5
       tags:
         - silent
-    - word: スペード
-      position: 9
-    - word: の
-      position: 13
-    - word: ９
-      base: '9'
-      dictionary: '9'
-      position: 14
 - id: Quartet_Episode_03_0.02.09.800-0.02.13.770
   deck_name: Quartet
   translation: '- Someone found out it was fake?<br>- A weekly magazine exposed them.'
@@ -1973,63 +950,14 @@
   episode: 3
   sentence: ≪(純)インチキってバレたんだ？<br>≪(寛子)週刊誌に暴露されて➡
   words:
-    - word: ≪
-      position: 0
     - word: 純
       position: 2
       tags:
         - silent
-    - word: インチキ
-      base: いんちき
-      position: 4
-    - word: って
-      position: 8
-    - word: バレ
-      base: ばれる
-      dictionary: バレる
-      position: 10
-    - word: た
-      position: 12
-    - word: ん
-      base: の
-      position: 13
-    - word: だ
-      position: 14
-    - word: <
-      base: ＜
-      position: 16
-    - word: br
-      base: BR
-      position: 17
-    - word: '>'
-      base: ＞
-      position: 19
-    - word: ≪
-      position: 20
     - word: 寛子
       position: 22
       tags:
         - silent
-    - word: 週刊
-      position: 25
-    - word: 誌
-      position: 27
-    - word: に
-      position: 28
-    - word: 暴露
-      position: 29
-    - word: さ
-      base: 為る
-      dictionary: する
-      position: 31
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 32
-    - word: て
-      position: 33
-    - word: ➡
-      position: 34
 - id: Quartet_Episode_03_0.02.24.020-0.02.28.230
   deck_name: Quartet
   translation: She's a girl with real psychic powers!
@@ -2037,8 +965,6 @@
   episode: 3
   sentence: '[TV](司会者)本物の超能力少女です'
   words:
-    - word: TV
-      position: 1
     - word: 司会
       position: 5
       tags:
@@ -2047,16 +973,6 @@
       position: 7
       tags:
         - silent
-    - word: 本物
-      position: 9
-    - word: の
-      position: 11
-    - word: 超能力
-      position: 12
-    - word: 少女
-      position: 15
-    - word: です
-      position: 17
 - id: Quartet_Episode_03_0.04.24.630-0.04.27.480
   deck_name: Quartet
   translation: >-
@@ -2070,29 +986,6 @@
       position: 1
       tags:
         - silent
-    - word: ウチ
-      base: 家
-      position: 4
-    - word: の
-      position: 6
-    - word: お
-      base: 御
-      position: 7
-    - word: 店
-      position: 8
-    - word: お
-      base: 御
-      position: 10
-    - word: 米
-      position: 11
-    - word: 使わ
-      base: 使う
-      dictionary: 使う
-      position: 12
-    - word: ない
-      position: 14
-    - word: から
-      position: 16
 - id: Quartet_Episode_03_0.06.22.720-0.06.25.500
   deck_name: Quartet
   translation: Let's go!
@@ -2104,14 +997,6 @@
       position: 1
       tags:
         - silent
-    - word: 行き
-      base: 行く
-      dictionary: 行く
-      position: 4
-    - word: ます
-      position: 6
-    - word: よ
-      position: 8
 - id: Quartet_Episode_03_0.06.33.000-0.06.35.750
   deck_name: Quartet
   translation: Huh?
@@ -2123,8 +1008,6 @@
       position: 1
       tags:
         - silent
-    - word: あれ
-      position: 4
 - id: Quartet_Episode_03_0.07.01.430-0.07.04.750
   deck_name: Quartet
   translation: '- Sorry to keep you waiting.<br>- Let''s go!'
@@ -2136,35 +1019,6 @@
       position: 1
       tags:
         - silent
-    - word: お
-      base: 御
-      position: 4
-    - word: 待た
-      base: 待つ
-      dictionary: 待つ
-      position: 5
-    - word: せ
-      base: せる
-      dictionary: せる
-      position: 7
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 8
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 9
-    - word: た
-      position: 11
-    - word: 行き
-      base: 行く
-      dictionary: 行く
-      position: 13
-    - word: ましょう
-      base: ます
-      dictionary: ます
-      position: 15
 - id: Quartet_Episode_03_0.08.05.460-0.08.08.210
   deck_name: Quartet
   translation: '- Excuse me!<br>- Yes?'
@@ -2176,33 +1030,10 @@
       position: 1
       tags:
         - silent
-    - word: すい
-      base: すむ
-      dictionary: すむ
-      position: 3
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 5
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 7
-    - word: <
-      base: ＜
-      position: 9
-    - word: br
-      base: BR
-      position: 10
-    - word: '>'
-      base: ＞
-      position: 12
     - word: 別府
       position: 14
       tags:
         - silent
-    - word: はい
-      position: 17
 - id: Quartet_Episode_03_0.10.21.160-0.10.23.990
   deck_name: Quartet
   translation: '- Ultra Soul!<br>- Ultra Soul!'
@@ -2210,29 +1041,10 @@
   episode: 3
   sentence: ウルトラソウル！<br>≪(別府)ウルトラソウル！
   words:
-    - word: ウルトラ
-      position: 0
-    - word: ソウル
-      position: 4
-    - word: <
-      base: ＜
-      position: 8
-    - word: br
-      base: BR
-      position: 9
-    - word: '>'
-      base: ＞
-      position: 11
-    - word: ≪
-      position: 12
     - word: 別府
       position: 14
       tags:
         - silent
-    - word: ウルトラ
-      position: 17
-    - word: ソウル
-      position: 21
 - id: Quartet_Episode_03_0.12.45.030-0.12.48.000
   deck_name: Quartet
   translation: Ah! Over there! My grandpa is sleeping.
@@ -2244,36 +1056,6 @@
       position: 2
       tags:
         - silent
-    - word: あッ
-      base: 有る
-      dictionary: ある
-      position: 5
-    - word: そこ
-      base: 其処
-      position: 8
-    - word: お
-      base: 御
-      position: 11
-    - word: じい
-      base: 爺
-      position: 12
-    - word: ちゃん
-      position: 14
-    - word: 寝
-      base: 寝る
-      dictionary: 寝る
-      position: 17
-    - word: てる
-      position: 18
-    - word: ん
-      base: の
-      position: 20
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 21
-    - word: ➡》
-      position: 22
 - id: Quartet_Episode_03_0.13.27.220-0.13.29.890
   deck_name: Quartet
   translation: You should stop pursuing her.
@@ -2285,31 +1067,6 @@
       position: 2
       tags:
         - silent
-    - word: あの
-      base: 彼の
-      position: 4
-    - word: 人
-      position: 6
-    - word: やめ
-      base: やめる
-      dictionary: やめる
-      position: 8
-    - word: とい
-      base: とく
-      dictionary: とく
-      position: 10
-    - word: た
-      position: 12
-    - word: ほう
-      base: 方
-      position: 13
-    - word: が
-      position: 15
-    - word: いい
-      base: 良い
-      position: 16
-    - word: よ
-      position: 18
 - id: Quartet_Episode_03_0.14.00.590-0.14.03.700
   deck_name: Quartet
   translation: How about this?
@@ -2317,8 +1074,6 @@
   episode: 3
   sentence: '[TV](司会者)これは？'
   words:
-    - word: TV
-      position: 1
     - word: 司会
       position: 5
       tags:
@@ -2327,11 +1082,6 @@
       position: 7
       tags:
         - silent
-    - word: これ
-      base: 此れ
-      position: 9
-    - word: は
-      position: 11
 - id: Quartet_Episode_03_0.15.38.400-0.15.40.700
   deck_name: Quartet
   translation: This is the pay for this month.
@@ -2343,12 +1093,6 @@
       position: 1
       tags:
         - silent
-    - word: 今月
-      position: 4
-    - word: 分
-      position: 6
-    - word: です
-      position: 7
 - id: Quartet_Episode_03_0.16.11.620-0.16.13.670
   deck_name: Quartet
   translation: Suzume-san!
@@ -2360,11 +1104,6 @@
       position: 1
       tags:
         - silent
-    - word: すずめ
-      base: 雀
-      position: 4
-    - word: さん
-      position: 7
 - id: Quartet_Episode_03_0.16.28.230-0.16.30.590
   deck_name: Quartet
   translation: A &quot;hello, goodbye&quot; kind of girl, huh?
@@ -2372,24 +1111,10 @@
   episode: 3
   sentence: ≪(鏡子)ハローグッバイな子ね
   words:
-    - word: ≪
-      position: 0
     - word: 鏡子
       position: 2
       tags:
         - silent
-    - word: ハロー
-      position: 5
-    - word: グッバイ
-      position: 8
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 12
-    - word: 子
-      position: 13
-    - word: ね
-      position: 14
 - id: Quartet_Episode_03_0.17.07.500-0.17.09.920
   deck_name: Quartet
   translation: Right, Mama. We have to confirm with everyone.
@@ -2401,31 +1126,6 @@
       position: 1
       tags:
         - silent
-    - word: そう
-      position: 4
-    - word: だ
-      position: 6
-    - word: ママ
-      position: 8
-    - word: みんな
-      base: 皆
-      position: 11
-    - word: に
-      position: 14
-    - word: 確認
-      position: 15
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 17
-    - word: とか
-      base: とく
-      dictionary: とく
-      position: 18
-    - word: ない
-      position: 20
-    - word: と
-      position: 22
 - id: Quartet_Episode_03_0.17.28.600-0.17.33.960
   deck_name: Quartet
   translation: >-
@@ -2435,67 +1135,10 @@
   episode: 3
   sentence: 何で 僕見て言うんですか？<br>≪(谷村)何かやってそうなんだよ
   words:
-    - word: 何
-      position: 0
-    - word: で
-      position: 1
-    - word: 僕
-      position: 3
-    - word: 見
-      base: 見る
-      dictionary: 見る
-      position: 4
-    - word: て
-      position: 5
-    - word: 言う
-      position: 6
-    - word: ん
-      base: の
-      position: 8
-    - word: です
-      position: 9
-    - word: か
-      position: 11
-    - word: <
-      base: ＜
-      position: 13
-    - word: br
-      base: BR
-      position: 14
-    - word: '>'
-      base: ＞
-      position: 16
-    - word: ≪
-      position: 17
     - word: 谷村
       position: 19
       tags:
         - silent
-    - word: 何
-      position: 22
-    - word: か
-      position: 23
-    - word: やっ
-      base: 遣る
-      dictionary: やる
-      position: 24
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 26
-    - word: そう
-      position: 27
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 29
-    - word: ん
-      base: の
-      position: 30
-    - word: だ
-      position: 31
-    - word: よ
-      position: 32
 - id: Quartet_Episode_03_0.21.50.360-0.21.52.740
   deck_name: Quartet
   translation: Aoba Hospital.
@@ -2503,10 +1146,6 @@
   episode: 3
   sentence: '[ｽﾋﾟｰｶ](運転手)青葉病院前です'
   words:
-    - word: ｽﾋﾟｰｶ
-      base: スピーカー
-      dictionary: スピーカ
-      position: 1
     - word: 運転
       position: 8
       tags:
@@ -2515,12 +1154,6 @@
       position: 10
       tags:
         - silent
-    - word: 青葉
-      position: 12
-    - word: 病院前
-      position: 14
-    - word: です
-      position: 17
 - id: Quartet_Episode_03_0.24.14.450-0.24.18.750
   deck_name: Quartet
   translation: He probably came back from death because he wants to see his daughter.
@@ -2528,51 +1161,10 @@
   episode: 3
   sentence: ≪(寛子)戻ってきたのは 娘に会いたいからじゃないかな
   words:
-    - word: ≪
-      position: 0
     - word: 寛子
       position: 2
       tags:
         - silent
-    - word: 戻っ
-      base: 戻る
-      dictionary: 戻る
-      position: 5
-    - word: て
-      position: 7
-    - word: き
-      base: 来る
-      dictionary: くる
-      position: 8
-    - word: た
-      position: 9
-    - word: の
-      position: 10
-    - word: は
-      position: 11
-    - word: 娘
-      position: 13
-    - word: に
-      position: 14
-    - word: 会い
-      base: 会う
-      dictionary: 会う
-      position: 15
-    - word: たい
-      position: 17
-    - word: から
-      position: 19
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 21
-    - word: ない
-      base: 無い
-      position: 23
-    - word: か
-      position: 25
-    - word: な
-      position: 26
 - id: Quartet_Episode_03_0.24.44.760-0.24.49.170
   deck_name: Quartet
   translation: Ah, I think he just stopped breathing.<br>I'll go get the doctor.
@@ -2588,40 +1180,6 @@
       position: 3
       tags:
         - silent
-    - word: あッ
-      base: 有る
-      dictionary: ある
-      position: 5
-    - word: 止まっ
-      base: 止まる
-      dictionary: 止まる
-      position: 8
-    - word: ちゃっ
-      base: ちゃう
-      dictionary: ちゃう
-      position: 11
-    - word: た
-      position: 14
-    - word: か
-      position: 15
-    - word: も
-      position: 16
-    - word: 先生
-      position: 18
-    - word: 呼ん
-      base: 呼ぶ
-      dictionary: 呼ぶ
-      position: 21
-    - word: で
-      position: 23
-    - word: き
-      base: 来る
-      dictionary: くる
-      position: 24
-    - word: ます
-      position: 25
-    - word: ね
-      position: 27
 - id: Quartet_Episode_03_0.26.02.570-0.26.05.520
   deck_name: Quartet
   translation: Alright everyone! Are you ready?
@@ -2629,8 +1187,6 @@
   episode: 3
   sentence: '[TV](司会者)それでは皆さん 準備はよろしいでしょうか？'
   words:
-    - word: TV
-      position: 1
     - word: 司会
       position: 5
       tags:
@@ -2639,30 +1195,6 @@
       position: 7
       tags:
         - silent
-    - word: それ
-      base: 其れ
-      position: 9
-    - word: で
-      position: 11
-    - word: は
-      position: 12
-    - word: 皆
-      position: 13
-    - word: さん
-      position: 14
-    - word: 準備
-      position: 17
-    - word: は
-      position: 19
-    - word: よろしい
-      base: 宜しい
-      position: 20
-    - word: でしょう
-      base: です
-      dictionary: です
-      position: 24
-    - word: か
-      position: 28
 - id: Quartet_Episode_03_0.26.36.780-0.26.43.660
   deck_name: Quartet
   translation: >-
@@ -2677,46 +1209,10 @@
   episode: 3
   sentence: ≪(純)検索してたら見つかって➡ たぶん すずめさんのこと
   words:
-    - word: ≪
-      position: 0
     - word: 純
       position: 2
       tags:
         - silent
-    - word: 検索
-      position: 4
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 6
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 7
-    - word: たら
-      base: た
-      dictionary: た
-      position: 8
-    - word: 見つかっ
-      base: 見付かる
-      dictionary: 見つかる
-      position: 10
-    - word: て
-      position: 14
-    - word: ➡
-      position: 15
-    - word: たぶん
-      base: 多分
-      position: 17
-    - word: すずめ
-      base: 雀
-      position: 21
-    - word: さん
-      position: 24
-    - word: の
-      position: 26
-    - word: こと
-      position: 27
 - id: Quartet_Episode_03_0.26.44.990-0.26.49.770
   deck_name: Quartet
   translation: This happened when I was still working in Japan about 4 years ago.
@@ -2728,45 +1224,6 @@
       position: 1
       tags:
         - silent
-    - word: ４
-      base: '4'
-      dictionary: '4'
-      position: 5
-    - word: 年
-      position: 6
-    - word: ほど
-      position: 7
-    - word: 前
-      position: 9
-    - word: まだ
-      base: 未だ
-      position: 11
-    - word: 日本
-      position: 13
-    - word: で
-      position: 15
-    - word: 会社
-      position: 17
-    - word: 勤め
-      position: 19
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 21
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 22
-    - word: た
-      position: 23
-    - word: 頃
-      position: 24
-    - word: の
-      position: 25
-    - word: こと
-      position: 26
-    - word: だ
-      position: 28
 - id: Quartet_Episode_03_0.26.49.710-0.26.56.040
   deck_name: Quartet
   translation: >-
@@ -2776,40 +1233,10 @@
   episode: 3
   sentence: ｢同僚に つばめちゃん(仮名) という同年代の子がいた｣
   words:
-    - word: 同僚
-      position: 1
-    - word: に
-      position: 3
-    - word: つばめ
-      base: 燕
-      position: 5
-    - word: ちゃん
-      position: 8
     - word: 仮名
       position: 12
       tags:
         - silent
-    - word: と
-      position: 16
-    - word: いう
-      base: 言う
-      position: 17
-    - word: 同
-      position: 19
-    - word: 年代
-      position: 20
-    - word: の
-      position: 22
-    - word: 子
-      position: 23
-    - word: が
-      position: 24
-    - word: い
-      base: 居る
-      dictionary: いる
-      position: 25
-    - word: た
-      position: 26
 - id: Quartet_Episode_03_0.30.04.790-0.30.06.680
   deck_name: Quartet
   translation: Welcome.
@@ -2817,20 +1244,10 @@
   episode: 3
   sentence: ≪(店主)いらっしゃいませ
   words:
-    - word: ≪
-      position: 0
     - word: 店主
       position: 2
       tags:
         - silent
-    - word: いらっしゃい
-      base: いらっしゃる
-      dictionary: いらっしゃる
-      position: 5
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 11
 - id: Quartet_Episode_03_0.30.14.980-0.30.21.390
   deck_name: Quartet
   translation: >-
@@ -2840,67 +1257,10 @@
   episode: 3
   sentence: '[ｽﾋﾟｰｶ](稲川)ちょうど湯の上に 真っ白な顔が 浮くようにして スーッと こっちへ来るわけだ'
   words:
-    - word: ｽﾋﾟｰｶ
-      base: スピーカー
-      dictionary: スピーカ
-      position: 1
     - word: 稲川
       position: 8
       tags:
         - silent
-    - word: ちょうど
-      base: 丁度
-      position: 11
-    - word: 湯
-      position: 15
-    - word: の
-      position: 16
-    - word: 上
-      position: 17
-    - word: に
-      position: 18
-    - word: 真っ白
-      position: 20
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 23
-    - word: 顔
-      position: 24
-    - word: が
-      position: 25
-    - word: 浮く
-      position: 27
-    - word: よう
-      base: 様
-      position: 29
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 31
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 32
-    - word: て
-      position: 33
-    - word: スーッ
-      base: すう
-      position: 35
-    - word: と
-      position: 38
-    - word: こっち
-      base: 此方
-      position: 40
-    - word: へ
-      position: 43
-    - word: 来る
-      position: 44
-    - word: わけ
-      base: 訳
-      position: 46
-    - word: だ
-      position: 48
 - id: Quartet_Episode_03_0.30.26.640-0.30.29.660
   deck_name: Quartet
   translation: '- Katsu-don?<br>- Yes.<br>Katsu-don for me too.'
@@ -2912,12 +1272,6 @@
       position: 1
       tags:
         - silent
-    - word: カツ
-      position: 4
-    - word: 丼
-      position: 6
-    - word: はい
-      position: 8
 - id: Quartet_Episode_03_0.43.35.220-0.43.38.430
   deck_name: Quartet
   translation: Do you feel like talking now?
@@ -2929,19 +1283,6 @@
       position: 1
       tags:
         - silent
-    - word: しゃべる
-      base: 喋る
-      position: 4
-    - word: 気
-      position: 8
-    - word: に
-      position: 9
-    - word: なっ
-      base: 成る
-      dictionary: なる
-      position: 10
-    - word: た
-      position: 12
 - id: Quartet_Episode_04_0.00.00.670-0.00.04.390
   deck_name: Quartet
   translation: '- Please look at this.<br>- When did it turn into this state...?'
@@ -2953,30 +1294,10 @@
       position: 1
       tags:
         - silent
-    - word: これ
-      base: 此れ
-      position: 4
-    - word: を
-      position: 6
-    - word: ご覧
-      base: 御覧
-      position: 7
-    - word: ください
-      base: 下さる
-      dictionary: くださる
-      position: 9
     - word: 真紀
       position: 15
       tags:
         - silent
-    - word: いつ
-      position: 18
-    - word: の
-      position: 20
-    - word: 間
-      position: 21
-    - word: に
-      position: 22
 - id: Quartet_Episode_04_0.00.04.260-0.00.07.360
   deck_name: Quartet
   translation: '- I didn''t know.<br>- Why did it become like this?'
@@ -2989,32 +1310,10 @@
       position: 1
       tags:
         - silent
-    - word: 知ら
-      base: 知る
-      dictionary: 知る
-      position: 5
-    - word: なかっ
-      base: ない
-      dictionary: ない
-      position: 7
-    - word: た
-      position: 10
-    - word: です
-      position: 11
     - word: 家森
       position: 15
       tags:
         - silent
-    - word: 何
-      position: 18
-    - word: で
-      position: 19
-    - word: こんな
-      position: 20
-    - word: こと
-      position: 23
-    - word: に
-      position: 25
 - id: Quartet_Episode_04_0.01.38.130-0.01.39.700
   deck_name: Quartet
   translation: Yes!
@@ -3032,8 +1331,6 @@
       position: 2
       tags:
         - silent
-    - word: はい
-      position: 4
 - id: Quartet_Episode_04_0.04.04.510-0.04.06.780
   deck_name: Quartet
   translation: Ah~ hello. Don't mind us.
@@ -3045,24 +1342,6 @@
       position: 1
       tags:
         - silent
-    - word: あ
-      base: あっ
-      position: 4
-    - word: ～
-      position: 5
-    - word: どう
-      position: 7
-    - word: も
-      position: 9
-    - word: お
-      base: 御
-      position: 11
-    - word: 構い
-      position: 12
-    - word: なく
-      base: 無い
-      dictionary: ない
-      position: 14
 - id: Quartet_Episode_04_0.04.53.870-0.04.56.710
   deck_name: Quartet
   translation: Found it!
@@ -3074,16 +1353,6 @@
       position: 1
       tags:
         - silent
-    - word: あり
-      base: 有る
-      dictionary: ある
-      position: 4
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 6
-    - word: た
-      position: 8
 - id: Quartet_Episode_04_0.07.04.140-0.07.05.140
   deck_name: Quartet
   translation: What!?
@@ -3101,9 +1370,6 @@
       position: 2
       tags:
         - silent
-    - word: えッ
-      base: えっ
-      position: 4
 - id: Quartet_Episode_04_0.10.41.830-0.10.46.810
   deck_name: Quartet
   translation: (♫ Futari no Natsu Monogatari)
@@ -3111,10 +1377,6 @@
   episode: 4
   sentence: '[ｽﾋﾟｰｶ](♬～ふたりの夏物語)'
   words:
-    - word: ｽﾋﾟｰｶ
-      base: スピーカー
-      dictionary: スピーカ
-      position: 1
     - word: ♬
       position: 8
       tags:
@@ -3151,32 +1413,10 @@
       position: 1
       tags:
         - silent
-    - word: メガネ
-      base: 眼鏡
-      position: 4
-    - word: を
-      position: 7
     - word: 別府
       position: 11
       tags:
         - silent
-    - word: 落とし
-      base: 落とす
-      dictionary: 落とす
-      position: 14
-    - word: ちゃっ
-      base: ちゃう
-      dictionary: ちゃう
-      position: 17
-    - word: た
-      position: 20
-    - word: ん
-      base: の
-      position: 21
-    - word: です
-      position: 22
-    - word: か
-      position: 24
 - id: Quartet_Episode_04_0.12.15.370-0.12.23.720
   deck_name: Quartet
   translation: (♫ Frere Jacques)
@@ -3301,23 +1541,10 @@
   episode: 4
   sentence: 分かる？<br>(光大)パパ
   words:
-    - word: 分かる
-      position: 0
-    - word: <
-      base: ＜
-      position: 4
-    - word: br
-      base: BR
-      position: 5
-    - word: '>'
-      base: ＞
-      position: 7
     - word: 光大
       position: 9
       tags:
         - silent
-    - word: パパ
-      position: 12
 - id: Quartet_Episode_04_0.16.05.850-0.16.07.590
   deck_name: Quartet
   translation: Kouta?
@@ -3333,8 +1560,6 @@
       position: 2
       tags:
         - silent
-    - word: 光大
-      position: 5
 - id: Quartet_Episode_04_0.17.00.630-0.17.04.310
   deck_name: Quartet
   translation: I'm digging in~
@@ -3346,18 +1571,6 @@
       position: 1
       tags:
         - silent
-    - word: いただき
-      base: 頂く
-      dictionary: いただく
-      position: 4
-    - word: ま
-      base: まー
-      position: 8
-    - word: ～
-      position: 9
-    - word: す
-      base: っす
-      position: 10
 - id: Quartet_Episode_04_0.20.36.850-0.20.40.330
   deck_name: Quartet
   translation: '- Y''all.<br>- Yes?'
@@ -3365,9 +1578,6 @@
   episode: 4
   sentence: あの (別府･真紀･すずめ)はい
   words:
-    - word: あの
-      base: 彼の
-      position: 0
     - word: 別府
       position: 4
       tags:
@@ -3381,8 +1591,6 @@
       position: 10
       tags:
         - silent
-    - word: はい
-      position: 14
 - id: Quartet_Episode_04_0.26.10.650-0.26.13.660
   deck_name: Quartet
   translation: It's too late now.
@@ -3390,8 +1598,6 @@
   episode: 4
   sentence: ≪(茶馬子)もう遅いねん
   words:
-    - word: ≪
-      position: 0
     - word: 茶
       position: 2
       tags:
@@ -3400,12 +1606,6 @@
       position: 3
       tags:
         - silent
-    - word: もう
-      position: 6
-    - word: 遅い
-      position: 8
-    - word: ねん
-      position: 10
 - id: Quartet_Episode_04_0.30.20.360-0.30.25.050
   deck_name: Quartet
   translation: (♫ Frere Jacques)
@@ -3445,8 +1645,6 @@
       position: 4
       tags:
         - silent
-    - word: いいえ
-      position: 8
 - id: Quartet_Episode_04_0.35.01.720-0.35.05.310
   deck_name: Quartet
   translation: Suzume-san, wanna grab lunch next time?
@@ -3458,31 +1656,6 @@
       position: 1
       tags:
         - silent
-    - word: すずめ
-      base: 雀
-      position: 4
-    - word: さん
-      position: 7
-    - word: 今度
-      position: 10
-    - word: ランチ
-      position: 13
-    - word: 一緒
-      position: 16
-    - word: に
-      position: 18
-    - word: 行き
-      base: 行く
-      dictionary: 行く
-      position: 19
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 21
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 23
 - id: Quartet_Episode_05_0.00.02.000-0.00.06.620
   deck_name: Quartet
   translation: After meeting you that time, I went to her apartment in Tokyo.
@@ -3494,32 +1667,6 @@
       position: 1
       tags:
         - silent
-    - word: あの
-      base: 彼の
-      position: 4
-    - word: あと
-      base: 後
-      position: 6
-    - word: 私
-      position: 9
-    - word: 東京
-      position: 11
-    - word: の
-      position: 13
-    - word: ﾏﾝｼｮﾝ
-      base: マンション
-      dictionary: マンション
-      position: 14
-    - word: に
-      position: 19
-    - word: 行っ
-      base: 行く
-      dictionary: 行く
-      position: 20
-    - word: た
-      position: 22
-    - word: の
-      position: 23
 - id: Quartet_Episode_05_0.00.13.210-0.00.17.400
   deck_name: Quartet
   translation: That was... The man was Beppu-san, right?
@@ -3532,28 +1679,6 @@
       position: 1
       tags:
         - silent
-    - word: それ
-      base: 其れ
-      position: 5
-    - word: は
-      position: 7
-    - word: その
-      base: 其の
-      position: 10
-    - word: 人
-      position: 12
-    - word: って
-      position: 13
-    - word: 別府
-      position: 16
-    - word: さん
-      position: 18
-    - word: です
-      position: 20
-    - word: よ
-      position: 22
-    - word: ね
-      position: 23
 - id: Quartet_Episode_05_0.00.40.760-0.00.43.200
   deck_name: Quartet
   translation: Mother.
@@ -3565,18 +1690,6 @@
       position: 2
       tags:
         - silent
-    - word: お
-      base: 御
-      position: 5
-    - word: 義母
-      position: 6
-    - word: さ
-      position: 8
-    - word: ～
-      position: 9
-    - word: ん
-      base: んっ
-      position: 10
 - id: Quartet_Episode_05_0.01.11.680-0.01.15.160
   deck_name: Quartet
   translation: Well then, I'll wait in the car.
@@ -3588,30 +1701,6 @@
       position: 2
       tags:
         - silent
-    - word: じゃ
-      base: で
-      position: 5
-    - word: 車
-      position: 8
-    - word: で
-      position: 9
-    - word: お
-      base: 御
-      position: 10
-    - word: 待ち
-      base: 待つ
-      dictionary: 待つ
-      position: 11
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 13
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 14
-    - word: ます
-      position: 15
 - id: Quartet_Episode_05_0.02.57.740-0.03.00.850
   deck_name: Quartet
   translation: Mikio must have set up his health insurance.
@@ -3619,39 +1708,10 @@
   episode: 5
   sentence: ≪(鏡子)幹生は 保険にだって入ってるはずなの
   words:
-    - word: ≪
-      position: 0
     - word: 鏡子
       position: 2
       tags:
         - silent
-    - word: 幹生
-      position: 5
-    - word: は
-      position: 7
-    - word: 保険
-      position: 9
-    - word: に
-      position: 11
-    - word: だ
-      position: 12
-    - word: って
-      position: 13
-    - word: 入っ
-      base: 入る
-      dictionary: 入る
-      position: 15
-    - word: てる
-      position: 17
-    - word: はず
-      base: 筈
-      position: 19
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 21
-    - word: の
-      position: 22
 - id: Quartet_Episode_05_0.04.20.630-0.04.23.390
   deck_name: Quartet
   translation: Did you tell Maki-san about what I told you the other day?
@@ -3663,25 +1723,6 @@
       position: 1
       tags:
         - silent
-    - word: こないだ
-      base: 此の間
-      position: 4
-    - word: の
-      position: 8
-    - word: 話
-      position: 9
-    - word: 巻
-      position: 11
-    - word: さん
-      position: 12
-    - word: に
-      position: 14
-    - word: 言っ
-      base: 言う
-      dictionary: 言う
-      position: 15
-    - word: た
-      position: 17
 - id: Quartet_Episode_05_0.04.42.830-0.04.47.930
   deck_name: Quartet
   translation: '- Isn''t that inappropriate?<br>- Is it?'
@@ -3697,33 +1738,10 @@
       position: 3
       tags:
         - silent
-    - word: おかしい
-      base: 可笑しい
-      position: 5
-    - word: でしょ
-      base: です
-      dictionary: です
-      position: 9
-    - word: <
-      base: ＜
-      position: 13
-    - word: br
-      base: BR
-      position: 14
-    - word: '>'
-      base: ＞
-      position: 16
     - word: 谷村
       position: 18
       tags:
         - silent
-    - word: おかしい
-      base: 可笑しい
-      position: 21
-    - word: か
-      position: 25
-    - word: な
-      position: 26
 - id: Quartet_Episode_05_0.05.25.090-0.05.28.280
   deck_name: Quartet
   translation: Thank you very much.
@@ -3731,25 +1749,10 @@
   episode: 5
   sentence: ≪(別府)ありがとうございました
   words:
-    - word: ≪
-      position: 0
     - word: 別府
       position: 2
       tags:
         - silent
-    - word: ありがとう
-      base: 有り難う
-      position: 5
-    - word: ござい
-      base: 御座る
-      dictionary: ござる
-      position: 10
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 13
-    - word: た
-      position: 15
 - id: Quartet_Episode_05_0.05.38.470-0.05.40.110
   deck_name: Quartet
   translation: He's my younger brother.
@@ -3757,16 +1760,10 @@
   episode: 5
   sentence: ≪(別府)弟です
   words:
-    - word: ≪
-      position: 0
     - word: 別府
       position: 2
       tags:
         - silent
-    - word: 弟
-      position: 5
-    - word: です
-      position: 6
 - id: Quartet_Episode_05_0.05.54.220-0.05.58.740
   deck_name: Quartet
   translation: Ah, right. I want to ask you about the villa.
@@ -3778,30 +1775,6 @@
       position: 1
       tags:
         - silent
-    - word: あッ
-      base: 有る
-      dictionary: ある
-      position: 3
-    - word: そう
-      position: 6
-    - word: だ
-      position: 8
-    - word: 別荘
-      position: 10
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 12
-    - word: ん
-      base: の
-      position: 13
-    - word: だ
-      position: 14
-    - word: けど
-      base: けれど
-      position: 15
-    - word: さ
-      position: 17
 - id: Quartet_Episode_05_0.06.52.750-0.06.56.460
   deck_name: Quartet
   translation: '- Are you Beppu-san?<br>- Yes.'
@@ -3813,25 +1786,6 @@
       position: 1
       tags:
         - silent
-    - word: 別府
-      position: 4
-    - word: さん
-      position: 6
-    - word: です
-      position: 8
-    - word: か
-      position: 10
-    - word: <
-      base: ＜
-      position: 12
-    - word: br
-      base: BR
-      position: 13
-    - word: '>'
-      base: ＞
-      position: 15
-    - word: はい
-      position: 16
 - id: Quartet_Episode_05_0.09.33.630-0.09.36.400
   deck_name: Quartet
   translation: Good.
@@ -3839,14 +1793,10 @@
   episode: 5
   sentence: ≪(朝木)うん
   words:
-    - word: ≪
-      position: 0
     - word: 朝木
       position: 2
       tags:
         - silent
-    - word: うん
-      position: 5
 - id: Quartet_Episode_05_0.15.34.000-0.15.36.760
   deck_name: Quartet
   translation: Your first job this time...
@@ -3854,28 +1804,10 @@
   episode: 5
   sentence: ≪(朝木)今回の皆さんの初仕事は
   words:
-    - word: ≪
-      position: 0
     - word: 朝木
       position: 2
       tags:
         - silent
-    - word: 今回
-      position: 5
-    - word: の
-      position: 7
-    - word: 皆
-      position: 8
-    - word: さん
-      position: 9
-    - word: の
-      position: 11
-    - word: 初
-      position: 12
-    - word: 仕事
-      position: 13
-    - word: は
-      position: 15
 - id: Quartet_Episode_05_0.15.44.630-0.15.48.260
   deck_name: Quartet
   translation: We would like to have you perform together with the pianist...
@@ -3887,37 +1819,6 @@
       position: 1
       tags:
         - silent
-    - word: 皆
-      position: 4
-    - word: さん
-      position: 5
-    - word: に
-      position: 7
-    - word: は
-      position: 8
-    - word: 今回
-      position: 10
-    - word: の
-      position: 12
-    - word: ﾗｲﾌﾞ
-      base: ライブ
-      dictionary: ライブ
-      position: 13
-    - word: の
-      position: 17
-    - word: ﾜﾝｺｰﾅｰ
-      base: ワンコーナー
-      dictionary: ワンコーナー
-      position: 18
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 24
-    - word: ある
-      base: 有る
-      position: 25
-    - word: ➡
-      position: 27
 - id: Quartet_Episode_05_0.15.52.830-0.15.56.570
   deck_name: Quartet
   translation: '- This is...?<br>- That would be the pianist Wakata-san.'
@@ -3925,38 +1826,10 @@
   episode: 5
   sentence: これって？<br>≪(岡中)ﾋﾟｱﾆｽﾄの若田さんです
   words:
-    - word: これ
-      base: 此れ
-      position: 0
-    - word: って
-      position: 2
-    - word: <
-      base: ＜
-      position: 5
-    - word: br
-      base: BR
-      position: 6
-    - word: '>'
-      base: ＞
-      position: 8
-    - word: ≪
-      position: 9
     - word: 岡中
       position: 11
       tags:
         - silent
-    - word: ﾋﾟｱﾆｽﾄ
-      base: ピアニスト
-      dictionary: ピアニスト
-      position: 14
-    - word: の
-      position: 20
-    - word: 若田
-      position: 21
-    - word: さん
-      position: 23
-    - word: です
-      position: 25
 - id: Quartet_Episode_05_0.16.03.590-0.16.06.310
   deck_name: Quartet
   translation: '- Coming in~ - Looking forward to working with you.'
@@ -3968,42 +1841,10 @@
       position: 1
       tags:
         - silent
-    - word: 入ら
-      base: 入る
-      dictionary: 入る
-      position: 4
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 6
-    - word: ま
-      base: まー
-      position: 7
-    - word: ～
-      base: から
-      position: 8
-    - word: す
-      base: 為る
-      position: 9
-    - word: ≪
-      position: 11
     - word: 一同
       position: 13
       tags:
         - silent
-    - word: お
-      base: 御
-      position: 16
-    - word: 願い
-      position: 17
-    - word: しま
-      position: 19
-    - word: ～
-      base: から
-      position: 21
-    - word: す
-      base: 為る
-      position: 22
 - id: Quartet_Episode_05_0.16.12.970-0.16.16.250
   deck_name: Quartet
   translation: Please come this way.
@@ -4011,30 +1852,10 @@
   episode: 5
   sentence: ≪(藤川)こちらにお願いします
   words:
-    - word: ≪
-      position: 0
     - word: 藤川
       position: 2
       tags:
         - silent
-    - word: こちら
-      base: 此方
-      position: 5
-    - word: に
-      position: 8
-    - word: お
-      base: 御
-      position: 9
-    - word: 願い
-      base: 願う
-      dictionary: 願う
-      position: 10
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 12
-    - word: ます
-      position: 13
 - id: Quartet_Episode_05_0.16.25.220-0.16.29.010
   deck_name: Quartet
   translation: '- Yes?<br>- What do you mean by setting...?'
@@ -4042,16 +1863,10 @@
   episode: 5
   sentence: ≪(岡中)はい 設定…
   words:
-    - word: ≪
-      position: 0
     - word: 岡中
       position: 2
       tags:
         - silent
-    - word: はい
-      position: 5
-    - word: 設定
-      position: 8
 - id: Quartet_Episode_05_0.16.28.510-0.16.30.990
   deck_name: Quartet
   translation: I'll explain.
@@ -4059,20 +1874,10 @@
   episode: 5
   sentence: ≪(岡中)説明します
   words:
-    - word: ≪
-      position: 0
     - word: 岡中
       position: 2
       tags:
         - silent
-    - word: 説明
-      position: 5
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 7
-    - word: ます
-      position: 8
 - id: Quartet_Episode_05_0.16.38.670-0.16.41.050
   deck_name: Quartet
   translation: The name of the quartet is...
@@ -4080,19 +1885,10 @@
   episode: 5
   sentence: ≪(岡中)その名も…
   words:
-    - word: ≪
-      position: 0
     - word: 岡中
       position: 2
       tags:
         - silent
-    - word: その
-      base: 其の
-      position: 5
-    - word: 名
-      position: 7
-    - word: も
-      position: 8
 - id: Quartet_Episode_05_0.16.43.670-0.16.48.590
   deck_name: Quartet
   translation: As for the characters, Maki-san is someone in her 30s.
@@ -4100,38 +1896,10 @@
   episode: 5
   sentence: ≪(岡中)キャラとしましては 巻さんが アラサーキャラ➡
   words:
-    - word: ≪
-      position: 0
     - word: 岡中
       position: 2
       tags:
         - silent
-    - word: キャラ
-      position: 5
-    - word: と
-      position: 8
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 9
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 10
-    - word: て
-      position: 12
-    - word: は
-      position: 13
-    - word: 巻
-      position: 15
-    - word: さん
-      position: 16
-    - word: が
-      position: 18
-    - word: アラサーキャラ
-      position: 20
-    - word: ➡
-      position: 27
 - id: Quartet_Episode_05_0.17.48.700-0.17.53.930
   deck_name: Quartet
   translation: Wow~ this is excellent!
@@ -4139,21 +1907,10 @@
   episode: 5
   sentence: ≪(朝木)いや～ 素晴らしいよ
   words:
-    - word: ≪
-      position: 0
     - word: 朝木
       position: 2
       tags:
         - silent
-    - word: いや
-      base: 否
-      position: 5
-    - word: ～
-      position: 7
-    - word: 素晴らしい
-      position: 9
-    - word: よ
-      position: 14
 - id: Quartet_Episode_05_0.18.41.670-0.18.43.360
   deck_name: Quartet
   translation: Fujikawa!
@@ -4161,14 +1918,10 @@
   episode: 5
   sentence: ≪(スタッフ)藤川
   words:
-    - word: ≪
-      position: 0
     - word: スタッフ
       position: 2
       tags:
         - silent
-    - word: 藤川
-      position: 7
 - id: Quartet_Episode_05_0.20.33.860-0.20.36.590
   deck_name: Quartet
   translation: Well, thank you for your hard work.
@@ -4180,26 +1933,6 @@
       position: 1
       tags:
         - silent
-    - word: はい
-      position: 5
-    - word: お
-      base: 御
-      position: 8
-    - word: 疲れ
-      position: 9
-    - word: さま
-      base: 様
-      position: 11
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 13
-    - word: ござい
-      base: 御座る
-      dictionary: ござる
-      position: 14
-    - word: ます
-      position: 17
 - id: Quartet_Episode_05_0.22.03.360-0.22.06.570
   deck_name: Quartet
   translation: Good morning.
@@ -4207,21 +1940,10 @@
   episode: 5
   sentence: ≪(藤川)おはようございます
   words:
-    - word: ≪
-      position: 0
     - word: 藤川
       position: 2
       tags:
         - silent
-    - word: おはよう
-      base: 御早う
-      position: 5
-    - word: ござい
-      base: 御座る
-      dictionary: ござる
-      position: 9
-    - word: ます
-      position: 12
 - id: Quartet_Episode_05_0.28.17.620-0.28.24.390
   deck_name: Quartet
   translation: (♫ Tune For A Found Harmonium)
@@ -4268,17 +1990,10 @@
   episode: 5
   sentence: ≪(別府)せっかくさ
   words:
-    - word: ≪
-      position: 0
     - word: 別府
       position: 2
       tags:
         - silent
-    - word: せっかく
-      base: 折角
-      position: 5
-    - word: さ
-      position: 9
 - id: Quartet_Episode_05_0.30.14.970-0.30.19.640
   deck_name: Quartet
   translation: '- Eh?<br>- Goodbye.'
@@ -4286,26 +2001,10 @@
   episode: 5
   sentence: えッ？<br>☎(鏡子)さようなら
   words:
-    - word: えッ
-      base: えっ
-      position: 0
-    - word: <
-      base: ＜
-      position: 3
-    - word: br
-      base: BR
-      position: 4
-    - word: '>'
-      base: ＞
-      position: 6
-    - word: ☎
-      position: 7
     - word: 鏡子
       position: 9
       tags:
         - silent
-    - word: さようなら
-      position: 12
 - id: Quartet_Episode_05_0.30.36.740-0.30.38.480
   deck_name: Quartet
   translation: It's definitely gonna look good on you.
@@ -4313,26 +2012,10 @@
   episode: 5
   sentence: ≪(有朱)絶対 似合いますよ
   words:
-    - word: ≪
-      position: 0
     - word: 有朱
       position: 2
       tags:
         - silent
-    - word: 絶対
-      position: 5
-    - word: 似
-      base: 似る
-      dictionary: 似る
-      position: 8
-    - word: 合い
-      base: 合う
-      dictionary: 合う
-      position: 9
-    - word: ます
-      position: 11
-    - word: よ
-      position: 13
 - id: Quartet_Episode_05_0.30.37.980-0.30.40.100
   deck_name: Quartet
   translation: '- Really?<br>- Ah!'
@@ -4340,29 +2023,10 @@
   episode: 5
   sentence: ホント？<br>≪(有朱)あッ➡
   words:
-    - word: ホント
-      base: 本当
-      position: 0
-    - word: <
-      base: ＜
-      position: 4
-    - word: br
-      base: BR
-      position: 5
-    - word: '>'
-      base: ＞
-      position: 7
-    - word: ≪
-      position: 8
     - word: 有朱
       position: 10
       tags:
         - silent
-    - word: あッ
-      base: あっ
-      position: 13
-    - word: ➡
-      position: 15
 - id: Quartet_Episode_05_0.38.40.530-0.38.42.610
   deck_name: Quartet
   translation: Then what does?<br>Why didn't you ask before squeezing the lemon?
@@ -4370,20 +2034,10 @@
   episode: 5
   sentence: '[ｽﾋﾟｰｶ](別府)何ですか？'
   words:
-    - word: ｽﾋﾟｰｶ
-      base: スピーカー
-      dictionary: スピーカ
-      position: 1
     - word: 別府
       position: 8
       tags:
         - silent
-    - word: 何
-      position: 11
-    - word: です
-      position: 12
-    - word: か
-      position: 14
 - id: Quartet_Episode_05_0.40.42.700-0.40.47.120
   deck_name: Quartet
   translation: Beppu-san, you have a package.
@@ -4391,8 +2045,6 @@
   episode: 5
   sentence: ≪(宅配業者) 別府さ～ん 宅配便です
   words:
-    - word: ≪
-      position: 0
     - word: 宅配
       position: 2
       tags:
@@ -4405,20 +2057,6 @@
       position: 5
       tags:
         - silent
-    - word: 別府
-      position: 8
-    - word: さ
-      position: 10
-    - word: ～
-      position: 11
-    - word: ん
-      position: 12
-    - word: 宅配
-      position: 14
-    - word: 便
-      position: 16
-    - word: です
-      position: 17
 - id: Quartet_Episode_05_0.40.56.560-0.40.59.250
   deck_name: Quartet
   translation: Beppu-san?
@@ -4426,8 +2064,6 @@
   episode: 5
   sentence: ≪(宅配業者)別府さん？
   words:
-    - word: ≪
-      position: 0
     - word: 宅配
       position: 2
       tags:
@@ -4440,10 +2076,6 @@
       position: 5
       tags:
         - silent
-    - word: 別府
-      position: 7
-    - word: さん
-      position: 9
 - id: Quartet_Episode_06_0.00.19.290-0.00.23.480
   deck_name: Quartet
   translation: Suzume-san, are you awake?
@@ -4455,23 +2087,6 @@
       position: 1
       tags:
         - silent
-    - word: すずめ
-      base: 雀
-      position: 4
-    - word: さん
-      position: 7
-    - word: 起き
-      base: 起きる
-      dictionary: 起きる
-      position: 10
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 12
-    - word: ます
-      position: 13
-    - word: か
-      position: 15
 - id: Quartet_Episode_06_0.00.36.940-0.00.41.610
   deck_name: Quartet
   translation: '- Hm?<br>- Sorry. It''s Makimura.'
@@ -4484,36 +2099,6 @@
       position: 1
       tags:
         - silent
-    - word: うん
-      position: 5
-    - word: <
-      base: ＜
-      position: 8
-    - word: br
-      base: BR
-      position: 9
-    - word: '>'
-      base: ＞
-      position: 11
-    - word: すい
-      base: すむ
-      dictionary: すむ
-      position: 12
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 14
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 16
-    - word: ま
-      base: まあ
-      position: 18
-    - word: 槇村
-      position: 21
-    - word: です
-      position: 23
 - id: Quartet_Episode_06_0.01.25.060-0.01.28.750
   deck_name: Quartet
   translation: Here's your change, 40 yen.
@@ -4525,25 +2110,6 @@
       position: 1
       tags:
         - silent
-    - word: '40'
-      position: 4
-    - word: 円
-      position: 6
-    - word: の
-      position: 7
-    - word: お
-      base: 御
-      position: 8
-    - word: 返し
-      position: 9
-    - word: に
-      position: 11
-    - word: なり
-      base: 成る
-      dictionary: なる
-      position: 12
-    - word: ます
-      position: 14
 - id: Quartet_Episode_06_0.01.45.720-0.01.49.100
   deck_name: Quartet
   translation: Thank you for your patronage.
@@ -4551,25 +2117,10 @@
   episode: 6
   sentence: ≪(店員)ありがとうございました
   words:
-    - word: ≪
-      position: 0
     - word: 店員
       position: 2
       tags:
         - silent
-    - word: ありがとう
-      base: 有り難う
-      position: 5
-    - word: ござい
-      base: 御座る
-      dictionary: ござる
-      position: 10
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 13
-    - word: た
-      position: 15
 - id: Quartet_Episode_06_0.01.50.810-0.01.56.590
   deck_name: Quartet
   translation: Yeah. The ticket gate is right next to the exit.
@@ -4581,28 +2132,6 @@
       position: 1
       tags:
         - silent
-    - word: うん
-      position: 4
-    - word: 上がっ
-      base: 上がる
-      dictionary: 上がる
-      position: 7
-    - word: た
-      position: 10
-    - word: ところ
-      base: 所
-      position: 11
-    - word: が
-      position: 14
-    - word: すぐ
-      base: 直ぐ
-      position: 16
-    - word: 改札
-      position: 18
-    - word: だ
-      position: 20
-    - word: から
-      position: 21
 - id: Quartet_Episode_06_0.02.01.590-0.02.04.380
   deck_name: Quartet
   translation: Are you meeting your mother-in-law?
@@ -4614,24 +2143,6 @@
       position: 1
       tags:
         - silent
-    - word: お
-      base: 御
-      position: 4
-    - word: 義母
-      position: 5
-    - word: さん
-      position: 7
-    - word: に
-      position: 9
-    - word: 会う
-      position: 11
-    - word: ん
-      base: の
-      position: 13
-    - word: です
-      position: 14
-    - word: か
-      position: 16
 - id: Quartet_Episode_06_0.02.29.400-0.02.32.790
   deck_name: Quartet
   translation: '- Also, we need to buy coffee milk.<br>- I''m going out too.'
@@ -4639,47 +2150,10 @@
   episode: 6
   sentence: あと ｺｰﾋｰ牛乳 買っとかなきゃ ≪(家森)僕も そろそろ出ますね
   words:
-    - word: あと
-      base: 後
-      position: 0
-    - word: ｺｰﾋｰ
-      base: コーヒー
-      dictionary: コーヒー
-      position: 3
-    - word: 牛乳
-      position: 7
-    - word: 買っ
-      base: 買う
-      dictionary: 買う
-      position: 10
-    - word: とか
-      base: とく
-      dictionary: とく
-      position: 12
-    - word: なきゃ
-      base: ない
-      dictionary: ない
-      position: 14
-    - word: ≪
-      position: 18
     - word: 家森
       position: 20
       tags:
         - silent
-    - word: 僕
-      position: 23
-    - word: も
-      position: 24
-    - word: そろそろ
-      position: 26
-    - word: 出
-      base: 出る
-      dictionary: 出る
-      position: 30
-    - word: ます
-      position: 31
-    - word: ね
-      position: 33
 - id: Quartet_Episode_06_0.03.34.700-0.03.38.410
   deck_name: Quartet
   translation: I'm used to it.<br>I've been here a few times already.
@@ -4691,28 +2165,6 @@
       position: 1
       tags:
         - silent
-    - word: 慣れ
-      base: 慣れる
-      dictionary: 慣れる
-      position: 4
-    - word: た
-      position: 6
-    - word: もう
-      position: 8
-    - word: 何
-      position: 10
-    - word: 回
-      position: 11
-    - word: も
-      position: 12
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 13
-    - word: てる
-      position: 14
-    - word: から
-      position: 16
 - id: Quartet_Episode_06_0.04.27.580-0.04.29.990
   deck_name: Quartet
   translation: '- Monkey?<br>- Yeah.'
@@ -4720,12 +2172,6 @@
   episode: 6
   sentence: 猿ですか (多可美)うん
   words:
-    - word: 猿
-      position: 0
-    - word: です
-      position: 1
-    - word: か
-      position: 3
     - word: 多可
       position: 6
       tags:
@@ -4734,8 +2180,6 @@
       position: 8
       tags:
         - silent
-    - word: うん
-      position: 10
 - id: Quartet_Episode_06_0.04.35.090-0.04.37.400
   deck_name: Quartet
   translation: He belongs to a rare breed of monkey, right?
@@ -4747,30 +2191,6 @@
       position: 1
       tags:
         - silent
-    - word: 貴重
-      position: 4
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 6
-    - word: お
-      base: 御
-      position: 8
-    - word: 猿
-      position: 9
-    - word: さん
-      position: 10
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 12
-    - word: ん
-      base: の
-      position: 13
-    - word: でしょ
-      base: です
-      dictionary: です
-      position: 14
 - id: Quartet_Episode_06_0.05.18.180-0.05.23.590
   deck_name: Quartet
   translation: What's going on?<br>What are scrota?
@@ -4782,40 +2202,6 @@
       position: 1
       tags:
         - silent
-    - word: どう
-      position: 4
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 6
-    - word: た
-      position: 7
-    - word: ん
-      base: の
-      position: 8
-    - word: です
-      position: 9
-    - word: か
-      position: 11
-    - word: <
-      base: ＜
-      position: 13
-    - word: br
-      base: BR
-      position: 14
-    - word: '>'
-      base: ＞
-      position: 16
-    - word: ふぐり
-      position: 17
-    - word: って
-      position: 20
-    - word: 何
-      position: 22
-    - word: です
-      position: 23
-    - word: か
-      position: 25
 - id: Quartet_Episode_06_0.06.04.930-0.06.08.030
   deck_name: Quartet
   translation: Wow~ this looks amazing.
@@ -4827,19 +2213,6 @@
       position: 1
       tags:
         - silent
-    - word: うわ
-      position: 4
-    - word: ～
-      position: 6
-    - word: すご
-      base: 凄い
-      dictionary: すごい
-      position: 8
-    - word: ～
-      base: から
-      position: 10
-    - word: い
-      position: 11
 - id: Quartet_Episode_06_0.08.19.280-0.08.22.510
   deck_name: Quartet
   translation: Can you sign please?
@@ -4847,8 +2220,6 @@
   episode: 6
   sentence: ≪(宅配業者)サインお願いします
   words:
-    - word: ≪
-      position: 0
     - word: 宅配
       position: 2
       tags:
@@ -4861,21 +2232,6 @@
       position: 5
       tags:
         - silent
-    - word: サイン
-      position: 7
-    - word: お
-      base: 御
-      position: 10
-    - word: 願い
-      base: 願う
-      dictionary: 願う
-      position: 11
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 13
-    - word: ます
-      position: 14
 - id: Quartet_Episode_06_0.09.56.020-0.10.00.000
   deck_name: Quartet
   translation: '- That''s a tall one, huh?<br>- Yeah, it just fell to the ground.'
@@ -4883,39 +2239,10 @@
   episode: 6
   sentence: あれ 高そうですよね ≪(幹生)そう 倒しちゃって
   words:
-    - word: あれ
-      base: 彼れ
-      position: 0
-    - word: 高
-      base: 高い
-      dictionary: 高い
-      position: 3
-    - word: そう
-      position: 4
-    - word: です
-      position: 6
-    - word: よ
-      position: 8
-    - word: ね
-      position: 9
-    - word: ≪
-      position: 11
     - word: 幹生
       position: 13
       tags:
         - silent
-    - word: そう
-      position: 16
-    - word: 倒し
-      base: 倒す
-      dictionary: 倒す
-      position: 19
-    - word: ちゃっ
-      base: ちゃう
-      dictionary: ちゃう
-      position: 21
-    - word: て
-      position: 24
 - id: Quartet_Episode_06_0.12.44.590-0.12.48.930
   deck_name: Quartet
   translation: At that point, I felt an immediate connection to her.
@@ -4923,43 +2250,10 @@
   episode: 6
   sentence: ≪(幹生)そのとき もう 一目惚れに 近い感じ あったっていうか
   words:
-    - word: ≪
-      position: 0
     - word: 幹生
       position: 2
       tags:
         - silent
-    - word: その
-      base: 其の
-      position: 5
-    - word: とき
-      base: 時
-      position: 7
-    - word: もう
-      position: 10
-    - word: 一目
-      position: 13
-    - word: 惚れ
-      position: 15
-    - word: に
-      position: 17
-    - word: 近い
-      position: 19
-    - word: 感じ
-      position: 21
-    - word: あっ
-      base: 有る
-      dictionary: ある
-      position: 24
-    - word: た
-      position: 26
-    - word: って
-      position: 27
-    - word: いう
-      base: 言う
-      position: 29
-    - word: か
-      position: 31
 - id: Quartet_Episode_06_0.14.11.020-0.14.15.590
   deck_name: Quartet
   translation: When I was with her, my heart was always pounding.
@@ -4967,43 +2261,10 @@
   episode: 6
   sentence: ≪(幹生)彼女と一緒にいると な～んかドキドキして
   words:
-    - word: ≪
-      position: 0
     - word: 幹生
       position: 2
       tags:
         - silent
-    - word: 彼女
-      position: 5
-    - word: と
-      position: 7
-    - word: 一緒
-      position: 8
-    - word: に
-      position: 10
-    - word: いる
-      base: 居る
-      position: 11
-    - word: と
-      position: 13
-    - word: な
-      position: 15
-    - word: ～
-      position: 16
-    - word: ん
-      base: の
-      position: 17
-    - word: か
-      position: 18
-    - word: ドキドキ
-      base: どきどき
-      position: 19
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 23
-    - word: て
-      position: 24
 - id: Quartet_Episode_06_0.14.44.750-0.14.58.250
   deck_name: Quartet
   translation: '(♫ Pietro Mascagni: Cavalleria Rusticana - Intermezzo)'
@@ -5048,36 +2309,10 @@
   episode: 6
   sentence: ≪(幹生)巻真紀になっちゃうけど いいかなって
   words:
-    - word: ≪
-      position: 0
     - word: 幹生
       position: 2
       tags:
         - silent
-    - word: 巻
-      position: 5
-    - word: 真紀
-      position: 6
-    - word: に
-      position: 8
-    - word: なっ
-      base: 成る
-      dictionary: なる
-      position: 9
-    - word: ちゃう
-      position: 11
-    - word: けど
-      base: けれど
-      position: 14
-    - word: いい
-      base: 良い
-      position: 17
-    - word: か
-      position: 19
-    - word: な
-      position: 20
-    - word: って
-      position: 21
 - id: Quartet_Episode_06_0.15.24.250-0.15.25.980
   deck_name: Quartet
   translation: Let's get married.
@@ -5085,18 +2320,10 @@
   episode: 6
   sentence: ≪(幹生)結婚しよ
   words:
-    - word: ≪
-      position: 0
     - word: 幹生
       position: 2
       tags:
         - silent
-    - word: 結婚
-      position: 5
-    - word: しよ
-      base: 為る
-      dictionary: する
-      position: 7
 - id: Quartet_Episode_06_0.15.29.780-0.15.33.730
   deck_name: Quartet
   translation: '&quot;Let''s walk down the path of life together,&quot; I said.'
@@ -5104,26 +2331,10 @@
   episode: 6
   sentence: ≪(幹生)人生を一緒に歩もうって
   words:
-    - word: ≪
-      position: 0
     - word: 幹生
       position: 2
       tags:
         - silent
-    - word: 人生
-      position: 5
-    - word: を
-      position: 7
-    - word: 一緒
-      position: 8
-    - word: に
-      position: 10
-    - word: 歩もう
-      base: 歩む
-      dictionary: 歩む
-      position: 11
-    - word: って
-      position: 14
 - id: Quartet_Episode_06_0.15.46.770-0.15.51.240
   deck_name: Quartet
   translation: I wanted us to still remain as lovers even after getting married.
@@ -5131,45 +2342,10 @@
   episode: 6
   sentence: ≪(幹生)結婚しても 恋人同士のようでいたかった
   words:
-    - word: ≪
-      position: 0
     - word: 幹生
       position: 2
       tags:
         - silent
-    - word: 結婚
-      position: 5
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 7
-    - word: て
-      position: 8
-    - word: も
-      position: 9
-    - word: 恋人
-      position: 11
-    - word: 同士
-      position: 13
-    - word: の
-      position: 15
-    - word: よう
-      base: 様
-      position: 16
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 18
-    - word: い
-      base: 居る
-      dictionary: いる
-      position: 19
-    - word: たかっ
-      base: たい
-      dictionary: たい
-      position: 20
-    - word: た
-      position: 23
 - id: Quartet_Episode_06_0.18.11.550-0.18.14.100
   deck_name: Quartet
   translation: Even then, I could start coming home early.
@@ -5177,28 +2353,10 @@
   episode: 6
   sentence: ≪(幹生)これからは 早く帰れるし
   words:
-    - word: ≪
-      position: 0
     - word: 幹生
       position: 2
       tags:
         - silent
-    - word: これ
-      base: 此れ
-      position: 5
-    - word: から
-      position: 7
-    - word: は
-      position: 9
-    - word: 早く
-      base: 早い
-      dictionary: 早い
-      position: 11
-    - word: 帰れる
-      base: 帰る
-      position: 13
-    - word: し
-      position: 16
 - id: Quartet_Episode_06_0.18.25.010-0.18.31.250
   deck_name: Quartet
   translation: >-
@@ -5208,44 +2366,10 @@
   episode: 6
   sentence: ≪(幹生)病院で診てもらったら 子供は まあ 難しいらしくて
   words:
-    - word: ≪
-      position: 0
     - word: 幹生
       position: 2
       tags:
         - silent
-    - word: 病院
-      position: 5
-    - word: で
-      position: 7
-    - word: 診
-      base: 見る
-      dictionary: 診る
-      position: 8
-    - word: て
-      position: 9
-    - word: もらっ
-      base: 貰う
-      dictionary: もらう
-      position: 10
-    - word: たら
-      base: た
-      dictionary: た
-      position: 13
-    - word: 子供
-      position: 16
-    - word: は
-      position: 18
-    - word: まあ
-      position: 20
-    - word: 難しい
-      position: 23
-    - word: らしく
-      base: らしい
-      dictionary: らしい
-      position: 26
-    - word: て
-      position: 29
 - id: Quartet_Episode_06_0.18.33.520-0.18.37.430
   deck_name: Quartet
   translation: I thought we could still remain as lovers.
@@ -5253,46 +2377,10 @@
   episode: 6
   sentence: ≪(幹生)いつまでも 恋人同士でいたいと思ってたし
   words:
-    - word: ≪
-      position: 0
     - word: 幹生
       position: 2
       tags:
         - silent
-    - word: いつ
-      position: 5
-    - word: まで
-      position: 7
-    - word: も
-      position: 9
-    - word: 恋人
-      position: 11
-    - word: 同士
-      position: 13
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 15
-    - word: い
-      base: 居る
-      dictionary: いる
-      position: 16
-    - word: たい
-      position: 17
-    - word: と
-      position: 19
-    - word: 思っ
-      base: 思う
-      dictionary: 思う
-      position: 20
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 22
-    - word: た
-      position: 23
-    - word: し
-      position: 24
 - id: Quartet_Episode_06_0.20.31.330-0.20.34.250
   deck_name: Quartet
   translation: Though this was to be expected,
@@ -5300,40 +2388,10 @@
   episode: 6
   sentence: ≪(幹生)一緒にいて 分かってきたのは➡
   words:
-    - word: ≪
-      position: 0
     - word: 幹生
       position: 2
       tags:
         - silent
-    - word: 一緒
-      position: 5
-    - word: に
-      position: 7
-    - word: い
-      base: 居る
-      dictionary: いる
-      position: 8
-    - word: て
-      position: 9
-    - word: 分かっ
-      base: 分かる
-      dictionary: 分かる
-      position: 11
-    - word: て
-      position: 14
-    - word: き
-      base: 来る
-      dictionary: くる
-      position: 15
-    - word: た
-      position: 16
-    - word: の
-      position: 17
-    - word: は
-      position: 18
-    - word: ➡
-      position: 19
 - id: Quartet_Episode_06_0.20.47.610-0.20.54.000
   deck_name: Quartet
   translation: When we were in love, I thought she was special.
@@ -5341,47 +2399,10 @@
   episode: 6
   sentence: ≪(幹生)恋をしてる頃は 特別な人だって思えたけど
   words:
-    - word: ≪
-      position: 0
     - word: 幹生
       position: 2
       tags:
         - silent
-    - word: 恋
-      position: 5
-    - word: を
-      position: 6
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 7
-    - word: てる
-      position: 8
-    - word: 頃
-      position: 10
-    - word: は
-      position: 11
-    - word: 特別
-      position: 13
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 15
-    - word: 人
-      position: 16
-    - word: だ
-      position: 17
-    - word: って
-      position: 18
-    - word: 思え
-      base: 思う
-      dictionary: 思える
-      position: 20
-    - word: た
-      position: 22
-    - word: けど
-      base: けれど
-      position: 23
 - id: Quartet_Episode_06_0.20.54.360-0.21.00.460
   deck_name: Quartet
   translation: But the somehow enigmatic person that she was at the beginning...
@@ -5389,42 +2410,10 @@
   episode: 6
   sentence: ≪(幹生)最初の頃の どっか 秘密めいた感じの彼女は➡
   words:
-    - word: ≪
-      position: 0
     - word: 幹生
       position: 2
       tags:
         - silent
-    - word: 最初
-      position: 5
-    - word: の
-      position: 7
-    - word: 頃
-      position: 8
-    - word: の
-      position: 9
-    - word: どっ
-      position: 11
-    - word: か
-      position: 13
-    - word: 秘密
-      position: 15
-    - word: めい
-      base: めく
-      dictionary: めく
-      position: 17
-    - word: た
-      position: 19
-    - word: 感じ
-      position: 20
-    - word: の
-      position: 22
-    - word: 彼女
-      position: 23
-    - word: は
-      position: 25
-    - word: ➡
-      position: 26
 - id: Quartet_Episode_06_0.22.54.350-0.23.00.140
   deck_name: Quartet
   translation: This can't go on. She's my wife.
@@ -5432,45 +2421,10 @@
   episode: 6
   sentence: ≪(幹生)こんなんじゃダメだ この子は俺の妻だし➡
   words:
-    - word: ≪
-      position: 0
     - word: 幹生
       position: 2
       tags:
         - silent
-    - word: こんな
-      position: 5
-    - word: ん
-      base: の
-      position: 8
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 9
-    - word: ダメ
-      base: 駄目
-      position: 11
-    - word: だ
-      position: 13
-    - word: この
-      base: 此の
-      position: 15
-    - word: 子
-      position: 17
-    - word: は
-      position: 18
-    - word: 俺
-      position: 19
-    - word: の
-      position: 20
-    - word: 妻
-      position: 21
-    - word: だ
-      position: 22
-    - word: し
-      position: 23
-    - word: ➡
-      position: 24
 - id: Quartet_Episode_06_0.23.13.490-0.23.19.420
   deck_name: Quartet
   translation: >-
@@ -5480,51 +2434,10 @@
   episode: 6
   sentence: ≪(幹生)彼女が 生活している場所は 狭いから 話題は大抵 テレビの話で➡
   words:
-    - word: ≪
-      position: 0
     - word: 幹生
       position: 2
       tags:
         - silent
-    - word: 彼女
-      position: 5
-    - word: が
-      position: 7
-    - word: 生活
-      position: 9
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 11
-    - word: て
-      position: 12
-    - word: いる
-      base: 居る
-      position: 13
-    - word: 場所
-      position: 15
-    - word: は
-      position: 17
-    - word: 狭い
-      position: 19
-    - word: から
-      position: 21
-    - word: 話題
-      position: 24
-    - word: は
-      position: 26
-    - word: 大抵
-      position: 27
-    - word: テレビ
-      position: 30
-    - word: の
-      position: 33
-    - word: 話
-      position: 34
-    - word: で
-      position: 35
-    - word: ➡
-      position: 36
 - id: Quartet_Episode_06_0.23.26.070-0.23.29.430
   deck_name: Quartet
   translation: So warm~
@@ -5532,25 +2445,10 @@
   episode: 6
   sentence: 《≪(モデル)あったか～い》
   words:
-    - word: ≪
-      position: 1
     - word: モデル
       position: 3
       tags:
         - silent
-    - word: あっ
-      base: 有る
-      dictionary: ある
-      position: 7
-    - word: た
-      position: 9
-    - word: か
-      position: 10
-    - word: ～
-      base: から
-      position: 11
-    - word: い
-      position: 12
 - id: Quartet_Episode_06_0.23.30.080-0.23.31.620
   deck_name: Quartet
   translation: Cut!
@@ -5562,8 +2460,6 @@
       position: 2
       tags:
         - silent
-    - word: カット
-      position: 7
 - id: Quartet_Episode_06_0.24.24.400-0.24.25.980
   deck_name: Quartet
   translation: Mikio!
@@ -5575,8 +2471,6 @@
       position: 2
       tags:
         - silent
-    - word: 幹生
-      position: 5
 - id: Quartet_Episode_06_0.25.55.230-0.26.00.330
   deck_name: Quartet
   translation: I always wanted to be with someone who likes the same things I do.
@@ -5584,63 +2478,10 @@
   episode: 6
   sentence: ≪(幹生)好きなものを見て 隣を見たら  彼女も同じように感じてる➡
   words:
-    - word: ≪
-      position: 0
     - word: 幹生
       position: 2
       tags:
         - silent
-    - word: 好き
-      position: 5
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 7
-    - word: もの
-      base: 物
-      position: 8
-    - word: を
-      position: 10
-    - word: 見
-      base: 見る
-      dictionary: 見る
-      position: 11
-    - word: て
-      position: 12
-    - word: 隣
-      base: 隣り
-      position: 14
-    - word: を
-      position: 15
-    - word: 見
-      base: 見る
-      dictionary: 見る
-      position: 16
-    - word: たら
-      base: た
-      dictionary: た
-      position: 17
-    - word: 彼女
-      position: 21
-    - word: も
-      position: 23
-    - word: 同じ
-      position: 24
-    - word: よう
-      base: 様
-      position: 26
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 28
-    - word: 感じ
-      base: 感ずる
-      dictionary: 感ずる
-      position: 29
-    - word: てる
-      position: 31
-    - word: ➡
-      position: 33
 - id: Quartet_Episode_06_0.26.17.880-0.26.21.510
   deck_name: Quartet
   translation: Once, we went to the hot spring together.
@@ -5648,32 +2489,10 @@
   episode: 6
   sentence: ≪(幹生)あるとき 彼女と温泉に行って
   words:
-    - word: ≪
-      position: 0
     - word: 幹生
       position: 2
       tags:
         - silent
-    - word: ある
-      base: 有る
-      position: 5
-    - word: とき
-      base: 時
-      position: 7
-    - word: 彼女
-      position: 10
-    - word: と
-      position: 12
-    - word: 温泉
-      position: 13
-    - word: に
-      position: 15
-    - word: 行っ
-      base: 行く
-      dictionary: 行く
-      position: 16
-    - word: て
-      position: 18
 - id: Quartet_Episode_06_0.26.25.250-0.26.29.940
   deck_name: Quartet
   translation: When asked, they told us that they had been married for 40 years.
@@ -5681,36 +2500,10 @@
   episode: 6
   sentence: ≪(幹生)聞いたら ｢結婚して40年です｣って
   words:
-    - word: ≪
-      position: 0
     - word: 幹生
       position: 2
       tags:
         - silent
-    - word: 聞い
-      base: 聞く
-      dictionary: 聞く
-      position: 5
-    - word: たら
-      base: た
-      dictionary: た
-      position: 7
-    - word: 結婚
-      position: 11
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 13
-    - word: て
-      position: 14
-    - word: '40'
-      position: 15
-    - word: 年
-      position: 17
-    - word: です
-      position: 18
-    - word: って
-      position: 21
 - id: Quartet_Episode_06_0.27.16.130-0.27.20.080
   deck_name: Quartet
   translation: Her feelings for me never changed.
@@ -5718,36 +2511,10 @@
   episode: 6
   sentence: ≪(幹生)彼女は 何も変わってなくて➡
   words:
-    - word: ≪
-      position: 0
     - word: 幹生
       position: 2
       tags:
         - silent
-    - word: 彼女
-      position: 5
-    - word: は
-      position: 7
-    - word: 何
-      position: 9
-    - word: も
-      position: 10
-    - word: 変わっ
-      base: 変わる
-      dictionary: 変わる
-      position: 11
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 14
-    - word: なく
-      base: ない
-      dictionary: ない
-      position: 15
-    - word: て
-      position: 17
-    - word: ➡
-      position: 18
 - id: Quartet_Episode_06_0.30.34.920-0.30.41.960
   deck_name: Quartet
   translation: >-
@@ -5757,52 +2524,10 @@
   episode: 6
   sentence: ≪(幹生)次の日 気がついたら ベランダの柵に足をかけてて
   words:
-    - word: ≪
-      position: 0
     - word: 幹生
       position: 2
       tags:
         - silent
-    - word: 次
-      position: 5
-    - word: の
-      position: 6
-    - word: 日
-      position: 7
-    - word: 気
-      position: 9
-    - word: が
-      position: 10
-    - word: つい
-      base: 付く
-      dictionary: つく
-      position: 11
-    - word: たら
-      base: た
-      dictionary: た
-      position: 13
-    - word: ベランダ
-      position: 16
-    - word: の
-      position: 20
-    - word: 柵
-      position: 21
-    - word: に
-      position: 22
-    - word: 足
-      position: 23
-    - word: を
-      position: 24
-    - word: かけ
-      base: 掛ける
-      dictionary: かける
-      position: 25
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 27
-    - word: て
-      position: 28
 - id: Quartet_Episode_06_0.33.13.320-0.33.18.210
   deck_name: Quartet
   translation: I said all that out of spite.
@@ -5810,34 +2535,10 @@
   episode: 6
   sentence: ≪(幹生)悔しくて 言い返したかったから
   words:
-    - word: ≪
-      position: 0
     - word: 幹生
       position: 2
       tags:
         - silent
-    - word: 悔しく
-      base: 悔しい
-      dictionary: 悔しい
-      position: 5
-    - word: て
-      position: 8
-    - word: 言い
-      base: 言う
-      dictionary: 言う
-      position: 10
-    - word: 返し
-      base: 返す
-      dictionary: 返す
-      position: 12
-    - word: たかっ
-      base: たい
-      dictionary: たい
-      position: 14
-    - word: た
-      position: 17
-    - word: から
-      position: 18
 - id: Quartet_Episode_06_0.33.19.800-0.33.22.440
   deck_name: Quartet
   translation: Why did you quit the company, Maki-san?
@@ -5849,35 +2550,6 @@
       position: 2
       tags:
         - silent
-    - word: 何
-      position: 5
-    - word: で
-      position: 6
-    - word: 巻
-      position: 8
-    - word: さん
-      position: 9
-    - word: うち
-      base: 内
-      position: 12
-    - word: 辞め
-      base: 辞める
-      dictionary: 辞める
-      position: 14
-    - word: ちゃっ
-      base: ちゃう
-      dictionary: ちゃう
-      position: 16
-    - word: た
-      position: 19
-    - word: ん
-      base: の
-      position: 20
-    - word: す
-      base: っす
-      position: 21
-    - word: か
-      position: 22
 - id: Quartet_Episode_06_0.33.25.550-0.33.29.050
   deck_name: Quartet
   translation: >-
@@ -5891,30 +2563,6 @@
       position: 2
       tags:
         - silent
-    - word: 大村
-      position: 5
-    - word: 部
-      position: 7
-    - word: 長
-      position: 8
-    - word: に
-      position: 9
-    - word: なっ
-      base: 成る
-      dictionary: なる
-      position: 10
-    - word: て
-      position: 12
-    - word: から
-      position: 13
-    - word: 結構
-      position: 16
-    - word: 大変
-      position: 19
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 21
 - id: Quartet_Episode_06_0.33.44.040-0.33.46.230
   deck_name: Quartet
   translation: >-
@@ -5924,20 +2572,10 @@
   episode: 6
   sentence: 《≪(西村)そうっすよね》
   words:
-    - word: ≪
-      position: 1
     - word: 西村
       position: 3
       tags:
         - silent
-    - word: そう
-      position: 6
-    - word: っす
-      position: 8
-    - word: よ
-      position: 10
-    - word: ね
-      position: 11
 - id: Quartet_Episode_06_0.34.09.040-0.34.12.630
   deck_name: Quartet
   translation: You recently got married, didn't you?<br>2 years? It's only 2 years, huh?
@@ -5949,30 +2587,6 @@
       position: 2
       tags:
         - silent
-    - word: 結婚
-      position: 5
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 7
-    - word: た
-      position: 8
-    - word: の
-      position: 9
-    - word: 最近
-      position: 11
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 13
-    - word: ない
-      base: 無い
-      position: 15
-    - word: す
-      base: っす
-      position: 17
-    - word: か
-      position: 18
 - id: Quartet_Episode_06_0.34.12.130-0.34.16.840
   deck_name: Quartet
   translation: 2 years? It's only 2 years, huh?<br>Still the honeymoon phrase right?
@@ -5984,32 +2598,6 @@
       position: 2
       tags:
         - silent
-    - word: ２
-      base: '2'
-      dictionary: '2'
-      position: 5
-    - word: 年
-      position: 6
-    - word: <
-      base: ＜
-      position: 8
-    - word: br
-      base: BR
-      position: 9
-    - word: '>'
-      base: ＞
-      position: 11
-    - word: まだ
-      base: 未だ
-      position: 12
-    - word: ２
-      base: '2'
-      dictionary: '2'
-      position: 14
-    - word: 年
-      position: 15
-    - word: か
-      position: 16
 - id: Quartet_Episode_06_0.34.16.350-0.34.20.310
   deck_name: Quartet
   translation: Still the honeymoon phrase right?<br>You really don't know anything, do you?
@@ -6021,27 +2609,6 @@
       position: 2
       tags:
         - silent
-    - word: まだまだ
-      base: 未だ未だ
-      position: 5
-    - word: 奥さん
-      position: 10
-    - word: の
-      position: 13
-    - word: こと
-      position: 14
-    - word: 愛し
-      base: 愛する
-      dictionary: 愛する
-      position: 17
-    - word: てる
-      position: 19
-    - word: 時期
-      position: 21
-    - word: でしょ
-      base: です
-      dictionary: です
-      position: 23
 - id: Quartet_Episode_06_0.34.19.810-0.34.23.170
   deck_name: Quartet
   translation: You really don't know anything, do you?<br>- I love her.<br>- Then...?
@@ -6053,25 +2620,6 @@
       position: 2
       tags:
         - silent
-    - word: お前
-      base: 御前
-      position: 5
-    - word: 何
-      position: 8
-    - word: も
-      position: 9
-    - word: 分かっ
-      base: 分かる
-      dictionary: 分かる
-      position: 10
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 13
-    - word: ない
-      position: 14
-    - word: ね
-      position: 16
 - id: Quartet_Episode_06_0.34.44.580-0.34.46.660
   deck_name: Quartet
   translation: What did Maki-san say?<br>Apparently she's not feeling well all of a sudden.
@@ -6089,16 +2637,6 @@
       position: 4
       tags:
         - silent
-    - word: 巻
-      position: 6
-    - word: さん
-      position: 7
-    - word: 何
-      position: 10
-    - word: だ
-      position: 11
-    - word: って
-      position: 12
 - id: Quartet_Episode_06_0.34.46.160-0.34.49.130
   deck_name: Quartet
   translation: Apparently she's not feeling well all of a sudden.
@@ -6112,30 +2650,6 @@
       position: 2
       tags:
         - silent
-    - word: 何
-      position: 4
-    - word: か
-      position: 5
-    - word: 急
-      position: 6
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 7
-    - word: 具合
-      position: 9
-    - word: 悪く
-      base: 悪い
-      dictionary: 悪い
-      position: 11
-    - word: なっ
-      base: 成る
-      dictionary: なる
-      position: 13
-    - word: た
-      position: 15
-    - word: って
-      position: 16
 - id: Quartet_Episode_06_0.34.49.030-0.34.53.230
   deck_name: Quartet
   translation: >-
@@ -6145,36 +2659,12 @@
   episode: 6
   sentence: 《≪(Ａ)聞こえなかった あの人 声ちっちゃいから》
   words:
-    - word: ≪
-      position: 1
     - word: Ａ
       base: a
       dictionary: a
       position: 3
       tags:
         - silent
-    - word: 聞こえ
-      base: 聞こえる
-      dictionary: 聞こえる
-      position: 5
-    - word: なかっ
-      base: ない
-      dictionary: ない
-      position: 8
-    - word: た
-      position: 11
-    - word: あの
-      base: 彼の
-      position: 13
-    - word: 人
-      position: 15
-    - word: 声
-      position: 17
-    - word: ちっちゃい
-      base: 小さい
-      position: 18
-    - word: から
-      position: 23
 - id: Quartet_Episode_06_0.34.52.730-0.34.55.600
   deck_name: Quartet
   translation: She does.
@@ -6182,20 +2672,12 @@
   episode: 6
   sentence: 《≪(Ｂ)確かに》
   words:
-    - word: ≪
-      position: 1
     - word: Ｂ
       base: b
       dictionary: b
       position: 3
       tags:
         - silent
-    - word: 確か
-      position: 5
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 7
 - id: Quartet_Episode_06_0.35.14.120-0.35.19.520
   deck_name: Quartet
   translation: I wanted us to stay as lovers even after getting married.
@@ -6203,49 +2685,10 @@
   episode: 6
   sentence: ≪(幹生)結婚しても 恋人のように思っていたくて
   words:
-    - word: ≪
-      position: 0
     - word: 幹生
       position: 2
       tags:
         - silent
-    - word: 結婚
-      position: 5
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 7
-    - word: て
-      position: 8
-    - word: も
-      position: 9
-    - word: 恋人
-      position: 11
-    - word: の
-      position: 13
-    - word: よう
-      base: 様
-      position: 14
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 16
-    - word: 思っ
-      base: 思う
-      dictionary: 思う
-      position: 17
-    - word: て
-      position: 19
-    - word: い
-      base: 居る
-      dictionary: いる
-      position: 20
-    - word: たく
-      base: たい
-      dictionary: たい
-      position: 21
-    - word: て
-      position: 23
 - id: Quartet_Episode_06_0.35.26.940-0.35.32.970
   deck_name: Quartet
   translation: She was not my lover, but a family member.
@@ -6253,46 +2696,10 @@
   episode: 6
   sentence: ≪(幹生)彼女は恋人じゃなくて 家族の一人になってて
   words:
-    - word: ≪
-      position: 0
     - word: 幹生
       position: 2
       tags:
         - silent
-    - word: 彼女
-      position: 5
-    - word: は
-      position: 7
-    - word: 恋人
-      position: 8
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 10
-    - word: なく
-      base: 無い
-      dictionary: ない
-      position: 12
-    - word: て
-      position: 14
-    - word: 家族
-      position: 16
-    - word: の
-      position: 18
-    - word: 一人
-      position: 19
-    - word: に
-      position: 21
-    - word: なっ
-      base: 成る
-      dictionary: なる
-      position: 22
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 24
-    - word: て
-      position: 25
 - id: Quartet_Episode_06_0.35.36.800-0.35.42.090
   deck_name: Quartet
   translation: Why did we only get the opposite of what we wanted?
@@ -6300,42 +2707,10 @@
   episode: 6
   sentence: ≪(幹生)欲しかったものが お互い 逆さんなってて
   words:
-    - word: ≪
-      position: 0
     - word: 幹生
       position: 2
       tags:
         - silent
-    - word: 欲しかっ
-      base: 欲しい
-      dictionary: 欲しい
-      position: 5
-    - word: た
-      position: 9
-    - word: もの
-      base: 物
-      position: 10
-    - word: が
-      position: 12
-    - word: お
-      base: 御
-      position: 14
-    - word: 互い
-      position: 15
-    - word: 逆
-      position: 18
-    - word: さん
-      position: 19
-    - word: なっ
-      base: 成る
-      dictionary: なる
-      position: 21
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 23
-    - word: て
-      position: 24
 - id: Quartet_Episode_06_0.35.52.920-0.35.59.530
   deck_name: Quartet
   translation: >-
@@ -6345,38 +2720,10 @@
   episode: 6
   sentence: ≪(幹生)でも こんなんじゃダメだ ちゃんと話そうって
   words:
-    - word: ≪
-      position: 0
     - word: 幹生
       position: 2
       tags:
         - silent
-    - word: で
-      position: 5
-    - word: も
-      position: 6
-    - word: こんな
-      position: 8
-    - word: ん
-      base: の
-      position: 11
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 12
-    - word: ダメ
-      base: 駄目
-      position: 14
-    - word: だ
-      position: 16
-    - word: ちゃんと
-      position: 18
-    - word: 話そう
-      base: 話す
-      dictionary: 話す
-      position: 22
-    - word: って
-      position: 25
 - id: Quartet_Episode_06_0.36.48.280-0.36.52.350
   deck_name: Quartet
   translation: '(♫ Pietro Mascagni: Cavalleria Rusticana - Intermezzo)'
@@ -6423,11 +2770,6 @@
       position: 1
       tags:
         - silent
-    - word: さ
-      position: 4
-    - word: むッ
-      base: むむ
-      position: 5
 - id: Quartet_Episode_07_0.00.12.480-0.00.14.690
   deck_name: Quartet
   translation: I don't think that's possible.
@@ -6439,16 +2781,6 @@
       position: 1
       tags:
         - silent
-    - word: 無理
-      position: 4
-    - word: だ
-      position: 6
-    - word: と
-      position: 7
-    - word: 思う
-      position: 8
-    - word: よ
-      position: 10
 - id: Quartet_Episode_07_0.01.51.340-0.01.54.010
   deck_name: Quartet
   translation: I'm really sorry.
@@ -6456,27 +2788,10 @@
   episode: 7
   sentence: ≪(幹生)ホント すいません
   words:
-    - word: ≪
-      position: 0
     - word: 幹生
       position: 2
       tags:
         - silent
-    - word: ホント
-      base: 本当
-      position: 5
-    - word: すい
-      base: すむ
-      dictionary: すむ
-      position: 9
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 11
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 13
 - id: Quartet_Episode_07_0.01.58.020-0.01.59.800
   deck_name: Quartet
   translation: Ah... um.
@@ -6488,11 +2803,6 @@
       position: 1
       tags:
         - silent
-    - word: ああ
-      position: 4
-    - word: あの
-      base: 彼の
-      position: 8
 - id: Quartet_Episode_07_0.02.21.720-0.02.24.200
   deck_name: Quartet
   translation: '- No.<br>- Thank you.'
@@ -6505,20 +2815,6 @@
       position: 1
       tags:
         - silent
-    - word: ううん
-      position: 5
-    - word: すい
-      base: すむ
-      dictionary: すむ
-      position: 9
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 11
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 13
 - id: Quartet_Episode_07_0.04.30.960-0.04.32.530
   deck_name: Quartet
   translation: Did you lose weight?
@@ -6530,12 +2826,6 @@
       position: 1
       tags:
         - silent
-    - word: 痩せ
-      base: 痩せる
-      dictionary: 痩せる
-      position: 4
-    - word: た
-      position: 6
 - id: Quartet_Episode_07_0.06.50.850-0.06.53.210
   deck_name: Quartet
   translation: That should do the trick.
@@ -6547,8 +2837,6 @@
       position: 1
       tags:
         - silent
-    - word: よし
-      position: 4
 - id: Quartet_Episode_07_0.17.15.760-0.17.17.360
   deck_name: Quartet
   translation: Suzume-san!
@@ -6560,11 +2848,6 @@
       position: 1
       tags:
         - silent
-    - word: すずめ
-      base: 雀
-      position: 4
-    - word: さん
-      position: 7
 - id: Quartet_Episode_07_0.17.42.060-0.17.44.470
   deck_name: Quartet
   translation: '- Please get on the highway and then..<br>- Yes.'
@@ -6572,16 +2855,6 @@
   episode: 7
   sentence: 国道に出て (運転手)はい
   words:
-    - word: 国道
-      position: 0
-    - word: に
-      position: 2
-    - word: 出
-      base: 出る
-      dictionary: 出る
-      position: 3
-    - word: て
-      position: 4
     - word: 運転
       position: 7
       tags:
@@ -6590,8 +2863,6 @@
       position: 9
       tags:
         - silent
-    - word: はい
-      position: 11
 - id: Quartet_Episode_07_0.19.46.370-0.19.48.410
   deck_name: Quartet
   translation: I'm sorry!
@@ -6607,13 +2878,6 @@
       position: 3
       tags:
         - silent
-    - word: ごめん
-      base: 御免
-      position: 5
-    - word: なさい
-      base: 為す
-      dictionary: なさる
-      position: 8
 - id: Quartet_Episode_07_0.21.06.740-0.21.09.990
   deck_name: Quartet
   translation: You have to pass this intersection no matter where you are going.
@@ -6629,37 +2893,6 @@
       position: 3
       tags:
         - silent
-    - word: どこ
-      position: 5
-    - word: に
-      position: 7
-    - word: 行く
-      position: 8
-    - word: に
-      position: 10
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 11
-    - word: て
-      position: 12
-    - word: も
-      position: 13
-    - word: ここ
-      base: 此処
-      position: 15
-    - word: は
-      position: 17
-    - word: 通り
-      base: 通る
-      dictionary: 通る
-      position: 18
-    - word: ます
-      position: 20
-    - word: から
-      position: 22
-    - word: ね
-      position: 24
 - id: Quartet_Episode_07_0.21.09.490-0.21.13.250
   deck_name: Quartet
   translation: '- Could we check another round please?<br>- Understood.'
@@ -6667,24 +2900,6 @@
   episode: 7
   sentence: もう一回 往復してください (運転手)かしこまりました
   words:
-    - word: もう
-      position: 0
-    - word: 一
-      position: 2
-    - word: 回
-      position: 3
-    - word: 往復
-      position: 5
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 7
-    - word: て
-      position: 8
-    - word: ください
-      base: 下さる
-      dictionary: くださる
-      position: 9
     - word: 運転
       position: 15
       tags:
@@ -6693,16 +2908,6 @@
       position: 17
       tags:
         - silent
-    - word: かしこまり
-      base: 畏まる
-      dictionary: かしこまる
-      position: 19
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 24
-    - word: た
-      position: 26
 - id: Quartet_Episode_07_0.21.14.500-0.21.18.730
   deck_name: Quartet
   translation: (♫ Karuizawa's Marching Song)
@@ -6776,27 +2981,10 @@
   episode: 7
   sentence: すいません ≪(職員)こんばんは
   words:
-    - word: すい
-      base: すむ
-      dictionary: すむ
-      position: 0
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 2
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 4
-    - word: ≪
-      position: 6
     - word: 職員
       position: 8
       tags:
         - silent
-    - word: こんばんは
-      base: 今晩は
-      position: 11
 - id: Quartet_Episode_07_0.37.40.970-0.37.46.460
   deck_name: Quartet
   translation: For sure. Divorce papers, right?<br>Give me a minute to confirm.
@@ -6804,34 +2992,10 @@
   episode: 7
   sentence: ≪(職員)はい 離婚届ですね ちょっと確認します
   words:
-    - word: ≪
-      position: 0
     - word: 職員
       position: 2
       tags:
         - silent
-    - word: はい
-      position: 5
-    - word: 離婚
-      position: 8
-    - word: 届
-      base: 届け
-      position: 10
-    - word: です
-      position: 11
-    - word: ね
-      position: 13
-    - word: ちょっと
-      base: 一寸
-      position: 15
-    - word: 確認
-      position: 19
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 21
-    - word: ます
-      position: 22
 - id: Quartet_Episode_07_0.40.05.650-0.40.07.340
   deck_name: Quartet
   translation: Good morning!
@@ -6843,15 +3007,6 @@
       position: 1
       tags:
         - silent
-    - word: おはよう
-      base: 御早う
-      position: 4
-    - word: ござい
-      base: 御座る
-      dictionary: ござる
-      position: 8
-    - word: ます
-      position: 11
 - id: Quartet_Episode_07_0.40.11.360-0.40.14.690
   deck_name: Quartet
   translation: Good morning.
@@ -6859,27 +3014,10 @@
   episode: 7
   sentence: ≪(有朱)おはようございま～す
   words:
-    - word: ≪
-      position: 0
     - word: 有朱
       position: 2
       tags:
         - silent
-    - word: おはよう
-      base: 御早う
-      position: 5
-    - word: ござい
-      base: 御座る
-      dictionary: ござる
-      position: 9
-    - word: ま
-      base: まー
-      position: 12
-    - word: ～
-      position: 13
-    - word: す
-      base: っす
-      position: 14
 - id: Quartet_Episode_08_0.00.06.490-0.00.07.900
   deck_name: Quartet
   translation: Oh?
@@ -6891,9 +3029,6 @@
       position: 1
       tags:
         - silent
-    - word: おッ
-      base: おっ
-      position: 4
 - id: Quartet_Episode_08_0.00.24.570-0.00.29.250
   deck_name: Quartet
   translation: Maybe this is because you guys made fun of fish earlier?
@@ -6905,42 +3040,6 @@
       position: 1
       tags:
         - silent
-    - word: 皆
-      position: 4
-    - word: さん
-      position: 5
-    - word: が
-      position: 7
-    - word: 魚類
-      position: 9
-    - word: を
-      position: 11
-    - word: バカ
-      base: ばか
-      position: 13
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 15
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 16
-    - word: た
-      position: 17
-    - word: から
-      position: 18
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 20
-    - word: ない
-      base: 無い
-      position: 22
-    - word: です
-      position: 24
-    - word: か
-      position: 26
 - id: Quartet_Episode_08_0.01.01.000-0.01.03.230
   deck_name: Quartet
   translation: Really~
@@ -6957,10 +3056,6 @@
       position: 4
       tags:
         - silent
-    - word: へえ
-      position: 8
-    - word: ～
-      position: 10
 - id: Quartet_Episode_08_0.02.25.640-0.02.31.350
   deck_name: Quartet
   translation: >-
@@ -6970,49 +3065,10 @@
   episode: 8
   sentence: ≪(鏡子)やっと腰も治りました お世話になった お礼です
   words:
-    - word: ≪
-      position: 0
     - word: 鏡子
       position: 2
       tags:
         - silent
-    - word: やっと
-      base: 漸と
-      position: 5
-    - word: 腰
-      position: 8
-    - word: も
-      position: 9
-    - word: 治り
-      base: 直る
-      dictionary: 治る
-      position: 10
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 12
-    - word: た
-      position: 14
-    - word: お
-      base: 御
-      position: 16
-    - word: 世話
-      position: 17
-    - word: に
-      position: 19
-    - word: なっ
-      base: 成る
-      dictionary: なる
-      position: 20
-    - word: た
-      position: 22
-    - word: お
-      base: 御
-      position: 24
-    - word: 礼
-      position: 25
-    - word: です
-      position: 26
 - id: Quartet_Episode_08_0.02.30.850-0.02.33.040
   deck_name: Quartet
   translation: Thank you so much.
@@ -7030,15 +3086,6 @@
       position: 2
       tags:
         - silent
-    - word: ありがとう
-      base: 有り難う
-      position: 4
-    - word: ござい
-      base: 御座る
-      dictionary: ござる
-      position: 9
-    - word: ます
-      position: 12
 - id: Quartet_Episode_08_0.02.43.770-0.02.47.860
   deck_name: Quartet
   translation: I'm digging in.
@@ -7056,12 +3103,6 @@
       position: 2
       tags:
         - silent
-    - word: いただき
-      base: 頂く
-      dictionary: いただく
-      position: 4
-    - word: ます
-      position: 8
 - id: Quartet_Episode_08_0.07.00.310-0.07.02.870
   deck_name: Quartet
   translation: Winter in Karuizawa is pretty nice actually.
@@ -7069,30 +3110,10 @@
   episode: 8
   sentence: 《≪(別府)冬の軽井沢も いいんですよ》
   words:
-    - word: ≪
-      position: 1
     - word: 別府
       position: 3
       tags:
         - silent
-    - word: 冬
-      position: 6
-    - word: の
-      position: 7
-    - word: 軽井沢
-      position: 8
-    - word: も
-      position: 11
-    - word: いい
-      base: 良い
-      position: 13
-    - word: ん
-      base: の
-      position: 15
-    - word: です
-      position: 16
-    - word: よ
-      position: 18
 - id: Quartet_Episode_08_0.13.49.660-0.13.53.830
   deck_name: Quartet
   translation: >-
@@ -7107,30 +3128,6 @@
       position: 1
       tags:
         - silent
-    - word: ここ
-      base: 此処
-      position: 4
-    - word: なら
-      base: だ
-      dictionary: だ
-      position: 6
-    - word: すぐ
-      base: 直ぐ
-      position: 9
-    - word: に
-      position: 11
-    - word: 買い手
-      position: 13
-    - word: が
-      position: 16
-    - word: 見つかり
-      base: 見付かる
-      dictionary: 見つかる
-      position: 17
-    - word: ます
-      position: 21
-    - word: よ
-      position: 23
 - id: Quartet_Episode_08_0.14.01.720-0.14.08.000
   deck_name: Quartet
   translation: >-
@@ -7140,57 +3137,10 @@
   episode: 8
   sentence: ≪(圭)会社だって近いんだしさ 高崎に戻ってきたらいいじゃない
   words:
-    - word: ≪
-      position: 0
     - word: 圭
       position: 2
       tags:
         - silent
-    - word: 会社
-      position: 4
-    - word: だ
-      position: 6
-    - word: って
-      position: 7
-    - word: 近い
-      position: 9
-    - word: ん
-      base: の
-      position: 11
-    - word: だ
-      position: 12
-    - word: し
-      position: 13
-    - word: さ
-      position: 14
-    - word: 高崎
-      position: 16
-    - word: に
-      position: 18
-    - word: 戻っ
-      base: 戻る
-      dictionary: 戻る
-      position: 19
-    - word: て
-      position: 21
-    - word: き
-      base: 来る
-      dictionary: くる
-      position: 22
-    - word: たら
-      base: た
-      dictionary: た
-      position: 23
-    - word: いい
-      base: 良い
-      position: 25
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 27
-    - word: ない
-      base: 無い
-      position: 29
 - id: Quartet_Episode_08_0.14.51.300-0.14.55.210
   deck_name: Quartet
   translation: '- I was just joking.<br>- No, that''s completely hopeless.'
@@ -7198,39 +3148,14 @@
   episode: 8
   sentence: ≪(別府)それは冗談で ≪(圭)いや 全然ダメでしょ
   words:
-    - word: ≪
-      position: 0
     - word: 別府
       position: 2
       tags:
         - silent
-    - word: それ
-      base: 其れ
-      position: 5
-    - word: は
-      position: 7
-    - word: 冗談
-      position: 8
-    - word: で
-      position: 10
-    - word: ≪
-      position: 12
     - word: 圭
       position: 14
       tags:
         - silent
-    - word: いや
-      base: 否
-      position: 16
-    - word: 全然
-      position: 19
-    - word: ダメ
-      base: 駄目
-      position: 21
-    - word: でしょ
-      base: です
-      dictionary: です
-      position: 23
 - id: Quartet_Episode_08_0.17.23.740-0.17.28.510
   deck_name: Quartet
   translation: >-
@@ -7240,49 +3165,10 @@
   episode: 8
   sentence: ≪(別府)めんどくさくて… それは 怒られるでしょ おなか壊しちゃうでしょ？
   words:
-    - word: ≪
-      position: 0
     - word: 別府
       position: 2
       tags:
         - silent
-    - word: めんど
-      base: 面倒
-      position: 5
-    - word: くさく
-      base: 臭い
-      dictionary: くさい
-      position: 8
-    - word: て
-      position: 11
-    - word: それ
-      base: 其れ
-      position: 14
-    - word: は
-      position: 16
-    - word: 怒ら
-      base: 怒る
-      dictionary: 怒る
-      position: 18
-    - word: れる
-      position: 20
-    - word: でしょ
-      base: です
-      dictionary: です
-      position: 22
-    - word: おなか
-      base: 御腹
-      position: 26
-    - word: 壊し
-      base: 壊す
-      dictionary: 壊す
-      position: 29
-    - word: ちゃう
-      position: 31
-    - word: でしょ
-      base: です
-      dictionary: です
-      position: 34
 - id: Quartet_Episode_08_0.17.28.010-0.17.31.020
   deck_name: Quartet
   translation: has passed the exam to become a certified Real Estate Broker
@@ -7290,25 +3176,10 @@
   episode: 8
   sentence: ≪(別府)おなかから芽が出るって
   words:
-    - word: ≪
-      position: 0
     - word: 別府
       position: 2
       tags:
         - silent
-    - word: おなか
-      base: 御腹
-      position: 5
-    - word: から
-      position: 8
-    - word: 芽
-      position: 10
-    - word: が
-      position: 11
-    - word: 出る
-      position: 12
-    - word: って
-      position: 14
 - id: Quartet_Episode_08_0.17.45.400-0.17.48.460
   deck_name: Quartet
   translation: '- Good morning.<br>- Morning!'
@@ -7316,15 +3187,6 @@
   episode: 8
   sentence: おはようございます (３人)おはよう
   words:
-    - word: おはよう
-      base: 御早う
-      position: 0
-    - word: ござい
-      base: 御座る
-      dictionary: ござる
-      position: 4
-    - word: ます
-      position: 7
     - word: ３
       base: '3'
       dictionary: '3'
@@ -7335,9 +3197,6 @@
       position: 12
       tags:
         - silent
-    - word: おはよう
-      base: 御早う
-      position: 14
 - id: Quartet_Episode_08_0.17.55.960-0.17.58.260
   deck_name: Quartet
   translation: Huh?
@@ -7345,15 +3204,10 @@
   episode: 8
   sentence: ≪(別府)えッ？
   words:
-    - word: ≪
-      position: 0
     - word: 別府
       position: 2
       tags:
         - silent
-    - word: えッ
-      base: えっ
-      position: 5
 - id: Quartet_Episode_08_0.18.34.250-0.18.38.350
   deck_name: Quartet
   translation: Well... We'd love to have you join us.
@@ -7365,17 +3219,6 @@
       position: 1
       tags:
         - silent
-    - word: いや
-      base: 否
-      position: 4
-    - word: 大
-      position: 7
-    - word: 歓迎
-      position: 8
-    - word: です
-      position: 10
-    - word: よ
-      position: 12
 - id: Quartet_Episode_08_0.23.50.450-0.23.52.820
   deck_name: Quartet
   translation: Wow.
@@ -7391,10 +3234,6 @@
       position: 4
       tags:
         - silent
-    - word: おお
-      position: 7
-    - word: ～
-      position: 9
 - id: Quartet_Episode_08_0.26.13.220-0.26.16.190
   deck_name: Quartet
   translation: '- Beppu-san. Beppu-san.<br>- Yes.'
@@ -7403,21 +3242,9 @@
   sentence: 別府さん 別府さん ≪(別府)はい
   words:
     - word: 別府
-      position: 0
-    - word: さん
-      position: 2
-    - word: 別府
-      position: 5
-    - word: さん
-      position: 7
-    - word: ≪
-      position: 10
-    - word: 別府
       position: 12
       tags:
         - silent
-    - word: はい
-      position: 15
 - id: Quartet_Episode_08_0.26.22.050-0.26.24.500
   deck_name: Quartet
   translation: '- They''re lovely.<br>- Right?'
@@ -7425,17 +3252,10 @@
   episode: 8
   sentence: ≪(別府)かわいい ねえ
   words:
-    - word: ≪
-      position: 0
     - word: 別府
       position: 2
       tags:
         - silent
-    - word: かわいい
-      base: 可愛い
-      position: 5
-    - word: ねえ
-      position: 10
 - id: Quartet_Episode_08_0.26.26.130-0.26.30.580
   deck_name: Quartet
   translation: These ones look like they are about to bloom too.
@@ -7443,25 +3263,10 @@
   episode: 8
   sentence: ≪(別府)こっちも咲きそうです
   words:
-    - word: ≪
-      position: 0
     - word: 別府
       position: 2
       tags:
         - silent
-    - word: こっち
-      base: 此方
-      position: 5
-    - word: も
-      position: 8
-    - word: 咲き
-      base: 咲く
-      dictionary: 咲く
-      position: 9
-    - word: そう
-      position: 11
-    - word: です
-      position: 13
 - id: Quartet_Episode_08_0.27.34.060-0.27.36.410
   deck_name: Quartet
   translation: You should be careful with the Napolitan.
@@ -7469,18 +3274,10 @@
   episode: 8
   sentence: 《≪(別府)ナポリタン 危険です》
   words:
-    - word: ≪
-      position: 1
     - word: 別府
       position: 3
       tags:
         - silent
-    - word: ナポリタン
-      position: 6
-    - word: 危険
-      position: 12
-    - word: です
-      position: 14
 - id: Quartet_Episode_08_0.31.04.540-0.31.06.360
   deck_name: Quartet
   translation: Need help taking your photo?
@@ -7488,22 +3285,10 @@
   episode: 8
   sentence: ≪(女性)撮りましょうか？
   words:
-    - word: ≪
-      position: 0
     - word: 女性
       position: 2
       tags:
         - silent
-    - word: 撮り
-      base: 取る
-      dictionary: 撮る
-      position: 5
-    - word: ましょう
-      base: ます
-      dictionary: ます
-      position: 7
-    - word: か
-      position: 11
 - id: Quartet_Episode_08_0.31.25.350-0.31.27.340
   deck_name: Quartet
   translation: Aren't you hungry?
@@ -7511,26 +3296,10 @@
   episode: 8
   sentence: ≪(別府)小腹すきません？
   words:
-    - word: ≪
-      position: 0
     - word: 別府
       position: 2
       tags:
         - silent
-    - word: 小腹
-      position: 5
-    - word: すき
-      base: すく
-      dictionary: すく
-      position: 7
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 9
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 11
 - id: Quartet_Episode_08_0.31.34.990-0.31.38.720
   deck_name: Quartet
   translation: '- Is it close by?<br>- We can walk there.'
@@ -7538,42 +3307,10 @@
   episode: 8
   sentence: 近いんですか？<br>≪(別府)歩いて行けます
   words:
-    - word: 近い
-      position: 0
-    - word: ん
-      base: の
-      position: 2
-    - word: です
-      position: 3
-    - word: か
-      position: 5
-    - word: <
-      base: ＜
-      position: 7
-    - word: br
-      base: BR
-      position: 8
-    - word: '>'
-      base: ＞
-      position: 10
-    - word: ≪
-      position: 11
     - word: 別府
       position: 13
       tags:
         - silent
-    - word: 歩い
-      base: 歩く
-      dictionary: 歩く
-      position: 16
-    - word: て
-      position: 18
-    - word: 行け
-      base: 行く
-      dictionary: 行ける
-      position: 19
-    - word: ます
-      position: 21
 - id: Quartet_Episode_08_0.32.21.830-0.32.25.520
   deck_name: Quartet
   translation: Good evening.<br>Welcome to our restaurant.<br>Oh?
@@ -7589,19 +3326,6 @@
       position: 3
       tags:
         - silent
-    - word: いらっしゃい
-      base: いらっしゃる
-      dictionary: いらっしゃる
-      position: 5
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 11
-    - word: こんばんは
-      base: 今晩は
-      position: 14
-    - word: あら
-      position: 20
 - id: Quartet_Episode_08_0.32.27.120-0.32.31.520
   deck_name: Quartet
   translation: Good evening.
@@ -7613,13 +3337,6 @@
       position: 1
       tags:
         - silent
-    - word: ああ
-      position: 4
-    - word: ～
-      position: 6
-    - word: こんばんは
-      base: 今晩は
-      position: 8
 - id: Quartet_Episode_08_0.33.16.710-0.33.19.460
   deck_name: Quartet
   translation: >-
@@ -7633,16 +3350,6 @@
       position: 1
       tags:
         - silent
-    - word: 僕
-      position: 4
-    - word: から
-      position: 5
-    - word: の
-      position: 7
-    - word: プレゼント
-      position: 8
-    - word: です
-      position: 13
 - id: Quartet_Episode_08_0.35.07.500-0.35.10.460
   deck_name: Quartet
   translation: Good night.
@@ -7650,25 +3357,10 @@
   episode: 8
   sentence: ≪(別府)おやすみなさ～い
   words:
-    - word: ≪
-      position: 0
     - word: 別府
       position: 2
       tags:
         - silent
-    - word: おやすみ
-      position: 5
-    - word: な
-      base: 無い
-      dictionary: ない
-      position: 9
-    - word: さ
-      position: 10
-    - word: ～
-      base: から
-      position: 11
-    - word: い
-      position: 12
 - id: Quartet_Episode_08_0.41.30.690-0.41.33.400
   deck_name: Quartet
   translation: This way, please.
@@ -7680,15 +3372,6 @@
       position: 1
       tags:
         - silent
-    - word: あッ
-      base: 有る
-      dictionary: ある
-      position: 4
-    - word: こっち
-      base: 此方
-      position: 7
-    - word: です
-      position: 10
 - id: Quartet_Episode_08_0.41.37.550-0.41.40.200
   deck_name: Quartet
   translation: I took my daughter's umbrella by mistake.<br>She was so mad at me.
@@ -7700,32 +3383,6 @@
       position: 1
       tags:
         - silent
-    - word: 娘
-      position: 4
-    - word: の
-      position: 5
-    - word: と
-      position: 6
-    - word: 間違え
-      base: 間違う
-      dictionary: 間違える
-      position: 7
-    - word: て
-      position: 10
-    - word: 怒ら
-      base: 怒る
-      dictionary: 怒る
-      position: 12
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 14
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 15
-    - word: た
-      position: 17
 - id: Quartet_Episode_08_0.41.47.700-0.41.52.450
   deck_name: Quartet
   translation: >-
@@ -7735,36 +3392,10 @@
   episode: 8
   sentence: 富山県警の大菅と申します ≪(鏡子)どうも➡
   words:
-    - word: 富山
-      position: 0
-    - word: 県
-      position: 2
-    - word: 警
-      position: 3
-    - word: の
-      position: 4
-    - word: 大菅
-      position: 5
-    - word: と
-      position: 7
-    - word: 申し
-      base: 申す
-      dictionary: 申す
-      position: 8
-    - word: ます
-      position: 10
-    - word: ≪
-      position: 13
     - word: 鏡子
       position: 15
       tags:
         - silent
-    - word: どう
-      position: 18
-    - word: も
-      position: 20
-    - word: ➡
-      position: 21
 - id: Quartet_Episode_08_0.41.52.510-0.41.54.110
   deck_name: Quartet
   translation: >-
@@ -7775,20 +3406,10 @@
   episode: 8
   sentence: どうぞ ≪(大菅)いただきます
   words:
-    - word: どうぞ
-      position: 0
-    - word: ≪
-      position: 4
     - word: 大菅
       position: 6
       tags:
         - silent
-    - word: いただき
-      base: 頂く
-      dictionary: いただく
-      position: 9
-    - word: ます
-      position: 13
 - id: Quartet_Episode_08_0.42.13.410-0.42.15.780
   deck_name: Quartet
   translation: This is your son?
@@ -7800,15 +3421,6 @@
       position: 1
       tags:
         - silent
-    - word: こちら
-      base: 此方
-      position: 4
-    - word: が
-      position: 7
-    - word: 息子
-      position: 8
-    - word: さん
-      position: 10
 - id: Quartet_Episode_08_0.42.22.670-0.42.24.690
   deck_name: Quartet
   translation: Who is this woman?
@@ -7820,15 +3432,6 @@
       position: 1
       tags:
         - silent
-    - word: こちら
-      base: 此方
-      position: 4
-    - word: の
-      position: 7
-    - word: 女性
-      position: 8
-    - word: は
-      position: 10
 - id: Quartet_Episode_08_0.43.12.670-0.43.17.040
   deck_name: Quartet
   translation: She's not anyone.
@@ -7836,27 +3439,10 @@
   episode: 8
   sentence: ≪(大菅)誰でもない女ですね
   words:
-    - word: ≪
-      position: 0
     - word: 大菅
       position: 2
       tags:
         - silent
-    - word: 誰
-      position: 5
-    - word: で
-      position: 6
-    - word: も
-      position: 7
-    - word: ない
-      base: 無い
-      position: 8
-    - word: 女
-      position: 10
-    - word: です
-      position: 11
-    - word: ね
-      position: 13
 - id: Quartet_Episode_09_0.00.05.170-0.00.10.240
   deck_name: Quartet
   translation: Why would he lie?
@@ -7868,20 +3454,6 @@
       position: 2
       tags:
         - silent
-    - word: 何
-      position: 4
-    - word: で
-      position: 5
-    - word: 嘘
-      position: 7
-    - word: つく
-      position: 8
-    - word: の
-      position: 10
-    - word: か
-      position: 11
-    - word: ね
-      position: 12
 - id: Quartet_Episode_09_0.00.12.700-0.00.14.930
   deck_name: Quartet
   translation: Why did you hold her in custody for a week...
@@ -7889,22 +3461,10 @@
   episode: 9
   sentence: 《≪(大菅)たかが 自転車泥棒➡》
   words:
-    - word: ≪
-      position: 1
     - word: 大菅
       position: 3
       tags:
         - silent
-    - word: たか
-      position: 6
-    - word: が
-      position: 8
-    - word: 自転車
-      position: 10
-    - word: 泥棒
-      position: 13
-    - word: ➡》
-      position: 15
 - id: Quartet_Episode_09_0.00.17.350-0.00.20.740
   deck_name: Quartet
   translation: She wouldn't tell us her name.
@@ -7912,32 +3472,10 @@
   episode: 9
   sentence: 《≪(同僚) 自分の名前 言わんがよ➡》
   words:
-    - word: ≪
-      position: 1
     - word: 同僚
       position: 3
       tags:
         - silent
-    - word: 自分
-      position: 7
-    - word: の
-      position: 9
-    - word: 名前
-      position: 10
-    - word: 言わ
-      base: 言う
-      dictionary: 言う
-      position: 13
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 15
-    - word: が
-      position: 16
-    - word: よ
-      position: 17
-    - word: ➡》
-      position: 18
 - id: Quartet_Episode_09_0.00.23.900-0.00.26.820
   deck_name: Quartet
   translation: Anyway, while they were asking if she had a rewards card,
@@ -7949,17 +3487,6 @@
       position: 1
       tags:
         - silent
-    - word: で
-      position: 4
-    - word: それ
-      base: 其れ
-      position: 6
-    - word: が
-      position: 8
-    - word: ポイント
-      position: 9
-    - word: カード
-      position: 13
 - id: Quartet_Episode_09_0.00.35.640-0.00.37.360
   deck_name: Quartet
   translation: I see...
@@ -7971,9 +3498,6 @@
       position: 1
       tags:
         - silent
-    - word: ほう
-      base: 方
-      position: 4
 - id: Quartet_Episode_09_0.00.39.370-0.00.43.800
   deck_name: Quartet
   translation: Huh? Then I won't be arrested?
@@ -7985,28 +3509,6 @@
       position: 2
       tags:
         - silent
-    - word: えッ
-      base: えっ
-      position: 4
-    - word: じゃ
-      base: で
-      position: 8
-    - word: 私
-      position: 11
-    - word: 逮捕
-      position: 13
-    - word: さ
-      base: 為る
-      dictionary: する
-      position: 15
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 16
-    - word: ない
-      position: 17
-    - word: の
-      position: 19
 - id: Quartet_Episode_09_0.00.43.300-0.00.46.220
   deck_name: Quartet
   translation: >-
@@ -8016,31 +3518,10 @@
   episode: 9
   sentence: ≪(大菅)｢14年前に ヤミ金絡みの業者に｣
   words:
-    - word: ≪
-      position: 0
     - word: 大菅
       position: 2
       tags:
         - silent
-    - word: '14'
-      position: 6
-    - word: 年
-      position: 8
-    - word: 前
-      position: 9
-    - word: に
-      position: 10
-    - word: ヤミ金
-      base: 闇金
-      position: 12
-    - word: 絡み
-      position: 15
-    - word: の
-      position: 17
-    - word: 業者
-      position: 18
-    - word: に
-      position: 20
 - id: Quartet_Episode_09_0.01.51.150-0.01.55.800
   deck_name: Quartet
   translation: Yamamoto Akiko's deceased mother was an enka singer.
@@ -8052,32 +3533,6 @@
       position: 1
       tags:
         - silent
-    - word: 山本
-      position: 4
-    - word: 彰子
-      position: 6
-    - word: の
-      position: 8
-    - word: 亡くなっ
-      base: 亡くなる
-      dictionary: 亡くなる
-      position: 10
-    - word: た
-      position: 14
-    - word: 母親
-      position: 16
-    - word: は
-      position: 18
-    - word: 演歌
-      position: 20
-    - word: 歌手
-      position: 22
-    - word: でし
-      base: です
-      dictionary: です
-      position: 24
-    - word: た
-      position: 26
 - id: Quartet_Episode_09_0.02.01.520-0.02.05.610
   deck_name: Quartet
   translation: ♫ Downward slope
@@ -8085,24 +3540,10 @@
   episode: 9
   sentence: '[ｽﾋﾟｰｶ](みずえ)♬～下り坂 ははんはん'
   words:
-    - word: ｽﾋﾟｰｶ
-      base: スピーカー
-      dictionary: スピーカ
-      position: 1
     - word: みずえ
       position: 8
       tags:
         - silent
-    - word: ♬
-      position: 12
-    - word: ～
-      position: 13
-    - word: 下り坂
-      position: 14
-    - word: ははん
-      position: 18
-    - word: はん
-      position: 21
 - id: Quartet_Episode_09_0.02.33.810-0.02.35.810
   deck_name: Quartet
   translation: Just looking. Just looking.
@@ -8114,14 +3555,6 @@
       position: 1
       tags:
         - silent
-    - word: 見る
-      position: 4
-    - word: だけ
-      position: 6
-    - word: 見る
-      position: 9
-    - word: だけ
-      position: 11
 - id: Quartet_Episode_09_0.02.35.310-0.02.38.980
   deck_name: Quartet
   translation: Just looking. Just looking.
@@ -8134,14 +3567,6 @@
       position: 1
       tags:
         - silent
-    - word: 見る
-      position: 5
-    - word: だけ
-      position: 7
-    - word: 見る
-      position: 10
-    - word: だけ
-      position: 12
 - id: Quartet_Episode_09_0.03.41.380-0.03.43.720
   deck_name: Quartet
   translation: Welcome home.
@@ -8153,28 +3578,10 @@
       position: 1
       tags:
         - silent
-    - word: お
-      base: 御
-      position: 4
-    - word: 帰り
-      base: 帰る
-      dictionary: 帰る
-      position: 5
-    - word: なさい
-      base: 為す
-      dictionary: なさる
-      position: 7
     - word: 家森
       position: 12
       tags:
         - silent
-    - word: お
-      base: 御
-      position: 15
-    - word: 帰り
-      base: 帰る
-      dictionary: 帰る
-      position: 16
 - id: Quartet_Episode_09_0.08.21.740-0.08.27.190
   deck_name: Quartet
   translation: Yamakoto Akiko-san lost her mother when she was 10 years old.
@@ -8182,46 +3589,10 @@
   episode: 9
   sentence: ≪(鏡子)山本彰子さんは 10歳のときに お母さんを亡くしてるの
   words:
-    - word: ≪
-      position: 0
     - word: 鏡子
       position: 2
       tags:
         - silent
-    - word: 山本
-      position: 5
-    - word: 彰子
-      position: 7
-    - word: さん
-      position: 9
-    - word: は
-      position: 11
-    - word: '10'
-      position: 13
-    - word: 歳
-      position: 15
-    - word: の
-      position: 16
-    - word: とき
-      base: 時
-      position: 17
-    - word: に
-      position: 19
-    - word: お
-      base: 御
-      position: 21
-    - word: 母さん
-      position: 22
-    - word: を
-      position: 25
-    - word: 亡くし
-      base: 亡くす
-      dictionary: 亡くす
-      position: 26
-    - word: てる
-      position: 29
-    - word: の
-      position: 31
 - id: Quartet_Episode_09_0.08.26.690-0.08.29.790
   deck_name: Quartet
   translation: ♫ Upward slope
@@ -8233,12 +3604,6 @@
       position: 2
       tags:
         - silent
-    - word: ♬
-      position: 6
-    - word: ～
-      position: 7
-    - word: 上り坂
-      position: 8
 - id: Quartet_Episode_09_0.08.52.880-0.08.54.970
   deck_name: Quartet
   translation: Yamamoto Akiko-san...
@@ -8246,20 +3611,10 @@
   episode: 9
   sentence: ≪(鏡子)山本彰子さんは…
   words:
-    - word: ≪
-      position: 0
     - word: 鏡子
       position: 2
       tags:
         - silent
-    - word: 山本
-      position: 5
-    - word: 彰子
-      position: 7
-    - word: さん
-      position: 9
-    - word: は
-      position: 11
 - id: Quartet_Episode_09_0.08.54.470-0.08.57.180
   deck_name: Quartet
   translation: She's Maki-chan.
@@ -8271,14 +3626,6 @@
       position: 1
       tags:
         - silent
-    - word: 真紀
-      position: 4
-    - word: ちゃん
-      position: 6
-    - word: だ
-      position: 9
-    - word: よ
-      position: 10
 - id: Quartet_Episode_09_0.10.49.570-0.10.50.710
   deck_name: Quartet
   translation: Eh...
@@ -8286,17 +3633,10 @@
   episode: 9
   sentence: ≪(有朱)えッ…➡
   words:
-    - word: ≪
-      position: 0
     - word: 有朱
       position: 2
       tags:
         - silent
-    - word: えッ
-      base: えっ
-      position: 5
-    - word: ➡
-      position: 8
 - id: Quartet_Episode_09_0.10.58.690-0.11.01.470
   deck_name: Quartet
   translation: Arisu-chan, do you know where Mama went?
@@ -8308,28 +3648,6 @@
       position: 1
       tags:
         - silent
-    - word: 有朱
-      position: 4
-    - word: ちゃん
-      position: 6
-    - word: ママ
-      position: 10
-    - word: どこ
-      position: 13
-    - word: 行っ
-      base: 行く
-      dictionary: 行く
-      position: 15
-    - word: た
-      position: 17
-    - word: か
-      position: 18
-    - word: 知ら
-      base: 知る
-      dictionary: 知る
-      position: 19
-    - word: ない
-      position: 21
 - id: Quartet_Episode_09_0.11.16.580-0.11.19.020
   deck_name: Quartet
   translation: Good morning.
@@ -8341,15 +3659,6 @@
       position: 1
       tags:
         - silent
-    - word: おはよう
-      base: 御早う
-      position: 4
-    - word: ござい
-      base: 御座る
-      dictionary: ござる
-      position: 8
-    - word: ます
-      position: 11
 - id: Quartet_Episode_09_0.11.36.910-0.11.40.820
   deck_name: Quartet
   translation: Daijirou-san, you're the owner of the restaurant right?
@@ -8357,45 +3666,10 @@
   episode: 9
   sentence: ≪(有朱)ここのお店って 大二郎さんが  ｵｰﾅｰなんでしょ？
   words:
-    - word: ≪
-      position: 0
     - word: 有朱
       position: 2
       tags:
         - silent
-    - word: ここ
-      base: 此処
-      position: 5
-    - word: の
-      position: 7
-    - word: お
-      base: 御
-      position: 8
-    - word: 店
-      position: 9
-    - word: って
-      position: 10
-    - word: 大二郎
-      position: 13
-    - word: さん
-      position: 16
-    - word: が
-      position: 18
-    - word: ｵｰﾅｰ
-      base: オーナー
-      dictionary: オーナー
-      position: 21
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 25
-    - word: ん
-      base: の
-      position: 26
-    - word: でしょ
-      base: です
-      dictionary: です
-      position: 27
 - id: Quartet_Episode_09_0.18.14.750-0.18.18.120
   deck_name: Quartet
   translation: Maki-chan is not the kind of person you're suspecting.
@@ -8403,45 +3677,10 @@
   episode: 9
   sentence: ≪(幹生)真紀ちゃんは あなたに 疑われるような人じゃない
   words:
-    - word: ≪
-      position: 0
     - word: 幹生
       position: 2
       tags:
         - silent
-    - word: 真紀
-      position: 5
-    - word: ちゃん
-      position: 7
-    - word: は
-      position: 10
-    - word: あなた
-      base: 貴方
-      position: 12
-    - word: に
-      position: 15
-    - word: 疑わ
-      base: 疑う
-      dictionary: 疑う
-      position: 17
-    - word: れる
-      position: 19
-    - word: よう
-      base: 様
-      position: 21
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 23
-    - word: 人
-      position: 24
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 25
-    - word: ない
-      base: 無い
-      position: 27
 - id: Quartet_Episode_09_0.18.18.010-0.18.21.620
   deck_name: Quartet
   translation: I mean, she did receive 200 million yen in damages.
@@ -8453,36 +3692,6 @@
       position: 1
       tags:
         - silent
-    - word: ２億
-      base: '200000000'
-      dictionary: 2億
-      position: 4
-    - word: 円
-      position: 6
-    - word: の
-      position: 7
-    - word: 賠償
-      position: 8
-    - word: 金
-      position: 10
-    - word: 受け
-      base: 受ける
-      dictionary: 受ける
-      position: 12
-    - word: 取っ
-      base: 取る
-      dictionary: 取る
-      position: 14
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 16
-    - word: ます
-      position: 17
-    - word: から
-      position: 19
-    - word: ね
-      position: 21
 - id: Quartet_Episode_09_0.21.15.990-0.21.18.620
   deck_name: Quartet
   translation: Which do you think it is?
@@ -8490,29 +3699,10 @@
   episode: 9
   sentence: ≪(船村)どっちなんだろうね➡
   words:
-    - word: ≪
-      position: 0
     - word: 船村
       position: 2
       tags:
         - silent
-    - word: どっち
-      position: 5
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 8
-    - word: ん
-      base: の
-      position: 9
-    - word: だろう
-      base: だ
-      dictionary: だ
-      position: 10
-    - word: ね
-      position: 13
-    - word: ➡
-      position: 14
 - id: Quartet_Episode_09_0.21.29.290-0.21.30.840
   deck_name: Quartet
   translation: I'm sorry.
@@ -8520,19 +3710,10 @@
   episode: 9
   sentence: ≪(別府)ごめんなさい
   words:
-    - word: ≪
-      position: 0
     - word: 別府
       position: 2
       tags:
         - silent
-    - word: ごめん
-      base: 御免
-      position: 5
-    - word: なさい
-      base: 為す
-      dictionary: なさる
-      position: 8
 - id: Quartet_Episode_09_0.23.58.830-0.24.01.000
   deck_name: Quartet
   translation: '- Hello.<br>- Hello.'
@@ -8540,18 +3721,10 @@
   episode: 9
   sentence: どうも (船村)どうも
   words:
-    - word: どう
-      position: 0
-    - word: も
-      position: 2
     - word: 船村
       position: 5
       tags:
         - silent
-    - word: どう
-      position: 8
-    - word: も
-      position: 10
 - id: Quartet_Episode_09_0.24.50.370-0.24.53.580
   deck_name: Quartet
   translation: '- Sorry.<br>- No worries.'
@@ -8559,26 +3732,10 @@
   episode: 9
   sentence: すみません ≪(大菅)いえ
   words:
-    - word: すみ
-      base: すむ
-      dictionary: すむ
-      position: 0
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 2
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 4
-    - word: ≪
-      position: 6
     - word: 大菅
       position: 8
       tags:
         - silent
-    - word: いえ
-      position: 11
 - id: Quartet_Episode_09_0.35.03.870-0.35.08.050
   deck_name: Quartet
   translation: (♫ Ave Maria - Franz Schubert)
@@ -8631,41 +3788,10 @@
   episode: 9
   sentence: '[ｽﾋﾟｰｶ](ラジオ)明日の軽井沢は 北の風 晴れのち曇りでしょう'
   words:
-    - word: ｽﾋﾟｰｶ
-      base: スピーカー
-      dictionary: スピーカ
-      position: 1
     - word: ラジオ
       position: 8
       tags:
         - silent
-    - word: 明日
-      position: 12
-    - word: の
-      position: 14
-    - word: 軽井沢
-      position: 15
-    - word: は
-      position: 18
-    - word: 北
-      position: 20
-    - word: の
-      position: 21
-    - word: 風
-      position: 22
-    - word: 晴れ
-      base: 晴れる
-      dictionary: 晴れる
-      position: 24
-    - word: のち
-      base: 後
-      position: 26
-    - word: 曇り
-      position: 28
-    - word: でしょう
-      base: です
-      dictionary: です
-      position: 30
 - id: Quartet_Episode_10_0.00.06.240-0.00.10.170
   deck_name: Quartet
   translation: I thought you would return to Karuizawa.
@@ -8673,42 +3799,10 @@
   episode: 10
   sentence: ≪(柊)軽井沢に 戻られるのかと思ってました
   words:
-    - word: ≪
-      position: 0
     - word: 柊
       position: 2
       tags:
         - silent
-    - word: 軽井沢
-      position: 4
-    - word: に
-      position: 7
-    - word: 戻ら
-      base: 戻る
-      dictionary: 戻る
-      position: 9
-    - word: れる
-      position: 11
-    - word: の
-      position: 13
-    - word: か
-      position: 14
-    - word: と
-      position: 15
-    - word: 思っ
-      base: 思う
-      dictionary: 思う
-      position: 16
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 18
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 19
-    - word: た
-      position: 21
 - id: Quartet_Episode_10_0.00.09.670-0.00.13.670
   deck_name: Quartet
   translation: I found a job, so I plan to live here.
@@ -8720,38 +3814,6 @@
       position: 1
       tags:
         - silent
-    - word: お
-      base: 御
-      position: 4
-    - word: 仕事
-      position: 5
-    - word: も
-      position: 7
-    - word: いただけ
-      base: 頂く
-      dictionary: いただける
-      position: 8
-    - word: た
-      position: 12
-    - word: ん
-      base: の
-      position: 13
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 14
-    - word: ここ
-      base: 此処
-      position: 16
-    - word: で
-      position: 18
-    - word: 暮らす
-      position: 19
-    - word: つもり
-      base: 積もり
-      position: 22
-    - word: です
-      position: 25
 - id: Quartet_Episode_10_0.00.13.920-0.00.16.400
   deck_name: Quartet
   translation: You're not gonna work in music anymore?
@@ -8763,31 +3825,6 @@
       position: 1
       tags:
         - silent
-    - word: 音楽
-      position: 3
-    - word: の
-      position: 5
-    - word: 仕事
-      position: 6
-    - word: は
-      position: 8
-    - word: さ
-      base: 為る
-      dictionary: する
-      position: 10
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 11
-    - word: ない
-      position: 12
-    - word: ん
-      base: の
-      position: 14
-    - word: です
-      position: 15
-    - word: か
-      position: 17
 - id: Quartet_Episode_10_0.01.45.100-0.01.49.260
   deck_name: Quartet
   translation: Sorry for being late.<br>I'm Beppu.
@@ -8799,36 +3836,6 @@
       position: 1
       tags:
         - silent
-    - word: すい
-      base: すむ
-      dictionary: すむ
-      position: 4
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 6
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 8
-    - word: 遅く
-      base: 遅い
-      dictionary: 遅い
-      position: 10
-    - word: なり
-      base: 成る
-      dictionary: なる
-      position: 12
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 14
-    - word: た
-      position: 16
-    - word: 別府
-      position: 18
-    - word: です
-      position: 20
 - id: Quartet_Episode_10_0.01.50.270-0.01.52.040
   deck_name: Quartet
   translation: You didn't come in a limousine?
@@ -8840,20 +3847,6 @@
       position: 1
       tags:
         - silent
-    - word: リムジン
-      position: 4
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 8
-    - word: ない
-      base: 無い
-      position: 10
-    - word: ん
-      base: の
-      position: 12
-    - word: だ
-      position: 13
 - id: Quartet_Episode_10_0.01.56.140-0.01.59.420
   deck_name: Quartet
   translation: '- Mariko! Mariko!<br>- Stop it, Mariko.'
@@ -8865,28 +3858,10 @@
       position: 1
       tags:
         - silent
-    - word: マリコ
-      position: 4
-    - word: おお
-      position: 8
-    - word: マリコ
-      position: 11
-    - word: ≪
-      position: 15
     - word: 女性
       position: 17
       tags:
         - silent
-    - word: やめ
-      base: やめる
-      dictionary: やめる
-      position: 20
-    - word: なさい
-      base: 為す
-      dictionary: なさる
-      position: 22
-    - word: マリコ
-      position: 26
 - id: Quartet_Episode_10_0.02.43.020-0.02.46.430
   deck_name: Quartet
   translation: '- Yes.<br>- Yes!'
@@ -8899,13 +3874,6 @@
       position: 1
       tags:
         - silent
-    - word: はい
-      position: 5
-    - word: はい
-      position: 8
-    - word: ッ
-      base: つ
-      position: 10
 - id: Quartet_Episode_10_0.04.24.340-0.04.27.620
   deck_name: Quartet
   translation: After Maki-san's trials were over,
@@ -8913,30 +3881,10 @@
   episode: 10
   sentence: ≪(別府)真紀さんの 裁判が終わって➡
   words:
-    - word: ≪
-      position: 0
     - word: 別府
       position: 2
       tags:
         - silent
-    - word: 真紀
-      position: 5
-    - word: さん
-      position: 7
-    - word: の
-      position: 9
-    - word: 裁判
-      position: 11
-    - word: が
-      position: 13
-    - word: 終わっ
-      base: 終わる
-      dictionary: 終わる
-      position: 14
-    - word: て
-      position: 17
-    - word: ➡
-      position: 18
 - id: Quartet_Episode_10_0.04.37.940-0.04.43.440
   deck_name: Quartet
   translation: Suzume-chan doesn't sleep much anymore.
@@ -8944,36 +3892,10 @@
   episode: 10
   sentence: ≪(別府)すずめちゃんは あまり眠らなくなった
   words:
-    - word: ≪
-      position: 0
     - word: 別府
       position: 2
       tags:
         - silent
-    - word: すずめ
-      base: 雀
-      position: 5
-    - word: ちゃん
-      position: 8
-    - word: は
-      position: 11
-    - word: あまり
-      base: 余り
-      position: 13
-    - word: 眠ら
-      base: 眠る
-      dictionary: 眠る
-      position: 16
-    - word: なく
-      base: ない
-      dictionary: ない
-      position: 18
-    - word: なっ
-      base: 成る
-      dictionary: なる
-      position: 20
-    - word: た
-      position: 22
 - id: Quartet_Episode_10_0.04.45.590-0.04.49.490
   deck_name: Quartet
   translation: Iemori-san is working 7 days a week.
@@ -8981,37 +3903,10 @@
   episode: 10
   sentence: ≪(別府)家森さんは 週７日働いている➡
   words:
-    - word: ≪
-      position: 0
     - word: 別府
       position: 2
       tags:
         - silent
-    - word: 家森
-      position: 5
-    - word: さん
-      position: 7
-    - word: は
-      position: 9
-    - word: 週
-      position: 11
-    - word: ７
-      base: '7'
-      dictionary: '7'
-      position: 12
-    - word: 日
-      position: 13
-    - word: 働い
-      base: 働く
-      dictionary: 働く
-      position: 14
-    - word: て
-      position: 16
-    - word: いる
-      base: 居る
-      position: 17
-    - word: ➡
-      position: 19
 - id: Quartet_Episode_10_0.05.06.070-0.05.08.420
   deck_name: Quartet
   translation: A while after,
@@ -9019,26 +3914,10 @@
   episode: 10
   sentence: ≪(別府)しばらくしたあと➡
   words:
-    - word: ≪
-      position: 0
     - word: 別府
       position: 2
       tags:
         - silent
-    - word: しばらく
-      base: 暫く
-      position: 5
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 9
-    - word: た
-      position: 10
-    - word: あと
-      base: 後
-      position: 11
-    - word: ➡
-      position: 13
 - id: Quartet_Episode_10_0.05.12.770-0.05.14.440
   deck_name: Quartet
   translation: This is all the stuff.
@@ -9046,21 +3925,10 @@
   episode: 10
   sentence: 《≪(刑事)これで以上です》
   words:
-    - word: ≪
-      position: 1
     - word: 刑事
       position: 3
       tags:
         - silent
-    - word: これ
-      base: 此れ
-      position: 6
-    - word: で
-      position: 8
-    - word: 以上
-      position: 9
-    - word: です
-      position: 11
 - id: Quartet_Episode_10_0.05.15.300-0.05.20.440
   deck_name: Quartet
   translation: >-
@@ -9075,39 +3943,10 @@
   episode: 10
   sentence: ≪(別府)はじめは 小さかった 記事が だんだん大きくなって
   words:
-    - word: ≪
-      position: 0
     - word: 別府
       position: 2
       tags:
         - silent
-    - word: はじめ
-      position: 5
-    - word: は
-      position: 8
-    - word: 小さかっ
-      base: 小さい
-      dictionary: 小さい
-      position: 10
-    - word: た
-      position: 14
-    - word: 記事
-      position: 16
-    - word: が
-      position: 18
-    - word: だんだん
-      base: 段々
-      position: 20
-    - word: 大きく
-      base: 大きい
-      dictionary: 大きい
-      position: 24
-    - word: なっ
-      base: 成る
-      dictionary: なる
-      position: 27
-    - word: て
-      position: 29
 - id: Quartet_Episode_10_0.05.21.830-0.05.24.530
   deck_name: Quartet
   translation: >-
@@ -9119,33 +3958,10 @@
   episode: 10
   sentence: ≪(別府)もうあっという間に 真紀さんは➡
   words:
-    - word: ≪
-      position: 0
     - word: 別府
       position: 2
       tags:
         - silent
-    - word: もう
-      position: 5
-    - word: あっ
-      position: 7
-    - word: と
-      position: 9
-    - word: いう
-      base: 言う
-      position: 10
-    - word: 間
-      position: 12
-    - word: に
-      position: 13
-    - word: 真紀
-      position: 15
-    - word: さん
-      position: 17
-    - word: は
-      position: 19
-    - word: ➡
-      position: 20
 - id: Quartet_Episode_10_0.05.30.760-0.05.35.980
   deck_name: Quartet
   translation: Soon, people started writing about Doughnuts Hole and my family.
@@ -9153,39 +3969,10 @@
   episode: 10
   sentence: ≪(別府)やがてﾄﾞｰﾅﾂﾎｰﾙのこと 僕の家族のこと➡
   words:
-    - word: ≪
-      position: 0
     - word: 別府
       position: 2
       tags:
         - silent
-    - word: やがて
-      base: 軈て
-      position: 5
-    - word: ﾄﾞｰﾅﾂ
-      base: ドーナツ
-      dictionary: ドーナツ
-      position: 8
-    - word: ﾎｰﾙ
-      base: ホール
-      dictionary: ホール
-      position: 13
-    - word: の
-      position: 16
-    - word: こと
-      position: 17
-    - word: 僕
-      position: 20
-    - word: の
-      position: 21
-    - word: 家族
-      position: 22
-    - word: の
-      position: 24
-    - word: こと
-      position: 25
-    - word: ➡
-      position: 27
 - id: Quartet_Episode_10_0.05.44.650-0.05.46.730
   deck_name: Quartet
   translation: >-
@@ -9195,27 +3982,10 @@
   episode: 10
   sentence: ≪(別府)いいこともあった➡
   words:
-    - word: ≪
-      position: 0
     - word: 別府
       position: 2
       tags:
         - silent
-    - word: いい
-      base: 良い
-      position: 5
-    - word: こと
-      position: 7
-    - word: も
-      position: 9
-    - word: あっ
-      base: 有る
-      dictionary: ある
-      position: 10
-    - word: た
-      position: 12
-    - word: ➡
-      position: 13
 - id: Quartet_Episode_10_0.06.12.990-0.06.17.940
   deck_name: Quartet
   translation: '&quot;But with this, Maki-san will finally be coming home.&quot;'
@@ -9223,42 +3993,10 @@
   episode: 10
   sentence: ≪(別府)だけど これでやっと 真紀さんが帰ってくる➡
   words:
-    - word: ≪
-      position: 0
     - word: 別府
       position: 2
       tags:
         - silent
-    - word: だ
-      position: 5
-    - word: けど
-      base: けれど
-      position: 6
-    - word: これ
-      base: 此れ
-      position: 9
-    - word: で
-      position: 11
-    - word: やっと
-      base: 漸と
-      position: 12
-    - word: 真紀
-      position: 16
-    - word: さん
-      position: 18
-    - word: が
-      position: 20
-    - word: 帰っ
-      base: 帰る
-      dictionary: 帰る
-      position: 21
-    - word: て
-      position: 23
-    - word: くる
-      base: 来る
-      position: 24
-    - word: ➡
-      position: 26
 - id: Quartet_Episode_10_0.07.45.520-0.07.49.250
   deck_name: Quartet
   translation: Excuse me, do you have a moment?
@@ -9270,21 +4008,6 @@
       position: 1
       tags:
         - silent
-    - word: ちょっと
-      base: 一寸
-      position: 4
-    - word: お
-      base: 御
-      position: 9
-    - word: 話
-      position: 10
-    - word: よろしい
-      base: 宜しい
-      position: 11
-    - word: です
-      position: 15
-    - word: か
-      position: 17
 - id: Quartet_Episode_10_0.08.12.510-0.08.15.450
   deck_name: Quartet
   translation: >-
@@ -9298,22 +4021,6 @@
       position: 1
       tags:
         - silent
-    - word: 今朝
-      position: 4
-    - word: 出
-      base: 出る
-      dictionary: 出る
-      position: 6
-    - word: た
-      position: 7
-    - word: 最新
-      position: 8
-    - word: の
-      position: 10
-    - word: 写真
-      position: 11
-    - word: です
-      position: 13
 - id: Quartet_Episode_10_0.12.54.790-0.12.58.660
   deck_name: Quartet
   translation: '[Get Out, Murderer] Wow~'
@@ -9321,8 +4028,6 @@
   episode: 10
   sentence: ≪(管理人)あらららら え～ッ➡
   words:
-    - word: ≪
-      position: 0
     - word: 管理
       position: 2
       tags:
@@ -9331,18 +4036,6 @@
       position: 4
       tags:
         - silent
-    - word: あらららら
-      base: あら
-      position: 6
-    - word: え
-      base: えっ
-      position: 12
-    - word: ～
-      position: 13
-    - word: ッ
-      position: 14
-    - word: ➡
-      position: 15
 - id: Quartet_Episode_10_0.15.24.740-0.15.26.500
   deck_name: Quartet
   translation: '- Let''s go!<br>- Yeah!'
@@ -9360,20 +4053,12 @@
       position: 3
       tags:
         - silent
-    - word: 行こう
-      base: 行く
-      dictionary: 行く
-      position: 5
-    - word: ぜ
-      position: 8
     - word: Ｂ
       base: b
       dictionary: b
       position: 11
       tags:
         - silent
-    - word: うん
-      position: 13
 - id: Quartet_Episode_10_0.15.58.030-0.16.00.820
   deck_name: Quartet
   translation: '- Huh?<br>- What happened?'
@@ -9381,8 +4066,6 @@
   episode: 10
   sentence: ≪(子供Ａ)嘘？<br>≪(Ｂ)どうしたん？
   words:
-    - word: ≪
-      position: 0
     - word: 子供
       position: 2
       tags:
@@ -9393,36 +4076,12 @@
       position: 4
       tags:
         - silent
-    - word: 嘘
-      position: 6
-    - word: <
-      base: ＜
-      position: 8
-    - word: br
-      base: BR
-      position: 9
-    - word: '>'
-      base: ＞
-      position: 11
-    - word: ≪
-      position: 12
     - word: Ｂ
       base: b
       dictionary: b
       position: 14
       tags:
         - silent
-    - word: どう
-      position: 16
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 18
-    - word: た
-      position: 19
-    - word: ん
-      base: の
-      position: 20
 - id: Quartet_Episode_10_0.16.02.340-0.16.05.250
   deck_name: Quartet
   translation: What happened to them?
@@ -9430,28 +4089,12 @@
   episode: 10
   sentence: ≪(Ｃ)どうしたのかな？
   words:
-    - word: ≪
-      position: 0
     - word: Ｃ
       base: c
       dictionary: c
       position: 2
       tags:
         - silent
-    - word: どう
-      position: 4
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 6
-    - word: た
-      position: 7
-    - word: の
-      position: 8
-    - word: か
-      position: 9
-    - word: な
-      position: 10
 - id: Quartet_Episode_10_0.16.07.140-0.16.09.250
   deck_name: Quartet
   translation: Why'd they stop?
@@ -9459,22 +4102,12 @@
   episode: 10
   sentence: ≪(Ｄ)意味分かんない
   words:
-    - word: ≪
-      position: 0
     - word: Ｄ
       base: d
       dictionary: d
       position: 2
       tags:
         - silent
-    - word: 意味
-      position: 4
-    - word: 分かん
-      base: 分かる
-      dictionary: 分かる
-      position: 6
-    - word: ない
-      position: 9
 - id: Quartet_Episode_10_0.24.52.860-0.24.59.080
   deck_name: Quartet
   translation: >-
@@ -9489,38 +4122,6 @@
       position: 1
       tags:
         - silent
-    - word: 真紀
-      position: 4
-    - word: さん
-      position: 6
-    - word: って
-      position: 8
-    - word: 色々
-      position: 11
-    - word: 言わ
-      base: 言う
-      dictionary: 言う
-      position: 14
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 16
-    - word: てる
-      position: 17
-    - word: けど
-      base: けれど
-      position: 19
-    - word: 無実
-      position: 22
-    - word: なん
-      base: 何
-      position: 26
-    - word: だ
-      position: 28
-    - word: よ
-      position: 29
-    - word: ね
-      position: 30
 - id: Quartet_Episode_10_0.24.58.580-0.25.02.150
   deck_name: Quartet
   translation: Isn't that obvious?<br>Right?
@@ -9536,17 +4137,6 @@
       position: 3
       tags:
         - silent
-    - word: 当たり前
-      position: 5
-    - word: でしょ
-      base: です
-      dictionary: です
-      position: 9
-    - word: ね
-      position: 13
-    - word: ッ
-      base: つ
-      position: 14
 - id: Quartet_Episode_10_0.25.14.760-0.25.19.440
   deck_name: Quartet
   translation: '- Feel free to take a look outside.<br>- Yes, thank you.'
@@ -9554,27 +4144,10 @@
   episode: 10
   sentence: 外もどうぞ (夫)はい ありがとうございます
   words:
-    - word: 外
-      position: 0
-    - word: も
-      position: 1
-    - word: どうぞ
-      position: 2
     - word: 夫
       position: 7
       tags:
         - silent
-    - word: はい
-      position: 9
-    - word: ありがとう
-      base: 有り難う
-      position: 12
-    - word: ござい
-      base: 御座る
-      dictionary: ござる
-      position: 17
-    - word: ます
-      position: 20
 - id: Quartet_Episode_10_0.25.18.940-0.25.24.300
   deck_name: Quartet
   translation: Say, is that woman in Karuizawa?
@@ -9586,30 +4159,6 @@
       position: 1
       tags:
         - silent
-    - word: ねえ
-      base: ね
-      position: 3
-    - word: あの
-      base: 彼の
-      position: 6
-    - word: 女
-      position: 8
-    - word: って
-      position: 9
-    - word: 軽井沢
-      position: 12
-    - word: に
-      position: 15
-    - word: いる
-      base: 居る
-      position: 16
-    - word: ん
-      base: の
-      position: 18
-    - word: でしょ
-      base: です
-      dictionary: です
-      position: 19
 - id: Quartet_Episode_10_0.28.48.090-0.28.50.890
   deck_name: Quartet
   translation: Beppu-san, is your father coming?
@@ -9623,25 +4172,6 @@
       position: 1
       tags:
         - silent
-    - word: 別府
-      position: 8
-    - word: さん
-      position: 10
-    - word: お
-      base: 御
-      position: 13
-    - word: 父さん
-      position: 14
-    - word: いらっしゃい
-      base: いらっしゃる
-      dictionary: いらっしゃる
-      position: 18
-    - word: ます
-      position: 24
-    - word: か
-      position: 26
-    - word: ➡
-      position: 28
 - id: Quartet_Episode_10_0.28.58.260-0.29.02.290
   deck_name: Quartet
   translation: '- Do you have the tickets, Mama?<br>- I have them.'
@@ -9653,33 +4183,6 @@
       position: 1
       tags:
         - silent
-    - word: ﾁｹｯﾄ
-      base: チケット
-      dictionary: チケット
-      position: 4
-    - word: って
-      position: 8
-    - word: ﾏﾏ
-      base: ママ
-      dictionary: ママ
-      position: 11
-    - word: 持っ
-      base: 持つ
-      dictionary: 持つ
-      position: 13
-    - word: てる
-      position: 15
-    - word: の
-      position: 17
-    - word: <
-      base: ＜
-      position: 19
-    - word: br
-      base: BR
-      position: 20
-    - word: '>'
-      base: ＞
-      position: 22
     - word: 多可
       position: 24
       tags:
@@ -9688,14 +4191,6 @@
       position: 26
       tags:
         - silent
-    - word: 私
-      position: 28
-    - word: 持っ
-      base: 持つ
-      dictionary: 持つ
-      position: 30
-    - word: てる
-      position: 32
 - id: Quartet_Episode_10_0.29.11.450-0.29.14.800
   deck_name: Quartet
   translation: '- Vice Director!<br>- Hm?'
@@ -9707,16 +4202,10 @@
       position: 1
       tags:
         - silent
-    - word: 副
-      position: 4
-    - word: 部長
-      position: 5
     - word: 半田
       position: 9
       tags:
         - silent
-    - word: うん
-      position: 12
 - id: Quartet_Episode_10_0.29.16.890-0.29.21.250
   deck_name: Quartet
   translation: (♫ Futari no Natsu Monogatari)
@@ -9795,32 +4284,6 @@
       position: 2
       tags:
         - silent
-    - word: 僕
-      position: 5
-    - word: 達
-      position: 6
-    - word: の
-      position: 7
-    - word: 名前
-      position: 8
-    - word: は
-      position: 10
-    - word: ｶﾙﾃｯﾄ
-      base: カルテット
-      dictionary: カルテット
-      position: 12
-    - word: ﾄﾞｰﾅﾂ
-      base: ドーナツ
-      dictionary: ドーナツ
-      position: 17
-    - word: ﾎｰﾙ
-      base: ホール
-      dictionary: ホール
-      position: 22
-    - word: です
-      position: 25
-    - word: よ
-      position: 27
 - id: Quartet_Episode_10_0.34.40.010-0.34.44.310
   deck_name: Quartet
   translation: Ah, do you want to work in music for the rest of your life?
@@ -9832,34 +4295,6 @@
       position: 2
       tags:
         - silent
-    - word: あッ
-      base: 有る
-      dictionary: ある
-      position: 5
-    - word: 音楽
-      position: 8
-    - word: は
-      position: 10
-    - word: 一生
-      position: 12
-    - word: やっ
-      base: 遣る
-      dictionary: やる
-      position: 15
-    - word: て
-      position: 17
-    - word: いき
-      base: 行く
-      dictionary: いく
-      position: 18
-    - word: たい
-      position: 20
-    - word: 感じ
-      position: 22
-    - word: です
-      position: 24
-    - word: か
-      position: 26
 - id: Quartet_Episode_10_0.36.48.800-0.36.53.700
   deck_name: Quartet
   translation: (♫ Dragon Quest Overture - Koichi Sugiyama)
@@ -9992,22 +4427,6 @@
       position: 1
       tags:
         - silent
-    - word: よろしく
-      base: 宜しく
-      position: 4
-    - word: お
-      base: 御
-      position: 8
-    - word: 願い
-      base: 願う
-      dictionary: 願う
-      position: 9
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 11
-    - word: ます
-      position: 12
 - id: Quartet_Episode_10_0.39.24.320-0.39.26.820
   deck_name: Quartet
   translation: I'm digging in.
@@ -10028,12 +4447,6 @@
       position: 7
       tags:
         - silent
-    - word: いただき
-      base: 頂く
-      dictionary: いただく
-      position: 11
-    - word: ます
-      position: 15
 - id: Quartet_Episode_10_0.39.57.550-0.40.02.140
   deck_name: Quartet
   translation: '- &quot;Things like parsley...&quot;<br>- Eh?'
@@ -10049,17 +4462,6 @@
       position: 3
       tags:
         - silent
-    - word: パセリ
-      position: 5
-    - word: ぐらい
-      base: くらい
-      position: 8
-    - word: って
-      position: 11
-    - word: こと
-      position: 13
-    - word: は
-      position: 15
     - word: 別府
       position: 18
       tags:
@@ -10069,9 +4471,6 @@
       position: 21
       tags:
         - silent
-    - word: えッ
-      base: えっ
-      position: 25
 - id: Quartet_Episode_10_0.40.15.830-0.40.19.150
   deck_name: Quartet
   translation: ...acknowledge the parsley?
@@ -10087,18 +4486,6 @@
       position: 4
       tags:
         - silent
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 7
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 8
-    - word: た
-      position: 10
-    - word: か
-      position: 11
 - id: Quartet_Episode_10_0.41.14.130-0.41.16.680
   deck_name: Quartet
   translation: Thank you, parsley.
@@ -10115,7 +4502,3 @@
       position: 4
       tags:
         - silent
-    - word: センキュー
-      position: 8
-    - word: パセリ
-      position: 14

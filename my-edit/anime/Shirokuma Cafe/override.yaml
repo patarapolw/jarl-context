@@ -4,33 +4,18 @@
   sound: A_Shirokuma_Cafe_01_0.10.38.860-0.10.40.310.mp3
   sentence: あれ　　(′?ω?)y--oO○　　??????
   words:
-    - word: あれ
-      base: 彼れ
-      position: 0
     - word: ω
       base: オウム
       dictionary: Ω
       position: 7
       tags:
         - silent
-    - word: 'y'
-      position: 10
-    - word: oO
-      base: oo
-      dictionary: oo
-      position: 13
-    - word: ○
-      position: 15
 - id: A_Shirokuma_Cafe_E01_00129
   deck_name: Shirokuma Cafe
   translation: What?!
   sound: A_Shirokuma_Cafe_01_0.11.40.780-0.11.44.030.mp3
   sentence: えー工????(′д｀)????工
   words:
-    - word: えー
-      position: 0
-    - word: 工
-      position: 2
     - word: д
       position: 9
       tags:
@@ -39,23 +24,12 @@
       position: 10
       tags:
         - silent
-    - word: 工
-      position: 16
 - id: A_Shirokuma_Cafe_E02_00295
   deck_name: Shirokuma Cafe
   translation: "Polar  \_Bear's  \_\_Café Everyone's Café!"
   sound: A_Shirokuma_Cafe_02_0.01.32.030-0.01.33.970.mp3
   sentence: みんなのカフェ　o(*≧▽≦)ツ
   words:
-    - word: みんな
-      base: 皆
-      position: 0
-    - word: の
-      position: 3
-    - word: カフェ
-      position: 4
-    - word: o
-      position: 8
     - word: ≧
       position: 11
       tags:
@@ -68,69 +42,17 @@
       position: 13
       tags:
         - silent
-    - word: ツ
-      base: つ
-      position: 15
 - id: A_Shirokuma_Cafe_E02_00301
   deck_name: Shirokuma Cafe
   translation: The zoo's closed today, so let me sleep.
   sound: A_Shirokuma_Cafe_02_0.02.21.540-0.02.27.120.mp3
   sentence: 今日動物園休みなんだから　寝かせて（　^ω^）
-  words:
-    - word: 今日
-      position: 0
-    - word: 動物
-      position: 2
-    - word: 園
-      position: 4
-    - word: 休み
-      position: 5
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 7
-    - word: ん
-      base: の
-      position: 8
-    - word: だ
-      position: 9
-    - word: から
-      position: 10
-    - word: 寝かせ
-      base: 寝かす
-      dictionary: 寝かせる
-      position: 13
-    - word: て
-      position: 16
-    - word: （　^ω^）
-      base: （　＾ω＾）
-      dictionary: （　＾ω＾）
-      position: 17
 - id: A_Shirokuma_Cafe_E02_00303
   deck_name: Shirokuma Cafe
   translation: Tai Chi, right? I can do that in bed.
   sound: A_Shirokuma_Cafe_02_0.02.32.680-0.02.37.590.mp3
   sentence: 太極拳でしょう　ベッドの上でやる(*￣∇￣)ノ
   words:
-    - word: 太極
-      position: 0
-    - word: 拳
-      position: 2
-    - word: でしょう
-      base: です
-      dictionary: です
-      position: 3
-    - word: ベッド
-      position: 8
-    - word: の
-      position: 11
-    - word: 上
-      position: 12
-    - word: で
-      position: 13
-    - word: やる
-      base: 遣る
-      position: 14
     - word: ￣
       position: 18
       tags:
@@ -143,79 +65,22 @@
       position: 20
       tags:
         - silent
-    - word: ノ
-      base: の
-      position: 22
 - id: A_Shirokuma_Cafe_E02_00305
   deck_name: Shirokuma Cafe
   translation: Don't suck me up!
   sound: A_Shirokuma_Cafe_02_0.02.40.080-0.02.44.710.mp3
   sentence: あ～　す　吸わないで(⊙﹏⊙)
-  words:
-    - word: あ
-      base: あっ
-      position: 0
-    - word: ～
-      position: 1
-    - word: す
-      base: っす
-      position: 3
-    - word: 吸わ
-      base: 吸う
-      dictionary: 吸う
-      position: 5
-    - word: ない
-      position: 7
-    - word: で
-      position: 9
-    - word: ⊙﹏⊙)
-      base: ⊙_⊙)
-      dictionary: ⊙_⊙)
-      position: 11
 - id: A_Shirokuma_Cafe_E02_00309
   deck_name: Shirokuma Cafe
   translation: Well...
   sound: A_Shirokuma_Cafe_02_0.03.05.830-0.03.07.930.mp3
   sentence: (´･ω･)y--oO○　ｴｰﾄ･･･
-  words:
-    - word: (´･ω･)
-      base: （´・ω・）
-      dictionary: （´・ω・）
-      position: 0
-    - word: 'y'
-      position: 6
-    - word: oO
-      base: oo
-      dictionary: oo
-      position: 9
-    - word: ○
-      position: 11
-    - word: ｴｰﾄ
-      base: エート
-      dictionary: エート
-      position: 13
 - id: A_Shirokuma_Cafe_E02_00317
   deck_name: Shirokuma Cafe
   translation: You're stabbing me! Stabbing!
   sound: A_Shirokuma_Cafe_02_0.03.31.690-0.03.34.090.mp3
   sentence: 刺さってる　刺さってるw(ﾟДﾟ)w
   words:
-    - word: 刺さっ
-      base: 差さる
-      dictionary: 刺さる
-      position: 0
-    - word: てる
-      position: 3
-    - word: 刺さっ
-      base: 差さる
-      dictionary: 刺さる
-      position: 6
-    - word: てる
-      position: 9
-    - word: w
-      base: W
-      dictionary: W
-      position: 11
     - word: ﾟ
       base: ゚
       dictionary: ゚
@@ -234,41 +99,12 @@
       position: 15
       tags:
         - silent
-    - word: w
-      base: W
-      dictionary: W
-      position: 17
 - id: A_Shirokuma_Cafe_E02_00333
   deck_name: Shirokuma Cafe
   translation: Polar Bear is pretty cool for  running a café, isn't he?
   sound: A_Shirokuma_Cafe_02_0.04.19.850-0.04.23.980.mp3
   sentence: カフェやってる白熊君って格好よくない"o((>ω<　))o"
   words:
-    - word: カフェ
-      position: 0
-    - word: やっ
-      base: 遣る
-      dictionary: やる
-      position: 3
-    - word: てる
-      position: 5
-    - word: 白熊
-      position: 7
-    - word: 君
-      position: 9
-    - word: って
-      position: 10
-    - word: 格好
-      position: 12
-    - word: よく
-      base: 良い
-      dictionary: よい
-      position: 14
-    - word: ない
-      base: 無い
-      position: 16
-    - word: o
-      position: 19
     - word: '>'
       base: ＞
       position: 22
@@ -285,36 +121,12 @@
       position: 24
       tags:
         - silent
-    - word: o
-      position: 28
 - id: A_Shirokuma_Cafe_E02_00336
   deck_name: Shirokuma Cafe
   translation: Could you stop comparing us?
   sound: A_Shirokuma_Cafe_02_0.04.31.750-0.04.34.290.mp3
   sentence: 僕と比べるのはやめてくれない(*′Д`)
   words:
-    - word: 僕
-      position: 0
-    - word: と
-      position: 1
-    - word: 比べる
-      position: 2
-    - word: の
-      position: 5
-    - word: は
-      position: 6
-    - word: やめ
-      base: やめる
-      dictionary: やめる
-      position: 7
-    - word: て
-      position: 9
-    - word: くれ
-      base: 呉れる
-      dictionary: くれる
-      position: 10
-    - word: ない
-      position: 12
     - word: Д
       base: д
       dictionary: д
@@ -333,12 +145,6 @@
   sound: A_Shirokuma_Cafe_02_0.05.33.300-0.05.35.560.mp3
   sentence: 可愛いな　僕＼（≧Д≦）＜
   words:
-    - word: 可愛い
-      position: 0
-    - word: な
-      position: 3
-    - word: 僕
-      position: 5
     - word: ≧
       position: 8
       tags:
@@ -353,23 +159,12 @@
       position: 10
       tags:
         - silent
-    - word: ＜
-      dictionary: <
-      position: 12
 - id: A_Shirokuma_Cafe_E02_00375
   deck_name: Shirokuma Cafe
   translation: Bamboo is delicious.
   sound: A_Shirokuma_Cafe_02_0.06.32.560-0.06.34.570.mp3
   sentence: 美味しいよ　竹o(*￣▽￣*)o
   words:
-    - word: 美味しい
-      position: 0
-    - word: よ
-      position: 4
-    - word: 竹
-      position: 6
-    - word: o
-      position: 7
     - word: ￣
       position: 10
       tags:
@@ -382,23 +177,12 @@
       position: 12
       tags:
         - silent
-    - word: o
-      position: 15
 - id: A_Shirokuma_Cafe_E02_00388
   deck_name: Shirokuma Cafe
   translation: What? There'll be tons!
   sound: A_Shirokuma_Cafe_02_0.07.12.170-0.07.14.820.mp3
   sentence: え　絶対来るよ(*￣∇￣)ノ
   words:
-    - word: え
-      base: えー
-      position: 0
-    - word: 絶対
-      position: 2
-    - word: 来る
-      position: 4
-    - word: よ
-      position: 6
     - word: ￣
       position: 9
       tags:
@@ -411,24 +195,12 @@
       position: 11
       tags:
         - silent
-    - word: ノ
-      base: の
-      position: 13
 - id: A_Shirokuma_Cafe_E02_00395
   deck_name: Shirokuma Cafe
   translation: Bamboo pasta! That's a great idea!
   sound: A_Shirokuma_Cafe_02_0.07.38.270-0.07.40.540.mp3
   sentence: いいね　竹パスタ（≧0≦）//
   words:
-    - word: いい
-      base: 良い
-      position: 0
-    - word: ね
-      position: 2
-    - word: 竹
-      position: 4
-    - word: パスタ
-      position: 5
     - word: ≧
       position: 9
       tags:
@@ -447,15 +219,6 @@
   sound: A_Shirokuma_Cafe_02_0.07.40.940-0.07.42.790.mp3
   sentence: いや　竹忘れよう（′Д`）
   words:
-    - word: いや
-      base: 否
-      position: 0
-    - word: 竹
-      position: 3
-    - word: 忘れよう
-      base: 忘れる
-      dictionary: 忘れる
-      position: 4
     - word: Д
       base: д
       dictionary: д
@@ -473,42 +236,12 @@
   translation: I have a bad feeling about this.
   sound: A_Shirokuma_Cafe_02_0.07.51.830-0.07.53.800.mp3
   sentence: 悪い予感がするね　　ヽ(´Д`；)ﾉ
-  words:
-    - word: 悪い
-      position: 0
-    - word: 予感
-      position: 2
-    - word: が
-      position: 4
-    - word: する
-      base: 為る
-      position: 5
-    - word: ね
-      position: 7
-    - word: ヽ
-      position: 10
-    - word: (´Д`；)
-      base: （´Д｀；）
-      dictionary: （´Д｀；）
-      position: 11
-    - word: ﾉ
-      base: の
-      dictionary: ノ
-      position: 17
 - id: A_Shirokuma_Cafe_E02_00428
   deck_name: Shirokuma Cafe
   translation: Welcome!
   sound: A_Shirokuma_Cafe_02_0.09.50.540-0.09.52.240.mp3
   sentence: へ　いらっしゃい　o(*≧▽≦)ツ
   words:
-    - word: へ
-      position: 0
-    - word: いらっしゃい
-      base: いらっしゃる
-      dictionary: いらっしゃる
-      position: 2
-    - word: o
-      position: 9
     - word: ≧
       position: 12
       tags:
@@ -521,244 +254,62 @@
       position: 14
       tags:
         - silent
-    - word: ツ
-      base: つ
-      position: 16
 - id: A_Shirokuma_Cafe_E02_00429
   deck_name: Shirokuma Cafe
   translation: CAFÉ Sir, what can I get'cha?
   sound: A_Shirokuma_Cafe_02_0.09.53.690-0.09.55.980.mp3
   sentence: 旦那　何しやしょうか(｀・ω・´)
-  words:
-    - word: 旦那
-      position: 0
-    - word: 何
-      position: 3
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 4
-    - word: やしょう
-      base: やす
-      dictionary: やす
-      position: 5
-    - word: か
-      position: 9
-    - word: (｀・ω・´)
-      base: （｀・ω・´）
-      dictionary: （｀・ω・´）
-      position: 10
 - id: A_Shirokuma_Cafe_E02_00430
   deck_name: Shirokuma Cafe
   translation: Change everything back.
   sound: A_Shirokuma_Cafe_02_0.09.56.140-0.09.57.290.mp3
   sentence: 戻してね／(-_-)＼
-  words:
-    - word: 戻し
-      base: 戻す
-      dictionary: 戻す
-      position: 0
-    - word: て
-      position: 2
-    - word: ね
-      position: 3
 - id: A_Shirokuma_Cafe_E03_00636
   deck_name: Shirokuma Cafe
   translation: Actually, never mind.
   sound: A_Shirokuma_Cafe_03_0.02.10.030-0.02.12.410.mp3
   sentence: ごめん、もういいや(ー_ー)!!
-  words:
-    - word: ごめん
-      base: 御免
-      position: 0
-    - word: もう
-      position: 4
-    - word: いい
-      base: 良い
-      position: 6
-    - word: や
-      position: 8
-    - word: (ー_ー)
-      base: （ー＿ー）
-      dictionary: （ー＿ー）
-      position: 9
 - id: A_Shirokuma_Cafe_E03_00645
   deck_name: Shirokuma Cafe
   translation: I'm really popular with people, you know?
   sound: A_Shirokuma_Cafe_03_0.02.49.530-0.02.52.990.mp3
   sentence: 僕　人には　モテるんだからね　（　^ω^）
-  words:
-    - word: 僕
-      position: 0
-    - word: 人
-      position: 2
-    - word: に
-      position: 3
-    - word: は
-      position: 4
-    - word: モテる
-      base: もてる
-      position: 6
-    - word: ん
-      base: の
-      position: 9
-    - word: だ
-      position: 10
-    - word: から
-      position: 11
-    - word: ね
-      position: 13
-    - word: （　^ω^）
-      base: （　＾ω＾）
-      dictionary: （　＾ω＾）
-      position: 15
 - id: A_Shirokuma_Cafe_E03_00648
   deck_name: Shirokuma Cafe
   translation: You'll be surprised at how popular I am.
   sound: A_Shirokuma_Cafe_03_0.02.59.390-0.03.02.100.mp3
   sentence: 大人気で　びっくりするよ(#^.^#)
-  words:
-    - word: 大
-      position: 0
-    - word: 人気
-      position: 1
-    - word: で
-      position: 3
-    - word: びっくり
-      position: 5
-    - word: する
-      base: 為る
-      position: 9
-    - word: よ
-      position: 11
-    - word: (#^.^#)
-      base: （＃＾．＾＃）
-      dictionary: （＃＾．＾＃）
-      position: 12
 - id: A_Shirokuma_Cafe_E03_00649
   deck_name: Shirokuma Cafe
   translation: You'll be surprised at how popular I am.
   sound: A_Shirokuma_Cafe_03_0.03.02.280-0.03.05.490.mp3
   sentence: 大人気で　びっくりするよ(#^.^#)
-  words:
-    - word: 大
-      position: 0
-    - word: 人気
-      position: 1
-    - word: で
-      position: 3
-    - word: びっくり
-      position: 5
-    - word: する
-      base: 為る
-      position: 9
-    - word: よ
-      position: 11
-    - word: (#^.^#)
-      base: （＃＾．＾＃）
-      dictionary: （＃＾．＾＃）
-      position: 12
 - id: A_Shirokuma_Cafe_E03_00650
   deck_name: Shirokuma Cafe
   translation: Why'd you have to say it twice?
   sound: A_Shirokuma_Cafe_03_0.03.06.230-0.03.08.570.mp3
   sentence: なんで　２回言うの？／(-_-)＼
-  words:
-    - word: なん
-      base: 何
-      position: 0
-    - word: で
-      position: 2
-    - word: ２
-      base: '2'
-      dictionary: '2'
-      position: 4
-    - word: 回
-      position: 5
-    - word: 言う
-      position: 6
-    - word: の
-      position: 8
 - id: A_Shirokuma_Cafe_E03_00660
   deck_name: Shirokuma Cafe
   translation: Oh, really?
   sound: A_Shirokuma_Cafe_03_0.03.47.300-0.03.48.690.mp3
   sentence: そうなの？(｀・ω・´)
-  words:
-    - word: そう
-      position: 0
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 2
-    - word: の
-      position: 3
-    - word: (｀・ω・´)
-      base: （｀・ω・´）
-      dictionary: （｀・ω・´）
-      position: 5
 - id: A_Shirokuma_Cafe_E03_00663
   deck_name: Shirokuma Cafe
   translation: You're so cute, Mr. Panda!
   sound: A_Shirokuma_Cafe_03_0.03.58.830-0.04.01.130.mp3
   sentence: パンダさん　かわいい～！＼(^o^)／
-  words:
-    - word: パンダ
-      position: 0
-    - word: さん
-      position: 3
-    - word: かわいい
-      base: 可愛い
-      position: 6
-    - word: ～
-      position: 10
-    - word: ＼(^o^)／
-      base: ＼（＾O＾）/
-      dictionary: ＼（＾O＾）／
-      position: 12
 - id: A_Shirokuma_Cafe_E03_00665
   deck_name: Shirokuma Cafe
   translation: All right! I'll do my best!
   sound: A_Shirokuma_Cafe_03_0.04.15.460-0.04.18.570.mp3
   sentence: ようし！　頑張るぞ～！(^_-)-☆
-  words:
-    - word: ようし
-      base: よし
-      position: 0
-    - word: 頑張る
-      position: 5
-    - word: ぞ
-      position: 8
-    - word: ～！(^_-)-☆
-      base: ~!(^_-)-☆
-      dictionary: ~!(^_-)-☆
-      position: 9
 - id: A_Shirokuma_Cafe_E03_00687
   deck_name: Shirokuma Cafe
   translation: If we sneak in quietly,  they'll never even notice.
   sound: A_Shirokuma_Cafe_03_0.05.53.740-0.05.57.120.mp3
   sentence: こっそり入れば　バレない　バレない　(*￣∇￣)ノ
   words:
-    - word: こっそり
-      position: 0
-    - word: 入れ
-      base: 入る
-      dictionary: 入る
-      position: 4
-    - word: ば
-      position: 6
-    - word: バレ
-      base: ばれる
-      dictionary: バレる
-      position: 8
-    - word: ない
-      position: 10
-    - word: バレ
-      base: ばれる
-      dictionary: バレる
-      position: 13
-    - word: ない
-      position: 15
     - word: ￣
       position: 20
       tags:
@@ -771,53 +322,17 @@
       position: 22
       tags:
         - silent
-    - word: ノ
-      base: の
-      position: 24
 - id: A_Shirokuma_Cafe_E03_00701
   deck_name: Shirokuma Cafe
   translation: You're so cute, Panda! You're so cute!
   sound: A_Shirokuma_Cafe_03_0.06.48.930-0.06.53.880.mp3
   sentence: パンダくん　かわいい　キャ～ッ　かわいい(>_<)
-  words:
-    - word: パンダ
-      position: 0
-    - word: くん
-      base: 君
-      position: 3
-    - word: かわいい
-      base: 可愛い
-      position: 6
-    - word: キャ
-      position: 11
-    - word: ～
-      position: 13
-    - word: ッ
-      position: 14
-    - word: かわいい
-      base: 可愛い
-      position: 16
-    - word: (>_<)
-      base: （＞＿＜）
-      dictionary: （＞＿＜）
-      position: 20
 - id: A_Shirokuma_Cafe_E03_00707
   deck_name: Shirokuma Cafe
   translation: Panda! Wake up!
   sound: A_Shirokuma_Cafe_03_0.07.15.890-0.07.19.300.mp3
   sentence: パンダくん　起きて(#`O′)
   words:
-    - word: パンダ
-      position: 0
-    - word: くん
-      base: 君
-      position: 3
-    - word: 起き
-      base: 起きる
-      dictionary: 起きる
-      position: 6
-    - word: て
-      position: 8
     - word: '`'
       base: ｀
       dictionary: ｀
@@ -836,18 +351,6 @@
   sound: A_Shirokuma_Cafe_03_0.08.36.440-0.08.38.300.mp3
   sentence: 食べない　食べない(*￣∇￣)ノ
   words:
-    - word: 食べ
-      base: 食べる
-      dictionary: 食べる
-      position: 0
-    - word: ない
-      position: 2
-    - word: 食べ
-      base: 食べる
-      dictionary: 食べる
-      position: 5
-    - word: ない
-      position: 7
     - word: ￣
       position: 11
       tags:
@@ -860,50 +363,12 @@
       position: 13
       tags:
         - silent
-    - word: ノ
-      base: の
-      position: 15
 - id: A_Shirokuma_Cafe_E03_00734
   deck_name: Shirokuma Cafe
   translation: See? Look! It's so fluffy!
   sound: A_Shirokuma_Cafe_03_0.09.03.600-0.09.08.490.mp3
   sentence: ほ～ら　見てみて　こんなに　ふっかふかo(*￣▽￣*)o
   words:
-    - word: ほ
-      base: ほっ
-      position: 0
-    - word: ～
-      position: 1
-    - word: ら
-      base: 等
-      position: 2
-    - word: 見
-      base: 見る
-      dictionary: 見る
-      position: 4
-    - word: て
-      position: 5
-    - word: み
-      base: 見る
-      dictionary: みる
-      position: 6
-    - word: て
-      position: 7
-    - word: こんな
-      position: 9
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 12
-    - word: ふっ
-      position: 14
-    - word: か
-      position: 16
-    - word: ふか
-      base: 鱶
-      position: 17
-    - word: o
-      position: 19
     - word: ￣
       position: 22
       tags:
@@ -916,62 +381,22 @@
       position: 24
       tags:
         - silent
-    - word: o
-      position: 27
 - id: A_Shirokuma_Cafe_E03_00782
   deck_name: Shirokuma Cafe
   translation: You didn't wake up!
   sound: A_Shirokuma_Cafe_03_0.12.09.870-0.12.11.520.mp3
   sentence: 起きなかったよｍ(＿　＿)ｍ
-  words:
-    - word: 起き
-      base: 起きる
-      dictionary: 起きる
-      position: 0
-    - word: なかっ
-      base: ない
-      dictionary: ない
-      position: 2
-    - word: た
-      position: 5
-    - word: よ
-      position: 6
-    - word: ｍ(＿　＿)ｍ
-      base: m（＿　＿）m
-      dictionary: m（＿　＿）m
-      position: 7
 - id: A_Shirokuma_Cafe_E03_00805
   deck_name: Shirokuma Cafe
   translation: That's not cute.
   sound: A_Shirokuma_Cafe_03_0.14.03.050-0.14.04.920.mp3
   sentence: かわいくないo(╯□╰)o
-  words:
-    - word: かわいく
-      base: 可愛い
-      dictionary: かわいい
-      position: 0
-    - word: ない
-      base: 無い
-      position: 4
-    - word: o
-      position: 6
-    - word: (╯□╰)
-      position: 7
-    - word: o
-      position: 12
 - id: A_Shirokuma_Cafe_E03_00809
   deck_name: Shirokuma Cafe
   translation: How about this?
   sound: A_Shirokuma_Cafe_03_0.14.23.530-0.14.25.040.mp3
   sentence: これは？o(　=∩ω∩=　)m
   words:
-    - word: これ
-      base: 此れ
-      position: 0
-    - word: は
-      position: 2
-    - word: o
-      position: 4
     - word: '='
       base: ＝
       dictionary: ＝
@@ -997,25 +422,12 @@
       position: 11
       tags:
         - silent
-    - word: m
-      position: 14
 - id: A_Shirokuma_Cafe_E03_00811
   deck_name: Shirokuma Cafe
   translation: And this?
   sound: A_Shirokuma_Cafe_03_0.14.27.790-0.14.29.360.mp3
   sentence: これは～？n(*≧▽≦*)n
   words:
-    - word: これ
-      base: 此れ
-      position: 0
-    - word: は
-      position: 2
-    - word: ～
-      position: 3
-    - word: 'n'
-      base: 'N'
-      dictionary: 'N'
-      position: 5
     - word: ≧
       position: 8
       tags:
@@ -1028,35 +440,12 @@
       position: 10
       tags:
         - silent
-    - word: 'n'
-      base: 'N'
-      dictionary: 'N'
-      position: 13
 - id: A_Shirokuma_Cafe_E03_00819
   deck_name: Shirokuma Cafe
   translation: You know I break shellfish  on my tummy, right?
   sound: A_Shirokuma_Cafe_03_0.14.54.340-0.14.57.570.mp3
   sentence: 僕さ　お腹で貝割るでしょ？ヾ(≧へ≦)〃
   words:
-    - word: 僕
-      position: 0
-    - word: さ
-      position: 1
-    - word: お腹
-      base: 御腹
-      position: 3
-    - word: で
-      position: 5
-    - word: 貝
-      position: 6
-    - word: 割る
-      position: 7
-    - word: でしょ
-      base: です
-      dictionary: です
-      position: 9
-    - word: ヾ
-      position: 13
     - word: ≧
       position: 15
       tags:
@@ -1074,49 +463,17 @@
   translation: I'm sick of it.
   sound: A_Shirokuma_Cafe_03_0.15.56.950-0.15.58.620.mp3
   sentence: 飽きました（╯－＿－）╯╧╧
-  words:
-    - word: 飽き
-      base: 飽きる
-      dictionary: 飽きる
-      position: 0
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 2
-    - word: た
-      position: 4
-    - word: ╯－＿－）╯╧╧
-      base: ╯-_-)╯╧╧
-      dictionary: ╯-_-)╯╧╧
-      position: 6
 - id: A_Shirokuma_Cafe_E03_00837
   deck_name: Shirokuma Cafe
   translation: You'd get teary-eyed, too,  if you had to do it.
   sound: A_Shirokuma_Cafe_03_0.16.07.220-0.16.09.910.mp3
   sentence: 涙目にもなりますよ(　-。-)
-  words:
-    - word: 涙目
-      position: 0
-    - word: に
-      position: 2
-    - word: も
-      position: 3
-    - word: なり
-      base: 成る
-      dictionary: なる
-      position: 4
-    - word: ます
-      position: 6
-    - word: よ
-      position: 8
 - id: A_Shirokuma_Cafe_E03_00843
   deck_name: Shirokuma Cafe
   translation: I'm sorry?! I can't say that I do.
   sound: A_Shirokuma_Cafe_03_0.16.27.190-0.16.30.590.mp3
   sentence: はい？(　⊙　o　⊙　)？わかりません
   words:
-    - word: はい
-      position: 0
     - word: ⊙
       position: 5
       tags:
@@ -1129,18 +486,6 @@
       position: 9
       tags:
         - silent
-    - word: わかり
-      base: 分かる
-      dictionary: わかる
-      position: 13
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 16
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 18
 - id: A_Shirokuma_Cafe_E03_00860
   deck_name: Shirokuma Cafe
   translation: >-
@@ -1149,44 +494,6 @@
   sound: A_Shirokuma_Cafe_03_0.17.20.680-0.17.26.540.mp3
   sentence: もっと　じっくり見たり　行列つくって　感想とか言ってほしいですΣ(　￣д￣　)
   words:
-    - word: もっと
-      position: 0
-    - word: じっくり
-      position: 4
-    - word: 見
-      base: 見る
-      dictionary: 見る
-      position: 8
-    - word: たり
-      position: 9
-    - word: 行列
-      position: 12
-    - word: つくっ
-      base: 作る
-      dictionary: つくる
-      position: 14
-    - word: て
-      position: 17
-    - word: 感想
-      position: 19
-    - word: と
-      position: 21
-    - word: か
-      position: 22
-    - word: 言っ
-      base: 言う
-      dictionary: 言う
-      position: 23
-    - word: て
-      position: 25
-    - word: ほしい
-      base: 欲しい
-      position: 26
-    - word: です
-      position: 29
-    - word: Σ
-      base: σ
-      position: 31
     - word: ￣
       position: 34
       tags:
@@ -1205,18 +512,6 @@
   sound: A_Shirokuma_Cafe_03_0.17.54.300-0.17.58.530.mp3
   sentence: あと　まつ毛が長いです(￣y▽￣)╭
   words:
-    - word: あと
-      base: 後
-      position: 0
-    - word: まつ毛
-      base: 睫
-      position: 3
-    - word: が
-      position: 6
-    - word: 長い
-      position: 7
-    - word: です
-      position: 9
     - word: ￣
       base: ' '
       dictionary: ' '
@@ -1235,52 +530,17 @@
       position: 15
       tags:
         - silent
-    - word: )╭
-      position: 16
 - id: A_Shirokuma_Cafe_E03_00894
   deck_name: Shirokuma Cafe
   translation: I can't say that I have.
   sound: A_Shirokuma_Cafe_03_0.19.19.650-0.19.22.450.mp3
   sentence: え？(⊙﹏⊙)　ないです
-  words:
-    - word: え
-      base: えー
-      position: 0
-    - word: ？(⊙﹏⊙)
-      base: '?(⊙_⊙)'
-      dictionary: '?(⊙_⊙)'
-      position: 1
-    - word: ない
-      base: 無い
-      position: 8
-    - word: です
-      position: 10
 - id: A_Shirokuma_Cafe_E03_00899
   deck_name: Shirokuma Cafe
   translation: I have a problem too.
   sound: A_Shirokuma_Cafe_03_0.19.34.340-0.19.36.310.mp3
   sentence: 僕も悩んでてね　O(￣︶￣)n
   words:
-    - word: 僕
-      position: 0
-    - word: も
-      position: 1
-    - word: 悩ん
-      base: 悩む
-      dictionary: 悩む
-      position: 2
-    - word: で
-      base: てる
-      dictionary: でる
-      position: 4
-    - word: て
-      position: 5
-    - word: ね
-      position: 6
-    - word: O
-      base: o
-      dictionary: o
-      position: 8
     - word: ￣
       base: ' '
       dictionary: ' '
@@ -1293,24 +553,12 @@
       position: 12
       tags:
         - silent
-    - word: 'n'
-      base: 'N'
-      dictionary: 'N'
-      position: 14
 - id: A_Shirokuma_Cafe_E03_00923
   deck_name: Shirokuma Cafe
   translation: He's asleep!
   sound: A_Shirokuma_Cafe_03_0.20.54.280-0.20.55.760.mp3
   sentence: 寝てる！W(ﾟДﾟ)w
   words:
-    - word: 寝
-      base: 寝る
-      dictionary: 寝る
-      position: 0
-    - word: てる
-      position: 1
-    - word: W
-      position: 4
     - word: ﾟ
       base: ゚
       dictionary: ゚
@@ -1329,35 +577,12 @@
       position: 8
       tags:
         - silent
-    - word: w
-      base: W
-      dictionary: W
-      position: 10
 - id: A_Shirokuma_Cafe_E03_00946
   deck_name: Shirokuma Cafe
   translation: What do you think I should put in here?
   sound: A_Shirokuma_Cafe_03_0.22.13.290-0.22.16.150.mp3
   sentence: 何入れればいいと思う？O(*≧▽≦)ツ
   words:
-    - word: 何
-      position: 0
-    - word: 入れれ
-      base: 入れる
-      dictionary: 入れる
-      position: 1
-    - word: ば
-      position: 4
-    - word: いい
-      base: 良い
-      position: 5
-    - word: と
-      position: 7
-    - word: 思う
-      position: 8
-    - word: O
-      base: o
-      dictionary: o
-      position: 11
     - word: ≧
       position: 14
       tags:
@@ -1370,9 +595,6 @@
       position: 16
       tags:
         - silent
-    - word: ツ
-      base: つ
-      position: 18
 - id: A_Shirokuma_Cafe_E03_00948
   deck_name: Shirokuma Cafe
   translation: >-
@@ -1384,246 +606,32 @@
   sound: A_Shirokuma_Cafe_03_0.23.57.310-0.24.22.110.mp3
   sentence: >-
     ペンギンさん　ペンギンさん　しろくまカフェが来週から駐車場になっちゃうって本当　そんな噂　聞いてないよ　やっぱりプチ整形してない　してないよ　だから　逆にどこを見て思ったの　しろくまくん　終わって　次回のしろくま???　(´･ω･)y--oO○　ｴｰﾄ･･･　カフェでしょう　忘れちゃった
-  words:
-    - word: ペンギン
-      position: 0
-    - word: さん
-      position: 4
-    - word: ペンギン
-      position: 7
-    - word: さん
-      position: 11
-    - word: しろくま
-      base: 白熊
-      position: 14
-    - word: カフェ
-      position: 18
-    - word: が
-      position: 21
-    - word: 来週
-      position: 22
-    - word: から
-      position: 24
-    - word: 駐車
-      position: 26
-    - word: 場
-      position: 28
-    - word: に
-      position: 29
-    - word: なっ
-      base: 成る
-      dictionary: なる
-      position: 30
-    - word: ちゃう
-      position: 32
-    - word: って
-      position: 35
-    - word: 本当
-      position: 37
-    - word: そんな
-      position: 40
-    - word: 噂
-      position: 43
-    - word: 聞い
-      base: 聞く
-      dictionary: 聞く
-      position: 45
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 47
-    - word: ない
-      position: 48
-    - word: よ
-      position: 50
-    - word: やっぱり
-      base: 矢張り
-      position: 52
-    - word: プチ
-      position: 56
-    - word: 整形
-      position: 58
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 60
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 61
-    - word: ない
-      position: 62
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 65
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 66
-    - word: ない
-      position: 67
-    - word: よ
-      position: 69
-    - word: だ
-      position: 71
-    - word: から
-      position: 72
-    - word: 逆
-      position: 75
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 76
-    - word: どこ
-      position: 77
-    - word: を
-      position: 79
-    - word: 見
-      base: 見る
-      dictionary: 見る
-      position: 80
-    - word: て
-      position: 81
-    - word: 思っ
-      base: 思う
-      dictionary: 思う
-      position: 82
-    - word: た
-      position: 84
-    - word: の
-      position: 85
-    - word: しろくま
-      base: 白熊
-      position: 87
-    - word: くん
-      base: 君
-      position: 91
-    - word: 終わっ
-      base: 終わる
-      dictionary: 終わる
-      position: 94
-    - word: て
-      position: 97
-    - word: 次回
-      position: 99
-    - word: の
-      position: 101
-    - word: しろくま
-      base: 白熊
-      position: 102
-    - word: (´･ω･)
-      base: （´・ω・）
-      dictionary: （´・ω・）
-      position: 110
-    - word: 'y'
-      position: 116
-    - word: oO
-      base: oo
-      dictionary: oo
-      position: 119
-    - word: ○
-      position: 121
-    - word: ｴｰﾄ
-      base: エート
-      dictionary: エート
-      position: 123
-    - word: カフェ
-      position: 130
-    - word: でしょう
-      base: です
-      dictionary: です
-      position: 133
-    - word: 忘れ
-      base: 忘れる
-      dictionary: 忘れる
-      position: 138
-    - word: ちゃっ
-      base: ちゃう
-      dictionary: ちゃう
-      position: 140
-    - word: た
-      position: 143
 - id: A_Shirokuma_Cafe_E04_00952
   deck_name: Shirokuma Cafe
   translation: Is that fun?
   sound: A_Shirokuma_Cafe_04_0.01.45.870-0.01.47.900.mp3
   sentence: それ　楽しい？(^^)
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: 楽しい
-      position: 3
-    - word: (^^)
-      base: （＾＾）
-      dictionary: （＾＾）
-      position: 7
 - id: A_Shirokuma_Cafe_E04_00956
   deck_name: Shirokuma Cafe
   translation: It's a polar bear.
   sound: A_Shirokuma_Cafe_04_0.01.54.360-0.01.57.860.mp3
   sentence: おぉ～！　(*^▽^*)　シロクマだね
-  words:
-    - word: おぉ
-      base: おお
-      position: 0
-    - word: ～
-      position: 2
-    - word: (*^▽^*)
-      base: （＊＾▽＾＊）
-      dictionary: （＊＾▽＾＊）
-      position: 5
-    - word: シロクマ
-      base: 白熊
-      position: 13
-    - word: だ
-      position: 17
-    - word: ね
-      position: 18
 - id: A_Shirokuma_Cafe_E04_00958
   deck_name: Shirokuma Cafe
   translation: It's a secret.
   sound: A_Shirokuma_Cafe_04_0.02.00.670-0.02.01.680.mp3
   sentence: 秘密　(#^.^#)
-  words:
-    - word: 秘密
-      position: 0
-    - word: (#^.^#)
-      base: （＃＾．＾＃）
-      dictionary: （＃＾．＾＃）
-      position: 3
 - id: A_Shirokuma_Cafe_E04_00971
   deck_name: Shirokuma Cafe
   translation: I said sumafo! As in smartphone!
   sound: A_Shirokuma_Cafe_04_0.02.28.550-0.02.31.670.mp3
   sentence: スマフォだよ！　ス　マ　フォ！(-_-;)
-  words:
-    - word: スマフォ
-      position: 0
-    - word: だ
-      position: 4
-    - word: よ
-      position: 5
-    - word: ス
-      position: 8
-    - word: マ
-      position: 10
-    - word: フォ
-      position: 12
 - id: A_Shirokuma_Cafe_E04_00997
   deck_name: Shirokuma Cafe
   translation: Wow, that's so cool!
   sound: A_Shirokuma_Cafe_04_0.03.39.860-0.03.42.740.mp3
   sentence: あぁ～　かっこいい！　　(m´・ω・｀)m
   words:
-    - word: あぁ
-      base: ああ
-      position: 0
-    - word: ～
-      position: 2
-    - word: かっこいい
-      position: 4
     - word: m
       position: 13
       tags:
@@ -1641,34 +649,17 @@
       position: 18
       tags:
         - silent
-    - word: m
-      position: 20
 - id: A_Shirokuma_Cafe_E04_01003
   deck_name: Shirokuma Cafe
   translation: Take that! And that!
   sound: A_Shirokuma_Cafe_04_0.03.57.000-0.04.00.250.mp3
   sentence: えい！　それ！(・∀・)
-  words:
-    - word: えい
-      position: 0
-    - word: それ
-      base: 其れ
-      position: 4
-    - word: (・∀・)
-      base: （・∀・）
-      dictionary: （・∀・）
-      position: 7
 - id: A_Shirokuma_Cafe_E04_01012
   deck_name: Shirokuma Cafe
   translation: Wow, that's amazing!  Such flexible technique!
   sound: A_Shirokuma_Cafe_04_0.04.25.310-0.04.29.740.mp3
   sentence: おぉ～　(ﾉﾟοﾟ)ﾉすごい！　なんて柔軟な発想！
   words:
-    - word: おぉ
-      base: おお
-      position: 0
-    - word: ～
-      position: 2
     - word: ﾉ
       base: の
       dictionary: ノ
@@ -1692,39 +683,12 @@
       position: 8
       tags:
         - silent
-    - word: ﾉ
-      base: の
-      dictionary: ノ
-      position: 10
-    - word: すごい
-      base: 凄い
-      position: 11
-    - word: なんて
-      position: 16
-    - word: 柔軟
-      position: 19
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 21
-    - word: 発想
-      position: 22
 - id: A_Shirokuma_Cafe_E04_01031
   deck_name: Shirokuma Cafe
   translation: without a cell phone.
   sound: A_Shirokuma_Cafe_04_0.05.29.790-0.05.31.930.mp3
   sentence: 駄目だよ　困るよ(/ω＼)
   words:
-    - word: 駄目
-      position: 0
-    - word: だ
-      position: 2
-    - word: よ
-      position: 3
-    - word: 困る
-      position: 5
-    - word: よ
-      position: 7
     - word: ω
       dictionary: Ω
       position: 10
@@ -1735,38 +699,12 @@
   translation: It is convenient!
   sound: A_Shirokuma_Cafe_04_0.05.59.090-0.06.01.030.mp3
   sentence: 便利じゃない！(＾ｖ＾)
-  words:
-    - word: 便利
-      position: 0
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 2
-    - word: ない
-      base: 無い
-      position: 4
-    - word: (＾ｖ＾)
-      base: （＾v＾）
-      dictionary: （＾v＾）
-      position: 7
 - id: A_Shirokuma_Cafe_E04_01043
   deck_name: Shirokuma Cafe
   translation: Hooray!
   sound: A_Shirokuma_Cafe_04_0.06.04.340-0.06.05.930.mp3
   sentence: やった～！Ｖ（=＾0＾=）ｖ
   words:
-    - word: やっ
-      base: 遣る
-      dictionary: やる
-      position: 0
-    - word: た
-      position: 2
-    - word: ～
-      position: 3
-    - word: Ｖ
-      base: V
-      dictionary: V
-      position: 5
     - word: '='
       base: ＝
       dictionary: ＝
@@ -1784,23 +722,12 @@
       position: 11
       tags:
         - silent
-    - word: ｖ
-      base: V
-      dictionary: V
-      position: 13
 - id: A_Shirokuma_Cafe_E04_01049
   deck_name: Shirokuma Cafe
   translation: You're more impressed with that?!
   sound: A_Shirokuma_Cafe_04_0.06.19.790-0.06.21.070.mp3
   sentence: そっちの感想！？　(;ﾟДﾟ)!
   words:
-    - word: そっち
-      base: 其方
-      position: 0
-    - word: の
-      position: 3
-    - word: 感想
-      position: 4
     - word: ﾟ
       base: ゚
       dictionary: ゚
@@ -1824,36 +751,12 @@
   translation: Hello!
   sound: A_Shirokuma_Cafe_04_0.08.51.850-0.08.54.090.mp3
   sentence: こんにちは～(=゜ω゜)ノ
-  words:
-    - word: こんにちは
-      base: 今日は
-      position: 0
-    - word: ～
-      position: 5
-    - word: (=゜ω゜)ノ
-      base: （＝゜ω゜）ノ
-      dictionary: （＝゜ω゜）ノ
-      position: 6
 - id: A_Shirokuma_Cafe_E04_01107
   deck_name: Shirokuma Cafe
   translation: Why all of a sudden?
   sound: A_Shirokuma_Cafe_04_0.10.31.870-0.10.33.550.mp3
   sentence: どうして急に？(・∀・(・∀・(・∀・*)
   words:
-    - word: どう
-      position: 0
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 2
-    - word: て
-      position: 3
-    - word: 急
-      position: 4
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 5
     - word: ∀
       position: 9
       tags:
@@ -1872,28 +775,6 @@
   sound: A_Shirokuma_Cafe_04_0.10.52.000-0.10.54.840.mp3
   sentence: 人の日記勝手に読まないでよ！(#`O′)
   words:
-    - word: 人
-      position: 0
-    - word: の
-      position: 1
-    - word: 日記
-      position: 2
-    - word: 勝手
-      position: 4
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 6
-    - word: 読ま
-      base: 読む
-      dictionary: 読む
-      position: 7
-    - word: ない
-      position: 9
-    - word: で
-      position: 11
-    - word: よ
-      position: 12
     - word: '`'
       base: ｀
       dictionary: ｀
@@ -1912,20 +793,6 @@
   sound: A_Shirokuma_Cafe_04_0.12.09.560-0.12.12.510.mp3
   sentence: ゴロゴロするのに忙しいよ(*￣∇￣)ノ
   words:
-    - word: ゴロゴロ
-      base: ごろごろ
-      position: 0
-    - word: する
-      base: 為る
-      position: 4
-    - word: の
-      position: 6
-    - word: に
-      position: 7
-    - word: 忙しい
-      position: 8
-    - word: よ
-      position: 11
     - word: ￣
       position: 14
       tags:
@@ -1938,44 +805,12 @@
       position: 16
       tags:
         - silent
-    - word: ノ
-      base: の
-      position: 18
 - id: A_Shirokuma_Cafe_E04_01162
   deck_name: Shirokuma Cafe
   translation: Amazing. You handled  starting the car like a pro.
   sound: A_Shirokuma_Cafe_04_0.13.32.310-0.13.37.410.mp3
   sentence: お～　さすが　発車からして上手だね和ヾ(≧O≦)〃
   words:
-    - word: お
-      base: 御
-      position: 0
-    - word: ～
-      base: から
-      position: 1
-    - word: さすが
-      base: 流石
-      position: 3
-    - word: 発車
-      position: 7
-    - word: から
-      position: 9
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 11
-    - word: て
-      position: 12
-    - word: 上手
-      position: 13
-    - word: だ
-      position: 15
-    - word: ね
-      position: 16
-    - word: 和
-      position: 17
-    - word: ヾ
-      position: 18
     - word: ≧
       position: 20
       tags:
@@ -1996,25 +831,6 @@
   sound: A_Shirokuma_Cafe_04_0.13.48.250-0.13.52.300.mp3
   sentence: 抽象的だな　よくわかんないよ(o´∀｀o)
   words:
-    - word: 抽象
-      position: 0
-    - word: 的
-      position: 2
-    - word: だ
-      position: 3
-    - word: な
-      position: 4
-    - word: よく
-      base: 良く
-      position: 6
-    - word: わかん
-      base: 分かる
-      dictionary: わかる
-      position: 8
-    - word: ない
-      position: 11
-    - word: よ
-      position: 13
     - word: o
       position: 15
       tags:
@@ -2041,14 +857,6 @@
   sound: A_Shirokuma_Cafe_04_0.14.56.770-0.14.58.550.mp3
   sentence: バイバ～イ！ヾ(￣▽￣)～
   words:
-    - word: バイバ
-      position: 0
-    - word: ～
-      position: 3
-    - word: イ
-      position: 4
-    - word: ヾ
-      position: 6
     - word: ￣
       base: ' '
       dictionary: ' '
@@ -2063,20 +871,12 @@
       position: 10
       tags:
         - silent
-    - word: ～
-      base: から
-      position: 12
 - id: A_Shirokuma_Cafe_E04_01193
   deck_name: Shirokuma Cafe
   translation: We'll come back.
   sound: A_Shirokuma_Cafe_04_0.15.29.910-0.15.32.630.mp3
   sentence: えぇ～　(　⊙o⊙　)　また来ます
   words:
-    - word: えぇ
-      base: ええ
-      position: 0
-    - word: ～
-      position: 2
     - word: ⊙
       position: 6
       tags:
@@ -2089,67 +889,17 @@
       position: 8
       tags:
         - silent
-    - word: また
-      base: 又
-      position: 12
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 14
-    - word: ます
-      position: 15
 - id: A_Shirokuma_Cafe_E04_01197
   deck_name: Shirokuma Cafe
   translation: We'll come back.
   sound: A_Shirokuma_Cafe_04_0.15.54.950-0.15.57.890.mp3
   sentence: えぇ～　(⊙﹏⊙)　また来ます
-  words:
-    - word: えぇ
-      base: ええ
-      position: 0
-    - word: ～
-      position: 2
-    - word: (⊙﹏⊙)
-      base: (⊙_⊙)
-      dictionary: (⊙_⊙)
-      position: 4
-    - word: また
-      base: 又
-      position: 10
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 12
-    - word: ます
-      position: 13
 - id: A_Shirokuma_Cafe_E04_01215
   deck_name: Shirokuma Cafe
   translation: Please don't play in the drive-thru!
   sound: A_Shirokuma_Cafe_04_0.16.55.990-0.16.58.880.mp3
   sentence: ドライブスルーで遊ばないでくださいw(ﾟДﾟ)w
   words:
-    - word: ドライブ
-      position: 0
-    - word: スルー
-      position: 4
-    - word: で
-      position: 7
-    - word: 遊ば
-      base: 遊ぶ
-      dictionary: 遊ぶ
-      position: 8
-    - word: ない
-      position: 10
-    - word: で
-      position: 12
-    - word: ください
-      base: 下さる
-      dictionary: くださる
-      position: 13
-    - word: w
-      base: W
-      dictionary: W
-      position: 17
     - word: ﾟ
       base: ゚
       dictionary: ゚
@@ -2168,30 +918,12 @@
       position: 21
       tags:
         - silent
-    - word: w
-      base: W
-      dictionary: W
-      position: 23
 - id: A_Shirokuma_Cafe_E04_01237
   deck_name: Shirokuma Cafe
   translation: I can't do that, though! Jeez.
   sound: A_Shirokuma_Cafe_04_0.17.57.690-0.17.59.510.mp3
   sentence: 真似できないから！　もう…╮(￣▽￣")╭
   words:
-    - word: 真似
-      position: 0
-    - word: でき
-      base: 出来る
-      dictionary: できる
-      position: 2
-    - word: ない
-      position: 4
-    - word: から
-      position: 6
-    - word: もう
-      position: 10
-    - word: ╮(
-      position: 13
     - word: ￣
       position: 15
       tags:
@@ -2204,26 +936,12 @@
       position: 17
       tags:
         - silent
-    - word: '")╭'
-      position: 18
 - id: A_Shirokuma_Cafe_E04_01250
   deck_name: Shirokuma Cafe
   translation: Thank you! I was just getting hungry.
   sound: A_Shirokuma_Cafe_04_0.18.37.130-0.18.42.500.mp3
   sentence: わぁ～　ありがとうO(∩_∩)O　ちょうど　お腹が減ってたんだ
   words:
-    - word: わぁ
-      base: わあ
-      position: 0
-    - word: ～
-      position: 2
-    - word: ありがとう
-      base: 有り難う
-      position: 4
-    - word: O
-      base: o
-      dictionary: o
-      position: 9
     - word: ∩
       position: 11
       tags:
@@ -2232,55 +950,12 @@
       position: 13
       tags:
         - silent
-    - word: O
-      base: o
-      dictionary: o
-      position: 15
-    - word: ちょうど
-      base: 丁度
-      position: 17
-    - word: お腹
-      base: 御腹
-      position: 22
-    - word: が
-      position: 24
-    - word: 減っ
-      base: 減る
-      dictionary: 減る
-      position: 25
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 27
-    - word: た
-      position: 28
-    - word: ん
-      base: の
-      position: 29
-    - word: だ
-      position: 30
 - id: A_Shirokuma_Cafe_E04_01256
   deck_name: Shirokuma Cafe
   translation: I-I'm not asleep!
   sound: A_Shirokuma_Cafe_04_0.19.14.600-0.19.17.420.mp3
   sentence: ねねね…　寝てないよ！(PД`q。)•。'゜
   words:
-    - word: ねね
-      position: 0
-    - word: ね
-      position: 2
-    - word: 寝
-      base: 寝る
-      dictionary: 寝る
-      position: 5
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 6
-    - word: ない
-      position: 7
-    - word: よ
-      position: 9
     - word: P
       base: p
       dictionary: p
@@ -2303,41 +978,17 @@
       position: 15
       tags:
         - silent
-    - word: ゜
-      position: 21
 - id: A_Shirokuma_Cafe_E04_01270
   deck_name: Shirokuma Cafe
   translation: What's that?
   sound: A_Shirokuma_Cafe_04_0.20.12.020-0.20.13.200.mp3
   sentence: あれは？(⊙_⊙)
-  words:
-    - word: あれ
-      base: 彼れ
-      position: 0
-    - word: は
-      position: 2
-    - word: ？(⊙_⊙)
-      base: '?(⊙_⊙)'
-      dictionary: '?(⊙_⊙)'
-      position: 3
 - id: A_Shirokuma_Cafe_E04_01273
   deck_name: Shirokuma Cafe
   translation: It's all you can eat.
   sound: A_Shirokuma_Cafe_04_0.20.22.860-0.20.25.340.mp3
   sentence: 食べ放題ですよ　o(*￣▽￣*)o
   words:
-    - word: 食べ
-      base: 食べる
-      dictionary: 食べる
-      position: 0
-    - word: 放題
-      position: 2
-    - word: です
-      position: 4
-    - word: よ
-      position: 6
-    - word: o
-      position: 8
     - word: ￣
       position: 11
       tags:
@@ -2350,57 +1001,17 @@
       position: 13
       tags:
         - silent
-    - word: o
-      position: 16
 - id: A_Shirokuma_Cafe_E04_01289
   deck_name: Shirokuma Cafe
   translation: That was great.
   sound: A_Shirokuma_Cafe_04_0.21.38.240-0.21.39.480.mp3
   sentence: いいねo(*^▽^*)o
-  words:
-    - word: いい
-      base: 良い
-      position: 0
-    - word: ね
-      position: 2
-    - word: o
-      position: 3
-    - word: (*^▽^*)
-      base: （＊＾▽＾＊）
-      dictionary: （＊＾▽＾＊）
-      position: 4
-    - word: o
-      position: 11
 - id: A_Shirokuma_Cafe_E04_01300
   deck_name: Shirokuma Cafe
   translation: Well, you know... This is amusing, so I'm going  to take a picture anyway.
   sound: A_Shirokuma_Cafe_04_0.22.09.920-0.22.14.250.mp3
   sentence: まぁ　でも　おもしろいから　写真撮っておこう(＾－＾)V
   words:
-    - word: まぁ
-      base: まあ
-      position: 0
-    - word: で
-      position: 3
-    - word: も
-      position: 4
-    - word: おもしろい
-      base: 面白い
-      position: 6
-    - word: から
-      position: 11
-    - word: 写真
-      position: 14
-    - word: 撮っ
-      base: 取る
-      dictionary: 撮る
-      position: 16
-    - word: て
-      position: 18
-    - word: おこう
-      base: おく
-      dictionary: おく
-      position: 19
     - word: ＾
       dictionary: ^
       position: 23
@@ -2411,21 +1022,12 @@
       position: 25
       tags:
         - silent
-    - word: V
-      position: 27
 - id: A_Shirokuma_Cafe_E05_01311
   deck_name: Shirokuma Cafe
   translation: Well, you see...
   sound: A_Shirokuma_Cafe_05_0.01.59.990-0.02.01.290.mp3
   sentence: それがね…(′；ω；｀)
   words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: が
-      position: 2
-    - word: ね
-      position: 3
     - word: ω
       dictionary: Ω
       position: 8
@@ -2440,88 +1042,27 @@
   translation: No.
   sound: A_Shirokuma_Cafe_05_0.02.48.280-0.02.49.320.mp3
   sentence: 違うよ(-_-;)
-  words:
-    - word: 違う
-      position: 0
-    - word: よ
-      position: 2
 - id: A_Shirokuma_Cafe_E05_01330
   deck_name: Shirokuma Cafe
   translation: That looks really fun.
   sound: A_Shirokuma_Cafe_05_0.03.09.380-0.03.11.530.mp3
   sentence: 楽しそうだね(#^.^#)
-  words:
-    - word: 楽し
-      base: 楽しい
-      dictionary: 楽しい
-      position: 0
-    - word: そう
-      position: 2
-    - word: だ
-      position: 4
-    - word: ね
-      position: 5
-    - word: (#^.^#)
-      base: （＃＾．＾＃）
-      dictionary: （＃＾．＾＃）
-      position: 6
 - id: A_Shirokuma_Cafe_E05_01438
   deck_name: Shirokuma Cafe
   translation: I failed the skills test again.
   sound: A_Shirokuma_Cafe_05_0.12.46.930-0.12.50.000.mp3
   sentence: また　実技　落とされちゃったよ…(ー_ー)!!
-  words:
-    - word: また
-      base: 又
-      position: 0
-    - word: 実技
-      position: 3
-    - word: 落とさ
-      base: 落とす
-      dictionary: 落とす
-      position: 6
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 9
-    - word: ちゃっ
-      base: ちゃう
-      dictionary: ちゃう
-      position: 10
-    - word: た
-      position: 13
-    - word: よ
-      position: 14
-    - word: (ー_ー)
-      base: （ー＿ー）
-      dictionary: （ー＿ー）
-      position: 16
 - id: A_Shirokuma_Cafe_E05_01512
   deck_name: Shirokuma Cafe
   translation: Please wait...
   sound: A_Shirokuma_Cafe_05_0.17.25.490-0.17.28.440.mp3
   sentence: 待って～！ヽ(*´∀｀)ノ
-  words:
-    - word: 待っ
-      base: 待つ
-      dictionary: 待つ
-      position: 0
-    - word: て
-      position: 2
-    - word: ～
-      position: 3
-    - word: ヽ(*´∀｀)ノ
-      base: ヽ（＊´∀｀）ノ
-      dictionary: ヽ（＊´∀｀）ノ
-      position: 5
 - id: A_Shirokuma_Cafe_E05_01534
   deck_name: Shirokuma Cafe
   translation: Going crazy?
   sound: A_Shirokuma_Cafe_05_0.18.58.110-0.18.59.460.mp3
   sentence: 暴走？(;ﾟДﾟ)!
   words:
-    - word: 暴走
-      position: 0
     - word: ﾟ
       base: ゚
       dictionary: ゚
@@ -2545,25 +1086,6 @@
   translation: That's a very green parfait.
   sound: A_Shirokuma_Cafe_05_0.19.29.090-0.19.31.690.mp3
   sentence: すごく緑色なパフェだね(-_-;)
-  words:
-    - word: すごく
-      base: 凄い
-      dictionary: すごい
-      position: 0
-    - word: 緑
-      position: 3
-    - word: 色
-      position: 4
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 5
-    - word: パフェ
-      position: 6
-    - word: だ
-      position: 9
-    - word: ね
-      position: 10
 - id: A_Shirokuma_Cafe_E05_01584
   deck_name: Shirokuma Cafe
   translation: >-
@@ -2573,77 +1095,6 @@
   sound: A_Shirokuma_Cafe_05_0.23.59.120-0.24.21.250.mp3
   sentence: ペンギンさん　ペンギンさん　どうしたの　パンダ君　何も言わないで　預金通帳もらえるかな　日本語で行こう　お楽しみにY(>_<、)Y
   words:
-    - word: ペンギン
-      position: 0
-    - word: さん
-      position: 4
-    - word: ペンギン
-      position: 7
-    - word: さん
-      position: 11
-    - word: どう
-      position: 14
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 16
-    - word: た
-      position: 17
-    - word: の
-      position: 18
-    - word: パンダ
-      position: 20
-    - word: 君
-      position: 23
-    - word: 何
-      position: 25
-    - word: も
-      position: 26
-    - word: 言わ
-      base: 言う
-      dictionary: 言う
-      position: 27
-    - word: ない
-      position: 29
-    - word: で
-      position: 31
-    - word: 預金
-      position: 33
-    - word: 通帳
-      position: 35
-    - word: もらえる
-      base: 貰う
-      position: 37
-    - word: か
-      position: 41
-    - word: な
-      position: 42
-    - word: 日本
-      position: 44
-    - word: 語
-      position: 46
-    - word: で
-      position: 47
-    - word: 行こう
-      base: 行く
-      dictionary: 行く
-      position: 48
-    - word: お
-      base: 御
-      position: 52
-    - word: 楽し
-      base: 楽しい
-      dictionary: 楽しい
-      position: 53
-    - word: み
-      base: 味
-      position: 55
-    - word: に
-      position: 56
-    - word: 'Y'
-      base: 'y'
-      dictionary: 'y'
-      position: 57
     - word: '>'
       base: ＞
       position: 59
@@ -2654,52 +1105,17 @@
       position: 61
       tags:
         - silent
-    - word: 'Y'
-      base: 'y'
-      dictionary: 'y'
-      position: 64
 - id: A_Shirokuma_Cafe_E06_01699
   deck_name: Shirokuma Cafe
   translation: Um, well... Looks like my tummy got stuck.
   sound: A_Shirokuma_Cafe_06_0.11.13.450-0.11.18.600.mp3
   sentence: あ　いや…　お腹がつっかえて…(´･ω･)
-  words:
-    - word: あ
-      base: あー
-      position: 0
-    - word: いや
-      base: 否
-      position: 2
-    - word: お腹
-      base: 御腹
-      position: 6
-    - word: が
-      position: 8
-    - word: つっかえ
-      base: 支える
-      dictionary: つっかえる
-      position: 9
-    - word: て
-      position: 13
-    - word: (´･ω･)
-      base: （´・ω・）
-      dictionary: （´・ω・）
-      position: 15
 - id: A_Shirokuma_Cafe_E14_04205
   deck_name: Shirokuma Cafe
   translation: P-P-Polar Bear!
   sound: A_Shirokuma_Cafe_14_0.09.22.640-0.09.28.880.mp3
   sentence: ちょっちょっちょっ　白熊君　（パンダ　白熊　パンダ　白熊……）
   words:
-    - word: ちょっ
-      base: 一寸
-      position: 0
-    - word: ちょっちょっ
-      position: 3
-    - word: 白熊
-      position: 10
-    - word: 君
-      position: 12
     - word: パンダ
       position: 15
       tags:
@@ -2721,72 +1137,17 @@
   translation: Um... is there any way to weed that doesn't involve eating?
   sound: A_Shirokuma_Cafe_15_0.03.15.920-0.03.19.430.mp3
   sentence: (´･ω･)y--oO○　ｴｰﾄ･･･　食べる以外の方法で雑草を取れないのかな
-  words:
-    - word: (´･ω･)
-      base: （´・ω・）
-      dictionary: （´・ω・）
-      position: 0
-    - word: 'y'
-      position: 6
-    - word: oO
-      base: oo
-      dictionary: oo
-      position: 9
-    - word: ○
-      position: 11
-    - word: ｴｰﾄ
-      base: エート
-      dictionary: エート
-      position: 13
-    - word: 食べる
-      position: 20
-    - word: 以外
-      position: 23
-    - word: の
-      position: 25
-    - word: 方法
-      position: 26
-    - word: で
-      position: 28
-    - word: 雑草
-      position: 29
-    - word: を
-      position: 31
-    - word: 取れ
-      base: 取る
-      dictionary: 取れる
-      position: 32
-    - word: ない
-      position: 34
-    - word: の
-      position: 36
-    - word: か
-      position: 37
-    - word: な
-      position: 38
 - id: A_Shirokuma_Cafe_E15_04504
   deck_name: Shirokuma Cafe
   translation: Sorry about that.
   sound: A_Shirokuma_Cafe_15_0.07.36.150-0.07.37.200.mp3
   sentence: ごめんねm(　__　__　)m
-  words:
-    - word: ごめん
-      base: 御免
-      position: 0
-    - word: ね
-      position: 3
-    - word: m
-      position: 4
-    - word: m
-      position: 14
 - id: A_Shirokuma_Cafe_E15_04541
   deck_name: Shirokuma Cafe
   translation: Okay!
   sound: A_Shirokuma_Cafe_15_0.10.13.390-0.10.14.330.mp3
   sentence: うん(/ω＼)
   words:
-    - word: うん
-      position: 0
     - word: ω
       dictionary: Ω
       position: 4
@@ -2797,45 +1158,12 @@
   translation: What?!
   sound: A_Shirokuma_Cafe_15_0.10.58.410-0.10.59.600.mp3
   sentence: え工ｴｴｪｪ(´д｀)ｪｪｴｴ工
-  words:
-    - word: え
-      base: えー
-      position: 0
-    - word: 工
-      position: 1
-    - word: ｴｴｪｪ
-      base: エエェェ
-      dictionary: エエェェ
-      position: 2
-    - word: (´д｀)
-      base: （´Д｀）
-      dictionary: （´Д｀）
-      position: 6
-    - word: ｪ
-      base: ぇ
-      dictionary: ェ
-      position: 11
-    - word: ｪ
-      base: ぇ
-      dictionary: ェ
-      position: 12
-    - word: ｴｴ
-      base: 良い
-      dictionary: エエ
-      position: 13
-    - word: 工
-      position: 15
 - id: A_Shirokuma_Cafe_E17_05194
   deck_name: Shirokuma Cafe
   translation: the two of you!
   sound: A_Shirokuma_Cafe_17_0.12.31.980-0.12.34.550.mp3
   sentence: そっちだ！　（そっちだよ！）
   words:
-    - word: そっち
-      base: 其方
-      position: 0
-    - word: だ
-      position: 3
     - word: そっち
       base: 其方
       position: 7
@@ -2857,49 +1185,6 @@
   sound: A_Shirokuma_Cafe_36_0.09.28.530-0.09.41.230.mp3
   sentence: それかグリズリーくんが　冬眠してる間に　ネズミに耳を　かじられて…。　((あ～っ!!))　体の色が変わっちゃうかもしれないよ。
   words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: か
-      position: 2
-    - word: グリズリー
-      position: 3
-    - word: くん
-      base: 君
-      position: 8
-    - word: が
-      position: 10
-    - word: 冬眠
-      position: 12
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 14
-    - word: てる
-      position: 15
-    - word: 間
-      position: 17
-    - word: に
-      position: 18
-    - word: ネズミ
-      base: 鼠
-      position: 20
-    - word: に
-      position: 23
-    - word: 耳
-      position: 24
-    - word: を
-      position: 25
-    - word: かじら
-      base: 齧る
-      dictionary: かじる
-      position: 27
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 30
-    - word: て
-      position: 31
     - word: あ
       base: あっ
       position: 37
@@ -2913,29 +1198,3 @@
       position: 39
       tags:
         - silent
-    - word: 体
-      position: 45
-    - word: の
-      position: 46
-    - word: 色
-      position: 47
-    - word: が
-      position: 48
-    - word: 変わっ
-      base: 変わる
-      dictionary: 変わる
-      position: 49
-    - word: ちゃう
-      position: 52
-    - word: か
-      position: 55
-    - word: も
-      position: 56
-    - word: しれ
-      base: 知る
-      dictionary: しれる
-      position: 57
-    - word: ない
-      position: 59
-    - word: よ
-      position: 61

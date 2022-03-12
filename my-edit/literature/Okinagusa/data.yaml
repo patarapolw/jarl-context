@@ -6,10 +6,6 @@
   sound_begin: 5360
   sound_end: 6760
   sentence: おきなぐさ
-  words:
-    - word: おきなぐさ
-      base: 翁草
-      position: 0
 - id: Okinagusa-f000003
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -18,31 +14,6 @@
   sound_begin: 9560
   sound_end: 12680
   sentence: うずのしゅげを知っていますか。
-  words:
-    - word: うず
-      base: 渦
-      position: 0
-    - word: の
-      position: 2
-    - word: しゅ
-      base: シュ
-      position: 3
-    - word: げ
-      position: 5
-    - word: を
-      position: 6
-    - word: 知っ
-      base: 知る
-      position: 7
-    - word: て
-      position: 9
-    - word: い
-      base: 居る
-      position: 10
-    - word: ます
-      position: 11
-    - word: か
-      position: 13
 - id: Okinagusa-f000004
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -51,19 +22,6 @@
   sound_begin: 12680
   sound_end: 14000
   sentence: うずのしゅげは、
-  words:
-    - word: うず
-      base: 渦
-      position: 0
-    - word: の
-      position: 2
-    - word: しゅ
-      base: シュ
-      position: 3
-    - word: げ
-      position: 5
-    - word: は
-      position: 6
 - id: Okinagusa-f000005
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -72,30 +30,6 @@
   sound_begin: 14000
   sound_end: 17240
   sentence: 植物学ではおきなぐさと呼ばれますが、
-  words:
-    - word: 植物
-      position: 0
-    - word: 学
-      position: 2
-    - word: で
-      position: 3
-    - word: は
-      position: 4
-    - word: おきなぐさ
-      base: 翁草
-      position: 5
-    - word: と
-      position: 10
-    - word: 呼ば
-      base: 呼ぶ
-      position: 11
-    - word: れ
-      base: れる
-      position: 13
-    - word: ます
-      position: 14
-    - word: が
-      position: 16
 - id: Okinagusa-f000006
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -104,53 +38,6 @@
   sound_begin: 17240
   sound_end: 23760
   sentence: おきなぐさという名はなんだかあのやさしい若い花をあらわさないようにおもいます。
-  words:
-    - word: おきなぐさ
-      base: 翁草
-      position: 0
-    - word: と
-      position: 5
-    - word: いう
-      base: 言う
-      position: 6
-    - word: 名
-      position: 8
-    - word: は
-      position: 9
-    - word: なん
-      base: 何
-      position: 10
-    - word: だ
-      position: 12
-    - word: か
-      position: 13
-    - word: あの
-      position: 14
-    - word: やさしい
-      base: 優しい
-      position: 16
-    - word: 若い
-      position: 20
-    - word: 花
-      position: 22
-    - word: を
-      position: 23
-    - word: あらわさ
-      base: あらわす
-      position: 24
-    - word: ない
-      position: 28
-    - word: よう
-      base: 様
-      position: 30
-    - word: に
-      base: だ
-      position: 32
-    - word: おもい
-      base: 思う
-      position: 33
-    - word: ます
-      position: 36
 - id: Okinagusa-f000007
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -159,88 +46,6 @@
   sound_begin: 23760
   sound_end: 33720
   sentence: そんならうずのしゅげとはなんのことかと言われても私にはわかったようなまたわからないような気がします。
-  words:
-    - word: そん
-      base: 其れ
-      position: 0
-    - word: なら
-      base: だ
-      position: 2
-    - word: うず
-      base: 渦
-      position: 4
-    - word: の
-      position: 6
-    - word: しゅ
-      base: シュ
-      position: 7
-    - word: げ
-      position: 9
-    - word: と
-      position: 10
-    - word: は
-      position: 11
-    - word: なん
-      base: 何
-      position: 12
-    - word: の
-      position: 14
-    - word: こと
-      position: 15
-    - word: か
-      position: 17
-    - word: と
-      position: 18
-    - word: 言わ
-      base: 言う
-      position: 19
-    - word: れ
-      base: れる
-      position: 21
-    - word: て
-      position: 22
-    - word: も
-      position: 23
-    - word: 私
-      position: 24
-    - word: に
-      position: 25
-    - word: は
-      position: 26
-    - word: わかっ
-      base: 分かる
-      position: 27
-    - word: た
-      position: 30
-    - word: よう
-      base: 様
-      position: 31
-    - word: な
-      base: だ
-      position: 33
-    - word: また
-      base: 又
-      position: 34
-    - word: わから
-      base: 分かる
-      position: 36
-    - word: ない
-      position: 39
-    - word: よう
-      base: 様
-      position: 41
-    - word: な
-      base: だ
-      position: 43
-    - word: 気
-      position: 44
-    - word: が
-      position: 45
-    - word: し
-      base: 為る
-      position: 46
-    - word: ます
-      position: 47
 - id: Okinagusa-f000008
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -249,26 +54,6 @@
   sound_begin: 33720
   sound_end: 36560
   sentence: それはたとえば私どもの方で、
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: は
-      position: 2
-    - word: たとえば
-      base: 例えば
-      position: 3
-    - word: 私
-      position: 7
-    - word: ども
-      base: 共
-      position: 8
-    - word: の
-      position: 10
-    - word: 方
-      position: 11
-    - word: で
-      position: 12
 - id: Okinagusa-f000009
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -277,30 +62,6 @@
   sound_begin: 36560
   sound_end: 40240
   sentence: ねこやなぎの花芽をべんべろと言いますが、
-  words:
-    - word: ねこやなぎ
-      base: 猫柳
-      position: 0
-    - word: の
-      position: 5
-    - word: 花芽
-      position: 6
-    - word: を
-      position: 8
-    - word: べん
-      base: 偏
-      position: 9
-    - word: べろ
-      position: 11
-    - word: と
-      position: 13
-    - word: 言い
-      base: 言う
-      position: 14
-    - word: ます
-      position: 16
-    - word: が
-      position: 18
 - id: Okinagusa-f000010
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -309,66 +70,6 @@
   sound_begin: 40240
   sound_end: 47360
   sentence: そのべんべろがなんのことかわかったようなわからないような気がするのと全くおなじです。
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: べん
-      base: 偏
-      position: 2
-    - word: べろ
-      position: 4
-    - word: が
-      position: 6
-    - word: なん
-      base: 何
-      position: 7
-    - word: の
-      position: 9
-    - word: こと
-      position: 10
-    - word: か
-      position: 12
-    - word: わかっ
-      base: 分かる
-      position: 13
-    - word: た
-      position: 16
-    - word: よう
-      base: 様
-      position: 17
-    - word: な
-      base: だ
-      position: 19
-    - word: わから
-      base: 分かる
-      position: 20
-    - word: ない
-      position: 23
-    - word: よう
-      base: 様
-      position: 25
-    - word: な
-      base: だ
-      position: 27
-    - word: 気
-      position: 28
-    - word: が
-      position: 29
-    - word: する
-      base: 為る
-      position: 30
-    - word: の
-      position: 32
-    - word: と
-      position: 33
-    - word: 全く
-      position: 34
-    - word: おなじ
-      base: 同じ
-      position: 36
-    - word: です
-      position: 39
 - id: Okinagusa-f000011
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -377,30 +78,6 @@
   sound_begin: 49060
   sound_end: 53760
   sentence: とにかくべんべろという語のひびきの中に、
-  words:
-    - word: とにかく
-      base: 兎に角
-      position: 0
-    - word: べん
-      base: 遍
-      position: 4
-    - word: べろ
-      position: 6
-    - word: と
-      position: 8
-    - word: いう
-      base: 言う
-      position: 9
-    - word: 語
-      position: 11
-    - word: の
-      position: 12
-    - word: ひびきの
-      position: 13
-    - word: 中
-      position: 17
-    - word: に
-      position: 18
 - id: Okinagusa-f000012
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -409,28 +86,6 @@
   sound_begin: 53760
   sound_end: 58240
   sentence: あの柳の花芽の銀びろうどのこころもち、
-  words:
-    - word: あの
-      base: 彼の
-      position: 0
-    - word: 柳
-      position: 2
-    - word: の
-      position: 3
-    - word: 花芽
-      position: 4
-    - word: の
-      position: 6
-    - word: 銀
-      position: 7
-    - word: びろうど
-      base: ビロード
-      position: 8
-    - word: の
-      position: 12
-    - word: こころもち
-      base: 心持ち
-      position: 13
 - id: Okinagusa-f000013
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -439,50 +94,6 @@
   sound_begin: 58240
   sound_end: 64599
   sentence: なめらかな春のはじめの光のぐあいが実にはっきり出ているように、
-  words:
-    - word: なめらか
-      base: 滑らか
-      position: 0
-    - word: な
-      base: だ
-      position: 4
-    - word: 春
-      position: 5
-    - word: の
-      position: 6
-    - word: はじめ
-      position: 7
-    - word: の
-      position: 10
-    - word: 光
-      position: 11
-    - word: の
-      position: 12
-    - word: ぐあい
-      base: 具合
-      position: 13
-    - word: が
-      position: 16
-    - word: 実
-      position: 17
-    - word: に
-      position: 18
-    - word: はっきり
-      position: 19
-    - word: 出
-      base: 出る
-      position: 23
-    - word: て
-      position: 24
-    - word: いる
-      base: 居る
-      position: 25
-    - word: よう
-      base: 様
-      position: 27
-    - word: に
-      base: だ
-      position: 29
 - id: Okinagusa-f000014
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -491,27 +102,6 @@
   sound_begin: 64599
   sound_end: 67520
   sentence: うずのしゅげというときは、
-  words:
-    - word: うず
-      base: 渦
-      position: 0
-    - word: の
-      position: 2
-    - word: しゅ
-      base: シュ
-      position: 3
-    - word: げ
-      position: 5
-    - word: と
-      position: 6
-    - word: いう
-      base: 言う
-      position: 7
-    - word: とき
-      base: 時
-      position: 9
-    - word: は
-      position: 11
 - id: Okinagusa-f000015
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -520,30 +110,6 @@
   sound_begin: 67520
   sound_end: 71800
   sentence: あの毛茛科のおきなぐさの黒朱子の花びら、
-  words:
-    - word: あの
-      base: 彼の
-      position: 0
-    - word: 毛
-      position: 2
-    - word: 茛科
-      position: 3
-    - word: の
-      position: 5
-    - word: おきなぐさ
-      base: 翁草
-      position: 6
-    - word: の
-      position: 11
-    - word: 黒
-      position: 12
-    - word: 朱子
-      position: 13
-    - word: の
-      position: 15
-    - word: 花びら
-      base: 花弁
-      position: 16
 - id: Okinagusa-f000016
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -552,29 +118,6 @@
   sound_begin: 71800
   sound_end: 75876
   sentence: 青じろいやはり銀びろうどの刻みのある葉、
-  words:
-    - word: 青じろい
-      base: 青白い
-      position: 0
-    - word: やはり
-      base: 矢張り
-      position: 4
-    - word: 銀
-      position: 7
-    - word: びろうど
-      base: ビロード
-      position: 8
-    - word: の
-      position: 12
-    - word: 刻み
-      position: 13
-    - word: の
-      position: 15
-    - word: ある
-      base: 有る
-      position: 16
-    - word: 葉
-      position: 18
 - id: Okinagusa-f000017
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -583,44 +126,6 @@
   sound_begin: 75876
   sound_end: 84278
   sentence: それから六月のつやつや光る冠毛がみなはっきりと眼にうかびます。
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: から
-      position: 2
-    - word: 六
-      base: '6'
-      position: 4
-    - word: 月
-      position: 5
-    - word: の
-      position: 6
-    - word: つやつや
-      position: 7
-    - word: 光る
-      position: 11
-    - word: 冠毛
-      position: 13
-    - word: が
-      position: 15
-    - word: みな
-      base: 皆
-      position: 16
-    - word: はっきり
-      position: 18
-    - word: と
-      position: 22
-    - word: 眼
-      base: 目
-      position: 23
-    - word: に
-      position: 24
-    - word: うかび
-      base: 浮かぶ
-      position: 25
-    - word: ます
-      position: 28
 - id: Okinagusa-f000018
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -629,24 +134,6 @@
   sound_begin: 84278
   sound_end: 87372
   sentence: まっ赤なアネモネの花の従兄、
-  words:
-    - word: まっ赤
-      base: 真っ赤
-      position: 0
-    - word: な
-      base: だ
-      position: 3
-    - word: アネモネ
-      position: 4
-    - word: の
-      position: 8
-    - word: 花
-      position: 9
-    - word: の
-      position: 10
-    - word: 従兄
-      base: 従兄弟
-      position: 11
 - id: Okinagusa-f000019
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -655,29 +142,6 @@
   sound_begin: 87372
   sound_end: 91247
   sentence: きみかげそうやかたくりの花のともだち、
-  words:
-    - word: きみ
-      position: 0
-    - word: か
-      position: 2
-    - word: げ
-      position: 3
-    - word: そう
-      position: 4
-    - word: や
-      position: 6
-    - word: かたくり
-      base: 片栗
-      position: 7
-    - word: の
-      position: 11
-    - word: 花
-      position: 12
-    - word: の
-      position: 13
-    - word: ともだち
-      base: 友達
-      position: 14
 - id: Okinagusa-f000020
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -686,46 +150,6 @@
   sound_begin: 91247
   sound_end: 95140
   sentence: このうずのしゅげの花をきらいなものはありません。
-  words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: うず
-      base: 渦
-      position: 2
-    - word: の
-      position: 4
-    - word: しゅ
-      base: シュ
-      position: 5
-    - word: げ
-      position: 7
-    - word: の
-      position: 8
-    - word: 花
-      position: 9
-    - word: を
-      position: 10
-    - word: きらい
-      base: 嫌い
-      position: 11
-    - word: な
-      base: だ
-      position: 14
-    - word: もの
-      base: 物
-      position: 15
-    - word: は
-      position: 17
-    - word: あり
-      base: 有る
-      position: 18
-    - word: ませ
-      base: ます
-      position: 20
-    - word: ん
-      base: ず
-      position: 22
 - id: Okinagusa-f000021
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -734,13 +158,6 @@
   sound_begin: 97240
   sound_end: 99356
   sentence: ごらんなさい。
-  words:
-    - word: ごらん
-      base: 御覧
-      position: 0
-    - word: なさい
-      base: 為す
-      position: 3
 - id: Okinagusa-f000022
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -749,54 +166,6 @@
   sound_begin: 99356
   sound_end: 105360
   sentence: この花は黒朱子ででもこしらえた変わり型のコップのように見えますが、
-  words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: 花
-      position: 2
-    - word: は
-      position: 3
-    - word: 黒
-      position: 4
-    - word: 朱子
-      position: 5
-    - word: で
-      base: だ
-      position: 7
-    - word: で
-      base: だ
-      position: 8
-    - word: も
-      position: 9
-    - word: こしらえ
-      base: 拵える
-      position: 10
-    - word: た
-      position: 14
-    - word: 変わり
-      position: 15
-    - word: 型
-      position: 18
-    - word: の
-      position: 19
-    - word: コップ
-      position: 20
-    - word: の
-      position: 23
-    - word: よう
-      base: 様
-      position: 24
-    - word: に
-      base: だ
-      position: 26
-    - word: 見え
-      base: 見える
-      position: 27
-    - word: ます
-      position: 29
-    - word: が
-      position: 31
 - id: Okinagusa-f000023
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -805,16 +174,6 @@
   sound_begin: 105360
   sound_end: 107074
   sentence: その黒いのは、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 黒い
-      position: 2
-    - word: の
-      position: 4
-    - word: は
-      position: 5
 - id: Okinagusa-f000024
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -823,27 +182,6 @@
   sound_begin: 107074
   sound_end: 111551
   sentence: たとえば葡萄酒が黒く見えると同じです。
-  words:
-    - word: たとえば
-      base: 例えば
-      position: 0
-    - word: 葡萄
-      position: 4
-    - word: 酒
-      position: 6
-    - word: が
-      position: 7
-    - word: 黒く
-      base: 黒い
-      position: 8
-    - word: 見える
-      position: 10
-    - word: と
-      position: 13
-    - word: 同じ
-      position: 14
-    - word: です
-      position: 16
 - id: Okinagusa-f000025
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -852,46 +190,6 @@
   sound_begin: 111551
   sound_end: 117885
   sentence: この花の下を始終往ったり来たりする蟻に私はたずねます。
-  words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: 花
-      position: 2
-    - word: の
-      position: 3
-    - word: 下
-      position: 4
-    - word: を
-      position: 5
-    - word: 始終
-      position: 6
-    - word: 往っ
-      base: 去る
-      position: 8
-    - word: たり
-      position: 10
-    - word: 来
-      base: 来る
-      position: 12
-    - word: たり
-      position: 13
-    - word: する
-      base: 為る
-      position: 15
-    - word: 蟻
-      position: 17
-    - word: に
-      position: 18
-    - word: 私
-      position: 19
-    - word: は
-      position: 20
-    - word: たずね
-      base: たずねる
-      position: 21
-    - word: ます
-      position: 24
 - id: Okinagusa-f000026
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -900,30 +198,6 @@
   sound_begin: 117885
   sound_end: 120588
   sentence: 「おまえはうずのしゅげはすきかい、
-  words:
-    - word: おまえ
-      base: 御前
-      position: 1
-    - word: は
-      position: 4
-    - word: うず
-      base: 渦
-      position: 5
-    - word: の
-      position: 7
-    - word: しゅ
-      base: シュ
-      position: 8
-    - word: げ
-      position: 10
-    - word: は
-      position: 11
-    - word: すき
-      position: 12
-    - word: か
-      position: 14
-    - word: い
-      position: 15
 - id: Okinagusa-f000027
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -932,14 +206,6 @@
   sound_begin: 120588
   sound_end: 122880
   sentence: きらいかい」
-  words:
-    - word: きらい
-      base: 嫌い
-      position: 0
-    - word: か
-      position: 3
-    - word: い
-      position: 4
 - id: Okinagusa-f000028
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -948,21 +214,6 @@
   sound_begin: 122880
   sound_end: 126400
   sentence: 蟻は活発に答えます。
-  words:
-    - word: 蟻
-      position: 0
-    - word: は
-      position: 1
-    - word: 活発
-      position: 2
-    - word: に
-      base: だ
-      position: 4
-    - word: 答え
-      base: 答える
-      position: 5
-    - word: ます
-      position: 7
 - id: Okinagusa-f000029
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -971,12 +222,6 @@
   sound_begin: 126400
   sound_end: 127960
   sentence: 「大すきです。
-  words:
-    - word: 大すき
-      base: 大好き
-      position: 1
-    - word: です
-      position: 4
 - id: Okinagusa-f000030
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -985,39 +230,6 @@
   sound_begin: 127960
   sound_end: 130240
   sentence: 誰だってあの人をきらいなものはありません」
-  words:
-    - word: 誰
-      position: 0
-    - word: だ
-      position: 1
-    - word: って
-      position: 2
-    - word: あの
-      position: 4
-    - word: 人
-      position: 6
-    - word: を
-      position: 7
-    - word: きらい
-      base: 嫌い
-      position: 8
-    - word: な
-      base: だ
-      position: 11
-    - word: もの
-      base: 物
-      position: 12
-    - word: は
-      position: 14
-    - word: あり
-      base: 有る
-      position: 15
-    - word: ませ
-      base: ます
-      position: 17
-    - word: ん
-      base: ず
-      position: 19
 - id: Okinagusa-f000031
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -1026,25 +238,6 @@
   sound_begin: 133140
   sound_end: 136626
   sentence: 「けれどもあの花はまっ黒だよ」
-  words:
-    - word: けれど
-      position: 1
-    - word: も
-      position: 4
-    - word: あの
-      base: 彼の
-      position: 5
-    - word: 花
-      position: 7
-    - word: は
-      position: 8
-    - word: まっ黒
-      base: 真っ黒
-      position: 9
-    - word: だ
-      position: 12
-    - word: よ
-      position: 13
 - id: Okinagusa-f000032
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -1053,9 +246,6 @@
   sound_begin: 136626
   sound_end: 137811
   sentence: 「いいえ、
-  words:
-    - word: いいえ
-      position: 1
 - id: Okinagusa-f000033
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -1064,27 +254,6 @@
   sound_begin: 137811
   sound_end: 140518
   sentence: 黒く見えるときもそれはあります。
-  words:
-    - word: 黒く
-      base: 黒い
-      position: 0
-    - word: 見える
-      position: 2
-    - word: とき
-      base: 時
-      position: 5
-    - word: も
-      position: 7
-    - word: それ
-      base: 其れ
-      position: 8
-    - word: は
-      position: 10
-    - word: あり
-      base: 有る
-      position: 11
-    - word: ます
-      position: 13
 - id: Okinagusa-f000034
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -1093,37 +262,6 @@
   sound_begin: 140518
   sound_end: 145956
   sentence: けれどもまるで燃えあがってまっ赤な時もあります」
-  words:
-    - word: けれど
-      position: 0
-    - word: も
-      position: 3
-    - word: まるで
-      base: 丸で
-      position: 4
-    - word: 燃え
-      base: 燃える
-      position: 7
-    - word: あがっ
-      base: 上がる
-      position: 9
-    - word: て
-      position: 12
-    - word: まっ赤
-      base: 真っ赤
-      position: 13
-    - word: な
-      base: だ
-      position: 16
-    - word: 時
-      position: 17
-    - word: も
-      position: 18
-    - word: あり
-      base: 有る
-      position: 19
-    - word: ます
-      position: 21
 - id: Okinagusa-f000035
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -1132,9 +270,6 @@
   sound_begin: 145956
   sound_end: 147600
   sentence: 「はてな、
-  words:
-    - word: はてな
-      position: 1
 - id: Okinagusa-f000036
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -1143,37 +278,6 @@
   sound_begin: 147600
   sound_end: 151960
   sentence: お前たちの眼にはそんなぐあいに見えるのかい」
-  words:
-    - word: お前
-      base: 御前
-      position: 0
-    - word: たち
-      base: 達
-      position: 2
-    - word: の
-      position: 4
-    - word: 眼
-      base: 目
-      position: 5
-    - word: に
-      position: 6
-    - word: は
-      position: 7
-    - word: そんな
-      position: 8
-    - word: ぐあい
-      base: 具合
-      position: 11
-    - word: に
-      position: 14
-    - word: 見える
-      position: 15
-    - word: の
-      position: 18
-    - word: か
-      position: 19
-    - word: い
-      position: 20
 - id: Okinagusa-f000037
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -1182,9 +286,6 @@
   sound_begin: 151960
   sound_end: 152960
   sentence: 「いいえ、
-  words:
-    - word: いいえ
-      position: 1
 - id: Okinagusa-f000038
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -1193,54 +294,6 @@
   sound_begin: 152960
   sound_end: 157980
   sentence: お日さまの光の降る時なら誰にだってまっ赤に見えるだろうと思います」
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 日
-      position: 1
-    - word: さま
-      base: 様
-      position: 2
-    - word: の
-      position: 4
-    - word: 光
-      position: 5
-    - word: の
-      position: 6
-    - word: 降る
-      position: 7
-    - word: 時
-      position: 9
-    - word: なら
-      base: だ
-      position: 10
-    - word: 誰
-      position: 12
-    - word: に
-      position: 13
-    - word: だ
-      position: 14
-    - word: って
-      position: 15
-    - word: まっ赤
-      base: 真っ赤
-      position: 17
-    - word: に
-      base: だ
-      position: 20
-    - word: 見える
-      position: 21
-    - word: だろう
-      base: だ
-      position: 24
-    - word: と
-      position: 27
-    - word: 思い
-      base: 思う
-      position: 28
-    - word: ます
-      position: 30
 - id: Okinagusa-f000039
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -1249,10 +302,6 @@
   sound_begin: 160080
   sound_end: 161538
   sentence: 「そうそう。
-  words:
-    - word: そうそう
-      base: 然う然う
-      position: 1
 - id: Okinagusa-f000040
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -1261,16 +310,6 @@
   sound_begin: 161538
   sound_end: 163400
   sentence: もうわかったよ。
-  words:
-    - word: もう
-      position: 0
-    - word: わかっ
-      base: 分かる
-      position: 2
-    - word: た
-      position: 5
-    - word: よ
-      position: 6
 - id: Okinagusa-f000041
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -1279,38 +318,6 @@
   sound_begin: 163400
   sound_end: 166420
   sentence: お前たちはいつでも花をすかして見るのだから」
-  words:
-    - word: お前
-      base: 御前
-      position: 0
-    - word: たち
-      base: 達
-      position: 2
-    - word: は
-      position: 4
-    - word: いつ
-      position: 5
-    - word: で
-      position: 7
-    - word: も
-      position: 8
-    - word: 花
-      position: 9
-    - word: を
-      position: 10
-    - word: すかし
-      base: すかす
-      position: 11
-    - word: て
-      position: 14
-    - word: 見る
-      position: 15
-    - word: の
-      position: 17
-    - word: だ
-      position: 18
-    - word: から
-      position: 19
 - id: Okinagusa-f000042
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -1319,27 +326,6 @@
   sound_begin: 168520
   sound_end: 173767
   sentence: 「そしてあの葉や茎だって立派でしょう。
-  words:
-    - word: そして
-      position: 1
-    - word: あの
-      base: 彼の
-      position: 4
-    - word: 葉
-      position: 6
-    - word: や
-      position: 7
-    - word: 茎
-      position: 8
-    - word: だ
-      position: 9
-    - word: って
-      position: 10
-    - word: 立派
-      position: 12
-    - word: でしょう
-      base: です
-      position: 14
 - id: Okinagusa-f000043
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -1348,35 +334,6 @@
   sound_begin: 173767
   sound_end: 177760
   sentence: やわらかな銀の糸が植えてあるようでしょう。
-  words:
-    - word: やわらか
-      base: 柔らか
-      position: 0
-    - word: な
-      base: だ
-      position: 4
-    - word: 銀
-      position: 5
-    - word: の
-      position: 6
-    - word: 糸
-      position: 7
-    - word: が
-      position: 8
-    - word: 植え
-      base: 植える
-      position: 9
-    - word: て
-      position: 11
-    - word: ある
-      base: 有る
-      position: 12
-    - word: よう
-      base: 様
-      position: 14
-    - word: でしょう
-      base: です
-      position: 16
 - id: Okinagusa-f000044
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -1385,88 +342,6 @@
   sound_begin: 177760
   sound_end: 186800
   sentence: 私たちの仲間では誰かが病気にかかったときはあの糸をほんのすこうしもらって来てしずかにからだをさすってやります」
-  words:
-    - word: 私
-      position: 0
-    - word: たち
-      base: 達
-      position: 1
-    - word: の
-      position: 3
-    - word: 仲間
-      position: 4
-    - word: で
-      position: 6
-    - word: は
-      position: 7
-    - word: 誰
-      position: 8
-    - word: か
-      position: 9
-    - word: が
-      position: 10
-    - word: 病気
-      position: 11
-    - word: に
-      position: 13
-    - word: かかっ
-      base: 掛かる
-      position: 14
-    - word: た
-      position: 17
-    - word: とき
-      base: 時
-      position: 18
-    - word: は
-      position: 20
-    - word: あの
-      position: 21
-    - word: 糸
-      position: 23
-    - word: を
-      position: 24
-    - word: ほんの
-      base: 本の
-      position: 25
-    - word: す
-      base: っす
-      position: 28
-    - word: こう
-      position: 29
-    - word: し
-      base: 為る
-      position: 31
-    - word: もらっ
-      base: 貰う
-      position: 32
-    - word: て
-      position: 35
-    - word: 来
-      base: 来る
-      position: 36
-    - word: て
-      position: 37
-    - word: しずか
-      base: 静か
-      position: 38
-    - word: に
-      base: だ
-      position: 41
-    - word: からだ
-      base: 体
-      position: 42
-    - word: を
-      position: 45
-    - word: さすっ
-      base: 摩る
-      position: 46
-    - word: て
-      position: 49
-    - word: やり
-      base: 遣る
-      position: 50
-    - word: ます
-      position: 52
 - id: Okinagusa-f000045
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -1475,13 +350,6 @@
   sound_begin: 188730
   sound_end: 190840
   sentence: 「そうかい。
-  words:
-    - word: そう
-      position: 1
-    - word: か
-      position: 3
-    - word: い
-      position: 4
 - id: Okinagusa-f000046
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -1490,12 +358,6 @@
   sound_begin: 190840
   sound_end: 192247
   sentence: それで、
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: で
-      position: 2
 - id: Okinagusa-f000047
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -1504,9 +366,6 @@
   sound_begin: 192247
   sound_end: 193480
   sentence: 結局、
-  words:
-    - word: 結局
-      position: 0
 - id: Okinagusa-f000048
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -1515,39 +374,6 @@
   sound_begin: 193480
   sound_end: 197720
   sentence: お前たちはうずのしゅげは大すきなんだろう」
-  words:
-    - word: お前
-      base: 御前
-      position: 0
-    - word: たち
-      base: 達
-      position: 2
-    - word: は
-      position: 4
-    - word: うず
-      base: 渦
-      position: 5
-    - word: の
-      position: 7
-    - word: しゅ
-      base: シュ
-      position: 8
-    - word: げ
-      position: 10
-    - word: は
-      position: 11
-    - word: 大すき
-      base: 大好き
-      position: 12
-    - word: な
-      base: だ
-      position: 15
-    - word: ん
-      base: の
-      position: 16
-    - word: だろう
-      base: だ
-      position: 17
 - id: Okinagusa-f000049
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -1556,11 +382,6 @@
   sound_begin: 197720
   sound_end: 199640
   sentence: 「そうです」
-  words:
-    - word: そう
-      position: 1
-    - word: です
-      position: 3
 - id: Okinagusa-f000050
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -1569,10 +390,6 @@
   sound_begin: 199640
   sound_end: 201240
   sentence: 「よろしい。
-  words:
-    - word: よろしい
-      base: 宜しい
-      position: 1
 - id: Okinagusa-f000051
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -1581,10 +398,6 @@
   sound_begin: 201240
   sound_end: 202692
   sentence: さよなら。
-  words:
-    - word: さよなら
-      base: さようなら
-      position: 0
 - id: Okinagusa-f000052
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -1593,22 +406,6 @@
   sound_begin: 202692
   sound_end: 204272
   sentence: 気をつけておいで」
-  words:
-    - word: 気
-      position: 0
-    - word: を
-      position: 1
-    - word: つけ
-      base: つける
-      position: 2
-    - word: て
-      position: 4
-    - word: お
-      base: 御
-      position: 5
-    - word: いで
-      base: 出る
-      position: 6
 - id: Okinagusa-f000053
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -1617,14 +414,6 @@
   sound_begin: 205980
   sound_end: 209280
   sentence: この通りです。
-  words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: 通り
-      position: 2
-    - word: です
-      position: 4
 - id: Okinagusa-f000054
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -1633,14 +422,6 @@
   sound_begin: 209280
   sound_end: 210880
   sentence: また向こうの、
-  words:
-    - word: また
-      base: 又
-      position: 0
-    - word: 向こう
-      position: 2
-    - word: の
-      position: 5
 - id: Okinagusa-f000055
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -1649,36 +430,6 @@
   sound_begin: 210880
   sound_end: 215440
   sentence: 黒いひのきの森の中のあき地に山男がいます。
-  words:
-    - word: 黒い
-      position: 0
-    - word: ひのき
-      base: 檜
-      position: 2
-    - word: の
-      position: 5
-    - word: 森
-      position: 6
-    - word: の
-      position: 7
-    - word: 中
-      position: 8
-    - word: の
-      position: 9
-    - word: あき地
-      base: 空き地
-      position: 10
-    - word: に
-      position: 13
-    - word: 山男
-      position: 14
-    - word: が
-      position: 16
-    - word: い
-      base: 居る
-      position: 17
-    - word: ます
-      position: 18
 - id: Okinagusa-f000056
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -1687,77 +438,6 @@
   sound_begin: 215440
   sound_end: 223493
   sentence: 山男はお日さまに向いて倒れた木に腰掛けて何か鳥を引き裂いてたべようとしているらしいのですが、
-  words:
-    - word: 山男
-      position: 0
-    - word: は
-      position: 2
-    - word: お
-      base: 御
-      position: 3
-    - word: 日
-      position: 4
-    - word: さま
-      base: 様
-      position: 5
-    - word: に
-      position: 7
-    - word: 向い
-      base: 向く
-      position: 8
-    - word: て
-      position: 10
-    - word: 倒れ
-      base: 倒れる
-      position: 11
-    - word: た
-      position: 13
-    - word: 木
-      position: 14
-    - word: に
-      position: 15
-    - word: 腰掛け
-      base: 腰掛ける
-      position: 16
-    - word: て
-      position: 19
-    - word: 何
-      position: 20
-    - word: か
-      position: 21
-    - word: 鳥
-      position: 22
-    - word: を
-      position: 23
-    - word: 引き
-      base: 引く
-      position: 24
-    - word: 裂い
-      base: 裂く
-      position: 26
-    - word: て
-      position: 28
-    - word: たべよう
-      base: 食べる
-      position: 29
-    - word: と
-      position: 33
-    - word: し
-      base: 為る
-      position: 34
-    - word: て
-      position: 35
-    - word: いる
-      base: 居る
-      position: 36
-    - word: らしい
-      position: 38
-    - word: の
-      position: 41
-    - word: です
-      position: 42
-    - word: が
-      position: 44
 - id: Okinagusa-f000057
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -1766,46 +446,6 @@
   sound_begin: 223493
   sound_end: 230218
   sentence: なぜあの黝んだ黄金の眼玉を地面にじっと向けているのでしょう。
-  words:
-    - word: なぜ
-      base: 何故
-      position: 0
-    - word: あの
-      position: 2
-    - word: 黝ん
-      base: 黒ずむ
-      position: 4
-    - word: だ
-      base: た
-      position: 6
-    - word: 黄金
-      position: 7
-    - word: の
-      position: 9
-    - word: 眼玉
-      base: 目玉
-      position: 10
-    - word: を
-      position: 12
-    - word: 地面
-      position: 13
-    - word: に
-      position: 15
-    - word: じっと
-      position: 16
-    - word: 向け
-      base: 向く
-      position: 19
-    - word: て
-      position: 21
-    - word: いる
-      base: 居る
-      position: 22
-    - word: の
-      position: 24
-    - word: でしょう
-      base: です
-      position: 25
 - id: Okinagusa-f000058
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -1814,28 +454,6 @@
   sound_begin: 230218
   sound_end: 236240
   sentence: 鳥をたべることさえ忘れたようです。
-  words:
-    - word: 鳥
-      position: 0
-    - word: を
-      position: 1
-    - word: たべる
-      base: 食べる
-      position: 2
-    - word: こと
-      position: 5
-    - word: さえ
-      position: 7
-    - word: 忘れ
-      base: 忘れる
-      position: 9
-    - word: た
-      position: 11
-    - word: よう
-      base: 様
-      position: 12
-    - word: です
-      position: 14
 - id: Okinagusa-f000059
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -1844,86 +462,6 @@
   sound_begin: 236240
   sound_end: 244280
   sentence: あれは空地のかれ草の中に一本のうずのしゅげが花をつけ風にかすかにゆれているのを見ているからです。
-  words:
-    - word: あれ
-      base: 彼れ
-      position: 0
-    - word: は
-      position: 2
-    - word: 空地
-      position: 3
-    - word: の
-      position: 5
-    - word: かれ草
-      base: 枯れ草
-      position: 6
-    - word: の
-      position: 9
-    - word: 中
-      position: 10
-    - word: に
-      position: 11
-    - word: 一
-      base: '1'
-      position: 12
-    - word: 本
-      position: 13
-    - word: の
-      position: 14
-    - word: うず
-      base: 渦
-      position: 15
-    - word: の
-      position: 17
-    - word: しゅ
-      base: シュ
-      position: 18
-    - word: げ
-      position: 20
-    - word: が
-      position: 21
-    - word: 花
-      position: 22
-    - word: を
-      position: 23
-    - word: つけ
-      base: つける
-      position: 24
-    - word: 風
-      position: 26
-    - word: に
-      base: だ
-      position: 27
-    - word: かすか
-      base: 微か
-      position: 28
-    - word: に
-      base: だ
-      position: 31
-    - word: ゆれ
-      base: 揺れる
-      position: 32
-    - word: て
-      position: 34
-    - word: いる
-      base: 居る
-      position: 35
-    - word: の
-      position: 37
-    - word: を
-      position: 38
-    - word: 見
-      base: 見る
-      position: 39
-    - word: て
-      position: 40
-    - word: いる
-      base: 居る
-      position: 41
-    - word: から
-      position: 43
-    - word: です
-      position: 45
 - id: Okinagusa-f000060
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -1932,55 +470,6 @@
   sound_begin: 247080
   sound_end: 254540
   sentence: 私は去年のちょうど今ごろの風のすきとおったある日のひるまを思い出します。
-  words:
-    - word: 私
-      position: 0
-    - word: は
-      position: 1
-    - word: 去年
-      position: 2
-    - word: の
-      position: 4
-    - word: ちょうど
-      base: 丁度
-      position: 5
-    - word: 今ごろ
-      base: 今頃
-      position: 9
-    - word: の
-      position: 12
-    - word: 風
-      position: 13
-    - word: の
-      position: 14
-    - word: すき
-      base: すく
-      position: 15
-    - word: とおっ
-      base: 通る
-      position: 17
-    - word: た
-      position: 20
-    - word: ある
-      base: 或る
-      position: 21
-    - word: 日
-      position: 23
-    - word: の
-      position: 24
-    - word: ひるま
-      base: 昼間
-      position: 25
-    - word: を
-      position: 28
-    - word: 思い
-      base: 思う
-      position: 29
-    - word: 出し
-      base: 出す
-      position: 31
-    - word: ます
-      position: 33
 - id: Okinagusa-f000061
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -1989,20 +478,6 @@
   sound_begin: 256640
   sound_end: 259880
   sentence: それは小岩井農場の南、
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: は
-      position: 2
-    - word: 小岩井
-      position: 3
-    - word: 農場
-      position: 6
-    - word: の
-      position: 8
-    - word: 南
-      position: 9
 - id: Okinagusa-f000062
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -2011,45 +486,6 @@
   sound_begin: 259880
   sound_end: 265440
   sentence: あのゆるやかな七つ森のいちばん西のはずれの西がわでした。
-  words:
-    - word: あの
-      base: 彼の
-      position: 0
-    - word: ゆるやか
-      base: 緩やか
-      position: 2
-    - word: な
-      base: だ
-      position: 6
-    - word: 七
-      base: '7'
-      position: 7
-    - word: つ
-      position: 8
-    - word: 森
-      position: 9
-    - word: の
-      position: 10
-    - word: いちばん
-      base: 一番
-      position: 11
-    - word: 西
-      position: 15
-    - word: の
-      position: 16
-    - word: はずれ
-      base: 外れ
-      position: 17
-    - word: の
-      position: 20
-    - word: 西がわ
-      base: 西側
-      position: 21
-    - word: でし
-      base: です
-      position: 24
-    - word: た
-      position: 26
 - id: Okinagusa-f000063
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -2058,35 +494,6 @@
   sound_begin: 267140
   sound_end: 270080
   sentence: かれ草の中に二本のうずのしゅげが、
-  words:
-    - word: かれ草
-      base: 枯れ草
-      position: 0
-    - word: の
-      position: 3
-    - word: 中
-      position: 4
-    - word: に
-      position: 5
-    - word: 二
-      base: '2'
-      position: 6
-    - word: 本
-      position: 7
-    - word: の
-      position: 8
-    - word: うず
-      base: 渦
-      position: 9
-    - word: の
-      position: 11
-    - word: しゅ
-      base: シュ
-      position: 12
-    - word: げ
-      position: 14
-    - word: が
-      position: 15
 - id: Okinagusa-f000064
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -2095,37 +502,6 @@
   sound_begin: 270080
   sound_end: 273300
   sentence: もうその黒いやわらかな花をつけていました。
-  words:
-    - word: もう
-      position: 0
-    - word: その
-      base: 其の
-      position: 2
-    - word: 黒い
-      position: 4
-    - word: やわらか
-      base: 柔らか
-      position: 6
-    - word: な
-      base: だ
-      position: 10
-    - word: 花
-      position: 11
-    - word: を
-      position: 12
-    - word: つけ
-      base: つける
-      position: 13
-    - word: て
-      position: 15
-    - word: い
-      base: 居る
-      position: 16
-    - word: まし
-      base: ます
-      position: 17
-    - word: た
-      position: 19
 - id: Okinagusa-f000065
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -2134,40 +510,6 @@
   sound_begin: 275337
   sound_end: 281640
   sentence: まばゆい白い雲が小さな小さなきれになって砕けてみだれて、
-  words:
-    - word: まばゆい
-      base: 眩い
-      position: 0
-    - word: 白い
-      position: 4
-    - word: 雲
-      position: 6
-    - word: が
-      position: 7
-    - word: 小さな
-      position: 8
-    - word: 小さな
-      position: 11
-    - word: きれ
-      base: 切れ
-      position: 14
-    - word: に
-      position: 16
-    - word: なっ
-      base: 成る
-      position: 17
-    - word: て
-      position: 19
-    - word: 砕け
-      base: 砕く
-      position: 20
-    - word: て
-      position: 22
-    - word: みだれ
-      base: 乱れる
-      position: 23
-    - word: て
-      position: 26
 - id: Okinagusa-f000066
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -2176,34 +518,6 @@
   sound_begin: 281640
   sound_end: 287720
   sentence: 空をいっぱい東の方へどんどんどんどん飛びました。
-  words:
-    - word: 空
-      position: 0
-    - word: を
-      position: 1
-    - word: いっぱい
-      base: 一杯
-      position: 2
-    - word: 東
-      position: 6
-    - word: の
-      position: 7
-    - word: 方
-      position: 8
-    - word: へ
-      position: 9
-    - word: どんどん
-      position: 10
-    - word: どんどん
-      position: 14
-    - word: 飛び
-      base: 飛ぶ
-      position: 18
-    - word: まし
-      base: ます
-      position: 20
-    - word: た
-      position: 22
 - id: Okinagusa-f000067
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -2212,58 +526,6 @@
   sound_begin: 287720
   sound_end: 293840
   sentence: お日さまは何べんも雲にかくされて銀の鏡のように白く光ったり、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 日
-      position: 1
-    - word: さま
-      base: 様
-      position: 2
-    - word: は
-      position: 4
-    - word: 何
-      position: 5
-    - word: べん
-      base: 遍
-      position: 6
-    - word: も
-      position: 8
-    - word: 雲
-      position: 9
-    - word: に
-      position: 10
-    - word: かくさ
-      base: 隠す
-      position: 11
-    - word: れ
-      base: れる
-      position: 14
-    - word: て
-      position: 15
-    - word: 銀
-      position: 16
-    - word: の
-      position: 17
-    - word: 鏡
-      position: 18
-    - word: の
-      position: 19
-    - word: よう
-      base: 様
-      position: 20
-    - word: に
-      base: だ
-      position: 22
-    - word: 白く
-      base: 白い
-      position: 23
-    - word: 光っ
-      base: 光る
-      position: 25
-    - word: たり
-      position: 27
 - id: Okinagusa-f000068
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -2272,51 +534,6 @@
   sound_begin: 293840
   sound_end: 299440
   sentence: またかがやいて大きな宝石のように蒼ぞらの淵にかかったりしました。
-  words:
-    - word: また
-      base: 又
-      position: 0
-    - word: かがやい
-      base: 輝く
-      position: 2
-    - word: て
-      position: 6
-    - word: 大きな
-      position: 7
-    - word: 宝石
-      position: 10
-    - word: の
-      position: 12
-    - word: よう
-      base: 様
-      position: 13
-    - word: に
-      base: だ
-      position: 15
-    - word: 蒼
-      position: 16
-    - word: ぞら
-      base: 空
-      position: 17
-    - word: の
-      position: 19
-    - word: 淵
-      position: 20
-    - word: に
-      position: 21
-    - word: かかっ
-      base: 掛かる
-      position: 22
-    - word: たり
-      position: 25
-    - word: し
-      base: 為る
-      position: 27
-    - word: まし
-      base: ます
-      position: 28
-    - word: た
-      position: 30
 - id: Okinagusa-f000069
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -2325,24 +542,6 @@
   sound_begin: 302040
   sound_end: 304760
   sentence: 山脈の雪はまっ白に燃え、
-  words:
-    - word: 山脈
-      position: 0
-    - word: の
-      position: 2
-    - word: 雪
-      position: 3
-    - word: は
-      position: 4
-    - word: まっ白
-      base: 真っ白
-      position: 5
-    - word: に
-      base: だ
-      position: 8
-    - word: 燃え
-      base: 燃える
-      position: 9
 - id: Okinagusa-f000070
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -2351,97 +550,6 @@
   sound_begin: 304760
   sound_end: 317118
   sentence: 眼の前の野原は黄いろや茶の縞になってあちこち掘り起こされた畑は鳶いろの四角なきれをあてたように見えたりしました。
-  words:
-    - word: 眼
-      base: 目
-      position: 0
-    - word: の
-      position: 1
-    - word: 前
-      position: 2
-    - word: の
-      position: 3
-    - word: 野原
-      position: 4
-    - word: は
-      position: 6
-    - word: 黄
-      position: 7
-    - word: いろ
-      base: 色
-      position: 8
-    - word: や
-      position: 10
-    - word: 茶
-      position: 11
-    - word: の
-      position: 12
-    - word: 縞
-      position: 13
-    - word: に
-      position: 14
-    - word: なっ
-      base: 成る
-      position: 15
-    - word: て
-      position: 17
-    - word: あちこち
-      base: 彼方此方
-      position: 18
-    - word: 掘り
-      base: 掘る
-      position: 22
-    - word: 起こさ
-      base: 起こす
-      position: 24
-    - word: れ
-      base: れる
-      position: 27
-    - word: た
-      position: 28
-    - word: 畑
-      position: 29
-    - word: は
-      position: 30
-    - word: 鳶いろ
-      base: 鳶色
-      position: 31
-    - word: の
-      position: 34
-    - word: 四角
-      position: 35
-    - word: な
-      base: だ
-      position: 37
-    - word: きれ
-      base: 切れ
-      position: 38
-    - word: を
-      position: 40
-    - word: あて
-      base: 当てる
-      position: 41
-    - word: た
-      position: 43
-    - word: よう
-      base: 様
-      position: 44
-    - word: に
-      base: だ
-      position: 46
-    - word: 見え
-      base: 見える
-      position: 47
-    - word: たり
-      position: 49
-    - word: し
-      base: 為る
-      position: 51
-    - word: まし
-      base: ます
-      position: 52
-    - word: た
-      position: 54
 - id: Okinagusa-f000071
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -2450,51 +558,6 @@
   sound_begin: 317118
   sound_end: 327600
   sentence: おきなぐさはその変幻の光の奇術の中で夢よりもしずかに話しました。
-  words:
-    - word: おきなぐさ
-      base: 翁草
-      position: 0
-    - word: は
-      position: 5
-    - word: その
-      base: 其の
-      position: 6
-    - word: 変幻
-      position: 8
-    - word: の
-      position: 10
-    - word: 光
-      position: 11
-    - word: の
-      position: 12
-    - word: 奇術
-      position: 13
-    - word: の
-      position: 15
-    - word: 中
-      position: 16
-    - word: で
-      position: 17
-    - word: 夢
-      position: 18
-    - word: より
-      position: 19
-    - word: も
-      position: 21
-    - word: しずか
-      base: 静か
-      position: 22
-    - word: に
-      base: だ
-      position: 25
-    - word: 話し
-      base: 話す
-      position: 26
-    - word: まし
-      base: ます
-      position: 28
-    - word: た
-      position: 30
 - id: Okinagusa-f000072
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -2503,9 +566,6 @@
   sound_begin: 327603
   sound_end: 329069
   sentence: 「ねえ、
-  words:
-    - word: ねえ
-      position: 1
 - id: Okinagusa-f000073
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -2514,28 +574,6 @@
   sound_begin: 329069
   sound_end: 331840
   sentence: 雲がまたお日さんにかかるよ。
-  words:
-    - word: 雲
-      position: 0
-    - word: が
-      position: 1
-    - word: また
-      base: 又
-      position: 2
-    - word: お
-      base: 御
-      position: 4
-    - word: 日
-      position: 5
-    - word: さん
-      position: 6
-    - word: に
-      position: 8
-    - word: かかる
-      base: 掛かる
-      position: 9
-    - word: よ
-      position: 12
 - id: Okinagusa-f000074
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -2544,29 +582,6 @@
   sound_begin: 331840
   sound_end: 336000
   sentence: そら向こうの畑がもう陰になった」
-  words:
-    - word: そら
-      base: 其れ
-      position: 0
-    - word: 向こう
-      position: 2
-    - word: の
-      position: 5
-    - word: 畑
-      position: 6
-    - word: が
-      position: 7
-    - word: もう
-      position: 8
-    - word: 陰
-      position: 10
-    - word: に
-      position: 11
-    - word: なっ
-      base: 成る
-      position: 12
-    - word: た
-      position: 14
 - id: Okinagusa-f000075
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -2575,14 +590,6 @@
   sound_begin: 336000
   sound_end: 337280
   sentence: 「走って来る、
-  words:
-    - word: 走っ
-      base: 走る
-      position: 1
-    - word: て
-      position: 3
-    - word: 来る
-      position: 4
 - id: Okinagusa-f000076
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -2591,12 +598,6 @@
   sound_begin: 337280
   sound_end: 339200
   sentence: 早いねえ、
-  words:
-    - word: 早い
-      position: 0
-    - word: ねえ
-      base: ね
-      position: 2
 - id: Okinagusa-f000077
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -2605,22 +606,6 @@
   sound_begin: 339200
   sound_end: 341920
   sentence: もうから松も暗くなった。
-  words:
-    - word: もう
-      position: 0
-    - word: から松
-      base: 唐松
-      position: 2
-    - word: も
-      position: 5
-    - word: 暗く
-      base: 暗い
-      position: 6
-    - word: なっ
-      base: 成る
-      position: 8
-    - word: た
-      position: 10
 - id: Okinagusa-f000078
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -2629,14 +614,6 @@
   sound_begin: 341920
   sound_end: 342720
   sentence: もう越えた」
-  words:
-    - word: もう
-      position: 0
-    - word: 越え
-      base: 越える
-      position: 2
-    - word: た
-      position: 4
 - id: Okinagusa-f000079
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -2645,12 +622,6 @@
   sound_begin: 344456
   sound_end: 345000
   sentence: 「来た、
-  words:
-    - word: 来
-      base: 来る
-      position: 1
-    - word: た
-      position: 2
 - id: Okinagusa-f000080
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -2659,12 +630,6 @@
   sound_begin: 345000
   sound_end: 346640
   sentence: 来た。
-  words:
-    - word: 来
-      base: 来る
-      position: 0
-    - word: た
-      position: 1
 - id: Okinagusa-f000081
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -2673,11 +638,6 @@
   sound_begin: 346640
   sound_end: 347600
   sentence: おおくらい。
-  words:
-    - word: おお
-      position: 0
-    - word: くらい
-      position: 2
 - id: Okinagusa-f000082
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -2686,29 +646,6 @@
   sound_begin: 347600
   sound_end: 353680
   sentence: 急にあたりが青くしんとなった」
-  words:
-    - word: 急
-      position: 0
-    - word: に
-      base: だ
-      position: 1
-    - word: あたり
-      base: 辺り
-      position: 2
-    - word: が
-      position: 5
-    - word: 青
-      position: 6
-    - word: くしん
-      base: 苦心
-      position: 7
-    - word: と
-      position: 10
-    - word: なっ
-      base: 成る
-      position: 11
-    - word: た
-      position: 13
 - id: Okinagusa-f000083
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -2717,9 +654,6 @@
   sound_begin: 353680
   sound_end: 354440
   sentence: 「うん、
-  words:
-    - word: うん
-      position: 1
 - id: Okinagusa-f000084
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -2728,45 +662,6 @@
   sound_begin: 354440
   sound_end: 358240
   sentence: だけどもう雲が半分お日さんの下をくぐってしまったよ。
-  words:
-    - word: だ
-      position: 0
-    - word: けど
-      base: けれど
-      position: 1
-    - word: もう
-      position: 3
-    - word: 雲
-      position: 5
-    - word: が
-      position: 6
-    - word: 半分
-      position: 7
-    - word: お
-      base: 御
-      position: 9
-    - word: 日
-      position: 10
-    - word: さん
-      position: 11
-    - word: の
-      position: 13
-    - word: 下
-      position: 14
-    - word: を
-      position: 15
-    - word: くぐっ
-      base: 潜る
-      position: 16
-    - word: て
-      position: 19
-    - word: しまっ
-      base: 仕舞う
-      position: 20
-    - word: た
-      position: 23
-    - word: よ
-      position: 24
 - id: Okinagusa-f000085
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -2775,23 +670,6 @@
   sound_begin: 358240
   sound_end: 361320
   sentence: すぐ明るくなるんだよ」
-  words:
-    - word: すぐ
-      base: 直ぐ
-      position: 0
-    - word: 明るく
-      base: 明るい
-      position: 2
-    - word: なる
-      base: 成る
-      position: 5
-    - word: ん
-      base: の
-      position: 7
-    - word: だ
-      position: 8
-    - word: よ
-      position: 9
 - id: Okinagusa-f000086
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -2800,11 +678,6 @@
   sound_begin: 361320
   sound_end: 362880
   sentence: 「もう出る。
-  words:
-    - word: もう
-      position: 1
-    - word: 出る
-      position: 3
 - id: Okinagusa-f000087
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -2813,10 +686,6 @@
   sound_begin: 362880
   sound_end: 363760
   sentence: そら、
-  words:
-    - word: そら
-      base: 其れ
-      position: 0
 - id: Okinagusa-f000088
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -2825,17 +694,6 @@
   sound_begin: 363760
   sound_end: 367000
   sentence: ああ明るくなった」
-  words:
-    - word: ああ
-      position: 0
-    - word: 明るく
-      base: 明るい
-      position: 2
-    - word: なっ
-      base: 成る
-      position: 5
-    - word: た
-      position: 7
 - id: Okinagusa-f000089
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -2844,14 +702,6 @@
   sound_begin: 367000
   sound_end: 368080
   sentence: 「だめだい。
-  words:
-    - word: だめ
-      base: 駄目
-      position: 1
-    - word: だ
-      position: 3
-    - word: い
-      position: 4
 - id: Okinagusa-f000090
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -2860,14 +710,6 @@
   sound_begin: 368080
   sound_end: 369800
   sentence: また来るよ、
-  words:
-    - word: また
-      base: 又
-      position: 0
-    - word: 来る
-      position: 2
-    - word: よ
-      position: 4
 - id: Okinagusa-f000091
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -2876,10 +718,6 @@
   sound_begin: 369800
   sound_end: 371160
   sentence: そら、
-  words:
-    - word: そら
-      base: 其れ
-      position: 0
 - id: Okinagusa-f000092
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -2888,9 +726,6 @@
   sound_begin: 371160
   sound_end: 372200
   sentence: ね、
-  words:
-    - word: ね
-      position: 0
 - id: Okinagusa-f000093
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -2899,30 +734,6 @@
   sound_begin: 372200
   sound_end: 376680
   sentence: もう向こうのポプラの木が黒くなったろう」
-  words:
-    - word: もう
-      position: 0
-    - word: 向こう
-      position: 2
-    - word: の
-      position: 5
-    - word: ポプラ
-      position: 6
-    - word: の
-      position: 9
-    - word: 木
-      position: 10
-    - word: が
-      position: 11
-    - word: 黒く
-      base: 黒い
-      position: 12
-    - word: なっ
-      base: 成る
-      position: 14
-    - word: たろう
-      base: た
-      position: 16
 - id: Okinagusa-f000094
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -2931,9 +742,6 @@
   sound_begin: 376680
   sound_end: 377760
   sentence: 「うん。
-  words:
-    - word: うん
-      position: 1
 - id: Okinagusa-f000095
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -2942,26 +750,6 @@
   sound_begin: 377760
   sound_end: 380180
   sentence: まるでまわり燈籠のようだねえ」
-  words:
-    - word: まるで
-      base: 丸で
-      position: 0
-    - word: まわり
-      base: 周り
-      position: 3
-    - word: 燈籠
-      base: 灯籠
-      position: 6
-    - word: の
-      position: 8
-    - word: よう
-      base: 様
-      position: 9
-    - word: だ
-      position: 11
-    - word: ねえ
-      base: ね
-      position: 12
 - id: Okinagusa-f000096
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -2970,9 +758,6 @@
   sound_begin: 382280
   sound_end: 382600
   sentence: 「おい、
-  words:
-    - word: おい
-      position: 1
 - id: Okinagusa-f000097
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -2981,10 +766,6 @@
   sound_begin: 382600
   sound_end: 383600
   sentence: ごらん。
-  words:
-    - word: ごらん
-      base: 御覧
-      position: 0
 - id: Okinagusa-f000098
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -2993,36 +774,6 @@
   sound_begin: 383600
   sound_end: 387440
   sentence: 山の雪の上でも雲のかげがすべってるよ。
-  words:
-    - word: 山
-      position: 0
-    - word: の
-      position: 1
-    - word: 雪
-      position: 2
-    - word: の
-      position: 3
-    - word: 上
-      position: 4
-    - word: で
-      position: 5
-    - word: も
-      position: 6
-    - word: 雲
-      position: 7
-    - word: の
-      position: 8
-    - word: かげ
-      position: 9
-    - word: が
-      position: 11
-    - word: すべっ
-      base: 滑る
-      position: 12
-    - word: てる
-      position: 15
-    - word: よ
-      position: 17
 - id: Okinagusa-f000099
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3031,10 +782,6 @@
   sound_begin: 387440
   sound_end: 388614
   sentence: あすこ。
-  words:
-    - word: あすこ
-      base: 彼処
-      position: 0
 - id: Okinagusa-f000100
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3043,9 +790,6 @@
   sound_begin: 388614
   sound_end: 390633
   sentence: そら。
-  words:
-    - word: そら
-      position: 0
 - id: Okinagusa-f000101
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3054,27 +798,6 @@
   sound_begin: 390633
   sound_end: 394720
   sentence: ここよりも動きようがおそいねえ」
-  words:
-    - word: ここ
-      base: 此処
-      position: 0
-    - word: より
-      position: 2
-    - word: も
-      position: 4
-    - word: 動き
-      base: 動く
-      position: 5
-    - word: よう
-      position: 7
-    - word: が
-      position: 9
-    - word: おそい
-      base: 遅い
-      position: 10
-    - word: ねえ
-      base: ね
-      position: 13
 - id: Okinagusa-f000102
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3083,16 +806,6 @@
   sound_begin: 394720
   sound_end: 395920
   sentence: 「もうおりて来る。
-  words:
-    - word: もう
-      position: 1
-    - word: おり
-      base: 下りる
-      position: 3
-    - word: て
-      position: 5
-    - word: 来る
-      position: 6
 - id: Okinagusa-f000103
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3101,22 +814,6 @@
   sound_begin: 395920
   sound_end: 398440
   sentence: ああこんどは早い早い、
-  words:
-    - word: あ
-      base: あー
-      position: 0
-    - word: あ
-      base: あー
-      position: 1
-    - word: こんど
-      base: 今度
-      position: 2
-    - word: は
-      position: 5
-    - word: 早い
-      position: 6
-    - word: 早い
-      position: 8
 - id: Okinagusa-f000104
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3125,22 +822,6 @@
   sound_begin: 398440
   sound_end: 400440
   sentence: まるで落ちて来るようだ。
-  words:
-    - word: まるで
-      base: 丸で
-      position: 0
-    - word: 落ち
-      base: 落ちる
-      position: 3
-    - word: て
-      position: 5
-    - word: 来る
-      position: 6
-    - word: よう
-      base: 様
-      position: 8
-    - word: だ
-      position: 10
 - id: Okinagusa-f000105
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3149,22 +830,6 @@
   sound_begin: 400440
   sound_end: 403840
   sentence: もうふもとまで来ちゃった。
-  words:
-    - word: もう
-      position: 0
-    - word: ふもと
-      base: 麓
-      position: 2
-    - word: まで
-      position: 5
-    - word: 来
-      base: 来る
-      position: 7
-    - word: ちゃっ
-      base: ちゃう
-      position: 8
-    - word: た
-      position: 11
 - id: Okinagusa-f000106
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3173,9 +838,6 @@
   sound_begin: 403840
   sound_end: 405000
   sentence: おや、
-  words:
-    - word: おや
-      position: 0
 - id: Okinagusa-f000107
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3184,22 +846,6 @@
   sound_begin: 405000
   sound_end: 406720
   sentence: どこへ行ったんだろう、
-  words:
-    - word: どこ
-      position: 0
-    - word: へ
-      position: 2
-    - word: 行っ
-      base: 行く
-      position: 3
-    - word: た
-      position: 5
-    - word: ん
-      base: の
-      position: 6
-    - word: だろう
-      base: だ
-      position: 7
 - id: Okinagusa-f000108
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3208,23 +854,6 @@
   sound_begin: 406720
   sound_end: 408340
   sentence: 見えなくなってしまった」
-  words:
-    - word: 見え
-      base: 見える
-      position: 0
-    - word: なく
-      base: ない
-      position: 2
-    - word: なっ
-      base: 成る
-      position: 4
-    - word: て
-      position: 6
-    - word: しまっ
-      base: 仕舞う
-      position: 7
-    - word: た
-      position: 10
 - id: Okinagusa-f000109
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3233,14 +862,6 @@
   sound_begin: 410440
   sound_end: 411686
   sentence: 「不思議だねえ、
-  words:
-    - word: 不思議
-      position: 1
-    - word: だ
-      position: 4
-    - word: ねえ
-      base: ね
-      position: 5
 - id: Okinagusa-f000110
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3249,28 +870,6 @@
   sound_begin: 411686
   sound_end: 414840
   sentence: 雲なんてどこから出て来るんだろう。
-  words:
-    - word: 雲
-      position: 0
-    - word: なんて
-      position: 1
-    - word: どこ
-      position: 4
-    - word: から
-      position: 6
-    - word: 出
-      base: 出る
-      position: 8
-    - word: て
-      position: 9
-    - word: 来る
-      position: 10
-    - word: ん
-      base: の
-      position: 12
-    - word: だろう
-      base: だ
-      position: 13
 - id: Okinagusa-f000111
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3279,9 +878,6 @@
   sound_begin: 414840
   sound_end: 415720
   sentence: ねえ、
-  words:
-    - word: ねえ
-      position: 0
 - id: Okinagusa-f000112
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3290,37 +886,6 @@
   sound_begin: 415720
   sound_end: 420520
   sentence: 西のそらは青じろくて光ってよく晴れてるだろう。
-  words:
-    - word: 西
-      position: 0
-    - word: の
-      position: 1
-    - word: そら
-      base: 其れ
-      position: 2
-    - word: は
-      position: 4
-    - word: 青じろく
-      base: 青白い
-      position: 5
-    - word: て
-      position: 9
-    - word: 光っ
-      base: 光る
-      position: 10
-    - word: て
-      position: 12
-    - word: よく
-      base: 良く
-      position: 13
-    - word: 晴れ
-      base: 晴れる
-      position: 15
-    - word: てる
-      position: 17
-    - word: だろう
-      base: だ
-      position: 19
 - id: Okinagusa-f000113
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3329,27 +894,6 @@
   sound_begin: 420520
   sound_end: 423080
   sentence: そして風がどんどん空を吹いてるだろう。
-  words:
-    - word: そして
-      position: 0
-    - word: 風
-      position: 3
-    - word: が
-      position: 4
-    - word: どんどん
-      position: 5
-    - word: 空
-      position: 9
-    - word: を
-      position: 10
-    - word: 吹い
-      base: 吹く
-      position: 11
-    - word: てる
-      position: 13
-    - word: だろう
-      base: だ
-      position: 15
 - id: Okinagusa-f000114
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3358,44 +902,6 @@
   sound_begin: 424680
   sound_end: 431280
   sentence: それだのにいつまでたっても雲がなくならないじゃないか」
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: だ
-      position: 2
-    - word: の
-      position: 3
-    - word: に
-      position: 4
-    - word: いつ
-      position: 5
-    - word: まで
-      position: 7
-    - word: たっ
-      base: たつ
-      position: 9
-    - word: て
-      position: 11
-    - word: も
-      position: 12
-    - word: 雲
-      position: 13
-    - word: が
-      position: 14
-    - word: なくなら
-      base: なくなる
-      position: 15
-    - word: ない
-      position: 19
-    - word: じゃ
-      base: だ
-      position: 21
-    - word: ない
-      base: 無い
-      position: 23
-    - word: か
-      position: 25
 - id: Okinagusa-f000115
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3404,10 +910,6 @@
   sound_begin: 431280
   sound_end: 432480
   sentence: 「いいや、
-  words:
-    - word: いいや
-      base: 否
-      position: 1
 - id: Okinagusa-f000116
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3416,30 +918,6 @@
   sound_begin: 432480
   sound_end: 435440
   sentence: あすこから雲が湧いて来るんだよ。
-  words:
-    - word: あすこ
-      base: 彼処
-      position: 0
-    - word: から
-      position: 3
-    - word: 雲
-      position: 5
-    - word: が
-      position: 6
-    - word: 湧い
-      base: 湧く
-      position: 7
-    - word: て
-      position: 9
-    - word: 来る
-      position: 10
-    - word: ん
-      base: の
-      position: 12
-    - word: だ
-      position: 13
-    - word: よ
-      position: 14
 - id: Okinagusa-f000117
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3448,10 +926,6 @@
   sound_begin: 435440
   sound_end: 436360
   sentence: そら、
-  words:
-    - word: そら
-      base: 其れ
-      position: 0
 - id: Okinagusa-f000118
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3460,29 +934,6 @@
   sound_begin: 436360
   sound_end: 440018
   sentence: あすこに小さな小さな雲きれが出たろう。
-  words:
-    - word: あすこ
-      base: 彼処
-      position: 0
-    - word: に
-      position: 3
-    - word: 小さな
-      position: 4
-    - word: 小さな
-      position: 7
-    - word: 雲
-      position: 10
-    - word: きれ
-      base: 切れ
-      position: 11
-    - word: が
-      position: 13
-    - word: 出
-      base: 出る
-      position: 14
-    - word: たろう
-      base: た
-      position: 15
 - id: Okinagusa-f000119
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3491,17 +942,6 @@
   sound_begin: 440018
   sound_end: 442760
   sentence: きっと大きくなるよ」
-  words:
-    - word: きっと
-      position: 0
-    - word: 大きく
-      base: 大きい
-      position: 3
-    - word: なる
-      base: 成る
-      position: 6
-    - word: よ
-      position: 8
 - id: Okinagusa-f000120
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3510,9 +950,6 @@
   sound_begin: 442760
   sound_end: 443680
   sentence: 「ああ、
-  words:
-    - word: ああ
-      position: 1
 - id: Okinagusa-f000121
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3521,18 +958,6 @@
   sound_begin: 443680
   sound_end: 445520
   sentence: ほんとうにそうだね、
-  words:
-    - word: ほんとう
-      base: 本当
-      position: 0
-    - word: に
-      position: 4
-    - word: そう
-      position: 5
-    - word: だ
-      position: 7
-    - word: ね
-      position: 8
 - id: Okinagusa-f000122
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3541,18 +966,6 @@
   sound_begin: 445520
   sound_end: 447280
   sentence: 大きくなったねえ。
-  words:
-    - word: 大きく
-      base: 大きい
-      position: 0
-    - word: なっ
-      base: 成る
-      position: 3
-    - word: た
-      position: 5
-    - word: ねえ
-      base: ね
-      position: 6
 - id: Okinagusa-f000123
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3561,17 +974,6 @@
   sound_begin: 447280
   sound_end: 449445
   sentence: もう兎ぐらいある」
-  words:
-    - word: もう
-      position: 0
-    - word: 兎
-      position: 2
-    - word: ぐらい
-      base: くらい
-      position: 3
-    - word: ある
-      base: 有る
-      position: 6
 - id: Okinagusa-f000124
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3580,16 +982,6 @@
   sound_begin: 449445
   sound_end: 451040
   sentence: 「どんどんかけて来る。
-  words:
-    - word: どんどん
-      position: 1
-    - word: かけ
-      base: 掛ける
-      position: 5
-    - word: て
-      position: 7
-    - word: 来る
-      position: 8
 - id: Okinagusa-f000125
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3598,11 +990,6 @@
   sound_begin: 451040
   sound_end: 452320
   sentence: 早い早い、
-  words:
-    - word: 早い
-      position: 0
-    - word: 早い
-      position: 2
 - id: Okinagusa-f000126
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3611,15 +998,6 @@
   sound_begin: 452320
   sound_end: 453760
   sentence: 大きくなった、
-  words:
-    - word: 大きく
-      base: 大きい
-      position: 0
-    - word: なっ
-      base: 成る
-      position: 3
-    - word: た
-      position: 5
 - id: Okinagusa-f000127
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3628,16 +1006,6 @@
   sound_begin: 453760
   sound_end: 456600
   sentence: 白熊のようだ」
-  words:
-    - word: 白熊
-      position: 0
-    - word: の
-      position: 2
-    - word: よう
-      base: 様
-      position: 3
-    - word: だ
-      position: 5
 - id: Okinagusa-f000128
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3646,22 +1014,6 @@
   sound_begin: 456600
   sound_end: 458694
   sentence: 「またお日さんへかかる。
-  words:
-    - word: また
-      base: 又
-      position: 1
-    - word: お
-      base: 御
-      position: 3
-    - word: 日
-      position: 4
-    - word: さん
-      position: 5
-    - word: へ
-      position: 7
-    - word: かかる
-      base: 掛かる
-      position: 8
 - id: Okinagusa-f000129
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3670,15 +1022,6 @@
   sound_begin: 458694
   sound_end: 460794
   sentence: 暗くなるぜ、
-  words:
-    - word: 暗く
-      base: 暗い
-      position: 0
-    - word: なる
-      base: 成る
-      position: 2
-    - word: ぜ
-      position: 4
 - id: Okinagusa-f000130
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3687,14 +1030,6 @@
   sound_begin: 460794
   sound_end: 462781
   sentence: 奇麗だねえ。
-  words:
-    - word: 奇麗
-      position: 0
-    - word: だ
-      position: 2
-    - word: ねえ
-      base: ね
-      position: 3
 - id: Okinagusa-f000131
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3703,11 +1038,6 @@
   sound_begin: 462781
   sound_end: 465777
   sentence: ああ奇麗。
-  words:
-    - word: ああ
-      position: 0
-    - word: 奇麗
-      position: 2
 - id: Okinagusa-f000132
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3716,33 +1046,6 @@
   sound_begin: 465777
   sound_end: 472599
   sentence: 雲のへりがまるで虹で飾ったようだ」
-  words:
-    - word: 雲
-      position: 0
-    - word: の
-      position: 1
-    - word: へり
-      base: 縁
-      position: 2
-    - word: が
-      position: 4
-    - word: まるで
-      base: 丸で
-      position: 5
-    - word: 虹
-      position: 8
-    - word: で
-      position: 9
-    - word: 飾っ
-      base: 飾る
-      position: 10
-    - word: た
-      position: 12
-    - word: よう
-      base: 様
-      position: 13
-    - word: だ
-      position: 15
 - id: Okinagusa-f000133
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3751,101 +1054,6 @@
   sound_begin: 472599
   sound_end: 483440
   sentence: 西の方の遠くの空でさっきまで一生けん命啼いていたひばりがこの時風に流されて羽を変にかしげながら二人のそばに降りて来たのでした。
-  words:
-    - word: 西
-      position: 0
-    - word: の
-      position: 1
-    - word: 方
-      position: 2
-    - word: の
-      position: 3
-    - word: 遠く
-      position: 4
-    - word: の
-      position: 6
-    - word: 空
-      position: 7
-    - word: で
-      position: 8
-    - word: さっき
-      position: 9
-    - word: まで
-      position: 12
-    - word: 一生
-      position: 14
-    - word: けん命
-      base: 懸命
-      position: 16
-    - word: 啼い
-      base: 鳴く
-      position: 19
-    - word: て
-      position: 21
-    - word: い
-      base: 居る
-      position: 22
-    - word: た
-      position: 23
-    - word: ひばり
-      position: 24
-    - word: が
-      position: 27
-    - word: この
-      base: 此の
-      position: 28
-    - word: 時風
-      position: 30
-    - word: に
-      position: 32
-    - word: 流さ
-      base: 流す
-      position: 33
-    - word: れ
-      base: れる
-      position: 35
-    - word: て
-      position: 36
-    - word: 羽
-      base: 羽根
-      position: 37
-    - word: を
-      position: 38
-    - word: 変
-      position: 39
-    - word: に
-      base: だ
-      position: 40
-    - word: かしげ
-      base: 傾げる
-      position: 41
-    - word: ながら
-      position: 44
-    - word: 二人
-      position: 47
-    - word: の
-      position: 49
-    - word: そば
-      position: 50
-    - word: に
-      position: 52
-    - word: 降り
-      base: 下りる
-      position: 53
-    - word: て
-      position: 55
-    - word: 来
-      base: 来る
-      position: 56
-    - word: た
-      position: 57
-    - word: の
-      position: 58
-    - word: でし
-      base: です
-      position: 59
-    - word: た
-      position: 61
 - id: Okinagusa-f000134
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3854,11 +1062,6 @@
   sound_begin: 487040
   sound_end: 487560
   sentence: 「今日は、
-  words:
-    - word: 今日
-      position: 1
-    - word: は
-      position: 3
 - id: Okinagusa-f000135
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3867,27 +1070,6 @@
   sound_begin: 487560
   sound_end: 488880
   sentence: 風があっていけませんね」
-  words:
-    - word: 風
-      position: 0
-    - word: が
-      position: 1
-    - word: あっ
-      base: 有る
-      position: 2
-    - word: て
-      position: 4
-    - word: いけ
-      base: 行く
-      position: 5
-    - word: ませ
-      base: ます
-      position: 7
-    - word: ん
-      base: ず
-      position: 9
-    - word: ね
-      position: 10
 - id: Okinagusa-f000136
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3896,9 +1078,6 @@
   sound_begin: 488880
   sound_end: 490480
   sentence: 「おや、
-  words:
-    - word: おや
-      position: 1
 - id: Okinagusa-f000137
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3907,11 +1086,6 @@
   sound_begin: 490480
   sound_end: 491840
   sentence: ひばりさん、
-  words:
-    - word: ひばり
-      position: 0
-    - word: さん
-      position: 3
 - id: Okinagusa-f000138
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3920,10 +1094,6 @@
   sound_begin: 491840
   sound_end: 492320
   sentence: いらっしゃい。
-  words:
-    - word: いらっしゃい
-      base: いらっしゃる
-      position: 0
 - id: Okinagusa-f000139
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3932,28 +1102,6 @@
   sound_begin: 492320
   sound_end: 497788
   sentence: 今日なんか高いとこは風が強いでしょうね」
-  words:
-    - word: 今日
-      position: 0
-    - word: なんか
-      position: 2
-    - word: 高い
-      position: 5
-    - word: とこ
-      position: 7
-    - word: は
-      position: 9
-    - word: 風
-      position: 10
-    - word: が
-      position: 11
-    - word: 強い
-      position: 12
-    - word: でしょう
-      base: です
-      position: 14
-    - word: ね
-      position: 18
 - id: Okinagusa-f000140
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3962,9 +1110,6 @@
   sound_begin: 497788
   sound_end: 499280
   sentence: 「ええ、
-  words:
-    - word: ええ
-      position: 1
 - id: Okinagusa-f000141
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3973,16 +1118,6 @@
   sound_begin: 499280
   sound_end: 501080
   sentence: ひどい風ですよ。
-  words:
-    - word: ひどい
-      base: 酷い
-      position: 0
-    - word: 風
-      position: 3
-    - word: です
-      position: 4
-    - word: よ
-      position: 6
 - id: Okinagusa-f000142
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -3991,67 +1126,6 @@
   sound_begin: 501080
   sound_end: 508000
   sentence: 大きく口をあくと風が僕のからだをまるで麦酒瓶のようにボウと鳴らして行くくらいですからね。
-  words:
-    - word: 大きく
-      base: 大きい
-      position: 0
-    - word: 口
-      position: 3
-    - word: を
-      position: 4
-    - word: あく
-      position: 5
-    - word: と
-      position: 7
-    - word: 風
-      position: 8
-    - word: が
-      position: 9
-    - word: 僕
-      position: 10
-    - word: の
-      position: 11
-    - word: からだ
-      base: 体
-      position: 12
-    - word: を
-      position: 15
-    - word: まるで
-      base: 丸で
-      position: 16
-    - word: 麦酒
-      base: ビール
-      position: 19
-    - word: 瓶
-      position: 21
-    - word: の
-      position: 22
-    - word: よう
-      base: 様
-      position: 23
-    - word: に
-      base: だ
-      position: 25
-    - word: ボウ
-      base: 坊
-      position: 26
-    - word: と
-      position: 28
-    - word: 鳴らし
-      base: 鳴る
-      position: 29
-    - word: て
-      position: 32
-    - word: 行く
-      position: 33
-    - word: くらい
-      position: 35
-    - word: です
-      position: 38
-    - word: から
-      position: 40
-    - word: ね
-      position: 42
 - id: Okinagusa-f000143
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -4060,37 +1134,6 @@
   sound_begin: 508000
   sound_end: 512159
   sentence: わめくも歌うも容易のこっちゃありませんよ」
-  words:
-    - word: わめく
-      base: 喚く
-      position: 0
-    - word: も
-      position: 3
-    - word: 歌う
-      position: 4
-    - word: も
-      position: 6
-    - word: 容易
-      position: 7
-    - word: の
-      position: 9
-    - word: こっ
-      base: 事
-      position: 10
-    - word: ちゃ
-      base: だ
-      position: 12
-    - word: あり
-      base: 有る
-      position: 14
-    - word: ませ
-      base: ます
-      position: 16
-    - word: ん
-      base: ず
-      position: 18
-    - word: よ
-      position: 19
 - id: Okinagusa-f000144
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -4099,14 +1142,6 @@
   sound_begin: 512159
   sound_end: 514159
   sentence: 「そうでしょうね。
-  words:
-    - word: そう
-      position: 1
-    - word: でしょう
-      base: です
-      position: 3
-    - word: ね
-      position: 7
 - id: Okinagusa-f000145
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -4115,45 +1150,6 @@
   sound_begin: 514159
   sound_end: 520518
   sentence: だけどここから見ているとほんとうに風はおもしろそうですよ。
-  words:
-    - word: だ
-      position: 0
-    - word: けど
-      base: けれど
-      position: 1
-    - word: ここ
-      base: 此処
-      position: 3
-    - word: から
-      position: 5
-    - word: 見
-      base: 見る
-      position: 7
-    - word: て
-      position: 8
-    - word: いる
-      base: 居る
-      position: 9
-    - word: と
-      position: 11
-    - word: ほんとう
-      base: 本当
-      position: 12
-    - word: に
-      position: 16
-    - word: 風
-      position: 17
-    - word: は
-      position: 18
-    - word: おもしろ
-      base: 面白い
-      position: 19
-    - word: そう
-      position: 23
-    - word: です
-      position: 25
-    - word: よ
-      position: 27
 - id: Okinagusa-f000146
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -4162,33 +1158,6 @@
   sound_begin: 520518
   sound_end: 523679
   sentence: 僕たちも一ぺん飛んでみたいなあ」
-  words:
-    - word: 僕
-      position: 0
-    - word: たち
-      base: 達
-      position: 1
-    - word: も
-      position: 3
-    - word: 一
-      base: '1'
-      position: 4
-    - word: ぺん
-      base: 遍
-      position: 5
-    - word: 飛ん
-      base: 飛ぶ
-      position: 7
-    - word: で
-      position: 9
-    - word: み
-      base: 見る
-      position: 10
-    - word: たい
-      position: 11
-    - word: なあ
-      base: な
-      position: 13
 - id: Okinagusa-f000147
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -4197,18 +1166,6 @@
   sound_begin: 525980
   sound_end: 527680
   sentence: 「飛べるどこじゃない。
-  words:
-    - word: 飛べる
-      base: 飛ぶ
-      position: 1
-    - word: どこ
-      position: 4
-    - word: じゃ
-      base: だ
-      position: 6
-    - word: ない
-      base: 無い
-      position: 8
 - id: Okinagusa-f000148
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -4217,24 +1174,6 @@
   sound_begin: 527680
   sound_end: 530040
   sentence: もう二か月お待ちなさい。
-  words:
-    - word: もう
-      position: 0
-    - word: 二
-      base: '2'
-      position: 2
-    - word: か月
-      base: 箇月
-      position: 3
-    - word: お
-      base: 御
-      position: 5
-    - word: 待ち
-      base: 待つ
-      position: 6
-    - word: なさい
-      base: 為す
-      position: 8
 - id: Okinagusa-f000149
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -4243,33 +1182,6 @@
   sound_begin: 530040
   sound_end: 532800
   sentence: いやでも飛ばなくちゃなりません」
-  words:
-    - word: いや
-      base: 嫌
-      position: 0
-    - word: で
-      base: だ
-      position: 2
-    - word: も
-      position: 3
-    - word: 飛ば
-      base: 飛ぶ
-      position: 4
-    - word: なく
-      base: ない
-      position: 6
-    - word: ちゃ
-      base: て
-      position: 8
-    - word: なり
-      base: 成る
-      position: 10
-    - word: ませ
-      base: ます
-      position: 12
-    - word: ん
-      base: ず
-      position: 14
 - id: Okinagusa-f000150
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -4278,25 +1190,6 @@
   sound_begin: 536400
   sound_end: 539120
   sentence: それから二か月めでした。
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: から
-      position: 2
-    - word: 二
-      base: '2'
-      position: 4
-    - word: か月
-      base: 箇月
-      position: 5
-    - word: め
-      position: 7
-    - word: でし
-      base: です
-      position: 8
-    - word: た
-      position: 10
 - id: Okinagusa-f000151
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -4305,46 +1198,6 @@
   sound_begin: 539120
   sound_end: 545000
   sentence: 私は御明神へ行く途中もう一ぺんそこへ寄ったのでした。
-  words:
-    - word: 私
-      position: 0
-    - word: は
-      position: 1
-    - word: 御
-      position: 2
-    - word: 明神
-      position: 3
-    - word: へ
-      position: 5
-    - word: 行く
-      position: 6
-    - word: 途中
-      position: 8
-    - word: もう
-      position: 10
-    - word: 一
-      base: '1'
-      position: 12
-    - word: ぺん
-      base: 遍
-      position: 13
-    - word: そこ
-      base: 其処
-      position: 15
-    - word: へ
-      position: 17
-    - word: 寄っ
-      base: 寄る
-      position: 18
-    - word: た
-      position: 20
-    - word: の
-      position: 21
-    - word: でし
-      base: です
-      position: 22
-    - word: た
-      position: 24
 - id: Okinagusa-f000152
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -4353,41 +1206,6 @@
   sound_begin: 545000
   sound_end: 551194
   sentence: 丘はすっかり緑でほたるかずらの花が子供の青い瞳のよう、
-  words:
-    - word: 丘
-      position: 0
-    - word: は
-      position: 1
-    - word: すっかり
-      position: 2
-    - word: 緑
-      position: 6
-    - word: で
-      position: 7
-    - word: ほたる
-      base: 蛍
-      position: 8
-    - word: かずら
-      position: 11
-    - word: の
-      position: 14
-    - word: 花
-      position: 15
-    - word: が
-      position: 16
-    - word: 子供
-      position: 17
-    - word: の
-      position: 19
-    - word: 青い
-      position: 20
-    - word: 瞳
-      position: 22
-    - word: の
-      position: 23
-    - word: よう
-      base: 様
-      position: 24
 - id: Okinagusa-f000153
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -4396,40 +1214,6 @@
   sound_begin: 551194
   sound_end: 556812
   sentence: 小岩井の野原には牧草や燕麦がきんきん光っておりました。
-  words:
-    - word: 小岩井
-      position: 0
-    - word: の
-      position: 3
-    - word: 野原
-      position: 4
-    - word: に
-      position: 6
-    - word: は
-      position: 7
-    - word: 牧草
-      position: 8
-    - word: や
-      position: 10
-    - word: 燕麦
-      position: 11
-    - word: が
-      position: 13
-    - word: きんきん
-      position: 14
-    - word: 光っ
-      base: 光る
-      position: 18
-    - word: て
-      position: 20
-    - word: おり
-      base: おる
-      position: 21
-    - word: まし
-      base: ます
-      position: 23
-    - word: た
-      position: 25
 - id: Okinagusa-f000154
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -4438,30 +1222,6 @@
   sound_begin: 556812
   sound_end: 559340
   sentence: 風はもう南から吹いていました。
-  words:
-    - word: 風
-      position: 0
-    - word: は
-      position: 1
-    - word: もう
-      position: 2
-    - word: 南
-      position: 4
-    - word: から
-      position: 5
-    - word: 吹い
-      base: 吹く
-      position: 7
-    - word: て
-      position: 9
-    - word: い
-      base: 居る
-      position: 10
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
 - id: Okinagusa-f000155
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -4470,66 +1230,6 @@
   sound_begin: 561355
   sound_end: 569740
   sentence: 春の二つのうずのしゅげの花はすっかりふさふさした銀毛の房にかわっていました。
-  words:
-    - word: 春
-      position: 0
-    - word: の
-      position: 1
-    - word: 二
-      base: '2'
-      position: 2
-    - word: つ
-      position: 3
-    - word: の
-      position: 4
-    - word: うず
-      base: 渦
-      position: 5
-    - word: の
-      position: 7
-    - word: しゅ
-      base: シュ
-      position: 8
-    - word: げ
-      position: 10
-    - word: の
-      position: 11
-    - word: 花
-      position: 12
-    - word: は
-      position: 13
-    - word: すっかり
-      position: 14
-    - word: ふさふさ
-      position: 18
-    - word: し
-      base: 為る
-      position: 22
-    - word: た
-      position: 23
-    - word: 銀
-      position: 24
-    - word: 毛
-      position: 25
-    - word: の
-      position: 26
-    - word: 房
-      position: 27
-    - word: に
-      position: 28
-    - word: かわっ
-      base: 変わる
-      position: 29
-    - word: て
-      position: 32
-    - word: い
-      base: 居る
-      position: 33
-    - word: まし
-      base: ます
-      position: 34
-    - word: た
-      position: 36
 - id: Okinagusa-f000156
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -4538,31 +1238,6 @@
   sound_begin: 569740
   sound_end: 573640
   sentence: 野原のポプラの錫いろの葉をちらちらひるがえし、
-  words:
-    - word: 野原
-      position: 0
-    - word: の
-      position: 2
-    - word: ポプラ
-      position: 3
-    - word: の
-      position: 6
-    - word: 錫
-      position: 7
-    - word: いろ
-      base: 色
-      position: 8
-    - word: の
-      position: 10
-    - word: 葉
-      position: 11
-    - word: を
-      position: 12
-    - word: ちらちら
-      position: 13
-    - word: ひるがえし
-      base: 翻す
-      position: 17
 - id: Okinagusa-f000157
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -4571,34 +1246,6 @@
   sound_begin: 573640
   sound_end: 577880
   sentence: ふもとの草が青い黄金のかがやきをあげますと、
-  words:
-    - word: ふもと
-      base: 麓
-      position: 0
-    - word: の
-      position: 3
-    - word: 草
-      position: 4
-    - word: が
-      position: 5
-    - word: 青い
-      position: 6
-    - word: 黄金
-      position: 8
-    - word: の
-      position: 10
-    - word: かがやき
-      base: 輝き
-      position: 11
-    - word: を
-      position: 15
-    - word: あげ
-      base: 上げる
-      position: 16
-    - word: ます
-      position: 18
-    - word: と
-      position: 20
 - id: Okinagusa-f000158
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -4607,65 +1254,6 @@
   sound_begin: 577880
   sound_end: 584400
   sentence: その二つのうずのしゅげの銀毛の房はぷるぷるふるえて今にも飛び立ちそうでした。
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 二
-      base: '2'
-      position: 2
-    - word: つ
-      position: 3
-    - word: の
-      position: 4
-    - word: うず
-      base: 渦
-      position: 5
-    - word: の
-      position: 7
-    - word: しゅ
-      base: シュ
-      position: 8
-    - word: げ
-      position: 10
-    - word: の
-      position: 11
-    - word: 銀
-      position: 12
-    - word: 毛
-      position: 13
-    - word: の
-      position: 14
-    - word: 房
-      position: 15
-    - word: は
-      position: 16
-    - word: ぷるぷる
-      position: 17
-    - word: ふるえ
-      base: 震える
-      position: 21
-    - word: て
-      position: 24
-    - word: 今
-      position: 25
-    - word: に
-      position: 26
-    - word: も
-      position: 27
-    - word: 飛び
-      base: 飛ぶ
-      position: 28
-    - word: 立ち
-      base: 立つ
-      position: 30
-    - word: そう
-      position: 32
-    - word: でし
-      base: です
-      position: 34
-    - word: た
-      position: 36
 - id: Okinagusa-f000159
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -4674,46 +1262,6 @@
   sound_begin: 586900
   sound_end: 593854
   sentence: そしてひばりがひくく丘の上を飛んでやって来たのでした。
-  words:
-    - word: そして
-      position: 0
-    - word: ひばり
-      position: 3
-    - word: が
-      position: 6
-    - word: ひくく
-      base: 低い
-      position: 7
-    - word: 丘
-      position: 10
-    - word: の
-      position: 11
-    - word: 上
-      position: 12
-    - word: を
-      position: 13
-    - word: 飛ん
-      base: 飛ぶ
-      position: 14
-    - word: で
-      position: 16
-    - word: やっ
-      base: 遣る
-      position: 17
-    - word: て
-      position: 19
-    - word: 来
-      base: 来る
-      position: 20
-    - word: た
-      position: 21
-    - word: の
-      position: 22
-    - word: でし
-      base: です
-      position: 23
-    - word: た
-      position: 25
 - id: Okinagusa-f000160
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -4722,11 +1270,6 @@
   sound_begin: 593854
   sound_end: 595560
   sentence: 「今日は。
-  words:
-    - word: 今日
-      position: 1
-    - word: は
-      position: 3
 - id: Okinagusa-f000161
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -4735,17 +1278,6 @@
   sound_begin: 595560
   sound_end: 597884
   sentence: いいお天気です。
-  words:
-    - word: いい
-      base: 良い
-      position: 0
-    - word: お
-      base: 御
-      position: 2
-    - word: 天気
-      position: 3
-    - word: です
-      position: 5
 - id: Okinagusa-f000162
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -4754,11 +1286,6 @@
   sound_begin: 597884
   sound_end: 599320
   sentence: どうです。
-  words:
-    - word: どう
-      position: 0
-    - word: です
-      position: 2
 - id: Okinagusa-f000163
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -4767,16 +1294,6 @@
   sound_begin: 599320
   sound_end: 602480
   sentence: もう飛ぶばかりでしょう」
-  words:
-    - word: もう
-      position: 0
-    - word: 飛ぶ
-      position: 2
-    - word: ばかり
-      position: 4
-    - word: でしょう
-      base: です
-      position: 7
 - id: Okinagusa-f000164
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -4785,9 +1302,6 @@
   sound_begin: 602480
   sound_end: 603640
   sentence: 「ええ、
-  words:
-    - word: ええ
-      position: 1
 - id: Okinagusa-f000165
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -4796,27 +1310,6 @@
   sound_begin: 603640
   sound_end: 607040
   sentence: もう僕たち遠いとこへ行きますよ。
-  words:
-    - word: もう
-      position: 0
-    - word: 僕
-      position: 2
-    - word: たち
-      base: 達
-      position: 3
-    - word: 遠い
-      position: 5
-    - word: とこ
-      position: 7
-    - word: へ
-      position: 9
-    - word: 行き
-      base: 行く
-      position: 10
-    - word: ます
-      position: 12
-    - word: よ
-      position: 14
 - id: Okinagusa-f000166
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -4825,46 +1318,6 @@
   sound_begin: 607040
   sound_end: 612680
   sentence: どの風が僕たちを連れて行くかさっきから見ているんです」
-  words:
-    - word: どの
-      position: 0
-    - word: 風
-      position: 2
-    - word: が
-      position: 3
-    - word: 僕
-      position: 4
-    - word: たち
-      base: 達
-      position: 5
-    - word: を
-      position: 7
-    - word: 連れ
-      base: 連れる
-      position: 8
-    - word: て
-      position: 10
-    - word: 行く
-      position: 11
-    - word: か
-      position: 13
-    - word: さっき
-      position: 14
-    - word: から
-      position: 17
-    - word: 見
-      base: 見る
-      position: 19
-    - word: て
-      position: 20
-    - word: いる
-      base: 居る
-      position: 21
-    - word: ん
-      base: の
-      position: 23
-    - word: です
-      position: 24
 - id: Okinagusa-f000167
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -4873,11 +1326,6 @@
   sound_begin: 612680
   sound_end: 614204
   sentence: 「どうです。
-  words:
-    - word: どう
-      position: 1
-    - word: です
-      position: 3
 - id: Okinagusa-f000168
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -4886,25 +1334,6 @@
   sound_begin: 614204
   sound_end: 617480
   sentence: 飛んで行くのはいやですか」
-  words:
-    - word: 飛ん
-      base: 飛ぶ
-      position: 0
-    - word: で
-      position: 2
-    - word: 行く
-      position: 3
-    - word: の
-      position: 5
-    - word: は
-      position: 6
-    - word: いや
-      base: 嫌
-      position: 7
-    - word: です
-      position: 9
-    - word: か
-      position: 11
 - id: Okinagusa-f000169
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -4913,23 +1342,6 @@
   sound_begin: 617480
   sound_end: 619605
   sentence: 「なんともありません。
-  words:
-    - word: なん
-      base: 何
-      position: 1
-    - word: と
-      position: 3
-    - word: も
-      position: 4
-    - word: あり
-      base: 有る
-      position: 5
-    - word: ませ
-      base: ます
-      position: 7
-    - word: ん
-      base: ず
-      position: 9
 - id: Okinagusa-f000170
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -4938,31 +1350,6 @@
   sound_begin: 619605
   sound_end: 623000
   sentence: 僕たちの仕事はもう済んだんです」
-  words:
-    - word: 僕
-      position: 0
-    - word: たち
-      base: 達
-      position: 1
-    - word: の
-      position: 3
-    - word: 仕事
-      position: 4
-    - word: は
-      position: 6
-    - word: もう
-      position: 7
-    - word: 済ん
-      base: 済む
-      position: 9
-    - word: だ
-      base: た
-      position: 11
-    - word: ん
-      base: の
-      position: 12
-    - word: です
-      position: 13
 - id: Okinagusa-f000171
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -4971,23 +1358,6 @@
   sound_begin: 625300
   sound_end: 628536
   sentence: 「こわかありませんか」
-  words:
-    - word: こわ
-      base: 怖い
-      position: 1
-    - word: か
-      position: 3
-    - word: あり
-      base: 有る
-      position: 4
-    - word: ませ
-      base: ます
-      position: 6
-    - word: ん
-      base: ず
-      position: 8
-    - word: か
-      position: 9
 - id: Okinagusa-f000172
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -4996,9 +1366,6 @@
   sound_begin: 628536
   sound_end: 630002
   sentence: 「いいえ、
-  words:
-    - word: いいえ
-      position: 1
 - id: Okinagusa-f000173
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -5007,50 +1374,6 @@
   sound_begin: 630002
   sound_end: 635692
   sentence: 飛んだってどこへ行ったって野はらはお日さんのひかりでいっぱいですよ。
-  words:
-    - word: 飛ん
-      base: 飛ぶ
-      position: 0
-    - word: だ
-      base: た
-      position: 2
-    - word: って
-      position: 3
-    - word: どこ
-      position: 5
-    - word: へ
-      position: 7
-    - word: 行っ
-      base: 行く
-      position: 8
-    - word: たって
-      position: 10
-    - word: 野はら
-      base: 野原
-      position: 13
-    - word: は
-      position: 16
-    - word: お
-      base: 御
-      position: 17
-    - word: 日
-      position: 18
-    - word: さん
-      position: 19
-    - word: の
-      position: 21
-    - word: ひかり
-      base: 光
-      position: 22
-    - word: で
-      position: 25
-    - word: いっぱい
-      base: 一杯
-      position: 26
-    - word: です
-      position: 30
-    - word: よ
-      position: 32
 - id: Okinagusa-f000174
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -5059,22 +1382,6 @@
   sound_begin: 635692
   sound_end: 638241
   sentence: 僕たちばらばらになろうたって、
-  words:
-    - word: 僕
-      position: 0
-    - word: たち
-      base: 達
-      position: 1
-    - word: ばらばら
-      position: 3
-    - word: に
-      base: だ
-      position: 7
-    - word: なろう
-      base: 成る
-      position: 8
-    - word: たって
-      position: 11
 - id: Okinagusa-f000175
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -5083,27 +1390,6 @@
   sound_begin: 638241
   sound_end: 641360
   sentence: どこかのたまり水の上に落ちようたって、
-  words:
-    - word: どこ
-      position: 0
-    - word: か
-      position: 2
-    - word: の
-      position: 3
-    - word: たまり水
-      base: 溜り水
-      position: 4
-    - word: の
-      position: 8
-    - word: 上
-      position: 9
-    - word: に
-      position: 10
-    - word: 落ちよう
-      base: 落ちる
-      position: 11
-    - word: たって
-      position: 15
 - id: Okinagusa-f000176
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -5112,32 +1398,6 @@
   sound_begin: 641360
   sound_end: 644600
   sentence: お日さんちゃんと見ていらっしゃるんですよ」
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 日
-      position: 1
-    - word: さん
-      position: 2
-    - word: ちゃん
-      position: 4
-    - word: と
-      position: 7
-    - word: 見
-      base: 見る
-      position: 8
-    - word: て
-      position: 9
-    - word: いらっしゃる
-      position: 10
-    - word: ん
-      base: の
-      position: 16
-    - word: です
-      position: 17
-    - word: よ
-      position: 19
 - id: Okinagusa-f000177
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -5146,11 +1406,6 @@
   sound_begin: 644600
   sound_end: 645400
   sentence: 「そうです、
-  words:
-    - word: そう
-      position: 1
-    - word: です
-      position: 3
 - id: Okinagusa-f000178
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -5159,11 +1414,6 @@
   sound_begin: 645400
   sound_end: 646960
   sentence: そうです。
-  words:
-    - word: そう
-      position: 0
-    - word: です
-      position: 2
 - id: Okinagusa-f000179
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -5172,28 +1422,6 @@
   sound_begin: 646960
   sound_end: 650720
   sentence: なんにもこわいことはありません。
-  words:
-    - word: なんに
-      base: 何
-      position: 0
-    - word: も
-      position: 3
-    - word: こわい
-      base: 怖い
-      position: 4
-    - word: こと
-      position: 7
-    - word: は
-      position: 9
-    - word: あり
-      base: 有る
-      position: 10
-    - word: ませ
-      base: ます
-      position: 12
-    - word: ん
-      base: ず
-      position: 14
 - id: Okinagusa-f000180
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -5202,40 +1430,6 @@
   sound_begin: 650720
   sound_end: 655200
   sentence: 僕だってもういつまでこの野原にいるかわかりません。
-  words:
-    - word: 僕
-      position: 0
-    - word: だ
-      position: 1
-    - word: って
-      position: 2
-    - word: もう
-      position: 4
-    - word: いつ
-      position: 6
-    - word: まで
-      position: 8
-    - word: この
-      base: 此の
-      position: 10
-    - word: 野原
-      position: 12
-    - word: に
-      position: 14
-    - word: いる
-      base: 居る
-      position: 15
-    - word: か
-      position: 17
-    - word: わかり
-      base: 分かる
-      position: 18
-    - word: ませ
-      base: ます
-      position: 21
-    - word: ん
-      base: ず
-      position: 23
 - id: Okinagusa-f000181
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -5244,50 +1438,6 @@
   sound_begin: 655200
   sound_end: 662080
   sentence: もし来年もいるようだったら来年は僕はここへ巣をつくりますよ」
-  words:
-    - word: もし
-      base: 若し
-      position: 0
-    - word: 来年
-      position: 2
-    - word: も
-      position: 4
-    - word: いる
-      base: 居る
-      position: 5
-    - word: よう
-      base: 様
-      position: 7
-    - word: だっ
-      base: だ
-      position: 9
-    - word: たら
-      base: た
-      position: 11
-    - word: 来年
-      position: 13
-    - word: は
-      position: 15
-    - word: 僕
-      position: 16
-    - word: は
-      position: 17
-    - word: ここ
-      base: 此処
-      position: 18
-    - word: へ
-      position: 20
-    - word: 巣
-      position: 21
-    - word: を
-      position: 22
-    - word: つくり
-      base: 作る
-      position: 23
-    - word: ます
-      position: 26
-    - word: よ
-      position: 28
 - id: Okinagusa-f000182
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -5296,9 +1446,6 @@
   sound_begin: 662080
   sound_end: 663320
   sentence: 「ええ、
-  words:
-    - word: ええ
-      position: 1
 - id: Okinagusa-f000183
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -5307,10 +1454,6 @@
   sound_begin: 663320
   sound_end: 665497
   sentence: ありがとう。
-  words:
-    - word: ありがとう
-      base: 有り難う
-      position: 0
 - id: Okinagusa-f000184
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -5319,9 +1462,6 @@
   sound_begin: 665497
   sound_end: 666560
   sentence: ああ、
-  words:
-    - word: ああ
-      position: 0
 - id: Okinagusa-f000185
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -5330,23 +1470,6 @@
   sound_begin: 666560
   sound_end: 669250
   sentence: 僕まるで息がせいせいする。
-  words:
-    - word: 僕
-      position: 0
-    - word: まるで
-      base: 丸で
-      position: 1
-    - word: 息
-      position: 4
-    - word: が
-      position: 5
-    - word: せい
-      position: 6
-    - word: せい
-      position: 8
-    - word: する
-      base: 為る
-      position: 10
 - id: Okinagusa-f000186
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -5355,17 +1478,6 @@
   sound_begin: 669250
   sound_end: 672440
   sentence: きっと今度の風だ。
-  words:
-    - word: きっと
-      position: 0
-    - word: 今度
-      position: 3
-    - word: の
-      position: 5
-    - word: 風
-      position: 6
-    - word: だ
-      position: 7
 - id: Okinagusa-f000187
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -5374,11 +1486,6 @@
   sound_begin: 672440
   sound_end: 674160
   sentence: ひばりさん、
-  words:
-    - word: ひばり
-      position: 0
-    - word: さん
-      position: 3
 - id: Okinagusa-f000188
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -5387,10 +1494,6 @@
   sound_begin: 674160
   sound_end: 676640
   sentence: さよなら」
-  words:
-    - word: さよなら
-      base: さようなら
-      position: 0
 - id: Okinagusa-f000189
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -5399,11 +1502,6 @@
   sound_begin: 676640
   sound_end: 677920
   sentence: 「僕も、
-  words:
-    - word: 僕
-      position: 1
-    - word: も
-      position: 2
 - id: Okinagusa-f000190
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -5412,11 +1510,6 @@
   sound_begin: 677920
   sound_end: 679400
   sentence: ひばりさん、
-  words:
-    - word: ひばり
-      position: 0
-    - word: さん
-      position: 3
 - id: Okinagusa-f000191
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -5425,10 +1518,6 @@
   sound_begin: 679400
   sound_end: 681960
   sentence: さよなら」
-  words:
-    - word: さよなら
-      base: さようなら
-      position: 0
 - id: Okinagusa-f000192
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -5437,10 +1526,6 @@
   sound_begin: 681960
   sound_end: 682800
   sentence: 「じゃ、
-  words:
-    - word: じゃ
-      base: で
-      position: 1
 - id: Okinagusa-f000193
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -5449,10 +1534,6 @@
   sound_begin: 682800
   sound_end: 684520
   sentence: さよなら、
-  words:
-    - word: さよなら
-      base: さようなら
-      position: 0
 - id: Okinagusa-f000194
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -5461,24 +1542,6 @@
   sound_begin: 684520
   sound_end: 685960
   sentence: お大事においでなさい」
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 大事
-      position: 1
-    - word: に
-      base: だ
-      position: 3
-    - word: お
-      base: 御
-      position: 4
-    - word: いで
-      base: 出る
-      position: 5
-    - word: なさい
-      base: 為す
-      position: 7
 - id: Okinagusa-f000195
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -5487,37 +1550,6 @@
   sound_begin: 689660
   sound_end: 693200
   sentence: 奇麗なすきとおった風がやって参りました。
-  words:
-    - word: 奇麗
-      position: 0
-    - word: な
-      base: だ
-      position: 2
-    - word: すき
-      base: すく
-      position: 3
-    - word: とおっ
-      base: 通る
-      position: 5
-    - word: た
-      position: 8
-    - word: 風
-      position: 9
-    - word: が
-      position: 10
-    - word: やっ
-      base: 遣る
-      position: 11
-    - word: て
-      position: 13
-    - word: 参り
-      base: 参る
-      position: 14
-    - word: まし
-      base: ます
-      position: 16
-    - word: た
-      position: 18
 - id: Okinagusa-f000196
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -5526,21 +1558,6 @@
   sound_begin: 693200
   sound_end: 696000
   sentence: まず向こうのポプラをひるがえし、
-  words:
-    - word: まず
-      base: 先ず
-      position: 0
-    - word: 向こう
-      position: 2
-    - word: の
-      position: 5
-    - word: ポプラ
-      position: 6
-    - word: を
-      position: 9
-    - word: ひるがえし
-      base: 翻す
-      position: 10
 - id: Okinagusa-f000197
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -5549,44 +1566,6 @@
   sound_begin: 696000
   sound_end: 702080
   sentence: 青の燕麦に波をたてそれから丘にのぼって来ました。
-  words:
-    - word: 青
-      position: 0
-    - word: の
-      position: 1
-    - word: 燕麦
-      position: 2
-    - word: に
-      position: 4
-    - word: 波
-      position: 5
-    - word: を
-      position: 6
-    - word: たて
-      base: たてる
-      position: 7
-    - word: それ
-      base: 其れ
-      position: 9
-    - word: から
-      position: 11
-    - word: 丘
-      position: 13
-    - word: に
-      position: 14
-    - word: のぼっ
-      base: 上る
-      position: 15
-    - word: て
-      position: 18
-    - word: 来
-      base: 来る
-      position: 19
-    - word: まし
-      base: ます
-      position: 20
-    - word: た
-      position: 22
 - id: Okinagusa-f000198
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -5595,50 +1574,6 @@
   sound_begin: 702080
   sound_end: 708000
   sentence: うずのしゅげは光ってまるで踊るようにふらふらして叫びました。
-  words:
-    - word: うず
-      base: 渦
-      position: 0
-    - word: の
-      position: 2
-    - word: しゅ
-      base: シュ
-      position: 3
-    - word: げ
-      position: 5
-    - word: は
-      position: 6
-    - word: 光っ
-      base: 光る
-      position: 7
-    - word: て
-      position: 9
-    - word: まるで
-      base: 丸で
-      position: 10
-    - word: 踊る
-      position: 13
-    - word: よう
-      base: 様
-      position: 15
-    - word: に
-      base: だ
-      position: 17
-    - word: ふらふら
-      position: 18
-    - word: し
-      base: 為る
-      position: 22
-    - word: て
-      position: 23
-    - word: 叫び
-      base: 叫ぶ
-      position: 24
-    - word: まし
-      base: ます
-      position: 26
-    - word: た
-      position: 28
 - id: Okinagusa-f000199
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -5647,10 +1582,6 @@
   sound_begin: 708000
   sound_end: 708960
   sentence: 「さよなら、
-  words:
-    - word: さよなら
-      base: さようなら
-      position: 1
 - id: Okinagusa-f000200
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -5659,11 +1590,6 @@
   sound_begin: 708960
   sound_end: 710783
   sentence: ひばりさん、
-  words:
-    - word: ひばり
-      position: 0
-    - word: さん
-      position: 3
 - id: Okinagusa-f000201
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -5672,10 +1598,6 @@
   sound_begin: 710783
   sound_end: 712000
   sentence: さよなら、
-  words:
-    - word: さよなら
-      base: さようなら
-      position: 0
 - id: Okinagusa-f000202
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -5684,12 +1606,6 @@
   sound_begin: 712000
   sound_end: 714040
   sentence: みなさん。
-  words:
-    - word: みな
-      base: 皆
-      position: 0
-    - word: さん
-      position: 2
 - id: Okinagusa-f000203
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -5698,14 +1614,6 @@
   sound_begin: 714040
   sound_end: 715560
   sentence: お日さん、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 日
-      position: 1
-    - word: さん
-      position: 2
 - id: Okinagusa-f000204
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -5714,18 +1622,6 @@
   sound_begin: 715560
   sound_end: 717200
   sentence: ありがとうございました」
-  words:
-    - word: ありがとう
-      base: 有り難う
-      position: 0
-    - word: ござい
-      base: 御座る
-      position: 5
-    - word: まし
-      base: ます
-      position: 8
-    - word: た
-      position: 10
 - id: Okinagusa-f000205
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -5734,34 +1630,6 @@
   sound_begin: 720000
   sound_end: 724220
   sentence: そしてちょうど星が砕けて散るときのように、
-  words:
-    - word: そして
-      position: 0
-    - word: ちょうど
-      base: 丁度
-      position: 3
-    - word: 星
-      position: 7
-    - word: が
-      position: 8
-    - word: 砕け
-      base: 砕く
-      position: 9
-    - word: て
-      position: 11
-    - word: 散る
-      position: 12
-    - word: とき
-      base: 時
-      position: 14
-    - word: の
-      position: 16
-    - word: よう
-      base: 様
-      position: 17
-    - word: に
-      base: だ
-      position: 19
 - id: Okinagusa-f000206
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -5770,46 +1638,6 @@
   sound_begin: 724220
   sound_end: 729960
   sentence: からだがばらばらになって一本ずつの銀毛はまっしろに光り、
-  words:
-    - word: からだ
-      base: 体
-      position: 0
-    - word: が
-      position: 3
-    - word: ばらばら
-      position: 4
-    - word: に
-      base: だ
-      position: 8
-    - word: なっ
-      base: 成る
-      position: 9
-    - word: て
-      position: 11
-    - word: 一
-      base: '1'
-      position: 12
-    - word: 本
-      position: 13
-    - word: ずつ
-      position: 14
-    - word: の
-      position: 16
-    - word: 銀
-      position: 17
-    - word: 毛
-      position: 18
-    - word: は
-      position: 19
-    - word: まっしろ
-      base: 真っ白
-      position: 20
-    - word: に
-      base: だ
-      position: 24
-    - word: 光り
-      base: 光る
-      position: 25
 - id: Okinagusa-f000207
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -5818,38 +1646,6 @@
   sound_begin: 729960
   sound_end: 734680
   sentence: 羽虫のように北の方へ飛んで行きました。
-  words:
-    - word: 羽虫
-      position: 0
-    - word: の
-      position: 2
-    - word: よう
-      base: 様
-      position: 3
-    - word: に
-      base: だ
-      position: 5
-    - word: 北
-      position: 6
-    - word: の
-      position: 7
-    - word: 方
-      position: 8
-    - word: へ
-      position: 9
-    - word: 飛ん
-      base: 飛ぶ
-      position: 10
-    - word: で
-      position: 12
-    - word: 行き
-      base: 行く
-      position: 13
-    - word: まし
-      base: ます
-      position: 15
-    - word: た
-      position: 17
 - id: Okinagusa-f000208
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -5858,64 +1654,6 @@
   sound_begin: 734680
   sound_end: 745477
   sentence: そしてひばりは鉄砲玉のように空へとびあがって鋭いみじかい歌をほんのちょっと歌ったのでした。
-  words:
-    - word: そして
-      position: 0
-    - word: ひばり
-      position: 3
-    - word: は
-      position: 6
-    - word: 鉄砲
-      position: 7
-    - word: 玉
-      position: 9
-    - word: の
-      position: 10
-    - word: よう
-      base: 様
-      position: 11
-    - word: に
-      base: だ
-      position: 13
-    - word: 空
-      position: 14
-    - word: へ
-      position: 15
-    - word: とび
-      base: 飛ぶ
-      position: 16
-    - word: あがっ
-      base: 上がる
-      position: 18
-    - word: て
-      position: 21
-    - word: 鋭い
-      position: 22
-    - word: みじかい
-      base: 短い
-      position: 24
-    - word: 歌
-      position: 28
-    - word: を
-      position: 29
-    - word: ほんの
-      base: 本の
-      position: 30
-    - word: ちょっと
-      base: 一寸
-      position: 33
-    - word: 歌っ
-      base: 歌う
-      position: 37
-    - word: た
-      position: 39
-    - word: の
-      position: 40
-    - word: でし
-      base: です
-      position: 41
-    - word: た
-      position: 43
 - id: Okinagusa-f000209
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -5924,16 +1662,6 @@
   sound_begin: 745477
   sound_end: 748603
   sentence: 私は考えます。
-  words:
-    - word: 私
-      position: 0
-    - word: は
-      position: 1
-    - word: 考え
-      base: 考える
-      position: 2
-    - word: ます
-      position: 4
 - id: Okinagusa-f000210
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -5942,60 +1670,6 @@
   sound_begin: 748603
   sound_end: 754920
   sentence: なぜひばりはうずのしゅげの銀毛の飛んで行った北の方へ飛ばなかったか、
-  words:
-    - word: なぜ
-      base: 何故
-      position: 0
-    - word: ひばり
-      position: 2
-    - word: は
-      position: 5
-    - word: うず
-      base: 渦
-      position: 6
-    - word: の
-      position: 8
-    - word: しゅ
-      base: シュ
-      position: 9
-    - word: げ
-      position: 11
-    - word: の
-      position: 12
-    - word: 銀
-      position: 13
-    - word: 毛
-      position: 14
-    - word: の
-      position: 15
-    - word: 飛ん
-      base: 飛ぶ
-      position: 16
-    - word: で
-      position: 18
-    - word: 行っ
-      base: 行く
-      position: 19
-    - word: た
-      position: 21
-    - word: 北
-      position: 22
-    - word: の
-      position: 23
-    - word: 方
-      position: 24
-    - word: へ
-      position: 25
-    - word: 飛ば
-      base: 飛ぶ
-      position: 26
-    - word: なかっ
-      base: ない
-      position: 28
-    - word: た
-      position: 31
-    - word: か
-      position: 32
 - id: Okinagusa-f000211
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -6004,29 +1678,6 @@
   sound_begin: 754920
   sound_end: 758160
   sentence: まっすぐに空の方へ飛んだか。
-  words:
-    - word: まっすぐ
-      base: 真っ直ぐ
-      position: 0
-    - word: に
-      base: だ
-      position: 4
-    - word: 空
-      position: 5
-    - word: の
-      position: 6
-    - word: 方
-      position: 7
-    - word: へ
-      position: 8
-    - word: 飛ん
-      base: 飛ぶ
-      position: 9
-    - word: だ
-      base: た
-      position: 11
-    - word: か
-      position: 12
 - id: Okinagusa-f000212
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -6035,18 +1686,6 @@
   sound_begin: 758160
   sound_end: 759680
   sentence: それはたしかに、
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: は
-      position: 2
-    - word: たしか
-      base: 確か
-      position: 3
-    - word: に
-      base: だ
-      position: 6
 - id: Okinagusa-f000213
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -6055,48 +1694,6 @@
   sound_begin: 759680
   sound_end: 765240
   sentence: 二つのうずのしゅげのたましいが天の方へ行ったからです。
-  words:
-    - word: 二
-      base: '2'
-      position: 0
-    - word: つ
-      position: 1
-    - word: の
-      position: 2
-    - word: うず
-      base: 渦
-      position: 3
-    - word: の
-      position: 5
-    - word: しゅ
-      base: シュ
-      position: 6
-    - word: げ
-      position: 8
-    - word: の
-      position: 9
-    - word: たましい
-      base: 魂
-      position: 10
-    - word: が
-      position: 14
-    - word: 天
-      position: 15
-    - word: の
-      position: 16
-    - word: 方
-      position: 17
-    - word: へ
-      position: 18
-    - word: 行っ
-      base: 行く
-      position: 19
-    - word: た
-      position: 21
-    - word: から
-      position: 22
-    - word: です
-      position: 24
 - id: Okinagusa-f000214
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -6105,62 +1702,6 @@
   sound_begin: 765240
   sound_end: 774403
   sentence: そしてもう追いつけなくなったときひばりはあのみじかい別れの歌を贈ったのだろうと思います。
-  words:
-    - word: そして
-      position: 0
-    - word: もう
-      position: 3
-    - word: 追い
-      base: 追う
-      position: 5
-    - word: つけ
-      base: つける
-      position: 7
-    - word: なく
-      base: ない
-      position: 9
-    - word: なっ
-      base: 成る
-      position: 11
-    - word: た
-      position: 13
-    - word: とき
-      base: 時
-      position: 14
-    - word: ひばり
-      position: 16
-    - word: は
-      position: 19
-    - word: あの
-      position: 20
-    - word: みじかい
-      base: 短い
-      position: 22
-    - word: 別れ
-      position: 26
-    - word: の
-      position: 28
-    - word: 歌
-      position: 29
-    - word: を
-      position: 30
-    - word: 贈っ
-      base: 贈る
-      position: 31
-    - word: た
-      position: 33
-    - word: の
-      position: 34
-    - word: だろう
-      base: だ
-      position: 35
-    - word: と
-      position: 38
-    - word: 思い
-      base: 思う
-      position: 39
-    - word: ます
-      position: 41
 - id: Okinagusa-f000215
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -6169,45 +1710,6 @@
   sound_begin: 774403
   sound_end: 780320
   sentence: そんなら天上へ行った二つの小さなたましいはどうなったか、
-  words:
-    - word: そん
-      base: 其れ
-      position: 0
-    - word: なら
-      base: だ
-      position: 2
-    - word: 天上
-      position: 4
-    - word: へ
-      position: 6
-    - word: 行っ
-      base: 行く
-      position: 7
-    - word: た
-      position: 9
-    - word: 二
-      base: '2'
-      position: 10
-    - word: つ
-      position: 11
-    - word: の
-      position: 12
-    - word: 小さな
-      position: 13
-    - word: たましい
-      base: 魂
-      position: 16
-    - word: は
-      position: 20
-    - word: どう
-      position: 21
-    - word: なっ
-      base: 成る
-      position: 23
-    - word: た
-      position: 25
-    - word: か
-      position: 26
 - id: Okinagusa-f000216
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -6216,43 +1718,6 @@
   sound_begin: 780320
   sound_end: 786160
   sentence: 私はそれは二つの小さな変光星になったと思います。
-  words:
-    - word: 私
-      position: 0
-    - word: は
-      position: 1
-    - word: それ
-      base: 其れ
-      position: 2
-    - word: は
-      position: 4
-    - word: 二
-      base: '2'
-      position: 5
-    - word: つ
-      position: 6
-    - word: の
-      position: 7
-    - word: 小さな
-      position: 8
-    - word: 変光
-      position: 11
-    - word: 星
-      position: 13
-    - word: に
-      position: 14
-    - word: なっ
-      base: 成る
-      position: 15
-    - word: た
-      position: 17
-    - word: と
-      position: 18
-    - word: 思い
-      base: 思う
-      position: 19
-    - word: ます
-      position: 21
 - id: Okinagusa-f000217
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -6261,45 +1726,6 @@
   sound_begin: 786160
   sound_end: 792582
   sentence: なぜなら変光星はあるときは黒くて天文台からも見えず、
-  words:
-    - word: なぜ
-      base: 何故
-      position: 0
-    - word: なら
-      base: だ
-      position: 2
-    - word: 変光
-      position: 4
-    - word: 星
-      position: 6
-    - word: は
-      position: 7
-    - word: ある
-      base: 或る
-      position: 8
-    - word: とき
-      base: 時
-      position: 10
-    - word: は
-      position: 12
-    - word: 黒く
-      base: 黒い
-      position: 13
-    - word: て
-      position: 15
-    - word: 天文
-      position: 16
-    - word: 台
-      position: 18
-    - word: から
-      position: 19
-    - word: も
-      position: 21
-    - word: 見え
-      base: 見える
-      position: 22
-    - word: ず
-      position: 24
 - id: Okinagusa-f000218
   author_japanese: 宮沢 賢治
   deck_name: Okinagusa
@@ -6308,41 +1734,3 @@
   sound_begin: 792582
   sound_end: 797760
   sentence: あるときは蟻が言ったように赤く光って見えるからです。
-  words:
-    - word: ある
-      base: 或る
-      position: 0
-    - word: とき
-      base: 時
-      position: 2
-    - word: は
-      position: 4
-    - word: 蟻
-      position: 5
-    - word: が
-      position: 6
-    - word: 言っ
-      base: 言う
-      position: 7
-    - word: た
-      position: 9
-    - word: よう
-      base: 様
-      position: 10
-    - word: に
-      base: だ
-      position: 12
-    - word: 赤く
-      base: 赤い
-      position: 13
-    - word: 光っ
-      base: 光る
-      position: 15
-    - word: て
-      position: 17
-    - word: 見える
-      position: 18
-    - word: から
-      position: 21
-    - word: です
-      position: 23

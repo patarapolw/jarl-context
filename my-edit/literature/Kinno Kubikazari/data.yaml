@@ -6,14 +6,6 @@
   sound_begin: 5466
   sound_end: 8910
   sentence: 金のくびかざり
-  words:
-    - word: 金
-      position: 0
-    - word: の
-      position: 1
-    - word: くびかざり
-      base: 首飾り
-      position: 2
 - id: Kinno Kubikazari-f000003
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -22,10 +14,6 @@
   sound_begin: 8910
   sound_end: 11880
   sentence: 一
-  words:
-    - word: 一
-      base: '1'
-      position: 0
 - id: Kinno Kubikazari-f000004
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -34,20 +22,6 @@
   sound_begin: 11880
   sound_end: 13600
   sentence: よし子さんのお家も、
-  words:
-    - word: よし子
-      position: 0
-    - word: さん
-      position: 3
-    - word: の
-      position: 5
-    - word: お
-      base: 御
-      position: 6
-    - word: 家
-      position: 7
-    - word: も
-      position: 8
 - id: Kinno Kubikazari-f000005
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -56,12 +30,6 @@
   sound_begin: 13600
   sound_end: 14000
   sentence: あすは、
-  words:
-    - word: あす
-      base: 明日
-      position: 0
-    - word: は
-      position: 2
 - id: Kinno Kubikazari-f000006
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -70,11 +38,6 @@
   sound_begin: 14000
   sound_end: 16440
   sentence: クリスマスです。
-  words:
-    - word: クリスマス
-      position: 0
-    - word: です
-      position: 5
 - id: Kinno Kubikazari-f000007
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -83,12 +46,6 @@
   sound_begin: 16440
   sound_end: 16960
   sentence: 毛なみの、
-  words:
-    - word: 毛なみ
-      base: 毛並み
-      position: 0
-    - word: の
-      position: 3
 - id: Kinno Kubikazari-f000008
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -97,14 +54,6 @@
   sound_begin: 16960
   sound_end: 18360
   sentence: つやつやした、
-  words:
-    - word: つやつや
-      position: 0
-    - word: し
-      base: 為る
-      position: 4
-    - word: た
-      position: 5
 - id: Kinno Kubikazari-f000009
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -113,15 +62,6 @@
   sound_begin: 18360
   sound_end: 19360
   sentence: まっ黒いネコは、
-  words:
-    - word: まっ黒い
-      base: 真っ黒い
-      position: 0
-    - word: ネコ
-      base: 猫
-      position: 4
-    - word: は
-      position: 6
 - id: Kinno Kubikazari-f000010
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -130,10 +70,6 @@
   sound_begin: 19360
   sound_end: 20320
   sentence: 夜どおし、
-  words:
-    - word: 夜どおし
-      base: 夜通し
-      position: 0
 - id: Kinno Kubikazari-f000011
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -142,21 +78,6 @@
   sound_begin: 20320
   sound_end: 22400
   sentence: 煙突のてっぺんにすわって、
-  words:
-    - word: 煙突
-      position: 0
-    - word: の
-      position: 2
-    - word: てっぺん
-      base: 天辺
-      position: 3
-    - word: に
-      position: 7
-    - word: すわっ
-      base: 座る
-      position: 8
-    - word: て
-      position: 11
 - id: Kinno Kubikazari-f000012
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -165,23 +86,6 @@
   sound_begin: 22400
   sound_end: 24240
   sentence: サンタクローズのおじいさんが、
-  words:
-    - word: サンタ
-      position: 0
-    - word: クローズ
-      position: 3
-    - word: の
-      position: 7
-    - word: お
-      base: 御
-      position: 8
-    - word: じい
-      base: 爺
-      position: 9
-    - word: さん
-      position: 11
-    - word: が
-      position: 13
 - id: Kinno Kubikazari-f000013
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -190,40 +94,6 @@
   sound_begin: 24240
   sound_end: 28280
   sentence: このお家をまちがいなく見つけてくれればいいがと、
-  words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: お
-      base: 御
-      position: 2
-    - word: 家
-      position: 3
-    - word: を
-      position: 4
-    - word: まちがい
-      base: 間違い
-      position: 5
-    - word: なく
-      base: 無い
-      position: 9
-    - word: 見つけ
-      base: 見付ける
-      position: 11
-    - word: て
-      position: 14
-    - word: くれれ
-      base: 呉れる
-      position: 15
-    - word: ば
-      position: 18
-    - word: いい
-      base: 良い
-      position: 19
-    - word: が
-      position: 21
-    - word: と
-      position: 22
 - id: Kinno Kubikazari-f000014
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -232,21 +102,6 @@
   sound_begin: 28280
   sound_end: 29760
   sentence: 黄色い目をひからせて、
-  words:
-    - word: 黄色い
-      position: 0
-    - word: 目
-      position: 3
-    - word: を
-      position: 4
-    - word: ひから
-      base: 光る
-      position: 5
-    - word: せ
-      base: せる
-      position: 8
-    - word: て
-      position: 9
 - id: Kinno Kubikazari-f000015
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -255,23 +110,6 @@
   sound_begin: 29760
   sound_end: 32301
   sentence: 見つめていました。
-  words:
-    - word: 見
-      base: 見る
-      position: 0
-    - word: つめ
-      base: つめる
-      position: 1
-    - word: て
-      position: 3
-    - word: い
-      base: 居る
-      position: 4
-    - word: まし
-      base: ます
-      position: 5
-    - word: た
-      position: 7
 - id: Kinno Kubikazari-f000016
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -280,17 +118,6 @@
   sound_begin: 32301
   sound_end: 34280
   sentence: よし子さんは今夜は、
-  words:
-    - word: よし子
-      position: 0
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
-    - word: 今夜
-      position: 6
-    - word: は
-      position: 8
 - id: Kinno Kubikazari-f000017
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -299,9 +126,6 @@
   sound_begin: 34280
   sound_end: 35640
   sentence: きっと、
-  words:
-    - word: きっと
-      position: 0
 - id: Kinno Kubikazari-f000018
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -310,17 +134,6 @@
   sound_begin: 35640
   sound_end: 36800
   sentence: おじいさんが、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: じい
-      base: 爺
-      position: 1
-    - word: さん
-      position: 3
-    - word: が
-      position: 5
 - id: Kinno Kubikazari-f000019
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -329,27 +142,6 @@
   sound_begin: 36800
   sound_end: 39320
   sentence: あたしのほしくてほしくてたまらない、
-  words:
-    - word: あたし
-      base: 私
-      position: 0
-    - word: の
-      position: 3
-    - word: ほしく
-      base: 欲しい
-      position: 4
-    - word: て
-      position: 7
-    - word: ほしく
-      base: 欲しい
-      position: 8
-    - word: て
-      position: 11
-    - word: たまら
-      base: たまる
-      position: 12
-    - word: ない
-      position: 15
 - id: Kinno Kubikazari-f000020
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -358,46 +150,6 @@
   sound_begin: 39320
   sound_end: 44080
   sentence: 小さな金のくびかざりを持って来てくれるにちがいないと言って、
-  words:
-    - word: 小さな
-      position: 0
-    - word: 金
-      position: 3
-    - word: の
-      position: 4
-    - word: くびかざり
-      base: 首飾り
-      position: 5
-    - word: を
-      position: 10
-    - word: 持っ
-      base: 持つ
-      position: 11
-    - word: て
-      position: 13
-    - word: 来
-      base: 来る
-      position: 14
-    - word: て
-      position: 15
-    - word: くれる
-      base: 呉れる
-      position: 16
-    - word: に
-      position: 19
-    - word: ちがい
-      base: 違い
-      position: 20
-    - word: ない
-      base: 無い
-      position: 23
-    - word: と
-      position: 25
-    - word: 言っ
-      base: 言う
-      position: 26
-    - word: て
-      position: 28
 - id: Kinno Kubikazari-f000021
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -406,22 +158,6 @@
   sound_begin: 44080
   sound_end: 46698
   sentence: おねんねをしました。
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: ねんね
-      position: 1
-    - word: を
-      position: 4
-    - word: し
-      base: 為る
-      position: 5
-    - word: まし
-      base: ます
-      position: 6
-    - word: た
-      position: 8
 - id: Kinno Kubikazari-f000022
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -430,11 +166,6 @@
   sound_begin: 46698
   sound_end: 48120
   sentence: イヌは、
-  words:
-    - word: イヌ
-      position: 0
-    - word: は
-      position: 2
 - id: Kinno Kubikazari-f000023
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -443,23 +174,6 @@
   sound_begin: 48120
   sound_end: 50320
   sentence: 家の中の煙突の下を、
-  words:
-    - word: 家
-      position: 0
-    - word: の
-      position: 1
-    - word: 中
-      position: 2
-    - word: の
-      position: 3
-    - word: 煙突
-      position: 4
-    - word: の
-      position: 6
-    - word: 下
-      position: 7
-    - word: を
-      position: 8
 - id: Kinno Kubikazari-f000024
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -468,20 +182,6 @@
   sound_begin: 50320
   sound_end: 51880
   sentence: ふさふさしたしっぽで、
-  words:
-    - word: ふさふさ
-      position: 0
-    - word: し
-      base: 為る
-      position: 4
-    - word: た
-      position: 5
-    - word: しっぽ
-      base: 尻尾
-      position: 6
-    - word: で
-      base: だ
-      position: 9
 - id: Kinno Kubikazari-f000025
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -490,28 +190,6 @@
   sound_begin: 51880
   sound_end: 55040
   sentence: きれいにお掃除をしました。
-  words:
-    - word: きれい
-      base: 奇麗
-      position: 0
-    - word: に
-      base: だ
-      position: 3
-    - word: お
-      base: 御
-      position: 4
-    - word: 掃除
-      position: 5
-    - word: を
-      position: 7
-    - word: し
-      base: 為る
-      position: 8
-    - word: まし
-      base: ます
-      position: 9
-    - word: た
-      position: 11
 - id: Kinno Kubikazari-f000026
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -520,22 +198,6 @@
   sound_begin: 55040
   sound_end: 57520
   sentence: せっかくサンタおじいさんが、
-  words:
-    - word: せっかく
-      base: 折角
-      position: 0
-    - word: サンタ
-      position: 4
-    - word: お
-      base: 御
-      position: 7
-    - word: じい
-      base: 爺
-      position: 8
-    - word: さん
-      position: 10
-    - word: が
-      position: 12
 - id: Kinno Kubikazari-f000027
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -544,37 +206,6 @@
   sound_begin: 57520
   sound_end: 60880
   sentence: 金のくびかざりをもって煙突から下りて来ても、
-  words:
-    - word: 金
-      position: 0
-    - word: の
-      position: 1
-    - word: くびかざり
-      base: 首飾り
-      position: 2
-    - word: を
-      position: 7
-    - word: もっ
-      base: 持つ
-      position: 8
-    - word: て
-      position: 10
-    - word: 煙突
-      position: 11
-    - word: から
-      position: 13
-    - word: 下り
-      base: 下りる
-      position: 15
-    - word: て
-      position: 17
-    - word: 来
-      base: 来る
-      position: 18
-    - word: て
-      position: 19
-    - word: も
-      position: 20
 - id: Kinno Kubikazari-f000028
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -583,26 +214,6 @@
   sound_begin: 60880
   sound_end: 63400
   sentence: そこがあまりきれいでなくては、
-  words:
-    - word: そこ
-      base: 其処
-      position: 0
-    - word: が
-      position: 2
-    - word: あまり
-      base: 余り
-      position: 3
-    - word: きれい
-      base: 奇麗
-      position: 6
-    - word: で
-      base: だ
-      position: 9
-    - word: なく
-      base: 無い
-      position: 10
-    - word: ては
-      position: 12
 - id: Kinno Kubikazari-f000029
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -611,44 +222,6 @@
   sound_begin: 63400
   sound_end: 69640
   sentence: いやな気持になって帰ってしまうかもしれないからです。
-  words:
-    - word: いや
-      base: 嫌
-      position: 0
-    - word: な
-      base: だ
-      position: 2
-    - word: 気持
-      base: 気持ち
-      position: 3
-    - word: に
-      position: 5
-    - word: なっ
-      base: 成る
-      position: 6
-    - word: て
-      position: 8
-    - word: 帰っ
-      base: 帰る
-      position: 9
-    - word: て
-      position: 11
-    - word: しまう
-      base: 仕舞う
-      position: 12
-    - word: か
-      position: 15
-    - word: も
-      position: 16
-    - word: しれ
-      base: 知る
-      position: 17
-    - word: ない
-      position: 19
-    - word: から
-      position: 21
-    - word: です
-      position: 23
 - id: Kinno Kubikazari-f000030
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -657,12 +230,6 @@
   sound_begin: 69640
   sound_end: 71000
   sentence: 「オウムさん、
-  words:
-    - word: オウム
-      base: 鸚鵡
-      position: 1
-    - word: さん
-      position: 4
 - id: Kinno Kubikazari-f000031
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -671,19 +238,6 @@
   sound_begin: 71000
   sound_end: 72560
   sentence: あなたはこのクリスマスに、
-  words:
-    - word: あなた
-      base: 貴方
-      position: 0
-    - word: は
-      position: 3
-    - word: この
-      base: 此の
-      position: 4
-    - word: クリスマス
-      position: 6
-    - word: に
-      position: 11
 - id: Kinno Kubikazari-f000032
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -692,28 +246,6 @@
   sound_begin: 72560
   sound_end: 75775
   sentence: よし子さんには何をして上げるの。」
-  words:
-    - word: よし子
-      position: 0
-    - word: さん
-      position: 3
-    - word: に
-      position: 5
-    - word: は
-      position: 6
-    - word: 何
-      position: 7
-    - word: を
-      position: 8
-    - word: し
-      base: 為る
-      position: 9
-    - word: て
-      position: 10
-    - word: 上げる
-      position: 11
-    - word: の
-      position: 14
 - id: Kinno Kubikazari-f000033
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -722,9 +254,6 @@
   sound_begin: 75775
   sound_end: 76560
   sentence: と、
-  words:
-    - word: と
-      position: 0
 - id: Kinno Kubikazari-f000034
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -733,11 +262,6 @@
   sound_begin: 76560
   sound_end: 77240
   sentence: イヌは、
-  words:
-    - word: イヌ
-      position: 0
-    - word: は
-      position: 2
 - id: Kinno Kubikazari-f000035
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -746,32 +270,6 @@
   sound_begin: 77240
   sound_end: 81600
   sentence: 籠の中のオウムに声をかけました。
-  words:
-    - word: 籠
-      position: 0
-    - word: の
-      position: 1
-    - word: 中
-      position: 2
-    - word: の
-      position: 3
-    - word: オウム
-      base: 鸚鵡
-      position: 4
-    - word: に
-      position: 7
-    - word: 声
-      position: 8
-    - word: を
-      position: 9
-    - word: かけ
-      base: 掛ける
-      position: 10
-    - word: まし
-      base: ます
-      position: 12
-    - word: た
-      position: 14
 - id: Kinno Kubikazari-f000036
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -780,11 +278,6 @@
   sound_begin: 81600
   sound_end: 82640
   sentence: 「私は、
-  words:
-    - word: 私
-      position: 1
-    - word: は
-      position: 2
 - id: Kinno Kubikazari-f000037
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -793,29 +286,6 @@
   sound_begin: 82640
   sound_end: 85646
   sentence: お目ざめのうたをうたって上げるわ。
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 目ざめ
-      base: 目覚め
-      position: 1
-    - word: の
-      position: 4
-    - word: うた
-      base: 歌
-      position: 5
-    - word: を
-      position: 7
-    - word: うたっ
-      base: 歌う
-      position: 8
-    - word: て
-      position: 11
-    - word: 上げる
-      position: 12
-    - word: わ
-      position: 15
 - id: Kinno Kubikazari-f000038
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -824,9 +294,6 @@
   sound_begin: 85646
   sound_end: 86200
   sentence: 」と、
-  words:
-    - word: と
-      position: 1
 - id: Kinno Kubikazari-f000039
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -835,20 +302,6 @@
   sound_begin: 86200
   sound_end: 88758
   sentence: オウムは言いました。
-  words:
-    - word: オウム
-      base: 鸚鵡
-      position: 0
-    - word: は
-      position: 3
-    - word: 言い
-      base: 言う
-      position: 4
-    - word: まし
-      base: ます
-      position: 6
-    - word: た
-      position: 8
 - id: Kinno Kubikazari-f000040
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -857,21 +310,6 @@
   sound_begin: 88758
   sound_end: 90720
   sentence: 「それは毎朝のことで、
-  words:
-    - word: それ
-      base: 其れ
-      position: 1
-    - word: は
-      position: 3
-    - word: 毎朝
-      position: 4
-    - word: の
-      position: 6
-    - word: こと
-      position: 7
-    - word: で
-      base: だ
-      position: 9
 - id: Kinno Kubikazari-f000041
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -880,28 +318,6 @@
   sound_begin: 90720
   sound_end: 93764
   sentence: 別にめずらしくもないじゃないの。」
-  words:
-    - word: 別
-      position: 0
-    - word: に
-      base: だ
-      position: 1
-    - word: めずらしく
-      base: 珍しい
-      position: 2
-    - word: も
-      position: 7
-    - word: ない
-      base: 無い
-      position: 8
-    - word: じゃ
-      base: だ
-      position: 10
-    - word: ない
-      base: 無い
-      position: 12
-    - word: の
-      position: 14
 - id: Kinno Kubikazari-f000042
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -910,11 +326,6 @@
   sound_begin: 93764
   sound_end: 94640
   sentence: 「でも、
-  words:
-    - word: で
-      position: 1
-    - word: も
-      position: 2
 - id: Kinno Kubikazari-f000043
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -923,25 +334,6 @@
   sound_begin: 94640
   sound_end: 97160
   sentence: いつものうたとはちがうのよ。
-  words:
-    - word: いつも
-      position: 0
-    - word: の
-      position: 3
-    - word: うた
-      base: 歌
-      position: 4
-    - word: と
-      position: 6
-    - word: は
-      position: 7
-    - word: ちがう
-      base: 違う
-      position: 8
-    - word: の
-      position: 11
-    - word: よ
-      position: 12
 - id: Kinno Kubikazari-f000044
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -950,12 +342,6 @@
   sound_begin: 97160
   sound_end: 97680
   sentence: あたしが、
-  words:
-    - word: あたし
-      base: 私
-      position: 0
-    - word: が
-      position: 3
 - id: Kinno Kubikazari-f000045
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -964,9 +350,6 @@
   sound_begin: 97680
   sound_end: 98080
   sentence: さっき、
-  words:
-    - word: さっき
-      position: 0
 - id: Kinno Kubikazari-f000046
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -975,16 +358,6 @@
   sound_begin: 98080
   sound_end: 99440
   sentence: つくったばかりの、
-  words:
-    - word: つくっ
-      base: 作る
-      position: 0
-    - word: た
-      position: 3
-    - word: ばかり
-      position: 4
-    - word: の
-      position: 7
 - id: Kinno Kubikazari-f000047
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -993,28 +366,6 @@
   sound_begin: 99440
   sound_end: 102193
   sentence: それはいいうたなんですの。
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: は
-      position: 2
-    - word: いい
-      base: 良い
-      position: 3
-    - word: うた
-      base: 歌
-      position: 5
-    - word: な
-      base: だ
-      position: 7
-    - word: ん
-      base: の
-      position: 8
-    - word: です
-      position: 9
-    - word: の
-      position: 11
 - id: Kinno Kubikazari-f000048
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1023,9 +374,6 @@
   sound_begin: 102193
   sound_end: 102960
   sentence: 」と、
-  words:
-    - word: と
-      position: 1
 - id: Kinno Kubikazari-f000049
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1034,20 +382,6 @@
   sound_begin: 102960
   sound_end: 105040
   sentence: オウムは言いました。
-  words:
-    - word: オウム
-      base: 鸚鵡
-      position: 0
-    - word: は
-      position: 3
-    - word: 言い
-      base: 言う
-      position: 4
-    - word: まし
-      base: ます
-      position: 6
-    - word: た
-      position: 8
 - id: Kinno Kubikazari-f000050
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1056,9 +390,6 @@
   sound_begin: 105040
   sound_end: 105800
   sentence: 「ふふん、
-  words:
-    - word: ふふん
-      position: 1
 - id: Kinno Kubikazari-f000051
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1067,12 +398,6 @@
   sound_begin: 105800
   sound_end: 106720
   sentence: うたなんか、
-  words:
-    - word: うた
-      base: 歌
-      position: 0
-    - word: なんか
-      position: 2
 - id: Kinno Kubikazari-f000052
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1081,15 +406,6 @@
   sound_begin: 106720
   sound_end: 108440
   sentence: うたったって、
-  words:
-    - word: う
-      base: うー
-      position: 0
-    - word: たった
-      base: 唯
-      position: 1
-    - word: って
-      position: 4
 - id: Kinno Kubikazari-f000053
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1098,24 +414,6 @@
   sound_begin: 108440
   sound_end: 110990
   sentence: クリスマスの役には立たないや。
-  words:
-    - word: クリスマス
-      position: 0
-    - word: の
-      position: 5
-    - word: 役
-      position: 6
-    - word: に
-      position: 7
-    - word: は
-      position: 8
-    - word: 立た
-      base: 立つ
-      position: 9
-    - word: ない
-      position: 11
-    - word: や
-      position: 13
 - id: Kinno Kubikazari-f000054
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1124,12 +422,6 @@
   sound_begin: 110990
   sound_end: 111960
   sentence: ごらんよ、
-  words:
-    - word: ごらん
-      base: 御覧
-      position: 0
-    - word: よ
-      position: 3
 - id: Kinno Kubikazari-f000055
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1138,24 +430,6 @@
   sound_begin: 111960
   sound_end: 114520
   sentence: ぼくたちのやってることを。
-  words:
-    - word: ぼく
-      base: 僕
-      position: 0
-    - word: たち
-      base: 達
-      position: 2
-    - word: の
-      position: 4
-    - word: やっ
-      base: 遣る
-      position: 5
-    - word: てる
-      position: 7
-    - word: こと
-      position: 9
-    - word: を
-      position: 11
 - id: Kinno Kubikazari-f000056
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1164,63 +438,6 @@
   sound_begin: 114520
   sound_end: 120080
   sentence: ネコがこの上にいて目を光らせていなかったらこの家は空から見えないし、
-  words:
-    - word: ネコ
-      base: 猫
-      position: 0
-    - word: が
-      position: 2
-    - word: この
-      base: 此の
-      position: 3
-    - word: 上
-      position: 5
-    - word: に
-      position: 6
-    - word: い
-      base: 居る
-      position: 7
-    - word: て
-      position: 8
-    - word: 目
-      position: 9
-    - word: を
-      position: 10
-    - word: 光ら
-      base: 光る
-      position: 11
-    - word: せ
-      base: せる
-      position: 13
-    - word: て
-      position: 14
-    - word: い
-      base: 居る
-      position: 15
-    - word: なかっ
-      base: ない
-      position: 16
-    - word: たら
-      base: た
-      position: 19
-    - word: この
-      base: 此の
-      position: 21
-    - word: 家
-      position: 23
-    - word: は
-      position: 24
-    - word: 空
-      position: 25
-    - word: から
-      position: 26
-    - word: 見え
-      base: 見える
-      position: 28
-    - word: ない
-      position: 30
-    - word: し
-      position: 32
 - id: Kinno Kubikazari-f000057
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1229,35 +446,6 @@
   sound_begin: 120080
   sound_end: 123000
   sentence: 僕がここをきれいにしておかなければ、
-  words:
-    - word: 僕
-      position: 0
-    - word: が
-      position: 1
-    - word: ここ
-      base: 此処
-      position: 2
-    - word: を
-      position: 4
-    - word: きれい
-      base: 奇麗
-      position: 5
-    - word: に
-      base: だ
-      position: 8
-    - word: し
-      base: 為る
-      position: 9
-    - word: て
-      position: 10
-    - word: おか
-      base: おく
-      position: 11
-    - word: なけれ
-      base: ない
-      position: 13
-    - word: ば
-      position: 16
 - id: Kinno Kubikazari-f000058
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1266,35 +454,6 @@
   sound_begin: 123000
   sound_end: 125917
   sentence: おじいさんははいって来やしないよ。
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: じい
-      base: 爺
-      position: 1
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
-    - word: はいっ
-      base: 入る
-      position: 6
-    - word: て
-      position: 9
-    - word: 来
-      base: 来る
-      position: 10
-    - word: や
-      base: は
-      position: 11
-    - word: し
-      base: 為る
-      position: 12
-    - word: ない
-      position: 13
-    - word: よ
-      position: 15
 - id: Kinno Kubikazari-f000059
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1303,21 +462,6 @@
   sound_begin: 125917
   sound_end: 127400
   sentence: 僕たちのすることは、
-  words:
-    - word: 僕
-      position: 0
-    - word: たち
-      base: 達
-      position: 1
-    - word: の
-      position: 3
-    - word: する
-      base: 為る
-      position: 4
-    - word: こと
-      position: 6
-    - word: は
-      position: 8
 - id: Kinno Kubikazari-f000060
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1326,14 +470,6 @@
   sound_begin: 127400
   sound_end: 130145
   sentence: こんなものだ。」
-  words:
-    - word: こんな
-      position: 0
-    - word: もの
-      base: 物
-      position: 3
-    - word: だ
-      position: 5
 - id: Kinno Kubikazari-f000061
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1342,11 +478,6 @@
   sound_begin: 130145
   sound_end: 130560
   sentence: イヌは、
-  words:
-    - word: イヌ
-      position: 0
-    - word: は
-      position: 2
 - id: Kinno Kubikazari-f000062
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1355,17 +486,6 @@
   sound_begin: 130560
   sound_end: 131840
   sentence: しっぽを振って、
-  words:
-    - word: しっぽ
-      base: 尻尾
-      position: 0
-    - word: を
-      position: 3
-    - word: 振っ
-      base: 振る
-      position: 4
-    - word: て
-      position: 6
 - id: Kinno Kubikazari-f000063
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1374,20 +494,6 @@
   sound_begin: 131840
   sound_end: 133700
   sentence: 大いばりにいばりました。
-  words:
-    - word: 大いばり
-      base: 大威張り
-      position: 0
-    - word: に
-      position: 4
-    - word: いばり
-      base: 威張る
-      position: 5
-    - word: まし
-      base: ます
-      position: 8
-    - word: た
-      position: 10
 - id: Kinno Kubikazari-f000064
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1396,14 +502,6 @@
   sound_begin: 135800
   sound_end: 137040
   sentence: 「あたしだって、
-  words:
-    - word: あたし
-      base: 私
-      position: 1
-    - word: だ
-      position: 4
-    - word: って
-      position: 5
 - id: Kinno Kubikazari-f000065
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1412,22 +510,6 @@
   sound_begin: 137040
   sound_end: 139119
   sentence: 何かしたいのだけれど、
-  words:
-    - word: 何
-      position: 0
-    - word: か
-      position: 1
-    - word: し
-      base: 為る
-      position: 2
-    - word: たい
-      position: 3
-    - word: の
-      position: 5
-    - word: だ
-      position: 6
-    - word: けれど
-      position: 7
 - id: Kinno Kubikazari-f000066
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1436,11 +518,6 @@
   sound_begin: 139119
   sound_end: 139640
   sentence: でも、
-  words:
-    - word: で
-      position: 0
-    - word: も
-      position: 1
 - id: Kinno Kubikazari-f000067
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1449,25 +526,6 @@
   sound_begin: 139640
   sound_end: 143298
   sentence: 籠の中にいるんですもの。
-  words:
-    - word: 籠
-      position: 0
-    - word: の
-      position: 1
-    - word: 中
-      position: 2
-    - word: に
-      position: 3
-    - word: いる
-      base: 居る
-      position: 4
-    - word: ん
-      base: の
-      position: 6
-    - word: です
-      position: 7
-    - word: もの
-      position: 9
 - id: Kinno Kubikazari-f000068
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1476,26 +534,6 @@
   sound_begin: 143298
   sound_end: 145880
   sentence: あたしにはうたをうたうことしか、
-  words:
-    - word: あたし
-      base: 私
-      position: 0
-    - word: に
-      position: 3
-    - word: は
-      position: 4
-    - word: うた
-      base: 歌
-      position: 5
-    - word: を
-      position: 7
-    - word: うたう
-      base: 歌う
-      position: 8
-    - word: こと
-      position: 11
-    - word: しか
-      position: 13
 - id: Kinno Kubikazari-f000069
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1504,14 +542,6 @@
   sound_begin: 145880
   sound_end: 148212
   sentence: 出来ないわ……。
-  words:
-    - word: 出来
-      base: 出来る
-      position: 0
-    - word: ない
-      position: 2
-    - word: わ
-      position: 4
 - id: Kinno Kubikazari-f000070
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1520,11 +550,6 @@
   sound_begin: 148212
   sound_end: 148813
   sentence: 今に、
-  words:
-    - word: 今
-      position: 0
-    - word: に
-      position: 1
 - id: Kinno Kubikazari-f000071
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1533,24 +558,6 @@
   sound_begin: 148813
   sound_end: 152560
   sentence: いい節がつくんだけれど。」
-  words:
-    - word: いい
-      base: 良い
-      position: 0
-    - word: 節
-      position: 2
-    - word: が
-      position: 3
-    - word: つく
-      base: 付く
-      position: 4
-    - word: ん
-      base: の
-      position: 6
-    - word: だ
-      position: 7
-    - word: けれど
-      position: 8
 - id: Kinno Kubikazari-f000072
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1559,12 +566,6 @@
   sound_begin: 152560
   sound_end: 153325
   sentence: オウムは、
-  words:
-    - word: オウム
-      base: 鸚鵡
-      position: 0
-    - word: は
-      position: 3
 - id: Kinno Kubikazari-f000073
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1573,15 +574,6 @@
   sound_begin: 153325
   sound_end: 154824
   sentence: さびしそうに、
-  words:
-    - word: さびし
-      base: 寂しい
-      position: 0
-    - word: そう
-      position: 3
-    - word: に
-      base: だ
-      position: 5
 - id: Kinno Kubikazari-f000074
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1590,23 +582,6 @@
   sound_begin: 154824
   sound_end: 157971
   sentence: 小さな声でこう言いました。
-  words:
-    - word: 小さな
-      position: 0
-    - word: 声
-      position: 3
-    - word: で
-      position: 4
-    - word: こう
-      position: 5
-    - word: 言い
-      base: 言う
-      position: 7
-    - word: まし
-      base: ます
-      position: 9
-    - word: た
-      position: 11
 - id: Kinno Kubikazari-f000075
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1615,11 +590,6 @@
   sound_begin: 157971
   sound_end: 158800
   sentence: イヌは、
-  words:
-    - word: イヌ
-      position: 0
-    - word: は
-      position: 2
 - id: Kinno Kubikazari-f000076
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1628,14 +598,6 @@
   sound_begin: 158800
   sound_end: 159640
   sentence: それには、
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: に
-      position: 2
-    - word: は
-      position: 3
 - id: Kinno Kubikazari-f000077
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1644,24 +606,6 @@
   sound_begin: 159640
   sound_end: 162520
   sentence: ヘんじもしないで、
-  words:
-    - word: ヘ
-      base: へえ
-      position: 0
-    - word: ん
-      base: の
-      position: 1
-    - word: じ
-      position: 2
-    - word: も
-      position: 3
-    - word: し
-      base: 為る
-      position: 4
-    - word: ない
-      position: 5
-    - word: で
-      position: 7
 - id: Kinno Kubikazari-f000078
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1670,11 +614,6 @@
   sound_begin: 162520
   sound_end: 163120
   sentence: 「では、
-  words:
-    - word: で
-      position: 1
-    - word: は
-      position: 2
 - id: Kinno Kubikazari-f000079
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1683,11 +622,6 @@
   sound_begin: 163120
   sound_end: 164000
   sentence: 僕は、
-  words:
-    - word: 僕
-      position: 0
-    - word: は
-      position: 1
 - id: Kinno Kubikazari-f000080
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1696,21 +630,6 @@
   sound_begin: 164000
   sound_end: 165360
   sentence: おじいさんが来るまで、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: じい
-      base: 爺
-      position: 1
-    - word: さん
-      position: 3
-    - word: が
-      position: 5
-    - word: 来る
-      position: 6
-    - word: まで
-      position: 8
 - id: Kinno Kubikazari-f000081
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1719,20 +638,6 @@
   sound_begin: 165360
   sound_end: 167580
   sentence: 一寝入りするんだ。」
-  words:
-    - word: 一
-      base: '1'
-      position: 0
-    - word: 寝入り
-      position: 1
-    - word: する
-      base: 為る
-      position: 4
-    - word: ん
-      base: の
-      position: 6
-    - word: だ
-      position: 7
 - id: Kinno Kubikazari-f000082
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1741,14 +646,6 @@
   sound_begin: 167580
   sound_end: 169040
   sentence: こう言って、
-  words:
-    - word: こう
-      position: 0
-    - word: 言っ
-      base: 言う
-      position: 2
-    - word: て
-      position: 4
 - id: Kinno Kubikazari-f000083
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1757,11 +654,6 @@
   sound_begin: 169040
   sound_end: 169680
   sentence: ごろりと、
-  words:
-    - word: ごろり
-      position: 0
-    - word: と
-      position: 3
 - id: Kinno Kubikazari-f000084
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1770,24 +662,6 @@
   sound_begin: 169680
   sound_end: 171720
   sentence: 横になってしまいました。
-  words:
-    - word: 横
-      position: 0
-    - word: に
-      position: 1
-    - word: なっ
-      base: 成る
-      position: 2
-    - word: て
-      position: 4
-    - word: しまい
-      base: 仕舞う
-      position: 5
-    - word: まし
-      base: ます
-      position: 8
-    - word: た
-      position: 10
 - id: Kinno Kubikazari-f000085
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1796,10 +670,6 @@
   sound_begin: 174150
   sound_end: 175281
   sentence: 二
-  words:
-    - word: 二
-      base: '2'
-      position: 0
 - id: Kinno Kubikazari-f000086
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1808,26 +678,6 @@
   sound_begin: 177080
   sound_end: 179880
   sentence: お部屋の中はしいんとして、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 部屋
-      position: 1
-    - word: の
-      position: 3
-    - word: 中
-      position: 4
-    - word: は
-      position: 5
-    - word: しいんと
-      base: しんと
-      position: 6
-    - word: し
-      base: 為る
-      position: 10
-    - word: て
-      position: 11
 - id: Kinno Kubikazari-f000087
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1836,11 +686,6 @@
   sound_begin: 179880
   sound_end: 180320
   sentence: 夜が、
-  words:
-    - word: 夜
-      position: 0
-    - word: が
-      position: 1
 - id: Kinno Kubikazari-f000088
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1849,23 +694,6 @@
   sound_begin: 180320
   sound_end: 182000
   sentence: だんだんふけていきました。
-  words:
-    - word: だんだん
-      base: 段々
-      position: 0
-    - word: ふけ
-      base: ふける
-      position: 4
-    - word: て
-      position: 6
-    - word: いき
-      base: 行く
-      position: 7
-    - word: まし
-      base: ます
-      position: 9
-    - word: た
-      position: 11
 - id: Kinno Kubikazari-f000089
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1874,15 +702,6 @@
   sound_begin: 183800
   sound_end: 185320
   sentence: しばらくすると、
-  words:
-    - word: しばらく
-      base: 暫く
-      position: 0
-    - word: する
-      base: 為る
-      position: 4
-    - word: と
-      position: 6
 - id: Kinno Kubikazari-f000090
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1891,15 +710,6 @@
   sound_begin: 185320
   sound_end: 186880
   sentence: 屋根の上に、
-  words:
-    - word: 屋根
-      position: 0
-    - word: の
-      position: 2
-    - word: 上
-      position: 3
-    - word: に
-      position: 4
 - id: Kinno Kubikazari-f000091
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1908,26 +718,6 @@
   sound_begin: 186880
   sound_end: 191941
   sentence: みしみしという足音が聞えました。
-  words:
-    - word: みしみし
-      position: 0
-    - word: と
-      position: 4
-    - word: いう
-      base: 言う
-      position: 5
-    - word: 足音
-      position: 7
-    - word: が
-      position: 9
-    - word: 聞え
-      base: 聞こえる
-      position: 10
-    - word: まし
-      base: ます
-      position: 12
-    - word: た
-      position: 14
 - id: Kinno Kubikazari-f000092
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1936,11 +726,6 @@
   sound_begin: 191941
   sound_end: 192514
   sentence: イヌは、
-  words:
-    - word: イヌ
-      position: 0
-    - word: は
-      position: 2
 - id: Kinno Kubikazari-f000093
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1949,31 +734,6 @@
   sound_begin: 192514
   sound_end: 196240
   sentence: はっと目をさまして聞耳を立てました。
-  words:
-    - word: はっと
-      position: 0
-    - word: 目
-      position: 3
-    - word: を
-      position: 4
-    - word: さまし
-      base: さます
-      position: 5
-    - word: て
-      position: 8
-    - word: 聞耳
-      base: 聞き耳
-      position: 9
-    - word: を
-      position: 11
-    - word: 立て
-      base: 立つ
-      position: 12
-    - word: まし
-      base: ます
-      position: 14
-    - word: た
-      position: 16
 - id: Kinno Kubikazari-f000094
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1982,12 +742,6 @@
   sound_begin: 196240
   sound_end: 197200
   sentence: オウムは、
-  words:
-    - word: オウム
-      base: 鸚鵡
-      position: 0
-    - word: は
-      position: 3
 - id: Kinno Kubikazari-f000095
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -1996,9 +750,6 @@
   sound_begin: 197200
   sound_end: 197720
   sentence: ずっと、
-  words:
-    - word: ずっと
-      position: 0
 - id: Kinno Kubikazari-f000096
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2007,14 +758,6 @@
   sound_begin: 197720
   sound_end: 198440
   sentence: ねないで、
-  words:
-    - word: ね
-      base: 寝る
-      position: 0
-    - word: ない
-      position: 1
-    - word: で
-      position: 3
 - id: Kinno Kubikazari-f000097
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2023,21 +766,6 @@
   sound_begin: 198440
   sound_end: 201657
   sentence: まっていたのです。
-  words:
-    - word: まっ
-      base: 待つ
-      position: 0
-    - word: て
-      position: 2
-    - word: い
-      base: 居る
-      position: 3
-    - word: た
-      position: 4
-    - word: の
-      position: 5
-    - word: です
-      position: 6
 - id: Kinno Kubikazari-f000098
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2046,26 +774,6 @@
   sound_begin: 201657
   sound_end: 206550
   sentence: 「掃除はきれいに出来たかな。」
-  words:
-    - word: 掃除
-      position: 1
-    - word: は
-      position: 3
-    - word: きれい
-      base: 奇麗
-      position: 4
-    - word: に
-      base: だ
-      position: 7
-    - word: 出来
-      base: 出来る
-      position: 8
-    - word: た
-      position: 10
-    - word: か
-      position: 11
-    - word: な
-      position: 12
 - id: Kinno Kubikazari-f000099
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2074,23 +782,6 @@
   sound_begin: 206550
   sound_end: 208400
   sentence: サンタクローズのおじいさんは、
-  words:
-    - word: サンタ
-      position: 0
-    - word: クローズ
-      position: 3
-    - word: の
-      position: 7
-    - word: お
-      base: 御
-      position: 8
-    - word: じい
-      base: 爺
-      position: 9
-    - word: さん
-      position: 11
-    - word: は
-      position: 13
 - id: Kinno Kubikazari-f000100
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2099,14 +790,6 @@
   sound_begin: 208400
   sound_end: 209880
   sentence: こう言いながら、
-  words:
-    - word: こう
-      position: 0
-    - word: 言い
-      base: 言う
-      position: 2
-    - word: ながら
-      position: 4
 - id: Kinno Kubikazari-f000101
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2115,35 +798,6 @@
   sound_begin: 209880
   sound_end: 212780
   sentence: えんとつの上にいたネコを背中にしょって、
-  words:
-    - word: えんとつ
-      base: 煙突
-      position: 0
-    - word: の
-      position: 4
-    - word: 上
-      position: 5
-    - word: に
-      position: 6
-    - word: い
-      base: 居る
-      position: 7
-    - word: た
-      position: 8
-    - word: ネコ
-      base: 猫
-      position: 9
-    - word: を
-      position: 11
-    - word: 背中
-      position: 12
-    - word: に
-      position: 14
-    - word: しょっ
-      base: 背負う
-      position: 15
-    - word: て
-      position: 18
 - id: Kinno Kubikazari-f000102
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2152,11 +806,6 @@
   sound_begin: 212780
   sound_end: 213720
   sentence: すらりと、
-  words:
-    - word: すらり
-      position: 0
-    - word: と
-      position: 3
 - id: Kinno Kubikazari-f000103
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2165,27 +814,6 @@
   sound_begin: 213720
   sound_end: 216520
   sentence: お部屋へ下りて来ました。
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 部屋
-      position: 1
-    - word: へ
-      position: 3
-    - word: 下り
-      base: 下りる
-      position: 4
-    - word: て
-      position: 6
-    - word: 来
-      base: 来る
-      position: 7
-    - word: まし
-      base: ます
-      position: 8
-    - word: た
-      position: 10
 - id: Kinno Kubikazari-f000104
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2194,9 +822,6 @@
   sound_begin: 216520
   sound_end: 217280
   sentence: そして、
-  words:
-    - word: そして
-      position: 0
 - id: Kinno Kubikazari-f000105
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2205,11 +830,6 @@
   sound_begin: 217280
   sound_end: 218521
   sentence: ポケットから、
-  words:
-    - word: ポケット
-      position: 0
-    - word: から
-      position: 4
 - id: Kinno Kubikazari-f000106
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2218,19 +838,6 @@
   sound_begin: 218521
   sound_end: 221067
   sentence: かきつけを出して、
-  words:
-    - word: かき
-      position: 0
-    - word: つけ
-      base: 付け
-      position: 2
-    - word: を
-      position: 4
-    - word: 出し
-      base: 出す
-      position: 5
-    - word: て
-      position: 7
 - id: Kinno Kubikazari-f000107
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2239,10 +846,6 @@
   sound_begin: 221067
   sound_end: 223280
   sentence: 「ええッと、
-  words:
-    - word: ええッと
-      base: えーと
-      position: 1
 - id: Kinno Kubikazari-f000108
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2251,31 +854,6 @@
   sound_begin: 223280
   sound_end: 226872
   sentence: よし子さんは何がほしいのだったかな。」
-  words:
-    - word: よし子
-      position: 0
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
-    - word: 何
-      position: 6
-    - word: が
-      position: 7
-    - word: ほしい
-      base: 欲しい
-      position: 8
-    - word: の
-      position: 11
-    - word: だっ
-      base: だ
-      position: 12
-    - word: た
-      position: 14
-    - word: か
-      position: 15
-    - word: な
-      position: 16
 - id: Kinno Kubikazari-f000109
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2284,9 +862,6 @@
   sound_begin: 226872
   sound_end: 227410
   sentence: と、
-  words:
-    - word: と
-      position: 0
 - id: Kinno Kubikazari-f000110
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2295,24 +870,6 @@
   sound_begin: 227410
   sound_end: 230521
   sentence: 言い言い読みかえしました。
-  words:
-    - word: 言い
-      base: 言う
-      position: 0
-    - word: 言い
-      base: 言う
-      position: 2
-    - word: 読み
-      base: 読む
-      position: 4
-    - word: かえし
-      base: かえす
-      position: 6
-    - word: まし
-      base: ます
-      position: 9
-    - word: た
-      position: 11
 - id: Kinno Kubikazari-f000111
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2321,32 +878,6 @@
   sound_begin: 230521
   sound_end: 235200
   sentence: 「私の歩き人形にはお靴を二つ。
-  words:
-    - word: 私
-      position: 1
-    - word: の
-      position: 2
-    - word: 歩き
-      base: 歩く
-      position: 3
-    - word: 人形
-      position: 5
-    - word: に
-      position: 7
-    - word: は
-      position: 8
-    - word: お
-      base: 御
-      position: 9
-    - word: 靴
-      position: 10
-    - word: を
-      position: 11
-    - word: 二
-      base: '2'
-      position: 12
-    - word: つ
-      position: 13
 - id: Kinno Kubikazari-f000112
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2355,25 +886,6 @@
   sound_begin: 235200
   sound_end: 238840
   sentence: 白い熊ちゃんには毛皮の帽子を。
-  words:
-    - word: 白い
-      position: 0
-    - word: 熊
-      position: 2
-    - word: ちゃん
-      position: 3
-    - word: に
-      position: 6
-    - word: は
-      position: 7
-    - word: 毛皮
-      position: 8
-    - word: の
-      position: 10
-    - word: 帽子
-      position: 11
-    - word: を
-      position: 13
 - id: Kinno Kubikazari-f000113
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2382,24 +894,6 @@
   sound_begin: 238840
   sound_end: 242380
   sentence: ネコにはちりちりと鳴る鈴を。
-  words:
-    - word: ネコ
-      base: 猫
-      position: 0
-    - word: に
-      position: 2
-    - word: は
-      position: 3
-    - word: ちりちり
-      position: 4
-    - word: と
-      position: 8
-    - word: 鳴る
-      position: 9
-    - word: 鈴
-      position: 11
-    - word: を
-      position: 12
 - id: Kinno Kubikazari-f000114
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2408,26 +902,6 @@
   sound_begin: 242380
   sound_end: 246960
   sentence: イヌにはぴかぴか光る首輪を一つ。
-  words:
-    - word: イヌ
-      position: 0
-    - word: に
-      position: 2
-    - word: は
-      position: 3
-    - word: ぴかぴか
-      position: 4
-    - word: 光る
-      position: 8
-    - word: 首輪
-      position: 10
-    - word: を
-      position: 12
-    - word: 一
-      base: '1'
-      position: 13
-    - word: つ
-      position: 14
 - id: Kinno Kubikazari-f000115
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2436,26 +910,6 @@
   sound_begin: 246960
   sound_end: 250760
   sentence: オウムにはあたらしいうたのふしを
-  words:
-    - word: オウム
-      base: 鸚鵡
-      position: 0
-    - word: に
-      position: 3
-    - word: は
-      position: 4
-    - word: あたらしい
-      base: 新しい
-      position: 5
-    - word: うた
-      base: 歌
-      position: 10
-    - word: の
-      position: 12
-    - word: ふし
-      position: 13
-    - word: を
-      position: 15
 - id: Kinno Kubikazari-f000116
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2464,12 +918,6 @@
   sound_begin: 250760
   sound_end: 252400
   sentence: それから、
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: から
-      position: 2
 - id: Kinno Kubikazari-f000117
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2478,13 +926,6 @@
   sound_begin: 252400
   sound_end: 256519
   sentence: 私には……」
-  words:
-    - word: 私
-      position: 0
-    - word: に
-      position: 1
-    - word: は
-      position: 2
 - id: Kinno Kubikazari-f000118
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2493,19 +934,6 @@
   sound_begin: 256519
   sound_end: 257680
   sentence: サンタおじいさんは、
-  words:
-    - word: サンタ
-      position: 0
-    - word: お
-      base: 御
-      position: 3
-    - word: じい
-      base: 爺
-      position: 4
-    - word: さん
-      position: 6
-    - word: は
-      position: 8
 - id: Kinno Kubikazari-f000119
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2514,25 +942,6 @@
   sound_begin: 257680
   sound_end: 260560
   sentence: そこでつまってしまいました。
-  words:
-    - word: そこ
-      base: 其処
-      position: 0
-    - word: で
-      position: 2
-    - word: つまっ
-      base: 詰まる
-      position: 3
-    - word: て
-      position: 6
-    - word: しまい
-      base: 仕舞う
-      position: 7
-    - word: まし
-      base: ます
-      position: 10
-    - word: た
-      position: 12
 - id: Kinno Kubikazari-f000120
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2541,29 +950,6 @@
   sound_begin: 260560
   sound_end: 262624
   sentence: 暗くて字がよく見えないので、
-  words:
-    - word: 暗く
-      base: 暗い
-      position: 0
-    - word: て
-      position: 2
-    - word: 字
-      position: 3
-    - word: が
-      position: 4
-    - word: よく
-      base: 良く
-      position: 5
-    - word: 見え
-      base: 見える
-      position: 7
-    - word: ない
-      position: 9
-    - word: の
-      position: 11
-    - word: で
-      base: だ
-      position: 12
 - id: Kinno Kubikazari-f000121
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2572,28 +958,6 @@
   sound_begin: 262624
   sound_end: 265764
   sentence: かきつけを眼のそばによせて、
-  words:
-    - word: かき
-      position: 0
-    - word: つけ
-      base: 付け
-      position: 2
-    - word: を
-      position: 4
-    - word: 眼
-      base: 目
-      position: 5
-    - word: の
-      position: 6
-    - word: そば
-      position: 7
-    - word: に
-      position: 9
-    - word: よせ
-      base: 寄せる
-      position: 10
-    - word: て
-      position: 12
 - id: Kinno Kubikazari-f000122
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2602,9 +966,6 @@
   sound_begin: 265764
   sound_end: 267480
   sentence: 「はてな、
-  words:
-    - word: はてな
-      position: 1
 - id: Kinno Kubikazari-f000123
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2613,33 +974,6 @@
   sound_begin: 267480
   sound_end: 271958
   sentence: よし子さんのほしいものは何だったっけな。」
-  words:
-    - word: よし子
-      position: 0
-    - word: さん
-      position: 3
-    - word: の
-      position: 5
-    - word: ほしい
-      base: 欲しい
-      position: 6
-    - word: もの
-      base: 物
-      position: 9
-    - word: は
-      position: 11
-    - word: 何
-      position: 12
-    - word: だっ
-      base: だ
-      position: 13
-    - word: た
-      position: 15
-    - word: っけ
-      base: け
-      position: 16
-    - word: な
-      position: 18
 - id: Kinno Kubikazari-f000124
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2648,9 +982,6 @@
   sound_begin: 271958
   sound_end: 272560
   sentence: と、
-  words:
-    - word: と
-      position: 0
 - id: Kinno Kubikazari-f000125
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2659,28 +990,6 @@
   sound_begin: 272560
   sound_end: 275911
   sentence: おじいさんは考えこみました。
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: じい
-      base: 爺
-      position: 1
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
-    - word: 考え
-      base: 考える
-      position: 6
-    - word: こみ
-      base: 込む
-      position: 8
-    - word: まし
-      base: ます
-      position: 10
-    - word: た
-      position: 12
 - id: Kinno Kubikazari-f000126
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2689,18 +998,6 @@
   sound_begin: 275911
   sound_end: 278683
   sentence: 「小さな金のくびかざりです。」
-  words:
-    - word: 小さな
-      position: 1
-    - word: 金
-      position: 4
-    - word: の
-      position: 5
-    - word: くびかざり
-      base: 首飾り
-      position: 6
-    - word: です
-      position: 11
 - id: Kinno Kubikazari-f000127
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2709,9 +1006,6 @@
   sound_begin: 278683
   sound_end: 279400
   sentence: と、
-  words:
-    - word: と
-      position: 0
 - id: Kinno Kubikazari-f000128
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2720,23 +1014,6 @@
   sound_begin: 279400
   sound_end: 281360
   sentence: イヌとネコとオウムとが、
-  words:
-    - word: イヌ
-      position: 0
-    - word: と
-      position: 2
-    - word: ネコ
-      base: 猫
-      position: 3
-    - word: と
-      position: 5
-    - word: オウム
-      base: 鸚鵡
-      position: 6
-    - word: と
-      position: 9
-    - word: が
-      position: 10
 - id: Kinno Kubikazari-f000129
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2745,22 +1022,6 @@
   sound_begin: 281360
   sound_end: 283800
   sentence: 一どに言いました。
-  words:
-    - word: 一
-      base: '1'
-      position: 0
-    - word: ど
-      position: 1
-    - word: に
-      position: 2
-    - word: 言い
-      base: 言う
-      position: 3
-    - word: まし
-      base: ます
-      position: 5
-    - word: た
-      position: 7
 - id: Kinno Kubikazari-f000130
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2769,16 +1030,6 @@
   sound_begin: 283800
   sound_end: 286200
   sentence: 「小さな金のくびかざり？
-  words:
-    - word: 小さな
-      position: 1
-    - word: 金
-      position: 4
-    - word: の
-      position: 5
-    - word: くびかざり
-      base: 首飾り
-      position: 6
 - id: Kinno Kubikazari-f000131
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2787,9 +1038,6 @@
   sound_begin: 286200
   sound_end: 286640
   sentence: おお、
-  words:
-    - word: おお
-      position: 0
 - id: Kinno Kubikazari-f000132
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2798,14 +1046,6 @@
   sound_begin: 286640
   sound_end: 289156
   sentence: そうだった。
-  words:
-    - word: そう
-      position: 0
-    - word: だっ
-      base: だ
-      position: 2
-    - word: た
-      position: 4
 - id: Kinno Kubikazari-f000133
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2814,13 +1054,6 @@
   sound_begin: 289156
   sound_end: 290096
   sentence: 昨夜ちゃんと、
-  words:
-    - word: 昨夜
-      position: 0
-    - word: ちゃん
-      position: 2
-    - word: と
-      position: 5
 - id: Kinno Kubikazari-f000134
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2829,17 +1062,6 @@
   sound_begin: 290096
   sound_end: 293360
   sentence: つくって……それから、
-  words:
-    - word: つくっ
-      base: 作る
-      position: 0
-    - word: て
-      position: 3
-    - word: それ
-      base: 其れ
-      position: 6
-    - word: から
-      position: 8
 - id: Kinno Kubikazari-f000135
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2848,19 +1070,6 @@
   sound_begin: 293360
   sound_end: 296262
   sentence: どうしたっけな。」
-  words:
-    - word: どう
-      position: 0
-    - word: し
-      base: 為る
-      position: 2
-    - word: た
-      position: 3
-    - word: っけ
-      base: け
-      position: 4
-    - word: な
-      position: 6
 - id: Kinno Kubikazari-f000136
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2869,17 +1078,6 @@
   sound_begin: 296262
   sound_end: 297080
   sentence: おじいさんは、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: じい
-      base: 爺
-      position: 1
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
 - id: Kinno Kubikazari-f000137
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2888,14 +1086,6 @@
   sound_begin: 297080
   sound_end: 298360
   sentence: 少しあわてて、
-  words:
-    - word: 少し
-      position: 0
-    - word: あわて
-      base: 慌てる
-      position: 2
-    - word: て
-      position: 5
 - id: Kinno Kubikazari-f000138
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2904,21 +1094,6 @@
   sound_begin: 298360
   sound_end: 301760
   sentence: ポケットというポケット……円いポケット、
-  words:
-    - word: ポケット
-      position: 0
-    - word: と
-      position: 4
-    - word: いう
-      base: 言う
-      position: 5
-    - word: ポケット
-      position: 7
-    - word: 円い
-      base: 丸い
-      position: 13
-    - word: ポケット
-      position: 15
 - id: Kinno Kubikazari-f000139
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2927,14 +1102,6 @@
   sound_begin: 301760
   sound_end: 303240
   sentence: 四角なポケット、
-  words:
-    - word: 四角
-      position: 0
-    - word: な
-      base: だ
-      position: 2
-    - word: ポケット
-      position: 3
 - id: Kinno Kubikazari-f000140
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2943,13 +1110,6 @@
   sound_begin: 303240
   sound_end: 304800
   sentence: 上のポケット、
-  words:
-    - word: 上
-      position: 0
-    - word: の
-      position: 1
-    - word: ポケット
-      position: 2
 - id: Kinno Kubikazari-f000141
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2958,26 +1118,6 @@
   sound_begin: 304800
   sound_end: 308280
   sentence: 下のポケットを……さがしまわしました。
-  words:
-    - word: 下
-      position: 0
-    - word: の
-      position: 1
-    - word: ポケット
-      position: 2
-    - word: を
-      position: 6
-    - word: さがし
-      base: 探す
-      position: 9
-    - word: まわし
-      base: 回す
-      position: 12
-    - word: まし
-      base: ます
-      position: 15
-    - word: た
-      position: 17
 - id: Kinno Kubikazari-f000142
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2986,11 +1126,6 @@
   sound_begin: 308280
   sound_end: 308898
   sentence: でも、
-  words:
-    - word: で
-      position: 0
-    - word: も
-      position: 1
 - id: Kinno Kubikazari-f000143
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -2999,27 +1134,6 @@
   sound_begin: 308898
   sound_end: 312040
   sentence: くびかざりはどこにも見つかりません。
-  words:
-    - word: くびかざり
-      base: 首飾り
-      position: 0
-    - word: は
-      position: 5
-    - word: どこ
-      position: 6
-    - word: に
-      position: 8
-    - word: も
-      position: 9
-    - word: 見つかり
-      base: 見付かる
-      position: 10
-    - word: ませ
-      base: ます
-      position: 14
-    - word: ん
-      base: ず
-      position: 16
 - id: Kinno Kubikazari-f000144
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3028,13 +1142,6 @@
   sound_begin: 312040
   sound_end: 312760
   sentence: 「おやおや、
-  words:
-    - word: お
-      base: 御
-      position: 1
-    - word: やおや
-      base: 八百屋
-      position: 2
 - id: Kinno Kubikazari-f000145
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3043,20 +1150,6 @@
   sound_begin: 312760
   sound_end: 314040
   sentence: どうしたんだろう。
-  words:
-    - word: どう
-      position: 0
-    - word: し
-      base: 為る
-      position: 2
-    - word: た
-      position: 3
-    - word: ん
-      base: の
-      position: 4
-    - word: だろう
-      base: だ
-      position: 5
 - id: Kinno Kubikazari-f000146
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3065,35 +1158,6 @@
   sound_begin: 314040
   sound_end: 320545
   sentence: もって来ないはずはないのだが……はてなはてな。」
-  words:
-    - word: もっ
-      base: 持つ
-      position: 0
-    - word: て
-      position: 2
-    - word: 来
-      base: 来る
-      position: 3
-    - word: ない
-      position: 4
-    - word: はず
-      base: 筈
-      position: 6
-    - word: は
-      position: 8
-    - word: ない
-      base: 無い
-      position: 9
-    - word: の
-      position: 11
-    - word: だ
-      position: 12
-    - word: が
-      position: 13
-    - word: はてな
-      position: 16
-    - word: はてな
-      position: 19
 - id: Kinno Kubikazari-f000147
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3102,17 +1166,6 @@
   sound_begin: 320545
   sound_end: 321429
   sentence: おじいさんは、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: じい
-      base: 爺
-      position: 1
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
 - id: Kinno Kubikazari-f000148
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3121,24 +1174,6 @@
   sound_begin: 321429
   sound_end: 324434
   sentence: しきりに首をひねりました。
-  words:
-    - word: しきり
-      base: 頻り
-      position: 0
-    - word: に
-      position: 3
-    - word: 首
-      position: 4
-    - word: を
-      position: 5
-    - word: ひねり
-      base: 捻る
-      position: 6
-    - word: まし
-      base: ます
-      position: 9
-    - word: た
-      position: 11
 - id: Kinno Kubikazari-f000149
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3147,38 +1182,6 @@
   sound_begin: 324434
   sound_end: 328720
   sentence: イヌとネコは心配して顔を見合せました。
-  words:
-    - word: イヌ
-      position: 0
-    - word: と
-      position: 2
-    - word: ネコ
-      base: 猫
-      position: 3
-    - word: は
-      position: 5
-    - word: 心配
-      position: 6
-    - word: し
-      base: 為る
-      position: 8
-    - word: て
-      position: 9
-    - word: 顔
-      position: 10
-    - word: を
-      position: 11
-    - word: 見
-      base: 見る
-      position: 12
-    - word: 合せ
-      base: 合う
-      position: 13
-    - word: まし
-      base: ます
-      position: 15
-    - word: た
-      position: 17
 - id: Kinno Kubikazari-f000150
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3187,33 +1190,6 @@
   sound_begin: 328720
   sound_end: 331760
   sentence: 自分たちのもらうものはどうでもいいけれど、
-  words:
-    - word: 自分
-      position: 0
-    - word: たち
-      base: 達
-      position: 2
-    - word: の
-      position: 4
-    - word: もらう
-      base: 貰う
-      position: 5
-    - word: もの
-      base: 物
-      position: 8
-    - word: は
-      position: 10
-    - word: どう
-      position: 11
-    - word: で
-      position: 13
-    - word: も
-      position: 14
-    - word: いい
-      base: 良い
-      position: 15
-    - word: けれど
-      position: 17
 - id: Kinno Kubikazari-f000151
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3222,23 +1198,6 @@
   sound_begin: 331760
   sound_end: 333200
   sentence: だいじなお嬢さまが、
-  words:
-    - word: だいじ
-      base: 大事
-      position: 0
-    - word: な
-      base: だ
-      position: 3
-    - word: お
-      base: 御
-      position: 4
-    - word: 嬢
-      position: 5
-    - word: さま
-      base: 様
-      position: 6
-    - word: が
-      position: 8
 - id: Kinno Kubikazari-f000152
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3247,22 +1206,6 @@
   sound_begin: 333200
   sound_end: 334920
   sentence: あれほどほしがっていらっしゃる、
-  words:
-    - word: あれ
-      base: 彼れ
-      position: 0
-    - word: ほど
-      position: 2
-    - word: ほし
-      base: 欲しい
-      position: 4
-    - word: がっ
-      base: がる
-      position: 6
-    - word: て
-      position: 8
-    - word: いらっしゃる
-      position: 9
 - id: Kinno Kubikazari-f000153
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3271,14 +1214,6 @@
   sound_begin: 334920
   sound_end: 336480
   sentence: くびかざりですから、
-  words:
-    - word: くびかざり
-      base: 首飾り
-      position: 0
-    - word: です
-      position: 5
-    - word: から
-      position: 7
 - id: Kinno Kubikazari-f000154
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3287,41 +1222,6 @@
   sound_begin: 336480
   sound_end: 340600
   sentence: どうしてもさがし出してもらわなければなりません。
-  words:
-    - word: どう
-      position: 0
-    - word: し
-      base: 為る
-      position: 2
-    - word: て
-      position: 3
-    - word: も
-      position: 4
-    - word: さがし
-      base: 探す
-      position: 5
-    - word: 出し
-      base: 出す
-      position: 8
-    - word: て
-      position: 10
-    - word: もらわ
-      base: 貰う
-      position: 11
-    - word: なけれ
-      base: ない
-      position: 14
-    - word: ば
-      position: 17
-    - word: なり
-      base: 成る
-      position: 18
-    - word: ませ
-      base: ます
-      position: 20
-    - word: ん
-      base: ず
-      position: 22
 - id: Kinno Kubikazari-f000155
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3330,34 +1230,6 @@
   sound_begin: 340600
   sound_end: 343151
   sentence: おじいさんは帽子もとって見ました。
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: じい
-      base: 爺
-      position: 1
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
-    - word: 帽子
-      position: 6
-    - word: も
-      position: 8
-    - word: とっ
-      base: 取る
-      position: 9
-    - word: て
-      position: 11
-    - word: 見
-      base: 見る
-      position: 12
-    - word: まし
-      base: ます
-      position: 13
-    - word: た
-      position: 15
 - id: Kinno Kubikazari-f000156
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3366,24 +1238,6 @@
   sound_begin: 343151
   sound_end: 345120
   sentence: 靴もぬいで見ました。
-  words:
-    - word: 靴
-      position: 0
-    - word: も
-      position: 1
-    - word: ぬい
-      base: 脱ぐ
-      position: 2
-    - word: で
-      position: 4
-    - word: 見
-      base: 見る
-      position: 5
-    - word: まし
-      base: ます
-      position: 6
-    - word: た
-      position: 8
 - id: Kinno Kubikazari-f000157
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3392,10 +1246,6 @@
   sound_begin: 345120
   sound_end: 345560
   sentence: しかし、
-  words:
-    - word: しかし
-      base: 然し
-      position: 0
 - id: Kinno Kubikazari-f000158
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3404,22 +1254,6 @@
   sound_begin: 345560
   sound_end: 347507
   sentence: どこにもありません。
-  words:
-    - word: どこ
-      position: 0
-    - word: に
-      position: 2
-    - word: も
-      position: 3
-    - word: あり
-      base: 有る
-      position: 4
-    - word: ませ
-      base: ます
-      position: 6
-    - word: ん
-      base: ず
-      position: 8
 - id: Kinno Kubikazari-f000159
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3428,21 +1262,6 @@
   sound_begin: 347507
   sound_end: 349200
   sentence: ネコやイヌやオウムは、
-  words:
-    - word: ネコ
-      base: 猫
-      position: 0
-    - word: や
-      position: 2
-    - word: イヌ
-      position: 3
-    - word: や
-      position: 5
-    - word: オウム
-      base: 鸚鵡
-      position: 6
-    - word: は
-      position: 9
 - id: Kinno Kubikazari-f000160
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3451,12 +1270,6 @@
   sound_begin: 349200
   sound_end: 350293
   sentence: それこそ、
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: こそ
-      position: 2
 - id: Kinno Kubikazari-f000161
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3465,22 +1278,6 @@
   sound_begin: 350293
   sound_end: 352697
   sentence: がっかりしてしまいました。
-  words:
-    - word: がっかり
-      position: 0
-    - word: し
-      base: 為る
-      position: 4
-    - word: て
-      position: 5
-    - word: しまい
-      base: 仕舞う
-      position: 6
-    - word: まし
-      base: ます
-      position: 9
-    - word: た
-      position: 11
 - id: Kinno Kubikazari-f000162
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3489,9 +1286,6 @@
   sound_begin: 352697
   sound_end: 353240
   sentence: と、
-  words:
-    - word: と
-      position: 0
 - id: Kinno Kubikazari-f000163
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3500,13 +1294,6 @@
   sound_begin: 353240
   sound_end: 354472
   sentence: ふいに、
-  words:
-    - word: ふい
-      base: 不意
-      position: 0
-    - word: に
-      base: だ
-      position: 2
 - id: Kinno Kubikazari-f000164
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3515,9 +1302,6 @@
   sound_begin: 354472
   sound_end: 355360
   sentence: 「おお、
-  words:
-    - word: おお
-      position: 1
 - id: Kinno Kubikazari-f000165
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3526,11 +1310,6 @@
   sound_begin: 355360
   sound_end: 356679
   sentence: そうだ。」
-  words:
-    - word: そう
-      position: 0
-    - word: だ
-      position: 2
 - id: Kinno Kubikazari-f000166
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3539,9 +1318,6 @@
   sound_begin: 356679
   sound_end: 357400
   sentence: と、
-  words:
-    - word: と
-      position: 0
 - id: Kinno Kubikazari-f000167
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3550,17 +1326,6 @@
   sound_begin: 357400
   sound_end: 357960
   sentence: おじいさんは、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: じい
-      base: 爺
-      position: 1
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
 - id: Kinno Kubikazari-f000168
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3569,19 +1334,6 @@
   sound_begin: 357960
   sound_end: 360080
   sentence: むねをたたきました。
-  words:
-    - word: むね
-      position: 0
-    - word: を
-      position: 2
-    - word: たたき
-      base: 叩く
-      position: 3
-    - word: まし
-      base: ます
-      position: 6
-    - word: た
-      position: 8
 - id: Kinno Kubikazari-f000169
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3590,17 +1342,6 @@
   sound_begin: 360080
   sound_end: 362280
   sentence: 「思い出したよ。
-  words:
-    - word: 思い
-      base: 思う
-      position: 1
-    - word: 出し
-      base: 出す
-      position: 3
-    - word: た
-      position: 5
-    - word: よ
-      position: 6
 - id: Kinno Kubikazari-f000170
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3609,38 +1350,6 @@
   sound_begin: 362280
   sound_end: 365520
   sentence: あれはわしの家のコウノトリのくびにかけてある。
-  words:
-    - word: あれ
-      base: 彼れ
-      position: 0
-    - word: は
-      position: 2
-    - word: わし
-      position: 3
-    - word: の
-      position: 5
-    - word: 家
-      position: 6
-    - word: の
-      position: 7
-    - word: コウノトリ
-      base: 鸛
-      position: 8
-    - word: の
-      position: 13
-    - word: くび
-      base: 首
-      position: 14
-    - word: に
-      position: 16
-    - word: かけ
-      base: 掛ける
-      position: 17
-    - word: て
-      position: 19
-    - word: ある
-      base: 有る
-      position: 20
 - id: Kinno Kubikazari-f000171
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3649,37 +1358,6 @@
   sound_begin: 365520
   sound_end: 369560
   sentence: かけたまま忘れて出て来たんだよ。」
-  words:
-    - word: かけ
-      base: 掛ける
-      position: 0
-    - word: た
-      position: 2
-    - word: まま
-      base: 侭
-      position: 3
-    - word: 忘れ
-      base: 忘れる
-      position: 5
-    - word: て
-      position: 7
-    - word: 出
-      base: 出る
-      position: 8
-    - word: て
-      position: 9
-    - word: 来
-      base: 来る
-      position: 10
-    - word: た
-      position: 11
-    - word: ん
-      base: の
-      position: 12
-    - word: だ
-      position: 13
-    - word: よ
-      position: 14
 - id: Kinno Kubikazari-f000172
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3688,16 +1366,6 @@
   sound_begin: 369560
   sound_end: 370440
   sentence: イヌとネコは、
-  words:
-    - word: イヌ
-      position: 0
-    - word: と
-      position: 2
-    - word: ネコ
-      base: 猫
-      position: 3
-    - word: は
-      position: 5
 - id: Kinno Kubikazari-f000173
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3706,17 +1374,6 @@
   sound_begin: 370440
   sound_end: 371880
   sentence: ためいきをついて、
-  words:
-    - word: ためいき
-      base: 溜め息
-      position: 0
-    - word: を
-      position: 4
-    - word: つい
-      base: つく
-      position: 5
-    - word: て
-      position: 7
 - id: Kinno Kubikazari-f000174
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3725,32 +1382,6 @@
   sound_begin: 371880
   sound_end: 375160
   sentence: おじいさんの顔を見つめました。
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: じい
-      base: 爺
-      position: 1
-    - word: さん
-      position: 3
-    - word: の
-      position: 5
-    - word: 顔
-      position: 6
-    - word: を
-      position: 7
-    - word: 見
-      base: 見る
-      position: 8
-    - word: つめ
-      base: つめる
-      position: 9
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
 - id: Kinno Kubikazari-f000175
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3759,24 +1390,6 @@
   sound_begin: 375160
   sound_end: 377640
   sentence: 「これから取りに帰っては、
-  words:
-    - word: これ
-      base: 此れ
-      position: 1
-    - word: から
-      position: 3
-    - word: 取り
-      base: 取る
-      position: 5
-    - word: に
-      position: 7
-    - word: 帰っ
-      base: 帰る
-      position: 8
-    - word: て
-      position: 10
-    - word: は
-      position: 11
 - id: Kinno Kubikazari-f000176
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3785,29 +1398,6 @@
   sound_begin: 377640
   sound_end: 381080
   sentence: ほかの子どものところへまわれないし、
-  words:
-    - word: ほか
-      base: 他
-      position: 0
-    - word: の
-      position: 2
-    - word: 子ども
-      base: 子供
-      position: 3
-    - word: の
-      position: 6
-    - word: ところ
-      base: 所
-      position: 7
-    - word: へ
-      position: 10
-    - word: まわれ
-      base: 回る
-      position: 11
-    - word: ない
-      position: 14
-    - word: し
-      position: 16
 - id: Kinno Kubikazari-f000177
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3816,10 +1406,6 @@
   sound_begin: 381080
   sound_end: 381720
   sentence: さて、
-  words:
-    - word: さて
-      base: 扠
-      position: 0
 - id: Kinno Kubikazari-f000178
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3828,23 +1414,6 @@
   sound_begin: 381720
   sound_end: 384871
   sentence: どうしたらいいだろうな。」
-  words:
-    - word: どう
-      position: 0
-    - word: し
-      base: 為る
-      position: 2
-    - word: たら
-      base: た
-      position: 3
-    - word: いい
-      base: 良い
-      position: 5
-    - word: だろう
-      base: だ
-      position: 7
-    - word: な
-      position: 10
 - id: Kinno Kubikazari-f000179
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3853,24 +1422,6 @@
   sound_begin: 384871
   sound_end: 387092
   sentence: 「僕がとりにいきましょうか。」
-  words:
-    - word: 僕
-      position: 1
-    - word: が
-      position: 2
-    - word: とり
-      base: 取る
-      position: 3
-    - word: に
-      position: 5
-    - word: いき
-      base: 行く
-      position: 6
-    - word: ましょう
-      base: ます
-      position: 8
-    - word: か
-      position: 12
 - id: Kinno Kubikazari-f000180
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3879,9 +1430,6 @@
   sound_begin: 387092
   sound_end: 387600
   sentence: と、
-  words:
-    - word: と
-      position: 0
 - id: Kinno Kubikazari-f000181
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3890,19 +1438,6 @@
   sound_begin: 387600
   sound_end: 389560
   sentence: イヌが言いました。
-  words:
-    - word: イヌ
-      position: 0
-    - word: が
-      position: 2
-    - word: 言い
-      base: 言う
-      position: 3
-    - word: まし
-      base: ます
-      position: 5
-    - word: た
-      position: 7
 - id: Kinno Kubikazari-f000182
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3911,34 +1446,6 @@
   sound_begin: 389560
   sound_end: 392720
   sentence: 「僕もネコも早い四本足がありますよ。」
-  words:
-    - word: 僕
-      position: 1
-    - word: も
-      position: 2
-    - word: ネコ
-      base: 猫
-      position: 3
-    - word: も
-      position: 5
-    - word: 早い
-      position: 6
-    - word: 四
-      base: '4'
-      position: 8
-    - word: 本
-      position: 9
-    - word: 足
-      position: 10
-    - word: が
-      position: 11
-    - word: あり
-      base: 有る
-      position: 12
-    - word: ます
-      position: 14
-    - word: よ
-      position: 16
 - id: Kinno Kubikazari-f000183
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3947,17 +1454,6 @@
   sound_begin: 392720
   sound_end: 395080
   sentence: 「だめだだめだ。
-  words:
-    - word: だめ
-      base: 駄目
-      position: 1
-    - word: だ
-      position: 3
-    - word: だめ
-      base: 駄目
-      position: 4
-    - word: だ
-      position: 6
 - id: Kinno Kubikazari-f000184
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -3966,38 +1462,6 @@
   sound_begin: 395080
   sound_end: 398200
   sentence: わしのうちはとおいとおい空の上なんだから、
-  words:
-    - word: わし
-      position: 0
-    - word: の
-      position: 2
-    - word: うち
-      base: 内
-      position: 3
-    - word: は
-      position: 5
-    - word: とおい
-      base: 遠い
-      position: 6
-    - word: とおい
-      base: 遠い
-      position: 9
-    - word: 空
-      position: 12
-    - word: の
-      position: 13
-    - word: 上
-      position: 14
-    - word: な
-      base: だ
-      position: 15
-    - word: ん
-      base: の
-      position: 16
-    - word: だ
-      position: 17
-    - word: から
-      position: 18
 - id: Kinno Kubikazari-f000185
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4006,31 +1470,6 @@
   sound_begin: 398200
   sound_end: 400680
   sentence: 四本足だろうが六本足だろうが、
-  words:
-    - word: 四
-      base: '4'
-      position: 0
-    - word: 本
-      position: 1
-    - word: 足
-      position: 2
-    - word: だろう
-      base: だ
-      position: 3
-    - word: が
-      position: 6
-    - word: 六
-      base: '6'
-      position: 7
-    - word: 本
-      position: 8
-    - word: 足
-      position: 9
-    - word: だろう
-      base: だ
-      position: 10
-    - word: が
-      position: 13
 - id: Kinno Kubikazari-f000186
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4039,17 +1478,6 @@
   sound_begin: 400680
   sound_end: 401800
   sentence: これから行って、
-  words:
-    - word: これ
-      base: 此れ
-      position: 0
-    - word: から
-      position: 2
-    - word: 行っ
-      base: 行く
-      position: 4
-    - word: て
-      position: 6
 - id: Kinno Kubikazari-f000187
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4058,33 +1486,6 @@
   sound_begin: 401800
   sound_end: 406000
   sentence: あけがたまでに帰って来ることはとても出来ない。」
-  words:
-    - word: あけがた
-      base: 明け方
-      position: 0
-    - word: まで
-      position: 4
-    - word: に
-      position: 6
-    - word: 帰っ
-      base: 帰る
-      position: 7
-    - word: て
-      position: 9
-    - word: 来る
-      position: 10
-    - word: こと
-      position: 12
-    - word: は
-      position: 14
-    - word: とても
-      base: 迚も
-      position: 15
-    - word: 出来
-      base: 出来る
-      position: 18
-    - word: ない
-      position: 20
 - id: Kinno Kubikazari-f000188
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4093,11 +1494,6 @@
   sound_begin: 406000
   sound_end: 407120
   sentence: 「では、
-  words:
-    - word: で
-      position: 1
-    - word: は
-      position: 2
 - id: Kinno Kubikazari-f000189
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4106,24 +1502,6 @@
   sound_begin: 407120
   sound_end: 408840
   sentence: 私がとんでまいりましては？」
-  words:
-    - word: 私
-      position: 0
-    - word: が
-      position: 1
-    - word: とん
-      base: 飛ぶ
-      position: 2
-    - word: で
-      position: 4
-    - word: まいり
-      base: 参る
-      position: 5
-    - word: まし
-      base: ます
-      position: 8
-    - word: ては
-      position: 10
 - id: Kinno Kubikazari-f000190
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4132,9 +1510,6 @@
   sound_begin: 408840
   sound_end: 410560
   sentence: と、
-  words:
-    - word: と
-      position: 0
 - id: Kinno Kubikazari-f000191
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4143,20 +1518,6 @@
   sound_begin: 410560
   sound_end: 412400
   sentence: オウムが籠の中から、
-  words:
-    - word: オウム
-      base: 鸚鵡
-      position: 0
-    - word: が
-      position: 3
-    - word: 籠
-      position: 4
-    - word: の
-      position: 5
-    - word: 中
-      position: 6
-    - word: から
-      position: 7
 - id: Kinno Kubikazari-f000192
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4165,24 +1526,6 @@
   sound_begin: 412400
   sound_end: 415120
   sentence: 羽ばたきをして言いました。
-  words:
-    - word: 羽ばたき
-      position: 0
-    - word: を
-      position: 4
-    - word: し
-      base: 為る
-      position: 5
-    - word: て
-      position: 6
-    - word: 言い
-      base: 言う
-      position: 7
-    - word: まし
-      base: ます
-      position: 9
-    - word: た
-      position: 11
 - id: Kinno Kubikazari-f000193
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4191,10 +1534,6 @@
   sound_begin: 415120
   sound_end: 416080
   sentence: 「なるほど。」
-  words:
-    - word: なるほど
-      base: 成る程
-      position: 1
 - id: Kinno Kubikazari-f000194
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4203,17 +1542,6 @@
   sound_begin: 416080
   sound_end: 417837
   sentence: おじいさんは、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: じい
-      base: 爺
-      position: 1
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
 - id: Kinno Kubikazari-f000195
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4222,17 +1550,6 @@
   sound_begin: 417837
   sound_end: 421280
   sentence: にこにこうなずきました。
-  words:
-    - word: にこにこ
-      position: 0
-    - word: うなずき
-      base: 頷く
-      position: 4
-    - word: まし
-      base: ます
-      position: 8
-    - word: た
-      position: 10
 - id: Kinno Kubikazari-f000196
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4241,26 +1558,6 @@
   sound_begin: 421280
   sound_end: 424520
   sentence: 「おまえなら間に合うかもしれないね。」
-  words:
-    - word: おまえ
-      base: 御前
-      position: 1
-    - word: なら
-      base: だ
-      position: 4
-    - word: 間に合う
-      position: 6
-    - word: か
-      position: 10
-    - word: も
-      position: 11
-    - word: しれ
-      base: 知る
-      position: 12
-    - word: ない
-      position: 14
-    - word: ね
-      position: 16
 - id: Kinno Kubikazari-f000197
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4269,17 +1566,6 @@
   sound_begin: 424520
   sound_end: 425320
   sentence: おじいさんは、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: じい
-      base: 爺
-      position: 1
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
 - id: Kinno Kubikazari-f000198
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4288,10 +1574,6 @@
   sound_begin: 425320
   sound_end: 426360
   sentence: さっそく、
-  words:
-    - word: さっそく
-      base: 早速
-      position: 0
 - id: Kinno Kubikazari-f000199
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4300,28 +1582,6 @@
   sound_begin: 426360
   sound_end: 429320
   sentence: オウムを籠の中から出しました。
-  words:
-    - word: オウム
-      base: 鸚鵡
-      position: 0
-    - word: を
-      position: 3
-    - word: 籠
-      position: 4
-    - word: の
-      position: 5
-    - word: 中
-      position: 6
-    - word: から
-      position: 7
-    - word: 出し
-      base: 出す
-      position: 9
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
 - id: Kinno Kubikazari-f000200
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4330,9 +1590,6 @@
   sound_begin: 429320
   sound_end: 430120
   sentence: そして、
-  words:
-    - word: そして
-      position: 0
 - id: Kinno Kubikazari-f000201
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4341,39 +1598,6 @@
   sound_begin: 430120
   sound_end: 435480
   sentence: みんなと一しょに門口に出てオウムにおしえました。
-  words:
-    - word: みんな
-      base: 皆
-      position: 0
-    - word: と
-      position: 3
-    - word: 一しょ
-      base: 一緒
-      position: 4
-    - word: に
-      position: 7
-    - word: 門口
-      position: 8
-    - word: に
-      position: 10
-    - word: 出
-      base: 出る
-      position: 11
-    - word: て
-      position: 12
-    - word: オウム
-      base: 鸚鵡
-      position: 13
-    - word: に
-      position: 16
-    - word: おしえ
-      base: 教える
-      position: 17
-    - word: まし
-      base: ます
-      position: 20
-    - word: た
-      position: 22
 - id: Kinno Kubikazari-f000202
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4382,9 +1606,6 @@
   sound_begin: 435480
   sound_end: 436343
   sentence: 「ほら、
-  words:
-    - word: ほら
-      position: 1
 - id: Kinno Kubikazari-f000203
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4393,10 +1614,6 @@
   sound_begin: 436343
   sound_end: 437920
   sentence: ごらん、
-  words:
-    - word: ごらん
-      base: 御覧
-      position: 0
 - id: Kinno Kubikazari-f000204
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4405,15 +1622,6 @@
   sound_begin: 437920
   sound_end: 440080
   sentence: ずうッと向うに、
-  words:
-    - word: ずうッと
-      base: ずっと
-      position: 0
-    - word: 向う
-      base: 向こう
-      position: 4
-    - word: に
-      position: 6
 - id: Kinno Kubikazari-f000205
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4422,26 +1630,6 @@
   sound_begin: 440080
   sound_end: 444400
   sentence: 大きな星が三つ光ってるだろう。
-  words:
-    - word: 大きな
-      position: 0
-    - word: 星
-      position: 3
-    - word: が
-      position: 4
-    - word: 三
-      base: '3'
-      position: 5
-    - word: つ
-      position: 6
-    - word: 光っ
-      base: 光る
-      position: 7
-    - word: てる
-      position: 9
-    - word: だろう
-      base: だ
-      position: 11
 - id: Kinno Kubikazari-f000206
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4450,15 +1638,6 @@
   sound_begin: 444400
   sound_end: 445840
   sentence: わしの家は、
-  words:
-    - word: わし
-      position: 0
-    - word: の
-      position: 2
-    - word: 家
-      position: 3
-    - word: は
-      position: 4
 - id: Kinno Kubikazari-f000207
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4467,39 +1646,6 @@
   sound_begin: 445840
   sound_end: 450800
   sentence: その一ばん左の星のすぐうしろにあたるんだよ。」
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 一ばん
-      base: 一番
-      position: 2
-    - word: 左
-      position: 5
-    - word: の
-      position: 6
-    - word: 星
-      position: 7
-    - word: の
-      position: 8
-    - word: すぐ
-      base: 直ぐ
-      position: 9
-    - word: うしろ
-      base: 後ろ
-      position: 11
-    - word: に
-      position: 14
-    - word: あたる
-      base: 当たる
-      position: 15
-    - word: ん
-      base: の
-      position: 18
-    - word: だ
-      position: 19
-    - word: よ
-      position: 20
 - id: Kinno Kubikazari-f000208
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4508,10 +1654,6 @@
   sound_begin: 453604
   sound_end: 454339
   sentence: 三
-  words:
-    - word: 三
-      base: '3'
-      position: 0
 - id: Kinno Kubikazari-f000209
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4520,12 +1662,6 @@
   sound_begin: 455720
   sound_end: 456440
   sentence: オウムは、
-  words:
-    - word: オウム
-      base: 鸚鵡
-      position: 0
-    - word: は
-      position: 3
 - id: Kinno Kubikazari-f000210
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4534,22 +1670,6 @@
   sound_begin: 456440
   sound_end: 458942
   sentence: さっと飛び立ちました。
-  words:
-    - word: さっ
-      position: 0
-    - word: と
-      position: 2
-    - word: 飛び
-      base: 飛ぶ
-      position: 3
-    - word: 立ち
-      base: 立つ
-      position: 5
-    - word: まし
-      base: ます
-      position: 7
-    - word: た
-      position: 9
 - id: Kinno Kubikazari-f000211
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4558,22 +1678,6 @@
   sound_begin: 458942
   sound_end: 460920
   sentence: こんなにして力一ぱい、
-  words:
-    - word: こんな
-      position: 0
-    - word: に
-      base: だ
-      position: 3
-    - word: し
-      base: 為る
-      position: 4
-    - word: て
-      position: 5
-    - word: 力
-      position: 6
-    - word: 一ぱい
-      base: 一杯
-      position: 7
 - id: Kinno Kubikazari-f000212
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4582,33 +1686,6 @@
   sound_begin: 460920
   sound_end: 465391
   sentence: つばさをのばして飛ぶのは何年ぶりでしょう。
-  words:
-    - word: つばさ
-      base: 翼
-      position: 0
-    - word: を
-      position: 3
-    - word: のばし
-      base: のばす
-      position: 4
-    - word: て
-      position: 7
-    - word: 飛ぶ
-      position: 8
-    - word: の
-      position: 10
-    - word: は
-      position: 11
-    - word: 何
-      position: 12
-    - word: 年
-      position: 13
-    - word: ぶり
-      base: 振り
-      position: 14
-    - word: でしょう
-      base: です
-      position: 16
 - id: Kinno Kubikazari-f000213
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4617,12 +1694,6 @@
   sound_begin: 465391
   sound_end: 465992
   sentence: オウムは、
-  words:
-    - word: オウム
-      base: 鸚鵡
-      position: 0
-    - word: は
-      position: 3
 - id: Kinno Kubikazari-f000214
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4631,22 +1702,6 @@
   sound_begin: 465992
   sound_end: 468080
   sentence: 一気に高くとび上って、
-  words:
-    - word: 一気
-      position: 0
-    - word: に
-      position: 2
-    - word: 高く
-      base: 高い
-      position: 3
-    - word: とび
-      base: 飛ぶ
-      position: 5
-    - word: 上っ
-      base: 上がる
-      position: 7
-    - word: て
-      position: 9
 - id: Kinno Kubikazari-f000215
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4655,28 +1710,6 @@
   sound_begin: 468080
   sound_end: 471120
   sentence: 矢のようにかけ出しました。
-  words:
-    - word: 矢
-      position: 0
-    - word: の
-      position: 1
-    - word: よう
-      base: 様
-      position: 2
-    - word: に
-      base: だ
-      position: 4
-    - word: かけ
-      base: かける
-      position: 5
-    - word: 出し
-      base: 出す
-      position: 7
-    - word: まし
-      base: ます
-      position: 9
-    - word: た
-      position: 11
 - id: Kinno Kubikazari-f000216
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4685,17 +1718,6 @@
   sound_begin: 471120
   sound_end: 473040
   sentence: はてしもなく遠い、
-  words:
-    - word: はてし
-      base: 果てし
-      position: 0
-    - word: も
-      position: 3
-    - word: なく
-      base: 無い
-      position: 4
-    - word: 遠い
-      position: 6
 - id: Kinno Kubikazari-f000217
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4704,23 +1726,6 @@
   sound_begin: 473040
   sound_end: 476720
   sentence: 長い長いつめたい道でしたけれど、
-  words:
-    - word: 長い
-      position: 0
-    - word: 長い
-      position: 2
-    - word: つめたい
-      base: 冷たい
-      position: 4
-    - word: 道
-      position: 8
-    - word: でし
-      base: です
-      position: 9
-    - word: た
-      position: 11
-    - word: けれど
-      position: 12
 - id: Kinno Kubikazari-f000218
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4729,12 +1734,6 @@
   sound_begin: 476720
   sound_end: 477320
   sentence: オウムは、
-  words:
-    - word: オウム
-      base: 鸚鵡
-      position: 0
-    - word: は
-      position: 3
 - id: Kinno Kubikazari-f000219
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4743,10 +1742,6 @@
   sound_begin: 477320
   sound_end: 477880
   sentence: とうとう、
-  words:
-    - word: とうとう
-      base: 到頭
-      position: 0
 - id: Kinno Kubikazari-f000220
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4755,19 +1750,6 @@
   sound_begin: 477880
   sound_end: 479360
   sentence: まよいもしないで、
-  words:
-    - word: まよい
-      base: 迷い
-      position: 0
-    - word: も
-      position: 3
-    - word: し
-      base: 為る
-      position: 4
-    - word: ない
-      position: 5
-    - word: で
-      position: 7
 - id: Kinno Kubikazari-f000221
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4776,28 +1758,6 @@
   sound_begin: 479360
   sound_end: 482779
   sentence: サンタクローズのお家につきました。
-  words:
-    - word: サンタ
-      position: 0
-    - word: クローズ
-      position: 3
-    - word: の
-      position: 7
-    - word: お
-      base: 御
-      position: 8
-    - word: 家
-      position: 9
-    - word: に
-      position: 10
-    - word: つき
-      base: つく
-      position: 11
-    - word: まし
-      base: ます
-      position: 13
-    - word: た
-      position: 15
 - id: Kinno Kubikazari-f000222
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4806,18 +1766,6 @@
   sound_begin: 482779
   sound_end: 484200
   sentence: そのおうちの、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: お
-      base: 御
-      position: 2
-    - word: うち
-      base: 内
-      position: 3
-    - word: の
-      position: 5
 - id: Kinno Kubikazari-f000223
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4826,28 +1774,6 @@
   sound_begin: 484200
   sound_end: 488200
   sentence: ふわふわした白い毛皮の屋根の上に、
-  words:
-    - word: ふわふわ
-      position: 0
-    - word: し
-      base: 為る
-      position: 4
-    - word: た
-      position: 5
-    - word: 白い
-      position: 6
-    - word: 毛皮
-      position: 8
-    - word: の
-      position: 10
-    - word: 屋根
-      position: 11
-    - word: の
-      position: 13
-    - word: 上
-      position: 14
-    - word: に
-      position: 15
 - id: Kinno Kubikazari-f000224
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4856,9 +1782,6 @@
   sound_begin: 488200
   sound_end: 488840
   sentence: 赤い、
-  words:
-    - word: 赤い
-      position: 0
 - id: Kinno Kubikazari-f000225
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4867,17 +1790,6 @@
   sound_begin: 488840
   sound_end: 490840
   sentence: きれいな煙突が、
-  words:
-    - word: きれい
-      base: 奇麗
-      position: 0
-    - word: な
-      base: だ
-      position: 3
-    - word: 煙突
-      position: 4
-    - word: が
-      position: 6
 - id: Kinno Kubikazari-f000226
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4886,27 +1798,6 @@
   sound_begin: 490840
   sound_end: 494280
   sentence: にょきりと立っていました。
-  words:
-    - word: にょ
-      base: よ
-      position: 0
-    - word: きり
-      position: 2
-    - word: と
-      position: 4
-    - word: 立っ
-      base: 立つ
-      position: 5
-    - word: て
-      position: 7
-    - word: い
-      base: 居る
-      position: 8
-    - word: まし
-      base: ます
-      position: 9
-    - word: た
-      position: 11
 - id: Kinno Kubikazari-f000227
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4915,16 +1806,6 @@
   sound_begin: 494280
   sound_end: 496080
   sentence: 「おはいんなさい。」
-  words:
-    - word: お
-      base: 御
-      position: 1
-    - word: はいん
-      base: 入る
-      position: 2
-    - word: なさい
-      base: 為す
-      position: 5
 - id: Kinno Kubikazari-f000228
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4933,9 +1814,6 @@
   sound_begin: 496080
   sound_end: 496840
   sentence: と、
-  words:
-    - word: と
-      position: 0
 - id: Kinno Kubikazari-f000229
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4944,32 +1822,6 @@
   sound_begin: 496840
   sound_end: 500480
   sentence: 窓にまたたいている灯が言いました。
-  words:
-    - word: 窓
-      position: 0
-    - word: に
-      position: 1
-    - word: またたい
-      base: 瞬く
-      position: 2
-    - word: て
-      position: 6
-    - word: いる
-      base: 居る
-      position: 7
-    - word: 灯
-      base: 明かり
-      position: 9
-    - word: が
-      position: 10
-    - word: 言い
-      base: 言う
-      position: 11
-    - word: まし
-      base: ます
-      position: 13
-    - word: た
-      position: 15
 - id: Kinno Kubikazari-f000230
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -4978,28 +1830,6 @@
   sound_begin: 500480
   sound_end: 503800
   sentence: 「おへやの中はあったかよ。」
-  words:
-    - word: お
-      base: 御
-      position: 1
-    - word: へや
-      base: 部屋
-      position: 2
-    - word: の
-      position: 4
-    - word: 中
-      position: 5
-    - word: は
-      position: 6
-    - word: あっ
-      base: 有る
-      position: 7
-    - word: た
-      position: 9
-    - word: か
-      position: 10
-    - word: よ
-      position: 11
 - id: Kinno Kubikazari-f000231
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5008,33 +1838,6 @@
   sound_begin: 503800
   sound_end: 507600
   sentence: オウムはへとへとにつかれきっていました。
-  words:
-    - word: オウム
-      base: 鸚鵡
-      position: 0
-    - word: は
-      position: 3
-    - word: へとへと
-      position: 4
-    - word: に
-      base: だ
-      position: 8
-    - word: つかれ
-      base: 疲れる
-      position: 9
-    - word: きっ
-      base: 切る
-      position: 12
-    - word: て
-      position: 14
-    - word: い
-      base: 居る
-      position: 15
-    - word: まし
-      base: ます
-      position: 16
-    - word: た
-      position: 18
 - id: Kinno Kubikazari-f000232
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5043,11 +1846,6 @@
   sound_begin: 507600
   sound_end: 507960
   sentence: でも、
-  words:
-    - word: で
-      position: 0
-    - word: も
-      position: 1
 - id: Kinno Kubikazari-f000233
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5056,41 +1854,6 @@
   sound_begin: 507960
   sound_end: 512440
   sentence: 夜があけないうちに……よし子さんが目をさまさないうちに、
-  words:
-    - word: 夜
-      position: 0
-    - word: が
-      position: 1
-    - word: あけ
-      base: あける
-      position: 2
-    - word: ない
-      position: 4
-    - word: うち
-      base: 内
-      position: 6
-    - word: に
-      position: 8
-    - word: よし子
-      position: 11
-    - word: さん
-      position: 14
-    - word: が
-      position: 16
-    - word: 目
-      position: 17
-    - word: を
-      position: 18
-    - word: さまさ
-      base: さます
-      position: 19
-    - word: ない
-      position: 22
-    - word: うち
-      base: 内
-      position: 24
-    - word: に
-      position: 26
 - id: Kinno Kubikazari-f000234
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5099,25 +1862,6 @@
   sound_begin: 512440
   sound_end: 514159
   sentence: 帰らなければならないので、
-  words:
-    - word: 帰ら
-      base: 帰る
-      position: 0
-    - word: なけれ
-      base: ない
-      position: 2
-    - word: ば
-      position: 5
-    - word: なら
-      base: 成る
-      position: 6
-    - word: ない
-      position: 8
-    - word: の
-      position: 10
-    - word: で
-      base: だ
-      position: 11
 - id: Kinno Kubikazari-f000235
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5126,35 +1870,6 @@
   sound_begin: 514159
   sound_end: 519400
   sentence: ちっとでもぐずぐずしてはいられません。
-  words:
-    - word: ちっと
-      base: 一寸
-      position: 0
-    - word: で
-      position: 3
-    - word: も
-      position: 4
-    - word: ぐずぐず
-      position: 5
-    - word: し
-      base: 為る
-      position: 9
-    - word: て
-      position: 10
-    - word: は
-      position: 11
-    - word: い
-      base: 居る
-      position: 12
-    - word: られ
-      base: られる
-      position: 13
-    - word: ませ
-      base: ます
-      position: 15
-    - word: ん
-      base: ず
-      position: 17
 - id: Kinno Kubikazari-f000236
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5163,22 +1878,6 @@
   sound_begin: 519400
   sound_end: 521000
   sentence: 「おうちのコウノトリさんは、
-  words:
-    - word: お
-      base: 御
-      position: 1
-    - word: うち
-      base: 内
-      position: 2
-    - word: の
-      position: 4
-    - word: コウノトリ
-      base: 鸛
-      position: 5
-    - word: さん
-      position: 10
-    - word: は
-      position: 12
 - id: Kinno Kubikazari-f000237
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5187,19 +1886,6 @@
   sound_begin: 521000
   sound_end: 522919
   sentence: どこにおいでです。
-  words:
-    - word: どこ
-      position: 0
-    - word: に
-      position: 2
-    - word: お
-      base: 御
-      position: 3
-    - word: いで
-      base: 出る
-      position: 4
-    - word: です
-      position: 6
 - id: Kinno Kubikazari-f000238
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5208,26 +1894,6 @@
   sound_begin: 522919
   sound_end: 524360
   sentence: おじいさんのお使いで、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: じい
-      base: 爺
-      position: 1
-    - word: さん
-      position: 3
-    - word: の
-      position: 5
-    - word: お
-      base: 御
-      position: 6
-    - word: 使い
-      base: 使う
-      position: 7
-    - word: で
-      base: だ
-      position: 9
 - id: Kinno Kubikazari-f000239
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5236,25 +1902,6 @@
   sound_begin: 524360
   sound_end: 527031
   sentence: くびかざりをいただきにまいりました。」
-  words:
-    - word: くびかざり
-      base: 首飾り
-      position: 0
-    - word: を
-      position: 5
-    - word: いただき
-      base: 頂く
-      position: 6
-    - word: に
-      position: 10
-    - word: まいり
-      base: 参る
-      position: 11
-    - word: まし
-      base: ます
-      position: 14
-    - word: た
-      position: 16
 - id: Kinno Kubikazari-f000240
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5263,17 +1910,6 @@
   sound_begin: 527031
   sound_end: 529400
   sentence: と言いました。
-  words:
-    - word: と
-      position: 0
-    - word: 言い
-      base: 言う
-      position: 1
-    - word: まし
-      base: ます
-      position: 3
-    - word: た
-      position: 5
 - id: Kinno Kubikazari-f000241
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5282,9 +1918,6 @@
   sound_begin: 529400
   sound_end: 530298
   sentence: 「ああ、
-  words:
-    - word: ああ
-      position: 1
 - id: Kinno Kubikazari-f000242
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5293,13 +1926,6 @@
   sound_begin: 530298
   sound_end: 531320
   sentence: くびかざりッて、
-  words:
-    - word: くびかざり
-      base: 首飾り
-      position: 0
-    - word: ッて
-      base: って
-      position: 5
 - id: Kinno Kubikazari-f000243
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5308,13 +1934,6 @@
   sound_begin: 531320
   sound_end: 532653
   sentence: これでしょう。」
-  words:
-    - word: これ
-      base: 此れ
-      position: 0
-    - word: でしょう
-      base: です
-      position: 2
 - id: Kinno Kubikazari-f000244
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5323,9 +1942,6 @@
   sound_begin: 532653
   sound_end: 533423
   sentence: と、
-  words:
-    - word: と
-      position: 0
 - id: Kinno Kubikazari-f000245
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5334,25 +1950,6 @@
   sound_begin: 533423
   sound_end: 536120
   sentence: 屋根のてっぺんから声がして、
-  words:
-    - word: 屋根
-      position: 0
-    - word: の
-      position: 2
-    - word: てっぺん
-      base: 天辺
-      position: 3
-    - word: から
-      position: 7
-    - word: 声
-      position: 9
-    - word: が
-      position: 10
-    - word: し
-      base: 為る
-      position: 11
-    - word: て
-      position: 12
 - id: Kinno Kubikazari-f000246
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5361,31 +1958,6 @@
   sound_begin: 536120
   sound_end: 537920
   sentence: おじいさんに可愛がられている、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: じい
-      base: 爺
-      position: 1
-    - word: さん
-      position: 3
-    - word: に
-      position: 5
-    - word: 可愛
-      base: 可愛い
-      position: 6
-    - word: がら
-      base: がる
-      position: 8
-    - word: れ
-      base: れる
-      position: 10
-    - word: て
-      position: 11
-    - word: いる
-      base: 居る
-      position: 12
 - id: Kinno Kubikazari-f000247
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5394,12 +1966,6 @@
   sound_begin: 537920
   sound_end: 539144
   sentence: コウノトリが、
-  words:
-    - word: コウノトリ
-      base: 鸛
-      position: 0
-    - word: が
-      position: 5
 - id: Kinno Kubikazari-f000248
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5408,19 +1974,6 @@
   sound_begin: 539144
   sound_end: 540560
   sentence: くびにきらきらした、
-  words:
-    - word: くび
-      base: 首
-      position: 0
-    - word: に
-      position: 2
-    - word: きらきら
-      position: 3
-    - word: し
-      base: 為る
-      position: 7
-    - word: た
-      position: 8
 - id: Kinno Kubikazari-f000249
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5429,21 +1982,6 @@
   sound_begin: 540560
   sound_end: 541920
   sentence: 金のくさりをさげて、
-  words:
-    - word: 金
-      position: 0
-    - word: の
-      position: 1
-    - word: くさり
-      base: 腐る
-      position: 2
-    - word: を
-      position: 5
-    - word: さげ
-      base: 下げる
-      position: 6
-    - word: て
-      position: 8
 - id: Kinno Kubikazari-f000250
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5452,20 +1990,6 @@
   sound_begin: 541920
   sound_end: 544000
   sentence: 出て来ました。
-  words:
-    - word: 出
-      base: 出る
-      position: 0
-    - word: て
-      position: 1
-    - word: 来
-      base: 来る
-      position: 2
-    - word: まし
-      base: ます
-      position: 3
-    - word: た
-      position: 5
 - id: Kinno Kubikazari-f000251
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5474,9 +1998,6 @@
   sound_begin: 544000
   sound_end: 544440
   sentence: 「さあ、
-  words:
-    - word: さあ
-      position: 1
 - id: Kinno Kubikazari-f000252
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5485,23 +2006,6 @@
   sound_begin: 544440
   sound_end: 546840
   sentence: もっていらッしゃい。
-  words:
-    - word: もっ
-      base: 持つ
-      position: 0
-    - word: て
-      position: 2
-    - word: いら
-      base: いる
-      position: 3
-    - word: ッ
-      base: つ
-      position: 5
-    - word: しゃ
-      base: 社
-      position: 6
-    - word: い
-      position: 8
 - id: Kinno Kubikazari-f000253
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5510,33 +2014,6 @@
   sound_begin: 546840
   sound_end: 549680
   sentence: おじいさんがわすれていったのですよ。」
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: じい
-      base: 爺
-      position: 1
-    - word: さん
-      position: 3
-    - word: が
-      position: 5
-    - word: わすれ
-      base: 忘れる
-      position: 6
-    - word: て
-      position: 9
-    - word: いっ
-      base: 行く
-      position: 10
-    - word: た
-      position: 12
-    - word: の
-      position: 13
-    - word: です
-      position: 14
-    - word: よ
-      position: 16
 - id: Kinno Kubikazari-f000254
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5545,9 +2022,6 @@
   sound_begin: 549680
   sound_end: 550320
   sentence: と、
-  words:
-    - word: と
-      position: 0
 - id: Kinno Kubikazari-f000255
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5556,19 +2030,6 @@
   sound_begin: 550320
   sound_end: 552080
   sentence: コウノトリはにこにこして、
-  words:
-    - word: コウノトリ
-      base: 鸛
-      position: 0
-    - word: は
-      position: 5
-    - word: にこにこ
-      position: 6
-    - word: し
-      base: 為る
-      position: 10
-    - word: て
-      position: 11
 - id: Kinno Kubikazari-f000256
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5577,17 +2038,6 @@
   sound_begin: 552080
   sound_end: 554080
   sentence: くさりをはずして、
-  words:
-    - word: くさり
-      base: 腐る
-      position: 0
-    - word: を
-      position: 3
-    - word: はずし
-      base: 外す
-      position: 4
-    - word: て
-      position: 7
 - id: Kinno Kubikazari-f000257
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5596,12 +2046,6 @@
   sound_begin: 554080
   sound_end: 554640
   sentence: オウムの、
-  words:
-    - word: オウム
-      base: 鸚鵡
-      position: 0
-    - word: の
-      position: 3
 - id: Kinno Kubikazari-f000258
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5610,25 +2054,6 @@
   sound_begin: 554640
   sound_end: 557560
   sentence: くびにかけてくれました。
-  words:
-    - word: くび
-      base: 首
-      position: 0
-    - word: に
-      position: 2
-    - word: かけ
-      base: 掛ける
-      position: 3
-    - word: て
-      position: 5
-    - word: くれ
-      base: 呉れる
-      position: 6
-    - word: まし
-      base: ます
-      position: 8
-    - word: た
-      position: 10
 - id: Kinno Kubikazari-f000259
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5637,12 +2062,6 @@
   sound_begin: 557560
   sound_end: 558240
   sentence: オウムは、
-  words:
-    - word: オウム
-      base: 鸚鵡
-      position: 0
-    - word: は
-      position: 3
 - id: Kinno Kubikazari-f000260
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5651,13 +2070,6 @@
   sound_begin: 558240
   sound_end: 559000
   sentence: 大よろこびで、
-  words:
-    - word: 大よろこび
-      base: 大喜び
-      position: 0
-    - word: で
-      base: だ
-      position: 5
 - id: Kinno Kubikazari-f000261
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5666,20 +2078,6 @@
   sound_begin: 559000
   sound_end: 560800
   sentence: おじぎをして、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: じぎ
-      base: 辞儀
-      position: 1
-    - word: を
-      position: 3
-    - word: し
-      base: 為る
-      position: 4
-    - word: て
-      position: 5
 - id: Kinno Kubikazari-f000262
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5688,9 +2086,6 @@
   sound_begin: 560800
   sound_end: 562400
   sentence: 「さようなら。
-  words:
-    - word: さようなら
-      position: 1
 - id: Kinno Kubikazari-f000263
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5699,18 +2094,6 @@
   sound_begin: 562400
   sound_end: 565123
   sentence: 灯さんにもさようなら。」
-  words:
-    - word: 灯
-      base: 明かり
-      position: 0
-    - word: さん
-      position: 1
-    - word: に
-      position: 3
-    - word: も
-      position: 4
-    - word: さようなら
-      position: 5
 - id: Kinno Kubikazari-f000264
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5719,14 +2102,6 @@
   sound_begin: 565123
   sound_end: 566160
   sentence: と言って、
-  words:
-    - word: と
-      position: 0
-    - word: 言っ
-      base: 言う
-      position: 1
-    - word: て
-      position: 3
 - id: Kinno Kubikazari-f000265
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5735,22 +2110,6 @@
   sound_begin: 566160
   sound_end: 571240
   sentence: どんどんかけてかえりました。
-  words:
-    - word: どんどん
-      position: 0
-    - word: かけ
-      base: 掛ける
-      position: 4
-    - word: て
-      position: 6
-    - word: かえり
-      base: かえる
-      position: 7
-    - word: まし
-      base: ます
-      position: 10
-    - word: た
-      position: 12
 - id: Kinno Kubikazari-f000266
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5759,13 +2118,6 @@
   sound_begin: 571240
   sound_end: 572840
   sentence: 「よし子さんは、
-  words:
-    - word: よし子
-      position: 1
-    - word: さん
-      position: 4
-    - word: は
-      position: 6
 - id: Kinno Kubikazari-f000267
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5774,27 +2126,6 @@
   sound_begin: 572840
   sound_end: 575702
   sentence: まだお目ざめじゃアないでしょうね。」
-  words:
-    - word: まだ
-      base: 未だ
-      position: 0
-    - word: お
-      base: 御
-      position: 2
-    - word: 目ざめ
-      base: 目覚め
-      position: 3
-    - word: じゃア
-      base: で
-      position: 6
-    - word: ない
-      base: 無い
-      position: 9
-    - word: でしょう
-      base: です
-      position: 11
-    - word: ね
-      position: 15
 - id: Kinno Kubikazari-f000268
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5803,9 +2134,6 @@
   sound_begin: 575702
   sound_end: 576680
   sentence: と、
-  words:
-    - word: と
-      position: 0
 - id: Kinno Kubikazari-f000269
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5814,12 +2142,6 @@
   sound_begin: 576680
   sound_end: 577600
   sentence: オウムは、
-  words:
-    - word: オウム
-      base: 鸚鵡
-      position: 0
-    - word: は
-      position: 3
 - id: Kinno Kubikazari-f000270
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5828,19 +2150,6 @@
   sound_begin: 577600
   sound_end: 579200
   sentence: おうちへかえるなり、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: うち
-      base: 内
-      position: 1
-    - word: へ
-      position: 3
-    - word: かえる
-      position: 4
-    - word: なり
-      position: 7
 - id: Kinno Kubikazari-f000271
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5849,27 +2158,6 @@
   sound_begin: 579200
   sound_end: 583240
   sentence: いきをはずませてききました。
-  words:
-    - word: いき
-      position: 0
-    - word: を
-      position: 2
-    - word: はずま
-      base: 弾む
-      position: 3
-    - word: せ
-      base: せる
-      position: 6
-    - word: て
-      position: 7
-    - word: きき
-      base: きく
-      position: 8
-    - word: まし
-      base: ます
-      position: 10
-    - word: た
-      position: 12
 - id: Kinno Kubikazari-f000272
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5878,16 +2166,6 @@
   sound_begin: 583240
   sound_end: 584800
   sentence: 「ああまだだよ。
-  words:
-    - word: ああ
-      position: 1
-    - word: まだ
-      base: 未だ
-      position: 3
-    - word: だ
-      position: 5
-    - word: よ
-      position: 6
 - id: Kinno Kubikazari-f000273
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5896,17 +2174,6 @@
   sound_begin: 584800
   sound_end: 586167
   sentence: もらって来た？」
-  words:
-    - word: もらっ
-      base: 貰う
-      position: 0
-    - word: て
-      position: 3
-    - word: 来
-      base: 来る
-      position: 4
-    - word: た
-      position: 5
 - id: Kinno Kubikazari-f000274
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5915,9 +2182,6 @@
   sound_begin: 586167
   sound_end: 586880
   sentence: と、
-  words:
-    - word: と
-      position: 0
 - id: Kinno Kubikazari-f000275
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5926,16 +2190,6 @@
   sound_begin: 586880
   sound_end: 587960
   sentence: イヌとネコが、
-  words:
-    - word: イヌ
-      position: 0
-    - word: と
-      position: 2
-    - word: ネコ
-      base: 猫
-      position: 3
-    - word: が
-      position: 5
 - id: Kinno Kubikazari-f000276
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5944,27 +2198,6 @@
   sound_begin: 587960
   sound_end: 590445
   sentence: 目をひからせてききました。
-  words:
-    - word: 目
-      position: 0
-    - word: を
-      position: 1
-    - word: ひから
-      base: 光る
-      position: 2
-    - word: せ
-      base: せる
-      position: 5
-    - word: て
-      position: 6
-    - word: きき
-      base: きく
-      position: 7
-    - word: まし
-      base: ます
-      position: 9
-    - word: た
-      position: 11
 - id: Kinno Kubikazari-f000277
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5973,15 +2206,6 @@
   sound_begin: 590445
   sound_end: 592539
   sentence: 「ごらんなさいよ。」
-  words:
-    - word: ごらん
-      base: 御覧
-      position: 1
-    - word: なさい
-      base: 為す
-      position: 4
-    - word: よ
-      position: 7
 - id: Kinno Kubikazari-f000278
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -5990,9 +2214,6 @@
   sound_begin: 592539
   sound_end: 593240
   sentence: と、
-  words:
-    - word: と
-      position: 0
 - id: Kinno Kubikazari-f000279
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6001,12 +2222,6 @@
   sound_begin: 593240
   sound_end: 593880
   sentence: オウムは、
-  words:
-    - word: オウム
-      base: 鸚鵡
-      position: 0
-    - word: は
-      position: 3
 - id: Kinno Kubikazari-f000280
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6015,25 +2230,6 @@
   sound_begin: 593880
   sound_end: 596480
   sentence: くびのくさりを見せました。
-  words:
-    - word: くび
-      base: 首
-      position: 0
-    - word: の
-      position: 2
-    - word: くさり
-      base: 腐る
-      position: 3
-    - word: を
-      position: 6
-    - word: 見せ
-      base: 見せる
-      position: 7
-    - word: まし
-      base: ます
-      position: 9
-    - word: た
-      position: 11
 - id: Kinno Kubikazari-f000281
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6042,9 +2238,6 @@
   sound_begin: 596480
   sound_end: 597360
   sentence: 「ほう、
-  words:
-    - word: ほう
-      position: 1
 - id: Kinno Kubikazari-f000282
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6053,13 +2246,6 @@
   sound_begin: 597360
   sound_end: 599120
   sentence: えらいえらい。」
-  words:
-    - word: えらい
-      base: 偉い
-      position: 0
-    - word: えらい
-      base: 偉い
-      position: 3
 - id: Kinno Kubikazari-f000283
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6068,9 +2254,6 @@
   sound_begin: 599120
   sound_end: 599840
   sentence: 「ああ、
-  words:
-    - word: ああ
-      position: 1
 - id: Kinno Kubikazari-f000284
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6079,12 +2262,6 @@
   sound_begin: 599840
   sound_end: 601689
   sentence: よかった。」
-  words:
-    - word: よかっ
-      base: 良い
-      position: 0
-    - word: た
-      position: 3
 - id: Kinno Kubikazari-f000285
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6093,9 +2270,6 @@
   sound_begin: 601689
   sound_end: 602520
   sentence: と、
-  words:
-    - word: と
-      position: 0
 - id: Kinno Kubikazari-f000286
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6104,16 +2278,6 @@
   sound_begin: 602520
   sound_end: 603400
   sentence: イヌとネコは、
-  words:
-    - word: イヌ
-      position: 0
-    - word: と
-      position: 2
-    - word: ネコ
-      base: 猫
-      position: 3
-    - word: は
-      position: 5
 - id: Kinno Kubikazari-f000287
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6122,20 +2286,6 @@
   sound_begin: 603400
   sound_end: 605924
   sentence: かわりがわり言いました。
-  words:
-    - word: かわり
-      position: 0
-    - word: がわり
-      base: 代わり
-      position: 3
-    - word: 言い
-      base: 言う
-      position: 6
-    - word: まし
-      base: ます
-      position: 8
-    - word: た
-      position: 10
 - id: Kinno Kubikazari-f000288
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6144,11 +2294,6 @@
   sound_begin: 605924
   sound_end: 606800
   sentence: 「僕なんか、
-  words:
-    - word: 僕
-      position: 1
-    - word: なんか
-      position: 2
 - id: Kinno Kubikazari-f000289
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6157,30 +2302,6 @@
   sound_begin: 606800
   sound_end: 609806
   sentence: もうオウムさんのまえではいばれないよ。」
-  words:
-    - word: もう
-      position: 0
-    - word: オウム
-      base: 鸚鵡
-      position: 2
-    - word: さん
-      position: 5
-    - word: の
-      position: 7
-    - word: まえ
-      base: 前
-      position: 8
-    - word: で
-      position: 10
-    - word: は
-      position: 11
-    - word: いばれ
-      base: 威張る
-      position: 12
-    - word: ない
-      position: 15
-    - word: よ
-      position: 17
 - id: Kinno Kubikazari-f000290
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6189,9 +2310,6 @@
   sound_begin: 609806
   sound_end: 610560
   sentence: と、
-  words:
-    - word: と
-      position: 0
 - id: Kinno Kubikazari-f000291
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6200,11 +2318,6 @@
   sound_begin: 610560
   sound_end: 611480
   sentence: イヌは、
-  words:
-    - word: イヌ
-      position: 0
-    - word: は
-      position: 2
 - id: Kinno Kubikazari-f000292
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6213,9 +2326,6 @@
   sound_begin: 611480
   sound_end: 611880
   sentence: さっき、
-  words:
-    - word: さっき
-      position: 0
 - id: Kinno Kubikazari-f000293
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6224,26 +2334,6 @@
   sound_begin: 611880
   sound_end: 613560
   sentence: オウムをばかにしたのを、
-  words:
-    - word: オウム
-      base: 鸚鵡
-      position: 0
-    - word: を
-      position: 3
-    - word: ばか
-      position: 4
-    - word: に
-      base: だ
-      position: 6
-    - word: し
-      base: 為る
-      position: 7
-    - word: た
-      position: 8
-    - word: の
-      position: 9
-    - word: を
-      position: 10
 - id: Kinno Kubikazari-f000294
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6252,23 +2342,6 @@
   sound_begin: 613560
   sound_end: 616160
   sentence: あやまるように言いました。
-  words:
-    - word: あやまる
-      position: 0
-    - word: よう
-      base: 様
-      position: 4
-    - word: に
-      base: だ
-      position: 6
-    - word: 言い
-      base: 言う
-      position: 7
-    - word: まし
-      base: ます
-      position: 9
-    - word: た
-      position: 11
 - id: Kinno Kubikazari-f000295
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6277,12 +2350,6 @@
   sound_begin: 616160
   sound_end: 616840
   sentence: オウムは、
-  words:
-    - word: オウム
-      base: 鸚鵡
-      position: 0
-    - word: は
-      position: 3
 - id: Kinno Kubikazari-f000296
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6291,14 +2358,6 @@
   sound_begin: 616840
   sound_end: 618978
   sentence: にこにこ笑いながら、
-  words:
-    - word: にこにこ
-      position: 0
-    - word: 笑い
-      base: 笑う
-      position: 4
-    - word: ながら
-      position: 6
 - id: Kinno Kubikazari-f000297
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6307,18 +2366,6 @@
   sound_begin: 618978
   sound_end: 620920
   sentence: よし子さんの枕もとへ、
-  words:
-    - word: よし子
-      position: 0
-    - word: さん
-      position: 3
-    - word: の
-      position: 5
-    - word: 枕もと
-      base: 枕元
-      position: 6
-    - word: へ
-      position: 9
 - id: Kinno Kubikazari-f000298
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6327,12 +2374,6 @@
   sound_begin: 620920
   sound_end: 622440
   sentence: くびかざりを、
-  words:
-    - word: くびかざり
-      base: 首飾り
-      position: 0
-    - word: を
-      position: 5
 - id: Kinno Kubikazari-f000299
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6341,9 +2382,6 @@
   sound_begin: 622440
   sound_end: 623600
   sentence: そっと、
-  words:
-    - word: そっと
-      position: 0
 - id: Kinno Kubikazari-f000300
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6352,19 +2390,6 @@
   sound_begin: 623600
   sound_end: 626800
   sentence: おいときました。
-  words:
-    - word: おい
-      position: 0
-    - word: と
-      position: 2
-    - word: き
-      base: 来る
-      position: 3
-    - word: まし
-      base: ます
-      position: 4
-    - word: た
-      position: 6
 - id: Kinno Kubikazari-f000301
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6373,11 +2398,6 @@
   sound_begin: 626800
   sound_end: 627560
   sentence: イヌや、
-  words:
-    - word: イヌ
-      position: 0
-    - word: や
-      position: 2
 - id: Kinno Kubikazari-f000302
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6386,12 +2406,6 @@
   sound_begin: 627560
   sound_end: 628560
   sentence: ネコや、
-  words:
-    - word: ネコ
-      base: 猫
-      position: 0
-    - word: や
-      position: 2
 - id: Kinno Kubikazari-f000303
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6400,25 +2414,6 @@
   sound_begin: 628560
   sound_end: 632280
   sentence: あるき人形や白熊へのおくりものは、
-  words:
-    - word: あるき
-      base: 歩く
-      position: 0
-    - word: 人形
-      position: 3
-    - word: や
-      position: 5
-    - word: 白熊
-      position: 6
-    - word: へ
-      position: 8
-    - word: の
-      position: 9
-    - word: おくりもの
-      base: 贈り物
-      position: 10
-    - word: は
-      position: 15
 - id: Kinno Kubikazari-f000304
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6427,24 +2422,6 @@
   sound_begin: 632280
   sound_end: 634600
   sentence: おじいさんがちゃんとそろえて、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: じい
-      base: 爺
-      position: 1
-    - word: さん
-      position: 3
-    - word: が
-      position: 5
-    - word: ちゃんと
-      position: 6
-    - word: そろえ
-      base: 揃う
-      position: 10
-    - word: て
-      position: 13
 - id: Kinno Kubikazari-f000305
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6453,39 +2430,6 @@
   sound_begin: 634600
   sound_end: 637880
   sentence: よし子さんのおねだいの下へおいていったのです。
-  words:
-    - word: よし子
-      position: 0
-    - word: さん
-      position: 3
-    - word: の
-      position: 5
-    - word: おね
-      position: 6
-    - word: だ
-      position: 8
-    - word: い
-      position: 9
-    - word: の
-      position: 10
-    - word: 下
-      position: 11
-    - word: へ
-      position: 12
-    - word: おい
-      base: おく
-      position: 13
-    - word: て
-      position: 15
-    - word: いっ
-      base: 行く
-      position: 16
-    - word: た
-      position: 18
-    - word: の
-      position: 19
-    - word: です
-      position: 20
 - id: Kinno Kubikazari-f000306
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6494,9 +2438,6 @@
   sound_begin: 640180
   sound_end: 641400
   sentence: 「さあ、
-  words:
-    - word: さあ
-      position: 1
 - id: Kinno Kubikazari-f000307
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6505,9 +2446,6 @@
   sound_begin: 641400
   sound_end: 642320
   sentence: もう、
-  words:
-    - word: もう
-      position: 0
 - id: Kinno Kubikazari-f000308
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6516,38 +2454,6 @@
   sound_begin: 642320
   sound_end: 646365
   sentence: お目ざのおうたをうたってもいい時間ね。」
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 目
-      position: 1
-    - word: ざ
-      position: 2
-    - word: の
-      position: 3
-    - word: お
-      base: 御
-      position: 4
-    - word: うた
-      base: 歌
-      position: 5
-    - word: を
-      position: 7
-    - word: うたっ
-      base: 歌う
-      position: 8
-    - word: て
-      position: 11
-    - word: も
-      position: 12
-    - word: いい
-      base: 良い
-      position: 13
-    - word: 時間
-      position: 15
-    - word: ね
-      position: 17
 - id: Kinno Kubikazari-f000309
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6556,9 +2462,6 @@
   sound_begin: 646365
   sound_end: 647280
   sentence: と、
-  words:
-    - word: と
-      position: 0
 - id: Kinno Kubikazari-f000310
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6567,12 +2470,6 @@
   sound_begin: 647280
   sound_end: 647840
   sentence: オウムは、
-  words:
-    - word: オウム
-      base: 鸚鵡
-      position: 0
-    - word: は
-      position: 3
 - id: Kinno Kubikazari-f000311
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6581,14 +2478,6 @@
   sound_begin: 647840
   sound_end: 649280
   sentence: そう言って、
-  words:
-    - word: そう
-      position: 0
-    - word: 言っ
-      base: 言う
-      position: 2
-    - word: て
-      position: 4
 - id: Kinno Kubikazari-f000312
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6597,15 +2486,6 @@
   sound_begin: 649280
   sound_end: 651040
   sentence: うつくしい声で、
-  words:
-    - word: うつくしい
-      base: 美しい
-      position: 0
-    - word: 声
-      position: 5
-    - word: で
-      base: だ
-      position: 6
 - id: Kinno Kubikazari-f000313
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6614,19 +2494,6 @@
   sound_begin: 651040
   sound_end: 653680
   sentence: 夜中につくったあたらしい、
-  words:
-    - word: 夜中
-      position: 0
-    - word: に
-      position: 2
-    - word: つくっ
-      base: 作る
-      position: 3
-    - word: た
-      position: 6
-    - word: あたらしい
-      base: 新しい
-      position: 7
 - id: Kinno Kubikazari-f000314
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6635,27 +2502,6 @@
   sound_begin: 653680
   sound_end: 657106
   sentence: 朝のおうたをうたいました。
-  words:
-    - word: 朝
-      position: 0
-    - word: の
-      position: 1
-    - word: お
-      base: 御
-      position: 2
-    - word: うた
-      base: 歌
-      position: 3
-    - word: を
-      position: 5
-    - word: うたい
-      base: 歌う
-      position: 6
-    - word: まし
-      base: ます
-      position: 9
-    - word: た
-      position: 11
 - id: Kinno Kubikazari-f000315
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6664,10 +2510,6 @@
   sound_begin: 657106
   sound_end: 657840
   sentence: ひとりでに、
-  words:
-    - word: ひとりでに
-      base: 独りでに
-      position: 0
 - id: Kinno Kubikazari-f000316
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6676,19 +2518,6 @@
   sound_begin: 657840
   sound_end: 659200
   sentence: 流れて出て来る、
-  words:
-    - word: 流れ
-      base: 流れる
-      position: 0
-    - word: て
-      position: 2
-    - word: 出
-      base: 出る
-      position: 3
-    - word: て
-      position: 4
-    - word: 来る
-      position: 5
 - id: Kinno Kubikazari-f000317
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6697,10 +2526,6 @@
   sound_begin: 659200
   sound_end: 660000
   sentence: あかるい、
-  words:
-    - word: あかるい
-      base: 明るい
-      position: 0
 - id: Kinno Kubikazari-f000318
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6709,25 +2534,6 @@
   sound_begin: 660000
   sound_end: 662440
   sentence: ほがらかなそのうたのふしは、
-  words:
-    - word: ほがらか
-      base: 朗らか
-      position: 0
-    - word: な
-      base: だ
-      position: 4
-    - word: その
-      base: 其の
-      position: 5
-    - word: うた
-      base: 歌
-      position: 7
-    - word: の
-      position: 9
-    - word: ふし
-      position: 10
-    - word: は
-      position: 12
 - id: Kinno Kubikazari-f000319
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6736,33 +2542,6 @@
   sound_begin: 662440
   sound_end: 665800
   sentence: サンタクローズのおじいさんからのおくりものでした。
-  words:
-    - word: サンタ
-      position: 0
-    - word: クローズ
-      position: 3
-    - word: の
-      position: 7
-    - word: お
-      base: 御
-      position: 8
-    - word: じい
-      base: 爺
-      position: 9
-    - word: さん
-      position: 11
-    - word: から
-      position: 13
-    - word: の
-      position: 15
-    - word: おくりもの
-      base: 贈り物
-      position: 16
-    - word: でし
-      base: です
-      position: 21
-    - word: た
-      position: 23
 - id: Kinno Kubikazari-f000320
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6771,13 +2550,6 @@
   sound_begin: 667800
   sound_end: 669040
   sentence: よし子さんは、
-  words:
-    - word: よし子
-      position: 0
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
 - id: Kinno Kubikazari-f000321
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6786,30 +2558,6 @@
   sound_begin: 669040
   sound_end: 673400
   sentence: そのおうたで目をさましました。
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: お
-      base: 御
-      position: 2
-    - word: うた
-      base: 歌
-      position: 3
-    - word: で
-      position: 5
-    - word: 目
-      position: 6
-    - word: を
-      position: 7
-    - word: さまし
-      base: さます
-      position: 8
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
 - id: Kinno Kubikazari-f000322
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6818,13 +2566,6 @@
   sound_begin: 673400
   sound_end: 674680
   sentence: よし子さんが、
-  words:
-    - word: よし子
-      position: 0
-    - word: さん
-      position: 3
-    - word: が
-      position: 5
 - id: Kinno Kubikazari-f000323
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6833,28 +2574,6 @@
   sound_begin: 674680
   sound_end: 679240
   sentence: まくらもとに小さな金のくびかざりを見つけて、
-  words:
-    - word: まくらもと
-      base: 枕元
-      position: 0
-    - word: に
-      position: 5
-    - word: 小さな
-      position: 6
-    - word: 金
-      position: 9
-    - word: の
-      position: 10
-    - word: くびかざり
-      base: 首飾り
-      position: 11
-    - word: を
-      position: 16
-    - word: 見つけ
-      base: 見付ける
-      position: 17
-    - word: て
-      position: 20
 - id: Kinno Kubikazari-f000324
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6863,23 +2582,6 @@
   sound_begin: 679240
   sound_end: 681160
   sentence: おどり上ってよろこびました。
-  words:
-    - word: おどり
-      base: 踊る
-      position: 0
-    - word: 上っ
-      base: 上がる
-      position: 3
-    - word: て
-      position: 5
-    - word: よろこび
-      base: 喜ぶ
-      position: 6
-    - word: まし
-      base: ます
-      position: 10
-    - word: た
-      position: 12
 - id: Kinno Kubikazari-f000325
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6888,15 +2590,6 @@
   sound_begin: 682960
   sound_end: 684640
   sentence: よし子さんにも、
-  words:
-    - word: よし子
-      position: 0
-    - word: さん
-      position: 3
-    - word: に
-      position: 5
-    - word: も
-      position: 6
 - id: Kinno Kubikazari-f000326
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6905,20 +2598,6 @@
   sound_begin: 684640
   sound_end: 686560
   sentence: イヌにもネコにも、
-  words:
-    - word: イヌ
-      position: 0
-    - word: に
-      position: 2
-    - word: も
-      position: 3
-    - word: ネコ
-      base: 猫
-      position: 4
-    - word: に
-      position: 6
-    - word: も
-      position: 7
 - id: Kinno Kubikazari-f000327
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6927,14 +2606,6 @@
   sound_begin: 686560
   sound_end: 688431
   sentence: オウムにも、
-  words:
-    - word: オウム
-      base: 鸚鵡
-      position: 0
-    - word: に
-      position: 3
-    - word: も
-      position: 4
 - id: Kinno Kubikazari-f000328
   author_japanese: 小野 浩
   deck_name: Kinno Kubikazari
@@ -6943,24 +2614,3 @@
   sound_begin: 688431
   sound_end: 693240
   sentence: それはそれはたのしいクリスマスでした。
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: は
-      position: 2
-    - word: それ
-      base: 其れ
-      position: 3
-    - word: は
-      position: 5
-    - word: たのしい
-      base: 楽しい
-      position: 6
-    - word: クリスマス
-      position: 10
-    - word: でし
-      base: です
-      position: 15
-    - word: た
-      position: 17

@@ -4,34 +4,6 @@
   sound: WanderingWitch_01_0.00.21.470-0.00.26.010.mp3
   sentence: 中でも 一番好きだったのが 「ニケの冒険譚(ぼうけんたん)」
   words:
-    - word: 中
-      position: 0
-    - word: で
-      position: 1
-    - word: も
-      position: 2
-    - word: 一番
-      position: 4
-    - word: 好き
-      position: 6
-    - word: だっ
-      base: だ
-      dictionary: だ
-      position: 8
-    - word: た
-      position: 10
-    - word: の
-      position: 11
-    - word: が
-      position: 12
-    - word: ニケ
-      position: 15
-    - word: の
-      position: 17
-    - word: 冒険
-      position: 18
-    - word: 譚
-      position: 20
     - word: ぼうけん
       base: 冒険
       position: 22
@@ -47,25 +19,6 @@
   sound: WanderingWitch_01_0.03.45.790-0.03.50.090.mp3
   sentence: 私もウワサを聞いたわ “星屑(ほしくず)の魔女”っていうそうよ
   words:
-    - word: 私
-      position: 0
-    - word: も
-      position: 1
-    - word: ウワサ
-      base: 噂
-      position: 2
-    - word: を
-      position: 5
-    - word: 聞い
-      base: 聞く
-      dictionary: 聞く
-      position: 6
-    - word: た
-      position: 8
-    - word: わ
-      position: 9
-    - word: 星屑
-      position: 12
     - word: ほしく
       base: 欲しい
       dictionary: ほしい
@@ -77,45 +30,12 @@
       position: 18
       tags:
         - silent
-    - word: の
-      position: 20
-    - word: 魔女
-      position: 21
-    - word: って
-      position: 24
-    - word: いう
-      base: 言う
-      position: 26
-    - word: そう
-      position: 28
-    - word: よ
-      position: 30
 - id: WanderingWitch_03_0668_0.06.34.670
   deck_name: Wandering Witch The Journey of Elaina
   translation: In my favorite book, The Adventures of Niké,
   sound: WanderingWitch_03_0.06.34.670-0.06.38.300.mp3
   sentence: 私の大好きな本 「ニケの冒険譚(ぼうけんたん)」
   words:
-    - word: 私
-      position: 0
-    - word: の
-      position: 1
-    - word: 大好き
-      position: 2
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 5
-    - word: 本
-      position: 6
-    - word: ニケ
-      position: 9
-    - word: の
-      position: 11
-    - word: 冒険
-      position: 12
-    - word: 譚
-      position: 14
     - word: ぼうけん
       base: 冒険
       position: 16
@@ -131,14 +51,6 @@
   sound: WanderingWitch_05_0.00.22.840-0.00.25.930.mp3
   sentence: 「フランの冒険譚(ぼうけんたん)」
   words:
-    - word: フラン
-      position: 1
-    - word: の
-      position: 4
-    - word: 冒険
-      position: 5
-    - word: 譚
-      position: 7
     - word: ぼうけん
       base: 冒険
       position: 9
@@ -154,54 +66,16 @@
   sound: WanderingWitch_06_0.10.49.640-0.10.52.680.mp3
   sentence: 結界を生み出す魔力の 依(よ)り代(しろ)にしようとしました
   words:
-    - word: 結界
-      position: 0
-    - word: を
-      position: 2
-    - word: 生み
-      base: 生む
-      dictionary: 生む
-      position: 3
-    - word: 出す
-      position: 5
-    - word: 魔力
-      position: 7
-    - word: の
-      position: 9
-    - word: 依
-      position: 11
     - word: よ
       position: 13
       tags:
         - silent
-    - word: り
-      position: 15
-    - word: 代
-      position: 16
     - word: しろ
       base: 為る
       dictionary: する
       position: 18
       tags:
         - silent
-    - word: に
-      position: 21
-    - word: しよう
-      base: 為る
-      dictionary: する
-      position: 22
-    - word: と
-      position: 25
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 26
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 27
-    - word: た
-      position: 29
 - id: WanderingWitch_07_1822_0.08.03.390
   deck_name: Wandering Witch The Journey of Elaina
   translation: >-
@@ -210,36 +84,6 @@
   sound: WanderingWitch_07_0.08.03.390-0.08.09.060.mp3
   sentence: 答えは 私に最も影響を与えた本 「ニケの冒険譚(ぼうけんたん)」に出てくる―
   words:
-    - word: 答え
-      position: 0
-    - word: は
-      position: 2
-    - word: 私
-      position: 4
-    - word: に
-      position: 5
-    - word: 最も
-      position: 6
-    - word: 影響
-      position: 8
-    - word: を
-      position: 10
-    - word: 与え
-      base: 与える
-      dictionary: 与える
-      position: 11
-    - word: た
-      position: 13
-    - word: 本
-      position: 14
-    - word: ニケ
-      position: 17
-    - word: の
-      position: 19
-    - word: 冒険
-      position: 20
-    - word: 譚
-      position: 22
     - word: ぼうけん
       base: 冒険
       position: 24
@@ -249,39 +93,12 @@
       position: 28
       tags:
         - silent
-    - word: に
-      position: 32
-    - word: 出
-      base: 出る
-      dictionary: 出る
-      position: 33
-    - word: て
-      position: 34
-    - word: くる
-      base: 来る
-      position: 35
 - id: WanderingWitch_09_2323_0.01.26.700
   deck_name: Wandering Witch The Journey of Elaina
   translation: This is... Let's see... it's from... The Lavender Witch, Estelle?
   sound: WanderingWitch_09_0.01.26.700-0.01.33.250.mp3
   sentence: これは えっと依頼人は… 薫衣(くんい)の魔女 エステル
   words:
-    - word: これ
-      base: 此れ
-      position: 0
-    - word: は
-      position: 2
-    - word: えっと
-      base: えーと
-      position: 4
-    - word: 依頼
-      position: 7
-    - word: 人
-      position: 9
-    - word: は
-      position: 10
-    - word: 薫衣
-      position: 13
     - word: くん
       base: 呉れる
       dictionary: くれる
@@ -292,45 +109,12 @@
       position: 18
       tags:
         - silent
-    - word: の
-      position: 20
-    - word: 魔女
-      position: 21
-    - word: エステル
-      position: 24
 - id: WanderingWitch_09_2542_0.14.57.170
   deck_name: Wandering Witch The Journey of Elaina
   translation: Could it have been a crime committed because of a grudge
   sound: WanderingWitch_09_0.14.57.170-0.15.01.470.mp3
   sentence: もしかして 強盗に見せかけた 怨恨(えんこん)からの犯行…
   words:
-    - word: もし
-      base: 若し
-      position: 0
-    - word: か
-      position: 2
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 3
-    - word: て
-      position: 4
-    - word: 強盗
-      position: 6
-    - word: に
-      position: 8
-    - word: 見せ
-      base: 見せる
-      dictionary: 見せる
-      position: 9
-    - word: かけ
-      base: かける
-      dictionary: かける
-      position: 11
-    - word: た
-      position: 13
-    - word: 怨恨
-      position: 15
     - word: えんこ
       position: 18
       tags:
@@ -341,78 +125,23 @@
       position: 21
       tags:
         - silent
-    - word: から
-      position: 23
-    - word: の
-      position: 25
-    - word: 犯行
-      position: 26
 - id: WanderingWitch_10_2731_0.08.05.010
   deck_name: Wandering Witch The Journey of Elaina
   translation: If your wand gets taken away, how would you fight?
   sound: WanderingWitch_10_0.08.05.010-0.08.09.060.mp3
   sentence: もしも 杖(つえ)を取り上げられてしまったら― どうやって戦います？
   words:
-    - word: もし
-      base: 若し
-      position: 0
-    - word: も
-      position: 2
-    - word: 杖
-      position: 4
     - word: つえ
       base: 杖
       position: 6
       tags:
         - silent
-    - word: を
-      position: 9
-    - word: 取り
-      base: 取る
-      dictionary: 取る
-      position: 10
-    - word: 上げ
-      base: 上げる
-      dictionary: 上げる
-      position: 12
-    - word: られ
-      base: られる
-      dictionary: られる
-      position: 14
-    - word: て
-      position: 16
-    - word: しまっ
-      base: 仕舞う
-      dictionary: しまう
-      position: 17
-    - word: たら
-      base: た
-      dictionary: た
-      position: 20
-    - word: どう
-      position: 24
-    - word: やっ
-      base: 遣る
-      dictionary: やる
-      position: 26
-    - word: て
-      position: 28
-    - word: 戦い
-      base: 戦う
-      dictionary: 戦う
-      position: 29
-    - word: ます
-      position: 31
 - id: WanderingWitch_10_2764_0.10.13.020
   deck_name: Wandering Witch The Journey of Elaina
   translation: is a suspicious group calling themselves the Curio Company.
   sound: WanderingWitch_10_0.10.13.020-0.10.16.890.mp3
   sentence: 骨董堂(こっとうどう)と名乗る怪しい組織が 暗躍しておりまして
   words:
-    - word: 骨董
-      position: 0
-    - word: 堂
-      position: 2
     - word: こっとう
       base: 骨董
       position: 4
@@ -422,46 +151,12 @@
       position: 8
       tags:
         - silent
-    - word: と
-      position: 11
-    - word: 名乗る
-      position: 12
-    - word: 怪しい
-      position: 15
-    - word: 組織
-      position: 18
-    - word: が
-      position: 20
-    - word: 暗躍
-      position: 22
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 24
-    - word: て
-      position: 25
-    - word: おり
-      base: おる
-      dictionary: おる
-      position: 26
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 28
-    - word: て
-      position: 30
 - id: WanderingWitch_10_2911_0.21.59.640
   deck_name: Wandering Witch The Journey of Elaina
   translation: So she'll be the Stardust Witch.
   sound: WanderingWitch_10_0.21.59.640-0.22.01.600.mp3
   sentence: だから“星屑(ほしくず)の魔女ね”
   words:
-    - word: だ
-      position: 0
-    - word: から
-      position: 1
-    - word: 星屑
-      position: 4
     - word: ほしく
       base: 欲しい
       dictionary: ほしい
@@ -473,12 +168,6 @@
       position: 10
       tags:
         - silent
-    - word: の
-      position: 12
-    - word: 魔女
-      position: 13
-    - word: ね
-      position: 15
 - id: WanderingWitch_10_2941_0.23.51.830
   deck_name: Wandering Witch The Journey of Elaina
   translation: >-
@@ -487,27 +176,6 @@
   sound: WanderingWitch_10_0.23.51.830-0.23.56.420.mp3
   sentence: そこは 私の愛読書― 「ニケの冒険譚(ぼうけんたん)」 第４巻において
   words:
-    - word: そこ
-      base: 其処
-      position: 0
-    - word: は
-      position: 2
-    - word: 私
-      position: 4
-    - word: の
-      position: 5
-    - word: 愛読
-      position: 6
-    - word: 書
-      position: 8
-    - word: ニケ
-      position: 12
-    - word: の
-      position: 14
-    - word: 冒険
-      position: 15
-    - word: 譚
-      position: 17
     - word: ぼうけん
       base: 冒険
       position: 19
@@ -517,47 +185,12 @@
       position: 23
       tags:
         - silent
-    - word: 第
-      position: 28
-    - word: ４
-      base: '4'
-      dictionary: '4'
-      position: 29
-    - word: 巻
-      position: 30
-    - word: に
-      position: 31
-    - word: おい
-      base: おく
-      dictionary: おく
-      position: 32
-    - word: て
-      position: 34
 - id: WanderingWitch_11_2944_0.00.18.840
   deck_name: Wandering Witch The Journey of Elaina
   translation: Mages' lives in danger? "Curio Company back after 20 years"?
   sound: WanderingWitch_11_0.00.18.840-0.00.25.640.mp3
   sentence: “魔法使いの命が危ない？” “あの骨董堂(こっとうどう)が 20年ぶりに 帰ってきたのか？”って…
   words:
-    - word: 魔法
-      position: 1
-    - word: 使い
-      position: 3
-    - word: の
-      position: 5
-    - word: 命
-      position: 6
-    - word: が
-      position: 7
-    - word: 危ない
-      position: 8
-    - word: あの
-      base: 彼の
-      position: 15
-    - word: 骨董
-      position: 17
-    - word: 堂
-      position: 19
     - word: こっとう
       base: 骨董
       position: 21
@@ -567,49 +200,12 @@
       position: 25
       tags:
         - silent
-    - word: が
-      position: 28
-    - word: '20'
-      position: 30
-    - word: 年
-      position: 32
-    - word: ぶり
-      base: 振り
-      position: 33
-    - word: に
-      position: 35
-    - word: 帰っ
-      base: 帰る
-      dictionary: 帰る
-      position: 37
-    - word: て
-      position: 39
-    - word: き
-      base: 来る
-      dictionary: くる
-      position: 40
-    - word: た
-      position: 41
-    - word: の
-      position: 42
-    - word: か
-      position: 43
-    - word: って
-      position: 46
 - id: WanderingWitch_11_2945_0.00.25.930
   deck_name: Wandering Witch The Journey of Elaina
   translation: The Curio Company that was in The Adventures of Niké ?
   sound: WanderingWitch_11_0.00.25.930-0.00.29.560.mp3
   sentence: 「ニケの冒険譚(ぼうけんたん)」で 描かれた骨董堂が…
   words:
-    - word: ニケ
-      position: 1
-    - word: の
-      position: 3
-    - word: 冒険
-      position: 4
-    - word: 譚
-      position: 6
     - word: ぼうけん
       base: 冒険
       position: 8
@@ -619,51 +215,12 @@
       position: 12
       tags:
         - silent
-    - word: で
-      position: 16
-    - word: 描か
-      base: 描く
-      dictionary: 描く
-      position: 18
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 20
-    - word: た
-      position: 21
-    - word: 骨董
-      position: 22
-    - word: 堂
-      position: 24
-    - word: が
-      position: 25
 - id: WanderingWitch_12_3336_0.05.25.690
   deck_name: Wandering Witch The Journey of Elaina
   translation: The black dragon thing imprisoned in my eye is trying to attack all of you--
   sound: WanderingWitch_12_0.05.25.690-0.05.30.730.mp3
   sentence: 私の目に閉じ込めた 黒龍(こくりゅう)さん的なアレが 皆さんを襲おうとしています
   words:
-    - word: 私
-      position: 0
-    - word: の
-      position: 1
-    - word: 目
-      position: 2
-    - word: に
-      position: 3
-    - word: 閉じ
-      base: 閉じる
-      dictionary: 閉じる
-      position: 4
-    - word: 込め
-      base: 込む
-      dictionary: 込める
-      position: 6
-    - word: た
-      position: 8
-    - word: 黒龍
-      base: 黒竜
-      position: 10
     - word: こく
       position: 13
       tags:
@@ -673,58 +230,12 @@
       position: 15
       tags:
         - silent
-    - word: さん
-      position: 19
-    - word: 的
-      position: 21
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 22
-    - word: アレ
-      position: 23
-    - word: が
-      position: 25
-    - word: 皆
-      position: 27
-    - word: さん
-      position: 28
-    - word: を
-      position: 30
-    - word: 襲おう
-      base: 襲う
-      dictionary: 襲う
-      position: 31
-    - word: と
-      position: 34
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 35
-    - word: て
-      position: 36
-    - word: い
-      base: 居る
-      dictionary: いる
-      position: 37
-    - word: ます
-      position: 38
 - id: WanderingWitch_12_3522_0.19.14.390
   deck_name: Wandering Witch The Journey of Elaina
   translation: Yes. Like The Adventures of Niké --
   sound: WanderingWitch_12_0.19.14.390-0.19.17.230.mp3
   sentence: はい 「ニケの冒険譚(ぼうけんたん)」のように…
   words:
-    - word: はい
-      position: 0
-    - word: ニケ
-      position: 4
-    - word: の
-      position: 6
-    - word: 冒険
-      position: 7
-    - word: 譚
-      position: 9
     - word: ぼうけん
       base: 冒険
       position: 11
@@ -734,12 +245,3 @@
       position: 15
       tags:
         - silent
-    - word: の
-      position: 19
-    - word: よう
-      base: 様
-      position: 20
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 22

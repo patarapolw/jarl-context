@@ -6,16 +6,6 @@
   sound_begin: 7361
   sound_end: 12771
   sentence: 虔十公園林
-  words:
-    - word: 虔
-      position: 0
-    - word: 十
-      base: '10'
-      position: 1
-    - word: 公園
-      position: 2
-    - word: 林
-      position: 4
 - id: Kenjukoenrin-f000003
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -24,67 +14,6 @@
   sound_begin: 12771
   sound_end: 23081
   sentence: 虔十はいつも縄の帯をしめてわらって杜の中や畑の間をゆっくりあるいているのでした。
-  words:
-    - word: 虔
-      position: 0
-    - word: 十
-      base: '10'
-      position: 1
-    - word: は
-      position: 2
-    - word: いつも
-      position: 3
-    - word: 縄
-      position: 6
-    - word: の
-      position: 7
-    - word: 帯
-      position: 8
-    - word: を
-      position: 9
-    - word: しめ
-      base: しめる
-      position: 10
-    - word: て
-      position: 12
-    - word: わらっ
-      base: 笑う
-      position: 13
-    - word: て
-      position: 16
-    - word: 杜
-      position: 17
-    - word: の
-      position: 18
-    - word: 中
-      position: 19
-    - word: や
-      position: 20
-    - word: 畑
-      position: 21
-    - word: の
-      position: 22
-    - word: 間
-      position: 23
-    - word: を
-      position: 24
-    - word: ゆっくり
-      position: 25
-    - word: あるい
-      base: 歩く
-      position: 29
-    - word: て
-      position: 32
-    - word: いる
-      base: 居る
-      position: 33
-    - word: の
-      position: 35
-    - word: でし
-      base: です
-      position: 36
-    - word: た
-      position: 38
 - id: Kenjukoenrin-f000004
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -93,108 +22,6 @@
   sound_begin: 23081
   sound_end: 36680
   sentence: 雨の中の青い藪を見てはよろこんで目をパチパチさせ青ぞらをどこまでも翔けて行く鷹を見付けてははねあがって手をたたいてみんなに知らせました。
-  words:
-    - word: 雨
-      position: 0
-    - word: の
-      position: 1
-    - word: 中
-      position: 2
-    - word: の
-      position: 3
-    - word: 青い
-      position: 4
-    - word: 藪
-      position: 6
-    - word: を
-      position: 7
-    - word: 見
-      base: 見る
-      position: 8
-    - word: て
-      position: 9
-    - word: は
-      position: 10
-    - word: よろこん
-      base: 喜ぶ
-      position: 11
-    - word: で
-      position: 15
-    - word: 目
-      position: 16
-    - word: を
-      position: 17
-    - word: パチパチ
-      base: ぱちぱち
-      position: 18
-    - word: さ
-      base: 為る
-      position: 22
-    - word: せ
-      base: せる
-      position: 23
-    - word: 青ぞら
-      base: 青空
-      position: 24
-    - word: を
-      position: 27
-    - word: どこ
-      position: 28
-    - word: まで
-      position: 30
-    - word: も
-      position: 32
-    - word: 翔け
-      base: 駆ける
-      position: 33
-    - word: て
-      position: 35
-    - word: 行く
-      position: 36
-    - word: 鷹
-      position: 38
-    - word: を
-      position: 39
-    - word: 見付け
-      base: 見付ける
-      position: 40
-    - word: て
-      position: 43
-    - word: は
-      position: 44
-    - word: はね
-      base: 撥ねる
-      position: 45
-    - word: あがっ
-      base: 上がる
-      position: 47
-    - word: て
-      position: 50
-    - word: 手
-      position: 51
-    - word: を
-      position: 52
-    - word: たたい
-      base: 叩く
-      position: 53
-    - word: て
-      position: 56
-    - word: みんな
-      base: 皆
-      position: 57
-    - word: に
-      position: 60
-    - word: 知ら
-      base: 知る
-      position: 61
-    - word: せ
-      base: せる
-      position: 63
-    - word: まし
-      base: ます
-      position: 64
-    - word: た
-      position: 66
 - id: Kenjukoenrin-f000005
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -203,84 +30,6 @@
   sound_begin: 38380
   sound_end: 48120
   sentence: けれどもあんまり子供らが虔十をばかにして笑うものですから虔十はだんだん笑わないふりをするようになりました。
-  words:
-    - word: けれど
-      position: 0
-    - word: も
-      position: 3
-    - word: あんまり
-      base: 余り
-      position: 4
-    - word: 子供
-      position: 8
-    - word: ら
-      base: 等
-      position: 10
-    - word: が
-      position: 11
-    - word: 虔
-      position: 12
-    - word: 十
-      base: '10'
-      position: 13
-    - word: を
-      position: 14
-    - word: ばか
-      position: 15
-    - word: に
-      base: だ
-      position: 17
-    - word: し
-      base: 為る
-      position: 18
-    - word: て
-      position: 19
-    - word: 笑う
-      position: 20
-    - word: もの
-      base: 物
-      position: 22
-    - word: です
-      position: 24
-    - word: から
-      position: 26
-    - word: 虔
-      position: 28
-    - word: 十
-      base: '10'
-      position: 29
-    - word: は
-      position: 30
-    - word: だんだん
-      base: 段々
-      position: 31
-    - word: 笑わ
-      base: 笑う
-      position: 35
-    - word: ない
-      position: 37
-    - word: ふり
-      base: 振り
-      position: 39
-    - word: を
-      position: 41
-    - word: する
-      base: 為る
-      position: 42
-    - word: よう
-      base: 様
-      position: 44
-    - word: に
-      base: だ
-      position: 46
-    - word: なり
-      base: 成る
-      position: 47
-    - word: まし
-      base: ます
-      position: 49
-    - word: た
-      position: 51
 - id: Kenjukoenrin-f000006
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -289,74 +38,6 @@
   sound_begin: 50020
   sound_end: 61840
   sentence: 風がどうと吹いてぶなの葉がチラチラ光るときなどは虔十はもううれしくてうれしくてひとりでに笑えて仕方ないのを、
-  words:
-    - word: 風
-      position: 0
-    - word: が
-      position: 1
-    - word: どう
-      position: 2
-    - word: と
-      position: 4
-    - word: 吹い
-      base: 吹く
-      position: 5
-    - word: て
-      position: 7
-    - word: ぶな
-      position: 8
-    - word: の
-      position: 10
-    - word: 葉
-      position: 11
-    - word: が
-      position: 12
-    - word: チラチラ
-      base: ちらちら
-      position: 13
-    - word: 光る
-      position: 17
-    - word: とき
-      base: 時
-      position: 19
-    - word: など
-      position: 21
-    - word: は
-      position: 23
-    - word: 虔
-      position: 24
-    - word: 十
-      base: '10'
-      position: 25
-    - word: は
-      position: 26
-    - word: もう
-      position: 27
-    - word: うれしく
-      base: 嬉しい
-      position: 29
-    - word: て
-      position: 33
-    - word: うれしく
-      base: 嬉しい
-      position: 34
-    - word: て
-      position: 38
-    - word: ひとりでに
-      base: 独りでに
-      position: 39
-    - word: 笑え
-      base: 笑う
-      position: 44
-    - word: て
-      position: 46
-    - word: 仕方ない
-      base: 仕方無い
-      position: 47
-    - word: の
-      position: 51
-    - word: を
-      position: 52
 - id: Kenjukoenrin-f000007
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -365,20 +46,6 @@
   sound_begin: 61840
   sound_end: 64620
   sentence: 無理やり大きく口をあき、
-  words:
-    - word: 無理やり
-      base: 無理矢理
-      position: 0
-    - word: 大きく
-      base: 大きい
-      position: 4
-    - word: 口
-      position: 7
-    - word: を
-      position: 8
-    - word: あき
-      base: あく
-      position: 9
 - id: Kenjukoenrin-f000008
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -387,69 +54,6 @@
   sound_begin: 64620
   sound_end: 75279
   sentence: はあはあ息だけついてごまかしながらいつまでもいつまでもそのぶなの木を見上げて立っているのでした。
-  words:
-    - word: はあはあ
-      position: 0
-    - word: 息
-      position: 4
-    - word: だけ
-      position: 5
-    - word: つい
-      base: 付く
-      position: 7
-    - word: て
-      position: 9
-    - word: ごまかし
-      base: ごまかす
-      position: 10
-    - word: ながら
-      position: 14
-    - word: いつ
-      position: 17
-    - word: まで
-      position: 19
-    - word: も
-      position: 21
-    - word: いつ
-      position: 22
-    - word: まで
-      position: 24
-    - word: も
-      position: 26
-    - word: その
-      base: 其の
-      position: 27
-    - word: ぶな
-      position: 29
-    - word: の
-      position: 31
-    - word: 木
-      position: 32
-    - word: を
-      position: 33
-    - word: 見
-      base: 見る
-      position: 34
-    - word: 上げ
-      base: 上げる
-      position: 35
-    - word: て
-      position: 37
-    - word: 立っ
-      base: 立つ
-      position: 38
-    - word: て
-      position: 40
-    - word: いる
-      base: 居る
-      position: 41
-    - word: の
-      position: 43
-    - word: でし
-      base: です
-      position: 44
-    - word: た
-      position: 46
 - id: Kenjukoenrin-f000009
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -458,80 +62,6 @@
   sound_begin: 75279
   sound_end: 86400
   sentence: 時にはその大きくあいた口の横わきをさも痒いようなふりをして指でこすりながらはあはあ息だけで笑いました。
-  words:
-    - word: 時
-      position: 0
-    - word: に
-      position: 1
-    - word: は
-      position: 2
-    - word: その
-      position: 3
-    - word: 大きく
-      base: 大きい
-      position: 5
-    - word: あい
-      base: あく
-      position: 8
-    - word: た
-      position: 10
-    - word: 口
-      position: 11
-    - word: の
-      position: 12
-    - word: 横
-      position: 13
-    - word: わき
-      base: 脇
-      position: 14
-    - word: を
-      position: 16
-    - word: さも
-      base: 然も
-      position: 17
-    - word: 痒い
-      position: 19
-    - word: よう
-      base: 様
-      position: 21
-    - word: な
-      base: だ
-      position: 23
-    - word: ふり
-      base: 振り
-      position: 24
-    - word: を
-      position: 26
-    - word: し
-      base: 為る
-      position: 27
-    - word: て
-      position: 28
-    - word: 指
-      position: 29
-    - word: で
-      position: 30
-    - word: こすり
-      base: 擦る
-      position: 31
-    - word: ながら
-      position: 34
-    - word: はあはあ
-      position: 37
-    - word: 息
-      position: 41
-    - word: だけ
-      position: 42
-    - word: で
-      position: 44
-    - word: 笑い
-      base: 笑う
-      position: 45
-    - word: まし
-      base: ます
-      position: 47
-    - word: た
-      position: 49
 - id: Kenjukoenrin-f000010
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -541,180 +71,6 @@
   sound_end: 111560
   sentence: >-
     なるほど遠くから見ると虔十は口の横わきを掻いているか或いは欠伸でもしているかのように見えましたが近くではもちろん笑っている息の音も聞えましたし唇がピクピク動いているのもわかりましたから子供らはやっぱりそれもばかにして笑いました。
-  words:
-    - word: なるほど
-      base: 成る程
-      position: 0
-    - word: 遠く
-      position: 4
-    - word: から
-      position: 6
-    - word: 見る
-      position: 8
-    - word: と
-      position: 10
-    - word: 虔
-      position: 11
-    - word: 十
-      base: '10'
-      position: 12
-    - word: は
-      position: 13
-    - word: 口
-      position: 14
-    - word: の
-      position: 15
-    - word: 横
-      position: 16
-    - word: わき
-      base: 脇
-      position: 17
-    - word: を
-      position: 19
-    - word: 掻い
-      base: 掻く
-      position: 20
-    - word: て
-      position: 22
-    - word: いる
-      base: 居る
-      position: 23
-    - word: か
-      position: 25
-    - word: 或いは
-      position: 26
-    - word: 欠伸
-      position: 29
-    - word: で
-      base: だ
-      position: 31
-    - word: も
-      position: 32
-    - word: し
-      base: 為る
-      position: 33
-    - word: て
-      position: 34
-    - word: いる
-      base: 居る
-      position: 35
-    - word: か
-      position: 37
-    - word: の
-      position: 38
-    - word: よう
-      base: 様
-      position: 39
-    - word: に
-      base: だ
-      position: 41
-    - word: 見え
-      base: 見える
-      position: 42
-    - word: まし
-      base: ます
-      position: 44
-    - word: た
-      position: 46
-    - word: が
-      position: 47
-    - word: 近く
-      position: 48
-    - word: で
-      position: 50
-    - word: は
-      position: 51
-    - word: もちろん
-      base: 勿論
-      position: 52
-    - word: 笑っ
-      base: 笑う
-      position: 56
-    - word: て
-      position: 58
-    - word: いる
-      base: 居る
-      position: 59
-    - word: 息
-      position: 61
-    - word: の
-      position: 62
-    - word: 音
-      position: 63
-    - word: も
-      position: 64
-    - word: 聞え
-      base: 聞こえる
-      position: 65
-    - word: まし
-      base: ます
-      position: 67
-    - word: た
-      position: 69
-    - word: し
-      position: 70
-    - word: 唇
-      position: 71
-    - word: が
-      position: 72
-    - word: ピクピク
-      base: ぴくぴく
-      position: 73
-    - word: 動い
-      base: 動く
-      position: 77
-    - word: て
-      position: 79
-    - word: いる
-      base: 居る
-      position: 80
-    - word: の
-      position: 82
-    - word: も
-      position: 83
-    - word: わかり
-      base: 分かる
-      position: 84
-    - word: まし
-      base: ます
-      position: 87
-    - word: た
-      position: 89
-    - word: から
-      position: 90
-    - word: 子供
-      position: 92
-    - word: ら
-      base: 等
-      position: 94
-    - word: は
-      position: 95
-    - word: やっぱり
-      base: 矢張り
-      position: 96
-    - word: それ
-      base: 其れ
-      position: 100
-    - word: も
-      position: 102
-    - word: ばか
-      position: 103
-    - word: に
-      base: だ
-      position: 105
-    - word: し
-      base: 為る
-      position: 106
-    - word: て
-      position: 107
-    - word: 笑い
-      base: 笑う
-      position: 108
-    - word: まし
-      base: ます
-      position: 110
-    - word: た
-      position: 112
 - id: Kenjukoenrin-f000011
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -723,53 +79,6 @@
   sound_begin: 111560
   sound_end: 117280
   sentence: おっかさんに云いつけられると虔十は水を五百杯でも汲みました。
-  words:
-    - word: おっ
-      base: 御
-      position: 0
-    - word: かさん
-      base: 嵩む
-      position: 2
-    - word: に
-      position: 5
-    - word: 云い
-      base: 言う
-      position: 6
-    - word: つけ
-      base: つける
-      position: 8
-    - word: られる
-      position: 10
-    - word: と
-      position: 13
-    - word: 虔
-      position: 14
-    - word: 十
-      base: '10'
-      position: 15
-    - word: は
-      position: 16
-    - word: 水
-      position: 17
-    - word: を
-      position: 18
-    - word: 五百
-      base: '500'
-      position: 19
-    - word: 杯
-      position: 21
-    - word: で
-      position: 22
-    - word: も
-      position: 23
-    - word: 汲み
-      base: 汲む
-      position: 24
-    - word: まし
-      base: ます
-      position: 26
-    - word: た
-      position: 28
 - id: Kenjukoenrin-f000012
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -778,30 +87,6 @@
   sound_begin: 117280
   sound_end: 120200
   sentence: 一日一杯畑の草もとりました。
-  words:
-    - word: 一
-      base: '1'
-      position: 0
-    - word: 日
-      position: 1
-    - word: 一杯
-      position: 2
-    - word: 畑
-      position: 4
-    - word: の
-      position: 5
-    - word: 草
-      position: 6
-    - word: も
-      position: 7
-    - word: とり
-      base: 取る
-      position: 8
-    - word: まし
-      base: ます
-      position: 10
-    - word: た
-      position: 12
 - id: Kenjukoenrin-f000013
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -810,75 +95,6 @@
   sound_begin: 122000
   sound_end: 131360
   sentence: けれども虔十のおっかさんもおとうさんも仲々そんなことを虔十に云いつけようとはしませんでした。
-  words:
-    - word: けれど
-      position: 0
-    - word: も
-      position: 3
-    - word: 虔
-      position: 4
-    - word: 十
-      base: '10'
-      position: 5
-    - word: の
-      position: 6
-    - word: おっ
-      base: 伯父
-      position: 7
-    - word: か
-      position: 9
-    - word: さん
-      position: 10
-    - word: も
-      position: 12
-    - word: お
-      base: 御
-      position: 13
-    - word: とうさん
-      base: 父さん
-      position: 14
-    - word: も
-      position: 18
-    - word: 仲々
-      base: 中々
-      position: 19
-    - word: そんな
-      position: 21
-    - word: こと
-      position: 24
-    - word: を
-      position: 26
-    - word: 虔
-      position: 27
-    - word: 十
-      base: '10'
-      position: 28
-    - word: に
-      position: 29
-    - word: 云い
-      base: 言う
-      position: 30
-    - word: つけよう
-      base: つける
-      position: 32
-    - word: と
-      position: 36
-    - word: は
-      position: 37
-    - word: し
-      base: 為る
-      position: 38
-    - word: ませ
-      base: ます
-      position: 39
-    - word: ん
-      base: ず
-      position: 41
-    - word: でし
-      base: です
-      position: 42
-    - word: た
-      position: 44
 - id: Kenjukoenrin-f000014
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -887,10 +103,6 @@
   sound_begin: 134060
   sound_end: 135134
   sentence: さて、
-  words:
-    - word: さて
-      base: 扠
-      position: 0
 - id: Kenjukoenrin-f000015
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -899,67 +111,6 @@
   sound_begin: 135134
   sound_end: 145680
   sentence: 虔十の家のうしろに丁度大きな運動場ぐらいの野原がまだ畑にならないで残っていました。
-  words:
-    - word: 虔
-      position: 0
-    - word: 十
-      base: '10'
-      position: 1
-    - word: の
-      position: 2
-    - word: 家
-      position: 3
-    - word: の
-      position: 4
-    - word: うしろ
-      base: 後ろ
-      position: 5
-    - word: に
-      position: 8
-    - word: 丁度
-      position: 9
-    - word: 大きな
-      position: 11
-    - word: 運動
-      position: 14
-    - word: 場
-      position: 16
-    - word: ぐらい
-      base: くらい
-      position: 17
-    - word: の
-      position: 20
-    - word: 野原
-      position: 21
-    - word: が
-      position: 23
-    - word: まだ
-      base: 未だ
-      position: 24
-    - word: 畑
-      position: 26
-    - word: に
-      position: 27
-    - word: なら
-      base: 成る
-      position: 28
-    - word: ない
-      position: 30
-    - word: で
-      position: 32
-    - word: 残っ
-      base: 残る
-      position: 33
-    - word: て
-      position: 35
-    - word: い
-      base: 居る
-      position: 36
-    - word: まし
-      base: ます
-      position: 37
-    - word: た
-      position: 39
 - id: Kenjukoenrin-f000016
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -968,12 +119,6 @@
   sound_begin: 145680
   sound_end: 146320
   sentence: ある年、
-  words:
-    - word: ある
-      base: 或る
-      position: 0
-    - word: 年
-      position: 2
 - id: Kenjukoenrin-f000017
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -982,45 +127,6 @@
   sound_begin: 146320
   sound_end: 153855
   sentence: 山がまだ雪でまっ白く野原には新らしい草も芽を出さない時、
-  words:
-    - word: 山
-      position: 0
-    - word: が
-      position: 1
-    - word: まだ
-      base: 未だ
-      position: 2
-    - word: 雪
-      position: 4
-    - word: で
-      position: 5
-    - word: まっ白く
-      base: 真っ白い
-      position: 6
-    - word: 野原
-      position: 10
-    - word: に
-      position: 12
-    - word: は
-      position: 13
-    - word: 新らしい
-      base: 新しい
-      position: 14
-    - word: 草
-      position: 18
-    - word: も
-      position: 19
-    - word: 芽
-      position: 20
-    - word: を
-      position: 21
-    - word: 出さ
-      base: 出す
-      position: 22
-    - word: ない
-      position: 24
-    - word: 時
-      position: 26
 - id: Kenjukoenrin-f000018
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -1029,63 +135,6 @@
   sound_begin: 153855
   sound_end: 160264
   sentence: 虔十はいきなり田打ちをしていた家の人達の前に走って来て云いました。
-  words:
-    - word: 虔
-      position: 0
-    - word: 十
-      base: '10'
-      position: 1
-    - word: は
-      position: 2
-    - word: いきなり
-      base: 行成
-      position: 3
-    - word: 田打ち
-      position: 7
-    - word: を
-      position: 10
-    - word: し
-      base: 為る
-      position: 11
-    - word: て
-      position: 12
-    - word: い
-      base: 居る
-      position: 13
-    - word: た
-      position: 14
-    - word: 家
-      position: 15
-    - word: の
-      position: 16
-    - word: 人
-      position: 17
-    - word: 達
-      position: 18
-    - word: の
-      position: 19
-    - word: 前
-      position: 20
-    - word: に
-      position: 21
-    - word: 走っ
-      base: 走る
-      position: 22
-    - word: て
-      position: 24
-    - word: 来
-      base: 来る
-      position: 25
-    - word: て
-      position: 26
-    - word: 云い
-      base: 言う
-      position: 27
-    - word: まし
-      base: ます
-      position: 29
-    - word: た
-      position: 31
 - id: Kenjukoenrin-f000019
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -1094,12 +143,6 @@
   sound_begin: 160264
   sound_end: 161760
   sentence: 「お母、
-  words:
-    - word: お
-      base: 御
-      position: 1
-    - word: 母
-      position: 2
 - id: Kenjukoenrin-f000020
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -1108,21 +151,6 @@
   sound_begin: 161760
   sound_end: 163920
   sentence: おらさ杉苗七百本、
-  words:
-    - word: おら
-      base: 己
-      position: 0
-    - word: さ
-      position: 2
-    - word: 杉
-      position: 3
-    - word: 苗
-      position: 4
-    - word: 七百
-      base: '700'
-      position: 5
-    - word: 本
-      position: 7
 - id: Kenjukoenrin-f000021
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -1131,16 +159,6 @@
   sound_begin: 163920
   sound_end: 164840
   sentence: 買って呉ろ。」
-  words:
-    - word: 買っ
-      base: 買う
-      position: 0
-    - word: て
-      position: 2
-    - word: 呉
-      position: 3
-    - word: ろ
-      position: 4
 - id: Kenjukoenrin-f000022
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -1149,73 +167,6 @@
   sound_begin: 166540
   sound_end: 176320
   sentence: 虔十のおっかさんはきらきらの三本鍬を動かすのをやめてじっと虔十の顔を見て云いました。
-  words:
-    - word: 虔
-      position: 0
-    - word: 十
-      base: '10'
-      position: 1
-    - word: の
-      position: 2
-    - word: おっ
-      base: 伯父
-      position: 3
-    - word: か
-      position: 5
-    - word: さん
-      position: 6
-    - word: は
-      position: 8
-    - word: きらきら
-      position: 9
-    - word: の
-      position: 13
-    - word: 三
-      base: '3'
-      position: 14
-    - word: 本
-      position: 15
-    - word: 鍬
-      position: 16
-    - word: を
-      position: 17
-    - word: 動かす
-      position: 18
-    - word: の
-      position: 21
-    - word: を
-      position: 22
-    - word: やめ
-      base: やめる
-      position: 23
-    - word: て
-      position: 25
-    - word: じっと
-      position: 26
-    - word: 虔
-      position: 29
-    - word: 十
-      base: '10'
-      position: 30
-    - word: の
-      position: 31
-    - word: 顔
-      position: 32
-    - word: を
-      position: 33
-    - word: 見
-      base: 見る
-      position: 34
-    - word: て
-      position: 35
-    - word: 云い
-      base: 言う
-      position: 36
-    - word: まし
-      base: ます
-      position: 38
-    - word: た
-      position: 40
 - id: Kenjukoenrin-f000023
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -1224,16 +175,6 @@
   sound_begin: 176320
   sound_end: 179520
   sentence: 「杉苗七百ど、
-  words:
-    - word: 杉
-      position: 1
-    - word: 苗
-      position: 2
-    - word: 七百
-      base: '700'
-      position: 3
-    - word: ど
-      position: 5
 - id: Kenjukoenrin-f000024
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -1242,24 +183,6 @@
   sound_begin: 179520
   sound_end: 182040
   sentence: どごさ植ぇらぃ。」
-  words:
-    - word: ど
-      base: どう
-      position: 0
-    - word: ご
-      base: 御
-      position: 1
-    - word: さ
-      position: 2
-    - word: 植
-      position: 3
-    - word: ぇ
-      position: 4
-    - word: ら
-      base: 等
-      position: 5
-    - word: ぃ
-      position: 6
 - id: Kenjukoenrin-f000025
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -1268,20 +191,6 @@
   sound_begin: 182040
   sound_end: 185640
   sentence: 「家のうしろの野原さ。」
-  words:
-    - word: 家
-      position: 1
-    - word: の
-      position: 2
-    - word: うしろ
-      base: 後ろ
-      position: 3
-    - word: の
-      position: 6
-    - word: 野原
-      position: 7
-    - word: さ
-      position: 9
 - id: Kenjukoenrin-f000026
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -1290,32 +199,6 @@
   sound_begin: 185640
   sound_end: 188600
   sentence: そのとき虔十の兄さんが云いました。
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: とき
-      base: 時
-      position: 2
-    - word: 虔
-      position: 4
-    - word: 十
-      base: '10'
-      position: 5
-    - word: の
-      position: 6
-    - word: 兄さん
-      position: 7
-    - word: が
-      position: 10
-    - word: 云い
-      base: 言う
-      position: 11
-    - word: まし
-      base: ます
-      position: 13
-    - word: た
-      position: 15
 - id: Kenjukoenrin-f000027
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -1324,12 +207,6 @@
   sound_begin: 188600
   sound_end: 191720
   sentence: 「虔十、
-  words:
-    - word: 虔
-      position: 1
-    - word: 十
-      base: '10'
-      position: 2
 - id: Kenjukoenrin-f000028
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -1338,40 +215,6 @@
   sound_begin: 191720
   sound_end: 195920
   sentence: あそごは杉植ぇでも成長らなぃ処だ。
-  words:
-    - word: あ
-      base: あー
-      position: 0
-    - word: そご
-      base: 齟齬
-      position: 1
-    - word: は
-      position: 3
-    - word: 杉
-      position: 4
-    - word: 植
-      base: 植え
-      position: 5
-    - word: ぇ
-      position: 6
-    - word: で
-      position: 7
-    - word: も
-      position: 8
-    - word: 成長
-      position: 9
-    - word: ら
-      base: 等
-      position: 11
-    - word: な
-      base: だ
-      position: 12
-    - word: ぃ
-      position: 13
-    - word: 処
-      position: 14
-    - word: だ
-      position: 15
 - id: Kenjukoenrin-f000029
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -1380,28 +223,6 @@
   sound_begin: 195920
   sound_end: 198240
   sentence: それより少し田でも打って助けろ。」
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: より
-      position: 2
-    - word: 少し
-      position: 4
-    - word: 田
-      position: 6
-    - word: で
-      position: 7
-    - word: も
-      position: 8
-    - word: 打っ
-      base: 打つ
-      position: 9
-    - word: て
-      position: 11
-    - word: 助けろ
-      base: 助ける
-      position: 12
 - id: Kenjukoenrin-f000030
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -1410,46 +231,6 @@
   sound_begin: 200040
   sound_end: 206920
   sentence: 虔十はきまり悪そうにもじもじして下を向いてしまいました。
-  words:
-    - word: 虔
-      position: 0
-    - word: 十
-      base: '10'
-      position: 1
-    - word: は
-      position: 2
-    - word: きまり悪
-      base: 極まり悪い
-      position: 3
-    - word: そう
-      position: 7
-    - word: に
-      base: だ
-      position: 9
-    - word: もじもじ
-      position: 10
-    - word: し
-      base: 為る
-      position: 14
-    - word: て
-      position: 15
-    - word: 下
-      position: 16
-    - word: を
-      position: 17
-    - word: 向い
-      base: 向く
-      position: 18
-    - word: て
-      position: 20
-    - word: しまい
-      base: 仕舞う
-      position: 21
-    - word: まし
-      base: ます
-      position: 24
-    - word: た
-      position: 26
 - id: Kenjukoenrin-f000031
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -1458,50 +239,6 @@
   sound_begin: 206920
   sound_end: 214065
   sentence: すると虔十のお父さんが向うで汗を拭きながらからだを延ばして
-  words:
-    - word: する
-      base: 為る
-      position: 0
-    - word: と
-      position: 2
-    - word: 虔
-      position: 3
-    - word: 十
-      base: '10'
-      position: 4
-    - word: の
-      position: 5
-    - word: お
-      base: 御
-      position: 6
-    - word: 父さん
-      position: 7
-    - word: が
-      position: 10
-    - word: 向う
-      base: 向こう
-      position: 11
-    - word: で
-      position: 13
-    - word: 汗
-      position: 14
-    - word: を
-      position: 15
-    - word: 拭き
-      base: 拭く
-      position: 16
-    - word: ながら
-      position: 18
-    - word: からだ
-      base: 体
-      position: 21
-    - word: を
-      position: 24
-    - word: 延ばし
-      base: 延ばす
-      position: 25
-    - word: て
-      position: 28
 - id: Kenjukoenrin-f000032
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -1510,15 +247,6 @@
   sound_begin: 214065
   sound_end: 216108
   sentence: 「買ってやれ、
-  words:
-    - word: 買っ
-      base: 買う
-      position: 1
-    - word: て
-      position: 3
-    - word: やれ
-      base: 遣る
-      position: 4
 - id: Kenjukoenrin-f000033
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -1527,15 +255,6 @@
   sound_begin: 216108
   sound_end: 217966
   sentence: 買ってやれ。
-  words:
-    - word: 買っ
-      base: 買う
-      position: 0
-    - word: て
-      position: 2
-    - word: やれ
-      base: 遣る
-      position: 3
 - id: Kenjukoenrin-f000034
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -1544,52 +263,6 @@
   sound_begin: 217966
   sound_end: 222923
   sentence: 虔十ぁ今まで何一つだて頼んだごとぁ無ぃがったもの。
-  words:
-    - word: 虔
-      position: 0
-    - word: 十
-      base: '10'
-      position: 1
-    - word: ぁ
-      position: 2
-    - word: 今
-      position: 3
-    - word: まで
-      position: 4
-    - word: 何
-      position: 6
-    - word: 一
-      base: '1'
-      position: 7
-    - word: つ
-      position: 8
-    - word: だ
-      position: 9
-    - word: て
-      position: 10
-    - word: 頼ん
-      base: 頼む
-      position: 11
-    - word: だ
-      base: た
-      position: 13
-    - word: ごと
-      base: こと
-      position: 14
-    - word: ぁ
-      position: 16
-    - word: 無
-      position: 17
-    - word: ぃ
-      position: 18
-    - word: がっ
-      base: がる
-      position: 19
-    - word: た
-      position: 21
-    - word: もの
-      base: 物
-      position: 22
 - id: Kenjukoenrin-f000035
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -1598,15 +271,6 @@
   sound_begin: 222923
   sound_end: 225361
   sentence: 買ってやれ。
-  words:
-    - word: 買っ
-      base: 買う
-      position: 0
-    - word: て
-      position: 2
-    - word: やれ
-      base: 遣る
-      position: 3
 - id: Kenjukoenrin-f000036
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -1615,57 +279,6 @@
   sound_begin: 225361
   sound_end: 232977
   sentence: 」と云いましたので虔十のお母さんも安心したように笑いました。
-  words:
-    - word: と
-      position: 1
-    - word: 云い
-      base: 言う
-      position: 2
-    - word: まし
-      base: ます
-      position: 4
-    - word: た
-      position: 6
-    - word: の
-      position: 7
-    - word: で
-      base: だ
-      position: 8
-    - word: 虔
-      position: 9
-    - word: 十
-      base: '10'
-      position: 10
-    - word: の
-      position: 11
-    - word: お
-      base: 御
-      position: 12
-    - word: 母さん
-      position: 13
-    - word: も
-      position: 16
-    - word: 安心
-      position: 17
-    - word: し
-      base: 為る
-      position: 19
-    - word: た
-      position: 20
-    - word: よう
-      base: 様
-      position: 21
-    - word: に
-      base: だ
-      position: 23
-    - word: 笑い
-      base: 笑う
-      position: 24
-    - word: まし
-      base: ます
-      position: 26
-    - word: た
-      position: 28
 - id: Kenjukoenrin-f000037
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -1674,49 +287,6 @@
   sound_begin: 232977
   sound_end: 239607
   sentence: 虔十はまるでよろこんですぐにまっすぐに家の方へ走りました。
-  words:
-    - word: 虔
-      position: 0
-    - word: 十
-      base: '10'
-      position: 1
-    - word: は
-      position: 2
-    - word: まるで
-      base: 丸で
-      position: 3
-    - word: よろこん
-      base: 喜ぶ
-      position: 6
-    - word: で
-      position: 10
-    - word: すぐ
-      base: 直ぐ
-      position: 11
-    - word: に
-      position: 13
-    - word: まっすぐ
-      base: 真っ直ぐ
-      position: 14
-    - word: に
-      base: だ
-      position: 18
-    - word: 家
-      position: 19
-    - word: の
-      position: 20
-    - word: 方
-      position: 21
-    - word: へ
-      position: 22
-    - word: 走り
-      base: 走る
-      position: 23
-    - word: まし
-      base: ます
-      position: 25
-    - word: た
-      position: 27
 - id: Kenjukoenrin-f000038
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -1725,69 +295,6 @@
   sound_begin: 239607
   sound_end: 249360
   sentence: そして納屋から唐鍬を持ち出してぽくりぽくりと芝を起して杉苗を植える穴を掘りはじめました。
-  words:
-    - word: そして
-      position: 0
-    - word: 納屋
-      position: 3
-    - word: から
-      position: 5
-    - word: 唐鍬
-      position: 7
-    - word: を
-      position: 9
-    - word: 持ち
-      base: 持つ
-      position: 10
-    - word: 出し
-      base: 出す
-      position: 12
-    - word: て
-      position: 14
-    - word: ぽく
-      base: ぽい
-      position: 15
-    - word: り
-      position: 17
-    - word: ぽ
-      base: ぽい
-      position: 18
-    - word: くり
-      position: 19
-    - word: と
-      position: 21
-    - word: 芝
-      position: 22
-    - word: を
-      position: 23
-    - word: 起し
-      base: 起こす
-      position: 24
-    - word: て
-      position: 26
-    - word: 杉
-      position: 27
-    - word: 苗
-      position: 28
-    - word: を
-      position: 29
-    - word: 植える
-      position: 30
-    - word: 穴
-      position: 33
-    - word: を
-      position: 34
-    - word: 掘り
-      base: 掘る
-      position: 35
-    - word: はじめ
-      base: 始める
-      position: 37
-    - word: まし
-      base: ます
-      position: 40
-    - word: た
-      position: 42
 - id: Kenjukoenrin-f000039
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -1796,51 +303,6 @@
   sound_begin: 251060
   sound_end: 256673
   sentence: 虔十の兄さんがあとを追って来てそれを見て云いました。
-  words:
-    - word: 虔
-      position: 0
-    - word: 十
-      base: '10'
-      position: 1
-    - word: の
-      position: 2
-    - word: 兄さん
-      position: 3
-    - word: が
-      position: 6
-    - word: あと
-      base: 後
-      position: 7
-    - word: を
-      position: 9
-    - word: 追っ
-      base: 追う
-      position: 10
-    - word: て
-      position: 12
-    - word: 来
-      base: 来る
-      position: 13
-    - word: て
-      position: 14
-    - word: それ
-      base: 其れ
-      position: 15
-    - word: を
-      position: 17
-    - word: 見
-      base: 見る
-      position: 18
-    - word: て
-      position: 19
-    - word: 云い
-      base: 言う
-      position: 20
-    - word: まし
-      base: ます
-      position: 22
-    - word: た
-      position: 24
 - id: Kenjukoenrin-f000040
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -1849,12 +311,6 @@
   sound_begin: 256673
   sound_end: 258920
   sentence: 「虔十、
-  words:
-    - word: 虔
-      position: 1
-    - word: 十
-      base: '10'
-      position: 2
 - id: Kenjukoenrin-f000041
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -1863,15 +319,6 @@
   sound_begin: 258920
   sound_end: 260341
   sentence: 杉ぁ植える時、
-  words:
-    - word: 杉
-      position: 0
-    - word: ぁ
-      position: 1
-    - word: 植える
-      position: 2
-    - word: 時
-      position: 5
 - id: Kenjukoenrin-f000042
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -1880,32 +327,6 @@
   sound_begin: 260341
   sound_end: 262880
   sentence: 掘らなぃばわがなぃんだじゃ。
-  words:
-    - word: 掘ら
-      base: 掘る
-      position: 0
-    - word: な
-      base: ない
-      position: 2
-    - word: ぃ
-      position: 3
-    - word: ば
-      base: ばっ
-      position: 4
-    - word: わが
-      base: 我が
-      position: 5
-    - word: な
-      position: 7
-    - word: ぃ
-      position: 8
-    - word: ん
-      base: の
-      position: 9
-    - word: だ
-      position: 10
-    - word: じゃ
-      position: 11
 - id: Kenjukoenrin-f000043
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -1914,14 +335,6 @@
   sound_begin: 262880
   sound_end: 265920
   sentence: 明日まで待て。
-  words:
-    - word: 明日
-      position: 0
-    - word: まで
-      position: 2
-    - word: 待て
-      base: 待つ
-      position: 4
 - id: Kenjukoenrin-f000044
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -1930,10 +343,6 @@
   sound_begin: 265920
   sound_end: 267000
   sentence: おれ、
-  words:
-    - word: おれ
-      base: 俺
-      position: 0
 - id: Kenjukoenrin-f000045
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -1942,25 +351,6 @@
   sound_begin: 267000
   sound_end: 268800
   sentence: 苗買って来てやるがら。」
-  words:
-    - word: 苗
-      position: 0
-    - word: 買っ
-      base: 買う
-      position: 1
-    - word: て
-      position: 3
-    - word: 来
-      base: 来る
-      position: 4
-    - word: て
-      position: 5
-    - word: やる
-      base: 遣る
-      position: 6
-    - word: がら
-      base: がる
-      position: 8
 - id: Kenjukoenrin-f000046
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -1969,34 +359,6 @@
   sound_begin: 270500
   sound_end: 274440
   sentence: 虔十はきまり悪そうに鍬を置きました。
-  words:
-    - word: 虔
-      position: 0
-    - word: 十
-      base: '10'
-      position: 1
-    - word: は
-      position: 2
-    - word: きまり悪
-      base: 極まり悪い
-      position: 3
-    - word: そう
-      position: 7
-    - word: に
-      base: だ
-      position: 9
-    - word: 鍬
-      position: 10
-    - word: を
-      position: 11
-    - word: 置き
-      base: 置く
-      position: 12
-    - word: まし
-      base: ます
-      position: 14
-    - word: た
-      position: 16
 - id: Kenjukoenrin-f000047
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -2005,13 +367,6 @@
   sound_begin: 276840
   sound_end: 278800
   sentence: 次の日、
-  words:
-    - word: 次
-      position: 0
-    - word: の
-      position: 1
-    - word: 日
-      position: 2
 - id: Kenjukoenrin-f000048
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -2020,62 +375,6 @@
   sound_begin: 278800
   sound_end: 290080
   sentence: 空はよく晴れて山の雪はまっ白に光りひばりは高く高くのぼってチーチクチーチクやりました。
-  words:
-    - word: 空
-      position: 0
-    - word: は
-      position: 1
-    - word: よく
-      base: 良く
-      position: 2
-    - word: 晴れ
-      base: 晴れる
-      position: 4
-    - word: て
-      position: 6
-    - word: 山
-      position: 7
-    - word: の
-      position: 8
-    - word: 雪
-      position: 9
-    - word: は
-      position: 10
-    - word: まっ白
-      base: 真っ白
-      position: 11
-    - word: に
-      base: だ
-      position: 14
-    - word: 光り
-      base: 光る
-      position: 15
-    - word: ひばり
-      base: 雲雀
-      position: 17
-    - word: は
-      position: 20
-    - word: 高く
-      base: 高い
-      position: 21
-    - word: 高く
-      base: 高い
-      position: 23
-    - word: のぼっ
-      base: 上る
-      position: 25
-    - word: て
-      position: 28
-    - word: チーチクチーチク
-      position: 29
-    - word: やり
-      base: 遣る
-      position: 37
-    - word: まし
-      base: ます
-      position: 39
-    - word: た
-      position: 41
 - id: Kenjukoenrin-f000049
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -2084,95 +383,6 @@
   sound_begin: 290080
   sound_end: 304054
   sentence: そして虔十はまるでこらえ切れないようににこにこ笑って兄さんに教えられたように今度は北の方の堺から杉苗の穴を掘りはじめました。
-  words:
-    - word: そして
-      position: 0
-    - word: 虔
-      position: 3
-    - word: 十
-      base: '10'
-      position: 4
-    - word: は
-      position: 5
-    - word: まるで
-      base: 丸で
-      position: 6
-    - word: こらえ
-      base: 堪える
-      position: 9
-    - word: 切れ
-      base: 切る
-      position: 12
-    - word: ない
-      position: 14
-    - word: よう
-      base: 様
-      position: 16
-    - word: に
-      base: だ
-      position: 18
-    - word: にこにこ
-      position: 19
-    - word: 笑っ
-      base: 笑う
-      position: 23
-    - word: て
-      position: 25
-    - word: 兄さん
-      position: 26
-    - word: に
-      position: 29
-    - word: 教え
-      base: 教える
-      position: 30
-    - word: られ
-      base: られる
-      position: 32
-    - word: た
-      position: 34
-    - word: よう
-      base: 様
-      position: 35
-    - word: に
-      base: だ
-      position: 37
-    - word: 今度
-      position: 38
-    - word: は
-      position: 40
-    - word: 北
-      position: 41
-    - word: の
-      position: 42
-    - word: 方
-      position: 43
-    - word: の
-      position: 44
-    - word: 堺
-      position: 45
-    - word: から
-      position: 46
-    - word: 杉
-      position: 48
-    - word: 苗
-      position: 49
-    - word: の
-      position: 50
-    - word: 穴
-      position: 51
-    - word: を
-      position: 52
-    - word: 掘り
-      base: 掘る
-      position: 53
-    - word: はじめ
-      base: 始める
-      position: 55
-    - word: まし
-      base: ます
-      position: 58
-    - word: た
-      position: 60
 - id: Kenjukoenrin-f000050
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -2181,43 +391,6 @@
   sound_begin: 304054
   sound_end: 309920
   sentence: 実にまっすぐに実に間隔正しくそれを掘ったのでした。
-  words:
-    - word: 実
-      position: 0
-    - word: に
-      position: 1
-    - word: まっすぐ
-      base: 真っ直ぐ
-      position: 2
-    - word: に
-      base: だ
-      position: 6
-    - word: 実
-      position: 7
-    - word: に
-      position: 8
-    - word: 間隔
-      position: 9
-    - word: 正しく
-      base: 正しい
-      position: 11
-    - word: それ
-      base: 其れ
-      position: 14
-    - word: を
-      position: 16
-    - word: 掘っ
-      base: 掘る
-      position: 17
-    - word: た
-      position: 19
-    - word: の
-      position: 20
-    - word: でし
-      base: です
-      position: 21
-    - word: た
-      position: 23
 - id: Kenjukoenrin-f000051
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -2226,47 +399,6 @@
   sound_begin: 311720
   sound_end: 318473
   sentence: 虔十の兄さんがそこへ一本ずつ苗を植えて行きました。
-  words:
-    - word: 虔
-      position: 0
-    - word: 十
-      base: '10'
-      position: 1
-    - word: の
-      position: 2
-    - word: 兄さん
-      position: 3
-    - word: が
-      position: 6
-    - word: そこ
-      base: 其処
-      position: 7
-    - word: へ
-      position: 9
-    - word: 一
-      base: '1'
-      position: 10
-    - word: 本
-      position: 11
-    - word: ずつ
-      position: 12
-    - word: 苗
-      position: 14
-    - word: を
-      position: 15
-    - word: 植え
-      base: 植える
-      position: 16
-    - word: て
-      position: 18
-    - word: 行き
-      base: 行く
-      position: 19
-    - word: まし
-      base: ます
-      position: 21
-    - word: た
-      position: 23
 - id: Kenjukoenrin-f000052
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -2275,86 +407,6 @@
   sound_begin: 318473
   sound_end: 331640
   sentence: その時野原の北側に畑を有っている平二がきせるをくわえてふところ手をして寒そうに肩をすぼめてやって来ました。
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 時
-      position: 2
-    - word: 野原
-      position: 3
-    - word: の
-      position: 5
-    - word: 北側
-      position: 6
-    - word: に
-      position: 8
-    - word: 畑
-      position: 9
-    - word: を
-      position: 10
-    - word: 有っ
-      base: 有る
-      position: 11
-    - word: て
-      position: 13
-    - word: いる
-      base: 居る
-      position: 14
-    - word: 平二
-      position: 16
-    - word: が
-      position: 18
-    - word: きせる
-      base: キセル
-      position: 19
-    - word: を
-      position: 22
-    - word: くわえ
-      base: くわえる
-      position: 23
-    - word: て
-      position: 26
-    - word: ふところ手
-      base: 懐手
-      position: 27
-    - word: を
-      position: 32
-    - word: し
-      base: 為る
-      position: 33
-    - word: て
-      position: 34
-    - word: 寒
-      base: 寒い
-      position: 35
-    - word: そう
-      position: 36
-    - word: に
-      base: だ
-      position: 38
-    - word: 肩
-      position: 39
-    - word: を
-      position: 40
-    - word: すぼめ
-      base: 窄む
-      position: 41
-    - word: て
-      position: 44
-    - word: やっ
-      base: 遣る
-      position: 45
-    - word: て
-      position: 47
-    - word: 来
-      base: 来る
-      position: 48
-    - word: まし
-      base: ます
-      position: 49
-    - word: た
-      position: 51
 - id: Kenjukoenrin-f000053
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -2363,44 +415,6 @@
   sound_begin: 331640
   sound_end: 337839
   sentence: 平二は百姓も少しはしていましたが実はもっと別の、
-  words:
-    - word: 平二
-      position: 0
-    - word: は
-      position: 2
-    - word: 百姓
-      position: 3
-    - word: も
-      position: 5
-    - word: 少し
-      position: 6
-    - word: は
-      position: 8
-    - word: し
-      base: 為る
-      position: 9
-    - word: て
-      position: 10
-    - word: い
-      base: 居る
-      position: 11
-    - word: まし
-      base: ます
-      position: 12
-    - word: た
-      position: 14
-    - word: が
-      position: 15
-    - word: 実
-      position: 16
-    - word: は
-      position: 17
-    - word: もっと
-      position: 18
-    - word: 別
-      position: 21
-    - word: の
-      position: 22
 - id: Kenjukoenrin-f000054
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -2409,46 +423,6 @@
   sound_begin: 337839
   sound_end: 342959
   sentence: 人にいやがられるようなことも仕事にしていました。
-  words:
-    - word: 人
-      position: 0
-    - word: に
-      position: 1
-    - word: いや
-      base: 嫌
-      position: 2
-    - word: がら
-      base: がる
-      position: 4
-    - word: れる
-      position: 6
-    - word: よう
-      base: 様
-      position: 8
-    - word: な
-      base: だ
-      position: 10
-    - word: こと
-      position: 11
-    - word: も
-      position: 13
-    - word: 仕事
-      position: 14
-    - word: に
-      position: 16
-    - word: し
-      base: 為る
-      position: 17
-    - word: て
-      position: 18
-    - word: い
-      base: 居る
-      position: 19
-    - word: まし
-      base: ます
-      position: 20
-    - word: た
-      position: 22
 - id: Kenjukoenrin-f000055
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -2457,26 +431,6 @@
   sound_begin: 342959
   sound_end: 346160
   sentence: 平二は虔十に云いました。
-  words:
-    - word: 平二
-      position: 0
-    - word: は
-      position: 2
-    - word: 虔
-      position: 3
-    - word: 十
-      base: '10'
-      position: 4
-    - word: に
-      position: 5
-    - word: 云い
-      base: 言う
-      position: 6
-    - word: まし
-      base: ます
-      position: 8
-    - word: た
-      position: 10
 - id: Kenjukoenrin-f000056
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -2485,12 +439,6 @@
   sound_begin: 346160
   sound_end: 346640
   sentence: 「やぃ。
-  words:
-    - word: や
-      base: やあ
-      position: 1
-    - word: ぃ
-      position: 2
 - id: Kenjukoenrin-f000057
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -2499,12 +447,6 @@
   sound_begin: 346640
   sound_end: 347974
   sentence: 虔十、
-  words:
-    - word: 虔
-      position: 0
-    - word: 十
-      base: '10'
-      position: 1
 - id: Kenjukoenrin-f000058
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -2513,26 +455,6 @@
   sound_begin: 347974
   sound_end: 352827
   sentence: 此処さ杉植えるなんてやっぱり馬鹿だな。
-  words:
-    - word: 此処
-      position: 0
-    - word: さ
-      position: 2
-    - word: 杉
-      position: 3
-    - word: 植える
-      position: 4
-    - word: なんて
-      position: 7
-    - word: やっぱり
-      base: 矢張り
-      position: 10
-    - word: 馬鹿
-      position: 14
-    - word: だ
-      position: 16
-    - word: な
-      position: 17
 - id: Kenjukoenrin-f000059
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -2541,27 +463,6 @@
   sound_begin: 352827
   sound_end: 356891
   sentence: 第一おらの畑ぁ日影にならな。」
-  words:
-    - word: 第一
-      position: 0
-    - word: おら
-      base: 己
-      position: 2
-    - word: の
-      position: 4
-    - word: 畑
-      position: 5
-    - word: ぁ
-      position: 6
-    - word: 日影
-      position: 7
-    - word: に
-      position: 9
-    - word: なら
-      base: だ
-      position: 10
-    - word: な
-      position: 12
 - id: Kenjukoenrin-f000060
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -2570,68 +471,6 @@
   sound_begin: 356891
   sound_end: 365400
   sentence: 虔十は顔を赤くして何か云いたそうにしましたが云えないでもじもじしました。
-  words:
-    - word: 虔
-      position: 0
-    - word: 十
-      base: '10'
-      position: 1
-    - word: は
-      position: 2
-    - word: 顔
-      position: 3
-    - word: を
-      position: 4
-    - word: 赤く
-      base: 赤い
-      position: 5
-    - word: し
-      base: 為る
-      position: 7
-    - word: て
-      position: 8
-    - word: 何
-      position: 9
-    - word: か
-      position: 10
-    - word: 云い
-      base: 言う
-      position: 11
-    - word: た
-      base: たい
-      position: 13
-    - word: そう
-      position: 14
-    - word: に
-      base: だ
-      position: 16
-    - word: し
-      base: 為る
-      position: 17
-    - word: まし
-      base: ます
-      position: 18
-    - word: た
-      position: 20
-    - word: が
-      position: 21
-    - word: 云え
-      base: 言う
-      position: 22
-    - word: ない
-      position: 24
-    - word: で
-      position: 26
-    - word: もじもじ
-      position: 27
-    - word: し
-      base: 為る
-      position: 31
-    - word: まし
-      base: ます
-      position: 32
-    - word: た
-      position: 34
 - id: Kenjukoenrin-f000061
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -2640,23 +479,6 @@
   sound_begin: 365400
   sound_end: 368640
   sentence: すると虔十の兄さんが、
-  words:
-    - word: する
-      base: 為る
-      position: 0
-    - word: と
-      position: 2
-    - word: 虔
-      position: 3
-    - word: 十
-      base: '10'
-      position: 4
-    - word: の
-      position: 5
-    - word: 兄さん
-      position: 6
-    - word: が
-      position: 9
 - id: Kenjukoenrin-f000062
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -2665,11 +487,6 @@
   sound_begin: 368640
   sound_end: 370440
   sentence: 「平二さん、
-  words:
-    - word: 平二
-      position: 1
-    - word: さん
-      position: 3
 - id: Kenjukoenrin-f000063
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -2678,13 +495,6 @@
   sound_begin: 370440
   sound_end: 372762
   sentence: お早うがす。
-  words:
-    - word: お早う
-      base: 御早う
-      position: 0
-    - word: がす
-      base: 貸す
-      position: 3
 - id: Kenjukoenrin-f000064
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -2693,70 +503,6 @@
   sound_begin: 372762
   sound_end: 381200
   sentence: 」と云って向うに立ちあがりましたので平二はぶつぶつ云いながら又のっそりと向うへ行ってしまいました。
-  words:
-    - word: と
-      position: 1
-    - word: 云っ
-      base: 言う
-      position: 2
-    - word: て
-      position: 4
-    - word: 向う
-      base: 向こう
-      position: 5
-    - word: に
-      position: 7
-    - word: 立ち
-      base: 立つ
-      position: 8
-    - word: あがり
-      base: 上がる
-      position: 10
-    - word: まし
-      base: ます
-      position: 13
-    - word: た
-      position: 15
-    - word: の
-      position: 16
-    - word: で
-      base: だ
-      position: 17
-    - word: 平二
-      position: 18
-    - word: は
-      position: 20
-    - word: ぶつぶつ
-      position: 21
-    - word: 云い
-      base: 言う
-      position: 25
-    - word: ながら
-      position: 27
-    - word: 又
-      position: 30
-    - word: のっそり
-      position: 31
-    - word: と
-      position: 35
-    - word: 向う
-      base: 向こう
-      position: 36
-    - word: へ
-      position: 38
-    - word: 行っ
-      base: 行く
-      position: 39
-    - word: て
-      position: 41
-    - word: しまい
-      base: 仕舞う
-      position: 42
-    - word: まし
-      base: ます
-      position: 45
-    - word: た
-      position: 47
 - id: Kenjukoenrin-f000065
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -2765,58 +511,6 @@
   sound_begin: 383400
   sound_end: 391000
   sentence: その芝原へ杉を植えることを嘲笑ったものは決して平二だけではありませんでした。
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 芝原
-      position: 2
-    - word: へ
-      position: 4
-    - word: 杉
-      position: 5
-    - word: を
-      position: 6
-    - word: 植える
-      position: 7
-    - word: こと
-      position: 10
-    - word: を
-      position: 12
-    - word: 嘲笑っ
-      base: 嘲笑う
-      position: 13
-    - word: た
-      position: 16
-    - word: もの
-      base: 物
-      position: 17
-    - word: は
-      position: 19
-    - word: 決して
-      position: 20
-    - word: 平二
-      position: 23
-    - word: だけ
-      position: 25
-    - word: で
-      position: 27
-    - word: は
-      position: 28
-    - word: あり
-      base: 有る
-      position: 29
-    - word: ませ
-      base: ます
-      position: 31
-    - word: ん
-      base: ず
-      position: 33
-    - word: でし
-      base: です
-      position: 34
-    - word: た
-      position: 36
 - id: Kenjukoenrin-f000066
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -2825,30 +519,6 @@
   sound_begin: 391000
   sound_end: 395240
   sentence: あんな処に杉など育つものでもない、
-  words:
-    - word: あんな
-      position: 0
-    - word: 処
-      position: 3
-    - word: に
-      position: 4
-    - word: 杉
-      position: 5
-    - word: など
-      position: 6
-    - word: 育つ
-      position: 8
-    - word: もの
-      base: 物
-      position: 10
-    - word: で
-      base: だ
-      position: 12
-    - word: も
-      position: 13
-    - word: ない
-      base: 無い
-      position: 14
 - id: Kenjukoenrin-f000067
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -2857,24 +527,6 @@
   sound_begin: 395240
   sound_end: 398120
   sentence: 底は硬い粘土なんだ、
-  words:
-    - word: 底
-      position: 0
-    - word: は
-      position: 1
-    - word: 硬い
-      base: 固い
-      position: 2
-    - word: 粘土
-      position: 4
-    - word: な
-      base: だ
-      position: 6
-    - word: ん
-      base: の
-      position: 7
-    - word: だ
-      position: 8
 - id: Kenjukoenrin-f000068
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -2883,38 +535,6 @@
   sound_begin: 398120
   sound_end: 404440
   sentence: やっぱり馬鹿は馬鹿だとみんなが云って居りました。
-  words:
-    - word: やっぱり
-      base: 矢張り
-      position: 0
-    - word: 馬鹿
-      position: 4
-    - word: は
-      position: 6
-    - word: 馬鹿
-      position: 7
-    - word: だ
-      position: 9
-    - word: と
-      position: 10
-    - word: みんな
-      base: 皆
-      position: 11
-    - word: が
-      position: 14
-    - word: 云っ
-      base: 言う
-      position: 15
-    - word: て
-      position: 17
-    - word: 居り
-      base: 居る
-      position: 18
-    - word: まし
-      base: ます
-      position: 20
-    - word: た
-      position: 22
 - id: Kenjukoenrin-f000069
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -2923,24 +543,6 @@
   sound_begin: 404440
   sound_end: 408240
   sentence: それは全くその通りでした。
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: は
-      position: 2
-    - word: 全く
-      position: 3
-    - word: その
-      base: 其の
-      position: 5
-    - word: 通り
-      position: 7
-    - word: でし
-      base: です
-      position: 9
-    - word: た
-      position: 11
 - id: Kenjukoenrin-f000070
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -2949,120 +551,6 @@
   sound_begin: 408240
   sound_end: 425560
   sentence: 杉は五年までは緑いろの心がまっすぐに空の方へ延びて行きましたがもうそれからはだんだん頭が円く変って七年目も八年目もやっぱり丈が九尺ぐらいでした。
-  words:
-    - word: 杉
-      position: 0
-    - word: は
-      position: 1
-    - word: 五
-      base: '5'
-      position: 2
-    - word: 年
-      position: 3
-    - word: まで
-      position: 4
-    - word: は
-      position: 6
-    - word: 緑いろ
-      base: 緑色
-      position: 7
-    - word: の
-      position: 10
-    - word: 心
-      position: 11
-    - word: が
-      position: 12
-    - word: まっすぐ
-      base: 真っ直ぐ
-      position: 13
-    - word: に
-      base: だ
-      position: 17
-    - word: 空
-      position: 18
-    - word: の
-      position: 19
-    - word: 方
-      position: 20
-    - word: へ
-      position: 21
-    - word: 延び
-      base: 伸びる
-      position: 22
-    - word: て
-      position: 24
-    - word: 行き
-      base: 行く
-      position: 25
-    - word: まし
-      base: ます
-      position: 27
-    - word: た
-      position: 29
-    - word: が
-      position: 30
-    - word: もう
-      position: 31
-    - word: それ
-      base: 其れ
-      position: 33
-    - word: から
-      position: 35
-    - word: は
-      position: 37
-    - word: だんだん
-      base: 段々
-      position: 38
-    - word: 頭
-      position: 42
-    - word: が
-      position: 43
-    - word: 円く
-      base: 丸い
-      position: 44
-    - word: 変っ
-      base: 変わる
-      position: 46
-    - word: て
-      position: 48
-    - word: 七
-      base: '7'
-      position: 49
-    - word: 年
-      position: 50
-    - word: 目
-      position: 51
-    - word: も
-      position: 52
-    - word: 八
-      base: '8'
-      position: 53
-    - word: 年
-      position: 54
-    - word: 目
-      position: 55
-    - word: も
-      position: 56
-    - word: やっぱり
-      base: 矢張り
-      position: 57
-    - word: 丈
-      position: 61
-    - word: が
-      position: 62
-    - word: 九
-      base: '9'
-      position: 63
-    - word: 尺
-      position: 64
-    - word: ぐらい
-      base: くらい
-      position: 65
-    - word: でし
-      base: です
-      position: 68
-    - word: た
-      position: 70
 - id: Kenjukoenrin-f000071
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -3071,60 +559,6 @@
   sound_begin: 425560
   sound_end: 433440
   sentence: ある朝虔十が林の前に立っていますとひとりの百姓が冗談に云いました。
-  words:
-    - word: ある
-      base: 或る
-      position: 0
-    - word: 朝
-      position: 2
-    - word: 虔
-      position: 3
-    - word: 十
-      base: '10'
-      position: 4
-    - word: が
-      position: 5
-    - word: 林
-      position: 6
-    - word: の
-      position: 7
-    - word: 前
-      position: 8
-    - word: に
-      position: 9
-    - word: 立っ
-      base: 立つ
-      position: 10
-    - word: て
-      position: 12
-    - word: い
-      base: 居る
-      position: 13
-    - word: ます
-      position: 14
-    - word: と
-      position: 16
-    - word: ひとり
-      base: 一人
-      position: 17
-    - word: の
-      position: 20
-    - word: 百姓
-      position: 21
-    - word: が
-      position: 23
-    - word: 冗談
-      position: 24
-    - word: に
-      position: 26
-    - word: 云い
-      base: 言う
-      position: 27
-    - word: まし
-      base: ます
-      position: 29
-    - word: た
-      position: 31
 - id: Kenjukoenrin-f000072
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -3133,9 +567,6 @@
   sound_begin: 433440
   sound_end: 433920
   sentence: 「おおい、
-  words:
-    - word: おおい
-      position: 1
 - id: Kenjukoenrin-f000073
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -3144,12 +575,6 @@
   sound_begin: 433920
   sound_end: 435560
   sentence: 虔十。
-  words:
-    - word: 虔
-      position: 0
-    - word: 十
-      base: '10'
-      position: 1
 - id: Kenjukoenrin-f000074
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -3158,30 +583,6 @@
   sound_begin: 435560
   sound_end: 440120
   sentence: あの杉ぁ枝打ぢさなぃのか。」
-  words:
-    - word: あの
-      base: 彼の
-      position: 0
-    - word: 杉
-      position: 2
-    - word: ぁ
-      position: 3
-    - word: 枝打
-      base: 枝打ち
-      position: 4
-    - word: ぢ
-      base: 痔
-      position: 6
-    - word: さ
-      position: 7
-    - word: な
-      position: 8
-    - word: ぃ
-      position: 9
-    - word: の
-      position: 10
-    - word: か
-      position: 11
 - id: Kenjukoenrin-f000075
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -3190,29 +591,6 @@
   sound_begin: 440120
   sound_end: 445200
   sentence: 「枝打ぢていうのは何だぃ。」
-  words:
-    - word: 枝打
-      base: 枝打ち
-      position: 1
-    - word: ぢ
-      base: 痔
-      position: 3
-    - word: て
-      base: って
-      position: 4
-    - word: いう
-      base: 言う
-      position: 5
-    - word: の
-      position: 7
-    - word: は
-      position: 8
-    - word: 何
-      position: 9
-    - word: だ
-      position: 10
-    - word: ぃ
-      position: 11
 - id: Kenjukoenrin-f000076
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -3221,41 +599,6 @@
   sound_begin: 445200
   sound_end: 452162
   sentence: 「枝打ぢつのは下の方の枝山刀で落すのさ。」
-  words:
-    - word: 枝打
-      base: 枝打ち
-      position: 1
-    - word: ぢ
-      base: 痔
-      position: 3
-    - word: つ
-      base: つう
-      position: 4
-    - word: の
-      position: 5
-    - word: は
-      position: 6
-    - word: 下
-      position: 7
-    - word: の
-      position: 8
-    - word: 方
-      position: 9
-    - word: の
-      position: 10
-    - word: 枝
-      position: 11
-    - word: 山刀
-      position: 12
-    - word: で
-      position: 14
-    - word: 落す
-      base: 落とす
-      position: 15
-    - word: の
-      position: 17
-    - word: さ
-      position: 18
 - id: Kenjukoenrin-f000077
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -3264,28 +607,6 @@
   sound_begin: 452162
   sound_end: 455668
   sentence: 「おらも枝打ぢするべがな。」
-  words:
-    - word: おら
-      base: 己
-      position: 1
-    - word: も
-      position: 3
-    - word: 枝打
-      base: 枝打ち
-      position: 4
-    - word: ぢ
-      base: 痔
-      position: 6
-    - word: する
-      base: 為る
-      position: 7
-    - word: べ
-      base: べい
-      position: 9
-    - word: が
-      position: 10
-    - word: な
-      position: 11
 - id: Kenjukoenrin-f000078
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -3294,41 +615,6 @@
   sound_begin: 457240
   sound_end: 460800
   sentence: 虔十は走って行って山刀を持って来ました。
-  words:
-    - word: 虔
-      position: 0
-    - word: 十
-      base: '10'
-      position: 1
-    - word: は
-      position: 2
-    - word: 走っ
-      base: 走る
-      position: 3
-    - word: て
-      position: 5
-    - word: 行っ
-      base: 行く
-      position: 6
-    - word: て
-      position: 8
-    - word: 山刀
-      position: 9
-    - word: を
-      position: 11
-    - word: 持っ
-      base: 持つ
-      position: 12
-    - word: て
-      position: 14
-    - word: 来
-      base: 来る
-      position: 15
-    - word: まし
-      base: ます
-      position: 16
-    - word: た
-      position: 18
 - id: Kenjukoenrin-f000079
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -3337,35 +623,6 @@
   sound_begin: 460800
   sound_end: 466396
   sentence: そして片っぱしからぱちぱち杉の下枝を払いはじめました。
-  words:
-    - word: そして
-      position: 0
-    - word: 片っぱし
-      base: 片端
-      position: 3
-    - word: から
-      position: 7
-    - word: ぱちぱち
-      position: 9
-    - word: 杉
-      position: 13
-    - word: の
-      position: 14
-    - word: 下枝
-      position: 15
-    - word: を
-      position: 17
-    - word: 払い
-      base: 払う
-      position: 18
-    - word: はじめ
-      base: 始める
-      position: 20
-    - word: まし
-      base: ます
-      position: 23
-    - word: た
-      position: 25
 - id: Kenjukoenrin-f000080
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -3374,79 +631,6 @@
   sound_begin: 466396
   sound_end: 477542
   sentence: ところがただ九尺の杉ですから虔十は少しからだをまげて杉の木の下にくぐらなければなりませんでした。
-  words:
-    - word: ところ
-      base: 所
-      position: 0
-    - word: が
-      position: 3
-    - word: ただ
-      base: 唯
-      position: 4
-    - word: 九
-      base: '9'
-      position: 6
-    - word: 尺
-      position: 7
-    - word: の
-      position: 8
-    - word: 杉
-      position: 9
-    - word: です
-      position: 10
-    - word: から
-      position: 12
-    - word: 虔
-      position: 14
-    - word: 十
-      base: '10'
-      position: 15
-    - word: は
-      position: 16
-    - word: 少し
-      position: 17
-    - word: からだ
-      base: 体
-      position: 19
-    - word: を
-      position: 22
-    - word: まげて
-      base: 枉げて
-      position: 23
-    - word: 杉
-      position: 26
-    - word: の
-      position: 27
-    - word: 木
-      position: 28
-    - word: の
-      position: 29
-    - word: 下
-      position: 30
-    - word: に
-      position: 31
-    - word: くぐら
-      base: 潜る
-      position: 32
-    - word: なけれ
-      base: ない
-      position: 35
-    - word: ば
-      position: 38
-    - word: なり
-      base: 成る
-      position: 39
-    - word: ませ
-      base: ます
-      position: 41
-    - word: ん
-      base: ず
-      position: 43
-    - word: でし
-      base: です
-      position: 44
-    - word: た
-      position: 46
 - id: Kenjukoenrin-f000081
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -3455,83 +639,6 @@
   sound_begin: 477542
   sound_end: 488040
   sentence: 夕方になったときはどの木も上の方の枝をただ三四本ぐらいずつ残してあとはすっかり払い落されていました。
-  words:
-    - word: 夕方
-      position: 0
-    - word: に
-      position: 2
-    - word: なっ
-      base: 成る
-      position: 3
-    - word: た
-      position: 5
-    - word: とき
-      base: 時
-      position: 6
-    - word: は
-      position: 8
-    - word: どの
-      position: 9
-    - word: 木
-      position: 11
-    - word: も
-      position: 12
-    - word: 上
-      position: 13
-    - word: の
-      position: 14
-    - word: 方
-      position: 15
-    - word: の
-      position: 16
-    - word: 枝
-      position: 17
-    - word: を
-      position: 18
-    - word: ただ
-      base: 唯
-      position: 19
-    - word: 三四
-      base: '34'
-      position: 21
-    - word: 本
-      position: 23
-    - word: ぐらい
-      base: くらい
-      position: 24
-    - word: ずつ
-      position: 27
-    - word: 残し
-      base: 残す
-      position: 29
-    - word: て
-      position: 31
-    - word: あと
-      base: 後
-      position: 32
-    - word: は
-      position: 34
-    - word: すっかり
-      position: 35
-    - word: 払い
-      base: 払う
-      position: 39
-    - word: 落さ
-      base: 落とす
-      position: 41
-    - word: れ
-      base: れる
-      position: 43
-    - word: て
-      position: 44
-    - word: い
-      base: 居る
-      position: 45
-    - word: まし
-      base: ます
-      position: 46
-    - word: た
-      position: 48
 - id: Kenjukoenrin-f000082
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -3540,59 +647,6 @@
   sound_begin: 489740
   sound_end: 500576
   sentence: 濃い緑いろの枝はいちめんに下草を埋めその小さな林はあかるくがらんとなってしまいました。
-  words:
-    - word: 濃い
-      position: 0
-    - word: 緑いろ
-      base: 緑色
-      position: 2
-    - word: の
-      position: 5
-    - word: 枝
-      position: 6
-    - word: は
-      position: 7
-    - word: いちめん
-      base: 一面
-      position: 8
-    - word: に
-      position: 12
-    - word: 下草
-      position: 13
-    - word: を
-      position: 15
-    - word: 埋め
-      base: 埋める
-      position: 16
-    - word: その
-      base: 其の
-      position: 18
-    - word: 小さな
-      position: 20
-    - word: 林
-      position: 23
-    - word: は
-      position: 24
-    - word: あかるく
-      base: 明るい
-      position: 25
-    - word: がらん
-      position: 29
-    - word: と
-      position: 32
-    - word: なっ
-      base: 成る
-      position: 33
-    - word: て
-      position: 35
-    - word: しまい
-      base: 仕舞う
-      position: 36
-    - word: まし
-      base: ます
-      position: 39
-    - word: た
-      position: 41
 - id: Kenjukoenrin-f000083
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -3601,78 +655,6 @@
   sound_begin: 500576
   sound_end: 511320
   sentence: 虔十は一ぺんにあんまりがらんとなったのでなんだか気持ちが悪くて胸が痛いように思いました。
-  words:
-    - word: 虔
-      position: 0
-    - word: 十
-      base: '10'
-      position: 1
-    - word: は
-      position: 2
-    - word: 一
-      base: '1'
-      position: 3
-    - word: ぺん
-      base: 遍
-      position: 4
-    - word: に
-      position: 6
-    - word: あんまり
-      base: 余り
-      position: 7
-    - word: がらん
-      position: 11
-    - word: と
-      position: 14
-    - word: なっ
-      base: 成る
-      position: 15
-    - word: た
-      position: 17
-    - word: の
-      position: 18
-    - word: で
-      base: だ
-      position: 19
-    - word: な
-      base: だ
-      position: 20
-    - word: ん
-      base: の
-      position: 21
-    - word: だ
-      position: 22
-    - word: か
-      position: 23
-    - word: 気持ち
-      position: 24
-    - word: が
-      position: 27
-    - word: 悪く
-      base: 悪い
-      position: 28
-    - word: て
-      position: 30
-    - word: 胸
-      position: 31
-    - word: が
-      position: 32
-    - word: 痛い
-      position: 33
-    - word: よう
-      base: 様
-      position: 35
-    - word: に
-      base: だ
-      position: 37
-    - word: 思い
-      base: 思う
-      position: 38
-    - word: まし
-      base: ます
-      position: 40
-    - word: た
-      position: 42
 - id: Kenjukoenrin-f000084
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -3681,71 +663,6 @@
   sound_begin: 511320
   sound_end: 520520
   sentence: そこへ丁度虔十の兄さんが畑から帰ってやって来ましたが林を見て思わず笑いました。
-  words:
-    - word: そこ
-      base: 其処
-      position: 0
-    - word: へ
-      position: 2
-    - word: 丁度
-      position: 3
-    - word: 虔
-      position: 5
-    - word: 十
-      base: '10'
-      position: 6
-    - word: の
-      position: 7
-    - word: 兄さん
-      position: 8
-    - word: が
-      position: 11
-    - word: 畑
-      position: 12
-    - word: から
-      position: 13
-    - word: 帰っ
-      base: 帰る
-      position: 15
-    - word: て
-      position: 17
-    - word: やっ
-      base: 遣る
-      position: 18
-    - word: て
-      position: 20
-    - word: 来
-      base: 来る
-      position: 21
-    - word: まし
-      base: ます
-      position: 22
-    - word: た
-      position: 24
-    - word: が
-      position: 25
-    - word: 林
-      position: 26
-    - word: を
-      position: 27
-    - word: 見
-      base: 見る
-      position: 28
-    - word: て
-      position: 29
-    - word: 思わ
-      base: 思う
-      position: 30
-    - word: ず
-      position: 32
-    - word: 笑い
-      base: 笑う
-      position: 33
-    - word: まし
-      base: ます
-      position: 35
-    - word: た
-      position: 37
 - id: Kenjukoenrin-f000085
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -3754,39 +671,6 @@
   sound_begin: 520520
   sound_end: 525897
   sentence: そしてぼんやり立っている虔十にきげんよく云いました。
-  words:
-    - word: そして
-      position: 0
-    - word: ぼんやり
-      position: 3
-    - word: 立っ
-      base: 立つ
-      position: 7
-    - word: て
-      position: 9
-    - word: いる
-      base: 居る
-      position: 10
-    - word: 虔
-      position: 12
-    - word: 十
-      base: '10'
-      position: 13
-    - word: に
-      position: 14
-    - word: きげん
-      position: 15
-    - word: よく
-      base: 良く
-      position: 18
-    - word: 云い
-      base: 言う
-      position: 20
-    - word: まし
-      base: ます
-      position: 22
-    - word: た
-      position: 24
 - id: Kenjukoenrin-f000086
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -3795,10 +679,6 @@
   sound_begin: 525897
   sound_end: 527200
   sentence: 「おう、
-  words:
-    - word: おう
-      base: おお
-      position: 1
 - id: Kenjukoenrin-f000087
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -3807,15 +687,6 @@
   sound_begin: 527200
   sound_end: 529400
   sentence: 枝集めべ、
-  words:
-    - word: 枝
-      position: 0
-    - word: 集め
-      base: 集める
-      position: 1
-    - word: べ
-      base: べい
-      position: 3
 - id: Kenjukoenrin-f000088
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -3824,24 +695,6 @@
   sound_begin: 529400
   sound_end: 532503
   sentence: いい焚ぎものうんと出来だ。
-  words:
-    - word: いい
-      base: 良い
-      position: 0
-    - word: 焚
-      position: 2
-    - word: ぎ
-      position: 3
-    - word: も
-      position: 4
-    - word: の
-      position: 5
-    - word: うんと
-      position: 6
-    - word: 出来
-      position: 9
-    - word: だ
-      position: 11
 - id: Kenjukoenrin-f000089
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -3850,23 +703,6 @@
   sound_begin: 532503
   sound_end: 536311
   sentence: 林も立派になったな。」
-  words:
-    - word: 林
-      position: 0
-    - word: も
-      position: 1
-    - word: 立派
-      position: 2
-    - word: に
-      base: だ
-      position: 4
-    - word: なっ
-      base: 成る
-      position: 5
-    - word: た
-      position: 7
-    - word: な
-      position: 8
 - id: Kenjukoenrin-f000090
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -3875,73 +711,6 @@
   sound_begin: 536311
   sound_end: 548160
   sentence: そこで虔十もやっと安心して兄さんと一緒に杉の木の下にくぐって落した枝をすっかり集めました。
-  words:
-    - word: そこ
-      base: 其処
-      position: 0
-    - word: で
-      position: 2
-    - word: 虔
-      position: 3
-    - word: 十
-      base: '10'
-      position: 4
-    - word: も
-      position: 5
-    - word: やっと
-      base: 漸と
-      position: 6
-    - word: 安心
-      position: 9
-    - word: し
-      base: 為る
-      position: 11
-    - word: て
-      position: 12
-    - word: 兄さん
-      position: 13
-    - word: と
-      position: 16
-    - word: 一緒
-      position: 17
-    - word: に
-      position: 19
-    - word: 杉
-      position: 20
-    - word: の
-      position: 21
-    - word: 木
-      position: 22
-    - word: の
-      position: 23
-    - word: 下
-      position: 24
-    - word: に
-      position: 25
-    - word: くぐっ
-      base: 潜る
-      position: 26
-    - word: て
-      position: 29
-    - word: 落し
-      base: 落とす
-      position: 30
-    - word: た
-      position: 32
-    - word: 枝
-      position: 33
-    - word: を
-      position: 34
-    - word: すっかり
-      position: 35
-    - word: 集め
-      base: 集める
-      position: 39
-    - word: まし
-      base: ます
-      position: 41
-    - word: た
-      position: 43
 - id: Kenjukoenrin-f000091
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -3950,58 +719,6 @@
   sound_begin: 548160
   sound_end: 558068
   sentence: 下草はみじかくて奇麗でまるで仙人たちが碁でもうつ処のように見えました。
-  words:
-    - word: 下草
-      position: 0
-    - word: は
-      position: 2
-    - word: みじかく
-      base: 短い
-      position: 3
-    - word: て
-      position: 7
-    - word: 奇麗
-      position: 8
-    - word: で
-      base: だ
-      position: 10
-    - word: まるで
-      base: 丸で
-      position: 11
-    - word: 仙人
-      position: 14
-    - word: たち
-      base: 達
-      position: 16
-    - word: が
-      position: 18
-    - word: 碁
-      position: 19
-    - word: で
-      position: 20
-    - word: も
-      position: 21
-    - word: うつ
-      base: 打つ
-      position: 22
-    - word: 処
-      position: 24
-    - word: の
-      position: 25
-    - word: よう
-      base: 様
-      position: 26
-    - word: に
-      base: だ
-      position: 28
-    - word: 見え
-      base: 見える
-      position: 29
-    - word: まし
-      base: ます
-      position: 31
-    - word: た
-      position: 33
 - id: Kenjukoenrin-f000092
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -4010,81 +727,6 @@
   sound_begin: 558068
   sound_end: 569493
   sentence: ところが次の日虔十は納屋で虫喰い大豆を拾っていましたら林の方でそれはそれは大さわぎが聞えました。
-  words:
-    - word: ところ
-      base: 所
-      position: 0
-    - word: が
-      position: 3
-    - word: 次
-      position: 4
-    - word: の
-      position: 5
-    - word: 日
-      position: 6
-    - word: 虔
-      position: 7
-    - word: 十
-      base: '10'
-      position: 8
-    - word: は
-      position: 9
-    - word: 納屋
-      position: 10
-    - word: で
-      position: 12
-    - word: 虫喰い
-      base: 虫食い
-      position: 13
-    - word: 大豆
-      position: 16
-    - word: を
-      position: 18
-    - word: 拾っ
-      base: 拾う
-      position: 19
-    - word: て
-      position: 21
-    - word: い
-      base: 居る
-      position: 22
-    - word: まし
-      base: ます
-      position: 23
-    - word: たら
-      base: た
-      position: 25
-    - word: 林
-      position: 27
-    - word: の
-      position: 28
-    - word: 方
-      position: 29
-    - word: で
-      position: 30
-    - word: それ
-      base: 其れ
-      position: 31
-    - word: は
-      position: 33
-    - word: それ
-      base: 其れ
-      position: 34
-    - word: は
-      position: 36
-    - word: 大さわぎ
-      base: 大騒ぎ
-      position: 37
-    - word: が
-      position: 41
-    - word: 聞え
-      base: 聞こえる
-      position: 42
-    - word: まし
-      base: ます
-      position: 44
-    - word: た
-      position: 46
 - id: Kenjukoenrin-f000093
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -4093,38 +735,6 @@
   sound_begin: 569493
   sound_end: 575205
   sentence: あっちでもこっちでも号令をかける声ラッパのまね、
-  words:
-    - word: あっち
-      base: 彼方
-      position: 0
-    - word: で
-      position: 3
-    - word: も
-      position: 4
-    - word: こっち
-      base: 此方
-      position: 5
-    - word: で
-      position: 8
-    - word: も
-      position: 9
-    - word: 号令
-      position: 10
-    - word: を
-      position: 12
-    - word: かける
-      base: 掛ける
-      position: 13
-    - word: 声
-      position: 16
-    - word: ラッパ
-      base: 喇叭
-      position: 17
-    - word: の
-      position: 20
-    - word: まね
-      base: 真似
-      position: 21
 - id: Kenjukoenrin-f000094
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -4133,56 +743,6 @@
   sound_begin: 575205
   sound_end: 584075
   sentence: 足ぶみの音それからまるでそこら中の鳥も飛びあがるようなどっと起るわらい声、
-  words:
-    - word: 足ぶみ
-      base: 足踏み
-      position: 0
-    - word: の
-      position: 3
-    - word: 音
-      position: 4
-    - word: それ
-      base: 其れ
-      position: 5
-    - word: から
-      position: 7
-    - word: まるで
-      base: 丸で
-      position: 9
-    - word: そこ
-      base: 其処
-      position: 12
-    - word: ら
-      base: 等
-      position: 14
-    - word: 中
-      position: 15
-    - word: の
-      position: 16
-    - word: 鳥
-      position: 17
-    - word: も
-      position: 18
-    - word: 飛び
-      base: 飛ぶ
-      position: 19
-    - word: あがる
-      base: 上がる
-      position: 21
-    - word: よう
-      base: 様
-      position: 24
-    - word: な
-      base: だ
-      position: 26
-    - word: どっと
-      position: 27
-    - word: 起る
-      base: 起こる
-      position: 30
-    - word: わらい声
-      base: 笑い声
-      position: 32
 - id: Kenjukoenrin-f000095
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -4191,39 +751,6 @@
   sound_begin: 584075
   sound_end: 587040
   sentence: 虔十はびっくりしてそっちへ行って見ました。
-  words:
-    - word: 虔
-      position: 0
-    - word: 十
-      base: '10'
-      position: 1
-    - word: は
-      position: 2
-    - word: びっくり
-      position: 3
-    - word: し
-      base: 為る
-      position: 7
-    - word: て
-      position: 8
-    - word: そっち
-      base: 其方
-      position: 9
-    - word: へ
-      position: 12
-    - word: 行っ
-      base: 行く
-      position: 13
-    - word: て
-      position: 15
-    - word: 見
-      base: 見る
-      position: 16
-    - word: まし
-      base: ます
-      position: 17
-    - word: た
-      position: 19
 - id: Kenjukoenrin-f000096
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -4232,96 +759,6 @@
   sound_begin: 589044
   sound_end: 603719
   sentence: すると愕ろいたことは学校帰りの子供らが五十人も集って一列になって歩調をそろえてその杉の木の間を行進しているのでした。
-  words:
-    - word: する
-      base: 為る
-      position: 0
-    - word: と
-      position: 2
-    - word: 愕
-      position: 3
-    - word: ろ
-      position: 4
-    - word: い
-      base: 居る
-      position: 5
-    - word: た
-      position: 6
-    - word: こと
-      position: 7
-    - word: は
-      position: 9
-    - word: 学校
-      position: 10
-    - word: 帰り
-      position: 12
-    - word: の
-      position: 14
-    - word: 子供
-      position: 15
-    - word: ら
-      base: 等
-      position: 17
-    - word: が
-      position: 18
-    - word: 五
-      base: '5'
-      position: 19
-    - word: 十人
-      position: 20
-    - word: も
-      position: 22
-    - word: 集っ
-      base: 集う
-      position: 23
-    - word: て
-      position: 25
-    - word: 一列
-      position: 26
-    - word: に
-      position: 28
-    - word: なっ
-      base: 成る
-      position: 29
-    - word: て
-      position: 31
-    - word: 歩調
-      position: 32
-    - word: を
-      position: 34
-    - word: そろえ
-      base: 揃う
-      position: 35
-    - word: て
-      position: 38
-    - word: その
-      base: 其の
-      position: 39
-    - word: 杉
-      position: 41
-    - word: の
-      position: 42
-    - word: 木の間
-      position: 43
-    - word: を
-      position: 46
-    - word: 行進
-      position: 47
-    - word: し
-      base: 為る
-      position: 49
-    - word: て
-      position: 50
-    - word: いる
-      base: 居る
-      position: 51
-    - word: の
-      position: 53
-    - word: でし
-      base: です
-      position: 54
-    - word: た
-      position: 56
 - id: Kenjukoenrin-f000097
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -4330,42 +767,6 @@
   sound_begin: 603719
   sound_end: 609245
   sentence: 全く杉の列はどこを通っても並木道のようでした。
-  words:
-    - word: 全く
-      position: 0
-    - word: 杉
-      position: 2
-    - word: の
-      position: 3
-    - word: 列
-      position: 4
-    - word: は
-      position: 5
-    - word: どこ
-      position: 6
-    - word: を
-      position: 8
-    - word: 通っ
-      base: 通る
-      position: 9
-    - word: て
-      position: 11
-    - word: も
-      position: 12
-    - word: 並木
-      position: 13
-    - word: 道
-      position: 15
-    - word: の
-      position: 16
-    - word: よう
-      base: 様
-      position: 17
-    - word: でし
-      base: です
-      position: 19
-    - word: た
-      position: 21
 - id: Kenjukoenrin-f000098
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -4374,104 +775,6 @@
   sound_begin: 609245
   sound_end: 621680
   sentence: それに青い服を着たような杉の木の方も列を組んであるいているように見えるのですから子供らのよろこび加減と云ったらとてもありません、
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: に
-      position: 2
-    - word: 青い
-      position: 3
-    - word: 服
-      position: 5
-    - word: を
-      position: 6
-    - word: 着
-      base: 着る
-      position: 7
-    - word: た
-      position: 8
-    - word: よう
-      base: 様
-      position: 9
-    - word: な
-      base: だ
-      position: 11
-    - word: 杉
-      position: 12
-    - word: の
-      position: 13
-    - word: 木
-      position: 14
-    - word: の
-      position: 15
-    - word: 方
-      position: 16
-    - word: も
-      position: 17
-    - word: 列
-      position: 18
-    - word: を
-      position: 19
-    - word: 組ん
-      base: 組む
-      position: 20
-    - word: で
-      position: 22
-    - word: あるい
-      base: 歩く
-      position: 23
-    - word: て
-      position: 26
-    - word: いる
-      base: 居る
-      position: 27
-    - word: よう
-      base: 様
-      position: 29
-    - word: に
-      base: だ
-      position: 31
-    - word: 見える
-      position: 32
-    - word: の
-      position: 35
-    - word: です
-      position: 36
-    - word: から
-      position: 38
-    - word: 子供
-      position: 40
-    - word: ら
-      base: 等
-      position: 42
-    - word: の
-      position: 43
-    - word: よろこび
-      base: 喜び
-      position: 44
-    - word: 加減
-      position: 48
-    - word: と
-      position: 50
-    - word: 云っ
-      base: 言う
-      position: 51
-    - word: たら
-      base: た
-      position: 53
-    - word: とても
-      base: 迚も
-      position: 55
-    - word: あり
-      base: 有る
-      position: 58
-    - word: ませ
-      base: ます
-      position: 60
-    - word: ん
-      base: ず
-      position: 62
 - id: Kenjukoenrin-f000099
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -4480,68 +783,6 @@
   sound_begin: 621680
   sound_end: 630400
   sentence: みんな顔をまっ赤にしてもずのように叫んで杉の列の間を歩いているのでした。
-  words:
-    - word: みんな
-      base: 皆
-      position: 0
-    - word: 顔
-      position: 3
-    - word: を
-      position: 4
-    - word: まっ赤
-      base: 真っ赤
-      position: 5
-    - word: に
-      base: だ
-      position: 8
-    - word: し
-      base: 為る
-      position: 9
-    - word: て
-      position: 10
-    - word: もず
-      base: 百舌
-      position: 11
-    - word: の
-      position: 13
-    - word: よう
-      base: 様
-      position: 14
-    - word: に
-      base: だ
-      position: 16
-    - word: 叫ん
-      base: 叫ぶ
-      position: 17
-    - word: で
-      position: 19
-    - word: 杉
-      position: 20
-    - word: の
-      position: 21
-    - word: 列
-      position: 22
-    - word: の
-      position: 23
-    - word: 間
-      position: 24
-    - word: を
-      position: 25
-    - word: 歩い
-      base: 歩く
-      position: 26
-    - word: て
-      position: 28
-    - word: いる
-      base: 居る
-      position: 29
-    - word: の
-      position: 31
-    - word: でし
-      base: です
-      position: 32
-    - word: た
-      position: 34
 - id: Kenjukoenrin-f000100
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -4550,20 +791,6 @@
   sound_begin: 630400
   sound_end: 632976
   sentence: その杉の列には、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 杉
-      position: 2
-    - word: の
-      position: 3
-    - word: 列
-      position: 4
-    - word: に
-      position: 5
-    - word: は
-      position: 6
 - id: Kenjukoenrin-f000101
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -4572,55 +799,6 @@
   sound_begin: 632976
   sound_end: 644586
   sentence: 東京街道ロシヤ街道それから西洋街道というようにずんずん名前がついて行きました。
-  words:
-    - word: 東京
-      position: 0
-    - word: 街道
-      position: 2
-    - word: ロシヤ
-      base: ロシア
-      position: 4
-    - word: 街道
-      position: 7
-    - word: それ
-      base: 其れ
-      position: 9
-    - word: から
-      position: 11
-    - word: 西洋
-      position: 13
-    - word: 街道
-      position: 15
-    - word: と
-      position: 17
-    - word: いう
-      base: 言う
-      position: 18
-    - word: よう
-      base: 様
-      position: 20
-    - word: に
-      base: だ
-      position: 22
-    - word: ずんずん
-      position: 23
-    - word: 名前
-      position: 27
-    - word: が
-      position: 29
-    - word: つい
-      base: 付く
-      position: 30
-    - word: て
-      position: 32
-    - word: 行き
-      base: 行く
-      position: 33
-    - word: まし
-      base: ます
-      position: 35
-    - word: た
-      position: 37
 - id: Kenjukoenrin-f000102
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -4629,55 +807,6 @@
   sound_begin: 644586
   sound_end: 652680
   sentence: 虔十もよろこんで杉のこっちにかくれながら口を大きくあいてはあはあ笑いました。
-  words:
-    - word: 虔
-      position: 0
-    - word: 十
-      base: '10'
-      position: 1
-    - word: も
-      position: 2
-    - word: よろこん
-      base: 喜ぶ
-      position: 3
-    - word: で
-      position: 7
-    - word: 杉
-      position: 8
-    - word: の
-      position: 9
-    - word: こっち
-      base: 此方
-      position: 10
-    - word: に
-      position: 13
-    - word: かくれ
-      base: 隠れる
-      position: 14
-    - word: ながら
-      position: 17
-    - word: 口
-      position: 20
-    - word: を
-      position: 21
-    - word: 大きく
-      base: 大きい
-      position: 22
-    - word: あい
-      base: あく
-      position: 25
-    - word: て
-      position: 27
-    - word: はあはあ
-      position: 28
-    - word: 笑い
-      base: 笑う
-      position: 32
-    - word: まし
-      base: ます
-      position: 34
-    - word: た
-      position: 36
 - id: Kenjukoenrin-f000103
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -4686,35 +815,6 @@
   sound_begin: 654380
   sound_end: 661954
   sentence: それからはもう毎日毎日子供らが集まりました。
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: から
-      position: 2
-    - word: は
-      position: 4
-    - word: もう
-      position: 5
-    - word: 毎日
-      position: 7
-    - word: 毎日
-      position: 9
-    - word: 子供
-      position: 11
-    - word: ら
-      base: 等
-      position: 13
-    - word: が
-      position: 14
-    - word: 集まり
-      base: 集まる
-      position: 15
-    - word: まし
-      base: ます
-      position: 18
-    - word: た
-      position: 20
 - id: Kenjukoenrin-f000104
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -4723,37 +823,6 @@
   sound_begin: 661954
   sound_end: 667440
   sentence: ただ子供らの来ないのは雨の日でした。
-  words:
-    - word: ただ
-      base: 唯
-      position: 0
-    - word: 子供
-      position: 2
-    - word: ら
-      base: 等
-      position: 4
-    - word: の
-      position: 5
-    - word: 来
-      base: 来る
-      position: 6
-    - word: ない
-      position: 7
-    - word: の
-      position: 9
-    - word: は
-      position: 10
-    - word: 雨
-      position: 11
-    - word: の
-      position: 12
-    - word: 日
-      position: 13
-    - word: でし
-      base: です
-      position: 14
-    - word: た
-      position: 16
 - id: Kenjukoenrin-f000105
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -4762,93 +831,6 @@
   sound_begin: 667440
   sound_end: 680960
   sentence: その日はまっ白なやわらかな空からあめのさらさらと降る中で虔十がただ一人からだ中ずぶぬれになって林の外に立っていました。
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 日
-      position: 2
-    - word: は
-      position: 3
-    - word: まっ白
-      base: 真っ白
-      position: 4
-    - word: な
-      base: だ
-      position: 7
-    - word: やわらか
-      base: 柔らか
-      position: 8
-    - word: な
-      base: だ
-      position: 12
-    - word: 空
-      position: 13
-    - word: から
-      position: 14
-    - word: あめ
-      position: 16
-    - word: の
-      position: 18
-    - word: さらさら
-      position: 19
-    - word: と
-      position: 23
-    - word: 降る
-      position: 24
-    - word: 中
-      position: 26
-    - word: で
-      position: 27
-    - word: 虔
-      position: 28
-    - word: 十
-      base: '10'
-      position: 29
-    - word: が
-      position: 30
-    - word: ただ
-      base: 唯
-      position: 31
-    - word: 一人
-      position: 33
-    - word: から
-      position: 35
-    - word: だ
-      position: 37
-    - word: 中
-      position: 38
-    - word: ずぶぬれ
-      base: ずぶ濡れ
-      position: 39
-    - word: に
-      position: 43
-    - word: なっ
-      base: 成る
-      position: 44
-    - word: て
-      position: 46
-    - word: 林
-      position: 47
-    - word: の
-      position: 48
-    - word: 外
-      position: 49
-    - word: に
-      position: 50
-    - word: 立っ
-      base: 立つ
-      position: 51
-    - word: て
-      position: 53
-    - word: い
-      base: 居る
-      position: 54
-    - word: まし
-      base: ます
-      position: 55
-    - word: た
-      position: 57
 - id: Kenjukoenrin-f000106
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -4857,14 +839,6 @@
   sound_begin: 682960
   sound_end: 685163
   sentence: 「虔十さん。
-  words:
-    - word: 虔
-      position: 1
-    - word: 十
-      base: '10'
-      position: 2
-    - word: さん
-      position: 3
 - id: Kenjukoenrin-f000107
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -4873,23 +847,6 @@
   sound_begin: 685163
   sound_end: 689240
   sentence: 今日も林の立番だなす。」
-  words:
-    - word: 今日
-      position: 0
-    - word: も
-      position: 2
-    - word: 林
-      position: 3
-    - word: の
-      position: 4
-    - word: 立番
-      base: 立ち番
-      position: 5
-    - word: だ
-      position: 7
-    - word: なす
-      base: 成す
-      position: 8
 - id: Kenjukoenrin-f000108
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -4898,39 +855,6 @@
   sound_begin: 689240
   sound_end: 693534
   sentence: 簑を着て通りかかる人が笑って云いました。
-  words:
-    - word: 簑
-      position: 0
-    - word: を
-      position: 1
-    - word: 着
-      base: 着る
-      position: 2
-    - word: て
-      position: 3
-    - word: 通り
-      base: 通る
-      position: 4
-    - word: かかる
-      base: 掛かる
-      position: 6
-    - word: 人
-      position: 9
-    - word: が
-      position: 10
-    - word: 笑っ
-      base: 笑う
-      position: 11
-    - word: て
-      position: 13
-    - word: 云い
-      base: 言う
-      position: 14
-    - word: まし
-      base: ます
-      position: 16
-    - word: た
-      position: 18
 - id: Kenjukoenrin-f000109
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -4939,83 +863,6 @@
   sound_begin: 693534
   sound_end: 707744
   sentence: その杉には鳶色の実がなり立派な緑の枝さきからはすきとおったつめたい雨のしずくがポタリポタリと垂れました。
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 杉
-      position: 2
-    - word: に
-      position: 3
-    - word: は
-      position: 4
-    - word: 鳶
-      position: 5
-    - word: 色
-      position: 6
-    - word: の
-      position: 7
-    - word: 実
-      position: 8
-    - word: が
-      position: 9
-    - word: なり
-      base: 成る
-      position: 10
-    - word: 立派
-      position: 12
-    - word: な
-      base: だ
-      position: 14
-    - word: 緑
-      position: 15
-    - word: の
-      position: 16
-    - word: 枝
-      position: 17
-    - word: さき
-      base: 先
-      position: 18
-    - word: から
-      position: 20
-    - word: は
-      position: 22
-    - word: すき
-      base: すく
-      position: 23
-    - word: とおっ
-      base: 通る
-      position: 25
-    - word: た
-      position: 28
-    - word: つめたい
-      base: 冷たい
-      position: 29
-    - word: 雨
-      position: 33
-    - word: の
-      position: 34
-    - word: しずく
-      base: 滴
-      position: 35
-    - word: が
-      position: 38
-    - word: ポタリ
-      base: ぽたり
-      position: 39
-    - word: ポタリ
-      base: ぽたり
-      position: 42
-    - word: と
-      position: 45
-    - word: 垂れ
-      base: 垂れる
-      position: 46
-    - word: まし
-      base: ます
-      position: 48
-    - word: た
-      position: 50
 - id: Kenjukoenrin-f000110
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -5024,91 +871,6 @@
   sound_begin: 707744
   sound_end: 725299
   sentence: 虔十は口を大きくあけてはあはあ息をつきからだからは雨の中に湯気を立てながらいつまでもいつまでもそこに立っているのでした。
-  words:
-    - word: 虔
-      position: 0
-    - word: 十
-      base: '10'
-      position: 1
-    - word: は
-      position: 2
-    - word: 口
-      position: 3
-    - word: を
-      position: 4
-    - word: 大きく
-      base: 大きい
-      position: 5
-    - word: あけ
-      base: あける
-      position: 8
-    - word: て
-      position: 10
-    - word: はあはあ
-      position: 11
-    - word: 息
-      position: 15
-    - word: を
-      position: 16
-    - word: つき
-      position: 17
-    - word: から
-      position: 19
-    - word: だ
-      position: 21
-    - word: から
-      position: 22
-    - word: は
-      position: 24
-    - word: 雨
-      position: 25
-    - word: の
-      position: 26
-    - word: 中
-      position: 27
-    - word: に
-      position: 28
-    - word: 湯気
-      position: 29
-    - word: を
-      position: 31
-    - word: 立て
-      base: 立つ
-      position: 32
-    - word: ながら
-      position: 34
-    - word: いつ
-      position: 37
-    - word: まで
-      position: 39
-    - word: も
-      position: 41
-    - word: いつ
-      position: 42
-    - word: まで
-      position: 44
-    - word: も
-      position: 46
-    - word: そこ
-      base: 其処
-      position: 47
-    - word: に
-      position: 49
-    - word: 立っ
-      base: 立つ
-      position: 50
-    - word: て
-      position: 52
-    - word: いる
-      base: 居る
-      position: 53
-    - word: の
-      position: 55
-    - word: でし
-      base: です
-      position: 56
-    - word: た
-      position: 58
 - id: Kenjukoenrin-f000111
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -5117,29 +879,6 @@
   sound_begin: 725299
   sound_end: 729432
   sentence: ところがある霧のふかい朝でした。
-  words:
-    - word: ところ
-      base: 所
-      position: 0
-    - word: が
-      position: 3
-    - word: ある
-      base: 有る
-      position: 4
-    - word: 霧
-      position: 6
-    - word: の
-      position: 7
-    - word: ふかい
-      base: 深い
-      position: 8
-    - word: 朝
-      position: 11
-    - word: でし
-      base: です
-      position: 12
-    - word: た
-      position: 14
 - id: Kenjukoenrin-f000112
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -5148,36 +887,6 @@
   sound_begin: 729432
   sound_end: 734480
   sentence: 虔十は萱場で平二といきなり行き会いました。
-  words:
-    - word: 虔
-      position: 0
-    - word: 十
-      base: '10'
-      position: 1
-    - word: は
-      position: 2
-    - word: 萱場
-      position: 3
-    - word: で
-      position: 5
-    - word: 平二
-      position: 6
-    - word: と
-      position: 8
-    - word: いきなり
-      base: 行成
-      position: 9
-    - word: 行き
-      base: 行く
-      position: 13
-    - word: 会い
-      base: 会う
-      position: 15
-    - word: まし
-      base: ます
-      position: 17
-    - word: た
-      position: 19
 - id: Kenjukoenrin-f000113
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -5186,65 +895,6 @@
   sound_begin: 734480
   sound_end: 741280
   sentence: 平二はまわりをよく見まわしてからまるで狼のようないやな顔をしてどなりました。
-  words:
-    - word: 平二
-      position: 0
-    - word: は
-      position: 2
-    - word: まわり
-      base: 周り
-      position: 3
-    - word: を
-      position: 6
-    - word: よく
-      base: 良く
-      position: 7
-    - word: 見
-      base: 見る
-      position: 9
-    - word: まわし
-      base: 回す
-      position: 10
-    - word: て
-      position: 13
-    - word: から
-      position: 14
-    - word: まるで
-      base: 丸で
-      position: 16
-    - word: 狼
-      position: 19
-    - word: の
-      position: 20
-    - word: よう
-      base: 様
-      position: 21
-    - word: な
-      base: だ
-      position: 23
-    - word: いや
-      base: 嫌
-      position: 24
-    - word: な
-      base: だ
-      position: 26
-    - word: 顔
-      position: 27
-    - word: を
-      position: 28
-    - word: し
-      base: 為る
-      position: 29
-    - word: て
-      position: 30
-    - word: どなり
-      base: 怒鳴る
-      position: 31
-    - word: まし
-      base: ます
-      position: 34
-    - word: た
-      position: 36
 - id: Kenjukoenrin-f000114
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -5253,12 +903,6 @@
   sound_begin: 742980
   sound_end: 744414
   sentence: 「虔十、
-  words:
-    - word: 虔
-      position: 1
-    - word: 十
-      base: '10'
-      position: 2
 - id: Kenjukoenrin-f000115
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -5267,23 +911,6 @@
   sound_begin: 744414
   sound_end: 748000
   sentence: 貴さんどごの杉伐れ。」
-  words:
-    - word: 貴
-      position: 0
-    - word: さん
-      position: 1
-    - word: ど
-      position: 3
-    - word: ご
-      base: 御
-      position: 4
-    - word: の
-      position: 5
-    - word: 杉
-      position: 6
-    - word: 伐れ
-      base: 切る
-      position: 7
 - id: Kenjukoenrin-f000116
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -5292,16 +919,6 @@
   sound_begin: 748000
   sound_end: 750520
   sentence: 「何してな。」
-  words:
-    - word: 何
-      position: 1
-    - word: し
-      base: 為る
-      position: 2
-    - word: て
-      position: 3
-    - word: な
-      position: 4
 - id: Kenjukoenrin-f000117
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -5310,26 +927,6 @@
   sound_begin: 750520
   sound_end: 753160
   sentence: 「おらの畑ぁ日かげにならな。」
-  words:
-    - word: おら
-      base: 己
-      position: 1
-    - word: の
-      position: 3
-    - word: 畑
-      position: 4
-    - word: ぁ
-      position: 5
-    - word: 日かげ
-      base: 日陰
-      position: 6
-    - word: に
-      position: 9
-    - word: なら
-      base: だ
-      position: 10
-    - word: な
-      position: 12
 - id: Kenjukoenrin-f000118
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -5338,31 +935,6 @@
   sound_begin: 754960
   sound_end: 758560
   sentence: 虔十はだまって下を向きました。
-  words:
-    - word: 虔
-      position: 0
-    - word: 十
-      base: '10'
-      position: 1
-    - word: は
-      position: 2
-    - word: だまっ
-      base: 黙る
-      position: 3
-    - word: て
-      position: 6
-    - word: 下
-      position: 7
-    - word: を
-      position: 8
-    - word: 向き
-      base: 向く
-      position: 9
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
 - id: Kenjukoenrin-f000119
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -5371,68 +943,6 @@
   sound_begin: 758560
   sound_end: 766680
   sentence: 平二の畑が日かげになると云ったって杉の影がたかで五寸もはいってはいなかったのです。
-  words:
-    - word: 平二
-      position: 0
-    - word: の
-      position: 2
-    - word: 畑
-      position: 3
-    - word: が
-      position: 4
-    - word: 日かげ
-      base: 日陰
-      position: 5
-    - word: に
-      position: 8
-    - word: なる
-      base: 成る
-      position: 9
-    - word: と
-      position: 11
-    - word: 云っ
-      base: 言う
-      position: 12
-    - word: たって
-      position: 14
-    - word: 杉
-      position: 17
-    - word: の
-      position: 18
-    - word: 影
-      position: 19
-    - word: が
-      position: 20
-    - word: たか
-      position: 21
-    - word: で
-      position: 23
-    - word: 五
-      base: '5'
-      position: 24
-    - word: 寸
-      position: 25
-    - word: も
-      position: 26
-    - word: はいっ
-      base: 入る
-      position: 27
-    - word: て
-      position: 30
-    - word: は
-      position: 31
-    - word: い
-      base: 居る
-      position: 32
-    - word: なかっ
-      base: ない
-      position: 33
-    - word: た
-      position: 36
-    - word: の
-      position: 37
-    - word: です
-      position: 38
 - id: Kenjukoenrin-f000120
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -5441,46 +951,6 @@
   sound_begin: 766680
   sound_end: 773108
   sentence: おまけに杉はとにかく南から来る強い風を防いでいるのでした。
-  words:
-    - word: おまけ
-      base: 御負け
-      position: 0
-    - word: に
-      position: 3
-    - word: 杉
-      position: 4
-    - word: は
-      position: 5
-    - word: とにかく
-      base: 兎に角
-      position: 6
-    - word: 南
-      position: 10
-    - word: から
-      position: 11
-    - word: 来る
-      position: 13
-    - word: 強い
-      position: 15
-    - word: 風
-      position: 17
-    - word: を
-      position: 18
-    - word: 防い
-      base: 防ぐ
-      position: 19
-    - word: で
-      position: 21
-    - word: いる
-      base: 居る
-      position: 22
-    - word: の
-      position: 24
-    - word: でし
-      base: です
-      position: 25
-    - word: た
-      position: 27
 - id: Kenjukoenrin-f000121
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -5489,10 +959,6 @@
   sound_begin: 773108
   sound_end: 773920
   sentence: 「伐れ、
-  words:
-    - word: 伐れ
-      base: 切る
-      position: 1
 - id: Kenjukoenrin-f000122
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -5501,10 +967,6 @@
   sound_begin: 773920
   sound_end: 775120
   sentence: 伐れ。
-  words:
-    - word: 伐れ
-      base: 切る
-      position: 0
 - id: Kenjukoenrin-f000123
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -5513,17 +975,6 @@
   sound_begin: 775120
   sound_end: 777172
   sentence: 伐らなぃが。」
-  words:
-    - word: 伐ら
-      base: 切る
-      position: 0
-    - word: な
-      base: ない
-      position: 2
-    - word: ぃ
-      position: 3
-    - word: が
-      position: 4
 - id: Kenjukoenrin-f000124
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -5532,15 +983,6 @@
   sound_begin: 779981
   sound_end: 783070
   sentence: 「伐らなぃ。
-  words:
-    - word: 伐ら
-      base: 切る
-      position: 1
-    - word: な
-      base: ない
-      position: 3
-    - word: ぃ
-      position: 4
 - id: Kenjukoenrin-f000125
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -5549,41 +991,6 @@
   sound_begin: 783070
   sound_end: 788880
   sentence: 」虔十が顔をあげて少し怖そうに云いました。
-  words:
-    - word: 虔
-      position: 1
-    - word: 十
-      base: '10'
-      position: 2
-    - word: が
-      position: 3
-    - word: 顔
-      position: 4
-    - word: を
-      position: 5
-    - word: あげ
-      base: 上げる
-      position: 6
-    - word: て
-      position: 8
-    - word: 少し
-      position: 9
-    - word: 怖
-      base: 怖い
-      position: 11
-    - word: そう
-      position: 12
-    - word: に
-      base: だ
-      position: 14
-    - word: 云い
-      base: 言う
-      position: 15
-    - word: まし
-      base: ます
-      position: 17
-    - word: た
-      position: 19
 - id: Kenjukoenrin-f000126
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -5592,48 +999,6 @@
   sound_begin: 788880
   sound_end: 794889
   sentence: その唇はいまにも泣き出しそうにひきつっていました。
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 唇
-      position: 2
-    - word: は
-      position: 3
-    - word: いま
-      base: 今
-      position: 4
-    - word: に
-      position: 6
-    - word: も
-      position: 7
-    - word: 泣き
-      base: 泣く
-      position: 8
-    - word: 出し
-      base: 出す
-      position: 10
-    - word: そう
-      position: 12
-    - word: に
-      base: だ
-      position: 14
-    - word: ひき
-      base: ひく
-      position: 15
-    - word: つっ
-      base: つる
-      position: 17
-    - word: て
-      position: 19
-    - word: い
-      base: 居る
-      position: 20
-    - word: まし
-      base: ます
-      position: 21
-    - word: た
-      position: 23
 - id: Kenjukoenrin-f000127
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -5642,63 +1007,6 @@
   sound_begin: 794889
   sound_end: 803560
   sentence: 実にこれが虔十の一生の間のたった一つの人に対する逆らいの言だったのです。
-  words:
-    - word: 実
-      position: 0
-    - word: に
-      position: 1
-    - word: これ
-      base: 此れ
-      position: 2
-    - word: が
-      position: 4
-    - word: 虔
-      position: 5
-    - word: 十
-      base: '10'
-      position: 6
-    - word: の
-      position: 7
-    - word: 一生
-      position: 8
-    - word: の
-      position: 10
-    - word: 間
-      position: 11
-    - word: の
-      position: 12
-    - word: たった
-      base: 唯
-      position: 13
-    - word: 一
-      base: '1'
-      position: 16
-    - word: つ
-      position: 17
-    - word: の
-      position: 18
-    - word: 人
-      position: 19
-    - word: に
-      position: 20
-    - word: 対する
-      position: 21
-    - word: 逆らい
-      base: 逆らう
-      position: 24
-    - word: の
-      position: 27
-    - word: 言
-      position: 28
-    - word: だっ
-      base: だ
-      position: 29
-    - word: た
-      position: 31
-    - word: の
-      position: 32
-    - word: です
-      position: 33
 - id: Kenjukoenrin-f000128
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -5707,110 +1015,6 @@
   sound_begin: 805460
   sound_end: 817551
   sentence: ところが平二は人のいい虔十などにばかにされたと思ったので急に怒り出して肩を張ったと思うといきなり虔十の頬をなぐりつけました。
-  words:
-    - word: ところ
-      base: 所
-      position: 0
-    - word: が
-      position: 3
-    - word: 平二
-      position: 4
-    - word: は
-      position: 6
-    - word: 人
-      position: 7
-    - word: の
-      position: 8
-    - word: いい
-      base: 良い
-      position: 9
-    - word: 虔
-      position: 11
-    - word: 十
-      base: '10'
-      position: 12
-    - word: など
-      position: 13
-    - word: に
-      position: 15
-    - word: ばか
-      position: 16
-    - word: に
-      base: だ
-      position: 18
-    - word: さ
-      base: 為る
-      position: 19
-    - word: れ
-      base: れる
-      position: 20
-    - word: た
-      position: 21
-    - word: と
-      position: 22
-    - word: 思っ
-      base: 思う
-      position: 23
-    - word: た
-      position: 25
-    - word: の
-      position: 26
-    - word: で
-      base: だ
-      position: 27
-    - word: 急
-      position: 28
-    - word: に
-      base: だ
-      position: 29
-    - word: 怒り
-      base: 怒る
-      position: 30
-    - word: 出し
-      base: 出す
-      position: 32
-    - word: て
-      position: 34
-    - word: 肩
-      position: 35
-    - word: を
-      position: 36
-    - word: 張っ
-      base: 張る
-      position: 37
-    - word: た
-      position: 39
-    - word: と
-      position: 40
-    - word: 思う
-      position: 41
-    - word: と
-      position: 43
-    - word: いきなり
-      base: 行成
-      position: 44
-    - word: 虔
-      position: 48
-    - word: 十
-      base: '10'
-      position: 49
-    - word: の
-      position: 50
-    - word: 頬
-      position: 51
-    - word: を
-      position: 52
-    - word: なぐり
-      base: 殴る
-      position: 53
-    - word: つけ
-      base: つける
-      position: 56
-    - word: まし
-      base: ます
-      position: 58
-    - word: た
-      position: 60
 - id: Kenjukoenrin-f000129
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -5819,24 +1023,6 @@
   sound_begin: 817551
   sound_end: 821336
   sentence: どしりどしりとなぐりつけました。
-  words:
-    - word: どしり
-      position: 0
-    - word: どしり
-      position: 3
-    - word: と
-      position: 6
-    - word: なぐり
-      base: 殴る
-      position: 7
-    - word: つけ
-      base: つける
-      position: 10
-    - word: まし
-      base: ます
-      position: 12
-    - word: た
-      position: 14
 - id: Kenjukoenrin-f000130
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -5845,87 +1031,6 @@
   sound_begin: 821336
   sound_end: 832320
   sentence: 虔十は手を頬にあてながら黙ってなぐられていましたがとうとうまわりがみんなまっ青に見えてよろよろしてしまいました。
-  words:
-    - word: 虔
-      position: 0
-    - word: 十
-      base: '10'
-      position: 1
-    - word: は
-      position: 2
-    - word: 手
-      position: 3
-    - word: を
-      position: 4
-    - word: 頬
-      position: 5
-    - word: に
-      position: 6
-    - word: あて
-      base: 当てる
-      position: 7
-    - word: ながら
-      position: 9
-    - word: 黙っ
-      base: 黙る
-      position: 12
-    - word: て
-      position: 14
-    - word: なぐら
-      base: 殴る
-      position: 15
-    - word: れ
-      base: れる
-      position: 18
-    - word: て
-      position: 19
-    - word: い
-      base: 居る
-      position: 20
-    - word: まし
-      base: ます
-      position: 21
-    - word: た
-      position: 23
-    - word: が
-      position: 24
-    - word: とうとう
-      base: 到頭
-      position: 25
-    - word: まわり
-      base: 周り
-      position: 29
-    - word: が
-      position: 32
-    - word: みんな
-      base: 皆
-      position: 33
-    - word: まっ青
-      base: 真っ青
-      position: 36
-    - word: に
-      base: だ
-      position: 39
-    - word: 見え
-      base: 見える
-      position: 40
-    - word: て
-      position: 42
-    - word: よろよろ
-      position: 43
-    - word: し
-      base: 為る
-      position: 47
-    - word: て
-      position: 48
-    - word: しまい
-      base: 仕舞う
-      position: 49
-    - word: まし
-      base: ます
-      position: 52
-    - word: た
-      position: 54
 - id: Kenjukoenrin-f000131
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -5934,87 +1039,6 @@
   sound_begin: 832320
   sound_end: 843060
   sentence: すると平二も少し気味が悪くなったと見えて急いで腕を組んでのしりのしりと霧の中へ歩いて行ってしまいました。
-  words:
-    - word: する
-      base: 為る
-      position: 0
-    - word: と
-      position: 2
-    - word: 平二
-      position: 3
-    - word: も
-      position: 5
-    - word: 少し
-      position: 6
-    - word: 気味
-      position: 8
-    - word: が
-      position: 10
-    - word: 悪く
-      base: 悪い
-      position: 11
-    - word: なっ
-      base: 成る
-      position: 13
-    - word: た
-      position: 15
-    - word: と
-      position: 16
-    - word: 見え
-      base: 見える
-      position: 17
-    - word: て
-      position: 19
-    - word: 急い
-      base: 急ぐ
-      position: 20
-    - word: で
-      position: 22
-    - word: 腕
-      position: 23
-    - word: を
-      position: 24
-    - word: 組ん
-      base: 組む
-      position: 25
-    - word: で
-      position: 27
-    - word: の
-      position: 28
-    - word: しり
-      position: 29
-    - word: の
-      position: 31
-    - word: しり
-      position: 32
-    - word: と
-      position: 34
-    - word: 霧
-      position: 35
-    - word: の
-      position: 36
-    - word: 中
-      position: 37
-    - word: へ
-      position: 38
-    - word: 歩い
-      base: 歩く
-      position: 39
-    - word: て
-      position: 41
-    - word: 行っ
-      base: 行く
-      position: 42
-    - word: て
-      position: 44
-    - word: しまい
-      base: 仕舞う
-      position: 45
-    - word: まし
-      base: ます
-      position: 48
-    - word: た
-      position: 50
 - id: Kenjukoenrin-f000132
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -6023,40 +1047,6 @@
   sound_begin: 845160
   sound_end: 851280
   sentence: さて虔十はその秋チブスにかかって死にました。
-  words:
-    - word: さて
-      base: 扠
-      position: 0
-    - word: 虔
-      position: 2
-    - word: 十
-      base: '10'
-      position: 3
-    - word: は
-      position: 4
-    - word: その
-      base: 其の
-      position: 5
-    - word: 秋
-      position: 7
-    - word: チブス
-      base: チフス
-      position: 8
-    - word: に
-      position: 11
-    - word: かかっ
-      base: 掛かる
-      position: 12
-    - word: て
-      position: 15
-    - word: 死に
-      base: 死ぬ
-      position: 16
-    - word: まし
-      base: ます
-      position: 18
-    - word: た
-      position: 20
 - id: Kenjukoenrin-f000133
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -6065,49 +1055,6 @@
   sound_begin: 851280
   sound_end: 856607
   sentence: 平二も丁度その十日ばかり前にやっぱりその病気で死んでいました。
-  words:
-    - word: 平二
-      position: 0
-    - word: も
-      position: 2
-    - word: 丁度
-      position: 3
-    - word: その
-      position: 5
-    - word: 十
-      base: '10'
-      position: 7
-    - word: 日
-      position: 8
-    - word: ばかり
-      position: 9
-    - word: 前
-      position: 12
-    - word: に
-      position: 13
-    - word: やっぱり
-      base: 矢張り
-      position: 14
-    - word: その
-      base: 其の
-      position: 18
-    - word: 病気
-      position: 20
-    - word: で
-      position: 22
-    - word: 死ん
-      base: 死ぬ
-      position: 23
-    - word: で
-      position: 25
-    - word: い
-      base: 居る
-      position: 26
-    - word: まし
-      base: ます
-      position: 27
-    - word: た
-      position: 29
 - id: Kenjukoenrin-f000134
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -6116,55 +1063,6 @@
   sound_begin: 858260
   sound_end: 868200
   sentence: ところがそんなことには一向構わず林にはやはり毎日毎日子供らが集まりました。
-  words:
-    - word: ところ
-      base: 所
-      position: 0
-    - word: が
-      position: 3
-    - word: そんな
-      position: 4
-    - word: こと
-      position: 7
-    - word: に
-      position: 9
-    - word: は
-      position: 10
-    - word: 一向
-      position: 11
-    - word: 構わ
-      base: 構う
-      position: 13
-    - word: ず
-      position: 15
-    - word: 林
-      position: 16
-    - word: に
-      position: 17
-    - word: は
-      position: 18
-    - word: やはり
-      base: 矢張り
-      position: 19
-    - word: 毎日
-      position: 22
-    - word: 毎日
-      position: 24
-    - word: 子供
-      position: 26
-    - word: ら
-      base: 等
-      position: 28
-    - word: が
-      position: 29
-    - word: 集まり
-      base: 集まる
-      position: 30
-    - word: まし
-      base: ます
-      position: 33
-    - word: た
-      position: 35
 - id: Kenjukoenrin-f000135
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -6173,21 +1071,6 @@
   sound_begin: 868200
   sound_end: 871050
   sentence: お話はずんずん急ぎます。
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 話
-      position: 1
-    - word: は
-      position: 2
-    - word: ずんずん
-      position: 3
-    - word: 急ぎ
-      base: 急ぐ
-      position: 7
-    - word: ます
-      position: 9
 - id: Kenjukoenrin-f000136
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -6196,66 +1079,6 @@
   sound_begin: 871050
   sound_end: 879840
   sentence: 次の年その村に鉄道が通り虔十の家から三町ばかり東の方に停車場ができました。
-  words:
-    - word: 次
-      position: 0
-    - word: の
-      position: 1
-    - word: 年
-      position: 2
-    - word: その
-      base: 其の
-      position: 3
-    - word: 村
-      position: 5
-    - word: に
-      position: 6
-    - word: 鉄道
-      position: 7
-    - word: が
-      position: 9
-    - word: 通り
-      position: 10
-    - word: 虔
-      position: 12
-    - word: 十
-      base: '10'
-      position: 13
-    - word: の
-      position: 14
-    - word: 家
-      position: 15
-    - word: から
-      position: 16
-    - word: 三
-      base: '3'
-      position: 18
-    - word: 町
-      position: 19
-    - word: ばかり
-      position: 20
-    - word: 東
-      position: 23
-    - word: の
-      position: 24
-    - word: 方
-      position: 25
-    - word: に
-      position: 26
-    - word: 停車
-      position: 27
-    - word: 場
-      position: 29
-    - word: が
-      position: 30
-    - word: でき
-      base: 出来る
-      position: 31
-    - word: まし
-      base: ます
-      position: 33
-    - word: た
-      position: 35
 - id: Kenjukoenrin-f000137
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -6264,38 +1087,6 @@
   sound_begin: 879840
   sound_end: 885480
   sentence: あちこちに大きな瀬戸物の工場や製糸場ができました。
-  words:
-    - word: あちこち
-      base: 彼方此方
-      position: 0
-    - word: に
-      position: 4
-    - word: 大きな
-      position: 5
-    - word: 瀬戸
-      position: 8
-    - word: 物
-      position: 10
-    - word: の
-      position: 11
-    - word: 工場
-      position: 12
-    - word: や
-      position: 14
-    - word: 製糸
-      position: 15
-    - word: 場
-      position: 17
-    - word: が
-      position: 18
-    - word: でき
-      base: 出来る
-      position: 19
-    - word: まし
-      base: ます
-      position: 21
-    - word: た
-      position: 23
 - id: Kenjukoenrin-f000138
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -6304,42 +1095,6 @@
   sound_begin: 885480
   sound_end: 891520
   sentence: そこらの畑や田はずんずん潰れて家がたちました。
-  words:
-    - word: そこ
-      base: 其処
-      position: 0
-    - word: ら
-      base: 等
-      position: 2
-    - word: の
-      position: 3
-    - word: 畑
-      position: 4
-    - word: や
-      position: 5
-    - word: 田
-      position: 6
-    - word: は
-      position: 7
-    - word: ずんずん
-      position: 8
-    - word: 潰れ
-      base: 潰れる
-      position: 12
-    - word: て
-      position: 14
-    - word: 家
-      position: 15
-    - word: が
-      position: 16
-    - word: たち
-      base: たつ
-      position: 17
-    - word: まし
-      base: ます
-      position: 19
-    - word: た
-      position: 21
 - id: Kenjukoenrin-f000139
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -6348,31 +1103,6 @@
   sound_begin: 891520
   sound_end: 896080
   sentence: いつかすっかり町になってしまったのです。
-  words:
-    - word: いつ
-      position: 0
-    - word: か
-      position: 2
-    - word: すっかり
-      position: 3
-    - word: 町
-      position: 7
-    - word: に
-      position: 8
-    - word: なっ
-      base: 成る
-      position: 9
-    - word: て
-      position: 11
-    - word: しまっ
-      base: 仕舞う
-      position: 12
-    - word: た
-      position: 15
-    - word: の
-      position: 16
-    - word: です
-      position: 17
 - id: Kenjukoenrin-f000140
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -6381,56 +1111,6 @@
   sound_begin: 896080
   sound_end: 903480
   sentence: その中に虔十の林だけはどう云うわけかそのまま残って居りました。
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 中
-      position: 2
-    - word: に
-      position: 3
-    - word: 虔
-      position: 4
-    - word: 十
-      base: '10'
-      position: 5
-    - word: の
-      position: 6
-    - word: 林
-      position: 7
-    - word: だけ
-      position: 8
-    - word: は
-      position: 10
-    - word: どう
-      position: 11
-    - word: 云う
-      base: 言う
-      position: 13
-    - word: わけ
-      base: 訳
-      position: 15
-    - word: か
-      position: 17
-    - word: その
-      base: 其の
-      position: 18
-    - word: まま
-      base: 侭
-      position: 20
-    - word: 残っ
-      base: 残る
-      position: 22
-    - word: て
-      position: 24
-    - word: 居り
-      base: 居る
-      position: 25
-    - word: まし
-      base: ます
-      position: 27
-    - word: た
-      position: 29
 - id: Kenjukoenrin-f000141
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -6439,25 +1119,6 @@
   sound_begin: 903480
   sound_end: 906925
   sentence: その杉もやっと一丈ぐらい、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 杉
-      position: 2
-    - word: も
-      position: 3
-    - word: やっと
-      base: 漸と
-      position: 4
-    - word: 一
-      base: '1'
-      position: 7
-    - word: 丈
-      position: 8
-    - word: ぐらい
-      base: くらい
-      position: 9
 - id: Kenjukoenrin-f000142
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -6466,26 +1127,6 @@
   sound_begin: 906925
   sound_end: 910733
   sentence: 子供らは毎日毎日集まりました。
-  words:
-    - word: 子供
-      position: 0
-    - word: ら
-      base: 等
-      position: 2
-    - word: は
-      position: 3
-    - word: 毎日
-      position: 4
-    - word: 毎日
-      position: 6
-    - word: 集まり
-      base: 集まる
-      position: 8
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
 - id: Kenjukoenrin-f000143
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -6494,94 +1135,6 @@
   sound_begin: 910733
   sound_end: 922480
   sentence: 学校がすぐ近くに建っていましたから子供らはその林と林の南の芝原とをいよいよ自分らの運動場の続きと思ってしまいました。
-  words:
-    - word: 学校
-      position: 0
-    - word: が
-      position: 2
-    - word: すぐ
-      base: 直ぐ
-      position: 3
-    - word: 近く
-      position: 5
-    - word: に
-      position: 7
-    - word: 建っ
-      base: 立つ
-      position: 8
-    - word: て
-      position: 10
-    - word: い
-      base: 居る
-      position: 11
-    - word: まし
-      base: ます
-      position: 12
-    - word: た
-      position: 14
-    - word: から
-      position: 15
-    - word: 子供
-      position: 17
-    - word: ら
-      base: 等
-      position: 19
-    - word: は
-      position: 20
-    - word: その
-      base: 其の
-      position: 21
-    - word: 林
-      position: 23
-    - word: と
-      position: 24
-    - word: 林
-      position: 25
-    - word: の
-      position: 26
-    - word: 南
-      position: 27
-    - word: の
-      position: 28
-    - word: 芝原
-      position: 29
-    - word: と
-      position: 31
-    - word: を
-      position: 32
-    - word: いよいよ
-      base: 愈
-      position: 33
-    - word: 自分
-      position: 37
-    - word: ら
-      base: 等
-      position: 39
-    - word: の
-      position: 40
-    - word: 運動
-      position: 41
-    - word: 場
-      position: 43
-    - word: の
-      position: 44
-    - word: 続き
-      position: 45
-    - word: と
-      position: 47
-    - word: 思っ
-      base: 思う
-      position: 48
-    - word: て
-      position: 50
-    - word: しまい
-      base: 仕舞う
-      position: 51
-    - word: まし
-      base: ます
-      position: 54
-    - word: た
-      position: 56
 - id: Kenjukoenrin-f000144
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -6590,35 +1143,6 @@
   sound_begin: 924380
   sound_end: 930840
   sentence: 虔十のお父さんももうかみがまっ白でした。
-  words:
-    - word: 虔
-      position: 0
-    - word: 十
-      base: '10'
-      position: 1
-    - word: の
-      position: 2
-    - word: お
-      base: 御
-      position: 3
-    - word: 父さん
-      position: 4
-    - word: も
-      position: 7
-    - word: もう
-      position: 8
-    - word: かみ
-      position: 10
-    - word: が
-      position: 12
-    - word: まっ白
-      base: 真っ白
-      position: 13
-    - word: でし
-      base: です
-      position: 16
-    - word: た
-      position: 18
 - id: Kenjukoenrin-f000145
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -6627,17 +1151,6 @@
   sound_begin: 930840
   sound_end: 933918
   sentence: まっ白な筈です。
-  words:
-    - word: まっ白
-      base: 真っ白
-      position: 0
-    - word: な
-      base: だ
-      position: 3
-    - word: 筈
-      position: 4
-    - word: です
-      position: 5
 - id: Kenjukoenrin-f000146
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -6646,47 +1159,6 @@
   sound_begin: 933918
   sound_end: 940408
   sentence: 虔十が死んでから二十年近くなるではありませんか。
-  words:
-    - word: 虔
-      position: 0
-    - word: 十
-      base: '10'
-      position: 1
-    - word: が
-      position: 2
-    - word: 死ん
-      base: 死ぬ
-      position: 3
-    - word: で
-      position: 5
-    - word: から
-      position: 6
-    - word: 二十
-      base: '20'
-      position: 8
-    - word: 年
-      position: 10
-    - word: 近く
-      position: 11
-    - word: なる
-      base: なり
-      position: 13
-    - word: で
-      base: だ
-      position: 15
-    - word: は
-      position: 16
-    - word: あり
-      base: 有る
-      position: 17
-    - word: ませ
-      base: ます
-      position: 19
-    - word: ん
-      base: ず
-      position: 21
-    - word: か
-      position: 22
 - id: Kenjukoenrin-f000147
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -6695,86 +1167,6 @@
   sound_begin: 940408
   sound_end: 952761
   sentence: ある日昔のその村から出て今アメリカのある大学の教授になっている若い博士が十五年ぶりで故郷へ帰って来ました。
-  words:
-    - word: ある
-      base: 或る
-      position: 0
-    - word: 日
-      position: 2
-    - word: 昔
-      position: 3
-    - word: の
-      position: 4
-    - word: その
-      base: 其の
-      position: 5
-    - word: 村
-      position: 7
-    - word: から
-      position: 8
-    - word: 出
-      base: 出る
-      position: 10
-    - word: て
-      position: 11
-    - word: 今
-      position: 12
-    - word: アメリカ
-      position: 13
-    - word: の
-      position: 17
-    - word: ある
-      base: 有る
-      position: 18
-    - word: 大学
-      position: 20
-    - word: の
-      position: 22
-    - word: 教授
-      position: 23
-    - word: に
-      position: 25
-    - word: なっ
-      base: 成る
-      position: 26
-    - word: て
-      position: 28
-    - word: いる
-      base: 居る
-      position: 29
-    - word: 若い
-      position: 31
-    - word: 博士
-      position: 33
-    - word: が
-      position: 35
-    - word: 十五
-      base: '15'
-      position: 36
-    - word: 年
-      position: 38
-    - word: ぶり
-      base: 振り
-      position: 39
-    - word: で
-      position: 41
-    - word: 故郷
-      position: 42
-    - word: へ
-      position: 44
-    - word: 帰っ
-      base: 帰る
-      position: 45
-    - word: て
-      position: 47
-    - word: 来
-      base: 来る
-      position: 48
-    - word: まし
-      base: ます
-      position: 49
-    - word: た
-      position: 51
 - id: Kenjukoenrin-f000148
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -6783,36 +1175,6 @@
   sound_begin: 952761
   sound_end: 957200
   sentence: どこに昔の畑や森のおもかげがあったでしょう。
-  words:
-    - word: どこ
-      position: 0
-    - word: に
-      position: 2
-    - word: 昔
-      position: 3
-    - word: の
-      position: 4
-    - word: 畑
-      position: 5
-    - word: や
-      position: 6
-    - word: 森
-      position: 7
-    - word: の
-      position: 8
-    - word: おもかげ
-      base: 面影
-      position: 9
-    - word: が
-      position: 13
-    - word: あっ
-      base: 有る
-      position: 14
-    - word: た
-      position: 16
-    - word: でしょう
-      base: です
-      position: 17
 - id: Kenjukoenrin-f000149
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -6821,45 +1183,6 @@
   sound_begin: 957200
   sound_end: 962421
   sentence: 町の人たちも大ていは新らしく外から来た人たちでした。
-  words:
-    - word: 町
-      position: 0
-    - word: の
-      position: 1
-    - word: 人
-      position: 2
-    - word: たち
-      base: 達
-      position: 3
-    - word: も
-      position: 5
-    - word: 大てい
-      base: 大抵
-      position: 6
-    - word: は
-      position: 9
-    - word: 新らしく
-      base: 新しい
-      position: 10
-    - word: 外
-      position: 14
-    - word: から
-      position: 15
-    - word: 来
-      base: 来る
-      position: 17
-    - word: た
-      position: 18
-    - word: 人
-      position: 19
-    - word: たち
-      base: 達
-      position: 20
-    - word: でし
-      base: です
-      position: 22
-    - word: た
-      position: 24
 - id: Kenjukoenrin-f000150
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -6868,70 +1191,6 @@
   sound_begin: 962421
   sound_end: 971960
   sentence: それでもある日博士は小学校から頼まれてその講堂でみんなに向うの国の話をしました。
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: で
-      position: 2
-    - word: も
-      position: 3
-    - word: ある
-      base: 有る
-      position: 4
-    - word: 日
-      position: 6
-    - word: 博士
-      position: 7
-    - word: は
-      position: 9
-    - word: 小
-      position: 10
-    - word: 学校
-      position: 11
-    - word: から
-      position: 13
-    - word: 頼ま
-      base: 頼む
-      position: 15
-    - word: れ
-      base: れる
-      position: 17
-    - word: て
-      position: 18
-    - word: その
-      base: 其の
-      position: 19
-    - word: 講堂
-      position: 21
-    - word: で
-      position: 23
-    - word: みんな
-      base: 皆
-      position: 24
-    - word: に
-      position: 27
-    - word: 向う
-      base: 向こう
-      position: 28
-    - word: の
-      position: 30
-    - word: 国
-      position: 31
-    - word: の
-      position: 32
-    - word: 話
-      position: 33
-    - word: を
-      position: 34
-    - word: し
-      base: 為る
-      position: 35
-    - word: まし
-      base: ます
-      position: 36
-    - word: た
-      position: 38
 - id: Kenjukoenrin-f000151
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -6940,76 +1199,6 @@
   sound_begin: 971960
   sound_end: 982000
   sentence: お話がすんでから博士は校長さんたちと運動場に出てそれからあの虔十の林の方へ行きました。
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 話
-      position: 1
-    - word: が
-      position: 2
-    - word: すん
-      base: すむ
-      position: 3
-    - word: で
-      position: 5
-    - word: から
-      position: 6
-    - word: 博士
-      position: 8
-    - word: は
-      position: 10
-    - word: 校長
-      position: 11
-    - word: さん
-      position: 13
-    - word: たち
-      base: 達
-      position: 15
-    - word: と
-      position: 17
-    - word: 運動
-      position: 18
-    - word: 場
-      position: 20
-    - word: に
-      position: 21
-    - word: 出
-      base: 出る
-      position: 22
-    - word: て
-      position: 23
-    - word: それ
-      base: 其れ
-      position: 24
-    - word: から
-      position: 26
-    - word: あの
-      base: 彼の
-      position: 28
-    - word: 虔
-      position: 30
-    - word: 十
-      base: '10'
-      position: 31
-    - word: の
-      position: 32
-    - word: 林
-      position: 33
-    - word: の
-      position: 34
-    - word: 方
-      position: 35
-    - word: へ
-      position: 36
-    - word: 行き
-      base: 行く
-      position: 37
-    - word: まし
-      base: ます
-      position: 39
-    - word: た
-      position: 41
 - id: Kenjukoenrin-f000152
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -7018,77 +1207,6 @@
   sound_begin: 984200
   sound_end: 994660
   sentence: すると若い博士は愕ろいて何べんも眼鏡を直していましたがとうとう半分ひとりごとのように云いました。
-  words:
-    - word: する
-      base: 為る
-      position: 0
-    - word: と
-      position: 2
-    - word: 若い
-      position: 3
-    - word: 博士
-      position: 5
-    - word: は
-      position: 7
-    - word: 愕
-      position: 8
-    - word: ろ
-      position: 9
-    - word: い
-      base: 居る
-      position: 10
-    - word: て
-      position: 11
-    - word: 何
-      position: 12
-    - word: べん
-      base: 遍
-      position: 13
-    - word: も
-      position: 15
-    - word: 眼鏡
-      position: 16
-    - word: を
-      position: 18
-    - word: 直し
-      base: 直す
-      position: 19
-    - word: て
-      position: 21
-    - word: い
-      base: 居る
-      position: 22
-    - word: まし
-      base: ます
-      position: 23
-    - word: た
-      position: 25
-    - word: が
-      position: 26
-    - word: とうとう
-      base: 到頭
-      position: 27
-    - word: 半分
-      position: 31
-    - word: ひとりごと
-      base: 独り言
-      position: 33
-    - word: の
-      position: 38
-    - word: よう
-      base: 様
-      position: 39
-    - word: に
-      base: だ
-      position: 41
-    - word: 云い
-      base: 言う
-      position: 42
-    - word: まし
-      base: ます
-      position: 44
-    - word: た
-      position: 46
 - id: Kenjukoenrin-f000153
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -7097,9 +1215,6 @@
   sound_begin: 996760
   sound_end: 998597
   sentence: 「ああ、
-  words:
-    - word: ああ
-      position: 1
 - id: Kenjukoenrin-f000154
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -7108,22 +1223,6 @@
   sound_begin: 998597
   sound_end: 1002684
   sentence: ここはすっかりもとの通りだ。
-  words:
-    - word: ここ
-      base: 此処
-      position: 0
-    - word: は
-      position: 2
-    - word: すっかり
-      position: 3
-    - word: もと
-      position: 7
-    - word: の
-      position: 9
-    - word: 通り
-      position: 10
-    - word: だ
-      position: 12
 - id: Kenjukoenrin-f000155
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -7132,21 +1231,6 @@
   sound_begin: 1002684
   sound_end: 1006655
   sentence: 木まですっかりもとの通りだ。
-  words:
-    - word: 木
-      position: 0
-    - word: まで
-      position: 1
-    - word: すっかり
-      position: 3
-    - word: もと
-      position: 7
-    - word: の
-      position: 9
-    - word: 通り
-      position: 10
-    - word: だ
-      position: 12
 - id: Kenjukoenrin-f000156
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -7155,26 +1239,6 @@
   sound_begin: 1006655
   sound_end: 1012080
   sentence: 木は却って小さくなったようだ。
-  words:
-    - word: 木
-      position: 0
-    - word: は
-      position: 1
-    - word: 却って
-      position: 2
-    - word: 小さく
-      base: 小さい
-      position: 5
-    - word: なっ
-      base: 成る
-      position: 8
-    - word: た
-      position: 10
-    - word: よう
-      base: 様
-      position: 11
-    - word: だ
-      position: 13
 - id: Kenjukoenrin-f000157
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -7183,20 +1247,6 @@
   sound_begin: 1012080
   sound_end: 1015246
   sentence: みんなも遊んでいる。
-  words:
-    - word: みんな
-      base: 皆
-      position: 0
-    - word: も
-      position: 3
-    - word: 遊ん
-      base: 遊ぶ
-      position: 4
-    - word: で
-      position: 6
-    - word: いる
-      base: 居る
-      position: 7
 - id: Kenjukoenrin-f000158
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -7205,9 +1255,6 @@
   sound_begin: 1015246
   sound_end: 1017127
   sentence: ああ、
-  words:
-    - word: ああ
-      position: 0
 - id: Kenjukoenrin-f000159
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -7216,40 +1263,6 @@
   sound_begin: 1017127
   sound_end: 1022467
   sentence: あの中に私や私の昔の友達が居ないだろうか。」
-  words:
-    - word: あの
-      base: 彼の
-      position: 0
-    - word: 中
-      position: 2
-    - word: に
-      position: 3
-    - word: 私
-      position: 4
-    - word: や
-      position: 5
-    - word: 私
-      position: 6
-    - word: の
-      position: 7
-    - word: 昔
-      position: 8
-    - word: の
-      position: 9
-    - word: 友達
-      position: 10
-    - word: が
-      position: 12
-    - word: 居
-      base: 居る
-      position: 13
-    - word: ない
-      position: 14
-    - word: だろう
-      base: だ
-      position: 16
-    - word: か
-      position: 19
 - id: Kenjukoenrin-f000160
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -7258,54 +1271,6 @@
   sound_begin: 1024579
   sound_end: 1029642
   sentence: 博士は俄かに気がついたように笑い顔になって校長さんに云いました。
-  words:
-    - word: 博士
-      position: 0
-    - word: は
-      position: 2
-    - word: 俄か
-      position: 3
-    - word: に
-      base: だ
-      position: 5
-    - word: 気
-      position: 6
-    - word: が
-      position: 7
-    - word: つい
-      base: 付く
-      position: 8
-    - word: た
-      position: 10
-    - word: よう
-      base: 様
-      position: 11
-    - word: に
-      base: だ
-      position: 13
-    - word: 笑い顔
-      position: 14
-    - word: に
-      position: 17
-    - word: なっ
-      base: 成る
-      position: 18
-    - word: て
-      position: 20
-    - word: 校長
-      position: 21
-    - word: さん
-      position: 23
-    - word: に
-      position: 25
-    - word: 云い
-      base: 言う
-      position: 26
-    - word: まし
-      base: ます
-      position: 28
-    - word: た
-      position: 30
 - id: Kenjukoenrin-f000161
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -7314,28 +1279,6 @@
   sound_begin: 1031359
   sound_end: 1036640
   sentence: 「ここは今は学校の運動場ですか。」
-  words:
-    - word: ここ
-      base: 此処
-      position: 1
-    - word: は
-      position: 3
-    - word: 今
-      position: 4
-    - word: は
-      position: 5
-    - word: 学校
-      position: 6
-    - word: の
-      position: 8
-    - word: 運動
-      position: 9
-    - word: 場
-      position: 11
-    - word: です
-      position: 12
-    - word: か
-      position: 14
 - id: Kenjukoenrin-f000162
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -7344,9 +1287,6 @@
   sound_begin: 1036640
   sound_end: 1038483
   sentence: 「いいえ。
-  words:
-    - word: いいえ
-      position: 1
 - id: Kenjukoenrin-f000163
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -7355,83 +1295,6 @@
   sound_begin: 1038483
   sound_end: 1051320
   sentence: ここはこの向うの家の地面なのですが家の人たちが一向かまわないで子供らの集まるままにして置くものですから、
-  words:
-    - word: ここ
-      base: 此処
-      position: 0
-    - word: は
-      position: 2
-    - word: この
-      base: 此の
-      position: 3
-    - word: 向う
-      base: 向こう
-      position: 5
-    - word: の
-      position: 7
-    - word: 家
-      position: 8
-    - word: の
-      position: 9
-    - word: 地面
-      position: 10
-    - word: な
-      base: だ
-      position: 12
-    - word: の
-      position: 13
-    - word: です
-      position: 14
-    - word: が
-      position: 16
-    - word: 家
-      position: 17
-    - word: の
-      position: 18
-    - word: 人
-      position: 19
-    - word: たち
-      base: 達
-      position: 20
-    - word: が
-      position: 22
-    - word: 一向
-      position: 23
-    - word: かまわ
-      base: 構う
-      position: 25
-    - word: ない
-      position: 28
-    - word: で
-      position: 30
-    - word: 子供
-      position: 31
-    - word: ら
-      base: 等
-      position: 33
-    - word: の
-      position: 34
-    - word: 集まる
-      position: 35
-    - word: まま
-      base: 侭
-      position: 38
-    - word: に
-      position: 40
-    - word: し
-      base: 為る
-      position: 41
-    - word: て
-      position: 42
-    - word: 置く
-      position: 43
-    - word: もの
-      base: 物
-      position: 45
-    - word: です
-      position: 47
-    - word: から
-      position: 49
 - id: Kenjukoenrin-f000164
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -7440,65 +1303,6 @@
   sound_begin: 1051320
   sound_end: 1059680
   sentence: まるで学校の附属の運動場のようになってしまいましたが実はそうではありません。」
-  words:
-    - word: まるで
-      base: 丸で
-      position: 0
-    - word: 学校
-      position: 3
-    - word: の
-      position: 5
-    - word: 附属
-      base: 付属
-      position: 6
-    - word: の
-      position: 8
-    - word: 運動
-      position: 9
-    - word: 場
-      position: 11
-    - word: の
-      position: 12
-    - word: よう
-      base: 様
-      position: 13
-    - word: に
-      base: だ
-      position: 15
-    - word: なっ
-      base: 成る
-      position: 16
-    - word: て
-      position: 18
-    - word: しまい
-      base: 仕舞う
-      position: 19
-    - word: まし
-      base: ます
-      position: 22
-    - word: た
-      position: 24
-    - word: が
-      position: 25
-    - word: 実
-      position: 26
-    - word: は
-      position: 27
-    - word: そう
-      position: 28
-    - word: で
-      position: 30
-    - word: は
-      position: 31
-    - word: あり
-      base: 有る
-      position: 32
-    - word: ませ
-      base: ます
-      position: 34
-    - word: ん
-      base: ず
-      position: 36
 - id: Kenjukoenrin-f000165
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -7507,23 +1311,6 @@
   sound_begin: 1061480
   sound_end: 1065000
   sentence: 「それは不思議な方ですね、
-  words:
-    - word: それ
-      base: 其れ
-      position: 1
-    - word: は
-      position: 3
-    - word: 不思議
-      position: 4
-    - word: な
-      base: だ
-      position: 7
-    - word: 方
-      position: 8
-    - word: です
-      position: 9
-    - word: ね
-      position: 11
 - id: Kenjukoenrin-f000166
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -7532,20 +1319,6 @@
   sound_begin: 1065000
   sound_end: 1066400
   sentence: 一体どう云うわけでしょう。」
-  words:
-    - word: 一体
-      position: 0
-    - word: どう
-      position: 2
-    - word: 云う
-      base: 言う
-      position: 4
-    - word: わけ
-      base: 訳
-      position: 6
-    - word: でしょう
-      base: です
-      position: 8
 - id: Kenjukoenrin-f000167
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -7554,94 +1327,6 @@
   sound_begin: 1068100
   sound_end: 1084440
   sentence: 「ここが町になってからみんなで売れ売れと申したそうですが年よりの方がここは虔十のただ一つのかたみだからいくら困っても、
-  words:
-    - word: ここ
-      base: 此処
-      position: 1
-    - word: が
-      position: 3
-    - word: 町
-      position: 4
-    - word: に
-      position: 5
-    - word: なっ
-      base: 成る
-      position: 6
-    - word: て
-      position: 8
-    - word: から
-      position: 9
-    - word: みんな
-      base: 皆
-      position: 11
-    - word: で
-      position: 14
-    - word: 売れ
-      base: 売る
-      position: 15
-    - word: 売れ
-      position: 17
-    - word: と
-      position: 19
-    - word: 申し
-      base: 申す
-      position: 20
-    - word: た
-      position: 22
-    - word: そう
-      position: 23
-    - word: です
-      position: 25
-    - word: が
-      position: 27
-    - word: 年より
-      base: 年寄り
-      position: 28
-    - word: の
-      position: 31
-    - word: 方
-      position: 32
-    - word: が
-      position: 33
-    - word: ここ
-      base: 此処
-      position: 34
-    - word: は
-      position: 36
-    - word: 虔
-      position: 37
-    - word: 十
-      base: '10'
-      position: 38
-    - word: の
-      position: 39
-    - word: ただ
-      base: 只
-      position: 40
-    - word: 一
-      base: '1'
-      position: 42
-    - word: つ
-      position: 43
-    - word: の
-      position: 44
-    - word: かたみ
-      base: 形見
-      position: 45
-    - word: だ
-      position: 48
-    - word: から
-      position: 49
-    - word: いくら
-      base: 幾ら
-      position: 51
-    - word: 困っ
-      base: 困る
-      position: 54
-    - word: て
-      position: 56
-    - word: も
-      position: 57
 - id: Kenjukoenrin-f000168
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -7650,41 +1335,6 @@
   sound_begin: 1084440
   sound_end: 1092034
   sentence: これをなくすることはどうしてもできないと答えるそうです。」
-  words:
-    - word: これ
-      base: 此れ
-      position: 0
-    - word: を
-      position: 2
-    - word: なくする
-      base: 無くす
-      position: 3
-    - word: こと
-      position: 7
-    - word: は
-      position: 9
-    - word: どう
-      position: 10
-    - word: し
-      base: 為る
-      position: 12
-    - word: て
-      position: 13
-    - word: も
-      position: 14
-    - word: でき
-      base: 出来る
-      position: 15
-    - word: ない
-      position: 17
-    - word: と
-      position: 19
-    - word: 答える
-      position: 20
-    - word: そう
-      position: 23
-    - word: です
-      position: 25
 - id: Kenjukoenrin-f000169
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -7693,12 +1343,6 @@
   sound_begin: 1092034
   sound_end: 1096092
   sentence: 「ああそうそう、
-  words:
-    - word: ああ
-      position: 1
-    - word: そうそう
-      base: 然う然う
-      position: 3
 - id: Kenjukoenrin-f000170
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -7707,15 +1351,6 @@
   sound_begin: 1096092
   sound_end: 1097892
   sentence: ありました、
-  words:
-    - word: あり
-      base: 有る
-      position: 0
-    - word: まし
-      base: ます
-      position: 2
-    - word: た
-      position: 4
 - id: Kenjukoenrin-f000171
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -7724,15 +1359,6 @@
   sound_begin: 1097892
   sound_end: 1099720
   sentence: ありました。
-  words:
-    - word: あり
-      base: 有る
-      position: 0
-    - word: まし
-      base: ます
-      position: 2
-    - word: た
-      position: 4
 - id: Kenjukoenrin-f000172
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -7741,54 +1367,6 @@
   sound_begin: 1099720
   sound_end: 1105276
   sentence: その虔十という人は少し足りないと私らは思っていたのです。
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 虔
-      position: 2
-    - word: 十
-      base: '10'
-      position: 3
-    - word: と
-      position: 4
-    - word: いう
-      base: 言う
-      position: 5
-    - word: 人
-      position: 7
-    - word: は
-      position: 8
-    - word: 少し
-      position: 9
-    - word: 足り
-      base: 足りる
-      position: 11
-    - word: ない
-      position: 13
-    - word: と
-      position: 15
-    - word: 私
-      position: 16
-    - word: ら
-      base: 等
-      position: 17
-    - word: は
-      position: 18
-    - word: 思っ
-      base: 思う
-      position: 19
-    - word: て
-      position: 21
-    - word: い
-      base: 居る
-      position: 22
-    - word: た
-      position: 23
-    - word: の
-      position: 24
-    - word: です
-      position: 25
 - id: Kenjukoenrin-f000173
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -7797,30 +1375,6 @@
   sound_begin: 1105276
   sound_end: 1108521
   sentence: いつでもはあはあ笑っている人でした。
-  words:
-    - word: いつ
-      position: 0
-    - word: で
-      position: 2
-    - word: も
-      position: 3
-    - word: はあはあ
-      position: 4
-    - word: 笑っ
-      base: 笑う
-      position: 8
-    - word: て
-      position: 10
-    - word: いる
-      base: 居る
-      position: 11
-    - word: 人
-      position: 13
-    - word: でし
-      base: です
-      position: 14
-    - word: た
-      position: 16
 - id: Kenjukoenrin-f000174
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -7829,50 +1383,6 @@
   sound_begin: 1108521
   sound_end: 1115788
   sentence: 毎日丁度この辺に立って私らの遊ぶのを見ていたのです。
-  words:
-    - word: 毎日
-      position: 0
-    - word: 丁度
-      position: 2
-    - word: この
-      base: 此の
-      position: 4
-    - word: 辺
-      position: 6
-    - word: に
-      position: 7
-    - word: 立っ
-      base: 立つ
-      position: 8
-    - word: て
-      position: 10
-    - word: 私
-      position: 11
-    - word: ら
-      base: 等
-      position: 12
-    - word: の
-      position: 13
-    - word: 遊ぶ
-      position: 14
-    - word: の
-      position: 16
-    - word: を
-      position: 17
-    - word: 見
-      base: 見る
-      position: 18
-    - word: て
-      position: 19
-    - word: い
-      base: 居る
-      position: 20
-    - word: た
-      position: 21
-    - word: の
-      position: 22
-    - word: です
-      position: 23
 - id: Kenjukoenrin-f000175
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -7881,37 +1391,6 @@
   sound_begin: 1115788
   sound_end: 1121570
   sentence: この杉もみんなその人が植えたのだそうです。
-  words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: 杉
-      position: 2
-    - word: も
-      position: 3
-    - word: みんな
-      base: 皆
-      position: 4
-    - word: その
-      base: 其の
-      position: 7
-    - word: 人
-      position: 9
-    - word: が
-      position: 10
-    - word: 植え
-      base: 植える
-      position: 11
-    - word: た
-      position: 13
-    - word: の
-      position: 14
-    - word: だ
-      position: 15
-    - word: そう
-      position: 16
-    - word: です
-      position: 18
 - id: Kenjukoenrin-f000176
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -7920,43 +1399,6 @@
   sound_begin: 1121570
   sound_end: 1127979
   sentence: ああ全くたれがかしこくたれが賢くないかはわかりません。
-  words:
-    - word: ああ
-      position: 0
-    - word: 全く
-      position: 2
-    - word: たれ
-      base: 垂れ
-      position: 4
-    - word: が
-      position: 6
-    - word: かしこく
-      base: 賢い
-      position: 7
-    - word: たれ
-      base: 垂れ
-      position: 11
-    - word: が
-      position: 13
-    - word: 賢く
-      base: 賢い
-      position: 14
-    - word: ない
-      base: 無い
-      position: 16
-    - word: か
-      position: 18
-    - word: は
-      position: 19
-    - word: わかり
-      base: 分かる
-      position: 20
-    - word: ませ
-      base: ます
-      position: 23
-    - word: ん
-      base: ず
-      position: 25
 - id: Kenjukoenrin-f000177
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -7965,31 +1407,6 @@
   sound_begin: 1127979
   sound_end: 1131680
   sentence: ただどこまでも十力の作用は不思議です。
-  words:
-    - word: ただ
-      base: 唯
-      position: 0
-    - word: どこ
-      position: 2
-    - word: まで
-      position: 4
-    - word: も
-      position: 6
-    - word: 十
-      base: '10'
-      position: 7
-    - word: 力
-      position: 8
-    - word: の
-      position: 9
-    - word: 作用
-      position: 10
-    - word: は
-      position: 12
-    - word: 不思議
-      position: 13
-    - word: です
-      position: 16
 - id: Kenjukoenrin-f000178
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -7998,35 +1415,6 @@
   sound_begin: 1133111
   sound_end: 1140600
   sentence: ここはもういつまでも子供たちの美しい公園地です。
-  words:
-    - word: ここ
-      base: 此処
-      position: 0
-    - word: は
-      position: 2
-    - word: もう
-      position: 3
-    - word: いつ
-      position: 5
-    - word: まで
-      position: 7
-    - word: も
-      position: 9
-    - word: 子供
-      position: 10
-    - word: たち
-      base: 達
-      position: 12
-    - word: の
-      position: 14
-    - word: 美しい
-      position: 15
-    - word: 公園
-      position: 18
-    - word: 地
-      position: 20
-    - word: です
-      position: 21
 - id: Kenjukoenrin-f000179
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -8035,12 +1423,6 @@
   sound_begin: 1142500
   sound_end: 1143995
   sentence: どうでしょう。
-  words:
-    - word: どう
-      position: 0
-    - word: でしょう
-      base: です
-      position: 2
 - id: Kenjukoenrin-f000180
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -8049,61 +1431,6 @@
   sound_begin: 1143995
   sound_end: 1151756
   sentence: ここに虔十公園林と名をつけていつまでもこの通り保存するようにしては。」
-  words:
-    - word: ここ
-      base: 此処
-      position: 0
-    - word: に
-      position: 2
-    - word: 虔
-      position: 3
-    - word: 十
-      base: '10'
-      position: 4
-    - word: 公園
-      position: 5
-    - word: 林
-      position: 7
-    - word: と
-      position: 8
-    - word: 名
-      position: 9
-    - word: を
-      position: 10
-    - word: つけ
-      base: つける
-      position: 11
-    - word: て
-      position: 13
-    - word: いつ
-      position: 14
-    - word: まで
-      position: 16
-    - word: も
-      position: 18
-    - word: この
-      base: 此の
-      position: 19
-    - word: 通り
-      position: 21
-    - word: 保存
-      position: 23
-    - word: する
-      base: 為る
-      position: 25
-    - word: よう
-      base: 様
-      position: 27
-    - word: に
-      base: だ
-      position: 29
-    - word: し
-      base: 為る
-      position: 30
-    - word: て
-      position: 31
-    - word: は
-      position: 32
 - id: Kenjukoenrin-f000181
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -8112,24 +1439,6 @@
   sound_begin: 1153591
   sound_end: 1159674
   sentence: 「これは全くお考えつきです。
-  words:
-    - word: これ
-      base: 此れ
-      position: 1
-    - word: は
-      position: 3
-    - word: 全く
-      position: 4
-    - word: お
-      base: 御
-      position: 6
-    - word: 考え
-      base: 考える
-      position: 7
-    - word: つき
-      position: 9
-    - word: です
-      position: 11
 - id: Kenjukoenrin-f000182
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -8138,43 +1447,6 @@
   sound_begin: 1159674
   sound_end: 1168498
   sentence: そうなれば子供らもどんなにしあわせか知れません。」
-  words:
-    - word: そう
-      position: 0
-    - word: なれ
-      base: 成る
-      position: 2
-    - word: ば
-      position: 4
-    - word: 子供
-      position: 5
-    - word: ら
-      base: 等
-      position: 7
-    - word: も
-      position: 8
-    - word: どんな
-      position: 9
-    - word: に
-      base: だ
-      position: 12
-    - word: しあわ
-      base: 為合う
-      position: 13
-    - word: せ
-      base: せる
-      position: 16
-    - word: か
-      position: 17
-    - word: 知れ
-      base: 知る
-      position: 18
-    - word: ませ
-      base: ます
-      position: 20
-    - word: ん
-      base: ず
-      position: 22
 - id: Kenjukoenrin-f000183
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -8183,28 +1455,6 @@
   sound_begin: 1168498
   sound_end: 1174187
   sentence: さてみんなその通りになりました。
-  words:
-    - word: さて
-      base: 扠
-      position: 0
-    - word: みんな
-      base: 皆
-      position: 2
-    - word: その
-      base: 其の
-      position: 5
-    - word: 通り
-      position: 7
-    - word: に
-      position: 9
-    - word: なり
-      base: 成る
-      position: 10
-    - word: まし
-      base: ます
-      position: 12
-    - word: た
-      position: 14
 - id: Kenjukoenrin-f000184
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -8213,14 +1463,6 @@
   sound_begin: 1174187
   sound_end: 1176393
   sentence: 芝生のまん中、
-  words:
-    - word: 芝生
-      position: 0
-    - word: の
-      position: 2
-    - word: まん中
-      base: 真ん中
-      position: 3
 - id: Kenjukoenrin-f000185
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -8229,22 +1471,6 @@
   sound_begin: 1176393
   sound_end: 1179028
   sentence: 子供らの林の前に
-  words:
-    - word: 子供
-      position: 0
-    - word: ら
-      base: 等
-      position: 2
-    - word: の
-      position: 3
-    - word: 林
-      position: 4
-    - word: の
-      position: 5
-    - word: 前
-      position: 6
-    - word: に
-      position: 7
 - id: Kenjukoenrin-f000186
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -8253,43 +1479,6 @@
   sound_begin: 1179028
   sound_end: 1185890
   sentence: 「虔十公園林」と彫った青い橄欖岩の碑が建ちました。
-  words:
-    - word: 虔
-      position: 1
-    - word: 十
-      base: '10'
-      position: 2
-    - word: 公園
-      position: 3
-    - word: 林
-      position: 5
-    - word: と
-      position: 7
-    - word: 彫っ
-      base: 彫る
-      position: 8
-    - word: た
-      position: 10
-    - word: 青い
-      position: 11
-    - word: 橄欖
-      position: 13
-    - word: 岩
-      position: 15
-    - word: の
-      position: 16
-    - word: 碑
-      position: 17
-    - word: が
-      position: 18
-    - word: 建ち
-      base: 立つ
-      position: 19
-    - word: まし
-      base: ます
-      position: 21
-    - word: た
-      position: 23
 - id: Kenjukoenrin-f000187
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -8298,20 +1487,6 @@
   sound_begin: 1185890
   sound_end: 1188769
   sentence: 昔のその学校の生徒、
-  words:
-    - word: 昔
-      position: 0
-    - word: の
-      position: 1
-    - word: その
-      base: 其の
-      position: 2
-    - word: 学校
-      position: 4
-    - word: の
-      position: 6
-    - word: 生徒
-      position: 7
 - id: Kenjukoenrin-f000188
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -8320,105 +1495,6 @@
   sound_begin: 1188769
   sound_end: 1202097
   sentence: 今はもう立派な検事になったり将校になったり海の向うに小さいながら農園を有ったりしている人たちから沢山の手紙やお金が学校に集まって来ました。
-  words:
-    - word: 今
-      position: 0
-    - word: は
-      position: 1
-    - word: もう
-      position: 2
-    - word: 立派
-      position: 4
-    - word: な
-      base: だ
-      position: 6
-    - word: 検事
-      position: 7
-    - word: に
-      position: 9
-    - word: なっ
-      base: 成る
-      position: 10
-    - word: たり
-      position: 12
-    - word: 将校
-      position: 14
-    - word: に
-      position: 16
-    - word: なっ
-      base: 成る
-      position: 17
-    - word: たり
-      position: 19
-    - word: 海
-      position: 21
-    - word: の
-      position: 22
-    - word: 向う
-      base: 向こう
-      position: 23
-    - word: に
-      position: 25
-    - word: 小さい
-      position: 26
-    - word: ながら
-      position: 29
-    - word: 農園
-      position: 32
-    - word: を
-      position: 34
-    - word: 有っ
-      base: 有る
-      position: 35
-    - word: たり
-      position: 37
-    - word: し
-      base: 為る
-      position: 39
-    - word: て
-      position: 40
-    - word: いる
-      base: 居る
-      position: 41
-    - word: 人
-      position: 43
-    - word: たち
-      base: 達
-      position: 44
-    - word: から
-      position: 46
-    - word: 沢山
-      position: 48
-    - word: の
-      position: 50
-    - word: 手紙
-      position: 51
-    - word: や
-      position: 53
-    - word: お
-      base: 御
-      position: 54
-    - word: 金
-      position: 55
-    - word: が
-      position: 56
-    - word: 学校
-      position: 57
-    - word: に
-      position: 59
-    - word: 集まっ
-      base: 集まる
-      position: 60
-    - word: て
-      position: 63
-    - word: 来
-      base: 来る
-      position: 64
-    - word: まし
-      base: ます
-      position: 65
-    - word: た
-      position: 67
 - id: Kenjukoenrin-f000189
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -8427,44 +1503,6 @@
   sound_begin: 1203734
   sound_end: 1211130
   sentence: 虔十のうちの人たちはほんとうによろこんで泣きました。
-  words:
-    - word: 虔
-      position: 0
-    - word: 十
-      base: '10'
-      position: 1
-    - word: の
-      position: 2
-    - word: うち
-      base: 内
-      position: 3
-    - word: の
-      position: 5
-    - word: 人
-      position: 6
-    - word: たち
-      base: 達
-      position: 7
-    - word: は
-      position: 9
-    - word: ほんとう
-      base: 本当
-      position: 10
-    - word: に
-      position: 14
-    - word: よろこん
-      base: 喜ぶ
-      position: 15
-    - word: で
-      position: 19
-    - word: 泣き
-      base: 泣く
-      position: 20
-    - word: まし
-      base: ます
-      position: 22
-    - word: た
-      position: 24
 - id: Kenjukoenrin-f000190
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -8473,33 +1511,6 @@
   sound_begin: 1211130
   sound_end: 1219280
   sentence: 全く全くこの公園林の杉の黒い立派な緑、
-  words:
-    - word: 全く
-      position: 0
-    - word: 全く
-      position: 2
-    - word: この
-      base: 此の
-      position: 4
-    - word: 公園
-      position: 6
-    - word: 林
-      position: 8
-    - word: の
-      position: 9
-    - word: 杉
-      position: 10
-    - word: の
-      position: 11
-    - word: 黒い
-      position: 12
-    - word: 立派
-      position: 14
-    - word: な
-      base: だ
-      position: 16
-    - word: 緑
-      position: 17
 - id: Kenjukoenrin-f000191
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -8508,16 +1519,6 @@
   sound_begin: 1219280
   sound_end: 1221370
   sentence: さわやかな匂、
-  words:
-    - word: さわやか
-      base: 爽やか
-      position: 0
-    - word: な
-      base: だ
-      position: 4
-    - word: 匂
-      base: 匂い
-      position: 5
 - id: Kenjukoenrin-f000192
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -8526,16 +1527,6 @@
   sound_begin: 1221370
   sound_end: 1224226
   sentence: 夏のすずしい陰、
-  words:
-    - word: 夏
-      position: 0
-    - word: の
-      position: 1
-    - word: すずしい
-      base: 涼しい
-      position: 2
-    - word: 陰
-      position: 6
 - id: Kenjukoenrin-f000193
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -8544,73 +1535,6 @@
   sound_begin: 1224226
   sound_end: 1235100
   sentence: 月光色の芝生がこれから何千人の人たちに本当のさいわいが何だかを教えるか数えられませんでした。
-  words:
-    - word: 月光
-      position: 0
-    - word: 色
-      position: 2
-    - word: の
-      position: 3
-    - word: 芝生
-      position: 4
-    - word: が
-      position: 6
-    - word: これ
-      base: 此れ
-      position: 7
-    - word: から
-      position: 9
-    - word: 何千
-      position: 11
-    - word: 人
-      position: 13
-    - word: の
-      position: 14
-    - word: 人
-      position: 15
-    - word: たち
-      base: 達
-      position: 16
-    - word: に
-      position: 18
-    - word: 本当
-      position: 19
-    - word: の
-      position: 21
-    - word: さいわい
-      base: 幸い
-      position: 22
-    - word: が
-      position: 26
-    - word: 何
-      position: 27
-    - word: だ
-      position: 28
-    - word: か
-      position: 29
-    - word: を
-      position: 30
-    - word: 教える
-      position: 31
-    - word: か
-      position: 34
-    - word: 数え
-      base: 数える
-      position: 35
-    - word: られ
-      base: られる
-      position: 37
-    - word: ませ
-      base: ます
-      position: 39
-    - word: ん
-      base: ず
-      position: 41
-    - word: でし
-      base: です
-      position: 42
-    - word: た
-      position: 44
 - id: Kenjukoenrin-f000194
   author_japanese: 宮沢 賢治
   deck_name: Kenjukoenrin
@@ -8620,113 +1544,3 @@
   sound_end: 1260560
   sentence: >-
     そして林は虔十の居た時の通り雨が降ってはすき徹る冷たい雫をみじかい草にポタリポタリと落しお日さまが輝いては新らしい奇麗な空気をさわやかにはき出すのでした。
-  words:
-    - word: そして
-      position: 0
-    - word: 林
-      position: 3
-    - word: は
-      position: 4
-    - word: 虔
-      position: 5
-    - word: 十
-      base: '10'
-      position: 6
-    - word: の
-      position: 7
-    - word: 居
-      base: 居る
-      position: 8
-    - word: た
-      position: 9
-    - word: 時
-      position: 10
-    - word: の
-      position: 11
-    - word: 通り雨
-      position: 12
-    - word: が
-      position: 15
-    - word: 降っ
-      base: 降る
-      position: 16
-    - word: て
-      position: 18
-    - word: は
-      position: 19
-    - word: すき
-      position: 20
-    - word: 徹る
-      base: 通る
-      position: 22
-    - word: 冷たい
-      position: 24
-    - word: 雫
-      position: 27
-    - word: を
-      position: 28
-    - word: みじかい
-      base: 短い
-      position: 29
-    - word: 草
-      position: 33
-    - word: に
-      position: 34
-    - word: ポタリ
-      base: ぽたり
-      position: 35
-    - word: ポタリ
-      base: ぽたり
-      position: 38
-    - word: と
-      position: 41
-    - word: 落し
-      base: 落とし
-      position: 42
-    - word: お
-      base: 御
-      position: 44
-    - word: 日
-      position: 45
-    - word: さま
-      base: 様
-      position: 46
-    - word: が
-      position: 48
-    - word: 輝い
-      base: 輝く
-      position: 49
-    - word: て
-      position: 51
-    - word: は
-      position: 52
-    - word: 新らしい
-      base: 新しい
-      position: 53
-    - word: 奇麗
-      position: 57
-    - word: な
-      base: だ
-      position: 59
-    - word: 空気
-      position: 60
-    - word: を
-      position: 62
-    - word: さわやか
-      base: 爽やか
-      position: 63
-    - word: に
-      base: だ
-      position: 67
-    - word: はき
-      base: はく
-      position: 68
-    - word: 出す
-      position: 70
-    - word: の
-      position: 72
-    - word: でし
-      base: です
-      position: 73
-    - word: た
-      position: 75

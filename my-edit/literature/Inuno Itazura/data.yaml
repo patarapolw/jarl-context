@@ -6,14 +6,6 @@
   sound_begin: 7080
   sound_end: 8960
   sentence: 犬のいたずら
-  words:
-    - word: 犬
-      position: 0
-    - word: の
-      position: 1
-    - word: いたずら
-      base: 悪戯
-      position: 2
 - id: Inuno Itazura-f000003
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -22,38 +14,6 @@
   sound_begin: 14112
   sound_end: 22560
   sentence: 去年の十二月の三十一日の真夜中の事でした。
-  words:
-    - word: 去年
-      position: 0
-    - word: の
-      position: 2
-    - word: 十二
-      base: '12'
-      position: 3
-    - word: 月
-      position: 5
-    - word: の
-      position: 6
-    - word: 三十一
-      base: '31'
-      position: 7
-    - word: 日
-      position: 10
-    - word: の
-      position: 11
-    - word: 真
-      position: 12
-    - word: 夜中
-      position: 13
-    - word: の
-      position: 15
-    - word: 事
-      position: 16
-    - word: でし
-      base: です
-      position: 17
-    - word: た
-      position: 19
 - id: Inuno Itazura-f000004
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -62,66 +22,6 @@
   sound_begin: 22560
   sound_end: 36480
   sentence: 一匹の猪と一匹の犬がある都の寒い寒い風の吹く四辻でヒョッコリと出会いました。
-  words:
-    - word: 一
-      base: '1'
-      position: 0
-    - word: 匹
-      position: 1
-    - word: の
-      position: 2
-    - word: 猪
-      position: 3
-    - word: と
-      position: 4
-    - word: 一
-      base: '1'
-      position: 5
-    - word: 匹
-      position: 6
-    - word: の
-      position: 7
-    - word: 犬
-      position: 8
-    - word: が
-      position: 9
-    - word: ある
-      base: 有る
-      position: 10
-    - word: 都
-      position: 12
-    - word: の
-      position: 13
-    - word: 寒い
-      position: 14
-    - word: 寒い
-      position: 16
-    - word: 風
-      position: 18
-    - word: の
-      position: 19
-    - word: 吹く
-      position: 20
-    - word: 四辻
-      position: 22
-    - word: で
-      position: 24
-    - word: ヒョッコリ
-      base: ひょっこり
-      position: 25
-    - word: と
-      position: 30
-    - word: 出
-      base: 出る
-      position: 31
-    - word: 会い
-      base: 会う
-      position: 32
-    - word: まし
-      base: ます
-      position: 34
-    - word: た
-      position: 36
 - id: Inuno Itazura-f000005
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -130,13 +30,6 @@
   sound_begin: 36480
   sound_end: 38040
   sentence: 「ヤア犬さん、
-  words:
-    - word: ヤア
-      position: 1
-    - word: 犬
-      position: 3
-    - word: さん
-      position: 4
 - id: Inuno Itazura-f000006
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -145,17 +38,6 @@
   sound_begin: 38040
   sound_end: 40520
   sentence: もう帰るのかね」
-  words:
-    - word: もう
-      position: 0
-    - word: 帰る
-      position: 2
-    - word: の
-      position: 4
-    - word: か
-      position: 5
-    - word: ね
-      position: 6
 - id: Inuno Itazura-f000007
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -164,13 +46,6 @@
   sound_begin: 40520
   sound_end: 42440
   sentence: 「ヤア猪さん、
-  words:
-    - word: ヤア
-      position: 1
-    - word: 猪
-      position: 3
-    - word: さん
-      position: 4
 - id: Inuno Itazura-f000008
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -179,20 +54,6 @@
   sound_begin: 42440
   sound_end: 44857
   sentence: もう来たのかね」
-  words:
-    - word: もう
-      position: 0
-    - word: 来
-      base: 来る
-      position: 2
-    - word: た
-      position: 3
-    - word: の
-      position: 4
-    - word: か
-      position: 5
-    - word: ね
-      position: 6
 - id: Inuno Itazura-f000009
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -201,23 +62,6 @@
   sound_begin: 44857
   sound_end: 50480
   sentence: と二人は握手しました。
-  words:
-    - word: と
-      position: 0
-    - word: 二人
-      position: 1
-    - word: は
-      position: 3
-    - word: 握手
-      position: 4
-    - word: し
-      base: 為る
-      position: 6
-    - word: まし
-      base: ます
-      position: 7
-    - word: た
-      position: 9
 - id: Inuno Itazura-f000010
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -226,25 +70,6 @@
   sound_begin: 50480
   sound_end: 53080
   sentence: 「もうじき来年になるのだが、
-  words:
-    - word: もう
-      position: 1
-    - word: じき
-      base: 直
-      position: 3
-    - word: 来年
-      position: 5
-    - word: に
-      position: 7
-    - word: なる
-      base: 成る
-      position: 8
-    - word: の
-      position: 10
-    - word: だ
-      position: 11
-    - word: が
-      position: 12
 - id: Inuno Itazura-f000011
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -253,28 +78,6 @@
   sound_begin: 53080
   sound_end: 56400
   sentence: それまでにはまだ時間があるから、
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: まで
-      position: 2
-    - word: に
-      position: 4
-    - word: は
-      position: 5
-    - word: まだ
-      base: 未だ
-      position: 6
-    - word: 時間
-      position: 8
-    - word: が
-      position: 10
-    - word: ある
-      base: 有る
-      position: 11
-    - word: から
-      position: 13
 - id: Inuno Itazura-f000012
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -283,37 +86,6 @@
   sound_begin: 56400
   sound_end: 60560
   sentence: そこらでお別れに御馳走を食べようじゃないか」
-  words:
-    - word: そこ
-      base: 其処
-      position: 0
-    - word: ら
-      base: 等
-      position: 2
-    - word: で
-      position: 3
-    - word: お
-      base: 御
-      position: 4
-    - word: 別れ
-      position: 5
-    - word: に
-      position: 7
-    - word: 御馳走
-      position: 8
-    - word: を
-      position: 11
-    - word: 食べよう
-      base: 食べる
-      position: 12
-    - word: じゃ
-      base: だ
-      position: 16
-    - word: ない
-      base: 無い
-      position: 18
-    - word: か
-      position: 20
 - id: Inuno Itazura-f000013
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -322,17 +94,6 @@
   sound_begin: 60560
   sound_end: 63960
   sentence: 「それはいいね」
-  words:
-    - word: それ
-      base: 其れ
-      position: 1
-    - word: は
-      position: 3
-    - word: いい
-      base: 良い
-      position: 4
-    - word: ね
-      position: 6
 - id: Inuno Itazura-f000014
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -341,30 +102,6 @@
   sound_begin: 63960
   sound_end: 67200
   sentence: 二人はそこらの御飯屋へ行って、
-  words:
-    - word: 二人
-      position: 0
-    - word: は
-      position: 2
-    - word: そこ
-      base: 其処
-      position: 3
-    - word: ら
-      base: 等
-      position: 5
-    - word: の
-      position: 6
-    - word: 御
-      position: 7
-    - word: 飯屋
-      position: 8
-    - word: へ
-      position: 10
-    - word: 行っ
-      base: 行く
-      position: 11
-    - word: て
-      position: 13
 - id: Inuno Itazura-f000015
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -373,22 +110,6 @@
   sound_begin: 67200
   sound_end: 69320
   sentence: 御飯を食べ始めました。
-  words:
-    - word: 御飯
-      position: 0
-    - word: を
-      position: 2
-    - word: 食べ
-      base: 食べる
-      position: 3
-    - word: 始め
-      base: 始める
-      position: 5
-    - word: まし
-      base: ます
-      position: 7
-    - word: た
-      position: 9
 - id: Inuno Itazura-f000016
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -397,15 +118,6 @@
   sound_begin: 71020
   sound_end: 73320
   sentence: 「時に犬さん、
-  words:
-    - word: 時
-      position: 1
-    - word: に
-      position: 2
-    - word: 犬
-      position: 3
-    - word: さん
-      position: 4
 - id: Inuno Itazura-f000017
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -414,35 +126,6 @@
   sound_begin: 73320
   sound_end: 77983
   sentence: お前の持っているその大きな荷物は何だね」
-  words:
-    - word: お前
-      base: 御前
-      position: 0
-    - word: の
-      position: 2
-    - word: 持っ
-      base: 持つ
-      position: 3
-    - word: て
-      position: 5
-    - word: いる
-      base: 居る
-      position: 6
-    - word: その
-      base: 其の
-      position: 8
-    - word: 大きな
-      position: 10
-    - word: 荷物
-      position: 13
-    - word: は
-      position: 15
-    - word: 何
-      position: 16
-    - word: だ
-      position: 17
-    - word: ね
-      position: 18
 - id: Inuno Itazura-f000018
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -451,39 +134,6 @@
   sound_begin: 77983
   sound_end: 85407
   sentence: と猪は小さな眼をキョロキョロさせて尋ねました。
-  words:
-    - word: と
-      position: 0
-    - word: 猪
-      position: 1
-    - word: は
-      position: 2
-    - word: 小さな
-      position: 3
-    - word: 眼
-      base: 目
-      position: 6
-    - word: を
-      position: 7
-    - word: キョロキョロ
-      base: きょろきょろ
-      position: 8
-    - word: さ
-      base: 為る
-      position: 14
-    - word: せ
-      base: せる
-      position: 15
-    - word: て
-      position: 16
-    - word: 尋ね
-      base: 尋ねる
-      position: 17
-    - word: まし
-      base: ます
-      position: 19
-    - word: た
-      position: 21
 - id: Inuno Itazura-f000019
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -492,29 +142,6 @@
   sound_begin: 85407
   sound_end: 89520
   sentence: 「これは犬の年の子供がした、
-  words:
-    - word: これ
-      base: 此れ
-      position: 1
-    - word: は
-      position: 3
-    - word: 犬
-      position: 4
-    - word: の
-      position: 5
-    - word: 年
-      position: 6
-    - word: の
-      position: 7
-    - word: 子供
-      position: 8
-    - word: が
-      position: 10
-    - word: し
-      base: 為る
-      position: 11
-    - word: た
-      position: 12
 - id: Inuno Itazura-f000020
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -523,30 +150,6 @@
   sound_begin: 89520
   sound_end: 94480
   sentence: いい事と悪い事を集めたものさ」
-  words:
-    - word: いい
-      base: 良い
-      position: 0
-    - word: 事
-      position: 2
-    - word: と
-      position: 3
-    - word: 悪い
-      position: 4
-    - word: 事
-      position: 6
-    - word: を
-      position: 7
-    - word: 集め
-      base: 集める
-      position: 8
-    - word: た
-      position: 10
-    - word: もの
-      base: 物
-      position: 11
-    - word: さ
-      position: 13
 - id: Inuno Itazura-f000021
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -555,10 +158,6 @@
   sound_begin: 94480
   sound_end: 95880
   sentence: 「ヘー。
-  words:
-    - word: ヘー
-      base: へえ
-      position: 1
 - id: Inuno Itazura-f000022
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -567,26 +166,6 @@
   sound_begin: 95880
   sound_end: 100000
   sentence: 善い事悪い事ってどんな事だね」
-  words:
-    - word: 善い
-      base: 良い
-      position: 0
-    - word: 事
-      position: 2
-    - word: 悪い
-      position: 3
-    - word: 事
-      position: 5
-    - word: って
-      position: 6
-    - word: どんな
-      position: 8
-    - word: 事
-      position: 11
-    - word: だ
-      position: 12
-    - word: ね
-      position: 13
 - id: Inuno Itazura-f000023
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -595,20 +174,6 @@
   sound_begin: 100000
   sound_end: 102693
   sentence: 「それはいろいろあるよ。
-  words:
-    - word: それ
-      base: 其れ
-      position: 1
-    - word: は
-      position: 3
-    - word: いろいろ
-      base: 色々
-      position: 4
-    - word: ある
-      base: 有る
-      position: 8
-    - word: よ
-      position: 10
 - id: Inuno Itazura-f000024
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -617,20 +182,6 @@
   sound_begin: 102693
   sound_end: 105440
   sentence: 他人の草履を隠したり、
-  words:
-    - word: 他人
-      position: 0
-    - word: の
-      position: 2
-    - word: 草履
-      position: 3
-    - word: を
-      position: 5
-    - word: 隠し
-      base: 隠す
-      position: 6
-    - word: たり
-      position: 8
 - id: Inuno Itazura-f000025
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -639,16 +190,6 @@
   sound_begin: 105440
   sound_end: 107200
   sentence: 拾い食いをしたり、
-  words:
-    - word: 拾い食い
-      position: 0
-    - word: を
-      position: 4
-    - word: し
-      base: 為る
-      position: 5
-    - word: たり
-      position: 6
 - id: Inuno Itazura-f000026
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -657,16 +198,6 @@
   sound_begin: 107200
   sound_end: 109160
   sentence: 盗み食いをしたり、
-  words:
-    - word: 盗み食い
-      position: 0
-    - word: を
-      position: 4
-    - word: し
-      base: 為る
-      position: 5
-    - word: たり
-      position: 6
 - id: Inuno Itazura-f000027
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -675,23 +206,6 @@
   sound_begin: 109160
   sound_end: 112000
   sentence: 垣根を破って出入りしたり、
-  words:
-    - word: 垣根
-      position: 0
-    - word: を
-      position: 2
-    - word: 破っ
-      base: 破る
-      position: 3
-    - word: て
-      position: 5
-    - word: 出入り
-      position: 6
-    - word: し
-      base: 為る
-      position: 9
-    - word: たり
-      position: 10
 - id: Inuno Itazura-f000028
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -700,16 +214,6 @@
   sound_begin: 112000
   sound_end: 114560
   sentence: 猫をいじめたり、
-  words:
-    - word: 猫
-      position: 0
-    - word: を
-      position: 1
-    - word: いじめ
-      base: 苛める
-      position: 2
-    - word: たり
-      position: 5
 - id: Inuno Itazura-f000029
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -718,28 +222,6 @@
   sound_begin: 114560
   sound_end: 117120
   sentence: お母さんや姉さんに食いついたり」
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 母さん
-      position: 1
-    - word: や
-      position: 4
-    - word: 姉
-      position: 5
-    - word: さん
-      position: 6
-    - word: に
-      position: 8
-    - word: 食い
-      base: 食う
-      position: 9
-    - word: つい
-      base: 付く
-      position: 11
-    - word: たり
-      position: 13
 - id: Inuno Itazura-f000030
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -748,10 +230,6 @@
   sound_begin: 117120
   sound_end: 118040
   sentence: 「ヘエ、
-  words:
-    - word: ヘエ
-      base: へえ
-      position: 1
 - id: Inuno Itazura-f000031
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -760,20 +238,6 @@
   sound_begin: 118040
   sound_end: 120261
   sentence: そんな事をするかね」
-  words:
-    - word: そんな
-      position: 0
-    - word: 事
-      position: 3
-    - word: を
-      position: 4
-    - word: する
-      base: 為る
-      position: 5
-    - word: か
-      position: 7
-    - word: ね
-      position: 8
 - id: Inuno Itazura-f000032
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -782,12 +246,6 @@
   sound_begin: 120261
   sound_end: 123120
   sentence: 「するとも。
-  words:
-    - word: する
-      base: 為る
-      position: 1
-    - word: とも
-      position: 3
 - id: Inuno Itazura-f000033
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -796,20 +254,6 @@
   sound_begin: 123120
   sound_end: 126000
   sentence: それから良い方では、
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: から
-      position: 2
-    - word: 良い
-      position: 4
-    - word: 方
-      position: 6
-    - word: で
-      position: 7
-    - word: は
-      position: 8
 - id: Inuno Itazura-f000034
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -818,26 +262,6 @@
   sound_begin: 126000
   sound_end: 129280
   sentence: 人のものを探してやったり、
-  words:
-    - word: 人
-      position: 0
-    - word: の
-      position: 1
-    - word: もの
-      base: 物
-      position: 2
-    - word: を
-      position: 4
-    - word: 探し
-      base: 探す
-      position: 5
-    - word: て
-      position: 7
-    - word: やっ
-      base: 遣る
-      position: 8
-    - word: たり
-      position: 10
 - id: Inuno Itazura-f000035
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -846,27 +270,6 @@
   sound_begin: 129280
   sound_end: 131936
   sentence: 落ちたものをひろってやったり、
-  words:
-    - word: 落ち
-      base: 落ちる
-      position: 0
-    - word: た
-      position: 2
-    - word: もの
-      base: 物
-      position: 3
-    - word: を
-      position: 5
-    - word: ひろっ
-      base: 拾う
-      position: 6
-    - word: て
-      position: 9
-    - word: やっ
-      base: 遣る
-      position: 10
-    - word: たり
-      position: 12
 - id: Inuno Itazura-f000036
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -875,26 +278,6 @@
   sound_begin: 131936
   sound_end: 134840
   sentence: 小さい子をお守してやったり、
-  words:
-    - word: 小さい
-      position: 0
-    - word: 子
-      position: 3
-    - word: を
-      position: 4
-    - word: お守
-      base: お守り
-      position: 5
-    - word: し
-      base: 為る
-      position: 7
-    - word: て
-      position: 8
-    - word: やっ
-      base: 遣る
-      position: 9
-    - word: たり
-      position: 11
 - id: Inuno Itazura-f000037
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -903,20 +286,6 @@
   sound_begin: 134840
   sound_end: 138840
   sentence: 人の命を助けたり」
-  words:
-    - word: 人
-      position: 0
-    - word: の
-      position: 1
-    - word: 命
-      position: 2
-    - word: を
-      position: 3
-    - word: 助け
-      base: 助ける
-      position: 4
-    - word: たり
-      position: 6
 - id: Inuno Itazura-f000038
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -925,9 +294,6 @@
   sound_begin: 138840
   sound_end: 140240
   sentence: 「ヘエー、
-  words:
-    - word: ヘエー
-      position: 1
 - id: Inuno Itazura-f000039
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -936,17 +302,6 @@
   sound_begin: 140240
   sound_end: 142577
   sentence: それはえらいね。
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: は
-      position: 2
-    - word: えらい
-      base: 偉い
-      position: 3
-    - word: ね
-      position: 6
 - id: Inuno Itazura-f000040
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -955,43 +310,6 @@
   sound_begin: 142577
   sound_end: 149400
   sentence: しかしそんなものを集めて持って行ってどうするのかね」
-  words:
-    - word: しかし
-      base: 然し
-      position: 0
-    - word: そんな
-      position: 3
-    - word: もの
-      base: 物
-      position: 6
-    - word: を
-      position: 8
-    - word: 集め
-      base: 集める
-      position: 9
-    - word: て
-      position: 11
-    - word: 持っ
-      base: 持つ
-      position: 12
-    - word: て
-      position: 14
-    - word: 行っ
-      base: 行く
-      position: 15
-    - word: て
-      position: 17
-    - word: どう
-      position: 18
-    - word: する
-      base: 為る
-      position: 20
-    - word: の
-      position: 22
-    - word: か
-      position: 23
-    - word: ね
-      position: 24
 - id: Inuno Itazura-f000041
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -1000,36 +318,6 @@
   sound_begin: 149400
   sound_end: 154560
   sentence: 「今に十二年目になると僕が帰って来る。
-  words:
-    - word: 今
-      position: 1
-    - word: に
-      position: 2
-    - word: 十二
-      base: '12'
-      position: 3
-    - word: 年
-      position: 5
-    - word: 目
-      position: 6
-    - word: に
-      position: 7
-    - word: なる
-      base: 成る
-      position: 8
-    - word: と
-      position: 10
-    - word: 僕
-      position: 11
-    - word: が
-      position: 12
-    - word: 帰っ
-      base: 帰る
-      position: 13
-    - word: て
-      position: 15
-    - word: 来る
-      position: 16
 - id: Inuno Itazura-f000042
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -1038,43 +326,6 @@
   sound_begin: 154560
   sound_end: 161920
   sentence: その時には犬の年の子供は最早二十五になっている。
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 時
-      position: 2
-    - word: に
-      position: 3
-    - word: は
-      position: 4
-    - word: 犬
-      position: 5
-    - word: の
-      position: 6
-    - word: 年
-      position: 7
-    - word: の
-      position: 8
-    - word: 子供
-      position: 9
-    - word: は
-      position: 11
-    - word: 最早
-      position: 12
-    - word: 二十五
-      base: '25'
-      position: 14
-    - word: に
-      position: 17
-    - word: なっ
-      base: 成る
-      position: 18
-    - word: て
-      position: 20
-    - word: いる
-      base: 居る
-      position: 21
 - id: Inuno Itazura-f000043
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -1083,41 +334,6 @@
   sound_begin: 161920
   sound_end: 166880
   sentence: 男の児は最早兵隊に行って帰って来ているし、
-  words:
-    - word: 男
-      position: 0
-    - word: の
-      position: 1
-    - word: 児
-      position: 2
-    - word: は
-      position: 3
-    - word: 最早
-      position: 4
-    - word: 兵隊
-      position: 6
-    - word: に
-      position: 8
-    - word: 行っ
-      base: 行く
-      position: 9
-    - word: て
-      position: 11
-    - word: 帰っ
-      base: 帰る
-      position: 12
-    - word: て
-      position: 14
-    - word: 来
-      base: 来る
-      position: 15
-    - word: て
-      position: 16
-    - word: いる
-      base: 居る
-      position: 17
-    - word: し
-      position: 19
 - id: Inuno Itazura-f000044
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -1126,35 +342,6 @@
   sound_begin: 166880
   sound_end: 171579
   sentence: 女の児ならばお嫁さんに行く年頃だから、
-  words:
-    - word: 女
-      position: 0
-    - word: の
-      position: 1
-    - word: 児
-      position: 2
-    - word: なら
-      base: だ
-      position: 3
-    - word: ば
-      position: 5
-    - word: お
-      base: 御
-      position: 6
-    - word: 嫁
-      position: 7
-    - word: さん
-      position: 8
-    - word: に
-      position: 10
-    - word: 行く
-      position: 11
-    - word: 年頃
-      position: 13
-    - word: だ
-      position: 15
-    - word: から
-      position: 16
 - id: Inuno Itazura-f000045
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -1163,45 +350,6 @@
   sound_begin: 171579
   sound_end: 176000
   sentence: その時に良い事をした児には良い事をしてやり、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 時
-      position: 2
-    - word: に
-      position: 3
-    - word: 良い
-      position: 4
-    - word: 事
-      position: 6
-    - word: を
-      position: 7
-    - word: し
-      base: 為る
-      position: 8
-    - word: た
-      position: 9
-    - word: 児
-      position: 10
-    - word: に
-      position: 11
-    - word: は
-      position: 12
-    - word: 良い
-      position: 13
-    - word: 事
-      position: 15
-    - word: を
-      position: 16
-    - word: し
-      base: 為る
-      position: 17
-    - word: て
-      position: 18
-    - word: やり
-      base: 遣る
-      position: 19
 - id: Inuno Itazura-f000046
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -1210,52 +358,6 @@
   sound_begin: 176000
   sound_end: 182800
   sentence: 悪い事をした子には何か非道い罰を当ててやろうと思うんだ」
-  words:
-    - word: 悪い
-      position: 0
-    - word: 事
-      position: 2
-    - word: を
-      position: 3
-    - word: し
-      base: 為る
-      position: 4
-    - word: た
-      position: 5
-    - word: 子
-      position: 6
-    - word: に
-      position: 7
-    - word: は
-      position: 8
-    - word: 何
-      position: 9
-    - word: か
-      position: 10
-    - word: 非道い
-      base: 酷い
-      position: 11
-    - word: 罰
-      position: 14
-    - word: を
-      position: 15
-    - word: 当て
-      base: 当てる
-      position: 16
-    - word: て
-      position: 18
-    - word: やろう
-      base: 遣る
-      position: 19
-    - word: と
-      position: 22
-    - word: 思う
-      position: 23
-    - word: ん
-      base: の
-      position: 25
-    - word: だ
-      position: 26
 - id: Inuno Itazura-f000047
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -1264,10 +366,6 @@
   sound_begin: 182800
   sound_end: 184360
   sentence: 「フーン」
-  words:
-    - word: フーン
-      base: ふん
-      position: 1
 - id: Inuno Itazura-f000048
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -1276,43 +374,6 @@
   sound_begin: 184360
   sound_end: 193600
   sentence: と猪は犬の言葉を聞いて腕を組んで考えました。
-  words:
-    - word: と
-      position: 0
-    - word: 猪
-      position: 1
-    - word: は
-      position: 2
-    - word: 犬
-      position: 3
-    - word: の
-      position: 4
-    - word: 言葉
-      position: 5
-    - word: を
-      position: 7
-    - word: 聞い
-      base: 聞く
-      position: 8
-    - word: て
-      position: 10
-    - word: 腕
-      position: 11
-    - word: を
-      position: 12
-    - word: 組ん
-      base: 組む
-      position: 13
-    - word: で
-      position: 15
-    - word: 考え
-      base: 考える
-      position: 16
-    - word: まし
-      base: ます
-      position: 18
-    - word: た
-      position: 20
 - id: Inuno Itazura-f000049
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -1321,14 +382,6 @@
   sound_begin: 193600
   sound_end: 195520
   sentence: 「オヤ猪君、
-  words:
-    - word: オヤ
-      base: おや
-      position: 1
-    - word: 猪
-      position: 3
-    - word: 君
-      position: 4
 - id: Inuno Itazura-f000050
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -1337,25 +390,6 @@
   sound_begin: 195520
   sound_end: 198760
   sentence: 何を考えているのだい」
-  words:
-    - word: 何
-      position: 0
-    - word: を
-      position: 1
-    - word: 考え
-      base: 考える
-      position: 2
-    - word: て
-      position: 4
-    - word: いる
-      base: 居る
-      position: 5
-    - word: の
-      position: 7
-    - word: だ
-      position: 8
-    - word: い
-      position: 9
 - id: Inuno Itazura-f000051
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -1364,10 +398,6 @@
   sound_begin: 198760
   sound_end: 200240
   sentence: 「ウン。
-  words:
-    - word: ウン
-      base: うん
-      position: 1
 - id: Inuno Itazura-f000052
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -1376,19 +406,6 @@
   sound_begin: 200240
   sound_end: 202360
   sentence: 犬さんがそう言うと、
-  words:
-    - word: 犬
-      position: 0
-    - word: さん
-      position: 1
-    - word: が
-      position: 3
-    - word: そう
-      position: 4
-    - word: 言う
-      position: 6
-    - word: と
-      position: 8
 - id: Inuno Itazura-f000053
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -1397,17 +414,6 @@
   sound_begin: 202360
   sound_end: 205371
   sentence: 成る程一々尤もだが、
-  words:
-    - word: 成る程
-      position: 0
-    - word: 一々
-      position: 3
-    - word: 尤も
-      position: 5
-    - word: だ
-      position: 7
-    - word: が
-      position: 8
 - id: Inuno Itazura-f000054
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -1416,24 +422,6 @@
   sound_begin: 205371
   sound_end: 209160
   sentence: それはあまり感心しないぜ」
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: は
-      position: 2
-    - word: あまり
-      base: 余り
-      position: 3
-    - word: 感心
-      position: 6
-    - word: し
-      base: 為る
-      position: 8
-    - word: ない
-      position: 9
-    - word: ぜ
-      position: 11
 - id: Inuno Itazura-f000055
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -1442,9 +430,6 @@
   sound_begin: 209160
   sound_end: 210200
   sentence: 「何故、
-  words:
-    - word: 何故
-      position: 1
 - id: Inuno Itazura-f000056
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -1453,9 +438,6 @@
   sound_begin: 210200
   sound_end: 211761
   sentence: 何故」
-  words:
-    - word: 何故
-      position: 0
 - id: Inuno Itazura-f000057
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -1464,31 +446,6 @@
   sound_begin: 211761
   sound_end: 217840
   sentence: と犬は眼を瞠って申しました。
-  words:
-    - word: と
-      position: 0
-    - word: 犬
-      position: 1
-    - word: は
-      position: 2
-    - word: 眼
-      base: 目
-      position: 3
-    - word: を
-      position: 4
-    - word: 瞠っ
-      base: 見張る
-      position: 5
-    - word: て
-      position: 7
-    - word: 申し
-      base: 申す
-      position: 8
-    - word: まし
-      base: ます
-      position: 10
-    - word: た
-      position: 12
 - id: Inuno Itazura-f000058
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -1497,12 +454,6 @@
   sound_begin: 217840
   sound_end: 218960
   sentence: 「それは、
-  words:
-    - word: それ
-      base: 其れ
-      position: 1
-    - word: は
-      position: 3
 - id: Inuno Itazura-f000059
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -1511,34 +462,6 @@
   sound_begin: 218960
   sound_end: 223120
   sentence: 今年はまだ小僧だからまだいたずらをするだろう。
-  words:
-    - word: 今年
-      position: 0
-    - word: は
-      position: 2
-    - word: まだ
-      base: 未だ
-      position: 3
-    - word: 小僧
-      position: 5
-    - word: だ
-      position: 7
-    - word: から
-      position: 8
-    - word: まだ
-      base: 未だ
-      position: 10
-    - word: いたずら
-      base: 悪戯
-      position: 12
-    - word: を
-      position: 16
-    - word: する
-      base: 為る
-      position: 17
-    - word: だろう
-      base: だ
-      position: 19
 - id: Inuno Itazura-f000060
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -1547,30 +470,6 @@
   sound_begin: 223120
   sound_end: 227360
   sentence: しかし二十四にも五にもなったら、
-  words:
-    - word: しかし
-      base: 然し
-      position: 0
-    - word: 二十四
-      base: '24'
-      position: 3
-    - word: に
-      position: 6
-    - word: も
-      position: 7
-    - word: 五
-      base: '5'
-      position: 8
-    - word: に
-      position: 9
-    - word: も
-      position: 10
-    - word: なっ
-      base: 成る
-      position: 11
-    - word: たら
-      base: た
-      position: 13
 - id: Inuno Itazura-f000061
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -1579,25 +478,6 @@
   sound_begin: 227360
   sound_end: 229880
   sentence: だんだんわけがわかって来て、
-  words:
-    - word: だんだん
-      base: 段々
-      position: 0
-    - word: わけ
-      base: 訳
-      position: 4
-    - word: が
-      position: 6
-    - word: わかっ
-      base: 分かる
-      position: 7
-    - word: て
-      position: 10
-    - word: 来
-      base: 来る
-      position: 11
-    - word: て
-      position: 12
 - id: Inuno Itazura-f000062
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -1606,26 +486,6 @@
   sound_begin: 229880
   sound_end: 233480
   sentence: そんないたずらをしなくなるだろう。
-  words:
-    - word: そんな
-      position: 0
-    - word: いたずら
-      base: 悪戯
-      position: 3
-    - word: を
-      position: 7
-    - word: し
-      base: 為る
-      position: 8
-    - word: なく
-      base: ない
-      position: 9
-    - word: なる
-      base: 成る
-      position: 11
-    - word: だろう
-      base: だ
-      position: 13
 - id: Inuno Itazura-f000063
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -1634,54 +494,6 @@
   sound_begin: 233480
   sound_end: 238840
   sentence: そんなにいい人になった時に罰を喰わせるのは可哀そうではないか」
-  words:
-    - word: そんな
-      position: 0
-    - word: に
-      base: だ
-      position: 3
-    - word: いい
-      base: 良い
-      position: 4
-    - word: 人
-      position: 6
-    - word: に
-      position: 7
-    - word: なっ
-      base: 成る
-      position: 8
-    - word: た
-      position: 10
-    - word: 時
-      position: 11
-    - word: に
-      position: 12
-    - word: 罰
-      position: 13
-    - word: を
-      position: 14
-    - word: 喰わ
-      base: 食う
-      position: 15
-    - word: せる
-      position: 17
-    - word: の
-      position: 19
-    - word: は
-      position: 20
-    - word: 可哀そう
-      base: 可哀想
-      position: 21
-    - word: で
-      base: だ
-      position: 25
-    - word: は
-      position: 26
-    - word: ない
-      base: 無い
-      position: 27
-    - word: か
-      position: 29
 - id: Inuno Itazura-f000064
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -1690,35 +502,6 @@
   sound_begin: 240840
   sound_end: 246105
   sentence: このように言われると犬も考えました。
-  words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: よう
-      base: 様
-      position: 2
-    - word: に
-      base: だ
-      position: 4
-    - word: 言わ
-      base: 言う
-      position: 5
-    - word: れる
-      position: 7
-    - word: と
-      position: 9
-    - word: 犬
-      position: 10
-    - word: も
-      position: 11
-    - word: 考え
-      base: 考える
-      position: 12
-    - word: まし
-      base: ます
-      position: 14
-    - word: た
-      position: 16
 - id: Inuno Itazura-f000065
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -1727,9 +510,6 @@
   sound_begin: 246105
   sound_end: 247536
   sentence: 「成る程。
-  words:
-    - word: 成る程
-      position: 1
 - id: Inuno Itazura-f000066
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -1738,40 +518,6 @@
   sound_begin: 247536
   sound_end: 252800
   sentence: 君は猪と言う位で無暗にあばれるばかりと思ったら、
-  words:
-    - word: 君
-      position: 0
-    - word: は
-      position: 1
-    - word: 猪
-      position: 2
-    - word: と
-      position: 3
-    - word: 言う
-      position: 4
-    - word: 位
-      position: 6
-    - word: で
-      position: 7
-    - word: 無暗
-      base: 無闇
-      position: 8
-    - word: に
-      base: だ
-      position: 10
-    - word: あばれる
-      base: 暴れる
-      position: 11
-    - word: ばかり
-      position: 15
-    - word: と
-      position: 18
-    - word: 思っ
-      base: 思う
-      position: 19
-    - word: たら
-      base: た
-      position: 21
 - id: Inuno Itazura-f000067
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -1780,16 +526,6 @@
   sound_begin: 252800
   sound_end: 255600
   sentence: 中々ちえが深い。
-  words:
-    - word: 中々
-      position: 0
-    - word: ちえ
-      base: 知恵
-      position: 2
-    - word: が
-      position: 4
-    - word: 深い
-      position: 5
 - id: Inuno Itazura-f000068
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -1798,28 +534,6 @@
   sound_begin: 255600
   sound_end: 258077
   sentence: そんならこうしようではないか。
-  words:
-    - word: そん
-      base: 其れ
-      position: 0
-    - word: なら
-      base: だ
-      position: 2
-    - word: こう
-      position: 4
-    - word: しよう
-      base: 為る
-      position: 6
-    - word: で
-      base: だ
-      position: 9
-    - word: は
-      position: 10
-    - word: ない
-      base: 無い
-      position: 11
-    - word: か
-      position: 13
 - id: Inuno Itazura-f000069
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -1828,59 +542,6 @@
   sound_begin: 258077
   sound_end: 264080
   sentence: このいたずらをした児がもし二十五になっても悪い事をやめていなかったら、
-  words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: いたずら
-      base: 悪戯
-      position: 2
-    - word: を
-      position: 6
-    - word: し
-      base: 為る
-      position: 7
-    - word: た
-      position: 8
-    - word: 児
-      position: 9
-    - word: が
-      position: 10
-    - word: もし
-      base: 若し
-      position: 11
-    - word: 二十五
-      base: '25'
-      position: 13
-    - word: に
-      position: 16
-    - word: なっ
-      base: 成る
-      position: 17
-    - word: て
-      position: 19
-    - word: も
-      position: 20
-    - word: 悪い
-      position: 21
-    - word: 事
-      position: 23
-    - word: を
-      position: 24
-    - word: やめ
-      base: やめる
-      position: 25
-    - word: て
-      position: 27
-    - word: い
-      base: 居る
-      position: 28
-    - word: なかっ
-      base: ない
-      position: 29
-    - word: たら
-      base: た
-      position: 32
 - id: Inuno Itazura-f000070
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -1889,23 +550,6 @@
   sound_begin: 264080
   sound_end: 267160
   sentence: 罰を喰わせる事にしよう。
-  words:
-    - word: 罰
-      position: 0
-    - word: を
-      position: 1
-    - word: 喰わ
-      base: 食う
-      position: 2
-    - word: せる
-      position: 4
-    - word: 事
-      position: 6
-    - word: に
-      position: 7
-    - word: しよう
-      base: 為る
-      position: 8
 - id: Inuno Itazura-f000071
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -1914,29 +558,6 @@
   sound_begin: 267160
   sound_end: 270080
   sentence: 又良い児が悪くなっていたら、
-  words:
-    - word: 又
-      position: 0
-    - word: 良い
-      position: 1
-    - word: 児
-      position: 3
-    - word: が
-      position: 4
-    - word: 悪く
-      base: 悪い
-      position: 5
-    - word: なっ
-      base: 成る
-      position: 7
-    - word: て
-      position: 9
-    - word: い
-      base: 居る
-      position: 10
-    - word: たら
-      base: た
-      position: 11
 - id: Inuno Itazura-f000072
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -1945,25 +566,6 @@
   sound_begin: 270080
   sound_end: 273560
   sentence: 御褒美をやらない事にしよう」
-  words:
-    - word: 御
-      position: 0
-    - word: 褒美
-      position: 1
-    - word: を
-      position: 3
-    - word: やら
-      base: 遣る
-      position: 4
-    - word: ない
-      position: 6
-    - word: 事
-      position: 8
-    - word: に
-      position: 9
-    - word: しよう
-      base: 為る
-      position: 10
 - id: Inuno Itazura-f000073
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -1972,9 +574,6 @@
   sound_begin: 273560
   sound_end: 274200
   sentence: 「うん、
-  words:
-    - word: うん
-      position: 1
 - id: Inuno Itazura-f000074
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -1983,15 +582,6 @@
   sound_begin: 274200
   sound_end: 275873
   sentence: それがいい。
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: が
-      position: 2
-    - word: いい
-      base: 良い
-      position: 3
 - id: Inuno Itazura-f000075
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -2000,30 +590,6 @@
   sound_begin: 275873
   sound_end: 279720
   sentence: 僕もそれじゃ来年は勉強をして、
-  words:
-    - word: 僕
-      position: 0
-    - word: も
-      position: 1
-    - word: それ
-      base: 其れ
-      position: 2
-    - word: じゃ
-      base: で
-      position: 4
-    - word: 来年
-      position: 6
-    - word: は
-      position: 8
-    - word: 勉強
-      position: 9
-    - word: を
-      position: 11
-    - word: し
-      base: 為る
-      position: 12
-    - word: て
-      position: 13
 - id: Inuno Itazura-f000076
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -2032,35 +598,6 @@
   sound_begin: 279720
   sound_end: 283600
   sentence: 猪のようにあばれて悪い事をする児と、
-  words:
-    - word: 猪
-      position: 0
-    - word: の
-      position: 1
-    - word: よう
-      base: 様
-      position: 2
-    - word: に
-      base: だ
-      position: 4
-    - word: あばれ
-      base: 暴れる
-      position: 5
-    - word: て
-      position: 8
-    - word: 悪い
-      position: 9
-    - word: 事
-      position: 11
-    - word: を
-      position: 12
-    - word: する
-      base: 為る
-      position: 13
-    - word: 児
-      position: 15
-    - word: と
-      position: 16
 - id: Inuno Itazura-f000077
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -2069,45 +606,6 @@
   sound_begin: 283600
   sound_end: 288360
   sentence: 猪のように一所懸命に好い事をする児の名前を集めよう。
-  words:
-    - word: 猪
-      position: 0
-    - word: の
-      position: 1
-    - word: よう
-      base: 様
-      position: 2
-    - word: に
-      base: だ
-      position: 4
-    - word: 一所
-      position: 5
-    - word: 懸命
-      position: 7
-    - word: に
-      base: だ
-      position: 9
-    - word: 好い
-      base: 良い
-      position: 10
-    - word: 事
-      position: 12
-    - word: を
-      position: 13
-    - word: する
-      base: 為る
-      position: 14
-    - word: 児
-      position: 16
-    - word: の
-      position: 17
-    - word: 名前
-      position: 18
-    - word: を
-      position: 20
-    - word: 集めよう
-      base: 集める
-      position: 21
 - id: Inuno Itazura-f000078
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -2116,59 +614,6 @@
   sound_begin: 288360
   sound_end: 297240
   sentence: そうして猪の年の児がどんなによくなるか悪くなるか気をつけていよう」
-  words:
-    - word: そう
-      position: 0
-    - word: し
-      base: 為る
-      position: 2
-    - word: て
-      position: 3
-    - word: 猪
-      position: 4
-    - word: の
-      position: 5
-    - word: 年
-      position: 6
-    - word: の
-      position: 7
-    - word: 児
-      position: 8
-    - word: が
-      position: 9
-    - word: どんな
-      position: 10
-    - word: に
-      base: だ
-      position: 13
-    - word: よく
-      base: 良い
-      position: 14
-    - word: なる
-      base: 成る
-      position: 16
-    - word: か
-      position: 18
-    - word: 悪く
-      base: 悪い
-      position: 19
-    - word: なる
-      base: 成る
-      position: 21
-    - word: か
-      position: 23
-    - word: 気
-      position: 24
-    - word: を
-      position: 25
-    - word: つけ
-      base: つける
-      position: 26
-    - word: て
-      position: 28
-    - word: いよう
-      base: 居る
-      position: 29
 - id: Inuno Itazura-f000079
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -2177,20 +622,6 @@
   sound_begin: 297240
   sound_end: 299840
   sentence: 二人は手を打って、
-  words:
-    - word: 二人
-      position: 0
-    - word: は
-      position: 2
-    - word: 手
-      position: 3
-    - word: を
-      position: 4
-    - word: 打っ
-      base: 打つ
-      position: 5
-    - word: て
-      position: 7
 - id: Inuno Itazura-f000080
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -2199,15 +630,6 @@
   sound_begin: 299840
   sound_end: 301240
   sentence: 「それがいい、
-  words:
-    - word: それ
-      base: 其れ
-      position: 1
-    - word: が
-      position: 3
-    - word: いい
-      base: 良い
-      position: 4
 - id: Inuno Itazura-f000081
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -2216,15 +638,6 @@
   sound_begin: 301240
   sound_end: 302765
   sentence: それがいい」
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: が
-      position: 2
-    - word: いい
-      base: 良い
-      position: 3
 - id: Inuno Itazura-f000082
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -2233,17 +646,6 @@
   sound_begin: 302765
   sound_end: 306406
   sentence: と言いました。
-  words:
-    - word: と
-      position: 0
-    - word: 言い
-      base: 言う
-      position: 1
-    - word: まし
-      base: ます
-      position: 3
-    - word: た
-      position: 5
 - id: Inuno Itazura-f000083
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -2252,34 +654,6 @@
   sound_begin: 306406
   sound_end: 311847
   sentence: そのうちに十二時の鐘が鳴りました。
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: うち
-      base: 内
-      position: 2
-    - word: に
-      position: 4
-    - word: 十二
-      base: '12'
-      position: 5
-    - word: 時
-      position: 7
-    - word: の
-      position: 8
-    - word: 鐘
-      position: 9
-    - word: が
-      position: 10
-    - word: 鳴り
-      base: 鳴る
-      position: 11
-    - word: まし
-      base: ます
-      position: 13
-    - word: た
-      position: 15
 - id: Inuno Itazura-f000084
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -2288,18 +662,6 @@
   sound_begin: 311847
   sound_end: 315403
   sentence: 「やあ鐘が鳴った。
-  words:
-    - word: やあ
-      position: 1
-    - word: 鐘
-      position: 3
-    - word: が
-      position: 4
-    - word: 鳴っ
-      base: 鳴る
-      position: 5
-    - word: た
-      position: 7
 - id: Inuno Itazura-f000085
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -2308,38 +670,6 @@
   sound_begin: 315403
   sound_end: 320480
   sentence: 君も僕の大好きの処まで降って来たようだ。
-  words:
-    - word: 君
-      position: 0
-    - word: も
-      position: 1
-    - word: 僕
-      position: 2
-    - word: の
-      position: 3
-    - word: 大好き
-      position: 4
-    - word: の
-      position: 7
-    - word: 処
-      position: 8
-    - word: まで
-      position: 9
-    - word: 降っ
-      base: 降る
-      position: 11
-    - word: て
-      position: 13
-    - word: 来
-      base: 来る
-      position: 14
-    - word: た
-      position: 15
-    - word: よう
-      base: 様
-      position: 16
-    - word: だ
-      position: 18
 - id: Inuno Itazura-f000086
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -2348,27 +678,6 @@
   sound_begin: 320480
   sound_end: 324825
   sentence: では出かけようではないか」
-  words:
-    - word: で
-      position: 0
-    - word: は
-      position: 1
-    - word: 出
-      base: 出る
-      position: 2
-    - word: かけよう
-      base: 掛ける
-      position: 3
-    - word: で
-      base: だ
-      position: 7
-    - word: は
-      position: 8
-    - word: ない
-      base: 無い
-      position: 9
-    - word: か
-      position: 11
 - id: Inuno Itazura-f000087
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -2377,36 +686,6 @@
   sound_begin: 324825
   sound_end: 331280
   sentence: 二人は表に出て右と左に別れました。
-  words:
-    - word: 二人
-      position: 0
-    - word: は
-      position: 2
-    - word: 表
-      position: 3
-    - word: に
-      position: 4
-    - word: 出
-      base: 出る
-      position: 5
-    - word: て
-      position: 6
-    - word: 右
-      position: 7
-    - word: と
-      position: 8
-    - word: 左
-      position: 9
-    - word: に
-      position: 10
-    - word: 別れ
-      base: 別れる
-      position: 11
-    - word: まし
-      base: ます
-      position: 13
-    - word: た
-      position: 15
 - id: Inuno Itazura-f000088
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -2415,25 +694,6 @@
   sound_begin: 331280
   sound_end: 336720
   sentence: その時二人は帽子をふって、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 時
-      position: 2
-    - word: 二人
-      position: 3
-    - word: は
-      position: 5
-    - word: 帽子
-      position: 6
-    - word: を
-      position: 8
-    - word: ふっ
-      base: ふる
-      position: 9
-    - word: て
-      position: 11
 - id: Inuno Itazura-f000089
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -2442,19 +702,6 @@
   sound_begin: 336720
   sound_end: 340200
   sentence: 「犬の年の児万歳」
-  words:
-    - word: 犬
-      position: 1
-    - word: の
-      position: 2
-    - word: 年
-      position: 3
-    - word: の
-      position: 4
-    - word: 児
-      position: 5
-    - word: 万歳
-      position: 6
 - id: Inuno Itazura-f000090
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -2463,19 +710,6 @@
   sound_begin: 340200
   sound_end: 343386
   sentence: 「猪の年の児万歳」
-  words:
-    - word: 猪
-      position: 1
-    - word: の
-      position: 2
-    - word: 年
-      position: 3
-    - word: の
-      position: 4
-    - word: 児
-      position: 5
-    - word: 万歳
-      position: 6
 - id: Inuno Itazura-f000091
   author_japanese: 夢野 久作
   deck_name: Inuno Itazura
@@ -2484,14 +718,3 @@
   sound_begin: 343386
   sound_end: 348640
   sentence: と叫びました。
-  words:
-    - word: と
-      position: 0
-    - word: 叫び
-      base: 叫ぶ
-      position: 1
-    - word: まし
-      base: ます
-      position: 3
-    - word: た
-      position: 5

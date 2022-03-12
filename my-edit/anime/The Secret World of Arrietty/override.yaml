@@ -4,29 +4,10 @@
   sound: A-Arrietty_1_0.01.53.677-0.01.56.657.mp3
   sentence: また（ハル）さんったら　困ったわねぇ
   words:
-    - word: また
-      base: 又
-      position: 0
     - word: ハル
       position: 3
       tags:
         - silent
-    - word: さん
-      position: 6
-    - word: ったら
-      base: たら
-      position: 8
-    - word: 困っ
-      base: 困る
-      dictionary: 困る
-      position: 12
-    - word: た
-      position: 14
-    - word: わ
-      position: 15
-    - word: ねぇ
-      base: ね
-      position: 16
 - id: A_Arrietty_007
   deck_name: The Secret World of Arrietty
   translation: Haru ! You're blocking the driveway again.
@@ -37,22 +18,6 @@
       position: 1
       tags:
         - silent
-    - word: さん
-      position: 4
-    - word: また
-      base: 又
-      position: 7
-    - word: 車
-      position: 9
-    - word: 置き
-      base: 置く
-      dictionary: 置く
-      position: 10
-    - word: っぱなし
-      base: 放し
-      position: 12
-    - word: よ
-      position: 16
 - id: A_Arrietty_008
   deck_name: The Secret World of Arrietty
   translation: Sho? Where are you?
@@ -63,17 +28,6 @@
       position: 1
       tags:
         - silent
-    - word: さん
-      position: 3
-    - word: どこ
-      position: 6
-    - word: に
-      position: 8
-    - word: いる
-      base: 居る
-      position: 9
-    - word: の
-      position: 11
 - id: A_Arrietty_011
   deck_name: The Secret World of Arrietty
   translation: Arrietty! What?
@@ -84,8 +38,6 @@
       position: 1
       tags:
         - silent
-    - word: はい
-      position: 9
 - id: A_Arrietty_047
   deck_name: The Secret World of Arrietty
   translation: Arrietty will be 14 soon.
@@ -96,60 +48,16 @@
       position: 1
       tags:
         - silent
-    - word: も
-      position: 8
-    - word: もう
-      position: 10
-    - word: すぐ
-      base: 直ぐ
-      position: 12
-    - word: 十四
-      base: '14'
-      position: 14
-    - word: 歳
-      position: 16
-    - word: だ
-      position: 17
 - id: A_Arrietty_050
   deck_name: The Secret World of Arrietty
   translation: Whatever you need, just ask Haru.
   sound: A-Arrietty_1_0.08.18.816-0.08.22.386.mp3
   sentence: 何かあったら　遠慮なく（ハル）さんに頼みなさい
   words:
-    - word: 何
-      position: 0
-    - word: か
-      position: 1
-    - word: あっ
-      base: 有る
-      dictionary: ある
-      position: 2
-    - word: たら
-      base: た
-      dictionary: た
-      position: 4
-    - word: 遠慮
-      position: 7
-    - word: なく
-      base: 無い
-      dictionary: ない
-      position: 9
     - word: ハル
       position: 12
       tags:
         - silent
-    - word: さん
-      position: 15
-    - word: に
-      position: 17
-    - word: 頼み
-      base: 頼む
-      dictionary: 頼む
-      position: 18
-    - word: なさい
-      base: 為す
-      dictionary: なさる
-      position: 20
 - id: A_Arrietty_052
   deck_name: The Secret World of Arrietty
   translation: Haru, I'm depending on you.
@@ -160,50 +68,16 @@
       position: 1
       tags:
         - silent
-    - word: さん
-      position: 4
-    - word: お
-      base: 御
-      position: 7
-    - word: 願い
-      base: 願う
-      dictionary: 願う
-      position: 8
-    - word: ね
-      position: 10
 - id: A_Arrietty_065
   deck_name: The Secret World of Arrietty
   translation: Hold these for me. Yes, Papa.
   sound: A-Arrietty_1_0.11.26.860-0.11.29.820.mp3
   sentence: これは（アリエッティ）が持っていなさい　はい
   words:
-    - word: これ
-      base: 此れ
-      position: 0
-    - word: は
-      position: 2
     - word: アリエッティ
       position: 4
       tags:
         - silent
-    - word: が
-      position: 11
-    - word: 持っ
-      base: 持つ
-      dictionary: 持つ
-      position: 12
-    - word: て
-      position: 14
-    - word: い
-      base: 居る
-      dictionary: いる
-      position: 15
-    - word: なさい
-      base: 為す
-      dictionary: なさる
-      position: 16
-    - word: はい
-      position: 20
 - id: A_Arrietty_113
   deck_name: The Secret World of Arrietty
   translation: Arrietty, you found something. Show your mother your first borrowing.
@@ -214,40 +88,6 @@
       position: 1
       tags:
         - silent
-    - word: お
-      base: 御
-      position: 9
-    - word: 母さん
-      position: 10
-    - word: に
-      position: 13
-    - word: お前
-      base: 御前
-      position: 14
-    - word: の
-      position: 16
-    - word: 初めて
-      position: 17
-    - word: の
-      position: 20
-    - word: 獲物
-      position: 21
-    - word: を
-      position: 23
-    - word: 見せ
-      base: 見せる
-      dictionary: 見せる
-      position: 24
-    - word: て
-      position: 26
-    - word: あげ
-      base: 上げる
-      dictionary: あげる
-      position: 27
-    - word: なさい
-      base: 為す
-      dictionary: なさる
-      position: 29
 - id: A_Arrietty_119
   deck_name: The Secret World of Arrietty
   translation: Sho !
@@ -258,17 +98,12 @@
       position: 1
       tags:
         - silent
-    - word: さん
-      position: 3
 - id: A_Arrietty_136
   deck_name: The Secret World of Arrietty
   translation: Thank you, Arrietty.
   sound: A-Arrietty_1_0.29.56.378-0.29.58.018.mp3
   sentence: ありがとう　（アリエッティ）
   words:
-    - word: ありがとう
-      base: 有り難う
-      position: 0
     - word: アリエッティ
       position: 7
       tags:
@@ -283,71 +118,26 @@
       position: 1
       tags:
         - silent
-    - word: よ
-      position: 8
 - id: A_Arrietty_166
   deck_name: The Secret World of Arrietty
   translation: Thanks, Haru. I feel fine.
   sound: A-Arrietty_1_0.38.27.054-0.38.30.183.mp3
   sentence: ありがとう　（ハル）さん　僕は大丈夫だよ
   words:
-    - word: ありがとう
-      base: 有り難う
-      position: 0
     - word: ハル
       position: 7
       tags:
         - silent
-    - word: さん
-      position: 10
-    - word: 僕
-      position: 13
-    - word: は
-      position: 14
-    - word: 大丈夫
-      position: 15
-    - word: だ
-      position: 18
-    - word: よ
-      position: 19
 - id: A_Arrietty_191
   deck_name: The Secret World of Arrietty
   translation: Don't worry, Aunt Sadako. Haru chased it out.
   sound: A-Arrietty_1_0.42.03.457-0.42.06.627.mp3
   sentence: はい　（ハル）さんが追い出してくれましたから
   words:
-    - word: はい
-      position: 0
     - word: ハル
       position: 4
       tags:
         - silent
-    - word: さん
-      position: 7
-    - word: が
-      position: 9
-    - word: 追い
-      base: 追う
-      dictionary: 追う
-      position: 10
-    - word: 出し
-      base: 出す
-      dictionary: 出す
-      position: 12
-    - word: て
-      position: 14
-    - word: くれ
-      base: 呉れる
-      dictionary: くれる
-      position: 15
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 17
-    - word: た
-      position: 19
-    - word: から
-      position: 20
 - id: A_Arrietty_221
   deck_name: The Secret World of Arrietty
   translation: Haru, could you turn off the lights? Yes, ma'am.
@@ -358,25 +148,6 @@
       position: 1
       tags:
         - silent
-    - word: さん
-      position: 4
-    - word: 電気
-      position: 7
-    - word: を
-      position: 9
-    - word: 消し
-      base: 消す
-      dictionary: 消す
-      position: 10
-    - word: て
-      position: 12
-    - word: もらえる
-      base: 貰う
-      position: 13
-    - word: かしら
-      position: 17
-    - word: はい
-      position: 21
 - id: A_Arrietty_227
   deck_name: The Secret World of Arrietty
   translation: Haru, could you open that up?
@@ -387,206 +158,46 @@
       position: 1
       tags:
         - silent
-    - word: さん
-      position: 4
-    - word: そこ
-      base: 其処
-      position: 7
-    - word: 開け
-      base: 開く
-      dictionary: 開ける
-      position: 9
-    - word: て
-      position: 11
-    - word: もらえる
-      base: 貰う
-      position: 12
-    - word: かしら
-      position: 16
 - id: A_Arrietty_244
   deck_name: The Secret World of Arrietty
   translation: Twisted my leg. It's lucky Spiller found me.
   sound: A-Arrietty_1_0.48.23.366-0.48.27.576.mp3
   sentence: 足を痛めてしまってな　この（スピラー）が助けてくれた
   words:
-    - word: 足
-      position: 0
-    - word: を
-      position: 1
-    - word: 痛め
-      base: 痛める
-      dictionary: 痛める
-      position: 2
-    - word: て
-      position: 4
-    - word: しまっ
-      base: 仕舞う
-      dictionary: しまう
-      position: 5
-    - word: て
-      position: 8
-    - word: な
-      position: 9
-    - word: この
-      base: 此の
-      position: 11
     - word: スピラー
       position: 14
       tags:
         - silent
-    - word: が
-      position: 19
-    - word: 助け
-      base: 助ける
-      dictionary: 助ける
-      position: 20
-    - word: て
-      position: 22
-    - word: くれ
-      base: 呉れる
-      dictionary: くれる
-      position: 23
-    - word: た
-      position: 25
 - id: A_Arrietty_255
   deck_name: The Secret World of Arrietty
   translation: I'll see to your father. Get Spiller a cup of tea.
   sound: A-Arrietty_1_0.49.26.594-0.49.31.284.mp3
   sentence: 手当ては私がやるから　あなたは（スピラー）にお茶を出してあげて　はい
   words:
-    - word: 手当て
-      position: 0
-    - word: は
-      position: 3
-    - word: 私
-      position: 4
-    - word: が
-      position: 5
-    - word: やる
-      base: 遣る
-      position: 6
-    - word: から
-      position: 8
-    - word: あなた
-      base: 貴方
-      position: 11
-    - word: は
-      position: 14
     - word: スピラー
       position: 16
       tags:
         - silent
-    - word: に
-      position: 21
-    - word: お
-      base: 御
-      position: 22
-    - word: 茶
-      position: 23
-    - word: を
-      position: 24
-    - word: 出し
-      base: 出す
-      dictionary: 出す
-      position: 25
-    - word: て
-      position: 27
-    - word: あげ
-      base: 上げる
-      dictionary: あげる
-      position: 28
-    - word: て
-      position: 30
-    - word: はい
-      position: 32
 - id: A_Arrietty_256
   deck_name: The Secret World of Arrietty
   translation: Thank you, Spiller. Papa's so lucky you came along.
   sound: A-Arrietty_1_0.49.32.334-0.49.35.734.mp3
   sentence: ありがとう　（スピラー）　お父さんを助けてくれて
   words:
-    - word: ありがとう
-      base: 有り難う
-      position: 0
     - word: スピラー
       position: 7
       tags:
         - silent
-    - word: お
-      base: 御
-      position: 13
-    - word: 父さん
-      position: 14
-    - word: を
-      position: 17
-    - word: 助け
-      base: 助ける
-      dictionary: 助ける
-      position: 18
-    - word: て
-      position: 20
-    - word: くれ
-      base: 呉れる
-      dictionary: くれる
-      position: 21
-    - word: て
-      position: 23
 - id: A_Arrietty_275
   deck_name: The Secret World of Arrietty
   translation: I tripped and fell. Couldn't move. Then Spiller came.
   sound: A-Arrietty_1_0.51.17.991-0.51.22.151.mp3
   sentence: 森の途中で動けなくなっていたところに　（スピラー）が現れたんだ
   words:
-    - word: 森
-      position: 0
-    - word: の
-      position: 1
-    - word: 途中
-      position: 2
-    - word: で
-      position: 4
-    - word: 動け
-      base: 動く
-      dictionary: 動ける
-      position: 5
-    - word: なく
-      base: ない
-      dictionary: ない
-      position: 7
-    - word: なっ
-      base: 成る
-      dictionary: なる
-      position: 9
-    - word: て
-      position: 11
-    - word: い
-      base: 居る
-      dictionary: いる
-      position: 12
-    - word: た
-      position: 13
-    - word: ところ
-      base: 所
-      position: 14
-    - word: に
-      position: 17
     - word: スピラー
       position: 20
       tags:
         - silent
-    - word: が
-      position: 25
-    - word: 現れ
-      base: 現れる
-      dictionary: 現れる
-      position: 26
-    - word: た
-      position: 28
-    - word: ん
-      base: の
-      position: 29
-    - word: だ
-      position: 30
 - id: A_Arrietty_283
   deck_name: The Secret World of Arrietty
   translation: Do you have friends and family, Spiller?
@@ -597,21 +208,6 @@
       position: 1
       tags:
         - silent
-    - word: に
-      position: 6
-    - word: 仲間
-      position: 7
-    - word: や
-      position: 9
-    - word: 家族
-      position: 10
-    - word: は
-      position: 12
-    - word: いる
-      base: 居る
-      position: 13
-    - word: の
-      position: 15
 - id: A_Arrietty_287
   deck_name: The Secret World of Arrietty
   translation: Haru?
@@ -622,8 +218,6 @@
       position: 1
       tags:
         - silent
-    - word: さん
-      position: 4
 - id: A_Arrietty_288
   deck_name: The Secret World of Arrietty
   translation: Arrietty, your stitches need to be closer together.
@@ -634,98 +228,26 @@
       position: 1
       tags:
         - silent
-    - word: もう
-      position: 9
-    - word: 少し
-      position: 11
-    - word: 細かく
-      base: 細かい
-      dictionary: 細かい
-      position: 13
-    - word: 縫わ
-      base: 縫う
-      dictionary: 縫う
-      position: 16
-    - word: ない
-      position: 18
-    - word: と
-      position: 20
-    - word: だめ
-      base: 駄目
-      position: 21
-    - word: よ
-      position: 23
 - id: A_Arrietty_313
   deck_name: The Secret World of Arrietty
   translation: And, Homily, take nothing from the doll house.
   sound: A-Arrietty_1_0.58.05.060-0.58.08.749.mp3
   sentence: それと（ホミリー）　ドールハウスのものは一切　置いていけ
   words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: と
-      position: 2
     - word: ホミリー
       position: 4
       tags:
         - silent
-    - word: ドール
-      position: 10
-    - word: ハウス
-      position: 13
-    - word: の
-      position: 16
-    - word: もの
-      base: 物
-      position: 17
-    - word: は
-      position: 19
-    - word: 一切
-      position: 20
-    - word: 置い
-      base: 置く
-      dictionary: 置く
-      position: 23
-    - word: て
-      position: 25
-    - word: いけ
-      base: 行く
-      dictionary: いく
-      position: 26
 - id: A_Arrietty_343
   deck_name: The Secret World of Arrietty
   translation: There are lots more of us. Spiller said so !
   sound: A-Arrietty_1_1.01.01.344-1.01.04.664.mp3
   sentence: まだたくさんいるって　（スピラー）も言ってた！
   words:
-    - word: まだ
-      base: 未だ
-      position: 0
-    - word: たくさん
-      base: 沢山
-      position: 2
-    - word: いる
-      base: 居る
-      position: 6
-    - word: って
-      position: 8
     - word: スピラー
       position: 12
       tags:
         - silent
-    - word: も
-      position: 17
-    - word: 言っ
-      base: 言う
-      dictionary: 言う
-      position: 18
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 20
-    - word: た
-      position: 21
 - id: A_Arrietty_345
   deck_name: The Secret World of Arrietty
   translation: And he said there are lots more.
@@ -736,27 +258,6 @@
       position: 1
       tags:
         - silent
-    - word: は
-      position: 6
-    - word: 他
-      position: 7
-    - word: に
-      position: 8
-    - word: 何
-      position: 9
-    - word: 人
-      position: 10
-    - word: も
-      position: 11
-    - word: 仲間
-      position: 12
-    - word: が
-      position: 14
-    - word: いる
-      base: 居る
-      position: 15
-    - word: って
-      position: 17
 - id: A_Arrietty_404
   deck_name: The Secret World of Arrietty
   translation: Haru opened this.
@@ -767,39 +268,12 @@
       position: 1
       tags:
         - silent
-    - word: さん
-      position: 4
-    - word: が
-      position: 6
-    - word: ここ
-      base: 此処
-      position: 7
-    - word: を
-      position: 9
-    - word: 開け
-      base: 開く
-      dictionary: 開ける
-      position: 10
-    - word: た
-      position: 12
-    - word: の
-      position: 13
-    - word: か
-      position: 14
 - id: A_Arrietty_417
   deck_name: The Secret World of Arrietty
   translation: Mother? Arrietty!
   sound: A-Arrietty_1_1.16.06.658-1.16.08.928.mp3
   sentence: お母さーん！　（アリエッティ）
   words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 母
-      position: 1
-    - word: さーん
-      base: さん
-      position: 2
     - word: アリエッティ
       position: 8
       tags:
@@ -810,12 +284,6 @@
   sound: A-Arrietty_1_1.16.16.368-1.16.18.908.mp3
   sentence: ここ！ここ！（アリエッティ）！
   words:
-    - word: ここ
-      base: 此処
-      position: 0
-    - word: ここ
-      base: 此処
-      position: 3
     - word: アリエッティ
       position: 7
       tags:
@@ -826,37 +294,14 @@
   sound: A-Arrietty_1_1.18.21.474-1.18.24.884.mp3
   sentence: 乱暴に扱わないでね　（ハル）さん！（ハル）さん！　はーい
   words:
-    - word: 乱暴
-      position: 0
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 2
-    - word: 扱わ
-      base: 扱う
-      dictionary: 扱う
-      position: 3
-    - word: ない
-      position: 5
-    - word: で
-      position: 7
-    - word: ね
-      position: 8
     - word: ハル
       position: 11
       tags:
         - silent
-    - word: さん
-      position: 14
     - word: ハル
       position: 18
       tags:
         - silent
-    - word: さん
-      position: 21
-    - word: はーい
-      base: はい
-      position: 25
 - id: A_Arrietty_434
   deck_name: The Secret World of Arrietty
   translation: Haru, what's gotten into you?
@@ -867,20 +312,6 @@
       position: 1
       tags:
         - silent
-    - word: さん
-      position: 4
-    - word: 何
-      position: 7
-    - word: を
-      position: 8
-    - word: 言っ
-      base: 言う
-      dictionary: 言う
-      position: 9
-    - word: てる
-      position: 11
-    - word: の
-      position: 13
 - id: A_Arrietty_443
   deck_name: The Secret World of Arrietty
   translation: Haru, I'm sending the exterminators away.
@@ -891,29 +322,6 @@
       position: 1
       tags:
         - silent
-    - word: さん
-      position: 4
-    - word: 業者
-      position: 7
-    - word: さん
-      position: 9
-    - word: に
-      position: 11
-    - word: は
-      position: 12
-    - word: 帰っ
-      base: 帰る
-      dictionary: 帰る
-      position: 13
-    - word: て
-      position: 15
-    - word: もらう
-      base: 貰う
-      position: 16
-    - word: わ
-      position: 19
-    - word: よ
-      position: 20
 - id: A_Arrietty_452
   deck_name: The Secret World of Arrietty
   translation: I wonder what's gotten into Haru.
@@ -924,24 +332,6 @@
       position: 1
       tags:
         - silent
-    - word: さん
-      position: 4
-    - word: どう
-      position: 7
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 9
-    - word: ちゃっ
-      base: ちゃう
-      dictionary: ちゃう
-      position: 10
-    - word: た
-      position: 13
-    - word: の
-      position: 14
-    - word: かしら
-      position: 15
 - id: A_Arrietty_457
   deck_name: The Secret World of Arrietty
   translation: So Haru really saw them.
@@ -952,24 +342,6 @@
       position: 1
       tags:
         - silent
-    - word: さん
-      position: 4
-    - word: は
-      position: 6
-    - word: 本当
-      position: 7
-    - word: に
-      position: 9
-    - word: 見
-      base: 見る
-      dictionary: 見る
-      position: 10
-    - word: た
-      position: 11
-    - word: の
-      position: 12
-    - word: ね
-      position: 13
 - id: A_Arrietty_470
   deck_name: The Secret World of Arrietty
   translation: How far is it to where we're meeting Spiller?
@@ -980,53 +352,12 @@
       position: 1
       tags:
         - silent
-    - word: と
-      position: 6
-    - word: の
-      position: 7
-    - word: 待ち
-      base: 待つ
-      dictionary: 待つ
-      position: 8
-    - word: 合わせ
-      base: 合う
-      dictionary: 合わせる
-      position: 10
-    - word: 場所
-      position: 13
-    - word: は
-      position: 15
-    - word: まだ
-      base: 未だ
-      position: 16
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 18
-    - word: の
-      position: 19
 - id: A_Arrietty_504
   deck_name: The Secret World of Arrietty
   translation: Arrietty, you're a part of me now.
   sound: A-Arrietty_1_1.30.46.357-1.30.47.754.mp3
   sentence: 君は僕の心臓の一部だ　（アリエッティ）
   words:
-    - word: 君
-      position: 0
-    - word: は
-      position: 1
-    - word: 僕
-      position: 2
-    - word: の
-      position: 3
-    - word: 心臓
-      position: 4
-    - word: の
-      position: 6
-    - word: 一部
-      position: 7
-    - word: だ
-      position: 9
     - word: アリエッティ
       position: 12
       tags:

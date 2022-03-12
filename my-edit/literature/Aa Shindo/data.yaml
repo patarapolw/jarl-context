@@ -6,12 +6,6 @@
   sound_begin: 6515
   sound_end: 10745
   sentence: 「ああしんど」
-  words:
-    - word: ああ
-      position: 1
-    - word: しんど
-      base: しんどい
-      position: 3
 - id: Aa Shindo-f000003
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -20,33 +14,6 @@
   sound_begin: 10745
   sound_end: 14760
   sentence: よっぽど古いお話なんで御座いますよ。
-  words:
-    - word: よっぽど
-      base: 余程
-      position: 0
-    - word: 古い
-      position: 4
-    - word: お
-      base: 御
-      position: 6
-    - word: 話
-      position: 7
-    - word: な
-      base: だ
-      position: 8
-    - word: ん
-      base: の
-      position: 9
-    - word: で
-      base: だ
-      position: 10
-    - word: 御座い
-      base: 御座る
-      position: 11
-    - word: ます
-      position: 14
-    - word: よ
-      position: 16
 - id: Aa Shindo-f000004
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -55,31 +22,6 @@
   sound_begin: 14760
   sound_end: 17800
   sentence: 私の祖父の子供の時分に居りました、
-  words:
-    - word: 私
-      position: 0
-    - word: の
-      position: 1
-    - word: 祖父
-      position: 2
-    - word: の
-      position: 4
-    - word: 子供
-      position: 5
-    - word: の
-      position: 7
-    - word: 時分
-      position: 8
-    - word: に
-      position: 10
-    - word: 居り
-      base: 居る
-      position: 11
-    - word: まし
-      base: ます
-      position: 13
-    - word: た
-      position: 15
 - id: Aa Shindo-f000005
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -88,31 +30,6 @@
   sound_begin: 17800
   sound_end: 20600
   sentence: 「三」という猫なんで御座います。
-  words:
-    - word: 三
-      base: '3'
-      position: 1
-    - word: と
-      position: 3
-    - word: いう
-      base: 言う
-      position: 4
-    - word: 猫
-      position: 6
-    - word: な
-      base: だ
-      position: 7
-    - word: ん
-      base: の
-      position: 8
-    - word: で
-      base: だ
-      position: 9
-    - word: 御座い
-      base: 御座る
-      position: 10
-    - word: ます
-      position: 13
 - id: Aa Shindo-f000006
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -121,27 +38,6 @@
   sound_begin: 20600
   sound_end: 23520
   sentence: 三毛だったんで御座いますって。
-  words:
-    - word: 三毛
-      position: 0
-    - word: だっ
-      base: だ
-      position: 2
-    - word: た
-      position: 4
-    - word: ん
-      base: の
-      position: 5
-    - word: で
-      base: だ
-      position: 6
-    - word: 御座い
-      base: 御座る
-      position: 7
-    - word: ます
-      position: 10
-    - word: って
-      position: 12
 - id: Aa Shindo-f000007
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -150,13 +46,6 @@
   sound_begin: 23520
   sound_end: 24760
   sentence: 何でも、
-  words:
-    - word: 何
-      position: 0
-    - word: で
-      position: 1
-    - word: も
-      position: 2
 - id: Aa Shindo-f000008
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -165,9 +54,6 @@
   sound_begin: 24760
   sound_end: 25400
   sentence: あの、
-  words:
-    - word: あの
-      position: 0
 - id: Aa Shindo-f000009
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -176,18 +62,6 @@
   sound_begin: 25400
   sound_end: 27400
   sentence: その祖父の話に、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 祖父
-      position: 2
-    - word: の
-      position: 4
-    - word: 話
-      position: 5
-    - word: に
-      position: 6
 - id: Aa Shindo-f000010
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -196,30 +70,6 @@
   sound_begin: 27400
   sound_end: 30360
   sentence: おばあさんがお嫁に来る時に——
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: ばあ
-      base: 婆
-      position: 1
-    - word: さん
-      position: 3
-    - word: が
-      position: 5
-    - word: お
-      base: 御
-      position: 6
-    - word: 嫁
-      position: 7
-    - word: に
-      position: 8
-    - word: 来る
-      position: 9
-    - word: 時
-      position: 11
-    - word: に
-      position: 12
 - id: Aa Shindo-f000011
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -228,34 +78,6 @@
   sound_begin: 30360
   sound_end: 33960
   sentence: 祖父のお母さんなんで御座いましょうねえ——
-  words:
-    - word: 祖父
-      position: 0
-    - word: の
-      position: 2
-    - word: お
-      base: 御
-      position: 3
-    - word: 母さん
-      position: 4
-    - word: な
-      base: だ
-      position: 7
-    - word: ん
-      base: の
-      position: 8
-    - word: で
-      base: だ
-      position: 9
-    - word: 御座い
-      base: 御座る
-      position: 10
-    - word: ましょう
-      base: ます
-      position: 13
-    - word: ねえ
-      base: ね
-      position: 17
 - id: Aa Shindo-f000012
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -264,41 +86,6 @@
   sound_begin: 33960
   sound_end: 38785
   sentence: 泉州堺から連れて来た猫なんで御座いますって。
-  words:
-    - word: 泉州
-      position: 0
-    - word: 堺
-      position: 2
-    - word: から
-      position: 3
-    - word: 連れ
-      base: 連れる
-      position: 5
-    - word: て
-      position: 7
-    - word: 来
-      base: 来る
-      position: 8
-    - word: た
-      position: 9
-    - word: 猫
-      position: 10
-    - word: な
-      base: だ
-      position: 11
-    - word: ん
-      base: の
-      position: 12
-    - word: で
-      base: だ
-      position: 13
-    - word: 御座い
-      base: 御座る
-      position: 14
-    - word: ます
-      position: 17
-    - word: って
-      position: 19
 - id: Aa Shindo-f000013
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -307,12 +94,6 @@
   sound_begin: 38785
   sound_end: 41275
   sentence: 随分永く——
-  words:
-    - word: 随分
-      position: 0
-    - word: 永く
-      base: 長い
-      position: 2
 - id: Aa Shindo-f000014
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -321,36 +102,6 @@
   sound_begin: 41275
   sound_end: 45800
   sentence: 家に十八年も居たんで御座いますよ。
-  words:
-    - word: 家
-      position: 0
-    - word: に
-      position: 1
-    - word: 十八
-      base: '18'
-      position: 2
-    - word: 年
-      position: 4
-    - word: も
-      position: 5
-    - word: 居
-      base: 居る
-      position: 6
-    - word: た
-      position: 7
-    - word: ん
-      base: の
-      position: 8
-    - word: で
-      base: だ
-      position: 9
-    - word: 御座い
-      base: 御座る
-      position: 10
-    - word: ます
-      position: 13
-    - word: よ
-      position: 15
 - id: Aa Shindo-f000015
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -359,27 +110,6 @@
   sound_begin: 45800
   sound_end: 48760
   sentence: 大きくなっておりましたそうです。
-  words:
-    - word: 大きく
-      base: 大きい
-      position: 0
-    - word: なっ
-      base: 成る
-      position: 3
-    - word: て
-      position: 5
-    - word: おり
-      base: おる
-      position: 6
-    - word: まし
-      base: ます
-      position: 8
-    - word: た
-      position: 10
-    - word: そう
-      position: 11
-    - word: です
-      position: 13
 - id: Aa Shindo-f000016
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -388,9 +118,6 @@
   sound_begin: 48760
   sound_end: 49280
   sentence: もう、
-  words:
-    - word: もう
-      position: 0
 - id: Aa Shindo-f000017
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -399,11 +126,6 @@
   sound_begin: 49280
   sound_end: 50360
   sentence: 耳なんか、
-  words:
-    - word: 耳
-      position: 0
-    - word: なんか
-      position: 1
 - id: Aa Shindo-f000018
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -412,10 +134,6 @@
   sound_begin: 50360
   sound_end: 51280
   sentence: 厚ぼったく、
-  words:
-    - word: 厚ぼったく
-      base: 厚ぼったい
-      position: 0
 - id: Aa Shindo-f000019
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -424,39 +142,6 @@
   sound_begin: 51280
   sound_end: 55320
   sentence: 五分ぐらいになっていたそうで御座いますよ。
-  words:
-    - word: 五
-      base: '5'
-      position: 0
-    - word: 分
-      position: 1
-    - word: ぐらい
-      base: くらい
-      position: 2
-    - word: に
-      position: 5
-    - word: なっ
-      base: 成る
-      position: 6
-    - word: て
-      position: 8
-    - word: い
-      base: 居る
-      position: 9
-    - word: た
-      position: 10
-    - word: そう
-      position: 11
-    - word: で
-      base: だ
-      position: 13
-    - word: 御座い
-      base: 御座る
-      position: 14
-    - word: ます
-      position: 17
-    - word: よ
-      position: 19
 - id: Aa Shindo-f000020
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -465,33 +150,6 @@
   sound_begin: 55320
   sound_end: 58760
   sentence: もう年を老ってしまっておりましたから、
-  words:
-    - word: もう
-      position: 0
-    - word: 年
-      position: 2
-    - word: を
-      position: 3
-    - word: 老
-      base: 老い
-      position: 4
-    - word: って
-      position: 5
-    - word: しまっ
-      base: 仕舞う
-      position: 7
-    - word: て
-      position: 10
-    - word: おり
-      base: おる
-      position: 11
-    - word: まし
-      base: ます
-      position: 13
-    - word: た
-      position: 15
-    - word: から
-      position: 16
 - id: Aa Shindo-f000021
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -500,48 +158,6 @@
   sound_begin: 58760
   sound_end: 64000
   sentence: まるで御隠居様のようになっていたんで御座いましょうね。
-  words:
-    - word: まるで
-      base: 丸で
-      position: 0
-    - word: 御
-      position: 3
-    - word: 隠居
-      position: 4
-    - word: 様
-      position: 6
-    - word: の
-      position: 7
-    - word: よう
-      base: 様
-      position: 8
-    - word: に
-      base: だ
-      position: 10
-    - word: なっ
-      base: 成る
-      position: 11
-    - word: て
-      position: 13
-    - word: い
-      base: 居る
-      position: 14
-    - word: た
-      position: 15
-    - word: ん
-      base: の
-      position: 16
-    - word: で
-      base: だ
-      position: 17
-    - word: 御座い
-      base: 御座る
-      position: 18
-    - word: ましょう
-      base: ます
-      position: 21
-    - word: ね
-      position: 25
 - id: Aa Shindo-f000022
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -550,9 +166,6 @@
   sound_begin: 64000
   sound_end: 65440
   sentence: 冬、
-  words:
-    - word: 冬
-      position: 0
 - id: Aa Shindo-f000023
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -561,24 +174,6 @@
   sound_begin: 65440
   sound_end: 67729
   sentence: 炬燵の上にまあるくなって、
-  words:
-    - word: 炬燵
-      base: 火燵
-      position: 0
-    - word: の
-      position: 2
-    - word: 上
-      position: 3
-    - word: に
-      position: 4
-    - word: まあるく
-      base: 丸い
-      position: 5
-    - word: なっ
-      base: 成る
-      position: 9
-    - word: て
-      position: 11
 - id: Aa Shindo-f000024
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -587,30 +182,6 @@
   sound_begin: 67729
   sound_end: 70960
   sentence: 寐ていたんで御座いますって。
-  words:
-    - word: 寐
-      base: 寝る
-      position: 0
-    - word: て
-      position: 1
-    - word: い
-      base: 居る
-      position: 2
-    - word: た
-      position: 3
-    - word: ん
-      base: の
-      position: 4
-    - word: で
-      base: だ
-      position: 5
-    - word: 御座い
-      base: 御座る
-      position: 6
-    - word: ます
-      position: 9
-    - word: って
-      position: 11
 - id: Aa Shindo-f000025
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -619,9 +190,6 @@
   sound_begin: 70960
   sound_end: 73040
   sentence: そして、
-  words:
-    - word: そして
-      position: 0
 - id: Aa Shindo-f000026
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -630,19 +198,6 @@
   sound_begin: 73040
   sound_end: 74960
   sentence: 伸をしまして、
-  words:
-    - word: 伸
-      position: 0
-    - word: を
-      position: 1
-    - word: し
-      base: 為る
-      position: 2
-    - word: まし
-      base: ます
-      position: 3
-    - word: て
-      position: 5
 - id: Aa Shindo-f000027
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -651,19 +206,6 @@
   sound_begin: 74960
   sound_end: 78184
   sentence: にゅっと高くなって、
-  words:
-    - word: にゅっ
-      position: 0
-    - word: と
-      position: 3
-    - word: 高く
-      base: 高い
-      position: 4
-    - word: なっ
-      base: 成る
-      position: 6
-    - word: て
-      position: 8
 - id: Aa Shindo-f000028
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -672,36 +214,6 @@
   sound_begin: 78184
   sound_end: 84751
   sentence: 「ああしんど」と言ったんだそうで御座いますよ。
-  words:
-    - word: ああ
-      position: 1
-    - word: しんど
-      base: しんどい
-      position: 3
-    - word: と
-      position: 7
-    - word: 言っ
-      base: 言う
-      position: 8
-    - word: た
-      position: 10
-    - word: ん
-      base: の
-      position: 11
-    - word: だ
-      position: 12
-    - word: そう
-      position: 13
-    - word: で
-      base: だ
-      position: 15
-    - word: 御座い
-      base: 御座る
-      position: 16
-    - word: ます
-      position: 19
-    - word: よ
-      position: 21
 - id: Aa Shindo-f000029
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -710,10 +222,6 @@
   sound_begin: 84751
   sound_end: 85760
   sentence: 屹度、
-  words:
-    - word: 屹度
-      base: 急度
-      position: 0
 - id: Aa Shindo-f000030
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -722,13 +230,6 @@
   sound_begin: 85760
   sound_end: 86840
   sentence: 曾祖母さんは、
-  words:
-    - word: 曾祖母
-      position: 0
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
 - id: Aa Shindo-f000031
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -737,16 +238,6 @@
   sound_begin: 86840
   sound_end: 88280
   sentence: 炬燵へ煖って、
-  words:
-    - word: 炬燵
-      base: 火燵
-      position: 0
-    - word: へ
-      position: 2
-    - word: 煖
-      position: 3
-    - word: って
-      position: 4
 - id: Aa Shindo-f000032
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -755,16 +246,6 @@
   sound_begin: 88280
   sound_end: 89480
   sentence: 眼鏡を懸けて、
-  words:
-    - word: 眼鏡
-      position: 0
-    - word: を
-      position: 2
-    - word: 懸け
-      base: 掛ける
-      position: 3
-    - word: て
-      position: 5
 - id: Aa Shindo-f000033
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -773,37 +254,6 @@
   sound_begin: 89480
   sound_end: 92200
   sentence: 本でも見ていたんで御座いましょうね。
-  words:
-    - word: 本
-      position: 0
-    - word: で
-      position: 1
-    - word: も
-      position: 2
-    - word: 見
-      base: 見る
-      position: 3
-    - word: て
-      position: 4
-    - word: い
-      base: 居る
-      position: 5
-    - word: た
-      position: 6
-    - word: ん
-      base: の
-      position: 7
-    - word: で
-      base: だ
-      position: 8
-    - word: 御座い
-      base: 御座る
-      position: 9
-    - word: ましょう
-      base: ます
-      position: 12
-    - word: ね
-      position: 16
 - id: Aa Shindo-f000034
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -812,9 +262,6 @@
   sound_begin: 92200
   sound_end: 92640
   sentence: で、
-  words:
-    - word: で
-      position: 0
 - id: Aa Shindo-f000035
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -823,18 +270,6 @@
   sound_begin: 92640
   sound_end: 94400
   sentence: 吃驚致しまして、
-  words:
-    - word: 吃驚
-      base: びっくり
-      position: 0
-    - word: 致し
-      base: 致す
-      position: 2
-    - word: まし
-      base: ます
-      position: 4
-    - word: て
-      position: 6
 - id: Aa Shindo-f000036
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -843,31 +278,6 @@
   sound_begin: 94400
   sound_end: 99600
   sentence: この猫は屹度化けると思ったんです。
-  words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: 猫
-      position: 2
-    - word: は
-      position: 3
-    - word: 屹度
-      base: 急度
-      position: 4
-    - word: 化ける
-      position: 6
-    - word: と
-      position: 9
-    - word: 思っ
-      base: 思う
-      position: 10
-    - word: た
-      position: 12
-    - word: ん
-      base: の
-      position: 13
-    - word: です
-      position: 14
 - id: Aa Shindo-f000037
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -876,12 +286,6 @@
   sound_begin: 99600
   sound_end: 100480
   sentence: それから、
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: から
-      position: 2
 - id: Aa Shindo-f000038
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -890,24 +294,6 @@
   sound_begin: 100480
   sound_end: 102600
   sentence: 捨てようと思いましたけれども、
-  words:
-    - word: 捨てよう
-      base: 捨てる
-      position: 0
-    - word: と
-      position: 4
-    - word: 思い
-      base: 思う
-      position: 5
-    - word: まし
-      base: ます
-      position: 7
-    - word: た
-      position: 9
-    - word: けれど
-      position: 10
-    - word: も
-      position: 13
 - id: Aa Shindo-f000039
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -916,36 +302,6 @@
   sound_begin: 102600
   sound_end: 107040
   sentence: 幾ら捨てても帰って来るんで御座いますって。
-  words:
-    - word: 幾ら
-      position: 0
-    - word: 捨て
-      base: 捨てる
-      position: 2
-    - word: て
-      position: 4
-    - word: も
-      position: 5
-    - word: 帰っ
-      base: 帰る
-      position: 6
-    - word: て
-      position: 8
-    - word: 来る
-      position: 9
-    - word: ん
-      base: の
-      position: 11
-    - word: で
-      base: だ
-      position: 12
-    - word: 御座い
-      base: 御座る
-      position: 13
-    - word: ます
-      position: 16
-    - word: って
-      position: 18
 - id: Aa Shindo-f000040
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -954,16 +310,6 @@
   sound_begin: 107040
   sound_end: 109000
   sentence: でも大人しくて、
-  words:
-    - word: で
-      position: 0
-    - word: も
-      position: 1
-    - word: 大人しく
-      base: 大人しい
-      position: 2
-    - word: て
-      position: 6
 - id: Aa Shindo-f000041
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -972,40 +318,6 @@
   sound_begin: 109000
   sound_end: 112560
   sentence: 何にも悪い事はあるんじゃありませんけれども、
-  words:
-    - word: 何に
-      base: 何
-      position: 0
-    - word: も
-      position: 2
-    - word: 悪い
-      position: 3
-    - word: 事
-      position: 5
-    - word: は
-      position: 6
-    - word: ある
-      base: 有る
-      position: 7
-    - word: ん
-      base: の
-      position: 9
-    - word: じゃ
-      base: だ
-      position: 10
-    - word: あり
-      base: 有る
-      position: 12
-    - word: ませ
-      base: ます
-      position: 14
-    - word: ん
-      base: ず
-      position: 16
-    - word: けれど
-      position: 17
-    - word: も
-      position: 20
 - id: Aa Shindo-f000042
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -1014,15 +326,6 @@
   sound_begin: 112560
   sound_end: 113720
   sentence: 私の祖父は、
-  words:
-    - word: 私
-      position: 0
-    - word: の
-      position: 1
-    - word: 祖父
-      position: 2
-    - word: は
-      position: 4
 - id: Aa Shindo-f000043
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -1031,15 +334,6 @@
   sound_begin: 113720
   sound_end: 116760
   sentence: 「口を利くから、
-  words:
-    - word: 口
-      position: 1
-    - word: を
-      position: 2
-    - word: 利く
-      position: 3
-    - word: から
-      position: 5
 - id: Aa Shindo-f000044
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -1048,17 +342,6 @@
   sound_begin: 116760
   sound_end: 117960
   sentence: 怖くって怖くって、
-  words:
-    - word: 怖く
-      base: 怖い
-      position: 0
-    - word: って
-      position: 2
-    - word: 怖く
-      base: 怖い
-      position: 4
-    - word: って
-      position: 6
 - id: Aa Shindo-f000045
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -1067,16 +350,6 @@
   sound_begin: 117960
   sound_end: 119200
   sentence: 仕方がなかった。
-  words:
-    - word: 仕方
-      position: 0
-    - word: が
-      position: 2
-    - word: なかっ
-      base: 無い
-      position: 3
-    - word: た
-      position: 6
 - id: Aa Shindo-f000046
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -1085,24 +358,6 @@
   sound_begin: 119200
   sound_end: 123450
   sentence: 」って言っておりましたよ。
-  words:
-    - word: って
-      position: 1
-    - word: 言っ
-      base: 言う
-      position: 3
-    - word: て
-      position: 5
-    - word: おり
-      base: おる
-      position: 6
-    - word: まし
-      base: ます
-      position: 8
-    - word: た
-      position: 10
-    - word: よ
-      position: 11
 - id: Aa Shindo-f000047
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -1111,36 +366,6 @@
   sound_begin: 123450
   sound_end: 127600
   sentence: 祖父は私共の知っておりました時分でも、
-  words:
-    - word: 祖父
-      position: 0
-    - word: は
-      position: 2
-    - word: 私
-      position: 3
-    - word: 共
-      position: 4
-    - word: の
-      position: 5
-    - word: 知っ
-      base: 知る
-      position: 6
-    - word: て
-      position: 8
-    - word: おり
-      base: おる
-      position: 9
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
-    - word: 時分
-      position: 14
-    - word: で
-      position: 16
-    - word: も
-      position: 17
 - id: Aa Shindo-f000048
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -1149,27 +374,6 @@
   sound_begin: 127600
   sound_end: 131680
   sentence: 猫は大嫌いなんで御座います。
-  words:
-    - word: 猫
-      position: 0
-    - word: は
-      position: 1
-    - word: 大嫌い
-      position: 2
-    - word: な
-      base: だ
-      position: 5
-    - word: ん
-      base: の
-      position: 6
-    - word: で
-      base: だ
-      position: 7
-    - word: 御座い
-      base: 御座る
-      position: 8
-    - word: ます
-      position: 11
 - id: Aa Shindo-f000049
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -1178,34 +382,6 @@
   sound_begin: 131680
   sound_end: 135040
   sentence: 私共が所好で飼っておりましても、
-  words:
-    - word: 私
-      position: 0
-    - word: 共
-      position: 1
-    - word: が
-      position: 2
-    - word: 所
-      position: 3
-    - word: 好
-      position: 4
-    - word: で
-      position: 5
-    - word: 飼っ
-      base: 飼う
-      position: 6
-    - word: て
-      position: 8
-    - word: おり
-      base: おる
-      position: 9
-    - word: まし
-      base: ます
-      position: 11
-    - word: て
-      position: 13
-    - word: も
-      position: 14
 - id: Aa Shindo-f000050
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -1214,35 +390,6 @@
   sound_begin: 135040
   sound_end: 141342
   sentence: 「猫は化けるからな」と言ってるんで御座います。
-  words:
-    - word: 猫
-      position: 1
-    - word: は
-      position: 2
-    - word: 化ける
-      position: 3
-    - word: から
-      position: 6
-    - word: な
-      position: 8
-    - word: と
-      position: 10
-    - word: 言っ
-      base: 言う
-      position: 11
-    - word: てる
-      position: 13
-    - word: ん
-      base: の
-      position: 15
-    - word: で
-      base: だ
-      position: 16
-    - word: 御座い
-      base: 御座る
-      position: 17
-    - word: ます
-      position: 20
 - id: Aa Shindo-f000051
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -1251,9 +398,6 @@
   sound_begin: 141342
   sound_end: 142416
   sentence: で、
-  words:
-    - word: で
-      position: 0
 - id: Aa Shindo-f000052
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -1262,11 +406,6 @@
   sound_begin: 142416
   sound_end: 143920
   sentence: 祖父は、
-  words:
-    - word: 祖父
-      position: 0
-    - word: は
-      position: 2
 - id: Aa Shindo-f000053
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -1275,23 +414,6 @@
   sound_begin: 143920
   sound_end: 146520
   sentence: 猫をあんまり可愛がっちゃ、
-  words:
-    - word: 猫
-      position: 0
-    - word: を
-      position: 1
-    - word: あんまり
-      base: 余り
-      position: 2
-    - word: 可愛
-      base: 可愛い
-      position: 6
-    - word: がっ
-      base: がる
-      position: 8
-    - word: ちゃ
-      base: て
-      position: 10
 - id: Aa Shindo-f000054
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -1300,34 +422,6 @@
   sound_begin: 146520
   sound_end: 151120
   sentence: 可けない可けないって言っておりましたけれど、
-  words:
-    - word: 可け
-      base: べし
-      position: 0
-    - word: ない
-      position: 2
-    - word: 可け
-      base: べし
-      position: 4
-    - word: ない
-      position: 6
-    - word: って
-      position: 8
-    - word: 言っ
-      base: 言う
-      position: 10
-    - word: て
-      position: 12
-    - word: おり
-      base: おる
-      position: 13
-    - word: まし
-      base: ます
-      position: 15
-    - word: た
-      position: 17
-    - word: けれど
-      position: 18
 - id: Aa Shindo-f000055
   author_japanese: 池田 焦園
   deck_name: Aa Shindo
@@ -1336,37 +430,3 @@
   sound_begin: 151120
   sound_end: 160040
   sentence: その後の猫は化けるまで居た事は御座いません。
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 後
-      position: 2
-    - word: の
-      position: 3
-    - word: 猫
-      position: 4
-    - word: は
-      position: 5
-    - word: 化ける
-      position: 6
-    - word: まで
-      position: 9
-    - word: 居
-      base: 居る
-      position: 11
-    - word: た
-      position: 12
-    - word: 事
-      position: 13
-    - word: は
-      position: 14
-    - word: 御座い
-      base: 御座る
-      position: 15
-    - word: ませ
-      base: ます
-      position: 18
-    - word: ん
-      base: ず
-      position: 20

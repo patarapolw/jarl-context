@@ -6,9 +6,6 @@
   sound_begin: 5709
   sound_end: 8999
   sentence: がちゃがちゃ
-  words:
-    - word: がちゃがちゃ
-      position: 0
 - id: Gacha Gacha-f000003
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -17,39 +14,6 @@
   sound_begin: 10460
   sound_end: 14240
   sentence: 草の中で虫が寄り合って相談を始めました。
-  words:
-    - word: 草
-      position: 0
-    - word: の
-      position: 1
-    - word: 中
-      position: 2
-    - word: で
-      position: 3
-    - word: 虫
-      position: 4
-    - word: が
-      position: 5
-    - word: 寄り
-      base: 寄る
-      position: 6
-    - word: 合っ
-      base: 合う
-      position: 8
-    - word: て
-      position: 10
-    - word: 相談
-      position: 11
-    - word: を
-      position: 13
-    - word: 始め
-      base: 始める
-      position: 14
-    - word: まし
-      base: ます
-      position: 16
-    - word: た
-      position: 18
 - id: Gacha Gacha-f000004
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -58,19 +22,6 @@
   sound_begin: 16440
   sound_end: 20000
   sentence: 蟋蟀が立ち上って、
-  words:
-    - word: 蟋蟀
-      position: 0
-    - word: が
-      position: 2
-    - word: 立ち
-      base: 立つ
-      position: 3
-    - word: 上っ
-      base: 上る
-      position: 5
-    - word: て
-      position: 7
 - id: Gacha Gacha-f000005
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -79,11 +30,6 @@
   sound_begin: 20000
   sound_end: 21360
   sentence: 「鈴虫さん、
-  words:
-    - word: 鈴虫
-      position: 1
-    - word: さん
-      position: 3
 - id: Gacha Gacha-f000006
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -92,12 +38,6 @@
   sound_begin: 21360
   sound_end: 22640
   sentence: オケラさん、
-  words:
-    - word: オケラ
-      base: 螻蛄
-      position: 0
-    - word: さん
-      position: 3
 - id: Gacha Gacha-f000007
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -106,11 +46,6 @@
   sound_begin: 22640
   sound_end: 24400
   sentence: スイッチョさん。
-  words:
-    - word: スイッチョ
-      position: 0
-    - word: さん
-      position: 5
 - id: Gacha Gacha-f000008
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -119,23 +54,6 @@
   sound_begin: 24400
   sound_end: 28000
   sentence: もっとこちらへお寄りなさい。
-  words:
-    - word: もっと
-      position: 0
-    - word: こちら
-      base: 此方
-      position: 3
-    - word: へ
-      position: 6
-    - word: お
-      base: 御
-      position: 7
-    - word: 寄り
-      base: 寄る
-      position: 8
-    - word: なさい
-      base: 為す
-      position: 10
 - id: Gacha Gacha-f000009
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -144,20 +62,6 @@
   sound_begin: 28000
   sound_end: 30120
   sentence: だんだん涼しくなりますから、
-  words:
-    - word: だんだん
-      base: 段々
-      position: 0
-    - word: 涼しく
-      base: 涼しい
-      position: 4
-    - word: なり
-      base: 成る
-      position: 7
-    - word: ます
-      position: 9
-    - word: から
-      position: 11
 - id: Gacha Gacha-f000010
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -166,54 +70,6 @@
   sound_begin: 30120
   sound_end: 34360
   sentence: みんなで合奏会をやってお月様にきかせようではありませんか。
-  words:
-    - word: みんな
-      base: 皆
-      position: 0
-    - word: で
-      position: 3
-    - word: 合奏
-      position: 4
-    - word: 会
-      position: 6
-    - word: を
-      position: 7
-    - word: やっ
-      base: 遣る
-      position: 8
-    - word: て
-      position: 10
-    - word: お
-      base: 御
-      position: 11
-    - word: 月
-      position: 12
-    - word: 様
-      position: 13
-    - word: に
-      position: 14
-    - word: きか
-      base: きく
-      position: 15
-    - word: せよう
-      base: せる
-      position: 17
-    - word: で
-      base: だ
-      position: 20
-    - word: は
-      position: 21
-    - word: あり
-      base: 有る
-      position: 22
-    - word: ませ
-      base: ます
-      position: 24
-    - word: ん
-      base: ず
-      position: 26
-    - word: か
-      position: 27
 - id: Gacha Gacha-f000011
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -222,23 +78,6 @@
   sound_begin: 34360
   sound_end: 37240
   sentence: きっと御ほうびを下さいますよ」
-  words:
-    - word: きっと
-      position: 0
-    - word: 御
-      position: 3
-    - word: ほうび
-      base: 褒美
-      position: 4
-    - word: を
-      position: 7
-    - word: 下さい
-      base: 下さる
-      position: 8
-    - word: ます
-      position: 11
-    - word: よ
-      position: 13
 - id: Gacha Gacha-f000012
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -247,16 +86,6 @@
   sound_begin: 37240
   sound_end: 40080
   sentence: と言いますと、
-  words:
-    - word: と
-      position: 0
-    - word: 言い
-      base: 言う
-      position: 1
-    - word: ます
-      position: 3
-    - word: と
-      position: 5
 - id: Gacha Gacha-f000013
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -265,26 +94,6 @@
   sound_begin: 40080
   sound_end: 42420
   sentence: 皆パチパチと手をたたきました。
-  words:
-    - word: 皆
-      position: 0
-    - word: パチパチ
-      base: ぱちぱち
-      position: 1
-    - word: と
-      position: 5
-    - word: 手
-      position: 6
-    - word: を
-      position: 7
-    - word: たたき
-      base: 叩く
-      position: 8
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
 - id: Gacha Gacha-f000014
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -293,36 +102,6 @@
   sound_begin: 44520
   sound_end: 49190
   sentence: 虫たちはそれからすぐに合奏を始めました。
-  words:
-    - word: 虫
-      position: 0
-    - word: たち
-      base: 達
-      position: 1
-    - word: は
-      position: 3
-    - word: それ
-      base: 其れ
-      position: 4
-    - word: から
-      position: 6
-    - word: すぐ
-      base: 直ぐ
-      position: 8
-    - word: に
-      position: 10
-    - word: 合奏
-      position: 11
-    - word: を
-      position: 13
-    - word: 始め
-      base: 始める
-      position: 14
-    - word: まし
-      base: ます
-      position: 16
-    - word: た
-      position: 18
 - id: Gacha Gacha-f000015
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -331,35 +110,6 @@
   sound_begin: 49190
   sound_end: 55960
   sentence: まずスイッチョが草の天辺へ立ち上って真面目腐って、
-  words:
-    - word: まず
-      base: 先ず
-      position: 0
-    - word: スイッチョ
-      position: 2
-    - word: が
-      position: 7
-    - word: 草
-      position: 8
-    - word: の
-      position: 9
-    - word: 天辺
-      position: 10
-    - word: へ
-      position: 12
-    - word: 立ち
-      base: 立つ
-      position: 13
-    - word: 上っ
-      base: 上る
-      position: 15
-    - word: て
-      position: 17
-    - word: 真面目腐っ
-      base: 真面目くさる
-      position: 18
-    - word: て
-      position: 23
 - id: Gacha Gacha-f000016
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -368,9 +118,6 @@
   sound_begin: 55960
   sound_end: 56480
   sentence: 「スイッチョ、
-  words:
-    - word: スイッチョ
-      position: 1
 - id: Gacha Gacha-f000017
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -379,9 +126,6 @@
   sound_begin: 56480
   sound_end: 57800
   sentence: スイッチョ」
-  words:
-    - word: スイッチョ
-      position: 0
 - id: Gacha Gacha-f000018
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -390,20 +134,6 @@
   sound_begin: 57800
   sound_end: 61120
   sentence: と合図をしますと、
-  words:
-    - word: と
-      position: 0
-    - word: 合図
-      position: 1
-    - word: を
-      position: 3
-    - word: し
-      base: 為る
-      position: 4
-    - word: ます
-      position: 5
-    - word: と
-      position: 7
 - id: Gacha Gacha-f000019
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -412,39 +142,6 @@
   sound_begin: 61120
   sound_end: 66240
   sentence: オケラが土くれの蔭に坐ってしずかなこえで
-  words:
-    - word: オケラ
-      base: 螻蛄
-      position: 0
-    - word: が
-      position: 3
-    - word: 土くれ
-      base: 土塊
-      position: 4
-    - word: の
-      position: 7
-    - word: 蔭
-      base: 陰
-      position: 8
-    - word: に
-      position: 9
-    - word: 坐っ
-      base: 座る
-      position: 10
-    - word: て
-      position: 12
-    - word: しずか
-      base: 静か
-      position: 13
-    - word: な
-      base: だ
-      position: 16
-    - word: こえ
-      base: 声
-      position: 17
-    - word: で
-      base: だ
-      position: 19
 - id: Gacha Gacha-f000020
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -453,19 +150,6 @@
   sound_begin: 66240
   sound_end: 68600
   sentence: 「リ──リリ──」
-  words:
-    - word: リ
-      position: 1
-    - word: ─
-      position: 2
-    - word: ─
-      position: 3
-    - word: リリ
-      position: 4
-    - word: ─
-      position: 6
-    - word: ─
-      position: 7
 - id: Gacha Gacha-f000021
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -474,18 +158,6 @@
   sound_begin: 68600
   sound_end: 73560
   sentence: と羽根を鳴らします。
-  words:
-    - word: と
-      position: 0
-    - word: 羽根
-      position: 1
-    - word: を
-      position: 3
-    - word: 鳴らし
-      base: 鳴る
-      position: 4
-    - word: ます
-      position: 7
 - id: Gacha Gacha-f000022
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -494,36 +166,6 @@
   sound_begin: 73560
   sound_end: 78200
   sentence: それにつづいて蟋蟀が草の根本から涼しい声で、
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: に
-      position: 2
-    - word: つづい
-      base: 続く
-      position: 3
-    - word: て
-      position: 6
-    - word: 蟋蟀
-      position: 7
-    - word: が
-      position: 9
-    - word: 草
-      position: 10
-    - word: の
-      position: 11
-    - word: 根本
-      position: 12
-    - word: から
-      position: 14
-    - word: 涼しい
-      position: 16
-    - word: 声
-      position: 19
-    - word: で
-      base: だ
-      position: 20
 - id: Gacha Gacha-f000023
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -532,10 +174,6 @@
   sound_begin: 78200
   sound_end: 80400
   sentence: 「チンチロリン、
-  words:
-    - word: チンチロリン
-      base: ちんちろりん
-      position: 1
 - id: Gacha Gacha-f000024
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -544,10 +182,6 @@
   sound_begin: 80400
   sound_end: 82240
   sentence: チンチロリン」
-  words:
-    - word: チンチロリン
-      base: ちんちろりん
-      position: 0
 - id: Gacha Gacha-f000025
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -556,17 +190,6 @@
   sound_begin: 82240
   sound_end: 84120
   sentence: とうたい出します。
-  words:
-    - word: と
-      position: 0
-    - word: うたい
-      base: 歌う
-      position: 1
-    - word: 出し
-      base: 出す
-      position: 4
-    - word: ます
-      position: 6
 - id: Gacha Gacha-f000026
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -575,38 +198,6 @@
   sound_begin: 86420
   sound_end: 93560
   sentence: その中へ鈴虫が又やさしい長いひげをふりまわしながら、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 中
-      position: 2
-    - word: へ
-      position: 3
-    - word: 鈴虫
-      position: 4
-    - word: が
-      position: 6
-    - word: 又
-      position: 7
-    - word: やさしい
-      base: 優しい
-      position: 8
-    - word: 長い
-      position: 12
-    - word: ひげ
-      base: 髭
-      position: 14
-    - word: を
-      position: 16
-    - word: ふり
-      base: ふる
-      position: 17
-    - word: まわし
-      base: 回す
-      position: 19
-    - word: ながら
-      position: 22
 - id: Gacha Gacha-f000027
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -615,10 +206,6 @@
   sound_begin: 93560
   sound_end: 95440
   sentence: 「リーン、
-  words:
-    - word: リーン
-      base: りーん
-      position: 1
 - id: Gacha Gacha-f000028
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -627,10 +214,6 @@
   sound_begin: 95440
   sound_end: 97680
   sentence: リーン、
-  words:
-    - word: リーン
-      base: りーん
-      position: 0
 - id: Gacha Gacha-f000029
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -639,9 +222,6 @@
   sound_begin: 97680
   sound_end: 98400
   sentence: リーン」
-  words:
-    - word: リーン
-      position: 0
 - id: Gacha Gacha-f000030
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -650,25 +230,6 @@
   sound_begin: 98400
   sound_end: 102840
   sentence: と鈴の音をさせます。
-  words:
-    - word: と
-      position: 0
-    - word: 鈴
-      position: 1
-    - word: の
-      position: 2
-    - word: 音
-      position: 3
-    - word: を
-      position: 4
-    - word: さ
-      base: 為る
-      position: 5
-    - word: せ
-      base: せる
-      position: 6
-    - word: ます
-      position: 7
 - id: Gacha Gacha-f000031
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -677,66 +238,6 @@
   sound_begin: 102840
   sound_end: 113480
   sentence: その静かでおもしろいこと……ちょうどそのとき東の山からお昇りになった十五夜のお月様は、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 静か
-      position: 2
-    - word: で
-      base: だ
-      position: 4
-    - word: おもしろい
-      base: 面白い
-      position: 5
-    - word: こと
-      position: 10
-    - word: ちょうど
-      base: 丁度
-      position: 14
-    - word: その
-      base: 其の
-      position: 18
-    - word: とき
-      base: 時
-      position: 20
-    - word: 東
-      position: 22
-    - word: の
-      position: 23
-    - word: 山
-      position: 24
-    - word: から
-      position: 25
-    - word: お
-      base: 御
-      position: 27
-    - word: 昇り
-      base: 上る
-      position: 28
-    - word: に
-      position: 30
-    - word: なっ
-      base: 成る
-      position: 31
-    - word: た
-      position: 33
-    - word: 十五
-      base: '15'
-      position: 34
-    - word: 夜
-      position: 36
-    - word: の
-      position: 37
-    - word: お
-      base: 御
-      position: 38
-    - word: 月
-      position: 39
-    - word: 様
-      position: 40
-    - word: は
-      position: 41
 - id: Gacha Gacha-f000032
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -745,73 +246,6 @@
   sound_begin: 113480
   sound_end: 120800
   sentence: 感心のあまり虫たちが大好きな露をたくさんにそこいらの草の上に撒いておやりになりました。
-  words:
-    - word: 感心
-      position: 0
-    - word: の
-      position: 2
-    - word: あまり
-      base: 余り
-      position: 3
-    - word: 虫
-      position: 6
-    - word: たち
-      base: 達
-      position: 7
-    - word: が
-      position: 9
-    - word: 大好き
-      position: 10
-    - word: な
-      base: だ
-      position: 13
-    - word: 露
-      position: 14
-    - word: を
-      position: 15
-    - word: たくさん
-      base: 沢山
-      position: 16
-    - word: に
-      base: だ
-      position: 20
-    - word: そこ
-      base: 其処
-      position: 21
-    - word: いら
-      base: 等
-      position: 23
-    - word: の
-      position: 25
-    - word: 草
-      position: 26
-    - word: の
-      position: 27
-    - word: 上
-      position: 28
-    - word: に
-      position: 29
-    - word: 撒い
-      base: 撒く
-      position: 30
-    - word: て
-      position: 32
-    - word: お
-      base: 御
-      position: 33
-    - word: やり
-      base: 遣る
-      position: 34
-    - word: に
-      position: 36
-    - word: なり
-      base: 成る
-      position: 37
-    - word: まし
-      base: ます
-      position: 39
-    - word: た
-      position: 41
 - id: Gacha Gacha-f000033
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -820,39 +254,6 @@
   sound_begin: 123700
   sound_end: 129600
   sentence: ところへ一匹の轡虫が飛び込んで来ました。
-  words:
-    - word: ところ
-      base: 所
-      position: 0
-    - word: へ
-      position: 3
-    - word: 一
-      base: '1'
-      position: 4
-    - word: 匹
-      position: 5
-    - word: の
-      position: 6
-    - word: 轡虫
-      position: 7
-    - word: が
-      position: 9
-    - word: 飛び
-      base: 飛ぶ
-      position: 10
-    - word: 込ん
-      base: 込む
-      position: 12
-    - word: で
-      position: 14
-    - word: 来
-      base: 来る
-      position: 15
-    - word: まし
-      base: ます
-      position: 16
-    - word: た
-      position: 18
 - id: Gacha Gacha-f000034
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -861,18 +262,6 @@
   sound_begin: 129600
   sound_end: 131280
   sentence: 「何だ貴様たちは！
-  words:
-    - word: 何
-      position: 1
-    - word: だ
-      position: 2
-    - word: 貴様
-      position: 3
-    - word: たち
-      base: 達
-      position: 5
-    - word: は
-      position: 7
 - id: Gacha Gacha-f000035
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -881,45 +270,6 @@
   sound_begin: 131280
   sound_end: 136294
   sentence: おれを仲間外れにして音楽会をやるなんて失敬なやつだ。
-  words:
-    - word: おれ
-      base: 俺
-      position: 0
-    - word: を
-      position: 2
-    - word: 仲間
-      position: 3
-    - word: 外れ
-      position: 5
-    - word: に
-      base: だ
-      position: 7
-    - word: し
-      base: 為る
-      position: 8
-    - word: て
-      position: 9
-    - word: 音楽
-      position: 10
-    - word: 会
-      position: 12
-    - word: を
-      position: 13
-    - word: やる
-      base: 遣る
-      position: 14
-    - word: なんて
-      position: 16
-    - word: 失敬
-      position: 19
-    - word: な
-      base: だ
-      position: 21
-    - word: やつ
-      base: 奴
-      position: 22
-    - word: だ
-      position: 24
 - id: Gacha Gacha-f000036
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -928,38 +278,6 @@
   sound_begin: 136294
   sound_end: 140713
   sentence: そんなことをするならおれがまぜ返してやる……ガチャ、
-  words:
-    - word: そんな
-      position: 0
-    - word: こと
-      position: 3
-    - word: を
-      position: 5
-    - word: する
-      base: 為る
-      position: 6
-    - word: なら
-      base: だ
-      position: 8
-    - word: おれ
-      base: 俺
-      position: 10
-    - word: が
-      position: 12
-    - word: まぜ
-      base: 混ぜる
-      position: 13
-    - word: 返し
-      base: 返す
-      position: 15
-    - word: て
-      position: 17
-    - word: やる
-      base: 遣る
-      position: 18
-    - word: ガチャ
-      base: がちゃ
-      position: 22
 - id: Gacha Gacha-f000037
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -968,10 +286,6 @@
   sound_begin: 140713
   sound_end: 141576
   sentence: ガチャ、
-  words:
-    - word: ガチャ
-      base: がちゃ
-      position: 0
 - id: Gacha Gacha-f000038
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -980,10 +294,6 @@
   sound_begin: 141576
   sound_end: 142020
   sentence: ガチャ、
-  words:
-    - word: ガチャ
-      base: がちゃ
-      position: 0
 - id: Gacha Gacha-f000039
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -992,10 +302,6 @@
   sound_begin: 142020
   sound_end: 143363
   sentence: ガチャ」
-  words:
-    - word: ガチャ
-      base: がちゃ
-      position: 0
 - id: Gacha Gacha-f000040
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -1004,31 +310,6 @@
   sound_begin: 143363
   sound_end: 147600
   sentence: と大きな声で騒ぎ始めましたので、
-  words:
-    - word: と
-      position: 0
-    - word: 大きな
-      position: 1
-    - word: 声
-      position: 4
-    - word: で
-      position: 5
-    - word: 騒ぎ
-      base: 騒ぐ
-      position: 6
-    - word: 始め
-      base: 始める
-      position: 8
-    - word: まし
-      base: ます
-      position: 10
-    - word: た
-      position: 12
-    - word: の
-      position: 13
-    - word: で
-      base: だ
-      position: 14
 - id: Gacha Gacha-f000041
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -1037,47 +318,6 @@
   sound_begin: 147600
   sound_end: 154920
   sentence: せっかく始めた静かな美しい音楽会がメチャメチャになってしまいました。
-  words:
-    - word: せっかく
-      base: 折角
-      position: 0
-    - word: 始め
-      base: 始める
-      position: 4
-    - word: た
-      position: 6
-    - word: 静か
-      position: 7
-    - word: な
-      base: だ
-      position: 9
-    - word: 美しい
-      position: 10
-    - word: 音楽
-      position: 13
-    - word: 会
-      position: 15
-    - word: が
-      position: 16
-    - word: メチャメチャ
-      base: 目茶目茶
-      position: 17
-    - word: に
-      base: だ
-      position: 23
-    - word: なっ
-      base: 成る
-      position: 24
-    - word: て
-      position: 26
-    - word: しまい
-      base: 仕舞う
-      position: 27
-    - word: まし
-      base: ます
-      position: 30
-    - word: た
-      position: 32
 - id: Gacha Gacha-f000042
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -1086,19 +326,6 @@
   sound_begin: 154920
   sound_end: 156960
   sentence: その勢いに驚いて、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 勢い
-      position: 2
-    - word: に
-      position: 4
-    - word: 驚い
-      base: 驚く
-      position: 5
-    - word: て
-      position: 7
 - id: Gacha Gacha-f000043
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -1107,40 +334,6 @@
   sound_begin: 156960
   sound_end: 163040
   sentence: あつまっていた虫たちもみんな逃げてしまいました。
-  words:
-    - word: あつまっ
-      base: 集まる
-      position: 0
-    - word: て
-      position: 4
-    - word: い
-      base: 居る
-      position: 5
-    - word: た
-      position: 6
-    - word: 虫
-      position: 7
-    - word: たち
-      base: 達
-      position: 8
-    - word: も
-      position: 10
-    - word: みんな
-      base: 皆
-      position: 11
-    - word: 逃げ
-      base: 逃げる
-      position: 14
-    - word: て
-      position: 16
-    - word: しまい
-      base: 仕舞う
-      position: 17
-    - word: まし
-      base: ます
-      position: 20
-    - word: た
-      position: 22
 - id: Gacha Gacha-f000044
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -1149,36 +342,6 @@
   sound_begin: 163040
   sound_end: 168680
   sentence: 轡虫は大威張りでそこいらの露をヤタラに吸いながら、
-  words:
-    - word: 轡虫
-      position: 0
-    - word: は
-      position: 2
-    - word: 大威張り
-      position: 3
-    - word: で
-      position: 7
-    - word: そこ
-      base: 其処
-      position: 8
-    - word: いら
-      base: 等
-      position: 10
-    - word: の
-      position: 12
-    - word: 露
-      position: 13
-    - word: を
-      position: 14
-    - word: ヤタラ
-      position: 15
-    - word: に
-      position: 18
-    - word: 吸い
-      base: 吸う
-      position: 19
-    - word: ながら
-      position: 21
 - id: Gacha Gacha-f000045
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -1187,13 +350,6 @@
   sound_begin: 168680
   sound_end: 169800
   sentence: 「それ見ろ。
-  words:
-    - word: それ
-      base: 其れ
-      position: 1
-    - word: 見ろ
-      base: 見る
-      position: 3
 - id: Gacha Gacha-f000046
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -1202,35 +358,6 @@
   sound_begin: 169800
   sound_end: 173960
   sentence: おれの音楽にかなうやつは一匹もいまい。
-  words:
-    - word: おれ
-      base: 俺
-      position: 0
-    - word: の
-      position: 2
-    - word: 音楽
-      position: 3
-    - word: に
-      position: 5
-    - word: かなう
-      position: 6
-    - word: やつ
-      base: 奴
-      position: 9
-    - word: は
-      position: 11
-    - word: 一
-      base: '1'
-      position: 12
-    - word: 匹
-      position: 13
-    - word: も
-      position: 14
-    - word: い
-      base: 居る
-      position: 15
-    - word: まい
-      position: 16
 - id: Gacha Gacha-f000047
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -1239,40 +366,6 @@
   sound_begin: 173960
   sound_end: 178480
   sentence: おれは夜鳴く虫の中で一番の大きな声なんだ。
-  words:
-    - word: おれ
-      base: 俺
-      position: 0
-    - word: は
-      position: 2
-    - word: 夜
-      position: 3
-    - word: 鳴く
-      position: 4
-    - word: 虫
-      position: 6
-    - word: の
-      position: 7
-    - word: 中
-      position: 8
-    - word: で
-      position: 9
-    - word: 一番
-      position: 10
-    - word: の
-      position: 12
-    - word: 大きな
-      position: 13
-    - word: 声
-      position: 16
-    - word: な
-      base: だ
-      position: 17
-    - word: ん
-      base: の
-      position: 18
-    - word: だ
-      position: 19
 - id: Gacha Gacha-f000048
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -1281,22 +374,6 @@
   sound_begin: 178480
   sound_end: 181207
   sentence: みんな感心したか……ガチャ、
-  words:
-    - word: みんな
-      base: 皆
-      position: 0
-    - word: 感心
-      position: 3
-    - word: し
-      base: 為る
-      position: 5
-    - word: た
-      position: 6
-    - word: か
-      position: 7
-    - word: ガチャ
-      base: がちゃ
-      position: 10
 - id: Gacha Gacha-f000049
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -1305,10 +382,6 @@
   sound_begin: 181207
   sound_end: 182042
   sentence: ガチャ、
-  words:
-    - word: ガチャ
-      base: がちゃ
-      position: 0
 - id: Gacha Gacha-f000050
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -1317,10 +390,6 @@
   sound_begin: 182042
   sound_end: 182442
   sentence: ガチャ、
-  words:
-    - word: ガチャ
-      base: がちゃ
-      position: 0
 - id: Gacha Gacha-f000051
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -1329,10 +398,6 @@
   sound_begin: 182442
   sound_end: 182723
   sentence: ガチャ、
-  words:
-    - word: ガチャ
-      base: がちゃ
-      position: 0
 - id: Gacha Gacha-f000052
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -1341,10 +406,6 @@
   sound_begin: 182723
   sound_end: 184274
   sentence: ガチャ」
-  words:
-    - word: ガチャ
-      base: がちゃ
-      position: 0
 - id: Gacha Gacha-f000053
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -1353,34 +414,6 @@
   sound_begin: 184274
   sound_end: 190080
   sentence: とたった一人一所懸命にやっているうちに、
-  words:
-    - word: と
-      position: 0
-    - word: たった
-      base: 唯
-      position: 1
-    - word: 一人
-      position: 4
-    - word: 一所
-      position: 6
-    - word: 懸命
-      position: 8
-    - word: に
-      base: だ
-      position: 10
-    - word: やっ
-      base: 遣る
-      position: 11
-    - word: て
-      position: 13
-    - word: いる
-      base: 居る
-      position: 14
-    - word: うち
-      base: 内
-      position: 16
-    - word: に
-      position: 18
 - id: Gacha Gacha-f000054
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -1389,15 +422,6 @@
   sound_begin: 190080
   sound_end: 191360
   sentence: 「お兄さま。
-  words:
-    - word: お
-      base: 御
-      position: 1
-    - word: 兄
-      position: 2
-    - word: さま
-      base: 様
-      position: 3
 - id: Gacha Gacha-f000055
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -1406,24 +430,6 @@
   sound_begin: 191360
   sound_end: 194240
   sentence: あそこにガチャガチャがいますよ。
-  words:
-    - word: あそこ
-      base: 彼処
-      position: 0
-    - word: に
-      position: 3
-    - word: ガチャガチャ
-      base: がちゃがちゃ
-      position: 4
-    - word: が
-      position: 10
-    - word: い
-      base: 居る
-      position: 11
-    - word: ます
-      position: 12
-    - word: よ
-      position: 14
 - id: Gacha Gacha-f000056
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -1432,39 +438,6 @@
   sound_begin: 194240
   sound_end: 199319
   sentence: 大きな声をしているから遠くからでもわかりますよ」
-  words:
-    - word: 大きな
-      position: 0
-    - word: 声
-      position: 3
-    - word: を
-      position: 4
-    - word: し
-      base: 為る
-      position: 5
-    - word: て
-      position: 6
-    - word: いる
-      base: 居る
-      position: 7
-    - word: から
-      position: 9
-    - word: 遠く
-      position: 11
-    - word: から
-      position: 13
-    - word: で
-      base: だ
-      position: 15
-    - word: も
-      position: 16
-    - word: わかり
-      base: 分かる
-      position: 17
-    - word: ます
-      position: 20
-    - word: よ
-      position: 22
 - id: Gacha Gacha-f000057
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -1473,39 +446,6 @@
   sound_begin: 199319
   sound_end: 203409
   sentence: と言う人間の声がすぐそばできこえましたので、
-  words:
-    - word: と
-      position: 0
-    - word: 言う
-      position: 1
-    - word: 人間
-      position: 3
-    - word: の
-      position: 5
-    - word: 声
-      position: 6
-    - word: が
-      position: 7
-    - word: すぐ
-      base: 直ぐ
-      position: 8
-    - word: そば
-      position: 10
-    - word: で
-      position: 12
-    - word: きこえ
-      base: 聞こえる
-      position: 13
-    - word: まし
-      base: ます
-      position: 16
-    - word: た
-      position: 18
-    - word: の
-      position: 19
-    - word: で
-      base: だ
-      position: 20
 - id: Gacha Gacha-f000058
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -1514,16 +454,6 @@
   sound_begin: 203409
   sound_end: 205240
   sentence: これは大変と、
-  words:
-    - word: これ
-      base: 此れ
-      position: 0
-    - word: は
-      position: 2
-    - word: 大変
-      position: 3
-    - word: と
-      position: 5
 - id: Gacha Gacha-f000059
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -1532,31 +462,6 @@
   sound_begin: 205240
   sound_end: 209320
   sentence: 急いでガチャガチャ言うのをやめていると、
-  words:
-    - word: 急い
-      base: 急ぐ
-      position: 0
-    - word: で
-      position: 2
-    - word: ガチャガチャ
-      base: がちゃがちゃ
-      position: 3
-    - word: 言う
-      position: 9
-    - word: の
-      position: 11
-    - word: を
-      position: 12
-    - word: やめ
-      base: やめる
-      position: 13
-    - word: て
-      position: 15
-    - word: いる
-      base: 居る
-      position: 16
-    - word: と
-      position: 18
 - id: Gacha Gacha-f000060
   author_japanese: 夢野 久作
   deck_name: Gacha Gacha
@@ -1565,57 +470,3 @@
   sound_begin: 209320
   sound_end: 217580
   sentence: 間もなく頭からポカリと袋をかむせられて籠の中へ入れられてしまいました。
-  words:
-    - word: 間
-      position: 0
-    - word: も
-      position: 1
-    - word: なく
-      base: 無い
-      position: 2
-    - word: 頭
-      position: 4
-    - word: から
-      position: 5
-    - word: ポカリ
-      position: 7
-    - word: と
-      position: 10
-    - word: 袋
-      position: 11
-    - word: を
-      position: 12
-    - word: かむ
-      position: 13
-    - word: せ
-      base: せる
-      position: 15
-    - word: られ
-      base: られる
-      position: 16
-    - word: て
-      position: 18
-    - word: 籠
-      position: 19
-    - word: の
-      position: 20
-    - word: 中
-      position: 21
-    - word: へ
-      position: 22
-    - word: 入れ
-      base: 入れる
-      position: 23
-    - word: られ
-      base: られる
-      position: 25
-    - word: て
-      position: 27
-    - word: しまい
-      base: 仕舞う
-      position: 28
-    - word: まし
-      base: ます
-      position: 31
-    - word: た
-      position: 33

@@ -6,14 +6,6 @@
   sound_begin: 5460
   sound_end: 8830
   sentence: 梅のにおい
-  words:
-    - word: 梅
-      position: 0
-    - word: の
-      position: 1
-    - word: におい
-      base: 匂い
-      position: 2
 - id: Umeno Nioi-f000003
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -22,61 +14,6 @@
   sound_begin: 8830
   sound_end: 17227
   sentence: 一匹の斑猫が人間の真似をして梅の木にのぼって花を嗅いでみました。
-  words:
-    - word: 一
-      base: '1'
-      position: 0
-    - word: 匹
-      position: 1
-    - word: の
-      position: 2
-    - word: 斑猫
-      position: 3
-    - word: が
-      position: 5
-    - word: 人間
-      position: 6
-    - word: の
-      position: 8
-    - word: 真似
-      position: 9
-    - word: を
-      position: 11
-    - word: し
-      base: 為る
-      position: 12
-    - word: て
-      position: 13
-    - word: 梅
-      position: 14
-    - word: の
-      position: 15
-    - word: 木
-      position: 16
-    - word: に
-      position: 17
-    - word: のぼっ
-      base: 上る
-      position: 18
-    - word: て
-      position: 21
-    - word: 花
-      position: 22
-    - word: を
-      position: 23
-    - word: 嗅い
-      base: 嗅ぐ
-      position: 24
-    - word: で
-      position: 26
-    - word: み
-      base: 見る
-      position: 27
-    - word: まし
-      base: ます
-      position: 28
-    - word: た
-      position: 30
 - id: Umeno Nioi-f000004
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -85,19 +22,6 @@
   sound_begin: 17227
   sound_end: 19928
   sentence: あの枝からこの枝、
-  words:
-    - word: あの
-      base: 彼の
-      position: 0
-    - word: 枝
-      position: 2
-    - word: から
-      position: 3
-    - word: この
-      base: 此の
-      position: 5
-    - word: 枝
-      position: 7
 - id: Umeno Nioi-f000005
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -106,44 +30,6 @@
   sound_begin: 19928
   sound_end: 25309
   sentence: 花から蕾といくつもいくつも嗅いでみましたが、
-  words:
-    - word: 花
-      position: 0
-    - word: から
-      position: 1
-    - word: 蕾
-      position: 3
-    - word: と
-      position: 4
-    - word: いく
-      base: 幾
-      position: 5
-    - word: つ
-      position: 7
-    - word: も
-      position: 8
-    - word: いく
-      base: 幾
-      position: 9
-    - word: つ
-      position: 11
-    - word: も
-      position: 12
-    - word: 嗅い
-      base: 嗅ぐ
-      position: 13
-    - word: で
-      position: 15
-    - word: み
-      base: 見る
-      position: 16
-    - word: まし
-      base: ます
-      position: 17
-    - word: た
-      position: 19
-    - word: が
-      position: 20
 - id: Umeno Nioi-f000006
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -152,9 +38,6 @@
   sound_begin: 25309
   sound_end: 27447
   sentence: 「ナアーンダ、
-  words:
-    - word: ナアーンダ
-      position: 1
 - id: Umeno Nioi-f000007
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -163,19 +46,6 @@
   sound_begin: 27447
   sound_end: 28531
   sentence: 人間がいいにおいだ、
-  words:
-    - word: 人間
-      position: 0
-    - word: が
-      position: 2
-    - word: いい
-      base: 良い
-      position: 3
-    - word: におい
-      base: 匂い
-      position: 5
-    - word: だ
-      position: 8
 - id: Umeno Nioi-f000008
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -184,41 +54,6 @@
   sound_begin: 28531
   sound_end: 32789
   sentence: いいにおいだと言うから本当にして嗅いでみたら、
-  words:
-    - word: いい
-      base: 良い
-      position: 0
-    - word: におい
-      base: 匂い
-      position: 2
-    - word: だ
-      position: 5
-    - word: と
-      position: 6
-    - word: 言う
-      position: 7
-    - word: から
-      position: 9
-    - word: 本当
-      position: 11
-    - word: に
-      position: 13
-    - word: し
-      base: 為る
-      position: 14
-    - word: て
-      position: 15
-    - word: 嗅い
-      base: 嗅ぐ
-      position: 16
-    - word: で
-      position: 18
-    - word: み
-      base: 見る
-      position: 19
-    - word: たら
-      base: た
-      position: 20
 - id: Umeno Nioi-f000009
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -227,23 +62,6 @@
   sound_begin: 32789
   sound_end: 34809
   sentence: つまらないにおいじゃないか。
-  words:
-    - word: つまら
-      base: 詰まる
-      position: 0
-    - word: ない
-      position: 3
-    - word: におい
-      base: 匂い
-      position: 5
-    - word: じゃ
-      base: だ
-      position: 8
-    - word: ない
-      base: 無い
-      position: 10
-    - word: か
-      position: 12
 - id: Umeno Nioi-f000010
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -252,9 +70,6 @@
   sound_begin: 34809
   sound_end: 36741
   sentence: 馬鹿馬鹿しい、
-  words:
-    - word: 馬鹿馬鹿しい
-      position: 0
 - id: Umeno Nioi-f000011
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -263,13 +78,6 @@
   sound_begin: 36741
   sound_end: 39017
   sentence: 帰ろう帰ろう」
-  words:
-    - word: 帰ろう
-      base: 帰る
-      position: 0
-    - word: 帰ろう
-      base: 帰る
-      position: 3
 - id: Umeno Nioi-f000012
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -278,24 +86,6 @@
   sound_begin: 39017
   sound_end: 43807
   sentence: と樹から降りかかりました。
-  words:
-    - word: と
-      position: 0
-    - word: 樹
-      position: 1
-    - word: から
-      position: 2
-    - word: 降り
-      base: 降る
-      position: 4
-    - word: かかり
-      base: 掛かる
-      position: 6
-    - word: まし
-      base: ます
-      position: 9
-    - word: た
-      position: 11
 - id: Umeno Nioi-f000013
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -304,10 +94,6 @@
   sound_begin: 43807
   sound_end: 48440
   sentence: 「ホーホケキョ、
-  words:
-    - word: ホーホケキョ
-      base: ほうほけきょ
-      position: 1
 - id: Umeno Nioi-f000014
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -316,10 +102,6 @@
   sound_begin: 48440
   sound_end: 52960
   sentence: ホーホケキョ」
-  words:
-    - word: ホーホケキョ
-      base: ほうほけきょ
-      position: 0
 - id: Umeno Nioi-f000015
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -328,10 +110,6 @@
   sound_begin: 52960
   sound_end: 54840
   sentence: 「オヤ、
-  words:
-    - word: オヤ
-      base: おや
-      position: 1
 - id: Umeno Nioi-f000016
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -340,23 +118,6 @@
   sound_begin: 54840
   sound_end: 57920
   sentence: 鶯がやって来たな。
-  words:
-    - word: 鶯
-      position: 0
-    - word: が
-      position: 1
-    - word: やっ
-      base: 遣る
-      position: 2
-    - word: て
-      position: 4
-    - word: 来
-      base: 来る
-      position: 5
-    - word: た
-      position: 6
-    - word: な
-      position: 7
 - id: Umeno Nioi-f000017
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -365,43 +126,6 @@
   sound_begin: 57920
   sound_end: 61920
   sentence: おれは一度あいつをたべてみたいと思っていたが、
-  words:
-    - word: おれ
-      base: 俺
-      position: 0
-    - word: は
-      position: 2
-    - word: 一度
-      position: 3
-    - word: あいつ
-      base: 彼奴
-      position: 5
-    - word: を
-      position: 8
-    - word: たべ
-      base: 食べる
-      position: 9
-    - word: て
-      position: 11
-    - word: み
-      base: 見る
-      position: 12
-    - word: たい
-      position: 13
-    - word: と
-      position: 15
-    - word: 思っ
-      base: 思う
-      position: 16
-    - word: て
-      position: 18
-    - word: い
-      base: 居る
-      position: 19
-    - word: た
-      position: 20
-    - word: が
-      position: 21
 - id: Umeno Nioi-f000018
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -410,13 +134,6 @@
   sound_begin: 61920
   sound_end: 63449
   sentence: ちょうどいい。
-  words:
-    - word: ちょうど
-      base: 丁度
-      position: 0
-    - word: いい
-      base: 良い
-      position: 4
 - id: Umeno Nioi-f000019
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -425,30 +142,6 @@
   sound_begin: 63449
   sound_end: 67273
   sentence: ここに隠れてまっていてやろう」
-  words:
-    - word: ここ
-      base: 此処
-      position: 0
-    - word: に
-      position: 2
-    - word: 隠れ
-      base: 隠れる
-      position: 3
-    - word: て
-      position: 5
-    - word: まっ
-      base: 待つ
-      position: 6
-    - word: て
-      position: 8
-    - word: い
-      base: 居る
-      position: 9
-    - word: て
-      position: 10
-    - word: やろう
-      base: 遣る
-      position: 11
 - id: Umeno Nioi-f000020
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -457,10 +150,6 @@
   sound_begin: 67273
   sound_end: 71649
   sentence: 「ホーホケキョ、
-  words:
-    - word: ホーホケキョ
-      base: ほうほけきょ
-      position: 1
 - id: Umeno Nioi-f000021
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -469,10 +158,6 @@
   sound_begin: 71649
   sound_end: 74881
   sentence: ホーホケキョ、
-  words:
-    - word: ホーホケキョ
-      base: ほうほけきょ
-      position: 0
 - id: Umeno Nioi-f000022
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -481,9 +166,6 @@
   sound_begin: 74881
   sound_end: 75320
   sentence: ケキョ、
-  words:
-    - word: ケキョ
-      position: 0
 - id: Umeno Nioi-f000023
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -492,9 +174,6 @@
   sound_begin: 75320
   sound_end: 75800
   sentence: ケキョ、
-  words:
-    - word: ケキョ
-      position: 0
 - id: Umeno Nioi-f000024
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -503,9 +182,6 @@
   sound_begin: 75800
   sound_end: 76290
   sentence: ケキョ、
-  words:
-    - word: ケキョ
-      position: 0
 - id: Umeno Nioi-f000025
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -514,9 +190,6 @@
   sound_begin: 76290
   sound_end: 76763
   sentence: ケキョ、
-  words:
-    - word: ケキョ
-      position: 0
 - id: Umeno Nioi-f000026
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -525,9 +198,6 @@
   sound_begin: 76763
   sound_end: 78912
   sentence: ケキョ」
-  words:
-    - word: ケキョ
-      position: 0
 - id: Umeno Nioi-f000027
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -536,20 +206,6 @@
   sound_begin: 78912
   sound_end: 82154
   sentence: と言ううちに鶯は、
-  words:
-    - word: と
-      position: 0
-    - word: 言う
-      position: 1
-    - word: うち
-      base: 内
-      position: 3
-    - word: に
-      position: 5
-    - word: 鶯
-      position: 6
-    - word: は
-      position: 7
 - id: Umeno Nioi-f000028
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -558,59 +214,6 @@
   sound_begin: 82154
   sound_end: 89640
   sentence: 斑のいる梅の木のすぐそばにある梅の花のたくさん開いたほそい枝の処へ、
-  words:
-    - word: 斑
-      position: 0
-    - word: の
-      position: 1
-    - word: いる
-      base: 居る
-      position: 2
-    - word: 梅
-      position: 4
-    - word: の
-      position: 5
-    - word: 木
-      position: 6
-    - word: の
-      position: 7
-    - word: すぐ
-      base: 直ぐ
-      position: 8
-    - word: そば
-      position: 10
-    - word: に
-      position: 12
-    - word: ある
-      base: 有る
-      position: 13
-    - word: 梅
-      position: 15
-    - word: の
-      position: 16
-    - word: 花
-      position: 17
-    - word: の
-      position: 18
-    - word: たくさん
-      base: 沢山
-      position: 19
-    - word: 開い
-      base: 開く
-      position: 23
-    - word: た
-      position: 25
-    - word: ほそい
-      base: 細い
-      position: 26
-    - word: 枝
-      position: 29
-    - word: の
-      position: 30
-    - word: 処
-      position: 31
-    - word: へ
-      position: 32
 - id: Umeno Nioi-f000029
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -619,20 +222,6 @@
   sound_begin: 89640
   sound_end: 93173
   sentence: ヒョイととまりました。
-  words:
-    - word: ヒョイ
-      base: ひょい
-      position: 0
-    - word: と
-      position: 3
-    - word: とまり
-      base: とまる
-      position: 4
-    - word: まし
-      base: ます
-      position: 7
-    - word: た
-      position: 9
 - id: Umeno Nioi-f000030
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -641,15 +230,6 @@
   sound_begin: 93173
   sound_end: 95972
   sentence: 「鶯さん鶯さん」
-  words:
-    - word: 鶯
-      position: 1
-    - word: さん
-      position: 2
-    - word: 鶯
-      position: 4
-    - word: さん
-      position: 5
 - id: Umeno Nioi-f000031
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -658,28 +238,6 @@
   sound_begin: 95972
   sound_end: 100032
   sentence: と猫なでごえで呼びかけました。
-  words:
-    - word: と
-      position: 0
-    - word: 猫なで
-      base: 猫撫で
-      position: 1
-    - word: ごえ
-      base: 声
-      position: 4
-    - word: で
-      position: 6
-    - word: 呼び
-      base: 呼ぶ
-      position: 7
-    - word: かけ
-      base: 掛ける
-      position: 9
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
 - id: Umeno Nioi-f000032
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -688,14 +246,6 @@
   sound_begin: 100032
   sound_end: 102811
   sentence: 「オヤ斑さん、
-  words:
-    - word: オヤ
-      base: 親
-      position: 1
-    - word: 斑
-      position: 3
-    - word: さん
-      position: 4
 - id: Umeno Nioi-f000033
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -704,23 +254,6 @@
   sound_begin: 102811
   sound_end: 106160
   sentence: 今日はいいお天気ですね」
-  words:
-    - word: 今日
-      position: 0
-    - word: は
-      position: 2
-    - word: いい
-      base: 良い
-      position: 3
-    - word: お
-      base: 御
-      position: 5
-    - word: 天気
-      position: 6
-    - word: です
-      position: 8
-    - word: ね
-      position: 10
 - id: Umeno Nioi-f000034
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -729,10 +262,6 @@
   sound_begin: 106160
   sound_end: 107720
   sentence: 「ニャーニャー、
-  words:
-    - word: ニャーニャー
-      base: にゃあにゃあ
-      position: 1
 - id: Umeno Nioi-f000035
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -741,24 +270,6 @@
   sound_begin: 107720
   sound_end: 110794
   sentence: ホントにいいお天気ですね。
-  words:
-    - word: ホント
-      base: 本当
-      position: 0
-    - word: に
-      position: 3
-    - word: いい
-      base: 良い
-      position: 4
-    - word: お
-      base: 御
-      position: 6
-    - word: 天気
-      position: 7
-    - word: です
-      position: 9
-    - word: ね
-      position: 11
 - id: Umeno Nioi-f000036
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -767,33 +278,6 @@
   sound_begin: 110794
   sound_end: 115308
   sentence: それにこの梅の花のにおいのいいこと。
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: に
-      position: 2
-    - word: この
-      base: 此の
-      position: 3
-    - word: 梅
-      position: 5
-    - word: の
-      position: 6
-    - word: 花
-      position: 7
-    - word: の
-      position: 8
-    - word: におい
-      base: 匂い
-      position: 9
-    - word: の
-      position: 12
-    - word: いい
-      base: 良い
-      position: 13
-    - word: こと
-      position: 15
 - id: Umeno Nioi-f000037
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -802,28 +286,6 @@
   sound_begin: 115308
   sound_end: 118599
   sentence: ほんとにたべたくなるようですね」
-  words:
-    - word: ほんと
-      base: 本当
-      position: 0
-    - word: に
-      position: 3
-    - word: たべ
-      base: 食べる
-      position: 4
-    - word: たく
-      base: たい
-      position: 6
-    - word: なる
-      base: 成る
-      position: 8
-    - word: よう
-      base: 様
-      position: 10
-    - word: です
-      position: 12
-    - word: ね
-      position: 14
 - id: Umeno Nioi-f000038
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -832,9 +294,6 @@
   sound_begin: 118599
   sound_end: 120511
   sentence: 「オホホホホ、
-  words:
-    - word: オホホホホ
-      position: 1
 - id: Umeno Nioi-f000039
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -843,21 +302,6 @@
   sound_begin: 120511
   sound_end: 122857
   sentence: イヤな斑さんだこと。
-  words:
-    - word: イヤ
-      base: 嫌
-      position: 0
-    - word: な
-      base: だ
-      position: 2
-    - word: 斑
-      position: 3
-    - word: さん
-      position: 4
-    - word: だ
-      position: 6
-    - word: こと
-      position: 7
 - id: Umeno Nioi-f000040
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -866,30 +310,6 @@
   sound_begin: 122857
   sound_end: 126937
   sentence: 梅の花においしいにおいがしますか」
-  words:
-    - word: 梅
-      position: 0
-    - word: の
-      position: 1
-    - word: 花
-      position: 2
-    - word: に
-      position: 3
-    - word: おいしい
-      base: 美味しい
-      position: 4
-    - word: におい
-      base: 匂い
-      position: 8
-    - word: が
-      position: 11
-    - word: し
-      base: 為る
-      position: 12
-    - word: ます
-      position: 13
-    - word: か
-      position: 15
 - id: Umeno Nioi-f000041
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -898,9 +318,6 @@
   sound_begin: 126937
   sound_end: 128120
   sentence: 「ええ、
-  words:
-    - word: ええ
-      position: 1
 - id: Umeno Nioi-f000042
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -909,38 +326,6 @@
   sound_begin: 128120
   sound_end: 132397
   sentence: 梅のにおいをかぐとおなかが急にすくようです。
-  words:
-    - word: 梅
-      position: 0
-    - word: の
-      position: 1
-    - word: におい
-      base: 匂い
-      position: 2
-    - word: を
-      position: 5
-    - word: かぐ
-      base: 嗅ぐ
-      position: 6
-    - word: と
-      position: 8
-    - word: おなか
-      base: 御腹
-      position: 9
-    - word: が
-      position: 12
-    - word: 急
-      position: 13
-    - word: に
-      base: だ
-      position: 14
-    - word: すく
-      position: 15
-    - word: よう
-      base: 様
-      position: 17
-    - word: です
-      position: 19
 - id: Umeno Nioi-f000043
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -949,31 +334,6 @@
   sound_begin: 132400
   sound_end: 136280
   sentence: あなたはどんなにおいがするのですか」
-  words:
-    - word: あなた
-      base: 貴方
-      position: 0
-    - word: は
-      position: 3
-    - word: どんな
-      position: 4
-    - word: に
-      base: だ
-      position: 7
-    - word: おい
-      base: 甥
-      position: 8
-    - word: が
-      position: 10
-    - word: する
-      base: 為る
-      position: 11
-    - word: の
-      position: 13
-    - word: です
-      position: 14
-    - word: か
-      position: 16
 - id: Umeno Nioi-f000044
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -982,15 +342,6 @@
   sound_begin: 136280
   sound_end: 138440
   sentence: 「あたしはねえ、
-  words:
-    - word: あたし
-      base: 私
-      position: 1
-    - word: は
-      position: 4
-    - word: ねえ
-      base: ね
-      position: 5
 - id: Umeno Nioi-f000045
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -999,43 +350,6 @@
   sound_begin: 138440
   sound_end: 143849
   sentence: 梅のにおいを嗅ぐと何とも言えないいい心持ちになって、
-  words:
-    - word: 梅
-      position: 0
-    - word: の
-      position: 1
-    - word: におい
-      base: 匂い
-      position: 2
-    - word: を
-      position: 5
-    - word: 嗅ぐ
-      position: 6
-    - word: と
-      position: 8
-    - word: 何
-      position: 9
-    - word: と
-      position: 10
-    - word: も
-      position: 11
-    - word: 言え
-      base: 言う
-      position: 12
-    - word: ない
-      position: 14
-    - word: いい
-      base: 良い
-      position: 16
-    - word: 心持ち
-      position: 18
-    - word: に
-      position: 21
-    - word: なっ
-      base: 成る
-      position: 22
-    - word: て
-      position: 24
 - id: Umeno Nioi-f000046
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -1044,24 +358,6 @@
   sound_begin: 143849
   sound_end: 146760
   sentence: 歌がうたいたくなるのです。
-  words:
-    - word: 歌
-      position: 0
-    - word: が
-      position: 1
-    - word: うたい
-      base: 歌う
-      position: 2
-    - word: たく
-      base: たい
-      position: 5
-    - word: なる
-      base: 成る
-      position: 7
-    - word: の
-      position: 9
-    - word: です
-      position: 10
 - id: Umeno Nioi-f000047
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -1070,40 +366,6 @@
   sound_begin: 146760
   sound_end: 153440
   sentence: そうしてあちらこちらと躍りながら飛びまわりたくなるのです」
-  words:
-    - word: そう
-      position: 0
-    - word: し
-      base: 為る
-      position: 2
-    - word: て
-      position: 3
-    - word: あちらこちら
-      base: 彼方此方
-      position: 4
-    - word: と
-      position: 10
-    - word: 躍り
-      base: 踊る
-      position: 11
-    - word: ながら
-      position: 13
-    - word: 飛び
-      base: 飛ぶ
-      position: 16
-    - word: まわり
-      base: 回る
-      position: 18
-    - word: たく
-      base: たい
-      position: 21
-    - word: なる
-      base: 成る
-      position: 23
-    - word: の
-      position: 25
-    - word: です
-      position: 26
 - id: Umeno Nioi-f000048
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -1112,10 +374,6 @@
   sound_begin: 153440
   sound_end: 154897
   sentence: 「ヘエ、
-  words:
-    - word: ヘエ
-      base: へえ
-      position: 1
 - id: Umeno Nioi-f000049
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -1124,16 +382,6 @@
   sound_begin: 155380
   sound_end: 158640
   sentence: さようですかね。
-  words:
-    - word: さよう
-      base: 然様
-      position: 0
-    - word: です
-      position: 3
-    - word: か
-      position: 5
-    - word: ね
-      position: 6
 - id: Umeno Nioi-f000050
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -1142,41 +390,6 @@
   sound_begin: 158640
   sound_end: 162269
   sentence: そう言えばあたしも何だか踊りたくなったようです」
-  words:
-    - word: そう
-      position: 0
-    - word: 言え
-      base: 言う
-      position: 2
-    - word: ば
-      position: 4
-    - word: あたし
-      base: 私
-      position: 5
-    - word: も
-      position: 8
-    - word: 何
-      position: 9
-    - word: だ
-      position: 10
-    - word: か
-      position: 11
-    - word: 踊り
-      base: 踊る
-      position: 12
-    - word: たく
-      base: たい
-      position: 14
-    - word: なっ
-      base: 成る
-      position: 16
-    - word: た
-      position: 18
-    - word: よう
-      base: 様
-      position: 19
-    - word: です
-      position: 21
 - id: Umeno Nioi-f000051
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -1185,9 +398,6 @@
   sound_begin: 162269
   sound_end: 163111
   sentence: 「まあ、
-  words:
-    - word: まあ
-      position: 1
 - id: Umeno Nioi-f000052
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -1196,12 +406,6 @@
   sound_begin: 163111
   sound_end: 164708
   sentence: おもしろいこと。
-  words:
-    - word: おもしろい
-      base: 面白い
-      position: 0
-    - word: こと
-      position: 5
 - id: Umeno Nioi-f000053
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -1210,28 +414,6 @@
   sound_begin: 164708
   sound_end: 167440
   sentence: 一つおどってみせてちょうだいな」
-  words:
-    - word: 一
-      base: '1'
-      position: 0
-    - word: つ
-      position: 1
-    - word: おどっ
-      base: 踊る
-      position: 2
-    - word: て
-      position: 5
-    - word: みせ
-      base: 見せる
-      position: 6
-    - word: て
-      position: 8
-    - word: ちょうだい
-      base: 頂戴
-      position: 9
-    - word: な
-      base: だ
-      position: 14
 - id: Umeno Nioi-f000054
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -1240,9 +422,6 @@
   sound_begin: 167440
   sound_end: 169059
   sentence: 「いいえ、
-  words:
-    - word: いいえ
-      position: 1
 - id: Umeno Nioi-f000055
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -1251,51 +430,6 @@
   sound_begin: 169059
   sound_end: 174923
   sentence: あたしはあなたの着物のにおいを嗅いだら一緒に踊りたくなったのです、
-  words:
-    - word: あたし
-      base: 私
-      position: 0
-    - word: は
-      position: 3
-    - word: あなた
-      base: 貴方
-      position: 4
-    - word: の
-      position: 7
-    - word: 着物
-      position: 8
-    - word: の
-      position: 10
-    - word: におい
-      base: 匂い
-      position: 11
-    - word: を
-      position: 14
-    - word: 嗅い
-      base: 嗅ぐ
-      position: 15
-    - word: だら
-      base: た
-      position: 17
-    - word: 一緒
-      position: 19
-    - word: に
-      position: 21
-    - word: 踊り
-      base: 踊る
-      position: 22
-    - word: たく
-      base: たい
-      position: 24
-    - word: なっ
-      base: 成る
-      position: 26
-    - word: た
-      position: 28
-    - word: の
-      position: 29
-    - word: です
-      position: 30
 - id: Umeno Nioi-f000056
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -1304,38 +438,6 @@
   sound_begin: 174923
   sound_end: 180718
   sentence: 本当にあなたのにおいを嗅ぐといいこころもちになります。
-  words:
-    - word: 本当
-      position: 0
-    - word: に
-      position: 2
-    - word: あなた
-      base: 貴方
-      position: 3
-    - word: の
-      position: 6
-    - word: におい
-      base: 匂い
-      position: 7
-    - word: を
-      position: 10
-    - word: 嗅ぐ
-      position: 11
-    - word: と
-      position: 13
-    - word: いい
-      base: 良い
-      position: 14
-    - word: こころもち
-      base: 心持ち
-      position: 16
-    - word: に
-      position: 21
-    - word: なり
-      base: 成る
-      position: 22
-    - word: ます
-      position: 24
 - id: Umeno Nioi-f000057
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -1344,11 +446,6 @@
   sound_begin: 180718
   sound_end: 181800
   sentence: どうです、
-  words:
-    - word: どう
-      position: 0
-    - word: です
-      position: 2
 - id: Umeno Nioi-f000058
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -1357,28 +454,6 @@
   sound_begin: 181800
   sound_end: 184560
   sentence: 一緒に踊ろうじゃありませんか」
-  words:
-    - word: 一緒
-      position: 0
-    - word: に
-      position: 2
-    - word: 踊ろう
-      base: 踊る
-      position: 3
-    - word: じゃ
-      base: だ
-      position: 6
-    - word: あり
-      base: 有る
-      position: 8
-    - word: ませ
-      base: ます
-      position: 10
-    - word: ん
-      base: ず
-      position: 12
-    - word: か
-      position: 13
 - id: Umeno Nioi-f000059
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -1387,14 +462,6 @@
   sound_begin: 184560
   sound_end: 186160
   sentence: 「いやですよ。
-  words:
-    - word: いや
-      base: 嫌
-      position: 1
-    - word: です
-      position: 3
-    - word: よ
-      position: 5
 - id: Umeno Nioi-f000060
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -1403,21 +470,6 @@
   sound_begin: 186160
   sound_end: 188395
   sentence: あなたと踊るのはこわい」
-  words:
-    - word: あなた
-      base: 貴方
-      position: 0
-    - word: と
-      position: 3
-    - word: 踊る
-      position: 4
-    - word: の
-      position: 6
-    - word: は
-      position: 7
-    - word: こわい
-      base: 怖い
-      position: 8
 - id: Umeno Nioi-f000061
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -1426,11 +478,6 @@
   sound_begin: 188395
   sound_end: 189680
   sentence: 「何故です。
-  words:
-    - word: 何故
-      position: 1
-    - word: です
-      position: 3
 - id: Umeno Nioi-f000062
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -1439,33 +486,6 @@
   sound_begin: 189680
   sound_end: 194040
   sentence: ちっとも怖い事はないじゃありませんか。
-  words:
-    - word: ちっとも
-      base: 些とも
-      position: 0
-    - word: 怖い
-      position: 4
-    - word: 事
-      position: 6
-    - word: は
-      position: 7
-    - word: ない
-      base: 無い
-      position: 8
-    - word: じゃ
-      base: だ
-      position: 10
-    - word: あり
-      base: 有る
-      position: 12
-    - word: ませ
-      base: ます
-      position: 14
-    - word: ん
-      base: ず
-      position: 16
-    - word: か
-      position: 17
 - id: Umeno Nioi-f000063
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -1474,25 +494,6 @@
   sound_begin: 194040
   sound_end: 197120
   sentence: もっとこっちへきてごらんなさい」
-  words:
-    - word: もっと
-      position: 0
-    - word: こっち
-      base: 此方
-      position: 3
-    - word: へ
-      position: 6
-    - word: き
-      base: 来る
-      position: 7
-    - word: て
-      position: 8
-    - word: ごらん
-      base: 御覧
-      position: 9
-    - word: なさい
-      base: 為す
-      position: 12
 - id: Umeno Nioi-f000064
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -1501,14 +502,6 @@
   sound_begin: 197120
   sound_end: 198960
   sentence: 「イヤですよ。
-  words:
-    - word: イヤ
-      base: 嫌
-      position: 1
-    - word: です
-      position: 3
-    - word: よ
-      position: 5
 - id: Umeno Nioi-f000065
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -1517,45 +510,6 @@
   sound_begin: 198960
   sound_end: 204666
   sentence: 妾のにおいを嗅いで踊りたくなったと言うのは嘘でしょう」
-  words:
-    - word: 妾
-      position: 0
-    - word: の
-      position: 1
-    - word: におい
-      base: 匂い
-      position: 2
-    - word: を
-      position: 5
-    - word: 嗅い
-      base: 嗅ぐ
-      position: 6
-    - word: で
-      position: 8
-    - word: 踊り
-      base: 踊る
-      position: 9
-    - word: たく
-      base: たい
-      position: 11
-    - word: なっ
-      base: 成る
-      position: 13
-    - word: た
-      position: 15
-    - word: と
-      position: 16
-    - word: 言う
-      position: 17
-    - word: の
-      position: 19
-    - word: は
-      position: 20
-    - word: 嘘
-      position: 21
-    - word: でしょう
-      base: です
-      position: 22
 - id: Umeno Nioi-f000066
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -1564,14 +518,6 @@
   sound_begin: 204666
   sound_end: 206933
   sentence: 「どうして」
-  words:
-    - word: どう
-      position: 1
-    - word: し
-      base: 為る
-      position: 3
-    - word: て
-      position: 4
 - id: Umeno Nioi-f000067
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -1580,24 +526,6 @@
   sound_begin: 206933
   sound_end: 209781
   sentence: 「たべたくなったんでしょう」
-  words:
-    - word: たべ
-      base: 食べる
-      position: 1
-    - word: たく
-      base: たい
-      position: 3
-    - word: なっ
-      base: 成る
-      position: 5
-    - word: た
-      position: 7
-    - word: ん
-      base: の
-      position: 8
-    - word: でしょう
-      base: です
-      position: 9
 - id: Umeno Nioi-f000068
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -1606,38 +534,6 @@
   sound_begin: 209781
   sound_end: 215640
   sentence: と言ううちに鶯はパッと飛げ出しました。
-  words:
-    - word: と
-      position: 0
-    - word: 言う
-      position: 1
-    - word: うち
-      base: 内
-      position: 3
-    - word: に
-      position: 5
-    - word: 鶯
-      position: 6
-    - word: は
-      position: 7
-    - word: パッ
-      base: ぱっ
-      position: 8
-    - word: と
-      position: 10
-    - word: 飛
-      base: 飛ぶ
-      position: 11
-    - word: げ
-      position: 12
-    - word: 出し
-      base: 出す
-      position: 13
-    - word: まし
-      base: ます
-      position: 15
-    - word: た
-      position: 17
 - id: Umeno Nioi-f000069
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -1646,12 +542,6 @@
   sound_begin: 215640
   sound_end: 217173
   sentence: 「しまった」
-  words:
-    - word: しまっ
-      base: 仕舞う
-      position: 1
-    - word: た
-      position: 4
 - id: Umeno Nioi-f000070
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -1660,23 +550,6 @@
   sound_begin: 217173
   sound_end: 219706
   sentence: と斑が飛びつきますと、
-  words:
-    - word: と
-      position: 0
-    - word: 斑
-      position: 1
-    - word: が
-      position: 2
-    - word: 飛び
-      base: 飛ぶ
-      position: 3
-    - word: つき
-      base: 付く
-      position: 5
-    - word: ます
-      position: 7
-    - word: と
-      position: 9
 - id: Umeno Nioi-f000071
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -1685,29 +558,6 @@
   sound_begin: 219706
   sound_end: 224288
   sentence: ドタリと地べたへ落ちてしまいました。
-  words:
-    - word: ドタリ
-      base: どたり
-      position: 0
-    - word: と
-      position: 3
-    - word: 地べた
-      position: 4
-    - word: へ
-      position: 7
-    - word: 落ち
-      base: 落ちる
-      position: 8
-    - word: て
-      position: 10
-    - word: しまい
-      base: 仕舞う
-      position: 11
-    - word: まし
-      base: ます
-      position: 14
-    - word: た
-      position: 16
 - id: Umeno Nioi-f000072
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -1716,10 +566,6 @@
   sound_begin: 224288
   sound_end: 228506
   sentence: 「ホーホケキョ、
-  words:
-    - word: ホーホケキョ
-      base: ほうほけきょ
-      position: 1
 - id: Umeno Nioi-f000073
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -1728,10 +574,6 @@
   sound_begin: 228506
   sound_end: 232656
   sentence: ホーホケキョ」
-  words:
-    - word: ホーホケキョ
-      base: ほうほけきょ
-      position: 0
 - id: Umeno Nioi-f000074
   author_japanese: 夢野 久作
   deck_name: Umeno Nioi
@@ -1740,41 +582,3 @@
   sound_begin: 232656
   sound_end: 242520
   sentence: と鶯は隣のうちの梅の木で鳴いていました。
-  words:
-    - word: と
-      position: 0
-    - word: 鶯
-      position: 1
-    - word: は
-      position: 2
-    - word: 隣
-      base: 隣り
-      position: 3
-    - word: の
-      position: 4
-    - word: うち
-      base: 内
-      position: 5
-    - word: の
-      position: 7
-    - word: 梅
-      position: 8
-    - word: の
-      position: 9
-    - word: 木
-      position: 10
-    - word: で
-      position: 11
-    - word: 鳴い
-      base: 鳴く
-      position: 12
-    - word: て
-      position: 14
-    - word: い
-      base: 居る
-      position: 15
-    - word: まし
-      base: ます
-      position: 16
-    - word: た
-      position: 18

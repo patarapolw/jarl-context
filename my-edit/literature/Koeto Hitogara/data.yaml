@@ -6,13 +6,6 @@
   sound_begin: 5250
   sound_end: 9280
   sentence: 声と人柄
-  words:
-    - word: 声
-      position: 0
-    - word: と
-      position: 1
-    - word: 人柄
-      position: 2
 - id: Koeto Hitogara-f000003
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -21,12 +14,6 @@
   sound_begin: 9280
   sound_end: 10200
   sentence: 或時、
-  words:
-    - word: 或
-      base: 或る
-      position: 0
-    - word: 時
-      position: 1
 - id: Koeto Hitogara-f000004
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -35,42 +22,6 @@
   sound_begin: 10200
   sound_end: 16860
   sentence: 横須賀から東京に向う省線に逗子駅から乗ったことがあった。
-  words:
-    - word: 横須賀
-      position: 0
-    - word: から
-      position: 3
-    - word: 東京
-      position: 5
-    - word: に
-      position: 7
-    - word: 向う
-      base: 向かう
-      position: 8
-    - word: 省線
-      position: 10
-    - word: に
-      position: 12
-    - word: 逗子
-      position: 13
-    - word: 駅
-      position: 15
-    - word: から
-      position: 16
-    - word: 乗っ
-      base: 乗る
-      position: 18
-    - word: た
-      position: 20
-    - word: こと
-      position: 21
-    - word: が
-      position: 23
-    - word: あっ
-      base: 有る
-      position: 24
-    - word: た
-      position: 26
 - id: Koeto Hitogara-f000005
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -79,34 +30,6 @@
   sound_begin: 16860
   sound_end: 20760
   sentence: ところがその電車が非常に混んでいて、
-  words:
-    - word: ところ
-      base: 所
-      position: 0
-    - word: が
-      position: 3
-    - word: その
-      base: 其の
-      position: 4
-    - word: 電車
-      position: 6
-    - word: が
-      position: 8
-    - word: 非常
-      position: 9
-    - word: に
-      base: だ
-      position: 11
-    - word: 混ん
-      base: 混む
-      position: 12
-    - word: で
-      position: 14
-    - word: い
-      base: 居る
-      position: 15
-    - word: て
-      position: 16
 - id: Koeto Hitogara-f000006
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -115,23 +38,6 @@
   sound_begin: 20760
   sound_end: 24488
   sentence: 空いた座席が殆どなかった。
-  words:
-    - word: 空い
-      base: 空く
-      position: 0
-    - word: た
-      position: 2
-    - word: 座席
-      position: 3
-    - word: が
-      position: 5
-    - word: 殆ど
-      position: 6
-    - word: なかっ
-      base: 無い
-      position: 8
-    - word: た
-      position: 11
 - id: Koeto Hitogara-f000007
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -140,14 +46,6 @@
   sound_begin: 24488
   sound_end: 26120
   sentence: 丁度その時、
-  words:
-    - word: 丁度
-      position: 0
-    - word: その
-      base: 其の
-      position: 2
-    - word: 時
-      position: 4
 - id: Koeto Hitogara-f000008
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -156,39 +54,6 @@
   sound_begin: 26120
   sound_end: 30600
   sentence: どこかの地方の青年団の人々が乗っていたが、
-  words:
-    - word: どこ
-      position: 0
-    - word: か
-      position: 2
-    - word: の
-      position: 3
-    - word: 地方
-      position: 4
-    - word: の
-      position: 6
-    - word: 青年
-      position: 7
-    - word: 団
-      position: 9
-    - word: の
-      position: 10
-    - word: 人々
-      position: 11
-    - word: が
-      position: 13
-    - word: 乗っ
-      base: 乗る
-      position: 14
-    - word: て
-      position: 16
-    - word: い
-      base: 居る
-      position: 17
-    - word: た
-      position: 18
-    - word: が
-      position: 19
 - id: Koeto Hitogara-f000009
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -197,18 +62,6 @@
   sound_begin: 30600
   sound_end: 32360
   sentence: その中の一人が、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 中
-      position: 2
-    - word: の
-      position: 3
-    - word: 一人
-      position: 4
-    - word: が
-      position: 6
 - id: Koeto Hitogara-f000010
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -217,31 +70,6 @@
   sound_begin: 32360
   sound_end: 34400
   sentence: 私の乗り込んだのを見てか、
-  words:
-    - word: 私
-      position: 0
-    - word: の
-      position: 1
-    - word: 乗り
-      base: 乗る
-      position: 2
-    - word: 込ん
-      base: 込む
-      position: 4
-    - word: だ
-      base: た
-      position: 6
-    - word: の
-      position: 7
-    - word: を
-      position: 8
-    - word: 見
-      base: 見る
-      position: 9
-    - word: て
-      position: 10
-    - word: か
-      position: 11
 - id: Koeto Hitogara-f000011
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -250,23 +78,6 @@
   sound_begin: 34400
   sound_end: 37520
   sentence: 「おい起て起て」と言ったら、
-  words:
-    - word: おい
-      position: 1
-    - word: 起て
-      base: 立つ
-      position: 3
-    - word: 起て
-      base: 立つ
-      position: 5
-    - word: と
-      position: 8
-    - word: 言っ
-      base: 言う
-      position: 9
-    - word: たら
-      base: た
-      position: 11
 - id: Koeto Hitogara-f000012
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -275,35 +86,6 @@
   sound_begin: 37520
   sound_end: 40920
   sentence: 腰かけていた人たちがみな起ちあがって、
-  words:
-    - word: 腰かけ
-      base: 腰掛ける
-      position: 0
-    - word: て
-      position: 3
-    - word: い
-      base: 居る
-      position: 4
-    - word: た
-      position: 5
-    - word: 人
-      position: 6
-    - word: たち
-      base: 達
-      position: 7
-    - word: が
-      position: 9
-    - word: みな
-      base: 皆
-      position: 10
-    - word: 起ち
-      base: 立つ
-      position: 12
-    - word: あがっ
-      base: 上がる
-      position: 14
-    - word: て
-      position: 17
 - id: Koeto Hitogara-f000013
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -312,28 +94,6 @@
   sound_begin: 40920
   sound_end: 46680
   sentence: 私たちに席を与えてくれた。
-  words:
-    - word: 私
-      position: 0
-    - word: たち
-      base: 達
-      position: 1
-    - word: に
-      position: 3
-    - word: 席
-      position: 4
-    - word: を
-      position: 5
-    - word: 与え
-      base: 与える
-      position: 6
-    - word: て
-      position: 8
-    - word: くれ
-      base: 呉れる
-      position: 9
-    - word: た
-      position: 11
 - id: Koeto Hitogara-f000014
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -342,17 +102,6 @@
   sound_begin: 46680
   sound_end: 48320
   sentence: もしその場合に、
-  words:
-    - word: もし
-      base: 若し
-      position: 0
-    - word: その
-      base: 其の
-      position: 2
-    - word: 場合
-      position: 4
-    - word: に
-      position: 6
 - id: Koeto Hitogara-f000015
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -361,41 +110,6 @@
   sound_begin: 48320
   sound_end: 52520
   sentence: 私が目が見えていたら辞退するのであるが、
-  words:
-    - word: 私
-      position: 0
-    - word: が
-      position: 1
-    - word: 目
-      position: 2
-    - word: が
-      position: 3
-    - word: 見え
-      base: 見える
-      position: 4
-    - word: て
-      position: 6
-    - word: い
-      base: 居る
-      position: 7
-    - word: たら
-      base: た
-      position: 8
-    - word: 辞退
-      position: 10
-    - word: する
-      base: 為る
-      position: 12
-    - word: の
-      position: 14
-    - word: で
-      base: だ
-      position: 15
-    - word: ある
-      base: 有る
-      position: 16
-    - word: が
-      position: 18
 - id: Koeto Hitogara-f000016
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -404,54 +118,6 @@
   sound_begin: 52520
   sound_end: 58610
   sentence: 私は盲人なので折角の親切を無にしては悪いと思ったので、
-  words:
-    - word: 私
-      position: 0
-    - word: は
-      position: 1
-    - word: 盲人
-      position: 2
-    - word: な
-      base: だ
-      position: 4
-    - word: の
-      position: 5
-    - word: で
-      base: だ
-      position: 6
-    - word: 折角
-      position: 7
-    - word: の
-      position: 9
-    - word: 親切
-      position: 10
-    - word: を
-      position: 12
-    - word: 無
-      position: 13
-    - word: に
-      position: 14
-    - word: し
-      base: 為る
-      position: 15
-    - word: て
-      position: 16
-    - word: は
-      position: 17
-    - word: 悪い
-      position: 18
-    - word: と
-      position: 20
-    - word: 思っ
-      base: 思う
-      position: 21
-    - word: た
-      position: 23
-    - word: の
-      position: 24
-    - word: で
-      base: だ
-      position: 25
 - id: Koeto Hitogara-f000017
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -460,20 +126,6 @@
   sound_begin: 58610
   sound_end: 64000
   sentence: 腰かけさせてもらった。
-  words:
-    - word: 腰かけ
-      base: 腰掛ける
-      position: 0
-    - word: させ
-      base: させる
-      position: 3
-    - word: て
-      position: 5
-    - word: もらっ
-      base: 貰う
-      position: 6
-    - word: た
-      position: 9
 - id: Koeto Hitogara-f000018
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -482,29 +134,6 @@
   sound_begin: 64000
   sound_end: 67480
   sentence: 私は初めその青年団の人たちが、
-  words:
-    - word: 私
-      position: 0
-    - word: は
-      position: 1
-    - word: 初め
-      position: 2
-    - word: その
-      base: 其の
-      position: 4
-    - word: 青年
-      position: 6
-    - word: 団
-      position: 8
-    - word: の
-      position: 9
-    - word: 人
-      position: 10
-    - word: たち
-      base: 達
-      position: 11
-    - word: が
-      position: 13
 - id: Koeto Hitogara-f000019
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -513,37 +142,6 @@
   sound_begin: 67480
   sound_end: 71200
   sentence: つい近くへでも行くのかと思っていたら、
-  words:
-    - word: つい
-      position: 0
-    - word: 近く
-      position: 2
-    - word: へ
-      position: 4
-    - word: で
-      base: だ
-      position: 5
-    - word: も
-      position: 6
-    - word: 行く
-      position: 7
-    - word: の
-      position: 9
-    - word: か
-      position: 10
-    - word: と
-      position: 11
-    - word: 思っ
-      base: 思う
-      position: 12
-    - word: て
-      position: 14
-    - word: い
-      base: 居る
-      position: 15
-    - word: たら
-      base: た
-      position: 16
 - id: Koeto Hitogara-f000020
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -552,38 +150,6 @@
   sound_begin: 71200
   sound_end: 77323
   sentence: やはり私たちと同様に東京へ行くらしいのである。
-  words:
-    - word: やはり
-      base: 矢張り
-      position: 0
-    - word: 私
-      position: 3
-    - word: たち
-      base: 達
-      position: 4
-    - word: と
-      position: 6
-    - word: 同様
-      position: 7
-    - word: に
-      base: だ
-      position: 9
-    - word: 東京
-      position: 10
-    - word: へ
-      position: 12
-    - word: 行く
-      position: 13
-    - word: らしい
-      position: 15
-    - word: の
-      position: 18
-    - word: で
-      base: だ
-      position: 19
-    - word: ある
-      base: 有る
-      position: 20
 - id: Koeto Hitogara-f000021
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -592,9 +158,6 @@
   sound_begin: 77323
   sound_end: 78172
   sentence: そして、
-  words:
-    - word: そして
-      position: 0
 - id: Koeto Hitogara-f000022
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -603,20 +166,6 @@
   sound_begin: 78172
   sound_end: 81000
   sentence: 独り言のように「なあに、
-  words:
-    - word: 独り言
-      position: 0
-    - word: の
-      position: 3
-    - word: よう
-      base: 様
-      position: 4
-    - word: に
-      base: だ
-      position: 6
-    - word: なあに
-      base: 何
-      position: 8
 - id: Koeto Hitogara-f000023
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -625,40 +174,6 @@
   sound_begin: 81000
   sound_end: 87640
   sentence: 我々は起っていたっていいのだ」と言っていた。
-  words:
-    - word: 我々
-      position: 0
-    - word: は
-      position: 2
-    - word: 起っ
-      base: 起こる
-      position: 3
-    - word: て
-      position: 5
-    - word: い
-      base: 居る
-      position: 6
-    - word: たって
-      position: 7
-    - word: いい
-      base: 良い
-      position: 10
-    - word: の
-      position: 12
-    - word: だ
-      position: 13
-    - word: と
-      position: 15
-    - word: 言っ
-      base: 言う
-      position: 16
-    - word: て
-      position: 18
-    - word: い
-      base: 居る
-      position: 19
-    - word: た
-      position: 20
 - id: Koeto Hitogara-f000024
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -667,15 +182,6 @@
   sound_begin: 87640
   sound_end: 89040
   sentence: それからまた、
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: から
-      position: 2
-    - word: また
-      base: 又
-      position: 4
 - id: Koeto Hitogara-f000025
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -684,34 +190,6 @@
   sound_begin: 89040
   sound_end: 92800
   sentence: 自分たちが起っている苦痛をまぎらわすためか、
-  words:
-    - word: 自分
-      position: 0
-    - word: たち
-      base: 達
-      position: 2
-    - word: が
-      position: 4
-    - word: 起っ
-      base: 起こる
-      position: 5
-    - word: て
-      position: 7
-    - word: いる
-      base: 居る
-      position: 8
-    - word: 苦痛
-      position: 10
-    - word: を
-      position: 12
-    - word: まぎらわす
-      base: 紛らす
-      position: 13
-    - word: ため
-      base: 為
-      position: 18
-    - word: か
-      position: 20
 - id: Koeto Hitogara-f000026
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -720,33 +198,6 @@
   sound_begin: 92800
   sound_end: 97920
   sentence: 元気よくお互に話し合っていた。
-  words:
-    - word: 元気
-      position: 0
-    - word: よく
-      base: 良い
-      position: 2
-    - word: お
-      base: 御
-      position: 4
-    - word: 互
-      base: 互い
-      position: 5
-    - word: に
-      position: 6
-    - word: 話し
-      base: 話す
-      position: 7
-    - word: 合っ
-      base: 合う
-      position: 9
-    - word: て
-      position: 11
-    - word: い
-      base: 居る
-      position: 12
-    - word: た
-      position: 13
 - id: Koeto Hitogara-f000027
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -755,17 +206,6 @@
   sound_begin: 97920
   sound_end: 99600
   sentence: そうかと思うと、
-  words:
-    - word: そう
-      position: 0
-    - word: か
-      position: 2
-    - word: と
-      position: 3
-    - word: 思う
-      position: 4
-    - word: と
-      position: 6
 - id: Koeto Hitogara-f000028
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -774,20 +214,6 @@
   sound_begin: 99600
   sound_end: 101520
   sentence: 何か手をまるめて、
-  words:
-    - word: 何
-      position: 0
-    - word: か
-      position: 1
-    - word: 手
-      position: 2
-    - word: を
-      position: 3
-    - word: まるめ
-      base: 丸める
-      position: 4
-    - word: て
-      position: 7
 - id: Koeto Hitogara-f000029
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -796,23 +222,6 @@
   sound_begin: 101520
   sound_end: 105080
   sentence: 喇叭の真似を始めだした。
-  words:
-    - word: 喇叭
-      position: 0
-    - word: の
-      position: 2
-    - word: 真似
-      position: 3
-    - word: を
-      position: 5
-    - word: 始め
-      base: 始める
-      position: 6
-    - word: だし
-      base: 出す
-      position: 8
-    - word: た
-      position: 10
 - id: Koeto Hitogara-f000030
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -821,9 +230,6 @@
   sound_begin: 105080
   sound_end: 105960
   sentence: そして、
-  words:
-    - word: そして
-      position: 0
 - id: Koeto Hitogara-f000031
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -832,27 +238,6 @@
   sound_begin: 105960
   sound_end: 108520
   sentence: 色々の節を吹いていたが、
-  words:
-    - word: 色々
-      position: 0
-    - word: の
-      position: 2
-    - word: 節
-      position: 3
-    - word: を
-      position: 4
-    - word: 吹い
-      base: 吹く
-      position: 5
-    - word: て
-      position: 7
-    - word: い
-      base: 居る
-      position: 8
-    - word: た
-      position: 9
-    - word: が
-      position: 10
 - id: Koeto Hitogara-f000032
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -861,30 +246,6 @@
   sound_begin: 108520
   sound_end: 113000
   sentence: それがなかなか上手にやっていた。
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: が
-      position: 2
-    - word: なかなか
-      base: 中々
-      position: 3
-    - word: 上手
-      position: 7
-    - word: に
-      base: だ
-      position: 9
-    - word: やっ
-      base: 遣る
-      position: 10
-    - word: て
-      position: 12
-    - word: い
-      base: 居る
-      position: 13
-    - word: た
-      position: 14
 - id: Koeto Hitogara-f000033
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -893,24 +254,6 @@
   sound_begin: 113000
   sound_end: 115760
   sentence: 一節吹いては興じ合って、
-  words:
-    - word: 一節
-      position: 0
-    - word: 吹い
-      base: 吹く
-      position: 2
-    - word: て
-      position: 4
-    - word: は
-      position: 5
-    - word: 興じ
-      base: 興ずる
-      position: 6
-    - word: 合っ
-      base: 合う
-      position: 8
-    - word: て
-      position: 10
 - id: Koeto Hitogara-f000034
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -919,27 +262,6 @@
   sound_begin: 115760
   sound_end: 120840
   sentence: みんなが元気に笑っていた。
-  words:
-    - word: みんな
-      base: 皆
-      position: 0
-    - word: が
-      position: 3
-    - word: 元気
-      position: 4
-    - word: に
-      base: だ
-      position: 6
-    - word: 笑っ
-      base: 笑う
-      position: 7
-    - word: て
-      position: 9
-    - word: い
-      base: 居る
-      position: 10
-    - word: た
-      position: 11
 - id: Koeto Hitogara-f000035
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -948,24 +270,6 @@
   sound_begin: 120840
   sound_end: 127600
   sentence: 私はそれを面白く感じた。
-  words:
-    - word: 私
-      position: 0
-    - word: は
-      position: 1
-    - word: それ
-      base: 其れ
-      position: 2
-    - word: を
-      position: 4
-    - word: 面白く
-      base: 面白い
-      position: 5
-    - word: 感じ
-      base: 感ずる
-      position: 8
-    - word: た
-      position: 10
 - id: Koeto Hitogara-f000036
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -974,21 +278,6 @@
   sound_begin: 127600
   sound_end: 130280
   sentence: 私は人の言葉つきで、
-  words:
-    - word: 私
-      position: 0
-    - word: は
-      position: 1
-    - word: 人
-      position: 2
-    - word: の
-      position: 3
-    - word: 言葉つき
-      base: 言葉付き
-      position: 4
-    - word: で
-      base: だ
-      position: 8
 - id: Koeto Hitogara-f000037
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -997,20 +286,6 @@
   sound_begin: 130280
   sound_end: 132480
   sentence: その人が今日自分に、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 人
-      position: 2
-    - word: が
-      position: 3
-    - word: 今日
-      position: 4
-    - word: 自分
-      position: 6
-    - word: に
-      position: 8
 - id: Koeto Hitogara-f000038
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -1019,29 +294,6 @@
   sound_begin: 132480
   sound_end: 135280
   sentence: どういう用向きで来たかということが、
-  words:
-    - word: どういう
-      position: 0
-    - word: 用向き
-      position: 4
-    - word: で
-      position: 7
-    - word: 来
-      base: 来る
-      position: 8
-    - word: た
-      position: 9
-    - word: か
-      position: 10
-    - word: と
-      position: 11
-    - word: いう
-      base: 言う
-      position: 12
-    - word: こと
-      position: 14
-    - word: が
-      position: 16
 - id: Koeto Hitogara-f000039
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -1050,13 +302,6 @@
   sound_begin: 135280
   sound_end: 138920
   sentence: あらかじめわかる。
-  words:
-    - word: あらかじめ
-      base: 予め
-      position: 0
-    - word: わかる
-      base: 分かる
-      position: 5
 - id: Koeto Hitogara-f000040
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -1065,39 +310,6 @@
   sound_begin: 138920
   sound_end: 142520
   sentence: その人がどういう態度をしているかということも、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 人
-      position: 2
-    - word: が
-      position: 3
-    - word: どういう
-      position: 4
-    - word: 態度
-      position: 8
-    - word: を
-      position: 10
-    - word: し
-      base: 為る
-      position: 11
-    - word: て
-      position: 12
-    - word: いる
-      base: 居る
-      position: 13
-    - word: か
-      position: 15
-    - word: と
-      position: 16
-    - word: いう
-      base: 言う
-      position: 17
-    - word: こと
-      position: 19
-    - word: も
-      position: 21
 - id: Koeto Hitogara-f000041
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -1106,25 +318,6 @@
   sound_begin: 142520
   sound_end: 147840
   sentence: 自然に感じられるのである。
-  words:
-    - word: 自然
-      position: 0
-    - word: に
-      base: だ
-      position: 2
-    - word: 感じ
-      base: 感ずる
-      position: 3
-    - word: られる
-      position: 5
-    - word: の
-      position: 8
-    - word: で
-      base: だ
-      position: 9
-    - word: ある
-      base: 有る
-      position: 10
 - id: Koeto Hitogara-f000042
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -1133,28 +326,6 @@
   sound_begin: 147840
   sound_end: 150320
   sentence: ある夏の暑い時であったが、
-  words:
-    - word: ある
-      base: 或る
-      position: 0
-    - word: 夏
-      position: 2
-    - word: の
-      position: 3
-    - word: 暑い
-      position: 4
-    - word: 時
-      position: 6
-    - word: で
-      base: だ
-      position: 7
-    - word: あっ
-      base: 有る
-      position: 8
-    - word: た
-      position: 10
-    - word: が
-      position: 11
 - id: Koeto Hitogara-f000043
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -1163,22 +334,6 @@
   sound_begin: 150320
   sound_end: 152720
   sentence: 或る人が尺八を合せに、
-  words:
-    - word: 或る
-      position: 0
-    - word: 人
-      position: 2
-    - word: が
-      position: 3
-    - word: 尺八
-      position: 4
-    - word: を
-      position: 6
-    - word: 合せ
-      base: 合わせ
-      position: 7
-    - word: に
-      position: 9
 - id: Koeto Hitogara-f000044
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -1187,28 +342,6 @@
   sound_begin: 152720
   sound_end: 157120
   sentence: 私のところに来たことがある。
-  words:
-    - word: 私
-      position: 0
-    - word: の
-      position: 1
-    - word: ところ
-      base: 所
-      position: 2
-    - word: に
-      position: 5
-    - word: 来
-      base: 来る
-      position: 6
-    - word: た
-      position: 7
-    - word: こと
-      position: 8
-    - word: が
-      position: 10
-    - word: ある
-      base: 有る
-      position: 11
 - id: Koeto Hitogara-f000045
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -1217,29 +350,6 @@
   sound_begin: 157120
   sound_end: 160160
   sentence: その人とは心易い間柄だったし、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 人
-      position: 2
-    - word: と
-      position: 3
-    - word: は
-      position: 4
-    - word: 心
-      position: 5
-    - word: 易い
-      position: 6
-    - word: 間柄
-      position: 8
-    - word: だっ
-      base: だ
-      position: 10
-    - word: た
-      position: 12
-    - word: し
-      position: 13
 - id: Koeto Hitogara-f000046
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -1248,36 +358,6 @@
   sound_begin: 160160
   sound_end: 164200
   sentence: 丁度その時は誰も居合わせなかったので、
-  words:
-    - word: 丁度
-      position: 0
-    - word: その
-      base: 其の
-      position: 2
-    - word: 時
-      position: 4
-    - word: は
-      position: 5
-    - word: 誰
-      position: 6
-    - word: も
-      position: 7
-    - word: 居
-      base: 居る
-      position: 8
-    - word: 合わせ
-      base: 合う
-      position: 9
-    - word: なかっ
-      base: ない
-      position: 12
-    - word: た
-      position: 15
-    - word: の
-      position: 16
-    - word: で
-      base: だ
-      position: 17
 - id: Koeto Hitogara-f000047
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -1286,23 +366,6 @@
   sound_begin: 164200
   sound_end: 166840
   sentence: その人が上著を脱ぎ、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 人
-      position: 2
-    - word: が
-      position: 3
-    - word: 上
-      position: 4
-    - word: 著
-      position: 5
-    - word: を
-      position: 6
-    - word: 脱ぎ
-      base: 脱ぐ
-      position: 7
 - id: Koeto Hitogara-f000048
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -1311,29 +374,6 @@
   sound_begin: 166840
   sound_end: 171240
   sentence: はだかになって尺八を吹き出した。
-  words:
-    - word: はだか
-      base: 裸
-      position: 0
-    - word: に
-      position: 3
-    - word: なっ
-      base: 成る
-      position: 4
-    - word: て
-      position: 6
-    - word: 尺八
-      position: 7
-    - word: を
-      position: 9
-    - word: 吹き
-      base: 吹く
-      position: 10
-    - word: 出し
-      base: 出す
-      position: 12
-    - word: た
-      position: 14
 - id: Koeto Hitogara-f000049
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -1342,54 +382,6 @@
   sound_begin: 171240
   sound_end: 180480
   sentence: 私はそれを感じていたけれども黙って合奏をしたのであった。
-  words:
-    - word: 私
-      position: 0
-    - word: は
-      position: 1
-    - word: それ
-      base: 其れ
-      position: 2
-    - word: を
-      position: 4
-    - word: 感じ
-      base: 感ずる
-      position: 5
-    - word: て
-      position: 7
-    - word: い
-      base: 居る
-      position: 8
-    - word: た
-      position: 9
-    - word: けれど
-      position: 10
-    - word: も
-      position: 13
-    - word: 黙っ
-      base: 黙る
-      position: 14
-    - word: て
-      position: 16
-    - word: 合奏
-      position: 17
-    - word: を
-      position: 19
-    - word: し
-      base: 為る
-      position: 20
-    - word: た
-      position: 21
-    - word: の
-      position: 22
-    - word: で
-      base: だ
-      position: 23
-    - word: あっ
-      base: 有る
-      position: 24
-    - word: た
-      position: 26
 - id: Koeto Hitogara-f000050
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -1398,23 +390,6 @@
   sound_begin: 180480
   sound_end: 182800
   sentence: そしていよいよ済んだあとで、
-  words:
-    - word: そして
-      position: 0
-    - word: いよいよ
-      base: 愈
-      position: 3
-    - word: 済ん
-      base: 済む
-      position: 7
-    - word: だ
-      base: た
-      position: 9
-    - word: あと
-      base: 後
-      position: 10
-    - word: で
-      position: 12
 - id: Koeto Hitogara-f000051
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -1423,29 +398,6 @@
   sound_begin: 182800
   sound_end: 186640
   sentence: 私が今日のような暑い日には、
-  words:
-    - word: 私
-      position: 0
-    - word: が
-      position: 1
-    - word: 今日
-      position: 2
-    - word: の
-      position: 4
-    - word: よう
-      base: 様
-      position: 5
-    - word: な
-      base: だ
-      position: 7
-    - word: 暑い
-      position: 8
-    - word: 日
-      position: 10
-    - word: に
-      position: 11
-    - word: は
-      position: 12
 - id: Koeto Hitogara-f000052
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -1454,27 +406,6 @@
   sound_begin: 186640
   sound_end: 189911
   sentence: はだかでやると大変涼しいでしょうなあ、
-  words:
-    - word: はだか
-      base: 裸
-      position: 0
-    - word: で
-      position: 3
-    - word: やる
-      base: 遣る
-      position: 4
-    - word: と
-      position: 6
-    - word: 大変
-      position: 7
-    - word: 涼しい
-      position: 9
-    - word: でしょう
-      base: です
-      position: 12
-    - word: なあ
-      base: な
-      position: 16
 - id: Koeto Hitogara-f000053
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -1483,27 +414,6 @@
   sound_begin: 189911
   sound_end: 193560
   sentence: と言ったらその人は驚いて、
-  words:
-    - word: と
-      position: 0
-    - word: 言っ
-      base: 言う
-      position: 1
-    - word: たら
-      base: た
-      position: 3
-    - word: その
-      base: 其の
-      position: 5
-    - word: 人
-      position: 7
-    - word: は
-      position: 8
-    - word: 驚い
-      base: 驚く
-      position: 9
-    - word: て
-      position: 11
 - id: Koeto Hitogara-f000054
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -1512,27 +422,6 @@
   sound_begin: 193560
   sound_end: 198120
   sentence: 這う這うの体で帰ってしまった。
-  words:
-    - word: 這う
-      position: 0
-    - word: 這う
-      position: 2
-    - word: の
-      position: 4
-    - word: 体
-      position: 5
-    - word: で
-      position: 6
-    - word: 帰っ
-      base: 帰る
-      position: 7
-    - word: て
-      position: 9
-    - word: しまっ
-      base: 仕舞う
-      position: 10
-    - word: た
-      position: 13
 - id: Koeto Hitogara-f000055
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -1541,48 +430,6 @@
   sound_begin: 198120
   sound_end: 202942
   sentence: その人は別に私を誤魔化そうと思ってやったのではなく、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 人
-      position: 2
-    - word: は
-      position: 3
-    - word: 別
-      position: 4
-    - word: に
-      base: だ
-      position: 5
-    - word: 私
-      position: 6
-    - word: を
-      position: 7
-    - word: 誤魔化そう
-      base: ごまかす
-      position: 8
-    - word: と
-      position: 13
-    - word: 思っ
-      base: 思う
-      position: 14
-    - word: て
-      position: 16
-    - word: やっ
-      base: 遣る
-      position: 17
-    - word: た
-      position: 19
-    - word: の
-      position: 20
-    - word: で
-      base: だ
-      position: 21
-    - word: は
-      position: 22
-    - word: なく
-      base: 無い
-      position: 23
 - id: Koeto Hitogara-f000056
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -1591,28 +438,6 @@
   sound_begin: 202942
   sound_end: 206240
   sentence: 心易さからのことだったろうが、
-  words:
-    - word: 心
-      position: 0
-    - word: 易
-      base: 易い
-      position: 1
-    - word: さ
-      position: 2
-    - word: から
-      position: 3
-    - word: の
-      position: 5
-    - word: こと
-      position: 6
-    - word: だっ
-      base: だ
-      position: 8
-    - word: たろう
-      base: た
-      position: 10
-    - word: が
-      position: 13
 - id: Koeto Hitogara-f000057
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -1621,35 +446,6 @@
   sound_begin: 206240
   sound_end: 212422
   sentence: 私の言ったことが当たったのであった。
-  words:
-    - word: 私
-      position: 0
-    - word: の
-      position: 1
-    - word: 言っ
-      base: 言う
-      position: 2
-    - word: た
-      position: 4
-    - word: こと
-      position: 5
-    - word: が
-      position: 7
-    - word: 当たっ
-      base: 当たる
-      position: 8
-    - word: た
-      position: 11
-    - word: の
-      position: 12
-    - word: で
-      base: だ
-      position: 13
-    - word: あっ
-      base: 有る
-      position: 14
-    - word: た
-      position: 16
 - id: Koeto Hitogara-f000058
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -1658,10 +454,6 @@
   sound_begin: 212422
   sound_end: 213440
   sentence: とりわけ、
-  words:
-    - word: とりわけ
-      base: 取り分け
-      position: 0
 - id: Koeto Hitogara-f000059
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -1670,12 +462,6 @@
   sound_begin: 213440
   sound_end: 214040
   sentence: 声で、
-  words:
-    - word: 声
-      position: 0
-    - word: で
-      base: だ
-      position: 1
 - id: Koeto Hitogara-f000060
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -1684,19 +470,6 @@
   sound_begin: 214040
   sound_end: 216040
   sentence: 一番私の感ずることは、
-  words:
-    - word: 一番
-      position: 0
-    - word: 私
-      position: 2
-    - word: の
-      position: 3
-    - word: 感ずる
-      position: 4
-    - word: こと
-      position: 7
-    - word: は
-      position: 9
 - id: Koeto Hitogara-f000061
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -1705,28 +478,6 @@
   sound_begin: 216040
   sound_end: 221254
   sentence: バスや円タクに乗った場合である。
-  words:
-    - word: バス
-      position: 0
-    - word: や
-      position: 2
-    - word: 円タク
-      position: 3
-    - word: に
-      position: 6
-    - word: 乗っ
-      base: 乗る
-      position: 7
-    - word: た
-      position: 9
-    - word: 場合
-      position: 10
-    - word: で
-      base: だ
-      position: 12
-    - word: ある
-      base: 有る
-      position: 13
 - id: Koeto Hitogara-f000062
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -1735,21 +486,6 @@
   sound_begin: 221254
   sound_end: 223000
   sentence: 声を聞いただけで、
-  words:
-    - word: 声
-      position: 0
-    - word: を
-      position: 1
-    - word: 聞い
-      base: 聞く
-      position: 2
-    - word: た
-      position: 4
-    - word: だけ
-      position: 5
-    - word: で
-      base: だ
-      position: 7
 - id: Koeto Hitogara-f000063
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -1758,17 +494,6 @@
   sound_begin: 223000
   sound_end: 224800
   sentence: 今日は運転手が、
-  words:
-    - word: 今日
-      position: 0
-    - word: は
-      position: 2
-    - word: 運転
-      position: 3
-    - word: 手
-      position: 5
-    - word: が
-      position: 6
 - id: Koeto Hitogara-f000064
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -1777,24 +502,6 @@
   sound_begin: 224800
   sound_end: 227680
   sentence: 疲れているなと思ったり、
-  words:
-    - word: 疲れ
-      base: 疲れる
-      position: 0
-    - word: て
-      position: 2
-    - word: いる
-      base: 居る
-      position: 3
-    - word: な
-      position: 5
-    - word: と
-      position: 6
-    - word: 思っ
-      base: 思う
-      position: 7
-    - word: たり
-      position: 9
 - id: Koeto Hitogara-f000065
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -1803,31 +510,6 @@
   sound_begin: 227680
   sound_end: 230200
   sentence: また賃銀でも値ぎられたのか、
-  words:
-    - word: また
-      base: 又
-      position: 0
-    - word: 賃銀
-      base: 賃金
-      position: 2
-    - word: で
-      position: 4
-    - word: も
-      position: 5
-    - word: 値
-      position: 6
-    - word: ぎら
-      base: 切る
-      position: 7
-    - word: れ
-      base: れる
-      position: 9
-    - word: た
-      position: 10
-    - word: の
-      position: 11
-    - word: か
-      position: 12
 - id: Koeto Hitogara-f000066
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -1836,33 +518,6 @@
   sound_begin: 230200
   sound_end: 233235
   sentence: 非常に憤慨した気持のままだとか、
-  words:
-    - word: 非常
-      position: 0
-    - word: に
-      base: だ
-      position: 2
-    - word: 憤慨
-      position: 3
-    - word: し
-      base: 為る
-      position: 5
-    - word: た
-      position: 6
-    - word: 気持
-      base: 気持ち
-      position: 7
-    - word: の
-      position: 9
-    - word: まま
-      base: 侭
-      position: 10
-    - word: だ
-      position: 12
-    - word: と
-      position: 13
-    - word: か
-      position: 14
 - id: Koeto Hitogara-f000067
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -1871,18 +526,6 @@
   sound_begin: 233235
   sound_end: 238560
   sentence: ちゃんと知ることができる。
-  words:
-    - word: ちゃんと
-      position: 0
-    - word: 知る
-      position: 4
-    - word: こと
-      position: 6
-    - word: が
-      position: 8
-    - word: できる
-      base: 出来る
-      position: 9
 - id: Koeto Hitogara-f000068
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -1891,21 +534,6 @@
   sound_begin: 238560
   sound_end: 240760
   sentence: 電車やバスなどの車掌が、
-  words:
-    - word: 電車
-      position: 0
-    - word: や
-      position: 2
-    - word: バス
-      position: 3
-    - word: など
-      position: 5
-    - word: の
-      position: 7
-    - word: 車掌
-      position: 8
-    - word: が
-      position: 10
 - id: Koeto Hitogara-f000069
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -1914,26 +542,6 @@
   sound_begin: 240760
   sound_end: 243240
   sentence: わざわざ発車するのを遅らせても、
-  words:
-    - word: わざわざ
-      base: 態々
-      position: 0
-    - word: 発車
-      position: 4
-    - word: する
-      base: 為る
-      position: 6
-    - word: の
-      position: 8
-    - word: を
-      position: 9
-    - word: 遅らせ
-      base: 遅らせる
-      position: 10
-    - word: て
-      position: 13
-    - word: も
-      position: 14
 - id: Koeto Hitogara-f000070
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -1942,32 +550,6 @@
   sound_begin: 243240
   sound_end: 246720
   sentence: 私たち不自由な者の手を引いて、
-  words:
-    - word: 私
-      position: 0
-    - word: たち
-      base: 達
-      position: 1
-    - word: 不
-      position: 3
-    - word: 自由
-      position: 4
-    - word: な
-      base: だ
-      position: 6
-    - word: 者
-      position: 7
-    - word: の
-      position: 8
-    - word: 手
-      position: 9
-    - word: を
-      position: 10
-    - word: 引い
-      base: 引く
-      position: 11
-    - word: て
-      position: 13
 - id: Koeto Hitogara-f000071
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -1976,27 +558,6 @@
   sound_begin: 246720
   sound_end: 250775
   sentence: 乗せてくれたりすることがある。
-  words:
-    - word: 乗せ
-      base: 乗せる
-      position: 0
-    - word: て
-      position: 2
-    - word: くれ
-      base: 呉れる
-      position: 3
-    - word: たり
-      position: 5
-    - word: する
-      base: 為る
-      position: 7
-    - word: こと
-      position: 9
-    - word: が
-      position: 11
-    - word: ある
-      base: 有る
-      position: 12
 - id: Koeto Hitogara-f000072
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -2005,17 +566,6 @@
   sound_begin: 250806
   sound_end: 252440
   sentence: こういう風に、
-  words:
-    - word: こう
-      position: 0
-    - word: いう
-      base: 言う
-      position: 2
-    - word: 風
-      position: 4
-    - word: に
-      base: だ
-      position: 5
 - id: Koeto Hitogara-f000073
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -2024,27 +574,6 @@
   sound_begin: 252440
   sound_end: 254960
   sentence: 道の途中を歩いていても、
-  words:
-    - word: 道
-      position: 0
-    - word: の
-      position: 1
-    - word: 途中
-      position: 2
-    - word: を
-      position: 4
-    - word: 歩い
-      base: 歩く
-      position: 5
-    - word: て
-      position: 7
-    - word: い
-      base: 居る
-      position: 8
-    - word: て
-      position: 9
-    - word: も
-      position: 10
 - id: Koeto Hitogara-f000074
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -2053,23 +582,6 @@
   sound_begin: 254960
   sound_end: 257320
   sentence: その人の声を聞いて、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 人
-      position: 2
-    - word: の
-      position: 3
-    - word: 声
-      position: 4
-    - word: を
-      position: 5
-    - word: 聞い
-      base: 聞く
-      position: 6
-    - word: て
-      position: 8
 - id: Koeto Hitogara-f000075
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -2078,33 +590,6 @@
   sound_begin: 257320
   sound_end: 261040
   sentence: その人の人柄が知られるのであるが、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 人
-      position: 2
-    - word: の
-      position: 3
-    - word: 人柄
-      position: 4
-    - word: が
-      position: 6
-    - word: 知ら
-      base: 知る
-      position: 7
-    - word: れる
-      position: 9
-    - word: の
-      position: 11
-    - word: で
-      base: だ
-      position: 12
-    - word: ある
-      base: 有る
-      position: 13
-    - word: が
-      position: 15
 - id: Koeto Hitogara-f000076
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -2113,24 +598,6 @@
   sound_begin: 261040
   sound_end: 263440
   sentence: 私は心の持ちようで、
-  words:
-    - word: 私
-      position: 0
-    - word: は
-      position: 1
-    - word: 心
-      position: 2
-    - word: の
-      position: 3
-    - word: 持ち
-      base: 持つ
-      position: 4
-    - word: よう
-      base: 様
-      position: 6
-    - word: で
-      base: だ
-      position: 8
 - id: Koeto Hitogara-f000077
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -2139,40 +606,6 @@
   sound_begin: 263440
   sound_end: 267852
   sentence: 声まで変わって来るものだということを信じている。
-  words:
-    - word: 声
-      position: 0
-    - word: まで
-      position: 1
-    - word: 変わっ
-      base: 変わる
-      position: 3
-    - word: て
-      position: 6
-    - word: 来る
-      position: 7
-    - word: もの
-      base: 物
-      position: 9
-    - word: だ
-      position: 11
-    - word: と
-      position: 12
-    - word: いう
-      base: 言う
-      position: 13
-    - word: こと
-      position: 15
-    - word: を
-      position: 17
-    - word: 信じ
-      base: 信ずる
-      position: 18
-    - word: て
-      position: 20
-    - word: いる
-      base: 居る
-      position: 21
 - id: Koeto Hitogara-f000078
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -2181,9 +614,6 @@
   sound_begin: 267852
   sound_end: 269160
   sentence: そして、
-  words:
-    - word: そして
-      position: 0
 - id: Koeto Hitogara-f000079
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -2192,37 +622,6 @@
   sound_begin: 269160
   sound_end: 272800
   sentence: 非常に感謝の気持で仕事をしている人と、
-  words:
-    - word: 非常
-      position: 0
-    - word: に
-      base: だ
-      position: 2
-    - word: 感謝
-      position: 3
-    - word: の
-      position: 5
-    - word: 気持
-      base: 気持ち
-      position: 6
-    - word: で
-      position: 8
-    - word: 仕事
-      position: 9
-    - word: を
-      position: 11
-    - word: し
-      base: 為る
-      position: 12
-    - word: て
-      position: 13
-    - word: いる
-      base: 居る
-      position: 14
-    - word: 人
-      position: 16
-    - word: と
-      position: 17
 - id: Koeto Hitogara-f000080
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -2231,20 +630,6 @@
   sound_begin: 272800
   sound_end: 275280
   sentence: 疲れの工合か何か、
-  words:
-    - word: 疲れ
-      position: 0
-    - word: の
-      position: 2
-    - word: 工合
-      base: 具合
-      position: 3
-    - word: か
-      position: 5
-    - word: 何
-      position: 6
-    - word: か
-      position: 7
 - id: Koeto Hitogara-f000081
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -2253,44 +638,6 @@
   sound_begin: 275280
   sound_end: 279520
   sentence: 非常に不愉快らしくしている人があるように思うが、
-  words:
-    - word: 非常
-      position: 0
-    - word: に
-      base: だ
-      position: 2
-    - word: 不
-      position: 3
-    - word: 愉快
-      position: 4
-    - word: らしく
-      base: らしい
-      position: 6
-    - word: し
-      base: 為る
-      position: 9
-    - word: て
-      position: 10
-    - word: いる
-      base: 居る
-      position: 11
-    - word: 人
-      position: 13
-    - word: が
-      position: 14
-    - word: ある
-      base: 有る
-      position: 15
-    - word: よう
-      base: 様
-      position: 17
-    - word: に
-      base: だ
-      position: 19
-    - word: 思う
-      position: 20
-    - word: が
-      position: 22
 - id: Koeto Hitogara-f000082
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -2299,31 +646,6 @@
   sound_begin: 279520
   sound_end: 282960
   sentence: その差は少しの心の持ちようで、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 差
-      position: 2
-    - word: は
-      position: 3
-    - word: 少し
-      position: 4
-    - word: の
-      position: 6
-    - word: 心
-      position: 7
-    - word: の
-      position: 8
-    - word: 持ち
-      base: 持つ
-      position: 9
-    - word: よう
-      base: 様
-      position: 11
-    - word: で
-      base: だ
-      position: 13
 - id: Koeto Hitogara-f000083
   author_japanese: 宮城 道雄
   deck_name: Koeto Hitogara
@@ -2332,29 +654,3 @@
   sound_begin: 282960
   sound_end: 286750
   sentence: どちらにもなるのであると私は思う。
-  words:
-    - word: どちら
-      position: 0
-    - word: に
-      position: 3
-    - word: も
-      position: 4
-    - word: なる
-      base: 成る
-      position: 5
-    - word: の
-      position: 7
-    - word: で
-      base: だ
-      position: 8
-    - word: ある
-      base: 有る
-      position: 9
-    - word: と
-      position: 11
-    - word: 私
-      position: 12
-    - word: は
-      position: 13
-    - word: 思う
-      position: 14

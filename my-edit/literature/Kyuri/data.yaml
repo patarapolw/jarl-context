@@ -6,9 +6,6 @@
   sound_begin: 6235
   sound_end: 10613
   sentence: 胡瓜
-  words:
-    - word: 胡瓜
-      position: 0
 - id: Kyuri-f000003
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -17,28 +14,6 @@
   sound_begin: 10613
   sound_end: 14080
   sentence: 今日では温室栽培の向上によって、
-  words:
-    - word: 今日
-      position: 0
-    - word: で
-      position: 2
-    - word: は
-      position: 3
-    - word: 温室
-      position: 4
-    - word: 栽培
-      position: 6
-    - word: の
-      position: 8
-    - word: 向上
-      position: 9
-    - word: に
-      position: 11
-    - word: よっ
-      base: よる
-      position: 12
-    - word: て
-      position: 14
 - id: Kyuri-f000004
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -47,10 +22,6 @@
   sound_begin: 14080
   sound_end: 16040
   sentence: くだもの、
-  words:
-    - word: くだもの
-      base: 果物
-      position: 0
 - id: Kyuri-f000005
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -59,25 +30,6 @@
   sound_begin: 16040
   sound_end: 21680
   sentence: 野菜など季節がなくなってしまった。
-  words:
-    - word: 野菜
-      position: 0
-    - word: など
-      position: 2
-    - word: 季節
-      position: 4
-    - word: が
-      position: 6
-    - word: なくなっ
-      base: なくなる
-      position: 7
-    - word: て
-      position: 11
-    - word: しまっ
-      base: 仕舞う
-      position: 12
-    - word: た
-      position: 15
 - id: Kyuri-f000006
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -86,9 +38,6 @@
   sound_begin: 21680
   sound_end: 22480
   sentence: 早晩、
-  words:
-    - word: 早晩
-      position: 0
 - id: Kyuri-f000007
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -97,39 +46,6 @@
   sound_begin: 22480
   sound_end: 28596
   sentence: 俳諧歳時記など書き改めねばならなくなりそうだ。
-  words:
-    - word: 俳諧
-      position: 0
-    - word: 歳時
-      position: 2
-    - word: 記
-      position: 4
-    - word: など
-      position: 5
-    - word: 書き
-      base: 書く
-      position: 7
-    - word: 改め
-      base: 改める
-      position: 9
-    - word: ね
-      base: ず
-      position: 11
-    - word: ば
-      position: 12
-    - word: なら
-      base: 成る
-      position: 13
-    - word: なく
-      base: ない
-      position: 15
-    - word: なり
-      base: 成る
-      position: 17
-    - word: そう
-      position: 19
-    - word: だ
-      position: 21
 - id: Kyuri-f000008
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -138,18 +54,6 @@
   sound_begin: 28596
   sound_end: 31400
   sentence: とはいっても、
-  words:
-    - word: と
-      position: 0
-    - word: は
-      position: 1
-    - word: いっ
-      base: 言う
-      position: 2
-    - word: て
-      position: 4
-    - word: も
-      position: 5
 - id: Kyuri-f000009
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -158,31 +62,6 @@
   sound_begin: 31400
   sound_end: 36960
   sentence: やはり旬のものに越したことはない。
-  words:
-    - word: やはり
-      base: 矢張り
-      position: 0
-    - word: 旬
-      position: 3
-    - word: の
-      position: 4
-    - word: もの
-      base: 物
-      position: 5
-    - word: に
-      position: 7
-    - word: 越し
-      base: 越す
-      position: 8
-    - word: た
-      position: 10
-    - word: こと
-      position: 11
-    - word: は
-      position: 13
-    - word: ない
-      base: 無い
-      position: 14
 - id: Kyuri-f000010
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -191,24 +70,6 @@
   sound_begin: 36960
   sound_end: 38840
   sentence: あえてきゅうりにはかぎらないが、
-  words:
-    - word: あえて
-      base: 敢えて
-      position: 0
-    - word: きゅうり
-      base: 胡瓜
-      position: 3
-    - word: に
-      position: 7
-    - word: は
-      position: 8
-    - word: かぎら
-      base: 限る
-      position: 9
-    - word: ない
-      position: 12
-    - word: が
-      position: 14
 - id: Kyuri-f000011
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -217,23 +78,6 @@
   sound_begin: 38840
   sound_end: 42400
   sentence: 旬がうまいということは、
-  words:
-    - word: 旬
-      position: 0
-    - word: が
-      position: 1
-    - word: うまい
-      base: 旨い
-      position: 2
-    - word: と
-      position: 5
-    - word: いう
-      base: 言う
-      position: 6
-    - word: こと
-      position: 8
-    - word: は
-      position: 10
 - id: Kyuri-f000012
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -242,20 +86,6 @@
   sound_begin: 42400
   sound_end: 47520
   sentence: 今も昔も変わらない。
-  words:
-    - word: 今
-      position: 0
-    - word: も
-      position: 1
-    - word: 昔
-      position: 2
-    - word: も
-      position: 3
-    - word: 変わら
-      base: 変わる
-      position: 4
-    - word: ない
-      position: 7
 - id: Kyuri-f000013
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -264,10 +94,6 @@
   sound_begin: 47520
   sound_end: 48120
   sentence: しかし、
-  words:
-    - word: しかし
-      base: 然し
-      position: 0
 - id: Kyuri-f000014
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -276,36 +102,6 @@
   sound_begin: 48120
   sound_end: 52120
   sentence: 促成野菜を味なきもののようにいうのは、
-  words:
-    - word: 促成
-      position: 0
-    - word: 野菜
-      position: 2
-    - word: を
-      position: 4
-    - word: 味
-      position: 5
-    - word: なき
-      base: 無い
-      position: 6
-    - word: もの
-      base: 物
-      position: 8
-    - word: の
-      position: 10
-    - word: よう
-      base: 様
-      position: 11
-    - word: に
-      base: だ
-      position: 13
-    - word: いう
-      base: 言う
-      position: 14
-    - word: の
-      position: 16
-    - word: は
-      position: 17
 - id: Kyuri-f000015
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -314,34 +110,6 @@
   sound_begin: 52120
   sound_end: 57000
   sentence: 促成野菜の価値を認識しない批評であって、
-  words:
-    - word: 促成
-      position: 0
-    - word: 野菜
-      position: 2
-    - word: の
-      position: 4
-    - word: 価値
-      position: 5
-    - word: を
-      position: 7
-    - word: 認識
-      position: 8
-    - word: し
-      base: 為る
-      position: 10
-    - word: ない
-      position: 11
-    - word: 批評
-      position: 13
-    - word: で
-      base: だ
-      position: 15
-    - word: あっ
-      base: 有る
-      position: 16
-    - word: て
-      position: 18
 - id: Kyuri-f000016
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -350,13 +118,6 @@
   sound_begin: 57000
   sound_end: 58600
   sentence: 促成野菜は、
-  words:
-    - word: 促成
-      position: 0
-    - word: 野菜
-      position: 2
-    - word: は
-      position: 4
 - id: Kyuri-f000017
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -365,34 +126,6 @@
   sound_begin: 58600
   sound_end: 64000
   sentence: いわゆる旬のものにない味わいを持っている。
-  words:
-    - word: いわゆる
-      base: 所謂
-      position: 0
-    - word: 旬
-      position: 4
-    - word: の
-      position: 5
-    - word: もの
-      base: 物
-      position: 6
-    - word: に
-      position: 8
-    - word: ない
-      base: 無い
-      position: 9
-    - word: 味わい
-      position: 11
-    - word: を
-      position: 14
-    - word: 持っ
-      base: 持つ
-      position: 15
-    - word: て
-      position: 17
-    - word: いる
-      base: 居る
-      position: 18
 - id: Kyuri-f000018
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -401,12 +134,6 @@
   sound_begin: 64000
   sound_end: 64840
   sentence: 従って、
-  words:
-    - word: 従っ
-      base: 従う
-      position: 0
-    - word: て
-      position: 2
 - id: Kyuri-f000019
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -415,30 +142,6 @@
   sound_begin: 64840
   sound_end: 71920
   sentence: 軽々に取り扱うのは考えものである。
-  words:
-    - word: 軽々
-      position: 0
-    - word: に
-      base: だ
-      position: 2
-    - word: 取り
-      base: 取る
-      position: 3
-    - word: 扱う
-      position: 5
-    - word: の
-      position: 7
-    - word: は
-      position: 8
-    - word: 考えもの
-      base: 考え物
-      position: 9
-    - word: で
-      base: だ
-      position: 13
-    - word: ある
-      base: 有る
-      position: 14
 - id: Kyuri-f000020
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -447,43 +150,6 @@
   sound_begin: 71920
   sound_end: 77087
   sentence: 昔は旬のきゅうりという一つのものであったが、
-  words:
-    - word: 昔
-      position: 0
-    - word: は
-      position: 1
-    - word: 旬
-      position: 2
-    - word: の
-      position: 3
-    - word: きゅうり
-      base: 胡瓜
-      position: 4
-    - word: と
-      position: 8
-    - word: いう
-      base: 言う
-      position: 9
-    - word: 一
-      base: '1'
-      position: 11
-    - word: つ
-      position: 12
-    - word: の
-      position: 13
-    - word: もの
-      base: 物
-      position: 14
-    - word: で
-      base: だ
-      position: 16
-    - word: あっ
-      base: 有る
-      position: 17
-    - word: た
-      position: 19
-    - word: が
-      position: 20
 - id: Kyuri-f000021
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -492,32 +158,6 @@
   sound_begin: 77087
   sound_end: 81188
   sentence: 今日では促成野菜というものができて、
-  words:
-    - word: 今日
-      position: 0
-    - word: で
-      position: 2
-    - word: は
-      position: 3
-    - word: 促成
-      position: 4
-    - word: 野菜
-      position: 6
-    - word: と
-      position: 8
-    - word: いう
-      base: 言う
-      position: 9
-    - word: もの
-      base: 物
-      position: 11
-    - word: が
-      position: 13
-    - word: でき
-      base: 出来る
-      position: 14
-    - word: て
-      position: 16
 - id: Kyuri-f000022
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -526,41 +166,6 @@
   sound_begin: 81188
   sound_end: 88160
   sentence: きゅうりもなすも二種類になっているわけである。
-  words:
-    - word: きゅうり
-      base: 胡瓜
-      position: 0
-    - word: も
-      position: 4
-    - word: なす
-      base: 成す
-      position: 5
-    - word: も
-      position: 7
-    - word: 二
-      base: '2'
-      position: 8
-    - word: 種類
-      position: 9
-    - word: に
-      position: 11
-    - word: なっ
-      base: 成る
-      position: 12
-    - word: て
-      position: 14
-    - word: いる
-      base: 居る
-      position: 15
-    - word: わけ
-      base: 訳
-      position: 17
-    - word: で
-      base: だ
-      position: 19
-    - word: ある
-      base: 有る
-      position: 20
 - id: Kyuri-f000023
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -569,68 +174,6 @@
   sound_begin: 88160
   sound_end: 98240
   sentence: その他にも一が二になっている促成野菜というものは多種多様に発明されている。
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 他
-      position: 2
-    - word: に
-      position: 3
-    - word: も
-      position: 4
-    - word: 一
-      base: '1'
-      position: 5
-    - word: が
-      position: 6
-    - word: 二
-      base: '2'
-      position: 7
-    - word: に
-      position: 8
-    - word: なっ
-      base: 成る
-      position: 9
-    - word: て
-      position: 11
-    - word: いる
-      base: 居る
-      position: 12
-    - word: 促成
-      position: 14
-    - word: 野菜
-      position: 16
-    - word: と
-      position: 18
-    - word: いう
-      base: 言う
-      position: 19
-    - word: もの
-      base: 物
-      position: 21
-    - word: は
-      position: 23
-    - word: 多種
-      position: 24
-    - word: 多様
-      position: 26
-    - word: に
-      base: だ
-      position: 28
-    - word: 発明
-      position: 29
-    - word: さ
-      base: 為る
-      position: 31
-    - word: れ
-      base: れる
-      position: 32
-    - word: て
-      position: 33
-    - word: いる
-      base: 居る
-      position: 34
 - id: Kyuri-f000024
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -639,52 +182,6 @@
   sound_begin: 98240
   sound_end: 109008
   sentence: 従って促成と季節と楽しみは二つにふえているわけである。
-  words:
-    - word: 従っ
-      base: 従う
-      position: 0
-    - word: て
-      position: 2
-    - word: 促成
-      position: 3
-    - word: と
-      position: 5
-    - word: 季節
-      position: 6
-    - word: と
-      position: 8
-    - word: 楽し
-      base: 楽しい
-      position: 9
-    - word: み
-      base: 味
-      position: 11
-    - word: は
-      position: 12
-    - word: 二
-      base: '2'
-      position: 13
-    - word: つ
-      position: 14
-    - word: に
-      position: 15
-    - word: ふえ
-      base: 増える
-      position: 16
-    - word: て
-      position: 18
-    - word: いる
-      base: 居る
-      position: 19
-    - word: わけ
-      base: 訳
-      position: 21
-    - word: で
-      base: だ
-      position: 23
-    - word: ある
-      base: 有る
-      position: 24
 - id: Kyuri-f000025
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -693,30 +190,6 @@
   sound_begin: 109008
   sound_end: 113400
   sentence: ところできゅうりはまっすぐなのがよく、
-  words:
-    - word: ところ
-      base: 所
-      position: 0
-    - word: で
-      position: 3
-    - word: きゅうり
-      base: 胡瓜
-      position: 4
-    - word: は
-      position: 8
-    - word: まっすぐ
-      base: 真っ直ぐ
-      position: 9
-    - word: な
-      base: だ
-      position: 13
-    - word: の
-      position: 14
-    - word: が
-      position: 15
-    - word: よく
-      base: 良い
-      position: 16
 - id: Kyuri-f000026
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -725,22 +198,6 @@
   sound_begin: 113400
   sound_end: 117520
   sentence: ひょうたん形のものはまずい。
-  words:
-    - word: ひょうたん
-      base: 瓢箪
-      position: 0
-    - word: 形
-      position: 5
-    - word: の
-      position: 6
-    - word: もの
-      base: 物
-      position: 7
-    - word: は
-      position: 9
-    - word: まずい
-      base: 不味い
-      position: 10
 - id: Kyuri-f000027
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -749,31 +206,6 @@
   sound_begin: 117520
   sound_end: 123440
   sentence: 総じてよいきゅうりは形が平均している。
-  words:
-    - word: 総じて
-      position: 0
-    - word: よい
-      base: 良い
-      position: 3
-    - word: きゅうり
-      base: 胡瓜
-      position: 5
-    - word: は
-      position: 9
-    - word: 形
-      position: 10
-    - word: が
-      position: 11
-    - word: 平均
-      position: 12
-    - word: し
-      base: 為る
-      position: 14
-    - word: て
-      position: 15
-    - word: いる
-      base: 居る
-      position: 16
 - id: Kyuri-f000028
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -782,17 +214,6 @@
   sound_begin: 123440
   sound_end: 125320
   sentence: 真盛りになると、
-  words:
-    - word: 真盛り
-      base: 真っ盛り
-      position: 0
-    - word: に
-      position: 3
-    - word: なる
-      base: 成る
-      position: 4
-    - word: と
-      position: 6
 - id: Kyuri-f000029
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -801,34 +222,6 @@
   sound_begin: 125320
   sound_end: 128000
   sentence: 大きくなっても種がないうちはうまいが、
-  words:
-    - word: 大きく
-      base: 大きい
-      position: 0
-    - word: なっ
-      base: 成る
-      position: 3
-    - word: て
-      position: 5
-    - word: も
-      position: 6
-    - word: 種
-      position: 7
-    - word: が
-      position: 8
-    - word: ない
-      base: 無い
-      position: 9
-    - word: うち
-      base: 内
-      position: 11
-    - word: は
-      position: 13
-    - word: うまい
-      base: 旨い
-      position: 14
-    - word: が
-      position: 17
 - id: Kyuri-f000030
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -837,42 +230,6 @@
   sound_begin: 128000
   sound_end: 135920
   sentence: 種ができるように成長してしまっては落第である。
-  words:
-    - word: 種
-      position: 0
-    - word: が
-      position: 1
-    - word: できる
-      base: 出来る
-      position: 2
-    - word: よう
-      base: 様
-      position: 5
-    - word: に
-      base: だ
-      position: 7
-    - word: 成長
-      position: 8
-    - word: し
-      base: 為る
-      position: 10
-    - word: て
-      position: 11
-    - word: しまっ
-      base: 仕舞う
-      position: 12
-    - word: て
-      position: 15
-    - word: は
-      position: 16
-    - word: 落第
-      position: 17
-    - word: で
-      base: だ
-      position: 19
-    - word: ある
-      base: 有る
-      position: 20
 - id: Kyuri-f000031
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -881,11 +238,6 @@
   sound_begin: 135920
   sound_end: 137000
   sentence: 一般に、
-  words:
-    - word: 一般
-      position: 0
-    - word: に
-      position: 2
 - id: Kyuri-f000032
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -894,28 +246,6 @@
   sound_begin: 137000
   sound_end: 140880
   sentence: 温室など利用して作った小さなきゅうり、
-  words:
-    - word: 温室
-      position: 0
-    - word: など
-      position: 2
-    - word: 利用
-      position: 4
-    - word: し
-      base: 為る
-      position: 6
-    - word: て
-      position: 7
-    - word: 作っ
-      base: 作る
-      position: 8
-    - word: た
-      position: 10
-    - word: 小さな
-      position: 11
-    - word: きゅうり
-      base: 胡瓜
-      position: 14
 - id: Kyuri-f000033
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -924,35 +254,6 @@
   sound_begin: 140880
   sound_end: 145360
   sentence: 俗に初物と呼ぶような出たてのきゅうりで、
-  words:
-    - word: 俗
-      position: 0
-    - word: に
-      base: だ
-      position: 1
-    - word: 初物
-      position: 2
-    - word: と
-      position: 4
-    - word: 呼ぶ
-      position: 5
-    - word: よう
-      base: 様
-      position: 7
-    - word: な
-      base: だ
-      position: 9
-    - word: 出たて
-      base: 出立て
-      position: 10
-    - word: の
-      position: 13
-    - word: きゅうり
-      base: 胡瓜
-      position: 14
-    - word: で
-      base: だ
-      position: 18
 - id: Kyuri-f000034
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -961,21 +262,6 @@
   sound_begin: 145360
   sound_end: 146960
   sentence: 料理屋などで使うのは、
-  words:
-    - word: 料理
-      position: 0
-    - word: 屋
-      position: 2
-    - word: など
-      position: 3
-    - word: で
-      position: 5
-    - word: 使う
-      position: 6
-    - word: の
-      position: 8
-    - word: は
-      position: 9
 - id: Kyuri-f000035
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -984,16 +270,6 @@
   sound_begin: 146960
   sound_end: 151902
   sentence: 小さなのがよい。
-  words:
-    - word: 小さな
-      position: 0
-    - word: の
-      position: 3
-    - word: が
-      position: 4
-    - word: よい
-      base: 良い
-      position: 5
 - id: Kyuri-f000036
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -1002,32 +278,6 @@
   sound_begin: 151902
   sound_end: 155800
   sentence: これは贅沢なシャレた食べ物の場合だが、
-  words:
-    - word: これ
-      base: 此れ
-      position: 0
-    - word: は
-      position: 2
-    - word: 贅沢
-      position: 3
-    - word: な
-      base: だ
-      position: 5
-    - word: シャレ
-      base: 洒落る
-      position: 6
-    - word: た
-      position: 9
-    - word: 食べ物
-      position: 10
-    - word: の
-      position: 13
-    - word: 場合
-      position: 14
-    - word: だ
-      position: 16
-    - word: が
-      position: 17
 - id: Kyuri-f000037
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -1036,33 +286,6 @@
   sound_begin: 155800
   sound_end: 159200
   sentence: いいきゅうりの漬けものを賞味しようと思ったら、
-  words:
-    - word: いい
-      base: 良い
-      position: 0
-    - word: きゅうり
-      base: 胡瓜
-      position: 2
-    - word: の
-      position: 6
-    - word: 漬けもの
-      base: 漬け物
-      position: 7
-    - word: を
-      position: 11
-    - word: 賞味
-      position: 12
-    - word: しよう
-      base: 為る
-      position: 14
-    - word: と
-      position: 17
-    - word: 思っ
-      base: 思う
-      position: 18
-    - word: たら
-      base: た
-      position: 20
 - id: Kyuri-f000038
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -1071,32 +294,6 @@
   sound_begin: 159200
   sound_end: 165923
   sentence: やはりあとさきの揃ったものを選ぶべきだ。
-  words:
-    - word: やはり
-      base: 矢張り
-      position: 0
-    - word: あとさき
-      base: 後先
-      position: 3
-    - word: の
-      position: 7
-    - word: 揃っ
-      base: 揃う
-      position: 8
-    - word: た
-      position: 10
-    - word: もの
-      base: 物
-      position: 11
-    - word: を
-      position: 13
-    - word: 選ぶ
-      position: 14
-    - word: べき
-      base: べし
-      position: 16
-    - word: だ
-      position: 18
 - id: Kyuri-f000039
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -1105,27 +302,6 @@
   sound_begin: 165923
   sound_end: 169608
   sentence: 漬けものの漬かり加減は非常にむずかしく、
-  words:
-    - word: 漬けもの
-      base: 漬け物
-      position: 0
-    - word: の
-      position: 4
-    - word: 漬かり
-      base: 漬かる
-      position: 5
-    - word: 加減
-      position: 8
-    - word: は
-      position: 10
-    - word: 非常
-      position: 11
-    - word: に
-      base: だ
-      position: 13
-    - word: むずかしく
-      base: 難しい
-      position: 14
 - id: Kyuri-f000040
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -1134,26 +310,6 @@
   sound_begin: 169608
   sound_end: 172480
   sentence: 気候とぬかみそ漬けの置き場で、
-  words:
-    - word: 気候
-      position: 0
-    - word: と
-      position: 2
-    - word: ぬか
-      base: 糠
-      position: 3
-    - word: みそ
-      base: 味噌
-      position: 5
-    - word: 漬け
-      position: 7
-    - word: の
-      position: 9
-    - word: 置き場
-      position: 10
-    - word: で
-      base: だ
-      position: 13
 - id: Kyuri-f000041
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -1162,32 +318,6 @@
   sound_begin: 172480
   sound_end: 176840
   sentence: 漬かり方の速度に非常な差異ができるから、
-  words:
-    - word: 漬かり
-      base: 漬かる
-      position: 0
-    - word: 方
-      position: 3
-    - word: の
-      position: 4
-    - word: 速度
-      position: 5
-    - word: に
-      position: 7
-    - word: 非常
-      position: 8
-    - word: な
-      base: だ
-      position: 10
-    - word: 差異
-      position: 11
-    - word: が
-      position: 13
-    - word: できる
-      base: 出来る
-      position: 14
-    - word: から
-      position: 17
 - id: Kyuri-f000042
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -1196,12 +326,6 @@
   sound_begin: 176840
   sound_end: 177480
   sentence: その点、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 点
-      position: 2
 - id: Kyuri-f000043
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -1210,22 +334,6 @@
   sound_begin: 177480
   sound_end: 182465
   sentence: 注意深く心がける必要がある。
-  words:
-    - word: 注意
-      position: 0
-    - word: 深く
-      base: 深い
-      position: 2
-    - word: 心がける
-      base: 心掛ける
-      position: 4
-    - word: 必要
-      position: 8
-    - word: が
-      position: 10
-    - word: ある
-      base: 有る
-      position: 11
 - id: Kyuri-f000044
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -1234,22 +342,6 @@
   sound_begin: 182465
   sound_end: 184440
   sentence: 不精して漬け過ぎると、
-  words:
-    - word: 不精
-      base: 無精
-      position: 0
-    - word: し
-      base: 為る
-      position: 2
-    - word: て
-      position: 3
-    - word: 漬け
-      base: 浸ける
-      position: 4
-    - word: 過ぎる
-      position: 6
-    - word: と
-      position: 9
 - id: Kyuri-f000045
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -1258,20 +350,6 @@
   sound_begin: 184440
   sound_end: 187160
   sentence: きゅうりはすっぱくなるから、
-  words:
-    - word: きゅうり
-      base: 胡瓜
-      position: 0
-    - word: は
-      position: 4
-    - word: すっぱく
-      base: 酸っぱい
-      position: 5
-    - word: なる
-      base: 成る
-      position: 9
-    - word: から
-      position: 11
 - id: Kyuri-f000046
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -1280,36 +358,6 @@
   sound_begin: 187160
   sound_end: 192551
   sentence: いい加減の時にぬかみそから取り出しておく。
-  words:
-    - word: いい
-      base: 良い
-      position: 0
-    - word: 加減
-      position: 2
-    - word: の
-      position: 4
-    - word: 時
-      position: 5
-    - word: に
-      position: 6
-    - word: ぬか
-      base: 糠
-      position: 7
-    - word: みそ
-      base: 味噌
-      position: 9
-    - word: から
-      position: 11
-    - word: 取り
-      base: 取る
-      position: 13
-    - word: 出し
-      base: 出す
-      position: 15
-    - word: て
-      position: 17
-    - word: おく
-      position: 18
 - id: Kyuri-f000047
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -1318,36 +366,6 @@
   sound_begin: 192551
   sound_end: 198200
   sentence: 取り出しておいても味は急に変わらない。
-  words:
-    - word: 取り
-      base: 取る
-      position: 0
-    - word: 出し
-      base: 出す
-      position: 2
-    - word: て
-      position: 4
-    - word: おい
-      base: おく
-      position: 5
-    - word: て
-      position: 7
-    - word: も
-      position: 8
-    - word: 味
-      position: 9
-    - word: は
-      position: 10
-    - word: 急
-      position: 11
-    - word: に
-      base: だ
-      position: 12
-    - word: 変わら
-      base: 変わる
-      position: 13
-    - word: ない
-      position: 16
 - id: Kyuri-f000048
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -1356,41 +374,6 @@
   sound_begin: 198200
   sound_end: 204411
   sentence: そのまま漬けておいたのでは酸っぱくなってしまう。
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: まま
-      base: 侭
-      position: 2
-    - word: 漬け
-      base: 浸ける
-      position: 4
-    - word: て
-      position: 6
-    - word: おい
-      base: おく
-      position: 7
-    - word: た
-      position: 9
-    - word: の
-      position: 10
-    - word: で
-      base: だ
-      position: 11
-    - word: は
-      position: 12
-    - word: 酸っぱく
-      base: 酸っぱい
-      position: 13
-    - word: なっ
-      base: 成る
-      position: 17
-    - word: て
-      position: 19
-    - word: しまう
-      base: 仕舞う
-      position: 20
 - id: Kyuri-f000049
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -1399,30 +382,6 @@
   sound_begin: 204411
   sound_end: 207520
   sentence: ちょうどいいと思える時に取り出して、
-  words:
-    - word: ちょうど
-      base: 丁度
-      position: 0
-    - word: いい
-      base: 良い
-      position: 4
-    - word: と
-      position: 6
-    - word: 思える
-      base: 思う
-      position: 7
-    - word: 時
-      position: 10
-    - word: に
-      position: 11
-    - word: 取り
-      base: 取る
-      position: 12
-    - word: 出し
-      base: 出す
-      position: 14
-    - word: て
-      position: 16
 - id: Kyuri-f000050
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -1431,23 +390,6 @@
   sound_begin: 207520
   sound_end: 209240
   sentence: ぬかのついたまま包み、
-  words:
-    - word: ぬか
-      base: 糠
-      position: 0
-    - word: の
-      position: 2
-    - word: つい
-      base: 付く
-      position: 3
-    - word: た
-      position: 5
-    - word: まま
-      base: 侭
-      position: 6
-    - word: 包み
-      base: 包む
-      position: 8
 - id: Kyuri-f000051
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -1456,21 +398,6 @@
   sound_begin: 209240
   sound_end: 214760
   sentence: 冷たいところに置いておく。
-  words:
-    - word: 冷たい
-      position: 0
-    - word: ところ
-      base: 所
-      position: 3
-    - word: に
-      position: 6
-    - word: 置い
-      base: 置く
-      position: 7
-    - word: て
-      position: 9
-    - word: おく
-      position: 10
 - id: Kyuri-f000052
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -1479,17 +406,6 @@
   sound_begin: 214760
   sound_end: 215520
   sentence: そうすれば二、
-  words:
-    - word: そう
-      position: 0
-    - word: すれ
-      base: 為る
-      position: 2
-    - word: ば
-      position: 4
-    - word: 二
-      base: '2'
-      position: 5
 - id: Kyuri-f000053
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -1498,27 +414,6 @@
   sound_begin: 215520
   sound_end: 221600
   sentence: 三時間経ってもうまく食べられる。
-  words:
-    - word: 三
-      base: '3'
-      position: 0
-    - word: 時間
-      position: 1
-    - word: 経っ
-      base: 経つ
-      position: 3
-    - word: て
-      position: 5
-    - word: も
-      position: 6
-    - word: うまく
-      base: 旨い
-      position: 7
-    - word: 食べ
-      base: 食べる
-      position: 10
-    - word: られる
-      position: 12
 - id: Kyuri-f000054
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -1527,57 +422,6 @@
   sound_begin: 221600
   sound_end: 231120
   sentence: そのわけは塩が中まで浸潤していかないので味が変わらないからである。
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: わけ
-      base: 訳
-      position: 2
-    - word: は
-      position: 4
-    - word: 塩
-      position: 5
-    - word: が
-      position: 6
-    - word: 中
-      position: 7
-    - word: まで
-      position: 8
-    - word: 浸潤
-      position: 10
-    - word: し
-      base: 為る
-      position: 12
-    - word: て
-      position: 13
-    - word: いか
-      base: 行く
-      position: 14
-    - word: ない
-      position: 16
-    - word: の
-      position: 18
-    - word: で
-      base: だ
-      position: 19
-    - word: 味
-      position: 20
-    - word: が
-      position: 21
-    - word: 変わら
-      base: 変わる
-      position: 22
-    - word: ない
-      position: 25
-    - word: から
-      position: 27
-    - word: で
-      base: だ
-      position: 29
-    - word: ある
-      base: 有る
-      position: 30
 - id: Kyuri-f000055
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -1586,19 +430,6 @@
   sound_begin: 231120
   sound_end: 232600
   sentence: そういったコツは、
-  words:
-    - word: そう
-      position: 0
-    - word: いっ
-      base: 言う
-      position: 2
-    - word: た
-      position: 4
-    - word: コツ
-      base: こつ
-      position: 5
-    - word: は
-      position: 7
 - id: Kyuri-f000056
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -1607,41 +438,6 @@
   sound_begin: 232600
   sound_end: 236680
   sentence: 万人の苦労の集積から生み出されたものであろうが、
-  words:
-    - word: 万人
-      position: 0
-    - word: の
-      position: 2
-    - word: 苦労
-      position: 3
-    - word: の
-      position: 5
-    - word: 集積
-      position: 6
-    - word: から
-      position: 8
-    - word: 生み
-      base: 生む
-      position: 10
-    - word: 出さ
-      base: 出す
-      position: 12
-    - word: れ
-      base: れる
-      position: 14
-    - word: た
-      position: 15
-    - word: もの
-      base: 物
-      position: 16
-    - word: で
-      base: だ
-      position: 18
-    - word: あろう
-      base: 有る
-      position: 19
-    - word: が
-      position: 22
 - id: Kyuri-f000057
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -1650,20 +446,6 @@
   sound_begin: 236680
   sound_end: 239000
   sentence: そのコツを会得し、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: コツ
-      base: こつ
-      position: 2
-    - word: を
-      position: 4
-    - word: 会得
-      position: 5
-    - word: し
-      base: 為る
-      position: 7
 - id: Kyuri-f000058
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -1672,27 +454,6 @@
   sound_begin: 239000
   sound_end: 243160
   sentence: 利用することはよいことである。
-  words:
-    - word: 利用
-      position: 0
-    - word: する
-      base: 為る
-      position: 2
-    - word: こと
-      position: 4
-    - word: は
-      position: 6
-    - word: よい
-      base: 良い
-      position: 7
-    - word: こと
-      position: 9
-    - word: で
-      base: だ
-      position: 11
-    - word: ある
-      base: 有る
-      position: 12
 - id: Kyuri-f000059
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -1701,10 +462,6 @@
   sound_begin: 243160
   sound_end: 244360
   sentence: しかし、
-  words:
-    - word: しかし
-      base: 然し
-      position: 0
 - id: Kyuri-f000060
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -1713,20 +470,6 @@
   sound_begin: 244360
   sound_end: 245840
   sentence: なすの場合は出すと、
-  words:
-    - word: なす
-      base: 茄子
-      position: 0
-    - word: の
-      position: 2
-    - word: 場合
-      position: 3
-    - word: は
-      position: 5
-    - word: 出す
-      position: 6
-    - word: と
-      position: 8
 - id: Kyuri-f000061
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -1735,39 +478,6 @@
   sound_begin: 245840
   sound_end: 251200
   sentence: 間もなく色が変わるからそういうわけにはいかない。
-  words:
-    - word: 間
-      position: 0
-    - word: も
-      position: 1
-    - word: なく
-      base: 無い
-      position: 2
-    - word: 色
-      position: 4
-    - word: が
-      position: 5
-    - word: 変わる
-      position: 6
-    - word: から
-      position: 9
-    - word: そう
-      position: 11
-    - word: いう
-      base: 言う
-      position: 13
-    - word: わけ
-      base: 訳
-      position: 15
-    - word: に
-      position: 17
-    - word: は
-      position: 18
-    - word: いか
-      base: 行く
-      position: 19
-    - word: ない
-      position: 21
 - id: Kyuri-f000062
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -1776,21 +486,6 @@
   sound_begin: 251200
   sound_end: 252760
   sentence: 出し置きの利かないなすは、
-  words:
-    - word: 出し置き
-      position: 0
-    - word: の
-      position: 4
-    - word: 利か
-      base: 利く
-      position: 5
-    - word: ない
-      position: 7
-    - word: なす
-      base: 茄子
-      position: 9
-    - word: は
-      position: 11
 - id: Kyuri-f000063
   author_japanese: 北大路 魯山人
   deck_name: Kyuri
@@ -1799,32 +494,3 @@
   sound_begin: 252760
   sound_end: 257557
   sentence: 適当な時にぬかみそから出して食べることだ。
-  words:
-    - word: 適当
-      position: 0
-    - word: な
-      base: だ
-      position: 2
-    - word: 時
-      position: 3
-    - word: に
-      position: 4
-    - word: ぬか
-      base: 糠
-      position: 5
-    - word: みそ
-      base: 味噌
-      position: 7
-    - word: から
-      position: 9
-    - word: 出し
-      base: 出す
-      position: 11
-    - word: て
-      position: 13
-    - word: 食べる
-      position: 14
-    - word: こと
-      position: 17
-    - word: だ
-      position: 19

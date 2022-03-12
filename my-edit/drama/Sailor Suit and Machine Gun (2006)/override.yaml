@@ -9,21 +9,6 @@
       position: 2
       tags:
         - silent
-    - word: こんな
-      position: 4
-    - word: はず
-      base: 筈
-      position: 7
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 9
-    - word: なかっ
-      base: 無い
-      dictionary: ない
-      position: 11
-    - word: た
-      position: 14
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_01_0.01.18.550-0.01.24.050
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Get up! Izumi... Izumi... you will be late if you don't get up soon.
@@ -35,30 +20,6 @@
       position: 1
       tags:
         - silent
-    - word: おい
-      position: 4
-    - word: 泉
-      position: 6
-    - word: 泉
-      position: 8
-    - word: また
-      base: 又
-      position: 10
-    - word: 起き
-      base: 起きる
-      dictionary: 起きる
-      position: 12
-    - word: ない
-      position: 14
-    - word: と
-      position: 16
-    - word: 遅刻
-      position: 18
-    - word: する
-      base: 為る
-      position: 20
-    - word: ぞ
-      position: 22
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_01_0.03.43.560-0.03.47.560
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: But...the speed limit is only 60...and...
@@ -70,22 +31,6 @@
       position: 1
       tags:
         - silent
-    - word: で
-      position: 4
-    - word: も
-      position: 5
-    - word: 制限
-      position: 6
-    - word: 速度
-      position: 8
-    - word: は
-      position: 10
-    - word: '60'
-      position: 11
-    - word: ｷﾛ
-      base: キロ
-      dictionary: キロ
-      position: 13
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_01_0.05.47.050-0.05.49.550
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: What?<br>Because I am...
@@ -97,26 +42,6 @@
       position: 1
       tags:
         - silent
-    - word: えッ
-      base: えっ
-      position: 4
-    - word: <
-      base: ＜
-      position: 7
-    - word: br
-      base: BR
-      position: 8
-    - word: '>'
-      base: ＞
-      position: 10
-    - word: だ
-      position: 11
-    - word: って
-      position: 12
-    - word: 私
-      position: 14
-    - word: は
-      position: 15
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_01_0.05.58.060-0.06.02.500
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -130,16 +55,6 @@
       position: 1
       tags:
         - silent
-    - word: 人間
-      position: 4
-    - word: 万事
-      position: 6
-    - word: 塞翁
-      position: 8
-    - word: が
-      position: 10
-    - word: 馬
-      position: 11
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_01_0.06.12.010-0.06.17.010
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Izumi, how did you do on the mock exam?
@@ -151,27 +66,6 @@
       position: 1
       tags:
         - silent
-    - word: 泉
-      position: 4
-    - word: この
-      base: 此の
-      position: 6
-    - word: 間
-      position: 8
-    - word: の
-      position: 9
-    - word: 模試
-      position: 10
-    - word: どう
-      position: 13
-    - word: だっ
-      base: だ
-      dictionary: だ
-      position: 15
-    - word: た
-      position: 17
-    - word: の
-      position: 18
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_01_0.06.16.510-0.06.20.010
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: From her appearance, she looks like she would be the smartest in the class.
@@ -183,41 +77,6 @@
       position: 1
       tags:
         - silent
-    - word: 見
-      base: 見る
-      dictionary: 見る
-      position: 4
-    - word: た
-      position: 5
-    - word: 目
-      position: 6
-    - word: は
-      position: 7
-    - word: クラス
-      position: 8
-    - word: 一
-      base: '1'
-      position: 11
-    - word: 賢
-      base: 賢い
-      dictionary: 賢い
-      position: 13
-    - word: そう
-      position: 14
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 16
-    - word: ん
-      base: の
-      position: 17
-    - word: です
-      position: 18
-    - word: けど
-      base: けれど
-      position: 20
-    - word: ね
-      position: 22
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_01_0.06.19.510-0.06.26.520
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Shut up!<br>You are only good at taking notes right Izumi?
@@ -225,33 +84,10 @@
   episode: 1
   sentence: うるさい (麗華)ﾉｰﾄとるのはうまいのにね
   words:
-    - word: うるさい
-      base: 煩い
-      position: 0
     - word: 麗華
       position: 6
       tags:
         - silent
-    - word: ﾉｰﾄ
-      base: ノート
-      dictionary: ノート
-      position: 9
-    - word: とる
-      base: 取る
-      position: 12
-    - word: の
-      position: 14
-    - word: は
-      position: 15
-    - word: うまい
-      base: 旨い
-      position: 16
-    - word: の
-      position: 19
-    - word: に
-      position: 20
-    - word: ね
-      position: 21
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_01_0.06.29.520-0.06.32.020
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Hoshi-kun?
@@ -259,16 +95,10 @@
   episode: 1
   sentence: ≪(岩倉)星君！
   words:
-    - word: ≪
-      position: 0
     - word: 岩倉
       position: 2
       tags:
         - silent
-    - word: 星
-      position: 5
-    - word: 君
-      position: 6
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_01_0.06.57.050-0.07.01.490
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: I've lived a long full life.
@@ -280,21 +110,6 @@
       position: 1
       tags:
         - silent
-    - word: 俺
-      position: 4
-    - word: の
-      position: 5
-    - word: 人生
-      position: 6
-    - word: も
-      position: 8
-    - word: これ
-      base: 此れ
-      position: 9
-    - word: まで
-      position: 11
-    - word: だ
-      position: 13
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_01_0.09.20.990-0.09.23.490
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Hoshi Izumi-san...!
@@ -306,10 +121,6 @@
       position: 1
       tags:
         - silent
-    - word: 星泉
-      position: 4
-    - word: さん
-      position: 6
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_01_0.11.57.080-0.12.00.520
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -325,16 +136,6 @@
       position: 1
       tags:
         - silent
-    - word: 金
-      position: 5
-    - word: さん
-      position: 6
-    - word: ｼｮﾊﾞ
-      base: 所場
-      dictionary: ショバ
-      position: 9
-    - word: 代
-      position: 13
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_01_0.12.34.050-0.12.37.550
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Thank you for your hard work.
@@ -350,16 +151,6 @@
       position: 3
       tags:
         - silent
-    - word: ご
-      base: 御
-      position: 5
-    - word: 苦労
-      position: 6
-    - word: さま
-      base: 様
-      position: 8
-    - word: です
-      position: 10
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_01_0.12.44.060-0.12.49.570
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -373,35 +164,6 @@
       position: 1
       tags:
         - silent
-    - word: ご
-      base: 御
-      position: 4
-    - word: ぶさた
-      base: 無沙汰
-      position: 5
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 8
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 9
-    - word: ます
-      position: 10
-    - word: そろそろ
-      position: 13
-    - word: 祭り
-      base: 祭
-      position: 17
-    - word: の
-      position: 19
-    - word: 時期
-      position: 20
-    - word: です
-      position: 22
-    - word: ね
-      position: 24
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_01_0.12.57.080-0.13.02.010
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -411,47 +173,10 @@
   episode: 1
   sentence: 密輸でもしに行ってたのかよ (柴田)何だと コラッ
   words:
-    - word: 密輸
-      position: 0
-    - word: で
-      position: 2
-    - word: も
-      position: 3
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 4
-    - word: に
-      position: 5
-    - word: 行っ
-      base: 行く
-      dictionary: 行く
-      position: 6
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 8
-    - word: た
-      position: 9
-    - word: の
-      position: 10
-    - word: か
-      position: 11
-    - word: よ
-      position: 12
     - word: 柴田
       position: 15
       tags:
         - silent
-    - word: 何
-      position: 18
-    - word: だ
-      position: 19
-    - word: と
-      position: 20
-    - word: コラッ
-      base: こら
-      position: 22
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_01_0.14.00.510-0.14.05.110
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: If you are looking for Hoshi...he passed away yesterday.
@@ -459,8 +184,6 @@
   episode: 1
   sentence: ≪(受付嬢)星は 先日 亡くなりました
   words:
-    - word: ≪
-      position: 0
     - word: 受付
       base: 受け付け
       position: 2
@@ -470,22 +193,6 @@
       position: 4
       tags:
         - silent
-    - word: 星
-      position: 6
-    - word: は
-      position: 7
-    - word: 先日
-      position: 9
-    - word: 亡くなり
-      base: 亡くなる
-      dictionary: 亡くなる
-      position: 12
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 16
-    - word: た
-      position: 18
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_01_0.14.12.020-0.14.15.520
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Wasn't he going to Singapore?
@@ -497,38 +204,6 @@
       position: 1
       tags:
         - silent
-    - word: ｼﾝｶﾞﾎﾟｰﾙ
-      base: シンガポール
-      dictionary: シンガポール
-      position: 4
-    - word: に
-      position: 12
-    - word: 行っ
-      base: 行く
-      dictionary: 行く
-      position: 13
-    - word: た
-      position: 15
-    - word: ん
-      base: の
-      position: 16
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 17
-    - word: なかっ
-      base: 無い
-      dictionary: ない
-      position: 20
-    - word: た
-      position: 23
-    - word: ん
-      base: の
-      position: 24
-    - word: です
-      position: 25
-    - word: か
-      position: 27
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_01_0.14.22.030-0.14.24.530
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: She will have to come live at our place.<br>-Really...?
@@ -540,34 +215,6 @@
       position: 1
       tags:
         - silent
-    - word: うち
-      base: 内
-      position: 4
-    - word: で
-      position: 6
-    - word: 引き
-      base: 引く
-      dictionary: 引く
-      position: 7
-    - word: 取る
-      position: 9
-    - word: しか
-      position: 11
-    - word: ない
-      base: 無い
-      position: 14
-    - word: ん
-      base: の
-      position: 16
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 17
-    - word: ない
-      base: 無い
-      position: 19
-    - word: の
-      position: 21
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_01_0.14.24.030-0.14.27.530
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -581,29 +228,6 @@
       position: 1
       tags:
         - silent
-    - word: 本当
-      position: 4
-    - word: か
-      position: 6
-    - word: お前
-      base: 御前
-      position: 8
-    - word: <
-      base: ＜
-      position: 11
-    - word: br
-      base: BR
-      position: 12
-    - word: '>'
-      base: ＞
-      position: 14
-    - word: それ
-      base: 其れ
-      position: 15
-    - word: が
-      position: 17
-    - word: さ
-      position: 18
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_01_0.15.52.050-0.15.55.550
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -613,27 +237,10 @@
   episode: 1
   sentence: おやじの遺言だ (武)佐久間さんだって
   words:
-    - word: おやじ
-      base: 親父
-      position: 0
-    - word: の
-      position: 3
-    - word: 遺言
-      position: 4
-    - word: だ
-      position: 6
     - word: 武
       position: 9
       tags:
         - silent
-    - word: 佐久間
-      position: 11
-    - word: さん
-      position: 14
-    - word: だ
-      position: 16
-    - word: って
-      position: 17
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_01_0.17.56.540-0.18.00.480
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: When I get back this weekend, want to go catch a movie?
@@ -645,38 +252,6 @@
       position: 2
       tags:
         - silent
-    - word: 出張
-      position: 5
-    - word: から
-      position: 7
-    - word: 戻っ
-      base: 戻る
-      dictionary: 戻る
-      position: 9
-    - word: たら
-      base: た
-      dictionary: た
-      position: 11
-    - word: 映画
-      position: 14
-    - word: で
-      position: 16
-    - word: も
-      position: 17
-    - word: 見
-      base: 見る
-      dictionary: 見る
-      position: 18
-    - word: に
-      position: 19
-    - word: 行か
-      base: 行く
-      dictionary: 行く
-      position: 20
-    - word: ない
-      position: 22
-    - word: か
-      position: 24
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_01_0.26.52.030-0.26.54.530
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Let's go take a closer look.
@@ -692,16 +267,6 @@
       position: 3
       tags:
         - silent
-    - word: 私
-      position: 5
-    - word: 達
-      position: 6
-    - word: も
-      position: 7
-    - word: 行こう
-      base: 行く
-      dictionary: 行く
-      position: 8
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_01_0.27.33.000-0.27.36.510
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Wait Izumi!<br>He's calling me.
@@ -713,24 +278,6 @@
       position: 1
       tags:
         - silent
-    - word: ちょっと
-      base: 一寸
-      position: 4
-    - word: 泉
-      position: 8
-    - word: <
-      base: ＜
-      position: 10
-    - word: br
-      base: BR
-      position: 11
-    - word: '>'
-      base: ＞
-      position: 13
-    - word: 星
-      position: 14
-    - word: さん
-      position: 15
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_01_0.34.41.060-0.34.44.560
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -744,26 +291,6 @@
       position: 1
       tags:
         - silent
-    - word: 悪かっ
-      base: 悪い
-      dictionary: 悪い
-      position: 4
-    - word: た
-      position: 7
-    - word: な
-      position: 8
-    - word: 突然
-      position: 10
-    - word: 呼び
-      base: 呼ぶ
-      dictionary: 呼ぶ
-      position: 12
-    - word: 出し
-      base: 出す
-      dictionary: 出す
-      position: 14
-    - word: て
-      position: 16
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_01_0.36.09.020-0.36.11.520
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Welcome home!
@@ -771,23 +298,10 @@
   episode: 1
   sentence: ≪(金造)お帰りなさい
   words:
-    - word: ≪
-      position: 0
     - word: 金造
       position: 2
       tags:
         - silent
-    - word: お
-      base: 御
-      position: 5
-    - word: 帰り
-      base: 帰る
-      dictionary: 帰る
-      position: 6
-    - word: なさい
-      base: 為す
-      dictionary: なさる
-      position: 8
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_01_0.37.13.510-0.37.17.520
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Oh no, which one?<br>I've forgotten, I'll go find out right away.
@@ -799,37 +313,6 @@
       position: 1
       tags:
         - silent
-    - word: ど
-      position: 4
-    - word: ご
-      base: 御
-      position: 5
-    - word: だっ
-      base: だ
-      dictionary: だ
-      position: 6
-    - word: げ
-      position: 8
-    - word: <
-      base: ＜
-      position: 10
-    - word: br
-      base: BR
-      position: 11
-    - word: '>'
-      base: ＞
-      position: 13
-    - word: 忘れ
-      base: 忘れる
-      dictionary: 忘れる
-      position: 14
-    - word: て
-      position: 16
-    - word: まった
-      base: 又
-      position: 17
-    - word: じゃ
-      position: 20
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_01_0.39.14.000-0.39.17.500
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: If you know or think of anything, please contact me anytime.
@@ -837,38 +320,10 @@
   episode: 1
   sentence: ≪(黒木)何か気づいたことが ありましたら…
   words:
-    - word: ≪
-      position: 0
     - word: 黒木
       position: 2
       tags:
         - silent
-    - word: 何
-      position: 5
-    - word: か
-      position: 6
-    - word: 気づい
-      base: 気付く
-      dictionary: 気づく
-      position: 7
-    - word: た
-      position: 10
-    - word: こと
-      position: 11
-    - word: が
-      position: 13
-    - word: あり
-      base: 有る
-      dictionary: ある
-      position: 15
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 17
-    - word: たら
-      base: た
-      dictionary: た
-      position: 19
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_01_0.39.42.530-0.39.46.030
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Yes.<br>I have something else I want to tell all of you.
@@ -880,13 +335,6 @@
       position: 1
       tags:
         - silent
-    - word: はい
-      position: 4
-    - word: それ
-      base: 其れ
-      position: 7
-    - word: と
-      position: 9
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_01_0.40.10.490-0.40.13.990
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: But... To live up to our Clan's name,
@@ -898,8 +346,6 @@
       position: 1
       tags:
         - silent
-    - word: そんな
-      position: 3
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_01_0.51.59.500-0.52.02.440
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: 2nd Leader.
@@ -907,14 +353,10 @@
   episode: 1
   sentence: ≪(金造)若頭
   words:
-    - word: ≪
-      position: 0
     - word: 金造
       position: 2
       tags:
         - silent
-    - word: 若頭
-      position: 5
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_01_0.55.02.990-0.55.06.490
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -924,46 +366,10 @@
   episode: 1
   sentence: ≪(記者)三大寺先生 麻薬取締法の 強化についてなんですが
   words:
-    - word: ≪
-      position: 0
     - word: 記者
       position: 2
       tags:
         - silent
-    - word: 三大寺
-      position: 5
-    - word: 先生
-      position: 8
-    - word: 麻薬
-      position: 11
-    - word: 取締
-      base: 取り締まり
-      position: 13
-    - word: 法
-      position: 15
-    - word: の
-      position: 16
-    - word: 強化
-      position: 18
-    - word: に
-      position: 20
-    - word: つい
-      base: つく
-      dictionary: つく
-      position: 21
-    - word: て
-      position: 23
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 24
-    - word: ん
-      base: の
-      position: 25
-    - word: です
-      position: 26
-    - word: が
-      position: 28
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_01_0.55.05.990-0.55.08.490
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: I will work at it.
@@ -980,18 +386,6 @@
       position: 2
       tags:
         - silent
-    - word: がんばり
-      base: 頑張る
-      dictionary: がんばる
-      position: 5
-    - word: ま
-      position: 9
-    - word: ～
-      base: から
-      position: 10
-    - word: す
-      base: 為る
-      position: 11
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.00.01.750-0.00.05.150
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: I am the Medaka Clan's 8th Generation Leader
@@ -1003,19 +397,6 @@
       position: 1
       tags:
         - silent
-    - word: 目高
-      position: 3
-    - word: 組
-      position: 5
-    - word: 八
-      base: '8'
-      position: 7
-    - word: 代
-      position: 8
-    - word: 目
-      position: 9
-    - word: 組長
-      position: 10
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.00.10.760-0.00.14.930
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: My life is now dedicated to protecting and serving you!
@@ -1027,32 +408,6 @@
       position: 1
       tags:
         - silent
-    - word: 命
-      position: 5
-    - word: を
-      position: 6
-    - word: かけ
-      base: 掛ける
-      dictionary: かける
-      position: 7
-    - word: て
-      position: 9
-    - word: お守り
-      base: 御守り
-      position: 10
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 13
-    - word: ます
-      position: 14
-    - word: 八
-      base: '8'
-      position: 17
-    - word: 代
-      position: 18
-    - word: 目
-      position: 19
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.01.28.100-0.01.31.600
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: I'm sorry, they escaped.
@@ -1064,32 +419,6 @@
       position: 1
       tags:
         - silent
-    - word: すい
-      base: すむ
-      dictionary: すむ
-      position: 4
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 6
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 8
-    - word: 逃げ
-      base: 逃げる
-      dictionary: 逃げる
-      position: 10
-    - word: られ
-      base: られる
-      dictionary: られる
-      position: 12
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 14
-    - word: た
-      position: 16
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.01.33.110-0.01.37.280
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Who would do such a thing?
@@ -1101,36 +430,6 @@
       position: 1
       tags:
         - silent
-    - word: どこ
-      position: 3
-    - word: の
-      position: 5
-    - word: どいつ
-      position: 6
-    - word: だ
-      position: 9
-    - word: よ
-      position: 10
-    - word: <
-      base: ＜
-      position: 12
-    - word: br
-      base: BR
-      position: 13
-    - word: '>'
-      base: ＞
-      position: 15
-    - word: こんな
-      position: 16
-    - word: ムチャ
-      base: 無茶
-      position: 19
-    - word: すん
-      base: 為る
-      dictionary: する
-      position: 22
-    - word: の
-      position: 24
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.01.36.780-0.01.41.980
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Must be those Hamaguchi guys... Those young bastards doing such a thing!!!
@@ -1142,44 +441,6 @@
       position: 1
       tags:
         - silent
-    - word: 浜口
-      position: 4
-    - word: 組
-      position: 6
-    - word: の
-      position: 7
-    - word: ヤツ
-      base: 奴
-      position: 8
-    - word: ら
-      base: 等
-      position: 10
-    - word: だ
-      position: 11
-    - word: な
-      position: 12
-    - word: なめ
-      base: 嘗める
-      dictionary: なめる
-      position: 14
-    - word: くさっ
-      base: 腐る
-      dictionary: くさる
-      position: 16
-    - word: た
-      position: 19
-    - word: マネ
-      position: 20
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 22
-    - word: やがっ
-      base: やがる
-      dictionary: やがる
-      position: 23
-    - word: て
-      position: 26
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.01.55.800-0.01.59.700
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: It's obvious looking at this place!
@@ -1191,26 +452,6 @@
       position: 1
       tags:
         - silent
-    - word: この
-      base: 此の
-      position: 4
-    - word: 状況
-      position: 6
-    - word: 見りゃ
-      base: 見る
-      dictionary: 見る
-      position: 8
-    - word: 分かん
-      base: 分かる
-      dictionary: 分かる
-      position: 12
-    - word: だろ
-      base: だ
-      dictionary: だ
-      position: 15
-    - word: ッ
-      base: つ
-      position: 17
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.02.18.750-0.02.23.260
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Once I get Asakusa, Tokyo... Here eat...
@@ -1222,22 +463,6 @@
       position: 1
       tags:
         - silent
-    - word: 浅草
-      position: 4
-    - word: を
-      position: 6
-    - word: 手
-      position: 7
-    - word: に
-      position: 8
-    - word: 入れりゃ
-      base: 入れる
-      dictionary: 入れる
-      position: 9
-    - word: 東京
-      position: 14
-    - word: は
-      position: 16
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.02.28.100-0.02.32.270
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: It's war! There's only war!
@@ -1249,25 +474,6 @@
       position: 1
       tags:
         - silent
-    - word: 戦争
-      position: 4
-    - word: ッス
-      base: です
-      position: 6
-    - word: よ
-      position: 8
-    - word: 戦争
-      position: 10
-    - word: しか
-      position: 12
-    - word: ない
-      base: 無い
-      position: 14
-    - word: ッス
-      base: です
-      position: 16
-    - word: よ
-      position: 18
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.04.26.080-0.04.29.580
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: She's taking notes...
@@ -1279,18 +485,6 @@
       position: 1
       tags:
         - silent
-    - word: メモっ
-      base: メモる
-      dictionary: メモる
-      position: 4
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 7
-    - word: ます
-      position: 8
-    - word: よ
-      position: 10
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.05.09.060-0.05.13.560
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -1304,44 +498,6 @@
       position: 1
       tags:
         - silent
-    - word: この
-      base: 此の
-      position: 4
-    - word: ウソ
-      base: うそ
-      position: 7
-    - word: ば
-      position: 9
-    - word: しゃべる
-      base: 喋る
-      position: 10
-    - word: な
-      position: 14
-    - word: その
-      base: 其の
-      position: 16
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 18
-    - word: ずき
-      base: 好き
-      position: 19
-    - word: の
-      position: 21
-    - word: 汗
-      position: 22
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 23
-    - word: ん
-      base: の
-      position: 24
-    - word: だ
-      position: 25
-    - word: ば
-      position: 26
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.05.37.580-0.05.41.590
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Excuse me, may I ask who the new leader is?
@@ -1353,27 +509,6 @@
       position: 1
       tags:
         - silent
-    - word: すい
-      base: すむ
-      dictionary: すむ
-      position: 4
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 6
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 8
-    - word: 新しい
-      position: 10
-    - word: 組長
-      position: 13
-    - word: さん
-      position: 15
-    - word: て
-      base: って
-      position: 17
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.07.03.040-0.07.06.210
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Wow!!!
@@ -1385,12 +520,6 @@
       position: 1
       tags:
         - silent
-    - word: すっげえ
-      base: 凄い
-      dictionary: すっごい
-      position: 4
-    - word: ➡
-      position: 8
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.07.49.080-0.07.52.590
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Izumi did you hear, did you hear?
@@ -1402,20 +531,6 @@
       position: 1
       tags:
         - silent
-    - word: 泉
-      position: 4
-    - word: 見
-      base: 見る
-      dictionary: 見る
-      position: 6
-    - word: た
-      position: 7
-    - word: 見
-      base: 見る
-      dictionary: 見る
-      position: 10
-    - word: た
-      position: 11
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.07.54.090-0.07.58.590
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: There is a girl from our school in this picture.
@@ -1427,32 +542,6 @@
       position: 1
       tags:
         - silent
-    - word: ちっちゃく
-      base: 小さい
-      dictionary: ちっちゃい
-      position: 4
-    - word: ウチ
-      base: 内
-      position: 10
-    - word: の
-      position: 12
-    - word: 生徒
-      position: 13
-    - word: が
-      position: 15
-    - word: 写っ
-      base: 写る
-      dictionary: 写る
-      position: 16
-    - word: てる
-      position: 18
-    - word: ん
-      base: の
-      position: 20
-    - word: です
-      position: 21
-    - word: よ
-      position: 23
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.08.09.040-0.08.13.540
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: The teachers are having a meeting this morning.
@@ -1464,28 +553,6 @@
       position: 1
       tags:
         - silent
-    - word: 先生
-      position: 4
-    - word: 達
-      position: 6
-    - word: 朝
-      position: 8
-    - word: から
-      position: 9
-    - word: 緊急
-      position: 11
-    - word: 職員
-      position: 13
-    - word: 会議
-      position: 15
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 17
-    - word: てる
-      position: 18
-    - word: よ
-      position: 20
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.08.15.040-0.08.19.380
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -1499,30 +566,6 @@
       position: 1
       tags:
         - silent
-    - word: どう
-      position: 4
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 6
-    - word: て
-      position: 7
-    - word: 我が
-      position: 9
-    - word: 校
-      position: 11
-    - word: の
-      position: 12
-    - word: 生徒
-      position: 13
-    - word: が
-      position: 15
-    - word: こんな
-      position: 17
-    - word: 所
-      position: 20
-    - word: に
-      position: 21
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.08.18.880-0.08.23.380
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -1536,35 +579,6 @@
       position: 1
       tags:
         - silent
-    - word: この
-      base: 此の
-      position: 4
-    - word: 生徒
-      position: 6
-    - word: を
-      position: 8
-    - word: 見つけ
-      base: 見付ける
-      dictionary: 見つける
-      position: 9
-    - word: 出し
-      base: 出す
-      dictionary: 出す
-      position: 12
-    - word: て
-      position: 14
-    - word: 事情
-      position: 16
-    - word: を
-      position: 18
-    - word: 聞き
-      base: 聞く
-      dictionary: 聞く
-      position: 19
-    - word: ましょう
-      base: ます
-      dictionary: ます
-      position: 21
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.08.30.390-0.08.33.890
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: What???? A FIRE????
@@ -1603,8 +617,6 @@
       position: 3
       tags:
         - silent
-    - word: 火事
-      position: 5
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.10.33.450-0.10.35.950
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Keep it going!!
@@ -1616,10 +628,6 @@
       position: 1
       tags:
         - silent
-    - word: リリィ
-      position: 3
-    - word: ちゃん
-      position: 6
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.10.38.450-0.10.41.650
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Who are you people??
@@ -1631,16 +639,6 @@
       position: 1
       tags:
         - silent
-    - word: 誰
-      position: 5
-    - word: アンタ
-      base: 貴方
-      position: 8
-    - word: 達
-      position: 11
-    - word: ッ
-      base: つ
-      position: 12
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.11.22.760-0.11.26.930
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: If the Hamaguchi Clan takes Asakusa
@@ -1652,37 +650,6 @@
       position: 1
       tags:
         - silent
-    - word: 浜口
-      position: 4
-    - word: 組
-      position: 6
-    - word: の
-      position: 7
-    - word: ヤツ
-      base: 奴
-      position: 8
-    - word: ら
-      base: 等
-      position: 10
-    - word: に
-      position: 11
-    - word: 浅草
-      position: 13
-    - word: 取ら
-      base: 取る
-      dictionary: 取る
-      position: 15
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 17
-    - word: た
-      position: 18
-    - word: ん
-      base: の
-      position: 19
-    - word: じゃ
-      position: 20
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.11.30.770-0.11.33.270
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Yes.
@@ -1690,15 +657,10 @@
   episode: 2
   sentence: ≪(英樹)えーッ!?
   words:
-    - word: ≪
-      position: 0
     - word: 英樹
       position: 2
       tags:
         - silent
-    - word: えーッ
-      base: ええ
-      position: 5
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.14.04.040-0.14.09.540
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -1713,48 +675,6 @@
       position: 1
       tags:
         - silent
-    - word: その
-      base: 其の
-      position: 4
-    - word: うち
-      base: 内
-      position: 6
-    - word: ウチ
-      base: 家
-      position: 9
-    - word: ら
-      base: 等
-      position: 11
-    - word: の
-      position: 12
-    - word: 店
-      position: 13
-    - word: に
-      position: 14
-    - word: も
-      position: 15
-    - word: 浜口
-      position: 17
-    - word: 組
-      position: 19
-    - word: の
-      position: 20
-    - word: 連中
-      position: 21
-    - word: が
-      position: 23
-    - word: 来る
-      position: 24
-    - word: ん
-      base: の
-      position: 26
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 27
-    - word: ない
-      base: 無い
-      position: 29
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.14.09.040-0.14.13.540
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -1768,31 +688,6 @@
       position: 1
       tags:
         - silent
-    - word: どう
-      position: 4
-    - word: する
-      base: 為る
-      position: 6
-    - word: ん
-      base: の
-      position: 8
-    - word: だ
-      position: 9
-    - word: よ
-      position: 10
-    - word: アンタ
-      base: 貴方
-      position: 12
-    - word: が
-      position: 15
-    - word: 新しい
-      position: 16
-    - word: 組長
-      position: 19
-    - word: だろ
-      base: だ
-      dictionary: だ
-      position: 21
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.14.44.240-0.14.49.340
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Please don't be kidding us.
@@ -1804,36 +699,6 @@
       position: 1
       tags:
         - silent
-    - word: 冗談
-      position: 4
-    - word: やめ
-      base: やめる
-      dictionary: やめる
-      position: 6
-    - word: て
-      position: 8
-    - word: くれ
-      base: 呉れる
-      dictionary: くれる
-      position: 9
-    - word: よ
-      position: 11
-    - word: 大丈夫
-      position: 13
-    - word: です
-      position: 16
-    - word: 信用
-      position: 19
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 21
-    - word: て
-      position: 22
-    - word: ください
-      base: 下さる
-      dictionary: くださる
-      position: 23
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.15.23.210-0.15.27.720
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Even after this has happened you don't plan to react?
@@ -1845,32 +710,6 @@
       position: 1
       tags:
         - silent
-    - word: これ
-      base: 此れ
-      position: 4
-    - word: で
-      position: 6
-    - word: も
-      position: 7
-    - word: まだ
-      base: 未だ
-      position: 8
-    - word: 動か
-      base: 動く
-      dictionary: 動く
-      position: 11
-    - word: ない
-      position: 13
-    - word: つもり
-      base: 積もり
-      position: 15
-    - word: ッス
-      base: です
-      position: 18
-    - word: か
-      position: 20
-    - word: ➡
-      position: 22
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.16.23.540-0.16.28.050
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Hide, Shut your mouth!
@@ -1878,35 +717,10 @@
   episode: 2
   sentence: でしゃばんな！<br>(金造)ヒデ 口をつつしめ
   words:
-    - word: でしゃばん
-      base: 出しゃばる
-      dictionary: でしゃばる
-      position: 0
-    - word: な
-      position: 5
-    - word: <
-      base: ＜
-      position: 7
-    - word: br
-      base: BR
-      position: 8
-    - word: '>'
-      base: ＞
-      position: 10
     - word: 金造
       position: 12
       tags:
         - silent
-    - word: ヒデ
-      position: 15
-    - word: 口
-      position: 18
-    - word: を
-      position: 19
-    - word: つつしめ
-      base: 慎む
-      dictionary: つつしむ
-      position: 20
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.18.50.290-0.18.53.290
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Good evening.
@@ -1918,9 +732,6 @@
       position: 1
       tags:
         - silent
-    - word: こんばんは
-      base: 今晩は
-      position: 5
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.22.37.070-0.22.42.170
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -1930,41 +741,10 @@
   episode: 2
   sentence: 《老後に備えて 再婚でもしたら？》 《(貴志)いいのか？》
   words:
-    - word: 老後
-      position: 1
-    - word: に
-      position: 3
-    - word: 備え
-      base: 備える
-      dictionary: 備える
-      position: 4
-    - word: て
-      position: 6
-    - word: 再婚
-      position: 8
-    - word: で
-      position: 10
-    - word: も
-      position: 11
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 12
-    - word: たら
-      base: た
-      dictionary: た
-      position: 13
     - word: 貴志
       position: 20
       tags:
         - silent
-    - word: いい
-      base: 良い
-      position: 23
-    - word: の
-      position: 25
-    - word: か
-      position: 26
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.23.12.710-0.23.16.210
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Please take care of this.<br>I understand.
@@ -1972,26 +752,10 @@
   episode: 2
   sentence: 頼みます (男)分かりました
   words:
-    - word: 頼み
-      base: 頼む
-      dictionary: 頼む
-      position: 0
-    - word: ます
-      position: 2
     - word: 男
       position: 6
       tags:
         - silent
-    - word: 分かり
-      base: 分かる
-      dictionary: 分かる
-      position: 8
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 11
-    - word: た
-      position: 13
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.23.22.720-0.23.27.220
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -2005,43 +769,6 @@
       position: 1
       tags:
         - silent
-    - word: 結局
-      position: 4
-    - word: 誰
-      position: 7
-    - word: だっ
-      base: だ
-      dictionary: だ
-      position: 8
-    - word: た
-      position: 10
-    - word: ん
-      base: の
-      position: 11
-    - word: です
-      position: 12
-    - word: か
-      position: 14
-    - word: ね
-      position: 15
-    - word: <
-      base: ＜
-      position: 17
-    - word: br
-      base: BR
-      position: 18
-    - word: '>'
-      base: ＞
-      position: 20
-    - word: あの
-      base: 彼の
-      position: 21
-    - word: 新聞
-      position: 23
-    - word: の
-      position: 25
-    - word: 子
-      position: 26
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.23.51.080-0.23.54.580
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: City council Leader?<br>Thank you for a hard day's work.
@@ -2053,20 +780,6 @@
       position: 1
       tags:
         - silent
-    - word: 町内
-      position: 4
-    - word: 会
-      position: 6
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 7
-    - word: の
-      position: 8
-    - word: に
-      position: 9
-    - word: 組長
-      position: 12
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.25.00.020-0.25.04.120
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Ohoh, I saw it in the newspaper. Its been hard for Medaka Clan hasn't it.
@@ -2078,29 +791,6 @@
       position: 1
       tags:
         - silent
-    - word: おう
-      base: おお
-      position: 4
-    - word: 見
-      base: 見る
-      dictionary: 見る
-      position: 7
-    - word: た
-      position: 8
-    - word: よ
-      position: 9
-    - word: 新聞
-      position: 11
-    - word: 大変
-      position: 14
-    - word: だ
-      position: 16
-    - word: な
-      position: 17
-    - word: 目高
-      position: 19
-    - word: 組
-      position: 21
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.27.16.090-0.27.21.260
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: You bastards!<br>Please spare us!
@@ -2119,40 +809,6 @@
       position: 4
       tags:
         - silent
-    - word: つぶす
-      base: 潰す
-      position: 6
-    - word: ぞ
-      position: 9
-    - word: こら
-      base: 此れ
-      position: 11
-    - word: ッ
-      base: つ
-      position: 13
-    - word: やめ
-      base: やめる
-      dictionary: やめる
-      position: 15
-    - word: て
-      position: 17
-    - word: ください
-      base: 下さる
-      dictionary: くださる
-      position: 18
-    - word: お
-      base: 御
-      position: 23
-    - word: 願い
-      base: 願う
-      dictionary: 願う
-      position: 24
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 26
-    - word: ます
-      position: 27
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.27.27.430-0.27.29.930
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Shut up!
@@ -2166,12 +822,6 @@
       position: 1
       tags:
         - silent
-    - word: うるせえ
-      base: 煩い
-      dictionary: うるさい
-      position: 3
-    - word: ッ
-      position: 7
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.28.10.070-0.28.14.080
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: There is a point to what Hide is saying.
@@ -2183,30 +833,6 @@
       position: 1
       tags:
         - silent
-    - word: ヒデ
-      position: 3
-    - word: の
-      position: 5
-    - word: 言う
-      position: 6
-    - word: こと
-      position: 8
-    - word: に
-      position: 10
-    - word: も
-      position: 11
-    - word: 一理
-      position: 13
-    - word: ある
-      base: 有る
-      position: 15
-    - word: ん
-      base: の
-      position: 17
-    - word: ス
-      base: です
-      dictionary: ッス
-      position: 18
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.28.33.930-0.28.38.100
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: But I already said it... Sakuma-san,
@@ -2218,26 +844,6 @@
       position: 1
       tags:
         - silent
-    - word: で
-      position: 4
-    - word: も
-      position: 5
-    - word: 言っ
-      base: 言う
-      dictionary: 言う
-      position: 7
-    - word: ちゃっ
-      base: ちゃう
-      dictionary: ちゃう
-      position: 9
-    - word: た
-      position: 12
-    - word: し
-      position: 13
-    - word: 佐久間
-      position: 16
-    - word: さん
-      position: 19
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.29.34.090-0.29.37.590
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: The Leader still hasn't shown up has she?
@@ -2249,22 +855,6 @@
       position: 1
       tags:
         - silent
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 3
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 4
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 6
-    - word: ね
-      position: 7
-    - word: 組長
-      position: 9
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.30.11.060-0.30.16.560
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: The role of group leader is not something you can just say in words.
@@ -2276,41 +866,6 @@
       position: 2
       tags:
         - silent
-    - word: 組長
-      position: 5
-    - word: って
-      position: 7
-    - word: の
-      position: 9
-    - word: は
-      position: 10
-    - word: な
-      position: 11
-    - word: 口
-      position: 13
-    - word: だけ
-      position: 14
-    - word: で
-      position: 16
-    - word: なれる
-      position: 18
-    - word: もん
-      position: 21
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 23
-    - word: ねえ
-      base: 無い
-      dictionary: ない
-      position: 25
-    - word: ん
-      base: の
-      position: 27
-    - word: だ
-      position: 28
-    - word: よ
-      position: 29
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.31.02.710-0.31.06.210
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Mayumi,
@@ -2322,10 +877,6 @@
       position: 1
       tags:
         - silent
-    - word: 真由美
-      position: 5
-    - word: へ
-      position: 8
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.35.26.040-0.35.29.540
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Please stop!!
@@ -2333,25 +884,11 @@
   episode: 2
   sentence: やめてください (ヤクザ)うるせえ
   words:
-    - word: やめ
-      base: やめる
-      dictionary: やめる
-      position: 0
-    - word: て
-      position: 2
-    - word: ください
-      base: 下さる
-      dictionary: くださる
-      position: 3
     - word: ヤクザ
       base: やくざ
       position: 9
       tags:
         - silent
-    - word: うるせえ
-      base: 煩い
-      dictionary: うるさい
-      position: 13
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.37.19.350-0.37.23.850
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Looking good!<br>Hurry and take it off!
@@ -2370,35 +907,12 @@
       position: 4
       tags:
         - silent
-    - word: おう
-      base: おお
-      position: 6
-    - word: いい
-      base: 良い
-      position: 9
-    - word: ねえ
-      base: ね
-      position: 11
     - word: Ｂ
       base: b
       dictionary: b
       position: 15
       tags:
         - silent
-    - word: 脱げ
-      base: 脱ぐ
-      dictionary: 脱げる
-      position: 17
-    - word: 脱げ
-      base: 脱ぐ
-      dictionary: 脱げる
-      position: 19
-    - word: おら
-      base: 己
-      position: 22
-    - word: ッ
-      base: つ
-      position: 24
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.37.23.350-0.37.26.860
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: What's wrong? Hurry and take it off.
@@ -2412,22 +926,6 @@
       position: 1
       tags:
         - silent
-    - word: 脱い
-      base: 脱ぐ
-      dictionary: 脱ぐ
-      position: 3
-    - word: じゃえ
-      base: ちゃう
-      dictionary: じゃう
-      position: 5
-    - word: 脱い
-      base: 脱ぐ
-      dictionary: 脱ぐ
-      position: 9
-    - word: じゃえ
-      base: ちゃう
-      dictionary: じゃう
-      position: 11
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.37.26.360-0.37.30.860
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: What's wrong? Hurry and take it off.<br>TAKE IT OFF!
@@ -2443,18 +941,6 @@
       position: 3
       tags:
         - silent
-    - word: 脱げ
-      base: 脱ぐ
-      dictionary: 脱げる
-      position: 6
-    - word: 脱げ
-      base: 脱ぐ
-      dictionary: 脱げる
-      position: 9
-    - word: 脱げ
-      base: 脱ぐ
-      dictionary: 脱げる
-      position: 12
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.45.54.060-0.45.56.960
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Welcome.
@@ -2466,14 +952,6 @@
       position: 1
       tags:
         - silent
-    - word: いらっしゃい
-      base: いらっしゃる
-      dictionary: いらっしゃる
-      position: 6
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 12
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_02_0.46.02.840-0.46.05.640
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Please excuse me.
@@ -2485,21 +963,6 @@
       position: 1
       tags:
         - silent
-    - word: ちょっと
-      base: 一寸
-      position: 5
-    - word: すい
-      base: すむ
-      dictionary: すむ
-      position: 9
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 11
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 13
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_03_0.00.04.850-0.00.07.850
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: It seems that heroin was involved in your father's death.
@@ -2511,21 +974,6 @@
       position: 2
       tags:
         - silent
-    - word: 実
-      position: 6
-    - word: は
-      position: 7
-    - word: お
-      base: 御
-      position: 8
-    - word: 父さん
-      position: 9
-    - word: の
-      position: 12
-    - word: 死
-      position: 13
-    - word: に
-      position: 14
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_03_0.00.10.850-0.00.13.860
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: If you ever want to know more about the side of your father you never knew,
@@ -2537,28 +985,6 @@
       position: 2
       tags:
         - silent
-    - word: あなた
-      base: 貴方
-      position: 6
-    - word: の
-      position: 9
-    - word: 知ら
-      base: 知る
-      dictionary: 知る
-      position: 10
-    - word: ない
-      position: 12
-    - word: お
-      base: 御
-      position: 15
-    - word: 父さん
-      position: 16
-    - word: の
-      position: 19
-    - word: こと
-      position: 20
-    - word: ➡》
-      position: 22
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_03_0.00.34.880-0.00.39.380
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: I don't mind. It breaks a lot anyway.
@@ -2570,23 +996,6 @@
       position: 1
       tags:
         - silent
-    - word: いい
-      base: 良い
-      position: 3
-    - word: ん
-      base: の
-      position: 5
-    - word: です
-      position: 6
-    - word: どうせ
-      position: 9
-    - word: すぐ
-      base: 直ぐ
-      position: 13
-    - word: 壊れる
-      position: 15
-    - word: から
-      position: 18
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_03_0.02.22.850-0.02.27.360
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: I don't want to keep playing with those guys from the Medaka Clan.
@@ -2594,35 +1003,10 @@
   episode: 3
   sentence: ≪(浜口)ﾒﾀﾞｶの学校とのお遊びは もうおしまい
   words:
-    - word: ≪
-      position: 0
     - word: 浜口
       position: 2
       tags:
         - silent
-    - word: ﾒﾀﾞｶ
-      base: 目高
-      dictionary: メダカ
-      position: 5
-    - word: の
-      position: 9
-    - word: 学校
-      position: 10
-    - word: と
-      position: 12
-    - word: の
-      position: 13
-    - word: お
-      base: 御
-      position: 14
-    - word: 遊び
-      position: 15
-    - word: は
-      position: 17
-    - word: もう
-      position: 19
-    - word: おしまい
-      position: 21
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_03_0.02.26.860-0.02.29.860
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: I've already made the preparations.
@@ -2634,24 +1018,6 @@
       position: 1
       tags:
         - silent
-    - word: もう
-      position: 4
-    - word: 手
-      position: 6
-    - word: は
-      position: 7
-    - word: 打っ
-      base: 打つ
-      dictionary: 打つ
-      position: 8
-    - word: て
-      position: 10
-    - word: あり
-      base: 有る
-      dictionary: ある
-      position: 11
-    - word: ます
-      position: 13
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_03_0.02.48.380-0.02.50.880
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Yes.
@@ -2663,8 +1029,6 @@
       position: 1
       tags:
         - silent
-    - word: はい
-      position: 4
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_03_0.03.01.820-0.03.06.320
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Leader, I've finished wiping this here.<br>Thank you for your hard work.
@@ -2676,31 +1040,6 @@
       position: 1
       tags:
         - silent
-    - word: 組長
-      position: 4
-    - word: こっち
-      base: 此方
-      position: 7
-    - word: 終わり
-      base: 終わる
-      dictionary: 終わる
-      position: 10
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 13
-    - word: た
-      position: 15
-    - word: ご
-      base: 御
-      position: 17
-    - word: 苦労
-      position: 18
-    - word: さま
-      base: 様
-      position: 20
-    - word: です
-      position: 22
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_03_0.03.16.840-0.03.22.340
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Please endure it for a little longer.<br>It's really poor, Medaka Clan.
@@ -2712,39 +1051,6 @@
       position: 1
       tags:
         - silent
-    - word: こらえ
-      base: 堪える
-      dictionary: こらえる
-      position: 4
-    - word: て
-      position: 7
-    - word: ください
-      base: 下さる
-      dictionary: くださる
-      position: 8
-    - word: 本当
-      position: 13
-    - word: に
-      position: 15
-    - word: 貧乏
-      position: 16
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 18
-    - word: ん
-      base: の
-      position: 19
-    - word: です
-      position: 20
-    - word: ね
-      position: 22
-    - word: 目高
-      position: 24
-    - word: 組
-      position: 26
-    - word: って
-      position: 27
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_03_0.03.39.860-0.03.43.360
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Gosh...Could you please not talk to me right now?
@@ -2756,26 +1062,6 @@
       position: 1
       tags:
         - silent
-    - word: 今
-      position: 3
-    - word: 話し
-      base: 話す
-      dictionary: 話す
-      position: 5
-    - word: かけ
-      base: 掛ける
-      dictionary: かける
-      position: 7
-    - word: ない
-      position: 9
-    - word: で
-      position: 11
-    - word: ください
-      base: 下さる
-      dictionary: くださる
-      position: 12
-    - word: よ
-      position: 16
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_03_0.04.18.830-0.04.22.840
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -2785,49 +1071,10 @@
   episode: 3
   sentence: ゆるんでんのはお前の頭ん中だろ ≪(英樹)ｳｯｾｰ！ ﾀｺ頭
   words:
-    - word: ゆるん
-      base: 緩む
-      dictionary: ゆるむ
-      position: 0
-    - word: でん
-      base: てる
-      dictionary: でる
-      position: 3
-    - word: の
-      position: 5
-    - word: は
-      position: 6
-    - word: お前
-      base: 御前
-      position: 7
-    - word: の
-      position: 9
-    - word: 頭
-      position: 10
-    - word: ん
-      position: 11
-    - word: 中
-      position: 12
-    - word: だろ
-      base: だ
-      dictionary: だ
-      position: 13
-    - word: ≪
-      position: 16
     - word: 英樹
       position: 18
       tags:
         - silent
-    - word: ｳｯｾｰ
-      base: ウッセー
-      dictionary: ウッセー
-      position: 21
-    - word: ﾀｺ
-      base: 蛸
-      dictionary: タコ
-      position: 27
-    - word: 頭
-      position: 29
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_03_0.04.37.850-0.04.41.860
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: '- Are you inspecting? Hello to you both.<br>- Hello, hello.'
@@ -2835,25 +1082,10 @@
   episode: 3
   sentence: ≪(店主)見回りかい ご苦労さん
   words:
-    - word: ≪
-      position: 0
     - word: 店主
       position: 2
       tags:
         - silent
-    - word: 見回り
-      position: 5
-    - word: か
-      position: 8
-    - word: い
-      position: 9
-    - word: ご
-      base: 御
-      position: 11
-    - word: 苦労
-      position: 12
-    - word: さん
-      position: 14
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_03_0.04.41.360-0.04.45.360
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Ah. Sorry, Soft contact lenses. 2 week Pure.<br>Sorry.
@@ -2865,26 +1097,6 @@
       position: 1
       tags:
         - silent
-    - word: あｯ
-      base: 有る
-      dictionary: ある
-      position: 4
-    - word: ｲﾃｯ
-      base: イテッ
-      dictionary: イテッ
-      position: 7
-    - word: すい
-      base: すむ
-      dictionary: すむ
-      position: 11
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 13
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 15
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_03_0.09.13.300-0.09.16.300
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Yes! Let's take the picture! Come on!
@@ -2896,12 +1108,6 @@
       position: 1
       tags:
         - silent
-    - word: はい
-      position: 3
-    - word: いくよ
-      position: 6
-    - word: くるよ
-      position: 10
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_03_0.10.11.850-0.10.15.350
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Hideki! Protect the Leader!<br>Are you okay?
@@ -2909,29 +1115,10 @@
   episode: 3
   sentence: ヒデ 組長を！<br>≪(英樹)はい
   words:
-    - word: ヒデ
-      position: 0
-    - word: 組長
-      position: 3
-    - word: を
-      position: 5
-    - word: <
-      base: ＜
-      position: 7
-    - word: br
-      base: BR
-      position: 8
-    - word: '>'
-      base: ＞
-      position: 10
-    - word: ≪
-      position: 11
     - word: 英樹
       position: 13
       tags:
         - silent
-    - word: はい
-      position: 16
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_03_0.15.06.430-0.15.09.940
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: You've got it wrong, haven't you?
@@ -2943,27 +1130,6 @@
       position: 1
       tags:
         - silent
-    - word: 何
-      position: 5
-    - word: か
-      position: 6
-    - word: 勘違い
-      position: 7
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 10
-    - word: てる
-      position: 11
-    - word: よう
-      base: 様
-      position: 13
-    - word: だ
-      position: 15
-    - word: な
-      position: 16
-    - word: ➡
-      position: 17
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_03_0.15.38.470-0.15.42.970
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Ah. Yuuji, come here.
@@ -2971,21 +1137,10 @@
   episode: 3
   sentence: ≪(柴田)勇次 ちょっと来い
   words:
-    - word: ≪
-      position: 0
     - word: 柴田
       position: 2
       tags:
         - silent
-    - word: 勇次
-      position: 5
-    - word: ちょっと
-      base: 一寸
-      position: 8
-    - word: 来い
-      base: 来る
-      dictionary: 来る
-      position: 12
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_03_0.16.11.930-0.16.15.940
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Izumi... Are those people there really from the neighborhood watch?
@@ -2993,35 +1148,10 @@
   episode: 3
   sentence: ≪(和子)泉 本当に町内会なの あの人達？
   words:
-    - word: ≪
-      position: 0
     - word: 和子
       position: 2
       tags:
         - silent
-    - word: 泉
-      position: 5
-    - word: 本当
-      position: 7
-    - word: に
-      position: 9
-    - word: 町内
-      position: 10
-    - word: 会
-      position: 12
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 13
-    - word: の
-      position: 14
-    - word: あの
-      base: 彼の
-      position: 16
-    - word: 人
-      position: 18
-    - word: 達
-      position: 19
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_03_0.16.15.440-0.16.21.440
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -3031,42 +1161,10 @@
   episode: 3
   sentence: 何で 見えない？<br>(朱美)全然 ﾔｸｻﾞみたいですもん
   words:
-    - word: 何
-      position: 0
-    - word: で
-      position: 1
-    - word: 見え
-      base: 見える
-      dictionary: 見える
-      position: 3
-    - word: ない
-      position: 5
-    - word: <
-      base: ＜
-      position: 8
-    - word: br
-      base: BR
-      position: 9
-    - word: '>'
-      base: ＞
-      position: 11
     - word: 朱美
       position: 13
       tags:
         - silent
-    - word: 全然
-      position: 16
-    - word: ﾔｸｻﾞ
-      base: やくざ
-      dictionary: ヤクザ
-      position: 19
-    - word: みたい
-      position: 23
-    - word: です
-      position: 26
-    - word: もん
-      base: もの
-      position: 28
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_03_0.16.27.950-0.16.31.450
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Ah! Last time, that student printed in the newspaper. Could it be..
@@ -3078,35 +1176,6 @@
       position: 1
       tags:
         - silent
-    - word: あッ
-      base: 有る
-      dictionary: ある
-      position: 4
-    - word: この
-      base: 此の
-      position: 7
-    - word: 間
-      position: 9
-    - word: の
-      position: 10
-    - word: 新聞
-      position: 11
-    - word: に
-      position: 13
-    - word: 写っ
-      base: 写る
-      dictionary: 写る
-      position: 15
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 17
-    - word: た
-      position: 18
-    - word: 生徒
-      position: 19
-    - word: って
-      position: 21
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_03_0.16.45.970-0.16.51.470
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -3120,40 +1189,6 @@
       position: 1
       tags:
         - silent
-    - word: いくら
-      base: 幾ら
-      position: 4
-    - word: お
-      base: 御
-      position: 7
-    - word: 友達
-      position: 8
-    - word: だ
-      position: 10
-    - word: と
-      position: 11
-    - word: は
-      position: 12
-    - word: いえ
-      base: 言う
-      dictionary: いう
-      position: 13
-    - word: バレ
-      base: ばれる
-      dictionary: バレる
-      position: 16
-    - word: たら
-      base: た
-      dictionary: た
-      position: 18
-    - word: 退学
-      position: 20
-    - word: です
-      position: 22
-    - word: から
-      position: 24
-    - word: ね
-      position: 26
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_03_0.16.57.480-0.17.01.920
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Right side! Okay!<br>Right side! Okay!
@@ -3161,27 +1196,10 @@
   episode: 3
   sentence: 右 よし！<br>(一同)右よし
   words:
-    - word: 右
-      position: 0
-    - word: よし
-      position: 2
-    - word: <
-      base: ＜
-      position: 5
-    - word: br
-      base: BR
-      position: 6
-    - word: '>'
-      base: ＞
-      position: 8
     - word: 一同
       position: 10
       tags:
         - silent
-    - word: 右
-      position: 13
-    - word: よし
-      position: 14
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_03_0.17.01.420-0.17.05.420
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Left side! Okay!<br>Left side! Okay!
@@ -3189,27 +1207,10 @@
   episode: 3
   sentence: 左 よし！<br>(一同)左よし
   words:
-    - word: 左
-      position: 0
-    - word: よし
-      position: 2
-    - word: <
-      base: ＜
-      position: 5
-    - word: br
-      base: BR
-      position: 6
-    - word: '>'
-      base: ＞
-      position: 8
     - word: 一同
       position: 10
       tags:
         - silent
-    - word: 左
-      position: 13
-    - word: よし
-      position: 14
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_03_0.17.04.920-0.17.09.420
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Behind! Okay!<br>Behind! Aokay!
@@ -3217,27 +1218,10 @@
   episode: 3
   sentence: 後方 よし！<br>(一同)後方よし
   words:
-    - word: 後方
-      position: 0
-    - word: よし
-      position: 3
-    - word: <
-      base: ＜
-      position: 6
-    - word: br
-      base: BR
-      position: 7
-    - word: '>'
-      base: ＞
-      position: 9
     - word: 一同
       position: 11
       tags:
         - silent
-    - word: 後方
-      position: 14
-    - word: よし
-      position: 16
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_03_0.17.11.430-0.17.15.430
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Today we will also safely pass through. Okay!
@@ -3249,20 +1233,6 @@
       position: 1
       tags:
         - silent
-    - word: 今日
-      position: 4
-    - word: も
-      position: 6
-    - word: 安全
-      position: 7
-    - word: で
-      position: 9
-    - word: いこう
-      base: 行く
-      dictionary: いく
-      position: 10
-    - word: よし
-      position: 14
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_03_0.17.15.930-0.17.19.430
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Leader!
@@ -3270,14 +1240,10 @@
   episode: 3
   sentence: ≪(店主)組長
   words:
-    - word: ≪
-      position: 0
     - word: 店主
       position: 2
       tags:
         - silent
-    - word: 組長
-      position: 5
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_03_0.17.41.960-0.17.46.460
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: How is it?<br>Good.
@@ -3289,10 +1255,6 @@
       position: 2
       tags:
         - silent
-    - word: どう
-      position: 6
-    - word: うん
-      position: 12
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_03_0.20.09.750-0.20.12.250
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: The target is Sakuma-san?!<br>So it's not Leader...
@@ -3300,20 +1262,10 @@
   episode: 3
   sentence: ≪(英樹)標的は佐久間さん!?
   words:
-    - word: ≪
-      position: 0
     - word: 英樹
       position: 2
       tags:
         - silent
-    - word: 標的
-      position: 5
-    - word: は
-      position: 7
-    - word: 佐久間
-      position: 8
-    - word: さん
-      position: 11
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_03_0.20.11.750-0.20.14.590
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: So it's not Leader...
@@ -3321,29 +1273,10 @@
   episode: 3
   sentence: ≪(健次)組長じゃなかったんだ
   words:
-    - word: ≪
-      position: 0
     - word: 健次
       position: 2
       tags:
         - silent
-    - word: 組長
-      position: 5
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 7
-    - word: なかっ
-      base: 無い
-      dictionary: ない
-      position: 9
-    - word: た
-      position: 12
-    - word: ん
-      base: の
-      position: 13
-    - word: だ
-      position: 14
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_03_0.25.53.600-0.25.57.100
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Kuroki-san, where did you go during the daytime?
@@ -3355,37 +1288,6 @@
       position: 1
       tags:
         - silent
-    - word: 黒木
-      position: 4
-    - word: さん
-      position: 6
-    - word: 昼間
-      position: 9
-    - word: どこ
-      position: 11
-    - word: さ
-      position: 13
-    - word: 出
-      base: 出る
-      dictionary: 出る
-      position: 15
-    - word: はっ
-      base: はる
-      dictionary: はる
-      position: 16
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 18
-    - word: た
-      position: 19
-    - word: ん
-      base: の
-      position: 20
-    - word: です
-      position: 21
-    - word: か
-      position: 23
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_03_0.25.56.600-0.26.00.100
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Ah, sorry. I had some errands.<br>Please tell me everything.
@@ -3397,27 +1299,6 @@
       position: 1
       tags:
         - silent
-    - word: すい
-      base: すむ
-      dictionary: すむ
-      position: 4
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 6
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 8
-    - word: ちょっと
-      base: 一寸
-      position: 10
-    - word: 所用
-      position: 14
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 16
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_03_0.26.03.870-0.26.08.070
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Izumi Hoshi-san has finally returned.
@@ -3429,26 +1310,6 @@
       position: 1
       tags:
         - silent
-    - word: ようやく
-      base: 漸く
-      position: 4
-    - word: お
-      base: 御
-      position: 8
-    - word: 帰り
-      base: 帰る
-      dictionary: 帰る
-      position: 9
-    - word: です
-      position: 11
-    - word: よ
-      position: 13
-    - word: 泉
-      position: 15
-    - word: 星
-      position: 16
-    - word: さん
-      position: 17
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_03_0.27.04.530-0.27.09.040
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: You're sick?<br>But today's the mock exam!
@@ -3460,35 +1321,6 @@
       position: 1
       tags:
         - silent
-    - word: 夏
-      position: 4
-    - word: カゼ
-      base: 風邪
-      position: 5
-    - word: 今日
-      position: 9
-    - word: は
-      position: 11
-    - word: 模試
-      position: 13
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 15
-    - word: ん
-      base: の
-      position: 16
-    - word: です
-      position: 17
-    - word: けど
-      base: けれど
-      position: 19
-    - word: も
-      position: 21
-    - word: ね
-      position: 22
-    - word: ➡
-      position: 23
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_03_0.28.18.110-0.28.20.610
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: We'll go and search too.
@@ -3496,24 +1328,10 @@
   episode: 3
   sentence: ≪(武)俺達も捜します
   words:
-    - word: ≪
-      position: 0
     - word: 武
       position: 2
       tags:
         - silent
-    - word: 俺
-      position: 4
-    - word: 達
-      position: 5
-    - word: も
-      position: 6
-    - word: 捜し
-      base: 探す
-      dictionary: 捜す
-      position: 7
-    - word: ます
-      position: 9
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_03_0.28.32.620-0.28.36.630
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Okay!<br>Let's go.
@@ -3521,37 +1339,10 @@
   episode: 3
   sentence: オッス！<br>≪(武)ヒデ ついて来いや
   words:
-    - word: オッス
-      position: 0
-    - word: <
-      base: ＜
-      position: 4
-    - word: br
-      base: BR
-      position: 5
-    - word: '>'
-      base: ＞
-      position: 7
-    - word: ≪
-      position: 8
     - word: 武
       position: 10
       tags:
         - silent
-    - word: ヒデ
-      position: 12
-    - word: つい
-      base: つく
-      dictionary: つく
-      position: 15
-    - word: て
-      position: 17
-    - word: 来い
-      base: 来る
-      dictionary: 来る
-      position: 18
-    - word: や
-      position: 20
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_03_0.37.59.800-0.38.02.300
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Shibata!
@@ -3559,14 +1350,10 @@
   episode: 3
   sentence: ≪(金造)柴田！
   words:
-    - word: ≪
-      position: 0
     - word: 金造
       position: 2
       tags:
         - silent
-    - word: 柴田
-      position: 5
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_03_0.39.41.840-0.39.47.340
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Sakuma is already dead.<br>You're all finished.
@@ -3578,40 +1365,6 @@
       position: 1
       tags:
         - silent
-    - word: 佐久間
-      position: 4
-    - word: が
-      position: 7
-    - word: くたばっ
-      base: くたばる
-      dictionary: くたばる
-      position: 8
-    - word: た
-      position: 12
-    - word: ん
-      base: の
-      position: 13
-    - word: だ
-      position: 14
-    - word: おめえ
-      base: 御前
-      position: 16
-    - word: ら
-      base: 等
-      position: 19
-    - word: もう
-      position: 21
-    - word: 終わり
-      position: 23
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 26
-    - word: ん
-      base: の
-      position: 27
-    - word: だ
-      position: 28
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_03_0.44.51.880-0.44.54.880
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Izumi?
@@ -3619,8 +1372,6 @@
   episode: 3
   sentence: ≪(和子達)泉？
   words:
-    - word: ≪
-      position: 0
     - word: 和子
       position: 2
       tags:
@@ -3629,8 +1380,6 @@
       position: 4
       tags:
         - silent
-    - word: 泉
-      position: 6
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_03_0.45.06.830-0.45.10.830
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Right now, as a politician, as a government official,
@@ -3638,8 +1387,6 @@
   episode: 3
   sentence: ≪(三大寺)大麻 ﾍﾛｲﾝ 覚せい剤と➡
   words:
-    - word: ≪
-      position: 0
     - word: 三
       base: '3'
       position: 2
@@ -3649,21 +1396,6 @@
       position: 3
       tags:
         - silent
-    - word: 大麻
-      position: 6
-    - word: ﾍﾛｲﾝ
-      base: ヘロイン
-      dictionary: ヘロイン
-      position: 9
-    - word: 覚せい
-      base: 覚醒
-      position: 14
-    - word: 剤
-      position: 17
-    - word: と
-      position: 18
-    - word: ➡
-      position: 19
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_03_0.45.45.870-0.45.48.370
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Leader?
@@ -3671,8 +1403,6 @@
   episode: 3
   sentence: ≪(和子達)組長？
   words:
-    - word: ≪
-      position: 0
     - word: 和子
       position: 2
       tags:
@@ -3681,8 +1411,6 @@
       position: 4
       tags:
         - silent
-    - word: 組長
-      position: 6
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.00.06.650-0.00.09.650
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: What do you mean by &quot;Leader&quot;?
@@ -3694,10 +1422,6 @@
       position: 1
       tags:
         - silent
-    - word: 組長
-      position: 4
-    - word: って
-      position: 6
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.00.12.656-0.00.15.656
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: So...sorry!
@@ -3709,12 +1433,6 @@
       position: 1
       tags:
         - silent
-    - word: ご
-      base: 御
-      position: 3
-    - word: ごめん
-      base: 御免
-      position: 5
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.00.19.162-0.00.21.664
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Too suspicious...
@@ -3731,8 +1449,6 @@
       position: 2
       tags:
         - silent
-    - word: 怪しい
-      position: 4
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.00.21.164-0.00.24.167
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: '-Leader!<br>-Leader!!'
@@ -3744,14 +1460,10 @@
       position: 1
       tags:
         - silent
-    - word: 組長
-      position: 4
     - word: 健次
       position: 8
       tags:
         - silent
-    - word: 組長
-      position: 11
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.00.37.681-0.00.40.683
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: If you go back now, it'll be more suspicious.
@@ -3763,30 +1475,6 @@
       position: 1
       tags:
         - silent
-    - word: 今
-      position: 3
-    - word: 戻っ
-      base: 戻る
-      dictionary: 戻る
-      position: 4
-    - word: たら
-      base: た
-      dictionary: た
-      position: 6
-    - word: 余計
-      position: 9
-    - word: 怪しま
-      base: 怪しむ
-      dictionary: 怪しむ
-      position: 12
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 15
-    - word: ます
-      position: 16
-    - word: よ
-      position: 18
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.00.53.697-0.00.56.699
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Who was the last one to walk out the door?
@@ -3798,25 +1486,6 @@
       position: 1
       tags:
         - silent
-    - word: 誰
-      position: 4
-    - word: ッス
-      base: です
-      position: 5
-    - word: か
-      position: 7
-    - word: 最後
-      position: 9
-    - word: に
-      position: 11
-    - word: 出
-      base: 出る
-      dictionary: 出る
-      position: 12
-    - word: た
-      position: 13
-    - word: の
-      position: 14
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.01.02.639-0.01.06.639
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Be more careful. Even though we don't have anything of monetary value.
@@ -3828,39 +1497,6 @@
       position: 1
       tags:
         - silent
-    - word: 気
-      position: 5
-    - word: を
-      position: 6
-    - word: つけろ
-      base: つける
-      dictionary: つける
-      position: 7
-    - word: いくら
-      base: 幾ら
-      position: 11
-    - word: とら
-      base: 取る
-      dictionary: とる
-      position: 15
-    - word: れる
-      position: 17
-    - word: もの
-      base: 物
-      position: 19
-    - word: が
-      position: 21
-    - word: ない
-      base: 無い
-      position: 22
-    - word: と
-      position: 24
-    - word: は
-      position: 25
-    - word: 言え
-      base: 言う
-      dictionary: 言ふ
-      position: 26
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.01.15.652-0.01.18.652
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: '- Quickly assess the situation!<br>-Yes!'
@@ -3868,22 +1504,10 @@
   episode: 4
   sentence: 状況を確認しろ (一同)はい
   words:
-    - word: 状況
-      position: 0
-    - word: を
-      position: 2
-    - word: 確認
-      position: 3
-    - word: しろ
-      base: 為る
-      dictionary: する
-      position: 5
     - word: 一同
       position: 9
       tags:
         - silent
-    - word: はい
-      position: 12
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.01.23.160-0.01.27.163
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -3897,35 +1521,6 @@
       position: 1
       tags:
         - silent
-    - word: 特に
-      position: 4
-    - word: とら
-      base: 取る
-      dictionary: とる
-      position: 6
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 8
-    - word: た
-      position: 9
-    - word: もん
-      position: 10
-    - word: は
-      position: 12
-    - word: ねえ
-      base: 無い
-      dictionary: ない
-      position: 13
-    - word: な
-      position: 15
-    - word: ケン坊
-      position: 17
-    - word: そっち
-      base: 其方
-      position: 21
-    - word: は
-      position: 24
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.01.41.178-0.01.43.680
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Then, that means the criminal didn't find what he was looking for.
@@ -3937,35 +1532,6 @@
       position: 2
       tags:
         - silent
-    - word: 何
-      position: 5
-    - word: も
-      position: 6
-    - word: とら
-      base: 取る
-      dictionary: とる
-      position: 7
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 9
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 10
-    - word: ない
-      position: 11
-    - word: と
-      position: 14
-    - word: いう
-      base: 言う
-      position: 15
-    - word: こと
-      position: 17
-    - word: は
-      position: 19
-    - word: ➡》
-      position: 20
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.02.09.640-0.02.13.143
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Heroin, heroin.<br>Where the hell is it!
@@ -3977,25 +1543,6 @@
       position: 1
       tags:
         - silent
-    - word: ヘロイン
-      position: 4
-    - word: ヘロイン
-      position: 9
-    - word: どこ
-      position: 14
-    - word: に
-      position: 16
-    - word: 隠し
-      base: 隠す
-      dictionary: 隠す
-      position: 17
-    - word: てる
-      position: 19
-    - word: ん
-      base: の
-      position: 21
-    - word: だ
-      position: 22
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.02.12.643-0.02.15.143
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Please have some.
@@ -4007,8 +1554,6 @@
       position: 1
       tags:
         - silent
-    - word: どうぞ
-      position: 4
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.02.21.652-0.02.24.152
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: I understand.
@@ -4020,16 +1565,6 @@
       position: 1
       tags:
         - silent
-    - word: 分かり
-      base: 分かる
-      dictionary: 分かる
-      position: 4
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 7
-    - word: た
-      position: 9
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.02.29.493-0.02.32.662
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: What happened?
@@ -4041,18 +1576,6 @@
       position: 1
       tags:
         - silent
-    - word: 何
-      position: 4
-    - word: か
-      position: 5
-    - word: あっ
-      base: 有る
-      dictionary: ある
-      position: 6
-    - word: た
-      position: 8
-    - word: の
-      position: 9
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.03.23.146-0.03.27.650
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Where's Takeshi?<br>He said he was going to buy components for the computer.
@@ -4060,35 +1583,10 @@
   episode: 4
   sentence: 武は？<br>(健次)ﾊﾟｿｺﾝの部品買いに…
   words:
-    - word: 武
-      position: 0
-    - word: は
-      position: 1
-    - word: <
-      base: ＜
-      position: 3
-    - word: br
-      base: BR
-      position: 4
-    - word: '>'
-      base: ＞
-      position: 6
     - word: 健次
       position: 8
       tags:
         - silent
-    - word: ﾊﾟｿｺﾝ
-      base: パソコン
-      dictionary: パソコン
-      position: 11
-    - word: の
-      position: 16
-    - word: 部品
-      position: 17
-    - word: 買い
-      position: 19
-    - word: に
-      position: 21
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.03.56.680-0.04.01.618
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -4102,24 +1600,6 @@
       position: 1
       tags:
         - silent
-    - word: 月収
-      position: 4
-    - word: 40万
-      base: '400000'
-      position: 6
-    - word: 週休
-      position: 10
-    - word: ２
-      base: '2'
-      dictionary: '2'
-      position: 12
-    - word: 日
-      position: 13
-    - word: 年俸
-      position: 15
-    - word: 800万
-      base: '8000000'
-      position: 17
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.04.59.176-0.05.03.613
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: The heroin that your father was holding. Where is it now?
@@ -4127,38 +1607,10 @@
   episode: 4
   sentence: ☎(浜口)オヤジが持っていた ヘロインどこにある
   words:
-    - word: ☎
-      position: 0
     - word: 浜口
       position: 2
       tags:
         - silent
-    - word: オヤジ
-      base: 親父
-      position: 5
-    - word: が
-      position: 8
-    - word: 持っ
-      base: 持つ
-      dictionary: 持つ
-      position: 9
-    - word: て
-      position: 11
-    - word: い
-      base: 居る
-      dictionary: いる
-      position: 12
-    - word: た
-      position: 13
-    - word: ヘロイン
-      position: 15
-    - word: どこ
-      position: 19
-    - word: に
-      position: 21
-    - word: ある
-      base: 有る
-      position: 22
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.08.43.320-0.08.46.323
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Sorry for interrupting.
@@ -4166,42 +1618,10 @@
   episode: 4
   sentence: ≪(黒木)お取り込み中のところ すいません
   words:
-    - word: ≪
-      position: 0
     - word: 黒木
       position: 2
       tags:
         - silent
-    - word: お
-      base: 御
-      position: 5
-    - word: 取り
-      base: 取る
-      dictionary: 取る
-      position: 6
-    - word: 込み
-      base: 込む
-      dictionary: 込む
-      position: 8
-    - word: 中
-      position: 10
-    - word: の
-      position: 11
-    - word: ところ
-      base: 所
-      position: 12
-    - word: すい
-      base: すむ
-      dictionary: すむ
-      position: 16
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 18
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 20
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.09.34.805-0.09.37.808
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -4211,52 +1631,10 @@
   episode: 4
   sentence: ≪(黒木)お仕事でよく海外へ 行かれてましたよね？➡
   words:
-    - word: ≪
-      position: 0
     - word: 黒木
       position: 2
       tags:
         - silent
-    - word: お
-      base: 御
-      position: 5
-    - word: 仕事
-      position: 6
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 8
-    - word: よく
-      base: 良く
-      position: 9
-    - word: 海外
-      position: 11
-    - word: へ
-      position: 13
-    - word: 行か
-      base: 行く
-      dictionary: 行く
-      position: 15
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 17
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 18
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 19
-    - word: た
-      position: 21
-    - word: よ
-      position: 22
-    - word: ね
-      position: 23
-    - word: ➡
-      position: 25
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.09.44.315-0.09.48.819
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Father... smuggling?<br>The evidence we have is that,
@@ -4264,35 +1642,10 @@
   episode: 4
   sentence: 父が密輸… ≪(黒木)私がつかんでる情報では
   words:
-    - word: 父
-      position: 0
-    - word: が
-      position: 1
-    - word: 密輸
-      position: 2
-    - word: ≪
-      position: 6
     - word: 黒木
       position: 8
       tags:
         - silent
-    - word: 私
-      position: 11
-    - word: が
-      position: 12
-    - word: つかん
-      base: 掴む
-      dictionary: つかむ
-      position: 13
-    - word: でる
-      base: てる
-      position: 16
-    - word: 情報
-      position: 18
-    - word: で
-      position: 20
-    - word: は
-      position: 21
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.09.55.826-0.10.01.765
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -4302,58 +1655,10 @@
   episode: 4
   sentence: ５ｷﾛってｽｹﾞｰのかよ？<br>(稲葉)そんだよ ﾍﾛｲﾝの密輸だば…
   words:
-    - word: ５
-      base: '5'
-      dictionary: '5'
-      position: 0
-    - word: ｷﾛ
-      base: キロ
-      dictionary: キロ
-      position: 1
-    - word: って
-      position: 3
-    - word: ｽｹﾞｰ
-      base: 凄い
-      dictionary: スゴい
-      position: 5
-    - word: の
-      position: 9
-    - word: か
-      position: 10
-    - word: よ
-      position: 11
-    - word: <
-      base: ＜
-      position: 13
-    - word: br
-      base: BR
-      position: 14
-    - word: '>'
-      base: ＞
-      position: 16
     - word: 稲葉
       position: 18
       tags:
         - silent
-    - word: そん
-      base: 其れ
-      position: 21
-    - word: だ
-      position: 23
-    - word: よ
-      position: 24
-    - word: ﾍﾛｲﾝ
-      base: ヘロイン
-      dictionary: ヘロイン
-      position: 26
-    - word: の
-      position: 30
-    - word: 密輸
-      position: 31
-    - word: だ
-      position: 33
-    - word: ば
-      position: 34
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.12.29.279-0.12.31.779
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Izumi.
@@ -4361,14 +1666,10 @@
   episode: 4
   sentence: ≪(和子)泉
   words:
-    - word: ≪
-      position: 0
     - word: 和子
       position: 2
       tags:
         - silent
-    - word: 泉
-      position: 5
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.12.44.795-0.12.47.297
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Then why did you run?<br>Those guys were yakuza, weren't they?
@@ -4380,24 +1681,6 @@
       position: 1
       tags:
         - silent
-    - word: なん
-      base: 何
-      position: 4
-    - word: で
-      position: 6
-    - word: 逃げ
-      base: 逃げる
-      dictionary: 逃げる
-      position: 7
-    - word: た
-      position: 9
-    - word: ん
-      base: の
-      position: 10
-    - word: です
-      position: 11
-    - word: か
-      position: 13
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.12.46.797-0.12.50.300
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Those guys were yakuza, weren't they?
@@ -4409,36 +1692,6 @@
       position: 1
       tags:
         - silent
-    - word: やっぱり
-      base: 矢張り
-      position: 4
-    - word: ﾔｸｻﾞ
-      base: やくざ
-      dictionary: ヤクザ
-      position: 8
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 12
-    - word: ん
-      base: の
-      position: 13
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 14
-    - word: ない
-      base: 無い
-      position: 16
-    - word: の
-      position: 18
-    - word: あの
-      base: 彼の
-      position: 20
-    - word: 人
-      position: 22
-    - word: 達
-      position: 23
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.12.49.800-0.12.52.300
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Izumi.
@@ -4450,8 +1703,6 @@
       position: 1
       tags:
         - silent
-    - word: 泉
-      position: 4
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.13.03.747-0.13.06.750
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -4471,39 +1722,6 @@
       position: 2
       tags:
         - silent
-    - word: は
-      position: 4
-    - word: ッ
-      position: 5
-    - word: <
-      base: ＜
-      position: 8
-    - word: br
-      base: BR
-      position: 9
-    - word: '>'
-      base: ＞
-      position: 11
-    - word: お
-      base: 御
-      position: 12
-    - word: 父さん
-      position: 13
-    - word: が
-      position: 16
-    - word: 組
-      position: 17
-    - word: の
-      position: 18
-    - word: 遠い
-      position: 19
-    - word: 親せき
-      base: 親戚
-      position: 21
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 24
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.13.53.297-0.13.57.801
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: This is rare! Nishino-san wants to wear suits?
@@ -4515,24 +1733,6 @@
       position: 1
       tags:
         - silent
-    - word: 珍しい
-      position: 4
-    - word: ね
-      position: 7
-    - word: 西野
-      position: 9
-    - word: さん
-      position: 11
-    - word: が
-      position: 13
-    - word: ｽｰﾂ
-      base: スーツ
-      dictionary: スーツ
-      position: 14
-    - word: 着る
-      position: 17
-    - word: なんて
-      position: 19
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.15.14.244-0.15.17.744
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Quit the Clan?!
@@ -4544,12 +1744,6 @@
       position: 1
       tags:
         - silent
-    - word: 組
-      position: 4
-    - word: を
-      position: 5
-    - word: 辞める
-      position: 6
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.15.23.750-0.15.27.252
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -4559,20 +1753,10 @@
   episode: 4
   sentence: ≪(英樹)足洗うだと！
   words:
-    - word: ≪
-      position: 0
     - word: 英樹
       position: 2
       tags:
         - silent
-    - word: 足
-      position: 5
-    - word: 洗う
-      position: 6
-    - word: だ
-      position: 8
-    - word: と
-      position: 9
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.16.37.155-0.16.39.655
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Takeshi!
@@ -4580,14 +1764,10 @@
   episode: 4
   sentence: ≪(金造)武
   words:
-    - word: ≪
-      position: 0
     - word: 金造
       position: 2
       tags:
         - silent
-    - word: 武
-      position: 5
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.17.16.127-0.17.18.629
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -4597,16 +1777,10 @@
   episode: 4
   sentence: ≪(健次)武さん…
   words:
-    - word: ≪
-      position: 0
     - word: 健次
       position: 2
       tags:
         - silent
-    - word: 武
-      position: 5
-    - word: さん
-      position: 6
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.18.32.137-0.18.34.637
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: What?
@@ -4614,15 +1788,10 @@
   episode: 4
   sentence: ≪(武)えッ？
   words:
-    - word: ≪
-      position: 0
     - word: 武
       position: 2
       tags:
         - silent
-    - word: えッ
-      base: えっ
-      position: 4
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.22.43.121-0.22.47.121
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: It's so late. Where did you go off to?
@@ -4634,26 +1803,6 @@
       position: 1
       tags:
         - silent
-    - word: こんな
-      position: 5
-    - word: 時間
-      position: 8
-    - word: まで
-      position: 10
-    - word: どこ
-      position: 13
-    - word: 行っ
-      base: 行く
-      dictionary: 行く
-      position: 15
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 17
-    - word: た
-      position: 18
-    - word: の
-      position: 19
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.23.43.114-0.23.47.618
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Those detectives are so dumb.
@@ -4665,24 +1814,6 @@
       position: 1
       tags:
         - silent
-    - word: あっ
-      base: 有る
-      dictionary: ある
-      position: 5
-    - word: た
-      position: 7
-    - word: ま
-      base: まー
-      position: 8
-    - word: 悪い
-      position: 9
-    - word: ね
-      position: 11
-    - word: その
-      base: 其の
-      position: 13
-    - word: 警察
-      position: 15
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.23.53.124-0.23.57.628
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -4692,27 +1823,10 @@
   episode: 4
   sentence: でも… (真由美)あなたも頭が悪いよ
   words:
-    - word: で
-      position: 0
-    - word: も
-      position: 1
     - word: 真由美
       position: 5
       tags:
         - silent
-    - word: あなた
-      base: 貴方
-      position: 9
-    - word: も
-      position: 12
-    - word: 頭
-      position: 13
-    - word: が
-      position: 14
-    - word: 悪い
-      position: 15
-    - word: よ
-      position: 17
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.25.07.065-0.25.12.565
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Hoshi Takashi was an amazing person.
@@ -4720,35 +1834,10 @@
   episode: 4
   sentence: ≪(真由美)星貴志は ステキな人だったよ
   words:
-    - word: ≪
-      position: 0
     - word: 真由美
       position: 2
       tags:
         - silent
-    - word: 星
-      position: 6
-    - word: 貴志
-      position: 7
-    - word: は
-      position: 9
-    - word: ステキ
-      base: 素敵
-      position: 11
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 14
-    - word: 人
-      position: 15
-    - word: だっ
-      base: だ
-      dictionary: だ
-      position: 16
-    - word: た
-      position: 18
-    - word: よ
-      position: 19
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.30.07.098-0.30.11.602
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -4758,38 +1847,10 @@
   episode: 4
   sentence: ☎(浜口)明日の午前10時 ４丁目のｺﾝｸﾘｰﾄ工場に
   words:
-    - word: ☎
-      position: 0
     - word: 浜口
       position: 2
       tags:
         - silent
-    - word: 明日
-      position: 5
-    - word: の
-      position: 7
-    - word: 午前
-      position: 8
-    - word: '10'
-      position: 10
-    - word: 時
-      position: 12
-    - word: ４
-      base: '4'
-      dictionary: '4'
-      position: 14
-    - word: 丁目
-      position: 15
-    - word: の
-      position: 17
-    - word: ｺﾝｸﾘｰﾄ
-      base: コンクリート
-      dictionary: コンクリート
-      position: 18
-    - word: 工場
-      position: 24
-    - word: に
-      position: 26
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.31.15.599-0.31.18.602
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Uncle!!
@@ -4801,16 +1862,6 @@
       position: 1
       tags:
         - silent
-    - word: 待っ
-      base: 待つ
-      dictionary: 待つ
-      position: 4
-    - word: て
-      position: 6
-    - word: ください
-      base: 下さる
-      dictionary: くださる
-      position: 7
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.31.18.102-0.31.20.602
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Uncle!!
@@ -4818,17 +1869,10 @@
   episode: 4
   sentence: ≪(健次)おじちゃん！
   words:
-    - word: ≪
-      position: 0
     - word: 健次
       position: 2
       tags:
         - silent
-    - word: おじ
-      base: 伯父
-      position: 5
-    - word: ちゃん
-      position: 7
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.31.35.119-0.31.38.622
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -4838,38 +1882,10 @@
   episode: 4
   sentence: 《☎(浜口)明日の午前10時 ４丁目のｺﾝｸﾘｰﾄ工場に》
   words:
-    - word: ☎
-      position: 1
     - word: 浜口
       position: 3
       tags:
         - silent
-    - word: 明日
-      position: 6
-    - word: の
-      position: 8
-    - word: 午前
-      position: 9
-    - word: '10'
-      position: 11
-    - word: 時
-      position: 13
-    - word: ４
-      base: '4'
-      dictionary: '4'
-      position: 15
-    - word: 丁目
-      position: 16
-    - word: の
-      position: 18
-    - word: ｺﾝｸﾘｰﾄ
-      base: コンクリート
-      dictionary: コンクリート
-      position: 19
-    - word: 工場
-      position: 25
-    - word: に
-      position: 27
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.33.30.100-0.33.33.600
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: 10 a.m. tomorrow.
@@ -4877,22 +1893,10 @@
   episode: 4
   sentence: 《☎(浜口)明日の午前10時…》
   words:
-    - word: ☎
-      position: 1
     - word: 浜口
       position: 3
       tags:
         - silent
-    - word: 明日
-      position: 6
-    - word: の
-      position: 8
-    - word: 午前
-      position: 9
-    - word: '10'
-      position: 11
-    - word: 時
-      position: 13
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.35.35.593-0.35.39.096
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Nishino Takeshi-san.<br>Please enter.<br>Takeshi, Takeshi!
@@ -4908,14 +1912,6 @@
       position: 3
       tags:
         - silent
-    - word: 西野
-      position: 5
-    - word: 武
-      position: 7
-    - word: さん
-      position: 8
-    - word: どうぞ
-      position: 11
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.35.41.765-0.35.45.102
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Nishino-san.<br>I'm sorry. I need to go to my job interview now.
@@ -4923,8 +1919,6 @@
   episode: 4
   sentence: ≪(面接官)西野さん
   words:
-    - word: ≪
-      position: 0
     - word: 面接
       position: 2
       tags:
@@ -4933,10 +1927,6 @@
       position: 4
       tags:
         - silent
-    - word: 西野
-      position: 6
-    - word: さん
-      position: 8
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.36.48.165-0.36.53.670
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Why did you want to attend our company's job interview?<br>Ah, yes.
@@ -4952,41 +1942,6 @@
       position: 3
       tags:
         - silent
-    - word: どう
-      position: 5
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 7
-    - word: て
-      position: 8
-    - word: 我が社
-      position: 9
-    - word: を
-      position: 12
-    - word: 受けよう
-      base: 受ける
-      dictionary: 受ける
-      position: 14
-    - word: と
-      position: 18
-    - word: 思わ
-      base: 思う
-      dictionary: 思う
-      position: 19
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 21
-    - word: た
-      position: 22
-    - word: ん
-      base: の
-      position: 23
-    - word: です
-      position: 24
-    - word: か
-      position: 26
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.37.33.143-0.37.36.146
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: The last question, what do you live for?
@@ -4994,8 +1949,6 @@
   episode: 4
   sentence: ≪(面接官)では最後の質問です
   words:
-    - word: ≪
-      position: 0
     - word: 面接
       position: 2
       tags:
@@ -5004,18 +1957,6 @@
       position: 4
       tags:
         - silent
-    - word: で
-      position: 6
-    - word: は
-      position: 7
-    - word: 最後
-      position: 8
-    - word: の
-      position: 10
-    - word: 質問
-      position: 11
-    - word: です
-      position: 13
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.37.39.149-0.37.43.653
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -5025,8 +1966,6 @@
   episode: 4
   sentence: ≪(面接官)仕事でもﾌﾟﾗｲﾍﾞｰﾄでも 何でも構わないんですけど
   words:
-    - word: ≪
-      position: 0
     - word: 面接
       position: 2
       tags:
@@ -5035,44 +1974,6 @@
       position: 4
       tags:
         - silent
-    - word: 仕事
-      position: 6
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 8
-    - word: も
-      position: 9
-    - word: ﾌﾟﾗｲﾍﾞｰﾄ
-      base: プライベート
-      dictionary: プライベート
-      position: 10
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 18
-    - word: も
-      position: 19
-    - word: 何
-      position: 21
-    - word: で
-      position: 22
-    - word: も
-      position: 23
-    - word: 構わ
-      base: 構う
-      dictionary: 構う
-      position: 24
-    - word: ない
-      position: 26
-    - word: ん
-      base: の
-      position: 28
-    - word: です
-      position: 29
-    - word: けど
-      base: けれど
-      position: 31
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_04_0.39.39.636-0.39.42.136
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: '- No!<br>- Here''s the heroin!'
@@ -5080,21 +1981,10 @@
   episode: 4
   sentence: ≪(武)ヘロインはここだ！
   words:
-    - word: ≪
-      position: 0
     - word: 武
       position: 2
       tags:
         - silent
-    - word: ヘロイン
-      position: 4
-    - word: は
-      position: 8
-    - word: ここ
-      base: 此処
-      position: 9
-    - word: だ
-      position: 11
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_05_0.00.20.450-0.00.24.450
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Run away quickly!
@@ -5106,20 +1996,6 @@
       position: 2
       tags:
         - silent
-    - word: 早く
-      base: 早い
-      dictionary: 早い
-      position: 4
-    - word: 逃げ
-      base: 逃げる
-      dictionary: 逃げる
-      position: 6
-    - word: て
-      position: 8
-    - word: ください
-      base: 下さる
-      dictionary: くださる
-      position: 9
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_05_0.01.33.456-0.01.36.625
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Hello. This is the Medaka Clan.
@@ -5131,14 +2007,6 @@
       position: 1
       tags:
         - silent
-    - word: はい
-      position: 3
-    - word: 目高
-      position: 6
-    - word: 組
-      position: 8
-    - word: です
-      position: 9
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_05_0.01.36.125-0.01.40.296
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Please accept my condolences.<br>Hamaguchi-san!
@@ -5146,30 +2014,10 @@
   episode: 5
   sentence: ☎(浜口)このたびは ご愁傷さまです
   words:
-    - word: ☎
-      position: 0
     - word: 浜口
       position: 2
       tags:
         - silent
-    - word: この
-      base: 此の
-      position: 5
-    - word: たび
-      base: 度
-      position: 7
-    - word: は
-      position: 9
-    - word: ご
-      base: 御
-      position: 11
-    - word: 愁傷
-      position: 12
-    - word: さま
-      base: 様
-      position: 14
-    - word: です
-      position: 16
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_05_0.01.47.804-0.01.52.475
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -5179,35 +2027,10 @@
   episode: 5
   sentence: 勝手なこと言わないでくださいッ (佐久間)浜口！
   words:
-    - word: 勝手
-      position: 0
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 2
-    - word: こと
-      position: 3
-    - word: 言わ
-      base: 言う
-      dictionary: 言う
-      position: 5
-    - word: ない
-      position: 7
-    - word: で
-      position: 9
-    - word: ください
-      base: 下さる
-      dictionary: くださる
-      position: 10
-    - word: ッ
-      base: つ
-      position: 14
     - word: 佐久間
       position: 17
       tags:
         - silent
-    - word: 浜口
-      position: 21
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_05_0.02.08.424-0.02.14.424
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Why?<br>Why was it aniki that died!<br>[aniki = big brother]
@@ -5219,51 +2042,6 @@
       position: 1
       tags:
         - silent
-    - word: なん
-      base: 何
-      position: 4
-    - word: で
-      position: 6
-    - word: なん
-      base: 何
-      position: 9
-    - word: で
-      position: 11
-    - word: 兄貴
-      position: 12
-    - word: が
-      position: 14
-    - word: 殺さ
-      base: 殺す
-      dictionary: 殺す
-      position: 16
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 18
-    - word: なきゃ
-      base: ない
-      dictionary: ない
-      position: 19
-    - word: なん
-      base: 成る
-      dictionary: なる
-      position: 22
-    - word: ねえ
-      base: ない
-      dictionary: ない
-      position: 24
-    - word: ん
-      base: の
-      position: 26
-    - word: だ
-      position: 27
-    - word: よ
-      base: 四
-      position: 28
-    - word: ッ
-      base: つ
-      position: 29
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_05_0.03.04.414-0.03.09.752
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -5277,50 +2055,6 @@
       position: 1
       tags:
         - silent
-    - word: お
-      base: 御
-      position: 4
-    - word: 父さん
-      position: 5
-    - word: が
-      position: 8
-    - word: 持っ
-      base: 持つ
-      dictionary: 持つ
-      position: 9
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 11
-    - word: た
-      position: 12
-    - word: か
-      position: 13
-    - word: も
-      position: 14
-    - word: しれ
-      base: 知る
-      dictionary: しれる
-      position: 16
-    - word: ない
-      position: 18
-    - word: ﾍﾛｲﾝ
-      base: ヘロイン
-      dictionary: ヘロイン
-      position: 20
-    - word: も
-      position: 24
-    - word: 浜口
-      position: 26
-    - word: の
-      position: 28
-    - word: もの
-      base: 物
-      position: 29
-    - word: でしょ
-      base: です
-      dictionary: です
-      position: 31
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_05_0.03.39.115-0.03.43.619
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -5334,24 +2068,6 @@
       position: 1
       tags:
         - silent
-    - word: 私
-      position: 4
-    - word: も
-      position: 5
-    - word: 殴り込み
-      position: 7
-    - word: に
-      position: 11
-    - word: は
-      position: 12
-    - word: 反対
-      position: 13
-    - word: です
-      position: 15
-    - word: 金造
-      position: 18
-    - word: さん
-      position: 20
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_05_0.04.05.408-0.04.09.912
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -5365,33 +2081,6 @@
       position: 1
       tags:
         - silent
-    - word: でかい
-      position: 4
-    - word: 麻薬
-      position: 7
-    - word: の
-      position: 9
-    - word: 取り引き
-      position: 10
-    - word: に
-      position: 14
-    - word: は
-      position: 15
-    - word: 必ず
-      position: 17
-    - word: 名前
-      position: 19
-    - word: の
-      position: 21
-    - word: 出
-      base: 出る
-      dictionary: 出る
-      position: 22
-    - word: て
-      position: 23
-    - word: くる
-      base: 来る
-      position: 24
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_05_0.04.13.416-0.04.17.920
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: I don't care if he's fat or skinny!<br>The Hamaguchi Clan killed aniki!
@@ -5403,38 +2092,6 @@
       position: 1
       tags:
         - silent
-    - word: そんな
-      position: 4
-    - word: の
-      position: 7
-    - word: 関係
-      position: 8
-    - word: ない
-      base: 無い
-      position: 10
-    - word: ッス
-      base: です
-      position: 12
-    - word: よ
-      position: 14
-    - word: 兄貴
-      position: 16
-    - word: やっ
-      base: 遣る
-      dictionary: やる
-      position: 18
-    - word: た
-      position: 20
-    - word: の
-      position: 21
-    - word: は
-      position: 22
-    - word: 浜口
-      position: 23
-    - word: でしょ
-      base: です
-      dictionary: です
-      position: 25
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_05_0.04.38.941-0.04.43.946
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: I think it's you who has travelled the wrong paths.<br>Detective.
@@ -5446,27 +2103,6 @@
       position: 1
       tags:
         - silent
-    - word: それ
-      base: 其れ
-      position: 4
-    - word: は
-      position: 6
-    - word: 筋違い
-      position: 8
-    - word: だ
-      position: 11
-    - word: と
-      position: 12
-    - word: 思い
-      base: 思う
-      dictionary: 思う
-      position: 13
-    - word: ます
-      position: 15
-    - word: 刑事
-      position: 18
-    - word: さん
-      position: 20
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_05_0.04.43.446-0.04.48.546
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Sorry to bother you all again.
@@ -5474,52 +2110,10 @@
   episode: 5
   sentence: ≪(黒木)すいません いつもお取り込み中にお邪魔して
   words:
-    - word: ≪
-      position: 0
     - word: 黒木
       position: 2
       tags:
         - silent
-    - word: すい
-      base: すむ
-      dictionary: すむ
-      position: 5
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 7
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 9
-    - word: いつも
-      position: 11
-    - word: お
-      base: 御
-      position: 14
-    - word: 取り
-      base: 取る
-      dictionary: 取る
-      position: 15
-    - word: 込み
-      base: 込む
-      dictionary: 込む
-      position: 17
-    - word: 中
-      position: 19
-    - word: に
-      position: 20
-    - word: お
-      base: 御
-      position: 21
-    - word: 邪魔
-      position: 22
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 24
-    - word: て
-      position: 25
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_05_0.06.18.407-0.06.20.909
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: I'm so touched.<br>Kuroki-san's detective spirit...
@@ -5531,20 +2125,6 @@
       position: 1
       tags:
         - silent
-    - word: まん
-      base: ます
-      dictionary: ます
-      position: 4
-    - word: ず
-      dictionary: ぬ
-      position: 6
-    - word: 感動
-      position: 7
-    - word: す
-      base: 為る
-      position: 9
-    - word: た
-      position: 10
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_05_0.09.27.396-0.09.30.496
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Temporary leave of absence?
@@ -5556,8 +2136,6 @@
       position: 1
       tags:
         - silent
-    - word: 休学
-      position: 4
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_05_0.09.51.087-0.09.53.587
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Izumi.
@@ -5565,8 +2143,6 @@
   episode: 5
   sentence: ≪(和子達)泉！
   words:
-    - word: ≪
-      position: 0
     - word: 和子
       position: 2
       tags:
@@ -5575,8 +2151,6 @@
       position: 4
       tags:
         - silent
-    - word: 泉
-      position: 6
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_05_0.09.57.093-0.10.02.598
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -5590,51 +2164,6 @@
       position: 1
       tags:
         - silent
-    - word: なん
-      base: 何
-      position: 4
-    - word: で
-      position: 6
-    - word: 私
-      position: 9
-    - word: が
-      position: 10
-    - word: ヤクザ
-      base: やくざ
-      position: 11
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 14
-    - word: 巻き
-      base: 巻く
-      dictionary: 巻く
-      position: 15
-    - word: 込ま
-      base: 込む
-      dictionary: 込む
-      position: 18
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 20
-    - word: たく
-      base: たい
-      dictionary: たい
-      position: 21
-    - word: ない
-      base: 無い
-      position: 23
-    - word: って
-      position: 25
-    - word: 言っ
-      base: 言う
-      dictionary: 言う
-      position: 27
-    - word: た
-      position: 29
-    - word: から
-      position: 30
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_05_0.10.05.101-0.10.08.601
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Izumi.<br>Sorry.
@@ -5646,11 +2175,6 @@
       position: 1
       tags:
         - silent
-    - word: 泉
-      position: 4
-    - word: ごめん
-      base: 御免
-      position: 7
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_05_0.10.54.483-0.10.58.983
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Sensei, is this ok?<br>Should be around two or three thousand.
@@ -5691,8 +2215,6 @@
       position: 1
       tags:
         - silent
-    - word: 先生
-      position: 4
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_05_0.13.38.455-0.13.43.626
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -5702,47 +2224,10 @@
   episode: 5
   sentence: ５キロのヘロインだ 頼んだぞ (男)いつもすいませんね
   words:
-    - word: ５
-      base: '5'
-      dictionary: '5'
-      position: 0
-    - word: キロ
-      position: 1
-    - word: の
-      position: 3
-    - word: ヘロイン
-      position: 4
-    - word: だ
-      position: 8
-    - word: 頼ん
-      base: 頼む
-      dictionary: 頼む
-      position: 10
-    - word: だ
-      base: た
-      position: 12
-    - word: ぞ
-      position: 13
     - word: 男
       position: 16
       tags:
         - silent
-    - word: いつも
-      position: 18
-    - word: すい
-      base: すむ
-      dictionary: すむ
-      position: 21
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 23
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 25
-    - word: ね
-      position: 26
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_05_0.13.56.473-0.14.00.643
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Pardon me.
@@ -5774,12 +2259,6 @@
       position: 2
       tags:
         - silent
-    - word: 飲む
-      position: 5
-    - word: だろ
-      base: だ
-      dictionary: だ
-      position: 7
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_05_0.15.43.113-0.15.47.617
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: You know the name Hoshi Takashi, right?
@@ -5791,31 +2270,6 @@
       position: 1
       tags:
         - silent
-    - word: 星
-      position: 5
-    - word: 貴志
-      position: 6
-    - word: って
-      position: 8
-    - word: いう
-      base: 言う
-      position: 10
-    - word: 名前
-      position: 12
-    - word: 知っ
-      base: 知る
-      dictionary: 知る
-      position: 15
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 17
-    - word: ます
-      position: 18
-    - word: よ
-      position: 20
-    - word: ね
-      position: 21
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_05_0.18.21.802-0.18.26.306
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Hello.<br>Let me go! You bastards!<br>Kenji-san!
@@ -5823,38 +2277,10 @@
   episode: 5
   sentence: もしもし？<br>☎(健次)いてえな 離せ この野郎
   words:
-    - word: もしもし
-      position: 0
-    - word: <
-      base: ＜
-      position: 5
-    - word: br
-      base: BR
-      position: 6
-    - word: '>'
-      base: ＞
-      position: 8
-    - word: ☎
-      position: 9
     - word: 健次
       position: 11
       tags:
         - silent
-    - word: いてえ
-      base: 痛い
-      dictionary: いたい
-      position: 14
-    - word: な
-      position: 17
-    - word: 離せ
-      base: 離す
-      dictionary: 離せる
-      position: 19
-    - word: この
-      base: 此の
-      position: 22
-    - word: 野郎
-      position: 24
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_05_0.18.32.480-0.18.36.650
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Leader? Where's the heroin?<br>I don't have it!
@@ -5866,35 +2292,6 @@
       position: 1
       tags:
         - silent
-    - word: 組長
-      position: 4
-    - word: か
-      position: 6
-    - word: ヘロイン
-      position: 9
-    - word: は
-      position: 13
-    - word: <
-      base: ＜
-      position: 15
-    - word: br
-      base: BR
-      position: 16
-    - word: '>'
-      base: ＞
-      position: 18
-    - word: あり
-      base: 有る
-      dictionary: ある
-      position: 19
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 21
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 23
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_05_0.19.28.135-0.19.32.973
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Hurry up and bring it, or else this kid's going to lose his life.
@@ -5902,50 +2299,10 @@
   episode: 5
   sentence: ☎(柴田)早く持ってこねえと ガキの命が もたねえぞ
   words:
-    - word: ☎
-      position: 0
     - word: 柴田
       position: 2
       tags:
         - silent
-    - word: 早く
-      base: 早い
-      dictionary: 早い
-      position: 5
-    - word: 持っ
-      base: 持つ
-      dictionary: 持つ
-      position: 7
-    - word: て
-      position: 9
-    - word: こ
-      base: 来る
-      dictionary: くる
-      position: 10
-    - word: ねえ
-      base: ない
-      dictionary: ない
-      position: 11
-    - word: と
-      position: 13
-    - word: ガキ
-      position: 15
-    - word: の
-      position: 17
-    - word: 命
-      position: 18
-    - word: が
-      position: 19
-    - word: もた
-      base: 持つ
-      dictionary: もつ
-      position: 21
-    - word: ねえ
-      base: ない
-      dictionary: ない
-      position: 23
-    - word: ぞ
-      position: 25
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_05_0.20.50.484-0.20.54.655
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -5959,24 +2316,6 @@
       position: 1
       tags:
         - silent
-    - word: 黒木
-      position: 4
-    - word: さん
-      position: 6
-    - word: ああ
-      position: 9
-    - word: どう
-      position: 12
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 14
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 15
-    - word: た
-      position: 17
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_05_0.24.51.458-0.24.55.958
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: The kid just stayed inside the house, not saying even a word to me.
@@ -5984,37 +2323,10 @@
   episode: 5
   sentence: ≪(金造)アイツ ずっと家の中閉じこもってて
   words:
-    - word: ≪
-      position: 0
     - word: 金造
       position: 2
       tags:
         - silent
-    - word: アイツ
-      base: 彼奴
-      position: 5
-    - word: ずっと
-      position: 9
-    - word: 家
-      position: 12
-    - word: の
-      position: 13
-    - word: 中
-      position: 14
-    - word: 閉じ
-      base: 閉じる
-      dictionary: 閉じる
-      position: 15
-    - word: こもっ
-      base: 籠もる
-      dictionary: こもる
-      position: 17
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 20
-    - word: て
-      position: 21
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_05_0.26.38.098-0.26.40.998
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Thank you very much.
@@ -6022,21 +2334,10 @@
   episode: 5
   sentence: ≪(金造)ありがとうございます
   words:
-    - word: ≪
-      position: 0
     - word: 金造
       position: 2
       tags:
         - silent
-    - word: ありがとう
-      base: 有り難う
-      position: 5
-    - word: ござい
-      base: 御座る
-      dictionary: ござる
-      position: 10
-    - word: ます
-      position: 13
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_05_0.29.18.458-0.29.23.797
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -6050,44 +2351,6 @@
       position: 2
       tags:
         - silent
-    - word: アイツ
-      base: 彼奴
-      position: 5
-    - word: が
-      position: 8
-    - word: 帰っ
-      base: 帰る
-      dictionary: 帰る
-      position: 9
-    - word: て
-      position: 11
-    - word: くる
-      base: 来る
-      position: 12
-    - word: 場所
-      position: 14
-    - word: が
-      position: 16
-    - word: なくなっ
-      base: なくなる
-      dictionary: なくなる
-      position: 18
-    - word: ちゃ
-      base: て
-      position: 22
-    - word: なら
-      base: 成る
-      dictionary: なる
-      position: 24
-    - word: ねえ
-      base: ない
-      dictionary: ない
-      position: 26
-    - word: ん
-      base: の
-      position: 28
-    - word: です
-      position: 29
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_05_0.30.18.728-0.30.34.410
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Mayumi
@@ -6129,18 +2392,10 @@
   episode: 5
   sentence: ☎(浜口)そろそろ限界です
   words:
-    - word: ☎
-      position: 0
     - word: 浜口
       position: 2
       tags:
         - silent
-    - word: そろそろ
-      position: 5
-    - word: 限界
-      position: 9
-    - word: です
-      position: 11
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_05_0.32.45.908-0.32.50.078
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Cut off your nose...?<br>Or ear...?
@@ -6152,22 +2407,6 @@
       position: 1
       tags:
         - silent
-    - word: 鼻
-      position: 4
-    - word: が
-      position: 5
-    - word: いい
-      base: 良い
-      position: 6
-    - word: か
-      position: 8
-    - word: な
-      position: 9
-    - word: いや
-      base: 否
-      position: 12
-    - word: ➡
-      position: 14
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_05_0.32.51.580-0.32.56.080
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Or, the eye...
@@ -6175,34 +2414,10 @@
   episode: 5
   sentence: ☎(柴田)それとも 目ん玉がいいかな？
   words:
-    - word: ☎
-      position: 0
     - word: 柴田
       position: 2
       tags:
         - silent
-    - word: それ
-      base: 其れ
-      position: 5
-    - word: と
-      position: 7
-    - word: も
-      position: 8
-    - word: 目
-      position: 10
-    - word: ん
-      position: 11
-    - word: 玉
-      position: 12
-    - word: が
-      position: 13
-    - word: いい
-      base: 良い
-      position: 14
-    - word: か
-      position: 16
-    - word: な
-      position: 17
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_05_0.33.01.524-0.33.06.724
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: In a while, we'll wrap up his right leg and send it over.
@@ -6210,43 +2425,10 @@
   episode: 5
   sentence: ☎(浜口)今から 右足を一本 そちらにお送りします
   words:
-    - word: ☎
-      position: 0
     - word: 浜口
       position: 2
       tags:
         - silent
-    - word: 今
-      position: 5
-    - word: から
-      position: 6
-    - word: 右足
-      position: 9
-    - word: を
-      position: 11
-    - word: 一
-      base: '1'
-      position: 12
-    - word: 本
-      position: 13
-    - word: そちら
-      base: 其方
-      position: 15
-    - word: に
-      position: 18
-    - word: お
-      base: 御
-      position: 19
-    - word: 送り
-      base: 送る
-      dictionary: 送る
-      position: 20
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 22
-    - word: ます
-      position: 23
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_05_0.35.10.186-0.35.15.691
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: I'm sorry.<br>I really don't care about anything else.
@@ -6258,41 +2440,6 @@
       position: 1
       tags:
         - silent
-    - word: すい
-      base: すむ
-      dictionary: すむ
-      position: 5
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 7
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 9
-    - word: やっぱり
-      base: 矢張り
-      position: 11
-    - word: 背
-      position: 15
-    - word: に
-      position: 16
-    - word: 腹
-      position: 17
-    - word: は
-      position: 18
-    - word: 替え
-      base: 変える
-      dictionary: 替える
-      position: 19
-    - word: られ
-      base: られる
-      dictionary: られる
-      position: 21
-    - word: ねえ
-      base: ない
-      dictionary: ない
-      position: 23
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_05_0.35.36.212-0.35.39.715
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Why did you do this, Kin-san?
@@ -6304,19 +2451,6 @@
       position: 1
       tags:
         - silent
-    - word: なん
-      base: 何
-      position: 4
-    - word: で
-      position: 6
-    - word: だ
-      position: 7
-    - word: よ
-      position: 8
-    - word: 金
-      position: 11
-    - word: さん
-      position: 12
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_05_0.37.21.250-0.37.25.420
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: '- Let Kenbo go!<br>- Hand it over first!'
@@ -6324,27 +2458,10 @@
   episode: 5
   sentence: ケン坊を放せ (浜口)そっちが先だ！
   words:
-    - word: ケン坊
-      position: 0
-    - word: を
-      position: 3
-    - word: 放せ
-      base: 放す
-      dictionary: 放せる
-      position: 4
     - word: 浜口
       position: 8
       tags:
         - silent
-    - word: そっち
-      base: 其方
-      position: 11
-    - word: が
-      position: 14
-    - word: 先
-      position: 15
-    - word: だ
-      position: 16
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_05_0.37.45.941-0.37.49.841
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: What are you doing?
@@ -6352,29 +2469,10 @@
   episode: 5
   sentence: ≪(黒木)何をしてるんですか？
   words:
-    - word: ≪
-      position: 0
     - word: 黒木
       position: 2
       tags:
         - silent
-    - word: 何
-      position: 5
-    - word: を
-      position: 6
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 7
-    - word: てる
-      position: 8
-    - word: ん
-      base: の
-      position: 10
-    - word: です
-      position: 11
-    - word: か
-      position: 13
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_05_0.38.05.894-0.38.09.397
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -6384,24 +2482,10 @@
   episode: 5
   sentence: どうして… (黒木)先輩こそ➡
   words:
-    - word: どう
-      position: 0
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 2
-    - word: て
-      position: 3
     - word: 黒木
       position: 7
       tags:
         - silent
-    - word: 先輩
-      position: 10
-    - word: こそ
-      position: 12
-    - word: ➡
-      position: 14
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_05_0.38.30.252-0.38.34.252
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Please hand the stuff over quickly.
@@ -6413,25 +2497,6 @@
       position: 1
       tags:
         - silent
-    - word: 早く
-      base: 早い
-      dictionary: 早い
-      position: 4
-    - word: それ
-      base: 其れ
-      position: 6
-    - word: を
-      position: 8
-    - word: 渡し
-      base: 渡す
-      dictionary: 渡す
-      position: 9
-    - word: て
-      position: 11
-    - word: ください
-      base: 下さる
-      dictionary: くださる
-      position: 12
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_05_0.38.43.932-0.38.46.832
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Hand it over!
@@ -6439,20 +2504,10 @@
   episode: 5
   sentence: ≪(浜口)早くよこせ！
   words:
-    - word: ≪
-      position: 0
     - word: 浜口
       position: 2
       tags:
         - silent
-    - word: 早く
-      base: 早い
-      dictionary: 早い
-      position: 5
-    - word: よこせ
-      base: 寄越す
-      dictionary: よこす
-      position: 7
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_05_0.41.57.180-0.42.02.285
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -6462,34 +2517,10 @@
   episode: 5
   sentence: なあ 中入れろよ おじちゃん ≪(金造)バカ野郎➡
   words:
-    - word: なあ
-      position: 0
-    - word: 中
-      position: 3
-    - word: 入れろ
-      base: 入れる
-      dictionary: 入れる
-      position: 4
-    - word: よ
-      position: 7
-    - word: おじ
-      base: 伯父
-      position: 9
-    - word: ちゃん
-      position: 11
-    - word: ≪
-      position: 15
     - word: 金造
       position: 17
       tags:
         - silent
-    - word: バカ
-      base: ばか
-      position: 20
-    - word: 野郎
-      position: 22
-    - word: ➡
-      position: 24
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_05_0.45.45.542-0.45.48.711
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: A politician from the Minwa party. Sandaiji Hajime.
@@ -6497,20 +2528,10 @@
   episode: 5
   sentence: ≪(真由美)民和党の➡
   words:
-    - word: ≪
-      position: 0
     - word: 真由美
       position: 2
       tags:
         - silent
-    - word: 民和
-      position: 6
-    - word: 党
-      position: 8
-    - word: の
-      position: 9
-    - word: ➡
-      position: 10
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_06_0.00.01.650-0.00.04.486
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: I can't let you live, because you know my identity.<br>Kenbo!
@@ -6518,47 +2539,10 @@
   episode: 6
   sentence: ≪(黒木)知られたからには 生かしてはおけないんです
   words:
-    - word: ≪
-      position: 0
     - word: 黒木
       position: 2
       tags:
         - silent
-    - word: 知ら
-      base: 知る
-      dictionary: 知る
-      position: 5
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 7
-    - word: た
-      position: 8
-    - word: から
-      position: 9
-    - word: に
-      position: 11
-    - word: は
-      position: 12
-    - word: 生かし
-      base: 生かす
-      dictionary: 生かす
-      position: 14
-    - word: て
-      position: 17
-    - word: は
-      position: 18
-    - word: おけ
-      base: おく
-      dictionary: おける
-      position: 19
-    - word: ない
-      position: 21
-    - word: ん
-      base: の
-      position: 23
-    - word: です
-      position: 24
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_06_0.00.03.985-0.00.06.488
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: You have to keep living...
@@ -6570,8 +2554,6 @@
       position: 1
       tags:
         - silent
-    - word: ケン坊
-      position: 4
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_06_0.00.08.991-0.00.11.993
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Uncle was killed.<br>Kuroki is one of them.<br>Mayumi-san!
@@ -6583,18 +2565,6 @@
       position: 1
       tags:
         - silent
-    - word: 黒木
-      position: 4
-    - word: も
-      position: 6
-    - word: グル
-      position: 7
-    - word: でし
-      base: です
-      dictionary: です
-      position: 9
-    - word: た
-      position: 11
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_06_0.00.11.493-0.00.14.496
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -6609,24 +2579,9 @@
       tags:
         - silent
     - word: 真由美
-      position: 3
-    - word: さん
-      position: 6
-    - word: 真由美
       position: 10
       tags:
         - silent
-    - word: 太っちょ
-      base: ふとっちょ
-      position: 14
-    - word: の
-      position: 18
-    - word: 正体
-      position: 19
-    - word: は
-      position: 21
-    - word: ➡
-      position: 22
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_06_0.00.37.019-0.00.39.519
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Listen to me first!
@@ -6649,20 +2604,6 @@
       position: 1
       tags:
         - silent
-    - word: いく
-      base: 行く
-      position: 4
-    - word: ぞ
-      position: 6
-    - word: <
-      base: ＜
-      position: 8
-    - word: br
-      base: BR
-      position: 9
-    - word: '>'
-      base: ＞
-      position: 11
     - word: 子分
       position: 13
       tags:
@@ -6671,8 +2612,6 @@
       position: 15
       tags:
         - silent
-    - word: へい
-      position: 17
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_06_0.01.11.987-0.01.14.487
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Leader!
@@ -6684,8 +2623,6 @@
       position: 1
       tags:
         - silent
-    - word: 組長
-      position: 5
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_06_0.01.35.511-0.01.39.514
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: He's very lucky, the bullet only pierced his leg.
@@ -6693,45 +2630,10 @@
   episode: 6
   sentence: ≪(尾田)幸いﾋﾟｽﾄﾙの弾は 太ももを貫通してました
   words:
-    - word: ≪
-      position: 0
     - word: 尾田
       position: 2
       tags:
         - silent
-    - word: 幸い
-      position: 5
-    - word: ﾋﾟｽﾄﾙ
-      base: ピストル
-      dictionary: ピストル
-      position: 7
-    - word: の
-      position: 12
-    - word: 弾
-      position: 13
-    - word: は
-      position: 14
-    - word: 太もも
-      base: 太腿
-      position: 16
-    - word: を
-      position: 19
-    - word: 貫通
-      position: 20
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 22
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 23
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 24
-    - word: た
-      position: 26
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_06_0.01.57.032-0.02.01.469
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Therefore, the Hamaguchi Clan and that detective Kuroki are together.
@@ -6743,34 +2645,6 @@
       position: 1
       tags:
         - silent
-    - word: だ
-      position: 4
-    - word: から
-      position: 5
-    - word: 浜口
-      position: 7
-    - word: 組
-      position: 9
-    - word: と
-      position: 10
-    - word: 黒木
-      position: 11
-    - word: って
-      position: 13
-    - word: 刑事
-      position: 16
-    - word: が
-      position: 18
-    - word: グル
-      position: 19
-    - word: に
-      position: 21
-    - word: なっ
-      base: 成る
-      dictionary: なる
-      position: 22
-    - word: て
-      position: 24
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_06_0.02.04.973-0.02.08.476
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -6784,31 +2658,6 @@
       position: 1
       tags:
         - silent
-    - word: うち
-      base: 内
-      position: 4
-    - word: の
-      position: 6
-    - word: 黒木
-      position: 7
-    - word: から
-      position: 9
-    - word: は
-      position: 11
-    - word: 捜査
-      position: 13
-    - word: 中
-      position: 15
-    - word: に
-      position: 16
-    - word: 部下
-      position: 17
-    - word: の
-      position: 19
-    - word: 稲葉
-      position: 20
-    - word: を
-      position: 22
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_06_0.03.46.008-0.03.49.511
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -6822,17 +2671,6 @@
       position: 1
       tags:
         - silent
-    - word: 私
-      position: 6
-    - word: の
-      position: 7
-    - word: 父
-      position: 8
-    - word: 太っちょ
-      base: ふとっちょ
-      position: 10
-    - word: と
-      position: 14
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_06_0.04.13.969-0.04.17.472
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Mayumi, if... something happens to me.
@@ -6844,27 +2682,6 @@
       position: 2
       tags:
         - silent
-    - word: 真由美
-      position: 5
-    - word: もし
-      base: 若し
-      position: 9
-    - word: 僕
-      position: 12
-    - word: に
-      position: 13
-    - word: 何
-      position: 14
-    - word: か
-      position: 15
-    - word: あっ
-      base: 有る
-      dictionary: ある
-      position: 16
-    - word: たら
-      base: た
-      dictionary: た
-      position: 18
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_06_0.06.06.948-0.06.10.451
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -6874,31 +2691,10 @@
   episode: 6
   sentence: ≪(英樹)ケン坊 敵は俺が討ってやる！
   words:
-    - word: ≪
-      position: 0
     - word: 英樹
       position: 2
       tags:
         - silent
-    - word: ケン坊
-      position: 5
-    - word: 敵
-      position: 9
-    - word: は
-      position: 10
-    - word: 俺
-      position: 11
-    - word: が
-      position: 12
-    - word: 討っ
-      base: 打つ
-      dictionary: 討つ
-      position: 13
-    - word: て
-      position: 15
-    - word: やる
-      base: 遣る
-      position: 16
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_06_0.07.11.446-0.07.13.946
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Sensei,
@@ -6910,8 +2706,6 @@
       position: 1
       tags:
         - silent
-    - word: 先生
-      position: 4
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_06_0.09.54.371-0.09.57.874
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: What are you talking about?<br>Eh?
@@ -6928,29 +2722,6 @@
       position: 2
       tags:
         - silent
-    - word: さっき
-      position: 5
-    - word: から
-      position: 8
-    - word: 何
-      position: 11
-    - word: の
-      position: 12
-    - word: 話
-      position: 13
-    - word: を
-      position: 14
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 15
-    - word: てる
-      position: 16
-    - word: ん
-      base: の
-      position: 18
-    - word: だ
-      position: 19
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_06_0.11.44.347-0.11.50.853
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -6964,35 +2735,6 @@
       position: 2
       tags:
         - silent
-    - word: 黒木
-      position: 5
-    - word: さん
-      position: 7
-    - word: 今
-      position: 10
-    - word: そこ
-      base: 其処
-      position: 11
-    - word: さ
-      position: 13
-    - word: 何
-      position: 15
-    - word: しまっ
-      base: 仕舞う
-      dictionary: しまう
-      position: 16
-    - word: た
-      position: 19
-    - word: ん
-      base: の
-      position: 20
-    - word: だ
-      position: 21
-    - word: べ
-      base: べい
-      position: 22
-    - word: か
-      position: 23
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_06_0.12.05.802-0.12.11.307
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -7002,53 +2744,10 @@
   episode: 6
   sentence: ≪(黒木)たまたま居合わせた 男性のﾎﾟｹｯﾄにｶｷﾞを隠しました➡
   words:
-    - word: ≪
-      position: 0
     - word: 黒木
       position: 2
       tags:
         - silent
-    - word: たまたま
-      base: 偶々
-      position: 5
-    - word: 居
-      base: 居る
-      dictionary: 居る
-      position: 9
-    - word: 合わせ
-      base: 合う
-      dictionary: 合わせる
-      position: 10
-    - word: た
-      position: 13
-    - word: 男性
-      position: 15
-    - word: の
-      position: 17
-    - word: ﾎﾟｹｯﾄ
-      base: ポケット
-      dictionary: ポケット
-      position: 18
-    - word: に
-      position: 23
-    - word: ｶｷﾞ
-      base: かぎ
-      dictionary: カギ
-      position: 24
-    - word: を
-      position: 27
-    - word: 隠し
-      base: 隠す
-      dictionary: 隠す
-      position: 28
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 30
-    - word: た
-      position: 32
-    - word: ➡
-      position: 33
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_06_0.15.11.287-0.15.14.290
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -7062,17 +2761,6 @@
       position: 1
       tags:
         - silent
-    - word: 太っちょ
-      base: ふとっちょ
-      position: 4
-    - word: の
-      position: 8
-    - word: ｱｼﾞﾄ
-      base: アジト
-      dictionary: アジト
-      position: 9
-    - word: に
-      position: 13
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_06_0.41.16.499-0.41.21.499
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: That's good...the Leader is all right.
@@ -7084,22 +2772,6 @@
       position: 2
       tags:
         - silent
-    - word: よかっ
-      base: 良い
-      dictionary: よい
-      position: 4
-    - word: た
-      position: 7
-    - word: 組長
-      position: 9
-    - word: が
-      position: 11
-    - word: 無事
-      position: 12
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 14
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_07_0.00.10.450-0.00.13.619
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Idiots!<br>Why did you have to leave me by myself!
@@ -7111,14 +2783,6 @@
       position: 1
       tags:
         - silent
-    - word: バカ
-      base: ばか
-      position: 5
-    - word: 野郎
-      position: 7
-    - word: ッ
-      base: つ
-      position: 9
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_07_0.00.20.126-0.00.24.630
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Why did they have to die?!<br>I don't know which world is the good world!
@@ -7130,38 +2794,6 @@
       position: 1
       tags:
         - silent
-    - word: どう
-      position: 3
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 5
-    - word: て
-      position: 6
-    - word: 死な
-      base: 死ぬ
-      dictionary: 死ぬ
-      position: 8
-    - word: なきゃ
-      base: ない
-      dictionary: ない
-      position: 10
-    - word: いけ
-      base: 行く
-      dictionary: いける
-      position: 13
-    - word: ない
-      position: 15
-    - word: ん
-      base: の
-      position: 17
-    - word: です
-      position: 18
-    - word: か
-      position: 20
-    - word: ッ
-      base: つ
-      position: 21
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_07_0.01.24.123-0.01.29.295
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -7175,38 +2807,6 @@
       position: 2
       tags:
         - silent
-    - word: 攻める
-      position: 5
-    - word: より
-      position: 8
-    - word: 守る
-      position: 11
-    - word: 方
-      position: 13
-    - word: が
-      position: 14
-    - word: ｶｯｺｲｲ
-      base: カッコイイ
-      dictionary: カッコイイ
-      position: 16
-    - word: って
-      position: 21
-    - word: 教え
-      base: 教える
-      dictionary: 教える
-      position: 23
-    - word: て
-      position: 25
-    - word: くれ
-      base: 呉れる
-      dictionary: くれる
-      position: 26
-    - word: た
-      position: 28
-    - word: 組長
-      position: 29
-    - word: が
-      position: 31
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_07_0.01.47.146-0.01.51.484
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -7220,35 +2820,6 @@
       position: 2
       tags:
         - silent
-    - word: 組長
-      position: 5
-    - word: の
-      position: 7
-    - word: こと
-      position: 8
-    - word: マジ
-      base: まじ
-      position: 11
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 13
-    - word: 尊敬
-      position: 14
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 16
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 17
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 18
-    - word: た
-      position: 20
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_07_0.02.08.101-0.02.12.001
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: I'm so sorry. I'm such a coward.
@@ -7260,24 +2831,6 @@
       position: 2
       tags:
         - silent
-    - word: 意気地
-      position: 4
-    - word: なし
-      position: 7
-    - word: で
-      position: 9
-    - word: すい
-      base: すむ
-      dictionary: すむ
-      position: 11
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 13
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 15
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_07_0.02.28.788-0.02.31.988
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Please restrain yourself.
@@ -7289,16 +2842,6 @@
       position: 2
       tags:
         - silent
-    - word: こらえ
-      base: 堪える
-      dictionary: こらえる
-      position: 5
-    - word: て
-      position: 8
-    - word: ください
-      base: 下さる
-      dictionary: くださる
-      position: 9
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_07_0.09.06.050-0.09.10.221
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -7312,27 +2855,6 @@
       position: 1
       tags:
         - silent
-    - word: 目高
-      position: 5
-    - word: 組
-      position: 7
-    - word: は
-      position: 8
-    - word: 大丈夫
-      position: 9
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 12
-    - word: ん
-      base: の
-      position: 13
-    - word: でしょう
-      base: です
-      dictionary: です
-      position: 14
-    - word: ね
-      position: 18
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_07_0.09.09.721-0.09.14.221
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: When the exchange is completed, I will take care of them.
@@ -7344,27 +2866,6 @@
       position: 1
       tags:
         - silent
-    - word: この
-      base: 此の
-      position: 4
-    - word: 取り引き
-      position: 6
-    - word: が
-      position: 10
-    - word: 終わり
-      base: 終わる
-      dictionary: 終わる
-      position: 11
-    - word: 次第
-      position: 14
-    - word: 始末
-      position: 17
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 19
-    - word: ます
-      position: 20
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_07_0.09.48.426-0.09.51.226
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: If that's all...
@@ -7376,13 +2877,6 @@
       position: 1
       tags:
         - silent
-    - word: それ
-      base: 其れ
-      position: 4
-    - word: で
-      position: 6
-    - word: は
-      position: 7
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_07_0.10.01.038-0.10.05.138
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: '- What do you want?<br>- All the small fry, move to the side!'
@@ -7394,44 +2888,6 @@
       position: 1
       tags:
         - silent
-    - word: 何
-      position: 4
-    - word: の
-      position: 5
-    - word: 用
-      position: 6
-    - word: です
-      position: 7
-    - word: か
-      position: 9
-    - word: <
-      base: ＜
-      position: 11
-    - word: br
-      base: BR
-      position: 12
-    - word: '>'
-      base: ＞
-      position: 14
-    - word: 雑魚
-      position: 15
-    - word: は
-      position: 17
-    - word: 引っ
-      base: 引く
-      dictionary: 引く
-      position: 18
-    - word: 込ん
-      base: 込む
-      dictionary: 込む
-      position: 20
-    - word: でろ
-      base: てる
-      dictionary: でる
-      position: 22
-    - word: ッ
-      base: つ
-      position: 24
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_07_0.10.41.078-0.10.44.581
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: What is this about?
@@ -7448,14 +2904,6 @@
       position: 2
       tags:
         - silent
-    - word: 何
-      position: 5
-    - word: の
-      position: 6
-    - word: こと
-      position: 7
-    - word: だ
-      position: 9
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_07_0.10.58.763-0.11.04.201
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -7469,46 +2917,6 @@
       position: 1
       tags:
         - silent
-    - word: あなた
-      base: 貴方
-      position: 4
-    - word: 方
-      position: 7
-    - word: が
-      position: 8
-    - word: 正義
-      position: 9
-    - word: で
-      position: 11
-    - word: 私
-      position: 13
-    - word: 達
-      position: 14
-    - word: が
-      position: 15
-    - word: 悪
-      base: 悪い
-      dictionary: 悪い
-      position: 16
-    - word: だ
-      position: 18
-    - word: と
-      position: 19
-    - word: おっしゃり
-      base: 仰る
-      dictionary: おっしゃる
-      position: 20
-    - word: たい
-      position: 25
-    - word: ん
-      base: の
-      position: 27
-    - word: でしょう
-      base: です
-      dictionary: です
-      position: 28
-    - word: が
-      position: 32
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_07_0.11.21.719-0.11.26.223
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -7522,38 +2930,6 @@
       position: 1
       tags:
         - silent
-    - word: あなた
-      base: 貴方
-      position: 4
-    - word: 方
-      position: 7
-    - word: が
-      position: 8
-    - word: しょっ
-      base: 背負う
-      dictionary: しょう
-      position: 10
-    - word: てる
-      position: 13
-    - word: の
-      position: 15
-    - word: は
-      position: 16
-    - word: たった
-      base: 唯
-      position: 18
-    - word: ４
-      base: '4'
-      dictionary: '4'
-      position: 21
-    - word: 人
-      position: 22
-    - word: でしょ
-      base: です
-      dictionary: です
-      position: 23
-    - word: ➡
-      position: 27
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_07_0.13.51.068-0.13.54.238
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: This is all for the country.
@@ -7561,8 +2937,6 @@
   episode: 7
   sentence: ≪(三大寺)国のためだ
   words:
-    - word: ≪
-      position: 0
     - word: 三
       base: '3'
       position: 2
@@ -7572,15 +2946,6 @@
       position: 3
       tags:
         - silent
-    - word: 国
-      position: 6
-    - word: の
-      position: 7
-    - word: ため
-      base: 為
-      position: 8
-    - word: だ
-      position: 10
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_07_0.16.15.679-0.16.18.515
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Stop.
@@ -7597,14 +2962,6 @@
       position: 2
       tags:
         - silent
-    - word: やめ
-      base: やめる
-      dictionary: やめる
-      position: 5
-    - word: なさい
-      base: 為す
-      dictionary: なさる
-      position: 7
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_07_0.17.16.674-0.17.19.874
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Sandaiji is on the third floor!
@@ -7622,16 +2979,6 @@
       position: 3
       tags:
         - silent
-    - word: 三大寺
-      position: 5
-    - word: は
-      position: 8
-    - word: 何
-      position: 9
-    - word: 階
-      position: 10
-    - word: だ
-      position: 11
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_07_0.17.34.024-0.17.38.524
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: '- Sensei, let''s escape.<br>- You go first.'
@@ -7643,28 +2990,6 @@
       position: 1
       tags:
         - silent
-    - word: 先生
-      position: 4
-    - word: 逃げ
-      base: 逃げる
-      dictionary: 逃げる
-      position: 7
-    - word: ましょう
-      base: ます
-      dictionary: ます
-      position: 9
-    - word: 先
-      position: 14
-    - word: に
-      position: 15
-    - word: 行き
-      base: 行く
-      dictionary: 行く
-      position: 16
-    - word: なさい
-      base: 為す
-      dictionary: なさる
-      position: 18
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_07_0.17.42.032-0.17.46.536
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Very sorry.<br>Get them quickly!<br>Kuroki... you bastard!
@@ -7678,40 +3003,6 @@
       position: 1
       tags:
         - silent
-    - word: あッ
-      base: 有る
-      dictionary: ある
-      position: 3
-    - word: 失礼
-      position: 6
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 8
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 9
-    - word: た
-      position: 11
-    - word: 早く
-      base: 早い
-      dictionary: 早い
-      position: 13
-    - word: そいつ
-      base: 其奴
-      position: 15
-    - word: ら
-      base: 等
-      position: 18
-    - word: を
-      position: 19
-    - word: 確保
-      position: 20
-    - word: しろ
-      base: 為る
-      dictionary: する
-      position: 22
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_07_0.18.04.054-0.18.08.154
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: I won't let off the bastard who betrayed the president.
@@ -7723,28 +3014,6 @@
       position: 1
       tags:
         - silent
-    - word: 社長
-      position: 4
-    - word: を
-      position: 6
-    - word: 裏切る
-      position: 7
-    - word: ヤツ
-      base: 奴
-      position: 10
-    - word: は
-      position: 12
-    - word: 許さ
-      base: 許す
-      dictionary: 許す
-      position: 14
-    - word: ねえ
-      base: ない
-      dictionary: ない
-      position: 16
-    - word: ッ
-      base: つ
-      position: 18
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_07_0.18.40.758-0.18.45.658
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: I should have done this earlier.
@@ -7756,27 +3025,6 @@
       position: 1
       tags:
         - silent
-    - word: もっと
-      position: 5
-    - word: 早く
-      base: 早い
-      dictionary: 早い
-      position: 8
-    - word: こう
-      position: 11
-    - word: する
-      base: 為る
-      position: 13
-    - word: べき
-      base: べし
-      dictionary: べし
-      position: 15
-    - word: だっ
-      base: だ
-      dictionary: だ
-      position: 17
-    - word: た
-      position: 19
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_07_0.19.45.422-0.19.48.258
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Father!
@@ -7795,22 +3043,10 @@
   episode: 7
   sentence: ≪(真由美)表の世界か➡
   words:
-    - word: ≪
-      position: 0
     - word: 真由美
       position: 2
       tags:
         - silent
-    - word: 表
-      position: 6
-    - word: の
-      position: 7
-    - word: 世界
-      position: 8
-    - word: か
-      position: 10
-    - word: ➡
-      position: 11
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_07_0.30.52.949-0.30.58.120
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: I see you're back up on your feet after the shock of your father's passing.
@@ -7822,46 +3058,6 @@
       position: 1
       tags:
         - silent
-    - word: お
-      base: 御
-      position: 4
-    - word: 父さん
-      position: 5
-    - word: を
-      position: 8
-    - word: 亡くさ
-      base: 亡くす
-      dictionary: 亡くす
-      position: 9
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 12
-    - word: た
-      position: 13
-    - word: ｼｮｯｸ
-      base: ショック
-      dictionary: ショック
-      position: 15
-    - word: から
-      position: 19
-    - word: 立ち
-      base: 立つ
-      dictionary: 立つ
-      position: 22
-    - word: 直っ
-      base: 直る
-      dictionary: 直る
-      position: 24
-    - word: た
-      position: 26
-    - word: ん
-      base: の
-      position: 27
-    - word: です
-      position: 28
-    - word: ね
-      position: 30
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_07_0.31.04.894-0.31.08.064
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Welcome back, Izumi.
@@ -7873,10 +3069,6 @@
       position: 1
       tags:
         - silent
-    - word: おかえり
-      position: 4
-    - word: 泉
-      position: 9
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_07_0.31.39.929-0.31.44.029
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: If you don't hurry, you'll be late.
@@ -7888,25 +3080,6 @@
       position: 1
       tags:
         - silent
-    - word: 早く
-      base: 早い
-      dictionary: 早い
-      position: 5
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 7
-    - word: ない
-      position: 8
-    - word: と
-      position: 10
-    - word: 遅刻
-      position: 11
-    - word: する
-      base: 為る
-      position: 13
-    - word: よ
-      position: 15
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_07_0.33.00.877-0.33.05.047
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Eh? Isn't that Sakuma-san!
@@ -7918,27 +3091,6 @@
       position: 1
       tags:
         - silent
-    - word: あれ
-      base: 彼れ
-      position: 5
-    - word: ッ
-      base: つ
-      position: 7
-    - word: 佐久間
-      position: 9
-    - word: さん
-      position: 12
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 14
-    - word: ない
-      base: 無い
-      position: 16
-    - word: か
-      position: 18
-    - word: よ
-      position: 19
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_07_0.33.29.238-0.33.33.409
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: What clan are you with?!<br>- You punk!<br>- You dare to say that?
@@ -7946,8 +3098,6 @@
   episode: 7
   sentence: ≪(ヤクザＡ) てめえ どこの組のもんだ？
   words:
-    - word: ≪
-      position: 0
     - word: ヤクザ
       base: やくざ
       position: 2
@@ -7959,21 +3109,6 @@
       position: 5
       tags:
         - silent
-    - word: てめえ
-      base: てまえ
-      position: 8
-    - word: どこ
-      position: 12
-    - word: の
-      position: 14
-    - word: 組
-      position: 15
-    - word: の
-      position: 16
-    - word: もん
-      position: 17
-    - word: だ
-      position: 19
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_07_0.33.32.909-0.33.35.411
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: '- You punk!<br>- You dare to say that?'
@@ -7987,12 +3122,6 @@
       position: 1
       tags:
         - silent
-    - word: うるせえ
-      base: 煩い
-      dictionary: うるさい
-      position: 3
-    - word: ッ
-      position: 7
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_07_0.33.34.911-0.33.38.411
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: '- You punk!<br>- You dare to say that?<br>Let go of me!'
@@ -8032,16 +3161,6 @@
       position: 1
       tags:
         - silent
-    - word: おい
-      position: 3
-    - word: 立て
-      base: 立つ
-      dictionary: 立てる
-      position: 6
-    - word: 立て
-      base: 立つ
-      dictionary: 立つ
-      position: 9
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_07_0.34.06.209-0.34.10.379
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: Is this the cell phone of Miss Hoshi Izumi?<br>Yes.
@@ -8049,35 +3168,10 @@
   episode: 7
   sentence: ☎(男)星泉さんの携帯ですか？<br>はい
   words:
-    - word: ☎
-      position: 0
     - word: 男
       position: 2
       tags:
         - silent
-    - word: 星泉
-      position: 4
-    - word: さん
-      position: 6
-    - word: の
-      position: 8
-    - word: 携帯
-      position: 9
-    - word: です
-      position: 11
-    - word: か
-      position: 13
-    - word: <
-      base: ＜
-      position: 15
-    - word: br
-      base: BR
-      position: 16
-    - word: '>'
-      base: ＞
-      position: 18
-    - word: はい
-      position: 19
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_07_0.34.29.550-0.34.34.388
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: In Asakusa, there was an incident involving a fight between some yakuza.
@@ -8089,36 +3183,6 @@
       position: 1
       tags:
         - silent
-    - word: 浅草
-      position: 4
-    - word: で
-      position: 6
-    - word: ﾔｸｻﾞ
-      base: やくざ
-      dictionary: ヤクザ
-      position: 8
-    - word: 同士
-      position: 12
-    - word: の
-      position: 14
-    - word: ｹﾝｶ
-      base: 喧嘩
-      dictionary: ケンカ
-      position: 15
-    - word: が
-      position: 18
-    - word: あり
-      base: 有る
-      dictionary: ある
-      position: 19
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 21
-    - word: て
-      position: 23
-    - word: ➡
-      position: 24
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_07_0.36.43.551-0.36.48.389
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: We don't need it.<br>Sorry to have disturbed you.
@@ -8130,38 +3194,6 @@
       position: 2
       tags:
         - silent
-    - word: ウチ
-      base: 内
-      position: 4
-    - word: は
-      position: 6
-    - word: 結構
-      position: 7
-    - word: です
-      position: 9
-    - word: お
-      base: 御
-      position: 14
-    - word: 忙しい
-      position: 15
-    - word: ところ
-      base: 所
-      position: 18
-    - word: お
-      base: 御
-      position: 22
-    - word: 邪魔
-      position: 23
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 25
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 26
-    - word: た
-      position: 28
 - id: Sailor_Suit_and_Machine_Gun_2006_Episode_07_0.36.47.889-0.36.53.394
   deck_name: Sailor Suit and Machine Gun (2006)
   translation: >-
@@ -8175,39 +3207,3 @@
       position: 2
       tags:
         - silent
-    - word: あっさり
-      position: 5
-    - word: 引き
-      base: 引く
-      dictionary: 引く
-      position: 9
-    - word: 下がん
-      base: 下がる
-      dictionary: 下がる
-      position: 11
-    - word: な
-      position: 14
-    - word: よ
-      position: 15
-    - word: それ
-      base: 其れ
-      position: 17
-    - word: じゃ
-      base: で
-      position: 19
-    - word: ﾏﾝｼｮﾝ
-      base: マンション
-      dictionary: マンション
-      position: 21
-    - word: なんか
-      position: 26
-    - word: 売れ
-      base: 売る
-      dictionary: 売れる
-      position: 29
-    - word: ねえ
-      base: ない
-      dictionary: ない
-      position: 31
-    - word: ぞ
-      position: 33

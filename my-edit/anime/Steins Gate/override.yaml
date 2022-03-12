@@ -6,8 +6,6 @@
   sound: A_SteinsGateS01_E01_1_0.01.40.225-0.01.47.941.mp3
   sentence: 中鉢(なかばち)博士は 我々研究者の抜け駆けをし― この世紀の発明の発表会へと こぎ着けた
   words:
-    - word: 中鉢
-      position: 0
     - word: なか
       base: 中
       position: 3
@@ -17,69 +15,12 @@
       position: 5
       tags:
         - silent
-    - word: 博士
-      position: 8
-    - word: は
-      position: 10
-    - word: 我々
-      position: 12
-    - word: 研究
-      position: 14
-    - word: 者
-      position: 16
-    - word: の
-      position: 17
-    - word: 抜け駆け
-      position: 18
-    - word: を
-      position: 22
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 23
-    - word: この
-      base: 此の
-      position: 26
-    - word: 世紀
-      position: 28
-    - word: の
-      position: 30
-    - word: 発明
-      position: 31
-    - word: の
-      position: 33
-    - word: 発表
-      position: 34
-    - word: 会
-      position: 36
-    - word: へ
-      position: 37
-    - word: と
-      position: 38
-    - word: こぎ
-      base: 漕ぐ
-      dictionary: こぐ
-      position: 40
-    - word: 着け
-      base: 着ける
-      dictionary: 着ける
-      position: 42
-    - word: た
-      position: 44
 - id: A_SteinsGateS01_E01_0035
   deck_name: Steins Gate
   translation: It's Hououin Kyouma.
   sound: A_SteinsGateS01_E01_1_0.03.13.193-0.03.14.945.mp3
   sentence: 鳳凰院凶真(ほうおういんきょうま)だ
   words:
-    - word: 鳳凰
-      position: 0
-    - word: 院
-      position: 2
-    - word: 凶
-      position: 3
-    - word: 真
-      position: 4
     - word: ほう
       position: 6
       tags:
@@ -103,28 +44,12 @@
       position: 15
       tags:
         - silent
-    - word: だ
-      position: 17
 - id: A_SteinsGateS01_E01_0153
   deck_name: Steins Gate
   translation: And Lab Member 003,  Super Haker Hashida Itaru!
   sound: A_SteinsGateS01_E01_1_0.12.48.267-0.12.53.982.mp3
   sentence: そして ラボメンナンバー００３ スーパーハカー 橋田 至(はしだいたる)
   words:
-    - word: そして
-      position: 0
-    - word: ラボメンナンバー
-      position: 4
-    - word: ００３
-      base: '003'
-      dictionary: '003'
-      position: 12
-    - word: スーパーハカー
-      position: 16
-    - word: 橋田
-      position: 24
-    - word: 至
-      position: 27
     - word: は
       position: 29
       tags:
@@ -146,26 +71,6 @@
   sound: A_SteinsGateS01_E01_1_0.12.54.107-0.12.56.651.mp3
   sentence: ハカーじゃなくハッカーだろ 常考(じょうこう)
   words:
-    - word: ハカー
-      position: 0
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 3
-    - word: なく
-      base: 無い
-      dictionary: ない
-      position: 5
-    - word: ハッカー
-      position: 7
-    - word: だろ
-      base: だ
-      dictionary: だ
-      position: 11
-    - word: 常
-      position: 14
-    - word: 考
-      position: 15
     - word: じょう
       position: 17
       tags:
@@ -180,8 +85,6 @@
   sound: A_SteinsGateS01_E01_1_0.13.10.081-0.13.13.251.mp3
   sentence: 末広町(すえひろちょう)駅の交差点を蔵前(くらまえ)通りに左折
   words:
-    - word: 末広町
-      position: 0
     - word: すえ
       base: 末
       position: 4
@@ -196,18 +99,6 @@
       position: 8
       tags:
         - silent
-    - word: 駅
-      position: 12
-    - word: の
-      position: 13
-    - word: 交差
-      position: 14
-    - word: 点
-      position: 16
-    - word: を
-      position: 17
-    - word: 蔵前
-      position: 18
     - word: くらま
       position: 21
       tags:
@@ -217,41 +108,12 @@
       position: 24
       tags:
         - silent
-    - word: 通り
-      position: 26
-    - word: に
-      position: 28
-    - word: 左折
-      position: 29
 - id: A_SteinsGateS01_E01_0181
   deck_name: Steins Gate
   translation: That delusional crap again? Fail!
   sound: A_SteinsGateS01_E01_1_0.14.11.768-0.14.15.229.mp3
   sentence: はああ また始まったよ 厨二病(ちゅうにびょう) 乙(おつ)！
   words:
-    - word: は
-      base: はあ
-      position: 0
-    - word: ああ
-      position: 1
-    - word: また
-      base: 又
-      position: 4
-    - word: 始まっ
-      base: 始まる
-      dictionary: 始まる
-      position: 6
-    - word: た
-      position: 9
-    - word: よ
-      position: 10
-    - word: 厨
-      position: 12
-    - word: 二
-      base: '2'
-      position: 13
-    - word: 病
-      position: 14
     - word: ちゅう
       position: 16
       tags:
@@ -265,8 +127,6 @@
       position: 20
       tags:
         - silent
-    - word: 乙
-      position: 25
     - word: おつ
       position: 27
       tags:
@@ -281,18 +141,6 @@
     本日12時頃 東京千代田(ちよだ)区 秋葉原(あきはばら)に墜落した― 人工衛星と思われる 落下物です ご覧ください ここ地上から見ても… あれは
     何だったんだ？ 今朝 俺とまゆりは 中鉢博士の会見を見るために―
   words:
-    - word: 本日
-      position: 0
-    - word: '12'
-      position: 2
-    - word: 時
-      position: 4
-    - word: 頃
-      position: 5
-    - word: 東京
-      position: 7
-    - word: 千代田
-      position: 9
     - word: ちよ
       position: 13
       tags:
@@ -301,124 +149,16 @@
       position: 15
       tags:
         - silent
-    - word: 区
-      position: 17
-    - word: 秋葉原
-      position: 19
     - word: あきはばら
       position: 23
       tags:
         - silent
-    - word: に
-      position: 29
-    - word: 墜落
-      position: 30
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 32
-    - word: た
-      position: 33
-    - word: 人工
-      position: 36
-    - word: 衛星
-      position: 38
-    - word: と
-      position: 40
-    - word: 思わ
-      base: 思う
-      dictionary: 思う
-      position: 41
-    - word: れる
-      position: 43
-    - word: 落下
-      position: 46
-    - word: 物
-      position: 48
-    - word: です
-      position: 49
-    - word: ご覧
-      base: 御覧
-      position: 52
-    - word: ください
-      base: 下さる
-      dictionary: くださる
-      position: 54
-    - word: ここ
-      base: 此処
-      position: 59
-    - word: 地上
-      position: 61
-    - word: から
-      position: 63
-    - word: 見
-      base: 見る
-      dictionary: 見る
-      position: 65
-    - word: て
-      position: 66
-    - word: も
-      position: 67
-    - word: あれ
-      base: 彼れ
-      position: 70
-    - word: は
-      position: 72
-    - word: 何
-      position: 74
-    - word: だっ
-      base: だ
-      dictionary: だ
-      position: 75
-    - word: た
-      position: 77
-    - word: ん
-      base: の
-      position: 78
-    - word: だ
-      position: 79
-    - word: 今朝
-      position: 82
-    - word: 俺
-      position: 85
-    - word: と
-      position: 86
-    - word: まゆり
-      position: 87
-    - word: は
-      position: 90
-    - word: 中鉢
-      position: 92
-    - word: 博士
-      position: 94
-    - word: の
-      position: 96
-    - word: 会見
-      position: 97
-    - word: を
-      position: 99
-    - word: 見る
-      position: 100
-    - word: ため
-      base: 為
-      position: 102
-    - word: に
-      position: 104
 - id: A_SteinsGateS01_E01_0202
   deck_name: Steins Gate
   translation: This difference in memories...
   sound: A_SteinsGateS01_E01_1_0.15.39.689-0.15.41.774.mp3
   sentence: この記憶の齟齬(そご)
   words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: 記憶
-      position: 2
-    - word: の
-      position: 4
-    - word: 齟齬
-      position: 5
     - word: そご
       base: 齟齬
       position: 8
@@ -430,12 +170,6 @@
   sound: A_SteinsGateS01_E01_1_0.18.16.429-0.18.19.265.mp3
   sentence: ああ「電話レンジ(かっこかり)」ね
   words:
-    - word: ああ
-      position: 0
-    - word: 電話
-      position: 3
-    - word: レンジ
-      position: 5
     - word: かっこ
       base: 格好
       position: 9
@@ -445,106 +179,32 @@
       position: 12
       tags:
         - silent
-    - word: ね
-      position: 16
 - id: A_SteinsGateS01_E01_0265
   deck_name: Steins Gate
   translation: This is R-E-N-G, the Phone Microwave  (name subject to change).
   sound: A_SteinsGateS01_E01_1_0.19.03.684-0.19.07.855.mp3
   sentence: こちらはＲＥＮＧ(アールイーエヌジー) 「電話レンジ」です
   words:
-    - word: こちら
-      base: 此方
-      position: 0
-    - word: は
-      position: 3
-    - word: ＲＥＮＧ
-      base: reng
-      dictionary: reng
-      position: 4
     - word: アールイーエヌジー
       position: 9
       tags:
         - silent
-    - word: 電話
-      position: 21
-    - word: レンジ
-      position: 23
-    - word: です
-      position: 27
 - id: A_SteinsGateS01_E01_0277
   deck_name: Steins Gate
   translation: 'Mayushii''s Juicy Fried Chicken #1 got frozen...'
   sound: A_SteinsGateS01_E01_1_0.19.46.185-0.19.49.021.mp3
   sentence: まゆしぃのジューシーから揚げ No.１(ワン)が凍っちゃったことも…
   words:
-    - word: まゆ
-      position: 0
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 2
-    - word: ぃ
-      position: 3
-    - word: の
-      position: 4
-    - word: ジューシー
-      position: 5
-    - word: から揚げ
-      base: 空揚げ
-      position: 10
-    - word: No.
-      base: ナンバー
-      dictionary: No．
-      position: 15
-    - word: １
-      base: '1'
-      dictionary: '1'
-      position: 18
     - word: ワン
       position: 20
       tags:
         - silent
-    - word: が
-      position: 23
-    - word: 凍っ
-      base: 凍る
-      dictionary: 凍る
-      position: 24
-    - word: ちゃっ
-      base: ちゃう
-      dictionary: ちゃう
-      position: 26
-    - word: た
-      position: 29
-    - word: こと
-      position: 30
-    - word: も
-      position: 32
 - id: A_SteinsGateS01_E01_0294
   deck_name: Steins Gate
   translation: If they didn't take attendance, I'd never go.
   sound: A_SteinsGateS01_E01_1_0.20.39.613-0.20.44.577.mp3
   sentence: ああ 単位必須じゃなければ 絶対(ぜってえ)休むのに
   words:
-    - word: ああ
-      position: 0
-    - word: 単位
-      position: 3
-    - word: 必須
-      position: 5
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 7
-    - word: なけれ
-      base: 無い
-      dictionary: ない
-      position: 9
-    - word: ば
-      position: 12
-    - word: 絶対
-      position: 14
     - word: ぜ
       position: 17
       tags:
@@ -555,12 +215,6 @@
       position: 18
       tags:
         - silent
-    - word: 休む
-      position: 22
-    - word: の
-      position: 24
-    - word: に
-      position: 25
 - id: A_SteinsGateS01_E020335
   deck_name: Steins Gate
   translation: >-
@@ -569,24 +223,6 @@
   sound: A_SteinsGateS01_E02_1_0.00.47.502-0.00.50.213.mp3
   sentence: ３時間ほど前 ラジ館の 中鉢(なかばち)博士 記者会見のとき…
   words:
-    - word: ３
-      base: '3'
-      dictionary: '3'
-      position: 0
-    - word: 時間
-      position: 1
-    - word: ほど
-      position: 3
-    - word: 前
-      position: 5
-    - word: ラジ
-      position: 7
-    - word: 館
-      position: 9
-    - word: の
-      position: 10
-    - word: 中鉢
-      position: 12
     - word: なか
       base: 中
       position: 15
@@ -596,27 +232,12 @@
       position: 17
       tags:
         - silent
-    - word: 博士
-      position: 20
-    - word: 記者
-      position: 23
-    - word: 会見
-      position: 25
-    - word: の
-      position: 27
-    - word: とき
-      base: 時
-      position: 28
 - id: A_SteinsGateS01_E020344
   deck_name: Steins Gate
   translation: It's Hououin...
   sound: A_SteinsGateS01_E02_1_0.01.08.523-0.01.09.565.mp3
   sentence: 鳳凰院(ほうおういん)…
   words:
-    - word: 鳳凰
-      position: 0
-    - word: 院
-      position: 2
     - word: ほう
       position: 4
       tags:
@@ -637,10 +258,6 @@
   sound: A_SteinsGateS01_E02_1_0.01.10.483-0.01.11.401.mp3
   sentence: 凶真(きょうま)だ！
   words:
-    - word: 凶
-      position: 0
-    - word: 真
-      position: 1
     - word: きょう
       base: 今日
       position: 3
@@ -651,8 +268,6 @@
       position: 6
       tags:
         - silent
-    - word: だ
-      position: 8
 - id: A_SteinsGateS01_E020402
   deck_name: Steins Gate
   translation: >-
@@ -661,165 +276,37 @@
   sound: A_SteinsGateS01_E02_1_0.06.20.042-0.06.26.048.mp3
   sentence: 妖刀五月雨(さみだれ)は― るか子が ふさわしい使い手と 感知したときに― 真の力を発揮する
   words:
-    - word: 妖刀
-      position: 0
-    - word: 五月雨
-      position: 2
     - word: さみだれ
       base: 五月雨
       position: 6
       tags:
         - silent
-    - word: は
-      position: 11
-    - word: る
-      base: れる
-      position: 14
-    - word: か
-      position: 15
-    - word: 子
-      position: 16
-    - word: が
-      position: 17
-    - word: ふさわしい
-      base: 相応しい
-      position: 19
-    - word: 使い手
-      position: 24
-    - word: と
-      position: 27
-    - word: 感知
-      position: 29
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 31
-    - word: た
-      position: 32
-    - word: とき
-      base: 時
-      position: 33
-    - word: に
-      position: 35
-    - word: 真
-      position: 38
-    - word: の
-      position: 39
-    - word: 力
-      position: 40
-    - word: を
-      position: 41
-    - word: 発揮
-      position: 42
-    - word: する
-      base: 為る
-      position: 44
 - id: A_SteinsGateS01_E020472
   deck_name: Steins Gate
   translation: SERN maintains an exclusive monopoly on time machines.
   sound: A_SteinsGateS01_E02_1_0.11.42.364-0.11.46.702.mp3
   sentence: “タイムマシンは” “ＳＥＲＮ(セルン)によって 独占されています”
   words:
-    - word: タイム
-      position: 1
-    - word: マシン
-      position: 4
-    - word: は
-      position: 7
-    - word: ＳＥＲＮ
-      base: sern
-      dictionary: sern
-      position: 11
     - word: セルン
       position: 16
       tags:
         - silent
-    - word: に
-      position: 20
-    - word: よっ
-      base: よる
-      dictionary: よる
-      position: 21
-    - word: て
-      position: 23
-    - word: 独占
-      position: 25
-    - word: さ
-      base: 為る
-      dictionary: する
-      position: 27
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 28
-    - word: て
-      position: 29
-    - word: い
-      base: 居る
-      dictionary: いる
-      position: 30
-    - word: ます
-      position: 31
 - id: A_SteinsGateS01_E020582
   deck_name: Steins Gate
   translation: I heard a rumor one was somewhere in Akihabara.
   sound: A_SteinsGateS01_E02_1_0.18.16.425-0.18.19.511.mp3
   sentence: 秋葉原(あきはばら)のどこかに眠っているという うわさが流れたから―
   words:
-    - word: 秋葉原
-      position: 0
     - word: あきはばら
       position: 4
       tags:
         - silent
-    - word: の
-      position: 10
-    - word: どこ
-      position: 11
-    - word: か
-      position: 13
-    - word: に
-      position: 14
-    - word: 眠っ
-      base: 眠る
-      dictionary: 眠る
-      position: 15
-    - word: て
-      position: 17
-    - word: いる
-      base: 居る
-      position: 18
-    - word: と
-      position: 20
-    - word: いう
-      base: 言う
-      position: 21
-    - word: うわさ
-      base: 噂
-      position: 24
-    - word: が
-      position: 27
-    - word: 流れ
-      base: 流れる
-      dictionary: 流れる
-      position: 28
-    - word: た
-      position: 30
-    - word: から
-      position: 31
 - id: A_SteinsGateS01_E020590
   deck_name: Steins Gate
   translation: That's how stuff ends up incredibly rare.
   sound: A_SteinsGateS01_E02_1_0.18.39.781-0.18.41.366.mp3
   sentence: レア度 激高(げきだか)ってパターン
   words:
-    - word: レア
-      position: 0
-    - word: 度
-      position: 2
-    - word: 激高
-      base: 激昂
-      position: 4
     - word: げき
       base: 劇
       position: 7
@@ -833,10 +320,6 @@
       position: 10
       tags:
         - silent
-    - word: って
-      position: 12
-    - word: パターン
-      position: 14
 - id: A_SteinsGateS01_E020597
   deck_name: Steins Gate
   translation: >-
@@ -845,20 +328,6 @@
   sound: A_SteinsGateS01_E02_1_0.19.05.098-0.19.09.102.mp3
   sentence: “貴重なＰＣだ 秋葉(あきば)にはない可能性が高い”
   words:
-    - word: 貴重
-      position: 1
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 3
-    - word: ＰＣ
-      base: PC
-      dictionary: PC
-      position: 4
-    - word: だ
-      position: 6
-    - word: 秋葉
-      position: 8
     - word: あき
       base: あく
       dictionary: あく
@@ -869,31 +338,12 @@
       position: 13
       tags:
         - silent
-    - word: に
-      position: 15
-    - word: は
-      position: 16
-    - word: ない
-      base: 無い
-      position: 17
-    - word: 可能
-      position: 19
-    - word: 性
-      position: 21
-    - word: が
-      position: 22
-    - word: 高い
-      position: 23
 - id: A_SteinsGateS01_E020608
   deck_name: Steins Gate
   translation: is the EM wave effect from the Phone Microwave (name subject to change).
   sound: A_SteinsGateS01_E02_1_0.19.48.809-0.19.52.145.mp3
   sentence: 「電話レンジ(かっこかり)」の 電磁波の影響だな
   words:
-    - word: 電話
-      position: 1
-    - word: レンジ
-      position: 3
     - word: かっこ
       base: 格好
       position: 7
@@ -903,45 +353,12 @@
       position: 10
       tags:
         - silent
-    - word: の
-      position: 14
-    - word: 電磁
-      position: 16
-    - word: 波
-      position: 18
-    - word: の
-      position: 19
-    - word: 影響
-      position: 20
-    - word: だ
-      position: 22
-    - word: な
-      position: 23
 - id: A_SteinsGateS01_E020618
   deck_name: Steins Gate
   translation: Wouldn't one work? Hurr.
   sound: A_SteinsGateS01_E02_1_0.20.14.709-0.20.17.921.mp3
   sentence: １本でいいだろ 常考(じょうこう) えっ… あっ
   words:
-    - word: １
-      base: '1'
-      dictionary: '1'
-      position: 0
-    - word: 本
-      position: 1
-    - word: で
-      position: 2
-    - word: いい
-      base: 良い
-      position: 3
-    - word: だろ
-      base: だ
-      dictionary: だ
-      position: 5
-    - word: 常
-      position: 8
-    - word: 考
-      position: 9
     - word: じょう
       position: 11
       tags:
@@ -950,19 +367,12 @@
       position: 14
       tags:
         - silent
-    - word: えっ
-      position: 18
-    - word: あっ
-      position: 22
 - id: A_SteinsGateS01_E020620
   deck_name: Steins Gate
   translation: That (name subject to change)  is annoying. We should take it off.
   sound: A_SteinsGateS01_E02_1_0.20.24.678-0.20.28.098.mp3
   sentence: その“(かっこかり)”って めんどいから いいかげん取るべき
   words:
-    - word: その
-      base: 其の
-      position: 0
     - word: かっこ
       base: 格好
       position: 4
@@ -972,34 +382,12 @@
       position: 7
       tags:
         - silent
-    - word: って
-      position: 11
-    - word: めんどい
-      position: 14
-    - word: から
-      position: 18
-    - word: いい
-      base: 良い
-      position: 21
-    - word: かげん
-      base: 加減
-      position: 23
-    - word: 取る
-      position: 26
-    - word: べき
-      base: べし
-      dictionary: べし
-      position: 28
 - id: A_SteinsGateS01_E020632
   deck_name: Steins Gate
   translation: Talking to yourself... Fail!
   sound: A_SteinsGateS01_E02_1_0.21.08.221-0.21.09.431.mp3
   sentence: 自演乙(おつ)！
   words:
-    - word: 自演
-      position: 0
-    - word: 乙
-      position: 2
     - word: おつ
       position: 4
       tags:
@@ -1010,8 +398,6 @@
   sound: A_SteinsGateS01_E03_1_0.00.01.782-0.00.04.493.mp3
   sentence: 牧瀬(まきせ)… 紅莉栖(くりす)
   words:
-    - word: 牧瀬
-      position: 0
     - word: まき
       position: 3
       tags:
@@ -1022,12 +408,6 @@
       position: 5
       tags:
         - silent
-    - word: 紅
-      position: 9
-    - word: 莉
-      position: 10
-    - word: 栖
-      position: 11
     - word: くり
       position: 13
       tags:
@@ -1043,8 +423,6 @@
   sound: A_SteinsGateS01_E03_1_0.00.09.414-0.00.11.333.mp3
   sentence: 橋田(はしだ)さんに聞いて来たんです
   words:
-    - word: 橋田
-      position: 0
     - word: はし
       position: 3
       tags:
@@ -1053,49 +431,12 @@
       position: 5
       tags:
         - silent
-    - word: さん
-      position: 7
-    - word: に
-      position: 9
-    - word: 聞い
-      base: 聞く
-      dictionary: 聞く
-      position: 10
-    - word: て
-      position: 12
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 13
-    - word: た
-      position: 14
-    - word: ん
-      base: の
-      position: 15
-    - word: です
-      position: 16
 - id: A_SteinsGateS01_E030715
   deck_name: Steins Gate
   translation: 'Future Gadget #8, the Phone Microwave, is my lab''s secret weapon.'
   sound: A_SteinsGateS01_E03_1_0.04.45.023-0.04.50.111.mp3
   sentence: 未来ガジェット８号機 「電話レンジ(かっこかり)」は― 我が研究所の秘密兵器だからな
   words:
-    - word: 未来
-      position: 0
-    - word: ガジェット
-      position: 2
-    - word: ８
-      base: '8'
-      dictionary: '8'
-      position: 7
-    - word: 号
-      position: 8
-    - word: 機
-      position: 9
-    - word: 電話
-      position: 12
-    - word: レンジ
-      position: 14
     - word: かっこ
       base: 格好
       position: 18
@@ -1105,42 +446,12 @@
       position: 21
       tags:
         - silent
-    - word: は
-      position: 25
-    - word: 我が
-      position: 28
-    - word: 研究
-      position: 30
-    - word: 所
-      position: 32
-    - word: の
-      position: 33
-    - word: 秘密
-      position: 34
-    - word: 兵器
-      position: 36
-    - word: だ
-      position: 38
-    - word: から
-      position: 39
-    - word: な
-      position: 41
 - id: A_SteinsGateS01_E030740
   deck_name: Steins Gate
   translation: Say it right, Hououin Pervert-Kyouma!
   sound: A_SteinsGateS01_E03_1_0.06.05.061-0.06.07.564.mp3
   sentence: ちゃんと呼べ！ 鳳凰院(ほうおういん)変態凶真(きょうま)
   words:
-    - word: ちゃんと
-      position: 0
-    - word: 呼べ
-      base: 呼ぶ
-      dictionary: 呼ぶ
-      position: 4
-    - word: 鳳凰
-      position: 8
-    - word: 院
-      position: 10
     - word: ほう
       position: 12
       tags:
@@ -1155,12 +466,6 @@
       position: 17
       tags:
         - silent
-    - word: 変態
-      position: 19
-    - word: 凶
-      position: 21
-    - word: 真
-      position: 22
     - word: きょう
       base: 今日
       position: 24
@@ -1177,84 +482,37 @@
   sound: A_SteinsGateS01_E03_1_0.06.32.005-0.06.35.925.mp3
   sentence: ♪ 「ジューシーからあげNo.１(ワン)」 ワン！
   words:
-    - word: ♪
-      position: 0
-    - word: ジューシー
-      position: 3
-    - word: からあげ
-      base: 空揚げ
-      position: 8
-    - word: No.
-      base: ナンバー
-      dictionary: No．
-      position: 12
-    - word: １
-      base: '1'
-      dictionary: '1'
-      position: 15
     - word: ワン
       position: 17
       tags:
         - silent
-    - word: ワン
-      base: わん
-      position: 22
 - id: A_SteinsGateS01_E030832
   deck_name: Steins Gate
   translation: The lightning...
   sound: A_SteinsGateS01_E03_1_0.10.50.138-0.10.51.806.mp3
   sentence: “閃光(せんこう)の…”
   words:
-    - word: 閃光
-      position: 1
     - word: せんこう
       base: 潜航
       position: 4
       tags:
         - silent
-    - word: の
-      position: 9
 - id: A_SteinsGateS01_E030854
   deck_name: Steins Gate
   translation: The Large Hadron Collider, SERN's particle accelerator.
   sound: A_SteinsGateS01_E03_1_0.11.51.783-0.11.55.787.mp3
   sentence: ラージハドロンコライダー ＳＥＲＮ(セルン)の素粒子加速器
   words:
-    - word: ラージハドロンコライダー
-      position: 0
-    - word: ＳＥＲＮ
-      base: sern
-      dictionary: sern
-      position: 13
     - word: セルン
       position: 18
       tags:
         - silent
-    - word: の
-      position: 22
-    - word: 素
-      position: 23
-    - word: 粒子
-      position: 24
-    - word: 加速
-      position: 26
-    - word: 器
-      position: 28
 - id: A_SteinsGateS01_E030951
   deck_name: Steins Gate
   translation: I need the IBN 5100's abilities to stop their plans.
   sound: A_SteinsGateS01_E03_1_0.17.47.722-0.17.53.144.mp3
   sentence: “ＳＥＲＮの企(たくら)みを防ぐには ＩＢＮ5100の機能が必要なのです”
   words:
-    - word: ＳＥＲＮ
-      base: sern
-      dictionary: sern
-      position: 1
-    - word: の
-      position: 5
-    - word: 企
-      base: 企み
-      position: 6
     - word: たく
       position: 8
       tags:
@@ -1264,133 +522,33 @@
       position: 10
       tags:
         - silent
-    - word: み
-      position: 12
-    - word: を
-      position: 13
-    - word: 防ぐ
-      position: 14
-    - word: に
-      position: 16
-    - word: は
-      position: 17
-    - word: ＩＢＮ
-      base: イブン
-      dictionary: Ibn
-      position: 19
-    - word: '5100'
-      position: 22
-    - word: の
-      position: 26
-    - word: 機能
-      position: 27
-    - word: が
-      position: 29
-    - word: 必要
-      position: 30
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 32
-    - word: の
-      position: 33
-    - word: です
-      position: 34
 - id: A_SteinsGateS01_E030968
   deck_name: Steins Gate
   translation: I need to buy my Rai-Net sausage, also!
   sound: A_SteinsGateS01_E03_1_0.18.58.209-0.19.00.961.mp3
   sentence: 「雷(らい)ネットソーセージ」も 買わなきゃいけないし
   words:
-    - word: 雷
-      position: 1
     - word: らい
       base: 癩
       position: 3
       tags:
         - silent
-    - word: ネット
-      position: 6
-    - word: ソーセージ
-      position: 9
-    - word: も
-      position: 15
-    - word: 買わ
-      base: 買う
-      dictionary: 買う
-      position: 17
-    - word: なきゃ
-      base: ない
-      dictionary: ない
-      position: 19
-    - word: いけ
-      base: 行く
-      dictionary: いける
-      position: 22
-    - word: ない
-      position: 24
-    - word: し
-      position: 26
 - id: A_SteinsGateS01_E041052
   deck_name: Steins Gate
   translation: And everything Daru wears, from his T-shirts to his underwear, is XXXL.
   sound: A_SteinsGateS01_E04_1_0.03.15.646-0.03.19.817.mp3
   sentence: しかも ダルは Ｔシャツからパンツまで― ＸＸＸＬ(スリーエックスエル)だ
   words:
-    - word: しかも
-      base: 然も
-      position: 0
-    - word: ダル
-      position: 4
-    - word: は
-      position: 6
-    - word: Ｔシャツ
-      base: Tシャツ
-      dictionary: Tシャツ
-      position: 8
-    - word: から
-      position: 12
-    - word: パンツ
-      position: 14
-    - word: まで
-      position: 17
-    - word: ＸＸＸＬ
-      base: xxxl
-      dictionary: xxxl
-      position: 21
     - word: スリーエックスエル
       position: 26
       tags:
         - silent
-    - word: だ
-      position: 36
 - id: A_SteinsGateS01_E041057
   deck_name: Steins Gate
   translation: One, my name is Hououin Kyouma.
   sound: A_SteinsGateS01_E04_1_0.03.29.910-0.03.33.247.mp3
   sentence: 一つ 俺の名は鳳凰院凶真(ほうおういんきょうま)
   words:
-    - word: 一
-      base: '1'
-      position: 0
-    - word: つ
-      position: 1
-    - word: 俺
-      position: 3
-    - word: の
-      position: 4
-    - word: 名
-      position: 5
-    - word: は
-      position: 6
-    - word: 鳳凰
-      position: 7
-    - word: 院
-      position: 9
-    - word: 凶
-      position: 10
-    - word: 真
-      position: 11
     - word: ほう
       position: 13
       tags:
@@ -1420,149 +578,50 @@
   sound: A_SteinsGateS01_E04_1_0.03.35.416-0.03.36.792.mp3
   sentence: おっはー 鈴(すず)さん
   words:
-    - word: おっ
-      position: 0
-    - word: はー
-      base: はあ
-      position: 2
-    - word: 鈴
-      position: 5
     - word: すず
       position: 7
       tags:
         - silent
-    - word: さん
-      position: 10
 - id: A_SteinsGateS01_E041063
   deck_name: Steins Gate
   translation: Suzu-san gave me this Rai-Net card.
   sound: A_SteinsGateS01_E04_1_0.03.44.175-0.03.47.470.mp3
   sentence: 鈴さんには この 雷(らい)ネットカードをもらったのです
   words:
-    - word: 鈴
-      position: 0
-    - word: さん
-      position: 1
-    - word: に
-      position: 3
-    - word: は
-      position: 4
-    - word: この
-      base: 此の
-      position: 6
-    - word: 雷
-      position: 9
     - word: らい
       base: 癩
       position: 11
       tags:
         - silent
-    - word: ネット
-      position: 14
-    - word: カード
-      position: 17
-    - word: を
-      position: 20
-    - word: もらっ
-      base: 貰う
-      dictionary: もらう
-      position: 21
-    - word: た
-      position: 24
-    - word: の
-      position: 25
-    - word: です
-      position: 26
 - id: A_SteinsGateS01_E041073
   deck_name: Steins Gate
   translation: Say that when Nae's around. I dare you.
   sound: A_SteinsGateS01_E04_1_0.04.10.493-0.04.14.664.mp3
   sentence: てめえ 綯(なえ)がいる前で そういうこと言ってみろ
   words:
-    - word: てめえ
-      base: てまえ
-      position: 0
-    - word: 綯
-      position: 4
     - word: なえ
       base: 苗
       position: 6
       tags:
         - silent
-    - word: が
-      position: 9
-    - word: いる
-      base: 居る
-      position: 10
-    - word: 前
-      position: 12
-    - word: で
-      position: 13
-    - word: そう
-      position: 15
-    - word: いう
-      base: 言う
-      position: 17
-    - word: こと
-      position: 19
-    - word: 言っ
-      base: 言う
-      dictionary: 言う
-      position: 21
-    - word: て
-      position: 23
-    - word: みろ
-      base: 見る
-      dictionary: みる
-      position: 24
 - id: A_SteinsGateS01_E041284
   deck_name: Steins Gate
   translation: The cat ears never lie. I'll teach you...
   sound: A_SteinsGateS01_E04_1_0.15.53.236-0.15.56.865.mp3
   sentence: フン 猫耳に二言(にごん)はないニャ　勝負！
   words:
-    - word: フン
-      position: 0
-    - word: 猫耳
-      position: 3
-    - word: に
-      position: 5
-    - word: 二言
-      position: 6
     - word: にごん
       base: 濁る
       dictionary: にごる
       position: 9
       tags:
         - silent
-    - word: は
-      position: 13
-    - word: ない
-      base: 無い
-      position: 14
-    - word: ニャ
-      position: 16
-    - word: 勝負
-      position: 19
 - id: A_SteinsGateS01_E041300
   deck_name: Steins Gate
   translation: Brilliant or cheating, one of the two.
   sound: A_SteinsGateS01_E04_1_0.16.39.199-0.16.41.868.mp3
   sentence: 頭脳的っていうか汚(きたね)えっつうか…
   words:
-    - word: 頭脳
-      position: 0
-    - word: 的
-      position: 2
-    - word: って
-      position: 3
-    - word: いう
-      base: 言う
-      position: 5
-    - word: か
-      position: 7
-    - word: 汚
-      position: 8
     - word: き
       base: 来る
       dictionary: くる
@@ -1577,69 +636,22 @@
       position: 12
       tags:
         - silent
-    - word: え
-      base: 得る
-      dictionary: える
-      position: 14
-    - word: っつう
-      base: つう
-      position: 15
-    - word: か
-      position: 18
 - id: A_SteinsGateS01_E041313
   deck_name: Steins Gate
   translation: I'm pretty sure the last time I saw it was at an Akihabara shrine.
   sound: A_SteinsGateS01_E04_1_0.17.13.232-0.17.16.778.mp3
   sentence: 最後に見たのは たしか 秋葉原(あきはばら)の神社だったニャー
   words:
-    - word: 最後
-      position: 0
-    - word: に
-      position: 2
-    - word: 見
-      base: 見る
-      dictionary: 見る
-      position: 3
-    - word: た
-      position: 4
-    - word: の
-      position: 5
-    - word: は
-      position: 6
-    - word: たしか
-      base: 確か
-      position: 8
-    - word: 秋葉原
-      position: 12
     - word: あきはばら
       position: 16
       tags:
         - silent
-    - word: の
-      position: 22
-    - word: 神社
-      position: 23
-    - word: だっ
-      base: だ
-      dictionary: だ
-      position: 25
-    - word: た
-      position: 27
-    - word: ニャー
-      position: 28
 - id: A_SteinsGateS01_E041342
   deck_name: Steins Gate
   translation: I'm heading to Yanabayashi Shrine...
   sound: A_SteinsGateS01_E04_1_0.18.30.727-0.18.33.897.mp3
   sentence: これから柳林(やなばやし)神社に 向かおうと思ってい…
   words:
-    - word: これ
-      base: 此れ
-      position: 0
-    - word: から
-      position: 2
-    - word: 柳林
-      position: 4
     - word: や
       position: 7
       tags:
@@ -1655,45 +667,16 @@
       position: 9
       tags:
         - silent
-    - word: 神社
-      position: 13
-    - word: に
-      position: 15
-    - word: 向かおう
-      base: 向かう
-      dictionary: 向かう
-      position: 17
-    - word: と
-      position: 21
-    - word: 思っ
-      base: 思う
-      dictionary: 思う
-      position: 22
-    - word: て
-      position: 24
-    - word: い
-      base: 居る
-      dictionary: いる
-      position: 25
 - id: A_SteinsGateS01_E051420
   deck_name: Steins Gate
   translation: Hey, part-timer! Take care of the front.
   sound: A_SteinsGateS01_E05_1_0.00.18.331-0.00.20.667.mp3
   sentence: おーい バイト！ 表(おもて)頼む
   words:
-    - word: おーい
-      base: おおい
-      position: 0
-    - word: バイト
-      position: 4
-    - word: 表
-      position: 9
     - word: おもて
       position: 11
       tags:
         - silent
-    - word: 頼む
-      position: 15
 - id: A_SteinsGateS01_E051440
   deck_name: Steins Gate
   translation: >-
@@ -1702,8 +685,6 @@
   sound: A_SteinsGateS01_E05_1_0.01.08.840-0.01.14.513.mp3
   sentence: 柳林(やなばやし)神社に奉納されていたのを― この神に選ばれし マッドサイエンティストである鳳(ほう)…
   words:
-    - word: 柳林
-      position: 0
     - word: や
       position: 3
       tags:
@@ -1719,62 +700,6 @@
       position: 5
       tags:
         - silent
-    - word: 神社
-      position: 9
-    - word: に
-      position: 11
-    - word: 奉納
-      position: 12
-    - word: さ
-      base: 為る
-      dictionary: する
-      position: 14
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 15
-    - word: て
-      position: 16
-    - word: い
-      base: 居る
-      dictionary: いる
-      position: 17
-    - word: た
-      position: 18
-    - word: の
-      position: 19
-    - word: を
-      position: 20
-    - word: この
-      base: 此の
-      position: 23
-    - word: 神
-      position: 25
-    - word: に
-      position: 26
-    - word: 選ば
-      base: 選ぶ
-      dictionary: 選ぶ
-      position: 27
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 29
-    - word: し
-      position: 30
-    - word: マッド
-      position: 32
-    - word: サイエンティスト
-      position: 35
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 43
-    - word: ある
-      base: 有る
-      position: 44
-    - word: 鳳
-      position: 46
     - word: ほう
       position: 48
       tags:
@@ -1785,55 +710,26 @@
   sound: A_SteinsGateS01_E05_1_0.05.34.898-0.05.36.691.mp3
   sentence: 百合(ゆり)展開 キター？
   words:
-    - word: 百合
-      position: 0
     - word: ゆり
       position: 3
       tags:
         - silent
-    - word: 展開
-      position: 6
-    - word: キター
-      position: 9
 - id: A_SteinsGateS01_E051562
   deck_name: Steins Gate
   translation: But I'm not interested
   sound: A_SteinsGateS01_E05_1_0.09.04.857-0.09.06.442.mp3
   sentence: でもＳＥＲＮ(セルン)の陰謀とかいう―
   words:
-    - word: で
-      position: 0
-    - word: も
-      position: 1
-    - word: ＳＥＲＮ
-      base: sern
-      dictionary: sern
-      position: 2
     - word: セルン
       position: 7
       tags:
         - silent
-    - word: の
-      position: 11
-    - word: 陰謀
-      position: 12
-    - word: と
-      position: 14
-    - word: か
-      position: 15
-    - word: いう
-      base: 言う
-      position: 16
 - id: A_SteinsGateS01_E051563
   deck_name: Steins Gate
   translation: in that SERN conspiracy nonsense.
   sound: A_SteinsGateS01_E05_1_0.09.06.567-0.09.08.820.mp3
   sentence: 荒唐無稽(こうとうむけい)なものに対する 興味じゃない
   words:
-    - word: 荒唐
-      position: 0
-    - word: 無稽
-      position: 2
     - word: こう
       position: 5
       tags:
@@ -1851,38 +747,12 @@
       position: 10
       tags:
         - silent
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 13
-    - word: もの
-      base: 物
-      position: 14
-    - word: に
-      position: 16
-    - word: 対する
-      position: 17
-    - word: 興味
-      position: 21
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 23
-    - word: ない
-      base: 無い
-      position: 25
 - id: A_SteinsGateS01_E051596
   deck_name: Steins Gate
   translation: who spend their lives in research!
   sound: A_SteinsGateS01_E05_1_0.10.50.797-0.10.52.673.mp3
   sentence: 知性と恍惚(こうこつ)のポーズ！
   words:
-    - word: 知性
-      position: 0
-    - word: と
-      position: 2
-    - word: 恍惚
-      position: 3
     - word: こう
       position: 6
       tags:
@@ -1891,24 +761,12 @@
       position: 8
       tags:
         - silent
-    - word: の
-      position: 11
-    - word: ポーズ
-      position: 12
 - id: A_SteinsGateS01_E051640
   deck_name: Steins Gate
   translation: I am Hououin!
   sound: A_SteinsGateS01_E05_1_0.13.16.400-0.13.18.236.mp3
   sentence: 俺は鳳凰院(ほうおういん)だ
   words:
-    - word: 俺
-      position: 0
-    - word: は
-      position: 1
-    - word: 鳳凰
-      position: 2
-    - word: 院
-      position: 4
     - word: ほう
       position: 6
       tags:
@@ -1923,18 +781,12 @@
       position: 11
       tags:
         - silent
-    - word: だ
-      position: 13
 - id: A_SteinsGateS01_E051643
   deck_name: Steins Gate
   translation: Or Kyouma...
   sound: A_SteinsGateS01_E05_1_0.13.26.994-0.13.28.871.mp3
   sentence: “凶真(きょうま)”と呼ぶように
   words:
-    - word: 凶
-      position: 1
-    - word: 真
-      position: 2
     - word: きょう
       base: 今日
       position: 4
@@ -1945,86 +797,32 @@
       position: 7
       tags:
         - silent
-    - word: と
-      position: 10
-    - word: 呼ぶ
-      position: 11
-    - word: よう
-      base: 様
-      position: 13
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 15
 - id: A_SteinsGateS01_E051660
   deck_name: Steins Gate
   translation: A prodigal perverted genius girl, then.
   sound: A_SteinsGateS01_E05_1_0.14.28.347-0.14.31.475.mp3
   sentence: 放蕩(ほうとう)天才 変態少女というわけか
   words:
-    - word: 放蕩
-      position: 0
     - word: ほうとう
       position: 3
       tags:
         - silent
-    - word: 天才
-      position: 8
-    - word: 変態
-      position: 11
-    - word: 少女
-      position: 13
-    - word: と
-      position: 15
-    - word: いう
-      base: 言う
-      position: 16
-    - word: わけ
-      base: 訳
-      position: 18
-    - word: か
-      position: 20
 - id: A_SteinsGateS01_E051679
   deck_name: Steins Gate
   translation: A JPEG? Seriously? Screw you!
   sound: A_SteinsGateS01_E05_1_0.15.17.813-0.15.20.066.mp3
   sentence: あー ＪＰＥＧ(ジェイペグ)かよ ふざけんな
   words:
-    - word: あー
-      position: 0
-    - word: ＪＰＥＧ
-      base: JPEG
-      dictionary: JPEG
-      position: 3
     - word: ジェイペグ
       position: 8
       tags:
         - silent
-    - word: か
-      position: 14
-    - word: よ
-      position: 15
-    - word: ふざけん
-      base: ふざける
-      dictionary: ふざける
-      position: 17
-    - word: な
-      position: 21
 - id: A_SteinsGateS01_E051748
   deck_name: Steins Gate
   translation: Jellyman's Report 10.
   sound: A_SteinsGateS01_E05_1_0.18.35.719-0.18.37.221.mp3
   sentence: “ゼリーマンズレポート10(テン)”
   words:
-    - word: ゼリー
-      position: 1
-    - word: マンズ
-      base: マン
-      position: 4
-    - word: レポート
-      position: 7
-    - word: '10'
-      position: 11
     - word: テン
       position: 14
       tags:
@@ -2035,87 +833,36 @@
   sound: A_SteinsGateS01_E05_1_0.18.44.103-0.18.46.397.mp3
   sentence: “Ｚプログラム４(フォー)実験結果”
   words:
-    - word: Ｚ
-      base: z
-      dictionary: z
-      position: 1
-    - word: プログラム
-      position: 2
-    - word: ４
-      base: '4'
-      dictionary: '4'
-      position: 7
     - word: フォー
       position: 9
       tags:
         - silent
-    - word: 実験
-      position: 13
-    - word: 結果
-      position: 15
 - id: A_SteinsGateS01_E051764
   deck_name: Steins Gate
   translation: 'Report 8. Subject: Linda Hill.'
   sound: A_SteinsGateS01_E05_1_0.19.29.064-0.19.31.483.mp3
   sentence: “レポート８(エイト) 被験者リンダ･ヒル”
   words:
-    - word: レポート
-      position: 1
-    - word: ８
-      base: '8'
-      dictionary: '8'
-      position: 5
     - word: エイト
       position: 7
       tags:
         - silent
-    - word: 被験
-      position: 12
-    - word: 者
-      position: 14
-    - word: リンダ
-      position: 15
-    - word: ヒル
-      position: 19
 - id: A_SteinsGateS01_E051773
   deck_name: Steins Gate
   translation: 'Report 7. Subject: Michael Lang.'
   sound: A_SteinsGateS01_E05_1_0.19.58.844-0.20.01.513.mp3
   sentence: “レポート７(セブン) 被験者ミハエル･ラング”
   words:
-    - word: レポート
-      position: 1
-    - word: ７
-      base: '7'
-      dictionary: '7'
-      position: 5
     - word: セブン
       position: 7
       tags:
         - silent
-    - word: 被験
-      position: 12
-    - word: 者
-      position: 14
-    - word: ミハエル
-      position: 15
-    - word: ラング
-      position: 20
 - id: A_SteinsGateS01_E051778
   deck_name: Steins Gate
   translation: A body is discovered at the foot of Mt. Hiei, in Kyoto.
   sound: A_SteinsGateS01_E05_1_0.20.16.028-0.20.18.530.mp3
   sentence: “京都 比叡山山麓(ひえいざんさんろく)で 遺体発見さる”
   words:
-    - word: 京都
-      position: 1
-    - word: 比叡
-      position: 4
-    - word: 山山
-      base: 山々
-      position: 6
-    - word: 麓
-      position: 8
     - word: ひえ
       position: 10
       tags:
@@ -2135,41 +882,12 @@
       position: 17
       tags:
         - silent
-    - word: で
-      position: 20
-    - word: 遺体
-      position: 22
-    - word: 発見
-      position: 24
-    - word: さる
-      base: 去る
-      position: 26
 - id: A_SteinsGateS01_E051794
   deck_name: Steins Gate
   translation: That explanation is too nasty, you know.
   sound: A_SteinsGateS01_E05_1_0.21.06.328-0.21.08.622.mp3
   sentence: その説明はエロすぎだろ 常考(じょうこう)
   words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 説明
-      position: 2
-    - word: は
-      position: 4
-    - word: エロ
-      position: 5
-    - word: すぎ
-      base: 過ぎ
-      position: 7
-    - word: だろ
-      base: だ
-      dictionary: だ
-      position: 9
-    - word: 常
-      position: 12
-    - word: 考
-      position: 13
     - word: じょう
       position: 15
       tags:
@@ -2184,27 +902,6 @@
   sound: A_SteinsGateS01_E05_1_0.21.50.539-0.21.54.793.mp3
   sentence: こっちには 未来ガジェット８号― 「電話レンジ(かっこかり)」があるのだ
   words:
-    - word: こっち
-      base: 此方
-      position: 0
-    - word: に
-      position: 3
-    - word: は
-      position: 4
-    - word: 未来
-      position: 6
-    - word: ガジェット
-      position: 8
-    - word: ８
-      base: '8'
-      dictionary: '8'
-      position: 13
-    - word: 号
-      position: 14
-    - word: 電話
-      position: 18
-    - word: レンジ
-      position: 20
     - word: かっこ
       base: 格好
       position: 24
@@ -2214,80 +911,32 @@
       position: 27
       tags:
         - silent
-    - word: が
-      position: 31
-    - word: ある
-      base: 有る
-      position: 32
-    - word: の
-      position: 34
-    - word: だ
-      position: 35
 - id: A_SteinsGateS01_E061811
   deck_name: Steins Gate
   translation: the Akihabara Radio Building.
   sound: A_SteinsGateS01_E06_1_0.00.05.738-0.00.07.699.mp3
   sentence: 秋葉原(あきはばら)のラジ館前です
   words:
-    - word: 秋葉原
-      position: 0
     - word: あきはばら
       position: 4
       tags:
         - silent
-    - word: の
-      position: 10
-    - word: ラジ
-      position: 11
-    - word: 館
-      position: 13
-    - word: 前
-      position: 14
-    - word: です
-      position: 15
 - id: A_SteinsGateS01_E06_1837
   deck_name: Steins Gate
   translation: So you were with them, too, Suzu-san?
   sound: A_SteinsGateS01_E06_1_0.03.42.747-0.03.45.083.mp3
   sentence: 鈴(すず)さんも一緒だったんだ
   words:
-    - word: 鈴
-      position: 0
     - word: すず
       position: 2
       tags:
         - silent
-    - word: さん
-      position: 5
-    - word: も
-      position: 7
-    - word: 一緒
-      position: 8
-    - word: だっ
-      base: だ
-      dictionary: だ
-      position: 10
-    - word: た
-      position: 12
-    - word: ん
-      base: の
-      position: 13
-    - word: だ
-      position: 14
 - id: A_SteinsGateS01_E06_1843
   deck_name: Steins Gate
   translation: It's Kurisu-chan!
   sound: A_SteinsGateS01_E06_1_0.03.59.055-0.04.01.808.mp3
   sentence: あっ 紅莉栖(くりす)ちゃんだ あっ
   words:
-    - word: あっ
-      position: 0
-    - word: 紅
-      position: 3
-    - word: 莉
-      position: 4
-    - word: 栖
-      position: 5
     - word: くり
       position: 7
       tags:
@@ -2297,71 +946,22 @@
       position: 9
       tags:
         - silent
-    - word: ちゃん
-      position: 11
-    - word: だ
-      position: 14
-    - word: あっ
-      position: 16
 - id: A_SteinsGateS01_E06_1864
   deck_name: Steins Gate
   translation: And so, in order to beat SERN, we must perfect
   sound: A_SteinsGateS01_E06_1_0.05.15.381-0.05.20.386.mp3
   sentence: …というわけで ＳＥＲＮ(セルン)を出し抜くために 我々は一刻も早く―
   words:
-    - word: と
-      position: 1
-    - word: いう
-      base: 言う
-      position: 2
-    - word: わけ
-      base: 訳
-      position: 4
-    - word: で
-      position: 6
-    - word: ＳＥＲＮ
-      base: sern
-      dictionary: sern
-      position: 8
     - word: セルン
       position: 13
       tags:
         - silent
-    - word: を
-      position: 17
-    - word: 出し
-      base: 出す
-      dictionary: 出す
-      position: 18
-    - word: 抜く
-      position: 20
-    - word: ため
-      base: 為
-      position: 22
-    - word: に
-      position: 24
-    - word: 我々
-      position: 26
-    - word: は
-      position: 28
-    - word: 一刻
-      position: 29
-    - word: も
-      position: 31
-    - word: 早く
-      base: 早い
-      dictionary: 早い
-      position: 32
 - id: A_SteinsGateS01_E06_1865
   deck_name: Steins Gate
   translation: the Phone Microwave (name subject to change)
   sound: A_SteinsGateS01_E06_1_0.05.20.511-0.05.22.930.mp3
   sentence: 「電話レンジ(かっこかり)」の タイムマシン機能を―
   words:
-    - word: 電話
-      position: 1
-    - word: レンジ
-      position: 3
     - word: かっこ
       base: 格好
       position: 7
@@ -2371,33 +971,12 @@
       position: 10
       tags:
         - silent
-    - word: の
-      position: 14
-    - word: タイム
-      position: 16
-    - word: マシン
-      position: 19
-    - word: 機能
-      position: 22
-    - word: を
-      position: 24
 - id: A_SteinsGateS01_E06_1881
   deck_name: Steins Gate
   translation: Do you dare mock the great Hououin—
   sound: A_SteinsGateS01_E06_1_0.06.06.224-0.06.08.059.mp3
   sentence: この鳳凰院凶真(ほうおういんきょうま)を バカにしている…
   words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: 鳳凰
-      position: 2
-    - word: 院
-      position: 4
-    - word: 凶
-      position: 5
-    - word: 真
-      position: 6
     - word: ほう
       position: 8
       tags:
@@ -2421,37 +1000,12 @@
       position: 17
       tags:
         - silent
-    - word: を
-      position: 19
-    - word: バカ
-      base: ばか
-      position: 21
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 23
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 24
-    - word: て
-      position: 25
-    - word: いる
-      base: 居る
-      position: 26
 - id: A_SteinsGateS01_E06_1895
   deck_name: Steins Gate
   translation: It's like something invented by an emo teenager fixated on sci-fi.
   sound: A_SteinsGateS01_E06_1_0.06.48.933-0.06.51.185.mp3
   sentence: 厨二病(ちゅうにびょう)すぎだろ 常考(じょうこう)
   words:
-    - word: 厨
-      position: 0
-    - word: 二
-      base: '2'
-      position: 1
-    - word: 病
-      position: 2
     - word: ちゅう
       position: 4
       tags:
@@ -2465,18 +1019,6 @@
       position: 8
       tags:
         - silent
-    - word: すぎ
-      base: 過ぎる
-      dictionary: すぎる
-      position: 12
-    - word: だろ
-      base: だ
-      dictionary: だ
-      position: 14
-    - word: 常
-      position: 17
-    - word: 考
-      position: 18
     - word: じょう
       position: 20
       tags:
@@ -2491,51 +1033,10 @@
   sound: A_SteinsGateS01_E06_1_0.09.11.742-0.09.15.579.mp3
   sentence: そこ！ いつまでも 百合(ゆり)フィールドを作っていないで Ｄメールの準備を！
   words:
-    - word: そこ
-      base: 其処
-      position: 0
-    - word: いつ
-      position: 4
-    - word: まで
-      position: 6
-    - word: も
-      position: 8
-    - word: 百合
-      position: 10
     - word: ゆり
       position: 13
       tags:
         - silent
-    - word: フィールド
-      position: 16
-    - word: を
-      position: 21
-    - word: 作っ
-      base: 作る
-      dictionary: 作る
-      position: 22
-    - word: て
-      position: 24
-    - word: い
-      base: 居る
-      dictionary: いる
-      position: 25
-    - word: ない
-      position: 26
-    - word: で
-      position: 28
-    - word: Ｄ
-      base: d
-      dictionary: d
-      position: 30
-    - word: メール
-      position: 31
-    - word: の
-      position: 34
-    - word: 準備
-      position: 35
-    - word: を
-      position: 37
 - id: A_SteinsGateS01_E06_2041
   deck_name: Steins Gate
   translation: Anyhow, we can work on the details tomorrow and going forward.
@@ -2547,32 +1048,12 @@
       position: 1
       tags:
         - silent
-    - word: 詳細
-      position: 7
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 9
-    - word: 検証
-      position: 10
-    - word: は
-      position: 12
-    - word: 明日
-      position: 14
-    - word: 以降
-      position: 16
-    - word: に
-      position: 18
-    - word: 行う
-      position: 19
 - id: A_SteinsGateS01_E06_2092
   deck_name: Steins Gate
   translation: Its original owner? Yanabayashi Shrine.
   sound: A_SteinsGateS01_E06_1_0.20.10.984-0.20.14.613.mp3
   sentence: 柳林(やなばやし)神社だ グーテンモルゲン
   words:
-    - word: 柳林
-      position: 0
     - word: や
       position: 3
       tags:
@@ -2588,25 +1069,12 @@
       position: 5
       tags:
         - silent
-    - word: 神社
-      position: 9
-    - word: だ
-      position: 11
-    - word: グーテンモルゲン
-      position: 13
 - id: A_SteinsGateS01_E07_2124
   deck_name: Steins Gate
   translation: I don't have the money.
   sound: A_SteinsGateS01_E07_1_0.00.33.601-0.00.36.729.mp3
   sentence: フフン そんな金(かね)はない  うっ！
   words:
-    - word: フフン
-      base: ふふん
-      position: 0
-    - word: そんな
-      position: 4
-    - word: 金
-      position: 7
     - word: か
       position: 9
       tags:
@@ -2615,96 +1083,32 @@
       position: 10
       tags:
         - silent
-    - word: は
-      position: 12
-    - word: ない
-      base: 無い
-      position: 13
-    - word: うっ
-      base: うう
-      position: 17
 - id: A_SteinsGateS01_E07_2149
   deck_name: Steins Gate
   translation: 'Juicy Kara-age #1 would taste better...'
   sound: A_SteinsGateS01_E07_1_0.03.33.114-0.03.38.494.mp3
   sentence: あーあ… 「ジューシーから揚げ№１(ワン)」の ほうが おいしいんだけどな
   words:
-    - word: あーあ
-      base: ああ
-      position: 0
-    - word: ジューシー
-      position: 6
-    - word: から揚げ
-      base: 空揚げ
-      position: 11
-    - word: №
-      base: 'No'
-      dictionary: 'No'
-      position: 15
-    - word: １
-      base: '1'
-      dictionary: '1'
-      position: 16
     - word: ワン
       position: 18
       tags:
         - silent
-    - word: の
-      position: 22
-    - word: ほう
-      base: 方
-      position: 24
-    - word: が
-      position: 26
-    - word: おいしい
-      base: 美味しい
-      position: 28
-    - word: ん
-      base: の
-      position: 32
-    - word: だ
-      position: 33
-    - word: けど
-      base: けれど
-      position: 34
-    - word: な
-      position: 36
 - id: A_SteinsGateS01_E07_2162
   deck_name: Steins Gate
   translation: Delusion fail!
   sound: A_SteinsGateS01_E07_1_0.04.14.572-0.04.17.700.mp3
   sentence: 妄想 乙(おつ)！  んっ？ うん？
   words:
-    - word: 妄想
-      position: 0
-    - word: 乙
-      position: 3
     - word: おつ
       position: 5
       tags:
         - silent
-    - word: んっ
-      position: 11
-    - word: うん
-      position: 15
 - id: A_SteinsGateS01_E07_2195
   deck_name: Steins Gate
   translation: Is she supposed to be a valley girl LOL?
   sound: A_SteinsGateS01_E07_1_0.06.16.986-0.06.19.780.mp3
   sentence: これはもしや “スイーツ(かっこわらい)”ってやつ？
   words:
-    - word: これ
-      base: 此れ
-      position: 0
-    - word: は
-      position: 2
-    - word: もし
-      base: 若し
-      position: 3
-    - word: や
-      position: 5
-    - word: スイーツ
-      position: 8
     - word: かっこ
       base: 格好
       position: 13
@@ -2716,45 +1120,22 @@
       position: 16
       tags:
         - silent
-    - word: って
-      position: 21
-    - word: やつ
-      base: 奴
-      position: 23
 - id: A_SteinsGateS01_E07_2203
   deck_name: Steins Gate
   translation: I see. The Loto 6.
   sound: A_SteinsGateS01_E07_1_0.06.42.261-0.06.45.306.mp3
   sentence: なるへそ　ロト６(シックス)ね
   words:
-    - word: なる
-      base: 成る
-      position: 0
-    - word: へそ
-      base: 臍
-      position: 2
-    - word: ロト
-      position: 5
-    - word: ６
-      base: '6'
-      dictionary: '6'
-      position: 7
     - word: シックス
       position: 9
       tags:
         - silent
-    - word: ね
-      position: 14
 - id: A_SteinsGateS01_E07_2281
   deck_name: Steins Gate
   translation: Kyouma-san, I'm sorry!
   sound: A_SteinsGateS01_E07_1_0.11.32.134-0.11.34.261.mp3
   sentence: 凶真(きょうま)さん すみませんでした！
   words:
-    - word: 凶
-      position: 0
-    - word: 真
-      position: 1
     - word: きょう
       base: 今日
       position: 3
@@ -2765,44 +1146,12 @@
       position: 6
       tags:
         - silent
-    - word: さん
-      position: 8
-    - word: すみ
-      base: すむ
-      dictionary: すむ
-      position: 11
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 13
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 15
-    - word: でし
-      base: です
-      dictionary: です
-      position: 16
-    - word: た
-      position: 18
 - id: A_SteinsGateS01_E07_2311
   deck_name: Steins Gate
   translation: I, Hououin Kyouma, will tell you.
   sound: A_SteinsGateS01_E07_1_0.14.03.785-0.14.07.164.mp3
   sentence: それは この鳳凰院(ほうおういん)凶真が― 教えてやろう
   words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: は
-      position: 2
-    - word: この
-      base: 此の
-      position: 4
-    - word: 鳳凰
-      position: 6
-    - word: 院
-      position: 8
     - word: ほう
       position: 10
       tags:
@@ -2817,157 +1166,43 @@
       position: 15
       tags:
         - silent
-    - word: 凶
-      position: 17
-    - word: 真
-      position: 18
-    - word: が
-      position: 19
-    - word: 教え
-      base: 教える
-      dictionary: 教える
-      position: 22
-    - word: て
-      position: 24
-    - word: やろう
-      base: 遣る
-      dictionary: やる
-      position: 25
 - id: A_SteinsGateS01_E07_2336
   deck_name: Steins Gate
   translation: A guy like you couldn't control himself if left alone with my daughter!
   sound: A_SteinsGateS01_E07_1_0.16.31.224-0.16.36.313.mp3
   sentence: 俺のカワイイ娘と二人っきりで― お前(めえ)みてえな野郎が 欲望 抑えきれるわけがねえだろ
   words:
-    - word: 俺
-      position: 0
-    - word: の
-      position: 1
-    - word: カワイイ
-      base: 可愛い
-      position: 2
-    - word: 娘
-      position: 6
-    - word: と
-      position: 7
-    - word: 二人
-      position: 8
-    - word: っきり
-      base: きり
-      position: 10
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 13
-    - word: お前
-      base: 御前
-      position: 16
     - word: めえ
       position: 19
       tags:
         - silent
-    - word: みてえ
-      base: みたい
-      position: 22
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 25
-    - word: 野郎
-      position: 26
-    - word: が
-      position: 28
-    - word: 欲望
-      position: 30
-    - word: 抑え
-      base: 押さえる
-      dictionary: 抑える
-      position: 33
-    - word: きれる
-      base: 切る
-      position: 35
-    - word: わけ
-      base: 訳
-      position: 38
-    - word: が
-      position: 40
-    - word: ねえ
-      base: 無い
-      dictionary: ない
-      position: 41
-    - word: だろ
-      base: だ
-      dictionary: だ
-      position: 43
 - id: A_SteinsGateS01_E08_2410
   deck_name: Steins Gate
   translation: I desire chaos and destruction!
   sound: A_SteinsGateS01_E08_1_0.00.24.444-0.00.27.114.mp3
   sentence: 望みは破壊と混沌(こんとん)だ
   words:
-    - word: 望み
-      position: 0
-    - word: は
-      position: 2
-    - word: 破壊
-      position: 3
-    - word: と
-      position: 5
-    - word: 混沌
-      position: 6
     - word: こんとん
       base: 混沌
       position: 9
       tags:
         - silent
-    - word: だ
-      position: 14
 - id: A_SteinsGateS01_E08_2425
   deck_name: Steins Gate
   translation: Is this about that Lotto-6 thing?
   sound: A_SteinsGateS01_E08_1_0.01.16.288-0.01.19.541.mp3
   sentence: それって 例のロト６(シックス)がどうとかってやつ？
   words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: って
-      position: 2
-    - word: 例
-      position: 5
-    - word: の
-      position: 6
-    - word: ロト
-      position: 7
-    - word: ６
-      base: '6'
-      dictionary: '6'
-      position: 9
     - word: シックス
       position: 11
       tags:
         - silent
-    - word: が
-      position: 16
-    - word: どう
-      position: 17
-    - word: と
-      position: 19
-    - word: か
-      position: 20
-    - word: って
-      position: 21
-    - word: やつ
-      base: 奴
-      position: 23
 - id: A_SteinsGateS01_E08_2432
   deck_name: Steins Gate
   translation: 'The magic eye: Reading Steiner.'
   sound: A_SteinsGateS01_E08_1_0.01.42.355-0.01.45.484.mp3
   sentence: 魔眼(まがん)　リーディング･シュタイナー
   words:
-    - word: 魔眼
-      position: 0
     - word: ま
       base: まー
       position: 3
@@ -2978,53 +1213,32 @@
       position: 4
       tags:
         - silent
-    - word: リーディング
-      position: 8
-    - word: シュタイナー
-      position: 15
 - id: A_SteinsGateS01_E08_2467
   deck_name: Steins Gate
   translation: Kiryuu-san?
   sound: A_SteinsGateS01_E08_1_0.06.03.158-0.06.04.200.mp3
   sentence: 桐生(きりゅう)さん？
   words:
-    - word: 桐生
-      position: 0
     - word: きりゅう
       position: 3
       tags:
         - silent
-    - word: さん
-      position: 8
 - id: A_SteinsGateS01_E08_2484
   deck_name: Steins Gate
   translation: Good morning, Suzu-san.
   sound: A_SteinsGateS01_E08_1_0.07.09.015-0.07.10.683.mp3
   sentence: 鈴(すず)さん　おはよう
   words:
-    - word: 鈴
-      position: 0
     - word: すず
       position: 2
       tags:
         - silent
-    - word: さん
-      position: 5
-    - word: おはよう
-      base: 御早う
-      position: 8
 - id: A_SteinsGateS01_E08_2508
   deck_name: Steins Gate
   translation: Right! Activate the Phone Microwave  (name subject to change)!
   sound: A_SteinsGateS01_E08_1_0.08.42.317-0.08.46.821.mp3
   sentence: よし！ 「電話レンジ(かっこかり)」起動  ん？
   words:
-    - word: よし
-      position: 0
-    - word: 電話
-      position: 5
-    - word: レンジ
-      position: 7
     - word: かっこ
       base: 格好
       position: 11
@@ -3034,23 +1248,12 @@
       position: 14
       tags:
         - silent
-    - word: 起動
-      position: 18
-    - word: ん
-      base: んっ
-      position: 22
 - id: A_SteinsGateS01_E08_2510
   deck_name: Steins Gate
   translation: I used the wrong number for  the Lotto-6 you asked me about.
   sound: A_SteinsGateS01_E08_1_0.08.52.118-0.08.57.540.mp3
   sentence: 岡… 凶真(きょうま)さんに頼まれたロト６ 間違えてしまったので
   words:
-    - word: 岡
-      position: 0
-    - word: 凶
-      position: 3
-    - word: 真
-      position: 4
     - word: きょう
       base: 今日
       position: 6
@@ -3061,140 +1264,44 @@
       position: 9
       tags:
         - silent
-    - word: さん
-      position: 11
-    - word: に
-      position: 13
-    - word: 頼ま
-      base: 頼む
-      dictionary: 頼む
-      position: 14
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 16
-    - word: た
-      position: 17
-    - word: ロト
-      position: 18
-    - word: ６
-      base: '6'
-      dictionary: '6'
-      position: 20
-    - word: 間違え
-      base: 間違う
-      dictionary: 間違える
-      position: 22
-    - word: て
-      position: 25
-    - word: しまっ
-      base: 仕舞う
-      dictionary: しまう
-      position: 26
-    - word: た
-      position: 29
-    - word: の
-      position: 30
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 31
 - id: A_SteinsGateS01_E08_2568
   deck_name: Steins Gate
   translation: You didn't bring the Magic Blade Samidare?
   sound: A_SteinsGateS01_E08_1_0.13.21.888-0.13.24.599.mp3
   sentence: 妖刀五月雨(さみだれ)を 持ってこなかっただと？
   words:
-    - word: 妖刀
-      position: 0
-    - word: 五月雨
-      position: 2
     - word: さみだれ
       base: 五月雨
       position: 6
       tags:
         - silent
-    - word: を
-      position: 11
-    - word: 持っ
-      base: 持つ
-      dictionary: 持つ
-      position: 13
-    - word: て
-      position: 15
-    - word: こ
-      base: 来る
-      dictionary: くる
-      position: 16
-    - word: なかっ
-      base: ない
-      dictionary: ない
-      position: 17
-    - word: た
-      position: 20
-    - word: だ
-      position: 21
-    - word: と
-      position: 22
 - id: A_SteinsGateS01_E08_2580
   deck_name: Steins Gate
   translation: This is very yuri.
   sound: A_SteinsGateS01_E08_1_0.13.56.631-0.13.59.175.mp3
   sentence: すごく 百合(ゆり)です
   words:
-    - word: すごく
-      base: 凄い
-      dictionary: すごい
-      position: 0
-    - word: 百合
-      position: 4
     - word: ゆり
       position: 7
       tags:
         - silent
-    - word: です
-      position: 10
 - id: A_SteinsGateS01_E08_2584
   deck_name: Steins Gate
   translation: It's Kirari-chan from Rai-Net.
   sound: A_SteinsGateS01_E08_1_0.14.12.021-0.14.15.608.mp3
   sentence: うっ…  雷(らい)ネットのキラリちゃんだよ
   words:
-    - word: うっ
-      base: うう
-      position: 0
-    - word: 雷
-      position: 5
     - word: らい
       base: 癩
       position: 7
       tags:
         - silent
-    - word: ネット
-      position: 10
-    - word: の
-      position: 13
-    - word: キラリ
-      base: きらり
-      position: 14
-    - word: ちゃん
-      position: 17
-    - word: だ
-      position: 20
-    - word: よ
-      position: 21
 - id: A_SteinsGateS01_E09_2720
   deck_name: Steins Gate
   translation: And thus, you can have my everything!
   sound: A_SteinsGateS01_E09_1_0.00.29.460-0.00.32.046.mp3
   sentence: そんな凶真(きょうま)には 全部 入れちゃうニャ
   words:
-    - word: そんな
-      position: 0
-    - word: 凶
-      position: 3
-    - word: 真
-      position: 4
     - word: きょう
       base: 今日
       position: 6
@@ -3205,33 +1312,12 @@
       position: 9
       tags:
         - silent
-    - word: に
-      position: 11
-    - word: は
-      position: 12
-    - word: 全部
-      position: 14
-    - word: 入れ
-      base: 入れる
-      dictionary: 入れる
-      position: 17
-    - word: ちゃう
-      position: 19
-    - word: ニャ
-      position: 22
 - id: A_SteinsGateS01_E09_2794
   deck_name: Steins Gate
   translation: The words of me, Hououin Kyouma, fail to reach them!
   sound: A_SteinsGateS01_E09_1_0.05.59.999-0.06.04.044.mp3
   sentence: この鳳凰院(ほうおういん)凶真の言葉が ラボメンの心に届かないのだ！
   words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: 鳳凰
-      position: 2
-    - word: 院
-      position: 4
     - word: ほう
       position: 6
       tags:
@@ -3246,121 +1332,32 @@
       position: 11
       tags:
         - silent
-    - word: 凶
-      position: 13
-    - word: 真
-      position: 14
-    - word: の
-      position: 15
-    - word: 言葉
-      position: 16
-    - word: が
-      position: 18
-    - word: ラボメン
-      position: 20
-    - word: の
-      position: 24
-    - word: 心
-      position: 25
-    - word: に
-      position: 26
-    - word: 届か
-      base: 届く
-      dictionary: 届く
-      position: 27
-    - word: ない
-      position: 29
-    - word: の
-      position: 31
-    - word: だ
-      position: 32
 - id: A_SteinsGateS01_E09_2807
   deck_name: Steins Gate
   translation: inherent to physical time travel.
   sound: A_SteinsGateS01_E09_1_0.06.34.992-0.06.36.702.mp3
   sentence: ＳＥＲＮ(セルン)の実験が証明している
   words:
-    - word: ＳＥＲＮ
-      base: sern
-      dictionary: sern
-      position: 0
     - word: セルン
       position: 5
       tags:
         - silent
-    - word: の
-      position: 9
-    - word: 実験
-      position: 10
-    - word: が
-      position: 12
-    - word: 証明
-      position: 13
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 15
-    - word: て
-      position: 16
-    - word: いる
-      base: 居る
-      position: 17
 - id: A_SteinsGateS01_E09_2874
   deck_name: Steins Gate
   translation: From a world where we didn't buy a Lotto-6 ticket to one where we did.
   sound: A_SteinsGateS01_E09_1_0.09.32.628-0.09.36.006.mp3
   sentence: ロト６(シックス)を買わなかった世界から 買った世界へ
   words:
-    - word: ロト
-      position: 0
-    - word: ６
-      base: '6'
-      dictionary: '6'
-      position: 2
     - word: シックス
       position: 4
       tags:
         - silent
-    - word: を
-      position: 9
-    - word: 買わ
-      base: 買う
-      dictionary: 買う
-      position: 10
-    - word: なかっ
-      base: ない
-      dictionary: ない
-      position: 12
-    - word: た
-      position: 15
-    - word: 世界
-      position: 16
-    - word: から
-      position: 18
-    - word: 買っ
-      base: 買う
-      dictionary: 買う
-      position: 21
-    - word: た
-      position: 23
-    - word: 世界
-      position: 24
-    - word: へ
-      position: 26
 - id: A_SteinsGateS01_E09_2884
   deck_name: Steins Gate
   translation: There was an IBN 5100 at Yanabayashi Shrine.
   sound: A_SteinsGateS01_E09_1_0.10.12.960-0.10.17.798.mp3
   sentence: 確かに 柳林(やなばやし)神社にＩＢＮ5100はあった
   words:
-    - word: 確か
-      position: 0
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 2
-    - word: 柳林
-      position: 4
     - word: や
       position: 7
       tags:
@@ -3376,50 +1373,12 @@
       position: 9
       tags:
         - silent
-    - word: 神社
-      position: 13
-    - word: に
-      position: 15
-    - word: ＩＢＮ
-      base: イブン
-      dictionary: Ibn
-      position: 16
-    - word: '5100'
-      position: 19
-    - word: は
-      position: 23
-    - word: あっ
-      base: 有る
-      dictionary: ある
-      position: 24
-    - word: た
-      position: 26
 - id: A_SteinsGateS01_E09_2924
   deck_name: Steins Gate
   translation: Once I heard you were going to Feyris-tan's place, I had to come along!
   sound: A_SteinsGateS01_E09_1_0.12.26.218-0.12.30.305.mp3
   sentence: フェイリスたんの自宅と 聞いたら― 凸(とつ)せざるを得ないだろう 常考(じょうこう)
   words:
-    - word: フェイリス
-      position: 0
-    - word: たん
-      position: 5
-    - word: の
-      position: 7
-    - word: 自宅
-      position: 8
-    - word: と
-      position: 10
-    - word: 聞い
-      base: 聞く
-      dictionary: 聞く
-      position: 12
-    - word: たら
-      base: た
-      dictionary: た
-      position: 14
-    - word: 凸
-      position: 18
     - word: と
       position: 20
       tags:
@@ -3428,30 +1387,6 @@
       position: 21
       tags:
         - silent
-    - word: せ
-      base: 為る
-      dictionary: する
-      position: 23
-    - word: ざる
-      base: ず
-      dictionary: ぬ
-      position: 24
-    - word: を
-      position: 26
-    - word: 得
-      base: 得る
-      dictionary: 得る
-      position: 27
-    - word: ない
-      position: 28
-    - word: だろう
-      base: だ
-      dictionary: だ
-      position: 30
-    - word: 常
-      position: 34
-    - word: 考
-      position: 35
     - word: じょう
       position: 37
       tags:
@@ -3466,11 +1401,6 @@
   sound: A_SteinsGateS01_E09_1_0.15.45.834-0.15.49.921.mp3
   sentence: なんたる僥倖(ぎょうこう) ハア ハア…
   words:
-    - word: なんたる
-      base: 何たる
-      position: 0
-    - word: 僥倖
-      position: 4
     - word: ぎょう
       base: 行
       position: 7
@@ -3480,24 +1410,12 @@
       position: 10
       tags:
         - silent
-    - word: ハア
-      base: はあ
-      position: 14
-    - word: ハア
-      base: はあ
-      position: 17
 - id: A_SteinsGateS01_E09_2981
   deck_name: Steins Gate
   translation: Akiha Rumiho-chan!
   sound: A_SteinsGateS01_E09_1_0.16.21.370-0.16.23.038.mp3
   sentence: 秋葉留未穂(あきはるみほ)ちゃんって いうんだよ
   words:
-    - word: 秋葉
-      position: 0
-    - word: 留未
-      position: 2
-    - word: 穂
-      position: 4
     - word: あき
       base: あく
       dictionary: あく
@@ -3512,100 +1430,32 @@
       position: 10
       tags:
         - silent
-    - word: ちゃん
-      position: 13
-    - word: って
-      position: 16
-    - word: いう
-      base: 言う
-      position: 19
-    - word: ん
-      base: の
-      position: 21
-    - word: だ
-      position: 22
-    - word: よ
-      position: 23
 - id: A_SteinsGateS01_E09_2985
   deck_name: Steins Gate
   translation: By the way, Feyris was the one
   sound: A_SteinsGateS01_E09_1_0.16.30.170-0.16.33.131.mp3
   sentence: ちなみにアキバに萌(も)え文化を 取り入れるように―
   words:
-    - word: ちなみ
-      base: 因み
-      position: 0
-    - word: に
-      position: 3
-    - word: アキバ
-      position: 4
-    - word: に
-      position: 7
-    - word: 萌
-      position: 8
     - word: も
       position: 10
       tags:
         - silent
-    - word: え
-      base: えー
-      position: 12
-    - word: 文化
-      position: 13
-    - word: を
-      position: 15
-    - word: 取り
-      base: 取る
-      dictionary: 取る
-      position: 17
-    - word: 入れる
-      position: 19
-    - word: よう
-      base: 様
-      position: 22
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 24
 - id: A_SteinsGateS01_E09_3044
   deck_name: Steins Gate
   translation: Wait! Curse you, cold-blooded, pervert girl genius...
   sound: A_SteinsGateS01_E09_1_0.19.22.801-0.19.25.929.mp3
   sentence: 待て あの冷血放蕩(ほうとう)天才変態少女め
   words:
-    - word: 待て
-      base: 待つ
-      dictionary: 待つ
-      position: 0
-    - word: あの
-      base: 彼の
-      position: 3
-    - word: 冷血
-      position: 5
-    - word: 放蕩
-      position: 7
     - word: ほうとう
       position: 10
       tags:
         - silent
-    - word: 天才
-      position: 15
-    - word: 変態
-      position: 17
-    - word: 少女
-      position: 19
-    - word: め
-      position: 21
 - id: A_SteinsGateS01_E09_3050
   deck_name: Steins Gate
   translation: I would be extraordinarily gratified
   sound: A_SteinsGateS01_E09_1_0.19.40.569-0.19.42.529.mp3
   sentence: 「電話レンジ(かっこかり)」の設定を―
   words:
-    - word: 電話
-      position: 1
-    - word: レンジ
-      position: 3
     - word: かっこ
       base: 格好
       position: 7
@@ -3615,86 +1465,27 @@
       position: 10
       tags:
         - silent
-    - word: の
-      position: 14
-    - word: 設定
-      position: 15
-    - word: を
-      position: 17
 - id: A_SteinsGateS01_E09_3058
   deck_name: Steins Gate
   translation: I'm trying to be polite, and you're...
   sound: A_SteinsGateS01_E09_1_0.20.02.340-0.20.03.967.mp3
   sentence: 下手(したて)に出れば いい気になりおって！
   words:
-    - word: 下手
-      position: 0
     - word: したて
       base: 仕立て
       position: 3
       tags:
         - silent
-    - word: に
-      position: 7
-    - word: 出れ
-      base: 出る
-      dictionary: 出る
-      position: 8
-    - word: ば
-      position: 10
-    - word: いい
-      base: 良い
-      position: 12
-    - word: 気
-      position: 14
-    - word: に
-      position: 15
-    - word: なり
-      base: 成る
-      dictionary: なる
-      position: 16
-    - word: おっ
-      base: 居る
-      dictionary: おる
-      position: 18
-    - word: て
-      position: 20
 - id: A_SteinsGateS01_E09_3087
   deck_name: Steins Gate
   translation: Mayushii is going to Nakano to buy an Ai-Sword doujinshi.
   sound: A_SteinsGateS01_E09_1_0.22.22.939-0.22.27.986.mp3
   sentence: まゆしぃは― 哀(あい)ソードの 同人誌 買いに― 中野(なかの)に寄るので 帰ります
   words:
-    - word: まゆ
-      position: 0
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 2
-    - word: ぃ
-      position: 3
-    - word: は
-      position: 4
-    - word: 哀
-      position: 7
     - word: あい
       position: 9
       tags:
         - silent
-    - word: ソード
-      position: 12
-    - word: の
-      position: 15
-    - word: 同人
-      position: 17
-    - word: 誌
-      position: 19
-    - word: 買い
-      position: 21
-    - word: に
-      position: 23
-    - word: 中野
-      position: 26
     - word: なか
       base: 中
       position: 29
@@ -3704,115 +1495,33 @@
       position: 31
       tags:
         - silent
-    - word: に
-      position: 33
-    - word: 寄る
-      position: 34
-    - word: の
-      position: 36
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 37
-    - word: 帰り
-      base: 帰る
-      dictionary: 帰る
-      position: 39
-    - word: ます
-      position: 41
 - id: A_SteinsGateS01_E09_3088
   deck_name: Steins Gate
   translation: Kouga Yui?
   sound: A_SteinsGateS01_E09_1_0.22.28.111-0.22.30.780.mp3
   sentence: 哀ソード？ 甲賀(こうが)ゆいかあ
   words:
-    - word: 哀
-      position: 0
-    - word: ソード
-      position: 1
-    - word: 甲賀
-      position: 6
     - word: こうが
       base: 高雅
       position: 9
       tags:
         - silent
-    - word: ゆい
-      base: ゆう
-      dictionary: ゆう
-      position: 13
-    - word: かあ
-      base: か
-      position: 15
 - id: A_SteinsGateS01_E10_3097
   deck_name: Steins Gate
   translation: All the moe is gone from Akiba?
   sound: A_SteinsGateS01_E10_1_0.00.04.535-0.00.08.164.mp3
   sentence: アキバから“萌(も)え”がすべて 消失してしまったというのか？
   words:
-    - word: アキバ
-      position: 0
-    - word: から
-      position: 3
-    - word: 萌
-      position: 6
     - word: も
       position: 8
       tags:
         - silent
-    - word: え
-      base: えっ
-      position: 10
-    - word: が
-      position: 12
-    - word: すべて
-      base: 全て
-      position: 13
-    - word: 消失
-      position: 17
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 19
-    - word: て
-      position: 20
-    - word: しまっ
-      base: 仕舞う
-      dictionary: しまう
-      position: 21
-    - word: た
-      position: 24
-    - word: と
-      position: 25
-    - word: いう
-      base: 言う
-      position: 26
-    - word: の
-      position: 28
-    - word: か
-      position: 29
 - id: A_SteinsGateS01_E10_3104
   deck_name: Steins Gate
   translation: That's why I'm going to Nakano to get my doujinshi.
   sound: A_SteinsGateS01_E10_1_0.00.21.636-0.00.24.055.mp3
   sentence: だから まゆしぃは 中野(なかの)まで同人誌を…
   words:
-    - word: だ
-      position: 0
-    - word: から
-      position: 1
-    - word: まゆ
-      position: 4
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 6
-    - word: ぃ
-      position: 7
-    - word: は
-      position: 8
-    - word: 中野
-      position: 10
     - word: なか
       base: 中
       position: 13
@@ -3822,14 +1531,6 @@
       position: 15
       tags:
         - silent
-    - word: まで
-      position: 17
-    - word: 同人
-      position: 19
-    - word: 誌
-      position: 21
-    - word: を
-      position: 22
 - id: A_SteinsGateS01_E10_3118
   deck_name: Steins Gate
   translation: >-
@@ -3838,8 +1539,6 @@
   sound: A_SteinsGateS01_E10_1_0.03.03.172-0.03.11.180.mp3
   sentence: 池袋(いけぶくろ)で 雷(らい)ネットの大会があった日― お昼に食べた ジャガバタラーメンのせいで― おなか壊して― 僕がリタイヤして… う… それで？
   words:
-    - word: 池袋
-      position: 0
     - word: いけ
       position: 3
       tags:
@@ -3849,101 +1548,17 @@
       position: 5
       tags:
         - silent
-    - word: で
-      position: 9
-    - word: 雷
-      position: 11
     - word: らい
       base: 癩
       position: 13
       tags:
         - silent
-    - word: ネット
-      position: 16
-    - word: の
-      position: 19
-    - word: 大会
-      position: 20
-    - word: が
-      position: 22
-    - word: あっ
-      base: 有る
-      dictionary: ある
-      position: 23
-    - word: た
-      position: 25
-    - word: 日
-      position: 26
-    - word: お
-      base: 御
-      position: 29
-    - word: 昼
-      position: 30
-    - word: に
-      position: 31
-    - word: 食べ
-      base: 食べる
-      dictionary: 食べる
-      position: 32
-    - word: た
-      position: 34
-    - word: ジャガバタラーメン
-      position: 36
-    - word: の
-      position: 45
-    - word: せい
-      position: 46
-    - word: で
-      position: 48
-    - word: おなか
-      base: 御腹
-      position: 51
-    - word: 壊し
-      base: 壊す
-      dictionary: 壊す
-      position: 54
-    - word: て
-      position: 56
-    - word: 僕
-      position: 59
-    - word: が
-      position: 60
-    - word: リタイヤ
-      base: リタイア
-      position: 61
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 65
-    - word: て
-      position: 66
-    - word: う
-      base: うう
-      position: 69
-    - word: それ
-      base: 其れ
-      position: 72
-    - word: で
-      position: 74
 - id: A_SteinsGateS01_E10_3140
   deck_name: Steins Gate
   translation: You don't want anyone to see the mole on your rear, so you can't go.
   sound: A_SteinsGateS01_E10_1_0.04.22.376-0.04.28.341.mp3
   sentence: 私は でん部の蒙古斑(もうこはん)を 見られたくないので― 一緒には行けませんと…
   words:
-    - word: 私
-      position: 0
-    - word: は
-      position: 1
-    - word: でん部
-      base: 臀部
-      position: 3
-    - word: の
-      position: 6
-    - word: 蒙古
-      position: 7
-    - word: 斑
-      position: 9
     - word: もう
       position: 11
       tags:
@@ -3960,94 +1575,12 @@
       position: 14
       tags:
         - silent
-    - word: を
-      position: 17
-    - word: 見
-      base: 見る
-      dictionary: 見る
-      position: 19
-    - word: られ
-      base: られる
-      dictionary: られる
-      position: 20
-    - word: たく
-      base: たい
-      dictionary: たい
-      position: 22
-    - word: ない
-      base: 無い
-      position: 24
-    - word: の
-      position: 26
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 27
-    - word: 一緒
-      position: 30
-    - word: に
-      position: 32
-    - word: は
-      position: 33
-    - word: 行け
-      base: 行く
-      dictionary: 行ける
-      position: 34
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 36
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 38
-    - word: と
-      position: 39
 - id: A_SteinsGateS01_E10_3325
   deck_name: Steins Gate
   translation: And its name is "Once Again I've Connected Something Useless By Goemon."
   sound: A_SteinsGateS01_E10_1_0.16.07.581-0.16.11.877.mp3
   sentence: その名も“また つまらぬものを つなげてしまった by五右衛門(ごえもん)”
   words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 名
-      position: 2
-    - word: も
-      position: 3
-    - word: また
-      base: 又
-      position: 5
-    - word: つまら
-      base: 詰まる
-      dictionary: つまる
-      position: 8
-    - word: ぬ
-      base: ず
-      position: 11
-    - word: もの
-      base: 物
-      position: 12
-    - word: を
-      position: 14
-    - word: つなげ
-      base: 繋ぐ
-      dictionary: つなげる
-      position: 16
-    - word: て
-      position: 19
-    - word: しまっ
-      base: 仕舞う
-      dictionary: しまう
-      position: 20
-    - word: た
-      position: 23
-    - word: by
-      base: バイ
-      position: 25
-    - word: 五右衛門
-      position: 27
     - word: ごえもん
       position: 32
       tags:
@@ -4058,23 +1591,6 @@
   sound: A_SteinsGateS01_E10_1_0.19.00.003-0.19.03.507.mp3
   sentence: そんなことは この鳳凰院凶真(ほうおういんきょうま)が許さん！
   words:
-    - word: そんな
-      position: 0
-    - word: こと
-      position: 3
-    - word: は
-      position: 5
-    - word: この
-      base: 此の
-      position: 7
-    - word: 鳳凰
-      position: 9
-    - word: 院
-      position: 11
-    - word: 凶
-      position: 12
-    - word: 真
-      position: 13
     - word: ほう
       position: 15
       tags:
@@ -4098,57 +1614,22 @@
       position: 24
       tags:
         - silent
-    - word: が
-      position: 26
-    - word: 許
-      position: 27
-    - word: さん
-      position: 28
 - id: A_SteinsGateS01_E12_3742
   deck_name: Steins Gate
   translation: But I believe that our wills will carry on
   sound: A_SteinsGateS01_E12_1_0.00.57.732-0.01.01.152.mp3
   sentence: でも きっと ７千万年後の秋葉原(あきはばら)にいる―
   words:
-    - word: で
-      position: 0
-    - word: も
-      position: 1
-    - word: きっと
-      position: 3
-    - word: ７千万
-      base: '70000000'
-      dictionary: 7千万
-      position: 7
-    - word: 年
-      position: 10
-    - word: 後
-      position: 11
-    - word: の
-      position: 12
-    - word: 秋葉原
-      position: 13
     - word: あきはばら
       position: 17
       tags:
         - silent
-    - word: に
-      position: 23
-    - word: いる
-      base: 居る
-      position: 24
 - id: A_SteinsGateS01_E12_3747
   deck_name: Steins Gate
   translation: Kurisu-chan says to come in, because she's almost done.
   sound: A_SteinsGateS01_E12_1_0.01.27.095-0.01.30.973.mp3
   sentence: 紅莉栖(くりす)ちゃんが そろそろ完成するから来てくれって
   words:
-    - word: 紅
-      position: 0
-    - word: 莉
-      position: 1
-    - word: 栖
-      position: 2
     - word: くり
       position: 4
       tags:
@@ -4158,31 +1639,6 @@
       position: 6
       tags:
         - silent
-    - word: ちゃん
-      position: 8
-    - word: が
-      position: 11
-    - word: そろそろ
-      position: 13
-    - word: 完成
-      position: 17
-    - word: する
-      base: 為る
-      position: 19
-    - word: から
-      position: 21
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 23
-    - word: て
-      position: 24
-    - word: くれ
-      base: 呉れる
-      dictionary: くれる
-      position: 25
-    - word: って
-      position: 27
 - id: A_SteinsGateS01_E12_3788
   deck_name: Steins Gate
   translation: >-
@@ -4191,70 +1647,17 @@
   sound: A_SteinsGateS01_E12_1_0.05.31.839-0.05.38.387.mp3
   sentence: それ以上 過去に送ると 脳の状態の齟齬(そご)が大きく― コピーが失敗する可能性もあるわ
   words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: 以上
-      position: 2
-    - word: 過去
-      position: 5
-    - word: に
-      position: 7
-    - word: 送る
-      position: 8
-    - word: と
-      position: 10
-    - word: 脳
-      position: 12
-    - word: の
-      position: 13
-    - word: 状態
-      position: 14
-    - word: の
-      position: 16
-    - word: 齟齬
-      position: 17
     - word: そご
       base: 齟齬
       position: 20
       tags:
         - silent
-    - word: が
-      position: 23
-    - word: 大きく
-      base: 大きい
-      dictionary: 大きい
-      position: 24
-    - word: コピー
-      position: 29
-    - word: が
-      position: 32
-    - word: 失敗
-      position: 33
-    - word: する
-      base: 為る
-      position: 35
-    - word: 可能
-      position: 37
-    - word: 性
-      position: 39
-    - word: も
-      position: 40
-    - word: ある
-      base: 有る
-      position: 41
-    - word: わ
-      position: 43
 - id: A_SteinsGateS01_E12_3796
   deck_name: Steins Gate
   translation: Not Hououin... Okabe.
   sound: A_SteinsGateS01_E12_1_0.06.06.207-0.06.08.209.mp3
   sentence: 鳳凰院(ほうおういん)じゃなく 岡部のね
   words:
-    - word: 鳳凰
-      position: 0
-    - word: 院
-      position: 2
     - word: ほう
       position: 4
       tags:
@@ -4269,144 +1672,32 @@
       position: 9
       tags:
         - silent
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 11
-    - word: なく
-      base: 無い
-      dictionary: ない
-      position: 13
-    - word: 岡部
-      position: 16
-    - word: の
-      position: 18
-    - word: ね
-      position: 19
 - id: A_SteinsGateS01_E12_3799
   deck_name: Steins Gate
   translation: We still don't know why the line connected to SERN, right?
   sound: A_SteinsGateS01_E12_1_0.06.14.048-0.06.17.718.mp3
   sentence: ＳＥＲＮ(セルン)に 回線がつながった原因は― まだ分からないんだよな？
   words:
-    - word: ＳＥＲＮ
-      base: sern
-      dictionary: sern
-      position: 0
     - word: セルン
       position: 5
       tags:
         - silent
-    - word: に
-      position: 9
-    - word: 回線
-      position: 11
-    - word: が
-      position: 13
-    - word: つながっ
-      base: 繋ぐ
-      dictionary: つながる
-      position: 14
-    - word: た
-      position: 18
-    - word: 原因
-      position: 19
-    - word: は
-      position: 21
-    - word: まだ
-      base: 未だ
-      position: 24
-    - word: 分から
-      base: 分かる
-      dictionary: 分かる
-      position: 26
-    - word: ない
-      position: 29
-    - word: ん
-      base: の
-      position: 31
-    - word: だ
-      position: 32
-    - word: よ
-      position: 33
-    - word: な
-      position: 34
 - id: A_SteinsGateS01_E12_3901
   deck_name: Steins Gate
   translation: Kurisu-chan, did something happen between you and Suzu-san?
   sound: A_SteinsGateS01_E12_1_0.11.56.432-0.11.59.018.mp3
   sentence: 紅莉栖ちゃん 鈴(すず)さんと何かあったの？
   words:
-    - word: 紅
-      position: 0
-    - word: 莉
-      position: 1
-    - word: 栖
-      position: 2
-    - word: ちゃん
-      position: 3
-    - word: 鈴
-      position: 7
     - word: すず
       position: 9
       tags:
         - silent
-    - word: さん
-      position: 12
-    - word: と
-      position: 14
-    - word: 何
-      position: 15
-    - word: か
-      position: 16
-    - word: あっ
-      base: 有る
-      dictionary: ある
-      position: 17
-    - word: た
-      position: 19
-    - word: の
-      position: 20
 - id: A_SteinsGateS01_E12_3915
   deck_name: Steins Gate
   translation: Only Hououin Kyouma can handle this situation.
   sound: A_SteinsGateS01_E12_1_0.12.34.136-0.12.39.641.mp3
   sentence: フフフフフッ この場を収められるのは― この鳳凰院凶真(きょうま)しかいないようだな
   words:
-    - word: フフフ
-      base: ふふふ
-      position: 0
-    - word: フフッ
-      base: ふふ
-      position: 3
-    - word: この
-      base: 此の
-      position: 7
-    - word: 場
-      position: 9
-    - word: を
-      position: 10
-    - word: 収め
-      base: 収める
-      dictionary: 収める
-      position: 11
-    - word: られる
-      position: 13
-    - word: の
-      position: 16
-    - word: は
-      position: 17
-    - word: この
-      base: 此の
-      position: 20
-    - word: 鳳凰
-      position: 22
-    - word: 院
-      position: 24
-    - word: 凶
-      position: 25
-    - word: 真
-      position: 26
     - word: きょう
       base: 今日
       position: 28
@@ -4417,21 +1708,6 @@
       position: 31
       tags:
         - silent
-    - word: しか
-      position: 33
-    - word: い
-      base: 居る
-      dictionary: いる
-      position: 35
-    - word: ない
-      position: 36
-    - word: よう
-      base: 様
-      position: 38
-    - word: だ
-      position: 40
-    - word: な
-      position: 41
 - id: A_SteinsGateS01_E12_4009
   deck_name: Steins Gate
   translation: >-
@@ -4440,55 +1716,6 @@
   sound: A_SteinsGateS01_E12_1_0.17.40.025-0.17.53.997.mp3
   sentence: それが今では ダル君でしょ 紅莉栖ちゃんでしょ るかちゃんでしょ 鈴さん 萌郁(もえか)さん フェリスちゃん ブラウン店長さん 綯(なえ)ちゃん
   words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: が
-      position: 2
-    - word: 今
-      position: 3
-    - word: で
-      position: 4
-    - word: は
-      position: 5
-    - word: ダル
-      position: 7
-    - word: 君
-      position: 9
-    - word: でしょ
-      base: です
-      dictionary: です
-      position: 10
-    - word: 紅
-      position: 14
-    - word: 莉
-      position: 15
-    - word: 栖
-      position: 16
-    - word: ちゃん
-      position: 17
-    - word: でしょ
-      base: です
-      dictionary: です
-      position: 20
-    - word: る
-      base: り
-      dictionary: り
-      position: 24
-    - word: かちゃん
-      position: 25
-    - word: でしょ
-      base: です
-      dictionary: です
-      position: 29
-    - word: 鈴
-      position: 33
-    - word: さん
-      position: 34
-    - word: 萌
-      position: 37
-    - word: 郁
-      position: 38
     - word: もえ
       position: 40
       tags:
@@ -4497,35 +1724,17 @@
       position: 42
       tags:
         - silent
-    - word: さん
-      position: 44
-    - word: フェリス
-      position: 47
-    - word: ちゃん
-      position: 51
-    - word: ブラウン
-      position: 55
-    - word: 店長
-      position: 59
-    - word: さん
-      position: 61
-    - word: 綯
-      position: 64
     - word: なえ
       base: 苗
       position: 66
       tags:
         - silent
-    - word: ちゃん
-      position: 69
 - id: A_SteinsGateS01_E12_4015
   deck_name: Steins Gate
   translation: Yamanote Line. Soubu Line.
   sound: A_SteinsGateS01_E12_1_0.18.22.401-0.18.24.319.mp3
   sentence: 山手(やまのて)線 総武(そうぶ)線…
   words:
-    - word: 山手
-      position: 0
     - word: やま
       base: 山
       position: 3
@@ -4539,10 +1748,6 @@
       position: 6
       tags:
         - silent
-    - word: 線
-      position: 8
-    - word: 総武
-      position: 10
     - word: そう
       position: 13
       tags:
@@ -4551,69 +1756,32 @@
       position: 15
       tags:
         - silent
-    - word: 線
-      position: 17
 - id: A_SteinsGateS01_E12_4038
   deck_name: Steins Gate
   translation: Kiryuu Moeka...
   sound: A_SteinsGateS01_E12_1_0.20.37.536-0.20.39.663.mp3
   sentence: 桐生(きりゅう)萌郁…
   words:
-    - word: 桐生
-      position: 0
     - word: きりゅう
       position: 3
       tags:
         - silent
-    - word: 萌
-      position: 8
-    - word: 郁
-      position: 9
 - id: A_SteinsGateS01_E13_4054
   deck_name: Steins Gate
   translation: SERN will take the time machine.
   sound: A_SteinsGateS01_E13_1_0.00.01.771-0.00.03.815.mp3
   sentence: タイムマシンはＳＥＲＮ(セルン)が回収する
   words:
-    - word: タイム
-      position: 0
-    - word: マシン
-      position: 3
-    - word: は
-      position: 6
-    - word: ＳＥＲＮ
-      base: sern
-      dictionary: sern
-      position: 7
     - word: セルン
       position: 12
       tags:
         - silent
-    - word: が
-      position: 16
-    - word: 回収
-      position: 17
-    - word: する
-      base: 為る
-      position: 19
 - id: A_SteinsGateS01_E13_4057
   deck_name: Steins Gate
   translation: Okabe Rintarou. Hashida Itaru.
   sound: A_SteinsGateS01_E13_1_0.00.07.986-0.00.12.073.mp3
   sentence: 牧瀬紅莉栖 岡部倫太郎(おかべりんたろう)　橋田 至(はしだいたる)
   words:
-    - word: 牧瀬
-      position: 0
-    - word: 紅
-      position: 2
-    - word: 莉
-      position: 3
-    - word: 栖
-      position: 4
-    - word: 岡部
-      position: 6
-    - word: 倫太郎
-      position: 8
     - word: お
       base: 御
       position: 12
@@ -4634,10 +1802,6 @@
       position: 17
       tags:
         - silent
-    - word: 橋田
-      position: 22
-    - word: 至
-      position: 25
     - word: は
       position: 27
       tags:
@@ -4659,8 +1823,6 @@
   sound: A_SteinsGateS01_E13_1_0.00.20.331-0.00.22.208.mp3
   sentence: 椎名(しいな)まゆりは…
   words:
-    - word: 椎名
-      position: 0
     - word: しい
       base: 為る
       dictionary: する
@@ -4671,26 +1833,12 @@
       position: 5
       tags:
         - silent
-    - word: まゆり
-      position: 7
-    - word: は
-      position: 10
 - id: A_SteinsGateS01_E13_4127
   deck_name: Steins Gate
   translation: O-Oka... No, Kyouma—
   sound: A_SteinsGateS01_E13_1_0.08.41.123-0.08.44.085.mp3
   sentence: あっ 岡… いえ 凶真(きょうま)さん
   words:
-    - word: あっ
-      position: 0
-    - word: 岡
-      position: 3
-    - word: いえ
-      position: 6
-    - word: 凶
-      position: 9
-    - word: 真
-      position: 10
     - word: きょう
       base: 今日
       position: 12
@@ -4701,22 +1849,12 @@
       position: 15
       tags:
         - silent
-    - word: さん
-      position: 17
 - id: A_SteinsGateS01_E13_4168
   deck_name: Steins Gate
   translation: Hey, where's Ochanomizu—
   sound: A_SteinsGateS01_E13_1_0.10.36.947-0.10.38.240.mp3
   sentence: あのさあ 御茶ノ水(おちゃのみず)って…
   words:
-    - word: あの
-      base: 彼の
-      position: 0
-    - word: さあ
-      base: さ
-      position: 2
-    - word: 御茶ノ水
-      position: 5
     - word: お
       base: 御
       position: 10
@@ -4736,135 +1874,43 @@
       position: 14
       tags:
         - silent
-    - word: って
-      position: 17
 - id: A_SteinsGateS01_E13_4175
   deck_name: Steins Gate
   translation: I have to take Nae shopping...
   sound: A_SteinsGateS01_E13_1_0.10.51.420-0.10.54.298.mp3
   sentence: 綯(なえ)が買い物 行くから 送ってかなきゃなんだけど
   words:
-    - word: 綯
-      position: 0
     - word: なえ
       base: 苗
       position: 2
       tags:
         - silent
-    - word: が
-      position: 5
-    - word: 買い物
-      position: 6
-    - word: 行く
-      position: 10
-    - word: から
-      position: 12
-    - word: 送っ
-      base: 送る
-      dictionary: 送る
-      position: 15
-    - word: てか
-      base: てく
-      dictionary: てく
-      position: 17
-    - word: なきゃ
-      base: ない
-      dictionary: ない
-      position: 19
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 22
-    - word: ん
-      base: の
-      position: 23
-    - word: だ
-      position: 24
-    - word: けど
-      base: けれど
-      position: 25
 - id: A_SteinsGateS01_E13_4190
   deck_name: Steins Gate
   translation: But I asked Suzu-san to come, too, and Daru-kun was ordering pizza...
   sound: A_SteinsGateS01_E13_1_0.11.36.173-0.11.39.885.mp3
   sentence: でも 鈴(すず)さん誘っちゃったし― ダル君だってピザ頼むって…
   words:
-    - word: で
-      position: 0
-    - word: も
-      position: 1
-    - word: 鈴
-      position: 3
     - word: すず
       position: 5
       tags:
         - silent
-    - word: さん
-      position: 8
-    - word: 誘っ
-      base: 誘う
-      dictionary: 誘う
-      position: 10
-    - word: ちゃっ
-      base: ちゃう
-      dictionary: ちゃう
-      position: 12
-    - word: た
-      position: 15
-    - word: し
-      position: 16
-    - word: ダル
-      position: 19
-    - word: 君
-      position: 21
-    - word: だ
-      position: 22
-    - word: って
-      position: 23
-    - word: ピザ
-      position: 25
-    - word: 頼む
-      position: 27
-    - word: って
-      position: 29
 - id: A_SteinsGateS01_E13_4286
   deck_name: Steins Gate
   translation: Isn't Akihabara Station that way? We're taking the subway.
   sound: A_SteinsGateS01_E13_1_0.17.50.589-0.17.54.134.mp3
   sentence: 秋葉原(あきはばら)の駅 向こうじゃないかなあ？
   words:
-    - word: 秋葉原
-      position: 0
     - word: あきはばら
       position: 4
       tags:
         - silent
-    - word: の
-      position: 10
-    - word: 駅
-      position: 11
-    - word: 向こう
-      position: 13
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 16
-    - word: ない
-      base: 無い
-      position: 18
-    - word: か
-      position: 20
-    - word: なあ
-      base: な
-      position: 21
 - id: A_SteinsGateS01_E13_4295
   deck_name: Steins Gate
   translation: Shut down?
   sound: A_SteinsGateS01_E13_1_0.19.30.814-0.19.32.774.mp3
   sentence: 総武(そうぶ)線が止まったんだろう
   words:
-    - word: 総武
-      position: 0
     - word: そう
       position: 3
       tags:
@@ -4873,99 +1919,32 @@
       position: 5
       tags:
         - silent
-    - word: 線
-      position: 7
-    - word: が
-      position: 8
-    - word: 止まっ
-      base: 止まる
-      dictionary: 止まる
-      position: 9
-    - word: た
-      position: 12
-    - word: ん
-      base: の
-      position: 13
-    - word: だろう
-      base: だ
-      dictionary: だ
-      position: 14
 - id: A_SteinsGateS01_E14_4322
   deck_name: Steins Gate
   translation: Just get out of Akihabara. Got it?
   sound: A_SteinsGateS01_E14_1_0.04.02.327-0.04.05.205.mp3
   sentence: とにかく 秋葉原(あきはばら)から離れるんだ いいな？
   words:
-    - word: とにかく
-      base: 兎に角
-      position: 0
-    - word: 秋葉原
-      position: 5
     - word: あきはばら
       position: 9
       tags:
         - silent
-    - word: から
-      position: 15
-    - word: 離れる
-      position: 17
-    - word: ん
-      base: の
-      position: 20
-    - word: だ
-      position: 21
-    - word: いい
-      base: 良い
-      position: 23
-    - word: な
-      position: 25
 - id: A_SteinsGateS01_E14_4334
   deck_name: Steins Gate
   translation: Are you with SERN?
   sound: A_SteinsGateS01_E14_1_0.05.55.148-0.05.56.816.mp3
   sentence: お前たちはＳＥＲＮ(セルン)なのか？
   words:
-    - word: お前
-      base: 御前
-      position: 0
-    - word: たち
-      base: 達
-      position: 2
-    - word: は
-      position: 4
-    - word: ＳＥＲＮ
-      base: sern
-      dictionary: sern
-      position: 5
     - word: セルン
       position: 10
       tags:
         - silent
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 14
-    - word: の
-      position: 15
-    - word: か
-      position: 16
 - id: A_SteinsGateS01_E14_4393
   deck_name: Steins Gate
   translation: Oka... Kyouma-san...
   sound: A_SteinsGateS01_E14_1_0.09.45.754-0.09.48.631.mp3
   sentence: あっ 岡… うっ 凶真(きょうま)さん
   words:
-    - word: あっ
-      position: 0
-    - word: 岡
-      position: 3
-    - word: うっ
-      base: うう
-      position: 6
-    - word: 凶
-      position: 9
-    - word: 真
-      position: 10
     - word: きょう
       base: 今日
       position: 12
@@ -4976,80 +1955,22 @@
       position: 15
       tags:
         - silent
-    - word: さん
-      position: 17
 - id: A_SteinsGateS01_E15_4586
   deck_name: Steins Gate
   translation: The year 2036. The world was ruled by SERN...
   sound: A_SteinsGateS01_E15_1_0.01.52.090-0.01.56.552.mp3
   sentence: 2036年 世界は ＳＥＲＮ(セルン)に支配されていた
   words:
-    - word: '2036'
-      position: 0
-    - word: 年
-      position: 4
-    - word: 世界
-      position: 6
-    - word: は
-      position: 8
-    - word: ＳＥＲＮ
-      base: sern
-      dictionary: sern
-      position: 10
     - word: セルン
       position: 15
       tags:
         - silent
-    - word: に
-      position: 19
-    - word: 支配
-      position: 20
-    - word: さ
-      base: 為る
-      dictionary: する
-      position: 22
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 23
-    - word: て
-      position: 24
-    - word: い
-      base: 居る
-      dictionary: いる
-      position: 25
-    - word: た
-      position: 26
 - id: A_SteinsGateS01_E15_4600
   deck_name: Steins Gate
   translation: are Chestnut Rice and Kamehameha?
   sound: A_SteinsGateS01_E15_1_0.03.35.234-0.03.38.404.mp3
   sentence: あのとき 「アットチャンネル」にいた― 栗悟飯(くりごはん)とカメハメ波(は)か？
   words:
-    - word: あの
-      base: 彼の
-      position: 0
-    - word: とき
-      base: 時
-      position: 2
-    - word: アット
-      position: 6
-    - word: チャンネル
-      position: 9
-    - word: に
-      position: 15
-    - word: い
-      base: 居る
-      dictionary: いる
-      position: 16
-    - word: た
-      position: 17
-    - word: 栗
-      position: 20
-    - word: 悟
-      position: 21
-    - word: 飯
-      position: 22
     - word: くり
       position: 24
       tags:
@@ -5059,38 +1980,17 @@
       position: 26
       tags:
         - silent
-    - word: と
-      position: 30
-    - word: カメハメ
-      base: かめはめ
-      position: 31
-    - word: 波
-      position: 35
     - word: は
       base: はあ
       position: 37
       tags:
         - silent
-    - word: か
-      position: 39
 - id: A_SteinsGateS01_E15_4603
   deck_name: Steins Gate
   translation: I was using the handle Hououin Kyouma...
   sound: A_SteinsGateS01_E15_1_0.03.46.621-0.03.48.164.mp3
   sentence: 俺は鳳凰院凶真(ほうおういんきょうま)という真名(まな)で…
   words:
-    - word: 俺
-      position: 0
-    - word: は
-      position: 1
-    - word: 鳳凰
-      position: 2
-    - word: 院
-      position: 4
-    - word: 凶
-      position: 5
-    - word: 真
-      position: 6
     - word: ほう
       position: 8
       tags:
@@ -5114,38 +2014,16 @@
       position: 17
       tags:
         - silent
-    - word: と
-      position: 19
-    - word: いう
-      base: 言う
-      position: 20
-    - word: 真名
-      position: 22
     - word: まな
       position: 25
       tags:
         - silent
-    - word: で
-      position: 28
 - id: A_SteinsGateS01_E15_4614
   deck_name: Steins Gate
   translation: So that's why you hated me...
   sound: A_SteinsGateS01_E15_1_0.04.22.573-0.04.25.743.mp3
   sentence: それで私のこと 目の敵(かたき)に？
   words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: で
-      position: 2
-    - word: 私
-      position: 3
-    - word: の
-      position: 4
-    - word: こと
-      position: 5
-    - word: 目の敵
-      position: 8
     - word: かた
       base: 方
       position: 12
@@ -5155,8 +2033,6 @@
       position: 14
       tags:
         - silent
-    - word: に
-      position: 16
 - id: A_SteinsGateS01_E15_4627
   deck_name: Steins Gate
   translation: >-
@@ -5165,158 +2041,37 @@
   sound: A_SteinsGateS01_E15_1_0.05.06.701-0.05.13.958.mp3
   sentence: ＳＥＲＮがタイムマシン開発に 成功したのは― 2010年に秋葉原(あきはばら)で作られた タイムマシンがあったから
   words:
-    - word: ＳＥＲＮ
-      base: sern
-      dictionary: sern
-      position: 0
-    - word: が
-      position: 4
-    - word: タイム
-      position: 5
-    - word: マシン
-      position: 8
-    - word: 開発
-      position: 11
-    - word: に
-      position: 13
-    - word: 成功
-      position: 15
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 17
-    - word: た
-      position: 18
-    - word: の
-      position: 19
-    - word: は
-      position: 20
-    - word: '2010'
-      position: 23
-    - word: 年
-      position: 27
-    - word: に
-      position: 28
-    - word: 秋葉原
-      position: 29
     - word: あきはばら
       position: 33
       tags:
         - silent
-    - word: で
-      position: 39
-    - word: 作ら
-      base: 作る
-      dictionary: 作る
-      position: 40
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 42
-    - word: た
-      position: 43
-    - word: タイム
-      position: 45
-    - word: マシン
-      position: 48
-    - word: が
-      position: 51
-    - word: あっ
-      base: 有る
-      dictionary: ある
-      position: 52
-    - word: た
-      position: 54
-    - word: から
-      position: 55
 - id: A_SteinsGateS01_E15_4678
   deck_name: Steins Gate
   translation: And Kurisu-chan and Suzu-san are with you!
   sound: A_SteinsGateS01_E15_1_0.08.24.690-0.08.26.609.mp3
   sentence: 紅莉栖ちゃんと 鈴(すず)さんも一緒だ
   words:
-    - word: 紅
-      position: 0
-    - word: 莉
-      position: 1
-    - word: 栖
-      position: 2
-    - word: ちゃん
-      position: 3
-    - word: と
-      position: 6
-    - word: 鈴
-      position: 8
     - word: すず
       position: 10
       tags:
         - silent
-    - word: さん
-      position: 13
-    - word: も
-      position: 15
-    - word: 一緒
-      position: 16
-    - word: だ
-      position: 18
 - id: A_SteinsGateS01_E15_4751
   deck_name: Steins Gate
   translation: I wonder if your dad's nearby.
   sound: A_SteinsGateS01_E15_1_0.13.04.970-0.13.08.724.mp3
   sentence: 阿万音氏の親父(おやじ)さんって 僕たちの近くにいるのかな？
   words:
-    - word: 阿万音
-      position: 0
-    - word: 氏
-      position: 3
-    - word: の
-      position: 4
-    - word: 親父
-      position: 5
     - word: おやじ
       base: 親父
       position: 8
       tags:
         - silent
-    - word: さん
-      position: 12
-    - word: って
-      position: 14
-    - word: 僕
-      position: 17
-    - word: たち
-      base: 達
-      position: 18
-    - word: の
-      position: 20
-    - word: 近く
-      position: 21
-    - word: に
-      position: 23
-    - word: いる
-      base: 居る
-      position: 24
-    - word: の
-      position: 26
-    - word: か
-      position: 27
-    - word: な
-      position: 28
 - id: A_SteinsGateS01_E15_4787
   deck_name: Steins Gate
   translation: Acting like a stupid little kid, with his fantasies?
   sound: A_SteinsGateS01_E15_1_0.15.51.094-0.15.52.679.mp3
   sentence: そんな厨二病(ちゅうにびょう)みたいなマネを！
   words:
-    - word: そんな
-      position: 0
-    - word: 厨
-      position: 3
-    - word: 二
-      base: '2'
-      position: 4
-    - word: 病
-      position: 5
     - word: ちゅう
       position: 7
       tags:
@@ -5330,291 +2085,64 @@
       position: 11
       tags:
         - silent
-    - word: みたい
-      position: 15
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 18
-    - word: マネ
-      position: 19
-    - word: を
-      position: 21
 - id: A_SteinsGateS01_E16_4899
   deck_name: Steins Gate
   translation: A while back, it was in a Rai-Net anime.
   sound: A_SteinsGateS01_E16_1_0.00.33.898-0.00.37.860.mp3
   sentence: エヘヘ この前 雷(らい)ネットのアニメに出てたのです
   words:
-    - word: エヘヘ
-      base: えへ
-      position: 0
-    - word: この
-      base: 此の
-      position: 4
-    - word: 前
-      position: 6
-    - word: 雷
-      position: 8
     - word: らい
       base: 癩
       position: 10
       tags:
         - silent
-    - word: ネット
-      position: 13
-    - word: の
-      position: 16
-    - word: アニメ
-      position: 17
-    - word: に
-      position: 20
-    - word: 出
-      base: 出る
-      dictionary: 出る
-      position: 21
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 22
-    - word: た
-      position: 23
-    - word: の
-      position: 24
-    - word: です
-      position: 25
 - id: A_SteinsGateS01_E16_4922
   deck_name: Steins Gate
   translation: Wouldn't it suck if she couldn't find her dad?
   sound: A_SteinsGateS01_E16_1_0.03.37.915-0.03.42.295.mp3
   sentence: 阿万音氏の親父(おやじ)さんが 見つからなかったら― かわいそうじゃん？
   words:
-    - word: 阿万音
-      position: 0
-    - word: 氏
-      position: 3
-    - word: の
-      position: 4
-    - word: 親父
-      position: 5
     - word: おやじ
       base: 親父
       position: 8
       tags:
         - silent
-    - word: さん
-      position: 12
-    - word: が
-      position: 14
-    - word: 見つから
-      base: 見付かる
-      dictionary: 見つかる
-      position: 16
-    - word: なかっ
-      base: ない
-      dictionary: ない
-      position: 20
-    - word: たら
-      base: た
-      dictionary: た
-      position: 23
-    - word: かわいそう
-      base: 可哀想
-      position: 27
-    - word: じゃん
-      position: 32
 - id: A_SteinsGateS01_E16_4946
   deck_name: Steins Gate
   translation: Daru-kun and Suzu-san look good together.
   sound: A_SteinsGateS01_E16_1_0.05.07.755-0.05.11.342.mp3
   sentence: ダル君と鈴(すず)さんて 結構 お似合いだね
   words:
-    - word: ダル
-      position: 0
-    - word: 君
-      position: 2
-    - word: と
-      position: 3
-    - word: 鈴
-      position: 4
     - word: すず
       position: 6
       tags:
         - silent
-    - word: さん
-      position: 9
-    - word: て
-      base: って
-      position: 11
-    - word: 結構
-      position: 13
-    - word: お
-      base: 御
-      position: 16
-    - word: 似合い
-      position: 17
-    - word: だ
-      position: 20
-    - word: ね
-      position: 21
 - id: A_SteinsGateS01_E17_5149
   deck_name: Steins Gate
   translation: Given what Amane-san said, to the beta world line, in order to save Mayuri.
   sound: A_SteinsGateS01_E17_1_0.02.50.887-0.03.01.064.mp3
   sentence: 阿万音(あまね)さんの話を まとめると― 今 私たちがいる― アトラクタフィールド アルファから― ベータ世界線に行くことが できれば― まゆりは助かる
   words:
-    - word: 阿万音
-      position: 0
     - word: あまね
       position: 4
       tags:
         - silent
-    - word: さん
-      position: 8
-    - word: の
-      position: 10
-    - word: 話
-      position: 11
-    - word: を
-      position: 12
-    - word: まとめる
-      base: 纏める
-      position: 14
-    - word: と
-      position: 18
-    - word: 今
-      position: 21
-    - word: 私
-      position: 23
-    - word: たち
-      base: 達
-      position: 24
-    - word: が
-      position: 26
-    - word: いる
-      base: 居る
-      position: 27
-    - word: アトラクタフィールド
-      position: 31
-    - word: アルファ
-      position: 42
-    - word: から
-      position: 46
-    - word: ベータ
-      base: β
-      position: 50
-    - word: 世界
-      position: 53
-    - word: 線
-      position: 55
-    - word: に
-      position: 56
-    - word: 行く
-      position: 57
-    - word: こと
-      position: 59
-    - word: が
-      position: 61
-    - word: できれ
-      base: 出来る
-      dictionary: できる
-      position: 63
-    - word: ば
-      position: 66
-    - word: まゆり
-      position: 69
-    - word: は
-      position: 72
-    - word: 助かる
-      position: 73
 - id: A_SteinsGateS01_E17_5150
   deck_name: Steins Gate
   translation: To do that, we need the IBN 5100, to delete SERN's data on you guys.
   sound: A_SteinsGateS01_E17_1_0.03.01.898-0.03.09.364.mp3
   sentence: そのためには ＩＢＮ5100を使って― ＳＥＲＮ(セルン)が持っている 岡部たちのデータを― 消さなければならない
   words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: ため
-      base: 為
-      position: 2
-    - word: に
-      position: 4
-    - word: は
-      position: 5
-    - word: ＩＢＮ
-      base: イブン
-      dictionary: Ibn
-      position: 7
-    - word: '5100'
-      position: 10
-    - word: を
-      position: 14
-    - word: 使っ
-      base: 使う
-      dictionary: 使う
-      position: 15
-    - word: て
-      position: 17
-    - word: ＳＥＲＮ
-      base: sern
-      dictionary: sern
-      position: 20
     - word: セルン
       position: 25
       tags:
         - silent
-    - word: が
-      position: 29
-    - word: 持っ
-      base: 持つ
-      dictionary: 持つ
-      position: 30
-    - word: て
-      position: 32
-    - word: いる
-      base: 居る
-      position: 33
-    - word: 岡部
-      position: 36
-    - word: たち
-      base: 達
-      position: 38
-    - word: の
-      position: 40
-    - word: データ
-      position: 41
-    - word: を
-      position: 44
-    - word: 消さ
-      base: 消す
-      dictionary: 消す
-      position: 47
-    - word: なけれ
-      base: ない
-      dictionary: ない
-      position: 49
-    - word: ば
-      position: 52
-    - word: なら
-      base: 成る
-      dictionary: なる
-      position: 53
-    - word: ない
-      position: 55
 - id: A_SteinsGateS01_E17_5151
   deck_name: Steins Gate
   translation: But the IBN 5100 that used to be at Yanabayashi Shrine
   sound: A_SteinsGateS01_E17_1_0.03.09.948-0.03.13.452.mp3
   sentence: だが 柳林(やなばやし)神社にあったはずの ＩＢＮ5100は―
   words:
-    - word: だ
-      position: 0
-    - word: が
-      position: 1
-    - word: 柳林
-      position: 3
     - word: や
       position: 6
       tags:
@@ -5630,29 +2158,6 @@
       position: 8
       tags:
         - silent
-    - word: 神社
-      position: 12
-    - word: に
-      position: 14
-    - word: あっ
-      base: 有る
-      dictionary: ある
-      position: 15
-    - word: た
-      position: 17
-    - word: はず
-      base: 筈
-      position: 18
-    - word: の
-      position: 20
-    - word: ＩＢＮ
-      base: イブン
-      dictionary: Ibn
-      position: 22
-    - word: '5100'
-      position: 25
-    - word: は
-      position: 29
 - id: A_SteinsGateS01_E17_5154
   deck_name: Steins Gate
   translation: >-
@@ -5661,116 +2166,31 @@
   sound: A_SteinsGateS01_E17_1_0.03.21.460-0.03.27.674.mp3
   sentence: ロト６(シックス) 桐生(きりゅう)さん 漆原(うるしばら)さん― フェイリスさん 阿万音さんの尾行
   words:
-    - word: ロト
-      position: 0
-    - word: ６
-      base: '6'
-      dictionary: '6'
-      position: 2
     - word: シックス
       position: 4
       tags:
         - silent
-    - word: 桐生
-      position: 10
     - word: きりゅう
       position: 13
       tags:
         - silent
-    - word: さん
-      position: 18
-    - word: 漆原
-      position: 21
-    - word: うるし
-      base: 漆
-      position: 24
-    - word: ばら
-      base: 輩
-      position: 27
-    - word: さん
-      position: 30
-    - word: フェイリス
-      position: 34
-    - word: さん
-      position: 39
-    - word: 阿万音
-      position: 42
-    - word: さん
-      position: 45
-    - word: の
-      position: 47
-    - word: 尾行
-      position: 48
 - id: A_SteinsGateS01_E17_5178
   deck_name: Steins Gate
   translation: The final round of the Rai-Net ABGC just ended.
   sound: A_SteinsGateS01_E17_1_0.05.21.538-0.05.24.583.mp3
   sentence: 今 雷(らい)ネットＡＢグラチャンの 決勝戦が終わったとこ
   words:
-    - word: 今
-      position: 0
-    - word: 雷
-      position: 2
     - word: らい
       base: 癩
       position: 4
       tags:
         - silent
-    - word: ネット
-      position: 7
-    - word: ＡＢ
-      base: ab
-      dictionary: ab
-      position: 10
-    - word: グラチャン
-      position: 12
-    - word: の
-      position: 17
-    - word: 決勝
-      position: 19
-    - word: 戦
-      position: 21
-    - word: が
-      position: 22
-    - word: 終わっ
-      base: 終わる
-      dictionary: 終わる
-      position: 23
-    - word: た
-      position: 26
-    - word: とこ
-      position: 27
 - id: A_SteinsGateS01_E17_5180
   deck_name: Steins Gate
   translation: Short for the Rai-Net Access Battlers Grand Championship. Duh...
   sound: A_SteinsGateS01_E17_1_0.05.26.334-0.05.30.839.mp3
   sentence: 雷ネット アクセスバトラーズ グランドチャンピオンシップの― 略だろ 常考(じょうこう)！
   words:
-    - word: 雷
-      position: 0
-    - word: ネット
-      position: 1
-    - word: アクセス
-      position: 5
-    - word: バトラーズ
-      base: バトラー
-      position: 9
-    - word: グランド
-      position: 15
-    - word: チャンピオンシップ
-      position: 19
-    - word: の
-      position: 28
-    - word: 略
-      position: 31
-    - word: だろ
-      base: だ
-      dictionary: だ
-      position: 32
-    - word: 常
-      position: 35
-    - word: 考
-      position: 36
     - word: じょう
       position: 38
       tags:
@@ -5785,10 +2205,6 @@
   sound: A_SteinsGateS01_E17_1_0.05.56.615-0.05.57.949.mp3
   sentence: 凶真(きょうま)！
   words:
-    - word: 凶
-      position: 0
-    - word: 真
-      position: 1
     - word: きょう
       base: 今日
       position: 3
@@ -5805,91 +2221,27 @@
   sound: A_SteinsGateS01_E17_1_0.06.11.796-0.06.16.718.mp3
   sentence: この俺の闇のフォースからは― 何人(なんぴと)たりとも
   words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: 俺
-      position: 2
-    - word: の
-      position: 3
-    - word: 闇
-      position: 4
-    - word: の
-      position: 5
-    - word: フォース
-      position: 6
-    - word: から
-      position: 10
-    - word: は
-      position: 12
-    - word: 何
-      position: 15
-    - word: 人
-      position: 16
     - word: なんぴと
       base: 何人
       position: 18
       tags:
         - silent
-    - word: たり
-      position: 23
-    - word: と
-      position: 25
-    - word: も
-      position: 26
 - id: A_SteinsGateS01_E17_5212
   deck_name: Steins Gate
   translation: Let's imagine that Akiba was a city filled with moe.
   sound: A_SteinsGateS01_E17_1_0.08.00.572-0.08.03.950.mp3
   sentence: 例えば アキバが 萌(も)えにあふれた街だったとする
   words:
-    - word: 例えば
-      position: 0
-    - word: アキバ
-      position: 4
-    - word: が
-      position: 7
-    - word: 萌
-      position: 9
     - word: も
       position: 11
       tags:
         - silent
-    - word: え
-      base: えー
-      position: 13
-    - word: に
-      position: 14
-    - word: あふれ
-      base: 溢れる
-      dictionary: あふれる
-      position: 15
-    - word: た
-      position: 18
-    - word: 街
-      position: 19
-    - word: だっ
-      base: だ
-      dictionary: だ
-      position: 20
-    - word: た
-      position: 22
-    - word: と
-      position: 23
-    - word: する
-      base: 為る
-      position: 24
 - id: A_SteinsGateS01_E17_5297
   deck_name: Steins Gate
   translation: Rumiho...
   sound: A_SteinsGateS01_E17_1_0.13.22.060-0.13.23.603.mp3
   sentence: 留美穂(るみほ)
   words:
-    - word: 留
-      base: 止め
-      position: 0
-    - word: 美穂
-      position: 1
     - word: るみ
       position: 4
       tags:
@@ -5905,43 +2257,16 @@
   sound: A_SteinsGateS01_E17_1_0.13.40.745-0.13.44.248.mp3
   sentence: 橋田さん？ 橋田 鈴(すず)さんですか？
   words:
-    - word: 橋田
-      position: 0
-    - word: さん
-      position: 2
-    - word: 橋田
-      position: 6
-    - word: 鈴
-      position: 9
     - word: すず
       position: 11
       tags:
         - silent
-    - word: さん
-      position: 14
-    - word: です
-      position: 16
-    - word: か
-      position: 18
 - id: A_SteinsGateS01_E18_5448
   deck_name: Steins Gate
   translation: Was she like Hashida?
   sound: A_SteinsGateS01_E18_1_0.03.52.281-0.03.54.116.mp3
   sentence: もしかして橋田(はしだ)みたいな？
   words:
-    - word: もし
-      base: 若し
-      position: 0
-    - word: か
-      position: 2
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 3
-    - word: て
-      position: 4
-    - word: 橋田
-      position: 5
     - word: はし
       position: 8
       tags:
@@ -5950,24 +2275,12 @@
       position: 10
       tags:
         - silent
-    - word: みたい
-      position: 12
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 15
 - id: A_SteinsGateS01_E18_5495
   deck_name: Steins Gate
   translation: You're going on a date with someone, Kyouma?
   sound: A_SteinsGateS01_E18_1_0.07.05.057-0.07.08.269.mp3
   sentence: ニャニャ？ 凶真(きょうま) 誰かとデートするのニャ？
   words:
-    - word: ニャニャ
-      position: 0
-    - word: 凶
-      position: 6
-    - word: 真
-      position: 7
     - word: きょう
       base: 今日
       position: 9
@@ -5978,39 +2291,12 @@
       position: 12
       tags:
         - silent
-    - word: 誰
-      position: 15
-    - word: か
-      position: 16
-    - word: と
-      position: 17
-    - word: デート
-      position: 18
-    - word: する
-      base: 為る
-      position: 21
-    - word: の
-      position: 23
-    - word: ニャ
-      position: 24
 - id: A_SteinsGateS01_E18_5520
   deck_name: Steins Gate
   translation: I've heard you go to Aoyama, or Omotesandou, or Nishiazabu...
   sound: A_SteinsGateS01_E18_1_0.08.42.655-0.08.47.576.mp3
   sentence: デートといえば 青山(あおやま)だとか 表参道(おもてさんどう)だとか 西麻布(にしあざぶ)だとか…
   words:
-    - word: デート
-      position: 0
-    - word: と
-      position: 3
-    - word: いえ
-      base: 言う
-      dictionary: いう
-      position: 4
-    - word: ば
-      position: 6
-    - word: 青山
-      position: 8
     - word: あ
       base: あっ
       position: 11
@@ -6026,14 +2312,6 @@
       position: 13
       tags:
         - silent
-    - word: だ
-      position: 16
-    - word: と
-      position: 17
-    - word: か
-      position: 18
-    - word: 表参道
-      position: 20
     - word: おもて
       position: 24
       tags:
@@ -6046,64 +2324,12 @@
       position: 29
       tags:
         - silent
-    - word: だ
-      position: 32
-    - word: と
-      position: 33
-    - word: か
-      position: 34
-    - word: 西麻布
-      position: 36
-    - word: に
-      position: 40
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 41
-    - word: あ
-      base: あー
-      position: 42
-    - word: ざぶ
-      position: 43
-    - word: だ
-      position: 46
-    - word: と
-      position: 47
-    - word: か
-      position: 48
 - id: A_SteinsGateS01_E18_5528
   deck_name: Steins Gate
   translation: with an IQ of 170, just like Isaac Newton.
   sound: A_SteinsGateS01_E18_1_0.09.06.512-0.09.11.350.mp3
   sentence: ＩＱ170に生まれついた この俺 鳳凰院(ほうおういん)凶真
   words:
-    - word: ＩＱ
-      base: IQ
-      dictionary: iQ
-      position: 0
-    - word: '170'
-      position: 2
-    - word: に
-      position: 5
-    - word: 生まれ
-      base: 生まれる
-      dictionary: 生まれる
-      position: 6
-    - word: つい
-      base: 付く
-      dictionary: つく
-      position: 9
-    - word: た
-      position: 11
-    - word: この
-      base: 此の
-      position: 13
-    - word: 俺
-      position: 15
-    - word: 鳳凰
-      position: 17
-    - word: 院
-      position: 19
     - word: ほう
       position: 21
       tags:
@@ -6118,24 +2344,12 @@
       position: 26
       tags:
         - silent
-    - word: 凶
-      position: 28
-    - word: 真
-      position: 29
 - id: A_SteinsGateS01_E18_5555
   deck_name: Steins Gate
   translation: Right, right. And you're a virgin, too.
   sound: A_SteinsGateS01_E18_1_0.10.35.976-0.10.37.853.mp3
   sentence: はいはい 童貞乙(おつ)
   words:
-    - word: はい
-      position: 0
-    - word: はい
-      position: 2
-    - word: 童貞
-      position: 5
-    - word: 乙
-      position: 7
     - word: おつ
       position: 9
       tags:
@@ -6146,60 +2360,17 @@
   sound: A_SteinsGateS01_E18_1_0.18.28.824-0.18.31.535.mp3
   sentence: 分かったら 妖刀五月雨(さみだれ)を持ってこい
   words:
-    - word: 分かっ
-      base: 分かる
-      dictionary: 分かる
-      position: 0
-    - word: たら
-      base: た
-      dictionary: た
-      position: 3
-    - word: 妖刀
-      position: 6
-    - word: 五月雨
-      position: 8
     - word: さみだれ
       base: 五月雨
       position: 12
       tags:
         - silent
-    - word: を
-      position: 17
-    - word: 持っ
-      base: 持つ
-      dictionary: 持つ
-      position: 18
-    - word: て
-      position: 20
-    - word: こい
-      base: 来る
-      dictionary: くる
-      position: 21
 - id: A_SteinsGateS01_E18_5671
   deck_name: Steins Gate
   translation: The legend of this dark blade goes back to the age of Yoshitsune.
   sound: A_SteinsGateS01_E18_1_0.18.40.377-0.18.45.716.mp3
   sentence: そもそも この妖刀に まつわる伝説は― 義経(よしつね)の時代にさかのぼる
   words:
-    - word: そもそも
-      base: 抑
-      position: 0
-    - word: この
-      base: 此の
-      position: 5
-    - word: 妖刀
-      position: 7
-    - word: に
-      position: 9
-    - word: まつわる
-      base: 纏わる
-      position: 11
-    - word: 伝説
-      position: 15
-    - word: は
-      position: 17
-    - word: 義経
-      position: 20
     - word: よし
       position: 23
       tags:
@@ -6212,41 +2383,12 @@
       position: 26
       tags:
         - silent
-    - word: の
-      position: 28
-    - word: 時代
-      position: 29
-    - word: に
-      position: 31
-    - word: さかのぼる
-      base: 遡る
-      position: 32
 - id: A_SteinsGateS01_E19_5745
   deck_name: Steins Gate
   translation: The next one to undo is that Kiryuu Moeka person's, right?
   sound: A_SteinsGateS01_E19_1_0.04.24.105-0.04.28.651.mp3
   sentence: 次に取り消すのは― 桐生萌郁(きりゅうもえか)っていう人の メールだったわよね？
   words:
-    - word: 次
-      position: 0
-    - word: に
-      position: 1
-    - word: 取り
-      base: 取る
-      dictionary: 取る
-      position: 2
-    - word: 消す
-      position: 4
-    - word: の
-      position: 6
-    - word: は
-      position: 7
-    - word: 桐生
-      position: 10
-    - word: 萌
-      position: 12
-    - word: 郁
-      position: 13
     - word: きりゅう
       position: 15
       tags:
@@ -6264,39 +2406,12 @@
       position: 21
       tags:
         - silent
-    - word: って
-      position: 23
-    - word: いう
-      base: 言う
-      position: 25
-    - word: 人
-      position: 27
-    - word: の
-      position: 28
-    - word: メール
-      position: 30
-    - word: だっ
-      base: だ
-      dictionary: だ
-      position: 33
-    - word: た
-      position: 35
-    - word: わ
-      position: 36
-    - word: よ
-      position: 37
-    - word: ね
-      position: 38
 - id: A_SteinsGateS01_E19_5762
   deck_name: Steins Gate
   translation: I'm in Ariake now.
   sound: A_SteinsGateS01_E19_1_0.05.31.505-0.05.32.882.mp3
   sentence: “今 有明(ありあけ)”
   words:
-    - word: 今
-      position: 1
-    - word: 有明
-      position: 3
     - word: ありあけ
       base: 有り明け
       position: 6
@@ -6308,15 +2423,6 @@
   sound: A_SteinsGateS01_E19_1_0.06.32.274-0.06.35.069.mp3
   sentence: ご遺体は 千代田(ちよだ)第三病院に運ばれている
   words:
-    - word: ご
-      base: 御
-      position: 0
-    - word: 遺体
-      position: 1
-    - word: は
-      position: 3
-    - word: 千代田
-      position: 5
     - word: ちよ
       position: 9
       tags:
@@ -6325,112 +2431,32 @@
       position: 11
       tags:
         - silent
-    - word: 第
-      position: 13
-    - word: 三
-      base: '3'
-      position: 14
-    - word: 病院
-      position: 15
-    - word: に
-      position: 17
-    - word: 運ば
-      base: 運ぶ
-      dictionary: 運ぶ
-      position: 18
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 20
-    - word: て
-      position: 21
-    - word: いる
-      base: 居る
-      position: 22
 - id: A_SteinsGateS01_E20_6045
   deck_name: Steins Gate
   translation: I think M4 was right.
   sound: A_SteinsGateS01_E20_1_0.07.12.429-0.07.16.975.mp3
   sentence: “Ｍ４(フォー)の判断は―” 〝正しかったと 思っているわ〞
   words:
-    - word: Ｍ
-      base: m
-      dictionary: m
-      position: 1
-    - word: ４
-      base: '4'
-      dictionary: '4'
-      position: 2
     - word: フォー
       position: 4
       tags:
         - silent
-    - word: の
-      position: 8
-    - word: 判断
-      position: 9
-    - word: は
-      position: 11
-    - word: 正しかっ
-      base: 正しい
-      dictionary: 正しい
-      position: 16
-    - word: た
-      position: 20
-    - word: と
-      position: 21
-    - word: 思っ
-      base: 思う
-      dictionary: 思う
-      position: 23
-    - word: て
-      position: 25
-    - word: いる
-      base: 居る
-      position: 26
-    - word: わ
-      position: 28
 - id: A_SteinsGateS01_E20_6069
   deck_name: Steins Gate
   translation: A plane to France... That's where SERN is.
   sound: A_SteinsGateS01_E20_1_0.11.20.927-0.11.24.722.mp3
   sentence: フランス行きの飛行機… ＳＥＲＮ(セルン)がある国か
   words:
-    - word: フランス
-      position: 0
-    - word: 行き
-      position: 4
-    - word: の
-      position: 6
-    - word: 飛行
-      position: 7
-    - word: 機
-      position: 9
-    - word: ＳＥＲＮ
-      base: sern
-      dictionary: sern
-      position: 12
     - word: セルン
       position: 17
       tags:
         - silent
-    - word: が
-      position: 21
-    - word: ある
-      base: 有る
-      position: 22
-    - word: 国
-      position: 24
-    - word: か
-      position: 25
 - id: A_SteinsGateS01_E20_6125
   deck_name: Steins Gate
   translation: Suzuha... Hashida Suzu-san didn't take care of you for that!
   sound: A_SteinsGateS01_E20_1_0.15.00.188-0.15.06.319.mp3
   sentence: 鈴羽(すずは)は… 橋田 鈴(はしだすず)さんは― そんなことをさせるために あなたの世話をしたんじゃない
   words:
-    - word: 鈴羽
-      position: 0
     - word: すず
       position: 3
       tags:
@@ -6439,12 +2465,6 @@
       position: 5
       tags:
         - silent
-    - word: は
-      position: 7
-    - word: 橋田
-      position: 10
-    - word: 鈴
-      position: 13
     - word: は
       position: 15
       tags:
@@ -6465,64 +2485,12 @@
       position: 19
       tags:
         - silent
-    - word: さん
-      position: 21
-    - word: は
-      position: 23
-    - word: そんな
-      position: 26
-    - word: こと
-      position: 29
-    - word: を
-      position: 31
-    - word: さ
-      base: 為る
-      dictionary: する
-      position: 32
-    - word: せる
-      position: 33
-    - word: ため
-      base: 為
-      position: 35
-    - word: に
-      position: 37
-    - word: あなた
-      base: 貴方
-      position: 39
-    - word: の
-      position: 42
-    - word: 世話
-      position: 43
-    - word: を
-      position: 45
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 46
-    - word: た
-      position: 47
-    - word: ん
-      base: の
-      position: 48
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 49
-    - word: ない
-      base: 無い
-      position: 51
 - id: A_SteinsGateS01_E20_6161
   deck_name: Steins Gate
   translation: Kyouma-sa—
   sound: A_SteinsGateS01_E20_1_0.19.47.266-0.19.48.893.mp3
   sentence: あっ 凶真(きょうま)さん
   words:
-    - word: あっ
-      position: 0
-    - word: 凶
-      position: 3
-    - word: 真
-      position: 4
     - word: きょう
       base: 今日
       position: 6
@@ -6533,62 +2501,22 @@
       position: 9
       tags:
         - silent
-    - word: さん
-      position: 11
 - id: A_SteinsGateS01_E20_6171
   deck_name: Steins Gate
   translation: Mayushi dies, and Miss Amane is my daughter from the future.
   sound: A_SteinsGateS01_E20_1_0.20.35.231-0.20.39.860.mp3
   sentence: まゆ氏が死ぬとか 阿万音(あまね)氏が未来人で僕の娘とか
   words:
-    - word: まゆ
-      position: 0
-    - word: 氏
-      position: 2
-    - word: が
-      position: 3
-    - word: 死ぬ
-      position: 4
-    - word: と
-      position: 6
-    - word: か
-      position: 7
-    - word: 阿万音
-      position: 9
     - word: あまね
       position: 13
       tags:
         - silent
-    - word: 氏
-      position: 17
-    - word: が
-      position: 18
-    - word: 未来
-      position: 19
-    - word: 人
-      position: 21
-    - word: で
-      position: 22
-    - word: 僕
-      position: 23
-    - word: の
-      position: 24
-    - word: 娘
-      position: 25
-    - word: と
-      position: 26
-    - word: か
-      position: 27
 - id: A_SteinsGateS01_E21_6236
   deck_name: Steins Gate
   translation: Let's meet back here at 1500.
   sound: A_SteinsGateS01_E21_1_0.04.30.826-0.04.32.703.mp3
   sentence: １５２０(いちごうふたまる)にここで落ち合おう
   words:
-    - word: １５２０
-      base: '1520'
-      dictionary: '1520'
-      position: 0
     - word: いちご
       base: 苺
       position: 5
@@ -6603,21 +2531,6 @@
       position: 10
       tags:
         - silent
-    - word: に
-      position: 14
-    - word: ここ
-      base: 此処
-      position: 15
-    - word: で
-      position: 17
-    - word: 落ち
-      base: 落ちる
-      dictionary: 落ちる
-      position: 18
-    - word: 合おう
-      base: 合う
-      dictionary: 合う
-      position: 20
 - id: A_SteinsGateS01_E21_6297
   deck_name: Steins Gate
   translation: >-
@@ -6626,48 +2539,6 @@
   sound: A_SteinsGateS01_E21_1_0.08.31.316-0.08.39.116.mp3
   sentence: それが出来たら真打ちとして― この狂気の マッドサイエンティスト― 鳳凰院凶真(ほうおういんきょうま)が コミマに降臨しようではないか
   words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: が
-      position: 2
-    - word: 出来
-      base: 出来る
-      dictionary: 出来る
-      position: 3
-    - word: たら
-      base: た
-      dictionary: た
-      position: 5
-    - word: 真打ち
-      position: 7
-    - word: と
-      position: 10
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 11
-    - word: て
-      position: 12
-    - word: この
-      base: 此の
-      position: 15
-    - word: 狂気
-      position: 17
-    - word: の
-      position: 19
-    - word: マッド
-      position: 21
-    - word: サイエンティスト
-      position: 24
-    - word: 鳳凰
-      position: 34
-    - word: 院
-      position: 36
-    - word: 凶
-      position: 37
-    - word: 真
-      position: 38
     - word: ほう
       position: 40
       tags:
@@ -6691,45 +2562,12 @@
       position: 49
       tags:
         - silent
-    - word: が
-      position: 51
-    - word: コミマ
-      position: 53
-    - word: に
-      position: 56
-    - word: 降臨
-      position: 57
-    - word: しよう
-      base: 為る
-      dictionary: する
-      position: 59
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 62
-    - word: は
-      position: 63
-    - word: ない
-      base: 無い
-      position: 64
-    - word: か
-      position: 66
 - id: A_SteinsGateS01_E21_6360
   deck_name: Steins Gate
   translation: Mayuri and I went to  Dr. Nakabachi's press conference.
   sound: A_SteinsGateS01_E21_1_0.13.33.493-0.13.36.830.mp3
   sentence: 俺は まゆりと 中鉢(なかばち)博士の会見に出かけた
   words:
-    - word: 俺
-      position: 0
-    - word: は
-      position: 1
-    - word: まゆり
-      position: 3
-    - word: と
-      position: 6
-    - word: 中鉢
-      position: 8
     - word: なか
       base: 中
       position: 11
@@ -6739,24 +2577,6 @@
       position: 13
       tags:
         - silent
-    - word: 博士
-      position: 16
-    - word: の
-      position: 18
-    - word: 会見
-      position: 19
-    - word: に
-      position: 21
-    - word: 出
-      base: 出る
-      dictionary: 出る
-      position: 22
-    - word: かけ
-      base: 掛ける
-      dictionary: かける
-      position: 23
-    - word: た
-      position: 25
 - id: A_SteinsGateS01_E21_6366
   deck_name: Steins Gate
   translation: >-
@@ -6765,84 +2585,16 @@
   sound: A_SteinsGateS01_E21_1_0.13.57.517-0.14.05.442.mp3
   sentence: ＳＥＲＮ(セルン)に捉えられた そのメールを消し― ベータ世界線に 戻るということは― つまり その世界に戻るということ
   words:
-    - word: ＳＥＲＮ
-      base: sern
-      dictionary: sern
-      position: 0
     - word: セルン
       position: 5
       tags:
         - silent
-    - word: に
-      position: 9
-    - word: 捉え
-      base: 捕らえる
-      dictionary: 捉える
-      position: 10
-    - word: られ
-      base: られる
-      dictionary: られる
-      position: 12
-    - word: た
-      position: 14
-    - word: その
-      base: 其の
-      position: 16
-    - word: メール
-      position: 18
-    - word: を
-      position: 21
-    - word: 消し
-      base: 消す
-      dictionary: 消す
-      position: 22
-    - word: ベータ
-      base: β
-      position: 26
-    - word: 世界
-      position: 29
-    - word: 線
-      position: 31
-    - word: に
-      position: 32
-    - word: 戻る
-      position: 34
-    - word: と
-      position: 36
-    - word: いう
-      base: 言う
-      position: 37
-    - word: こと
-      position: 39
-    - word: は
-      position: 41
-    - word: つまり
-      base: 詰まり
-      position: 44
-    - word: その
-      base: 其の
-      position: 48
-    - word: 世界
-      position: 50
-    - word: に
-      position: 52
-    - word: 戻る
-      position: 53
-    - word: と
-      position: 55
-    - word: いう
-      base: 言う
-      position: 56
-    - word: こと
-      position: 58
 - id: A_SteinsGateS01_E21_6380
   deck_name: Steins Gate
   translation: Genbu, Suzaku, Seiryuu, Byakko.
   sound: A_SteinsGateS01_E21_1_0.15.11.091-0.15.13.760.mp3
   sentence: 玄武(げんぶ)と朱雀(すざく)と 青龍(せいりゅう)と白虎(びゃっこ)だ
   words:
-    - word: 玄武
-      position: 0
     - word: げん
       base: 弦
       position: 3
@@ -6852,29 +2604,11 @@
       position: 5
       tags:
         - silent
-    - word: と
-      position: 7
-    - word: 朱雀
-      position: 8
     - word: すざく
       base: 朱雀
       position: 11
       tags:
         - silent
-    - word: と
-      position: 15
-    - word: 青龍
-      base: 青竜
-      position: 17
-    - word: せい
-      position: 20
-    - word: りゅう
-      base: 竜
-      position: 22
-    - word: と
-      position: 26
-    - word: 白虎
-      position: 27
     - word: び
       base: びっ
       position: 30
@@ -6889,35 +2623,22 @@
       position: 32
       tags:
         - silent
-    - word: だ
-      position: 35
 - id: A_SteinsGateS01_E21_6417
   deck_name: Steins Gate
   translation: And Suzu-san!
   sound: A_SteinsGateS01_E21_1_0.18.19.613-0.18.21.156.mp3
   sentence: それと鈴(すず)さん
   words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: と
-      position: 2
-    - word: 鈴
-      position: 3
     - word: すず
       position: 5
       tags:
         - silent
-    - word: さん
-      position: 8
 - id: A_SteinsGateS01_E22_6464
   deck_name: Steins Gate
   translation: Hashida said he couldn't find her at Comima...
   sound: A-test_1_0.02.00.336-0.02.02.588.mp3
   sentence: 橋田(はしだ)が コミマでは 会えなかったみたいって
   words:
-    - word: 橋田
-      position: 0
     - word: はし
       position: 3
       tags:
@@ -6926,28 +2647,6 @@
       position: 5
       tags:
         - silent
-    - word: が
-      position: 7
-    - word: コミマ
-      position: 9
-    - word: で
-      position: 12
-    - word: は
-      position: 13
-    - word: 会え
-      base: 会う
-      dictionary: 会える
-      position: 15
-    - word: なかっ
-      base: ない
-      dictionary: ない
-      position: 17
-    - word: た
-      position: 20
-    - word: みたい
-      position: 21
-    - word: って
-      position: 24
 - id: A_SteinsGateS01_E22_6664
   deck_name: Steins Gate
   translation: >-
@@ -6958,27 +2657,6 @@
     狂気のマッドサイエンティスト である鳳凰院凶真(ほうおういんきょうま)は― 機関およびＳＥＲＮ(セルン)の あらゆる攻撃に対し― 時空を操ることで―
     完全に勝利したのだ！ 世界の支配構造はリセットされ―
   words:
-    - word: 狂気
-      position: 0
-    - word: の
-      position: 2
-    - word: マッド
-      position: 3
-    - word: サイエンティスト
-      position: 6
-    - word: で
-      position: 15
-    - word: ある
-      base: 或る
-      position: 16
-    - word: 鳳凰
-      position: 18
-    - word: 院
-      position: 20
-    - word: 凶
-      position: 21
-    - word: 真
-      position: 22
     - word: ほう
       position: 24
       tags:
@@ -7002,110 +2680,21 @@
       position: 33
       tags:
         - silent
-    - word: は
-      position: 35
-    - word: 機関
-      position: 38
-    - word: および
-      base: 及び
-      position: 40
-    - word: ＳＥＲＮ
-      base: sern
-      dictionary: sern
-      position: 43
     - word: セルン
       position: 48
       tags:
         - silent
-    - word: の
-      position: 52
-    - word: あらゆる
-      position: 54
-    - word: 攻撃
-      position: 58
-    - word: に
-      position: 60
-    - word: 対し
-      base: 対する
-      dictionary: 対する
-      position: 61
-    - word: 時空
-      position: 65
-    - word: を
-      position: 67
-    - word: 操る
-      position: 68
-    - word: こと
-      position: 70
-    - word: で
-      position: 72
-    - word: 完全
-      position: 75
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 77
-    - word: 勝利
-      position: 78
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 80
-    - word: た
-      position: 81
-    - word: の
-      position: 82
-    - word: だ
-      position: 83
-    - word: 世界
-      position: 86
-    - word: の
-      position: 88
-    - word: 支配
-      position: 89
-    - word: 構造
-      position: 91
-    - word: は
-      position: 93
-    - word: リセット
-      position: 94
-    - word: さ
-      base: 為る
-      dictionary: する
-      position: 98
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 99
 - id: A_SteinsGateS01_E22_6665
   deck_name: Steins Gate
   translation: The world's ruling structure has been reset!
   sound: A-test_1_0.20.51.675-0.20.53.844.mp3
   sentence: 混沌(こんとん)の未来が待つであろう
   words:
-    - word: 混沌
-      position: 0
     - word: こんとん
       base: 混沌
       position: 3
       tags:
         - silent
-    - word: の
-      position: 8
-    - word: 未来
-      position: 9
-    - word: が
-      position: 11
-    - word: 待つ
-      position: 12
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 14
-    - word: あろう
-      base: 有る
-      dictionary: ある
-      position: 15
 - id: A_SteinsGateS01_E23_6697
   deck_name: Steins Gate
   translation: >-
@@ -7114,43 +2703,6 @@
   sound: A_SteinsGateS01_E23_1_0.00.48.553-0.00.56.395.mp3
   sentence: この３週間 何度も何度も 世界線を変え― 紅莉栖(くりす)を犠牲にして― このベータ世界線に たどり着いたんだ
   words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: ３
-      base: '3'
-      dictionary: '3'
-      position: 2
-    - word: 週間
-      position: 3
-    - word: 何
-      position: 6
-    - word: 度
-      position: 7
-    - word: も
-      position: 8
-    - word: 何
-      position: 9
-    - word: 度
-      position: 10
-    - word: も
-      position: 11
-    - word: 世界
-      position: 13
-    - word: 線
-      position: 15
-    - word: を
-      position: 16
-    - word: 変え
-      base: 変える
-      dictionary: 変える
-      position: 17
-    - word: 紅
-      position: 21
-    - word: 莉
-      position: 22
-    - word: 栖
-      position: 23
     - word: くり
       position: 25
       tags:
@@ -7160,53 +2712,12 @@
       position: 27
       tags:
         - silent
-    - word: を
-      position: 29
-    - word: 犠牲
-      position: 30
-    - word: に
-      position: 32
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 33
-    - word: て
-      position: 34
-    - word: この
-      base: 此の
-      position: 37
-    - word: ベータ
-      base: β
-      position: 39
-    - word: 世界
-      position: 42
-    - word: 線
-      position: 44
-    - word: に
-      position: 45
-    - word: たどり
-      base: 辿る
-      dictionary: たどる
-      position: 47
-    - word: 着い
-      base: 着く
-      dictionary: 着く
-      position: 50
-    - word: た
-      position: 52
-    - word: ん
-      base: の
-      position: 53
-    - word: だ
-      position: 54
 - id: A_SteinsGateS01_E23_6705
   deck_name: Steins Gate
   translation: on July 28th, 2010?
   sound: A_SteinsGateS01_E23_1_0.01.25.465-0.01.28.135.mp3
   sentence: 牧瀬(まきせ)紅莉栖を助けることだと 言ったら？
   words:
-    - word: 牧瀬
-      position: 0
     - word: まき
       position: 3
       tags:
@@ -7217,46 +2728,12 @@
       position: 5
       tags:
         - silent
-    - word: 紅
-      position: 7
-    - word: 莉
-      position: 8
-    - word: 栖
-      position: 9
-    - word: を
-      position: 10
-    - word: 助ける
-      position: 11
-    - word: こと
-      position: 14
-    - word: だ
-      position: 16
-    - word: と
-      position: 17
-    - word: 言っ
-      base: 言う
-      dictionary: 言う
-      position: 19
-    - word: たら
-      base: た
-      dictionary: た
-      position: 21
 - id: A_SteinsGateS01_E23_6965
   deck_name: Steins Gate
   translation: I sound like an otaku who's read too many bad light novels.
   sound: A_SteinsGateS01_E23_1_0.21.58.238-0.22.01.033.mp3
   sentence: まるで 厨二病(ちゅうにびょう)全開じゃないか
   words:
-    - word: まるで
-      base: 丸で
-      position: 0
-    - word: 厨
-      position: 4
-    - word: 二
-      base: '2'
-      position: 5
-    - word: 病
-      position: 6
     - word: ちゅう
       position: 8
       tags:
@@ -7270,43 +2747,12 @@
       position: 12
       tags:
         - silent
-    - word: 全開
-      position: 16
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 18
-    - word: ない
-      base: 無い
-      position: 20
-    - word: か
-      position: 22
 - id: A_SteinsGateS01_E23_6969
   deck_name: Steins Gate
   translation: I am the mad scientist, Hououin Kyouma!
   sound: A_SteinsGateS01_E23_1_0.22.10.834-0.22.15.547.mp3
   sentence: 俺は狂気のマッドサイエンティスト 鳳凰院凶真(ほうおういんきょうま)！
   words:
-    - word: 俺
-      position: 0
-    - word: は
-      position: 1
-    - word: 狂気
-      position: 2
-    - word: の
-      position: 4
-    - word: マッド
-      position: 5
-    - word: サイエンティスト
-      position: 8
-    - word: 鳳凰
-      position: 17
-    - word: 院
-      position: 19
-    - word: 凶
-      position: 20
-    - word: 真
-      position: 21
     - word: ほう
       position: 23
       tags:
@@ -7338,30 +2784,6 @@
   sound: A_SteinsGateS01_E24_1_0.00.09.083-0.00.13.713.mp3
   sentence: 血まみれで倒れている 牧瀬紅莉栖(まきせくりす)と― それを見た岡部倫太郎
   words:
-    - word: 血まみれ
-      base: 血塗れ
-      position: 0
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 4
-    - word: 倒れ
-      base: 倒れる
-      dictionary: 倒れる
-      position: 5
-    - word: て
-      position: 7
-    - word: いる
-      base: 居る
-      position: 8
-    - word: 牧瀬
-      position: 11
-    - word: 紅
-      position: 13
-    - word: 莉
-      position: 14
-    - word: 栖
-      position: 15
     - word: まき
       position: 17
       tags:
@@ -7375,23 +2797,6 @@
       position: 21
       tags:
         - silent
-    - word: と
-      position: 24
-    - word: それ
-      base: 其れ
-      position: 27
-    - word: を
-      position: 29
-    - word: 見
-      base: 見る
-      dictionary: 見る
-      position: 30
-    - word: た
-      position: 31
-    - word: 岡部
-      position: 32
-    - word: 倫太郎
-      position: 34
 - id: A_SteinsGateS01_E24_6994
   deck_name: Steins Gate
   translation: >-
@@ -7400,20 +2805,6 @@
   sound: A_SteinsGateS01_E24_1_0.01.16.484-0.01.24.492.mp3
   sentence: 我が名は 鳳凰院凶真(ほうおういんきょうま) 狂気の マッドサイエンティストにして― 世界の支配構造を破壊する男
   words:
-    - word: 我が
-      position: 0
-    - word: 名
-      position: 2
-    - word: は
-      position: 3
-    - word: 鳳凰
-      position: 5
-    - word: 院
-      position: 7
-    - word: 凶
-      position: 8
-    - word: 真
-      position: 9
     - word: ほう
       position: 11
       tags:
@@ -7437,62 +2828,12 @@
       position: 20
       tags:
         - silent
-    - word: 狂気
-      position: 23
-    - word: の
-      position: 25
-    - word: マッド
-      position: 27
-    - word: サイエンティスト
-      position: 30
-    - word: に
-      position: 38
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 39
-    - word: て
-      position: 40
-    - word: 世界
-      position: 43
-    - word: の
-      position: 45
-    - word: 支配
-      position: 46
-    - word: 構造
-      position: 48
-    - word: を
-      position: 50
-    - word: 破壊
-      position: 51
-    - word: する
-      base: 為る
-      position: 53
-    - word: 男
-      position: 55
 - id: A_SteinsGateS01_E24_7076
   deck_name: Steins Gate
   translation: Professor Nakabachi's press conference will now begin in the 8th Floor Hall.
   sound: A_SteinsGateS01_E24_1_0.09.07.705-0.09.12.460.mp3
   sentence: これより８階ホールにて 中鉢(なかばち)博士の会見が開かれます
   words:
-    - word: これ
-      base: 此れ
-      position: 0
-    - word: より
-      position: 2
-    - word: ８
-      base: '8'
-      dictionary: '8'
-      position: 4
-    - word: 階
-      position: 5
-    - word: ホール
-      position: 6
-    - word: にて
-      position: 9
-    - word: 中鉢
-      position: 12
     - word: なか
       base: 中
       position: 15
@@ -7502,24 +2843,6 @@
       position: 17
       tags:
         - silent
-    - word: 博士
-      position: 20
-    - word: の
-      position: 22
-    - word: 会見
-      position: 23
-    - word: が
-      position: 25
-    - word: 開か
-      base: 開く
-      dictionary: 開く
-      position: 26
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 28
-    - word: ます
-      position: 29
 - id: A_SteinsGateS01_E24_7085
   deck_name: Steins Gate
   translation: >-
@@ -7528,33 +2851,8 @@
   sound: A_SteinsGateS01_E24_1_0.11.08.075-0.11.12.538.mp3
   sentence: 混沌(こんとん)を望み 世界の支配構造を破壊する者
   words:
-    - word: 混沌
-      position: 0
     - word: こんとん
       base: 混沌
       position: 3
       tags:
         - silent
-    - word: を
-      position: 8
-    - word: 望み
-      base: 望む
-      dictionary: 望む
-      position: 9
-    - word: 世界
-      position: 12
-    - word: の
-      position: 14
-    - word: 支配
-      position: 15
-    - word: 構造
-      position: 17
-    - word: を
-      position: 19
-    - word: 破壊
-      position: 20
-    - word: する
-      base: 為る
-      position: 22
-    - word: 者
-      position: 24

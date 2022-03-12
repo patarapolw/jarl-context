@@ -4,13 +4,6 @@
   sound: Anime_-_YourName_1_0.07.12.070-0.07.14.270.mp3
   sentence: おっはよ　(サヤちん)　(テッシー)
   words:
-    - word: おっ
-      base: 伯父
-      position: 0
-    - word: は
-      position: 2
-    - word: よ
-      position: 3
     - word: サヤ
       base: 莢
       position: 6
@@ -31,16 +24,6 @@
   sound: Anime_-_YourName_1_0.07.16.760-0.07.18.210.mp3
   sentence: いいにん　(ケチ)
   words:
-    - word: いい
-      base: 良い
-      position: 0
-    - word: に
-      base: なり
-      dictionary: なり
-      position: 2
-    - word: ん
-      base: の
-      position: 3
     - word: ケチ
       base: けち
       position: 6
@@ -61,32 +44,12 @@
       position: 2
       tags:
         - silent
-    - word: 今日
-      position: 5
-    - word: は
-      position: 7
-    - word: 髪
-      position: 8
-    - word: ちゃん
-      position: 9
-    - word: と
-      position: 12
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 13
-    - word: とる
-      position: 14
-    - word: ね
-      position: 16
 - id: A-YourName034
   deck_name: Your Name
   translation: I reckon Mitsuha's just stressed. Right?
   sound: Anime_-_YourName_1_0.07.38.130-0.07.41.200.mp3
   sentence: きっと(三葉)はストレスたまっとるの　なあ
   words:
-    - word: きっと
-      position: 0
     - word: 三
       base: '3'
       position: 4
@@ -96,58 +59,16 @@
       position: 5
       tags:
         - silent
-    - word: は
-      position: 7
-    - word: ストレス
-      position: 8
-    - word: たまっ
-      base: たまる
-      dictionary: たまる
-      position: 12
-    - word: とる
-      position: 15
-    - word: の
-      position: 17
-    - word: なあ
-      position: 19
 - id: A-YourName039
   deck_name: Your Name
   translation: As the incumbent mayor... What's the point? He'll be reelected anyway.
   sound: Anime_-_YourName_1_0.08.00.000-0.08.05.120.mp3
   sentence: 現職として… どうせ今期も(宮水)さんで決まりやろ
   words:
-    - word: 現職
-      position: 0
-    - word: と
-      position: 2
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 3
-    - word: て
-      position: 4
-    - word: どうせ
-      position: 7
-    - word: 今期
-      position: 10
-    - word: も
-      position: 12
     - word: 宮水
       position: 14
       tags:
         - silent
-    - word: さん
-      position: 17
-    - word: で
-      position: 19
-    - word: 決まり
-      base: 決まる
-      dictionary: 決まる
-      position: 20
-    - word: やろ
-      base: や
-      dictionary: や
-      position: 23
 - id: A-YourName058
   deck_name: Your Name
   translation: I hear that Itomori's elderly still use old-timey language here and there.
@@ -162,52 +83,16 @@
       position: 2
       tags:
         - silent
-    - word: の
-      position: 4
-    - word: お
-      base: 御
-      position: 5
-    - word: 年寄り
-      position: 6
-    - word: に
-      position: 9
-    - word: は
-      position: 10
-    - word: 万葉
-      position: 11
-    - word: 言葉
-      position: 13
-    - word: が
-      position: 15
-    - word: 残っ
-      base: 残る
-      dictionary: 残る
-      position: 16
-    - word: てる
-      position: 18
-    - word: って
-      position: 20
-    - word: 聞く
-      position: 22
-    - word: し
-      position: 24
 - id: A-YourName060
   deck_name: Your Name
   translation: Let's see... Miyamizu?
   sound: Anime_-_YourName_1_0.09.28.430-0.09.30.250.mp3
   sentence: じゃあ次　(宮水)さん
   words:
-    - word: じゃあ
-      base: で
-      position: 0
-    - word: 次
-      position: 3
     - word: 宮水
       position: 6
       tags:
         - silent
-    - word: さん
-      position: 9
 - id: A-YourName075
   deck_name: Your Name
   translation: Oh! Tessie, were you the one who was scribblin’ in my notebook?
@@ -218,40 +103,12 @@
       position: 1
       tags:
         - silent
-    - word: もし
-      base: 若し
-      position: 7
-    - word: か
-      position: 9
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 10
-    - word: て
-      position: 11
-    - word: あんた
-      base: 貴方
-      position: 12
-    - word: が
-      position: 15
-    - word: 私
-      position: 16
-    - word: の
-      position: 17
-    - word: ノート
-      position: 18
-    - word: に
-      position: 21
 - id: A-YourName077
   deck_name: Your Name
   translation: You really were a little touched in the head yesterday.
   sound: Anime_-_YourName_1_0.10.25.220-0.10.28.940.mp3
   sentence: でも(三葉)　昨日はマジでちょっと変やったよ
   words:
-    - word: で
-      position: 0
-    - word: も
-      position: 1
     - word: 三
       base: '3'
       position: 3
@@ -261,30 +118,6 @@
       position: 4
       tags:
         - silent
-    - word: 昨日
-      position: 7
-    - word: は
-      position: 9
-    - word: マジ
-      base: まじ
-      position: 10
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 12
-    - word: ちょっと
-      base: 一寸
-      position: 13
-    - word: 変
-      position: 17
-    - word: やっ
-      base: や
-      dictionary: や
-      position: 18
-    - word: た
-      position: 20
-    - word: よ
-      position: 21
 - id: A-YourName100
   deck_name: Your Name
   translation: Mitsuha just headed on home.
@@ -300,28 +133,12 @@
       position: 2
       tags:
         - silent
-    - word: 帰っ
-      base: 帰る
-      dictionary: 帰る
-      position: 5
-    - word: ちゃっ
-      base: ちゃう
-      dictionary: ちゃう
-      position: 7
-    - word: た
-      position: 10
-    - word: やろ
-      base: や
-      dictionary: や
-      position: 11
 - id: A-YourName102
   deck_name: Your Name
   translation: Well, she's got a big role to play.
   sound: Anime_-_YourName_1_0.11.42.860-0.11.45.310.mp3
   sentence: まあ　(三葉)は主役やからな
   words:
-    - word: まあ
-      position: 0
     - word: 三
       base: '3'
       position: 4
@@ -331,25 +148,12 @@
       position: 5
       tags:
         - silent
-    - word: は
-      position: 7
-    - word: 主役
-      position: 8
-    - word: や
-      position: 10
-    - word: から
-      position: 11
-    - word: な
-      position: 13
 - id: A-YourName104
   deck_name: Your Name
   translation: Hey, Tessie?
   sound: Anime_-_YourName_1_0.11.49.270-0.11.51.190.mp3
   sentence: ねえ　(テッシー)
   words:
-    - word: ねえ
-      base: 姉
-      position: 0
     - word: テッシー
       position: 4
       tags:
@@ -369,39 +173,12 @@
       position: 2
       tags:
         - silent
-    - word: に
-      position: 4
-    - word: は
-      position: 5
-    - word: まだ
-      base: 未だ
-      position: 6
-    - word: 早い
-      position: 8
-    - word: わ
-      position: 10
 - id: A-YourName115
   deck_name: Your Name
   translation: Inside our braided cords lie a thousand years of Itomori's history.
   sound: Anime_-_YourName_1_0.12.40.560-0.12.46.480.mp3
   sentence: わしらの組紐にはな　(糸守)千年の歴史が刻まれとる
   words:
-    - word: わし
-      position: 0
-    - word: ら
-      base: 等
-      position: 2
-    - word: の
-      position: 3
-    - word: 組紐
-      base: 組み紐
-      position: 4
-    - word: に
-      position: 6
-    - word: は
-      position: 7
-    - word: な
-      position: 8
     - word: 糸
       position: 11
       tags:
@@ -410,27 +187,6 @@
       position: 12
       tags:
         - silent
-    - word: 千
-      base: '1000'
-      position: 14
-    - word: 年
-      position: 15
-    - word: の
-      position: 16
-    - word: 歴史
-      position: 17
-    - word: が
-      position: 19
-    - word: 刻ま
-      base: 刻む
-      dictionary: 刻む
-      position: 20
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 22
-    - word: とる
-      position: 23
 - id: A-YourName118
   deck_name: Your Name
   translation: >-
@@ -439,15 +195,6 @@
   sound: Anime_-_YourName_1_0.12.52.040-0.12.59.170.mp3
   sentence: ぞうり屋の山崎(繭五郎)の風呂場から火が出て　この辺は丸焼けになってまった
   words:
-    - word: ぞうり
-      base: 草履
-      position: 0
-    - word: 屋
-      position: 3
-    - word: の
-      position: 4
-    - word: 山崎
-      position: 5
     - word: 繭
       position: 8
       tags:
@@ -456,42 +203,6 @@
       position: 9
       tags:
         - silent
-    - word: の
-      position: 12
-    - word: 風呂場
-      position: 13
-    - word: から
-      position: 16
-    - word: 火
-      position: 18
-    - word: が
-      position: 19
-    - word: 出
-      base: 出る
-      dictionary: 出る
-      position: 20
-    - word: て
-      position: 21
-    - word: この
-      base: 此の
-      position: 23
-    - word: 辺
-      position: 25
-    - word: は
-      position: 26
-    - word: 丸焼け
-      position: 27
-    - word: に
-      position: 30
-    - word: なっ
-      base: 成る
-      dictionary: なる
-      position: 31
-    - word: て
-      position: 33
-    - word: まった
-      base: 又
-      position: 34
 - id: A-YourName121
   deck_name: Your Name
   translation: The Great Fire of Mayugorou. Right.
@@ -506,26 +217,12 @@
       position: 3
       tags:
         - silent
-    - word: の
-      position: 6
-    - word: 大火
-      position: 7
 - id: A-YourName122
   deck_name: Your Name
   translation: The fire's named after him? Bless his heart.
   sound: Anime_-_YourName_1_0.13.06.880-0.13.10.020.mp3
   sentence: 名前ついとるの？　(繭五郎)さんかわいそう
   words:
-    - word: 名前
-      position: 0
-    - word: つい
-      base: つく
-      dictionary: つく
-      position: 2
-    - word: とる
-      position: 4
-    - word: の
-      position: 6
     - word: 繭
       position: 10
       tags:
@@ -534,46 +231,16 @@
       position: 11
       tags:
         - silent
-    - word: さん
-      position: 14
-    - word: かわいそう
-      base: 可哀想
-      position: 16
 - id: A-YourName125
   deck_name: Your Name
   translation: Here at Miyamizu Shrine, that's our solemn duty.
   sound: Anime_-_YourName_1_0.13.21.600-0.13.25.750.mp3
   sentence: それがわしら(宮水)神社の大切なお役目
   words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: が
-      position: 2
-    - word: わし
-      position: 3
-    - word: ら
-      base: 等
-      position: 5
     - word: 宮水
       position: 7
       tags:
         - silent
-    - word: 神社
-      position: 10
-    - word: の
-      position: 12
-    - word: 大切
-      position: 13
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 15
-    - word: お
-      base: 御
-      position: 16
-    - word: 役目
-      position: 17
 - id: A-YourName136
   deck_name: Your Name
   translation: Katsuhiko, work on the site this weekend.
@@ -584,25 +251,12 @@
       position: 1
       tags:
         - silent
-    - word: 週末
-      position: 5
-    - word: は
-      position: 7
-    - word: 現場
-      position: 8
-    - word: 手伝え
-      base: 手伝う
-      dictionary: 手伝う
-      position: 10
 - id: A-YourName141
   deck_name: Your Name
   translation: Is that Yotsuha? She's all grown up.
   sound: Anime_-_YourName_1_0.14.49.700-0.14.53.060.mp3
   sentence: ありゃ(四葉)ちゃんか　大きゅうなったな
   words:
-    - word: ありゃ
-      base: 彼れ
-      position: 0
     - word: 四
       base: '4'
       position: 4
@@ -612,48 +266,16 @@
       position: 5
       tags:
         - silent
-    - word: ちゃん
-      position: 7
-    - word: か
-      position: 10
-    - word: 大きゅう
-      base: 大きい
-      dictionary: 大きい
-      position: 12
-    - word: なっ
-      base: 成る
-      dictionary: なる
-      position: 16
-    - word: た
-      position: 18
-    - word: な
-      position: 19
 - id: A-YourName150
   deck_name: Your Name
   translation: Hey, look. It's Miyamizu.
   sound: Anime_-_YourName_1_0.15.49.500-0.15.51.600.mp3
   sentence: ほれ　見てみい　(宮水)や
   words:
-    - word: ほれ
-      position: 0
-    - word: 見
-      base: 見る
-      dictionary: 見る
-      position: 3
-    - word: て
-      position: 4
-    - word: み
-      base: 見る
-      dictionary: みる
-      position: 5
-    - word: い
-      position: 6
     - word: 宮水
       position: 9
       tags:
         - silent
-    - word: や
-      position: 12
 - id: A-YourName172
   deck_name: Your Name
   translation: Taki! Are you up?
@@ -665,29 +287,16 @@
       position: 1
       tags:
         - silent
-    - word: 起き
-      base: 起きる
-      dictionary: 起きる
-      position: 4
-    - word: た
-      position: 6
-    - word: か
-      position: 7
 - id: A-YourName180
   deck_name: Your Name
   translation: What? Who's it from? Tsukasa? Who's that?
   sound: Anime_-_YourName_1_0.19.03.950-0.19.07.250.mp3
   sentence: なになに　(ツカサ)？ 誰
   words:
-    - word: なになに
-      base: 何々
-      position: 0
     - word: ツカサ
       position: 6
       tags:
         - silent
-    - word: 誰
-      position: 12
 - id: A-YourName200
   deck_name: Your Name
   translation: Where's your lunch?
@@ -699,34 +308,17 @@
       position: 1
       tags:
         - silent
-    - word: 弁当
-      position: 4
-    - word: は
-      position: 6
 - id: A-YourName207
   deck_name: Your Name
   translation: Oh yeah? Sure. Taki, you coming?
   sound: Anime_-_YourName_1_0.21.59.200-0.22.01.490.mp3
   sentence: ああ　例の　いいね　(瀧)は？
   words:
-    - word: ああ
-      position: 0
-    - word: 例
-      position: 3
-    - word: の
-      position: 4
-    - word: いい
-      base: 良い
-      position: 6
-    - word: ね
-      position: 8
     - word: 瀧
       base: 滝
       position: 11
       tags:
         - silent
-    - word: は
-      position: 13
 - id: A-YourName211
   deck_name: Your Name
   translation: Taki, you know what you want?
@@ -743,26 +335,12 @@
       position: 3
       tags:
         - silent
-    - word: 決まっ
-      base: 決まる
-      dictionary: 決まる
-      position: 6
-    - word: た
-      position: 9
 - id: A-YourName223
   deck_name: Your Name
   translation: Table 12! Taki!
   sound: Anime_-_YourName_1_0.23.06.630-0.23.07.990.mp3
   sentence: １２番テーブル　(瀧)
   words:
-    - word: １２
-      base: '12'
-      dictionary: '12'
-      position: 0
-    - word: 番
-      position: 2
-    - word: テーブル
-      position: 3
     - word: 瀧
       base: 滝
       position: 9
@@ -779,24 +357,6 @@
       position: 1
       tags:
         - silent
-    - word: トリュフ
-      position: 4
-    - word: は
-      position: 8
-    - word: 品切れ
-      position: 9
-    - word: だ
-      position: 12
-    - word: って
-      position: 13
-    - word: 言っ
-      base: 言う
-      dictionary: 言う
-      position: 15
-    - word: たろう
-      base: た
-      dictionary: た
-      position: 17
 - id: A-YourName229
   deck_name: Your Name
   translation: Taki, can't hear you!
@@ -808,16 +368,6 @@
       position: 1
       tags:
         - silent
-    - word: 声
-      position: 4
-    - word: が
-      position: 5
-    - word: 小せえ
-      base: 小さい
-      dictionary: 小さい
-      position: 6
-    - word: よ
-      position: 9
 - id: A-YourName249
   deck_name: Your Name
   translation: Ms. Okudera. Thanks for–
@@ -828,12 +378,6 @@
       position: 1
       tags:
         - silent
-    - word: 先輩
-      position: 4
-    - word: さっき
-      position: 7
-    - word: は
-      position: 10
 - id: A-YourName254
   deck_name: Your Name
   translation: Okudera, your skirt!
@@ -844,21 +388,12 @@
       position: 1
       tags:
         - silent
-    - word: さん
-      position: 4
-    - word: その
-      base: 其の
-      position: 7
-    - word: スカート
-      position: 9
 - id: A-YourName258
   deck_name: Your Name
   translation: Hey, Taki!
   sound: Anime_-_YourName_1_0.24.56.910-0.24.57.950.mp3
   sentence: おい　(瀧)
   words:
-    - word: おい
-      position: 0
     - word: 瀧
       base: 滝
       position: 4
@@ -875,12 +410,6 @@
       position: 1
       tags:
         - silent
-    - word: くん
-      base: 君
-      position: 3
-    - word: すごい
-      base: 凄い
-      position: 6
 - id: A-YourName267
   deck_name: Your Name
   translation: You're weak, but you're always so quick to snap.
@@ -892,55 +421,17 @@
       position: 1
       tags:
         - silent
-    - word: くん
-      base: 君
-      position: 3
-    - word: 弱い
-      position: 6
-    - word: くせ
-      base: 癖
-      position: 8
-    - word: に
-      position: 10
-    - word: ケンカ
-      base: 喧嘩
-      position: 12
-    - word: っぱやい
-      base: 早い
-      position: 15
-    - word: から
-      position: 19
 - id: A-YourName269
   deck_name: Your Name
   translation: Never would have thought you had a feminine side.
   sound: Anime_-_YourName_1_0.25.37.310-0.25.40.330.mp3
   sentence: 女子力高いんだねえ　(瀧)くんて
   words:
-    - word: 女子
-      position: 0
-    - word: 力
-      position: 2
-    - word: 高い
-      position: 3
-    - word: ん
-      base: の
-      position: 5
-    - word: だ
-      position: 6
-    - word: ねえ
-      base: ね
-      position: 7
     - word: 瀧
       base: 滝
       position: 11
       tags:
         - silent
-    - word: くん
-      base: くむ
-      dictionary: くむ
-      position: 13
-    - word: て
-      position: 15
 - id: A-YourName281
   deck_name: Your Name
   translation: Tsukasa, did you prank my phone and...
@@ -951,83 +442,27 @@
       position: 1
       tags:
         - silent
-    - word: もし
-      base: 若し
-      position: 4
-    - word: か
-      position: 6
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 7
-    - word: て
-      position: 8
-    - word: 前
-      position: 9
-    - word: か
-      position: 10
-    - word: 俺
-      position: 12
-    - word: の
-      position: 13
-    - word: 携帯
-      position: 14
-    - word: 勝手
-      position: 16
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 18
 - id: A-YourName287
   deck_name: Your Name
   translation: Taki, you scumbag—you tried to outdo us!
   sound: Anime_-_YourName_1_0.27.46.010-0.27.48.550.mp3
   sentence: てめえ　(瀧)　抜けがけしやがって
   words:
-    - word: てめえ
-      base: てまえ
-      position: 0
     - word: 瀧
       base: 滝
       position: 5
       tags:
         - silent
-    - word: 抜けがけ
-      base: 抜け駆け
-      position: 8
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 12
-    - word: やがっ
-      base: やがる
-      dictionary: やがる
-      position: 13
-    - word: て
-      position: 16
 - id: A-YourName289
   deck_name: Your Name
   translation: Did I really? With Okudera?
   sound: Anime_-_YourName_1_0.27.52.950-0.27.55.620.mp3
   sentence: まさかマジで　(奥寺)先輩と？
   words:
-    - word: まさか
-      position: 0
-    - word: マジ
-      base: まじ
-      position: 3
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 5
     - word: 奥寺
       position: 8
       tags:
         - silent
-    - word: 先輩
-      position: 11
-    - word: と
-      position: 13
 - id: A-YourName293
   deck_name: Your Name
   translation: Okudera, coming through!
@@ -1038,21 +473,12 @@
       position: 1
       tags:
         - silent
-    - word: 入り
-      base: 入る
-      dictionary: 入る
-      position: 5
-    - word: ます
-      position: 7
 - id: A-YourName297
   deck_name: Your Name
   translation: Right, Taki?
   sound: Anime_-_YourName_1_0.28.11.300-0.28.13.080.mp3
   sentence: ねっ　(たーき)くん
   words:
-    - word: ねっ
-      base: ねえ
-      position: 0
     - word: たー
       base: た
       dictionary: た
@@ -1063,9 +489,6 @@
       position: 6
       tags:
         - silent
-    - word: くん
-      base: 君
-      position: 8
 - id: A-YourName316
   deck_name: Your Name
   translation: Taki is a boy my age living in Tokyo.
@@ -1077,43 +500,12 @@
       position: 1
       tags:
         - silent
-    - word: くん
-      base: 君
-      position: 3
-    - word: は
-      position: 5
-    - word: 東京
-      position: 6
-    - word: に
-      position: 8
-    - word: 住む
-      position: 9
-    - word: 同い年
-      position: 11
-    - word: の
-      position: 14
-    - word: 高校
-      position: 15
-    - word: 生
-      position: 17
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 18
 - id: A-YourName317
   deck_name: Your Name
   translation: I switch with Mitsuha at random, a few times every week.
   sound: Anime_-_YourName_1_0.30.34.610-0.30.39.650.mp3
   sentence: ど田舎暮らしの(三葉)との入れ替わりは不定期で　週に二三度　ふいに訪れる
   words:
-    - word: ど
-      position: 0
-    - word: 田舎
-      position: 1
-    - word: 暮らし
-      position: 3
-    - word: の
-      position: 6
     - word: 三
       base: '3'
       position: 8
@@ -1123,74 +515,22 @@
       position: 9
       tags:
         - silent
-    - word: と
-      position: 11
-    - word: の
-      position: 12
-    - word: 入れ替わり
-      position: 13
-    - word: は
-      position: 18
-    - word: 不
-      position: 19
-    - word: 定期
-      position: 20
-    - word: で
-      position: 22
-    - word: 週
-      position: 24
-    - word: に
-      position: 25
-    - word: 二三
-      base: '23'
-      position: 26
-    - word: 度
-      position: 28
-    - word: ふい
-      base: 不意
-      position: 30
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 32
-    - word: 訪れる
-      position: 33
 - id: A-YourName335
   deck_name: Your Name
   translation: Grabbed coffee with Okudera.
   sound: Anime_-_YourName_1_0.32.14.940-0.32.17.290.mp3
   sentence: 今日は帰り道に(奥寺)先輩とお茶
   words:
-    - word: 今日
-      position: 0
-    - word: は
-      position: 2
-    - word: 帰り道
-      position: 3
-    - word: に
-      position: 6
     - word: 奥寺
       position: 8
       tags:
         - silent
-    - word: 先輩
-      position: 11
-    - word: と
-      position: 13
-    - word: お
-      base: 御
-      position: 14
-    - word: 茶
-      position: 15
 - id: A-YourName337
   deck_name: Your Name
   translation: Don't mess with my relationships, you witch!
   sound: Anime_-_YourName_1_0.32.19.410-0.32.22.920.mp3
   sentence: てめえ　(三葉)　俺の人間関係変えるなよ
   words:
-    - word: てめえ
-      base: てまえ
-      position: 0
     - word: 三
       base: '3'
       position: 5
@@ -1200,62 +540,17 @@
       position: 6
       tags:
         - silent
-    - word: 俺
-      position: 9
-    - word: の
-      position: 10
-    - word: 人間
-      position: 11
-    - word: 関係
-      position: 13
-    - word: 変える
-      position: 15
-    - word: な
-      position: 18
-    - word: よ
-      position: 19
 - id: A-YourName338
   deck_name: Your Name
   translation: Taki, why exactly is a girl confessing to me?
   sound: Anime_-_YourName_1_0.32.22.920-0.32.26.650.mp3
   sentence: ちょっと　(瀧)くん なんで女子に告白されてんの
   words:
-    - word: ちょっと
-      base: 一寸
-      position: 0
     - word: 瀧
       base: 滝
       position: 6
       tags:
         - silent
-    - word: くん
-      base: 君
-      position: 8
-    - word: なん
-      base: 何
-      position: 11
-    - word: で
-      position: 13
-    - word: 女子
-      position: 14
-    - word: に
-      position: 16
-    - word: 告白
-      position: 17
-    - word: さ
-      base: 為る
-      dictionary: する
-      position: 19
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 20
-    - word: てん
-      base: てる
-      dictionary: てる
-      position: 21
-    - word: の
-      position: 23
 - id: A-YourName350
   deck_name: Your Name
   translation: I don't know myself, thanks to Mayugorou.
@@ -1270,26 +565,6 @@
       position: 2
       tags:
         - silent
-    - word: の
-      position: 5
-    - word: せい
-      position: 6
-    - word: で
-      position: 8
-    - word: わし
-      position: 9
-    - word: に
-      position: 11
-    - word: も
-      position: 12
-    - word: 分から
-      base: 分かる
-      dictionary: 分かる
-      position: 13
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 16
 - id: A-YourName355
   deck_name: Your Name
   translation: Mitsuha, Yotsuha, do you know what "musubi" means?
@@ -1314,51 +589,22 @@
       position: 7
       tags:
         - silent
-    - word: ムスビ
-      base: 結び
-      position: 10
-    - word: って
-      position: 13
-    - word: 知っ
-      base: 知る
-      dictionary: 知る
-      position: 15
-    - word: とる
-      position: 17
-    - word: か
-      position: 19
 - id: A-YourName374
   deck_name: Your Name
   translation: So it's up here. The body of the god of Miyamizu Shrine.
   sound: Anime_-_YourName_1_0.35.42.810-0.35.47.240.mp3
   sentence: ここが(宮水)神社のご神体
   words:
-    - word: ここ
-      base: 此処
-      position: 0
-    - word: が
-      position: 2
     - word: 宮水
       position: 4
       tags:
         - silent
-    - word: 神社
-      position: 7
-    - word: の
-      position: 9
-    - word: ご
-      base: 御
-      position: 10
-    - word: 神体
-      position: 11
 - id: A-YourName388
   deck_name: Your Name
   translation: ''
   sound: Anime_-_YourName_1_0.37.20.270-0.37.28.650.mp3
   sentence: おや (三葉) あんた今　夢を見とるなあ
   words:
-    - word: おや
-      position: 0
     - word: 三
       base: '3'
       position: 4
@@ -1368,25 +614,6 @@
       position: 5
       tags:
         - silent
-    - word: あんた
-      base: 貴方
-      position: 8
-    - word: 今
-      position: 11
-    - word: 夢
-      position: 13
-    - word: を
-      position: 14
-    - word: 見
-      base: 見る
-      dictionary: 見る
-      position: 15
-    - word: とる
-      base: 取る
-      position: 16
-    - word: なあ
-      base: な
-      position: 18
 - id: A-YourName390
   deck_name: Your Name
   translation: Okudera?
@@ -1397,19 +624,12 @@
       position: 1
       tags:
         - silent
-    - word: 先輩
-      position: 4
 - id: A-YourName392
   deck_name: Your Name
   translation: What did Mitsuha do this time?
   sound: Anime_-_YourName_1_0.37.50.490-0.37.52.400.mp3
   sentence: まさかまた(三葉)が…
   words:
-    - word: まさか
-      position: 0
-    - word: また
-      base: 又
-      position: 3
     - word: 三
       base: '3'
       position: 6
@@ -1419,8 +639,6 @@
       position: 7
       tags:
         - silent
-    - word: が
-      position: 9
 - id: A-YourName395
   deck_name: Your Name
   translation: Taki.
@@ -1437,9 +655,6 @@
       position: 3
       tags:
         - silent
-    - word: くん
-      base: 君
-      position: 5
 - id: A-YourName408
   deck_name: Your Name
   translation: Taki.
@@ -1451,13 +666,6 @@
       position: 1
       tags:
         - silent
-    - word: くん
-      base: 君
-      position: 3
-    - word: って
-      position: 5
-    - word: さ
-      position: 7
 - id: A-YourName414
   deck_name: Your Name
   translation: Taki, you— Forgive me if I'm wrong, okay?
@@ -1469,57 +677,22 @@
       position: 1
       tags:
         - silent
-    - word: くん
-      base: 君
-      position: 3
-    - word: って
-      position: 5
-    - word: 違っ
-      base: 違う
-      dictionary: 違う
-      position: 8
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 10
-    - word: たら
-      base: た
-      dictionary: た
-      position: 11
-    - word: ごめん
-      base: 御免
-      position: 13
-    - word: ね
-      position: 16
 - id: A-YourName425
   deck_name: Your Name
   translation: Oh, it's you, Tessie.
   sound: Anime_-_YourName_1_0.42.05.020-0.42.07.250.mp3
   sentence: なんだ　(テッシー)か
   words:
-    - word: なん
-      base: 何
-      position: 0
-    - word: だ
-      position: 2
     - word: テッシー
       position: 5
       tags:
         - silent
-    - word: か
-      position: 10
 - id: A-YourName430
   deck_name: Your Name
   translation: Admit it. You just want to see her in a yukata.
   sound: Anime_-_YourName_1_0.42.29.730-0.42.33.300.mp3
   sentence: あんたさあ　(三葉)の浴衣　期待しとるやろ
   words:
-    - word: あんた
-      base: 貴方
-      position: 0
-    - word: さあ
-      base: さ
-      position: 3
     - word: 三
       base: '3'
       position: 7
@@ -1529,42 +702,12 @@
       position: 8
       tags:
         - silent
-    - word: の
-      position: 10
-    - word: 浴衣
-      position: 11
-    - word: 期待
-      position: 14
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 16
-    - word: とる
-      position: 17
-    - word: やろ
-      base: や
-      dictionary: や
-      position: 19
 - id: A-YourName439
   deck_name: Your Name
   translation: Oh, gosh. Mitsuha, what happened?
   sound: Anime_-_YourName_1_0.42.49.910-0.42.52.520.mp3
   sentence: ちょっとどしたの　(三葉)
   words:
-    - word: ちょっと
-      base: 一寸
-      position: 0
-    - word: ど
-      base: どう
-      position: 4
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 5
-    - word: た
-      position: 6
-    - word: の
-      position: 7
     - word: 三
       base: '3'
       position: 10
@@ -1580,23 +723,10 @@
   sound: Anime_-_YourName_1_0.46.38.100-0.46.39.530.mp3
   sentence: バイトは(高木)に頼んだ
   words:
-    - word: バイト
-      position: 0
-    - word: は
-      position: 3
     - word: 高木
       position: 5
       tags:
         - silent
-    - word: に
-      position: 8
-    - word: 頼ん
-      base: 頼む
-      dictionary: 頼む
-      position: 9
-    - word: だ
-      base: た
-      position: 11
 - id: A-YourName460
   deck_name: Your Name
   translation: You're meeting an online friend, right?
@@ -1608,44 +738,12 @@
       position: 1
       tags:
         - silent
-    - word: くん
-      base: 君
-      position: 3
-    - word: メル友
-      position: 6
-    - word: に
-      position: 9
-    - word: 会い
-      base: 会う
-      dictionary: 会う
-      position: 10
-    - word: に
-      position: 12
-    - word: 行く
-      position: 13
-    - word: ん
-      base: の
-      position: 15
-    - word: だ
-      position: 16
-    - word: って
-      position: 17
 - id: A-YourName467
   deck_name: Your Name
   translation: So I decided to go see Mitsuha in person.
   sound: Anime_-_YourName_1_0.47.12.300-0.47.16.810.mp3
   sentence: だから俺は直接　(三葉)に会いに行くことにした
   words:
-    - word: だ
-      position: 0
-    - word: から
-      position: 1
-    - word: 俺
-      position: 3
-    - word: は
-      position: 4
-    - word: 直接
-      position: 5
     - word: 三
       base: '3'
       position: 9
@@ -1655,26 +753,6 @@
       position: 10
       tags:
         - silent
-    - word: に
-      position: 12
-    - word: 会い
-      base: 会う
-      dictionary: 会う
-      position: 13
-    - word: に
-      position: 15
-    - word: 行く
-      position: 16
-    - word: こと
-      position: 18
-    - word: に
-      position: 20
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 21
-    - word: た
-      position: 22
 - id: A-YourName481
   deck_name: Your Name
   translation: A Takayama ramen for me!
@@ -1685,15 +763,6 @@
       position: 1
       tags:
         - silent
-    - word: ラーメン
-      position: 4
-    - word: 一
-      base: '1'
-      position: 8
-    - word: つ
-      position: 9
-    - word: と
-      position: 10
 - id: A-YourName482
   deck_name: Your Name
   translation: A Takayama ramen for me.
@@ -1704,38 +773,16 @@
       position: 1
       tags:
         - silent
-    - word: ラーメン
-      position: 4
-    - word: 一
-      base: '1'
-      position: 8
-    - word: つ
-      position: 9
-    - word: と
-      position: 10
 - id: A-YourName483
   deck_name: Your Name
   translation: One for me too, then.
   sound: Anime_-_YourName_1_0.48.34.650-0.48.36.430.mp3
   sentence: あ　じゃあ(高山)ラーメン一つ
   words:
-    - word: あ
-      base: あー
-      position: 0
-    - word: じゃあ
-      base: で
-      position: 2
     - word: 高山
       position: 6
       tags:
         - silent
-    - word: ラーメン
-      position: 9
-    - word: 一
-      base: '1'
-      position: 13
-    - word: つ
-      position: 14
 - id: A-YourName489
   deck_name: Your Name
   translation: Taki, are you sure that's all right?
@@ -1747,36 +794,12 @@
       position: 1
       tags:
         - silent
-    - word: くん
-      base: 君
-      position: 3
-    - word: それ
-      base: 其れ
-      position: 6
-    - word: で
-      position: 8
-    - word: いい
-      base: 良い
-      position: 9
-    - word: の
-      position: 11
 - id: A-YourName491
   deck_name: Your Name
   translation: Why, young man, that's Itomori, ain't it?
   sound: Anime_-_YourName_1_0.49.01.770-0.49.05.310.mp3
   sentence: おや　おにいちゃん　それ(糸守)やろ
   words:
-    - word: おや
-      position: 0
-    - word: お
-      base: 御
-      position: 3
-    - word: にいちゃん
-      base: 兄ちゃん
-      position: 4
-    - word: それ
-      base: 其れ
-      position: 10
     - word: 糸
       position: 13
       tags:
@@ -1785,18 +808,12 @@
       position: 14
       tags:
         - silent
-    - word: やろ
-      base: や
-      dictionary: や
-      position: 16
 - id: A-YourName494
   deck_name: Your Name
   translation: Yeah, it's Itomori, all right.
   sound: Anime_-_YourName_1_0.49.11.550-0.49.13.550.mp3
   sentence: ああ　(糸守)やな
   words:
-    - word: ああ
-      position: 0
     - word: 糸
       position: 4
       tags:
@@ -1805,23 +822,12 @@
       position: 5
       tags:
         - silent
-    - word: や
-      position: 7
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 8
 - id: A-YourName496
   deck_name: Your Name
   translation: He was born there, y'see.
   sound: Anime_-_YourName_1_0.49.15.230-0.49.17.060.mp3
   sentence: この人　(糸守)出身やで
   words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: 人
-      position: 2
     - word: 糸
       position: 5
       tags:
@@ -1830,24 +836,12 @@
       position: 6
       tags:
         - silent
-    - word: 出身
-      position: 8
-    - word: や
-      position: 10
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 11
 - id: A-YourName497
   deck_name: Your Name
   translation: Yeah, Itomori!
   sound: Anime_-_YourName_1_0.49.20.780-0.49.23.090.mp3
   sentence: そうだ　(糸守)町
   words:
-    - word: そう
-      position: 0
-    - word: だ
-      position: 2
     - word: 糸
       position: 5
       tags:
@@ -1856,8 +850,6 @@
       position: 6
       tags:
         - silent
-    - word: 町
-      position: 8
 - id: A-YourName500
   deck_name: Your Name
   translation: Itomori was...
@@ -1872,101 +864,34 @@
       position: 2
       tags:
         - silent
-    - word: って
-      position: 4
-    - word: の
-      position: 6
-    - word: は
-      position: 7
 - id: A-YourName505
   deck_name: Your Name
   translation: Can't be, right? Taki must be misremembering.
   sound: Anime_-_YourName_1_0.50.27.020-0.50.30.880.mp3
   sentence: まさか　だから(瀧)の勘違いっすよ
   words:
-    - word: まさか
-      position: 0
-    - word: だ
-      position: 4
-    - word: から
-      position: 5
     - word: 瀧
       base: 滝
       position: 8
       tags:
         - silent
-    - word: の
-      position: 10
-    - word: 勘違い
-      position: 11
-    - word: っす
-      position: 14
-    - word: よ
-      position: 16
 - id: A-YourName511
   deck_name: Your Name
   translation: It's only three years since the disaster. Hundreds of people died. Remember?
   sound: Anime_-_YourName_1_0.50.42.390-0.50.47.490.mp3
   sentence: 三年前に何百人が死んだあの災害　(瀧)だって覚えてるだろ
   words:
-    - word: 三
-      base: '3'
-      position: 0
-    - word: 年
-      position: 1
-    - word: 前
-      position: 2
-    - word: に
-      position: 3
-    - word: 何百
-      position: 4
-    - word: 人
-      position: 6
-    - word: が
-      position: 7
-    - word: 死ん
-      base: 死ぬ
-      dictionary: 死ぬ
-      position: 8
-    - word: だ
-      base: た
-      position: 10
-    - word: あの
-      base: 彼の
-      position: 11
-    - word: 災害
-      position: 13
     - word: 瀧
       base: 滝
       position: 17
       tags:
         - silent
-    - word: だ
-      position: 19
-    - word: って
-      position: 20
-    - word: 覚え
-      base: 覚える
-      dictionary: 覚える
-      position: 22
-    - word: てる
-      position: 24
-    - word: だろ
-      base: だ
-      dictionary: だ
-      position: 26
 - id: A-YourName522
   deck_name: Your Name
   translation: And now, no one lives in the town at all.
   sound: Anime_-_YourName_1_0.52.16.350-0.52.20.320.mp3
   sentence: 今はもう(糸守)には誰も住んでいないそうだ
   words:
-    - word: 今
-      position: 0
-    - word: は
-      position: 1
-    - word: もう
-      position: 2
     - word: 糸
       position: 5
       tags:
@@ -1975,30 +900,6 @@
       position: 6
       tags:
         - silent
-    - word: に
-      position: 8
-    - word: は
-      position: 9
-    - word: 誰
-      position: 10
-    - word: も
-      position: 11
-    - word: 住ん
-      base: 住む
-      dictionary: 住む
-      position: 12
-    - word: で
-      position: 14
-    - word: い
-      base: 居る
-      dictionary: いる
-      position: 15
-    - word: ない
-      position: 16
-    - word: そう
-      position: 18
-    - word: だ
-      position: 20
 - id: A-YourName534
   deck_name: Your Name
   translation: How's Taki?
@@ -2010,24 +911,12 @@
       position: 1
       tags:
         - silent
-    - word: くん
-      base: 君
-      position: 3
-    - word: は
-      position: 5
 - id: A-YourName535
   deck_name: Your Name
   translation: He's still reading up on Itomori.
   sound: Anime_-_YourName_1_0.53.23.130-0.53.26.400.mp3
   sentence: まだ部屋で(糸守)の記事を読んでます
   words:
-    - word: まだ
-      base: 未だ
-      position: 0
-    - word: 部屋
-      position: 2
-    - word: で
-      position: 4
     - word: 糸
       position: 6
       tags:
@@ -2036,43 +925,17 @@
       position: 7
       tags:
         - silent
-    - word: の
-      position: 9
-    - word: 記事
-      position: 10
-    - word: を
-      position: 12
-    - word: 読ん
-      base: 読む
-      dictionary: 読む
-      position: 13
-    - word: で
-      base: てる
-      dictionary: でる
-      position: 15
-    - word: ます
-      position: 16
 - id: A-YourName542
   deck_name: Your Name
   translation: The way he was recently.
   sound: Anime_-_YourName_1_0.53.51.760-0.53.53.460.mp3
   sentence: ここ最近の(瀧)くん
   words:
-    - word: ここ
-      base: 此処
-      position: 0
-    - word: 最近
-      position: 2
-    - word: の
-      position: 4
     - word: 瀧
       base: 滝
       position: 6
       tags:
         - silent
-    - word: くん
-      base: 君
-      position: 8
 - id: A-YourName545
   deck_name: Your Name
   translation: Taki's saying some things that are more than I can handle.
@@ -2084,74 +947,17 @@
       position: 1
       tags:
         - silent
-    - word: くん
-      base: 君
-      position: 3
-    - word: の
-      position: 5
-    - word: 言っ
-      base: 言う
-      dictionary: 言う
-      position: 6
-    - word: てる
-      position: 8
-    - word: こと
-      position: 10
-    - word: は
-      position: 12
-    - word: やっぱり
-      base: 矢張り
-      position: 13
-    - word: おかしい
-      base: 可笑しい
-      position: 17
-    - word: と
-      position: 21
-    - word: は
-      position: 22
-    - word: 思う
-      position: 23
-    - word: けど
-      base: けれど
-      position: 25
 - id: A-YourName546
   deck_name: Your Name
   translation: But I'm sure he met someone, and that someone changed him.
   sound: Anime_-_YourName_1_0.54.08.720-0.54.12.140.mp3
   sentence: でもきっと(瀧)くんは誰かに出会って
   words:
-    - word: で
-      position: 0
-    - word: も
-      position: 1
-    - word: きっと
-      position: 2
     - word: 瀧
       base: 滝
       position: 6
       tags:
         - silent
-    - word: くん
-      base: 君
-      position: 8
-    - word: は
-      position: 10
-    - word: 誰
-      position: 11
-    - word: か
-      position: 12
-    - word: に
-      position: 13
-    - word: 出
-      base: 出る
-      dictionary: 出る
-      position: 14
-    - word: 会っ
-      base: 会う
-      dictionary: 会う
-      position: 15
-    - word: て
-      position: 17
 - id: A-YourName559
   deck_name: Your Name
   translation: That one on your wrist. Is that a braided cord?
@@ -2163,65 +969,17 @@
       position: 1
       tags:
         - silent
-    - word: くん
-      base: 君
-      position: 3
-    - word: の
-      position: 5
-    - word: それ
-      base: 其れ
-      position: 6
-    - word: も
-      position: 8
-    - word: もし
-      base: 若し
-      position: 10
-    - word: か
-      position: 12
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 13
-    - word: て
-      position: 14
-    - word: 組紐
-      base: 組み紐
-      position: 15
 - id: A-YourName563
   deck_name: Your Name
   translation: Why don't you go take a bath, too?
   sound: Anime_-_YourName_1_0.55.46.120-0.55.49.260.mp3
   sentence: お風呂　(瀧)くんも入ってきたら
   words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 風呂
-      position: 1
     - word: 瀧
       base: 滝
       position: 5
       tags:
         - silent
-    - word: くん
-      base: 君
-      position: 7
-    - word: も
-      position: 9
-    - word: 入っ
-      base: 入る
-      dictionary: 入る
-      position: 10
-    - word: て
-      position: 12
-    - word: き
-      base: 来る
-      dictionary: くる
-      position: 13
-    - word: たら
-      base: た
-      dictionary: た
-      position: 14
 - id: A-YourName571
   deck_name: Your Name
   translation: Taki...
@@ -2233,26 +991,12 @@
       position: 1
       tags:
         - silent
-    - word: くん
-      base: 君
-      position: 3
 - id: A-YourName573
   deck_name: Your Name
   translation: That picture of Itomori you made... That was good.
   sound: Anime_-_YourName_1_0.57.37.610-0.57.41.390.mp3
   sentence: あんたの描いた(糸守)　あらあよかった
   words:
-    - word: あんた
-      base: 貴方
-      position: 0
-    - word: の
-      position: 3
-    - word: 描い
-      base: 描く
-      dictionary: 描く
-      position: 4
-    - word: た
-      position: 6
     - word: 糸
       position: 8
       tags:
@@ -2261,15 +1005,6 @@
       position: 9
       tags:
         - silent
-    - word: あらあ
-      base: あら
-      position: 12
-    - word: よかっ
-      base: 良い
-      dictionary: よい
-      position: 15
-    - word: た
-      position: 18
 - id: A-YourName586
   deck_name: Your Name
   translation: Mitsuha, you can't stay.
@@ -2285,23 +1020,6 @@
       position: 2
       tags:
         - silent
-    - word: そこ
-      base: 其処
-      position: 5
-    - word: に
-      position: 7
-    - word: い
-      base: 居る
-      dictionary: いる
-      position: 8
-    - word: ちゃ
-      base: て
-      position: 9
-    - word: ダメ
-      base: 駄目
-      position: 11
-    - word: だ
-      position: 13
 - id: A-YourName587
   deck_name: Your Name
   translation: Mitsuha, get out of there before the comet strikes!
@@ -2317,27 +1035,6 @@
       position: 2
       tags:
         - silent
-    - word: 彗星
-      position: 5
-    - word: が
-      position: 7
-    - word: 落ちる
-      position: 8
-    - word: 前
-      position: 11
-    - word: に
-      position: 12
-    - word: 町
-      position: 14
-    - word: から
-      position: 15
-    - word: 逃げる
-      position: 17
-    - word: ん
-      base: の
-      position: 20
-    - word: だ
-      position: 21
 - id: A-YourName588
   deck_name: Your Name
   translation: Mitsuha, run!
@@ -2353,10 +1050,6 @@
       position: 2
       tags:
         - silent
-    - word: 逃げろ
-      base: 逃げる
-      dictionary: 逃げる
-      position: 5
 - id: A-YourName589
   deck_name: Your Name
   translation: I'm Mitsuha. She's still alive.
@@ -2372,23 +1065,12 @@
       position: 2
       tags:
         - silent
-    - word: だ
-      position: 4
-    - word: 生き
-      base: 生きる
-      dictionary: 生きる
-      position: 6
-    - word: てる
-      position: 8
 - id: A-YourName597
   deck_name: Your Name
   translation: Mornin’, Mitsuha.
   sound: Anime_-_YourName_1_1.04.47.960-1.04.49.710.mp3
   sentence: おはよう　(三葉)
   words:
-    - word: おはよう
-      base: 御早う
-      position: 0
     - word: 三
       base: '3'
       position: 6
@@ -2404,9 +1086,6 @@
   sound: Anime_-_YourName_1_1.04.52.320-1.04.55.580.mp3
   sentence: あんた　(三葉)やないな
   words:
-    - word: あんた
-      base: 貴方
-      position: 0
     - word: 三
       base: '3'
       position: 5
@@ -2416,60 +1095,22 @@
       position: 6
       tags:
         - silent
-    - word: や
-      position: 8
-    - word: ない
-      base: 無い
-      position: 9
-    - word: な
-      position: 11
 - id: A-YourName609
   deck_name: Your Name
   translation: Maybe all the dreams by people in the Miyamizu lineage
   sound: Anime_-_YourName_1_1.05.32.710-1.05.36.460.mp3
   sentence: もしかしたら　(宮水)の人たちのその夢って
   words:
-    - word: もし
-      base: 若し
-      position: 0
-    - word: か
-      position: 2
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 3
-    - word: たら
-      base: た
-      dictionary: た
-      position: 4
     - word: 宮水
       position: 8
       tags:
         - silent
-    - word: の
-      position: 11
-    - word: 人
-      position: 12
-    - word: たち
-      base: 達
-      position: 13
-    - word: の
-      position: 15
-    - word: その
-      base: 其の
-      position: 16
-    - word: 夢
-      position: 18
-    - word: って
-      position: 19
 - id: A-YourName612
   deck_name: Your Name
   translation: A comet will strike Itomori tonight, and everyone's going to die.
   sound: Anime_-_YourName_1_1.05.42.750-1.05.48.210.mp3
   sentence: 今夜　(糸守)町に彗星が落ちて　みんな死ぬ
   words:
-    - word: 今夜
-      position: 0
     - word: 糸
       position: 4
       tags:
@@ -2478,44 +1119,12 @@
       position: 5
       tags:
         - silent
-    - word: 町
-      position: 7
-    - word: に
-      position: 8
-    - word: 彗星
-      position: 9
-    - word: が
-      position: 11
-    - word: 落ち
-      base: 落ちる
-      dictionary: 落ちる
-      position: 12
-    - word: て
-      position: 14
-    - word: みんな
-      base: 皆
-      position: 16
-    - word: 死ぬ
-      position: 19
 - id: A-YourName614
   deck_name: Your Name
   translation: Oh, gosh. Mitsuha, what happened?
   sound: Anime_-_YourName_1_1.06.04.510-1.06.07.150.mp3
   sentence: ちょっと　どうしたの　(三葉)
   words:
-    - word: ちょっと
-      base: 一寸
-      position: 0
-    - word: どう
-      position: 5
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 7
-    - word: た
-      position: 8
-    - word: の
-      position: 9
     - word: 三
       base: '3'
       position: 12
@@ -2535,23 +1144,12 @@
       position: 1
       tags:
         - silent
-    - word: ちゃん
-      position: 5
-    - word: 学校
-      position: 9
-    - word: は
-      position: 11
 - id: A-YourName625
   deck_name: Your Name
   translation: This is awesome, Tessie!
   sound: Anime_-_YourName_1_1.06.48.310-1.06.50.060.mp3
   sentence: すごいじゃん　(テッシー)
   words:
-    - word: すごい
-      base: 凄い
-      position: 0
-    - word: じゃん
-      position: 3
     - word: テッシー
       position: 8
       tags:
@@ -2562,11 +1160,6 @@
   sound: Anime_-_YourName_1_1.07.08.510-1.07.09.770.mp3
   sentence: ごめんね　(サヤちん)
   words:
-    - word: ごめん
-      base: 御免
-      position: 0
-    - word: ね
-      position: 3
     - word: サヤ
       base: 莢
       position: 6
@@ -2583,10 +1176,6 @@
   sound: Anime_-_YourName_1_1.07.49.370-1.07.51.020.mp3
   sentence: 放送は(サヤちん)担当ね
   words:
-    - word: 放送
-      position: 0
-    - word: は
-      position: 2
     - word: サヤ
       base: 莢
       position: 4
@@ -2597,10 +1186,6 @@
       position: 6
       tags:
         - silent
-    - word: 担当
-      position: 9
-    - word: ね
-      position: 11
 - id: A-YourName655
   deck_name: Your Name
   translation: Do you know how Lake Itomori was formed?
@@ -2615,46 +1200,12 @@
       position: 2
       tags:
         - silent
-    - word: 湖
-      position: 4
-    - word: が
-      position: 5
-    - word: どう
-      position: 6
-    - word: やっ
-      base: 遣る
-      dictionary: やる
-      position: 8
-    - word: て
-      position: 10
-    - word: でき
-      base: 出来る
-      dictionary: できる
-      position: 11
-    - word: た
-      position: 13
-    - word: か
-      position: 14
-    - word: 知っ
-      base: 知る
-      dictionary: 知る
-      position: 15
-    - word: とる
-      position: 17
-    - word: か
-      position: 19
 - id: A-YourName659
   deck_name: Your Name
   translation: You're right, Tessie!
   sound: Anime_-_YourName_1_1.08.27.490-1.08.29.570.mp3
   sentence: そうだよ　(テッシー)
   words:
-    - word: そう
-      position: 0
-    - word: だ
-      position: 2
-    - word: よ
-      position: 3
     - word: テッシー
       position: 6
       tags:
@@ -2665,20 +1216,10 @@
   sound: Anime_-_YourName_1_1.09.08.470-1.09.11.340.mp3
   sentence: 妄言は(宮水)の血筋か
   words:
-    - word: 妄言
-      position: 0
-    - word: は
-      position: 2
     - word: 宮水
       position: 4
       tags:
         - silent
-    - word: の
-      position: 7
-    - word: 血筋
-      position: 8
-    - word: か
-      position: 10
 - id: A-YourName685
   deck_name: Your Name
   translation: Could Mitsuha...
@@ -2694,10 +1235,6 @@
       position: 2
       tags:
         - silent
-    - word: なら
-      base: だ
-      dictionary: だ
-      position: 4
 - id: A-YourName686
   deck_name: Your Name
   translation: Could she have persuaded them?
@@ -2713,22 +1250,6 @@
       position: 2
       tags:
         - silent
-    - word: なら
-      base: だ
-      dictionary: だ
-      position: 4
-    - word: 説得
-      position: 6
-    - word: でき
-      base: 出来る
-      dictionary: できる
-      position: 8
-    - word: た
-      position: 10
-    - word: の
-      position: 11
-    - word: か
-      position: 12
 - id: A-YourName688
   deck_name: Your Name
   translation: Yotsuha, before nightfall, take Grandma and get out of town.
@@ -2744,45 +1265,12 @@
       position: 2
       tags:
         - silent
-    - word: 夕方
-      position: 5
-    - word: まで
-      position: 7
-    - word: に
-      position: 9
-    - word: お
-      base: 御
-      position: 10
-    - word: ばあ
-      base: 婆
-      position: 11
-    - word: ちゃん
-      position: 13
-    - word: と
-      position: 16
-    - word: 一緒
-      position: 17
-    - word: に
-      position: 19
-    - word: 町
-      position: 20
-    - word: から
-      position: 21
-    - word: 出
-      base: 出る
-      dictionary: 出る
-      position: 23
-    - word: て
-      position: 24
 - id: A-YourName694
   deck_name: Your Name
   translation: Hey, Mitsuha!
   sound: Anime_-_YourName_1_1.10.39.750-1.10.42.360.mp3
   sentence: おーい　(三葉)
   words:
-    - word: おーい
-      base: おおい
-      position: 0
     - word: 三
       base: '3'
       position: 5
@@ -2798,8 +1286,6 @@
   sound: Anime_-_YourName_1_1.10.48.940-1.10.50.460.mp3
   sentence: おい　(三葉)
   words:
-    - word: おい
-      position: 0
     - word: 三
       base: '3'
       position: 4
@@ -2819,25 +1305,12 @@
       position: 1
       tags:
         - silent
-    - word: 自転車
-      position: 7
-    - word: 貸し
-      base: 貸す
-      dictionary: 貸す
-      position: 10
-    - word: て
-      position: 12
 - id: A-YourName702
   deck_name: Your Name
   translation: Hey, what the... Mitsuha!
   sound: Anime_-_YourName_1_1.11.10.690-1.11.12.970.mp3
   sentence: ちょっと おい　(三葉)
   words:
-    - word: ちょっと
-      base: 一寸
-      position: 0
-    - word: おい
-      position: 5
     - word: 三
       base: '3'
       position: 9
@@ -2853,53 +1326,22 @@
   sound: Anime_-_YourName_1_1.11.46.160-1.11.48.240.mp3
   sentence: 私　(瀧)くんになっとる
   words:
-    - word: 私
-      position: 0
     - word: 瀧
       base: 滝
       position: 3
       tags:
         - silent
-    - word: くん
-      base: 君
-      position: 5
-    - word: に
-      position: 7
-    - word: なっ
-      base: 成る
-      dictionary: なる
-      position: 8
-    - word: とる
-      position: 10
 - id: A-YourName707
   deck_name: Your Name
   translation: What's Taki doing here?
   sound: Anime_-_YourName_1_1.11.51.370-1.11.53.850.mp3
   sentence: どうして(瀧)くんがここに
   words:
-    - word: どう
-      position: 0
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 2
-    - word: て
-      position: 3
     - word: 瀧
       base: 滝
       position: 5
       tags:
         - silent
-    - word: くん
-      base: 君
-      position: 7
-    - word: が
-      position: 9
-    - word: ここ
-      base: 此処
-      position: 10
-    - word: に
-      position: 12
 - id: A-YourName719
   deck_name: Your Name
   translation: Taki.
@@ -2911,9 +1353,6 @@
       position: 1
       tags:
         - silent
-    - word: くん
-      base: 君
-      position: 3
 - id: A-YourName720
   deck_name: Your Name
   translation: Taki.
@@ -2925,19 +1364,12 @@
       position: 1
       tags:
         - silent
-    - word: くん
-      base: 君
-      position: 3
 - id: A-YourName727
   deck_name: Your Name
   translation: My name is Mitsuha!
   sound: Anime_-_YourName_1_1.16.19.580-1.16.22.170.mp3
   sentence: 名前は　(三葉)
   words:
-    - word: 名前
-      position: 0
-    - word: は
-      position: 2
     - word: 三
       base: '3'
       position: 5
@@ -2958,9 +1390,6 @@
       position: 1
       tags:
         - silent
-    - word: くん
-      base: 君
-      position: 3
 - id: A-YourName729
   deck_name: Your Name
   translation: Taki!?
@@ -2972,9 +1401,6 @@
       position: 1
       tags:
         - silent
-    - word: くん
-      base: 君
-      position: 3
 - id: A-YourName731
   deck_name: Your Name
   translation: Taki!
@@ -2986,9 +1412,6 @@
       position: 1
       tags:
         - silent
-    - word: くん
-      base: 君
-      position: 3
 - id: A-YourName732
   deck_name: Your Name
   translation: Taki, where are you?
@@ -3000,11 +1423,6 @@
       position: 1
       tags:
         - silent
-    - word: くん
-      base: 君
-      position: 3
-    - word: どこ
-      position: 6
 - id: A-YourName733
   deck_name: Your Name
   translation: It's Mitsuha. I can hear her, but I can't...
@@ -3020,18 +1438,6 @@
       position: 2
       tags:
         - silent
-    - word: だ
-      position: 4
-    - word: 声
-      position: 7
-    - word: は
-      position: 8
-    - word: 聞こえる
-      position: 9
-    - word: の
-      position: 13
-    - word: に
-      position: 14
 - id: A-YourName734
   deck_name: Your Name
   translation: Taki, where are you? I know you're here!
@@ -3043,21 +1449,6 @@
       position: 1
       tags:
         - silent
-    - word: くん
-      base: 君
-      position: 3
-    - word: ねえ
-      base: 姉
-      position: 6
-    - word: どこ
-      position: 9
-    - word: に
-      position: 11
-    - word: いる
-      base: 居る
-      position: 12
-    - word: の
-      position: 14
 - id: A-YourName735
   deck_name: Your Name
   translation: Taki!
@@ -3069,9 +1460,6 @@
       position: 1
       tags:
         - silent
-    - word: くん
-      base: 君
-      position: 3
 - id: A-YourName736
   deck_name: Your Name
   translation: Taki, you're...
@@ -3083,14 +1471,6 @@
       position: 1
       tags:
         - silent
-    - word: くん
-      base: 君
-      position: 3
-    - word: そこ
-      base: 其処
-      position: 6
-    - word: に
-      position: 8
 - id: A-YourName738
   deck_name: Your Name
   translation: Taki.
@@ -3102,9 +1482,6 @@
       position: 1
       tags:
         - silent
-    - word: くん
-      base: 君
-      position: 3
 - id: A-YourName739
   deck_name: Your Name
   translation: Taki!
@@ -3116,9 +1493,6 @@
       position: 1
       tags:
         - silent
-    - word: くん
-      base: 君
-      position: 3
 - id: A-YourName740
   deck_name: Your Name
   translation: It's really you!
@@ -3130,14 +1504,6 @@
       position: 1
       tags:
         - silent
-    - word: くん
-      base: 君
-      position: 3
-    - word: が
-      position: 5
-    - word: いる
-      base: 居る
-      position: 6
 - id: A-YourName741
   deck_name: Your Name
   translation: Taki!
@@ -3149,9 +1515,6 @@
       position: 1
       tags:
         - silent
-    - word: くん
-      base: 君
-      position: 3
 - id: A-YourName746
   deck_name: Your Name
   translation: I drank your kuchikamisake.
@@ -3167,28 +1530,6 @@
       position: 2
       tags:
         - silent
-    - word: の
-      position: 4
-    - word: 口
-      position: 5
-    - word: 噛み
-      position: 6
-    - word: 酒
-      position: 8
-    - word: を
-      position: 9
-    - word: 飲ん
-      base: 飲む
-      dictionary: 飲む
-      position: 10
-    - word: だ
-      base: た
-      position: 12
-    - word: ん
-      base: の
-      position: 13
-    - word: だ
-      position: 14
 - id: A-YourName751
   deck_name: Your Name
   translation: Yotsuha saw you.
@@ -3204,37 +1545,12 @@
       position: 2
       tags:
         - silent
-    - word: が
-      position: 4
-    - word: 見
-      base: 見る
-      dictionary: 見る
-      position: 5
-    - word: とっ
-      base: 取る
-      dictionary: とる
-      position: 6
-    - word: た
-      position: 8
-    - word: ん
-      base: の
-      position: 9
-    - word: や
-      position: 10
-    - word: から
-      position: 11
-    - word: ね
-      position: 13
 - id: A-YourName761
   deck_name: Your Name
   translation: This time, you hold on to it.
   sound: Anime_-_YourName_1_1.19.50.310-1.19.51.970.mp3
   sentence: 今度は(三葉)が持ってて
   words:
-    - word: 今度
-      position: 0
-    - word: は
-      position: 2
     - word: 三
       base: '3'
       position: 4
@@ -3244,18 +1560,6 @@
       position: 5
       tags:
         - silent
-    - word: が
-      position: 7
-    - word: 持っ
-      base: 持つ
-      dictionary: 持つ
-      position: 8
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 10
-    - word: て
-      position: 11
 - id: A-YourName767
   deck_name: Your Name
   translation: Mitsuha, there are still things you need to do. Listen.
@@ -3271,33 +1575,12 @@
       position: 2
       tags:
         - silent
-    - word: まだ
-      base: 未だ
-      position: 5
-    - word: やる
-      base: 遣る
-      position: 7
-    - word: こと
-      position: 9
-    - word: が
-      position: 11
-    - word: ある
-      base: 有る
-      position: 12
-    - word: 聞い
-      base: 聞く
-      dictionary: 聞く
-      position: 15
-    - word: て
-      position: 17
 - id: A-YourName773
   deck_name: Your Name
   translation: Hey, Mitsuha.
   sound: Anime_-_YourName_1_1.20.46.540-1.20.48.010.mp3
   sentence: なあ　(三葉)
   words:
-    - word: なあ
-      position: 0
     - word: 三
       base: '3'
       position: 4
@@ -3313,8 +1596,6 @@
   sound: Anime_-_YourName_1_1.21.14.320-1.21.15.950.mp3
   sentence: おい　(三葉)
   words:
-    - word: おい
-      position: 0
     - word: 三
       base: '3'
       position: 4
@@ -3330,14 +1611,6 @@
   sound: Anime_-_YourName_1_1.21.37.090-1.21.39.310.mp3
   sentence: 君の名前は(三葉)
   words:
-    - word: 君
-      position: 0
-    - word: の
-      position: 1
-    - word: 名前
-      position: 2
-    - word: は
-      position: 4
     - word: 三
       base: '3'
       position: 6
@@ -3373,15 +1646,6 @@
         - silent
     - word: 三
       base: '3'
-      position: 11
-    - word: 葉
-      position: 12
-    - word: 名前
-      position: 15
-    - word: は
-      position: 17
-    - word: 三
-      base: '3'
       position: 19
       tags:
         - silent
@@ -3405,40 +1669,12 @@
       position: 3
       tags:
         - silent
-    - word: お
-      base: 御
-      position: 7
-    - word: 願い
-      position: 8
-    - word: できる
-      base: 出来る
-      position: 11
-    - word: だけ
-      position: 14
-    - word: 放送
-      position: 16
-    - word: を
-      position: 18
-    - word: 繰り
-      base: 繰る
-      dictionary: 繰る
-      position: 19
-    - word: 返し
-      base: 返す
-      dictionary: 返す
-      position: 21
-    - word: て
-      position: 23
 - id: A-YourName820
   deck_name: Your Name
   translation: Let's go, Mitsuha!
   sound: Anime_-_YourName_1_1.25.39.860-1.25.41.370.mp3
   sentence: 行くぞ　(三葉)
   words:
-    - word: 行く
-      position: 0
-    - word: ぞ
-      position: 2
     - word: 三
       base: '3'
       position: 5
@@ -3454,20 +1690,6 @@
   sound: Anime_-_YourName_1_1.26.01.980-1.26.04.390.mp3
   sentence: こりゃとても間に合わん　(三葉)
   words:
-    - word: こりゃ
-      base: 此れ
-      position: 0
-    - word: とても
-      base: 迚も
-      position: 3
-    - word: 間に合わ
-      base: 間に合う
-      dictionary: 間に合う
-      position: 6
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 10
     - word: 三
       base: '3'
       position: 13
@@ -3483,8 +1705,6 @@
   sound: Anime_-_YourName_1_1.26.38.920-1.26.40.250.mp3
   sentence: あら　(三葉)ちゃん
   words:
-    - word: あら
-      position: 0
     - word: 三
       base: '3'
       position: 4
@@ -3494,62 +1714,22 @@
       position: 5
       tags:
         - silent
-    - word: ちゃん
-      position: 7
 - id: A-YourName839
   deck_name: Your Name
   translation: Sir! The Takayama sensor station just called!
   sound: Anime_-_YourName_1_1.26.58.400-1.27.01.280.mp3
   sentence: 町長　今　(高山)のセンサ局から
   words:
-    - word: 町長
-      position: 0
-    - word: 今
-      position: 3
     - word: 高山
       position: 6
       tags:
         - silent
-    - word: の
-      position: 9
-    - word: センサ
-      base: センサー
-      position: 10
-    - word: 局
-      position: 13
-    - word: から
-      position: 14
 - id: A-YourName841
   deck_name: Your Name
   translation: What have you done, Natori?
   sound: Anime_-_YourName_1_1.27.20.480-1.27.23.440.mp3
   sentence: なんちゅうことしてくれたんや　(名取)
   words:
-    - word: なん
-      base: 何
-      position: 0
-    - word: ちゅう
-      base: つう
-      position: 2
-    - word: こと
-      position: 5
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 7
-    - word: て
-      position: 8
-    - word: くれ
-      base: 呉れる
-      dictionary: くれる
-      position: 9
-    - word: た
-      position: 11
-    - word: ん
-      base: の
-      position: 12
-    - word: や
-      position: 13
     - word: 名取
       position: 16
       tags:
@@ -3560,14 +1740,6 @@
   sound: Anime_-_YourName_1_1.28.00.490-1.28.02.020.mp3
   sentence: すまん　(三葉)
   words:
-    - word: すま
-      base: すむ
-      dictionary: すむ
-      position: 0
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 2
     - word: 三
       base: '3'
       position: 5
@@ -3583,77 +1755,17 @@
   sound: Anime_-_YourName_1_1.34.34.440-1.34.39.440.mp3
   sentence: 仕事でこっちまで来たから　久しぶりに(瀧)くんの顔を見ておこうと思って
   words:
-    - word: 仕事
-      position: 0
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 2
-    - word: こっち
-      base: 此方
-      position: 3
-    - word: まで
-      position: 6
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 8
-    - word: た
-      position: 9
-    - word: から
-      position: 10
-    - word: 久しぶり
-      base: 久し振り
-      position: 13
-    - word: に
-      position: 17
     - word: 瀧
       base: 滝
       position: 19
       tags:
         - silent
-    - word: くん
-      base: 君
-      position: 21
-    - word: の
-      position: 23
-    - word: 顔
-      position: 24
-    - word: を
-      position: 25
-    - word: 見
-      base: 見る
-      dictionary: 見る
-      position: 26
-    - word: て
-      position: 27
-    - word: おこう
-      base: おく
-      dictionary: おく
-      position: 28
-    - word: と
-      position: 31
-    - word: 思っ
-      base: 思う
-      dictionary: 思う
-      position: 32
-    - word: て
-      position: 34
 - id: A-YourName878
   deck_name: Your Name
   translation: We went to Itomori once, didn't we?
   sound: Anime_-_YourName_1_1.34.41.920-1.34.45.950.mp3
   sentence: 私たち　いつか(糸守)まで行ったことあったよね
   words:
-    - word: 私
-      position: 0
-    - word: たち
-      base: 達
-      position: 1
-    - word: いつ
-      position: 4
-    - word: か
-      position: 6
     - word: 糸
       position: 8
       tags:
@@ -3662,77 +1774,24 @@
       position: 9
       tags:
         - silent
-    - word: まで
-      position: 11
-    - word: 行っ
-      base: 行く
-      dictionary: 行く
-      position: 13
-    - word: た
-      position: 15
-    - word: こと
-      position: 16
-    - word: あっ
-      base: 有る
-      dictionary: ある
-      position: 18
-    - word: た
-      position: 20
-    - word: よ
-      position: 21
-    - word: ね
-      position: 22
 - id: A-YourName879
   deck_name: Your Name
   translation: You were in high school back then, so it must have been...
   sound: Anime_-_YourName_1_1.34.45.950-1.34.49.470.mp3
   sentence: あれって　(瀧)くんがまだ高校生だったから…
   words:
-    - word: あれ
-      base: 彼れ
-      position: 0
-    - word: って
-      position: 2
     - word: 瀧
       base: 滝
       position: 6
       tags:
         - silent
-    - word: くん
-      base: 君
-      position: 8
-    - word: が
-      position: 10
-    - word: まだ
-      base: 未だ
-      position: 11
-    - word: 高校
-      position: 13
-    - word: 生
-      position: 15
-    - word: だっ
-      base: だ
-      dictionary: だ
-      position: 16
-    - word: た
-      position: 18
-    - word: から
-      position: 19
 - id: A-YourName889
   deck_name: Your Name
   translation: Oh, and Tessie.
   sound: Anime_-_YourName_1_1.36.46.730-1.36.48.490.mp3
   sentence: それから(テッシー)さあ
   words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: から
-      position: 2
     - word: テッシー
       position: 5
       tags:
         - silent
-    - word: さあ
-      base: さ
-      position: 10

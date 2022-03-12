@@ -6,12 +6,6 @@
   sound_begin: 5028
   sound_end: 8883
   sentence: きのこ会議
-  words:
-    - word: きのこ
-      base: 茸
-      position: 0
-    - word: 会議
-      position: 3
 - id: Kinoko Kaigi-f000003
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -20,9 +14,6 @@
   sound_begin: 8883
   sound_end: 10263
   sentence: 初茸、
-  words:
-    - word: 初茸
-      position: 0
 - id: Kinoko Kaigi-f000004
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -31,9 +22,6 @@
   sound_begin: 10263
   sound_end: 11690
   sentence: 松茸、
-  words:
-    - word: 松茸
-      position: 0
 - id: Kinoko Kaigi-f000005
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -42,9 +30,6 @@
   sound_begin: 11690
   sound_end: 13600
   sentence: 椎茸、
-  words:
-    - word: 椎茸
-      position: 0
 - id: Kinoko Kaigi-f000006
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -53,12 +38,6 @@
   sound_begin: 13600
   sound_end: 14474
   sentence: 木くらげ、
-  words:
-    - word: 木
-      position: 0
-    - word: くらげ
-      base: 海月
-      position: 1
 - id: Kinoko Kaigi-f000007
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -67,11 +46,6 @@
   sound_begin: 14451
   sound_end: 15406
   sentence: 白茸、
-  words:
-    - word: 白
-      position: 0
-    - word: 茸
-      position: 1
 - id: Kinoko Kaigi-f000008
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -80,12 +54,6 @@
   sound_begin: 15406
   sound_end: 16419
   sentence: 鴈茸、
-  words:
-    - word: 鴈
-      base: 雁
-      position: 0
-    - word: 茸
-      position: 1
 - id: Kinoko Kaigi-f000009
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -94,12 +62,6 @@
   sound_begin: 16419
   sound_end: 17731
   sentence: ぬめり茸、
-  words:
-    - word: ぬめり
-      base: 滑る
-      position: 0
-    - word: 茸
-      position: 3
 - id: Kinoko Kaigi-f000010
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -108,11 +70,6 @@
   sound_begin: 17731
   sound_end: 19008
   sentence: 霜降り茸、
-  words:
-    - word: 霜降り
-      position: 0
-    - word: 茸
-      position: 3
 - id: Kinoko Kaigi-f000011
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -121,11 +78,6 @@
   sound_begin: 19008
   sound_end: 20112
   sentence: 獅子茸、
-  words:
-    - word: 獅子
-      position: 0
-    - word: 茸
-      position: 2
 - id: Kinoko Kaigi-f000012
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -134,11 +86,6 @@
   sound_begin: 20112
   sound_end: 21320
   sentence: 鼠茸、
-  words:
-    - word: 鼠
-      position: 0
-    - word: 茸
-      position: 1
 - id: Kinoko Kaigi-f000013
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -147,11 +94,6 @@
   sound_begin: 21320
   sound_end: 23127
   sentence: 皮剥ぎ茸、
-  words:
-    - word: 皮剥ぎ
-      position: 0
-    - word: 茸
-      position: 3
 - id: Kinoko Kaigi-f000014
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -160,11 +102,6 @@
   sound_begin: 23127
   sound_end: 24335
   sentence: 米松露、
-  words:
-    - word: 米松
-      position: 0
-    - word: 露
-      position: 2
 - id: Kinoko Kaigi-f000015
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -173,34 +110,6 @@
   sound_begin: 24335
   sound_end: 29352
   sentence: 麦松露なぞいうきのこ連中がある夜集まって、
-  words:
-    - word: 麦
-      position: 0
-    - word: 松露
-      position: 1
-    - word: なぞ
-      base: など
-      position: 3
-    - word: いう
-      base: 言う
-      position: 5
-    - word: きのこ
-      base: 茸
-      position: 7
-    - word: 連中
-      position: 10
-    - word: が
-      position: 12
-    - word: ある
-      base: 或る
-      position: 13
-    - word: 夜
-      position: 15
-    - word: 集まっ
-      base: 集まる
-      position: 16
-    - word: て
-      position: 19
 - id: Kinoko Kaigi-f000016
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -209,21 +118,6 @@
   sound_begin: 29352
   sound_end: 32780
   sentence: 談話会を始めました。
-  words:
-    - word: 談話
-      position: 0
-    - word: 会
-      position: 2
-    - word: を
-      position: 3
-    - word: 始め
-      base: 始める
-      position: 4
-    - word: まし
-      base: ます
-      position: 6
-    - word: た
-      position: 8
 - id: Kinoko Kaigi-f000017
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -232,13 +126,6 @@
   sound_begin: 32780
   sound_end: 34265
   sentence: 一番初めに、
-  words:
-    - word: 一番
-      position: 0
-    - word: 初め
-      position: 2
-    - word: に
-      position: 4
 - id: Kinoko Kaigi-f000018
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -247,31 +134,6 @@
   sound_begin: 34265
   sound_end: 40000
   sentence: 初茸が立ち上って挨拶をしました。
-  words:
-    - word: 初茸
-      position: 0
-    - word: が
-      position: 2
-    - word: 立ち
-      base: 立つ
-      position: 3
-    - word: 上っ
-      base: 上る
-      position: 5
-    - word: て
-      position: 7
-    - word: 挨拶
-      position: 8
-    - word: を
-      position: 10
-    - word: し
-      base: 為る
-      position: 11
-    - word: まし
-      base: ます
-      position: 12
-    - word: た
-      position: 14
 - id: Kinoko Kaigi-f000019
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -280,11 +142,6 @@
   sound_begin: 40000
   sound_end: 40840
   sentence: 「皆さん。
-  words:
-    - word: 皆
-      position: 1
-    - word: さん
-      position: 2
 - id: Kinoko Kaigi-f000020
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -293,31 +150,6 @@
   sound_begin: 40840
   sound_end: 44480
   sentence: この頃はだんだん寒くなりましたので、
-  words:
-    - word: この頃
-      base: 此の頃
-      position: 0
-    - word: は
-      position: 3
-    - word: だんだん
-      base: 段々
-      position: 4
-    - word: 寒く
-      base: 寒い
-      position: 8
-    - word: なり
-      base: 成る
-      position: 10
-    - word: まし
-      base: ます
-      position: 12
-    - word: た
-      position: 14
-    - word: の
-      position: 15
-    - word: で
-      base: だ
-      position: 16
 - id: Kinoko Kaigi-f000021
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -326,54 +158,6 @@
   sound_begin: 44480
   sound_end: 50983
   sentence: そろそろ私共は土の中へ引き込まねばならぬようになりました。
-  words:
-    - word: そろそろ
-      position: 0
-    - word: 私
-      position: 4
-    - word: 共
-      position: 5
-    - word: は
-      position: 6
-    - word: 土
-      position: 7
-    - word: の
-      position: 8
-    - word: 中
-      position: 9
-    - word: へ
-      position: 10
-    - word: 引き
-      base: 引く
-      position: 11
-    - word: 込ま
-      base: 込む
-      position: 13
-    - word: ね
-      base: ず
-      position: 15
-    - word: ば
-      position: 16
-    - word: なら
-      base: 成る
-      position: 17
-    - word: ぬ
-      base: ず
-      position: 19
-    - word: よう
-      base: 様
-      position: 20
-    - word: に
-      base: だ
-      position: 22
-    - word: なり
-      base: 成る
-      position: 23
-    - word: まし
-      base: ます
-      position: 25
-    - word: た
-      position: 27
 - id: Kinoko Kaigi-f000022
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -382,24 +166,6 @@
   sound_begin: 50983
   sound_end: 54320
   sentence: 今夜はお別れの宴会ですから、
-  words:
-    - word: 今夜
-      position: 0
-    - word: は
-      position: 2
-    - word: お
-      base: 御
-      position: 3
-    - word: 別れ
-      position: 4
-    - word: の
-      position: 6
-    - word: 宴会
-      position: 7
-    - word: です
-      position: 9
-    - word: から
-      position: 11
 - id: Kinoko Kaigi-f000023
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -408,38 +174,6 @@
   sound_begin: 54320
   sound_end: 59640
   sentence: 皆さんは何でも思う存分に演説をして下さい。
-  words:
-    - word: 皆
-      position: 0
-    - word: さん
-      position: 1
-    - word: は
-      position: 3
-    - word: 何
-      position: 4
-    - word: で
-      position: 5
-    - word: も
-      position: 6
-    - word: 思う
-      position: 7
-    - word: 存分
-      position: 9
-    - word: に
-      base: だ
-      position: 11
-    - word: 演説
-      position: 12
-    - word: を
-      position: 14
-    - word: し
-      base: 為る
-      position: 15
-    - word: て
-      position: 16
-    - word: 下さい
-      base: 下さる
-      position: 17
 - id: Kinoko Kaigi-f000024
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -448,27 +182,6 @@
   sound_begin: 59640
   sound_end: 64444
   sentence: 私が書いて新聞に出しますから」
-  words:
-    - word: 私
-      position: 0
-    - word: が
-      position: 1
-    - word: 書い
-      base: 書く
-      position: 2
-    - word: て
-      position: 4
-    - word: 新聞
-      position: 5
-    - word: に
-      position: 7
-    - word: 出し
-      base: 出す
-      position: 8
-    - word: ます
-      position: 10
-    - word: から
-      position: 12
 - id: Kinoko Kaigi-f000025
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -477,25 +190,6 @@
   sound_begin: 64444
   sound_end: 66884
   sentence: 皆がパチパチと手をたたくと、
-  words:
-    - word: 皆
-      position: 0
-    - word: が
-      position: 1
-    - word: パチパチ
-      base: ぱちぱち
-      position: 2
-    - word: と
-      position: 6
-    - word: 手
-      position: 7
-    - word: を
-      position: 8
-    - word: たたく
-      base: 叩く
-      position: 9
-    - word: と
-      position: 12
 - id: Kinoko Kaigi-f000026
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -504,29 +198,6 @@
   sound_begin: 66884
   sound_end: 71680
   sentence: お次に椎茸が立ち上りました。
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 次
-      position: 1
-    - word: に
-      position: 2
-    - word: 椎茸
-      position: 3
-    - word: が
-      position: 5
-    - word: 立ち
-      base: 立つ
-      position: 6
-    - word: 上り
-      base: 上る
-      position: 8
-    - word: まし
-      base: ます
-      position: 10
-    - word: た
-      position: 12
 - id: Kinoko Kaigi-f000027
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -535,11 +206,6 @@
   sound_begin: 71680
   sound_end: 73320
   sentence: 「皆さん、
-  words:
-    - word: 皆
-      position: 1
-    - word: さん
-      position: 2
 - id: Kinoko Kaigi-f000028
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -548,23 +214,6 @@
   sound_begin: 73320
   sound_end: 77280
   sentence: 私は椎茸というものです。
-  words:
-    - word: 私
-      position: 0
-    - word: は
-      position: 1
-    - word: 椎茸
-      position: 2
-    - word: と
-      position: 4
-    - word: いう
-      base: 言う
-      position: 5
-    - word: もの
-      base: 物
-      position: 7
-    - word: です
-      position: 9
 - id: Kinoko Kaigi-f000029
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -573,30 +222,6 @@
   sound_begin: 77280
   sound_end: 82200
   sentence: この頃人間は私を大変に重宝がって、
-  words:
-    - word: この頃
-      base: 此の頃
-      position: 0
-    - word: 人間
-      position: 3
-    - word: は
-      position: 5
-    - word: 私
-      position: 6
-    - word: を
-      position: 7
-    - word: 大変
-      position: 8
-    - word: に
-      base: だ
-      position: 10
-    - word: 重宝
-      position: 11
-    - word: がっ
-      base: がる
-      position: 13
-    - word: て
-      position: 15
 - id: Kinoko Kaigi-f000030
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -605,41 +230,6 @@
   sound_begin: 82200
   sound_end: 87870
   sentence: わざわざ木を腐らして私共の畑を作ってくれますから、
-  words:
-    - word: わざわざ
-      base: 態々
-      position: 0
-    - word: 木
-      position: 4
-    - word: を
-      position: 5
-    - word: 腐らし
-      base: 腐る
-      position: 6
-    - word: て
-      position: 9
-    - word: 私
-      position: 10
-    - word: 共
-      position: 11
-    - word: の
-      position: 12
-    - word: 畑
-      position: 13
-    - word: を
-      position: 14
-    - word: 作っ
-      base: 作る
-      position: 15
-    - word: て
-      position: 17
-    - word: くれ
-      base: 呉れる
-      position: 18
-    - word: ます
-      position: 20
-    - word: から
-      position: 22
 - id: Kinoko Kaigi-f000031
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -648,38 +238,6 @@
   sound_begin: 87870
   sound_end: 95560
   sentence: 私共はだんだん大きな立派な子孫が殖えて行くばかりです。
-  words:
-    - word: 私
-      position: 0
-    - word: 共
-      position: 1
-    - word: は
-      position: 2
-    - word: だんだん
-      base: 段々
-      position: 3
-    - word: 大きな
-      position: 7
-    - word: 立派
-      position: 10
-    - word: な
-      base: だ
-      position: 12
-    - word: 子孫
-      position: 13
-    - word: が
-      position: 15
-    - word: 殖え
-      base: 増える
-      position: 16
-    - word: て
-      position: 18
-    - word: 行く
-      position: 19
-    - word: ばかり
-      position: 21
-    - word: です
-      position: 24
 - id: Kinoko Kaigi-f000032
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -688,58 +246,6 @@
   sound_begin: 95560
   sound_end: 103714
   sentence: 今にどんな茸でも人間が畠を作ってくれるようになって貰いたいと思います」
-  words:
-    - word: 今
-      position: 0
-    - word: に
-      position: 1
-    - word: どんな
-      position: 2
-    - word: 茸
-      position: 5
-    - word: で
-      position: 6
-    - word: も
-      position: 7
-    - word: 人間
-      position: 8
-    - word: が
-      position: 10
-    - word: 畠
-      position: 11
-    - word: を
-      position: 12
-    - word: 作っ
-      base: 作る
-      position: 13
-    - word: て
-      position: 15
-    - word: くれる
-      base: 呉れる
-      position: 16
-    - word: よう
-      base: 様
-      position: 19
-    - word: に
-      base: だ
-      position: 21
-    - word: なっ
-      base: 成る
-      position: 22
-    - word: て
-      position: 24
-    - word: 貰い
-      base: 貰う
-      position: 25
-    - word: たい
-      position: 27
-    - word: と
-      position: 29
-    - word: 思い
-      base: 思う
-      position: 30
-    - word: ます
-      position: 32
 - id: Kinoko Kaigi-f000033
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -748,29 +254,6 @@
   sound_begin: 103714
   sound_end: 108351
   sentence: 皆は大賛成で手をたたきました。
-  words:
-    - word: 皆
-      position: 0
-    - word: は
-      position: 1
-    - word: 大
-      position: 2
-    - word: 賛成
-      position: 3
-    - word: で
-      position: 5
-    - word: 手
-      position: 6
-    - word: を
-      position: 7
-    - word: たたき
-      base: 叩く
-      position: 8
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
 - id: Kinoko Kaigi-f000034
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -779,44 +262,6 @@
   sound_begin: 108351
   sound_end: 116992
   sentence: その次に松茸がエヘンと咳払いをして演説をしました。
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 次
-      position: 2
-    - word: に
-      position: 3
-    - word: 松茸
-      position: 4
-    - word: が
-      position: 6
-    - word: エヘン
-      base: えへん
-      position: 7
-    - word: と
-      position: 10
-    - word: 咳払い
-      position: 11
-    - word: を
-      position: 14
-    - word: し
-      base: 為る
-      position: 15
-    - word: て
-      position: 16
-    - word: 演説
-      position: 17
-    - word: を
-      position: 19
-    - word: し
-      base: 為る
-      position: 20
-    - word: まし
-      base: ます
-      position: 21
-    - word: た
-      position: 23
 - id: Kinoko Kaigi-f000035
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -825,11 +270,6 @@
   sound_begin: 116992
   sound_end: 118591
   sentence: 「皆さん、
-  words:
-    - word: 皆
-      position: 1
-    - word: さん
-      position: 2
 - id: Kinoko Kaigi-f000036
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -838,17 +278,6 @@
   sound_begin: 118591
   sound_end: 120680
   sentence: 私共のつとめは、
-  words:
-    - word: 私
-      position: 0
-    - word: 共
-      position: 1
-    - word: の
-      position: 2
-    - word: つとめ
-      position: 3
-    - word: は
-      position: 6
 - id: Kinoko Kaigi-f000037
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -857,44 +286,6 @@
   sound_begin: 120680
   sound_end: 127485
   sentence: 第一に傘をひろげて種子を撒き散らして子孫を殖やすこと、
-  words:
-    - word: 第
-      position: 0
-    - word: 一
-      base: '1'
-      position: 1
-    - word: に
-      position: 2
-    - word: 傘
-      position: 3
-    - word: を
-      position: 4
-    - word: ひろげ
-      base: 広げる
-      position: 5
-    - word: て
-      position: 8
-    - word: 種子
-      position: 9
-    - word: を
-      position: 11
-    - word: 撒き
-      base: 撒く
-      position: 12
-    - word: 散らし
-      base: 散る
-      position: 14
-    - word: て
-      position: 17
-    - word: 子孫
-      position: 18
-    - word: を
-      position: 20
-    - word: 殖やす
-      base: 増やす
-      position: 21
-    - word: こと
-      position: 24
 - id: Kinoko Kaigi-f000038
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -903,29 +294,6 @@
   sound_begin: 127485
   sound_end: 131639
   sentence: その次は人間に食べられることですが、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 次
-      position: 2
-    - word: は
-      position: 3
-    - word: 人間
-      position: 4
-    - word: に
-      position: 6
-    - word: 食べ
-      base: 食べる
-      position: 7
-    - word: られる
-      position: 9
-    - word: こと
-      position: 12
-    - word: です
-      position: 14
-    - word: が
-      position: 16
 - id: Kinoko Kaigi-f000039
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -934,60 +302,6 @@
   sound_begin: 131639
   sound_end: 139589
   sentence: 人間は何故だか私共がまだ傘を開かないうちを喜んで持って行ってしまいます。
-  words:
-    - word: 人間
-      position: 0
-    - word: は
-      position: 2
-    - word: 何故
-      position: 3
-    - word: だ
-      position: 5
-    - word: か
-      position: 6
-    - word: 私
-      position: 7
-    - word: 共
-      position: 8
-    - word: が
-      position: 9
-    - word: まだ
-      base: 未だ
-      position: 10
-    - word: 傘
-      position: 12
-    - word: を
-      position: 13
-    - word: 開か
-      base: 開く
-      position: 14
-    - word: ない
-      position: 16
-    - word: うち
-      base: 内
-      position: 18
-    - word: を
-      position: 20
-    - word: 喜ん
-      base: 喜ぶ
-      position: 21
-    - word: で
-      position: 23
-    - word: 持っ
-      base: 持つ
-      position: 24
-    - word: て
-      position: 26
-    - word: 行っ
-      base: 行く
-      position: 27
-    - word: て
-      position: 29
-    - word: しまい
-      base: 仕舞う
-      position: 30
-    - word: ます
-      position: 33
 - id: Kinoko Kaigi-f000040
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -996,43 +310,6 @@
   sound_begin: 139589
   sound_end: 143680
   sentence: そのくせ椎茸さんのような畠も作ってくれません。
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: くせ
-      base: 癖
-      position: 2
-    - word: 椎茸
-      position: 4
-    - word: さん
-      position: 6
-    - word: の
-      position: 8
-    - word: よう
-      base: 様
-      position: 9
-    - word: な
-      base: だ
-      position: 11
-    - word: 畠
-      position: 12
-    - word: も
-      position: 13
-    - word: 作っ
-      base: 作る
-      position: 14
-    - word: て
-      position: 16
-    - word: くれ
-      base: 呉れる
-      position: 17
-    - word: ませ
-      base: ます
-      position: 19
-    - word: ん
-      base: ず
-      position: 21
 - id: Kinoko Kaigi-f000041
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -1041,40 +318,6 @@
   sound_begin: 145280
   sound_end: 150140
   sentence: こんな風だと今に私共は種子を撒く事が出来ず、
-  words:
-    - word: こんな
-      position: 0
-    - word: 風
-      position: 3
-    - word: だ
-      position: 4
-    - word: と
-      position: 5
-    - word: 今
-      position: 6
-    - word: に
-      position: 7
-    - word: 私
-      position: 8
-    - word: 共
-      position: 9
-    - word: は
-      position: 10
-    - word: 種子
-      position: 11
-    - word: を
-      position: 13
-    - word: 撒く
-      position: 14
-    - word: 事
-      position: 16
-    - word: が
-      position: 17
-    - word: 出来
-      base: 出来る
-      position: 18
-    - word: ず
-      position: 20
 - id: Kinoko Kaigi-f000042
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -1083,35 +326,6 @@
   sound_begin: 150140
   sound_end: 154320
   sentence: 子孫を根絶やしにされねばなりません。
-  words:
-    - word: 子孫
-      position: 0
-    - word: を
-      position: 2
-    - word: 根絶やし
-      position: 3
-    - word: に
-      position: 7
-    - word: さ
-      base: 為る
-      position: 8
-    - word: れ
-      base: れる
-      position: 9
-    - word: ね
-      base: ず
-      position: 10
-    - word: ば
-      position: 11
-    - word: なり
-      base: 成る
-      position: 12
-    - word: ませ
-      base: ます
-      position: 14
-    - word: ん
-      base: ず
-      position: 16
 - id: Kinoko Kaigi-f000043
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -1120,33 +334,6 @@
   sound_begin: 154320
   sound_end: 157920
   sentence: 人間は何故この理屈がわからないかと思うと、
-  words:
-    - word: 人間
-      position: 0
-    - word: は
-      position: 2
-    - word: 何故
-      position: 3
-    - word: この
-      base: 此の
-      position: 5
-    - word: 理屈
-      position: 7
-    - word: が
-      position: 9
-    - word: わから
-      base: 分かる
-      position: 10
-    - word: ない
-      position: 13
-    - word: か
-      position: 15
-    - word: と
-      position: 16
-    - word: 思う
-      position: 17
-    - word: と
-      position: 19
 - id: Kinoko Kaigi-f000044
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -1155,21 +342,6 @@
   sound_begin: 157920
   sound_end: 161243
   sentence: 残念でたまりません」
-  words:
-    - word: 残念
-      position: 0
-    - word: で
-      base: だ
-      position: 2
-    - word: たまり
-      base: たまる
-      position: 3
-    - word: ませ
-      base: ます
-      position: 6
-    - word: ん
-      base: ず
-      position: 8
 - id: Kinoko Kaigi-f000045
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -1178,25 +350,6 @@
   sound_begin: 161243
   sound_end: 164160
   sentence: と涙を流して申しますと、
-  words:
-    - word: と
-      position: 0
-    - word: 涙
-      position: 1
-    - word: を
-      position: 2
-    - word: 流し
-      base: 流す
-      position: 3
-    - word: て
-      position: 5
-    - word: 申し
-      base: 申す
-      position: 6
-    - word: ます
-      position: 8
-    - word: と
-      position: 10
 - id: Kinoko Kaigi-f000046
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -1205,15 +358,6 @@
   sound_begin: 164160
   sound_end: 165560
   sentence: 皆も口々に、
-  words:
-    - word: 皆
-      position: 0
-    - word: も
-      position: 1
-    - word: 口々
-      position: 2
-    - word: に
-      position: 4
 - id: Kinoko Kaigi-f000047
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -1222,11 +366,6 @@
   sound_begin: 165560
   sound_end: 166200
   sentence: 「そうだ、
-  words:
-    - word: そう
-      position: 1
-    - word: だ
-      position: 3
 - id: Kinoko Kaigi-f000048
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -1235,11 +374,6 @@
   sound_begin: 166200
   sound_end: 166720
   sentence: そうだ」
-  words:
-    - word: そう
-      position: 0
-    - word: だ
-      position: 2
 - id: Kinoko Kaigi-f000049
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -1248,21 +382,6 @@
   sound_begin: 166720
   sound_end: 170598
   sentence: と同情をしました。
-  words:
-    - word: と
-      position: 0
-    - word: 同情
-      position: 1
-    - word: を
-      position: 3
-    - word: し
-      base: 為る
-      position: 4
-    - word: まし
-      base: ます
-      position: 5
-    - word: た
-      position: 7
 - id: Kinoko Kaigi-f000050
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -1271,43 +390,6 @@
   sound_begin: 170598
   sound_end: 177480
   sentence: するとこの時皆のうしろからケラケラと笑うものがあります。
-  words:
-    - word: する
-      base: 為る
-      position: 0
-    - word: と
-      position: 2
-    - word: この
-      base: 此の
-      position: 3
-    - word: 時
-      position: 5
-    - word: 皆
-      position: 6
-    - word: の
-      position: 7
-    - word: うしろ
-      base: 後ろ
-      position: 8
-    - word: から
-      position: 11
-    - word: ケラケラ
-      base: けらけら
-      position: 13
-    - word: と
-      position: 17
-    - word: 笑う
-      position: 18
-    - word: もの
-      base: 物
-      position: 20
-    - word: が
-      position: 22
-    - word: あり
-      base: 有る
-      position: 23
-    - word: ます
-      position: 25
 - id: Kinoko Kaigi-f000051
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -1316,20 +398,6 @@
   sound_begin: 177480
   sound_end: 181419
   sentence: 見るとそれは蠅取り茸、
-  words:
-    - word: 見る
-      position: 0
-    - word: と
-      position: 2
-    - word: それ
-      base: 其れ
-      position: 3
-    - word: は
-      position: 5
-    - word: 蠅取り
-      position: 6
-    - word: 茸
-      position: 9
 - id: Kinoko Kaigi-f000052
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -1338,9 +406,6 @@
   sound_begin: 181419
   sound_end: 182840
   sentence: 紅茸、
-  words:
-    - word: 紅茸
-      position: 0
 - id: Kinoko Kaigi-f000053
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -1349,11 +414,6 @@
   sound_begin: 182840
   sound_end: 184388
   sentence: 草鞋茸、
-  words:
-    - word: 草鞋
-      position: 0
-    - word: 茸
-      position: 2
 - id: Kinoko Kaigi-f000054
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -1362,11 +422,6 @@
   sound_begin: 184388
   sound_end: 186269
   sentence: 馬糞茸、
-  words:
-    - word: 馬糞
-      position: 0
-    - word: 茸
-      position: 2
 - id: Kinoko Kaigi-f000055
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -1375,14 +430,6 @@
   sound_begin: 186269
   sound_end: 188190
   sentence: 狐の火ともし、
-  words:
-    - word: 狐
-      position: 0
-    - word: の
-      position: 1
-    - word: 火ともし
-      base: 火点し
-      position: 2
 - id: Kinoko Kaigi-f000056
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -1391,30 +438,6 @@
   sound_begin: 188190
   sound_end: 194392
   sentence: 狐の茶袋なぞいう毒茸の連中でした。
-  words:
-    - word: 狐
-      position: 0
-    - word: の
-      position: 1
-    - word: 茶袋
-      position: 2
-    - word: なぞ
-      base: など
-      position: 4
-    - word: いう
-      base: 言う
-      position: 6
-    - word: 毒茸
-      position: 8
-    - word: の
-      position: 10
-    - word: 連中
-      position: 11
-    - word: でし
-      base: です
-      position: 13
-    - word: た
-      position: 15
 - id: Kinoko Kaigi-f000057
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -1423,51 +446,6 @@
   sound_begin: 194392
   sound_end: 203600
   sentence: その大勢の毒茸の中でも一番大きい蠅取り茸は大勢の真中に立ち上って、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 大勢
-      position: 2
-    - word: の
-      position: 4
-    - word: 毒茸
-      position: 5
-    - word: の
-      position: 7
-    - word: 中
-      position: 8
-    - word: で
-      position: 9
-    - word: も
-      position: 10
-    - word: 一番
-      position: 11
-    - word: 大きい
-      position: 13
-    - word: 蠅取り
-      position: 16
-    - word: 茸
-      position: 19
-    - word: は
-      position: 20
-    - word: 大勢
-      position: 21
-    - word: の
-      position: 23
-    - word: 真中
-      base: 真ん中
-      position: 24
-    - word: に
-      position: 26
-    - word: 立ち
-      base: 立つ
-      position: 27
-    - word: 上っ
-      base: 上る
-      position: 29
-    - word: て
-      position: 31
 - id: Kinoko Kaigi-f000058
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -1476,20 +454,6 @@
   sound_begin: 203600
   sound_end: 206393
   sentence: 「お前達は皆馬鹿だ。
-  words:
-    - word: お前
-      base: 御前
-      position: 1
-    - word: 達
-      position: 3
-    - word: は
-      position: 4
-    - word: 皆
-      position: 5
-    - word: 馬鹿
-      position: 6
-    - word: だ
-      position: 8
 - id: Kinoko Kaigi-f000059
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -1498,39 +462,6 @@
   sound_begin: 206393
   sound_end: 210840
   sentence: 世の中の役に立つからそんなに取られてしまうのだ。
-  words:
-    - word: 世の中
-      position: 0
-    - word: の
-      position: 3
-    - word: 役
-      position: 4
-    - word: に
-      position: 5
-    - word: 立つ
-      position: 6
-    - word: から
-      position: 8
-    - word: そんな
-      position: 10
-    - word: に
-      base: だ
-      position: 13
-    - word: 取ら
-      base: 取る
-      position: 14
-    - word: れ
-      base: れる
-      position: 16
-    - word: て
-      position: 17
-    - word: しまう
-      base: 仕舞う
-      position: 18
-    - word: の
-      position: 21
-    - word: だ
-      position: 22
 - id: Kinoko Kaigi-f000060
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -1539,38 +470,6 @@
   sound_begin: 210840
   sound_end: 215360
   sentence: 役にさえ立たなければいじめられはしないのだ。
-  words:
-    - word: 役
-      position: 0
-    - word: に
-      position: 1
-    - word: さえ
-      position: 2
-    - word: 立た
-      base: 立つ
-      position: 4
-    - word: なけれ
-      base: ない
-      position: 6
-    - word: ば
-      position: 9
-    - word: いじめ
-      base: 苛める
-      position: 10
-    - word: られ
-      base: られる
-      position: 13
-    - word: は
-      position: 15
-    - word: し
-      base: 為る
-      position: 16
-    - word: ない
-      position: 17
-    - word: の
-      position: 19
-    - word: だ
-      position: 20
 - id: Kinoko Kaigi-f000061
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -1579,41 +478,6 @@
   sound_begin: 215360
   sound_end: 221320
   sentence: 自分の仲間だけ繁昌すればそれでいいではないか。
-  words:
-    - word: 自分
-      position: 0
-    - word: の
-      position: 2
-    - word: 仲間
-      position: 3
-    - word: だけ
-      position: 5
-    - word: 繁昌
-      base: 繁盛
-      position: 7
-    - word: すれ
-      base: 為る
-      position: 9
-    - word: ば
-      position: 11
-    - word: それ
-      base: 其れ
-      position: 12
-    - word: で
-      position: 14
-    - word: いい
-      base: 良い
-      position: 15
-    - word: で
-      base: だ
-      position: 17
-    - word: は
-      position: 18
-    - word: ない
-      base: 無い
-      position: 19
-    - word: か
-      position: 21
 - id: Kinoko Kaigi-f000062
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -1622,16 +486,6 @@
   sound_begin: 221320
   sound_end: 223400
   sentence: 俺達を見ろ。
-  words:
-    - word: 俺
-      position: 0
-    - word: 達
-      position: 1
-    - word: を
-      position: 2
-    - word: 見ろ
-      base: 見る
-      position: 3
 - id: Kinoko Kaigi-f000063
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -1640,36 +494,6 @@
   sound_begin: 223400
   sound_end: 227920
   sentence: 役に立つ処でなく世間の毒になるのだ。
-  words:
-    - word: 役
-      position: 0
-    - word: に
-      position: 1
-    - word: 立つ
-      position: 2
-    - word: 処
-      position: 4
-    - word: で
-      base: だ
-      position: 5
-    - word: なく
-      base: 無い
-      position: 6
-    - word: 世間
-      position: 8
-    - word: の
-      position: 10
-    - word: 毒
-      position: 11
-    - word: に
-      position: 12
-    - word: なる
-      base: 成る
-      position: 13
-    - word: の
-      position: 15
-    - word: だ
-      position: 16
 - id: Kinoko Kaigi-f000064
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -1678,32 +502,6 @@
   sound_begin: 227920
   sound_end: 231199
   sentence: 蠅でも何でも片っぱしから殺してしまう。
-  words:
-    - word: 蠅
-      position: 0
-    - word: で
-      position: 1
-    - word: も
-      position: 2
-    - word: 何
-      position: 3
-    - word: で
-      position: 4
-    - word: も
-      position: 5
-    - word: 片っぱし
-      base: 片端
-      position: 6
-    - word: から
-      position: 10
-    - word: 殺し
-      base: 殺す
-      position: 12
-    - word: て
-      position: 14
-    - word: しまう
-      base: 仕舞う
-      position: 15
 - id: Kinoko Kaigi-f000065
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -1712,36 +510,6 @@
   sound_begin: 231199
   sound_end: 236319
   sentence: えらい茸は人間さえも毎年毎年殺している位だ。
-  words:
-    - word: えらい
-      base: 偉い
-      position: 0
-    - word: 茸
-      position: 3
-    - word: は
-      position: 4
-    - word: 人間
-      position: 5
-    - word: さえ
-      position: 7
-    - word: も
-      position: 9
-    - word: 毎年
-      position: 10
-    - word: 毎年
-      position: 12
-    - word: 殺し
-      base: 殺す
-      position: 14
-    - word: て
-      position: 16
-    - word: いる
-      base: 居る
-      position: 17
-    - word: 位
-      position: 19
-    - word: だ
-      position: 20
 - id: Kinoko Kaigi-f000066
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -1750,34 +518,6 @@
   sound_begin: 236319
   sound_end: 239520
   sentence: だからすこしも世の中の御厄介にならずに、
-  words:
-    - word: だ
-      position: 0
-    - word: から
-      position: 1
-    - word: すこし
-      base: 少し
-      position: 3
-    - word: も
-      position: 6
-    - word: 世の中
-      position: 7
-    - word: の
-      position: 10
-    - word: 御
-      position: 11
-    - word: 厄介
-      position: 12
-    - word: に
-      base: だ
-      position: 14
-    - word: なら
-      base: 成る
-      position: 15
-    - word: ず
-      position: 17
-    - word: に
-      position: 18
 - id: Kinoko Kaigi-f000067
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -1786,21 +526,6 @@
   sound_begin: 239520
   sound_end: 242480
   sentence: 繁昌して行くのだ。
-  words:
-    - word: 繁昌
-      base: 繁盛
-      position: 0
-    - word: し
-      base: 為る
-      position: 2
-    - word: て
-      position: 3
-    - word: 行く
-      position: 4
-    - word: の
-      position: 6
-    - word: だ
-      position: 7
 - id: Kinoko Kaigi-f000068
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -1809,39 +534,6 @@
   sound_begin: 242480
   sound_end: 248285
   sentence: お前達も早く人間の毒になるように勉強しろ」
-  words:
-    - word: お前
-      base: 御前
-      position: 0
-    - word: 達
-      position: 2
-    - word: も
-      position: 3
-    - word: 早く
-      base: 早い
-      position: 4
-    - word: 人間
-      position: 6
-    - word: の
-      position: 8
-    - word: 毒
-      position: 9
-    - word: に
-      position: 10
-    - word: なる
-      base: 成る
-      position: 11
-    - word: よう
-      base: 様
-      position: 13
-    - word: に
-      base: だ
-      position: 15
-    - word: 勉強
-      position: 16
-    - word: しろ
-      base: 為る
-      position: 18
 - id: Kinoko Kaigi-f000069
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -1850,24 +542,6 @@
   sound_begin: 248285
   sound_end: 252520
   sentence: と大声でわめき立てました。
-  words:
-    - word: と
-      position: 0
-    - word: 大声
-      position: 1
-    - word: で
-      position: 3
-    - word: わめき
-      base: 喚く
-      position: 4
-    - word: 立て
-      base: 立つ
-      position: 7
-    - word: まし
-      base: ます
-      position: 9
-    - word: た
-      position: 11
 - id: Kinoko Kaigi-f000070
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -1876,36 +550,6 @@
   sound_begin: 252520
   sound_end: 256810
   sentence: これを聞いた他の連中は皆理屈に負けて
-  words:
-    - word: これ
-      base: 此れ
-      position: 0
-    - word: を
-      position: 2
-    - word: 聞い
-      base: 聞く
-      position: 3
-    - word: た
-      position: 5
-    - word: 他
-      position: 6
-    - word: の
-      position: 7
-    - word: 連中
-      position: 8
-    - word: は
-      position: 10
-    - word: 皆
-      position: 11
-    - word: 理屈
-      position: 12
-    - word: に
-      position: 14
-    - word: 負け
-      base: 負ける
-      position: 15
-    - word: て
-      position: 17
 - id: Kinoko Kaigi-f000071
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -1914,46 +558,6 @@
   sound_begin: 256810
   sound_end: 266361
   sentence: 「成る程、毒にさえなればこわい事はない」と思う者さえありました。
-  words:
-    - word: 成る程
-      position: 1
-    - word: 毒
-      position: 5
-    - word: に
-      position: 6
-    - word: さえ
-      position: 7
-    - word: なれ
-      base: 成る
-      position: 9
-    - word: ば
-      position: 11
-    - word: こわい
-      base: 怖い
-      position: 12
-    - word: 事
-      position: 15
-    - word: は
-      position: 16
-    - word: ない
-      base: 無い
-      position: 17
-    - word: と
-      position: 20
-    - word: 思う
-      position: 21
-    - word: 者
-      position: 23
-    - word: さえ
-      position: 24
-    - word: あり
-      base: 有る
-      position: 26
-    - word: まし
-      base: ます
-      position: 28
-    - word: た
-      position: 30
 - id: Kinoko Kaigi-f000072
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -1962,44 +566,6 @@
   sound_begin: 266361
   sound_end: 271562
   sentence: そのうちに夜があけて茸狩りの人が来たようですから、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: うち
-      base: 内
-      position: 2
-    - word: に
-      position: 4
-    - word: 夜
-      position: 5
-    - word: が
-      position: 6
-    - word: あけ
-      base: あける
-      position: 7
-    - word: て
-      position: 9
-    - word: 茸狩り
-      position: 10
-    - word: の
-      position: 13
-    - word: 人
-      position: 14
-    - word: が
-      position: 15
-    - word: 来
-      base: 来る
-      position: 16
-    - word: た
-      position: 17
-    - word: よう
-      base: 様
-      position: 18
-    - word: です
-      position: 20
-    - word: から
-      position: 22
 - id: Kinoko Kaigi-f000073
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -2008,38 +574,6 @@
   sound_begin: 271562
   sound_end: 277200
   sentence: 皆は本当に毒茸のいう通り毒があるがよいか、
-  words:
-    - word: 皆
-      position: 0
-    - word: は
-      position: 1
-    - word: 本当
-      position: 2
-    - word: に
-      position: 4
-    - word: 毒茸
-      position: 5
-    - word: の
-      position: 7
-    - word: いう
-      base: 言う
-      position: 8
-    - word: 通り
-      position: 10
-    - word: 毒
-      position: 12
-    - word: が
-      position: 13
-    - word: ある
-      base: 有る
-      position: 14
-    - word: が
-      position: 16
-    - word: よい
-      base: 良い
-      position: 17
-    - word: か
-      position: 19
 - id: Kinoko Kaigi-f000074
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -2048,17 +582,6 @@
   sound_begin: 277200
   sound_end: 278440
   sentence: ないがよいか、
-  words:
-    - word: ない
-      base: 無い
-      position: 0
-    - word: が
-      position: 2
-    - word: よい
-      base: 良い
-      position: 3
-    - word: か
-      position: 5
 - id: Kinoko Kaigi-f000075
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -2067,34 +590,6 @@
   sound_begin: 278440
   sound_end: 285139
   sentence: 試験してみる事にしてわかれました。
-  words:
-    - word: 試験
-      position: 0
-    - word: し
-      base: 為る
-      position: 2
-    - word: て
-      position: 3
-    - word: みる
-      base: 見る
-      position: 4
-    - word: 事
-      position: 6
-    - word: に
-      position: 7
-    - word: し
-      base: 為る
-      position: 8
-    - word: て
-      position: 9
-    - word: わかれ
-      base: わかれる
-      position: 10
-    - word: まし
-      base: ます
-      position: 13
-    - word: た
-      position: 15
 - id: Kinoko Kaigi-f000076
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -2103,20 +598,6 @@
   sound_begin: 285139
   sound_end: 287000
   sentence: 茸狩りに来たのは、
-  words:
-    - word: 茸狩り
-      position: 0
-    - word: に
-      position: 3
-    - word: 来
-      base: 来る
-      position: 4
-    - word: た
-      position: 5
-    - word: の
-      position: 6
-    - word: は
-      position: 7
 - id: Kinoko Kaigi-f000077
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -2125,44 +606,6 @@
   sound_begin: 287000
   sound_end: 291674
   sentence: どこかのお父さんとお母さんと姉さんと坊ちゃんでしたが、
-  words:
-    - word: どこ
-      position: 0
-    - word: か
-      position: 2
-    - word: の
-      position: 3
-    - word: お
-      base: 御
-      position: 4
-    - word: 父さん
-      position: 5
-    - word: と
-      position: 8
-    - word: お
-      base: 御
-      position: 9
-    - word: 母さん
-      position: 10
-    - word: と
-      position: 13
-    - word: 姉
-      position: 14
-    - word: さん
-      position: 15
-    - word: と
-      position: 17
-    - word: 坊
-      position: 18
-    - word: ちゃん
-      position: 19
-    - word: でし
-      base: です
-      position: 22
-    - word: た
-      position: 24
-    - word: が
-      position: 25
 - id: Kinoko Kaigi-f000078
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -2171,23 +614,6 @@
   sound_begin: 291674
   sound_end: 294873
   sentence: ここへ来ると皆大喜びで、
-  words:
-    - word: ここ
-      base: 此処
-      position: 0
-    - word: へ
-      position: 2
-    - word: 来る
-      position: 3
-    - word: と
-      position: 5
-    - word: 皆
-      position: 6
-    - word: 大喜び
-      position: 7
-    - word: で
-      base: だ
-      position: 10
 - id: Kinoko Kaigi-f000079
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -2196,38 +622,6 @@
   sound_begin: 294873
   sound_end: 298240
   sentence: 「もはやこんなに茸はあるまいと思っていたが、
-  words:
-    - word: もはや
-      base: 最早
-      position: 1
-    - word: こんな
-      position: 4
-    - word: に
-      base: だ
-      position: 7
-    - word: 茸
-      position: 8
-    - word: は
-      position: 9
-    - word: ある
-      base: 有る
-      position: 10
-    - word: まい
-      position: 12
-    - word: と
-      position: 14
-    - word: 思っ
-      base: 思う
-      position: 15
-    - word: て
-      position: 17
-    - word: い
-      base: 居る
-      position: 18
-    - word: た
-      position: 19
-    - word: が
-      position: 20
 - id: Kinoko Kaigi-f000080
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -2236,24 +630,6 @@
   sound_begin: 298240
   sound_end: 302000
   sentence: いろいろの茸がずいぶん沢山ある」
-  words:
-    - word: いろいろ
-      base: 色々
-      position: 0
-    - word: の
-      position: 4
-    - word: 茸
-      position: 5
-    - word: が
-      position: 6
-    - word: ずいぶん
-      base: 随分
-      position: 7
-    - word: 沢山
-      position: 11
-    - word: ある
-      base: 有る
-      position: 13
 - id: Kinoko Kaigi-f000081
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -2262,9 +638,6 @@
   sound_begin: 302000
   sound_end: 302520
   sentence: 「あれ、
-  words:
-    - word: あれ
-      position: 1
 - id: Kinoko Kaigi-f000082
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -2273,35 +646,6 @@
   sound_begin: 302520
   sound_end: 305297
   sentence: お前のようにむやみに取っては駄目よ。
-  words:
-    - word: お前
-      base: 御前
-      position: 0
-    - word: の
-      position: 2
-    - word: よう
-      base: 様
-      position: 3
-    - word: に
-      base: だ
-      position: 5
-    - word: むやみ
-      base: 無闇
-      position: 6
-    - word: に
-      base: だ
-      position: 9
-    - word: 取っ
-      base: 取る
-      position: 10
-    - word: て
-      position: 12
-    - word: は
-      position: 13
-    - word: 駄目
-      position: 14
-    - word: よ
-      position: 16
 - id: Kinoko Kaigi-f000083
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -2310,34 +654,6 @@
   sound_begin: 305297
   sound_end: 309370
   sentence: こわさないように大切に取らなくては」
-  words:
-    - word: こわ
-      base: 怖い
-      position: 0
-    - word: さ
-      position: 2
-    - word: ない
-      base: 無い
-      position: 3
-    - word: よう
-      base: 様
-      position: 5
-    - word: に
-      base: だ
-      position: 7
-    - word: 大切
-      position: 8
-    - word: に
-      base: だ
-      position: 10
-    - word: 取ら
-      base: 取る
-      position: 11
-    - word: なく
-      base: ない
-      position: 13
-    - word: ては
-      position: 15
 - id: Kinoko Kaigi-f000084
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -2346,26 +662,6 @@
   sound_begin: 309370
   sound_end: 311720
   sentence: 「小さな茸は残してお置きよ。
-  words:
-    - word: 小さな
-      position: 1
-    - word: 茸
-      position: 4
-    - word: は
-      position: 5
-    - word: 残し
-      base: 残す
-      position: 6
-    - word: て
-      position: 8
-    - word: お
-      base: 御
-      position: 9
-    - word: 置き
-      base: 置く
-      position: 10
-    - word: よ
-      position: 12
 - id: Kinoko Kaigi-f000085
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -2374,14 +670,6 @@
   sound_begin: 311720
   sound_end: 313029
   sentence: かわいそうだから」
-  words:
-    - word: かわいそう
-      base: 可哀想
-      position: 0
-    - word: だ
-      position: 5
-    - word: から
-      position: 6
 - id: Kinoko Kaigi-f000086
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -2390,16 +678,6 @@
   sound_begin: 313029
   sound_end: 314479
   sentence: 「ヤアあすこにも。
-  words:
-    - word: ヤア
-      position: 1
-    - word: あすこ
-      base: 彼処
-      position: 3
-    - word: に
-      position: 6
-    - word: も
-      position: 7
 - id: Kinoko Kaigi-f000087
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -2408,17 +686,6 @@
   sound_begin: 314479
   sound_end: 316136
   sentence: ホラここにも」
-  words:
-    - word: ホラ
-      base: ほら
-      position: 0
-    - word: ここ
-      base: 此処
-      position: 2
-    - word: に
-      position: 4
-    - word: も
-      position: 5
 - id: Kinoko Kaigi-f000088
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -2427,18 +694,6 @@
   sound_begin: 316136
   sound_end: 319864
   sentence: と大変な騒ぎです。
-  words:
-    - word: と
-      position: 0
-    - word: 大変
-      position: 1
-    - word: な
-      base: だ
-      position: 3
-    - word: 騒ぎ
-      position: 4
-    - word: です
-      position: 6
 - id: Kinoko Kaigi-f000089
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -2447,31 +702,6 @@
   sound_begin: 319864
   sound_end: 324840
   sentence: そのうちにお父さんは気が付いて、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: うち
-      base: 内
-      position: 2
-    - word: に
-      position: 4
-    - word: お
-      base: 御
-      position: 5
-    - word: 父さん
-      position: 6
-    - word: は
-      position: 9
-    - word: 気
-      position: 10
-    - word: が
-      position: 11
-    - word: 付い
-      base: 付く
-      position: 12
-    - word: て
-      position: 14
 - id: Kinoko Kaigi-f000090
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -2480,20 +710,6 @@
   sound_begin: 324840
   sound_end: 327280
   sentence: 「オイオイみんな気を付けろ。
-  words:
-    - word: オイオイ
-      base: おいおい
-      position: 1
-    - word: みんな
-      base: 皆
-      position: 5
-    - word: 気
-      position: 8
-    - word: を
-      position: 9
-    - word: 付けろ
-      base: 付ける
-      position: 10
 - id: Kinoko Kaigi-f000091
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -2502,31 +718,6 @@
   sound_begin: 327280
   sound_end: 332175
   sentence: ここに毒茸が固まって生えているぞ。
-  words:
-    - word: ここ
-      base: 此処
-      position: 0
-    - word: に
-      position: 2
-    - word: 毒茸
-      position: 3
-    - word: が
-      position: 5
-    - word: 固まっ
-      base: 固まる
-      position: 6
-    - word: て
-      position: 9
-    - word: 生え
-      base: 生える
-      position: 10
-    - word: て
-      position: 12
-    - word: いる
-      base: 居る
-      position: 13
-    - word: ぞ
-      position: 15
 - id: Kinoko Kaigi-f000092
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -2535,18 +726,6 @@
   sound_begin: 332175
   sound_end: 333640
   sentence: よくおぼえておけ。
-  words:
-    - word: よく
-      base: 良く
-      position: 0
-    - word: おぼえ
-      base: 覚える
-      position: 2
-    - word: て
-      position: 5
-    - word: おけ
-      base: おく
-      position: 6
 - id: Kinoko Kaigi-f000093
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -2555,20 +734,6 @@
   sound_begin: 333640
   sound_end: 336040
   sentence: こんなのはみんな毒茸だ。
-  words:
-    - word: こんな
-      position: 0
-    - word: の
-      position: 3
-    - word: は
-      position: 4
-    - word: みんな
-      base: 皆
-      position: 5
-    - word: 毒茸
-      position: 8
-    - word: だ
-      position: 10
 - id: Kinoko Kaigi-f000094
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -2577,28 +742,6 @@
   sound_begin: 336040
   sound_end: 339493
   sentence: 取って食べたら死んでしまうぞ」
-  words:
-    - word: 取っ
-      base: 取る
-      position: 0
-    - word: て
-      position: 2
-    - word: 食べ
-      base: 食べる
-      position: 3
-    - word: たら
-      base: た
-      position: 5
-    - word: 死ん
-      base: 死ぬ
-      position: 7
-    - word: で
-      position: 9
-    - word: しまう
-      base: 仕舞う
-      position: 10
-    - word: ぞ
-      position: 13
 - id: Kinoko Kaigi-f000095
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -2607,17 +750,6 @@
   sound_begin: 339493
   sound_end: 342185
   sentence: とおっしゃいました。
-  words:
-    - word: と
-      position: 0
-    - word: おっしゃい
-      base: 仰る
-      position: 1
-    - word: まし
-      base: ます
-      position: 6
-    - word: た
-      position: 8
 - id: Kinoko Kaigi-f000096
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -2626,13 +758,6 @@
   sound_begin: 342185
   sound_end: 343888
   sentence: 茸共は、
-  words:
-    - word: 茸
-      position: 0
-    - word: 共
-      position: 1
-    - word: は
-      position: 2
 - id: Kinoko Kaigi-f000097
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -2641,31 +766,6 @@
   sound_begin: 343888
   sound_end: 349641
   sentence: 成る程毒茸はえらいものだと思いました。
-  words:
-    - word: 成る程
-      position: 0
-    - word: 毒茸
-      position: 3
-    - word: は
-      position: 5
-    - word: えらい
-      base: 偉い
-      position: 6
-    - word: もの
-      base: 物
-      position: 9
-    - word: だ
-      position: 11
-    - word: と
-      position: 12
-    - word: 思い
-      base: 思う
-      position: 13
-    - word: まし
-      base: ます
-      position: 15
-    - word: た
-      position: 17
 - id: Kinoko Kaigi-f000098
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -2674,32 +774,6 @@
   sound_begin: 349641
   sound_end: 357810
   sentence: 毒茸も「それ見ろ」と威張っておりました。
-  words:
-    - word: 毒茸
-      position: 0
-    - word: も
-      position: 2
-    - word: それ
-      base: 其れ
-      position: 4
-    - word: 見ろ
-      base: 見る
-      position: 6
-    - word: と
-      position: 9
-    - word: 威張っ
-      base: 威張る
-      position: 10
-    - word: て
-      position: 13
-    - word: おり
-      base: おる
-      position: 14
-    - word: まし
-      base: ます
-      position: 16
-    - word: た
-      position: 18
 - id: Kinoko Kaigi-f000099
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -2708,11 +782,6 @@
   sound_begin: 357810
   sound_end: 359168
   sentence: 処が、
-  words:
-    - word: 処
-      position: 0
-    - word: が
-      position: 1
 - id: Kinoko Kaigi-f000100
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -2721,31 +790,6 @@
   sound_begin: 359168
   sound_end: 362600
   sentence: あらかた茸を取ってしまってお父さんが、
-  words:
-    - word: あらかた
-      base: 粗方
-      position: 0
-    - word: 茸
-      position: 4
-    - word: を
-      position: 5
-    - word: 取っ
-      base: 取る
-      position: 6
-    - word: て
-      position: 8
-    - word: しまっ
-      base: 仕舞う
-      position: 9
-    - word: て
-      position: 12
-    - word: お
-      base: 御
-      position: 13
-    - word: 父さん
-      position: 14
-    - word: が
-      position: 17
 - id: Kinoko Kaigi-f000101
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -2754,12 +798,6 @@
   sound_begin: 362600
   sound_end: 363760
   sentence: 「さあ行こう」
-  words:
-    - word: さあ
-      position: 1
-    - word: 行こう
-      base: 行く
-      position: 3
 - id: Kinoko Kaigi-f000102
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -2768,19 +806,6 @@
   sound_begin: 363760
   sound_end: 365520
   sentence: と言われますと、
-  words:
-    - word: と
-      position: 0
-    - word: 言わ
-      base: 言う
-      position: 1
-    - word: れ
-      base: れる
-      position: 3
-    - word: ます
-      position: 4
-    - word: と
-      position: 6
 - id: Kinoko Kaigi-f000103
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -2789,25 +814,6 @@
   sound_begin: 365520
   sound_end: 369270
   sentence: 姉さんと坊ちゃんが立ち止まって、
-  words:
-    - word: 姉さん
-      position: 0
-    - word: と
-      position: 3
-    - word: 坊
-      position: 4
-    - word: ちゃん
-      position: 5
-    - word: が
-      position: 8
-    - word: 立ち
-      base: 立つ
-      position: 9
-    - word: 止まっ
-      base: 止まる
-      position: 11
-    - word: て
-      position: 14
 - id: Kinoko Kaigi-f000104
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -2816,9 +822,6 @@
   sound_begin: 369270
   sound_end: 370400
   sentence: 「まあ、
-  words:
-    - word: まあ
-      position: 1
 - id: Kinoko Kaigi-f000105
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -2827,34 +830,6 @@
   sound_begin: 370400
   sound_end: 375360
   sentence: 毒茸はみんな憎らしい恰好をしている事ねえ」
-  words:
-    - word: 毒茸
-      position: 0
-    - word: は
-      position: 2
-    - word: みんな
-      base: 皆
-      position: 3
-    - word: 憎らしい
-      position: 6
-    - word: 恰好
-      base: 格好
-      position: 10
-    - word: を
-      position: 12
-    - word: し
-      base: 為る
-      position: 13
-    - word: て
-      position: 14
-    - word: いる
-      base: 居る
-      position: 15
-    - word: 事
-      position: 17
-    - word: ねえ
-      base: ね
-      position: 18
 - id: Kinoko Kaigi-f000106
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -2863,10 +838,6 @@
   sound_begin: 375360
   sound_end: 375960
   sentence: 「ウン、
-  words:
-    - word: ウン
-      base: うん
-      position: 1
 - id: Kinoko Kaigi-f000107
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -2875,21 +846,6 @@
   sound_begin: 375960
   sound_end: 378302
   sentence: 僕が征伐してやろう」
-  words:
-    - word: 僕
-      position: 0
-    - word: が
-      position: 1
-    - word: 征伐
-      position: 2
-    - word: し
-      base: 為る
-      position: 4
-    - word: て
-      position: 5
-    - word: やろう
-      base: 遣る
-      position: 6
 - id: Kinoko Kaigi-f000108
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -2898,17 +854,6 @@
   sound_begin: 378302
   sound_end: 380431
   sentence: といううちに、
-  words:
-    - word: と
-      position: 0
-    - word: いう
-      base: 言う
-      position: 1
-    - word: うち
-      base: 内
-      position: 3
-    - word: に
-      position: 5
 - id: Kinoko Kaigi-f000109
   author_japanese: 夢野 久作
   deck_name: Kinoko Kaigi
@@ -2917,57 +862,3 @@
   sound_begin: 380431
   sound_end: 393760
   sentence: 片っ端から毒茸共は大きいのも小さいのも根本まで木っ葉微塵に踏み潰されてしまいました。
-  words:
-    - word: 片っ端
-      base: 片端
-      position: 0
-    - word: から
-      position: 3
-    - word: 毒茸
-      position: 5
-    - word: 共
-      position: 7
-    - word: は
-      position: 8
-    - word: 大きい
-      position: 9
-    - word: の
-      position: 12
-    - word: も
-      position: 13
-    - word: 小さい
-      position: 14
-    - word: の
-      position: 17
-    - word: も
-      position: 18
-    - word: 根本
-      position: 19
-    - word: まで
-      position: 21
-    - word: 木っ葉
-      base: 木端
-      position: 23
-    - word: 微塵
-      position: 26
-    - word: に
-      position: 28
-    - word: 踏み
-      base: 踏む
-      position: 29
-    - word: 潰さ
-      base: 潰す
-      position: 31
-    - word: れ
-      base: れる
-      position: 33
-    - word: て
-      position: 34
-    - word: しまい
-      base: 仕舞う
-      position: 35
-    - word: まし
-      base: ます
-      position: 38
-    - word: た
-      position: 40

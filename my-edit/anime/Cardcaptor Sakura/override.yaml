@@ -4,99 +4,38 @@
   sound: A_CardCaptorSakura05_1_0.14.37.305-0.14.38.723.mp3
   sentence: それが“跳(ジャンプ)”のカードや
   words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: が
-      position: 2
-    - word: 跳
-      base: 飛ぶ
-      dictionary: 跳る
-      position: 4
     - word: ジャンプ
       position: 6
       tags:
         - silent
-    - word: の
-      position: 12
-    - word: カード
-      position: 13
-    - word: や
-      position: 16
 - id: A_CardCaptorSakura_E05_01329
   deck_name: Cardcaptor Sakura
   translation: Man, what a mess we got into...
   sound: A_CardCaptorSakura05_1_0.17.58.840-0.18.01.384.mp3
   sentence: あ～　えらい目に遭(お)うたわ…　ん？
   words:
-    - word: あ
-      base: あっ
-      position: 0
-    - word: ～
-      position: 1
-    - word: えらい
-      base: 偉い
-      position: 3
-    - word: 目
-      position: 6
-    - word: に
-      position: 7
-    - word: 遭
-      position: 8
     - word: お
       base: おっ
       position: 10
       tags:
         - silent
-    - word: うた
-      base: 歌
-      position: 12
-    - word: わ
-      position: 14
-    - word: ん
-      base: んっ
-      position: 17
 - id: A_CardCaptorSakura_E07_01997
   deck_name: Cardcaptor Sakura
   translation: This is different from the usual battle costume...
   sound: A_CardCaptorSakura07_1_0.23.50.654-0.23.53.032.mp3
   sentence: これは　いつもの　バトルコスチュームと違(ちご)て
   words:
-    - word: これ
-      base: 此れ
-      position: 0
-    - word: は
-      position: 2
-    - word: いつも
-      position: 4
-    - word: の
-      position: 7
-    - word: バトル
-      position: 9
-    - word: コスチューム
-      position: 12
-    - word: と
-      position: 18
-    - word: 違
-      position: 19
     - word: ちご
       base: 稚児
       position: 21
       tags:
         - silent
-    - word: て
-      base: って
-      position: 24
 - id: A_CardCaptorSakura_E08_02223
   deck_name: Cardcaptor Sakura
   translation: JUMP!
   sound: A_CardCaptorSakura08_1_0.18.38.469-0.18.39.637.mp3
   sentence: 跳(ジャンプ)！
   words:
-    - word: 跳
-      base: 飛ぶ
-      dictionary: 跳る
-      position: 0
     - word: ジャンプ
       position: 2
       tags:
@@ -107,10 +46,6 @@
   sound: A_CardCaptorSakura09_1_0.14.05.880-0.14.06.881.mp3
   sentence: 跳(ジャンプ)！
   words:
-    - word: 跳
-      base: 飛ぶ
-      dictionary: 跳る
-      position: 0
     - word: ジャンプ
       position: 2
       tags:
@@ -121,10 +56,6 @@
   sound: A_CardCaptorSakura13_1_0.16.41.449-0.16.42.535.mp3
   sentence: 跳(ジャンプ)！
   words:
-    - word: 跳
-      base: 飛ぶ
-      dictionary: 跳る
-      position: 0
     - word: ジャンプ
       position: 2
       tags:
@@ -135,43 +66,16 @@
   sound: A_CardCaptorSakura15_1_0.18.08.196-0.18.11.240.mp3
   sentence: “浮(フロート)”のカードやな　あかねを返せーっ！
   words:
-    - word: 浮
-      base: 浮き
-      position: 1
     - word: フロート
       position: 3
       tags:
         - silent
-    - word: の
-      position: 9
-    - word: カード
-      position: 10
-    - word: や
-      position: 13
-    - word: な
-      position: 14
-    - word: あかね
-      base: 茜
-      position: 16
-    - word: を
-      position: 19
-    - word: 返せ
-      base: 返す
-      dictionary: 返す
-      position: 20
-    - word: ー
-      position: 22
-    - word: っ
-      position: 23
 - id: A_CardCaptorSakura_E17_04729
   deck_name: Cardcaptor Sakura
   translation: FLOAT!
   sound: A_CardCaptorSakura17_1_0.18.29.747-0.18.31.290.mp3
   sentence: 浮(フロート)！
   words:
-    - word: 浮
-      base: 浮き
-      position: 0
     - word: フロート
       position: 2
       tags:
@@ -182,187 +86,51 @@
   sound: A_CardCaptorSakura19_1_0.08.54.004-0.08.57.677.mp3
   sentence: 知世　こんな簡単な問題　間違(ちご)うたら　あかんで
   words:
-    - word: 知世
-      position: 0
-    - word: こんな
-      position: 3
-    - word: 簡単
-      position: 6
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 8
-    - word: 問題
-      position: 9
-    - word: 間
-      position: 12
-    - word: 違
-      position: 13
     - word: ちご
       base: 稚児
       position: 15
       tags:
         - silent
-    - word: う
-      base: 得る
-      position: 18
-    - word: たら
-      base: た
-      dictionary: た
-      position: 19
-    - word: あか
-      base: あく
-      dictionary: あく
-      position: 22
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 24
-    - word: で
-      position: 25
 - id: A_CardCaptorSakura_E19_05179
   deck_name: Cardcaptor Sakura
   translation: So, you buy it with a 1000 yen bill, and get some change back!
   sound: A_CardCaptorSakura19_1_0.09.05.610-0.09.09.451.mp3
   sentence: せやから千円札　払(はろ)うて　釣りもろたらええやんけ　ううっ…
   words:
-    - word: せや
-      position: 0
-    - word: から
-      position: 2
-    - word: 千
-      base: '1000'
-      position: 4
-    - word: 円
-      position: 5
-    - word: 札
-      position: 6
-    - word: 払
-      base: 払い
-      position: 8
     - word: はろ
       base: はる
       dictionary: はる
       position: 10
       tags:
         - silent
-    - word: うて
-      base: 打つ
-      dictionary: うてる
-      position: 13
-    - word: 釣り
-      position: 16
-    - word: もろ
-      base: 貰う
-      dictionary: もらう
-      position: 18
-    - word: たら
-      base: た
-      dictionary: た
-      position: 20
-    - word: え
-      base: えー
-      position: 22
-    - word: え
-      base: えー
-      position: 23
-    - word: やん
-      base: 遣る
-      dictionary: やる
-      position: 24
-    - word: け
-      position: 26
-    - word: ううっ
-      base: うう
-      position: 28
 - id: A_CardCaptorSakura_E20_05541
   deck_name: Cardcaptor Sakura
   translation: Sakura! That's the FIGHT card!
   sound: A_CardCaptorSakura20_1_0.15.58.746-0.16.01.791.mp3
   sentence: さくら！　あいつは“闘(ファイト)”のカードや！　えっ？
   words:
-    - word: さくら
-      base: 桜
-      position: 0
-    - word: あいつ
-      base: 彼奴
-      position: 5
-    - word: は
-      position: 8
-    - word: 闘
-      position: 10
     - word: ファイト
       position: 12
       tags:
         - silent
-    - word: の
-      position: 18
-    - word: カード
-      position: 19
-    - word: や
-      position: 22
-    - word: えっ
-      position: 25
 - id: A_CardCaptorSakura_E20_05637
   deck_name: Cardcaptor Sakura
   translation: Well, maybe Tomoyo had that lack of coordination in mind.
   sound: A_CardCaptorSakura20_1_0.24.24.209-0.24.27.879.mp3
   sentence: まっ　知世も―　そのアンバランス加減を　狙(ねろ)たのかもしれへんな
   words:
-    - word: まっ
-      base: 待つ
-      dictionary: まつ
-      position: 0
-    - word: 知世
-      position: 3
-    - word: も
-      position: 5
-    - word: その
-      base: 其の
-      position: 8
-    - word: アンバランス
-      position: 10
-    - word: 加減
-      position: 16
-    - word: を
-      position: 18
-    - word: 狙
-      base: 狙い
-      position: 20
     - word: ねろ
       base: 練る
       dictionary: ねる
       position: 22
       tags:
         - silent
-    - word: た
-      position: 25
-    - word: の
-      position: 26
-    - word: か
-      position: 27
-    - word: も
-      position: 28
-    - word: しれ
-      base: 知る
-      dictionary: しれる
-      position: 29
-    - word: へん
-      position: 31
-    - word: な
-      position: 33
 - id: A_CardCaptorSakura_E22_06134
   deck_name: Cardcaptor Sakura
   translation: JUMP!
   sound: A_CardCaptorSakura22_1_0.15.27.743-0.15.29.829.mp3
   sentence: あっ！　跳(ジャンプ)！
   words:
-    - word: あっ
-      position: 0
-    - word: 跳
-      base: 飛ぶ
-      dictionary: 跳る
-      position: 4
     - word: ジャンプ
       position: 6
       tags:
@@ -373,21 +141,10 @@
   sound: A_CardCaptorSakura23_1_0.16.32.556-0.16.35.935.mp3
   sentence: “歌(ソング)”のカードだ　あああ…
   words:
-    - word: 歌
-      position: 1
     - word: ソング
       position: 3
       tags:
         - silent
-    - word: の
-      position: 8
-    - word: カード
-      position: 9
-    - word: だ
-      position: 12
-    - word: あああ
-      base: ああ
-      position: 14
 - id: A_CardCaptorSakura_E23_06510
   deck_name: Cardcaptor Sakura
   translation: ...riding on the wings of dreams.
@@ -410,127 +167,45 @@
       position: 4
       tags:
         - silent
-    - word: 乗っ
-      base: 乗る
-      dictionary: 乗る
-      position: 6
-    - word: て
-      position: 8
 - id: A_CardCaptorSakura_E24_06756
   deck_name: Cardcaptor Sakura
   translation: It's a rather simplistic design compared to the ones in the past.
   sound: A_CardCaptorSakura24_24_0.24.19.594-0.24.22.639.mp3
   sentence: なんか　今までと違(ちご)て　シンプルなデザインやろ？
   words:
-    - word: なん
-      base: 何
-      position: 0
-    - word: か
-      position: 2
-    - word: 今
-      position: 4
-    - word: まで
-      position: 5
-    - word: と
-      position: 7
-    - word: 違
-      position: 8
     - word: ちご
       base: 稚児
       position: 10
       tags:
         - silent
-    - word: て
-      base: って
-      position: 13
-    - word: シンプル
-      position: 15
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 19
-    - word: デザイン
-      position: 20
-    - word: やろ
-      base: や
-      dictionary: や
-      position: 24
 - id: A_CardCaptorSakura_E25_06924
   deck_name: Cardcaptor Sakura
   translation: What the card is currently after.
   sound: A_CardCaptorSakura24_25_0.12.02.700-0.12.04.618.mp3
   sentence: 今　カードが狙(ねろ)てるもん
   words:
-    - word: 今
-      position: 0
-    - word: カード
-      position: 2
-    - word: が
-      position: 5
-    - word: 狙
-      base: 狙い
-      position: 6
     - word: ねろ
       base: 練る
       dictionary: ねる
       position: 8
       tags:
         - silent
-    - word: てる
-      position: 11
-    - word: もん
-      base: もの
-      position: 13
 - id: A_CardCaptorSakura_E27_07453
   deck_name: Cardcaptor Sakura
   translation: MAZE, that I captured yesterday, was here, too.
   sound: A_CardCaptorSakura24_27_0.09.45.467-0.09.48.261.mp3
   sentence: 昨日捕まえた“迷(メイズ)”も　ここにいたんだよ
   words:
-    - word: 昨日
-      position: 0
-    - word: 捕まえ
-      base: 捕まえる
-      dictionary: 捕まえる
-      position: 2
-    - word: た
-      position: 5
-    - word: 迷
-      position: 7
     - word: メイズ
       position: 9
       tags:
         - silent
-    - word: も
-      position: 14
-    - word: ここ
-      base: 此処
-      position: 16
-    - word: に
-      position: 18
-    - word: い
-      base: 居る
-      dictionary: いる
-      position: 19
-    - word: た
-      position: 20
-    - word: ん
-      base: の
-      position: 21
-    - word: だ
-      position: 22
-    - word: よ
-      position: 23
 - id: A_CardCaptorSakura_E27_07533
   deck_name: Cardcaptor Sakura
   translation: JUMP!
   sound: A_CardCaptorSakura24_27_0.15.41.522-0.15.42.273.mp3
   sentence: 跳(ジャンプ)！
   words:
-    - word: 跳
-      base: 飛ぶ
-      dictionary: 跳る
-      position: 0
     - word: ジャンプ
       position: 2
       tags:
@@ -541,8 +216,6 @@
   sound: A_CardCaptorSakura24_28_0.12.47.474-0.12.48.308.mp3
   sentence: 撃(ショット)！
   words:
-    - word: 撃
-      position: 0
     - word: ショット
       position: 2
       tags:
@@ -553,26 +226,17 @@
   sound: A_CardCaptorSakura24_28_0.15.12.895-0.15.13.771.mp3
   sentence: 違(ちご)たな
   words:
-    - word: 違
-      position: 0
     - word: ちご
       base: 稚児
       position: 2
       tags:
         - silent
-    - word: たな
-      base: 棚
-      position: 5
 - id: A_CardCaptorSakura_E33_09329
   deck_name: Cardcaptor Sakura
   translation: JUMP!
   sound: A_CardCaptorSakura24_33_0.18.00.750-0.18.01.586.mp3
   sentence: 跳(ジャンプ)！
   words:
-    - word: 跳
-      base: 飛ぶ
-      dictionary: 跳る
-      position: 0
     - word: ジャンプ
       position: 2
       tags:
@@ -583,144 +247,48 @@
   sound: A_CardCaptorSakura36_36_0.15.42.980-0.15.45.400.mp3
   sentence: お前も“浮(フロート)”のカード　使えばいいだろ
   words:
-    - word: お前
-      base: 御前
-      position: 0
-    - word: も
-      position: 2
-    - word: 浮
-      base: 浮き
-      position: 4
     - word: フロート
       position: 6
       tags:
         - silent
-    - word: の
-      position: 12
-    - word: カード
-      position: 13
-    - word: 使え
-      base: 使う
-      dictionary: 使う
-      position: 17
-    - word: ば
-      position: 19
-    - word: いい
-      base: 良い
-      position: 20
-    - word: だろ
-      base: だ
-      dictionary: だ
-      position: 22
 - id: A_CardCaptorSakura_E36_10070
   deck_name: Cardcaptor Sakura
   translation: This snow is after ones with magical powers!
   sound: A_CardCaptorSakura36_36_0.17.05.730-0.17.08.340.mp3
   sentence: この雪　魔力のあるもん　狙(ねろ)とるんや
   words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: 雪
-      position: 2
-    - word: 魔力
-      position: 4
-    - word: の
-      position: 6
-    - word: ある
-      base: 有る
-      position: 7
-    - word: もん
-      position: 9
-    - word: 狙
-      base: 狙い
-      position: 12
     - word: ねろ
       base: 練る
       dictionary: ねる
       position: 14
       tags:
         - silent
-    - word: とる
-      base: 取る
-      position: 17
-    - word: ん
-      base: の
-      position: 19
-    - word: や
-      position: 20
 - id: A_CardCaptorSakura_E37_10307
   deck_name: Cardcaptor Sakura
   translation: Tomoyo chan was copied during the SONG Card, too!
   sound: A_CardCaptorSakura36_37_0.16.43.020-0.16.46.730.mp3
   sentence: 知世ちゃん“歌(ソング)”のときも　カードにマネされて
   words:
-    - word: 知世
-      position: 0
-    - word: ちゃん
-      position: 2
-    - word: 歌
-      position: 6
     - word: ソング
       position: 8
       tags:
         - silent
-    - word: の
-      position: 13
-    - word: とき
-      base: 時
-      position: 14
-    - word: も
-      position: 16
-    - word: カード
-      position: 18
-    - word: に
-      position: 21
-    - word: マネ
-      position: 22
-    - word: さ
-      base: 為る
-      dictionary: する
-      position: 24
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 25
-    - word: て
-      position: 26
 - id: A_CardCaptorSakura_E38_10544
   deck_name: Cardcaptor Sakura
   translation: It's just like when we were in the MAZE.
   sound: A_CardCaptorSakura36_38_0.15.49.730-0.15.51.440.mp3
   sentence: “迷(メイズ)”のときと同じだ
   words:
-    - word: 迷
-      position: 1
     - word: メイズ
       position: 3
       tags:
         - silent
-    - word: の
-      position: 8
-    - word: とき
-      base: 時
-      position: 9
-    - word: と
-      position: 11
-    - word: 同じ
-      position: 12
-    - word: だ
-      position: 14
 - id: A_CardCaptorSakura_E43_11812
   deck_name: Cardcaptor Sakura
   translation: JUMP!
   sound: A_CardCaptorSakura36_43_0.16.54.050-0.16.54.940.mp3
   sentence: 跳(ジャンプ)！
   words:
-    - word: 跳
-      base: 飛ぶ
-      dictionary: 跳る
-      position: 0
     - word: ジャンプ
       position: 2
       tags:
@@ -731,16 +299,6 @@
   sound: A_CardCaptorSakura36_45_0.07.59.330-0.08.02.090.mp3
   sentence: けど　もし　間違(まちご)うたカードやったら…
   words:
-    - word: けど
-      base: けれど
-      position: 0
-    - word: もし
-      base: 若し
-      position: 3
-    - word: 間
-      position: 6
-    - word: 違
-      position: 7
     - word: まち
       position: 9
       tags:
@@ -750,81 +308,23 @@
       position: 11
       tags:
         - silent
-    - word: うた
-      base: 歌
-      position: 13
-    - word: カード
-      position: 15
-    - word: やっ
-      base: 遣る
-      dictionary: やる
-      position: 18
-    - word: たら
-      base: た
-      dictionary: た
-      position: 20
 - id: A_CardCaptorSakura_E48_12987
   deck_name: Cardcaptor Sakura
   translation: Well, unlike Yue, I can eat depending on my needs.
   sound: A_CardCaptorSakura36_48_0.12.18.550-0.12.24.010.mp3
   sentence: まあ　わいは　ユエと違(ちご)て　食えるさかい　必要に応じてな
   words:
-    - word: まあ
-      position: 0
-    - word: わい
-      base: わく
-      dictionary: わく
-      position: 3
-    - word: は
-      position: 5
-    - word: ユエ
-      base: フエ
-      position: 7
-    - word: と
-      position: 9
-    - word: 違
-      position: 10
     - word: ちご
       base: 稚児
       position: 12
       tags:
         - silent
-    - word: て
-      base: って
-      position: 15
-    - word: 食える
-      base: 食う
-      position: 17
-    - word: さかい
-      position: 20
-    - word: 必要
-      position: 24
-    - word: に
-      position: 26
-    - word: 応じ
-      base: 応ずる
-      dictionary: 応ずる
-      position: 27
-    - word: て
-      position: 29
-    - word: な
-      position: 30
 - id: A_CardCaptorSakura_E49_13256
   deck_name: Cardcaptor Sakura
   translation: Such a seed of kindness
   sound: A_CardCaptorSakura36_49_0.21.35.220-0.21.39.880.mp3
   sentence: そんなやさしさの(種子)
   words:
-    - word: そんな
-      position: 0
-    - word: やさし
-      base: 優しい
-      dictionary: やさしい
-      position: 3
-    - word: さ
-      position: 6
-    - word: の
-      position: 7
     - word: 種子
       position: 9
       tags:
@@ -835,10 +335,6 @@
   sound: A_CardCaptorSakura36_53_0.16.03.200-0.16.04.460.mp3
   sentence: 跳(ジャンプ)！
   words:
-    - word: 跳
-      base: 飛ぶ
-      dictionary: 跳る
-      position: 0
     - word: ジャンプ
       position: 2
       tags:
@@ -849,83 +345,26 @@
   sound: A_CardCaptorSakura36_57_0.21.33.570-0.21.36.270.mp3
   sentence: “浮(フロート)”のカード　使っちゃった
   words:
-    - word: 浮
-      base: 浮き
-      position: 1
     - word: フロート
       position: 3
       tags:
         - silent
-    - word: の
-      position: 9
-    - word: カード
-      position: 10
-    - word: 使っ
-      base: 使う
-      dictionary: 使う
-      position: 14
-    - word: ちゃっ
-      base: ちゃう
-      dictionary: ちゃう
-      position: 16
-    - word: た
-      position: 19
 - id: A_CardCaptorSakura_E59_15634
   deck_name: Cardcaptor Sakura
   translation: I know! If I went through all the walls using the THROUGH Card...!
   sound: A_CardCaptorSakura36_59_0.16.30.890-0.16.35.360.mp3
   sentence: そうだ！　“抜(スルー)”のカードで　どんどん　壁を抜けていったら
   words:
-    - word: そう
-      position: 0
-    - word: だ
-      position: 2
-    - word: 抜
-      base: 抜く
-      dictionary: 抜る
-      position: 6
     - word: スルー
       position: 8
       tags:
         - silent
-    - word: の
-      position: 13
-    - word: カード
-      position: 14
-    - word: で
-      position: 17
-    - word: どんどん
-      position: 19
-    - word: 壁
-      position: 24
-    - word: を
-      position: 25
-    - word: 抜け
-      base: 抜く
-      dictionary: 抜ける
-      position: 26
-    - word: て
-      position: 28
-    - word: いっ
-      base: 行く
-      dictionary: いく
-      position: 29
-    - word: たら
-      base: た
-      dictionary: た
-      position: 31
 - id: A_CardCaptorSakura_E62_16257
   deck_name: Cardcaptor Sakura
   translation: It looks good on you, and the obi belt is just perfect!
   sound: A_CardCaptorSakura36_62_0.01.59.480-0.02.01.820.mp3
   sentence: よう似合(にお)とるし　帯なんか　もう　ぴったしや
   words:
-    - word: よう
-      base: 良く
-      position: 0
-    - word: 似合
-      base: 似合い
-      position: 2
     - word: に
       position: 5
       tags:
@@ -935,34 +374,12 @@
       position: 6
       tags:
         - silent
-    - word: とる
-      base: 取る
-      position: 8
-    - word: し
-      position: 10
-    - word: 帯
-      position: 12
-    - word: なんか
-      position: 13
-    - word: もう
-      position: 17
-    - word: ぴったし
-      base: ぴったり
-      position: 20
-    - word: や
-      position: 24
 - id: A_CardCaptorSakura_E62_16262
   deck_name: Cardcaptor Sakura
   translation: ...such that nobody else can look better than you do in that outfit!
   sound: A_CardCaptorSakura36_62_0.02.12.660-0.02.16.480.mp3
   sentence: よう似合(にお)とるで　ほんま！　フフッ
   words:
-    - word: よう
-      base: 良く
-      position: 0
-    - word: 似合
-      base: 似合い
-      position: 2
     - word: に
       position: 5
       tags:
@@ -972,102 +389,24 @@
       position: 6
       tags:
         - silent
-    - word: とる
-      base: 取る
-      position: 8
-    - word: で
-      position: 10
-    - word: ほんま
-      base: 本真
-      position: 12
-    - word: フフッ
-      base: ふふ
-      position: 17
 - id: A_CardCaptorSakura_E62_16556
   deck_name: Cardcaptor Sakura
   translation: Sakura... did you have a scary moment in the dream?
   sound: A_CardCaptorSakura36_62_0.22.40.620-0.22.44.530.mp3
   sentence: さくら　夢の中で　何か怖い目に遭(お)うたんか？
   words:
-    - word: さくら
-      base: 桜
-      position: 0
-    - word: 夢
-      position: 4
-    - word: の
-      position: 5
-    - word: 中
-      position: 6
-    - word: で
-      position: 7
-    - word: 何
-      position: 9
-    - word: か
-      position: 10
-    - word: 怖い
-      position: 11
-    - word: 目
-      position: 13
-    - word: に
-      position: 14
-    - word: 遭
-      position: 15
     - word: お
       base: おっ
       position: 17
       tags:
         - silent
-    - word: うた
-      base: 打つ
-      dictionary: うつ
-      position: 19
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 21
-    - word: か
-      position: 22
 - id: A_CardCaptorSakura_E63_16586
   deck_name: Cardcaptor Sakura
   translation: Now, I can film Sakura chan In the Pool at any time!
   sound: A_CardCaptorSakura36_63_0.03.31.060-0.03.35.620.mp3
   sentence: これで　いつでも　“さくらちゃん　ＩＮ(イン)　プール”を　撮影できますわ！
   words:
-    - word: これ
-      base: 此れ
-      position: 0
-    - word: で
-      position: 2
-    - word: いつ
-      position: 4
-    - word: で
-      position: 6
-    - word: も
-      position: 7
-    - word: さくら
-      base: 桜
-      position: 10
-    - word: ちゃん
-      position: 13
-    - word: ＩＮ
-      base: IN
-      dictionary: In
-      position: 17
     - word: イン
       position: 20
       tags:
         - silent
-    - word: プール
-      position: 24
-    - word: を
-      position: 28
-    - word: 撮影
-      position: 30
-    - word: でき
-      base: 出来る
-      dictionary: できる
-      position: 32
-    - word: ます
-      position: 34
-    - word: わ
-      position: 36

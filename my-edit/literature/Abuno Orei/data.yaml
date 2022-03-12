@@ -6,13 +6,6 @@
   sound_begin: 6219
   sound_end: 7760
   sentence: 虻のおれい
-  words:
-    - word: 虻
-      position: 0
-    - word: の
-      position: 1
-    - word: おれい
-      position: 2
 - id: Abuno Orei-f000003
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -21,39 +14,6 @@
   sound_begin: 10270
   sound_end: 18317
   sentence: チエ子さんは今年六つになる可愛いお嬢さんでした。
-  words:
-    - word: チエ子
-      position: 0
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
-    - word: 今年
-      position: 6
-    - word: 六
-      base: '6'
-      position: 8
-    - word: つ
-      position: 9
-    - word: に
-      position: 10
-    - word: なる
-      base: 成る
-      position: 11
-    - word: 可愛い
-      position: 13
-    - word: お
-      base: 御
-      position: 16
-    - word: 嬢
-      position: 17
-    - word: さん
-      position: 18
-    - word: でし
-      base: です
-      position: 20
-    - word: た
-      position: 22
 - id: Abuno Orei-f000004
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -62,42 +22,6 @@
   sound_begin: 18317
   sound_end: 24339
   sentence: ある日裏のお庭で一人でおとなしく遊んでいますと、
-  words:
-    - word: ある
-      base: 或る
-      position: 0
-    - word: 日
-      position: 2
-    - word: 裏
-      position: 3
-    - word: の
-      position: 4
-    - word: お
-      base: 御
-      position: 5
-    - word: 庭
-      position: 6
-    - word: で
-      position: 7
-    - word: 一人
-      position: 8
-    - word: で
-      position: 10
-    - word: おとなしく
-      base: 大人しい
-      position: 11
-    - word: 遊ん
-      base: 遊ぶ
-      position: 16
-    - word: で
-      position: 18
-    - word: い
-      base: 居る
-      position: 19
-    - word: ます
-      position: 20
-    - word: と
-      position: 22
 - id: Abuno Orei-f000005
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -106,13 +30,6 @@
   sound_begin: 24339
   sound_end: 29214
   sentence: 「ブルブルブルブル」
-  words:
-    - word: ブルブル
-      base: ぶるぶる
-      position: 1
-    - word: ブルブル
-      base: ぶるぶる
-      position: 5
 - id: Abuno Orei-f000006
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -121,36 +38,6 @@
   sound_begin: 29214
   sound_end: 34360
   sentence: と変な歌のような声がきこえました。
-  words:
-    - word: と
-      position: 0
-    - word: 変
-      position: 1
-    - word: な
-      base: だ
-      position: 2
-    - word: 歌
-      position: 3
-    - word: の
-      position: 4
-    - word: よう
-      base: 様
-      position: 5
-    - word: な
-      base: だ
-      position: 7
-    - word: 声
-      position: 8
-    - word: が
-      position: 9
-    - word: きこえ
-      base: 聞こえる
-      position: 10
-    - word: まし
-      base: ます
-      position: 13
-    - word: た
-      position: 15
 - id: Abuno Orei-f000007
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -159,32 +46,6 @@
   sound_begin: 34360
   sound_end: 37560
   sentence: 何だろうとそこいらを見まわしますと、
-  words:
-    - word: 何
-      position: 0
-    - word: だろう
-      base: だ
-      position: 1
-    - word: と
-      position: 4
-    - word: そこ
-      base: 其処
-      position: 5
-    - word: いら
-      base: 等
-      position: 7
-    - word: を
-      position: 9
-    - word: 見
-      base: 見る
-      position: 10
-    - word: まわし
-      base: 回す
-      position: 11
-    - word: ます
-      position: 14
-    - word: と
-      position: 16
 - id: Abuno Orei-f000008
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -193,56 +54,6 @@
   sound_begin: 37560
   sound_end: 44000
   sentence: そこの白壁によせかけてあったサイダーの瓶に一匹の虻が落ち込んで、
-  words:
-    - word: そこ
-      base: 其処
-      position: 0
-    - word: の
-      position: 2
-    - word: 白壁
-      position: 3
-    - word: に
-      position: 5
-    - word: よせ
-      base: 寄せる
-      position: 6
-    - word: かけ
-      base: 掛ける
-      position: 8
-    - word: て
-      position: 10
-    - word: あっ
-      base: 有る
-      position: 11
-    - word: た
-      position: 13
-    - word: サイダー
-      position: 14
-    - word: の
-      position: 18
-    - word: 瓶
-      position: 19
-    - word: に
-      position: 20
-    - word: 一
-      base: '1'
-      position: 21
-    - word: 匹
-      position: 22
-    - word: の
-      position: 23
-    - word: 虻
-      position: 24
-    - word: が
-      position: 25
-    - word: 落ち
-      base: 落ちる
-      position: 26
-    - word: 込ん
-      base: 込む
-      position: 28
-    - word: で
-      position: 30
 - id: Abuno Orei-f000009
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -251,23 +62,6 @@
   sound_begin: 44000
   sound_end: 47926
   sentence: ブルンブルンと狂いまわりながら、
-  words:
-    - word: ブルン
-      base: ぶるん
-      position: 0
-    - word: ブルン
-      base: ぶるん
-      position: 3
-    - word: と
-      position: 6
-    - word: 狂い
-      base: 狂う
-      position: 7
-    - word: まわり
-      base: 回る
-      position: 9
-    - word: ながら
-      position: 12
 - id: Abuno Orei-f000010
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -276,17 +70,6 @@
   sound_begin: 47926
   sound_end: 52160
   sentence: 「ドウゾ助けて下さい。
-  words:
-    - word: ドウゾ
-      position: 1
-    - word: 助け
-      base: 助ける
-      position: 4
-    - word: て
-      position: 6
-    - word: 下さい
-      base: 下さる
-      position: 7
 - id: Abuno Orei-f000011
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -295,17 +78,6 @@
   sound_begin: 52160
   sound_end: 54480
   sentence: ドウゾ助けて下さい」
-  words:
-    - word: ドウゾ
-      position: 0
-    - word: 助け
-      base: 助ける
-      position: 3
-    - word: て
-      position: 5
-    - word: 下さい
-      base: 下さる
-      position: 6
 - id: Abuno Orei-f000012
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -314,19 +86,6 @@
   sound_begin: 54480
   sound_end: 56280
   sentence: と言っています。
-  words:
-    - word: と
-      position: 0
-    - word: 言っ
-      base: 言う
-      position: 1
-    - word: て
-      position: 3
-    - word: い
-      base: 居る
-      position: 4
-    - word: ます
-      position: 5
 - id: Abuno Orei-f000013
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -335,43 +94,6 @@
   sound_begin: 58280
   sound_end: 62766
   sentence: チエ子さんはすぐに走って行ってその瓶を取り上げて、
-  words:
-    - word: チエ子
-      position: 0
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
-    - word: すぐ
-      base: 直ぐ
-      position: 6
-    - word: に
-      position: 8
-    - word: 走っ
-      base: 走る
-      position: 9
-    - word: て
-      position: 11
-    - word: 行っ
-      base: 行く
-      position: 12
-    - word: て
-      position: 14
-    - word: その
-      base: 其の
-      position: 15
-    - word: 瓶
-      position: 17
-    - word: を
-      position: 18
-    - word: 取り
-      base: 取る
-      position: 19
-    - word: 上げ
-      base: 上げる
-      position: 21
-    - word: て
-      position: 23
 - id: Abuno Orei-f000014
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -380,21 +102,6 @@
   sound_begin: 62766
   sound_end: 65884
   sentence: 口のところからのぞきながら、
-  words:
-    - word: 口
-      position: 0
-    - word: の
-      position: 1
-    - word: ところ
-      base: 所
-      position: 2
-    - word: から
-      position: 5
-    - word: のぞき
-      base: のぞく
-      position: 7
-    - word: ながら
-      position: 10
 - id: Abuno Orei-f000015
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -403,15 +110,6 @@
   sound_begin: 65884
   sound_end: 69343
   sentence: 「虻さん虻さん、
-  words:
-    - word: 虻
-      position: 1
-    - word: さん
-      position: 2
-    - word: 虻
-      position: 4
-    - word: さん
-      position: 5
 - id: Abuno Orei-f000016
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -420,16 +118,6 @@
   sound_begin: 69343
   sound_end: 70965
   sentence: どうしたの」
-  words:
-    - word: どう
-      position: 0
-    - word: し
-      base: 為る
-      position: 2
-    - word: た
-      position: 3
-    - word: の
-      position: 4
 - id: Abuno Orei-f000017
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -438,17 +126,6 @@
   sound_begin: 70965
   sound_end: 73480
   sentence: と言いました。
-  words:
-    - word: と
-      position: 0
-    - word: 言い
-      base: 言う
-      position: 1
-    - word: まし
-      base: ます
-      position: 3
-    - word: た
-      position: 5
 - id: Abuno Orei-f000018
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -457,36 +134,6 @@
   sound_begin: 73480
   sound_end: 79066
   sentence: 虻は狂いまわってビンのガラスのアッチコッチへぶつかりながら、
-  words:
-    - word: 虻
-      position: 0
-    - word: は
-      position: 1
-    - word: 狂い
-      base: 狂う
-      position: 2
-    - word: まわっ
-      base: 回る
-      position: 4
-    - word: て
-      position: 7
-    - word: ビン
-      position: 8
-    - word: の
-      position: 10
-    - word: ガラス
-      position: 11
-    - word: の
-      position: 14
-    - word: アッチコッチ
-      position: 15
-    - word: へ
-      position: 21
-    - word: ぶつかり
-      base: ぶつかる
-      position: 22
-    - word: ながら
-      position: 26
 - id: Abuno Orei-f000019
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -495,16 +142,6 @@
   sound_begin: 79066
   sound_end: 80880
   sentence: 「どうしてか、
-  words:
-    - word: どう
-      position: 1
-    - word: し
-      base: 為る
-      position: 3
-    - word: て
-      position: 4
-    - word: か
-      position: 5
 - id: Abuno Orei-f000020
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -513,23 +150,6 @@
   sound_begin: 80880
   sound_end: 82840
   sentence: 落ち込みましたところが、
-  words:
-    - word: 落ち
-      base: 落ちる
-      position: 0
-    - word: 込み
-      base: 込む
-      position: 2
-    - word: まし
-      base: ます
-      position: 4
-    - word: た
-      position: 6
-    - word: ところ
-      base: 所
-      position: 7
-    - word: が
-      position: 10
 - id: Abuno Orei-f000021
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -538,29 +158,6 @@
   sound_begin: 82840
   sound_end: 85841
   sentence: 出て行かれなくなりました。
-  words:
-    - word: 出
-      base: 出る
-      position: 0
-    - word: て
-      position: 1
-    - word: 行か
-      base: 行く
-      position: 2
-    - word: れ
-      base: れる
-      position: 4
-    - word: なく
-      base: ない
-      position: 5
-    - word: なり
-      base: 成る
-      position: 7
-    - word: まし
-      base: ます
-      position: 9
-    - word: た
-      position: 11
 - id: Abuno Orei-f000022
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -569,15 +166,6 @@
   sound_begin: 85841
   sound_end: 87705
   sentence: 助けて下さい、
-  words:
-    - word: 助け
-      base: 助ける
-      position: 0
-    - word: て
-      position: 2
-    - word: 下さい
-      base: 下さる
-      position: 3
 - id: Abuno Orei-f000023
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -586,15 +174,6 @@
   sound_begin: 87705
   sound_end: 89578
   sentence: 助けて下さい」
-  words:
-    - word: 助け
-      base: 助ける
-      position: 0
-    - word: て
-      position: 2
-    - word: 下さい
-      base: 下さる
-      position: 3
 - id: Abuno Orei-f000024
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -603,22 +182,6 @@
   sound_begin: 89578
   sound_end: 93665
   sentence: と泣いて狂いまわります。
-  words:
-    - word: と
-      position: 0
-    - word: 泣い
-      base: 泣く
-      position: 1
-    - word: て
-      position: 3
-    - word: 狂い
-      base: 狂う
-      position: 4
-    - word: まわり
-      base: 回る
-      position: 6
-    - word: ます
-      position: 9
 - id: Abuno Orei-f000025
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -627,24 +190,6 @@
   sound_begin: 93665
   sound_end: 97120
   sentence: チエ子さんは笑い出しました。
-  words:
-    - word: チエ子
-      position: 0
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
-    - word: 笑い
-      base: 笑う
-      position: 6
-    - word: 出し
-      base: 出す
-      position: 8
-    - word: まし
-      base: ます
-      position: 10
-    - word: た
-      position: 12
 - id: Abuno Orei-f000026
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -653,11 +198,6 @@
   sound_begin: 97120
   sound_end: 98840
   sentence: 「虻さん、
-  words:
-    - word: 虻
-      position: 1
-    - word: さん
-      position: 2
 - id: Abuno Orei-f000027
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -666,20 +206,6 @@
   sound_begin: 98840
   sound_end: 101440
   sentence: お前はバカだねえ。
-  words:
-    - word: お前
-      base: 御前
-      position: 0
-    - word: は
-      position: 2
-    - word: バカ
-      base: ばか
-      position: 3
-    - word: だ
-      position: 5
-    - word: ねえ
-      base: ね
-      position: 6
 - id: Abuno Orei-f000028
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -688,30 +214,6 @@
   sound_begin: 101440
   sound_end: 104687
   sentence: 上の方に穴があるじゃないか。
-  words:
-    - word: 上
-      position: 0
-    - word: の
-      position: 1
-    - word: 方
-      position: 2
-    - word: に
-      position: 3
-    - word: 穴
-      position: 4
-    - word: が
-      position: 5
-    - word: ある
-      base: 有る
-      position: 6
-    - word: じゃ
-      base: だ
-      position: 8
-    - word: ない
-      base: 無い
-      position: 10
-    - word: か
-      position: 12
 - id: Abuno Orei-f000029
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -720,9 +222,6 @@
   sound_begin: 104687
   sound_end: 106058
   sentence: そう、
-  words:
-    - word: そう
-      position: 0
 - id: Abuno Orei-f000030
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -731,21 +230,6 @@
   sound_begin: 106058
   sound_end: 109517
   sentence: あたしの声が聞こえるでしょう。
-  words:
-    - word: あたし
-      base: 私
-      position: 0
-    - word: の
-      position: 3
-    - word: 声
-      position: 4
-    - word: が
-      position: 5
-    - word: 聞こえる
-      position: 6
-    - word: でしょう
-      base: です
-      position: 10
 - id: Abuno Orei-f000031
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -754,26 +238,6 @@
   sound_begin: 109517
   sound_end: 112985
   sentence: その方へ来れば逃げられるよ。
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 方
-      position: 2
-    - word: へ
-      position: 3
-    - word: 来れ
-      base: 来る
-      position: 4
-    - word: ば
-      position: 6
-    - word: 逃げ
-      base: 逃げる
-      position: 7
-    - word: られる
-      position: 9
-    - word: よ
-      position: 12
 - id: Abuno Orei-f000032
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -782,29 +246,6 @@
   sound_begin: 112985
   sound_end: 116000
   sentence: 横の方へ行ってもダメだよ。
-  words:
-    - word: 横
-      position: 0
-    - word: の
-      position: 1
-    - word: 方
-      position: 2
-    - word: へ
-      position: 3
-    - word: 行っ
-      base: 行く
-      position: 4
-    - word: て
-      position: 6
-    - word: も
-      position: 7
-    - word: ダメ
-      base: 駄目
-      position: 8
-    - word: だ
-      position: 10
-    - word: よ
-      position: 11
 - id: Abuno Orei-f000033
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -813,16 +254,6 @@
   sound_begin: 116000
   sound_end: 117986
   sentence: ガラスがあるから」
-  words:
-    - word: ガラス
-      position: 0
-    - word: が
-      position: 3
-    - word: ある
-      base: 有る
-      position: 4
-    - word: から
-      position: 6
 - id: Abuno Orei-f000034
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -831,19 +262,6 @@
   sound_begin: 117986
   sound_end: 119680
   sentence: と言いましたが、
-  words:
-    - word: と
-      position: 0
-    - word: 言い
-      base: 言う
-      position: 1
-    - word: まし
-      base: ます
-      position: 3
-    - word: た
-      position: 5
-    - word: が
-      position: 6
 - id: Abuno Orei-f000035
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -852,23 +270,6 @@
   sound_begin: 119680
   sound_end: 122341
   sentence: 虻はもう夢中になって、
-  words:
-    - word: 虻
-      position: 0
-    - word: は
-      position: 1
-    - word: もう
-      position: 2
-    - word: 夢中
-      position: 4
-    - word: に
-      base: だ
-      position: 6
-    - word: なっ
-      base: 成る
-      position: 7
-    - word: て
-      position: 9
 - id: Abuno Orei-f000036
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -877,13 +278,6 @@
   sound_begin: 122341
   sound_end: 124200
   sentence: 「どこですか、
-  words:
-    - word: どこ
-      position: 1
-    - word: です
-      position: 3
-    - word: か
-      position: 5
 - id: Abuno Orei-f000037
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -892,13 +286,6 @@
   sound_begin: 124200
   sound_end: 125719
   sentence: どこですか」
-  words:
-    - word: どこ
-      position: 0
-    - word: です
-      position: 2
-    - word: か
-      position: 4
 - id: Abuno Orei-f000038
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -907,19 +294,6 @@
   sound_begin: 125719
   sound_end: 127951
   sentence: と狂いまわるばかりです。
-  words:
-    - word: と
-      position: 0
-    - word: 狂い
-      base: 狂う
-      position: 1
-    - word: まわる
-      base: 回る
-      position: 3
-    - word: ばかり
-      position: 6
-    - word: です
-      position: 9
 - id: Abuno Orei-f000039
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -928,31 +302,6 @@
   sound_begin: 129400
   sound_end: 133426
   sentence: チエ子さんは虻が可哀そうになりました。
-  words:
-    - word: チエ子
-      position: 0
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
-    - word: 虻
-      position: 6
-    - word: が
-      position: 7
-    - word: 可哀そう
-      base: 可哀想
-      position: 8
-    - word: に
-      base: だ
-      position: 12
-    - word: なり
-      base: 成る
-      position: 13
-    - word: まし
-      base: ます
-      position: 15
-    - word: た
-      position: 17
 - id: Abuno Orei-f000040
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -961,33 +310,6 @@
   sound_begin: 133426
   sound_end: 136480
   sentence: どうかして助けてやりたいと思って、
-  words:
-    - word: どう
-      position: 0
-    - word: か
-      position: 2
-    - word: し
-      base: 為る
-      position: 3
-    - word: て
-      position: 4
-    - word: 助け
-      base: 助ける
-      position: 5
-    - word: て
-      position: 7
-    - word: やり
-      base: 遣る
-      position: 8
-    - word: たい
-      position: 10
-    - word: と
-      position: 12
-    - word: 思っ
-      base: 思う
-      position: 13
-    - word: て
-      position: 15
 - id: Abuno Orei-f000041
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -996,72 +318,6 @@
   sound_begin: 136480
   sound_end: 144600
   sentence: そこいらに落ちていた棒切れを拾って上から突込んで上の方へ追いやろうとしましたが、
-  words:
-    - word: そこ
-      base: 其処
-      position: 0
-    - word: いら
-      base: 等
-      position: 2
-    - word: に
-      position: 4
-    - word: 落ち
-      base: 落ちる
-      position: 5
-    - word: て
-      position: 7
-    - word: い
-      base: 居る
-      position: 8
-    - word: た
-      position: 9
-    - word: 棒切れ
-      position: 10
-    - word: を
-      position: 13
-    - word: 拾っ
-      base: 拾う
-      position: 14
-    - word: て
-      position: 16
-    - word: 上
-      position: 17
-    - word: から
-      position: 18
-    - word: 突
-      base: 突く
-      position: 20
-    - word: 込ん
-      base: 込む
-      position: 21
-    - word: で
-      position: 23
-    - word: 上
-      position: 24
-    - word: の
-      position: 25
-    - word: 方
-      position: 26
-    - word: へ
-      position: 27
-    - word: 追い
-      base: 追う
-      position: 28
-    - word: やろう
-      base: 遣る
-      position: 30
-    - word: と
-      position: 33
-    - word: し
-      base: 為る
-      position: 34
-    - word: まし
-      base: ます
-      position: 35
-    - word: た
-      position: 37
-    - word: が
-      position: 38
 - id: Abuno Orei-f000042
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -1070,37 +326,6 @@
   sound_begin: 144600
   sound_end: 148280
   sentence: 虻はどうしても上の方へ来ません。
-  words:
-    - word: 虻
-      position: 0
-    - word: は
-      position: 1
-    - word: どう
-      position: 2
-    - word: し
-      base: 為る
-      position: 4
-    - word: て
-      position: 5
-    - word: も
-      position: 6
-    - word: 上
-      position: 7
-    - word: の
-      position: 8
-    - word: 方
-      position: 9
-    - word: へ
-      position: 10
-    - word: 来
-      base: 来る
-      position: 11
-    - word: ませ
-      base: ます
-      position: 12
-    - word: ん
-      base: ず
-      position: 14
 - id: Abuno Orei-f000043
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -1109,39 +334,6 @@
   sound_begin: 148280
   sound_end: 151800
   sentence: うっかりすると棒にさわって殺されそうになります。
-  words:
-    - word: うっかり
-      position: 0
-    - word: する
-      base: 為る
-      position: 4
-    - word: と
-      position: 6
-    - word: 棒
-      position: 7
-    - word: に
-      position: 8
-    - word: さわっ
-      base: さわる
-      position: 9
-    - word: て
-      position: 12
-    - word: 殺さ
-      base: 殺す
-      position: 13
-    - word: れ
-      base: れる
-      position: 15
-    - word: そう
-      position: 16
-    - word: に
-      base: だ
-      position: 18
-    - word: なり
-      base: 成る
-      position: 19
-    - word: ます
-      position: 21
 - id: Abuno Orei-f000044
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -1150,26 +342,6 @@
   sound_begin: 154200
   sound_end: 156560
   sentence: チエ子さんは困ってしまいました。
-  words:
-    - word: チエ子
-      position: 0
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
-    - word: 困っ
-      base: 困る
-      position: 6
-    - word: て
-      position: 8
-    - word: しまい
-      base: 仕舞う
-      position: 9
-    - word: まし
-      base: ます
-      position: 12
-    - word: た
-      position: 14
 - id: Abuno Orei-f000045
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -1178,37 +350,6 @@
   sound_begin: 158160
   sound_end: 163480
   sentence: どうして助けてやろうかといろいろ考えました。
-  words:
-    - word: どう
-      position: 0
-    - word: し
-      base: 為る
-      position: 2
-    - word: て
-      position: 3
-    - word: 助け
-      base: 助ける
-      position: 4
-    - word: て
-      position: 6
-    - word: やろう
-      base: 遣る
-      position: 7
-    - word: か
-      position: 10
-    - word: と
-      position: 11
-    - word: いろいろ
-      base: 色々
-      position: 12
-    - word: 考え
-      base: 考える
-      position: 16
-    - word: まし
-      base: ます
-      position: 18
-    - word: た
-      position: 20
 - id: Abuno Orei-f000046
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -1217,24 +358,6 @@
   sound_begin: 163480
   sound_end: 165080
   sentence: 上から息を吹きこんだり、
-  words:
-    - word: 上
-      position: 0
-    - word: から
-      position: 1
-    - word: 息
-      position: 3
-    - word: を
-      position: 4
-    - word: 吹き
-      base: 吹く
-      position: 5
-    - word: こん
-      base: 込む
-      position: 7
-    - word: だり
-      base: たり
-      position: 9
 - id: Abuno Orei-f000047
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -1243,40 +366,6 @@
   sound_begin: 165080
   sound_end: 170240
   sentence: 瓶をさかさまにして打ちふったりしましたが、
-  words:
-    - word: 瓶
-      position: 0
-    - word: を
-      position: 1
-    - word: さかさま
-      base: 逆様
-      position: 2
-    - word: に
-      base: だ
-      position: 6
-    - word: し
-      base: 為る
-      position: 7
-    - word: て
-      position: 8
-    - word: 打ち
-      base: 打つ
-      position: 9
-    - word: ふっ
-      base: ふる
-      position: 11
-    - word: たり
-      position: 13
-    - word: し
-      base: 為る
-      position: 15
-    - word: まし
-      base: ます
-      position: 16
-    - word: た
-      position: 18
-    - word: が
-      position: 19
 - id: Abuno Orei-f000048
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -1285,31 +374,6 @@
   sound_begin: 170240
   sound_end: 174160
   sentence: 虻はなかなか口の方へ来ません。
-  words:
-    - word: 虻
-      position: 0
-    - word: は
-      position: 1
-    - word: なかなか
-      base: 中々
-      position: 2
-    - word: 口
-      position: 6
-    - word: の
-      position: 7
-    - word: 方
-      position: 8
-    - word: へ
-      position: 9
-    - word: 来
-      base: 来る
-      position: 10
-    - word: ませ
-      base: ます
-      position: 11
-    - word: ん
-      base: ず
-      position: 13
 - id: Abuno Orei-f000049
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -1318,40 +382,6 @@
   sound_begin: 174160
   sound_end: 178439
   sentence: やっぱり横の方へ横の方へと飛んでは打かり、
-  words:
-    - word: やっぱり
-      base: 矢張り
-      position: 0
-    - word: 横
-      position: 4
-    - word: の
-      position: 5
-    - word: 方
-      position: 6
-    - word: へ
-      position: 7
-    - word: 横
-      position: 8
-    - word: の
-      position: 9
-    - word: 方
-      position: 10
-    - word: へ
-      position: 11
-    - word: と
-      position: 12
-    - word: 飛ん
-      base: 飛ぶ
-      position: 13
-    - word: で
-      position: 15
-    - word: は
-      position: 16
-    - word: 打
-      position: 17
-    - word: かり
-      base: 借りる
-      position: 18
 - id: Abuno Orei-f000050
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -1360,20 +390,6 @@
   sound_begin: 178439
   sound_end: 180120
   sentence: 打かっては飛んで、
-  words:
-    - word: 打
-      position: 0
-    - word: か
-      position: 1
-    - word: って
-      position: 2
-    - word: は
-      position: 4
-    - word: 飛ん
-      base: 飛ぶ
-      position: 5
-    - word: で
-      position: 7
 - id: Abuno Orei-f000051
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -1382,22 +398,6 @@
   sound_begin: 180120
   sound_end: 181840
   sentence: 死ぬ程苦しんでいます。
-  words:
-    - word: 死ぬ
-      position: 0
-    - word: 程
-      base: ほど
-      position: 2
-    - word: 苦しん
-      base: 苦しむ
-      position: 3
-    - word: で
-      position: 6
-    - word: い
-      base: 居る
-      position: 7
-    - word: ます
-      position: 8
 - id: Abuno Orei-f000052
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -1406,23 +406,6 @@
   sound_begin: 183840
   sound_end: 187880
   sentence: チエ子さんは又考えました。
-  words:
-    - word: チエ子
-      position: 0
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
-    - word: 又
-      position: 6
-    - word: 考え
-      base: 考える
-      position: 7
-    - word: まし
-      base: ます
-      position: 9
-    - word: た
-      position: 11
 - id: Abuno Orei-f000053
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -1431,40 +414,6 @@
   sound_begin: 187880
   sound_end: 192796
   sentence: どうかして助けたいと一所懸命に考えましたが、
-  words:
-    - word: どう
-      position: 0
-    - word: か
-      position: 2
-    - word: し
-      base: 為る
-      position: 3
-    - word: て
-      position: 4
-    - word: 助け
-      base: 助ける
-      position: 5
-    - word: たい
-      position: 7
-    - word: と
-      position: 9
-    - word: 一所
-      position: 10
-    - word: 懸命
-      position: 12
-    - word: に
-      base: だ
-      position: 14
-    - word: 考え
-      base: 考える
-      position: 15
-    - word: まし
-      base: ます
-      position: 17
-    - word: た
-      position: 19
-    - word: が
-      position: 20
 - id: Abuno Orei-f000054
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -1473,33 +422,6 @@
   sound_begin: 192796
   sound_end: 198160
   sentence: とうとう一つうまいことを考え出しまして、
-  words:
-    - word: とうとう
-      base: 到頭
-      position: 0
-    - word: 一
-      base: '1'
-      position: 4
-    - word: つ
-      position: 5
-    - word: うまい
-      base: 旨い
-      position: 6
-    - word: こと
-      position: 9
-    - word: を
-      position: 11
-    - word: 考え
-      base: 考える
-      position: 12
-    - word: 出し
-      base: 出す
-      position: 14
-    - word: まし
-      base: ます
-      position: 16
-    - word: て
-      position: 18
 - id: Abuno Orei-f000055
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -1508,47 +430,6 @@
   sound_begin: 198160
   sound_end: 202320
   sentence: 瓶を手に持ったままお台所の方へ走って行きました。
-  words:
-    - word: 瓶
-      position: 0
-    - word: を
-      position: 1
-    - word: 手
-      position: 2
-    - word: に
-      position: 3
-    - word: 持っ
-      base: 持つ
-      position: 4
-    - word: た
-      position: 6
-    - word: まま
-      base: 侭
-      position: 7
-    - word: お
-      base: 御
-      position: 9
-    - word: 台所
-      position: 10
-    - word: の
-      position: 12
-    - word: 方
-      position: 13
-    - word: へ
-      position: 14
-    - word: 走っ
-      base: 走る
-      position: 15
-    - word: て
-      position: 17
-    - word: 行き
-      base: 行く
-      position: 18
-    - word: まし
-      base: ます
-      position: 20
-    - word: た
-      position: 22
 - id: Abuno Orei-f000056
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -1557,22 +438,6 @@
   sound_begin: 204320
   sound_end: 206720
   sentence: チエ子さんは台所に行って、
-  words:
-    - word: チエ子
-      position: 0
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
-    - word: 台所
-      position: 6
-    - word: に
-      position: 8
-    - word: 行っ
-      base: 行く
-      position: 9
-    - word: て
-      position: 11
 - id: Abuno Orei-f000057
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -1581,53 +446,6 @@
   sound_begin: 206720
   sound_end: 213400
   sentence: サイダーを飲むときの麦わらとコップを一つお母さまから貸していただきました。
-  words:
-    - word: サイダー
-      position: 0
-    - word: を
-      position: 4
-    - word: 飲む
-      position: 5
-    - word: とき
-      base: 時
-      position: 7
-    - word: の
-      position: 9
-    - word: 麦わら
-      base: 麦藁
-      position: 10
-    - word: と
-      position: 13
-    - word: コップ
-      position: 14
-    - word: を
-      position: 17
-    - word: 一
-      base: '1'
-      position: 18
-    - word: つ
-      position: 19
-    - word: お
-      base: 御
-      position: 20
-    - word: 母さま
-      base: 母様
-      position: 21
-    - word: から
-      position: 24
-    - word: 貸し
-      base: 貸す
-      position: 26
-    - word: て
-      position: 28
-    - word: いただき
-      base: 頂く
-      position: 29
-    - word: まし
-      base: ます
-      position: 33
-    - word: た
-      position: 35
 - id: Abuno Orei-f000058
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -1636,36 +454,6 @@
   sound_begin: 215000
   sound_end: 219960
   sentence: そのコップに水を入れて麦わらで吸い取って、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: コップ
-      position: 2
-    - word: に
-      position: 5
-    - word: 水
-      position: 6
-    - word: を
-      position: 7
-    - word: 入れ
-      base: 入れる
-      position: 8
-    - word: て
-      position: 10
-    - word: 麦わら
-      base: 麦藁
-      position: 11
-    - word: で
-      position: 14
-    - word: 吸い
-      base: 吸う
-      position: 15
-    - word: 取っ
-      base: 取る
-      position: 17
-    - word: て
-      position: 19
 - id: Abuno Orei-f000059
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -1674,55 +462,6 @@
   sound_begin: 219960
   sound_end: 227200
   sentence: 虻がジッとしているときにすこしずつ瓶の中に吹き込んでやりますと、
-  words:
-    - word: 虻
-      position: 0
-    - word: が
-      position: 1
-    - word: ジッと
-      base: じっと
-      position: 2
-    - word: し
-      base: 為る
-      position: 5
-    - word: て
-      position: 6
-    - word: いる
-      base: 居る
-      position: 7
-    - word: とき
-      base: 時
-      position: 9
-    - word: に
-      position: 11
-    - word: すこし
-      base: 少し
-      position: 12
-    - word: ずつ
-      position: 15
-    - word: 瓶
-      position: 17
-    - word: の
-      position: 18
-    - word: 中
-      position: 19
-    - word: に
-      position: 20
-    - word: 吹き
-      base: 吹く
-      position: 21
-    - word: 込ん
-      base: 込む
-      position: 23
-    - word: で
-      position: 25
-    - word: やり
-      base: 遣る
-      position: 26
-    - word: ます
-      position: 28
-    - word: と
-      position: 30
 - id: Abuno Orei-f000060
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -1731,46 +470,6 @@
   sound_begin: 227200
   sound_end: 232853
   sentence: 虻は水がこわいので段々上の方へやって来ました。
-  words:
-    - word: 虻
-      position: 0
-    - word: は
-      position: 1
-    - word: 水
-      position: 2
-    - word: が
-      position: 3
-    - word: こわい
-      base: 怖い
-      position: 4
-    - word: の
-      position: 7
-    - word: で
-      base: だ
-      position: 8
-    - word: 段々
-      position: 9
-    - word: 上
-      position: 11
-    - word: の
-      position: 12
-    - word: 方
-      position: 13
-    - word: へ
-      position: 14
-    - word: やっ
-      base: 遣る
-      position: 15
-    - word: て
-      position: 17
-    - word: 来
-      base: 来る
-      position: 18
-    - word: まし
-      base: ます
-      position: 19
-    - word: た
-      position: 21
 - id: Abuno Orei-f000061
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -1779,41 +478,6 @@
   sound_begin: 232853
   sound_end: 237880
   sentence: チエ子さんは喜んでもう一いき水を吹いてみますと、
-  words:
-    - word: チエ子
-      position: 0
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
-    - word: 喜ん
-      base: 喜ぶ
-      position: 6
-    - word: で
-      position: 8
-    - word: もう
-      position: 9
-    - word: 一
-      base: '1'
-      position: 11
-    - word: いき
-      position: 12
-    - word: 水
-      position: 14
-    - word: を
-      position: 15
-    - word: 吹い
-      base: 吹く
-      position: 16
-    - word: て
-      position: 18
-    - word: み
-      base: 見る
-      position: 19
-    - word: ます
-      position: 20
-    - word: と
-      position: 22
 - id: Abuno Orei-f000062
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -1822,68 +486,6 @@
   sound_begin: 237880
   sound_end: 244720
   sentence: どうしたものか虻は又あわて出してブルブルと飛ぶ拍子に水の中へ落ち込んでしまいました。
-  words:
-    - word: どう
-      position: 0
-    - word: し
-      base: 為る
-      position: 2
-    - word: た
-      position: 3
-    - word: もの
-      base: 物
-      position: 4
-    - word: か
-      position: 6
-    - word: 虻
-      position: 7
-    - word: は
-      position: 8
-    - word: 又
-      position: 9
-    - word: あわて
-      base: 慌てる
-      position: 10
-    - word: 出し
-      base: 出す
-      position: 13
-    - word: て
-      position: 15
-    - word: ブルブル
-      base: ぶるぶる
-      position: 16
-    - word: と
-      position: 20
-    - word: 飛ぶ
-      position: 21
-    - word: 拍子
-      position: 23
-    - word: に
-      position: 25
-    - word: 水
-      position: 26
-    - word: の
-      position: 27
-    - word: 中
-      position: 28
-    - word: へ
-      position: 29
-    - word: 落ち
-      base: 落ちる
-      position: 30
-    - word: 込ん
-      base: 込む
-      position: 32
-    - word: で
-      position: 34
-    - word: しまい
-      base: 仕舞う
-      position: 35
-    - word: まし
-      base: ます
-      position: 38
-    - word: た
-      position: 40
 - id: Abuno Orei-f000063
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -1892,35 +494,6 @@
   sound_begin: 246320
   sound_end: 249480
   sentence: チエ子さんはあわてて瓶をさかさまにしますと、
-  words:
-    - word: チエ子
-      position: 0
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
-    - word: あわて
-      base: 慌てる
-      position: 6
-    - word: て
-      position: 9
-    - word: 瓶
-      position: 10
-    - word: を
-      position: 11
-    - word: さかさま
-      base: 逆様
-      position: 12
-    - word: に
-      base: だ
-      position: 16
-    - word: し
-      base: 為る
-      position: 17
-    - word: ます
-      position: 18
-    - word: と
-      position: 20
 - id: Abuno Orei-f000064
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -1929,30 +502,6 @@
   sound_begin: 249480
   sound_end: 252760
   sentence: 水と一諸に虻も流れ出て、
-  words:
-    - word: 水
-      position: 0
-    - word: と
-      position: 1
-    - word: 一
-      base: '1'
-      position: 2
-    - word: 諸
-      position: 3
-    - word: に
-      position: 4
-    - word: 虻
-      position: 5
-    - word: も
-      position: 6
-    - word: 流れ
-      base: 流れる
-      position: 7
-    - word: 出
-      base: 出る
-      position: 9
-    - word: て
-      position: 10
 - id: Abuno Orei-f000065
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -1961,58 +510,6 @@
   sound_begin: 252760
   sound_end: 259360
   sentence: ビショビショに濡れた羽根を引きずりながら苦しそうに地べたの上をはい出しましたが、
-  words:
-    - word: ビショビショ
-      base: びしょびしょ
-      position: 0
-    - word: に
-      position: 6
-    - word: 濡れ
-      base: 濡れる
-      position: 7
-    - word: た
-      position: 9
-    - word: 羽根
-      position: 10
-    - word: を
-      position: 12
-    - word: 引き
-      base: 引く
-      position: 13
-    - word: ずり
-      base: ずる
-      position: 15
-    - word: ながら
-      position: 17
-    - word: 苦し
-      base: 苦しい
-      position: 20
-    - word: そう
-      position: 22
-    - word: に
-      base: だ
-      position: 24
-    - word: 地べた
-      position: 25
-    - word: の
-      position: 28
-    - word: 上
-      position: 29
-    - word: を
-      position: 30
-    - word: はい
-      base: 這う
-      position: 31
-    - word: 出し
-      base: 出す
-      position: 33
-    - word: まし
-      base: ます
-      position: 35
-    - word: た
-      position: 37
-    - word: が
-      position: 38
 - id: Abuno Orei-f000066
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -2021,47 +518,6 @@
   sound_begin: 259360
   sound_end: 265720
   sentence: やがて水のないところへ来て羽根をブルブルとふるわしたと思うと、
-  words:
-    - word: やがて
-      base: 軈て
-      position: 0
-    - word: 水
-      position: 3
-    - word: の
-      position: 4
-    - word: ない
-      base: 無い
-      position: 5
-    - word: ところ
-      base: 所
-      position: 7
-    - word: へ
-      position: 10
-    - word: 来
-      base: 来る
-      position: 11
-    - word: て
-      position: 12
-    - word: 羽根
-      position: 13
-    - word: を
-      position: 15
-    - word: ブルブル
-      base: ぶるぶる
-      position: 16
-    - word: と
-      position: 20
-    - word: ふるわし
-      base: 震わせる
-      position: 21
-    - word: た
-      position: 25
-    - word: と
-      position: 26
-    - word: 思う
-      position: 27
-    - word: と
-      position: 29
 - id: Abuno Orei-f000067
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -2070,15 +526,6 @@
   sound_begin: 265720
   sound_end: 267462
   sentence: 「ありがとう御座います。
-  words:
-    - word: ありがとう
-      base: 有り難う
-      position: 1
-    - word: 御座い
-      base: 御座る
-      position: 6
-    - word: ます
-      position: 9
 - id: Abuno Orei-f000068
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -2087,11 +534,6 @@
   sound_begin: 267462
   sound_end: 269075
   sentence: チエ子さん。
-  words:
-    - word: チエ子
-      position: 0
-    - word: さん
-      position: 3
 - id: Abuno Orei-f000069
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -2100,25 +542,6 @@
   sound_begin: 269075
   sound_end: 274434
   sentence: このおれいはいつかきっといたします」
-  words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: おれい
-      position: 2
-    - word: は
-      position: 5
-    - word: いつ
-      position: 6
-    - word: か
-      position: 8
-    - word: きっと
-      position: 9
-    - word: いたし
-      base: 致す
-      position: 12
-    - word: ます
-      position: 15
 - id: Abuno Orei-f000070
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -2127,34 +550,6 @@
   sound_begin: 274434
   sound_end: 278180
   sentence: と言ううちにブーンと飛んで行きました。
-  words:
-    - word: と
-      position: 0
-    - word: 言う
-      position: 1
-    - word: うち
-      base: 内
-      position: 3
-    - word: に
-      position: 5
-    - word: ブーン
-      base: ぶーん
-      position: 6
-    - word: と
-      position: 9
-    - word: 飛ん
-      base: 飛ぶ
-      position: 10
-    - word: で
-      position: 12
-    - word: 行き
-      base: 行く
-      position: 13
-    - word: まし
-      base: ます
-      position: 15
-    - word: た
-      position: 17
 - id: Abuno Orei-f000071
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -2163,12 +558,6 @@
   sound_begin: 280280
   sound_end: 281960
   sentence: 「お母さん、
-  words:
-    - word: お
-      base: 御
-      position: 1
-    - word: 母さん
-      position: 2
 - id: Abuno Orei-f000072
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -2177,12 +566,6 @@
   sound_begin: 281960
   sound_end: 283601
   sentence: お母さん。
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 母さん
-      position: 1
 - id: Abuno Orei-f000073
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -2191,23 +574,6 @@
   sound_begin: 283601
   sound_end: 287571
   sentence: チエ子は虻を助けました。
-  words:
-    - word: チエ子
-      position: 0
-    - word: は
-      position: 3
-    - word: 虻
-      position: 4
-    - word: を
-      position: 5
-    - word: 助け
-      base: 助ける
-      position: 6
-    - word: まし
-      base: ます
-      position: 8
-    - word: た
-      position: 10
 - id: Abuno Orei-f000074
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -2216,59 +582,6 @@
   sound_begin: 287571
   sound_end: 294866
   sentence: サイダーの瓶の中に落ちていたのを水を入れて外に出してやりました」
-  words:
-    - word: サイダー
-      position: 0
-    - word: の
-      position: 4
-    - word: 瓶
-      position: 5
-    - word: の
-      position: 6
-    - word: 中
-      position: 7
-    - word: に
-      position: 8
-    - word: 落ち
-      base: 落ちる
-      position: 9
-    - word: て
-      position: 11
-    - word: い
-      base: 居る
-      position: 12
-    - word: た
-      position: 13
-    - word: の
-      position: 14
-    - word: を
-      position: 15
-    - word: 水
-      position: 16
-    - word: を
-      position: 17
-    - word: 入れ
-      base: 入れる
-      position: 18
-    - word: て
-      position: 20
-    - word: 外
-      position: 21
-    - word: に
-      position: 22
-    - word: 出し
-      base: 出す
-      position: 23
-    - word: て
-      position: 25
-    - word: やり
-      base: 遣る
-      position: 26
-    - word: まし
-      base: ます
-      position: 28
-    - word: た
-      position: 30
 - id: Abuno Orei-f000075
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -2277,42 +590,6 @@
   sound_begin: 294866
   sound_end: 301400
   sentence: とチエ子さんは大喜びをしながらお母さんにお話しました。
-  words:
-    - word: と
-      position: 0
-    - word: チエ子
-      position: 1
-    - word: さん
-      position: 4
-    - word: は
-      position: 6
-    - word: 大喜び
-      position: 7
-    - word: を
-      position: 10
-    - word: し
-      base: 為る
-      position: 11
-    - word: ながら
-      position: 12
-    - word: お
-      base: 御
-      position: 15
-    - word: 母さん
-      position: 16
-    - word: に
-      position: 19
-    - word: お
-      base: 御
-      position: 20
-    - word: 話し
-      base: 話す
-      position: 21
-    - word: まし
-      base: ます
-      position: 23
-    - word: た
-      position: 25
 - id: Abuno Orei-f000076
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -2321,9 +598,6 @@
   sound_begin: 301400
   sound_end: 302895
   sentence: 「そう。
-  words:
-    - word: そう
-      position: 1
 - id: Abuno Orei-f000077
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -2332,20 +606,6 @@
   sound_begin: 302895
   sound_end: 305924
   sentence: チエ子さんはお利口ね。
-  words:
-    - word: チエ子
-      position: 0
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
-    - word: お
-      base: 御
-      position: 6
-    - word: 利口
-      position: 7
-    - word: ね
-      position: 9
 - id: Abuno Orei-f000078
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -2354,22 +614,6 @@
   sound_begin: 305924
   sound_end: 308846
   sentence: けれども虻は刺しますから、
-  words:
-    - word: けれど
-      position: 0
-    - word: も
-      position: 3
-    - word: 虻
-      position: 4
-    - word: は
-      position: 5
-    - word: 刺し
-      base: 差す
-      position: 6
-    - word: ます
-      position: 8
-    - word: から
-      position: 10
 - id: Abuno Orei-f000079
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -2378,26 +622,6 @@
   sound_begin: 308846
   sound_end: 312493
   sentence: これからいじらないようになさい」
-  words:
-    - word: これ
-      base: 此れ
-      position: 0
-    - word: から
-      position: 2
-    - word: いじら
-      base: 弄る
-      position: 4
-    - word: ない
-      position: 7
-    - word: よう
-      base: 様
-      position: 9
-    - word: に
-      base: だ
-      position: 11
-    - word: なさい
-      base: 為す
-      position: 12
 - id: Abuno Orei-f000080
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -2406,20 +630,6 @@
   sound_begin: 312493
   sound_end: 315600
   sentence: と言われました。
-  words:
-    - word: と
-      position: 0
-    - word: 言わ
-      base: 言う
-      position: 1
-    - word: れ
-      base: れる
-      position: 3
-    - word: まし
-      base: ます
-      position: 4
-    - word: た
-      position: 6
 - id: Abuno Orei-f000081
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -2428,9 +638,6 @@
   sound_begin: 315600
   sound_end: 316640
   sentence: 「いいえ。
-  words:
-    - word: いいえ
-      position: 1
 - id: Abuno Orei-f000082
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -2439,12 +646,6 @@
   sound_begin: 316640
   sound_end: 318960
   sentence: お母さん。
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 母さん
-      position: 1
 - id: Abuno Orei-f000083
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -2453,14 +654,6 @@
   sound_begin: 318960
   sound_end: 320000
   sentence: あの虻は、
-  words:
-    - word: あの
-      base: 彼の
-      position: 0
-    - word: 虻
-      position: 2
-    - word: は
-      position: 3
 - id: Abuno Orei-f000084
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -2469,45 +662,6 @@
   sound_begin: 320000
   sound_end: 325360
   sentence: チエ子にありがとうってお礼を言って逃げて行きましたのよ。
-  words:
-    - word: チエ子
-      position: 0
-    - word: に
-      position: 3
-    - word: ありがとう
-      base: 有り難う
-      position: 4
-    - word: って
-      position: 9
-    - word: お
-      base: 御
-      position: 11
-    - word: 礼
-      position: 12
-    - word: を
-      position: 13
-    - word: 言っ
-      base: 言う
-      position: 14
-    - word: て
-      position: 16
-    - word: 逃げ
-      base: 逃げる
-      position: 17
-    - word: て
-      position: 19
-    - word: 行き
-      base: 行く
-      position: 20
-    - word: まし
-      base: ます
-      position: 22
-    - word: た
-      position: 24
-    - word: の
-      position: 25
-    - word: よ
-      position: 26
 - id: Abuno Orei-f000085
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -2516,27 +670,6 @@
   sound_begin: 325360
   sound_end: 328830
   sentence: ですからもうあたしは刺さないのよ」
-  words:
-    - word: です
-      position: 0
-    - word: から
-      position: 2
-    - word: もう
-      position: 4
-    - word: あたし
-      base: 私
-      position: 6
-    - word: は
-      position: 9
-    - word: 刺さ
-      base: 差す
-      position: 10
-    - word: ない
-      position: 12
-    - word: の
-      position: 14
-    - word: よ
-      position: 15
 - id: Abuno Orei-f000086
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -2545,28 +678,6 @@
   sound_begin: 328830
   sound_end: 332680
   sentence: とまじめになって言いました。
-  words:
-    - word: と
-      position: 0
-    - word: まじめ
-      base: 真面目
-      position: 1
-    - word: に
-      base: だ
-      position: 4
-    - word: なっ
-      base: 成る
-      position: 5
-    - word: て
-      position: 7
-    - word: 言い
-      base: 言う
-      position: 8
-    - word: まし
-      base: ます
-      position: 10
-    - word: た
-      position: 12
 - id: Abuno Orei-f000087
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -2575,49 +686,6 @@
   sound_begin: 332680
   sound_end: 337000
   sentence: お母さんはこれをおききになって大そうお笑いになりました。
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 母さん
-      position: 1
-    - word: は
-      position: 4
-    - word: これ
-      base: 此れ
-      position: 5
-    - word: を
-      position: 7
-    - word: おき
-      base: おく
-      position: 8
-    - word: き
-      position: 10
-    - word: に
-      position: 11
-    - word: なっ
-      base: 成る
-      position: 12
-    - word: て
-      position: 14
-    - word: 大そう
-      base: 大層
-      position: 15
-    - word: お
-      base: 御
-      position: 18
-    - word: 笑い
-      position: 19
-    - word: に
-      position: 21
-    - word: なり
-      base: 成る
-      position: 22
-    - word: まし
-      base: ます
-      position: 24
-    - word: た
-      position: 26
 - id: Abuno Orei-f000088
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -2626,52 +694,6 @@
   sound_begin: 339000
   sound_end: 345400
   sentence: チエ子さんは虻とお話したことをいつまでも本当にしておりました。
-  words:
-    - word: チエ子
-      position: 0
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
-    - word: 虻
-      position: 6
-    - word: と
-      position: 7
-    - word: お
-      base: 御
-      position: 8
-    - word: 話し
-      base: 話す
-      position: 9
-    - word: た
-      position: 11
-    - word: こと
-      position: 12
-    - word: を
-      position: 14
-    - word: いつ
-      position: 15
-    - word: まで
-      position: 17
-    - word: も
-      position: 19
-    - word: 本当
-      position: 20
-    - word: に
-      position: 22
-    - word: し
-      base: 為る
-      position: 23
-    - word: て
-      position: 24
-    - word: おり
-      base: おる
-      position: 25
-    - word: まし
-      base: ます
-      position: 27
-    - word: た
-      position: 29
 - id: Abuno Orei-f000089
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -2680,26 +702,6 @@
   sound_begin: 348600
   sound_end: 350400
   sentence: それからいく日も経ってから、
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: から
-      position: 2
-    - word: いく
-      base: 幾
-      position: 4
-    - word: 日
-      position: 6
-    - word: も
-      position: 7
-    - word: 経っ
-      base: 経つ
-      position: 8
-    - word: て
-      position: 10
-    - word: から
-      position: 11
 - id: Abuno Orei-f000090
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -2708,68 +710,6 @@
   sound_begin: 350400
   sound_end: 358904
   sentence: チエ子さんがお座敷でうたたねをしていた間にお母さまはちょっとお買物に行かれました。
-  words:
-    - word: チエ子
-      position: 0
-    - word: さん
-      position: 3
-    - word: が
-      position: 5
-    - word: お
-      base: 御
-      position: 6
-    - word: 座敷
-      position: 7
-    - word: で
-      position: 9
-    - word: うたたね
-      position: 10
-    - word: を
-      position: 14
-    - word: し
-      base: 為る
-      position: 15
-    - word: て
-      position: 16
-    - word: い
-      base: 居る
-      position: 17
-    - word: た
-      position: 18
-    - word: 間
-      position: 19
-    - word: に
-      position: 20
-    - word: お
-      base: 御
-      position: 21
-    - word: 母さま
-      base: 母様
-      position: 22
-    - word: は
-      position: 25
-    - word: ちょっと
-      base: 一寸
-      position: 26
-    - word: お
-      base: 御
-      position: 30
-    - word: 買物
-      base: 買い物
-      position: 31
-    - word: に
-      position: 33
-    - word: 行か
-      base: 行く
-      position: 34
-    - word: れ
-      base: れる
-      position: 36
-    - word: まし
-      base: ます
-      position: 37
-    - word: た
-      position: 39
 - id: Abuno Orei-f000091
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -2778,21 +718,6 @@
   sound_begin: 358904
   sound_end: 364040
   sentence: その留守の事でした。
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 留守
-      position: 2
-    - word: の
-      position: 4
-    - word: 事
-      position: 5
-    - word: でし
-      base: です
-      position: 6
-    - word: た
-      position: 8
 - id: Abuno Orei-f000092
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -2801,39 +726,6 @@
   sound_begin: 364040
   sound_end: 369174
   sentence: お台所の方から一人の泥棒が入って来まして、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 台所
-      position: 1
-    - word: の
-      position: 3
-    - word: 方
-      position: 4
-    - word: から
-      position: 5
-    - word: 一人
-      position: 7
-    - word: の
-      position: 9
-    - word: 泥棒
-      position: 10
-    - word: が
-      position: 12
-    - word: 入っ
-      base: 入る
-      position: 13
-    - word: て
-      position: 15
-    - word: 来
-      base: 来る
-      position: 16
-    - word: まし
-      base: ます
-      position: 17
-    - word: て
-      position: 19
 - id: Abuno Orei-f000093
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -2842,32 +734,6 @@
   sound_begin: 369174
   sound_end: 371760
   sentence: チエ子さんが寝ているのを見つけますと、
-  words:
-    - word: チエ子
-      position: 0
-    - word: さん
-      position: 3
-    - word: が
-      position: 5
-    - word: 寝
-      base: 寝る
-      position: 6
-    - word: て
-      position: 7
-    - word: いる
-      base: 居る
-      position: 8
-    - word: の
-      position: 10
-    - word: を
-      position: 11
-    - word: 見つけ
-      base: 見付ける
-      position: 12
-    - word: ます
-      position: 15
-    - word: と
-      position: 17
 - id: Abuno Orei-f000094
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -2876,27 +742,6 @@
   sound_begin: 371760
   sound_end: 376289
   sentence: つかつかと近寄ってゆすぶり起しました。
-  words:
-    - word: つかつか
-      position: 0
-    - word: と
-      position: 4
-    - word: 近寄っ
-      base: 近寄る
-      position: 5
-    - word: て
-      position: 8
-    - word: ゆすぶり
-      base: 揺さぶる
-      position: 9
-    - word: 起し
-      base: 起こす
-      position: 13
-    - word: まし
-      base: ます
-      position: 15
-    - word: た
-      position: 17
 - id: Abuno Orei-f000095
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -2905,33 +750,6 @@
   sound_begin: 376289
   sound_end: 379480
   sentence: チエ子さんはビックリして眼をさましますと、
-  words:
-    - word: チエ子
-      position: 0
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
-    - word: ビックリ
-      base: びっくり
-      position: 6
-    - word: し
-      base: 為る
-      position: 10
-    - word: て
-      position: 11
-    - word: 眼
-      base: 目
-      position: 12
-    - word: を
-      position: 13
-    - word: さまし
-      base: さます
-      position: 14
-    - word: ます
-      position: 17
-    - word: と
-      position: 19
 - id: Abuno Orei-f000096
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -2940,55 +758,6 @@
   sound_begin: 379480
   sound_end: 386320
   sentence: 眼の前に気味の悪い顔をした大きな男がニヤニヤ笑って立っております。
-  words:
-    - word: 眼
-      base: 目
-      position: 0
-    - word: の
-      position: 1
-    - word: 前
-      position: 2
-    - word: に
-      position: 3
-    - word: 気味
-      position: 4
-    - word: の
-      position: 6
-    - word: 悪い
-      position: 7
-    - word: 顔
-      position: 9
-    - word: を
-      position: 10
-    - word: し
-      base: 為る
-      position: 11
-    - word: た
-      position: 12
-    - word: 大きな
-      position: 13
-    - word: 男
-      position: 16
-    - word: が
-      position: 17
-    - word: ニヤニヤ
-      base: にやにや
-      position: 18
-    - word: 笑っ
-      base: 笑う
-      position: 22
-    - word: て
-      position: 24
-    - word: 立っ
-      base: 立つ
-      position: 25
-    - word: て
-      position: 27
-    - word: おり
-      base: おる
-      position: 28
-    - word: ます
-      position: 30
 - id: Abuno Orei-f000097
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -2997,23 +766,6 @@
   sound_begin: 388320
   sound_end: 391280
   sentence: チエ子さんは眼をこすりながら、
-  words:
-    - word: チエ子
-      position: 0
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
-    - word: 眼
-      base: 目
-      position: 6
-    - word: を
-      position: 7
-    - word: こすり
-      base: 擦る
-      position: 8
-    - word: ながら
-      position: 11
 - id: Abuno Orei-f000098
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -3022,15 +774,6 @@
   sound_begin: 391280
   sound_end: 393997
   sentence: 「おじさんだあれ」
-  words:
-    - word: おじ
-      base: 伯父
-      position: 1
-    - word: さん
-      position: 3
-    - word: だあれ
-      base: 誰
-      position: 5
 - id: Abuno Orei-f000099
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -3039,17 +782,6 @@
   sound_begin: 393997
   sound_end: 397520
   sentence: と言いました。
-  words:
-    - word: と
-      position: 0
-    - word: 言い
-      base: 言う
-      position: 1
-    - word: まし
-      base: ます
-      position: 3
-    - word: た
-      position: 5
 - id: Abuno Orei-f000100
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -3058,22 +790,6 @@
   sound_begin: 397520
   sound_end: 399880
   sentence: 泥棒はやっぱりニヤニヤ笑いながら、
-  words:
-    - word: 泥棒
-      position: 0
-    - word: は
-      position: 2
-    - word: やっぱり
-      base: 矢張り
-      position: 3
-    - word: ニヤニヤ
-      base: にやにや
-      position: 7
-    - word: 笑い
-      base: 笑う
-      position: 11
-    - word: ながら
-      position: 13
 - id: Abuno Orei-f000101
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -3082,20 +798,6 @@
   sound_begin: 401580
   sound_end: 403280
   sentence: 「可愛いお嬢さんだね。
-  words:
-    - word: 可愛い
-      position: 1
-    - word: お
-      base: 御
-      position: 4
-    - word: 嬢
-      position: 5
-    - word: さん
-      position: 6
-    - word: だ
-      position: 8
-    - word: ね
-      position: 9
 - id: Abuno Orei-f000102
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -3104,48 +806,6 @@
   sound_begin: 403280
   sound_end: 411472
   sentence: いい子だからお金はどこに仕舞ってあるか教えておくれ」
-  words:
-    - word: いい
-      base: 良い
-      position: 0
-    - word: 子
-      position: 2
-    - word: だ
-      position: 3
-    - word: から
-      position: 4
-    - word: お
-      base: 御
-      position: 6
-    - word: 金
-      position: 7
-    - word: は
-      position: 8
-    - word: どこ
-      position: 9
-    - word: に
-      position: 11
-    - word: 仕舞っ
-      base: 仕舞う
-      position: 12
-    - word: て
-      position: 15
-    - word: ある
-      base: 有る
-      position: 16
-    - word: か
-      position: 18
-    - word: 教え
-      base: 教える
-      position: 19
-    - word: て
-      position: 21
-    - word: お
-      base: 御
-      position: 22
-    - word: くれ
-      base: 呉れる
-      position: 23
 - id: Abuno Orei-f000103
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -3154,17 +814,6 @@
   sound_begin: 411472
   sound_end: 413533
   sentence: と言いました。
-  words:
-    - word: と
-      position: 0
-    - word: 言い
-      base: 言う
-      position: 1
-    - word: まし
-      base: ます
-      position: 3
-    - word: た
-      position: 5
 - id: Abuno Orei-f000104
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -3173,49 +822,6 @@
   sound_begin: 413533
   sound_end: 419560
   sentence: チエ子さんは眼をパチパチさせて泣き出しそうな顔をしながら、
-  words:
-    - word: チエ子
-      position: 0
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
-    - word: 眼
-      base: 目
-      position: 6
-    - word: を
-      position: 7
-    - word: パチパチ
-      base: ぱちぱち
-      position: 8
-    - word: さ
-      base: 為る
-      position: 12
-    - word: せ
-      base: せる
-      position: 13
-    - word: て
-      position: 14
-    - word: 泣き
-      base: 泣く
-      position: 15
-    - word: 出し
-      base: 出す
-      position: 17
-    - word: そう
-      position: 19
-    - word: な
-      base: だ
-      position: 21
-    - word: 顔
-      position: 22
-    - word: を
-      position: 23
-    - word: し
-      base: 為る
-      position: 24
-    - word: ながら
-      position: 25
 - id: Abuno Orei-f000105
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -3224,15 +830,6 @@
   sound_begin: 419560
   sound_end: 422080
   sentence: 「あたし知らない。
-  words:
-    - word: あたし
-      base: 私
-      position: 1
-    - word: 知ら
-      base: 知る
-      position: 4
-    - word: ない
-      position: 6
 - id: Abuno Orei-f000106
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -3241,20 +838,6 @@
   sound_begin: 422080
   sound_end: 424735
   sentence: おじさんはどこの人？」
-  words:
-    - word: おじ
-      base: 伯父
-      position: 0
-    - word: さん
-      position: 2
-    - word: は
-      position: 4
-    - word: どこ
-      position: 5
-    - word: の
-      position: 7
-    - word: 人
-      position: 8
 - id: Abuno Orei-f000107
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -3263,17 +846,6 @@
   sound_begin: 424735
   sound_end: 426419
   sentence: と尋ねました。
-  words:
-    - word: と
-      position: 0
-    - word: 尋ね
-      base: 尋ねる
-      position: 1
-    - word: まし
-      base: ます
-      position: 3
-    - word: た
-      position: 5
 - id: Abuno Orei-f000108
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -3282,48 +854,6 @@
   sound_begin: 427360
   sound_end: 435200
   sentence: 泥棒はこわい顔になってふところからピカピカ光る庖丁を出して見せながら、
-  words:
-    - word: 泥棒
-      position: 0
-    - word: は
-      position: 2
-    - word: こわい
-      base: 怖い
-      position: 3
-    - word: 顔
-      position: 6
-    - word: に
-      position: 7
-    - word: なっ
-      base: 成る
-      position: 8
-    - word: て
-      position: 10
-    - word: ふところ
-      base: 懐
-      position: 11
-    - word: から
-      position: 15
-    - word: ピカピカ
-      base: ぴかぴか
-      position: 17
-    - word: 光る
-      position: 21
-    - word: 庖丁
-      base: 包丁
-      position: 23
-    - word: を
-      position: 25
-    - word: 出し
-      base: 出す
-      position: 26
-    - word: て
-      position: 28
-    - word: 見せ
-      base: 見せる
-      position: 29
-    - word: ながら
-      position: 31
 - id: Abuno Orei-f000109
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -3332,20 +862,6 @@
   sound_begin: 435200
   sound_end: 437880
   sentence: 「泣いたらきかないぞ。
-  words:
-    - word: 泣い
-      base: 泣く
-      position: 1
-    - word: たら
-      base: た
-      position: 3
-    - word: きか
-      base: きく
-      position: 5
-    - word: ない
-      position: 7
-    - word: ぞ
-      position: 9
 - id: Abuno Orei-f000110
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -3354,10 +870,6 @@
   sound_begin: 437880
   sound_end: 439120
   sentence: さ、
-  words:
-    - word: さ
-      base: さあ
-      position: 0
 - id: Abuno Orei-f000111
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -3366,40 +878,6 @@
   sound_begin: 439120
   sound_end: 444520
   sentence: お前のお母さんはお金をどこに仕舞っているか。
-  words:
-    - word: お前
-      base: 御前
-      position: 0
-    - word: の
-      position: 2
-    - word: お
-      base: 御
-      position: 3
-    - word: 母さん
-      position: 4
-    - word: は
-      position: 7
-    - word: お
-      base: 御
-      position: 8
-    - word: 金
-      position: 9
-    - word: を
-      position: 10
-    - word: どこ
-      position: 11
-    - word: に
-      position: 13
-    - word: 仕舞っ
-      base: 仕舞う
-      position: 14
-    - word: て
-      position: 17
-    - word: いる
-      base: 居る
-      position: 18
-    - word: か
-      position: 20
 - id: Abuno Orei-f000112
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -3408,29 +886,6 @@
   sound_begin: 444520
   sound_end: 448428
   sentence: 言わないとこれで殺してしまうぞ」
-  words:
-    - word: 言わ
-      base: 言う
-      position: 0
-    - word: ない
-      position: 2
-    - word: と
-      position: 4
-    - word: これ
-      base: 此れ
-      position: 5
-    - word: で
-      position: 7
-    - word: 殺し
-      base: 殺す
-      position: 8
-    - word: て
-      position: 10
-    - word: しまう
-      base: 仕舞う
-      position: 11
-    - word: ぞ
-      position: 14
 - id: Abuno Orei-f000113
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -3439,17 +894,6 @@
   sound_begin: 448428
   sound_end: 450436
   sentence: と言いました。
-  words:
-    - word: と
-      position: 0
-    - word: 言い
-      base: 言う
-      position: 1
-    - word: まし
-      base: ます
-      position: 3
-    - word: た
-      position: 5
 - id: Abuno Orei-f000114
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -3458,13 +902,6 @@
   sound_begin: 450436
   sound_end: 452031
   sentence: チエ子さんは、
-  words:
-    - word: チエ子
-      position: 0
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
 - id: Abuno Orei-f000115
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -3473,12 +910,6 @@
   sound_begin: 452031
   sound_end: 453823
   sentence: 「お母さん」
-  words:
-    - word: お
-      base: 御
-      position: 1
-    - word: 母さん
-      position: 2
 - id: Abuno Orei-f000116
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -3487,25 +918,6 @@
   sound_begin: 453823
   sound_end: 456888
   sentence: と泣きながら逃げ出しました。
-  words:
-    - word: と
-      position: 0
-    - word: 泣き
-      base: 泣く
-      position: 1
-    - word: ながら
-      position: 3
-    - word: 逃げ
-      base: 逃げる
-      position: 6
-    - word: 出し
-      base: 出す
-      position: 8
-    - word: まし
-      base: ます
-      position: 10
-    - word: た
-      position: 12
 - id: Abuno Orei-f000117
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -3514,13 +926,6 @@
   sound_begin: 456888
   sound_end: 457960
   sentence: 「このやつ、
-  words:
-    - word: この
-      base: 此の
-      position: 1
-    - word: やつ
-      base: 奴
-      position: 3
 - id: Abuno Orei-f000118
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -3529,14 +934,6 @@
   sound_begin: 457960
   sound_end: 459227
   sentence: 逃げたな」
-  words:
-    - word: 逃げ
-      base: 逃げる
-      position: 0
-    - word: た
-      position: 2
-    - word: な
-      position: 3
 - id: Abuno Orei-f000119
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -3545,43 +942,6 @@
   sound_begin: 459227
   sound_end: 464680
   sentence: と泥棒はいきなり追っかけてチエ子さんを捕まえようとしました。
-  words:
-    - word: と
-      position: 0
-    - word: 泥棒
-      position: 1
-    - word: は
-      position: 3
-    - word: いきなり
-      base: 行成
-      position: 4
-    - word: 追っ
-      base: 追う
-      position: 8
-    - word: かけ
-      base: 掛ける
-      position: 10
-    - word: て
-      position: 12
-    - word: チエ子
-      position: 13
-    - word: さん
-      position: 16
-    - word: を
-      position: 18
-    - word: 捕まえよう
-      base: 捕まえる
-      position: 19
-    - word: と
-      position: 24
-    - word: し
-      base: 為る
-      position: 25
-    - word: まし
-      base: ます
-      position: 26
-    - word: た
-      position: 28
 - id: Abuno Orei-f000120
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -3590,43 +950,6 @@
   sound_begin: 464680
   sound_end: 470276
   sentence: その時ブーンと唸って一匹の虻が飛んで来て、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 時
-      position: 2
-    - word: ブーン
-      base: ぶーん
-      position: 3
-    - word: と
-      position: 6
-    - word: 唸っ
-      base: 唸る
-      position: 7
-    - word: て
-      position: 9
-    - word: 一
-      base: '1'
-      position: 10
-    - word: 匹
-      position: 11
-    - word: の
-      position: 12
-    - word: 虻
-      position: 13
-    - word: が
-      position: 14
-    - word: 飛ん
-      base: 飛ぶ
-      position: 15
-    - word: で
-      position: 17
-    - word: 来
-      base: 来る
-      position: 18
-    - word: て
-      position: 19
 - id: Abuno Orei-f000121
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -3635,35 +958,6 @@
   sound_begin: 470276
   sound_end: 476480
   sentence: 泥棒の眼の前でブルンブルンブルンとまわり始めました。
-  words:
-    - word: 泥棒
-      position: 0
-    - word: の
-      position: 2
-    - word: 眼
-      base: 目
-      position: 3
-    - word: の
-      position: 4
-    - word: 前
-      position: 5
-    - word: で
-      position: 6
-    - word: ブルンブルンブルン
-      position: 7
-    - word: と
-      position: 16
-    - word: まわり
-      base: 回る
-      position: 17
-    - word: 始め
-      base: 始める
-      position: 20
-    - word: まし
-      base: ます
-      position: 22
-    - word: た
-      position: 24
 - id: Abuno Orei-f000122
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -3672,24 +966,6 @@
   sound_begin: 476480
   sound_end: 478240
   sentence: 泥棒は邪魔になるので、
-  words:
-    - word: 泥棒
-      position: 0
-    - word: は
-      position: 2
-    - word: 邪魔
-      position: 3
-    - word: に
-      base: だ
-      position: 5
-    - word: なる
-      base: 成る
-      position: 6
-    - word: の
-      position: 8
-    - word: で
-      base: だ
-      position: 9
 - id: Abuno Orei-f000123
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -3698,13 +974,6 @@
   sound_begin: 478240
   sound_end: 479640
   sentence: 「こんちくしょう、
-  words:
-    - word: こん
-      base: 此の
-      position: 1
-    - word: ちくしょう
-      base: 畜生
-      position: 3
 - id: Abuno Orei-f000124
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -3713,13 +982,6 @@
   sound_begin: 479640
   sound_end: 480600
   sentence: こんちくしょう」
-  words:
-    - word: こん
-      base: 此の
-      position: 0
-    - word: ちくしょう
-      base: 畜生
-      position: 2
 - id: Abuno Orei-f000125
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -3728,27 +990,6 @@
   sound_begin: 480600
   sound_end: 483400
   sentence: と払い除けようとしましたが、
-  words:
-    - word: と
-      position: 0
-    - word: 払い
-      base: 払う
-      position: 1
-    - word: 除けよう
-      base: 除ける
-      position: 3
-    - word: と
-      position: 7
-    - word: し
-      base: 為る
-      position: 8
-    - word: まし
-      base: ます
-      position: 9
-    - word: た
-      position: 11
-    - word: が
-      position: 12
 - id: Abuno Orei-f000126
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -3757,25 +998,6 @@
   sound_begin: 483400
   sound_end: 486440
   sentence: なかなか払い除けられません。
-  words:
-    - word: なかなか
-      base: 中々
-      position: 0
-    - word: 払い
-      base: 払う
-      position: 4
-    - word: 除け
-      base: 除ける
-      position: 6
-    - word: られ
-      base: られる
-      position: 8
-    - word: ませ
-      base: ます
-      position: 10
-    - word: ん
-      base: ず
-      position: 12
 - id: Abuno Orei-f000127
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -3784,21 +1006,6 @@
   sound_begin: 486440
   sound_end: 488280
   sentence: そのうちにチエ子さんは、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: うち
-      base: 内
-      position: 2
-    - word: に
-      position: 4
-    - word: チエ子
-      position: 5
-    - word: さん
-      position: 8
-    - word: は
-      position: 10
 - id: Abuno Orei-f000128
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -3807,12 +1014,6 @@
   sound_begin: 488280
   sound_end: 489800
   sentence: 「お母さん、
-  words:
-    - word: お
-      base: 御
-      position: 1
-    - word: 母さん
-      position: 2
 - id: Abuno Orei-f000129
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -3821,12 +1022,6 @@
   sound_begin: 489800
   sound_end: 491200
   sentence: お母さん」
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 母さん
-      position: 1
 - id: Abuno Orei-f000130
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -3835,44 +1030,6 @@
   sound_begin: 491200
   sound_end: 497000
   sentence: と叫びながら障子を開けてお縁の方に逃げて行きます。
-  words:
-    - word: と
-      position: 0
-    - word: 叫び
-      base: 叫ぶ
-      position: 1
-    - word: ながら
-      position: 3
-    - word: 障子
-      position: 6
-    - word: を
-      position: 8
-    - word: 開け
-      base: 開く
-      position: 9
-    - word: て
-      position: 11
-    - word: お
-      base: 御
-      position: 12
-    - word: 縁
-      position: 13
-    - word: の
-      position: 14
-    - word: 方
-      position: 15
-    - word: に
-      position: 16
-    - word: 逃げ
-      base: 逃げる
-      position: 17
-    - word: て
-      position: 19
-    - word: 行き
-      base: 行く
-      position: 20
-    - word: ます
-      position: 22
 - id: Abuno Orei-f000131
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -3881,20 +1038,6 @@
   sound_begin: 497000
   sound_end: 498792
   sentence: 「逃がしてなるものか」
-  words:
-    - word: 逃がし
-      base: 逃がす
-      position: 1
-    - word: て
-      position: 4
-    - word: なる
-      base: 成る
-      position: 5
-    - word: もの
-      base: 物
-      position: 7
-    - word: か
-      position: 9
 - id: Abuno Orei-f000132
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -3903,24 +1046,6 @@
   sound_begin: 498792
   sound_end: 501516
   sentence: と泥棒は一所懸命となって、
-  words:
-    - word: と
-      position: 0
-    - word: 泥棒
-      position: 1
-    - word: は
-      position: 3
-    - word: 一所
-      position: 4
-    - word: 懸命
-      position: 6
-    - word: と
-      position: 8
-    - word: なっ
-      base: 成る
-      position: 9
-    - word: て
-      position: 11
 - id: Abuno Orei-f000133
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -3929,38 +1054,6 @@
   sound_begin: 501516
   sound_end: 505853
   sentence: とうとう虻をタタキ落として追っかけてゆきました。
-  words:
-    - word: とうとう
-      base: 到頭
-      position: 0
-    - word: 虻
-      position: 4
-    - word: を
-      position: 5
-    - word: タタキ
-      base: 叩き
-      position: 6
-    - word: 落とし
-      base: 落とす
-      position: 9
-    - word: て
-      position: 12
-    - word: 追っ
-      base: 追う
-      position: 13
-    - word: かけ
-      base: 掛ける
-      position: 15
-    - word: て
-      position: 17
-    - word: ゆき
-      base: 行く
-      position: 18
-    - word: まし
-      base: ます
-      position: 20
-    - word: た
-      position: 22
 - id: Abuno Orei-f000134
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -3969,54 +1062,6 @@
   sound_begin: 505853
   sound_end: 511240
   sentence: そうすると虻はタタキ落とされてちょっと死んだようになりましたが、
-  words:
-    - word: そう
-      position: 0
-    - word: する
-      base: 為る
-      position: 2
-    - word: と
-      position: 4
-    - word: 虻
-      position: 5
-    - word: は
-      position: 6
-    - word: タタキ
-      base: 叩き
-      position: 7
-    - word: 落とさ
-      base: 落とす
-      position: 10
-    - word: れ
-      base: れる
-      position: 13
-    - word: て
-      position: 14
-    - word: ちょっと
-      base: 一寸
-      position: 15
-    - word: 死ん
-      base: 死ぬ
-      position: 19
-    - word: だ
-      base: た
-      position: 21
-    - word: よう
-      base: 様
-      position: 22
-    - word: に
-      base: だ
-      position: 24
-    - word: なり
-      base: 成る
-      position: 25
-    - word: まし
-      base: ます
-      position: 27
-    - word: た
-      position: 29
-    - word: が
-      position: 30
 - id: Abuno Orei-f000135
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -4025,48 +1070,6 @@
   sound_begin: 511240
   sound_end: 517919
   sentence: 又飛び上って泥棒の足へ飛びついて力一パイ喰いつきました。
-  words:
-    - word: 又
-      position: 0
-    - word: 飛び
-      base: 飛ぶ
-      position: 1
-    - word: 上っ
-      base: 上がる
-      position: 3
-    - word: て
-      position: 5
-    - word: 泥棒
-      position: 6
-    - word: の
-      position: 8
-    - word: 足
-      position: 9
-    - word: へ
-      position: 10
-    - word: 飛び
-      base: 飛ぶ
-      position: 11
-    - word: つい
-      base: 付く
-      position: 13
-    - word: て
-      position: 15
-    - word: 力一
-      position: 16
-    - word: パイ
-      position: 18
-    - word: 喰い
-      base: 食う
-      position: 20
-    - word: つき
-      base: 付く
-      position: 22
-    - word: まし
-      base: ます
-      position: 24
-    - word: た
-      position: 26
 - id: Abuno Orei-f000136
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -4075,10 +1078,6 @@
   sound_begin: 517919
   sound_end: 519510
   sentence: 「アイタッ」
-  words:
-    - word: アイタッ
-      base: あいた
-      position: 1
 - id: Abuno Orei-f000137
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -4087,43 +1086,6 @@
   sound_begin: 519510
   sound_end: 525080
   sentence: と泥棒はうしろ向きに立ち止まる拍子にお縁から足を辷らして、
-  words:
-    - word: と
-      position: 0
-    - word: 泥棒
-      position: 1
-    - word: は
-      position: 3
-    - word: うしろ向き
-      base: 後ろ向き
-      position: 4
-    - word: に
-      position: 9
-    - word: 立ち
-      base: 立つ
-      position: 10
-    - word: 止まる
-      position: 12
-    - word: 拍子
-      position: 15
-    - word: に
-      position: 17
-    - word: お
-      base: 御
-      position: 18
-    - word: 縁
-      position: 19
-    - word: から
-      position: 20
-    - word: 足
-      position: 22
-    - word: を
-      position: 23
-    - word: 辷らし
-      base: 滑る
-      position: 24
-    - word: て
-      position: 27
 - id: Abuno Orei-f000138
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -4132,47 +1094,6 @@
   sound_begin: 525080
   sound_end: 530700
   sentence: 石の上に落っこちて頭をぶって眼をまわしてしまいました。
-  words:
-    - word: 石
-      position: 0
-    - word: の
-      position: 1
-    - word: 上
-      position: 2
-    - word: に
-      position: 3
-    - word: 落っこち
-      base: 落っこちる
-      position: 4
-    - word: て
-      position: 8
-    - word: 頭
-      position: 9
-    - word: を
-      position: 10
-    - word: ぶっ
-      base: 打つ
-      position: 11
-    - word: て
-      position: 13
-    - word: 眼
-      base: 目
-      position: 14
-    - word: を
-      position: 15
-    - word: まわし
-      base: 回す
-      position: 16
-    - word: て
-      position: 19
-    - word: しまい
-      base: 仕舞う
-      position: 20
-    - word: まし
-      base: ます
-      position: 23
-    - word: た
-      position: 25
 - id: Abuno Orei-f000139
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -4181,30 +1102,6 @@
   sound_begin: 532800
   sound_end: 535372
   sentence: そのうちにチエ子さんは表へ出て、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: うち
-      base: 内
-      position: 2
-    - word: に
-      position: 4
-    - word: チエ子
-      position: 5
-    - word: さん
-      position: 8
-    - word: は
-      position: 10
-    - word: 表
-      position: 11
-    - word: へ
-      position: 12
-    - word: 出
-      base: 出る
-      position: 13
-    - word: て
-      position: 14
 - id: Abuno Orei-f000140
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -4213,41 +1110,6 @@
   sound_begin: 535372
   sound_end: 538920
   sentence: 通りがかりのお巡査さんにこの事を言いましたので、
-  words:
-    - word: 通りがかり
-      base: 通り掛かり
-      position: 0
-    - word: の
-      position: 5
-    - word: お
-      base: 御
-      position: 6
-    - word: 巡査
-      position: 7
-    - word: さん
-      position: 9
-    - word: に
-      position: 11
-    - word: この
-      base: 此の
-      position: 12
-    - word: 事
-      position: 14
-    - word: を
-      position: 15
-    - word: 言い
-      base: 言う
-      position: 16
-    - word: まし
-      base: ます
-      position: 18
-    - word: た
-      position: 20
-    - word: の
-      position: 21
-    - word: で
-      base: だ
-      position: 22
 - id: Abuno Orei-f000141
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -4256,32 +1118,6 @@
   sound_begin: 538920
   sound_end: 545040
   sentence: 泥棒はすぐに縛られてしまいました。
-  words:
-    - word: 泥棒
-      position: 0
-    - word: は
-      position: 2
-    - word: すぐ
-      base: 直ぐ
-      position: 3
-    - word: に
-      position: 5
-    - word: 縛ら
-      base: 縛る
-      position: 6
-    - word: れ
-      base: れる
-      position: 8
-    - word: て
-      position: 9
-    - word: しまい
-      base: 仕舞う
-      position: 10
-    - word: まし
-      base: ます
-      position: 13
-    - word: た
-      position: 15
 - id: Abuno Orei-f000142
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -4290,48 +1126,6 @@
   sound_begin: 545040
   sound_end: 549880
   sentence: お母さんがお帰りになってこのお話をおききになると、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 母さん
-      position: 1
-    - word: が
-      position: 4
-    - word: お
-      base: 御
-      position: 5
-    - word: 帰り
-      position: 6
-    - word: に
-      position: 8
-    - word: なっ
-      base: 成る
-      position: 9
-    - word: て
-      position: 11
-    - word: この
-      base: 此の
-      position: 12
-    - word: お
-      base: 御
-      position: 14
-    - word: 話
-      position: 15
-    - word: を
-      position: 16
-    - word: おき
-      base: おく
-      position: 17
-    - word: き
-      position: 19
-    - word: に
-      position: 20
-    - word: なる
-      base: 成る
-      position: 21
-    - word: と
-      position: 23
 - id: Abuno Orei-f000143
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -4340,46 +1134,6 @@
   sound_begin: 549880
   sound_end: 556019
   sentence: 涙をこぼしてチエ子さんを抱きしめておよろこびになりました。
-  words:
-    - word: 涙
-      position: 0
-    - word: を
-      position: 1
-    - word: こぼし
-      base: 零す
-      position: 2
-    - word: て
-      position: 5
-    - word: チエ子
-      position: 6
-    - word: さん
-      position: 9
-    - word: を
-      position: 11
-    - word: 抱き
-      base: 抱く
-      position: 12
-    - word: しめ
-      base: しめる
-      position: 14
-    - word: て
-      position: 16
-    - word: お
-      base: 御
-      position: 17
-    - word: よろこび
-      base: 喜び
-      position: 18
-    - word: に
-      position: 22
-    - word: なり
-      base: 成る
-      position: 23
-    - word: まし
-      base: ます
-      position: 25
-    - word: た
-      position: 27
 - id: Abuno Orei-f000144
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -4388,60 +1142,6 @@
   sound_begin: 556019
   sound_end: 566289
   sentence: その時にチエ子さんはお縁側を見ると一匹の虻が死んで落ちておりました。
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 時
-      position: 2
-    - word: に
-      position: 3
-    - word: チエ子
-      position: 4
-    - word: さん
-      position: 7
-    - word: は
-      position: 9
-    - word: お
-      base: 御
-      position: 10
-    - word: 縁側
-      position: 11
-    - word: を
-      position: 13
-    - word: 見る
-      position: 14
-    - word: と
-      position: 16
-    - word: 一
-      base: '1'
-      position: 17
-    - word: 匹
-      position: 18
-    - word: の
-      position: 19
-    - word: 虻
-      position: 20
-    - word: が
-      position: 21
-    - word: 死ん
-      base: 死ぬ
-      position: 22
-    - word: で
-      position: 24
-    - word: 落ち
-      base: 落ちる
-      position: 25
-    - word: て
-      position: 27
-    - word: おり
-      base: おる
-      position: 28
-    - word: まし
-      base: ます
-      position: 30
-    - word: た
-      position: 32
 - id: Abuno Orei-f000145
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -4450,12 +1150,6 @@
   sound_begin: 566289
   sound_end: 567884
   sentence: 「お母さん、
-  words:
-    - word: お
-      base: 御
-      position: 1
-    - word: 母さん
-      position: 2
 - id: Abuno Orei-f000146
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -4464,12 +1158,6 @@
   sound_begin: 567884
   sound_end: 570008
   sentence: 御覧なさい。
-  words:
-    - word: 御覧
-      position: 0
-    - word: なさい
-      base: 為す
-      position: 2
 - id: Abuno Orei-f000147
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -4478,31 +1166,6 @@
   sound_begin: 570008
   sound_end: 574360
   sentence: この間の虻が泥棒を刺したのよ。
-  words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: 間
-      position: 2
-    - word: の
-      position: 3
-    - word: 虻
-      position: 4
-    - word: が
-      position: 5
-    - word: 泥棒
-      position: 6
-    - word: を
-      position: 8
-    - word: 刺し
-      base: 差す
-      position: 9
-    - word: た
-      position: 11
-    - word: の
-      position: 12
-    - word: よ
-      position: 13
 - id: Abuno Orei-f000148
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -4511,43 +1174,6 @@
   sound_begin: 574360
   sound_end: 579193
   sentence: あたしが助けてやったお礼をしてくれたのよ」
-  words:
-    - word: あたし
-      base: 私
-      position: 0
-    - word: が
-      position: 3
-    - word: 助け
-      base: 助ける
-      position: 4
-    - word: て
-      position: 6
-    - word: やっ
-      base: 遣る
-      position: 7
-    - word: た
-      position: 9
-    - word: お
-      base: 御
-      position: 10
-    - word: 礼
-      position: 11
-    - word: を
-      position: 12
-    - word: し
-      base: 為る
-      position: 13
-    - word: て
-      position: 14
-    - word: くれ
-      base: 呉れる
-      position: 15
-    - word: た
-      position: 17
-    - word: の
-      position: 18
-    - word: よ
-      position: 19
 - id: Abuno Orei-f000149
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -4556,17 +1182,6 @@
   sound_begin: 579193
   sound_end: 581559
   sentence: と言いました。
-  words:
-    - word: と
-      position: 0
-    - word: 言い
-      base: 言う
-      position: 1
-    - word: まし
-      base: ます
-      position: 3
-    - word: た
-      position: 5
 - id: Abuno Orei-f000150
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -4575,30 +1190,6 @@
   sound_begin: 581559
   sound_end: 584900
   sentence: お母さんはおうなずきになりました。
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 母さん
-      position: 1
-    - word: は
-      position: 4
-    - word: お
-      base: 御
-      position: 5
-    - word: うなずき
-      base: 頷く
-      position: 6
-    - word: に
-      position: 10
-    - word: なり
-      base: 成る
-      position: 11
-    - word: まし
-      base: ます
-      position: 13
-    - word: た
-      position: 15
 - id: Abuno Orei-f000151
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -4607,62 +1198,6 @@
   sound_begin: 587000
   sound_end: 594440
   sentence: そうして晩方お父さんがお帰りになってお母さんがこのお話をされますと、
-  words:
-    - word: そう
-      position: 0
-    - word: し
-      base: 為る
-      position: 2
-    - word: て
-      position: 3
-    - word: 晩方
-      position: 4
-    - word: お
-      base: 御
-      position: 6
-    - word: 父さん
-      position: 7
-    - word: が
-      position: 10
-    - word: お
-      base: 御
-      position: 11
-    - word: 帰り
-      position: 12
-    - word: に
-      position: 14
-    - word: なっ
-      base: 成る
-      position: 15
-    - word: て
-      position: 17
-    - word: お
-      base: 御
-      position: 18
-    - word: 母さん
-      position: 19
-    - word: が
-      position: 22
-    - word: この
-      base: 此の
-      position: 23
-    - word: お
-      base: 御
-      position: 25
-    - word: 話
-      position: 26
-    - word: を
-      position: 27
-    - word: さ
-      base: 為る
-      position: 28
-    - word: れ
-      base: れる
-      position: 29
-    - word: ます
-      position: 30
-    - word: と
-      position: 32
 - id: Abuno Orei-f000152
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -4671,28 +1206,6 @@
   sound_begin: 594440
   sound_end: 599320
   sentence: お父さまはチエ子の頭を撫でながら、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 父さま
-      base: 父様
-      position: 1
-    - word: は
-      position: 4
-    - word: チエ子
-      position: 5
-    - word: の
-      position: 8
-    - word: 頭
-      position: 9
-    - word: を
-      position: 10
-    - word: 撫で
-      base: 撫でる
-      position: 11
-    - word: ながら
-      position: 13
 - id: Abuno Orei-f000153
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -4701,37 +1214,6 @@
   sound_begin: 599320
   sound_end: 605235
   sentence: 「あぶとお話した子は世界中でチエ子一人だろう」
-  words:
-    - word: あぶ
-      base: 虻
-      position: 1
-    - word: と
-      position: 3
-    - word: お
-      base: 御
-      position: 4
-    - word: 話し
-      base: 話す
-      position: 5
-    - word: た
-      position: 7
-    - word: 子
-      position: 8
-    - word: は
-      position: 9
-    - word: 世界
-      position: 10
-    - word: 中
-      position: 12
-    - word: で
-      position: 13
-    - word: チエ子
-      position: 14
-    - word: 一人
-      position: 17
-    - word: だろう
-      base: だ
-      position: 19
 - id: Abuno Orei-f000154
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -4740,24 +1222,6 @@
   sound_begin: 605235
   sound_end: 607520
   sentence: とお笑いになりました。
-  words:
-    - word: と
-      position: 0
-    - word: お
-      base: 御
-      position: 1
-    - word: 笑い
-      position: 2
-    - word: に
-      position: 4
-    - word: なり
-      base: 成る
-      position: 5
-    - word: まし
-      base: ます
-      position: 7
-    - word: た
-      position: 9
 - id: Abuno Orei-f000155
   author_japanese: 夢野 久作
   deck_name: Abuno Orei
@@ -4766,34 +1230,3 @@
   sound_begin: 610020
   sound_end: 614880
   sentence: チエ子さんは虻のお墓を作ってやりました。
-  words:
-    - word: チエ子
-      position: 0
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
-    - word: 虻
-      position: 6
-    - word: の
-      position: 7
-    - word: お
-      base: 御
-      position: 8
-    - word: 墓
-      position: 9
-    - word: を
-      position: 10
-    - word: 作っ
-      base: 作る
-      position: 11
-    - word: て
-      position: 13
-    - word: やり
-      base: 遣る
-      position: 14
-    - word: まし
-      base: ます
-      position: 16
-    - word: た
-      position: 18

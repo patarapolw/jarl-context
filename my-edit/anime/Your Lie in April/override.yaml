@@ -4,29 +4,16 @@
   sound: Anime_Your_lie_in_april_E01_1_0.07.00.150-0.07.02.160.mp3
   sentence: おおっ！ 圭子(けいこ)ちゃんからメール！―
   words:
-    - word: おおっ
-      base: おお
-      position: 0
-    - word: 圭子
-      position: 5
     - word: けいこ
       position: 8
       tags:
         - silent
-    - word: ちゃん
-      position: 12
-    - word: から
-      position: 15
-    - word: メール
-      position: 17
 - id: Anime_Your_lie_in_april_E01_0066
   deck_name: Your Lie in April
   translation: I was talking to Miwa the other day.
   sound: Anime_Your_lie_in_april_E01_1_0.07.27.590-0.07.29.800.mp3
   sentence: 美和(みわ)が言ってたよ
   words:
-    - word: 美和
-      position: 0
     - word: み
       base: 見る
       dictionary: みる
@@ -37,85 +24,26 @@
       position: 4
       tags:
         - silent
-    - word: が
-      position: 6
-    - word: 言っ
-      base: 言う
-      dictionary: 言う
-      position: 7
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 9
-    - word: た
-      position: 10
-    - word: よ
-      position: 11
 - id: Anime_Your_lie_in_april_E01_0101
   deck_name: Your Lie in April
   translation: Hey, isn't this Goose House's new song?!
   sound: Anime_Your_lie_in_april_E01_1_0.11.12.530-0.11.18.000.mp3
   sentence: うひゃー！ あれ？― Goose(グース) House(ハウス)の新曲！？ 今 ＣＭで流れてるやつ？―
   words:
-    - word: うひゃー
-      base: うひゃ
-      position: 0
-    - word: あれ
-      position: 6
-    - word: Goose
-      base: goose
-      dictionary: goose
-      position: 11
     - word: グース
       position: 17
       tags:
         - silent
-    - word: House
-      base: ハウス
-      dictionary: house
-      position: 22
     - word: ハウス
       position: 28
       tags:
         - silent
-    - word: の
-      position: 32
-    - word: 新曲
-      position: 33
-    - word: 今
-      position: 38
-    - word: ＣＭ
-      base: CM
-      dictionary: CM
-      position: 40
-    - word: で
-      position: 42
-    - word: 流れ
-      base: 流れる
-      dictionary: 流れる
-      position: 43
-    - word: てる
-      position: 45
-    - word: やつ
-      base: 奴
-      position: 47
 - id: Anime_Your_lie_in_april_E01_0158
   deck_name: Your Lie in April
   translation: This is my classmate, Miyazono Kaori.
   sound: Anime_Your_lie_in_april_E01_1_0.18.53.400-0.18.58.380.mp3
   sentence: こちら 私のクラスメート 宮園(みやぞの)かをりちゃん
   words:
-    - word: こちら
-      base: 此方
-      position: 0
-    - word: 私
-      position: 4
-    - word: の
-      position: 5
-    - word: クラスメート
-      position: 6
-    - word: 宮園
-      position: 13
     - word: みや
       base: 宮
       position: 16
@@ -129,10 +57,6 @@
       position: 19
       tags:
         - silent
-    - word: かをり
-      position: 21
-    - word: ちゃん
-      position: 24
 - id: Anime_Your_lie_in_april_E01_0160
   deck_name: Your Lie in April
   translation: >-
@@ -141,17 +65,6 @@
   sound: Anime_Your_lie_in_april_E01_1_0.19.02.130-0.19.07.560.mp3
   sentence: で こいつが 渡 亮太(りょうた) こう見えても サッカー部 部長
   words:
-    - word: で
-      position: 0
-    - word: こいつ
-      base: 此奴
-      position: 2
-    - word: が
-      position: 5
-    - word: 渡
-      position: 7
-    - word: 亮太
-      position: 9
     - word: りょう
       position: 12
       tags:
@@ -162,35 +75,12 @@
       position: 15
       tags:
         - silent
-    - word: こう
-      position: 18
-    - word: 見え
-      base: 見える
-      dictionary: 見える
-      position: 20
-    - word: て
-      position: 22
-    - word: も
-      position: 23
-    - word: サッカー
-      position: 25
-    - word: 部
-      position: 29
-    - word: 部長
-      position: 31
 - id: Anime_Your_lie_in_april_E01_0180
   deck_name: Your Lie in April
   translation: Isn't that... Towa Hall.
   sound: Anime_Your_lie_in_april_E01_1_0.20.17.120-0.20.19.290.mp3
   sentence: あそこって… 藤和(とうわ)ホール―
   words:
-    - word: あそこ
-      base: 彼処
-      position: 0
-    - word: って
-      position: 3
-    - word: 藤和
-      position: 7
     - word: と
       position: 10
       tags:
@@ -199,21 +89,12 @@
       position: 11
       tags:
         - silent
-    - word: ホール
-      position: 14
 - id: Anime_Your_lie_in_april_E02_0207
   deck_name: Your Lie in April
   translation: Hey, isn't that Arima?
   sound: Anime_Your_lie_in_april_E02_1_0.03.47.550-0.03.49.380.mp3
   sentence: あれって 有馬(ありま)だよな？
   words:
-    - word: あれ
-      base: 彼れ
-      position: 0
-    - word: って
-      position: 2
-    - word: 有馬
-      position: 5
     - word: あり
       base: 有る
       dictionary: ある
@@ -224,20 +105,12 @@
       position: 10
       tags:
         - silent
-    - word: だ
-      position: 12
-    - word: よ
-      position: 13
-    - word: な
-      position: 14
 - id: Anime_Your_lie_in_april_E02_0210
   deck_name: Your Lie in April
   translation: Wasn't he the youngest winner of the Saiki Competition?
   sound: Anime_Your_lie_in_april_E02_1_0.03.53.640-0.03.55.930.mp3
   sentence: 彩木(さいき)コンクールで 最年少優勝した？
   words:
-    - word: 彩木
-      position: 0
     - word: さ
       base: さあ
       position: 3
@@ -248,56 +121,23 @@
       position: 4
       tags:
         - silent
-    - word: コンクール
-      position: 7
-    - word: で
-      position: 12
-    - word: 最
-      position: 14
-    - word: 年少
-      position: 15
-    - word: 優勝
-      position: 17
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 19
-    - word: た
-      position: 20
 - id: Anime_Your_lie_in_april_E02_0230
   deck_name: Your Lie in April
   translation: Is he one of Mr. Satou's students?
   sound: Anime_Your_lie_in_april_E02_1_0.06.54.660-0.06.56.760.mp3
   sentence: 佐藤(さとう)先生のところの子か
   words:
-    - word: 佐藤
-      position: 0
     - word: さとう
       base: 砂糖
       position: 3
       tags:
         - silent
-    - word: 先生
-      position: 7
-    - word: の
-      position: 9
-    - word: ところ
-      base: 所
-      position: 10
-    - word: の
-      position: 13
-    - word: 子
-      position: 14
-    - word: か
-      position: 15
 - id: Anime_Your_lie_in_april_E02_0264
   deck_name: Your Lie in April
   translation: You mean Miyazono Kaori, right? I've got her name down.
   sound: Anime_Your_lie_in_april_E02_1_0.13.05.190-0.13.07.250.mp3
   sentence: 宮園(みやぞの)かをりでしょ？ 名前 覚えちゃった
   words:
-    - word: 宮園
-      position: 0
     - word: みや
       base: 宮
       position: 3
@@ -311,56 +151,16 @@
       position: 6
       tags:
         - silent
-    - word: かをり
-      position: 8
-    - word: でしょ
-      base: です
-      dictionary: です
-      position: 11
-    - word: 名前
-      position: 16
-    - word: 覚え
-      base: 覚える
-      dictionary: 覚える
-      position: 19
-    - word: ちゃっ
-      base: ちゃう
-      dictionary: ちゃう
-      position: 21
-    - word: た
-      position: 24
 - id: Anime_Your_lie_in_april_E02_0327
   deck_name: Your Lie in April
   translation: You made Keiko cry again, didn't you?!
   sound: Anime_Your_lie_in_april_E02_1_0.18.05.960-0.18.08.180.mp3
   sentence: あんた また 圭子(けいこ) 泣かせたでしょ！！
   words:
-    - word: あんた
-      base: 貴方
-      position: 0
-    - word: また
-      base: 又
-      position: 4
-    - word: 圭子
-      position: 7
     - word: けいこ
       position: 10
       tags:
         - silent
-    - word: 泣か
-      base: 泣く
-      dictionary: 泣く
-      position: 15
-    - word: せ
-      base: せる
-      dictionary: せる
-      position: 17
-    - word: た
-      position: 18
-    - word: でしょ
-      base: です
-      dictionary: です
-      position: 19
 - id: Anime_Your_lie_in_april_E03_0397
   deck_name: Your Lie in April
   translation: >-
@@ -369,10 +169,6 @@
   sound: Anime_Your_lie_in_april_E03_1_0.05.42.500-0.05.49.680.mp3
   sentence: 森脇学生(もりわきがくせい)コンクール ピアノ部門 優勝 彩木(さいき)コンクール 最年少 優勝
   words:
-    - word: 森脇
-      position: 0
-    - word: 学生
-      position: 2
     - word: もり
       position: 5
       tags:
@@ -390,16 +186,6 @@
       position: 11
       tags:
         - silent
-    - word: コンクール
-      position: 14
-    - word: ピアノ
-      position: 20
-    - word: 部門
-      position: 23
-    - word: 優勝
-      position: 26
-    - word: 彩木
-      position: 29
     - word: さ
       base: さあ
       position: 32
@@ -410,71 +196,34 @@
       position: 33
       tags:
         - silent
-    - word: コンクール
-      position: 36
-    - word: 最
-      position: 42
-    - word: 年少
-      position: 43
-    - word: 優勝
-      position: 46
 - id: Anime_Your_lie_in_april_E03_0440
   deck_name: Your Lie in April
   translation: Morning, Tsubaki! Morning!
   sound: Anime_Your_lie_in_april_E03_1_0.09.33.400-0.09.36.280.mp3
   sentence: 椿(つばき) おはよう おはよう
   words:
-    - word: 椿
-      position: 0
     - word: つばき
       position: 2
       tags:
         - silent
-    - word: おはよう
-      base: 御早う
-      position: 7
-    - word: おはよう
-      base: 御早う
-      position: 12
 - id: Anime_Your_lie_in_april_E03_0452
   deck_name: Your Lie in April
   translation: You're all so slow! Quit shovin'!
   sound: Anime_Your_lie_in_april_E03_1_0.10.50.690-0.10.56.110.mp3
   sentence: 遅(おせ)えよ お前！ 押すな！
   words:
-    - word: 遅
-      position: 0
     - word: おせ
       base: 押す
       dictionary: おす
       position: 2
       tags:
         - silent
-    - word: えよ
-      base: 得る
-      dictionary: える
-      position: 5
-    - word: お前
-      base: 御前
-      position: 8
-    - word: 押す
-      position: 12
-    - word: な
-      position: 14
 - id: Anime_Your_lie_in_april_E03_0474
   deck_name: Your Lie in April
   translation: You really like Arima, don't you?
   sound: Anime_Your_lie_in_april_E03_1_0.13.34.140-0.13.36.890.mp3
   sentence: 椿ちゃんは 有馬(ありま)君が好きなんだね
   words:
-    - word: 椿
-      position: 0
-    - word: ちゃん
-      position: 1
-    - word: は
-      position: 4
-    - word: 有馬
-      position: 6
     - word: あり
       base: 有る
       dictionary: ある
@@ -485,34 +234,12 @@
       position: 11
       tags:
         - silent
-    - word: 君
-      position: 13
-    - word: が
-      position: 14
-    - word: 好き
-      position: 15
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 17
-    - word: ん
-      base: の
-      position: 18
-    - word: だ
-      position: 19
-    - word: ね
-      position: 20
 - id: "\uFEFFAnime_Your_lie_in_april_E04_0540"
   deck_name: Your Lie in April
   translation: Listen to me, Kousei.
   sound: Anime_Your_lie_in_april_E04_1_0.00.04.160-0.00.05.790.mp3
   sentence: いい？ 公生(こうせい)
   words:
-    - word: いい
-      base: 良い
-      position: 0
-    - word: 公生
-      position: 4
     - word: こう
       position: 7
       tags:
@@ -529,11 +256,6 @@
   sound: Anime_Your_lie_in_april_E04_1_0.00.36.400-0.00.38.320.mp3
   sentence: また 有馬(ありま)がトップか―
   words:
-    - word: また
-      base: 又
-      position: 0
-    - word: 有馬
-      position: 3
     - word: あり
       base: 有る
       dictionary: ある
@@ -544,24 +266,12 @@
       position: 8
       tags:
         - silent
-    - word: が
-      position: 10
-    - word: トップ
-      position: 11
-    - word: か
-      position: 14
 - id: Anime_Your_lie_in_april_E04_0550
   deck_name: Your Lie in April
   translation: Well, his mother is a direct disciple of Dr. Hashimoto.
   sound: Anime_Your_lie_in_april_E04_1_0.00.38.490-0.00.41.030.mp3
   sentence: 母親が 橋本(はしもと)先生 直系だからな
   words:
-    - word: 母親
-      position: 0
-    - word: が
-      position: 2
-    - word: 橋本
-      position: 4
     - word: はし
       position: 7
       tags:
@@ -574,32 +284,12 @@
       position: 10
       tags:
         - silent
-    - word: 先生
-      position: 12
-    - word: 直系
-      position: 15
-    - word: だ
-      position: 17
-    - word: から
-      position: 18
-    - word: な
-      position: 20
 - id: Anime_Your_lie_in_april_E04_0578
   deck_name: Your Lie in April
   translation: 'Next: No. 12, Ms. Nashida. Please get ready.'
   sound: Anime_Your_lie_in_april_E04_1_0.04.09.590-0.04.12.380.mp3
   sentence: 次 12番の梨田(なしだ)さん 準備を
   words:
-    - word: 次
-      position: 0
-    - word: '12'
-      position: 2
-    - word: 番
-      position: 4
-    - word: の
-      position: 5
-    - word: 梨田
-      position: 6
     - word: なし
       position: 9
       tags:
@@ -608,26 +298,12 @@
       position: 11
       tags:
         - silent
-    - word: さん
-      position: 13
-    - word: 準備
-      position: 16
-    - word: を
-      position: 18
 - id: Anime_Your_lie_in_april_E04_0599
   deck_name: Your Lie in April
   translation: No. 14, Ms. Miyazono Kaori. Please get ready to go on.
   sound: Anime_Your_lie_in_april_E04_1_0.05.56.190-0.06.00.530.mp3
   sentence: 14番の 宮園(みやぞの)かをりさん 準備 お願いします
   words:
-    - word: '14'
-      position: 0
-    - word: 番
-      position: 2
-    - word: の
-      position: 3
-    - word: 宮園
-      position: 5
     - word: みや
       base: 宮
       position: 8
@@ -641,35 +317,12 @@
       position: 11
       tags:
         - silent
-    - word: かをり
-      position: 13
-    - word: さん
-      position: 16
-    - word: 準備
-      position: 19
-    - word: お
-      base: 御
-      position: 22
-    - word: 願い
-      base: 願う
-      dictionary: 願う
-      position: 23
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 25
-    - word: ます
-      position: 26
 - id: Anime_Your_lie_in_april_E05_0660
   deck_name: Your Lie in April
   translation: Next! Kousei, you're up!
   sound: Anime_Your_lie_in_april_E05_1_0.00.16.050-0.00.18.800.mp3
   sentence: 次！ 公生(こうせい) いけ！
   words:
-    - word: 次
-      position: 0
-    - word: 公生
-      position: 3
     - word: こう
       position: 6
       tags:
@@ -680,63 +333,22 @@
       position: 8
       tags:
         - silent
-    - word: いけ
-      base: 行く
-      dictionary: いく
-      position: 12
 - id: Anime_Your_lie_in_april_E05_0708
   deck_name: Your Lie in April
   translation: Then you shouldn't mind telling me. Keiko?
   sound: Anime_Your_lie_in_april_E05_1_0.05.28.280-0.05.33.030.mp3
   sentence: じゃあ 教えてくれても いいじゃん あっ！ 圭子(けいこ)ちゃん？ 俺 リョーチン―
   words:
-    - word: じゃあ
-      base: で
-      position: 0
-    - word: 教え
-      base: 教える
-      dictionary: 教える
-      position: 4
-    - word: て
-      position: 6
-    - word: くれ
-      base: 呉れる
-      dictionary: くれる
-      position: 7
-    - word: て
-      position: 9
-    - word: も
-      position: 10
-    - word: いい
-      base: 良い
-      position: 12
-    - word: じゃん
-      position: 14
-    - word: あっ
-      position: 18
-    - word: 圭子
-      position: 22
     - word: けいこ
       position: 25
       tags:
         - silent
-    - word: ちゃん
-      position: 29
-    - word: 俺
-      position: 34
-    - word: リョーチン
-      position: 36
 - id: Anime_Your_lie_in_april_E05_0748
   deck_name: Your Lie in April
   translation: Thank you, Arima Kousei.
   sound: Anime_Your_lie_in_april_E05_1_0.10.20.030-0.10.24.830.mp3
   sentence: ありがとう 有馬(ありま)公生君
   words:
-    - word: ありがとう
-      base: 有り難う
-      position: 0
-    - word: 有馬
-      position: 6
     - word: あり
       base: 有る
       dictionary: ある
@@ -747,44 +359,23 @@
       position: 11
       tags:
         - silent
-    - word: 公生
-      position: 13
-    - word: 君
-      position: 15
 - id: Anime_Your_lie_in_april_E05_0840
   deck_name: Your Lie in April
   translation: That was scary!
   sound: Anime_Your_lie_in_april_E05_1_0.20.56.620-0.21.00.750.mp3
   sentence: アハハハ！ 怖(こえ)～ ハハハハ！
   words:
-    - word: アハハハ
-      base: あはは
-      position: 0
-    - word: 怖
-      base: 怖い
-      dictionary: 怖い
-      position: 6
     - word: こえ
       base: 声
       position: 8
       tags:
         - silent
-    - word: ～
-      base: から
-      position: 11
-    - word: ハハハハ
-      base: はははは
-      position: 13
 - id: Anime_Your_lie_in_april_E06_0877
   deck_name: Your Lie in April
   translation: The Maihou Music Competition.
   sound: Anime_Your_lie_in_april_E06_1_0.04.35.060-0.04.36.860.mp3
   sentence: 毎報(まいほう) 音楽コンクール
   words:
-    - word: 毎
-      position: 0
-    - word: 報
-      position: 1
     - word: まい
       position: 3
       tags:
@@ -794,23 +385,12 @@
       position: 5
       tags:
         - silent
-    - word: 音楽
-      position: 9
-    - word: コンクール
-      position: 11
 - id: Anime_Your_lie_in_april_E06_0908
   deck_name: Your Lie in April
   translation: Arima was basically tearing his hair out the other day.
   sound: Anime_Your_lie_in_april_E06_1_0.08.01.940-0.08.05.150.mp3
   sentence: この前 有馬(ありま)君 頭から 煙 出てた―
   words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: 前
-      position: 2
-    - word: 有馬
-      position: 4
     - word: あり
       base: 有る
       dictionary: ある
@@ -821,75 +401,22 @@
       position: 9
       tags:
         - silent
-    - word: 君
-      position: 11
-    - word: 頭
-      position: 13
-    - word: から
-      position: 14
-    - word: 煙
-      position: 17
-    - word: 出
-      base: 出る
-      dictionary: 出る
-      position: 19
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 20
-    - word: た
-      position: 21
 - id: Anime_Your_lie_in_april_E06_0956
   deck_name: Your Lie in April
   translation: What lucky boys and girls you are to have been born in this era.
   sound: Anime_Your_lie_in_april_E06_1_0.13.04.200-0.13.07.910.mp3
   sentence: この時代に生まれた お前(めえ)らは とんだラッキーボーイだぜ
   words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: 時代
-      position: 2
-    - word: に
-      position: 4
-    - word: 生まれ
-      base: 生まれる
-      dictionary: 生まれる
-      position: 5
-    - word: た
-      position: 8
-    - word: お前
-      base: 御前
-      position: 10
     - word: めえ
       position: 13
       tags:
         - silent
-    - word: ら
-      base: 等
-      position: 16
-    - word: は
-      position: 17
-    - word: とんだ
-      position: 19
-    - word: ラッキー
-      position: 22
-    - word: ボーイ
-      position: 26
-    - word: だ
-      position: 29
-    - word: ぜ
-      position: 30
 - id: Anime_Your_lie_in_april_E06_0957
   deck_name: Your Lie in April
   translation: All in attendance shall bear witness as a star named Watari Ryouta is born.
   sound: Anime_Your_lie_in_april_E06_1_0.13.08.990-0.13.12.580.mp3
   sentence: 渡 亮太(りょうた)っていうスターの誕生に 立ち会えるのだから！
   words:
-    - word: 渡
-      position: 0
-    - word: 亮太
-      position: 2
     - word: りょう
       position: 5
       tags:
@@ -900,52 +427,12 @@
       position: 8
       tags:
         - silent
-    - word: って
-      position: 10
-    - word: いう
-      base: 言う
-      position: 12
-    - word: スター
-      position: 14
-    - word: の
-      position: 17
-    - word: 誕生
-      position: 18
-    - word: に
-      position: 20
-    - word: 立ち
-      base: 立つ
-      dictionary: 立つ
-      position: 22
-    - word: 会える
-      base: 会う
-      position: 24
-    - word: の
-      position: 27
-    - word: だ
-      position: 28
-    - word: から
-      position: 29
 - id: Anime_Your_lie_in_april_E07_1046
   deck_name: Your Lie in April
   translation: You got this, Watari!
   sound: Anime_Your_lie_in_april_E07_1_0.02.29.770-0.02.33.190.mp3
   sentence: キャ～！ いったれ 渡(わたり)！
   words:
-    - word: キャ
-      position: 0
-    - word: ～
-      position: 2
-    - word: いっ
-      base: 言う
-      dictionary: いう
-      position: 5
-    - word: たれ
-      base: たり
-      dictionary: たり
-      position: 7
-    - word: 渡
-      position: 10
     - word: わたり
       base: 渡る
       dictionary: わたる
@@ -958,12 +445,6 @@
   sound: Anime_Your_lie_in_april_E07_1_0.03.48.020-0.03.50.770.mp3
   sentence: 次は 絶対(ぜってえ) 負けねえからな！
   words:
-    - word: 次
-      position: 0
-    - word: は
-      position: 1
-    - word: 絶対
-      position: 3
     - word: ぜ
       position: 6
       tags:
@@ -974,26 +455,12 @@
       position: 7
       tags:
         - silent
-    - word: 負け
-      base: 負ける
-      dictionary: 負ける
-      position: 12
-    - word: ねえ
-      base: ない
-      dictionary: ない
-      position: 14
-    - word: から
-      position: 16
-    - word: な
-      position: 18
 - id: Anime_Your_lie_in_april_E07_1065
   deck_name: Your Lie in April
   translation: Arima, we're in the middle of class here! Dial it down!
   sound: Anime_Your_lie_in_april_E07_1_0.04.24.810-0.04.27.640.mp3
   sentence: 有馬(ありま)！ 授業中だ！ うるさいぞ！
   words:
-    - word: 有馬
-      position: 0
     - word: あり
       base: 有る
       dictionary: ある
@@ -1004,41 +471,12 @@
       position: 5
       tags:
         - silent
-    - word: 授業
-      position: 9
-    - word: 中
-      position: 11
-    - word: だ
-      position: 12
-    - word: うるさい
-      base: 煩い
-      position: 15
-    - word: ぞ
-      position: 19
 - id: Anime_Your_lie_in_april_E07_1144
   deck_name: Your Lie in April
   translation: 'Köchel No. 265: Mozart''s Twinkle, Twinkle, Little Star.'
   sound: Anime_Your_lie_in_april_E07_1_0.11.41.490-0.11.46.830.mp3
   sentence: ケッヘル 265番― モーツァルト 〝キラキラ星 変奏曲(へんそうきょく)〞
   words:
-    - word: ケッヘル
-      base: KV
-      position: 0
-    - word: '265'
-      position: 5
-    - word: 番
-      position: 8
-    - word: モーツァルト
-      position: 11
-    - word: キラキラ
-      base: きらきら
-      position: 19
-    - word: 星
-      position: 23
-    - word: 変奏
-      position: 25
-    - word: 曲
-      position: 27
     - word: へん
       position: 29
       tags:
@@ -1057,8 +495,6 @@
   sound: Anime_Your_lie_in_april_E07_1_0.12.29.960-0.12.35.550.mp3
   sentence: 井川(いがわ)絵見ちゃんに 相座(あいざ)武士君― 頭一つも 二つも 抜きん出てたわ―
   words:
-    - word: 井川
-      position: 0
     - word: い
       base: いー
       position: 3
@@ -1068,14 +504,6 @@
       position: 4
       tags:
         - silent
-    - word: 絵見
-      position: 7
-    - word: ちゃん
-      position: 9
-    - word: に
-      position: 12
-    - word: 相座
-      position: 14
     - word: あ
       base: あっ
       position: 17
@@ -1085,38 +513,6 @@
       position: 18
       tags:
         - silent
-    - word: 武士
-      position: 21
-    - word: 君
-      position: 23
-    - word: 頭
-      position: 26
-    - word: 一
-      base: '1'
-      position: 27
-    - word: つ
-      position: 28
-    - word: も
-      position: 29
-    - word: 二
-      base: '2'
-      position: 31
-    - word: つ
-      position: 32
-    - word: も
-      position: 33
-    - word: 抜きん出
-      base: 抜きん出る
-      dictionary: 抜きん出る
-      position: 35
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 39
-    - word: た
-      position: 40
-    - word: わ
-      position: 41
 - id: Anime_Your_lie_in_april_E07_1201
   deck_name: Your Lie in April
   translation: >-
@@ -1125,41 +521,6 @@
   sound: Anime_Your_lie_in_april_E07_1_0.16.56.640-0.17.03.650.mp3
   sentence: 手を精いっぱい 伸ばして 捕らえたと思ったら― 蜃気楼(しんきろう)のように 遠くにいる―
   words:
-    - word: 手
-      position: 0
-    - word: を
-      position: 1
-    - word: 精
-      position: 2
-    - word: いっぱい
-      base: 一杯
-      position: 3
-    - word: 伸ばし
-      base: 伸ばす
-      dictionary: 伸ばす
-      position: 8
-    - word: て
-      position: 11
-    - word: 捕らえ
-      base: 捕らえる
-      dictionary: 捕らえる
-      position: 13
-    - word: た
-      position: 16
-    - word: と
-      position: 17
-    - word: 思っ
-      base: 思う
-      dictionary: 思う
-      position: 18
-    - word: たら
-      base: た
-      dictionary: た
-      position: 20
-    - word: 蜃気
-      position: 24
-    - word: 楼
-      position: 26
     - word: しんき
       base: 蜃気
       position: 28
@@ -1169,36 +530,12 @@
       position: 31
       tags:
         - silent
-    - word: の
-      position: 34
-    - word: よう
-      base: 様
-      position: 35
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 37
-    - word: 遠く
-      position: 39
-    - word: に
-      position: 41
-    - word: いる
-      base: 居る
-      position: 42
 - id: Anime_Your_lie_in_april_E07_1207
   deck_name: Your Lie in April
   translation: No. 3, Ms. Kawanaka Yuuko. Please get ready.
   sound: Anime_Your_lie_in_april_E07_1_0.18.06.710-0.18.10.800.mp3
   sentence: ３番 川中(かわなか)優子(ゆうこ)さん 準備 お願いします
   words:
-    - word: ３
-      base: '3'
-      dictionary: '3'
-      position: 0
-    - word: 番
-      position: 1
-    - word: 川中
-      position: 3
     - word: かわ
       position: 6
       tags:
@@ -1208,39 +545,16 @@
       position: 8
       tags:
         - silent
-    - word: 優子
-      position: 11
     - word: ゆうこ
       position: 14
       tags:
         - silent
-    - word: さん
-      position: 18
-    - word: 準備
-      position: 21
-    - word: お
-      base: 御
-      position: 24
-    - word: 願い
-      base: 願う
-      dictionary: 願う
-      position: 25
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 27
-    - word: ます
-      position: 28
 - id: Anime_Your_lie_in_april_E07_1216
   deck_name: Your Lie in April
   translation: I'm going to enter the Maihou Music Competition.
   sound: Anime_Your_lie_in_april_E07_1_0.20.51.830-0.20.53.840.mp3
   sentence: 毎報(まいほう) 音楽コンクールに出ます
   words:
-    - word: 毎
-      position: 0
-    - word: 報
-      position: 1
     - word: まい
       position: 3
       tags:
@@ -1250,18 +564,6 @@
       position: 5
       tags:
         - silent
-    - word: 音楽
-      position: 9
-    - word: コンクール
-      position: 11
-    - word: に
-      position: 16
-    - word: 出
-      base: 出る
-      dictionary: 出る
-      position: 17
-    - word: ます
-      position: 18
 - id: "\uFEFFAnime_Your_lie_in_april_E08_1221"
   deck_name: Your Lie in April
   translation: >-
@@ -1270,48 +572,16 @@
   sound: Anime_Your_lie_in_april_E08_1_0.00.02.830-0.00.08.880.mp3
   sentence: 武士(たけし) シュベルスタイン コンクールからの― 招待状が届いたぞ ドイツだ―
   words:
-    - word: 武士
-      position: 0
     - word: たけし
       position: 3
       tags:
         - silent
-    - word: シュベルスタイン
-      position: 8
-    - word: コンクール
-      position: 17
-    - word: から
-      position: 22
-    - word: の
-      position: 24
-    - word: 招待
-      position: 27
-    - word: 状
-      position: 29
-    - word: が
-      position: 30
-    - word: 届い
-      base: 届く
-      dictionary: 届く
-      position: 31
-    - word: た
-      position: 33
-    - word: ぞ
-      position: 34
-    - word: ドイツ
-      position: 36
-    - word: だ
-      position: 39
 - id: Anime_Your_lie_in_april_E08_1223
   deck_name: Your Lie in April
   translation: The Maihou Competition's around the  same time, but we can cancel that one.
   sound: Anime_Your_lie_in_april_E08_1_0.00.11.420-0.00.15.130.mp3
   sentence: 毎報(まいほう)コンと かぶるが あっちは キャンセルしておこう
   words:
-    - word: 毎
-      position: 0
-    - word: 報
-      position: 1
     - word: まい
       position: 3
       tags:
@@ -1321,41 +591,12 @@
       position: 5
       tags:
         - silent
-    - word: コン
-      base: こん
-      position: 8
-    - word: と
-      position: 10
-    - word: かぶる
-      base: 被る
-      position: 12
-    - word: が
-      position: 15
-    - word: あっち
-      base: 彼方
-      position: 17
-    - word: は
-      position: 20
-    - word: キャンセル
-      position: 22
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 27
-    - word: て
-      position: 28
-    - word: おこう
-      base: おく
-      dictionary: おく
-      position: 29
 - id: Anime_Your_lie_in_april_E08_1232
   deck_name: Your Lie in April
   translation: Arima Kousei might be competing.
   sound: Anime_Your_lie_in_april_E08_1_0.00.45.910-0.00.48.040.mp3
   sentence: 有馬(ありま)公生(こうせい)が出るかもしれません
   words:
-    - word: 有馬
-      position: 0
     - word: あり
       base: 有る
       dictionary: ある
@@ -1366,8 +607,6 @@
       position: 5
       tags:
         - silent
-    - word: 公生
-      position: 7
     - word: こう
       position: 10
       tags:
@@ -1378,59 +617,22 @@
       position: 12
       tags:
         - silent
-    - word: が
-      position: 15
-    - word: 出る
-      position: 16
-    - word: か
-      position: 18
-    - word: も
-      position: 19
-    - word: しれ
-      base: 知る
-      dictionary: しれる
-      position: 20
-    - word: ませ
-      base: ます
-      dictionary: ます
-      position: 22
-    - word: ん
-      base: ず
-      dictionary: ぬ
-      position: 24
 - id: Anime_Your_lie_in_april_E08_1245
   deck_name: Your Lie in April
   translation: What's up with that? That would be Team Takeshi.
   sound: Anime_Your_lie_in_april_E08_1_0.06.06.530-0.06.09.120.mp3
   sentence: 何？ あれ TAKESHI(タケシ)親衛隊
   words:
-    - word: 何
-      position: 0
-    - word: あれ
-      base: 彼れ
-      position: 3
-    - word: TAKESHI
-      base: takeshi
-      dictionary: takeshi
-      position: 6
     - word: タケシ
       position: 14
       tags:
         - silent
-    - word: 親衛
-      position: 18
-    - word: 隊
-      position: 20
 - id: Anime_Your_lie_in_april_E08_1274
   deck_name: Your Lie in April
   translation: Oh, it's Igawa. She's pretty popular too.
   sound: Anime_Your_lie_in_april_E08_1_0.08.28.590-0.08.31.800.mp3
   sentence: ああ 井川(いがわ)さんね 彼女も人気者よ
   words:
-    - word: ああ
-      position: 0
-    - word: 井川
-      position: 3
     - word: い
       base: いー
       position: 6
@@ -1440,20 +642,6 @@
       position: 7
       tags:
         - silent
-    - word: さん
-      position: 10
-    - word: ね
-      position: 12
-    - word: 彼女
-      position: 14
-    - word: も
-      position: 16
-    - word: 人気
-      position: 17
-    - word: 者
-      position: 19
-    - word: よ
-      position: 20
 - id: Anime_Your_lie_in_april_E08_1285
   deck_name: Your Lie in April
   translation: >-
@@ -1463,26 +651,10 @@
   sound: Anime_Your_lie_in_april_E08_1_0.09.11.800-0.09.19.470.mp3
   sentence: 熊谷(くまがい)コンクールは 奨励賞― 谷崎音楽祭(たにざきおんがくさい)は ３位― この前は 予選落ちまで経験してる
   words:
-    - word: 熊谷
-      position: 0
     - word: くまがい
       position: 3
       tags:
         - silent
-    - word: コンクール
-      position: 8
-    - word: は
-      position: 13
-    - word: 奨励
-      position: 15
-    - word: 賞
-      position: 17
-    - word: 谷崎
-      position: 20
-    - word: 音楽
-      position: 22
-    - word: 祭
-      position: 24
     - word: たに
       base: 谷
       position: 26
@@ -1506,95 +678,32 @@
       position: 33
       tags:
         - silent
-    - word: は
-      position: 37
-    - word: ３
-      base: '3'
-      dictionary: '3'
-      position: 39
-    - word: 位
-      position: 40
-    - word: この
-      base: 此の
-      position: 43
-    - word: 前
-      position: 45
-    - word: は
-      position: 46
-    - word: 予選
-      position: 48
-    - word: 落ち
-      position: 50
-    - word: まで
-      position: 52
-    - word: 経験
-      position: 54
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 56
-    - word: てる
-      position: 57
 - id: Anime_Your_lie_in_april_E09_1352
   deck_name: Your Lie in April
   translation: How do you do? I'm Ochiai Yuriko.
   sound: Anime_Your_lie_in_april_E09_1_0.01.24.210-0.01.27.210.mp3
   sentence: 初めまして 落合由里子(ゆりこ)です―
   words:
-    - word: 初めまして
-      position: 0
-    - word: 落合
-      position: 6
-    - word: 由里子
-      position: 8
     - word: ゆりこ
       position: 12
       tags:
         - silent
-    - word: です
-      position: 16
 - id: Anime_Your_lie_in_april_E09_1377
   deck_name: Your Lie in April
   translation: What's the matter, Tsubaki?
   sound: Anime_Your_lie_in_april_E09_1_0.07.27.240-0.07.28.790.mp3
   sentence: どうしたの？ 椿(つばき)ちゃん？
   words:
-    - word: どう
-      position: 0
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 2
-    - word: た
-      position: 3
-    - word: の
-      position: 4
-    - word: 椿
-      position: 7
     - word: つばき
       position: 9
       tags:
         - silent
-    - word: ちゃん
-      position: 13
 - id: Anime_Your_lie_in_april_E09_1421
   deck_name: Your Lie in April
   translation: How did the Nagai Memorial Competition go?
   sound: Anime_Your_lie_in_april_E09_1_0.12.30.550-0.12.33.130.mp3
   sentence: どうだった？ 長井記念(ながいきねん)コンクール
   words:
-    - word: どう
-      position: 0
-    - word: だっ
-      base: だ
-      dictionary: だ
-      position: 2
-    - word: た
-      position: 4
-    - word: 長井
-      position: 7
-    - word: 記念
-      position: 9
     - word: ながい
       base: 長い
       position: 12
@@ -1608,62 +717,22 @@
       position: 16
       tags:
         - silent
-    - word: コンクール
-      position: 19
 - id: Anime_Your_lie_in_april_E10_1501
   deck_name: Your Lie in April
   translation: I can't appeal to Tsubaki's maternal instincts, and I can't play the piano.
   sound: Anime_Your_lie_in_april_E10_1_0.01.13.150-0.01.17.410.mp3
   sentence: 俺は 椿(つばき)の母性を くすぐれないし ピアノも 弾けない
   words:
-    - word: 俺
-      position: 0
-    - word: は
-      position: 1
-    - word: 椿
-      position: 3
     - word: つばき
       position: 5
       tags:
         - silent
-    - word: の
-      position: 9
-    - word: 母性
-      position: 10
-    - word: を
-      position: 12
-    - word: くすぐれ
-      base: 擽る
-      dictionary: くすぐる
-      position: 14
-    - word: ない
-      position: 18
-    - word: し
-      position: 20
-    - word: ピアノ
-      position: 22
-    - word: も
-      position: 25
-    - word: 弾け
-      base: 弾く
-      dictionary: 弾ける
-      position: 27
-    - word: ない
-      position: 29
 - id: Anime_Your_lie_in_april_E11_1563
   deck_name: Your Lie in April
   translation: Hey, Mr. Mediocre! Ms. Seto?
   sound: Anime_Your_lie_in_april_E11_1_0.03.07.480-0.03.09.940.mp3
   sentence: よっ 凡才 瀬戸(せと)さん？
   words:
-    - word: よっ
-      base: 良い
-      dictionary: よい
-      position: 0
-    - word: 凡才
-      position: 3
-    - word: 瀬戸
-      position: 6
     - word: せ
       base: 為る
       dictionary: する
@@ -1674,8 +743,6 @@
       position: 10
       tags:
         - silent
-    - word: さん
-      position: 12
 - id: Anime_Your_lie_in_april_E11_1574
   deck_name: Your Lie in April
   translation: >-
@@ -1684,11 +751,6 @@
   sound: Anime_Your_lie_in_april_E11_1_0.03.49.430-0.03.55.980.mp3
   sentence: こんにちは 小春(こはる)ちゃん… 有馬(ありま)君のお母さん― 有馬早希(さき)さんとは 音大の同期だったから― 顔見知りでも おかしくないけど
   words:
-    - word: こんにちは
-      base: 今日は
-      position: 0
-    - word: 小春
-      position: 6
     - word: こ
       base: 来る
       dictionary: くる
@@ -1699,10 +761,6 @@
       position: 10
       tags:
         - silent
-    - word: ちゃん
-      position: 13
-    - word: 有馬
-      position: 18
     - word: あり
       base: 有る
       dictionary: ある
@@ -1713,118 +771,32 @@
       position: 23
       tags:
         - silent
-    - word: 君
-      position: 25
-    - word: の
-      position: 26
-    - word: お
-      base: 御
-      position: 27
-    - word: 母さん
-      position: 28
-    - word: 有馬
-      position: 33
-    - word: 早希
-      position: 35
-    - word: さき
-      position: 38
-    - word: さん
-      position: 41
-    - word: と
-      position: 43
-    - word: は
-      position: 44
-    - word: 音大
-      position: 46
-    - word: の
-      position: 48
-    - word: 同期
-      position: 49
-    - word: だっ
-      base: だ
-      dictionary: だ
-      position: 51
-    - word: た
-      position: 53
-    - word: から
-      position: 54
-    - word: 顔
-      position: 58
-    - word: 見知り
-      position: 59
-    - word: で
-      position: 62
-    - word: も
-      position: 63
-    - word: おかしく
-      base: 可笑しい
-      dictionary: おかしい
-      position: 65
-    - word: ない
-      base: 無い
-      position: 69
-    - word: けど
-      base: けれど
-      position: 71
 - id: Anime_Your_lie_in_april_E11_1663
   deck_name: Your Lie in April
   translation: Hiro...
   sound: Anime_Your_lie_in_april_E11_1_0.13.13.660-0.13.15.080.mp3
   sentence: 紘(ひろ)ちゃん
   words:
-    - word: 紘
-      position: 0
     - word: ひろ
       position: 2
       tags:
         - silent
-    - word: ちゃん
-      position: 5
 - id: Anime_Your_lie_in_april_E11_1666
   deck_name: Your Lie in April
   translation: Is Takahiko still away on business? Ever the free-range parent, I see.
   sound: Anime_Your_lie_in_april_E11_1_0.13.32.020-0.13.36.770.mp3
   sentence: 隆彦(たかひこ)さんは また出張？ 相変わらず 放任ね
   words:
-    - word: 隆彦
-      position: 0
     - word: たかひこ
       position: 3
       tags:
         - silent
-    - word: さん
-      position: 8
-    - word: は
-      position: 10
-    - word: また
-      base: 又
-      position: 12
-    - word: 出張
-      position: 14
-    - word: 相
-      position: 18
-    - word: 変わら
-      base: 変わる
-      dictionary: 変わる
-      position: 19
-    - word: ず
-      dictionary: ぬ
-      position: 22
-    - word: 放任
-      position: 24
-    - word: ね
-      position: 26
 - id: Anime_Your_lie_in_april_E11_1674
   deck_name: Your Lie in April
   translation: I got an invitation from Towa Hall two days ago.
   sound: Anime_Your_lie_in_april_E11_1_0.14.25.990-0.14.29.820.mp3
   sentence: おととい 藤和(とうわ)ホール事務局から 招待状が届きました
   words:
-    - word: おととい
-      base: 一昨日
-      position: 0
-    - word: 藤和
-      position: 5
     - word: と
       position: 8
       tags:
@@ -1833,48 +805,16 @@
       position: 9
       tags:
         - silent
-    - word: ホール
-      position: 12
-    - word: 事務
-      position: 15
-    - word: 局
-      position: 17
-    - word: から
-      position: 18
-    - word: 招待
-      position: 21
-    - word: 状
-      position: 23
-    - word: が
-      position: 24
-    - word: 届き
-      base: 届く
-      dictionary: 届く
-      position: 25
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 27
-    - word: た
-      position: 29
 - id: Anime_Your_lie_in_april_E11_1691
   deck_name: Your Lie in April
   translation: Kreisler's Liebesleid.
   sound: Anime_Your_lie_in_april_E11_1_0.15.40.980-0.15.43.650.mp3
   sentence: クライスラー“愛(あい)の悲(かな)しみ”
   words:
-    - word: クライスラー
-      position: 0
-    - word: 愛
-      position: 7
     - word: あい
       position: 9
       tags:
         - silent
-    - word: の
-      position: 12
-    - word: 悲
-      position: 13
     - word: か
       position: 15
       tags:
@@ -1883,25 +823,12 @@
       position: 16
       tags:
         - silent
-    - word: しみ
-      position: 18
 - id: Anime_Your_lie_in_april_E11_1733
   deck_name: Your Lie in April
   translation: For some, it might be hostility.
   sound: Anime_Your_lie_in_april_E11_1_0.19.32.880-0.19.35.210.mp3
   sentence: ある人は 敵愾心(てきがいしん)かもしれない―
   words:
-    - word: ある
-      base: 或る
-      position: 0
-    - word: 人
-      position: 2
-    - word: は
-      position: 3
-    - word: 敵愾
-      position: 5
-    - word: 心
-      position: 7
     - word: てきがい
       base: 敵愾
       position: 9
@@ -1911,84 +838,27 @@
       position: 13
       tags:
         - silent
-    - word: か
-      position: 16
-    - word: も
-      position: 17
-    - word: しれ
-      base: 知る
-      dictionary: しれる
-      position: 18
-    - word: ない
-      position: 20
 - id: Anime_Your_lie_in_april_E11_1737
   deck_name: Your Lie in April
   translation: Maybe you can't really get up on  stage in a perfectly unclouded state.
   sound: Anime_Your_lie_in_april_E11_1_0.19.48.640-0.19.53.060.mp3
   sentence: 無垢(むく)のままで 人は 一人で 舞台に立てないのかもしれない
   words:
-    - word: 無垢
-      position: 0
     - word: むく
       base: 無垢
       position: 3
       tags:
         - silent
-    - word: の
-      position: 6
-    - word: まま
-      base: 侭
-      position: 7
-    - word: で
-      position: 9
-    - word: 人
-      position: 11
-    - word: は
-      position: 12
-    - word: 一人
-      position: 14
-    - word: で
-      position: 16
-    - word: 舞台
-      position: 18
-    - word: に
-      position: 20
-    - word: 立て
-      base: 立つ
-      dictionary: 立てる
-      position: 21
-    - word: ない
-      position: 23
-    - word: の
-      position: 25
-    - word: か
-      position: 26
-    - word: も
-      position: 27
-    - word: しれ
-      base: 知る
-      dictionary: しれる
-      position: 28
-    - word: ない
-      position: 30
 - id: Anime_Your_lie_in_april_E12_1758
   deck_name: Your Lie in April
   translation: Kreisler's "Love's Joy."
   sound: Anime_Your_lie_in_april_E12_1_0.01.34.920-0.01.38.060.mp3
   sentence: クライスラー“愛(あい)の喜(よろこ)び”―
   words:
-    - word: クライスラー
-      position: 0
-    - word: 愛
-      position: 7
     - word: あい
       position: 9
       tags:
         - silent
-    - word: の
-      position: 12
-    - word: 喜
-      position: 13
     - word: よろ
       position: 15
       tags:
@@ -1999,39 +869,22 @@
       position: 17
       tags:
         - silent
-    - word: び
-      base: びっ
-      position: 19
 - id: Anime_Your_lie_in_april_E12_1768
   deck_name: Your Lie in April
   translation: Hiroko, I've got to practice...
   sound: Anime_Your_lie_in_april_E12_1_0.04.43.880-0.04.46.090.mp3
   sentence: 紘子(ひろこ)さん 僕 練習が…
   words:
-    - word: 紘子
-      position: 0
     - word: ひろこ
       position: 3
       tags:
         - silent
-    - word: さん
-      position: 7
-    - word: 僕
-      position: 10
-    - word: 練習
-      position: 12
-    - word: が
-      position: 14
 - id: Anime_Your_lie_in_april_E12_1810
   deck_name: Your Lie in April
   translation: Arima?
   sound: Anime_Your_lie_in_april_E12_1_0.08.33.710-0.08.37.350.mp3
   sentence: あっ 有馬(ありま)君？ えっ？
   words:
-    - word: あっ
-      position: 0
-    - word: 有馬
-      position: 3
     - word: あり
       base: 有る
       dictionary: ある
@@ -2042,42 +895,12 @@
       position: 8
       tags:
         - silent
-    - word: 君
-      position: 10
-    - word: えっ
-      position: 13
 - id: Anime_Your_lie_in_april_E12_1852
   deck_name: Your Lie in April
   translation: All's right with the world.
   sound: Anime_Your_lie_in_april_E12_1_0.11.15.740-0.11.18.630.mp3
   sentence: 平和だ 目立つよ 私が弾くんだもん！ 傲岸不遜(ごうがんふそん)！ 私に合わせてよ！
   words:
-    - word: 平和
-      position: 0
-    - word: だ
-      position: 2
-    - word: 目立つ
-      position: 4
-    - word: よ
-      position: 7
-    - word: 私
-      position: 9
-    - word: が
-      position: 10
-    - word: 弾く
-      position: 11
-    - word: ん
-      base: の
-      position: 13
-    - word: だ
-      position: 14
-    - word: もん
-      base: もの
-      position: 15
-    - word: 傲岸
-      position: 19
-    - word: 不遜
-      position: 21
     - word: ごうがん
       base: 傲岸
       position: 24
@@ -2088,26 +911,12 @@
       position: 28
       tags:
         - silent
-    - word: 私
-      position: 34
-    - word: に
-      position: 35
-    - word: 合わせ
-      base: 合う
-      dictionary: 合わせる
-      position: 36
-    - word: て
-      position: 39
-    - word: よ
-      position: 40
 - id: Anime_Your_lie_in_april_E12_1896
   deck_name: Your Lie in April
   translation: Miyazono's playing too, right?
   sound: Anime_Your_lie_in_april_E12_1_0.16.07.670-0.16.09.420.mp3
   sentence: 宮園(みやぞの)さんも出るんでしょ
   words:
-    - word: 宮園
-      position: 0
     - word: みや
       base: 宮
       position: 3
@@ -2121,61 +930,22 @@
       position: 6
       tags:
         - silent
-    - word: さん
-      position: 8
-    - word: も
-      position: 10
-    - word: 出る
-      position: 11
-    - word: ん
-      base: の
-      position: 13
-    - word: でしょ
-      base: です
-      dictionary: です
-      position: 14
 - id: Anime_Your_lie_in_april_E13_1970
   deck_name: Your Lie in April
   translation: Hiro, did you have another fight with your husband?
   sound: Anime_Your_lie_in_april_E13_1_0.00.36.910-0.00.40.450.mp3
   sentence: 紘(ひろ)ちゃん また 旦那さんと ケンカしたの？
   words:
-    - word: 紘
-      position: 0
     - word: ひろ
       position: 2
       tags:
         - silent
-    - word: ちゃん
-      position: 5
-    - word: また
-      base: 又
-      position: 9
-    - word: 旦那
-      position: 12
-    - word: さん
-      position: 14
-    - word: と
-      position: 16
-    - word: ケンカ
-      base: 喧嘩
-      position: 18
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 21
-    - word: た
-      position: 22
-    - word: の
-      position: 23
 - id: Anime_Your_lie_in_april_E13_1983
   deck_name: Your Lie in April
   translation: Just how great a musician Miyazono Kaori is.
   sound: Anime_Your_lie_in_april_E13_1_0.03.16.450-0.03.19.080.mp3
   sentence: 宮園(みやぞの)かをりが どれほどの演奏家か―
   words:
-    - word: 宮園
-      position: 0
     - word: みや
       base: 宮
       position: 3
@@ -2189,22 +959,6 @@
       position: 6
       tags:
         - silent
-    - word: かをり
-      position: 8
-    - word: が
-      position: 11
-    - word: どれ
-      position: 13
-    - word: ほど
-      position: 15
-    - word: の
-      position: 17
-    - word: 演奏
-      position: 18
-    - word: 家
-      position: 20
-    - word: か
-      position: 21
 - id: Anime_Your_lie_in_april_E13_2030
   deck_name: Your Lie in April
   translation: >-
@@ -2213,16 +967,10 @@
   sound: Anime_Your_lie_in_april_E13_1_0.12.17.070-0.12.23.330.mp3
   sentence: “愛(あい)の喜(よろこ)び”と “愛の悲しみ”があるのに どうして いつも “愛の悲しみ”を弾くの？
   words:
-    - word: 愛
-      position: 1
     - word: あい
       position: 3
       tags:
         - silent
-    - word: の
-      position: 6
-    - word: 喜
-      position: 7
     - word: よろ
       position: 9
       tags:
@@ -2233,139 +981,34 @@
       position: 11
       tags:
         - silent
-    - word: び
-      base: びっ
-      position: 13
-    - word: と
-      position: 15
-    - word: 愛
-      position: 18
-    - word: の
-      position: 19
-    - word: 悲し
-      base: 悲しい
-      dictionary: 悲しい
-      position: 20
-    - word: み
-      base: 味
-      position: 22
-    - word: が
-      position: 24
-    - word: ある
-      base: 有る
-      position: 25
-    - word: の
-      position: 27
-    - word: に
-      position: 28
-    - word: どう
-      position: 30
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 32
-    - word: て
-      position: 33
-    - word: いつも
-      position: 35
-    - word: 愛
-      position: 40
-    - word: の
-      position: 41
-    - word: 悲し
-      base: 悲しい
-      dictionary: 悲しい
-      position: 42
-    - word: み
-      base: 味
-      position: 44
-    - word: を
-      position: 46
-    - word: 弾く
-      position: 47
-    - word: の
-      position: 49
 - id: Anime_Your_lie_in_april_E14_2105
   deck_name: Your Lie in April
   translation: Were you just looking at me with a dirty gleam in your eyes?!
   sound: Anime_Your_lie_in_april_E14_1_0.03.44.600-0.03.46.770.mp3
   sentence: 今 いやらしい目で 視姦(しかん)したでしょ？
   words:
-    - word: 今
-      position: 0
-    - word: いやらしい
-      base: 嫌らしい
-      position: 2
-    - word: 目
-      position: 7
-    - word: で
-      position: 8
-    - word: 視姦
-      position: 10
     - word: しかん
       base: 弛緩
       position: 13
       tags:
         - silent
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 17
-    - word: た
-      position: 18
-    - word: でしょ
-      base: です
-      dictionary: です
-      position: 19
 - id: Anime_Your_lie_in_april_E14_2138
   deck_name: Your Lie in April
   translation: Boyfriend? You mean Saitou? You haven't broken up yet?
   sound: Anime_Your_lie_in_april_E14_1_0.05.42.180-0.05.46.100.mp3
   sentence: 先輩って 斉藤(さいとう)先輩？ まだ 別れてなかったの？
   words:
-    - word: 先輩
-      position: 0
-    - word: って
-      position: 2
-    - word: 斉藤
-      position: 5
     - word: さいとう
       base: 菜刀
       position: 8
       tags:
         - silent
-    - word: 先輩
-      position: 13
-    - word: まだ
-      base: 未だ
-      position: 17
-    - word: 別れ
-      base: 別れる
-      dictionary: 別れる
-      position: 20
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 22
-    - word: なかっ
-      base: ない
-      dictionary: ない
-      position: 23
-    - word: た
-      position: 26
-    - word: の
-      position: 27
 - id: Anime_Your_lie_in_april_E14_2144
   deck_name: Your Lie in April
   translation: Then... What about Arima?
   sound: Anime_Your_lie_in_april_E14_1_0.06.00.070-0.06.02.410.mp3
   sentence: じゃあ 有馬(ありま)君は？
   words:
-    - word: じゃあ
-      base: で
-      position: 0
-    - word: 有馬
-      position: 4
     - word: あり
       base: 有る
       dictionary: ある
@@ -2376,18 +1019,12 @@
       position: 9
       tags:
         - silent
-    - word: 君
-      position: 11
-    - word: は
-      position: 12
 - id: Anime_Your_lie_in_april_E14_2154
   deck_name: Your Lie in April
   translation: I was saving that omelette for last!
   sound: Anime_Your_lie_in_april_E14_1_0.06.45.660-0.06.48.620.mp3
   sentence: 渾身(こんしん)のだし巻き卵がー！
   words:
-    - word: 渾身
-      position: 0
     - word: こん
       base: 此の
       position: 3
@@ -2397,17 +1034,6 @@
       position: 5
       tags:
         - silent
-    - word: の
-      position: 8
-    - word: だし巻き
-      base: 出し巻き
-      position: 9
-    - word: 卵
-      position: 13
-    - word: が
-      position: 14
-    - word: ー
-      position: 15
 - id: Anime_Your_lie_in_april_E14_2190
   deck_name: Your Lie in April
   translation: >-
@@ -2416,15 +1042,6 @@
   sound: Anime_Your_lie_in_april_E14_1_0.10.24.170-0.10.29.630.mp3
   sentence: これより 墨谷野球(すみややきゅう)スポーツ少年団(しょうねんだん) 強打者養成特訓を開始する！
   words:
-    - word: これ
-      base: 此れ
-      position: 0
-    - word: より
-      position: 2
-    - word: 墨谷
-      position: 5
-    - word: 野球
-      position: 7
     - word: すみや
       position: 10
       tags:
@@ -2434,12 +1051,6 @@
       position: 13
       tags:
         - silent
-    - word: スポーツ
-      position: 18
-    - word: 少年
-      position: 22
-    - word: 団
-      position: 24
     - word: しょう
       base: 為る
       dictionary: する
@@ -2466,96 +1077,26 @@
       position: 32
       tags:
         - silent
-    - word: 強
-      position: 35
-    - word: 打者
-      position: 36
-    - word: 養成
-      position: 38
-    - word: 特訓
-      position: 40
-    - word: を
-      position: 42
-    - word: 開始
-      position: 43
-    - word: する
-      base: 為る
-      position: 45
 - id: Anime_Your_lie_in_april_E14_2200
   deck_name: Your Lie in April
   translation: Kousei, let's go to Ouji Park!
   sound: Anime_Your_lie_in_april_E14_1_0.11.04.750-0.11.07.000.mp3
   sentence: 公生 王二(おうじ)公園 行こうよ
   words:
-    - word: 公生
-      position: 0
-    - word: 王
-      position: 3
-    - word: 二
-      base: '2'
-      position: 4
     - word: おうじ
       position: 6
       tags:
         - silent
-    - word: 公園
-      position: 10
-    - word: 行こう
-      base: 行く
-      dictionary: 行く
-      position: 13
-    - word: よ
-      position: 16
 - id: Anime_Your_lie_in_april_E14_2288
   deck_name: Your Lie in April
   translation: Hiroko said I only had to go to class twice a week or so. Huh?
   sound: Anime_Your_lie_in_april_E14_1_0.19.33.180-0.19.37.260.mp3
   sentence: 紘子(ひろこ)さんも 週２ぐらい通えばいいって― 言ってたし あれ…？
   words:
-    - word: 紘子
-      position: 0
     - word: ひろこ
       position: 3
       tags:
         - silent
-    - word: さん
-      position: 7
-    - word: も
-      position: 9
-    - word: 週
-      position: 11
-    - word: ２
-      base: '2'
-      dictionary: '2'
-      position: 12
-    - word: ぐらい
-      base: くらい
-      position: 13
-    - word: 通え
-      base: 通う
-      dictionary: 通う
-      position: 16
-    - word: ば
-      position: 18
-    - word: いい
-      base: 良い
-      position: 19
-    - word: って
-      position: 21
-    - word: 言っ
-      base: 言う
-      dictionary: 言う
-      position: 25
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 27
-    - word: た
-      position: 28
-    - word: し
-      position: 29
-    - word: あれ
-      position: 31
 - id: Anime_Your_lie_in_april_E15_2306
   deck_name: Your Lie in April
   translation: >-
@@ -2564,13 +1105,6 @@
   sound: Anime_Your_lie_in_april_E15_1_0.02.26.100-0.02.29.350.mp3
   sentence: 奥津音大附属(おくつおんだいふぞく)高校を 受験しようと思います
   words:
-    - word: 奥津
-      position: 0
-    - word: 音大
-      position: 2
-    - word: 附属
-      base: 付属
-      position: 4
     - word: おく
       position: 7
       tags:
@@ -2600,51 +1134,23 @@
       position: 15
       tags:
         - silent
-    - word: 高校
-      position: 18
-    - word: を
-      position: 20
-    - word: 受験
-      position: 22
-    - word: しよう
-      base: 為る
-      dictionary: する
-      position: 24
-    - word: と
-      position: 27
-    - word: 思い
-      base: 思う
-      dictionary: 思う
-      position: 28
-    - word: ます
-      position: 30
 - id: Anime_Your_lie_in_april_E15_2323
   deck_name: Your Lie in April
   translation: Freakin' scary!
   sound: Anime_Your_lie_in_april_E15_1_0.03.56.980-0.03.58.360.mp3
   sentence: 超 怖(こえ)え…
   words:
-    - word: 超
-      position: 0
-    - word: 怖
-      base: 怖い
-      dictionary: 怖い
-      position: 2
     - word: こえ
       base: 声
       position: 4
       tags:
         - silent
-    - word: え
-      position: 7
 - id: Anime_Your_lie_in_april_E15_2335
   deck_name: Your Lie in April
   translation: And you always seem so uncomfortable around me, Sawabe.
   sound: Anime_Your_lie_in_april_E15_1_0.06.21.330-0.06.25.000.mp3
   sentence: 澤部(さわべ) 俺の隣は 居心地 悪そうだから―
   words:
-    - word: 澤部
-      position: 0
     - word: さわ
       position: 3
       tags:
@@ -2654,53 +1160,12 @@
       position: 5
       tags:
         - silent
-    - word: 俺
-      position: 8
-    - word: の
-      position: 9
-    - word: 隣
-      base: 隣り
-      position: 10
-    - word: は
-      position: 11
-    - word: 居心地
-      position: 13
-    - word: 悪
-      base: 悪い
-      dictionary: 悪い
-      position: 17
-    - word: そう
-      position: 18
-    - word: だ
-      position: 20
-    - word: から
-      position: 21
 - id: Anime_Your_lie_in_april_E15_2381
   deck_name: Your Lie in April
   translation: You're certainly training an intriguing girl, Ms. Ochiai.
   sound: Anime_Your_lie_in_april_E15_1_0.12.40.000-0.12.43.420.mp3
   sentence: 面白い子を育ててますね 落合(おちあい)先生
   words:
-    - word: 面白い
-      position: 0
-    - word: 子
-      position: 3
-    - word: を
-      position: 4
-    - word: 育て
-      base: 育つ
-      dictionary: 育てる
-      position: 5
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 7
-    - word: ます
-      position: 8
-    - word: ね
-      position: 10
-    - word: 落合
-      position: 12
     - word: おち
       base: 落ちる
       dictionary: おちる
@@ -2713,16 +1178,12 @@
       position: 17
       tags:
         - silent
-    - word: 先生
-      position: 20
 - id: Anime_Your_lie_in_april_E15_2383
   deck_name: Your Lie in April
   translation: Please thank Arima for me.
   sound: Anime_Your_lie_in_april_E15_1_0.12.50.010-0.12.52.270.mp3
   sentence: 有馬(ありま)君に お礼を言っといてちょうだい
   words:
-    - word: 有馬
-      position: 0
     - word: あり
       base: 有る
       dictionary: ある
@@ -2733,38 +1194,12 @@
       position: 5
       tags:
         - silent
-    - word: 君
-      position: 7
-    - word: に
-      position: 8
-    - word: お
-      base: 御
-      position: 10
-    - word: 礼
-      position: 11
-    - word: を
-      position: 12
-    - word: 言っ
-      base: 言う
-      dictionary: 言う
-      position: 13
-    - word: とい
-      base: とく
-      dictionary: とく
-      position: 15
-    - word: て
-      position: 17
-    - word: ちょうだい
-      base: 頂戴
-      position: 18
 - id: Anime_Your_lie_in_april_E15_2395
   deck_name: Your Lie in April
   translation: You're setting a bad example for Koharu!
   sound: Anime_Your_lie_in_april_E15_1_0.14.25.320-0.14.27.320.mp3
   sentence: 小春(こはる)の教育に悪いんだけど おー
   words:
-    - word: 小春
-      position: 0
     - word: こ
       base: 来る
       dictionary: くる
@@ -2775,25 +1210,6 @@
       position: 4
       tags:
         - silent
-    - word: の
-      position: 7
-    - word: 教育
-      position: 8
-    - word: に
-      position: 10
-    - word: 悪い
-      position: 11
-    - word: ん
-      base: の
-      position: 13
-    - word: だ
-      position: 14
-    - word: けど
-      base: けれど
-      position: 15
-    - word: おー
-      base: おお
-      position: 18
 - id: Anime_Your_lie_in_april_E15_2409
   deck_name: Your Lie in April
   translation: >-
@@ -2802,13 +1218,6 @@
   sound: Anime_Your_lie_in_april_E15_1_0.15.04.940-0.15.09.780.mp3
   sentence: 胡桃ヶ丘(くるみがおか)中学校 音楽科１年 藍里(あいざと) 凪と申します
   words:
-    - word: 胡桃
-      position: 0
-    - word: ヶ
-      base: が
-      position: 2
-    - word: 丘
-      position: 3
     - word: くるみ
       position: 5
       tags:
@@ -2821,22 +1230,6 @@
       position: 9
       tags:
         - silent
-    - word: 中
-      position: 12
-    - word: 学校
-      position: 13
-    - word: 音楽
-      position: 16
-    - word: 科
-      position: 18
-    - word: １
-      base: '1'
-      dictionary: '1'
-      position: 19
-    - word: 年
-      position: 20
-    - word: 藍里
-      position: 22
     - word: あい
       base: 相
       position: 25
@@ -2847,142 +1240,45 @@
       position: 27
       tags:
         - silent
-    - word: 凪
-      position: 31
-    - word: と
-      position: 32
-    - word: 申し
-      base: 申す
-      dictionary: 申す
-      position: 33
-    - word: ます
-      position: 35
 - id: Anime_Your_lie_in_april_E15_2438
   deck_name: Your Lie in April
   translation: And so she's totally soaked, from head to toe!
   sound: Anime_Your_lie_in_april_E15_1_0.18.00.910-0.18.05.500.mp3
   sentence: そんで 全身びしょびしょに なってんの あいつ アハハハ… で ２組の中村(なかむら)がさ―
   words:
-    - word: そん
-      base: 其れ
-      position: 0
-    - word: で
-      position: 2
-    - word: 全身
-      position: 4
-    - word: びしょびしょ
-      position: 6
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 12
-    - word: なっ
-      base: 成る
-      dictionary: なる
-      position: 14
-    - word: てん
-      base: てる
-      dictionary: てる
-      position: 16
-    - word: の
-      position: 18
-    - word: あいつ
-      base: 彼奴
-      position: 20
-    - word: アハハハ
-      base: あはは
-      position: 24
-    - word: で
-      position: 30
-    - word: ２
-      base: '2'
-      dictionary: '2'
-      position: 32
-    - word: 組
-      position: 33
-    - word: の
-      position: 34
-    - word: 中村
-      position: 35
     - word: なかむら
       position: 38
       tags:
         - silent
-    - word: が
-      position: 43
-    - word: さ
-      position: 44
 - id: Anime_Your_lie_in_april_E16_2460
   deck_name: Your Lie in April
   translation: Your honest opinion, if you will.
   sound: Anime_Your_lie_in_april_E16_1_0.02.46.040-0.02.47.500.mp3
   sentence: 忌憚(きたん)ない ご意見を
   words:
-    - word: 忌憚
-      position: 0
     - word: きたん
       base: 忌憚
       position: 3
       tags:
         - silent
-    - word: ない
-      base: 無い
-      position: 7
-    - word: ご
-      base: 御
-      position: 10
-    - word: 意見
-      position: 11
-    - word: を
-      position: 13
 - id: Anime_Your_lie_in_april_E16_2484
   deck_name: Your Lie in April
   translation: I was just— Hey, where's Watari?
   sound: Anime_Your_lie_in_april_E16_1_0.05.06.380-0.05.08.930.mp3
   sentence: これから… ねえねえ 渡(わたり)君は？―
   words:
-    - word: これ
-      base: 此れ
-      position: 0
-    - word: から
-      position: 2
-    - word: ねえ
-      base: 無い
-      dictionary: ない
-      position: 6
-    - word: ねえ
-      base: ね
-      position: 8
-    - word: 渡
-      position: 11
     - word: わたり
       base: 渡る
       dictionary: わたる
       position: 13
       tags:
         - silent
-    - word: 君
-      position: 17
-    - word: は
-      position: 18
 - id: Anime_Your_lie_in_april_E16_2489
   deck_name: Your Lie in April
   translation: As cold as your heart may be, I'll give you another chance to thaw it out.
   sound: Anime_Your_lie_in_april_E16_1_0.05.23.900-0.05.28.160.mp3
   sentence: 薄情者の君に 贖罪(しょくざい)のチャンスを与えよう
   words:
-    - word: 薄情
-      position: 0
-    - word: 者
-      position: 2
-    - word: の
-      position: 3
-    - word: 君
-      position: 4
-    - word: に
-      position: 5
-    - word: 贖罪
-      position: 7
     - word: しょく
       base: 食
       position: 10
@@ -2992,34 +1288,12 @@
       position: 13
       tags:
         - silent
-    - word: の
-      position: 16
-    - word: チャンス
-      position: 17
-    - word: を
-      position: 21
-    - word: 与えよう
-      base: 与える
-      dictionary: 与える
-      position: 22
 - id: Anime_Your_lie_in_april_E16_2522
   deck_name: Your Lie in April
   translation: Are you really okay with such  irresponsible behavior, Ms. Seto?
   sound: Anime_Your_lie_in_april_E16_1_0.07.27.650-0.07.31.700.mp3
   sentence: いいんですか？ 瀬戸(せと)先生 こんな不真面目な態度
   words:
-    - word: いい
-      base: 良い
-      position: 0
-    - word: ん
-      base: の
-      position: 2
-    - word: です
-      position: 3
-    - word: か
-      position: 5
-    - word: 瀬戸
-      position: 8
     - word: せ
       base: 為る
       dictionary: する
@@ -3030,46 +1304,12 @@
       position: 12
       tags:
         - silent
-    - word: 先生
-      position: 14
-    - word: こんな
-      position: 17
-    - word: 不真面目
-      position: 20
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 24
-    - word: 態度
-      position: 25
 - id: Anime_Your_lie_in_april_E16_2526
   deck_name: Your Lie in April
   translation: Wow, I didn't know people cared this much about Arima Kousei.
   sound: Anime_Your_lie_in_april_E16_1_0.07.52.630-0.07.56.050.mp3
   sentence: へえ～ 愛されてますね 有馬(ありま)公生
   words:
-    - word: へえ
-      position: 0
-    - word: ～
-      position: 2
-    - word: 愛さ
-      base: 愛する
-      dictionary: 愛す
-      position: 4
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 6
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 7
-    - word: ます
-      position: 8
-    - word: ね
-      position: 10
-    - word: 有馬
-      position: 12
     - word: あり
       base: 有る
       dictionary: ある
@@ -3080,21 +1320,12 @@
       position: 17
       tags:
         - silent
-    - word: 公生
-      position: 19
 - id: Anime_Your_lie_in_april_E16_2574
   deck_name: Your Lie in April
   translation: Nagi! You turned down Kamiyama, didn't you?
   sound: Anime_Your_lie_in_april_E16_1_0.12.50.100-0.12.52.810.mp3
   sentence: 凪～ 上山(かみやま)先輩 振ったんだね
   words:
-    - word: 凪
-      position: 0
-    - word: ～
-      base: から
-      position: 1
-    - word: 上山
-      position: 3
     - word: かみ
       base: 嘉美
       position: 6
@@ -3105,29 +1336,12 @@
       position: 8
       tags:
         - silent
-    - word: 先輩
-      position: 11
-    - word: 振っ
-      base: 振る
-      dictionary: 振る
-      position: 14
-    - word: た
-      position: 16
-    - word: ん
-      base: の
-      position: 17
-    - word: だ
-      position: 18
-    - word: ね
-      position: 19
 - id: Anime_Your_lie_in_april_E16_2581
   deck_name: Your Lie in April
   translation: I hear Miike's bringing in someone famous.
   sound: Anime_Your_lie_in_april_E16_1_0.13.09.780-0.13.12.370.mp3
   sentence: 三池(みいけ)君は 大物 呼ぶらしいよ
   words:
-    - word: 三池
-      position: 0
     - word: み
       base: 見る
       dictionary: みる
@@ -3140,26 +1354,12 @@
       position: 4
       tags:
         - silent
-    - word: 君
-      position: 7
-    - word: は
-      position: 8
-    - word: 大物
-      position: 10
-    - word: 呼ぶ
-      position: 13
-    - word: らしい
-      position: 15
-    - word: よ
-      position: 18
 - id: Anime_Your_lie_in_april_E17_2680
   deck_name: Your Lie in April
   translation: Kousei, do you feel sick or something?
   sound: Anime_Your_lie_in_april_E17_1_0.02.00.370-0.02.02.910.mp3
   sentence: 公生(こうせい) 具合でも悪いの？
   words:
-    - word: 公生
-      position: 0
     - word: こう
       position: 3
       tags:
@@ -3170,29 +1370,12 @@
       position: 5
       tags:
         - silent
-    - word: 具合
-      position: 9
-    - word: で
-      position: 11
-    - word: も
-      position: 12
-    - word: 悪い
-      position: 13
-    - word: の
-      position: 15
 - id: Anime_Your_lie_in_april_E17_2697
   deck_name: Your Lie in April
   translation: A high school near Okutsu College of Music's High School, no less.
   sound: Anime_Your_lie_in_april_E17_1_0.02.59.850-0.03.02.970.mp3
   sentence: 奥津音大附属(おくつおんだいふぞく)近くの高校を 志望したのは―
   words:
-    - word: 奥津
-      position: 0
-    - word: 音大
-      position: 2
-    - word: 附属
-      base: 付属
-      position: 4
     - word: おく
       position: 7
       tags:
@@ -3222,39 +1405,12 @@
       position: 15
       tags:
         - silent
-    - word: 近く
-      position: 18
-    - word: の
-      position: 20
-    - word: 高校
-      position: 21
-    - word: を
-      position: 23
-    - word: 志望
-      position: 25
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 27
-    - word: た
-      position: 28
-    - word: の
-      position: 29
-    - word: は
-      position: 30
 - id: Anime_Your_lie_in_april_E17_2708
   deck_name: Your Lie in April
   translation: Um, Ms. Seto! Something urgent came up!
   sound: Anime_Your_lie_in_april_E17_1_0.04.17.760-0.04.21.180.mp3
   sentence: あっ あの… 瀬戸(せと)先生 私 急用が…
   words:
-    - word: あっ
-      position: 0
-    - word: あの
-      base: 彼の
-      position: 3
-    - word: 瀬戸
-      position: 7
     - word: せ
       base: 為る
       dictionary: する
@@ -3265,24 +1421,12 @@
       position: 11
       tags:
         - silent
-    - word: 先生
-      position: 13
-    - word: 私
-      position: 16
-    - word: 急用
-      position: 18
-    - word: が
-      position: 20
 - id: Anime_Your_lie_in_april_E17_2710
   deck_name: Your Lie in April
   translation: Oh, it's Arima!
   sound: Anime_Your_lie_in_april_E17_1_0.04.32.980-0.04.35.480.mp3
   sentence: あれ？ 有馬(ありま)先生
   words:
-    - word: あれ
-      position: 0
-    - word: 有馬
-      position: 4
     - word: あり
       base: 有る
       dictionary: ある
@@ -3293,8 +1437,6 @@
       position: 9
       tags:
         - silent
-    - word: 先生
-      position: 11
 - id: Anime_Your_lie_in_april_E17_2714
   deck_name: Your Lie in April
   translation: >-
@@ -3303,11 +1445,6 @@
   sound: Anime_Your_lie_in_april_E17_1_0.04.48.410-0.04.53.960.mp3
   sentence: その 木元(きもと)がね― “くる学祭では 凪君のために オーボエを奏でるよ”―
   words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 木元
-      position: 3
     - word: きも
       base: 肝
       position: 6
@@ -3317,118 +1454,36 @@
       position: 8
       tags:
         - silent
-    - word: が
-      position: 10
-    - word: ね
-      position: 11
-    - word: くる
-      base: 来る
-      position: 15
-    - word: 学祭
-      position: 17
-    - word: で
-      position: 19
-    - word: は
-      position: 20
-    - word: 凪
-      position: 22
-    - word: 君
-      position: 23
-    - word: の
-      position: 24
-    - word: ため
-      base: 為
-      position: 25
-    - word: に
-      position: 27
-    - word: オーボエ
-      position: 29
-    - word: を
-      position: 33
-    - word: 奏でる
-      position: 34
-    - word: よ
-      position: 37
 - id: Anime_Your_lie_in_april_E17_2741
   deck_name: Your Lie in April
   translation: Don't you think you're being cold?
   sound: Anime_Your_lie_in_april_E17_1_0.07.47.300-0.07.49.470.mp3
   sentence: お前(めえ)よ それって 薄情じゃねえ？―
   words:
-    - word: お前
-      base: 御前
-      position: 0
     - word: めえ
       position: 3
       tags:
         - silent
-    - word: よ
-      position: 6
-    - word: それ
-      base: 其れ
-      position: 8
-    - word: って
-      position: 10
-    - word: 薄情
-      position: 13
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 15
-    - word: ねえ
-      base: 無い
-      dictionary: ない
-      position: 17
 - id: Anime_Your_lie_in_april_E17_2803
   deck_name: Your Lie in April
   translation: Would you care to discuss The Knight of the Rose with me?
   sound: Anime_Your_lie_in_april_E17_1_0.12.52.690-0.12.55.520.mp3
   sentence: 僕と「薔薇(ばら)の騎士(きし)」について 語らないか
   words:
-    - word: 僕
-      position: 0
-    - word: と
-      position: 1
-    - word: 薔薇
-      position: 3
     - word: ばら
       position: 6
       tags:
         - silent
-    - word: の
-      position: 9
-    - word: 騎士
-      position: 10
     - word: きし
       position: 13
       tags:
         - silent
-    - word: に
-      position: 17
-    - word: つい
-      base: つく
-      dictionary: つく
-      position: 18
-    - word: て
-      position: 20
-    - word: 語ら
-      base: 語る
-      dictionary: 語る
-      position: 22
-    - word: ない
-      position: 24
-    - word: か
-      position: 26
 - id: Anime_Your_lie_in_april_E17_2823
   deck_name: Your Lie in April
   translation: And I'm sure even Aiza Takeshi is afraid.
   sound: Anime_Your_lie_in_april_E17_1_0.15.58.370-0.16.01.630.mp3
   sentence: きっと 相座(あいざ)武士君だって
   words:
-    - word: きっと
-      position: 0
-    - word: 相座
-      position: 4
     - word: あ
       base: あっ
       position: 7
@@ -3438,22 +1493,12 @@
       position: 8
       tags:
         - silent
-    - word: 武士
-      position: 11
-    - word: 君
-      position: 13
-    - word: だ
-      position: 14
-    - word: って
-      position: 15
 - id: "\uFEFFAnime_Your_lie_in_april_E18_2879"
   deck_name: Your Lie in April
   translation: Why do you want to perform at the culture festival?
   sound: Anime_Your_lie_in_april_E18_1_0.00.00.000-0.00.04.250.mp3
   sentence: 有馬(ありま)先生は どうして 学祭に出たいんですか？ 僕には ひどい友達がいるんだ―
   words:
-    - word: 有馬
-      position: 0
     - word: あり
       base: 有る
       dictionary: ある
@@ -3464,70 +1509,12 @@
       position: 5
       tags:
         - silent
-    - word: 先生
-      position: 7
-    - word: は
-      position: 9
-    - word: どう
-      position: 11
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 13
-    - word: て
-      position: 14
-    - word: 学祭
-      position: 16
-    - word: に
-      position: 18
-    - word: 出
-      base: 出る
-      dictionary: 出る
-      position: 19
-    - word: たい
-      position: 20
-    - word: ん
-      base: の
-      position: 22
-    - word: です
-      position: 23
-    - word: か
-      position: 25
-    - word: 僕
-      position: 28
-    - word: に
-      position: 29
-    - word: は
-      position: 30
-    - word: ひどい
-      base: 酷い
-      position: 32
-    - word: 友達
-      position: 35
-    - word: が
-      position: 37
-    - word: いる
-      base: 居る
-      position: 38
-    - word: ん
-      base: の
-      position: 40
-    - word: だ
-      position: 41
 - id: Anime_Your_lie_in_april_E18_2888
   deck_name: Your Lie in April
   translation: It's Arima Kousei! With Aiza's little sister?
   sound: Anime_Your_lie_in_april_E18_1_0.02.20.260-0.02.22.680.mp3
   sentence: 有馬公生だ 相座(あいざ)妹と？
   words:
-    - word: 有馬
-      position: 0
-    - word: 公生
-      position: 2
-    - word: だ
-      position: 4
-    - word: 相座
-      position: 6
     - word: あ
       base: あっ
       position: 9
@@ -3537,50 +1524,12 @@
       position: 10
       tags:
         - silent
-    - word: 妹
-      position: 13
-    - word: と
-      position: 14
 - id: Anime_Your_lie_in_april_E18_2920
   deck_name: Your Lie in April
   translation: Ms. Seto!
   sound: Anime_Your_lie_in_april_E18_1_0.13.55.120-0.14.00.750.mp3
   sentence: だから紘子さんは 僕に あの子を預けたんだ 瀬戸(せと)先生！ あっ
   words:
-    - word: だ
-      position: 0
-    - word: から
-      position: 1
-    - word: 紘子
-      position: 3
-    - word: さん
-      position: 5
-    - word: は
-      position: 7
-    - word: 僕
-      position: 9
-    - word: に
-      position: 10
-    - word: あの
-      base: 彼の
-      position: 12
-    - word: 子
-      position: 14
-    - word: を
-      position: 15
-    - word: 預け
-      base: 預ける
-      dictionary: 預ける
-      position: 16
-    - word: た
-      position: 18
-    - word: ん
-      base: の
-      position: 19
-    - word: だ
-      position: 20
-    - word: 瀬戸
-      position: 22
     - word: せ
       base: 為る
       dictionary: する
@@ -3591,24 +1540,12 @@
       position: 26
       tags:
         - silent
-    - word: 先生
-      position: 28
-    - word: あっ
-      position: 32
 - id: Anime_Your_lie_in_april_E18_2929
   deck_name: Your Lie in April
   translation: Huh? But isn't your last name Aizato?
   sound: Anime_Your_lie_in_april_E18_1_0.14.35.330-0.14.38.000.mp3
   sentence: えっ？ でも藍里(あいざと)さん 名字が…
   words:
-    - word: えっ
-      position: 0
-    - word: で
-      position: 4
-    - word: も
-      position: 5
-    - word: 藍里
-      position: 6
     - word: あい
       base: 相
       position: 9
@@ -3619,84 +1556,22 @@
       position: 11
       tags:
         - silent
-    - word: さん
-      position: 14
-    - word: 名字
-      position: 17
-    - word: が
-      position: 19
 - id: Anime_Your_lie_in_april_E18_2934
   deck_name: Your Lie in April
   translation: Never mind that! Why the hell were you playing a duet with Nagi?!
   sound: Anime_Your_lie_in_april_E18_1_0.14.53.430-0.14.58.440.mp3
   sentence: よかった 鈍くて んなことより 何で お前(めえ)が 凪と連弾してんだよ！？
   words:
-    - word: よかっ
-      base: 良い
-      dictionary: よい
-      position: 0
-    - word: た
-      position: 3
-    - word: 鈍く
-      base: 鈍い
-      dictionary: 鈍い
-      position: 5
-    - word: て
-      position: 7
-    - word: んな
-      position: 9
-    - word: こと
-      position: 11
-    - word: より
-      position: 13
-    - word: 何
-      position: 16
-    - word: で
-      position: 17
-    - word: お前
-      base: 御前
-      position: 19
     - word: めえ
       position: 22
       tags:
         - silent
-    - word: が
-      position: 25
-    - word: 凪
-      position: 27
-    - word: と
-      position: 28
-    - word: 連弾
-      position: 29
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 31
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 32
-    - word: ん
-      base: の
-      position: 33
-    - word: だ
-      position: 34
-    - word: よ
-      position: 35
 - id: Anime_Your_lie_in_april_E18_2946
   deck_name: Your Lie in April
   translation: The Eastern Japan Piano Competition will begin in December.
   sound: Anime_Your_lie_in_april_E18_1_0.15.34.310-0.15.38.390.mp3
   sentence: 12月 東日本(ひがしにほん)ピアノコンクールが 始まる
   words:
-    - word: '12'
-      position: 0
-    - word: 月
-      position: 2
-    - word: 東
-      position: 4
-    - word: 日本
-      position: 5
     - word: ひがし
       base: 東
       position: 8
@@ -3707,51 +1582,22 @@
       position: 11
       tags:
         - silent
-    - word: ピアノ
-      position: 15
-    - word: コンクール
-      position: 18
-    - word: が
-      position: 23
-    - word: 始まる
-      position: 25
 - id: Anime_Your_lie_in_april_E19_3014
   deck_name: Your Lie in April
   translation: Hey, Tsubaki. How was your mock exam?
   sound: Anime_Your_lie_in_april_E19_1_0.02.42.530-0.02.45.240.mp3
   sentence: ねえ 椿(つばき) 模試の結果 どうだった？
   words:
-    - word: ねえ
-      base: 姉
-      position: 0
-    - word: 椿
-      position: 3
     - word: つばき
       position: 5
       tags:
         - silent
-    - word: 模試
-      position: 10
-    - word: の
-      position: 12
-    - word: 結果
-      position: 13
-    - word: どう
-      position: 16
-    - word: だっ
-      base: だ
-      dictionary: だ
-      position: 18
-    - word: た
-      position: 20
 - id: Anime_Your_lie_in_april_E19_3026
   deck_name: Your Lie in April
   translation: Well, if it isn't Arima!
   sound: Anime_Your_lie_in_april_E19_1_0.03.40.800-0.03.43.050.mp3
   sentence: 有馬(ありま)君じゃないか キャ～！―
   words:
-    - word: 有馬
-      position: 0
     - word: あり
       base: 有る
       dictionary: ある
@@ -3762,29 +1608,12 @@
       position: 5
       tags:
         - silent
-    - word: 君
-      position: 7
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 8
-    - word: ない
-      base: 無い
-      position: 10
-    - word: か
-      position: 12
-    - word: キャ
-      position: 14
-    - word: ～
-      position: 16
 - id: Anime_Your_lie_in_april_E19_3027
   deck_name: Your Lie in April
   translation: Miyazono's mother and father...
   sound: Anime_Your_lie_in_april_E19_1_0.03.46.010-0.03.48.720.mp3
   sentence: 宮園(みやぞの)さんの お父さんと お母さん―
   words:
-    - word: 宮園
-      position: 0
     - word: みや
       base: 宮
       position: 3
@@ -3798,22 +1627,6 @@
       position: 6
       tags:
         - silent
-    - word: さん
-      position: 8
-    - word: の
-      position: 10
-    - word: お
-      base: 御
-      position: 12
-    - word: 父さん
-      position: 13
-    - word: と
-      position: 16
-    - word: お
-      base: 御
-      position: 18
-    - word: 母さん
-      position: 19
 - id: Anime_Your_lie_in_april_E19_3067
   deck_name: Your Lie in April
   translation: >-
@@ -3822,71 +1635,16 @@
   sound: Anime_Your_lie_in_april_E19_1_0.07.11.300-0.07.15.810.mp3
   sentence: 学校側は コンクール上位者を 入学させて 箔(はく)を付けたいの
   words:
-    - word: 学校
-      position: 0
-    - word: 側
-      position: 2
-    - word: は
-      position: 3
-    - word: コンクール
-      position: 5
-    - word: 上位
-      position: 10
-    - word: 者
-      position: 12
-    - word: を
-      position: 13
-    - word: 入学
-      position: 15
-    - word: さ
-      base: 為る
-      dictionary: する
-      position: 17
-    - word: せ
-      base: せる
-      dictionary: せる
-      position: 18
-    - word: て
-      position: 19
-    - word: 箔
-      position: 21
     - word: はく
       position: 23
       tags:
         - silent
-    - word: を
-      position: 26
-    - word: 付け
-      base: 付ける
-      dictionary: 付ける
-      position: 27
-    - word: たい
-      position: 29
-    - word: の
-      position: 31
 - id: Anime_Your_lie_in_april_E19_3068
   deck_name: Your Lie in April
   translation: And now the Eastern Japan Piano Competition is coming up in December.
   sound: Anime_Your_lie_in_april_E19_1_0.07.21.940-0.07.25.770.mp3
   sentence: そこで 12月に控える 東日本(ひがしにほん)ピアノコンクール―
   words:
-    - word: そこ
-      base: 其処
-      position: 0
-    - word: で
-      position: 2
-    - word: '12'
-      position: 4
-    - word: 月
-      position: 6
-    - word: に
-      position: 7
-    - word: 控える
-      position: 8
-    - word: 東
-      position: 12
-    - word: 日本
-      position: 13
     - word: ひがし
       base: 東
       position: 16
@@ -3897,22 +1655,12 @@
       position: 19
       tags:
         - silent
-    - word: ピアノ
-      position: 23
-    - word: コンクール
-      position: 26
 - id: Anime_Your_lie_in_april_E19_3082
   deck_name: Your Lie in April
   translation: Huh? Is that a Tosa dog? Oh, it's you, Tsubaki. Was I out?
   sound: Anime_Your_lie_in_april_E19_1_0.08.30.380-0.08.35.300.mp3
   sentence: あれ？ 土佐犬(とさけん)？ ああ 椿か 僕 寝てた？
   words:
-    - word: あれ
-      position: 0
-    - word: 土佐
-      position: 4
-    - word: 犬
-      position: 6
     - word: と
       position: 8
       tags:
@@ -3923,68 +1671,22 @@
       position: 9
       tags:
         - silent
-    - word: ああ
-      position: 15
-    - word: 椿
-      position: 18
-    - word: か
-      position: 19
-    - word: 僕
-      position: 21
-    - word: 寝
-      base: 寝る
-      dictionary: 寝る
-      position: 23
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 24
-    - word: た
-      position: 25
 - id: Anime_Your_lie_in_april_E19_3115
   deck_name: Your Lie in April
   translation: Is No. 4, Mr. Kashima here?
   sound: Anime_Your_lie_in_april_E19_1_0.11.22.390-0.11.24.800.mp3
   sentence: ４番の鹿島(かしま)さん いらっしゃいますか？
   words:
-    - word: ４
-      base: '4'
-      dictionary: '4'
-      position: 0
-    - word: 番
-      position: 1
-    - word: の
-      position: 2
-    - word: 鹿島
-      position: 3
     - word: かしま
       position: 6
       tags:
         - silent
-    - word: さん
-      position: 10
-    - word: いらっしゃい
-      base: いらっしゃる
-      dictionary: いらっしゃる
-      position: 13
-    - word: ます
-      position: 19
-    - word: か
-      position: 21
 - id: Anime_Your_lie_in_april_E19_3129
   deck_name: Your Lie in April
   translation: No. 8, Mr. Aiza Takeshi. Please get ready in the wings.
   sound: Anime_Your_lie_in_april_E19_1_0.12.46.680-0.12.50.770.mp3
   sentence: ８番 相座(あいざ)武士君 袖で 準備してください
   words:
-    - word: ８
-      base: '8'
-      dictionary: '8'
-      position: 0
-    - word: 番
-      position: 1
-    - word: 相座
-      position: 3
     - word: あ
       base: あっ
       position: 6
@@ -3994,66 +1696,22 @@
       position: 7
       tags:
         - silent
-    - word: 武士
-      position: 10
-    - word: 君
-      position: 12
-    - word: 袖
-      position: 14
-    - word: で
-      position: 15
-    - word: 準備
-      position: 17
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 19
-    - word: て
-      position: 20
-    - word: ください
-      base: 下さる
-      dictionary: くださる
-      position: 21
 - id: Anime_Your_lie_in_april_E19_3137
   deck_name: Your Lie in April
   translation: It's Take of Class Giraffe!
   sound: Anime_Your_lie_in_april_E19_1_0.14.27.700-0.14.29.530.mp3
   sentence: キリン組の武(たけ)ちゃんだ！
   words:
-    - word: キリン
-      position: 0
-    - word: 組
-      position: 3
-    - word: の
-      position: 4
-    - word: 武
-      position: 5
     - word: たけ
       position: 7
       tags:
         - silent
-    - word: ちゃん
-      position: 10
-    - word: だ
-      position: 13
 - id: Anime_Your_lie_in_april_E19_3145
   deck_name: Your Lie in April
   translation: Wow! That's amazing! He raced all the way up Hyakudan Hill without stopping!
   sound: Anime_Your_lie_in_april_E19_1_0.16.10.800-0.16.15.470.mp3
   sentence: わ～ すごい！ 百段坂(ひゃくだんざか) 一気に上がっちゃった
   words:
-    - word: わ
-      position: 0
-    - word: ～
-      position: 1
-    - word: すごい
-      base: 凄い
-      position: 3
-    - word: 百
-      base: '100'
-      position: 8
-    - word: 段坂
-      position: 9
     - word: ひゃく
       base: 百
       position: 12
@@ -4072,32 +1730,12 @@
       position: 18
       tags:
         - silent
-    - word: 一気
-      position: 21
-    - word: に
-      position: 23
-    - word: 上がっ
-      base: 上がる
-      dictionary: 上がる
-      position: 24
-    - word: ちゃっ
-      base: ちゃう
-      dictionary: ちゃう
-      position: 27
-    - word: た
-      position: 30
 - id: Anime_Your_lie_in_april_E20_3314
   deck_name: Your Lie in April
   translation: I really like Miyazono.
   sound: Anime_Your_lie_in_april_E20_1_0.18.05.340-0.18.08.970.mp3
   sentence: 僕は 宮園(みやぞの)さんが とても好きだよ
   words:
-    - word: 僕
-      position: 0
-    - word: は
-      position: 1
-    - word: 宮園
-      position: 3
     - word: みや
       base: 宮
       position: 6
@@ -4111,27 +1749,12 @@
       position: 9
       tags:
         - silent
-    - word: さん
-      position: 11
-    - word: が
-      position: 13
-    - word: とても
-      base: 迚も
-      position: 15
-    - word: 好き
-      position: 18
-    - word: だ
-      position: 20
-    - word: よ
-      position: 21
 - id: Anime_Your_lie_in_april_E20_3318
   deck_name: Your Lie in April
   translation: Get Dr. Katagiri!
   sound: Anime_Your_lie_in_april_E20_1_0.18.27.610-0.18.28.610.mp3
   sentence: 片桐(かたぎり)先生 呼んで！
   words:
-    - word: 片桐
-      position: 0
     - word: かた
       base: 方
       position: 3
@@ -4142,26 +1765,12 @@
       position: 5
       tags:
         - silent
-    - word: 先生
-      position: 8
-    - word: 呼ん
-      base: 呼ぶ
-      dictionary: 呼ぶ
-      position: 11
-    - word: で
-      position: 13
 - id: Anime_Your_lie_in_april_E21_3343
   deck_name: Your Lie in April
   translation: When Kousei and I got to the hospital...
   sound: Anime_Your_lie_in_april_E21_1_0.00.13.220-0.00.15.220.mp3
   sentence: 俺と 公生(こうせい)が 病院に行ったら―
   words:
-    - word: 俺
-      position: 0
-    - word: と
-      position: 1
-    - word: 公生
-      position: 3
     - word: こう
       position: 6
       tags:
@@ -4172,48 +1781,12 @@
       position: 8
       tags:
         - silent
-    - word: が
-      position: 11
-    - word: 病院
-      position: 13
-    - word: に
-      position: 15
-    - word: 行っ
-      base: 行く
-      dictionary: 行く
-      position: 16
-    - word: たら
-      base: た
-      dictionary: た
-      position: 18
 - id: Anime_Your_lie_in_april_E21_3398
   deck_name: Your Lie in April
   translation: You exist inside me, Arima Kousei.
   sound: Anime_Your_lie_in_april_E21_1_0.11.25.850-0.11.32.600.mp3
   sentence: ハハ… 私の中に 君がいるよ 有馬(ありま)公生君
   words:
-    - word: ハハ
-      base: はは
-      position: 0
-    - word: 私
-      position: 4
-    - word: の
-      position: 5
-    - word: 中
-      position: 6
-    - word: に
-      position: 7
-    - word: 君
-      position: 9
-    - word: が
-      position: 10
-    - word: いる
-      base: 居る
-      position: 11
-    - word: よ
-      position: 13
-    - word: 有馬
-      position: 15
     - word: あり
       base: 有る
       dictionary: ある
@@ -4224,20 +1797,12 @@
       position: 20
       tags:
         - silent
-    - word: 公生
-      position: 22
-    - word: 君
-      position: 24
 - id: Anime_Your_lie_in_april_E21_3414
   deck_name: Your Lie in April
   translation: Igawa!
   sound: Anime_Your_lie_in_april_E21_1_0.13.43.480-0.13.45.490.mp3
   sentence: ブラボー！ 井川(いがわ)さーん！
   words:
-    - word: ブラボー
-      position: 0
-    - word: 井川
-      position: 6
     - word: い
       base: いー
       position: 9
@@ -4247,17 +1812,12 @@
       position: 10
       tags:
         - silent
-    - word: さーん
-      base: さん
-      position: 13
 - id: Anime_Your_lie_in_april_E21_3421
   deck_name: Your Lie in April
   translation: Ms. Seto, how was Arima?
   sound: Anime_Your_lie_in_april_E21_1_0.14.36.200-0.14.39.620.mp3
   sentence: 瀬戸(せと)先生 どうでしたか？ 有馬先生
   words:
-    - word: 瀬戸
-      position: 0
     - word: せ
       base: 為る
       dictionary: する
@@ -4268,60 +1828,13 @@
       position: 4
       tags:
         - silent
-    - word: 先生
-      position: 6
-    - word: どう
-      position: 9
-    - word: でし
-      base: です
-      dictionary: です
-      position: 11
-    - word: た
-      position: 13
-    - word: か
-      position: 14
-    - word: 有馬
-      position: 17
-    - word: 先生
-      position: 19
 - id: Anime_Your_lie_in_april_E22_3467
   deck_name: Your Lie in April
   translation: Hey, Kashiwagi? Huh?
   sound: Anime_Your_lie_in_april_E22_1_0.16.02.290-0.16.08.340.mp3
   sentence: “知らなかったのは 君と 椿ちゃんだけ” ねえ 柏木(かしわぎ) うん？
   words:
-    - word: 知ら
-      base: 知る
-      dictionary: 知る
-      position: 1
-    - word: なかっ
-      base: ない
-      dictionary: ない
-      position: 3
-    - word: た
-      position: 6
-    - word: の
-      position: 7
-    - word: は
-      position: 8
-    - word: 君
-      position: 10
-    - word: と
-      position: 11
-    - word: 椿
-      position: 13
-    - word: ちゃん
-      position: 14
-    - word: だけ
-      position: 17
-    - word: ねえ
-      base: 姉
-      position: 21
-    - word: 柏木
-      position: 24
     - word: かしわぎ
       position: 27
       tags:
         - silent
-    - word: うん
-      position: 33

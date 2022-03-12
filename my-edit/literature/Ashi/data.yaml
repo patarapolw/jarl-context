@@ -6,9 +6,6 @@
   sound_begin: 5680
   sound_end: 8720
   sentence: あし
-  words:
-    - word: あし
-      position: 0
 - id: Ashi-f000003
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -17,19 +14,6 @@
   sound_begin: 8720
   sound_end: 11040
   sentence: 二ひきの馬が、
-  words:
-    - word: 二
-      base: '2'
-      position: 0
-    - word: ひき
-      base: 匹
-      position: 1
-    - word: の
-      position: 3
-    - word: 馬
-      position: 4
-    - word: が
-      position: 5
 - id: Ashi-f000004
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -38,47 +22,6 @@
   sound_begin: 11040
   sound_end: 15160
   sentence: まどのところでぐうるぐうるとひるねをしていました。
-  words:
-    - word: ま
-      base: まー
-      position: 0
-    - word: どの
-      position: 1
-    - word: ところ
-      base: 所
-      position: 3
-    - word: で
-      position: 6
-    - word: ぐう
-      position: 7
-    - word: る
-      base: り
-      position: 9
-    - word: ぐう
-      position: 10
-    - word: る
-      base: れる
-      position: 12
-    - word: と
-      position: 13
-    - word: ひるね
-      base: 昼寝
-      position: 14
-    - word: を
-      position: 17
-    - word: し
-      base: 為る
-      position: 18
-    - word: て
-      position: 19
-    - word: い
-      base: 居る
-      position: 20
-    - word: まし
-      base: ます
-      position: 21
-    - word: た
-      position: 23
 - id: Ashi-f000005
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -87,12 +30,6 @@
   sound_begin: 16860
   sound_end: 18120
   sentence: すると、
-  words:
-    - word: する
-      base: 為る
-      position: 0
-    - word: と
-      position: 2
 - id: Ashi-f000006
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -101,29 +38,6 @@
   sound_begin: 18120
   sound_end: 21000
   sentence: すずしい風がでてきたので、
-  words:
-    - word: すずしい
-      base: 涼しい
-      position: 0
-    - word: 風
-      position: 4
-    - word: が
-      position: 5
-    - word: で
-      base: 出る
-      position: 6
-    - word: て
-      position: 7
-    - word: き
-      base: 来る
-      position: 8
-    - word: た
-      position: 9
-    - word: の
-      position: 10
-    - word: で
-      base: だ
-      position: 11
 - id: Ashi-f000007
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -132,38 +46,6 @@
   sound_begin: 21000
   sound_end: 24200
   sentence: 一ぴきがくしゃめをしてめをさましました。
-  words:
-    - word: 一
-      base: '1'
-      position: 0
-    - word: ぴき
-      base: 匹
-      position: 1
-    - word: が
-      position: 3
-    - word: くしゃ
-      position: 4
-    - word: め
-      position: 7
-    - word: を
-      position: 8
-    - word: し
-      base: 為る
-      position: 9
-    - word: て
-      position: 10
-    - word: め
-      position: 11
-    - word: を
-      position: 12
-    - word: さまし
-      base: さます
-      position: 13
-    - word: まし
-      base: ます
-      position: 16
-    - word: た
-      position: 18
 - id: Ashi-f000008
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -172,12 +54,6 @@
   sound_begin: 25800
   sound_end: 27120
   sentence: ところが、
-  words:
-    - word: ところ
-      base: 所
-      position: 0
-    - word: が
-      position: 3
 - id: Ashi-f000009
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -186,32 +62,6 @@
   sound_begin: 27120
   sound_end: 30320
   sentence: あとあしがいっぽんしびれていたので、
-  words:
-    - word: あと
-      base: 後
-      position: 0
-    - word: あし
-      position: 2
-    - word: が
-      position: 4
-    - word: いっぽん
-      base: 一本
-      position: 5
-    - word: しびれ
-      base: 痺れる
-      position: 9
-    - word: て
-      position: 12
-    - word: い
-      base: 居る
-      position: 13
-    - word: た
-      position: 14
-    - word: の
-      position: 15
-    - word: で
-      base: だ
-      position: 16
 - id: Ashi-f000010
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -220,24 +70,6 @@
   sound_begin: 30320
   sound_end: 33960
   sentence: よろよろとよろけてしまいました。
-  words:
-    - word: よろよろ
-      position: 0
-    - word: と
-      position: 4
-    - word: よろけ
-      base: 蹌踉ける
-      position: 5
-    - word: て
-      position: 8
-    - word: しまい
-      base: 仕舞う
-      position: 9
-    - word: まし
-      base: ます
-      position: 12
-    - word: た
-      position: 14
 - id: Ashi-f000011
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -246,13 +78,6 @@
   sound_begin: 33960
   sound_end: 36053
   sentence: 「おやおや。」
-  words:
-    - word: お
-      base: 御
-      position: 1
-    - word: やおや
-      base: 八百屋
-      position: 2
 - id: Ashi-f000012
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -261,30 +86,6 @@
   sound_begin: 36053
   sound_end: 39920
   sentence: そのあしに力をいれようとしても、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: あし
-      position: 2
-    - word: に
-      position: 4
-    - word: 力
-      position: 5
-    - word: を
-      position: 6
-    - word: いれよう
-      base: 入れる
-      position: 7
-    - word: と
-      position: 11
-    - word: し
-      base: 為る
-      position: 12
-    - word: て
-      position: 13
-    - word: も
-      position: 14
 - id: Ashi-f000013
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -293,18 +94,6 @@
   sound_begin: 39920
   sound_end: 42847
   sentence: さっぱりはいりません。
-  words:
-    - word: さっぱり
-      position: 0
-    - word: はいり
-      base: 入る
-      position: 4
-    - word: ませ
-      base: ます
-      position: 7
-    - word: ん
-      base: ず
-      position: 9
 - id: Ashi-f000014
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -313,32 +102,6 @@
   sound_begin: 42847
   sound_end: 45560
   sentence: そこでともだちの馬をゆりおこしました。
-  words:
-    - word: そこ
-      base: 其処
-      position: 0
-    - word: で
-      position: 2
-    - word: ともだち
-      base: 友達
-      position: 3
-    - word: の
-      position: 7
-    - word: 馬
-      position: 8
-    - word: を
-      position: 9
-    - word: ゆり
-      base: 揺る
-      position: 10
-    - word: おこし
-      base: 起こす
-      position: 12
-    - word: まし
-      base: ます
-      position: 15
-    - word: た
-      position: 17
 - id: Ashi-f000015
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -347,12 +110,6 @@
   sound_begin: 47160
   sound_end: 48520
   sentence: 「たいへんだ、
-  words:
-    - word: たいへん
-      base: 大変
-      position: 1
-    - word: だ
-      position: 5
 - id: Ashi-f000016
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -361,17 +118,6 @@
   sound_begin: 48520
   sound_end: 49640
   sentence: あとあしをいっぽん、
-  words:
-    - word: あと
-      base: 後
-      position: 0
-    - word: あし
-      position: 2
-    - word: を
-      position: 4
-    - word: いっぽん
-      base: 一本
-      position: 5
 - id: Ashi-f000017
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -380,27 +126,6 @@
   sound_begin: 49640
   sound_end: 53040
   sentence: だれかにぬすまれてしまった。」
-  words:
-    - word: だれ
-      base: 誰
-      position: 0
-    - word: か
-      position: 2
-    - word: に
-      position: 3
-    - word: ぬすま
-      base: 盗む
-      position: 4
-    - word: れ
-      base: れる
-      position: 7
-    - word: て
-      position: 8
-    - word: しまっ
-      base: 仕舞う
-      position: 9
-    - word: た
-      position: 12
 - id: Ashi-f000018
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -409,11 +134,6 @@
   sound_begin: 53040
   sound_end: 53728
   sentence: 「だって、
-  words:
-    - word: だ
-      position: 1
-    - word: って
-      position: 2
 - id: Ashi-f000019
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -422,22 +142,6 @@
   sound_begin: 53728
   sound_end: 56320
   sentence: ちゃんとついてるじゃないか。」
-  words:
-    - word: ちゃんと
-      position: 0
-    - word: つい
-      base: 付く
-      position: 4
-    - word: てる
-      position: 6
-    - word: じゃ
-      base: だ
-      position: 8
-    - word: ない
-      base: 無い
-      position: 10
-    - word: か
-      position: 12
 - id: Ashi-f000020
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -446,18 +150,6 @@
   sound_begin: 56320
   sound_end: 58040
   sentence: 「いやこれはちがう。
-  words:
-    - word: いや
-      base: 否
-      position: 1
-    - word: これ
-      base: 此れ
-      position: 3
-    - word: は
-      position: 5
-    - word: ちがう
-      base: 違う
-      position: 6
 - id: Ashi-f000021
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -466,18 +158,6 @@
   sound_begin: 58040
   sound_end: 60110
   sentence: だれかのあしだ。」
-  words:
-    - word: だれ
-      base: 誰
-      position: 0
-    - word: か
-      position: 2
-    - word: の
-      position: 3
-    - word: あし
-      position: 4
-    - word: だ
-      position: 6
 - id: Ashi-f000022
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -486,14 +166,6 @@
   sound_begin: 60110
   sound_end: 62520
   sentence: 「どうして。」
-  words:
-    - word: どう
-      position: 1
-    - word: し
-      base: 為る
-      position: 3
-    - word: て
-      position: 4
 - id: Ashi-f000023
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -502,27 +174,6 @@
   sound_begin: 62520
   sound_end: 66053
   sentence: 「ぼくの思うままに歩かないもの。
-  words:
-    - word: ぼく
-      base: 僕
-      position: 1
-    - word: の
-      position: 3
-    - word: 思う
-      position: 4
-    - word: まま
-      base: 侭
-      position: 6
-    - word: に
-      position: 8
-    - word: 歩か
-      base: 歩く
-      position: 9
-    - word: ない
-      position: 11
-    - word: もの
-      base: 物
-      position: 13
 - id: Ashi-f000024
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -531,28 +182,6 @@
   sound_begin: 66053
   sound_end: 70480
   sentence: ちょっとこのあしをけとばしてくれ。」
-  words:
-    - word: ちょっと
-      base: 一寸
-      position: 0
-    - word: この
-      base: 此の
-      position: 4
-    - word: あし
-      position: 6
-    - word: を
-      position: 8
-    - word: け
-      base: 蹴る
-      position: 9
-    - word: とばし
-      base: 飛ばす
-      position: 10
-    - word: て
-      position: 13
-    - word: くれ
-      base: 呉れる
-      position: 14
 - id: Ashi-f000025
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -561,12 +190,6 @@
   sound_begin: 70480
   sound_end: 71408
   sentence: そこで、
-  words:
-    - word: そこ
-      base: 其処
-      position: 0
-    - word: で
-      position: 2
 - id: Ashi-f000026
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -575,16 +198,6 @@
   sound_begin: 71408
   sound_end: 72960
   sentence: ともだちの馬は、
-  words:
-    - word: ともだち
-      base: 友達
-      position: 0
-    - word: の
-      position: 4
-    - word: 馬
-      position: 5
-    - word: は
-      position: 6
 - id: Ashi-f000027
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -593,41 +206,6 @@
   sound_begin: 72960
   sound_end: 77741
   sentence: ひづめでそのあしをぽォんとけとばしました。
-  words:
-    - word: ひづめ
-      base: 蹄
-      position: 0
-    - word: で
-      position: 3
-    - word: その
-      base: 其の
-      position: 4
-    - word: あし
-      position: 6
-    - word: を
-      position: 8
-    - word: ぽ
-      base: ぽい
-      position: 9
-    - word: ォ
-      base: ぉ
-      position: 10
-    - word: ん
-      base: んっ
-      position: 11
-    - word: と
-      position: 12
-    - word: け
-      base: 蹴る
-      position: 13
-    - word: とばし
-      base: 飛ばす
-      position: 14
-    - word: まし
-      base: ます
-      position: 17
-    - word: た
-      position: 19
 - id: Ashi-f000028
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -636,26 +214,6 @@
   sound_begin: 77741
   sound_end: 80800
   sentence: 「やっぱりこれはぼくのじゃない、
-  words:
-    - word: やっぱり
-      base: 矢張り
-      position: 1
-    - word: これ
-      base: 此れ
-      position: 5
-    - word: は
-      position: 7
-    - word: ぼく
-      base: 僕
-      position: 8
-    - word: の
-      position: 10
-    - word: じゃ
-      base: だ
-      position: 11
-    - word: ない
-      base: 無い
-      position: 13
 - id: Ashi-f000029
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -664,15 +222,6 @@
   sound_begin: 80800
   sound_end: 83000
   sentence: いたくないもの。
-  words:
-    - word: いたく
-      base: 痛く
-      position: 0
-    - word: ない
-      base: 無い
-      position: 3
-    - word: もの
-      position: 5
 - id: Ashi-f000030
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -681,27 +230,6 @@
   sound_begin: 83000
   sound_end: 86480
   sentence: ぼくのあしならいたいはずだ。
-  words:
-    - word: ぼく
-      base: 僕
-      position: 0
-    - word: の
-      position: 2
-    - word: あし
-      position: 3
-    - word: なら
-      base: だ
-      position: 5
-    - word: い
-      base: 居る
-      position: 7
-    - word: たい
-      position: 8
-    - word: はず
-      base: 筈
-      position: 10
-    - word: だ
-      position: 12
 - id: Ashi-f000031
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -710,9 +238,6 @@
   sound_begin: 86480
   sound_end: 87240
   sentence: よし、
-  words:
-    - word: よし
-      position: 0
 - id: Ashi-f000032
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -721,10 +246,6 @@
   sound_begin: 87240
   sound_end: 87760
   sentence: はやく、
-  words:
-    - word: はやく
-      base: 早い
-      position: 0
 - id: Ashi-f000033
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -733,27 +254,6 @@
   sound_begin: 87760
   sound_end: 92160
   sentence: ぬすまれたあしをみつけてこよう。」
-  words:
-    - word: ぬすま
-      base: 盗む
-      position: 0
-    - word: れ
-      base: れる
-      position: 3
-    - word: た
-      position: 4
-    - word: あし
-      position: 5
-    - word: を
-      position: 7
-    - word: みつけ
-      base: 見付ける
-      position: 8
-    - word: て
-      position: 11
-    - word: こよう
-      base: 来る
-      position: 12
 - id: Ashi-f000034
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -762,12 +262,6 @@
   sound_begin: 92160
   sound_end: 94000
   sentence: そこで、
-  words:
-    - word: そこ
-      base: 其処
-      position: 0
-    - word: で
-      position: 2
 - id: Ashi-f000035
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -776,31 +270,6 @@
   sound_begin: 94000
   sound_end: 95800
   sentence: その馬はよろよろと歩いてゆきました。
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 馬
-      position: 2
-    - word: は
-      position: 3
-    - word: よろよろ
-      position: 4
-    - word: と
-      position: 8
-    - word: 歩い
-      base: 歩く
-      position: 9
-    - word: て
-      position: 11
-    - word: ゆき
-      base: 行く
-      position: 12
-    - word: まし
-      base: ます
-      position: 14
-    - word: た
-      position: 16
 - id: Ashi-f000036
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -809,13 +278,6 @@
   sound_begin: 97600
   sound_end: 98320
   sentence: 「やァ、
-  words:
-    - word: や
-      base: やあ
-      position: 1
-    - word: ァ
-      base: ぁ
-      position: 2
 - id: Ashi-f000037
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -824,14 +286,6 @@
   sound_begin: 98320
   sound_end: 99920
   sentence: 椅子がある。
-  words:
-    - word: 椅子
-      position: 0
-    - word: が
-      position: 2
-    - word: ある
-      base: 有る
-      position: 3
 - id: Ashi-f000038
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -840,37 +294,6 @@
   sound_begin: 99920
   sound_end: 102600
   sentence: 椅子がぼくのあしをぬすんだのかもしれない。
-  words:
-    - word: 椅子
-      position: 0
-    - word: が
-      position: 2
-    - word: ぼく
-      base: 僕
-      position: 3
-    - word: の
-      position: 5
-    - word: あし
-      position: 6
-    - word: を
-      position: 8
-    - word: ぬすん
-      base: 盗む
-      position: 9
-    - word: だ
-      base: た
-      position: 12
-    - word: の
-      position: 13
-    - word: か
-      position: 14
-    - word: も
-      position: 15
-    - word: しれ
-      base: 知る
-      position: 16
-    - word: ない
-      position: 18
 - id: Ashi-f000039
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -879,9 +302,6 @@
   sound_begin: 104300
   sound_end: 104720
   sentence: よし、
-  words:
-    - word: よし
-      position: 0
 - id: Ashi-f000040
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -890,18 +310,6 @@
   sound_begin: 104720
   sound_end: 106896
   sentence: けとばしてやろう、
-  words:
-    - word: け
-      base: 蹴る
-      position: 0
-    - word: とばし
-      base: 飛ばす
-      position: 1
-    - word: て
-      position: 4
-    - word: やろう
-      base: 遣る
-      position: 5
 - id: Ashi-f000041
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -910,27 +318,6 @@
   sound_begin: 106896
   sound_end: 111040
   sentence: ぼくのあしならいたいはずだ。」
-  words:
-    - word: ぼく
-      base: 僕
-      position: 0
-    - word: の
-      position: 2
-    - word: あし
-      position: 3
-    - word: なら
-      base: だ
-      position: 5
-    - word: い
-      base: 居る
-      position: 7
-    - word: たい
-      position: 8
-    - word: はず
-      base: 筈
-      position: 10
-    - word: だ
-      position: 12
 - id: Ashi-f000042
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -939,17 +326,6 @@
   sound_begin: 111040
   sound_end: 112760
   sentence: 馬はかたあしで、
-  words:
-    - word: 馬
-      position: 0
-    - word: は
-      position: 1
-    - word: かたあし
-      base: 片足
-      position: 2
-    - word: で
-      base: だ
-      position: 6
 - id: Ashi-f000043
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -958,26 +334,6 @@
   sound_begin: 112760
   sound_end: 116680
   sentence: 椅子のあしをけとばしました。
-  words:
-    - word: 椅子
-      position: 0
-    - word: の
-      position: 2
-    - word: あし
-      position: 3
-    - word: を
-      position: 5
-    - word: け
-      base: 蹴る
-      position: 6
-    - word: とばし
-      base: 飛ばす
-      position: 7
-    - word: まし
-      base: ます
-      position: 10
-    - word: た
-      position: 12
 - id: Ashi-f000044
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -986,11 +342,6 @@
   sound_begin: 116680
   sound_end: 117680
   sentence: 椅子は、
-  words:
-    - word: 椅子
-      position: 0
-    - word: は
-      position: 2
 - id: Ashi-f000045
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -999,12 +350,6 @@
   sound_begin: 117680
   sound_end: 118520
   sentence: いたいとも、
-  words:
-    - word: いたい
-      base: 痛い
-      position: 0
-    - word: とも
-      position: 3
 - id: Ashi-f000046
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -1013,21 +358,6 @@
   sound_begin: 118520
   sound_end: 120111
   sentence: なんともいわないで、
-  words:
-    - word: なん
-      base: 何
-      position: 0
-    - word: と
-      position: 2
-    - word: も
-      position: 3
-    - word: いわ
-      base: 言う
-      position: 4
-    - word: ない
-      position: 6
-    - word: で
-      position: 8
 - id: Ashi-f000047
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -1036,20 +366,6 @@
   sound_begin: 120111
   sound_end: 121540
   sentence: こわれてしまいました。
-  words:
-    - word: こわれ
-      base: 壊れる
-      position: 0
-    - word: て
-      position: 3
-    - word: しまい
-      base: 仕舞う
-      position: 4
-    - word: まし
-      base: ます
-      position: 7
-    - word: た
-      position: 9
 - id: Ashi-f000048
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -1058,11 +374,6 @@
   sound_begin: 123640
   sound_end: 124774
   sentence: 馬は、
-  words:
-    - word: 馬
-      position: 0
-    - word: は
-      position: 1
 - id: Ashi-f000049
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -1071,15 +382,6 @@
   sound_begin: 124774
   sound_end: 126520
   sentence: テーブルのあしや、
-  words:
-    - word: テーブル
-      position: 0
-    - word: の
-      position: 4
-    - word: あし
-      position: 5
-    - word: や
-      position: 7
 - id: Ashi-f000050
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -1088,15 +390,6 @@
   sound_begin: 126520
   sound_end: 127910
   sentence: ベッドのあしを、
-  words:
-    - word: ベッド
-      position: 0
-    - word: の
-      position: 3
-    - word: あし
-      position: 4
-    - word: を
-      position: 6
 - id: Ashi-f000051
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -1105,22 +398,6 @@
   sound_begin: 127910
   sound_end: 129520
   sentence: ぽんぽんけってまわりました。
-  words:
-    - word: ぽんぽん
-      position: 0
-    - word: けっ
-      base: 蹴る
-      position: 4
-    - word: て
-      position: 6
-    - word: まわり
-      base: 回る
-      position: 7
-    - word: まし
-      base: ます
-      position: 10
-    - word: た
-      position: 12
 - id: Ashi-f000052
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -1129,9 +406,6 @@
   sound_begin: 131320
   sound_end: 132469
   sentence: けれど、
-  words:
-    - word: けれど
-      position: 0
 - id: Ashi-f000053
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -1140,26 +414,6 @@
   sound_begin: 132469
   sound_end: 134699
   sentence: どれもいたいといわなくて、
-  words:
-    - word: どれ
-      position: 0
-    - word: も
-      position: 2
-    - word: い
-      base: 居る
-      position: 3
-    - word: たい
-      position: 4
-    - word: と
-      position: 6
-    - word: いわ
-      base: 言う
-      position: 7
-    - word: なく
-      base: ない
-      position: 9
-    - word: て
-      position: 11
 - id: Ashi-f000054
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -1168,20 +422,6 @@
   sound_begin: 134699
   sound_end: 138360
   sentence: こわれてしまいました。
-  words:
-    - word: こわれ
-      base: 壊れる
-      position: 0
-    - word: て
-      position: 3
-    - word: しまい
-      base: 仕舞う
-      position: 4
-    - word: まし
-      base: ます
-      position: 7
-    - word: た
-      position: 9
 - id: Ashi-f000055
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -1190,38 +430,6 @@
   sound_begin: 138360
   sound_end: 142100
   sentence: いくらさがしてもぬすまれたあしはありません。
-  words:
-    - word: いくら
-      base: 幾ら
-      position: 0
-    - word: さがし
-      base: 探す
-      position: 3
-    - word: て
-      position: 6
-    - word: も
-      position: 7
-    - word: ぬすま
-      base: 盗む
-      position: 8
-    - word: れ
-      base: れる
-      position: 11
-    - word: た
-      position: 12
-    - word: あし
-      position: 13
-    - word: は
-      position: 15
-    - word: あり
-      base: 有る
-      position: 16
-    - word: ませ
-      base: ます
-      position: 18
-    - word: ん
-      base: ず
-      position: 20
 - id: Ashi-f000056
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -1230,15 +438,6 @@
   sound_begin: 144200
   sound_end: 145640
   sentence: 「ひょっとしたら、
-  words:
-    - word: ひょっと
-      position: 1
-    - word: し
-      base: 為る
-      position: 5
-    - word: たら
-      base: た
-      position: 6
 - id: Ashi-f000057
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -1247,28 +446,6 @@
   sound_begin: 145640
   sound_end: 148276
   sentence: あいつがとったのかもしれない。」
-  words:
-    - word: あいつ
-      base: 彼奴
-      position: 0
-    - word: が
-      position: 3
-    - word: とっ
-      base: 取る
-      position: 4
-    - word: た
-      position: 6
-    - word: の
-      position: 7
-    - word: か
-      position: 8
-    - word: も
-      position: 9
-    - word: しれ
-      base: 知る
-      position: 10
-    - word: ない
-      position: 12
 - id: Ashi-f000058
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -1277,21 +454,6 @@
   sound_begin: 148276
   sound_end: 151550
   sentence: と馬は思いました。
-  words:
-    - word: と
-      position: 0
-    - word: 馬
-      position: 1
-    - word: は
-      position: 2
-    - word: 思い
-      base: 思う
-      position: 3
-    - word: まし
-      base: ます
-      position: 5
-    - word: た
-      position: 7
 - id: Ashi-f000059
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -1300,12 +462,6 @@
   sound_begin: 151550
   sound_end: 152680
   sentence: そこで、
-  words:
-    - word: そこ
-      base: 其処
-      position: 0
-    - word: で
-      position: 2
 - id: Ashi-f000060
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -1314,38 +470,6 @@
   sound_begin: 152680
   sound_end: 156920
   sentence: 馬はともだちの馬のところへかえってきました。
-  words:
-    - word: 馬
-      position: 0
-    - word: は
-      position: 1
-    - word: ともだち
-      base: 友達
-      position: 2
-    - word: の
-      position: 6
-    - word: 馬
-      position: 7
-    - word: の
-      position: 8
-    - word: ところ
-      base: 所
-      position: 9
-    - word: へ
-      position: 12
-    - word: かえっ
-      base: かえる
-      position: 13
-    - word: て
-      position: 16
-    - word: き
-      base: 来る
-      position: 17
-    - word: まし
-      base: ます
-      position: 18
-    - word: た
-      position: 20
 - id: Ashi-f000061
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -1354,9 +478,6 @@
   sound_begin: 156920
   sound_end: 157811
   sentence: そして、
-  words:
-    - word: そして
-      position: 0
 - id: Ashi-f000062
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -1365,16 +486,6 @@
   sound_begin: 157811
   sound_end: 159728
   sentence: すきをみて、
-  words:
-    - word: すき
-      position: 0
-    - word: を
-      position: 2
-    - word: み
-      base: 見る
-      position: 3
-    - word: て
-      position: 4
 - id: Ashi-f000063
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -1383,41 +494,6 @@
   sound_begin: 159728
   sound_end: 163600
   sentence: ともだちのあとあしをぽォんとけとばしました。
-  words:
-    - word: ともだち
-      base: 友達
-      position: 0
-    - word: の
-      position: 4
-    - word: あと
-      base: 後
-      position: 5
-    - word: あし
-      position: 7
-    - word: を
-      position: 9
-    - word: ぽ
-      base: ぽい
-      position: 10
-    - word: ォ
-      base: ぉ
-      position: 11
-    - word: ん
-      base: んっ
-      position: 12
-    - word: と
-      position: 13
-    - word: け
-      base: 蹴る
-      position: 14
-    - word: とばし
-      base: 飛ばす
-      position: 15
-    - word: まし
-      base: ます
-      position: 18
-    - word: た
-      position: 20
 - id: Ashi-f000064
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -1426,17 +502,6 @@
   sound_begin: 165500
   sound_end: 167440
   sentence: するとともだちは、
-  words:
-    - word: する
-      base: 為る
-      position: 0
-    - word: と
-      position: 2
-    - word: ともだち
-      base: 友達
-      position: 3
-    - word: は
-      position: 7
 - id: Ashi-f000065
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -1445,13 +510,6 @@
   sound_begin: 167440
   sound_end: 168720
   sentence: 「いたいッ。」
-  words:
-    - word: いたい
-      base: 致す
-      position: 1
-    - word: ッ
-      base: つ
-      position: 4
 - id: Ashi-f000066
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -1460,25 +518,6 @@
   sound_begin: 168720
   sound_end: 172880
   sentence: とさけんでとびあがりました。
-  words:
-    - word: と
-      position: 0
-    - word: さけん
-      base: 叫ぶ
-      position: 1
-    - word: で
-      position: 4
-    - word: とび
-      base: 飛ぶ
-      position: 5
-    - word: あがり
-      base: 上がる
-      position: 7
-    - word: まし
-      base: ます
-      position: 10
-    - word: た
-      position: 12
 - id: Ashi-f000067
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -1487,19 +526,6 @@
   sound_begin: 172880
   sound_end: 174120
   sentence: 「そォらみろ、
-  words:
-    - word: そ
-      base: そう
-      position: 1
-    - word: ォ
-      base: ぉ
-      position: 2
-    - word: ら
-      base: 等
-      position: 3
-    - word: みろ
-      base: 見る
-      position: 4
 - id: Ashi-f000068
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -1508,21 +534,6 @@
   sound_begin: 174120
   sound_end: 176178
   sentence: それがぼくのあしだ。
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: が
-      position: 2
-    - word: ぼく
-      base: 僕
-      position: 3
-    - word: の
-      position: 5
-    - word: あし
-      position: 6
-    - word: だ
-      position: 8
 - id: Ashi-f000069
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -1531,12 +542,6 @@
   sound_begin: 176178
   sound_end: 177320
   sentence: きみだろう、
-  words:
-    - word: きみ
-      position: 0
-    - word: だろう
-      base: だ
-      position: 2
 - id: Ashi-f000070
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -1545,17 +550,6 @@
   sound_begin: 177320
   sound_end: 179551
   sentence: ぬすんだのは。」
-  words:
-    - word: ぬすん
-      base: 盗む
-      position: 0
-    - word: だ
-      base: た
-      position: 3
-    - word: の
-      position: 4
-    - word: は
-      position: 5
 - id: Ashi-f000071
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -1564,16 +558,6 @@
   sound_begin: 179551
   sound_end: 182237
   sentence: 「このとんまめが。」
-  words:
-    - word: この
-      base: 此の
-      position: 1
-    - word: とんま
-      position: 3
-    - word: め
-      position: 6
-    - word: が
-      position: 7
 - id: Ashi-f000072
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -1582,32 +566,6 @@
   sound_begin: 182237
   sound_end: 187400
   sentence: ともだちの馬は力いっぱいけかえしました。
-  words:
-    - word: ともだち
-      base: 友達
-      position: 0
-    - word: の
-      position: 4
-    - word: 馬
-      position: 5
-    - word: は
-      position: 6
-    - word: 力
-      position: 7
-    - word: いっぱい
-      base: 一杯
-      position: 8
-    - word: け
-      base: 蹴る
-      position: 12
-    - word: かえし
-      base: かえす
-      position: 13
-    - word: まし
-      base: ます
-      position: 16
-    - word: た
-      position: 18
 - id: Ashi-f000073
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -1616,29 +574,6 @@
   sound_begin: 187400
   sound_end: 190042
   sentence: しびれがもうなおっていたので、
-  words:
-    - word: しびれ
-      base: 痺れ
-      position: 0
-    - word: が
-      position: 3
-    - word: もう
-      position: 4
-    - word: なおっ
-      base: 直る
-      position: 6
-    - word: て
-      position: 9
-    - word: い
-      base: 居る
-      position: 10
-    - word: た
-      position: 11
-    - word: の
-      position: 12
-    - word: で
-      base: だ
-      position: 13
 - id: Ashi-f000074
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -1647,14 +582,6 @@
   sound_begin: 190042
   sound_end: 191480
   sentence: その馬も、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 馬
-      position: 2
-    - word: も
-      position: 3
 - id: Ashi-f000075
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -1663,13 +590,6 @@
   sound_begin: 191480
   sound_end: 192414
   sentence: 「いたいッ。」
-  words:
-    - word: いたい
-      base: 致す
-      position: 1
-    - word: ッ
-      base: つ
-      position: 4
 - id: Ashi-f000076
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -1678,9 +598,6 @@
   sound_begin: 192414
   sound_end: 192747
   sentence: と、
-  words:
-    - word: と
-      position: 0
 - id: Ashi-f000077
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -1689,18 +606,6 @@
   sound_begin: 192747
   sound_end: 195520
   sentence: とびあがりました。
-  words:
-    - word: とび
-      base: 飛ぶ
-      position: 0
-    - word: あがり
-      base: 上がる
-      position: 2
-    - word: まし
-      base: ます
-      position: 5
-    - word: た
-      position: 7
 - id: Ashi-f000078
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -1709,9 +614,6 @@
   sound_begin: 195520
   sound_end: 196446
   sentence: そして、
-  words:
-    - word: そして
-      position: 0
 - id: Ashi-f000079
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -1720,17 +622,6 @@
   sound_begin: 196446
   sound_end: 198240
   sentence: やっとのことで、
-  words:
-    - word: やっと
-      base: 漸と
-      position: 0
-    - word: の
-      position: 3
-    - word: こと
-      position: 4
-    - word: で
-      base: だ
-      position: 6
 - id: Ashi-f000080
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -1739,34 +630,6 @@
   sound_begin: 198240
   sound_end: 201520
   sentence: じぶんのあしはぬすまれたのではなく、
-  words:
-    - word: じぶん
-      base: 自分
-      position: 0
-    - word: の
-      position: 3
-    - word: あし
-      position: 4
-    - word: は
-      position: 6
-    - word: ぬすま
-      base: 盗む
-      position: 7
-    - word: れ
-      base: れる
-      position: 10
-    - word: た
-      position: 11
-    - word: の
-      position: 12
-    - word: で
-      base: だ
-      position: 13
-    - word: は
-      position: 14
-    - word: なく
-      base: 無い
-      position: 15
 - id: Ashi-f000081
   author_japanese: 新美 南吉
   deck_name: Ashi
@@ -1775,28 +638,3 @@
   sound_begin: 201520
   sound_end: 204240
   sentence: しびれていたのだとわかりました。
-  words:
-    - word: しびれ
-      base: 痺れる
-      position: 0
-    - word: て
-      position: 3
-    - word: い
-      base: 居る
-      position: 4
-    - word: た
-      position: 5
-    - word: の
-      position: 6
-    - word: だ
-      position: 7
-    - word: と
-      position: 8
-    - word: わかり
-      base: 分かる
-      position: 9
-    - word: まし
-      base: ます
-      position: 12
-    - word: た
-      position: 14

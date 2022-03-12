@@ -6,9 +6,6 @@
   sound_begin: 6920
   sound_end: 10280
   sentence: 柿
-  words:
-    - word: 柿
-      position: 0
 - id: Kaki-f000003
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -17,26 +14,6 @@
   sound_begin: 10280
   sound_end: 14560
   sentence: 私の村は「柿の木の村」でした。
-  words:
-    - word: 私
-      position: 0
-    - word: の
-      position: 1
-    - word: 村
-      position: 2
-    - word: は
-      position: 3
-    - word: 柿の木
-      position: 5
-    - word: の
-      position: 8
-    - word: 村
-      position: 9
-    - word: でし
-      base: です
-      position: 11
-    - word: た
-      position: 13
 - id: Kaki-f000004
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -45,25 +22,6 @@
   sound_begin: 14560
   sound_end: 16760
   sentence: 家といふ家のまはりには、
-  words:
-    - word: 家
-      position: 0
-    - word: と
-      position: 1
-    - word: いふ
-      base: 言う
-      position: 2
-    - word: 家
-      position: 4
-    - word: の
-      position: 5
-    - word: まはり
-      base: 周り
-      position: 6
-    - word: に
-      position: 9
-    - word: は
-      position: 10
 - id: Kaki-f000005
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -72,19 +30,6 @@
   sound_begin: 16760
   sound_end: 18960
   sentence: 大きな小さな柿の木が、
-  words:
-    - word: 大きな
-      position: 0
-    - word: 小さな
-      position: 3
-    - word: 柿
-      position: 6
-    - word: の
-      position: 7
-    - word: 木
-      position: 8
-    - word: が
-      position: 9
 - id: Kaki-f000006
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -93,23 +38,6 @@
   sound_begin: 18960
   sound_end: 22520
   sentence: 立ち並んでゐました。
-  words:
-    - word: 立ち
-      base: 立つ
-      position: 0
-    - word: 並ん
-      base: 並ぶ
-      position: 2
-    - word: で
-      position: 4
-    - word: ゐ
-      base: 居る
-      position: 5
-    - word: まし
-      base: ます
-      position: 6
-    - word: た
-      position: 8
 - id: Kaki-f000007
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -118,11 +46,6 @@
   sound_begin: 22520
   sound_end: 23160
   sentence: 夏は、
-  words:
-    - word: 夏
-      position: 0
-    - word: は
-      position: 1
 - id: Kaki-f000008
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -131,28 +54,6 @@
   sound_begin: 23160
   sound_end: 26160
   sentence: 村ぢゆうが深い青葉につゝまれ、
-  words:
-    - word: 村
-      position: 0
-    - word: ぢ
-      base: 痔
-      position: 1
-    - word: ゆう
-      position: 2
-    - word: が
-      position: 4
-    - word: 深い
-      position: 5
-    - word: 青葉
-      position: 7
-    - word: に
-      position: 9
-    - word: つゝま
-      base: 包む
-      position: 10
-    - word: れ
-      base: れる
-      position: 13
 - id: Kaki-f000009
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -161,29 +62,6 @@
   sound_begin: 26160
   sound_end: 31280
   sentence: 秋はあざやかな紅葉に染りました。
-  words:
-    - word: 秋
-      position: 0
-    - word: は
-      position: 1
-    - word: あざやか
-      base: 鮮やか
-      position: 2
-    - word: な
-      base: だ
-      position: 6
-    - word: 紅葉
-      position: 7
-    - word: に
-      position: 9
-    - word: 染り
-      base: 染まる
-      position: 10
-    - word: まし
-      base: ます
-      position: 12
-    - word: た
-      position: 14
 - id: Kaki-f000010
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -192,29 +70,6 @@
   sound_begin: 31280
   sound_end: 34320
   sentence: 紅葉がちつてうつくしく色づいた実が、
-  words:
-    - word: 紅葉
-      position: 0
-    - word: がち
-      base: 勝ち
-      position: 2
-    - word: つ
-      base: つう
-      position: 4
-    - word: て
-      position: 5
-    - word: うつくしく
-      base: 美しい
-      position: 6
-    - word: 色づい
-      base: 色付く
-      position: 11
-    - word: た
-      position: 14
-    - word: 実
-      position: 15
-    - word: が
-      position: 16
 - id: Kaki-f000011
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -223,31 +78,6 @@
   sound_begin: 34320
   sound_end: 36840
   sentence: 玉をつづつてゐるのを見るのは、
-  words:
-    - word: 玉
-      position: 0
-    - word: を
-      position: 1
-    - word: つづ
-      position: 2
-    - word: つ
-      base: つう
-      position: 4
-    - word: て
-      position: 5
-    - word: ゐる
-      base: 居る
-      position: 6
-    - word: の
-      position: 8
-    - word: を
-      position: 9
-    - word: 見る
-      position: 10
-    - word: の
-      position: 12
-    - word: は
-      position: 13
 - id: Kaki-f000012
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -256,30 +86,6 @@
   sound_begin: 36840
   sound_end: 40837
   sentence: どんなにたのしかつたでせう。
-  words:
-    - word: どんな
-      position: 0
-    - word: に
-      base: だ
-      position: 3
-    - word: た
-      position: 4
-    - word: の
-      position: 5
-    - word: しか
-      position: 6
-    - word: つた
-      base: 蔦
-      position: 8
-    - word: で
-      base: だ
-      position: 10
-    - word: せ
-      base: せる
-      position: 11
-    - word: う
-      base: うう
-      position: 12
 - id: Kaki-f000013
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -288,21 +94,6 @@
   sound_begin: 40837
   sound_end: 42720
   sentence: 私の家の庭には、
-  words:
-    - word: 私
-      position: 0
-    - word: の
-      position: 1
-    - word: 家
-      position: 2
-    - word: の
-      position: 3
-    - word: 庭
-      position: 4
-    - word: に
-      position: 5
-    - word: は
-      position: 6
 - id: Kaki-f000014
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -311,34 +102,6 @@
   sound_begin: 42720
   sound_end: 46037
   sentence: 大きな柿の木が幾本もありましたので、
-  words:
-    - word: 大きな
-      position: 0
-    - word: 柿
-      position: 3
-    - word: の
-      position: 4
-    - word: 木
-      position: 5
-    - word: が
-      position: 6
-    - word: 幾本
-      position: 7
-    - word: も
-      position: 9
-    - word: あり
-      base: 有る
-      position: 10
-    - word: まし
-      base: ます
-      position: 12
-    - word: た
-      position: 14
-    - word: の
-      position: 15
-    - word: で
-      base: だ
-      position: 16
 - id: Kaki-f000015
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -347,35 +110,6 @@
   sound_begin: 46037
   sound_end: 51000
   sentence: 家内だけで食べつくすわけにはいきません。
-  words:
-    - word: 家内
-      position: 0
-    - word: だけ
-      position: 2
-    - word: で
-      position: 4
-    - word: 食べ
-      base: 食べる
-      position: 5
-    - word: つくす
-      base: 尽くす
-      position: 7
-    - word: わけ
-      base: 訳
-      position: 10
-    - word: に
-      position: 12
-    - word: は
-      position: 13
-    - word: いき
-      base: 行く
-      position: 14
-    - word: ませ
-      base: ます
-      position: 16
-    - word: ん
-      base: ず
-      position: 18
 - id: Kaki-f000016
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -384,20 +118,6 @@
   sound_begin: 51000
   sound_end: 53320
   sentence: 山浦のお百姓さんが、
-  words:
-    - word: 山浦
-      position: 0
-    - word: の
-      position: 2
-    - word: お
-      base: 御
-      position: 3
-    - word: 百姓
-      position: 4
-    - word: さん
-      position: 6
-    - word: が
-      position: 8
 - id: Kaki-f000017
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -406,29 +126,6 @@
   sound_begin: 53320
   sound_end: 55720
   sentence: 稲のとりいれがすんだ時分に、
-  words:
-    - word: 稲
-      position: 0
-    - word: の
-      position: 1
-    - word: とり
-      base: 取る
-      position: 2
-    - word: いれ
-      base: 居る
-      position: 4
-    - word: が
-      position: 6
-    - word: すん
-      base: すむ
-      position: 7
-    - word: だ
-      base: た
-      position: 9
-    - word: 時分
-      position: 10
-    - word: に
-      position: 12
 - id: Kaki-f000018
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -437,16 +134,6 @@
   sound_begin: 55720
   sound_end: 56720
   sentence: 馬をひいて、
-  words:
-    - word: 馬
-      position: 0
-    - word: を
-      position: 1
-    - word: ひい
-      base: ひく
-      position: 2
-    - word: て
-      position: 4
 - id: Kaki-f000019
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -455,22 +142,6 @@
   sound_begin: 56720
   sound_end: 57920
   sentence: 買ひにきました。
-  words:
-    - word: 買
-      base: 買い
-      position: 0
-    - word: ひ
-      position: 1
-    - word: に
-      position: 2
-    - word: き
-      base: 来る
-      position: 3
-    - word: まし
-      base: ます
-      position: 4
-    - word: た
-      position: 6
 - id: Kaki-f000020
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -479,10 +150,6 @@
   sound_begin: 57920
   sound_end: 60160
   sentence: 「こんちは、
-  words:
-    - word: こんちは
-      base: 今日は
-      position: 1
 - id: Kaki-f000021
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -491,18 +158,6 @@
   sound_begin: 60160
   sound_end: 63080
   sentence: 今年もきたぜ。」
-  words:
-    - word: 今年
-      position: 0
-    - word: も
-      position: 2
-    - word: き
-      base: 来る
-      position: 3
-    - word: た
-      position: 4
-    - word: ぜ
-      position: 5
 - id: Kaki-f000022
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -511,20 +166,6 @@
   sound_begin: 63080
   sound_end: 65000
   sentence: 山浦のお百姓さんは、
-  words:
-    - word: 山浦
-      position: 0
-    - word: の
-      position: 2
-    - word: お
-      base: 御
-      position: 3
-    - word: 百姓
-      position: 4
-    - word: さん
-      position: 6
-    - word: は
-      position: 8
 - id: Kaki-f000023
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -533,15 +174,6 @@
   sound_begin: 65000
   sound_end: 66120
   sentence: ふとい声で、
-  words:
-    - word: ふとい
-      base: 太い
-      position: 0
-    - word: 声
-      position: 3
-    - word: で
-      base: だ
-      position: 4
 - id: Kaki-f000024
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -550,15 +182,6 @@
   sound_begin: 66120
   sound_end: 67440
   sentence: あいさつして、
-  words:
-    - word: あいさつ
-      base: 挨拶
-      position: 0
-    - word: し
-      base: 為る
-      position: 4
-    - word: て
-      position: 5
 - id: Kaki-f000025
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -567,30 +190,6 @@
   sound_begin: 67440
   sound_end: 71173
   sentence: 庭の柴戸口から入つてきました。
-  words:
-    - word: 庭
-      position: 0
-    - word: の
-      position: 1
-    - word: 柴戸
-      position: 2
-    - word: 口
-      position: 4
-    - word: から
-      position: 5
-    - word: 入つ
-      base: 入る
-      position: 7
-    - word: て
-      position: 9
-    - word: き
-      base: 来る
-      position: 10
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
 - id: Kaki-f000026
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -599,9 +198,6 @@
   sound_begin: 71173
   sound_end: 72160
   sentence: 「どう／＼。」
-  words:
-    - word: どう
-      position: 1
 - id: Kaki-f000027
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -610,14 +206,6 @@
   sound_begin: 72160
   sound_end: 73680
   sentence: といひながら、
-  words:
-    - word: と
-      position: 0
-    - word: いひ
-      base: 言う
-      position: 1
-    - word: ながら
-      position: 3
 - id: Kaki-f000028
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -626,25 +214,6 @@
   sound_begin: 73680
   sound_end: 76120
   sentence: 馬を戸口につないでおいて、
-  words:
-    - word: 馬
-      position: 0
-    - word: を
-      position: 1
-    - word: 戸口
-      position: 2
-    - word: に
-      position: 4
-    - word: つない
-      base: 繋ぐ
-      position: 5
-    - word: で
-      position: 8
-    - word: おい
-      base: おく
-      position: 9
-    - word: て
-      position: 11
 - id: Kaki-f000029
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -653,32 +222,6 @@
   sound_begin: 76120
   sound_end: 80120
   sentence: 縁がはへきて腰をかけました。
-  words:
-    - word: 縁
-      position: 0
-    - word: が
-      position: 1
-    - word: は
-      position: 2
-    - word: へ
-      position: 3
-    - word: き
-      base: 来る
-      position: 4
-    - word: て
-      position: 5
-    - word: 腰
-      position: 6
-    - word: を
-      position: 7
-    - word: かけ
-      base: 掛ける
-      position: 8
-    - word: まし
-      base: ます
-      position: 10
-    - word: た
-      position: 12
 - id: Kaki-f000030
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -687,27 +230,6 @@
   sound_begin: 80120
   sound_end: 84000
   sentence: なた豆煙管でたばこをすぱ／＼ふかしながら、
-  words:
-    - word: なた豆
-      base: 鉈豆
-      position: 0
-    - word: 煙管
-      base: キセル
-      position: 3
-    - word: で
-      position: 5
-    - word: たばこ
-      base: タバコ
-      position: 6
-    - word: を
-      position: 9
-    - word: すぱ
-      position: 10
-    - word: ふかし
-      base: ふかす
-      position: 14
-    - word: ながら
-      position: 17
 - id: Kaki-f000031
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -716,24 +238,6 @@
   sound_begin: 84000
   sound_end: 85920
   sentence: おばあさんやお母さんと、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: ばあ
-      base: 婆
-      position: 1
-    - word: さん
-      position: 3
-    - word: や
-      position: 5
-    - word: お
-      base: 御
-      position: 6
-    - word: 母さん
-      position: 7
-    - word: と
-      position: 10
 - id: Kaki-f000032
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -742,38 +246,6 @@
   sound_begin: 85920
   sound_end: 90160
   sentence: 一年ぶりのあいさつをするお百姓さんの姿を、
-  words:
-    - word: 一
-      base: '1'
-      position: 0
-    - word: 年
-      position: 1
-    - word: ぶり
-      base: 振り
-      position: 2
-    - word: の
-      position: 4
-    - word: あいさつ
-      base: 挨拶
-      position: 5
-    - word: を
-      position: 9
-    - word: する
-      base: 為る
-      position: 10
-    - word: お
-      base: 御
-      position: 12
-    - word: 百姓
-      position: 13
-    - word: さん
-      position: 15
-    - word: の
-      position: 17
-    - word: 姿
-      position: 18
-    - word: を
-      position: 19
 - id: Kaki-f000033
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -782,33 +254,6 @@
   sound_begin: 90160
   sound_end: 95240
   sentence: 私はわきの方から見てゐました。
-  words:
-    - word: 私
-      position: 0
-    - word: は
-      position: 1
-    - word: わき
-      base: 脇
-      position: 2
-    - word: の
-      position: 4
-    - word: 方
-      position: 5
-    - word: から
-      position: 6
-    - word: 見
-      base: 見る
-      position: 8
-    - word: て
-      position: 9
-    - word: ゐ
-      base: 居る
-      position: 10
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
 - id: Kaki-f000034
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -817,21 +262,6 @@
   sound_begin: 95240
   sound_end: 97320
   sentence: 同じお百姓さんでも、
-  words:
-    - word: 同じ
-      position: 0
-    - word: お
-      base: 御
-      position: 2
-    - word: 百姓
-      position: 3
-    - word: さん
-      position: 5
-    - word: で
-      base: だ
-      position: 7
-    - word: も
-      position: 8
 - id: Kaki-f000035
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -840,16 +270,6 @@
   sound_begin: 97320
   sound_end: 98920
   sentence: 山浦といへば、
-  words:
-    - word: 山浦
-      position: 0
-    - word: と
-      position: 2
-    - word: いへ
-      base: 言う
-      position: 3
-    - word: ば
-      position: 5
 - id: Kaki-f000036
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -858,17 +278,6 @@
   sound_begin: 98920
   sound_end: 100960
   sentence: 大きな山の裾野の、
-  words:
-    - word: 大きな
-      position: 0
-    - word: 山
-      position: 3
-    - word: の
-      position: 4
-    - word: 裾野
-      position: 5
-    - word: の
-      position: 7
 - id: Kaki-f000037
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -877,22 +286,6 @@
   sound_begin: 100960
   sound_end: 103680
   sentence: 本場のお百姓さんですから、
-  words:
-    - word: 本場
-      position: 0
-    - word: の
-      position: 2
-    - word: お
-      base: 御
-      position: 3
-    - word: 百姓
-      position: 4
-    - word: さん
-      position: 6
-    - word: です
-      position: 8
-    - word: から
-      position: 10
 - id: Kaki-f000038
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -901,32 +294,6 @@
   sound_begin: 103680
   sound_end: 107280
   sentence: 私の村のお百姓さんたちにくらべると、
-  words:
-    - word: 私
-      position: 0
-    - word: の
-      position: 1
-    - word: 村
-      position: 2
-    - word: の
-      position: 3
-    - word: お
-      base: 御
-      position: 4
-    - word: 百姓
-      position: 5
-    - word: さん
-      position: 7
-    - word: たち
-      base: 達
-      position: 9
-    - word: に
-      position: 11
-    - word: くらべる
-      base: 比べる
-      position: 12
-    - word: と
-      position: 16
 - id: Kaki-f000039
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -935,12 +302,6 @@
   sound_begin: 107280
   sound_end: 108720
   sentence: 姿かたちから、
-  words:
-    - word: 姿かたち
-      base: 姿形
-      position: 0
-    - word: から
-      position: 4
 - id: Kaki-f000040
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -949,12 +310,6 @@
   sound_begin: 108720
   sound_end: 110160
   sentence: 言葉つきまで、
-  words:
-    - word: 言葉つき
-      base: 言葉付き
-      position: 0
-    - word: まで
-      position: 4
 - id: Kaki-f000041
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -963,31 +318,6 @@
   sound_begin: 110160
   sound_end: 114360
   sentence: がつしりした力が感じられました。
-  words:
-    - word: がつ
-      position: 0
-    - word: しり
-      position: 2
-    - word: し
-      base: 為る
-      position: 4
-    - word: た
-      position: 5
-    - word: 力
-      position: 6
-    - word: が
-      position: 7
-    - word: 感じ
-      base: 感ずる
-      position: 8
-    - word: られ
-      base: られる
-      position: 10
-    - word: まし
-      base: ます
-      position: 12
-    - word: た
-      position: 14
 - id: Kaki-f000042
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -996,15 +326,6 @@
   sound_begin: 114360
   sound_end: 116200
   sentence: 幼い私には、
-  words:
-    - word: 幼い
-      position: 0
-    - word: 私
-      position: 2
-    - word: に
-      position: 3
-    - word: は
-      position: 4
 - id: Kaki-f000043
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1013,12 +334,6 @@
   sound_begin: 116200
   sound_end: 116600
   sentence: それが、
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: が
-      position: 2
 - id: Kaki-f000044
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1027,21 +342,6 @@
   sound_begin: 116600
   sound_end: 118135
   sentence: 何だかこはいやうな、
-  words:
-    - word: 何
-      position: 0
-    - word: だ
-      position: 1
-    - word: かこ
-      position: 2
-    - word: はい
-      position: 4
-    - word: やう
-      base: 様
-      position: 6
-    - word: な
-      base: だ
-      position: 8
 - id: Kaki-f000045
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1050,24 +350,6 @@
   sound_begin: 118135
   sound_end: 119840
   sentence: 親みにくいやうなものに、
-  words:
-    - word: 親み
-      base: 親身
-      position: 0
-    - word: にくい
-      base: 難い
-      position: 2
-    - word: やう
-      base: 様
-      position: 5
-    - word: な
-      base: だ
-      position: 7
-    - word: もの
-      base: 物
-      position: 8
-    - word: に
-      position: 10
 - id: Kaki-f000046
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1076,25 +358,6 @@
   sound_begin: 119840
   sound_end: 121780
   sentence: おもはれたものでした。
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: も
-      position: 1
-    - word: はれ
-      base: はれる
-      position: 2
-    - word: た
-      position: 4
-    - word: もの
-      base: 物
-      position: 5
-    - word: でし
-      base: です
-      position: 7
-    - word: た
-      position: 9
 - id: Kaki-f000047
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1103,13 +366,6 @@
   sound_begin: 123880
   sound_end: 125200
   sentence: そんな大男が、
-  words:
-    - word: そんな
-      position: 0
-    - word: 大男
-      position: 3
-    - word: が
-      position: 5
 - id: Kaki-f000048
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1118,28 +374,6 @@
   sound_begin: 125200
   sound_end: 127760
   sentence: 腰にビクをゆはひつけて、
-  words:
-    - word: 腰
-      position: 0
-    - word: に
-      position: 1
-    - word: ビク
-      base: 魚籠
-      position: 2
-    - word: を
-      position: 4
-    - word: ゆ
-      base: ユ
-      position: 5
-    - word: は
-      position: 6
-    - word: ひ
-      position: 7
-    - word: つけ
-      base: つける
-      position: 8
-    - word: て
-      position: 10
 - id: Kaki-f000049
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1148,18 +382,6 @@
   sound_begin: 127760
   sound_end: 129400
   sentence: する／＼と身がるく、
-  words:
-    - word: する
-      base: 為る
-      position: 0
-    - word: と
-      position: 4
-    - word: 身がる
-      base: 身軽
-      position: 5
-    - word: く
-      base: 来る
-      position: 8
 - id: Kaki-f000050
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1168,24 +390,6 @@
   sound_begin: 129400
   sound_end: 131921
   sentence: 高い木のてつぺんまで一息に、
-  words:
-    - word: 高い
-      position: 0
-    - word: 木
-      position: 2
-    - word: の
-      position: 3
-    - word: てつ
-      base: 鉄
-      position: 4
-    - word: ぺん
-      position: 6
-    - word: まで
-      position: 8
-    - word: 一息
-      position: 10
-    - word: に
-      position: 12
 - id: Kaki-f000051
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1194,22 +398,6 @@
   sound_begin: 131921
   sound_end: 133560
   sentence: 登つてゆくのには、
-  words:
-    - word: 登
-      position: 0
-    - word: つ
-      position: 1
-    - word: て
-      position: 2
-    - word: ゆく
-      base: 行く
-      position: 3
-    - word: の
-      position: 5
-    - word: に
-      position: 6
-    - word: は
-      position: 7
 - id: Kaki-f000052
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1218,22 +406,6 @@
   sound_begin: 133560
   sound_end: 137040
   sentence: 私はびつくりしました。
-  words:
-    - word: 私
-      position: 0
-    - word: は
-      position: 1
-    - word: びつくり
-      base: びっくり
-      position: 2
-    - word: し
-      base: 為る
-      position: 6
-    - word: まし
-      base: ます
-      position: 7
-    - word: た
-      position: 9
 - id: Kaki-f000053
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1242,13 +414,6 @@
   sound_begin: 137040
   sound_end: 138080
   sentence: 山浦には、
-  words:
-    - word: 山浦
-      position: 0
-    - word: に
-      position: 2
-    - word: は
-      position: 3
 - id: Kaki-f000054
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1257,26 +422,6 @@
   sound_begin: 138080
   sound_end: 140160
   sentence: 猿が住んでゐるといふから、
-  words:
-    - word: 猿
-      position: 0
-    - word: が
-      position: 1
-    - word: 住ん
-      base: 住む
-      position: 2
-    - word: で
-      position: 4
-    - word: ゐる
-      base: 居る
-      position: 5
-    - word: と
-      position: 7
-    - word: いふ
-      base: 言う
-      position: 8
-    - word: から
-      position: 10
 - id: Kaki-f000055
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1285,29 +430,6 @@
   sound_begin: 140160
   sound_end: 143120
   sentence: それで木登りが上手なのだらう、
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: で
-      position: 2
-    - word: 木登り
-      position: 3
-    - word: が
-      position: 6
-    - word: 上手
-      position: 7
-    - word: な
-      base: だ
-      position: 9
-    - word: の
-      position: 10
-    - word: だら
-      base: た
-      position: 11
-    - word: う
-      base: うー
-      position: 13
 - id: Kaki-f000056
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1316,16 +438,6 @@
   sound_begin: 143120
   sound_end: 144400
   sentence: などとおもひながら、
-  words:
-    - word: など
-      position: 0
-    - word: と
-      position: 2
-    - word: おもひ
-      base: 思う
-      position: 3
-    - word: ながら
-      position: 6
 - id: Kaki-f000057
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1334,25 +446,6 @@
   sound_begin: 144400
   sound_end: 146505
   sentence: 見あげてゐますうちに、
-  words:
-    - word: 見
-      base: 見る
-      position: 0
-    - word: あげ
-      base: 上げる
-      position: 1
-    - word: て
-      position: 3
-    - word: ゐ
-      base: 居る
-      position: 4
-    - word: ます
-      position: 5
-    - word: うち
-      base: 内
-      position: 7
-    - word: に
-      position: 9
 - id: Kaki-f000058
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1361,15 +454,6 @@
   sound_begin: 146505
   sound_end: 148680
   sentence: 一枝々々と、
-  words:
-    - word: 一枝
-      position: 0
-    - word: 々
-      position: 2
-    - word: 々
-      position: 3
-    - word: と
-      position: 4
 - id: Kaki-f000059
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1378,31 +462,6 @@
   sound_begin: 148680
   sound_end: 151325
   sentence: 赤い実を持つてたわんでゐたのが、
-  words:
-    - word: 赤い
-      position: 0
-    - word: 実
-      position: 2
-    - word: を
-      position: 3
-    - word: 持つ
-      position: 4
-    - word: て
-      position: 6
-    - word: たわん
-      base: 撓む
-      position: 7
-    - word: で
-      position: 10
-    - word: ゐ
-      base: 居る
-      position: 11
-    - word: た
-      position: 12
-    - word: の
-      position: 13
-    - word: が
-      position: 14
 - id: Kaki-f000060
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1411,29 +470,6 @@
   sound_begin: 151325
   sound_end: 154560
   sentence: ほつそりと尖つた枝ばかりになります。
-  words:
-    - word: ほつ
-      position: 0
-    - word: そり
-      position: 2
-    - word: と
-      position: 4
-    - word: 尖
-      position: 5
-    - word: つた
-      base: 蔦
-      position: 6
-    - word: 枝
-      position: 8
-    - word: ばかり
-      position: 9
-    - word: に
-      position: 12
-    - word: なり
-      base: 成る
-      position: 13
-    - word: ます
-      position: 15
 - id: Kaki-f000061
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1442,45 +478,6 @@
   sound_begin: 156260
   sound_end: 162800
   sentence: 柿はみんなお百姓さんのビクの中へ入つて行きました。
-  words:
-    - word: 柿
-      position: 0
-    - word: は
-      position: 1
-    - word: みんな
-      base: 皆
-      position: 2
-    - word: お
-      base: 御
-      position: 5
-    - word: 百姓
-      position: 6
-    - word: さん
-      position: 8
-    - word: の
-      position: 10
-    - word: ビク
-      base: 魚籠
-      position: 11
-    - word: の
-      position: 13
-    - word: 中
-      position: 14
-    - word: へ
-      position: 15
-    - word: 入つ
-      base: 入る
-      position: 16
-    - word: て
-      position: 18
-    - word: 行き
-      base: 行く
-      position: 19
-    - word: まし
-      base: ます
-      position: 21
-    - word: た
-      position: 23
 - id: Kaki-f000062
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1489,22 +486,6 @@
   sound_begin: 162800
   sound_end: 164720
   sentence: お昼どきになりますと、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 昼どき
-      base: 昼時
-      position: 1
-    - word: に
-      position: 4
-    - word: なり
-      base: 成る
-      position: 5
-    - word: ます
-      position: 7
-    - word: と
-      position: 9
 - id: Kaki-f000063
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1513,16 +494,6 @@
   sound_begin: 164720
   sound_end: 165920
   sentence: お百姓さんは、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 百姓
-      position: 1
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
 - id: Kaki-f000064
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1531,21 +502,6 @@
   sound_begin: 165920
   sound_end: 167800
   sentence: 木からおりてきて、
-  words:
-    - word: 木
-      position: 0
-    - word: から
-      position: 1
-    - word: おり
-      base: 下りる
-      position: 3
-    - word: て
-      position: 5
-    - word: き
-      base: 来る
-      position: 6
-    - word: て
-      position: 7
 - id: Kaki-f000065
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1554,23 +510,6 @@
   sound_begin: 167800
   sound_end: 171109
   sentence: 縁がはへ腰かけました。
-  words:
-    - word: 縁
-      position: 0
-    - word: が
-      position: 1
-    - word: は
-      position: 2
-    - word: へ
-      position: 3
-    - word: 腰かけ
-      base: 腰掛ける
-      position: 4
-    - word: まし
-      base: ます
-      position: 7
-    - word: た
-      position: 9
 - id: Kaki-f000066
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1579,32 +518,6 @@
   sound_begin: 171109
   sound_end: 173400
   sentence: おばあさんの入れてあげるお茶は、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: ばあ
-      base: 婆
-      position: 1
-    - word: さん
-      position: 3
-    - word: の
-      position: 5
-    - word: 入れ
-      base: 入れる
-      position: 6
-    - word: て
-      position: 8
-    - word: あげる
-      base: 上げる
-      position: 9
-    - word: お
-      base: 御
-      position: 12
-    - word: 茶
-      position: 13
-    - word: は
-      position: 14
 - id: Kaki-f000067
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1613,30 +526,6 @@
   sound_begin: 173400
   sound_end: 175520
   sentence: うまさうにして飲みましたが、
-  words:
-    - word: うま
-      base: 旨い
-      position: 0
-    - word: さ
-      position: 2
-    - word: うに
-      base: 雲丹
-      position: 3
-    - word: し
-      base: 為る
-      position: 5
-    - word: て
-      position: 6
-    - word: 飲み
-      base: 飲む
-      position: 7
-    - word: まし
-      base: ます
-      position: 9
-    - word: た
-      position: 11
-    - word: が
-      position: 12
 - id: Kaki-f000068
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1645,33 +534,6 @@
   sound_begin: 175520
   sound_end: 180240
   sentence: 御膳には箸をつけませんでした。
-  words:
-    - word: 御
-      position: 0
-    - word: 膳
-      position: 1
-    - word: に
-      position: 2
-    - word: は
-      position: 3
-    - word: 箸
-      position: 4
-    - word: を
-      position: 5
-    - word: つけ
-      base: つける
-      position: 6
-    - word: ませ
-      base: ます
-      position: 8
-    - word: ん
-      base: ず
-      position: 10
-    - word: でし
-      base: です
-      position: 11
-    - word: た
-      position: 13
 - id: Kaki-f000069
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1680,12 +542,6 @@
   sound_begin: 180240
   sound_end: 180880
   sentence: 「いんえ、
-  words:
-    - word: いん
-      base: 居る
-      position: 1
-    - word: え
-      position: 3
 - id: Kaki-f000070
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1694,17 +550,6 @@
   sound_begin: 180880
   sound_end: 181960
   sentence: ここにあるだ。」
-  words:
-    - word: ここ
-      base: 此処
-      position: 0
-    - word: に
-      position: 2
-    - word: ある
-      base: 有る
-      position: 3
-    - word: だ
-      position: 5
 - id: Kaki-f000071
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1713,15 +558,6 @@
   sound_begin: 181960
   sound_end: 183720
   sentence: かう云つて、
-  words:
-    - word: かう
-      base: こう
-      position: 0
-    - word: 云つ
-      base: 言う
-      position: 2
-    - word: て
-      position: 4
 - id: Kaki-f000072
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1730,30 +566,6 @@
   sound_begin: 183720
   sound_end: 187120
   sentence: ふろしき包みをひろげたのを見ますと、
-  words:
-    - word: ふろしき
-      base: 風呂敷
-      position: 0
-    - word: 包み
-      position: 4
-    - word: を
-      position: 6
-    - word: ひろげ
-      base: 広げる
-      position: 7
-    - word: た
-      position: 10
-    - word: の
-      position: 11
-    - word: を
-      position: 12
-    - word: 見
-      base: 見る
-      position: 13
-    - word: ます
-      position: 14
-    - word: と
-      position: 16
 - id: Kaki-f000073
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1762,25 +574,6 @@
   sound_begin: 187120
   sound_end: 189676
   sentence: お百姓さんの顔ほどもある、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 百姓
-      position: 1
-    - word: さん
-      position: 3
-    - word: の
-      position: 5
-    - word: 顔
-      position: 6
-    - word: ほど
-      position: 7
-    - word: も
-      position: 9
-    - word: ある
-      base: 有る
-      position: 10
 - id: Kaki-f000074
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1789,27 +582,6 @@
   sound_begin: 189676
   sound_end: 193920
   sentence: 大きなおにぎりが出てきました。
-  words:
-    - word: 大きな
-      position: 0
-    - word: おにぎり
-      base: 御握り
-      position: 3
-    - word: が
-      position: 7
-    - word: 出
-      base: 出る
-      position: 8
-    - word: て
-      position: 9
-    - word: き
-      base: 来る
-      position: 10
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
 - id: Kaki-f000075
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1818,24 +590,6 @@
   sound_begin: 193920
   sound_end: 196040
   sentence: 私はふしぎさうにして、
-  words:
-    - word: 私
-      position: 0
-    - word: は
-      position: 1
-    - word: ふしぎ
-      base: 不思議
-      position: 2
-    - word: さう
-      base: そう
-      position: 5
-    - word: に
-      position: 7
-    - word: し
-      base: 為る
-      position: 8
-    - word: て
-      position: 9
 - id: Kaki-f000076
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1844,27 +598,6 @@
   sound_begin: 196040
   sound_end: 198920
   sentence: お百姓さんがおにぎりを食べるのを、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 百姓
-      position: 1
-    - word: さん
-      position: 3
-    - word: が
-      position: 5
-    - word: おにぎり
-      base: 御握り
-      position: 6
-    - word: を
-      position: 10
-    - word: 食べる
-      position: 11
-    - word: の
-      position: 14
-    - word: を
-      position: 15
 - id: Kaki-f000077
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1873,28 +606,6 @@
   sound_begin: 198920
   sound_end: 200960
   sentence: わきに立つて見てゐますと、
-  words:
-    - word: わき
-      base: 脇
-      position: 0
-    - word: に
-      position: 2
-    - word: 立つ
-      position: 3
-    - word: て
-      position: 5
-    - word: 見
-      base: 見る
-      position: 6
-    - word: て
-      position: 7
-    - word: ゐ
-      base: 居る
-      position: 8
-    - word: ます
-      position: 9
-    - word: と
-      position: 11
 - id: Kaki-f000078
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1903,10 +614,6 @@
   sound_begin: 200960
   sound_end: 202920
   sentence: 「こりや、
-  words:
-    - word: こりや
-      base: 此れ
-      position: 1
 - id: Kaki-f000079
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1915,24 +622,6 @@
   sound_begin: 202920
   sound_end: 204560
   sentence: お前さまの孫つこかえ。」
-  words:
-    - word: お前
-      base: 御前
-      position: 0
-    - word: さま
-      base: 様
-      position: 2
-    - word: の
-      position: 4
-    - word: 孫
-      position: 5
-    - word: つこ
-      base: っこ
-      position: 6
-    - word: か
-      position: 8
-    - word: え
-      position: 9
 - id: Kaki-f000080
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1941,17 +630,6 @@
   sound_begin: 204560
   sound_end: 207710
   sentence: と言ひました。
-  words:
-    - word: と
-      position: 0
-    - word: 言ひ
-      base: 言う
-      position: 1
-    - word: まし
-      base: ます
-      position: 3
-    - word: た
-      position: 5
 - id: Kaki-f000081
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1960,22 +638,6 @@
   sound_begin: 207710
   sound_end: 210320
   sentence: おばあさんが笑ひながら、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: ばあ
-      base: 婆
-      position: 1
-    - word: さん
-      position: 3
-    - word: が
-      position: 5
-    - word: 笑ひ
-      base: 笑い
-      position: 6
-    - word: ながら
-      position: 8
 - id: Kaki-f000082
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1984,12 +646,6 @@
   sound_begin: 210320
   sound_end: 211120
   sentence: 「いゝえ、
-  words:
-    - word: いゝ
-      base: 良い
-      position: 1
-    - word: え
-      position: 3
 - id: Kaki-f000083
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -1998,26 +654,6 @@
   sound_begin: 211120
   sound_end: 213000
   sentence: どこの子か知らない子だよ。」
-  words:
-    - word: どこ
-      position: 0
-    - word: の
-      position: 2
-    - word: 子
-      position: 3
-    - word: か
-      position: 4
-    - word: 知ら
-      base: 知る
-      position: 5
-    - word: ない
-      position: 7
-    - word: 子
-      position: 9
-    - word: だ
-      position: 10
-    - word: よ
-      position: 11
 - id: Kaki-f000084
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -2026,16 +662,6 @@
   sound_begin: 213000
   sound_end: 215120
   sentence: と言ひますと、
-  words:
-    - word: と
-      position: 0
-    - word: 言ひ
-      base: 言う
-      position: 1
-    - word: ます
-      position: 3
-    - word: と
-      position: 5
 - id: Kaki-f000085
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -2044,10 +670,6 @@
   sound_begin: 215120
   sound_end: 215480
   sentence: 「ぢや、
-  words:
-    - word: ぢや
-      base: で
-      position: 1
 - id: Kaki-f000086
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -2056,24 +678,6 @@
   sound_begin: 215480
   sound_end: 217440
   sentence: 帰りにもらつて行くべ。
-  words:
-    - word: 帰り
-      position: 0
-    - word: に
-      position: 2
-    - word: もら
-      base: もる
-      position: 3
-    - word: つ
-      base: つう
-      position: 5
-    - word: て
-      position: 6
-    - word: 行く
-      position: 7
-    - word: べ
-      base: べい
-      position: 9
 - id: Kaki-f000087
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -2082,23 +686,6 @@
   sound_begin: 217440
   sound_end: 220240
   sentence: 馬に乗つけて──」
-  words:
-    - word: 馬
-      position: 0
-    - word: に
-      position: 1
-    - word: 乗
-      base: 乗り
-      position: 2
-    - word: つけ
-      base: つける
-      position: 3
-    - word: て
-      position: 5
-    - word: ─
-      position: 6
-    - word: ─
-      position: 7
 - id: Kaki-f000088
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -2107,38 +694,6 @@
   sound_begin: 220240
   sound_end: 225085
   sentence: 「あゝ柿と一しよに買つて行つておくれ。」
-  words:
-    - word: あゝ
-      base: ああ
-      position: 1
-    - word: 柿
-      position: 3
-    - word: と
-      position: 4
-    - word: 一しよ
-      base: 一緒
-      position: 5
-    - word: に
-      position: 8
-    - word: 買
-      base: 買い
-      position: 9
-    - word: つ
-      position: 10
-    - word: て
-      base: って
-      position: 11
-    - word: 行つ
-      base: 行う
-      position: 12
-    - word: て
-      position: 14
-    - word: お
-      base: 御
-      position: 15
-    - word: くれ
-      base: 呉れる
-      position: 16
 - id: Kaki-f000089
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -2147,11 +702,6 @@
   sound_begin: 225085
   sound_end: 226480
   sentence: 私は、
-  words:
-    - word: 私
-      position: 0
-    - word: は
-      position: 1
 - id: Kaki-f000090
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -2160,16 +710,6 @@
   sound_begin: 226480
   sound_end: 227720
   sentence: お百姓さんが、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 百姓
-      position: 1
-    - word: さん
-      position: 3
-    - word: が
-      position: 5
 - id: Kaki-f000091
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -2178,37 +718,6 @@
   sound_begin: 227720
   sound_end: 232288
   sentence: 何と言つて返事するかと思つてゐますと、
-  words:
-    - word: 何
-      position: 0
-    - word: と
-      position: 1
-    - word: 言つ
-      base: 言う
-      position: 2
-    - word: て
-      position: 4
-    - word: 返事
-      position: 5
-    - word: する
-      base: 為る
-      position: 7
-    - word: か
-      position: 9
-    - word: と
-      position: 10
-    - word: 思つ
-      base: 思う
-      position: 11
-    - word: て
-      position: 13
-    - word: ゐ
-      base: 居る
-      position: 14
-    - word: ます
-      position: 15
-    - word: と
-      position: 17
 - id: Kaki-f000092
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -2217,13 +726,6 @@
   sound_begin: 232288
   sound_end: 233360
   sentence: 「お前さま、
-  words:
-    - word: お前
-      base: 御前
-      position: 1
-    - word: さま
-      base: 様
-      position: 3
 - id: Kaki-f000093
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -2232,29 +734,6 @@
   sound_begin: 233360
   sound_end: 236080
   sentence: ことしは柿のなりがひどくいゝぜ。」
-  words:
-    - word: ことし
-      base: 今年
-      position: 0
-    - word: は
-      position: 3
-    - word: 柿
-      position: 4
-    - word: の
-      position: 5
-    - word: なり
-      base: 形
-      position: 6
-    - word: が
-      position: 8
-    - word: ひどく
-      base: 酷い
-      position: 9
-    - word: いゝ
-      base: 良い
-      position: 12
-    - word: ぜ
-      position: 14
 - id: Kaki-f000094
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -2263,12 +742,6 @@
   sound_begin: 236080
   sound_end: 238240
   sentence: とまるで、
-  words:
-    - word: と
-      position: 0
-    - word: まるで
-      base: 丸で
-      position: 1
 - id: Kaki-f000095
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -2277,23 +750,6 @@
   sound_begin: 238240
   sound_end: 240180
   sentence: 別の返事をしました。
-  words:
-    - word: 別
-      position: 0
-    - word: の
-      position: 1
-    - word: 返事
-      position: 2
-    - word: を
-      position: 4
-    - word: し
-      base: 為る
-      position: 5
-    - word: まし
-      base: ます
-      position: 6
-    - word: た
-      position: 8
 - id: Kaki-f000096
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -2302,16 +758,6 @@
   sound_begin: 242130
   sound_end: 243520
   sentence: お百姓さんは、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 百姓
-      position: 1
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
 - id: Kaki-f000097
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -2320,16 +766,6 @@
   sound_begin: 243520
   sound_end: 245480
   sentence: 昼ごはんをすますと、
-  words:
-    - word: 昼ごはん
-      base: 昼御飯
-      position: 0
-    - word: を
-      position: 4
-    - word: すます
-      position: 5
-    - word: と
-      position: 8
 - id: Kaki-f000098
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -2338,25 +774,6 @@
   sound_begin: 245480
   sound_end: 249536
   sentence: また柿もぎにとりかかりました。
-  words:
-    - word: また
-      base: 又
-      position: 0
-    - word: 柿もぎ
-      position: 2
-    - word: に
-      position: 5
-    - word: とり
-      base: 取る
-      position: 6
-    - word: かかり
-      base: 掛かる
-      position: 8
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
 - id: Kaki-f000099
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -2365,26 +782,6 @@
   sound_begin: 249536
   sound_end: 252504
   sentence: 夕方柿の一ぱい入つたカマスを、
-  words:
-    - word: 夕方
-      position: 0
-    - word: 柿
-      position: 2
-    - word: の
-      position: 3
-    - word: 一ぱい
-      base: 一杯
-      position: 4
-    - word: 入つ
-      base: 入る
-      position: 7
-    - word: た
-      position: 9
-    - word: カマス
-      base: かます
-      position: 10
-    - word: を
-      position: 13
 - id: Kaki-f000100
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -2393,26 +790,6 @@
   sound_begin: 252504
   sound_end: 254863
   sentence: 馬の背につけてかへるとき、
-  words:
-    - word: 馬
-      position: 0
-    - word: の
-      position: 1
-    - word: 背
-      position: 2
-    - word: に
-      position: 3
-    - word: つけ
-      base: つける
-      position: 4
-    - word: て
-      position: 6
-    - word: かへる
-      base: 返る
-      position: 7
-    - word: とき
-      base: 時
-      position: 10
 - id: Kaki-f000101
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -2421,16 +798,6 @@
   sound_begin: 254863
   sound_end: 257279
   sentence: お百姓さんは、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 百姓
-      position: 1
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
 - id: Kaki-f000102
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -2439,10 +806,6 @@
   sound_begin: 257279
   sound_end: 257802
   sentence: 「また、
-  words:
-    - word: また
-      base: 又
-      position: 1
 - id: Kaki-f000103
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -2451,14 +814,6 @@
   sound_begin: 257802
   sound_end: 259435
   sentence: あした来るぜ。」
-  words:
-    - word: あした
-      base: 明日
-      position: 0
-    - word: 来る
-      position: 3
-    - word: ぜ
-      position: 5
 - id: Kaki-f000104
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -2467,33 +822,6 @@
   sound_begin: 259435
   sound_end: 262640
   sentence: と言つて柴戸口を出て行きました。
-  words:
-    - word: と
-      position: 0
-    - word: 言つ
-      base: 言う
-      position: 1
-    - word: て
-      position: 3
-    - word: 柴戸
-      position: 4
-    - word: 口
-      position: 6
-    - word: を
-      position: 7
-    - word: 出
-      base: 出る
-      position: 8
-    - word: て
-      position: 9
-    - word: 行き
-      base: 行く
-      position: 10
-    - word: まし
-      base: ます
-      position: 12
-    - word: た
-      position: 14
 - id: Kaki-f000105
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -2502,18 +830,6 @@
   sound_begin: 264349
   sound_end: 266280
   sentence: つぎの日には、
-  words:
-    - word: つぎ
-      base: 次
-      position: 0
-    - word: の
-      position: 2
-    - word: 日
-      position: 3
-    - word: に
-      position: 4
-    - word: は
-      position: 5
 - id: Kaki-f000106
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -2522,17 +838,6 @@
   sound_begin: 266280
   sound_end: 267960
   sentence: 「また来年くるぜ。」
-  words:
-    - word: また
-      base: 又
-      position: 1
-    - word: 来年
-      position: 3
-    - word: くる
-      base: 来る
-      position: 5
-    - word: ぜ
-      position: 7
 - id: Kaki-f000107
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -2541,17 +846,6 @@
   sound_begin: 267960
   sound_end: 272080
   sentence: と言ひました。
-  words:
-    - word: と
-      position: 0
-    - word: 言ひ
-      base: 言う
-      position: 1
-    - word: まし
-      base: ます
-      position: 3
-    - word: た
-      position: 5
 - id: Kaki-f000108
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -2560,26 +854,6 @@
   sound_begin: 272080
   sound_end: 274480
   sentence: 私はおばあさんと一しよに、
-  words:
-    - word: 私
-      position: 0
-    - word: は
-      position: 1
-    - word: お
-      base: 御
-      position: 2
-    - word: ばあ
-      base: 婆
-      position: 3
-    - word: さん
-      position: 5
-    - word: と
-      position: 7
-    - word: 一しよ
-      base: 一緒
-      position: 8
-    - word: に
-      position: 11
 - id: Kaki-f000109
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -2588,24 +862,6 @@
   sound_begin: 274480
   sound_end: 277120
   sentence: 村みちのまがり角に立つて、
-  words:
-    - word: 村
-      position: 0
-    - word: みち
-      base: 道
-      position: 1
-    - word: の
-      position: 3
-    - word: まがり
-      position: 4
-    - word: 角
-      position: 7
-    - word: に
-      position: 8
-    - word: 立つ
-      position: 9
-    - word: て
-      position: 11
 - id: Kaki-f000110
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -2614,25 +870,6 @@
   sound_begin: 277120
   sound_end: 279760
   sentence: お百姓さんと馬のすがたが、
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 百姓
-      position: 1
-    - word: さん
-      position: 3
-    - word: と
-      position: 5
-    - word: 馬
-      position: 6
-    - word: の
-      position: 7
-    - word: すがた
-      base: 姿
-      position: 8
-    - word: が
-      position: 11
 - id: Kaki-f000111
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -2641,37 +878,6 @@
   sound_begin: 279760
   sound_end: 285579
   sentence: むかうの森にかくれてしまふまで見送りました。
-  words:
-    - word: むかう
-      base: 向かう
-      position: 0
-    - word: の
-      position: 3
-    - word: 森
-      position: 4
-    - word: に
-      position: 5
-    - word: かくれ
-      base: 隠れる
-      position: 6
-    - word: て
-      position: 9
-    - word: しまふ
-      base: 仕舞う
-      position: 10
-    - word: まで
-      position: 13
-    - word: 見
-      base: 見る
-      position: 15
-    - word: 送り
-      base: 送る
-      position: 16
-    - word: まし
-      base: ます
-      position: 18
-    - word: た
-      position: 20
 - id: Kaki-f000112
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -2680,15 +886,6 @@
   sound_begin: 285579
   sound_end: 286600
   sentence: 「おばあさん、
-  words:
-    - word: お
-      base: 御
-      position: 1
-    - word: ばあ
-      base: 婆
-      position: 2
-    - word: さん
-      position: 4
 - id: Kaki-f000113
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -2697,16 +894,6 @@
   sound_begin: 286600
   sound_end: 289400
   sentence: 来年つて遠いの？」
-  words:
-    - word: 来年
-      position: 0
-    - word: つて
-      base: 伝
-      position: 2
-    - word: 遠い
-      position: 4
-    - word: の
-      position: 6
 - id: Kaki-f000114
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -2715,19 +902,6 @@
   sound_begin: 289400
   sound_end: 291933
   sentence: 私はたづねました。
-  words:
-    - word: 私
-      position: 0
-    - word: は
-      position: 1
-    - word: たづね
-      base: 訪ねる
-      position: 2
-    - word: まし
-      base: ます
-      position: 5
-    - word: た
-      position: 7
 - id: Kaki-f000115
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -2736,14 +910,6 @@
   sound_begin: 291933
   sound_end: 293480
   sentence: 「あゝ遠いよ。」
-  words:
-    - word: あゝ
-      base: ああ
-      position: 1
-    - word: 遠い
-      position: 3
-    - word: よ
-      position: 5
 - id: Kaki-f000116
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -2752,35 +918,6 @@
   sound_begin: 293480
   sound_end: 296280
   sentence: とおばあさんはおつしやいました。
-  words:
-    - word: と
-      position: 0
-    - word: お
-      base: 御
-      position: 1
-    - word: ばあ
-      base: 婆
-      position: 2
-    - word: さん
-      position: 4
-    - word: は
-      position: 6
-    - word: おつ
-      base: 落ちる
-      position: 7
-    - word: し
-      base: き
-      position: 9
-    - word: や
-      position: 10
-    - word: い
-      base: 居る
-      position: 11
-    - word: まし
-      base: ます
-      position: 12
-    - word: た
-      position: 14
 - id: Kaki-f000117
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -2789,23 +926,6 @@
   sound_begin: 296280
   sound_end: 300240
   sentence: 「遠い来年」がつもりつもつて、
-  words:
-    - word: 遠い
-      position: 1
-    - word: 来年
-      position: 3
-    - word: が
-      position: 6
-    - word: つもり
-      base: 積もり
-      position: 7
-    - word: つ
-      position: 10
-    - word: もつ
-      base: 持つ
-      position: 11
-    - word: て
-      position: 13
 - id: Kaki-f000118
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -2814,17 +934,6 @@
   sound_begin: 300240
   sound_end: 301720
   sentence: 私の村には、
-  words:
-    - word: 私
-      position: 0
-    - word: の
-      position: 1
-    - word: 村
-      position: 2
-    - word: に
-      position: 3
-    - word: は
-      position: 4
 - id: Kaki-f000119
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -2833,14 +942,6 @@
   sound_begin: 301720
   sound_end: 302960
   sentence: 今ははや、
-  words:
-    - word: 今
-      position: 0
-    - word: は
-      position: 1
-    - word: はや
-      base: 早
-      position: 2
 - id: Kaki-f000120
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -2849,42 +950,6 @@
   sound_begin: 302960
   sound_end: 307280
   sentence: 馬をひいて柿を買ひに来るお百姓さんの姿も、
-  words:
-    - word: 馬
-      position: 0
-    - word: を
-      position: 1
-    - word: ひい
-      base: ひく
-      position: 2
-    - word: て
-      position: 4
-    - word: 柿
-      position: 5
-    - word: を
-      position: 6
-    - word: 買
-      base: 買い
-      position: 7
-    - word: ひ
-      position: 8
-    - word: に
-      position: 9
-    - word: 来る
-      position: 10
-    - word: お
-      base: 御
-      position: 12
-    - word: 百姓
-      position: 13
-    - word: さん
-      position: 15
-    - word: の
-      position: 17
-    - word: 姿
-      position: 18
-    - word: も
-      position: 19
 - id: Kaki-f000121
   author_japanese: 土田 耕平
   deck_name: Kaki
@@ -2893,23 +958,3 @@
   sound_begin: 307280
   sound_end: 309280
   sentence: 見られなくなつたさうです。
-  words:
-    - word: 見
-      base: 見る
-      position: 0
-    - word: られ
-      base: られる
-      position: 1
-    - word: なく
-      base: ない
-      position: 3
-    - word: なつ
-      base: 成る
-      position: 5
-    - word: た
-      position: 7
-    - word: さう
-      base: そう
-      position: 8
-    - word: です
-      position: 10

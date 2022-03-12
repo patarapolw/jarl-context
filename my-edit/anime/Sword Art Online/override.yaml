@@ -6,32 +6,6 @@
   sound: SwordArtOnlineS01E_01_0.00.52.427-0.00.56.723.mp3
   sentence: でも《ＳＡＯ》は—　《ナーヴギア》を開発した　茅場晶彦(かやばあきひこ)氏プロデュース！
   words:
-    - word: で
-      position: 0
-    - word: も
-      position: 1
-    - word: ＳＡＯ
-      base: sao
-      dictionary: sao
-      position: 3
-    - word: は
-      position: 7
-    - word: ナーヴギア
-      position: 11
-    - word: を
-      position: 17
-    - word: 開発
-      position: 18
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 20
-    - word: た
-      position: 21
-    - word: 茅場
-      position: 23
-    - word: 晶彦
-      position: 25
     - word: かや
       position: 28
       tags:
@@ -50,50 +24,16 @@
       position: 33
       tags:
         - silent
-    - word: 氏
-      position: 36
-    - word: プロデュース
-      position: 37
 - id: SwordArtOnlineS01_E01_0013
   deck_name: Sword Art Online
   translation: Better yet, it's the long-awaited VRMMORPG that we've all been waiting for!
   sound: SwordArtOnlineS01E_01_0.00.56.890-0.01.00.727.mp3
   sentence: しかも待望のＶＲ(バーチャル)ＭＭＯＲＰＧと　あっては　たぎるわ！
   words:
-    - word: しかも
-      base: 然も
-      position: 0
-    - word: 待望
-      position: 3
-    - word: の
-      position: 5
-    - word: ＶＲ
-      base: VR
-      dictionary: VR
-      position: 6
     - word: バーチャル
       position: 9
       tags:
         - silent
-    - word: ＭＭＯＲＰＧ
-      base: mmorpg
-      dictionary: mmorpg
-      position: 15
-    - word: と
-      position: 21
-    - word: あっ
-      base: 有る
-      dictionary: ある
-      position: 23
-    - word: て
-      position: 25
-    - word: は
-      position: 26
-    - word: たぎる
-      base: 滾る
-      position: 28
-    - word: わ
-      position: 31
 - id: SwordArtOnlineS01_E01_0016
   deck_name: Sword Art Online
   translation: >-
@@ -102,68 +42,16 @@
   sound: SwordArtOnlineS01E_01_0.01.08.193-0.01.12.280.mp3
   sentence: 店頭販売分は　さっきの映像のとおり　猛者(もさ)たちに　ゲットされちゃったしね
   words:
-    - word: 店頭
-      position: 0
-    - word: 販売
-      position: 2
-    - word: 分
-      position: 4
-    - word: は
-      position: 5
-    - word: さっき
-      position: 7
-    - word: の
-      position: 10
-    - word: 映像
-      position: 11
-    - word: の
-      position: 13
-    - word: とおり
-      base: 通り
-      position: 14
-    - word: 猛者
-      position: 18
     - word: もさ
       position: 21
       tags:
         - silent
-    - word: たち
-      base: 達
-      position: 24
-    - word: に
-      position: 26
-    - word: ゲット
-      position: 28
-    - word: さ
-      base: 為る
-      dictionary: する
-      position: 31
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 32
-    - word: ちゃっ
-      base: ちゃう
-      dictionary: ちゃう
-      position: 33
-    - word: た
-      position: 36
-    - word: し
-      position: 37
-    - word: ね
-      position: 38
 - id: SwordArtOnlineS01_E01_0105
   deck_name: Sword Art Online
   translation: Hurry and call the GMs.
   sound: SwordArtOnlineS01E_01_0.08.51.155-0.08.53.658.mp3
   sentence: さっさとＧＭ(ゲームマスター)コールしろよ
   words:
-    - word: さっさと
-      position: 0
-    - word: ＧＭ
-      base: GM
-      dictionary: GM
-      position: 4
     - word: ゲーム
       position: 7
       tags:
@@ -172,24 +60,12 @@
       position: 10
       tags:
         - silent
-    - word: コール
-      position: 15
-    - word: しろ
-      base: 為る
-      dictionary: する
-      position: 18
-    - word: よ
-      position: 20
 - id: SwordArtOnlineS01_E01_0135
   deck_name: Sword Art Online
   translation: A forced teleport?
   sound: SwordArtOnlineS01E_01_0.11.19.303-0.11.21.263.mp3
   sentence: 強制転移(テレポート)？
   words:
-    - word: 強制
-      position: 0
-    - word: 転移
-      position: 2
     - word: テレポート
       position: 5
       tags:
@@ -200,39 +76,21 @@
   sound: SwordArtOnlineS01E_01_0.20.03.410-0.20.04.661.mp3
   sentence: 悪(わり)い
   words:
-    - word: 悪
-      position: 0
     - word: わり
       base: 割
       position: 2
       tags:
         - silent
-    - word: い
-      position: 5
 - id: SwordArtOnlineS01_E02_0302
   deck_name: Sword Art Online
   translation: His arms consist of an axe and a buckler.
   sound: SwordArtOnlineS01E_02_0.06.59.627-0.07.02.213.mp3
   sentence: ボスの武器は斧(おの)とバックラー
   words:
-    - word: ボス
-      position: 0
-    - word: の
-      position: 2
-    - word: 武器
-      position: 3
-    - word: は
-      position: 5
-    - word: 斧
-      position: 6
     - word: おの
       position: 8
       tags:
         - silent
-    - word: と
-      position: 11
-    - word: バックラー
-      position: 12
 - id: SwordArtOnlineS01_E02_0303
   deck_name: Sword Art Online
   translation: >-
@@ -241,271 +99,68 @@
   sound: SwordArtOnlineS01E_02_0.07.02.505-0.07.09.178.mp3
   sentence: ４段あるＨＰバーの　最後の１段が赤くなると—　曲刀(きょくとう)カテゴリのタルワールに　武器を持ち替え—
   words:
-    - word: ４
-      base: '4'
-      dictionary: '4'
-      position: 0
-    - word: 段
-      position: 1
-    - word: ある
-      base: 有る
-      position: 2
-    - word: ＨＰ
-      base: HP
-      dictionary: HP
-      position: 4
-    - word: バー
-      position: 6
-    - word: の
-      position: 8
-    - word: 最後
-      position: 10
-    - word: の
-      position: 12
-    - word: １
-      base: '1'
-      dictionary: '1'
-      position: 13
-    - word: 段
-      position: 14
-    - word: が
-      position: 15
-    - word: 赤く
-      base: 赤い
-      dictionary: 赤い
-      position: 16
-    - word: なる
-      base: 成る
-      position: 18
-    - word: と
-      position: 20
-    - word: 曲
-      position: 23
-    - word: 刀
-      position: 24
     - word: きょくとう
       position: 26
       tags:
         - silent
-    - word: カテゴリ
-      base: カテゴリー
-      position: 32
-    - word: の
-      position: 36
-    - word: タルワール
-      position: 37
-    - word: に
-      position: 42
-    - word: 武器
-      position: 44
-    - word: を
-      position: 46
-    - word: 持ち
-      base: 持つ
-      dictionary: 持つ
-      position: 47
-    - word: 替え
-      base: 変える
-      dictionary: 替える
-      position: 49
 - id: SwordArtOnlineS01_E05_0975
   deck_name: Sword Art Online
   translation: So she's the Flash...
   sound: SwordArtOnlineS01E_05_0.06.17.710-0.06.19.921.mp3
   sentence: え〜っ！　あれが　閃光(せんこう)の…
   words:
-    - word: え〜っ
-      base: ええ
-      position: 0
-    - word: あれ
-      base: 彼れ
-      position: 5
-    - word: が
-      position: 7
-    - word: 閃光
-      position: 9
     - word: せんこう
       base: 潜航
       position: 12
       tags:
         - silent
-    - word: の
-      position: 17
 - id: SwordArtOnlineS01_E05_1115
   deck_name: Sword Art Online
   translation: A tank-class player called Schmitt.
   sound: SwordArtOnlineS01E_05_0.18.07.753-0.18.09.671.mp3
   sentence: シュミットという壁戦士(タンク)です
   words:
-    - word: シュミット
-      position: 0
-    - word: と
-      position: 5
-    - word: いう
-      base: 言う
-      position: 6
-    - word: 壁
-      position: 8
-    - word: 戦士
-      position: 9
     - word: タンク
       position: 12
       tags:
         - silent
-    - word: です
-      position: 16
 - id: SwordArtOnlineS01_E05_1118
   deck_name: Sword Art Online
   translation: He's the leader of the Divine Dragon Alliance's defenders.
   sound: SwordArtOnlineS01E_05_0.18.18.013-0.18.20.766.mp3
   sentence: 聖竜連合の　重装盾戦士(ディフェンダー)隊のリーダーよ
   words:
-    - word: 聖
-      position: 0
-    - word: 竜
-      position: 1
-    - word: 連合
-      position: 2
-    - word: の
-      position: 4
-    - word: 重装
-      position: 6
-    - word: 盾
-      position: 8
-    - word: 戦士
-      position: 9
     - word: ディフェンダー
       position: 12
       tags:
         - silent
-    - word: 隊
-      position: 20
-    - word: の
-      position: 21
-    - word: リーダー
-      position: 22
-    - word: よ
-      position: 26
 - id: SwordArtOnlineS01_E05_1141
   deck_name: Sword Art Online
   translation: I don't really want to admit it, but SAO's rules are fundamentally fair.
   sound: SwordArtOnlineS01E_05_0.19.39.136-0.19.45.392.mp3
   sentence: 認めるのも　ちょいと業腹だけど—　《ＳＡＯ》のルールは　基本的に　公正さ(フェアネス)を貫いてる
   words:
-    - word: 認める
-      position: 0
-    - word: の
-      position: 3
-    - word: も
-      position: 4
-    - word: ちょいと
-      base: 一寸
-      position: 6
-    - word: 業腹
-      position: 10
-    - word: だ
-      position: 12
-    - word: けど
-      base: けれど
-      position: 13
-    - word: ＳＡＯ
-      base: sao
-      dictionary: sao
-      position: 18
-    - word: の
-      position: 22
-    - word: ルール
-      position: 23
-    - word: は
-      position: 26
-    - word: 基本
-      position: 28
-    - word: 的
-      position: 30
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 31
-    - word: 公正
-      position: 33
-    - word: さ
-      position: 35
     - word: フェアネス
       position: 37
       tags:
         - silent
-    - word: を
-      position: 43
-    - word: 貫い
-      base: 貫く
-      dictionary: 貫く
-      position: 44
-    - word: てる
-      position: 46
 - id: SwordArtOnlineS01_E05_1152
   deck_name: Sword Art Online
   translation: Or maybe... Griselda-san is taking revenge.
   sound: SwordArtOnlineS01E_05_0.20.30.354-0.20.34.691.mp3
   sentence: もしかしたらグリセルダさん自身の　復讐(ふくしゅう)なのかもしれない
   words:
-    - word: もし
-      base: 若し
-      position: 0
-    - word: か
-      position: 2
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 3
-    - word: たら
-      base: た
-      dictionary: た
-      position: 4
-    - word: グリセルダ
-      position: 6
-    - word: さん
-      position: 11
-    - word: 自身
-      position: 13
-    - word: の
-      position: 15
-    - word: 復讐
-      position: 17
     - word: ふくしゅう
       base: 復習
       position: 20
       tags:
         - silent
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 26
-    - word: の
-      position: 27
-    - word: か
-      position: 28
-    - word: も
-      position: 29
-    - word: しれ
-      base: 知る
-      dictionary: しれる
-      position: 30
-    - word: ない
-      position: 32
 - id: SwordArtOnlineS01_E05_1161
   deck_name: Sword Art Online
   translation: by making us pay for her death with our lives.
   sound: SwordArtOnlineS01E_05_0.21.17.192-0.21.20.362.mp3
   sentence: グリセルダさんの敵(かたき)を討つ　権利があるんだわ
   words:
-    - word: グリセルダ
-      position: 0
-    - word: さん
-      position: 5
-    - word: の
-      position: 7
-    - word: 敵
-      position: 8
     - word: かた
       base: 方
       position: 10
@@ -515,105 +170,29 @@
       position: 12
       tags:
         - silent
-    - word: を
-      position: 14
-    - word: 討つ
-      base: 打つ
-      position: 15
-    - word: 権利
-      position: 18
-    - word: が
-      position: 20
-    - word: ある
-      base: 有る
-      position: 21
-    - word: ん
-      base: の
-      position: 23
-    - word: だ
-      position: 24
-    - word: わ
-      position: 25
 - id: SwordArtOnlineS01_E06_1180
   deck_name: Sword Art Online
   translation: She rose from the dead to seek revenge!
   sound: SwordArtOnlineS01E_06_0.03.02.265-0.03.04.767.mp3
   sentence: 俺たち全員に復讐(ふくしゅう)に来たんだ
   words:
-    - word: 俺
-      position: 0
-    - word: たち
-      base: 達
-      position: 1
-    - word: 全員
-      position: 3
-    - word: に
-      position: 5
-    - word: 復讐
-      position: 6
     - word: ふくしゅう
       base: 復習
       position: 9
       tags:
         - silent
-    - word: に
-      position: 15
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 16
-    - word: た
-      position: 17
-    - word: ん
-      base: の
-      position: 18
-    - word: だ
-      position: 19
 - id: SwordArtOnlineS01_E06_1249
   deck_name: Sword Art Online
   translation: Back then, Caynz's armor was impaled by the spear.
   sound: SwordArtOnlineS01E_06_0.08.08.446-0.08.12.158.mp3
   sentence: あの時—　カインズのアーマーは　槍(やり)に貫通されてた
   words:
-    - word: あの
-      base: 彼の
-      position: 0
-    - word: 時
-      position: 2
-    - word: カインズ
-      position: 5
-    - word: の
-      position: 9
-    - word: アーマー
-      position: 10
-    - word: は
-      position: 14
-    - word: 槍
-      position: 16
     - word: やり
       base: 遣る
       dictionary: やる
       position: 18
       tags:
         - silent
-    - word: に
-      position: 21
-    - word: 貫通
-      position: 22
-    - word: さ
-      base: 為る
-      dictionary: する
-      position: 24
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 25
-    - word: て
-      base: てる
-      dictionary: てる
-      position: 26
-    - word: た
-      position: 27
 - id: SwordArtOnlineS01_E06_1317
   deck_name: Sword Art Online
   translation: >-
@@ -622,120 +201,39 @@
   sound: SwordArtOnlineS01E_06_0.14.39.587-0.14.44.341.mp3
   sentence: なら　もう隠蔽(いんぺい)とかのトラブルを　避けようと思ったら—　そうするしかないわ　それに—
   words:
-    - word: なら
-      base: だ
-      dictionary: だ
-      position: 0
-    - word: もう
-      position: 3
-    - word: 隠蔽
-      position: 5
     - word: いんぺい
       base: 隠蔽
       position: 8
       tags:
         - silent
-    - word: と
-      position: 13
-    - word: か
-      position: 14
-    - word: の
-      position: 15
-    - word: トラブル
-      position: 16
-    - word: を
-      position: 20
-    - word: 避けよう
-      base: 避ける
-      dictionary: 避ける
-      position: 22
-    - word: と
-      position: 26
-    - word: 思っ
-      base: 思う
-      dictionary: 思う
-      position: 27
-    - word: たら
-      base: た
-      dictionary: た
-      position: 29
-    - word: そう
-      position: 33
-    - word: する
-      base: 為る
-      position: 35
-    - word: しか
-      position: 37
-    - word: ない
-      base: 無い
-      position: 39
-    - word: わ
-      position: 41
-    - word: それ
-      base: 其れ
-      position: 43
-    - word: に
-      position: 45
 - id: SwordArtOnlineS01_E07_1557
   deck_name: Sword Art Online
   translation: Basically, that ingot is the dragon's excretion.
   sound: SwordArtOnlineS01E_07_0.13.34.396-0.13.38.192.mp3
   sentence: つまり　そのインゴットは　ドラゴンの排泄(はいせつ)物だ
   words:
-    - word: つまり
-      base: 詰まり
-      position: 0
-    - word: その
-      base: 其の
-      position: 4
-    - word: インゴット
-      position: 6
-    - word: は
-      position: 11
-    - word: ドラゴン
-      position: 13
-    - word: の
-      position: 17
-    - word: 排泄
-      position: 18
     - word: はいせつ
       base: 排泄
       position: 21
       tags:
         - silent
-    - word: 物
-      position: 26
-    - word: だ
-      position: 27
 - id: SwordArtOnlineS01_E08_1712
   deck_name: Sword Art Online
   translation: Isn't she Asuna-sama, "The Flash"?
   sound: SwordArtOnlineS01E_08_0.06.38.064-0.06.39.774.mp3
   sentence: 閃光(せんこう)のアスナ様じゃん！
   words:
-    - word: 閃光
-      position: 0
     - word: せんこう
       base: 潜航
       position: 3
       tags:
         - silent
-    - word: の
-      position: 8
-    - word: アスナ
-      position: 9
-    - word: 様
-      position: 12
-    - word: じゃん
-      position: 13
 - id: SwordArtOnlineS01_E08_1842
   deck_name: Sword Art Online
   translation: Having a skilled partner makes the fighting a lot easier...
   sound: SwordArtOnlineS01E_08_0.20.19.384-0.20.22.596.mp3
   sentence: 手練(てだ)れが１人いると　戦闘が安定するな
   words:
-    - word: 手練
-      position: 0
     - word: て
       base: で
       position: 3
@@ -745,52 +243,12 @@
       position: 4
       tags:
         - silent
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 6
-    - word: が
-      position: 7
-    - word: １人
-      base: 一人
-      dictionary: 1人
-      position: 8
-    - word: いる
-      base: 居る
-      position: 10
-    - word: と
-      position: 12
-    - word: 戦闘
-      position: 14
-    - word: が
-      position: 16
-    - word: 安定
-      position: 17
-    - word: する
-      base: 為る
-      position: 19
-    - word: な
-      position: 21
 - id: SwordArtOnlineS01_E09_1882
   deck_name: Sword Art Online
   translation: It's the result of a year of  training and experimentation.
   sound: SwordArtOnlineS01E_09_0.04.02.617-0.04.05.161.mp3
   sentence: １年の修行と研鑽(けんさん)の成果よ
   words:
-    - word: １
-      base: '1'
-      dictionary: '1'
-      position: 0
-    - word: 年
-      position: 1
-    - word: の
-      position: 2
-    - word: 修行
-      position: 3
-    - word: と
-      position: 5
-    - word: 研鑽
-      position: 6
     - word: けん
       position: 9
       tags:
@@ -799,209 +257,52 @@
       position: 11
       tags:
         - silent
-    - word: の
-      position: 14
-    - word: 成果
-      position: 15
-    - word: よ
-      position: 17
 - id: SwordArtOnlineS01_E09_2022
   deck_name: Sword Art Online
   translation: I'm a good guy, so me aside, it wouldn't be unlikely for people to envy you.
   sound: SwordArtOnlineS01E_09_0.17.58.869-0.18.04.291.mp3
   sentence: 俺は人間ができてるから　ともかく—　妬(ねた)み　そねみは　そりゃ　あるだろうなぁ
   words:
-    - word: 俺
-      position: 0
-    - word: は
-      position: 1
-    - word: 人間
-      position: 2
-    - word: が
-      position: 4
-    - word: でき
-      base: 出来る
-      dictionary: できる
-      position: 5
-    - word: てる
-      position: 7
-    - word: から
-      position: 9
-    - word: ともかく
-      base: 兎も角
-      position: 12
-    - word: 妬
-      position: 18
     - word: ねた
       position: 20
       tags:
         - silent
-    - word: み
-      position: 23
-    - word: そねみ
-      base: 嫉み
-      position: 25
-    - word: は
-      position: 28
-    - word: そりゃ
-      base: 其れ
-      position: 30
-    - word: ある
-      base: 有る
-      position: 34
-    - word: だろう
-      base: だ
-      dictionary: だ
-      position: 36
-    - word: なぁ
-      base: な
-      position: 39
 - id: SwordArtOnlineS01_E10_2157
   deck_name: Sword Art Online
   translation: I knew you were pretty dimwitted, but it looks like you're a total meathead!
   sound: SwordArtOnlineS01E_10_0.11.39.990-0.11.45.496.mp3
   sentence: バカだバカだと思っていたが—　あんた　筋金入りの　筋肉脳みそ(ノーキン)だな
   words:
-    - word: バカ
-      base: ばか
-      position: 0
-    - word: だ
-      position: 2
-    - word: バカ
-      base: ばか
-      position: 3
-    - word: だ
-      position: 5
-    - word: と
-      position: 6
-    - word: 思っ
-      base: 思う
-      dictionary: 思う
-      position: 7
-    - word: て
-      position: 9
-    - word: い
-      base: 居る
-      dictionary: いる
-      position: 10
-    - word: た
-      position: 11
-    - word: が
-      position: 12
-    - word: あんた
-      base: 貴方
-      position: 15
-    - word: 筋金
-      position: 19
-    - word: 入り
-      position: 21
-    - word: の
-      position: 23
-    - word: 筋肉
-      position: 25
-    - word: 脳
-      position: 27
-    - word: みそ
-      base: 味噌
-      position: 28
     - word: ノーキン
       position: 31
       tags:
         - silent
-    - word: だ
-      position: 36
-    - word: な
-      position: 37
 - id: SwordArtOnlineS01_E10_2204
   deck_name: Sword Art Online
   translation: You're too naïve, Vice Commander!
   sound: SwordArtOnlineS01E_10_0.16.40.374-0.16.44.253.mp3
   sentence: 甘(あめ)えんだよ　副団長様！　あっ！
   words:
-    - word: 甘
-      position: 0
     - word: あめ
       position: 2
       tags:
         - silent
-    - word: えん
-      position: 5
-    - word: だ
-      position: 7
-    - word: よ
-      position: 8
-    - word: 副
-      position: 10
-    - word: 団長
-      position: 11
-    - word: 様
-      position: 13
-    - word: あっ
-      position: 16
 - id: SwordArtOnlineS01_E11_2326
   deck_name: Sword Art Online
   translation: About a week ago, a woodcrafting player came here looking for wood.
   sound: SwordArtOnlineS01E_11_0.07.28.906-0.07.34.787.mp3
   sentence: １週間くらい前—　木工職人(ウッドクラフト)のプレイヤーが　木材を採りに来たんだ
   words:
-    - word: １
-      base: '1'
-      dictionary: '1'
-      position: 0
-    - word: 週間
-      position: 1
-    - word: くらい
-      position: 3
-    - word: 前
-      position: 6
-    - word: 木工
-      position: 9
-    - word: 職人
-      position: 11
     - word: ウッドクラフト
       position: 14
       tags:
         - silent
-    - word: の
-      position: 22
-    - word: プレイヤー
-      base: プレーヤー
-      position: 23
-    - word: が
-      position: 28
-    - word: 木材
-      position: 30
-    - word: を
-      position: 32
-    - word: 採り
-      base: 取り
-      position: 33
-    - word: に
-      position: 35
-    - word: 来
-      base: 来る
-      dictionary: 来る
-      position: 36
-    - word: た
-      position: 37
-    - word: ん
-      base: の
-      position: 38
-    - word: だ
-      position: 39
 - id: SwordArtOnlineS01_E12_2723
   deck_name: Sword Art Online
   translation: Cardinal— No, Kayaba!
   sound: SwordArtOnlineS01E_12_0.20.01.992-0.20.05.037.mp3
   sentence: カーディナル！　いや…　茅場(かやば)！
   words:
-    - word: カーディナル
-      position: 0
-    - word: いや
-      base: 否
-      position: 8
-    - word: 茅場
-      position: 12
     - word: かや
       position: 15
       tags:
@@ -1016,58 +317,17 @@
   sound: SwordArtOnlineS01E_13_0.04.09.123-0.04.13.127.mp3
   sentence: ものすごい力で　竿(さお)ごと　取られてしまいました
   words:
-    - word: ものすごい
-      base: 物凄い
-      position: 0
-    - word: 力
-      position: 5
-    - word: で
-      position: 6
-    - word: 竿
-      position: 8
     - word: さお
       base: 竿
       position: 10
       tags:
         - silent
-    - word: ごと
-      position: 13
-    - word: 取ら
-      base: 取る
-      dictionary: 取る
-      position: 16
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 18
-    - word: て
-      position: 19
-    - word: しまい
-      base: 仕舞う
-      dictionary: しまう
-      position: 20
-    - word: まし
-      base: ます
-      dictionary: ます
-      position: 23
-    - word: た
-      position: 25
 - id: SwordArtOnlineS01_E14_2982
   deck_name: Sword Art Online
   translation: Don't you agree, Kayaba Akihiko?
   sound: SwordArtOnlineS01E_14_0.04.33.439-0.04.35.650.mp3
   sentence: そうだろ　茅場晶彦(かやばあきひこ)
   words:
-    - word: そう
-      position: 0
-    - word: だろ
-      base: だ
-      dictionary: だ
-      position: 2
-    - word: 茅場
-      position: 5
-    - word: 晶彦
-      position: 7
     - word: かや
       position: 10
       tags:
@@ -1092,33 +352,6 @@
   sound: SwordArtOnlineS01E_14_0.05.50.850-0.05.56.731.mp3
   sentence: まあ　この想定外の展開も—　ネットワークＲＰＧの醍醐味(だいごみ)と　言うべきかな
   words:
-    - word: まあ
-      position: 0
-    - word: この
-      base: 此の
-      position: 3
-    - word: 想定
-      position: 5
-    - word: 外
-      position: 7
-    - word: の
-      position: 8
-    - word: 展開
-      position: 9
-    - word: も
-      position: 11
-    - word: ネットワーク
-      position: 14
-    - word: ＲＰＧ
-      base: RPG
-      dictionary: RPG
-      position: 20
-    - word: の
-      position: 23
-    - word: 醍醐
-      position: 24
-    - word: 味
-      position: 26
     - word: だい
       position: 28
       tags:
@@ -1128,26 +361,12 @@
       position: 30
       tags:
         - silent
-    - word: と
-      position: 33
-    - word: 言う
-      position: 35
-    - word: べき
-      base: べし
-      dictionary: べし
-      position: 37
-    - word: か
-      position: 39
-    - word: な
-      position: 40
 - id: SwordArtOnlineS01_E14_2999
   deck_name: Sword Art Online
   translation: Paralysis?
   sound: SwordArtOnlineS01E_14_0.06.10.995-0.06.12.038.mp3
   sentence: 麻痺(まひ)？
   words:
-    - word: 麻痺
-      position: 0
     - word: まひ
       base: 麻痺
       position: 3
@@ -1159,55 +378,17 @@
   sound: SwordArtOnlineS01E_14_0.06.25.343-0.06.28.054.mp3
   sentence: この場で全員　殺して　隠蔽(いんぺい)する気か？
   words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: 場
-      position: 2
-    - word: で
-      position: 3
-    - word: 全員
-      position: 4
-    - word: 殺し
-      base: 殺す
-      dictionary: 殺す
-      position: 7
-    - word: て
-      position: 9
-    - word: 隠蔽
-      position: 11
     - word: いんぺい
       base: 隠蔽
       position: 14
       tags:
         - silent
-    - word: する
-      base: 為る
-      position: 19
-    - word: 気
-      position: 21
-    - word: か
-      position: 22
 - id: SwordArtOnlineS01_E14_3005
   deck_name: Sword Art Online
   translation: Within the Ruby Palace on the top floor, I shall await for your arrival.
   sound: SwordArtOnlineS01E_14_0.06.34.477-0.06.39.941.mp3
   sentence: 私は最上層の紅玉宮(こうぎょくきゅう)にて　君たちの訪れを待つことにするよ
   words:
-    - word: 私
-      position: 0
-    - word: は
-      position: 1
-    - word: 最
-      position: 2
-    - word: 上層
-      position: 3
-    - word: の
-      position: 5
-    - word: 紅玉
-      position: 6
-    - word: 宮
-      position: 8
     - word: こうぎょく
       position: 10
       tags:
@@ -1217,38 +398,12 @@
       position: 15
       tags:
         - silent
-    - word: にて
-      position: 19
-    - word: 君
-      position: 22
-    - word: たち
-      base: 達
-      position: 23
-    - word: の
-      position: 25
-    - word: 訪れ
-      position: 26
-    - word: を
-      position: 28
-    - word: 待つ
-      position: 29
-    - word: こと
-      position: 31
-    - word: に
-      position: 33
-    - word: する
-      base: 為る
-      position: 34
-    - word: よ
-      position: 36
 - id: SwordArtOnlineS01_E14_3098
   deck_name: Sword Art Online
   translation: Kirigaya. Kirigaya Kazuto.
   sound: SwordArtOnlineS01E_14_0.19.38.218-0.19.41.013.mp3
   sentence: 桐ヶ谷(きりがや)…　桐ヶ谷和人(かずと)
   words:
-    - word: 桐ヶ谷
-      position: 0
     - word: きり
       position: 4
       tags:
@@ -1261,10 +416,6 @@
       position: 7
       tags:
         - silent
-    - word: 桐ヶ谷
-      position: 11
-    - word: 和人
-      position: 14
     - word: かず
       base: 数
       position: 17
@@ -1280,16 +431,6 @@
   sound: SwordArtOnlineS01E_14_0.19.50.230-0.19.54.651.mp3
   sentence: 私はね　結城明日奈(ゆうきあすな)　17歳です
   words:
-    - word: 私
-      position: 0
-    - word: は
-      position: 1
-    - word: ね
-      position: 2
-    - word: 結城
-      position: 4
-    - word: 明日奈
-      position: 6
     - word: ゆうき
       base: 勇気
       position: 10
@@ -1299,12 +440,6 @@
       position: 13
       tags:
         - silent
-    - word: '17'
-      position: 18
-    - word: 歳
-      position: 20
-    - word: です
-      position: 21
 - id: SwordArtOnlineS01_E15_3139
   deck_name: Sword Art Online
   translation: >-
@@ -1313,40 +448,10 @@
   sound: SwordArtOnlineS01E_15_0.06.01.402-0.06.05.615.mp3
   sentence: 全中ベスト８(エイト)のあたし相手に　勝負になるのかな？
   words:
-    - word: 全中
-      position: 0
-    - word: ベスト
-      position: 2
-    - word: ８
-      base: '8'
-      dictionary: '8'
-      position: 5
     - word: エイト
       position: 7
       tags:
         - silent
-    - word: の
-      position: 11
-    - word: あたし
-      base: 私
-      position: 12
-    - word: 相手
-      position: 15
-    - word: に
-      position: 17
-    - word: 勝負
-      position: 19
-    - word: に
-      position: 21
-    - word: なる
-      base: 成る
-      position: 22
-    - word: の
-      position: 24
-    - word: か
-      position: 25
-    - word: な
-      position: 26
 - id: SwordArtOnlineS01_E15_3192
   deck_name: Sword Art Online
   translation: >-
@@ -1355,86 +460,20 @@
   sound: SwordArtOnlineS01E_15_0.12.20.865-0.12.27.746.mp3
   sentence: 明日奈(あすな)さんが　今の美しい姿でいる間に—　ドレスを着せてあげたいのです
   words:
-    - word: 明日奈
-      position: 0
     - word: あすな
       position: 4
       tags:
         - silent
-    - word: さん
-      position: 8
-    - word: が
-      position: 10
-    - word: 今
-      position: 12
-    - word: の
-      position: 13
-    - word: 美しい
-      position: 14
-    - word: 姿
-      position: 17
-    - word: で
-      base: だ
-      dictionary: だ
-      position: 18
-    - word: いる
-      base: 居る
-      position: 19
-    - word: 間
-      position: 21
-    - word: に
-      position: 22
-    - word: ドレス
-      position: 25
-    - word: を
-      position: 28
-    - word: 着せ
-      base: 着る
-      dictionary: 着せる
-      position: 29
-    - word: て
-      position: 31
-    - word: あげ
-      base: 上げる
-      dictionary: あげる
-      position: 32
-    - word: たい
-      position: 34
-    - word: の
-      position: 36
-    - word: です
-      position: 37
 - id: SwordArtOnlineS01_E16_3281
   deck_name: Sword Art Online
   translation: Then is it a virtual MMO like SAO?
   sound: SwordArtOnlineS01E_16_0.00.48.757-0.00.52.719.mp3
   sentence: じゃあ《ＳＡＯ》と同じ　ＶＲ(バーチャル)ＭＭＯか
   words:
-    - word: じゃあ
-      base: で
-      position: 0
-    - word: ＳＡＯ
-      base: sao
-      dictionary: sao
-      position: 4
-    - word: と
-      position: 8
-    - word: 同じ
-      position: 9
-    - word: ＶＲ
-      base: VR
-      dictionary: VR
-      position: 12
     - word: バーチャル
       position: 15
       tags:
         - silent
-    - word: ＭＭＯ
-      base: mmo
-      dictionary: mmo
-      position: 21
-    - word: か
-      position: 24
 - id: SwordArtOnlineS01_E16_3406
   deck_name: Sword Art Online
   translation: >-
@@ -1443,24 +482,6 @@
   sound: SwordArtOnlineS01E_16_0.14.31.745-0.14.37.918.mp3
   sentence: スキルに関しては—　人間のＧＭ(ゲームマスター)が直接　確認しない限り　大丈夫でしょう
   words:
-    - word: スキル
-      position: 0
-    - word: に
-      position: 3
-    - word: 関し
-      base: 関する
-      dictionary: 関する
-      position: 4
-    - word: ては
-      position: 6
-    - word: 人間
-      position: 10
-    - word: の
-      position: 12
-    - word: ＧＭ
-      base: GM
-      dictionary: GM
-      position: 13
     - word: ゲーム
       position: 16
       tags:
@@ -1469,67 +490,22 @@
       position: 19
       tags:
         - silent
-    - word: が
-      position: 24
-    - word: 直接
-      position: 25
-    - word: 確認
-      position: 28
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 30
-    - word: ない
-      position: 31
-    - word: 限り
-      position: 33
-    - word: 大丈夫
-      position: 36
-    - word: でしょう
-      base: です
-      dictionary: です
-      position: 39
 - id: SwordArtOnlineS01_E17_3578
   deck_name: Sword Art Online
   translation: Sorry. I'll heal you.
   sound: SwordArtOnlineS01E_17_0.08.07.069-0.08.09.363.mp3
   sentence: まあまあ　回復(ヒール)してあげるから
   words:
-    - word: まあまあ
-      position: 0
-    - word: 回復
-      position: 5
     - word: ヒール
       position: 8
       tags:
         - silent
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 12
-    - word: て
-      position: 13
-    - word: あげる
-      base: 上げる
-      position: 14
-    - word: から
-      position: 17
 - id: SwordArtOnlineS01_E17_3583
   deck_name: Sword Art Online
   translation: Treasure hunting and illusion magic, I guess.
   sound: SwordArtOnlineS01E_17_0.08.33.179-0.08.36.307.mp3
   sentence: トレジャーハント関連と　幻惑(げんわく)魔法かな
   words:
-    - word: トレジャー
-      position: 0
-    - word: ハント
-      position: 5
-    - word: 関連
-      position: 8
-    - word: と
-      position: 10
-    - word: 幻惑
-      position: 12
     - word: げん
       base: 弦
       position: 15
@@ -1539,12 +515,6 @@
       position: 17
       tags:
         - silent
-    - word: 魔法
-      position: 20
-    - word: か
-      position: 22
-    - word: な
-      position: 23
 - id: SwordArtOnlineS01_E17_3634
   deck_name: Sword Art Online
   translation: >-
@@ -1553,16 +523,6 @@
   sound: SwordArtOnlineS01E_17_0.11.21.222-0.11.27.436.mp3
   sentence: 妖精王オベイロンに　謁見(えっけん)した種族は—　全員“アルフ”っていう　高位種族に生まれ変われる
   words:
-    - word: 妖精
-      position: 0
-    - word: 王
-      position: 2
-    - word: オベイロン
-      position: 3
-    - word: に
-      position: 8
-    - word: 謁見
-      position: 10
     - word: えっ
       position: 13
       tags:
@@ -1571,104 +531,34 @@
       position: 15
       tags:
         - silent
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 18
-    - word: た
-      position: 19
-    - word: 種族
-      position: 20
-    - word: は
-      position: 22
-    - word: 全員
-      position: 25
-    - word: アルフ
-      position: 28
-    - word: って
-      position: 32
-    - word: いう
-      base: 言う
-      position: 34
-    - word: 高位
-      position: 37
-    - word: 種族
-      position: 39
-    - word: に
-      position: 41
-    - word: 生まれ
-      base: 生まれる
-      dictionary: 生まれる
-      position: 42
-    - word: 変われる
-      base: 変わる
-      position: 45
 - id: SwordArtOnlineS01_E17_3708
   deck_name: Sword Art Online
   translation: I'm Asuna, Sugou-san.
   sound: SwordArtOnlineS01E_17_0.17.30.758-0.17.31.925.mp3
   sentence: 須郷(すごう)さん
   words:
-    - word: 須郷
-      position: 0
     - word: すごう
       base: 凄い
       dictionary: すごい
       position: 3
       tags:
         - silent
-    - word: さん
-      position: 7
 - id: SwordArtOnlineS01_E17_3711
   deck_name: Sword Art Online
   translation: The ruler of Alfheim that all the players look up to in envy.
   sound: SwordArtOnlineS01E_17_0.17.38.098-0.17.41.977.mp3
   sentence: プレイヤーどもが　羨望(せんぼう)を込めて見上げる—　《アルヴヘイム》の支配者…
   words:
-    - word: プレイヤー
-      base: プレーヤー
-      position: 0
-    - word: ども
-      base: 共
-      position: 5
-    - word: が
-      position: 7
-    - word: 羨望
-      position: 9
     - word: せんぼう
       position: 12
       tags:
         - silent
-    - word: を
-      position: 17
-    - word: 込め
-      base: 込む
-      dictionary: 込める
-      position: 18
-    - word: て
-      position: 20
-    - word: 見
-      base: 見る
-      dictionary: 見る
-      position: 21
-    - word: 上げる
-      position: 22
-    - word: アルヴヘイム
-      position: 28
-    - word: の
-      position: 35
-    - word: 支配
-      position: 36
-    - word: 者
-      position: 38
 - id: SwordArtOnlineS01_E17_3737
   deck_name: Sword Art Online
   translation: Kayaba-senpai was a genius, but also a real fool.
   sound: SwordArtOnlineS01E_17_0.19.45.309-0.19.48.770.mp3
   sentence: 茅場(かやば)先輩は天才だが　大バカ者さ
   words:
-    - word: 茅場
-      position: 0
     - word: かや
       position: 3
       tags:
@@ -1677,33 +567,12 @@
       position: 5
       tags:
         - silent
-    - word: 先輩
-      position: 7
-    - word: は
-      position: 9
-    - word: 天才
-      position: 10
-    - word: だ
-      position: 12
-    - word: が
-      position: 13
-    - word: 大
-      position: 15
-    - word: バカ
-      base: ばか
-      position: 16
-    - word: 者
-      position: 18
-    - word: さ
-      position: 19
 - id: SwordArtOnlineS01_E18_3774
   deck_name: Sword Art Online
   translation: Sugu—
   sound: SwordArtOnlineS01E_18_0.03.15.320-0.03.15.987.mp3
   sentence: 直(すぐ)…
   words:
-    - word: 直
-      position: 0
     - word: すぐ
       base: 直ぐ
       position: 2
@@ -1715,44 +584,11 @@
   sound: SwordArtOnlineS01E_18_0.07.26.737-0.07.30.491.mp3
   sentence: ほかのプレイヤーを　あんたの大事な剣や鎧(よろい)みたいに
   words:
-    - word: ほか
-      base: 他
-      position: 0
-    - word: の
-      position: 2
-    - word: プレイヤー
-      base: プレーヤー
-      position: 3
-    - word: を
-      position: 8
-    - word: あんた
-      base: 貴方
-      position: 10
-    - word: の
-      position: 13
-    - word: 大事
-      position: 14
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 16
-    - word: 剣
-      position: 17
-    - word: や
-      position: 18
-    - word: 鎧
-      position: 19
     - word: よろい
       base: 鎧
       position: 21
       tags:
         - silent
-    - word: みたい
-      position: 25
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 28
 - id: SwordArtOnlineS01_E18_3831
   deck_name: Sword Art Online
   translation: >-
@@ -1761,91 +597,17 @@
   sound: SwordArtOnlineS01E_18_0.07.59.645-0.08.06.027.mp3
   sentence: 小虫が這(は)い回るぐらいは　捨ておこうかと思ったが—　泥棒の真似事とは　調子に乗りすぎたな
   words:
-    - word: 小虫
-      position: 0
-    - word: が
-      position: 2
-    - word: 這
-      position: 3
     - word: は
       base: はあ
       position: 5
       tags:
         - silent
-    - word: い
-      base: いー
-      position: 7
-    - word: 回る
-      position: 8
-    - word: ぐらい
-      base: くらい
-      position: 10
-    - word: は
-      position: 13
-    - word: 捨て
-      base: 捨てる
-      dictionary: 捨てる
-      position: 15
-    - word: おこう
-      base: おく
-      dictionary: おく
-      position: 17
-    - word: か
-      position: 20
-    - word: と
-      position: 21
-    - word: 思っ
-      base: 思う
-      dictionary: 思う
-      position: 22
-    - word: た
-      position: 24
-    - word: が
-      position: 25
-    - word: 泥棒
-      position: 28
-    - word: の
-      position: 30
-    - word: 真似事
-      position: 31
-    - word: と
-      position: 34
-    - word: は
-      position: 35
-    - word: 調子
-      position: 37
-    - word: に
-      position: 39
-    - word: 乗り
-      base: 乗る
-      dictionary: 乗る
-      position: 40
-    - word: すぎ
-      base: 過ぎる
-      dictionary: すぎる
-      position: 42
-    - word: た
-      position: 44
-    - word: な
-      position: 45
 - id: SwordArtOnlineS01_E19_4006
   deck_name: Sword Art Online
   translation: Illusion magic's all you'll really be good at though.
   sound: SwordArtOnlineS01E_19_0.00.26.234-0.00.28.486.mp3
   sentence: 得意なのは　幻惑(げんわく)魔法くらいだけど
   words:
-    - word: 得意
-      position: 0
-    - word: な
-      base: だ
-      dictionary: だ
-      position: 2
-    - word: の
-      position: 3
-    - word: は
-      position: 4
-    - word: 幻惑
-      position: 6
     - word: げん
       base: 弦
       position: 9
@@ -1855,15 +617,6 @@
       position: 11
       tags:
         - silent
-    - word: 魔法
-      position: 14
-    - word: くらい
-      position: 16
-    - word: だ
-      position: 19
-    - word: けど
-      base: けれど
-      position: 20
 - id: SwordArtOnlineS01_E19_4066
   deck_name: Sword Art Online
   translation: >-
@@ -1872,36 +625,6 @@
   sound: SwordArtOnlineS01E_19_0.05.48.222-0.05.54.395.mp3
   sentence: サラマンダーが　こんな高位の　土魔法を使えるってことは—　よっぽど手練(てだ)れのメイジが　交ざってるんだわ
   words:
-    - word: サラマンダー
-      position: 0
-    - word: が
-      position: 6
-    - word: こんな
-      position: 8
-    - word: 高位
-      position: 11
-    - word: の
-      position: 13
-    - word: 土
-      position: 15
-    - word: 魔法
-      position: 16
-    - word: を
-      position: 18
-    - word: 使える
-      base: 使う
-      position: 19
-    - word: って
-      position: 22
-    - word: こと
-      position: 24
-    - word: は
-      position: 26
-    - word: よっぽど
-      base: 余程
-      position: 29
-    - word: 手練
-      position: 33
     - word: て
       base: で
       position: 36
@@ -1911,40 +634,12 @@
       position: 37
       tags:
         - silent
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 39
-    - word: の
-      position: 40
-    - word: メイジ
-      base: 明治
-      position: 41
-    - word: が
-      position: 44
-    - word: 交ざっ
-      base: 混ざる
-      dictionary: 交ざる
-      position: 46
-    - word: てる
-      position: 49
-    - word: ん
-      base: の
-      position: 51
-    - word: だ
-      position: 52
-    - word: わ
-      position: 53
 - id: SwordArtOnlineS01_E19_4164
   deck_name: Sword Art Online
   translation: Hello, Nagata-kun?
   sound: SwordArtOnlineS01E_19_0.15.51.325-0.15.53.035.mp3
   sentence: もしもし　長田(ながた)くん？
   words:
-    - word: もしもし
-      position: 0
-    - word: 長田
-      position: 5
     - word: なが
       base: なぐ
       dictionary: なぐ
@@ -1955,9 +650,6 @@
       position: 10
       tags:
         - silent
-    - word: くん
-      base: 君
-      position: 12
 - id: SwordArtOnlineS01_E19_4174
   deck_name: Sword Art Online
   translation: >-
@@ -1966,15 +658,6 @@
   sound: SwordArtOnlineS01E_19_0.16.17.017-0.16.21.689.mp3
   sentence: えっと…　ほら　昨日古森(ふるもり)エリアで　サラマンダーに襲われた時さ
   words:
-    - word: えっと
-      base: えーと
-      position: 0
-    - word: ほら
-      position: 5
-    - word: 昨日
-      position: 8
-    - word: 古森
-      position: 10
     - word: ふる
       position: 13
       tags:
@@ -1983,113 +666,27 @@
       position: 15
       tags:
         - silent
-    - word: エリア
-      position: 18
-    - word: で
-      position: 21
-    - word: サラマンダー
-      position: 23
-    - word: に
-      position: 29
-    - word: 襲わ
-      base: 襲う
-      dictionary: 襲う
-      position: 30
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 32
-    - word: た
-      position: 33
-    - word: 時
-      position: 34
-    - word: さ
-      position: 35
 - id: SwordArtOnlineS01_E19_4193
   deck_name: Sword Art Online
   translation: I'm still in the sewers, paralyzed by a poison arrow.
   sound: SwordArtOnlineS01E_19_0.17.43.103-0.17.46.231.mp3
   sentence: 地下水道で毒矢を撃たれて　麻痺(まひ)したまま—
   words:
-    - word: 地下
-      position: 0
-    - word: 水道
-      position: 2
-    - word: で
-      position: 4
-    - word: 毒矢
-      position: 5
-    - word: を
-      position: 7
-    - word: 撃た
-      base: 打つ
-      dictionary: 撃つ
-      position: 8
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 10
-    - word: て
-      position: 11
-    - word: 麻痺
-      position: 13
     - word: まひ
       base: 麻痺
       position: 16
       tags:
         - silent
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 19
-    - word: た
-      position: 20
-    - word: まま
-      base: 侭
-      position: 21
 - id: SwordArtOnlineS01_E19_4224
   deck_name: Sword Art Online
   translation: Since you're a Spriggan, they  might hire you as a mercenary.
   sound: SwordArtOnlineS01E_19_0.20.06.330-0.20.09.583.mp3
   sentence: スプリガンの君なら傭兵(ようへい)として　雇ってくれるかも
   words:
-    - word: スプリガン
-      position: 0
-    - word: の
-      position: 5
-    - word: 君
-      position: 6
-    - word: なら
-      base: だ
-      dictionary: だ
-      position: 7
-    - word: 傭兵
-      position: 9
     - word: ようへい
       position: 12
       tags:
         - silent
-    - word: と
-      position: 17
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 18
-    - word: て
-      position: 19
-    - word: 雇っ
-      base: 雇う
-      dictionary: 雇う
-      position: 21
-    - word: て
-      position: 23
-    - word: くれる
-      base: 呉れる
-      position: 24
-    - word: か
-      position: 27
-    - word: も
-      position: 28
 - id: SwordArtOnlineS01_E20_4365
   deck_name: Sword Art Online
   translation: >-
@@ -2098,20 +695,6 @@
   sound: SwordArtOnlineS01E_20_0.12.55.733-0.13.00.321.mp3
   sentence: 勢力的にサラマンダーの後塵(こうじん)を　拝している　この状況が　あ…
   words:
-    - word: 勢力
-      position: 0
-    - word: 的
-      position: 2
-    - word: に
-      base: だ
-      dictionary: だ
-      position: 3
-    - word: サラマンダー
-      position: 4
-    - word: の
-      position: 10
-    - word: 後塵
-      position: 11
     - word: こう
       position: 14
       tags:
@@ -2120,206 +703,75 @@
       position: 16
       tags:
         - silent
-    - word: を
-      position: 19
-    - word: 拝し
-      base: 拝する
-      dictionary: 拝する
-      position: 21
-    - word: て
-      position: 23
-    - word: いる
-      base: 居る
-      position: 24
-    - word: この
-      base: 此の
-      position: 27
-    - word: 状況
-      position: 29
-    - word: が
-      position: 31
-    - word: あ
-      base: あっ
-      position: 33
 - id: SwordArtOnlineS01_E20_4413
   deck_name: Sword Art Online
   translation: If you're free, why don't you  come work for the Cait Siths?
   sound: SwordArtOnlineS01E_20_0.16.21.063-0.16.25.192.mp3
   sentence: フリーなら　君　ケットシー領で　傭兵(ようへい)やらない？
   words:
-    - word: フリー
-      position: 0
-    - word: なら
-      base: だ
-      dictionary: だ
-      position: 3
-    - word: 君
-      position: 6
-    - word: ケットシー
-      position: 8
-    - word: 領
-      position: 13
-    - word: で
-      position: 14
-    - word: 傭兵
-      position: 16
     - word: ようへい
       position: 19
       tags:
         - silent
-    - word: やら
-      base: 遣る
-      dictionary: やる
-      position: 24
-    - word: ない
-      position: 26
 - id: SwordArtOnlineS01_E21_4547
   deck_name: Sword Art Online
   translation: For it to be observed at this frequency  shows it's past the threshold.
   sound: SwordArtOnlineS01E_21_0.08.24.670-0.08.27.840.mp3
   sentence: この頻度で現れるのは　閾値(いきち)を超えてるでしょ
   words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: 頻度
-      position: 2
-    - word: で
-      position: 4
-    - word: 現れる
-      position: 5
-    - word: の
-      position: 8
-    - word: は
-      position: 9
-    - word: 閾値
-      position: 11
     - word: いきち
       base: 閾値
       position: 14
       tags:
         - silent
-    - word: を
-      position: 18
-    - word: 超え
-      base: 越える
-      dictionary: 超える
-      position: 19
-    - word: てる
-      position: 21
-    - word: でしょ
-      base: です
-      dictionary: です
-      position: 23
 - id: SwordArtOnlineS01_E21_4571
   deck_name: Sword Art Online
   translation: Yuuki Asuna-san.
   sound: SwordArtOnlineS01E_21_0.11.16.133-0.11.18.636.mp3
   sentence: 結城(ゆうき)…　明日奈(あすな)さん
   words:
-    - word: 結城
-      position: 0
     - word: ゆうき
       base: 勇気
       position: 3
       tags:
         - silent
-    - word: 明日奈
-      position: 9
     - word: あすな
       position: 13
       tags:
         - silent
-    - word: さん
-      position: 17
 - id: SwordArtOnlineS01_E21_4578
   deck_name: Sword Art Online
   translation: Vice Commander of the Knights of the Blood. Asuna the Flash.
   sound: SwordArtOnlineS01E_21_0.11.39.198-0.11.43.035.mp3
   sentence: 血盟騎士団副団長　“閃光(せんこう)”のアスナだ
   words:
-    - word: 血盟
-      position: 0
-    - word: 騎士
-      position: 2
-    - word: 団
-      position: 4
-    - word: 副
-      position: 5
-    - word: 団長
-      position: 6
-    - word: 閃光
-      position: 10
     - word: せんこう
       base: 潜航
       position: 13
       tags:
         - silent
-    - word: の
-      position: 19
-    - word: アスナ
-      position: 20
-    - word: だ
-      position: 23
 - id: SwordArtOnlineS01_E21_4584
   deck_name: Sword Art Online
   translation: I'm a friend of Sugou-san.
   sound: SwordArtOnlineS01E_21_0.12.14.650-0.12.16.819.mp3
   sentence: 私は須郷(すごう)さんの友達よ
   words:
-    - word: 私
-      position: 0
-    - word: は
-      position: 1
-    - word: 須郷
-      position: 2
     - word: すごう
       base: 凄い
       dictionary: すごい
       position: 5
       tags:
         - silent
-    - word: さん
-      position: 9
-    - word: の
-      position: 11
-    - word: 友達
-      position: 12
-    - word: よ
-      position: 14
 - id: SwordArtOnlineS01_E21_4593
   deck_name: Sword Art Online
   translation: It's not fair that the boss has  such a cute girl all to himself.
   sound: SwordArtOnlineS01E_21_0.12.42.887-0.12.48.142.mp3
   sentence: ずるいなあ　ボスばっかり　こんな　かわいい娘(こ)を　きゃっ
   words:
-    - word: ずるい
-      base: 狡い
-      position: 0
-    - word: なあ
-      base: な
-      position: 3
-    - word: ボス
-      position: 6
-    - word: ばっかり
-      base: ばかり
-      position: 8
-    - word: こんな
-      position: 13
-    - word: かわいい
-      base: 可愛い
-      position: 17
-    - word: 娘
-      position: 21
     - word: こ
       position: 23
       tags:
         - silent
-    - word: を
-      position: 25
-    - word: きゃっ
-      base: きゃあ
-      position: 27
 - id: SwordArtOnlineS01_E21_4669
   deck_name: Sword Art Online
   translation: >-
@@ -2329,46 +781,6 @@
   sound: SwordArtOnlineS01E_21_0.20.07.748-0.20.17.049.mp3
   sentence: 妖精王オベイロンと　光の妖精アルフが住んでいて　王に最初に謁見(えっけん)できた種族は—　アルフに転生できるって　言われてるわ
   words:
-    - word: 妖精
-      position: 0
-    - word: 王
-      position: 2
-    - word: オベイロン
-      position: 3
-    - word: と
-      position: 8
-    - word: 光
-      position: 10
-    - word: の
-      position: 11
-    - word: 妖精
-      position: 12
-    - word: アルフ
-      position: 14
-    - word: が
-      position: 17
-    - word: 住ん
-      base: 住む
-      dictionary: 住む
-      position: 18
-    - word: で
-      position: 20
-    - word: い
-      base: 居る
-      dictionary: いる
-      position: 21
-    - word: て
-      position: 22
-    - word: 王
-      position: 24
-    - word: に
-      position: 25
-    - word: 最初
-      position: 26
-    - word: に
-      position: 28
-    - word: 謁見
-      position: 29
     - word: えっ
       position: 32
       tags:
@@ -2377,94 +789,23 @@
       position: 34
       tags:
         - silent
-    - word: でき
-      base: 出来る
-      dictionary: できる
-      position: 37
-    - word: た
-      position: 39
-    - word: 種族
-      position: 40
-    - word: は
-      position: 42
-    - word: アルフ
-      position: 45
-    - word: に
-      position: 48
-    - word: 転生
-      position: 49
-    - word: できる
-      base: 出来る
-      position: 51
-    - word: って
-      position: 54
-    - word: 言わ
-      base: 言う
-      dictionary: 言う
-      position: 57
-    - word: れ
-      base: れる
-      dictionary: れる
-      position: 59
-    - word: てる
-      position: 60
-    - word: わ
-      position: 62
 - id: SwordArtOnlineS01_E22_4756
   deck_name: Sword Art Online
   translation: Then prove you are worthy of soaring  the skies with those wings you bear.
   sound: SwordArtOnlineS01E_22_0.08.14.410-0.08.21.125.mp3
   sentence: されば—　そなたが背の双翼の天翔(あまかける)に　足ることを示すがよい
   words:
-    - word: されば
-      position: 0
-    - word: そなた
-      base: 其方
-      position: 5
-    - word: が
-      position: 8
-    - word: 背
-      position: 9
-    - word: の
-      position: 10
-    - word: 双翼
-      position: 11
-    - word: の
-      position: 13
-    - word: 天翔
-      position: 14
     - word: あまかける
       base: 天翔る
       position: 17
       tags:
         - silent
-    - word: に
-      position: 23
-    - word: 足る
-      base: 足りる
-      position: 25
-    - word: こと
-      position: 27
-    - word: を
-      position: 29
-    - word: 示す
-      position: 30
-    - word: が
-      position: 32
-    - word: よい
-      base: 良い
-      position: 33
 - id: SwordArtOnlineS01_E22_4790
   deck_name: Sword Art Online
   translation: Sugu? Suguha?
   sound: SwordArtOnlineS01E_22_0.18.15.177-0.18.19.098.mp3
   sentence: スグ…　直葉(すぐは)？
   words:
-    - word: スグ
-      base: 直ぐ
-      position: 0
-    - word: 直葉
-      position: 4
     - word: すぐ
       base: 直ぐ
       position: 7
@@ -2480,117 +821,50 @@
   sound: SwordArtOnlineS01E_22_0.20.14.213-0.20.17.132.mp3
   sentence: あたしとお兄ちゃんは　本当の兄妹(きょうだい)じゃない
   words:
-    - word: あたし
-      base: 私
-      position: 0
-    - word: と
-      position: 3
-    - word: お
-      base: 御
-      position: 4
-    - word: 兄ちゃん
-      position: 5
-    - word: は
-      position: 9
-    - word: 本当
-      position: 11
-    - word: の
-      position: 13
-    - word: 兄妹
-      base: 兄弟
-      position: 14
     - word: きょうだい
       base: 兄弟
       position: 17
       tags:
         - silent
-    - word: じゃ
-      base: だ
-      dictionary: だ
-      position: 23
-    - word: ない
-      base: 無い
-      position: 25
 - id: SwordArtOnlineS01_E23_4946
   deck_name: Sword Art Online
   translation: The Cait Sith's dragoons?
   sound: SwordArtOnlineS01E_23_0.16.45.004-0.16.47.381.mp3
   sentence: ケットシーの竜騎士(ドラグーン)隊！？
   words:
-    - word: ケットシー
-      position: 0
-    - word: の
-      position: 5
-    - word: 竜
-      position: 6
-    - word: 騎士
-      position: 7
     - word: ドラグーン
       position: 10
       tags:
         - silent
-    - word: 隊
-      position: 16
 - id: SwordArtOnlineS01_E24_5025
   deck_name: Sword Art Online
   translation: Sugou, aren't you?
   sound: SwordArtOnlineS01E_24_0.05.46.721-0.05.48.389.mp3
   sentence: 須郷(すごう)か！
   words:
-    - word: 須郷
-      position: 0
     - word: すごう
       base: 凄い
       dictionary: すごい
       position: 3
       tags:
         - silent
-    - word: か
-      position: 7
 - id: SwordArtOnlineS01_E24_5032
   deck_name: Sword Art Online
   translation: Stop it, you coward!
   sound: SwordArtOnlineS01E_24_0.06.10.369-0.06.12.538.mp3
   sentence: やめなさい　卑怯(ひきょう)者！
   words:
-    - word: やめ
-      base: やめる
-      dictionary: やめる
-      position: 0
-    - word: なさい
-      base: 為す
-      dictionary: なさる
-      position: 2
-    - word: 卑怯
-      position: 6
     - word: ひきょう
       base: 卑怯
       position: 9
       tags:
         - silent
-    - word: 者
-      position: 14
 - id: SwordArtOnlineS01_E24_5033
   deck_name: Sword Art Online
   translation: At any rate, Kirigaya-kun...
   sound: SwordArtOnlineS01E_24_0.06.12.914-0.06.15.208.mp3
   sentence: それにしても桐ヶ谷(きりがや)くん
   words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: に
-      position: 2
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 3
-    - word: て
-      position: 4
-    - word: も
-      position: 5
-    - word: 桐ヶ谷
-      position: 6
     - word: きり
       position: 10
       tags:
@@ -2603,9 +877,6 @@
       position: 13
       tags:
         - silent
-    - word: くん
-      base: 君
-      position: 15
 - id: SwordArtOnlineS01_E24_5044
   deck_name: Sword Art Online
   translation: >-
@@ -2614,174 +885,49 @@
   sound: SwordArtOnlineS01E_24_0.06.57.834-0.07.03.548.mp3
   sentence: かつて誰も成し得なかった　人の魂の直接制御という神の業(わざ)を
   words:
-    - word: かつて
-      base: 嘗て
-      position: 0
-    - word: 誰
-      position: 3
-    - word: も
-      position: 4
-    - word: 成し
-      base: 成す
-      dictionary: 成す
-      position: 5
-    - word: 得
-      base: 得る
-      dictionary: 得る
-      position: 7
-    - word: なかっ
-      base: ない
-      dictionary: ない
-      position: 8
-    - word: た
-      position: 11
-    - word: 人
-      position: 13
-    - word: の
-      position: 14
-    - word: 魂
-      position: 15
-    - word: の
-      position: 16
-    - word: 直接
-      position: 17
-    - word: 制御
-      position: 19
-    - word: と
-      position: 21
-    - word: いう
-      base: 言う
-      position: 22
-    - word: 神
-      position: 24
-    - word: の
-      position: 25
-    - word: 業
-      position: 26
     - word: わざ
       base: 技
       position: 28
       tags:
         - silent
-    - word: を
-      position: 31
 - id: SwordArtOnlineS01_E24_5058
   deck_name: Sword Art Online
   translation: Reproducing your scent proved  to be quite the challenge.
   sound: SwordArtOnlineS01E_24_0.08.22.960-0.08.27.590.mp3
   sentence: 現実の明日奈(あすな)くんの香りを　再現するのに苦労したんだよ
   words:
-    - word: 現実
-      position: 0
-    - word: の
-      position: 2
-    - word: 明日奈
-      position: 3
     - word: あすな
       position: 7
       tags:
         - silent
-    - word: くん
-      base: 君
-      position: 11
-    - word: の
-      position: 13
-    - word: 香り
-      position: 14
-    - word: を
-      position: 16
-    - word: 再現
-      position: 18
-    - word: する
-      base: 為る
-      position: 20
-    - word: の
-      position: 22
-    - word: に
-      position: 23
-    - word: 苦労
-      position: 24
-    - word: し
-      base: 為る
-      dictionary: する
-      position: 26
-    - word: た
-      position: 27
-    - word: ん
-      base: の
-      position: 28
-    - word: だ
-      position: 29
-    - word: よ
-      position: 30
 - id: SwordArtOnlineS01_E24_5064
   deck_name: Sword Art Online
   translation: The audience should just quietly stay put!
   sound: SwordArtOnlineS01E_24_0.08.44.565-0.08.48.069.mp3
   sentence: 観客はおとなしく　這(は)いつくばっていろ！
   words:
-    - word: 観客
-      position: 0
-    - word: は
-      position: 2
-    - word: おとなしく
-      base: 大人しい
-      dictionary: おとなしい
-      position: 3
-    - word: 這
-      position: 9
     - word: は
       base: はあ
       position: 11
       tags:
         - silent
-    - word: いつ
-      position: 13
-    - word: くばっ
-      base: 配る
-      dictionary: くばる
-      position: 15
-    - word: て
-      position: 18
-    - word: いろ
-      base: 居る
-      dictionary: いる
-      position: 19
 - id: SwordArtOnlineS01_E24_5114
   deck_name: Sword Art Online
   translation: A battle between a king of thieves and a gilded hero!
   sound: SwordArtOnlineS01E_24_0.14.16.855-0.14.19.859.mp3
   sentence: 泥棒の王と　鍍金(メッキ)の勇者の
   words:
-    - word: 泥棒
-      position: 0
-    - word: の
-      position: 2
-    - word: 王
-      position: 3
-    - word: と
-      position: 4
-    - word: 鍍金
-      position: 6
     - word: メッキ
       base: 鍍金
       position: 9
       tags:
         - silent
-    - word: の
-      position: 13
-    - word: 勇者
-      position: 14
-    - word: の
-      position: 16
 - id: SwordArtOnlineS01_E25_5219
   deck_name: Sword Art Online
   translation: Asuna.
   sound: SwordArtOnlineS01E_25_0.00.15.974-0.00.17.142.mp3
   sentence: 明日奈(あすな)…
   words:
-    - word: 明日奈
-      position: 0
     - word: あすな
       position: 4
       tags:
@@ -2792,18 +938,10 @@
   sound: SwordArtOnlineS01E_25_0.12.39.550-0.12.41.802.mp3
   sentence: もう　リズ…　里香(りか)さん
   words:
-    - word: もう
-      position: 0
-    - word: リズ
-      position: 3
-    - word: 里香
-      position: 7
     - word: りか
       position: 10
       tags:
         - silent
-    - word: さん
-      position: 13
 - id: SwordArtOnlineS01_E25_5343
   deck_name: Sword Art Online
   translation: >-
@@ -2812,51 +950,20 @@
   sound: SwordArtOnlineS01E_25_0.15.36.894-0.15.40.981.mp3
   sentence: まさしく宇宙誕生の混沌(こんとん)って　感じですもんね
   words:
-    - word: まさしく
-      base: 正しく
-      position: 0
-    - word: 宇宙
-      position: 4
-    - word: 誕生
-      position: 6
-    - word: の
-      position: 8
-    - word: 混沌
-      position: 9
     - word: こんとん
       base: 混沌
       position: 12
       tags:
         - silent
-    - word: って
-      position: 17
-    - word: 感じ
-      position: 20
-    - word: です
-      position: 22
-    - word: もん
-      base: もの
-      position: 24
-    - word: ね
-      position: 26
 - id: SwordArtOnlineS01_E25_5382
   deck_name: Sword Art Online
   translation: Hey! You're late, Kirito!
   sound: SwordArtOnlineS01E_25_0.22.38.940-0.22.41.818.mp3
   sentence: おーい　遅(おせ)えぞ　キリト！
   words:
-    - word: おーい
-      base: おおい
-      position: 0
-    - word: 遅
-      position: 4
     - word: おせ
       base: 押す
       dictionary: おす
       position: 6
       tags:
         - silent
-    - word: えぞ
-      position: 9
-    - word: キリト
-      position: 12

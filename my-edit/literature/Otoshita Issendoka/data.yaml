@@ -6,19 +6,6 @@
   sound_begin: 5159
   sound_end: 7220
   sentence: 落とした一銭銅貨
-  words:
-    - word: 落とし
-      base: 落とす
-      position: 0
-    - word: た
-      position: 3
-    - word: 一
-      base: '1'
-      position: 4
-    - word: 銭
-      position: 5
-    - word: 銅貨
-      position: 6
 - id: Otoshita Issendoka-f000003
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -27,28 +14,6 @@
   sound_begin: 9320
   sound_end: 13480
   sentence: 雀が一銭銅貨をひろいました。
-  words:
-    - word: 雀
-      position: 0
-    - word: が
-      position: 1
-    - word: 一
-      base: '1'
-      position: 2
-    - word: 銭
-      position: 3
-    - word: 銅貨
-      position: 4
-    - word: を
-      position: 6
-    - word: ひろい
-      base: 拾う
-      position: 7
-    - word: まし
-      base: ます
-      position: 10
-    - word: た
-      position: 12
 - id: Otoshita Issendoka-f000004
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -57,30 +22,6 @@
   sound_begin: 13480
   sound_end: 18160
   sentence: 雀はうれしくてうれしくてたまりません。
-  words:
-    - word: 雀
-      position: 0
-    - word: は
-      position: 1
-    - word: うれしく
-      base: 嬉しい
-      position: 2
-    - word: て
-      position: 6
-    - word: うれしく
-      base: 嬉しい
-      position: 7
-    - word: て
-      position: 11
-    - word: たまり
-      base: たまる
-      position: 12
-    - word: ませ
-      base: ます
-      position: 15
-    - word: ん
-      base: ず
-      position: 17
 - id: Otoshita Issendoka-f000005
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -89,21 +30,6 @@
   sound_begin: 18160
   sound_end: 20280
   sentence: ほかの雀をみると、
-  words:
-    - word: ほか
-      base: 他
-      position: 0
-    - word: の
-      position: 2
-    - word: 雀
-      position: 3
-    - word: を
-      position: 4
-    - word: みる
-      base: 見る
-      position: 5
-    - word: と
-      position: 7
 - id: Otoshita Issendoka-f000006
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -112,24 +38,6 @@
   sound_begin: 20280
   sound_end: 22720
   sentence: 「ぼくおかねをもってるよ。」
-  words:
-    - word: ぼく
-      base: 僕
-      position: 1
-    - word: お
-      base: 御
-      position: 3
-    - word: かね
-      position: 4
-    - word: を
-      position: 6
-    - word: もっ
-      base: 持つ
-      position: 7
-    - word: てる
-      position: 9
-    - word: よ
-      position: 11
 - id: Otoshita Issendoka-f000007
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -138,14 +46,6 @@
   sound_begin: 22720
   sound_end: 23959
   sentence: といって、
-  words:
-    - word: と
-      position: 0
-    - word: いっ
-      base: 言う
-      position: 1
-    - word: て
-      position: 3
 - id: Otoshita Issendoka-f000008
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -154,52 +54,6 @@
   sound_begin: 23959
   sound_end: 30320
   sentence: くわえていた一銭銅貨を砂の上においてみせてやりました。
-  words:
-    - word: くわえ
-      base: くわえる
-      position: 0
-    - word: て
-      position: 3
-    - word: い
-      base: 居る
-      position: 4
-    - word: た
-      position: 5
-    - word: 一
-      base: '1'
-      position: 6
-    - word: 銭
-      position: 7
-    - word: 銅貨
-      position: 8
-    - word: を
-      position: 10
-    - word: 砂
-      position: 11
-    - word: の
-      position: 12
-    - word: 上
-      position: 13
-    - word: に
-      position: 14
-    - word: おい
-      base: おく
-      position: 15
-    - word: て
-      position: 17
-    - word: みせ
-      base: 見せる
-      position: 18
-    - word: て
-      position: 20
-    - word: やり
-      base: 遣る
-      position: 21
-    - word: まし
-      base: ます
-      position: 23
-    - word: た
-      position: 25
 - id: Otoshita Issendoka-f000009
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -208,10 +62,6 @@
   sound_begin: 30320
   sound_end: 31480
   sentence: さて、
-  words:
-    - word: さて
-      base: 扠
-      position: 0
 - id: Otoshita Issendoka-f000010
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -220,20 +70,6 @@
   sound_begin: 31480
   sound_end: 33360
   sentence: 日ぐれになりました。
-  words:
-    - word: 日ぐれ
-      base: 日暮れ
-      position: 0
-    - word: に
-      position: 3
-    - word: なり
-      base: 成る
-      position: 4
-    - word: まし
-      base: ます
-      position: 6
-    - word: た
-      position: 8
 - id: Otoshita Issendoka-f000011
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -242,26 +78,6 @@
   sound_begin: 33360
   sound_end: 36513
   sentence: すこしくらくなってきました。
-  words:
-    - word: すこし
-      base: 少し
-      position: 0
-    - word: くらく
-      base: 暗い
-      position: 3
-    - word: なっ
-      base: 成る
-      position: 6
-    - word: て
-      position: 8
-    - word: き
-      base: 来る
-      position: 9
-    - word: まし
-      base: ます
-      position: 10
-    - word: た
-      position: 12
 - id: Otoshita Issendoka-f000012
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -270,9 +86,6 @@
   sound_begin: 36513
   sound_end: 37317
   sentence: 「や、
-  words:
-    - word: や
-      position: 1
 - id: Otoshita Issendoka-f000013
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -281,18 +94,6 @@
   sound_begin: 37317
   sound_end: 38849
   sentence: 遊びすぎちゃった。
-  words:
-    - word: 遊び
-      base: 遊ぶ
-      position: 0
-    - word: すぎ
-      base: 過ぎる
-      position: 2
-    - word: ちゃっ
-      base: ちゃう
-      position: 4
-    - word: た
-      position: 7
 - id: Otoshita Issendoka-f000014
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -301,17 +102,6 @@
   sound_begin: 38849
   sound_end: 40692
   sentence: これはたいへんだ。」
-  words:
-    - word: これ
-      base: 此れ
-      position: 0
-    - word: は
-      position: 2
-    - word: たいへん
-      base: 大変
-      position: 3
-    - word: だ
-      position: 7
 - id: Otoshita Issendoka-f000015
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -320,13 +110,6 @@
   sound_begin: 40692
   sound_end: 42360
   sentence: と雀は、
-  words:
-    - word: と
-      position: 0
-    - word: 雀
-      position: 1
-    - word: は
-      position: 2
 - id: Otoshita Issendoka-f000016
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -335,21 +118,6 @@
   sound_begin: 42360
   sound_end: 44280
   sentence: 一銭銅貨をくわえて、
-  words:
-    - word: 一
-      base: '1'
-      position: 0
-    - word: 銭
-      position: 1
-    - word: 銅貨
-      position: 2
-    - word: を
-      position: 4
-    - word: くわえ
-      base: くわえる
-      position: 5
-    - word: て
-      position: 8
 - id: Otoshita Issendoka-f000017
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -358,35 +126,6 @@
   sound_begin: 44280
   sound_end: 47560
   sentence: おおいそぎで水車小屋の方へとんでいきました。
-  words:
-    - word: おおいそぎ
-      base: 大急ぎ
-      position: 0
-    - word: で
-      position: 5
-    - word: 水車
-      position: 6
-    - word: 小屋
-      position: 8
-    - word: の
-      position: 10
-    - word: 方
-      position: 11
-    - word: へ
-      position: 12
-    - word: とん
-      base: 飛ぶ
-      position: 13
-    - word: で
-      position: 15
-    - word: いき
-      base: 行く
-      position: 16
-    - word: まし
-      base: ます
-      position: 18
-    - word: た
-      position: 20
 - id: Otoshita Issendoka-f000018
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -395,48 +134,6 @@
   sound_begin: 49360
   sound_end: 55330
   sentence: この雀は水車小屋ののきばにすんでいたのでありました。
-  words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: 雀
-      position: 2
-    - word: は
-      position: 3
-    - word: 水車
-      position: 4
-    - word: 小屋
-      position: 6
-    - word: の
-      position: 8
-    - word: のきば
-      base: 軒端
-      position: 9
-    - word: に
-      position: 12
-    - word: すん
-      base: すむ
-      position: 13
-    - word: で
-      position: 15
-    - word: い
-      base: 居る
-      position: 16
-    - word: た
-      position: 17
-    - word: の
-      position: 18
-    - word: で
-      base: だ
-      position: 19
-    - word: あり
-      base: 有る
-      position: 20
-    - word: まし
-      base: ます
-      position: 22
-    - word: た
-      position: 24
 - id: Otoshita Issendoka-f000019
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -445,24 +142,6 @@
   sound_begin: 55330
   sound_end: 58600
   sentence: まだ水車小屋につかないまえ、
-  words:
-    - word: まだ
-      base: 未だ
-      position: 0
-    - word: 水車
-      position: 2
-    - word: 小屋
-      position: 4
-    - word: に
-      position: 6
-    - word: つか
-      base: 付く
-      position: 7
-    - word: ない
-      position: 9
-    - word: まえ
-      base: 前
-      position: 11
 - id: Otoshita Issendoka-f000020
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -471,28 +150,6 @@
   sound_begin: 58600
   sound_end: 60960
   sentence: はたけの上をとんでいたとき、
-  words:
-    - word: はたけ
-      position: 0
-    - word: の
-      position: 3
-    - word: 上
-      position: 4
-    - word: を
-      position: 5
-    - word: とん
-      base: 飛ぶ
-      position: 6
-    - word: で
-      position: 8
-    - word: い
-      base: 居る
-      position: 9
-    - word: た
-      position: 10
-    - word: とき
-      base: 時
-      position: 11
 - id: Otoshita Issendoka-f000021
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -501,20 +158,6 @@
   sound_begin: 60960
   sound_end: 62708
   sentence: あまりあわてたので、
-  words:
-    - word: あまり
-      base: 余り
-      position: 0
-    - word: あわて
-      base: 慌てる
-      position: 3
-    - word: た
-      position: 6
-    - word: の
-      position: 7
-    - word: で
-      base: だ
-      position: 8
 - id: Otoshita Issendoka-f000022
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -523,28 +166,6 @@
   sound_begin: 62708
   sound_end: 66360
   sentence: 雀は銅貨を落としてしまいました。
-  words:
-    - word: 雀
-      position: 0
-    - word: は
-      position: 1
-    - word: 銅貨
-      position: 2
-    - word: を
-      position: 4
-    - word: 落とし
-      base: 落とす
-      position: 5
-    - word: て
-      position: 8
-    - word: しまい
-      base: 仕舞う
-      position: 9
-    - word: まし
-      base: ます
-      position: 12
-    - word: た
-      position: 14
 - id: Otoshita Issendoka-f000023
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -553,9 +174,6 @@
   sound_begin: 66360
   sound_end: 67118
   sentence: 「や、
-  words:
-    - word: や
-      position: 1
 - id: Otoshita Issendoka-f000024
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -564,17 +182,6 @@
   sound_begin: 67118
   sound_end: 69802
   sentence: これはしまった。」
-  words:
-    - word: これ
-      base: 此れ
-      position: 0
-    - word: は
-      position: 2
-    - word: しまっ
-      base: 仕舞う
-      position: 3
-    - word: た
-      position: 6
 - id: Otoshita Issendoka-f000025
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -583,21 +190,6 @@
   sound_begin: 69802
   sound_end: 72960
   sentence: けれどあたりはもう暗くて、
-  words:
-    - word: けれど
-      position: 0
-    - word: あたり
-      base: 辺り
-      position: 3
-    - word: は
-      position: 6
-    - word: もう
-      position: 7
-    - word: 暗く
-      base: 暗い
-      position: 9
-    - word: て
-      position: 11
 - id: Otoshita Issendoka-f000026
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -606,46 +198,6 @@
   sound_begin: 72960
   sound_end: 76920
   sentence: 雀の目はよくみることができなくなっていたので、
-  words:
-    - word: 雀
-      position: 0
-    - word: の
-      position: 1
-    - word: 目
-      position: 2
-    - word: は
-      position: 3
-    - word: よく
-      base: 良く
-      position: 4
-    - word: みる
-      base: 見る
-      position: 6
-    - word: こと
-      position: 8
-    - word: が
-      position: 10
-    - word: でき
-      base: 出来る
-      position: 11
-    - word: なく
-      base: ない
-      position: 13
-    - word: なっ
-      base: 成る
-      position: 15
-    - word: て
-      position: 17
-    - word: い
-      base: 居る
-      position: 18
-    - word: た
-      position: 19
-    - word: の
-      position: 20
-    - word: で
-      base: だ
-      position: 21
 - id: Otoshita Issendoka-f000027
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -654,22 +206,6 @@
   sound_begin: 76920
   sound_end: 79240
   sentence: 「あしたの朝さがしにこよう。」
-  words:
-    - word: あした
-      base: 明日
-      position: 1
-    - word: の
-      position: 4
-    - word: 朝
-      position: 5
-    - word: さがし
-      base: 探し
-      position: 6
-    - word: に
-      position: 9
-    - word: こよう
-      base: 来る
-      position: 10
 - id: Otoshita Issendoka-f000028
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -678,14 +214,6 @@
   sound_begin: 79240
   sound_end: 80613
   sentence: といって、
-  words:
-    - word: と
-      position: 0
-    - word: いっ
-      base: 言う
-      position: 1
-    - word: て
-      position: 3
 - id: Otoshita Issendoka-f000029
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -694,31 +222,6 @@
   sound_begin: 80613
   sound_end: 85480
   sentence: そのまま水車小屋の巣にかえりました。
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: まま
-      base: 侭
-      position: 2
-    - word: 水車
-      position: 4
-    - word: 小屋
-      position: 6
-    - word: の
-      position: 8
-    - word: 巣
-      position: 9
-    - word: に
-      position: 10
-    - word: かえり
-      base: かえる
-      position: 11
-    - word: まし
-      base: ます
-      position: 14
-    - word: た
-      position: 16
 - id: Otoshita Issendoka-f000030
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -727,27 +230,6 @@
   sound_begin: 85480
   sound_end: 88520
   sentence: その夜はたいへん寒かったので、
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: 夜
-      position: 2
-    - word: は
-      position: 3
-    - word: たいへん
-      base: 大変
-      position: 4
-    - word: 寒かっ
-      base: 寒い
-      position: 8
-    - word: た
-      position: 11
-    - word: の
-      position: 12
-    - word: で
-      base: だ
-      position: 13
 - id: Otoshita Issendoka-f000031
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -756,28 +238,6 @@
   sound_begin: 88520
   sound_end: 92680
   sentence: 雀はかぜをひいてしまいました。
-  words:
-    - word: 雀
-      position: 0
-    - word: は
-      position: 1
-    - word: かぜ
-      position: 2
-    - word: を
-      position: 4
-    - word: ひい
-      base: ひく
-      position: 5
-    - word: て
-      position: 7
-    - word: しまい
-      base: 仕舞う
-      position: 8
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
 - id: Otoshita Issendoka-f000032
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -786,18 +246,6 @@
   sound_begin: 92680
   sound_end: 94760
   sentence: それもそのはず、
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: も
-      position: 2
-    - word: その
-      base: 其の
-      position: 3
-    - word: はず
-      base: 筈
-      position: 5
 - id: Otoshita Issendoka-f000033
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -806,31 +254,6 @@
   sound_begin: 94760
   sound_end: 98744
   sentence: 雪がどっさりふったのでありました。
-  words:
-    - word: 雪
-      position: 0
-    - word: が
-      position: 1
-    - word: どっさり
-      position: 2
-    - word: ふっ
-      base: ふる
-      position: 6
-    - word: た
-      position: 8
-    - word: の
-      position: 9
-    - word: で
-      base: だ
-      position: 10
-    - word: あり
-      base: 有る
-      position: 11
-    - word: まし
-      base: ます
-      position: 13
-    - word: た
-      position: 15
 - id: Otoshita Issendoka-f000034
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -839,28 +262,6 @@
   sound_begin: 98744
   sound_end: 102960
   sentence: 雀はかぜがなかなかなおらないので、
-  words:
-    - word: 雀
-      position: 0
-    - word: は
-      position: 1
-    - word: かぜ
-      position: 2
-    - word: が
-      position: 4
-    - word: なかなか
-      base: 中々
-      position: 5
-    - word: なおら
-      base: 直る
-      position: 9
-    - word: ない
-      position: 12
-    - word: の
-      position: 14
-    - word: で
-      base: だ
-      position: 15
 - id: Otoshita Issendoka-f000035
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -869,23 +270,6 @@
   sound_begin: 102960
   sound_end: 105603
   sentence: まいにち藁の中にくるまって、
-  words:
-    - word: まいにち
-      base: 毎日
-      position: 0
-    - word: 藁
-      position: 4
-    - word: の
-      position: 5
-    - word: 中
-      position: 6
-    - word: に
-      position: 7
-    - word: くるまっ
-      base: 包まる
-      position: 8
-    - word: て
-      position: 12
 - id: Otoshita Issendoka-f000036
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -894,38 +278,6 @@
   sound_begin: 105603
   sound_end: 108919
   sentence: 落とした一銭銅貨のことを思っていました。
-  words:
-    - word: 落とし
-      base: 落とす
-      position: 0
-    - word: た
-      position: 3
-    - word: 一
-      base: '1'
-      position: 4
-    - word: 銭
-      position: 5
-    - word: 銅貨
-      position: 6
-    - word: の
-      position: 8
-    - word: こと
-      position: 9
-    - word: を
-      position: 11
-    - word: 思っ
-      base: 思う
-      position: 12
-    - word: て
-      position: 14
-    - word: い
-      base: 居る
-      position: 15
-    - word: まし
-      base: ます
-      position: 16
-    - word: た
-      position: 18
 - id: Otoshita Issendoka-f000037
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -934,25 +286,6 @@
   sound_begin: 110960
   sound_end: 114547
   sentence: やがて雀はよくなりました。
-  words:
-    - word: やがて
-      base: 軈て
-      position: 0
-    - word: 雀
-      position: 3
-    - word: は
-      position: 4
-    - word: よく
-      base: 良い
-      position: 5
-    - word: なり
-      base: 成る
-      position: 7
-    - word: まし
-      base: ます
-      position: 9
-    - word: た
-      position: 11
 - id: Otoshita Issendoka-f000038
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -961,34 +294,6 @@
   sound_begin: 114547
   sound_end: 119622
   sentence: そこで一銭銅貨をさがしにいきました。
-  words:
-    - word: そこ
-      base: 其処
-      position: 0
-    - word: で
-      position: 2
-    - word: 一
-      base: '1'
-      position: 3
-    - word: 銭
-      position: 4
-    - word: 銅貨
-      position: 5
-    - word: を
-      position: 7
-    - word: さがし
-      base: 探す
-      position: 8
-    - word: に
-      position: 11
-    - word: いき
-      base: 行く
-      position: 12
-    - word: まし
-      base: ます
-      position: 14
-    - word: た
-      position: 16
 - id: Otoshita Issendoka-f000039
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -997,35 +302,6 @@
   sound_begin: 119622
   sound_end: 124240
   sentence: まだ雪ははたけの上につもっていました。
-  words:
-    - word: まだ
-      base: 未だ
-      position: 0
-    - word: 雪
-      position: 2
-    - word: は
-      position: 3
-    - word: はたけ
-      position: 4
-    - word: の
-      position: 7
-    - word: 上
-      position: 8
-    - word: に
-      position: 9
-    - word: つもっ
-      base: 積もる
-      position: 10
-    - word: て
-      position: 13
-    - word: い
-      base: 居る
-      position: 14
-    - word: まし
-      base: ます
-      position: 15
-    - word: た
-      position: 17
 - id: Otoshita Issendoka-f000040
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1034,12 +310,6 @@
   sound_begin: 124240
   sound_end: 125480
   sentence: 「わたしの、
-  words:
-    - word: わたし
-      base: 私
-      position: 1
-    - word: の
-      position: 4
 - id: Otoshita Issendoka-f000041
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1048,19 +318,6 @@
   sound_begin: 125480
   sound_end: 127736
   sentence: わたしの一銭銅貨、
-  words:
-    - word: わたし
-      base: 私
-      position: 0
-    - word: の
-      position: 3
-    - word: 一
-      base: '1'
-      position: 4
-    - word: 銭
-      position: 5
-    - word: 銅貨
-      position: 6
 - id: Otoshita Issendoka-f000042
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1069,23 +326,6 @@
   sound_begin: 127736
   sound_end: 130148
   sentence: この下にいるのかい。」
-  words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: 下
-      position: 2
-    - word: に
-      position: 3
-    - word: いる
-      base: 居る
-      position: 4
-    - word: の
-      position: 6
-    - word: か
-      position: 7
-    - word: い
-      position: 8
 - id: Otoshita Issendoka-f000043
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1094,9 +334,6 @@
   sound_begin: 130148
   sound_end: 130818
   sentence: と、
-  words:
-    - word: と
-      position: 0
 - id: Otoshita Issendoka-f000044
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1105,27 +342,6 @@
   sound_begin: 130818
   sound_end: 133120
   sentence: 雀は雪の上からききました。
-  words:
-    - word: 雀
-      position: 0
-    - word: は
-      position: 1
-    - word: 雪
-      position: 2
-    - word: の
-      position: 3
-    - word: 上
-      position: 4
-    - word: から
-      position: 5
-    - word: きき
-      base: きく
-      position: 7
-    - word: まし
-      base: ます
-      position: 9
-    - word: た
-      position: 11
 - id: Otoshita Issendoka-f000045
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1134,16 +350,6 @@
   sound_begin: 134720
   sound_end: 137124
   sentence: すると雪の下から、
-  words:
-    - word: する
-      base: 為る
-      position: 0
-    - word: と
-      position: 2
-    - word: 雪の下
-      position: 3
-    - word: から
-      position: 6
 - id: Otoshita Issendoka-f000046
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1152,11 +358,6 @@
   sound_begin: 137124
   sound_end: 138355
   sentence: 「いえいえ、
-  words:
-    - word: いえ
-      position: 1
-    - word: いえ
-      position: 3
 - id: Otoshita Issendoka-f000047
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1165,23 +366,6 @@
   sound_begin: 138355
   sound_end: 140147
   sentence: ここにはありません。」
-  words:
-    - word: ここ
-      base: 此処
-      position: 0
-    - word: に
-      position: 2
-    - word: は
-      position: 3
-    - word: あり
-      base: 有る
-      position: 4
-    - word: ませ
-      base: ます
-      position: 6
-    - word: ん
-      base: ず
-      position: 8
 - id: Otoshita Issendoka-f000048
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1190,24 +374,6 @@
   sound_begin: 140147
   sound_end: 144120
   sentence: とだれかがこたえました。
-  words:
-    - word: と
-      position: 0
-    - word: だれ
-      base: 誰
-      position: 1
-    - word: か
-      position: 3
-    - word: が
-      position: 4
-    - word: こたえ
-      base: こたえる
-      position: 5
-    - word: まし
-      base: ます
-      position: 8
-    - word: た
-      position: 10
 - id: Otoshita Issendoka-f000049
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1216,29 +382,6 @@
   sound_begin: 144120
   sound_end: 147400
   sentence: 雀はまたべつのところへいって、
-  words:
-    - word: 雀
-      position: 0
-    - word: は
-      position: 1
-    - word: また
-      base: 又
-      position: 2
-    - word: べつ
-      base: 別
-      position: 4
-    - word: の
-      position: 6
-    - word: ところ
-      base: 所
-      position: 7
-    - word: へ
-      position: 10
-    - word: いっ
-      base: 行く
-      position: 11
-    - word: て
-      position: 13
 - id: Otoshita Issendoka-f000050
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1247,12 +390,6 @@
   sound_begin: 147400
   sound_end: 148560
   sentence: 「わたしの、
-  words:
-    - word: わたし
-      base: 私
-      position: 1
-    - word: の
-      position: 4
 - id: Otoshita Issendoka-f000051
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1261,19 +398,6 @@
   sound_begin: 148560
   sound_end: 150120
   sentence: わたしの一銭銅貨、
-  words:
-    - word: わたし
-      base: 私
-      position: 0
-    - word: の
-      position: 3
-    - word: 一
-      base: '1'
-      position: 4
-    - word: 銭
-      position: 5
-    - word: 銅貨
-      position: 6
 - id: Otoshita Issendoka-f000052
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1282,23 +406,6 @@
   sound_begin: 150120
   sound_end: 153019
   sentence: この下にいるのかい。」
-  words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: 下
-      position: 2
-    - word: に
-      position: 3
-    - word: いる
-      base: 居る
-      position: 4
-    - word: の
-      position: 6
-    - word: か
-      position: 7
-    - word: い
-      position: 8
 - id: Otoshita Issendoka-f000053
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1307,17 +414,6 @@
   sound_begin: 153019
   sound_end: 155320
   sentence: とききました。
-  words:
-    - word: と
-      position: 0
-    - word: きき
-      base: きく
-      position: 1
-    - word: まし
-      base: ます
-      position: 3
-    - word: た
-      position: 5
 - id: Otoshita Issendoka-f000054
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1326,19 +422,6 @@
   sound_begin: 155320
   sound_end: 158931
   sentence: するとまた雪の下から、
-  words:
-    - word: する
-      base: 為る
-      position: 0
-    - word: と
-      position: 2
-    - word: また
-      base: 又
-      position: 3
-    - word: 雪の下
-      position: 5
-    - word: から
-      position: 8
 - id: Otoshita Issendoka-f000055
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1347,11 +430,6 @@
   sound_begin: 158931
   sound_end: 159920
   sentence: 「いえいえ、
-  words:
-    - word: いえ
-      position: 1
-    - word: いえ
-      position: 3
 - id: Otoshita Issendoka-f000056
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1360,23 +438,6 @@
   sound_begin: 159920
   sound_end: 161896
   sentence: ここにはありません。」
-  words:
-    - word: ここ
-      base: 此処
-      position: 0
-    - word: に
-      position: 2
-    - word: は
-      position: 3
-    - word: あり
-      base: 有る
-      position: 4
-    - word: ませ
-      base: ます
-      position: 6
-    - word: ん
-      base: ず
-      position: 8
 - id: Otoshita Issendoka-f000057
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1385,17 +446,6 @@
   sound_begin: 161896
   sound_end: 163040
   sentence: とこたえました。
-  words:
-    - word: と
-      position: 0
-    - word: こたえ
-      base: こたえる
-      position: 1
-    - word: まし
-      base: ます
-      position: 4
-    - word: た
-      position: 6
 - id: Otoshita Issendoka-f000058
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1404,29 +454,6 @@
   sound_begin: 164894
   sound_end: 169600
   sentence: 雀はあちらこちらとたずねてあるきました。
-  words:
-    - word: 雀
-      position: 0
-    - word: は
-      position: 1
-    - word: あちらこちら
-      base: 彼方此方
-      position: 2
-    - word: と
-      position: 8
-    - word: たずね
-      base: たずねる
-      position: 9
-    - word: て
-      position: 12
-    - word: あるき
-      base: 歩く
-      position: 13
-    - word: まし
-      base: ます
-      position: 16
-    - word: た
-      position: 18
 - id: Otoshita Issendoka-f000059
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1435,15 +462,6 @@
   sound_begin: 169600
   sound_end: 172280
   sentence: するととうとう、
-  words:
-    - word: する
-      base: 為る
-      position: 0
-    - word: と
-      position: 2
-    - word: とうとう
-      base: 到頭
-      position: 3
 - id: Otoshita Issendoka-f000060
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1452,11 +470,6 @@
   sound_begin: 172280
   sound_end: 173445
   sentence: 「はいはい、
-  words:
-    - word: はい
-      position: 1
-    - word: はい
-      position: 3
 - id: Otoshita Issendoka-f000061
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1465,19 +478,6 @@
   sound_begin: 173445
   sound_end: 175831
   sentence: ここにありますよ。
-  words:
-    - word: ここ
-      base: 此処
-      position: 0
-    - word: に
-      position: 2
-    - word: あり
-      base: 有る
-      position: 3
-    - word: ます
-      position: 5
-    - word: よ
-      position: 7
 - id: Otoshita Issendoka-f000062
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1486,26 +486,6 @@
   sound_begin: 175831
   sound_end: 178101
   sentence: 雪がとけたらおいでなさい。」
-  words:
-    - word: 雪
-      position: 0
-    - word: が
-      position: 1
-    - word: とけ
-      base: とく
-      position: 2
-    - word: たら
-      base: た
-      position: 4
-    - word: お
-      base: 御
-      position: 6
-    - word: いで
-      base: 出る
-      position: 7
-    - word: なさい
-      base: 為す
-      position: 9
 - id: Otoshita Issendoka-f000063
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1514,17 +494,6 @@
   sound_begin: 178101
   sound_end: 181600
   sentence: とこたえました。
-  words:
-    - word: と
-      position: 0
-    - word: こたえ
-      base: こたえる
-      position: 1
-    - word: まし
-      base: ます
-      position: 4
-    - word: た
-      position: 6
 - id: Otoshita Issendoka-f000064
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1533,44 +502,6 @@
   sound_begin: 181600
   sound_end: 188192
   sentence: 雀は雪のとけた日にまたはたけにやっていきました。
-  words:
-    - word: 雀
-      position: 0
-    - word: は
-      position: 1
-    - word: 雪
-      position: 2
-    - word: の
-      position: 3
-    - word: とけ
-      base: とく
-      position: 4
-    - word: た
-      position: 6
-    - word: 日
-      position: 7
-    - word: に
-      position: 8
-    - word: また
-      base: 又
-      position: 9
-    - word: はたけ
-      position: 11
-    - word: に
-      position: 14
-    - word: やっ
-      base: 遣る
-      position: 15
-    - word: て
-      position: 17
-    - word: いき
-      base: 行く
-      position: 18
-    - word: まし
-      base: ます
-      position: 20
-    - word: た
-      position: 22
 - id: Otoshita Issendoka-f000065
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1579,21 +510,6 @@
   sound_begin: 188192
   sound_end: 192160
   sentence: 銅貨はちゃんとありました。
-  words:
-    - word: 銅貨
-      position: 0
-    - word: は
-      position: 2
-    - word: ちゃんと
-      position: 3
-    - word: あり
-      base: 有る
-      position: 7
-    - word: まし
-      base: ます
-      position: 9
-    - word: た
-      position: 11
 - id: Otoshita Issendoka-f000066
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1602,39 +518,6 @@
   sound_begin: 192160
   sound_end: 197747
   sentence: みるとはたけにはいっぱいふきのとうがでていました。
-  words:
-    - word: みる
-      base: 見る
-      position: 0
-    - word: と
-      position: 2
-    - word: はたけ
-      position: 3
-    - word: に
-      position: 6
-    - word: は
-      position: 7
-    - word: いっぱい
-      base: 一杯
-      position: 8
-    - word: ふきのとう
-      base: 蕗の薹
-      position: 12
-    - word: が
-      position: 17
-    - word: で
-      base: 出る
-      position: 18
-    - word: て
-      position: 19
-    - word: い
-      base: 居る
-      position: 20
-    - word: まし
-      base: ます
-      position: 21
-    - word: た
-      position: 23
 - id: Otoshita Issendoka-f000067
   author_japanese: 新美 南吉
   deck_name: Otoshita Issendoka
@@ -1643,45 +526,3 @@
   sound_begin: 197747
   sound_end: 203280
   sentence: 銅貨のあるところを雀におしえたのはこのふきのとうだったのでしょう。
-  words:
-    - word: 銅貨
-      position: 0
-    - word: の
-      position: 2
-    - word: ある
-      base: 有る
-      position: 3
-    - word: ところ
-      base: 所
-      position: 5
-    - word: を
-      position: 8
-    - word: 雀
-      position: 9
-    - word: に
-      position: 10
-    - word: おしえ
-      base: 教える
-      position: 11
-    - word: た
-      position: 14
-    - word: の
-      position: 15
-    - word: は
-      position: 16
-    - word: この
-      base: 此の
-      position: 17
-    - word: ふきのとう
-      base: 蕗の薹
-      position: 19
-    - word: だっ
-      base: だ
-      position: 24
-    - word: た
-      position: 26
-    - word: の
-      position: 27
-    - word: でしょう
-      base: です
-      position: 28

@@ -6,18 +6,6 @@
   sound_begin: 6188
   sound_end: 8496
   sentence: 子供に化けた狐
-  words:
-    - word: 子供
-      position: 0
-    - word: に
-      position: 2
-    - word: 化け
-      base: 化ける
-      position: 3
-    - word: た
-      position: 5
-    - word: 狐
-      position: 6
 - id: Kodomoni Baketa Kitsune-f000003
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -26,16 +14,6 @@
   sound_begin: 11640
   sound_end: 13360
   sentence: 子供に化けて、
-  words:
-    - word: 子供
-      position: 0
-    - word: に
-      position: 2
-    - word: 化け
-      base: 化ける
-      position: 3
-    - word: て
-      position: 5
 - id: Kodomoni Baketa Kitsune-f000004
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -44,28 +22,6 @@
   sound_begin: 13360
   sound_end: 18440
   sentence: 大人をだます悪い狐がをりました。
-  words:
-    - word: 大人
-      position: 0
-    - word: を
-      position: 2
-    - word: だます
-      base: 騙す
-      position: 3
-    - word: 悪い
-      position: 6
-    - word: 狐
-      position: 8
-    - word: が
-      position: 9
-    - word: をり
-      base: 居る
-      position: 10
-    - word: まし
-      base: ます
-      position: 12
-    - word: た
-      position: 14
 - id: Kodomoni Baketa Kitsune-f000005
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -74,18 +30,6 @@
   sound_begin: 21240
   sound_end: 23463
   sentence: 三五郎と云ふ百姓が、
-  words:
-    - word: 三五郎
-      position: 0
-    - word: と
-      position: 3
-    - word: 云ふ
-      base: 言う
-      position: 4
-    - word: 百姓
-      position: 6
-    - word: が
-      position: 8
 - id: Kodomoni Baketa Kitsune-f000006
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -94,28 +38,6 @@
   sound_begin: 23463
   sound_end: 26735
   sentence: 馬を曳いて帰つて来ますと、
-  words:
-    - word: 馬
-      position: 0
-    - word: を
-      position: 1
-    - word: 曳い
-      base: 引く
-      position: 2
-    - word: て
-      position: 4
-    - word: 帰つ
-      base: 帰る
-      position: 5
-    - word: て
-      position: 7
-    - word: 来
-      base: 来る
-      position: 8
-    - word: ます
-      position: 9
-    - word: と
-      position: 11
 - id: Kodomoni Baketa Kitsune-f000007
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -124,45 +46,6 @@
   sound_begin: 26735
   sound_end: 34600
   sentence: 道の端に七八つ位の一人の子供が泣いてゐました。
-  words:
-    - word: 道
-      position: 0
-    - word: の
-      position: 1
-    - word: 端
-      position: 2
-    - word: に
-      position: 3
-    - word: 七八
-      base: '78'
-      position: 4
-    - word: つ
-      position: 6
-    - word: 位
-      position: 7
-    - word: の
-      position: 8
-    - word: 一人
-      position: 9
-    - word: の
-      position: 11
-    - word: 子供
-      position: 12
-    - word: が
-      position: 14
-    - word: 泣い
-      base: 泣く
-      position: 15
-    - word: て
-      position: 17
-    - word: ゐ
-      base: 居る
-      position: 18
-    - word: まし
-      base: ます
-      position: 19
-    - word: た
-      position: 21
 - id: Kodomoni Baketa Kitsune-f000008
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -171,11 +54,6 @@
   sound_begin: 34600
   sound_end: 36154
   sentence: 三五郎は、
-  words:
-    - word: 三五郎
-      position: 0
-    - word: は
-      position: 3
 - id: Kodomoni Baketa Kitsune-f000009
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -184,35 +62,6 @@
   sound_begin: 36154
   sound_end: 39880
   sentence: 狐が化けてゐるのだと気づきましたから、
-  words:
-    - word: 狐
-      position: 0
-    - word: が
-      position: 1
-    - word: 化け
-      base: 化ける
-      position: 2
-    - word: て
-      position: 4
-    - word: ゐる
-      base: 居る
-      position: 5
-    - word: の
-      position: 7
-    - word: だ
-      position: 8
-    - word: と
-      position: 9
-    - word: 気づき
-      base: 気付く
-      position: 10
-    - word: まし
-      base: ます
-      position: 13
-    - word: た
-      position: 15
-    - word: から
-      position: 16
 - id: Kodomoni Baketa Kitsune-f000010
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -221,40 +70,6 @@
   sound_begin: 39880
   sound_end: 44860
   sentence: わざと知らない振りをして通りすぎようとしました。
-  words:
-    - word: わざと
-      base: 態と
-      position: 0
-    - word: 知ら
-      base: 知る
-      position: 3
-    - word: ない
-      position: 5
-    - word: 振り
-      position: 7
-    - word: を
-      position: 9
-    - word: し
-      base: 為る
-      position: 10
-    - word: て
-      position: 11
-    - word: 通り
-      base: 通る
-      position: 12
-    - word: すぎよう
-      base: 過ぎる
-      position: 14
-    - word: と
-      position: 18
-    - word: し
-      base: 為る
-      position: 19
-    - word: まし
-      base: ます
-      position: 20
-    - word: た
-      position: 22
 - id: Kodomoni Baketa Kitsune-f000011
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -263,38 +78,6 @@
   sound_begin: 44860
   sound_end: 50400
   sentence: 子供は三五郎の方を見い見い余計に泣きました。
-  words:
-    - word: 子供
-      position: 0
-    - word: は
-      position: 2
-    - word: 三五郎
-      position: 3
-    - word: の
-      position: 6
-    - word: 方
-      position: 7
-    - word: を
-      position: 8
-    - word: 見い
-      base: 見る
-      position: 9
-    - word: 見い
-      base: 見る
-      position: 11
-    - word: 余計
-      position: 13
-    - word: に
-      base: だ
-      position: 15
-    - word: 泣き
-      base: 泣く
-      position: 16
-    - word: まし
-      base: ます
-      position: 18
-    - word: た
-      position: 20
 - id: Kodomoni Baketa Kitsune-f000012
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -303,45 +86,6 @@
   sound_begin: 53200
   sound_end: 57000
   sentence: どこまでも知らない振りをして三五郎が通つて来ますと、
-  words:
-    - word: どこ
-      position: 0
-    - word: まで
-      position: 2
-    - word: も
-      position: 4
-    - word: 知ら
-      base: 知る
-      position: 5
-    - word: ない
-      position: 7
-    - word: 振り
-      position: 9
-    - word: を
-      position: 11
-    - word: し
-      base: 為る
-      position: 12
-    - word: て
-      position: 13
-    - word: 三五郎
-      position: 14
-    - word: が
-      position: 17
-    - word: 通
-      position: 18
-    - word: つ
-      base: つう
-      position: 19
-    - word: て
-      position: 20
-    - word: 来
-      base: 来る
-      position: 21
-    - word: ます
-      position: 22
-    - word: と
-      position: 24
 - id: Kodomoni Baketa Kitsune-f000013
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -350,43 +94,6 @@
   sound_begin: 58600
   sound_end: 64239
   sentence: 子供は大声をあげて泣き泣き馬の後をついて来ました。
-  words:
-    - word: 子供
-      position: 0
-    - word: は
-      position: 2
-    - word: 大声
-      position: 3
-    - word: を
-      position: 5
-    - word: あげ
-      base: 上げる
-      position: 6
-    - word: て
-      position: 8
-    - word: 泣き泣き
-      position: 9
-    - word: 馬
-      position: 13
-    - word: の
-      position: 14
-    - word: 後
-      position: 15
-    - word: を
-      position: 16
-    - word: つい
-      base: つく
-      position: 17
-    - word: て
-      position: 19
-    - word: 来
-      base: 来る
-      position: 20
-    - word: まし
-      base: ます
-      position: 21
-    - word: た
-      position: 23
 - id: Kodomoni Baketa Kitsune-f000014
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -395,18 +102,6 @@
   sound_begin: 67040
   sound_end: 68532
   sentence: さうするうちに、
-  words:
-    - word: さう
-      base: そう
-      position: 0
-    - word: する
-      base: 為る
-      position: 2
-    - word: うち
-      base: 内
-      position: 4
-    - word: に
-      position: 6
 - id: Kodomoni Baketa Kitsune-f000015
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -415,26 +110,6 @@
   sound_begin: 68532
   sound_end: 71120
   sentence: 急に日が暮れて来て、
-  words:
-    - word: 急
-      position: 0
-    - word: に
-      base: だ
-      position: 1
-    - word: 日
-      position: 2
-    - word: が
-      position: 3
-    - word: 暮れ
-      base: 暮れる
-      position: 4
-    - word: て
-      position: 6
-    - word: 来
-      base: 来る
-      position: 7
-    - word: て
-      position: 8
 - id: Kodomoni Baketa Kitsune-f000016
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -443,28 +118,6 @@
   sound_begin: 71120
   sound_end: 75360
   sentence: あたりが薄暗くなつてしまひました。
-  words:
-    - word: あたり
-      base: 辺り
-      position: 0
-    - word: が
-      position: 3
-    - word: 薄暗く
-      base: 薄暗い
-      position: 4
-    - word: なつ
-      base: 成る
-      position: 7
-    - word: て
-      position: 9
-    - word: しまひ
-      base: 仕舞う
-      position: 10
-    - word: まし
-      base: ます
-      position: 13
-    - word: た
-      position: 15
 - id: Kodomoni Baketa Kitsune-f000017
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -473,27 +126,6 @@
   sound_begin: 75360
   sound_end: 77840
   sentence: まだ日の暮れる筈のないのに、
-  words:
-    - word: まだ
-      base: 未だ
-      position: 0
-    - word: 日
-      position: 2
-    - word: の
-      position: 3
-    - word: 暮れる
-      position: 4
-    - word: 筈
-      position: 7
-    - word: の
-      position: 8
-    - word: ない
-      base: 無い
-      position: 9
-    - word: の
-      position: 11
-    - word: に
-      position: 12
 - id: Kodomoni Baketa Kitsune-f000018
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -502,25 +134,6 @@
   sound_begin: 77840
   sound_end: 81080
   sentence: 不思議だとは思ひましたが、
-  words:
-    - word: 不思議
-      position: 0
-    - word: だ
-      position: 3
-    - word: と
-      position: 4
-    - word: は
-      position: 5
-    - word: 思ひ
-      base: 思う
-      position: 6
-    - word: まし
-      base: ます
-      position: 8
-    - word: た
-      position: 10
-    - word: が
-      position: 11
 - id: Kodomoni Baketa Kitsune-f000019
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -529,32 +142,6 @@
   sound_begin: 81080
   sound_end: 84790
   sentence: 空にはお星さまさへチラチラ出て、
-  words:
-    - word: 空
-      position: 0
-    - word: に
-      position: 1
-    - word: は
-      position: 2
-    - word: お
-      base: 御
-      position: 3
-    - word: 星
-      position: 4
-    - word: さま
-      base: 様
-      position: 5
-    - word: さへ
-      base: さえ
-      position: 7
-    - word: チラチラ
-      base: ちらちら
-      position: 9
-    - word: 出
-      base: 出る
-      position: 13
-    - word: て
-      position: 14
 - id: Kodomoni Baketa Kitsune-f000020
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -563,35 +150,6 @@
   sound_begin: 84790
   sound_end: 91272
   sentence: 遠くの森で梟の啼く声さへ聞えました。
-  words:
-    - word: 遠く
-      position: 0
-    - word: の
-      position: 2
-    - word: 森
-      position: 3
-    - word: で
-      position: 4
-    - word: 梟
-      position: 5
-    - word: の
-      position: 6
-    - word: 啼く
-      base: 鳴く
-      position: 7
-    - word: 声
-      position: 9
-    - word: さへ
-      base: さえ
-      position: 10
-    - word: 聞え
-      base: 聞こえる
-      position: 12
-    - word: まし
-      base: ます
-      position: 14
-    - word: た
-      position: 16
 - id: Kodomoni Baketa Kitsune-f000021
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -600,31 +158,6 @@
   sound_begin: 91272
   sound_end: 95205
   sentence: 後から泣き泣きついて来た筈の子供は、
-  words:
-    - word: 後
-      position: 0
-    - word: から
-      position: 1
-    - word: 泣き泣き
-      position: 3
-    - word: つい
-      base: 付く
-      position: 7
-    - word: て
-      position: 9
-    - word: 来
-      base: 来る
-      position: 10
-    - word: た
-      position: 11
-    - word: 筈
-      position: 12
-    - word: の
-      position: 13
-    - word: 子供
-      position: 14
-    - word: は
-      position: 16
 - id: Kodomoni Baketa Kitsune-f000022
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -633,12 +166,6 @@
   sound_begin: 95205
   sound_end: 95829
   sentence: こんどは、
-  words:
-    - word: こんど
-      base: 今度
-      position: 0
-    - word: は
-      position: 3
 - id: Kodomoni Baketa Kitsune-f000023
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -647,44 +174,6 @@
   sound_begin: 95829
   sound_end: 103910
   sentence: いつの間にか三五郎の前に立つて泣き泣き歩いてゐました。
-  words:
-    - word: いつ
-      position: 0
-    - word: の
-      position: 2
-    - word: 間
-      position: 3
-    - word: に
-      position: 4
-    - word: か
-      position: 5
-    - word: 三五郎
-      position: 6
-    - word: の
-      position: 9
-    - word: 前
-      position: 10
-    - word: に
-      position: 11
-    - word: 立つ
-      position: 12
-    - word: て
-      position: 14
-    - word: 泣き泣き
-      position: 15
-    - word: 歩い
-      base: 歩く
-      position: 19
-    - word: て
-      position: 21
-    - word: ゐ
-      base: 居る
-      position: 22
-    - word: まし
-      base: ます
-      position: 23
-    - word: た
-      position: 25
 - id: Kodomoni Baketa Kitsune-f000024
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -693,29 +182,6 @@
   sound_begin: 103910
   sound_end: 107718
   sentence: 『己はちやんと判りきつてゐるのに、
-  words:
-    - word: 己
-      position: 1
-    - word: は
-      position: 2
-    - word: ちやんと
-      base: ちゃんと
-      position: 3
-    - word: 判り
-      base: 分かる
-      position: 7
-    - word: きつ
-      base: きつい
-      position: 9
-    - word: て
-      position: 11
-    - word: ゐる
-      base: 居る
-      position: 12
-    - word: の
-      position: 14
-    - word: に
-      position: 15
 - id: Kodomoni Baketa Kitsune-f000025
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -724,68 +190,6 @@
   sound_begin: 107718
   sound_end: 117720
   sentence: 知らずにだまさうとする馬鹿な狐だ』と三五郎は心の中で可笑くなりましたが、
-  words:
-    - word: 知ら
-      base: 知る
-      position: 0
-    - word: ず
-      position: 2
-    - word: に
-      position: 3
-    - word: だ
-      position: 4
-    - word: ま
-      base: まー
-      position: 5
-    - word: さう
-      base: そう
-      position: 6
-    - word: と
-      position: 8
-    - word: する
-      base: 為る
-      position: 9
-    - word: 馬鹿
-      position: 11
-    - word: な
-      base: だ
-      position: 13
-    - word: 狐
-      position: 14
-    - word: だ
-      position: 15
-    - word: と
-      position: 17
-    - word: 三五郎
-      position: 18
-    - word: は
-      position: 21
-    - word: 心
-      position: 22
-    - word: の
-      position: 23
-    - word: 中
-      position: 24
-    - word: で
-      position: 25
-    - word: 可
-      position: 26
-    - word: 笑
-      base: 笑い
-      position: 27
-    - word: く
-      base: 九
-      position: 28
-    - word: なり
-      base: 成る
-      position: 29
-    - word: まし
-      base: ます
-      position: 31
-    - word: た
-      position: 33
-    - word: が
-      position: 34
 - id: Kodomoni Baketa Kitsune-f000026
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -794,29 +198,6 @@
   sound_begin: 117720
   sound_end: 120120
   sentence: なにしろ斯う日が暮れて来ては、
-  words:
-    - word: なにしろ
-      base: 何しろ
-      position: 0
-    - word: 斯う
-      base: こう
-      position: 4
-    - word: 日
-      position: 6
-    - word: が
-      position: 7
-    - word: 暮れ
-      base: 暮れる
-      position: 8
-    - word: て
-      position: 10
-    - word: 来
-      base: 来る
-      position: 11
-    - word: て
-      position: 12
-    - word: は
-      position: 13
 - id: Kodomoni Baketa Kitsune-f000027
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -825,33 +206,6 @@
   sound_begin: 120120
   sound_end: 122640
   sentence: 急いで家へ帰らうと馬に乗りました。
-  words:
-    - word: 急い
-      base: 急ぐ
-      position: 0
-    - word: で
-      position: 2
-    - word: 家
-      position: 3
-    - word: へ
-      position: 4
-    - word: 帰らう
-      base: 帰る
-      position: 5
-    - word: と
-      position: 8
-    - word: 馬
-      position: 9
-    - word: に
-      position: 10
-    - word: 乗り
-      base: 乗る
-      position: 11
-    - word: まし
-      base: ます
-      position: 13
-    - word: た
-      position: 15
 - id: Kodomoni Baketa Kitsune-f000028
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -860,15 +214,6 @@
   sound_begin: 124440
   sound_end: 125840
   sentence: さうすると、
-  words:
-    - word: さう
-      base: そう
-      position: 0
-    - word: する
-      base: 為る
-      position: 2
-    - word: と
-      position: 4
 - id: Kodomoni Baketa Kitsune-f000029
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -877,23 +222,6 @@
   sound_begin: 125840
   sound_end: 128639
   sentence: 泣き泣き歩いてゐた子供は、
-  words:
-    - word: 泣き泣き
-      position: 0
-    - word: 歩い
-      base: 歩く
-      position: 4
-    - word: て
-      position: 6
-    - word: ゐ
-      base: 居る
-      position: 7
-    - word: た
-      position: 8
-    - word: 子供
-      position: 9
-    - word: は
-      position: 11
 - id: Kodomoni Baketa Kitsune-f000030
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -902,57 +230,6 @@
   sound_begin: 128639
   sound_end: 137240
   sentence: 馬の口元をとつて別の方の細い道へ馬を曳き込まうとしました。
-  words:
-    - word: 馬
-      position: 0
-    - word: の
-      position: 1
-    - word: 口元
-      position: 2
-    - word: を
-      position: 4
-    - word: と
-      position: 5
-    - word: つて
-      base: 伝
-      position: 6
-    - word: 別
-      position: 8
-    - word: の
-      position: 9
-    - word: 方
-      position: 10
-    - word: の
-      position: 11
-    - word: 細い
-      position: 12
-    - word: 道
-      position: 14
-    - word: へ
-      position: 15
-    - word: 馬
-      position: 16
-    - word: を
-      position: 17
-    - word: 曳き
-      base: 引く
-      position: 18
-    - word: 込ま
-      base: 込む
-      position: 20
-    - word: う
-      base: うー
-      position: 22
-    - word: と
-      position: 23
-    - word: し
-      base: 為る
-      position: 24
-    - word: まし
-      base: ます
-      position: 25
-    - word: た
-      position: 27
 - id: Kodomoni Baketa Kitsune-f000031
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -961,19 +238,6 @@
   sound_begin: 137240
   sound_end: 139550
   sentence: 三五郎は馬の上で、
-  words:
-    - word: 三五郎
-      position: 0
-    - word: は
-      position: 3
-    - word: 馬
-      position: 4
-    - word: の
-      position: 5
-    - word: 上
-      position: 6
-    - word: で
-      position: 7
 - id: Kodomoni Baketa Kitsune-f000032
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -982,17 +246,6 @@
   sound_begin: 139550
   sound_end: 142498
   sentence: 『コラコラ道が違ふ。
-  words:
-    - word: コラコラ
-      position: 1
-    - word: 道
-      position: 5
-    - word: が
-      position: 6
-    - word: 違
-      position: 7
-    - word: ふ
-      position: 8
 - id: Kodomoni Baketa Kitsune-f000033
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1001,17 +254,6 @@
   sound_begin: 142498
   sound_end: 145456
   sentence: こつちだこつちだ』
-  words:
-    - word: こつち
-      base: 此方
-      position: 0
-    - word: だ
-      position: 3
-    - word: こつち
-      base: 此方
-      position: 4
-    - word: だ
-      position: 7
 - id: Kodomoni Baketa Kitsune-f000034
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1020,22 +262,6 @@
   sound_begin: 145456
   sound_end: 147364
   sentence: と怒鳴りつけましたが、
-  words:
-    - word: と
-      position: 0
-    - word: 怒鳴り
-      base: 怒鳴る
-      position: 1
-    - word: つけ
-      base: つける
-      position: 4
-    - word: まし
-      base: ます
-      position: 6
-    - word: た
-      position: 8
-    - word: が
-      position: 9
 - id: Kodomoni Baketa Kitsune-f000035
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1044,25 +270,6 @@
   sound_begin: 147364
   sound_end: 149840
   sentence: 子供は聞えない振りをして、
-  words:
-    - word: 子供
-      position: 0
-    - word: は
-      position: 2
-    - word: 聞え
-      base: 聞こえる
-      position: 3
-    - word: ない
-      position: 5
-    - word: 振り
-      position: 7
-    - word: を
-      position: 9
-    - word: し
-      base: 為る
-      position: 10
-    - word: て
-      position: 11
 - id: Kodomoni Baketa Kitsune-f000036
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1071,37 +278,6 @@
   sound_begin: 149840
   sound_end: 154540
   sentence: ずんずん細い別な方の道へ曳いて行きました。
-  words:
-    - word: ずんずん
-      position: 0
-    - word: 細い
-      position: 4
-    - word: 別
-      position: 6
-    - word: な
-      base: だ
-      position: 7
-    - word: 方
-      position: 8
-    - word: の
-      position: 9
-    - word: 道
-      position: 10
-    - word: へ
-      position: 11
-    - word: 曳い
-      base: 引く
-      position: 12
-    - word: て
-      position: 14
-    - word: 行き
-      base: 行く
-      position: 15
-    - word: まし
-      base: ます
-      position: 17
-    - word: た
-      position: 19
 - id: Kodomoni Baketa Kitsune-f000037
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1110,11 +286,6 @@
   sound_begin: 156640
   sound_end: 157760
   sentence: 三五郎は、
-  words:
-    - word: 三五郎
-      position: 0
-    - word: は
-      position: 3
 - id: Kodomoni Baketa Kitsune-f000038
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1123,24 +294,6 @@
   sound_begin: 157760
   sound_end: 160339
   sentence: もう我慢が出来なくなつて
-  words:
-    - word: もう
-      position: 0
-    - word: 我慢
-      position: 2
-    - word: が
-      position: 4
-    - word: 出来
-      base: 出来る
-      position: 5
-    - word: なく
-      base: ない
-      position: 7
-    - word: なつ
-      base: 成る
-      position: 9
-    - word: て
-      position: 11
 - id: Kodomoni Baketa Kitsune-f000039
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1149,14 +302,6 @@
   sound_begin: 160339
   sound_end: 162625
   sentence: 『この狐め』
-  words:
-    - word: この
-      base: 此の
-      position: 1
-    - word: 狐
-      position: 3
-    - word: め
-      position: 4
 - id: Kodomoni Baketa Kitsune-f000040
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1165,23 +310,6 @@
   sound_begin: 162625
   sound_end: 166055
   sentence: と馬からとび下りますと、
-  words:
-    - word: と
-      position: 0
-    - word: 馬
-      position: 1
-    - word: から
-      position: 2
-    - word: とび
-      base: 飛ぶ
-      position: 4
-    - word: 下り
-      base: 下りる
-      position: 6
-    - word: ます
-      position: 8
-    - word: と
-      position: 10
 - id: Kodomoni Baketa Kitsune-f000041
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1190,31 +318,6 @@
   sound_begin: 166055
   sound_end: 169978
   sentence: そこはどぶどぶした泥田の中で、
-  words:
-    - word: そこ
-      base: 其処
-      position: 0
-    - word: は
-      position: 2
-    - word: どぶ
-      base: 溝
-      position: 3
-    - word: どぶ
-      base: 溝
-      position: 5
-    - word: し
-      base: 為る
-      position: 7
-    - word: た
-      position: 8
-    - word: 泥田
-      position: 9
-    - word: の
-      position: 11
-    - word: 中
-      position: 12
-    - word: で
-      position: 13
 - id: Kodomoni Baketa Kitsune-f000042
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1223,47 +326,6 @@
   sound_begin: 169978
   sound_end: 175306
   sentence: どこまでもどこまでも身体が泥の中へもぐつて行きました。
-  words:
-    - word: どこ
-      position: 0
-    - word: まで
-      position: 2
-    - word: も
-      position: 4
-    - word: どこ
-      position: 5
-    - word: まで
-      position: 7
-    - word: も
-      position: 9
-    - word: 身体
-      position: 10
-    - word: が
-      position: 12
-    - word: 泥
-      position: 13
-    - word: の
-      position: 14
-    - word: 中
-      position: 15
-    - word: へ
-      position: 16
-    - word: もぐ
-      base: 捥ぐ
-      position: 17
-    - word: つ
-      base: つう
-      position: 19
-    - word: て
-      position: 20
-    - word: 行き
-      base: 行く
-      position: 21
-    - word: まし
-      base: ます
-      position: 23
-    - word: た
-      position: 25
 - id: Kodomoni Baketa Kitsune-f000043
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1272,16 +334,6 @@
   sound_begin: 177500
   sound_end: 179040
   sentence: これは大変だ、
-  words:
-    - word: これ
-      base: 此れ
-      position: 0
-    - word: は
-      position: 2
-    - word: 大変
-      position: 3
-    - word: だ
-      position: 5
 - id: Kodomoni Baketa Kitsune-f000044
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1290,24 +342,6 @@
   sound_begin: 179040
   sound_end: 180760
   sentence: どうかしてあがらうと、
-  words:
-    - word: どう
-      position: 0
-    - word: か
-      position: 2
-    - word: し
-      base: 為る
-      position: 3
-    - word: て
-      position: 4
-    - word: あがら
-      base: 上がる
-      position: 5
-    - word: う
-      base: うー
-      position: 8
-    - word: と
-      position: 9
 - id: Kodomoni Baketa Kitsune-f000045
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1316,36 +350,6 @@
   sound_begin: 180760
   sound_end: 184800
   sentence: あせればあせるほどだんだんもぐつてしまひました。
-  words:
-    - word: あせれ
-      base: 焦る
-      position: 0
-    - word: ば
-      position: 3
-    - word: あせる
-      base: 焦る
-      position: 4
-    - word: ほど
-      position: 7
-    - word: だんだん
-      base: 段々
-      position: 9
-    - word: もぐ
-      base: 捥ぐ
-      position: 13
-    - word: つ
-      base: つう
-      position: 15
-    - word: て
-      position: 16
-    - word: しまひ
-      base: 仕舞う
-      position: 17
-    - word: まし
-      base: ます
-      position: 20
-    - word: た
-      position: 22
 - id: Kodomoni Baketa Kitsune-f000046
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1354,26 +358,6 @@
   sound_begin: 188200
   sound_end: 191040
   sentence: やうやく足が届いたと思ふと、
-  words:
-    - word: やうやく
-      base: 漸く
-      position: 0
-    - word: 足
-      position: 4
-    - word: が
-      position: 5
-    - word: 届い
-      base: 届く
-      position: 6
-    - word: た
-      position: 8
-    - word: と
-      position: 9
-    - word: 思ふ
-      base: 思う
-      position: 10
-    - word: と
-      position: 12
 - id: Kodomoni Baketa Kitsune-f000047
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1382,12 +366,6 @@
   sound_begin: 191040
   sound_end: 192440
   sentence: そこは、
-  words:
-    - word: そこ
-      base: 其処
-      position: 0
-    - word: は
-      position: 2
 - id: Kodomoni Baketa Kitsune-f000048
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1396,29 +374,6 @@
   sound_begin: 192440
   sound_end: 198874
   sentence: 広い広い河原の中でありました。
-  words:
-    - word: 広い
-      position: 0
-    - word: 広い
-      position: 2
-    - word: 河原
-      base: 川原
-      position: 4
-    - word: の
-      position: 6
-    - word: 中
-      position: 7
-    - word: で
-      base: だ
-      position: 8
-    - word: あり
-      base: 有る
-      position: 9
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
 - id: Kodomoni Baketa Kitsune-f000049
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1427,11 +382,6 @@
   sound_begin: 198874
   sound_end: 199560
   sentence: 河原は、
-  words:
-    - word: 河原
-      position: 0
-    - word: は
-      position: 2
 - id: Kodomoni Baketa Kitsune-f000050
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1440,21 +390,6 @@
   sound_begin: 199560
   sound_end: 201280
   sentence: まだ日が暮れずに、
-  words:
-    - word: まだ
-      base: 未だ
-      position: 0
-    - word: 日
-      position: 2
-    - word: が
-      position: 3
-    - word: 暮れ
-      base: 暮れる
-      position: 4
-    - word: ず
-      position: 6
-    - word: に
-      position: 7
 - id: Kodomoni Baketa Kitsune-f000051
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1463,38 +398,6 @@
   sound_begin: 201280
   sound_end: 205240
   sentence: 西の方が夕焼で赤くなつてゐましたが、
-  words:
-    - word: 西
-      position: 0
-    - word: の
-      position: 1
-    - word: 方
-      position: 2
-    - word: が
-      position: 3
-    - word: 夕焼
-      base: 夕焼け
-      position: 4
-    - word: で
-      position: 6
-    - word: 赤く
-      base: 赤い
-      position: 7
-    - word: なつ
-      base: 成る
-      position: 9
-    - word: て
-      position: 11
-    - word: ゐ
-      base: 居る
-      position: 12
-    - word: まし
-      base: ます
-      position: 13
-    - word: た
-      position: 15
-    - word: が
-      position: 16
 - id: Kodomoni Baketa Kitsune-f000052
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1503,15 +406,6 @@
   sound_begin: 205240
   sound_end: 207040
   sentence: 空の色も、
-  words:
-    - word: 空
-      position: 0
-    - word: の
-      position: 1
-    - word: 色
-      position: 2
-    - word: も
-      position: 3
 - id: Kodomoni Baketa Kitsune-f000053
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1520,19 +414,6 @@
   sound_begin: 207040
   sound_end: 208360
   sentence: 石の色も草も、
-  words:
-    - word: 石
-      position: 0
-    - word: の
-      position: 1
-    - word: 色
-      position: 2
-    - word: も
-      position: 3
-    - word: 草
-      position: 4
-    - word: も
-      position: 5
 - id: Kodomoni Baketa Kitsune-f000054
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1541,11 +422,6 @@
   sound_begin: 208360
   sound_end: 210160
   sentence: 木も、
-  words:
-    - word: 木
-      position: 0
-    - word: も
-      position: 1
 - id: Kodomoni Baketa Kitsune-f000055
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1554,21 +430,6 @@
   sound_begin: 210160
   sound_end: 212163
   sentence: みんな灰色をした、
-  words:
-    - word: みんな
-      base: 皆
-      position: 0
-    - word: 灰
-      position: 3
-    - word: 色
-      position: 4
-    - word: を
-      position: 5
-    - word: し
-      base: 為る
-      position: 6
-    - word: た
-      position: 7
 - id: Kodomoni Baketa Kitsune-f000056
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1577,14 +438,6 @@
   sound_begin: 212163
   sound_end: 213180
   sentence: この世とは、
-  words:
-    - word: この世
-      base: 此の世
-      position: 0
-    - word: と
-      position: 3
-    - word: は
-      position: 4
 - id: Kodomoni Baketa Kitsune-f000057
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1593,26 +446,6 @@
   sound_begin: 213180
   sound_end: 215080
   sentence: まるつきり違つた国でした。
-  words:
-    - word: まる
-      base: 丸
-      position: 0
-    - word: つ
-      position: 2
-    - word: きり
-      position: 3
-    - word: 違
-      position: 5
-    - word: つた
-      base: 蔦
-      position: 6
-    - word: 国
-      position: 8
-    - word: でし
-      base: です
-      position: 9
-    - word: た
-      position: 11
 - id: Kodomoni Baketa Kitsune-f000058
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1621,14 +454,6 @@
   sound_begin: 217880
   sound_end: 219840
   sentence: 『一体ここは、
-  words:
-    - word: 一体
-      position: 1
-    - word: ここ
-      base: 此処
-      position: 3
-    - word: は
-      position: 5
 - id: Kodomoni Baketa Kitsune-f000059
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1637,23 +462,6 @@
   sound_begin: 219840
   sound_end: 222767
   sentence: なんといふ国だらう、
-  words:
-    - word: なん
-      base: 何
-      position: 0
-    - word: と
-      position: 2
-    - word: いふ
-      base: 言う
-      position: 3
-    - word: 国
-      position: 5
-    - word: だら
-      base: た
-      position: 6
-    - word: う
-      base: うー
-      position: 8
 - id: Kodomoni Baketa Kitsune-f000060
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1662,32 +470,6 @@
   sound_begin: 222767
   sound_end: 227600
   sentence: なんといふ広い河原だらう』と三五郎は、
-  words:
-    - word: なん
-      base: 何
-      position: 0
-    - word: と
-      position: 2
-    - word: いふ
-      base: 言う
-      position: 3
-    - word: 広い
-      position: 5
-    - word: 河原
-      base: 川原
-      position: 7
-    - word: だら
-      base: た
-      position: 9
-    - word: う
-      base: うー
-      position: 11
-    - word: と
-      position: 13
-    - word: 三五郎
-      position: 14
-    - word: は
-      position: 17
 - id: Kodomoni Baketa Kitsune-f000061
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1696,30 +478,6 @@
   sound_begin: 227600
   sound_end: 230298
   sentence: あつけにとられてゐますと、
-  words:
-    - word: あ
-      base: あー
-      position: 0
-    - word: つけ
-      base: 付け
-      position: 1
-    - word: に
-      position: 3
-    - word: とら
-      base: 取る
-      position: 4
-    - word: れ
-      base: れる
-      position: 6
-    - word: て
-      position: 7
-    - word: ゐ
-      base: 居る
-      position: 8
-    - word: ます
-      position: 9
-    - word: と
-      position: 11
 - id: Kodomoni Baketa Kitsune-f000062
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1728,24 +486,6 @@
   sound_begin: 230298
   sound_end: 232825
   sentence: 向ふの方で大勢の子供が、
-  words:
-    - word: 向ふ
-      base: 向こう
-      position: 0
-    - word: の
-      position: 2
-    - word: 方
-      position: 3
-    - word: で
-      position: 4
-    - word: 大勢
-      position: 5
-    - word: の
-      position: 7
-    - word: 子供
-      position: 8
-    - word: が
-      position: 10
 - id: Kodomoni Baketa Kitsune-f000063
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1754,14 +494,6 @@
   sound_begin: 234600
   sound_end: 236840
   sentence: 父さん恋し
-  words:
-    - word: 父さん
-      position: 0
-    - word: 恋
-      position: 3
-    - word: し
-      base: 為る
-      position: 4
 - id: Kodomoni Baketa Kitsune-f000064
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1770,14 +502,6 @@
   sound_begin: 236840
   sound_end: 239840
   sentence: 母さん恋し
-  words:
-    - word: 母さん
-      position: 0
-    - word: 恋
-      position: 3
-    - word: し
-      base: 為る
-      position: 4
 - id: Kodomoni Baketa Kitsune-f000065
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1786,16 +510,6 @@
   sound_begin: 239840
   sound_end: 242720
   sentence: 河原の石は
-  words:
-    - word: 河原
-      base: 川原
-      position: 0
-    - word: の
-      position: 2
-    - word: 石
-      position: 3
-    - word: は
-      position: 4
 - id: Kodomoni Baketa Kitsune-f000066
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1804,12 +518,6 @@
   sound_begin: 242720
   sound_end: 244320
   sentence: 数限りない
-  words:
-    - word: 数
-      position: 0
-    - word: 限りない
-      base: 限り無い
-      position: 1
 - id: Kodomoni Baketa Kitsune-f000067
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1818,11 +526,6 @@
   sound_begin: 244320
   sound_end: 247040
   sentence: チヨン　チヨン
-  words:
-    - word: チヨン
-      position: 0
-    - word: チヨン
-      position: 4
 - id: Kodomoni Baketa Kitsune-f000068
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1831,11 +534,6 @@
   sound_begin: 247040
   sound_end: 250090
   sentence: チヨン　チヨン
-  words:
-    - word: チヨン
-      position: 0
-    - word: チヨン
-      position: 4
 - id: Kodomoni Baketa Kitsune-f000069
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1844,9 +542,6 @@
   sound_begin: 250090
   sound_end: 250918
   sentence: と、
-  words:
-    - word: と
-      position: 0
 - id: Kodomoni Baketa Kitsune-f000070
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1855,19 +550,6 @@
   sound_begin: 250918
   sound_end: 252840
   sentence: 童謡を唄ひながら、
-  words:
-    - word: 童謡
-      position: 0
-    - word: を
-      position: 2
-    - word: 唄
-      base: 歌
-      position: 3
-    - word: ひ
-      base: 干る
-      position: 4
-    - word: ながら
-      position: 5
 - id: Kodomoni Baketa Kitsune-f000071
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1876,21 +558,6 @@
   sound_begin: 252840
   sound_end: 254720
   sentence: 石を運んでは積み、
-  words:
-    - word: 石
-      position: 0
-    - word: を
-      position: 1
-    - word: 運ん
-      base: 運ぶ
-      position: 2
-    - word: で
-      position: 4
-    - word: は
-      position: 5
-    - word: 積み
-      base: 積む
-      position: 6
 - id: Kodomoni Baketa Kitsune-f000072
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1899,17 +566,6 @@
   sound_begin: 254720
   sound_end: 256200
   sentence: 運んでは積み、
-  words:
-    - word: 運ん
-      base: 運ぶ
-      position: 0
-    - word: で
-      position: 2
-    - word: は
-      position: 3
-    - word: 積み
-      base: 積む
-      position: 4
 - id: Kodomoni Baketa Kitsune-f000073
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1918,31 +574,6 @@
   sound_begin: 256200
   sound_end: 258459
   sentence: 一生懸命に石を積んでゐました。
-  words:
-    - word: 一生
-      position: 0
-    - word: 懸命
-      position: 2
-    - word: に
-      base: だ
-      position: 4
-    - word: 石
-      position: 5
-    - word: を
-      position: 6
-    - word: 積ん
-      base: 積む
-      position: 7
-    - word: で
-      position: 9
-    - word: ゐ
-      base: 居る
-      position: 10
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
 - id: Kodomoni Baketa Kitsune-f000074
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1951,26 +582,6 @@
   sound_begin: 260560
   sound_end: 263064
   sentence: 三五郎は子供達のそばへ行つて。
-  words:
-    - word: 三五郎
-      position: 0
-    - word: は
-      position: 3
-    - word: 子供
-      position: 4
-    - word: 達
-      position: 6
-    - word: の
-      position: 7
-    - word: そば
-      position: 8
-    - word: へ
-      position: 10
-    - word: 行つ
-      base: 行う
-      position: 11
-    - word: て
-      position: 13
 - id: Kodomoni Baketa Kitsune-f000075
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -1979,40 +590,6 @@
   sound_begin: 264760
   sound_end: 269850
   sentence: 『モシモシここはなんといふ国だか教へておくれ』
-  words:
-    - word: モシモシ
-      base: もしもし
-      position: 1
-    - word: ここ
-      base: 此処
-      position: 5
-    - word: は
-      position: 7
-    - word: なん
-      base: 何
-      position: 8
-    - word: と
-      position: 10
-    - word: いふ
-      base: 言う
-      position: 11
-    - word: 国
-      position: 13
-    - word: だ
-      position: 14
-    - word: か
-      position: 15
-    - word: 教へ
-      base: 教える
-      position: 16
-    - word: て
-      position: 18
-    - word: お
-      base: 御
-      position: 19
-    - word: くれ
-      base: 呉れる
-      position: 20
 - id: Kodomoni Baketa Kitsune-f000076
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -2021,16 +598,6 @@
   sound_begin: 269850
   sound_end: 271927
   sentence: とたづねますと、
-  words:
-    - word: と
-      position: 0
-    - word: たづね
-      base: 訪ねる
-      position: 1
-    - word: ます
-      position: 4
-    - word: と
-      position: 6
 - id: Kodomoni Baketa Kitsune-f000077
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -2039,17 +606,6 @@
   sound_begin: 271927
   sound_end: 274920
   sentence: 子供達は口々に、
-  words:
-    - word: 子供
-      position: 0
-    - word: 達
-      position: 2
-    - word: は
-      position: 3
-    - word: 口々
-      position: 4
-    - word: に
-      position: 6
 - id: Kodomoni Baketa Kitsune-f000078
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -2058,12 +614,6 @@
   sound_begin: 274920
   sound_end: 276206
   sentence: 『小父さん、
-  words:
-    - word: 小父
-      base: 伯父
-      position: 1
-    - word: さん
-      position: 3
 - id: Kodomoni Baketa Kitsune-f000079
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -2072,21 +622,6 @@
   sound_begin: 276206
   sound_end: 279930
   sentence: ここは三途の河原よ』
-  words:
-    - word: ここ
-      base: 此処
-      position: 0
-    - word: は
-      position: 2
-    - word: 三途
-      position: 3
-    - word: の
-      position: 5
-    - word: 河原
-      base: 川原
-      position: 6
-    - word: よ
-      position: 8
 - id: Kodomoni Baketa Kitsune-f000080
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -2095,17 +630,6 @@
   sound_begin: 279930
   sound_end: 282720
   sentence: と云ひました。
-  words:
-    - word: と
-      position: 0
-    - word: 云ひ
-      base: 言う
-      position: 1
-    - word: まし
-      base: ます
-      position: 3
-    - word: た
-      position: 5
 - id: Kodomoni Baketa Kitsune-f000081
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -2114,41 +638,6 @@
   sound_begin: 282720
   sound_end: 287980
   sentence: 三途の河原と聞いて三五郎はびつくりしてしまひました。
-  words:
-    - word: 三途
-      position: 0
-    - word: の
-      position: 2
-    - word: 河原
-      base: 川原
-      position: 3
-    - word: と
-      position: 5
-    - word: 聞い
-      base: 聞く
-      position: 6
-    - word: て
-      position: 8
-    - word: 三五郎
-      position: 9
-    - word: は
-      position: 12
-    - word: びつくり
-      base: びっくり
-      position: 13
-    - word: し
-      base: 為る
-      position: 17
-    - word: て
-      position: 18
-    - word: しまひ
-      base: 仕舞う
-      position: 19
-    - word: まし
-      base: ます
-      position: 22
-    - word: た
-      position: 24
 - id: Kodomoni Baketa Kitsune-f000082
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -2157,11 +646,6 @@
   sound_begin: 289978
   sound_end: 291525
   sentence: 『己は、
-  words:
-    - word: 己
-      position: 1
-    - word: は
-      position: 2
 - id: Kodomoni Baketa Kitsune-f000083
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -2170,21 +654,6 @@
   sound_begin: 291525
   sound_end: 294614
   sentence: たうとう死んでしまつた、
-  words:
-    - word: た
-      position: 0
-    - word: うとう
-      base: 疎い
-      position: 1
-    - word: 死ん
-      base: 死ぬ
-      position: 4
-    - word: でし
-      position: 6
-    - word: まつ
-      position: 8
-    - word: た
-      position: 10
 - id: Kodomoni Baketa Kitsune-f000084
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -2193,33 +662,6 @@
   sound_begin: 294614
   sound_end: 298641
   sentence: なんといふ情ないことになつただらう。
-  words:
-    - word: なん
-      base: 何
-      position: 0
-    - word: と
-      position: 2
-    - word: いふ
-      base: 言う
-      position: 3
-    - word: 情ない
-      base: 情けない
-      position: 5
-    - word: こと
-      position: 8
-    - word: に
-      position: 10
-    - word: なつ
-      base: 成る
-      position: 11
-    - word: た
-      position: 13
-    - word: だら
-      base: た
-      position: 14
-    - word: う
-      base: うう
-      position: 16
 - id: Kodomoni Baketa Kitsune-f000085
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -2228,38 +670,6 @@
   sound_begin: 298641
   sound_end: 304480
   sentence: 道理で今までの世の中とはまるつきり違つてゐる、
-  words:
-    - word: 道理
-      position: 0
-    - word: で
-      position: 2
-    - word: 今
-      position: 3
-    - word: まで
-      position: 4
-    - word: の
-      position: 6
-    - word: 世の中
-      position: 7
-    - word: と
-      position: 10
-    - word: はまる
-      base: 嵌まる
-      position: 11
-    - word: つ
-      position: 14
-    - word: きり
-      position: 15
-    - word: 違
-      position: 17
-    - word: つ
-      base: つう
-      position: 18
-    - word: て
-      position: 19
-    - word: ゐる
-      base: 居る
-      position: 20
 - id: Kodomoni Baketa Kitsune-f000086
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -2268,24 +678,6 @@
   sound_begin: 304480
   sound_end: 307515
   sentence: どうしたらいいだらう』
-  words:
-    - word: どう
-      position: 0
-    - word: し
-      base: 為る
-      position: 2
-    - word: たら
-      base: た
-      position: 3
-    - word: いい
-      base: 良い
-      position: 5
-    - word: だら
-      base: た
-      position: 7
-    - word: う
-      base: うー
-      position: 9
 - id: Kodomoni Baketa Kitsune-f000087
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -2294,29 +686,6 @@
   sound_begin: 307515
   sound_end: 310105
   sentence: と悲しくなつて考へてゐますと、
-  words:
-    - word: と
-      position: 0
-    - word: 悲しく
-      base: 悲しい
-      position: 1
-    - word: なつ
-      base: 成る
-      position: 4
-    - word: て
-      position: 6
-    - word: 考へ
-      base: 考える
-      position: 7
-    - word: て
-      position: 9
-    - word: ゐ
-      base: 居る
-      position: 10
-    - word: ます
-      position: 11
-    - word: と
-      position: 13
 - id: Kodomoni Baketa Kitsune-f000088
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -2325,13 +694,6 @@
   sound_begin: 310105
   sound_end: 312440
   sentence: 子供達は、
-  words:
-    - word: 子供
-      position: 0
-    - word: 達
-      position: 2
-    - word: は
-      position: 3
 - id: Kodomoni Baketa Kitsune-f000089
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -2340,20 +702,6 @@
   sound_begin: 312440
   sound_end: 316400
   sentence: 『小父さん赤鬼が来るよ。
-  words:
-    - word: 小父
-      base: 伯父
-      position: 1
-    - word: さん
-      position: 3
-    - word: 赤鬼
-      position: 5
-    - word: が
-      position: 7
-    - word: 来る
-      position: 8
-    - word: よ
-      position: 10
 - id: Kodomoni Baketa Kitsune-f000090
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -2362,17 +710,6 @@
   sound_begin: 316400
   sound_end: 318307
   sentence: 目つかつてごらん、
-  words:
-    - word: 目
-      position: 0
-    - word: つ
-      position: 1
-    - word: かつて
-      base: 嘗て
-      position: 2
-    - word: ごらん
-      base: 御覧
-      position: 5
 - id: Kodomoni Baketa Kitsune-f000091
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -2381,19 +718,6 @@
   sound_begin: 318307
   sound_end: 321040
   sentence: ひどい目に逢ふから。
-  words:
-    - word: ひどい
-      base: 酷い
-      position: 0
-    - word: 目
-      position: 3
-    - word: に
-      position: 4
-    - word: 逢ふ
-      base: 会う
-      position: 5
-    - word: から
-      position: 7
 - id: Kodomoni Baketa Kitsune-f000092
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -2402,27 +726,6 @@
   sound_begin: 321040
   sound_end: 324475
   sentence: 早くどつかへ隠れておいで』
-  words:
-    - word: 早く
-      base: 早い
-      position: 0
-    - word: ど
-      position: 2
-    - word: つか
-      position: 3
-    - word: へ
-      position: 5
-    - word: 隠れ
-      base: 隠れる
-      position: 6
-    - word: て
-      position: 8
-    - word: お
-      base: 御
-      position: 9
-    - word: いで
-      base: 出る
-      position: 10
 - id: Kodomoni Baketa Kitsune-f000093
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -2431,27 +734,6 @@
   sound_begin: 324475
   sound_end: 328680
   sentence: と親切に云つてくれました。
-  words:
-    - word: と
-      position: 0
-    - word: 親切
-      position: 1
-    - word: に
-      base: だ
-      position: 3
-    - word: 云つ
-      base: 言う
-      position: 4
-    - word: て
-      position: 6
-    - word: くれ
-      base: 呉れる
-      position: 7
-    - word: まし
-      base: ます
-      position: 9
-    - word: た
-      position: 11
 - id: Kodomoni Baketa Kitsune-f000094
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -2460,23 +742,6 @@
   sound_begin: 328680
   sound_end: 330840
   sentence: 三五郎は隠れようとしても、
-  words:
-    - word: 三五郎
-      position: 0
-    - word: は
-      position: 3
-    - word: 隠れよう
-      base: 隠れる
-      position: 4
-    - word: と
-      position: 8
-    - word: し
-      base: 為る
-      position: 9
-    - word: て
-      position: 10
-    - word: も
-      position: 11
 - id: Kodomoni Baketa Kitsune-f000095
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -2485,19 +750,6 @@
   sound_begin: 330840
   sound_end: 332708
   sentence: 広い河原のことで、
-  words:
-    - word: 広い
-      position: 0
-    - word: 河原
-      base: 川原
-      position: 2
-    - word: の
-      position: 4
-    - word: こと
-      position: 5
-    - word: で
-      base: だ
-      position: 7
 - id: Kodomoni Baketa Kitsune-f000096
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -2506,28 +758,6 @@
   sound_begin: 332708
   sound_end: 334900
   sentence: 隠れ場所がありませんでした。
-  words:
-    - word: 隠れ
-      base: 隠れる
-      position: 0
-    - word: 場所
-      position: 2
-    - word: が
-      position: 4
-    - word: あり
-      base: 有る
-      position: 5
-    - word: ませ
-      base: ます
-      position: 7
-    - word: ん
-      base: ず
-      position: 9
-    - word: でし
-      base: です
-      position: 10
-    - word: た
-      position: 12
 - id: Kodomoni Baketa Kitsune-f000097
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -2536,22 +766,6 @@
   sound_begin: 337000
   sound_end: 338880
   sentence: うろうろしてゐるうちに、
-  words:
-    - word: うろうろ
-      position: 0
-    - word: し
-      base: 為る
-      position: 4
-    - word: て
-      position: 5
-    - word: ゐる
-      base: 居る
-      position: 6
-    - word: うち
-      base: 内
-      position: 8
-    - word: に
-      position: 10
 - id: Kodomoni Baketa Kitsune-f000098
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -2560,48 +774,6 @@
   sound_begin: 338880
   sound_end: 345966
   sentence: もう赤鬼は大な鉄の棒をついて向ふからやつて来ました。
-  words:
-    - word: もう
-      position: 0
-    - word: 赤鬼
-      position: 2
-    - word: は
-      position: 4
-    - word: 大な
-      base: 大きな
-      position: 5
-    - word: 鉄
-      position: 7
-    - word: の
-      position: 8
-    - word: 棒
-      position: 9
-    - word: を
-      position: 10
-    - word: つい
-      base: つく
-      position: 11
-    - word: て
-      position: 13
-    - word: 向ふ
-      base: 向こう
-      position: 14
-    - word: から
-      position: 16
-    - word: やつ
-      base: 奴
-      position: 18
-    - word: て
-      base: って
-      position: 20
-    - word: 来
-      base: 来る
-      position: 21
-    - word: まし
-      base: ます
-      position: 22
-    - word: た
-      position: 24
 - id: Kodomoni Baketa Kitsune-f000099
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -2610,11 +782,6 @@
   sound_begin: 345966
   sound_end: 347287
   sentence: 赤鬼は、
-  words:
-    - word: 赤鬼
-      position: 0
-    - word: は
-      position: 2
 - id: Kodomoni Baketa Kitsune-f000100
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -2623,24 +790,6 @@
   sound_begin: 347287
   sound_end: 349521
   sentence: それはそれは大きな声で、
-  words:
-    - word: それ
-      base: 其れ
-      position: 0
-    - word: は
-      position: 2
-    - word: それ
-      base: 其れ
-      position: 3
-    - word: は
-      position: 5
-    - word: 大きな
-      position: 6
-    - word: 声
-      position: 9
-    - word: で
-      base: だ
-      position: 10
 - id: Kodomoni Baketa Kitsune-f000101
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -2649,25 +798,6 @@
   sound_begin: 350920
   sound_end: 355783
   sentence: 『コラコラ逃げても駄目だぞツ』
-  words:
-    - word: コラコラ
-      position: 1
-    - word: 逃げ
-      base: 逃げる
-      position: 5
-    - word: て
-      position: 7
-    - word: も
-      position: 8
-    - word: 駄目
-      position: 9
-    - word: だ
-      position: 11
-    - word: ぞ
-      position: 12
-    - word: ツ
-      base: つ
-      position: 13
 - id: Kodomoni Baketa Kitsune-f000102
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -2676,24 +806,6 @@
   sound_begin: 355783
   sound_end: 357800
   sentence: と怒鳴りながら駈けて来て、
-  words:
-    - word: と
-      position: 0
-    - word: 怒鳴り
-      base: 怒鳴る
-      position: 1
-    - word: ながら
-      position: 4
-    - word: 駈け
-      base: 駆ける
-      position: 7
-    - word: て
-      position: 9
-    - word: 来
-      base: 来る
-      position: 10
-    - word: て
-      position: 11
 - id: Kodomoni Baketa Kitsune-f000103
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -2702,11 +814,6 @@
   sound_begin: 357800
   sound_end: 358463
   sentence: ギユツと、
-  words:
-    - word: ギユツ
-      position: 0
-    - word: と
-      position: 3
 - id: Kodomoni Baketa Kitsune-f000104
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -2715,17 +822,6 @@
   sound_begin: 358463
   sound_end: 361158
   sentence: 襟頸を捉んで、
-  words:
-    - word: 襟頸
-      base: 襟首
-      position: 0
-    - word: を
-      position: 2
-    - word: 捉
-      position: 3
-    - word: んで
-      base: で
-      position: 4
 - id: Kodomoni Baketa Kitsune-f000105
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -2734,12 +830,6 @@
   sound_begin: 361158
   sound_end: 362511
   sentence: 『お前は、
-  words:
-    - word: お前
-      base: 御前
-      position: 1
-    - word: は
-      position: 3
 - id: Kodomoni Baketa Kitsune-f000106
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -2748,33 +838,6 @@
   sound_begin: 362511
   sound_end: 365680
   sentence: 泣いてゐた子供をいたはらずに、
-  words:
-    - word: 泣い
-      base: 泣く
-      position: 0
-    - word: て
-      position: 2
-    - word: ゐ
-      base: 居る
-      position: 3
-    - word: た
-      position: 4
-    - word: 子供
-      position: 5
-    - word: を
-      position: 7
-    - word: い
-      base: 居る
-      position: 8
-    - word: た
-      position: 9
-    - word: はら
-      base: 張る
-      position: 10
-    - word: ず
-      position: 12
-    - word: に
-      position: 13
 - id: Kodomoni Baketa Kitsune-f000107
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -2783,31 +846,6 @@
   sound_begin: 365680
   sound_end: 369911
   sentence: 馬へ乗つて逃ようとしたな』
-  words:
-    - word: 馬
-      position: 0
-    - word: へ
-      position: 1
-    - word: 乗
-      base: 乗り
-      position: 2
-    - word: つ
-      position: 3
-    - word: て
-      base: って
-      position: 4
-    - word: 逃よう
-      base: 逃げる
-      position: 5
-    - word: と
-      position: 8
-    - word: し
-      base: 為る
-      position: 9
-    - word: た
-      position: 10
-    - word: な
-      position: 11
 - id: Kodomoni Baketa Kitsune-f000108
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -2816,37 +854,6 @@
   sound_begin: 369911
   sound_end: 376320
   sentence: と力一杯にグーウンと三五郎を抛り投げました。
-  words:
-    - word: と
-      position: 0
-    - word: 力
-      position: 1
-    - word: 一杯
-      position: 2
-    - word: に
-      base: だ
-      position: 4
-    - word: グー
-      base: ぐう
-      position: 5
-    - word: ウンと
-      base: うんと
-      position: 7
-    - word: 三五郎
-      position: 10
-    - word: を
-      position: 13
-    - word: 抛り
-      base: 放る
-      position: 14
-    - word: 投げ
-      base: 投げる
-      position: 16
-    - word: まし
-      base: ます
-      position: 18
-    - word: た
-      position: 20
 - id: Kodomoni Baketa Kitsune-f000109
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -2855,41 +862,6 @@
   sound_begin: 376320
   sound_end: 380400
   sentence: 三五郎は毬でも投げるやうに投げられてしまひました。
-  words:
-    - word: 三五郎
-      position: 0
-    - word: は
-      position: 3
-    - word: 毬
-      position: 4
-    - word: で
-      position: 5
-    - word: も
-      position: 6
-    - word: 投げる
-      position: 7
-    - word: やう
-      base: 様
-      position: 10
-    - word: に
-      base: だ
-      position: 12
-    - word: 投げ
-      base: 投げる
-      position: 13
-    - word: られ
-      base: られる
-      position: 15
-    - word: て
-      position: 17
-    - word: しまひ
-      base: 仕舞う
-      position: 18
-    - word: まし
-      base: ます
-      position: 21
-    - word: た
-      position: 23
 - id: Kodomoni Baketa Kitsune-f000110
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -2898,17 +870,6 @@
   sound_begin: 383200
   sound_end: 385078
   sentence: ややしばらくすると、
-  words:
-    - word: やや
-      position: 0
-    - word: しばらく
-      base: 暫く
-      position: 2
-    - word: する
-      base: 為る
-      position: 6
-    - word: と
-      position: 8
 - id: Kodomoni Baketa Kitsune-f000111
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -2917,25 +878,6 @@
   sound_begin: 385078
   sound_end: 389040
   sentence: ドシーンと地べたへ落ちましたが、
-  words:
-    - word: ドシーン
-      position: 0
-    - word: と
-      position: 4
-    - word: 地べた
-      position: 5
-    - word: へ
-      position: 8
-    - word: 落ち
-      base: 落ちる
-      position: 9
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
-    - word: が
-      position: 14
 - id: Kodomoni Baketa Kitsune-f000112
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -2944,30 +886,6 @@
   sound_begin: 389040
   sound_end: 391640
   sentence: そのまま気絶をしてしまひました。
-  words:
-    - word: その
-      base: 其の
-      position: 0
-    - word: まま
-      base: 侭
-      position: 2
-    - word: 気絶
-      position: 4
-    - word: を
-      position: 6
-    - word: し
-      base: 為る
-      position: 7
-    - word: て
-      position: 8
-    - word: しまひ
-      base: 仕舞う
-      position: 9
-    - word: まし
-      base: ます
-      position: 12
-    - word: た
-      position: 14
 - id: Kodomoni Baketa Kitsune-f000113
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -2976,15 +894,6 @@
   sound_begin: 395240
   sound_end: 398200
   sentence: 三途の川は
-  words:
-    - word: 三途
-      position: 0
-    - word: の
-      position: 2
-    - word: 川
-      position: 3
-    - word: は
-      position: 4
 - id: Kodomoni Baketa Kitsune-f000114
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -2993,16 +902,6 @@
   sound_begin: 398200
   sound_end: 401240
   sentence: 地獄の一丁目
-  words:
-    - word: 地獄
-      position: 0
-    - word: の
-      position: 2
-    - word: 一
-      base: '1'
-      position: 3
-    - word: 丁目
-      position: 4
 - id: Kodomoni Baketa Kitsune-f000115
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -3011,13 +910,6 @@
   sound_begin: 401240
   sound_end: 403640
   sentence: 赤鬼さんに
-  words:
-    - word: 赤鬼
-      position: 0
-    - word: さん
-      position: 2
-    - word: に
-      position: 4
 - id: Kodomoni Baketa Kitsune-f000116
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -3026,18 +918,6 @@
   sound_begin: 403640
   sound_end: 407640
   sentence: 投げられました
-  words:
-    - word: 投げ
-      base: 投げる
-      position: 0
-    - word: られ
-      base: られる
-      position: 2
-    - word: まし
-      base: ます
-      position: 4
-    - word: た
-      position: 6
 - id: Kodomoni Baketa Kitsune-f000117
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -3046,13 +926,6 @@
   sound_begin: 407640
   sound_end: 409800
   sentence: 三五郎さんは
-  words:
-    - word: 三五郎
-      position: 0
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
 - id: Kodomoni Baketa Kitsune-f000118
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -3061,15 +934,6 @@
   sound_begin: 409800
   sound_end: 412400
   sentence: 三途の川の
-  words:
-    - word: 三途
-      position: 0
-    - word: の
-      position: 2
-    - word: 川
-      position: 3
-    - word: の
-      position: 4
 - id: Kodomoni Baketa Kitsune-f000119
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -3078,13 +942,6 @@
   sound_begin: 412400
   sound_end: 414640
   sentence: 赤鬼さんに
-  words:
-    - word: 赤鬼
-      position: 0
-    - word: さん
-      position: 2
-    - word: に
-      position: 4
 - id: Kodomoni Baketa Kitsune-f000120
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -3093,18 +950,6 @@
   sound_begin: 414640
   sound_end: 417886
   sentence: 投げられました
-  words:
-    - word: 投げ
-      base: 投げる
-      position: 0
-    - word: られ
-      base: られる
-      position: 2
-    - word: まし
-      base: ます
-      position: 4
-    - word: た
-      position: 6
 - id: Kodomoni Baketa Kitsune-f000121
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -3113,15 +958,6 @@
   sound_begin: 417886
   sound_end: 420414
   sentence: このこと話そ
-  words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: こと
-      position: 2
-    - word: 話そ
-      base: 話す
-      position: 4
 - id: Kodomoni Baketa Kitsune-f000122
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -3130,15 +966,6 @@
   sound_begin: 420414
   sound_end: 423560
   sentence: このこと聞かそ
-  words:
-    - word: この
-      base: 此の
-      position: 0
-    - word: こと
-      position: 2
-    - word: 聞かそ
-      base: 聞く
-      position: 4
 - id: Kodomoni Baketa Kitsune-f000123
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -3147,13 +974,6 @@
   sound_begin: 423560
   sound_end: 425840
   sentence: 三五郎さんは
-  words:
-    - word: 三五郎
-      position: 0
-    - word: さん
-      position: 3
-    - word: は
-      position: 5
 - id: Kodomoni Baketa Kitsune-f000124
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -3162,18 +982,6 @@
   sound_begin: 425840
   sound_end: 428794
   sentence: 投げられました
-  words:
-    - word: 投げ
-      base: 投げる
-      position: 0
-    - word: られ
-      base: られる
-      position: 2
-    - word: まし
-      base: ます
-      position: 4
-    - word: た
-      position: 6
 - id: Kodomoni Baketa Kitsune-f000125
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -3182,9 +990,6 @@
   sound_begin: 428794
   sound_end: 429760
   sentence: と、
-  words:
-    - word: と
-      position: 0
 - id: Kodomoni Baketa Kitsune-f000126
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -3193,57 +998,6 @@
   sound_begin: 429760
   sound_end: 436680
   sentence: どつかで童謡を唄つてゐる声が微に耳にはいつて来ました。
-  words:
-    - word: ど
-      position: 0
-    - word: つか
-      position: 1
-    - word: で
-      position: 3
-    - word: 童謡
-      position: 4
-    - word: を
-      position: 6
-    - word: 唄
-      base: 歌
-      position: 7
-    - word: つ
-      base: つう
-      position: 8
-    - word: て
-      position: 9
-    - word: ゐる
-      base: 居る
-      position: 10
-    - word: 声
-      position: 12
-    - word: が
-      position: 13
-    - word: 微
-      base: 微か
-      position: 14
-    - word: に
-      base: だ
-      position: 15
-    - word: 耳
-      position: 16
-    - word: に
-      position: 17
-    - word: は
-      position: 18
-    - word: いつ
-      position: 19
-    - word: て
-      base: って
-      position: 21
-    - word: 来
-      base: 来る
-      position: 22
-    - word: まし
-      base: ます
-      position: 23
-    - word: た
-      position: 25
 - id: Kodomoni Baketa Kitsune-f000127
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -3252,40 +1006,6 @@
   sound_begin: 436680
   sound_end: 442010
   sentence: はつと目をあいて見ますとあたりはもう真暗で、
-  words:
-    - word: はつ
-      position: 0
-    - word: と
-      position: 2
-    - word: 目
-      position: 3
-    - word: を
-      position: 4
-    - word: あい
-      base: あく
-      position: 5
-    - word: て
-      position: 7
-    - word: 見
-      base: 見る
-      position: 8
-    - word: ます
-      position: 9
-    - word: と
-      position: 11
-    - word: あたり
-      base: 辺り
-      position: 12
-    - word: は
-      position: 15
-    - word: もう
-      position: 16
-    - word: 真暗
-      base: 真っ暗
-      position: 18
-    - word: で
-      base: だ
-      position: 20
 - id: Kodomoni Baketa Kitsune-f000128
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -3294,17 +1014,6 @@
   sound_begin: 442010
   sound_end: 443440
   sentence: 遠くの方には、
-  words:
-    - word: 遠く
-      position: 0
-    - word: の
-      position: 2
-    - word: 方
-      position: 3
-    - word: に
-      position: 4
-    - word: は
-      position: 5
 - id: Kodomoni Baketa Kitsune-f000129
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -3313,28 +1022,6 @@
   sound_begin: 443440
   sound_end: 448114
   sentence: チラチラ灯も見えてゐました。
-  words:
-    - word: チラチラ
-      base: ちらちら
-      position: 0
-    - word: 灯
-      base: 明かり
-      position: 4
-    - word: も
-      position: 5
-    - word: 見え
-      base: 見える
-      position: 6
-    - word: て
-      position: 8
-    - word: ゐ
-      base: 居る
-      position: 9
-    - word: まし
-      base: ます
-      position: 10
-    - word: た
-      position: 12
 - id: Kodomoni Baketa Kitsune-f000130
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -3343,21 +1030,6 @@
   sound_begin: 448114
   sound_end: 451640
   sentence: 『ここは地獄のどこか知ら』
-  words:
-    - word: ここ
-      base: 此処
-      position: 1
-    - word: は
-      position: 3
-    - word: 地獄
-      position: 4
-    - word: の
-      position: 6
-    - word: どこ
-      position: 7
-    - word: か知ら
-      base: かしら
-      position: 9
 - id: Kodomoni Baketa Kitsune-f000131
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -3366,29 +1038,6 @@
   sound_begin: 451640
   sound_end: 455540
   sentence: と無性に悲しくなつて来ました。
-  words:
-    - word: と
-      position: 0
-    - word: 無性
-      position: 1
-    - word: に
-      position: 3
-    - word: 悲しく
-      base: 悲しい
-      position: 4
-    - word: なつ
-      base: 成る
-      position: 7
-    - word: て
-      position: 9
-    - word: 来
-      base: 来る
-      position: 10
-    - word: まし
-      base: ます
-      position: 11
-    - word: た
-      position: 13
 - id: Kodomoni Baketa Kitsune-f000132
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -3397,12 +1046,6 @@
   sound_begin: 457640
   sound_end: 458450
   sentence: すると、
-  words:
-    - word: する
-      base: 為る
-      position: 0
-    - word: と
-      position: 2
 - id: Kodomoni Baketa Kitsune-f000133
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -3411,12 +1054,6 @@
   sound_begin: 458450
   sound_end: 461634
   sentence: こんどは、
-  words:
-    - word: こんど
-      base: 今度
-      position: 0
-    - word: は
-      position: 3
 - id: Kodomoni Baketa Kitsune-f000134
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -3425,15 +1062,6 @@
   sound_begin: 461634
   sound_end: 464917
   sentence: 大馬鹿　小馬鹿
-  words:
-    - word: 大
-      position: 0
-    - word: 馬鹿
-      position: 1
-    - word: 小
-      position: 4
-    - word: 馬鹿
-      position: 5
 - id: Kodomoni Baketa Kitsune-f000135
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -3442,13 +1070,6 @@
   sound_begin: 464917
   sound_end: 468320
   sentence: 大馬鹿三五郎
-  words:
-    - word: 大
-      position: 0
-    - word: 馬鹿
-      position: 1
-    - word: 三五郎
-      position: 3
 - id: Kodomoni Baketa Kitsune-f000136
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -3457,18 +1078,6 @@
   sound_begin: 468320
   sound_end: 470960
   sentence: お馬の上で
-  words:
-    - word: お
-      base: 御
-      position: 0
-    - word: 馬
-      position: 1
-    - word: の
-      position: 2
-    - word: 上
-      position: 3
-    - word: で
-      position: 4
 - id: Kodomoni Baketa Kitsune-f000137
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -3477,18 +1086,6 @@
   sound_begin: 470960
   sound_end: 473454
   sentence: 何の夢見てる
-  words:
-    - word: 何
-      position: 0
-    - word: の
-      position: 1
-    - word: 夢
-      position: 2
-    - word: 見
-      base: 見る
-      position: 3
-    - word: てる
-      position: 4
 - id: Kodomoni Baketa Kitsune-f000138
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -3497,11 +1094,6 @@
   sound_begin: 473454
   sound_end: 475920
   sentence: トツチン　トツチン
-  words:
-    - word: トツチン
-      position: 0
-    - word: トツチン
-      position: 5
 - id: Kodomoni Baketa Kitsune-f000139
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -3510,9 +1102,6 @@
   sound_begin: 475920
   sound_end: 478720
   sentence: トツチンチン
-  words:
-    - word: トツチンチン
-      position: 0
 - id: Kodomoni Baketa Kitsune-f000140
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -3521,15 +1110,6 @@
   sound_begin: 478720
   sound_end: 480840
   sentence: 大馬鹿　小馬鹿
-  words:
-    - word: 大
-      position: 0
-    - word: 馬鹿
-      position: 1
-    - word: 小
-      position: 4
-    - word: 馬鹿
-      position: 5
 - id: Kodomoni Baketa Kitsune-f000141
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -3538,13 +1118,6 @@
   sound_begin: 480840
   sound_end: 483534
   sentence: 大馬鹿三五郎
-  words:
-    - word: 大
-      position: 0
-    - word: 馬鹿
-      position: 1
-    - word: 三五郎
-      position: 3
 - id: Kodomoni Baketa Kitsune-f000142
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -3553,11 +1126,6 @@
   sound_begin: 483534
   sound_end: 485840
   sentence: トツチン　トツチン
-  words:
-    - word: トツチン
-      position: 0
-    - word: トツチン
-      position: 5
 - id: Kodomoni Baketa Kitsune-f000143
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -3566,9 +1134,6 @@
   sound_begin: 485840
   sound_end: 488726
   sentence: トツチンチン
-  words:
-    - word: トツチンチン
-      position: 0
 - id: Kodomoni Baketa Kitsune-f000144
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -3577,9 +1142,6 @@
   sound_begin: 488726
   sound_end: 489570
   sentence: と、
-  words:
-    - word: と
-      position: 0
 - id: Kodomoni Baketa Kitsune-f000145
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -3588,48 +1150,6 @@
   sound_begin: 489570
   sound_end: 494977
   sentence: 狐の声で童謡を唄ひながら囃立てゐるのが聞えました。
-  words:
-    - word: 狐
-      position: 0
-    - word: の
-      position: 1
-    - word: 声
-      position: 2
-    - word: で
-      position: 3
-    - word: 童謡
-      position: 4
-    - word: を
-      position: 6
-    - word: 唄
-      base: 歌
-      position: 7
-    - word: ひ
-      base: 干る
-      position: 8
-    - word: ながら
-      position: 9
-    - word: 囃
-      base: 囃す
-      position: 12
-    - word: 立て
-      base: 立つ
-      position: 13
-    - word: ゐる
-      base: 居る
-      position: 15
-    - word: の
-      position: 17
-    - word: が
-      position: 18
-    - word: 聞え
-      base: 聞こえる
-      position: 19
-    - word: まし
-      base: ます
-      position: 21
-    - word: た
-      position: 23
 - id: Kodomoni Baketa Kitsune-f000146
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -3638,25 +1158,6 @@
   sound_begin: 497080
   sound_end: 499680
   sentence: 初めて気がついてみますと、
-  words:
-    - word: 初めて
-      position: 0
-    - word: 気
-      position: 3
-    - word: が
-      position: 4
-    - word: つい
-      base: 付く
-      position: 5
-    - word: て
-      position: 7
-    - word: み
-      base: 見る
-      position: 8
-    - word: ます
-      position: 9
-    - word: と
-      position: 11
 - id: Kodomoni Baketa Kitsune-f000147
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -3665,46 +1166,6 @@
   sound_begin: 499680
   sound_end: 506923
   sentence: 三五郎は馬に乗つたままで元の所にゐたのでした。
-  words:
-    - word: 三五郎
-      position: 0
-    - word: は
-      position: 3
-    - word: 馬
-      position: 4
-    - word: に
-      position: 5
-    - word: 乗
-      base: 乗り
-      position: 6
-    - word: つた
-      base: 蔦
-      position: 7
-    - word: まま
-      base: 侭
-      position: 9
-    - word: で
-      position: 11
-    - word: 元
-      position: 12
-    - word: の
-      position: 13
-    - word: 所
-      position: 14
-    - word: に
-      position: 15
-    - word: ゐ
-      base: 居る
-      position: 16
-    - word: た
-      position: 17
-    - word: の
-      position: 18
-    - word: でし
-      base: です
-      position: 19
-    - word: た
-      position: 21
 - id: Kodomoni Baketa Kitsune-f000148
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -3713,11 +1174,6 @@
   sound_begin: 506923
   sound_end: 508570
   sentence: 三五郎は、
-  words:
-    - word: 三五郎
-      position: 0
-    - word: は
-      position: 3
 - id: Kodomoni Baketa Kitsune-f000149
   author_japanese: 野口 雨情
   deck_name: Kodomoni Baketa Kitsune
@@ -3726,31 +1182,3 @@
   sound_begin: 508570
   sound_end: 514100
   sentence: やつぱり狐にだまされてしまつたのでした。
-  words:
-    - word: やつぱり
-      base: 矢張り
-      position: 0
-    - word: 狐
-      position: 4
-    - word: に
-      position: 5
-    - word: だまさ
-      base: 騙す
-      position: 6
-    - word: れ
-      base: れる
-      position: 9
-    - word: て
-      position: 10
-    - word: しまつ
-      base: 仕舞う
-      position: 11
-    - word: た
-      position: 14
-    - word: の
-      position: 15
-    - word: でし
-      base: です
-      position: 16
-    - word: た
-      position: 18

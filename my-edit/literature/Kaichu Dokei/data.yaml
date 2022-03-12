@@ -6,11 +6,6 @@
   sound_begin: 5000
   sound_end: 10200
   sentence: 懐中時計
-  words:
-    - word: 懐中
-      position: 0
-    - word: 時計
-      position: 2
 - id: Kaichu Dokei-f000003
   author_japanese: 夢野 久作
   deck_name: Kaichu Dokei
@@ -19,48 +14,6 @@
   sound_begin: 10200
   sound_end: 19240
   sentence: 懐中時計が箪笥の向う側へ落ちて一人でチクタクと動いておりました。
-  words:
-    - word: 懐中
-      position: 0
-    - word: 時計
-      position: 2
-    - word: が
-      position: 4
-    - word: 箪笥
-      position: 5
-    - word: の
-      position: 7
-    - word: 向う側
-      base: 向こう側
-      position: 8
-    - word: へ
-      position: 11
-    - word: 落ち
-      base: 落ちる
-      position: 12
-    - word: て
-      position: 14
-    - word: 一人
-      position: 15
-    - word: で
-      position: 17
-    - word: チクタク
-      position: 18
-    - word: と
-      position: 22
-    - word: 動い
-      base: 動く
-      position: 23
-    - word: て
-      position: 25
-    - word: おり
-      base: おる
-      position: 26
-    - word: まし
-      base: ます
-      position: 28
-    - word: た
-      position: 30
 - id: Kaichu Dokei-f000004
   author_japanese: 夢野 久作
   deck_name: Kaichu Dokei
@@ -69,24 +22,6 @@
   sound_begin: 19240
   sound_end: 23120
   sentence: 鼠が見つけて笑いました。
-  words:
-    - word: 鼠
-      position: 0
-    - word: が
-      position: 1
-    - word: 見つけ
-      base: 見付ける
-      position: 2
-    - word: て
-      position: 5
-    - word: 笑い
-      base: 笑う
-      position: 6
-    - word: まし
-      base: ます
-      position: 8
-    - word: た
-      position: 10
 - id: Kaichu Dokei-f000005
   author_japanese: 夢野 久作
   deck_name: Kaichu Dokei
@@ -95,14 +30,6 @@
   sound_begin: 23120
   sound_end: 24640
   sentence: 「馬鹿だなあ。
-  words:
-    - word: 馬鹿
-      position: 1
-    - word: だ
-      position: 3
-    - word: なあ
-      base: な
-      position: 4
 - id: Kaichu Dokei-f000006
   author_japanese: 夢野 久作
   deck_name: Kaichu Dokei
@@ -111,24 +38,6 @@
   sound_begin: 24640
   sound_end: 26880
   sentence: 誰も見る者はないのに、
-  words:
-    - word: 誰
-      position: 0
-    - word: も
-      position: 1
-    - word: 見る
-      position: 2
-    - word: 者
-      position: 4
-    - word: は
-      position: 5
-    - word: ない
-      base: 無い
-      position: 6
-    - word: の
-      position: 8
-    - word: に
-      position: 9
 - id: Kaichu Dokei-f000007
   author_japanese: 夢野 久作
   deck_name: Kaichu Dokei
@@ -137,28 +46,6 @@
   sound_begin: 26880
   sound_end: 28860
   sentence: 何だって動いているんだえ」
-  words:
-    - word: 何
-      position: 0
-    - word: だ
-      position: 1
-    - word: って
-      position: 2
-    - word: 動い
-      base: 動く
-      position: 4
-    - word: て
-      position: 6
-    - word: いる
-      base: 居る
-      position: 7
-    - word: ん
-      base: の
-      position: 9
-    - word: だ
-      position: 10
-    - word: え
-      position: 11
 - id: Kaichu Dokei-f000008
   author_japanese: 夢野 久作
   deck_name: Kaichu Dokei
@@ -167,32 +54,6 @@
   sound_begin: 30960
   sound_end: 34640
   sentence: 「人の見ない時でも動いているから、
-  words:
-    - word: 人
-      position: 1
-    - word: の
-      position: 2
-    - word: 見
-      base: 見る
-      position: 3
-    - word: ない
-      position: 4
-    - word: 時
-      position: 6
-    - word: で
-      position: 7
-    - word: も
-      position: 8
-    - word: 動い
-      base: 動く
-      position: 9
-    - word: て
-      position: 11
-    - word: いる
-      base: 居る
-      position: 12
-    - word: から
-      position: 14
 - id: Kaichu Dokei-f000009
   author_japanese: 夢野 久作
   deck_name: Kaichu Dokei
@@ -201,29 +62,6 @@
   sound_begin: 34640
   sound_end: 36920
   sentence: いつ見られても役に立つのさ」
-  words:
-    - word: いつ
-      position: 0
-    - word: 見
-      base: 見る
-      position: 2
-    - word: られ
-      base: られる
-      position: 3
-    - word: て
-      position: 5
-    - word: も
-      position: 6
-    - word: 役
-      position: 7
-    - word: に
-      position: 8
-    - word: 立つ
-      position: 9
-    - word: の
-      position: 11
-    - word: さ
-      position: 12
 - id: Kaichu Dokei-f000010
   author_japanese: 夢野 久作
   deck_name: Kaichu Dokei
@@ -232,23 +70,6 @@
   sound_begin: 36920
   sound_end: 41060
   sentence: と懐中時計は答えました。
-  words:
-    - word: と
-      position: 0
-    - word: 懐中
-      position: 1
-    - word: 時計
-      position: 3
-    - word: は
-      position: 5
-    - word: 答え
-      base: 答える
-      position: 6
-    - word: まし
-      base: ます
-      position: 8
-    - word: た
-      position: 10
 - id: Kaichu Dokei-f000011
   author_japanese: 夢野 久作
   deck_name: Kaichu Dokei
@@ -257,22 +78,6 @@
   sound_begin: 43160
   sound_end: 46023
   sentence: 「人の見ない時だけか、
-  words:
-    - word: 人
-      position: 1
-    - word: の
-      position: 2
-    - word: 見
-      base: 見る
-      position: 3
-    - word: ない
-      position: 4
-    - word: 時
-      position: 6
-    - word: だけ
-      position: 7
-    - word: か
-      position: 9
 - id: Kaichu Dokei-f000012
   author_japanese: 夢野 久作
   deck_name: Kaichu Dokei
@@ -281,52 +86,6 @@
   sound_begin: 46023
   sound_end: 56427
   sentence: 又は人が見ている時だけに働いているものはどちらも泥棒だよ」
-  words:
-    - word: 又
-      position: 0
-    - word: は
-      position: 1
-    - word: 人
-      position: 2
-    - word: が
-      position: 3
-    - word: 見
-      base: 見る
-      position: 4
-    - word: て
-      position: 5
-    - word: いる
-      base: 居る
-      position: 6
-    - word: 時
-      position: 8
-    - word: だけ
-      position: 9
-    - word: に
-      position: 11
-    - word: 働い
-      base: 働く
-      position: 12
-    - word: て
-      position: 14
-    - word: いる
-      base: 居る
-      position: 15
-    - word: もの
-      base: 物
-      position: 17
-    - word: は
-      position: 19
-    - word: どちら
-      position: 20
-    - word: も
-      position: 23
-    - word: 泥棒
-      position: 24
-    - word: だ
-      position: 26
-    - word: よ
-      position: 27
 - id: Kaichu Dokei-f000013
   author_japanese: 夢野 久作
   deck_name: Kaichu Dokei
@@ -335,34 +94,3 @@
   sound_begin: 56427
   sound_end: 61900
   sentence: 鼠は恥かしくなってコソコソと逃げて行きました。
-  words:
-    - word: 鼠
-      position: 0
-    - word: は
-      position: 1
-    - word: 恥かしく
-      base: 恥ずかしい
-      position: 2
-    - word: なっ
-      base: 成る
-      position: 6
-    - word: て
-      position: 8
-    - word: コソコソ
-      base: こそこそ
-      position: 9
-    - word: と
-      position: 13
-    - word: 逃げ
-      base: 逃げる
-      position: 14
-    - word: て
-      position: 16
-    - word: 行き
-      base: 行く
-      position: 17
-    - word: まし
-      base: ます
-      position: 19
-    - word: た
-      position: 21
